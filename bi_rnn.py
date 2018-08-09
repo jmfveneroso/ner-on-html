@@ -2,12 +2,8 @@ import sys
 import math
 import numpy as np
 
-# HIDDEN STATES = ['H', 'C'] 
-# FEATURES = ['1', '2', '3'] 
-
 labels       = np.array([1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1])
 observations = np.array([1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 1, 1, 1])
-
 t = len(observations)
 
 def one_hot(target, num_classes):
@@ -33,30 +29,25 @@ class RNN():
     self.n_a = n_a
     self.t   = t
 
-    np.random.seed(2)
+    np.random.seed(5)
     self.Waa = np.random.randn(n_a, n_a)
     self.Wax = np.random.randn(n_a, n_x)
     self.ba  = np.random.randn(n_a, 1  )
 
   def rnn_cell_forward(self, xt, a_prev):
     a_next = np.tanh(np.dot(self.Wax, xt) + np.dot(self.Waa, a_prev) + self.ba)
-    # yt_pred = softmax(np.dot(self.Wya, a_next) + self.by)
   
     cache = (a_prev, a_next, xt) # For backpropagation.
-    # return a_next, yt_pred, cache
     return a_next, cache
 
   def rnn_forward(self, x):
     a_next = np.zeros((self.n_a, 1))
-    # y_pred = np.zeros((self.n_y, self.t))
     a = np.zeros((self.n_a, self.t))
     caches = []
   
     for i in range(t):
       xt = x[:,i,np.newaxis]
       a_next, cache = self.rnn_cell_forward(xt, a_next)
-      # a_next, yt_pred, cache = self.rnn_cell_forward(xt, a_next)
-      # y_pred[:,i] = np.ravel(yt_pred)
       a[:,i] = np.ravel(a_next)
       caches.append(cache)
   
@@ -100,23 +91,56 @@ class BiRNN():
     np.random.seed(3)
     self.Wya = np.random.randn(n_y, n_a + n_a)
     self.by  = np.random.randn(n_y, 1  )
-    self.f_rnn  = RNN(3, 2, 2, t)
-    self.b_rnn = RNN(3, 2, 2, t)
+    self.f_rnn = RNN(n_x, n_y, n_a, t)
+    self.b_rnn = RNN(n_x, n_y, n_a, t)
+
+    self.caches1 = None
+    self.caches2 = None
+    self.concat  = None
+    self.X = None
+    self.y_pred = None
+
+  def set_input(self, X):
+    self.X = X
+
+  def propagate(self):
+    a1, self.caches1 = self.f_rnn.rnn_forward(self.X)
+    a2, self.caches2 = self.b_rnn.rnn_forward(np.flip(self.X, 1))
+
+    self.concat = np.zeros((self.n_a + self.n_a, self.t))
+    self.concat[:self.n_a,:] = a1
+    self.concat[self.n_a:,:] = a2
+
+    self.y_pred = softmax(np.dot(self.Wya, self.concat) + self.by)
+    return self.y_pred
+
+  def backpropagate(self, dLoss, learning_rate=0.001):
+    da = np.zeros((self.n_a + self.n_a, self.t))
+    dWya = np.zeros((self.n_y, self.n_a + self.n_a))
+    dby  = np.zeros((self.n_y, 1))
+    for i in range(t):
+      dsoftmax = dLoss[:,i,np.newaxis] * self.y_pred[:,i,np.newaxis] * (1 - self.y_pred[:,i,np.newaxis])
+      dbyt     = dsoftmax
+      dWyat    = np.dot(dsoftmax, self.concat[:,i,np.newaxis].T)
+      da[:,i]  = np.ravel(np.dot(self.Wya.T, dsoftmax))
+      dby  += dbyt
+      dWya += dWyat
+  
+    self.f_rnn.rnn_backward(da[:self.n_a,], self.caches1, learning_rate)
+    self.b_rnn.rnn_backward(np.flip(da[self.n_a:,], 1), self.caches2, learning_rate)
+  
+    # Update weights.
+    self.Wya -= learning_rate * np.clip(dWya, -5.0, 5.0, dWya)
+    self.by  -= learning_rate * np.clip(dby, -5.0, 5.0, dby)
 
   def fit(self, X, Y, learning_rate=0.001, epochs=30):
     decay = learning_rate / epochs
     for i in range(0, epochs):
       learning_rate *= (1. / (1. + decay * i))
 
-      a1, caches1 = self.f_rnn.rnn_forward(X)
-      a2, caches2 = self.b_rnn.rnn_forward(np.flip(X, 1))
+      y_pred = self.propagate()
+      self.backpropagate(-Y / y_pred, learning_rate)
 
-      concat = np.zeros((self.n_a + self.n_a, self.t))
-      concat[:self.n_a,:] = a1
-      concat[self.n_a:,:] = a2
-
-      y_pred = softmax(np.dot(self.Wya, concat) + self.by)
-  
       # Cross entropy loss.
       loss = -np.sum(Y * np.log(y_pred))
       predicted_labels = np.argmax(y_pred, axis=0)
@@ -126,30 +150,12 @@ class BiRNN():
           accuracy += 1.0
       accuracy = accuracy / len(labels)
       print('Cross entropy loss: ' + str(loss) + ', Accuracy: ' + str(accuracy))
-  
-      da = np.zeros((self.n_a + self.n_a, self.t))
-      dWya = np.zeros((self.n_y, self.n_a + self.n_a))
-      dby  = np.zeros((self.n_y, 1))
-      for i in range(t):
-        dsoftmax = -Y[:,i,np.newaxis] * (1 - y_pred[:,i,np.newaxis])
-        dbyt     = dsoftmax
-        dWyat    = np.dot(dsoftmax, concat[:,i,np.newaxis].T)
-        da[:,i]  = np.ravel(np.dot(self.Wya.T, dsoftmax))
-        dby  += dbyt
-        dWya += dWyat
-  
-      self.f_rnn.rnn_backward(da[:self.n_a,], caches1, learning_rate)
-      self.b_rnn.rnn_backward(np.flip(da[self.n_a:,], 1), caches2, learning_rate)
-  
-      # # Update weights.
-      self.Wya -= learning_rate * np.clip(dWya, -5.0, 5.0, dWya)
-      self.by  -= learning_rate * np.clip(dby, -5.0, 5.0, dby)
     return y_pred
 
-    return Y 
-
-X, Y = create_dataset()
-rnn = BiRNN(3, 2, 2, t)
-y_pred = rnn.fit(X, Y)
-print np.argmax(y_pred, axis=0)
-print labels
+if __name__ == "__main__":
+  X, Y = create_dataset()
+  rnn = BiRNN(3, 2, 2, t)
+  rnn.set_input(X)
+  y_pred = rnn.fit(X, Y)
+  print np.argmax(y_pred, axis=0)
+  print labels
