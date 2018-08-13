@@ -12,7 +12,11 @@ def one_hot(target, num_classes):
   return v
 
 def softmax(x):
-  return np.exp(x) / np.sum(np.exp(x))
+  # Numerically stable.
+  shift_x = x - np.max(x)
+  exps = np.exp(shift_x)
+  res = exps / np.sum(exps, axis=0)
+  return res
 
 def create_dataset():
   X = np.zeros((3, t))
@@ -45,7 +49,7 @@ class RNN():
     a = np.zeros((self.n_a, self.t))
     caches = []
   
-    for i in range(t):
+    for i in range(self.t):
       xt = x[:,i,np.newaxis]
       a_next, cache = self.rnn_cell_forward(xt, a_next)
       a[:,i] = np.ravel(a_next)
@@ -70,16 +74,16 @@ class RNN():
     dba  = np.zeros((self.n_a, 1))
   
     da_prev = np.zeros((self.n_a, 1))
-    for i in reversed(range(t)):
+    for i in reversed(range(self.t)):
       dbat, dWaxt, dWaat, da_prevt = self.rnn_cell_backward(da_prev + da[:,i,np.newaxis], caches[i])
       da_prev = da_prevt
       dba  += dbat 
       dWax += dWaxt
       dWaa += dWaat
      
-    self.Wax -= learning_rate * np.clip(dWax, -5.0, 5.0, dWax)
-    self.Waa -= learning_rate * np.clip(dWaa, -5.0, 5.0, dWaa)
-    self.ba  -= learning_rate * np.clip(dba, -5.0, 5.0, dba)
+    self.Wax -= learning_rate * np.clip(dWax, -1.0, 1.0, dWax)
+    self.Waa -= learning_rate * np.clip(dWaa, -1.0, 1.0, dWaa)
+    self.ba  -= learning_rate * np.clip(dba, -1.0, 1.0, dba)
     return dWax, dWaa, dba
 
 class BiRNN():
@@ -152,9 +156,76 @@ class BiRNN():
       print('Cross entropy loss: ' + str(loss) + ', Accuracy: ' + str(accuracy))
     return y_pred
 
+class SingleRNN():
+  def __init__(self, n_x, n_y, n_a, t):
+    self.n_x = n_x
+    self.n_y = n_y
+    self.n_a = n_a
+    self.t   = t
+    np.random.seed(3)
+    self.Wya = np.random.randn(n_y, n_a)
+    self.by  = np.random.randn(n_y, 1  )
+    self.rnn = RNN(n_x, n_y, n_a, t)
+
+    self.caches = None
+    self.a = None
+    self.X = None
+    self.y_pred = None
+
+  def set_input(self, X):
+    self.X = X
+
+  def propagate(self):
+    self.a, self.caches = self.rnn.rnn_forward(self.X)
+    self.y_pred = softmax(np.dot(self.Wya, self.a) + self.by)
+    return self.y_pred
+
+  def backpropagate(self, dLoss, learning_rate=0.001):
+    da = np.zeros((self.n_a, self.t))
+    dWya = np.zeros((self.n_y, self.n_a))
+    dby  = np.zeros((self.n_y, 1))
+
+    # dLoss = np.sum(dLoss, axis=1)[:,np.newaxis]
+    # print dLoss
+    # print np.sum(dx, axis=1)
+    # print np.sum(ex_dx, axis=1)
+    for i in range(self.t):
+      dsoftmax = dLoss[:,i,np.newaxis] * self.y_pred[:,i,np.newaxis] * (1 - self.y_pred[:,i,np.newaxis])
+      # dsoftmax = dLoss * self.y_pred[:,i,np.newaxis] * (1 - self.y_pred[:,i,np.newaxis])
+      dbyt     = dsoftmax
+      dWyat    = np.dot(dsoftmax, self.a[:,i,np.newaxis].T)
+      da[:,i]  = np.ravel(np.dot(self.Wya.T, dsoftmax))
+      dby  += dbyt
+      dWya += dWyat
+  
+    self.rnn.rnn_backward(da, self.caches, learning_rate)
+  
+    # Update weights.
+    self.Wya -= learning_rate * np.clip(dWya, -1.0, 1.0, dWya)
+    self.by  -= learning_rate * np.clip(dby, -1.0, 1.0, dby)
+
+  def fit(self, X, Y, learning_rate=0.001, epochs=6000):
+    decay = learning_rate / epochs
+    for i in range(0, epochs):
+      learning_rate *= (1. / (1. + decay * i))
+
+      y_pred = self.propagate()
+      self.backpropagate(-Y / y_pred, learning_rate)
+
+      # Cross entropy loss.
+      loss = -np.sum(Y * np.log(0.1 + y_pred))
+      predicted_labels = np.argmax(y_pred, axis=0)
+      accuracy = 0
+      for i in range(len(labels)):
+        if predicted_labels[i] == labels[i]:
+          accuracy += 1.0
+      accuracy = accuracy / len(labels)
+      print('Cross entropy loss: ' + str(loss) + ', Accuracy: ' + str(accuracy))
+    return y_pred
+
 if __name__ == "__main__":
   X, Y = create_dataset()
-  rnn = BiRNN(3, 2, 2, t)
+  rnn = SingleRNN(3, 2, 2, t)
   rnn.set_input(X)
   y_pred = rnn.fit(X, Y)
   print np.argmax(y_pred, axis=0)

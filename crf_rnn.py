@@ -2,14 +2,16 @@ import sys
 import math
 import numpy as np
 from crf import Crf, InputLayer
-from bi_rnn import BiRNN
+from bi_rnn import SingleRNN, BiRNN
 
 labels       = np.array([1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1])
 observations = np.array([1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 1, 1, 1])
+# labels       = np.array([0, 1, 0, 0])
+# observations = np.array([2, 1, 2, 3])
 t = len(observations)
 n_x = 3
 n_y = 2
-n_a = 2
+n_a = 20
 
 def one_hot(target, num_classes):
   v = np.zeros(num_classes)
@@ -24,14 +26,12 @@ def create_dataset():
     Y[:,i] = one_hot(labels[i], 2)
   return X, Y
 
-print 'mamma mia'
-
 X, Y = create_dataset()
 
-rnn = BiRNN(n_x, n_y, n_a, t)
+rnn = SingleRNN(n_x, n_y, n_a, t)
 rnn.set_input(X)
 crf = Crf(n_y, t, rnn)
-crf.fit(Y, 0.00001, 10000)
+crf.fit(Y, 0.01, 1000)
 print labels.tolist()
 print crf.viterbi(X)
 
