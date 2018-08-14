@@ -28,10 +28,10 @@ def create_dataset():
 
 X, Y = create_dataset()
 
-rnn = SingleRNN(n_x, n_y, n_a, t)
+rnn = BiRNN(n_x, n_y, n_a, t)
 rnn.set_input(X)
 crf = Crf(n_y, t, rnn)
-crf.fit(Y, 0.01, 1000)
+crf.fit(Y, 0.01, 2000)
 print labels.tolist()
 print crf.viterbi(X)
 

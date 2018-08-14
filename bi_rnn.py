@@ -33,7 +33,7 @@ class RNN():
     self.n_a = n_a
     self.t   = t
 
-    np.random.seed(5)
+    np.random.seed(6)
     self.Waa = np.random.randn(n_a, n_a)
     self.Wax = np.random.randn(n_a, n_x)
     self.ba  = np.random.randn(n_a, 1  )
@@ -134,10 +134,10 @@ class BiRNN():
     self.b_rnn.rnn_backward(np.flip(da[self.n_a:,], 1), self.caches2, learning_rate)
   
     # Update weights.
-    self.Wya -= learning_rate * np.clip(dWya, -5.0, 5.0, dWya)
-    self.by  -= learning_rate * np.clip(dby, -5.0, 5.0, dby)
+    self.Wya -= learning_rate * np.clip(dWya, -1.0, 1.0, dWya)
+    self.by  -= learning_rate * np.clip(dby, -1.0, 1.0, dby)
 
-  def fit(self, X, Y, learning_rate=0.001, epochs=30):
+  def fit(self, X, Y, learning_rate=0.00005, epochs=30000):
     decay = learning_rate / epochs
     for i in range(0, epochs):
       learning_rate *= (1. / (1. + decay * i))
@@ -146,7 +146,7 @@ class BiRNN():
       self.backpropagate(-Y / y_pred, learning_rate)
 
       # Cross entropy loss.
-      loss = -np.sum(Y * np.log(y_pred))
+      loss = -np.sum(Y * np.log(0.1 + y_pred))
       predicted_labels = np.argmax(y_pred, axis=0)
       accuracy = 0
       for i in range(len(labels)):
@@ -225,7 +225,7 @@ class SingleRNN():
 
 if __name__ == "__main__":
   X, Y = create_dataset()
-  rnn = SingleRNN(3, 2, 2, t)
+  rnn = BiRNN(3, 2, 2, t)
   rnn.set_input(X)
   y_pred = rnn.fit(X, Y)
   print np.argmax(y_pred, axis=0)
