@@ -32,7 +32,11 @@ def one_hot(target, num_classes):
   return v
 
 def softmax(x):
-  return np.exp(x) / np.sum(np.exp(x))
+  # Numerically stable.
+  shift_x = x - np.max(x)
+  exps = np.exp(shift_x)
+  res = exps / np.sum(exps, axis=0)
+  return res
 
 def create_dataset():
   X = np.zeros((n_x, t))

@@ -1,123 +1,82 @@
 import keras
 import np
 from matplotlib import pyplot as plt
+from util import Dataset
 
 from keras.models import Model
-from keras.layers import Input, Dense, Dropout, Activation, Flatten, SimpleRNN, TimeDistributed, GRU, Bidirectional, LSTM
+from keras.layers import Input, Dense, Dropout, Activation, Flatten, SimpleRNN, TimeDistributed, GRU, Bidirectional, LSTM, Embedding, concatenate, Conv1D, GlobalMaxPooling1D
 from ChainCRF import ChainCRF
 from keras.datasets import mnist
 from keras.utils import np_utils
 from keras import optimizers
 
-X_ = np.array([0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 0, 0, 0])
-Y_ = np.array([1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1])
-
-X = np_utils.to_categorical(X_, 3)
-Y = np_utils.to_categorical(Y_, 2)
-
-
-# Softmax regression.
-
-print('Softmax regression')
-x = Input(shape=(3, ), dtype='float32') 
-y = Dense(2, activation='softmax')(x)
-
-model = Model(inputs=x, outputs=y)
-sgd = keras.optimizers.SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
-model.compile(loss='categorical_crossentropy', optimizer=sgd)
-model.fit(x=X, y=Y, batch_size=1, epochs=10)
-predictions = model.predict(x=X)
-
-print('Expected:', Y_)
-print('Actual:  ', predictions.argmax(axis=-1))
-
-
-# RNN.
-
-print('RNN')
-X = np.expand_dims(X, axis=0)
-Y = np.expand_dims(Y, axis=0)
-
-x = Input(shape=(21, 3), dtype='float32') 
-rnn = SimpleRNN(5, return_sequences=True)(x)
-y = Dense(2, activation='softmax')(rnn)
-
-model = Model(inputs=x, outputs=y)
-sgd = keras.optimizers.SGD(lr=0.1, decay=1e-6, momentum=0.9, nesterov=True)
-model.compile(loss='categorical_crossentropy', optimizer=sgd)
-model.fit(x=X, y=Y, epochs=15)
-predictions = model.predict(x=X)
-print('Expected:', Y_)
-print('Actual:  ', predictions.argmax(axis=-1)[0])
-
-
-# Bidirectional RNN.
-
-print('Bidirectional RNN')
-x = Input(shape=(21, 3), dtype='float32') 
-rnn = Bidirectional(SimpleRNN(5, return_sequences=True))(x)
-y = Dense(2, activation='softmax')(rnn)
-
-model = Model(inputs=x, outputs=y)
-sgd = keras.optimizers.SGD(lr=0.1, decay=1e-6, momentum=0.9, nesterov=True)
-model.compile(loss='categorical_crossentropy', optimizer=sgd)
-model.fit(x=X, y=Y, epochs=15)
-predictions = model.predict(x=X)
-print('Expected:', Y_)
-print('Actual:  ', predictions.argmax(axis=-1)[0])
-
-
-# Bidirectional LSTM.
-
-print('Bidirectional LSTM')
-
-x = Input(shape=(21, 3), dtype='float32') 
-rnn = Bidirectional(LSTM(5, return_sequences=True))(x)
-y = TimeDistributed(Dense(2, activation='softmax'))(rnn)
-
-model = Model(inputs=x, outputs=y)
-sgd = keras.optimizers.SGD(lr=0.1, decay=1e-6, momentum=0.9, nesterov=True)
-model.compile(loss='categorical_crossentropy', optimizer=sgd)
-model.fit(x=X, y=Y, epochs=15)
-predictions = model.predict(x=X)
-print('Expected:', Y_)
-print('Actual:  ', predictions.argmax(axis=-1)[0])
-
-
-# CRF.
-
-print('Conditional Random Fields')
-
-x = Input(shape=(21, 3), dtype='float32') 
-y = TimeDistributed(Dense(2, activation=None))(x)
-crf = ChainCRF()
-y = crf(y)
-
-model = Model(inputs=x, outputs=y)
-sgd = keras.optimizers.SGD(lr=0.1, decay=1e-6, momentum=0.9, nesterov=True)
-model.compile(loss=crf.loss, optimizer=sgd)
-
-model.fit(x=X, y=Y, epochs=15)
-predictions = model.predict(x=X)
-print('Expected:', Y_)
-print('Actual:  ', predictions.argmax(axis=-1)[0])
-
 
 # Bidirectional LSTM-CRF.
+class LstmCrf():
+  def __init__(
+    self, 
+    lstm_cells=30, 
+    char_embedding_size=10
+  ):
+    self.x = []
 
-print('Bidirectional LSTM-CRF')
+  # def model():
 
-x = Input(shape=(21, 3), dtype='float32') 
-rnn = Bidirectional(LSTM(5, return_sequences=True))(x)
-y = TimeDistributed(Dense(2, activation=None))(rnn)
+
+
+
+ds = Dataset()
+word_embedding_matrix = ds.load_word_embeddings('')
+X1, X2, Y = ds.load_dataset('string_test_data.txt')
+
+num_words = 12 + 1
+char_embedding_matrix = np.random.randn(128, 128)
+
+
+inputs = []
+
+x = Input(shape=(X1.shape[1], X1.shape[2]), dtype='int32')
+inputs.append(x)
+
+x = Flatten()(x)
+emb = Embedding(
+  input_dim=word_embedding_matrix.shape[0], 
+  output_dim=word_embedding_matrix.shape[1], 
+  weights=[word_embedding_matrix], 
+  trainable=False
+)(x)
+
+shared_layer = [emb]
+
+
+# Char embeddings.
+x = Input(shape=(X2.shape[1], X2.shape[2]), dtype='int32')
+inputs.append(x)
+emb2 = TimeDistributed(Embedding(input_dim=128, output_dim=128, weights=[char_embedding_matrix], trainable=True))(x)
+
+# LSTM.
+emb2 = TimeDistributed(Bidirectional(LSTM(5, return_sequences=False)))(emb2)
+
+# CNN.
+# emb2 = TimeDistributed(Conv1D(3, 3))(emb2)
+# emb2 = TimeDistributed(GlobalMaxPooling1D())(emb2)
+
+shared_layer.append(emb2)
+emb = concatenate(shared_layer)
+
+
+rnn = Bidirectional(LSTM(5, return_sequences=True))(emb)
+y = TimeDistributed(Dense(Y.shape[1], activation=None))(emb)
 crf = ChainCRF()
 y = crf(y)
 
-model = Model(inputs=x, outputs=y)
+model = Model(inputs=inputs, outputs=y)
 sgd = keras.optimizers.SGD(lr=0.1, decay=1e-6, momentum=0.9, nesterov=True)
 model.compile(loss=crf.loss, optimizer=sgd)
 
-model.fit(x=X, y=Y, epochs=15)
-predictions = model.predict(x=X)
-print('Expected:', Y_)
+model.fit(x=[X1,X2], y=Y, epochs=30)
+predictions = model.predict(x=[X1,X2])
+print('Expected:', Y.argmax(axis=-1)[0])
 print('Actual:  ', predictions.argmax(axis=-1)[0])
+print('Expected:', Y.argmax(axis=-1)[1])
+print('Actual:  ', predictions.argmax(axis=-1)[1])
