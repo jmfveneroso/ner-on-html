@@ -1,0 +1,482 @@
+Computer O 0 0 meta meta none 6 0
+Science O 0 0 meta meta none 6 0
+department O 0 0 meta meta none 6 0
+
+Start O 0 1 th tr banner 8 0
+Page O 0 1 th tr banner 8 0
+
+General O 0 1 th tr banner 8 0
+Info O 0 0 th tr banner 8 0
+
+Our O 0 0 th tr banner 8 0
+Faculty O 0 0 th tr banner 8 0
+
+Departments O 0 0 th tr banner 8 0
+
+Personal O 0 1 th tr banner 8 0
+Pages O 0 1 th tr banner 8 0
+
+Our O 0 0 th tr banner 8 0
+Geography O 0 0 th tr banner 8 0
+
+RCD O 0 0 th tr banner 8 0
+
+Contact O 0 0 th tr banner 8 0
+
+Russian O 0 1 th tr banner 8 0
+Version O 0 0 th tr banner 8 0
+
+Computer O 0 0 body html none 4 21
+Science O 0 0 body html none 4 21
+department O 0 0 body html none 4 21
+
+Phone: O 0 0 html [document] none 3 5
+428-42-33 O 0 0 html [document] none 3 5
+
+The O 0 1 body html none 4 22
+Head O 0 1 body html none 4 22
+of O 0 1 body html none 4 22
+the O 0 1 body html none 4 22
+Department O 0 0 body html none 4 22
+- O 0 0 body html none 4 22
+professor O 0 0 body html none 4 22
+Boris B-NAME 0 1 body html none 4 22
+A. I-NAME 0 1 body html none 4 22
+Novikov I-NAME 0 1 body html none 4 22
+
+Lecturers O 0 0 body html none 4 23
+
+Senior O 0 1 html [document] none 3 5
+lecturer O 0 0 html [document] none 3 5
+O. O 0 1 html [document] none 3 5
+V. O 0 1 html [document] none 3 5
+Alimova. O 0 0 html [document] none 3 5
+
+Informatics O 0 0 ul body none 5 0
+and O 0 1 ul body none 5 0
+Practice O 0 0 ul body none 5 0
+on O 0 0 ul body none 5 0
+Programming O 0 1 ul body none 5 0
+
+Computer O 0 0 ul body none 5 1
+Practice O 0 0 ul body none 5 1
+
+Data O 0 1 ul body none 5 2
+Representation O 0 0 ul body none 5 2
+
+Ass. O 0 1 body html none 4 28
+prof. O 0 0 body html none 4 28
+N. B-NAME 0 1 body html none 4 28
+B. I-NAME 0 1 body html none 4 28
+Ampilova I-NAME 0 1 body html none 4 28
+
+Informatics O 0 0 ul body none 5 0
+and O 0 1 ul body none 5 0
+Technology O 0 0 ul body none 5 0
+of O 0 1 ul body none 5 0
+Programming O 0 1 ul body none 5 0
+
+Computer O 0 0 ul body none 5 1
+Mathematics O 0 0 ul body none 5 1
+
+Practice O 0 0 ul body none 5 2
+of O 0 1 ul body none 5 2
+Programming O 0 1 ul body none 5 2
+
+Technology O 0 0 ul body none 5 3
+and O 0 1 ul body none 5 3
+Practice O 0 0 ul body none 5 3
+of O 0 1 ul body none 5 3
+Programming O 0 1 ul body none 5 3
+
+Prof. O 0 1 html [document] none 3 5
+M. B-NAME 0 1 html [document] none 3 5
+I. I-NAME 0 1 html [document] none 3 5
+Bashmakov I-NAME 0 0 html [document] none 3 5
+
+Algebra O 0 0 ul body none 5 0
+and O 0 1 ul body none 5 0
+Theory O 0 0 ul body none 5 0
+of O 0 1 ul body none 5 0
+Numbers O 0 0 ul body none 5 0
+
+Introduction O 0 0 ul body none 5 1
+to O 0 0 ul body none 5 1
+Teaching O 0 0 ul body none 5 1
+Systems O 0 0 ul body none 5 1
+
+Informational O 0 0 ul body none 5 2
+Teching O 0 0 ul body none 5 2
+Technologies O 0 0 ul body none 5 2
+
+Informational O 0 0 ul body none 5 3
+Technologies O 0 0 ul body none 5 3
+
+Prof. O 0 1 html [document] none 3 5
+I. B-NAME 0 1 html [document] none 3 5
+L. I-NAME 0 1 html [document] none 3 5
+Bratchikov I-NAME 0 0 html [document] none 3 5
+
+Theory O 0 0 ul body none 5 0
+of O 0 1 ul body none 5 0
+Languages O 0 0 ul body none 5 0
+and O 0 1 ul body none 5 0
+Transactions O 0 0 ul body none 5 0
+
+Languages O 0 0 ul body none 5 1
+of O 0 1 ul body none 5 1
+System O 0 0 ul body none 5 1
+Programming O 0 1 ul body none 5 1
+
+Language O 0 0 ul body none 5 2
+Processors O 0 0 ul body none 5 2
+
+Ass. O 0 1 html [document] none 3 5
+prof. O 0 0 html [document] none 3 5
+E'. B-NAME 0 0 html [document] none 3 5
+A. I-NAME 0 1 html [document] none 3 5
+Girsh I-NAME 0 0 html [document] none 3 5
+
+Introduction O 0 0 ul body none 5 0
+to O 0 0 ul body none 5 0
+Structural O 0 0 ul body none 5 0
+Theory O 0 0 ul body none 5 0
+of O 0 1 ul body none 5 0
+Complexity O 0 0 ul body none 5 0
+
+Programming O 0 1 ul body none 5 1
+
+Structural O 0 0 ul body none 5 2
+Theory O 0 0 ul body none 5 2
+of O 0 1 ul body none 5 2
+Complexity O 0 0 ul body none 5 2
+
+Assistant O 0 0 html [document] none 3 5
+N. B-NAME 0 1 html [document] none 3 5
+G. I-NAME 0 1 html [document] none 3 5
+Grigor'ev I-NAME 0 1 html [document] none 3 5
+
+Theory O 0 0 ul body none 5 0
+of O 0 1 ul body none 5 0
+Languages O 0 0 ul body none 5 0
+and O 0 1 ul body none 5 0
+Translations O 0 0 ul body none 5 0
+
+Languages O 0 0 ul body none 5 1
+and O 0 1 ul body none 5 1
+Systems O 0 0 ul body none 5 1
+of O 0 1 ul body none 5 1
+Programming O 0 1 ul body none 5 1
+
+Ass. O 0 1 html [document] none 3 5
+prof O 0 0 html [document] none 3 5
+L. B-NAME 0 1 html [document] none 3 5
+A. I-NAME 0 1 html [document] none 3 5
+Kerov I-NAME 0 1 html [document] none 3 5
+
+Intelligent O 0 0 ul body none 5 0
+Systems O 0 0 ul body none 5 0
+
+Ass. O 0 1 html [document] none 3 5
+prof. O 0 0 html [document] none 3 5
+B. B-NAME 0 1 html [document] none 3 5
+Yu. I-NAME 0 1 html [document] none 3 5
+Konev I-NAME 0 1 html [document] none 3 5
+
+Additional O 0 0 ul body none 5 0
+Chapters O 0 0 ul body none 5 0
+of O 0 1 ul body none 5 0
+Artificial O 0 0 ul body none 5 0
+Intelligence O 0 0 ul body none 5 0
+Theory O 0 0 ul body none 5 0
+
+Informatics O 0 0 ul body none 5 1
+and O 0 1 ul body none 5 1
+Programming O 0 1 ul body none 5 1
+
+Search O 0 0 ul body none 5 2
+for O 0 1 ul body none 5 2
+Logical O 0 0 ul body none 5 2
+Deduction O 0 0 ul body none 5 2
+in O 0 1 ul body none 5 2
+Problems O 0 0 ul body none 5 2
+on O 0 0 ul body none 5 2
+Artificial O 0 0 ul body none 5 2
+Intelligence O 0 0 ul body none 5 2
+
+Ass. O 0 1 body html none 4 56
+prof. O 0 0 body html none 4 56
+A. B-NAME 0 1 body html none 4 56
+A. I-NAME 0 1 body html none 4 56
+Kubenskii I-NAME 0 0 body html none 4 56
+Prof. O 0 1 body html none 4 57
+N. B-NAME 0 1 body html none 4 57
+K. I-NAME 0 1 body html none 4 57
+Kosovskii I-NAME 0 0 body html none 4 57
+
+Verification O 0 0 ul br none 6 0
+of O 0 1 ul br none 6 0
+Algorithms O 0 0 ul br none 6 0
+
+Discrete O 0 0 ul br none 6 1
+Analysis O 0 0 ul br none 6 1
+
+Mathematical O 0 0 ul br none 6 2
+Logic O 0 1 ul br none 6 2
+
+Search O 0 0 ul br none 6 3
+for O 0 1 ul br none 6 3
+Solutions O 0 0 ul br none 6 3
+
+NP-Complete O 0 0 ul br none 6 4
+Problems O 0 0 ul br none 6 4
+
+Recursive O 0 0 ul br none 6 5
+Logical O 0 0 ul br none 6 5
+Programming O 0 1 ul br none 6 5
+
+Informatics O 0 0 ul br none 6 0
+
+Informatics O 0 0 ul br none 6 1
+and O 0 1 ul br none 6 1
+Practice O 0 0 ul br none 6 1
+of O 0 1 ul br none 6 1
+Programming O 0 1 ul br none 6 1
+
+Data O 0 1 ul br none 6 2
+Representation O 0 0 ul br none 6 2
+
+Functional O 0 0 ul br none 6 3
+Programming O 0 1 ul br none 6 3
+
+Informatics O 0 0 ul br none 6 0
+and O 0 1 ul br none 6 0
+Practice O 0 0 ul br none 6 0
+of O 0 1 ul br none 6 0
+Programming O 0 1 ul br none 6 0
+
+Data O 0 1 ul br none 6 1
+Representation O 0 0 ul br none 6 1
+
+Programming O 0 1 ul br none 6 2
+
+Programming O 0 1 ul br none 6 3
+in O 0 1 ul br none 6 3
+the O 0 1 ul br none 6 3
+Language O 0 0 ul br none 6 3
+C O 0 1 ul br none 6 3
+
+Special O 0 1 ul br none 6 4
+Computational O 0 0 ul br none 6 4
+Praxis O 0 0 ul br none 6 4
+
+Mathematical O 0 0 ul br none 6 0
+Packets O 0 0 ul br none 6 0
+
+Programming O 0 1 ul br none 6 1
+in O 0 1 ul br none 6 1
+VB O 0 0 ul br none 6 1
+
+Special O 0 1 ul br none 6 2
+Computational O 0 0 ul br none 6 2
+Praxis O 0 0 ul br none 6 2
+
+Additional O 0 0 ul br none 6 0
+Chapters O 0 0 ul br none 6 0
+of O 0 1 ul br none 6 0
+theory O 0 0 ul br none 6 0
+of O 0 1 ul br none 6 0
+Formal O 0 0 ul br none 6 0
+Languages O 0 0 ul br none 6 0
+
+Computer O 0 0 ul br none 6 1
+Practice O 0 0 ul br none 6 1
+
+Theory O 0 0 ul br none 6 2
+of O 0 1 ul br none 6 2
+Languages O 0 0 ul br none 6 2
+and O 0 1 ul br none 6 2
+Translations O 0 0 ul br none 6 2
+
+Technology O 0 0 ul br none 6 3
+of O 0 1 ul br none 6 3
+Translations O 0 0 ul br none 6 3
+
+Models O 0 0 ul br none 6 0
+of O 0 1 ul br none 6 0
+Data O 0 1 ul br none 6 0
+Bases O 0 0 ul br none 6 0
+
+Data O 0 1 ul br none 6 1
+Representation O 0 0 ul br none 6 1
+
+Request O 0 0 ul br none 6 2
+Processing O 0 0 ul br none 6 2
+in O 0 1 ul br none 6 2
+Data O 0 1 ul br none 6 2
+Bases O 0 0 ul br none 6 2
+
+Transact O 0 0 ul br none 6 3
+Processing O 0 0 ul br none 6 3
+in O 0 1 ul br none 6 3
+Data O 0 1 ul br none 6 3
+Bases O 0 0 ul br none 6 3
+
+Optimization O 0 0 ul br none 6 4
+od O 0 0 ul br none 6 4
+Requests O 0 0 ul br none 6 4
+in O 0 1 ul br none 6 4
+Data O 0 1 ul br none 6 4
+Bases O 0 0 ul br none 6 4
+
+Optimization O 0 0 ul br none 6 5
+Theory O 0 0 ul br none 6 5
+in O 0 1 ul br none 6 5
+Data O 0 1 ul br none 6 5
+Bases O 0 0 ul br none 6 5
+
+Informatics O 0 0 ul br none 6 0
+and O 0 1 ul br none 6 0
+Programming O 0 1 ul br none 6 0
+
+Operational O 0 0 ul br none 6 0
+System O 0 0 ul br none 6 0
+UNIX O 0 0 ul br none 6 0
+
+Operational O 0 0 ul br none 6 1
+Systems O 0 0 ul br none 6 1
+and O 0 1 ul br none 6 1
+Computer O 0 0 ul br none 6 1
+Networks O 0 0 ul br none 6 1
+
+Languages O 0 0 ul br none 6 2
+and O 0 1 ul br none 6 2
+Systems O 0 0 ul br none 6 2
+of O 0 1 ul br none 6 2
+Programming O 0 1 ul br none 6 2
+
+Discrete O 0 0 ul br none 6 0
+Mathematics O 0 0 ul br none 6 0
+
+Mathematical O 0 0 ul br none 6 1
+Logic O 0 1 ul br none 6 1
+
+Theory O 0 0 ul br none 6 2
+of O 0 1 ul br none 6 2
+Logical O 0 0 ul br none 6 2
+Deduction O 0 0 ul br none 6 2
+
+Data O 0 1 br body none 5 48
+Representation O 0 0 br body none 5 48
+
+Special O 0 1 [document]  none 2 115
+Computer O 0 0 [document]  none 2 115
+Praxis O 0 0 [document]  none 2 115
+
+Senior O 0 1 [document]  none 2 116
+lecturer O 0 0 [document]  none 2 116
+M. B-NAME 0 1 [document]  none 2 116
+L. I-NAME 0 1 [document]  none 2 116
+Simuni I-NAME 0 0 [document]  none 2 116
+
+Practice O 0 0 ul [document] none 3 0
+on O 0 0 ul [document] none 3 0
+Computers O 0 0 ul [document] none 3 0
+
+Program O 0 0 ul [document] none 3 1
+Language O 0 0 ul [document] none 3 1
+C++ O 0 0 ul [document] none 3 1
+
+Ass. O 0 1 [document]  none 2 120
+prof. O 0 0 [document]  none 2 120
+I. B-NAME 0 1 [document]  none 2 120
+P. I-NAME 0 1 [document]  none 2 120
+Solov'ev I-NAME 0 1 [document]  none 2 120
+
+Informatics O 0 0 ul [document] none 3 0
+and O 0 1 ul [document] none 3 0
+Practice O 0 0 ul [document] none 3 0
+of O 0 1 ul [document] none 3 0
+Programming O 0 1 ul [document] none 3 0
+
+Logical O 0 0 ul [document] none 3 1
+Programming O 0 1 ul [document] none 3 1
+
+Data O 0 1 ul [document] none 3 2
+Representation O 0 0 ul [document] none 3 2
+
+Special O 0 1 ul [document] none 3 3
+Computational O 0 0 ul [document] none 3 3
+Praxis O 0 0 ul [document] none 3 3
+
+Formal O 0 0 ul [document] none 3 4
+Specifications O 0 0 ul [document] none 3 4
+of O 0 1 ul [document] none 3 4
+Computational O 0 0 ul [document] none 3 4
+Systems O 0 0 ul [document] none 3 4
+
+Ass. O 0 1   none 1 0
+prof. O 0 0   none 1 0
+A. B-NAME 0 1   none 1 0
+V. I-NAME 0 1   none 1 0
+Tishkov I-NAME 0 1   none 1 0
+
+Informatics O 0 0 ul [document] none 3 0
+and O 0 1 ul [document] none 3 0
+Programming O 0 1 ul [document] none 3 0
+
+Packet O 0 0 ul [document] none 3 1
+LOG O 0 0 ul [document] none 3 1
+SORVER O 0 0 ul [document] none 3 1
+
+Ass. O 0 1   none 1 0
+prof O 0 0   none 1 0
+A. B-NAME 0 1   none 1 0
+L. I-NAME 0 1   none 1 0
+Tulup'ev I-NAME 0 0   none 1 0
+
+Informatics O 0 0 ul [document] none 3 0
+and O 0 1 ul [document] none 3 0
+Programming O 0 1 ul [document] none 3 0
+
+Senior O 0 1   none 1 0
+lect. O 0 0   none 1 0
+L. B-NAME 0 1   none 1 0
+N. I-NAME 0 1   none 1 0
+Fedorchenko I-NAME 0 1   none 1 0
+
+Computer O 0 0 ul [document] none 3 0
+Software O 0 1 ul [document] none 3 0
+
+Senior O 0 1 [document]  none 2 134
+lect. O 0 0 [document]  none 2 134
+T. B-NAME 0 1 [document]  none 2 134
+A. I-NAME 0 1 [document]  none 2 134
+Shubochkina I-NAME 0 0 [document]  none 2 134
+
+Informatics O 0 0 ul [document] none 3 0
+and O 0 1 ul [document] none 3 0
+Practice O 0 0 ul [document] none 3 0
+Programming O 0 1 ul [document] none 3 0
+
+Computer O 0 0 ul [document] none 3 1
+Practice O 0 0 ul [document] none 3 1
+
+Date O 0 1 ul [document] none 3 2
+Representation O 0 0 ul [document] none 3 2
+
+The O 0 1 [document]  none 2 139
+department O 0 0 [document]  none 2 139
+is O 0 0 [document]  none 2 139
+a O 0 1 [document]  none 2 139
+graduate O 0 0 [document]  none 2 139
+department O 0 0 [document]  none 2 139
+on O 0 0 [document]  none 2 139
+the O 0 1 [document]  none 2 139
+speciality O 0 0 [document]  none 2 139
+"Software O 0 0 [document]  none 2 139
+of O 0 1 [document]  none 2 139
+Computers O 0 0 [document]  none 2 139
+and O 0 1 [document]  none 2 139
+Automatic O 0 0 [document]  none 2 139
+Systems". O 0 0 [document]  none 2 139

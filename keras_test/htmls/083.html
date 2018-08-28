@@ -1,0 +1,763 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<script type="text/javascript" language="JavaScript">
+var jahiaMainServletPath="/cms";
+var jahiaContextPath ="";
+var jahiaCoreWebdavPath ="/webdav";
+</script>
+<link rel="stylesheet" type="text/css" href="/css/styles.css"/><link rel="stylesheet" type="text/css" href="/css/languageSwitchingLinks.css"/><link rel="stylesheet" type="text/css" href="/css/portlet-spec-1.0.css"/><link rel="stylesheet" type="text/css" href="/css/portlets.css"/>	<title>Faculty</title>
+
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="author" content="Ecole Centrale Paris, ecole ingenieur" />
+<meta http-equiv="content-language" content="fr-FR" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta name="robots" content="index, follow, all" />
+<meta name="distribution" content="global" />
+<meta name="reply-to" content="webmaster@ecp.fr" />
+<meta http-equiv="content-language" content="fr-FR" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<meta http-equiv="cache-control" content="no-cache"/>
+<meta http-equiv="expires" content="-1"/>
+<script type="text/javascript" src="/templates/ecp_internet_templates/js/addthis_widget.js"></script>
+ <!-- TODO : configurer les services Ã  exclure de addThis -->
+<script type="text/javascript">
+var addthis_config = {
+     services_exclude: "list,of,services,to,exclude,from,http://www.addthis.com/services/list"
+}
+</script>
+
+ <link rel="shortcut icon" href="/templates/ecp_internet_templates/images/favicon.ico"/>
+<link rel="stylesheet" media="all" type="text/css" href="/templates/ecp_internet_templates/css/structure/reset.css"/> 
+<link rel="stylesheet" media="all" type="text/css" href="/templates/ecp_internet_templates/css/structure/global.css"/>
+	<link rel="stylesheet" media="all" type="text/css" href="/templates/ecp_internet_templates/css/structure/interne.css"/>
+<link rel="stylesheet" media="all" type="text/css" href="/templates/ecp_internet_templates/css/contenu/formation.css"/>
+<link rel="stylesheet" media="all" type="text/css" href="/templates/ecp_internet_templates/css/structure/right_col.css"/>
+   
+ <!-- script type="text/javascript" src="js/jquery/jquery-1.4.2.js"></script-->
+ <script type="text/javascript" src="/templates/ecp_internet_templates/js/jquery/jquery.min.js"></script>
+ <script type="text/javascript" src="/templates/ecp_internet_templates/js/comportement_langue.js"></script>
+ <script type="text/javascript" src="/templates/ecp_internet_templates/js/comportement_telechargement_slide.js"></script>
+ <script type="text/javascript" src="/templates/ecp_internet_templates/js/superfish.js"></script>
+ <script type="text/javascript" src="/templates/ecp_internet_templates/js/textsizer.js"></script>
+ <script type="text/javascript" src="/templates/ecp_internet_templates/js/jquery/jquery.msAccordion.js"></script> 
+
+ 
+<!--[if IE 6]><link href="/templates/ecp_internet_templates/css/structure/ie6.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
+<!--[if IE 7]><link href="/templates/ecp_internet_templates/css/structure/ie7.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->   
+<!--[if IE 7]><script type="text/javascript" src="/templates/ecp_internet_templates/js/roundies.js"></script><![endif]-->
+<!--[if IE 8]><script type="text/javascript" src="/templates/ecp_internet_templates/js/roundies.js"></script><![endif]-->
+
+<link rel="stylesheet" href="/templates/ecp_internet_templates/css/impression/print_all.css" type="text/css" media="print" />
+  <link rel="stylesheet" type="text/css" media="all" href="/templates/ecp_internet_templates/css/jquery/jcarousel-skin.css"/>
+		<link rel="stylesheet" media="all" type="text/css" href="/templates/ecp_internet_templates/css/medias/shadowbox.css"/>
+		<link rel="stylesheet" media="all" type="text/css" href="/templates/ecp_internet_templates/css/medias/galerie.css"/>
+		<link rel="stylesheet" href="/templates/ecp_internet_templates/css/impression/print_contribution.css" type="text/css" media="print" />
+		<script type="text/javascript" src="/templates/ecp_internet_templates/js/shadowbox.js"></script>
+		<script type="text/javascript" src="/templates/ecp_internet_templates/js/jquery/jquery.cycle.all.min.js"></script>
+		<script type="text/javascript" src="/templates/ecp_internet_templates/js/jquery/jquery.jcarousel.min.js"></script> 
+		 
+	</head>
+<body>	<div id="actualContent">
+<!-- Script pour mainMenu (pages interieurs) -->
+<script type="text/javascript"> 
+  $(document).ready(function() { 
+      $('#menu_principal').superfish({
+			pathClass:  '#rub2_menu'}  
+							   ); 
+  }); 
+</script><!-- h1 class="hidden">Faculty</h1-->
+
+
+
+
+<div id="visu" style="background: url('/files/content/shared/files/bannieres_a_partage/header_formation_1.jpg') no-repeat scroll center top transparent;"></div>
+<div id="masque_image" style="background: url('/templates/ecp_internet_templates/images/structure/masque_image.png') no-repeat scroll center top transparent;">
+	<!-- do not remove -->
+</div><div id="page">
+	<div id="global">
+		<div id="header">
+			
+			<h1>
+				<a href="/homepage;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4">
+					<img id="logo" src="/templates/ecp_internet_templates/images/structure/logo_centrale_paris.png" alt="Centrale Paris" />
+				</a>
+				<img id="devise" src="/templates/ecp_internet_templates/images/structure/devise_centrale_paris.gif" alt="Ecole Centrale Paris leader, entrepreneur, innovateur" />	
+            </h1>
+			
+<ul id="acces_rapides">
+		<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=2831&cacheKey=___absolute___" --><li>
+					<a href="/op/c1c0bms��1� „2ernet/plan_d_acces">
+						Plan d'accès</a>
+					</li><!-- /cache:include -->
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=2842&cacheKey=___absolute___" --><li>
+					<a href="/op/c1c0bms��1� „2ernet/home/contacts">
+						Contacts</a>
+					</li><!-- /cache:include -->
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=30684&cacheKey=___absolute___" --><li>
+					<a href="/op/c1c0bms��1� „2ernet/home/presse">
+						Presse</a>
+					</li><!-- /cache:include -->
+</ul>
+<!-- supprimer : include file ../areas/youareAbsolute.inc -->
+
+<ul id="choix_langue">
+	<li style="display:inline !important;">
+				 <a class="langActive">
+					fr</a>
+			</li>
+		<li style="display:inline !important;">
+				<a href="/lang/en/homepage;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4">
+					en</a> 
+			</li>
+		</ul><form id="recherche" name="simpleSearchForm" action="/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" method="post" >
+    <input type="hidden" name="src_mode" value="pages"/>
+    <input type="hidden" name="template" value="/templates/ecp_internet_templates/tpl_searchresult.jsp"/>
+    <fieldset>
+            <legend>Rechercher dans le site</legend>
+            <label for="Searchtext">Rechercher dans le site</label>
+            <input id="recherche_input" name="src_terms[0].term" onblur="if(this.value==&#039;&#039;) this.value=&#039;Rechercher&#039;;" class="champ_recherche" onfocus="if(this.value==&#039;Rechercher&#039;) this.value=&#039;&#039;;" type="text"  value=""/>
+<!--input type="text" onfocus="if(this.value=='Rechercher') this.value='';" onblur="if(this.value=='') this.value='Rechercher';" class="champ_recherche" id="recherche" value="Rechercher" name="SearchText"-->
+            <input name="lancer_recherche" type="submit" value="OK" class="bouton" alt="Lancer la recherche dans le site" title="Lancer la recherche dans le site"/>
+            <a href="javascript:document.simpleSearchForm.submit();" style="color:#A3A3A3;" title="Recherche avancée">Recherche avancée</a>
+       </fieldset>
+</form><div class="breaker"><!-- do not remove --></div>
+		</div>
+		<div id="main">
+			<div id="wrapper-visu"><!--ne rien mettre ici--></div>
+			<ul id="menu_principal" class="sf-js-enabled sf-shadow">
+
+<li id="rub1_menu" class=" level1" >
+					<a class="sf-with-ul" href="/home/Centrale_Paris;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Centrale Paris">
+						Centrale Paris<span class="sf-sub-indicator"></span>
+					</a>
+	
+					<ul style="display: none; visibility: hidden;">
+						<li class="deco"></li>
+						<li  class="first"  >
+								<a href="/home/Centrale_Paris/chiffres;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Centrale Paris en bref">
+												Centrale Paris en bref</a>
+										</li>
+							<li  >
+								<a href="/home/Centrale_Paris/Fondation_et_Histoire;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Histoire">
+												Histoire</a>
+										</li>
+							<li  >
+								<a href="/home/Centrale_Paris/Organisation;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Organisation">
+												Organisation</a>
+										</li>
+							<li  >
+								<a href="/home/Centrale_Paris/Ecole_citoyenne;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="École citoyenne">
+												École citoyenne</a>
+										</li>
+							<li  >
+								<a href="/home/Centrale_Paris/Partenariats_institutionnels_et_academiques;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Partenariats institutionnels et academiques">
+												Partenariats</a>
+										</li>
+							<li  >
+								<a href="/home/Centrale_Paris/enjeux_pedagogiques;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Enjeux pédagogiques">
+												Enjeux du XXI<sup>e</sup> siècle</a>
+										</li>
+							<li  >
+								<a href="/saclay-2-0;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Saclay 2.0">
+												Saclay 2.0</a>
+										</li>
+							<li  >
+								<a href="/home/Centrale_Paris/Campus_et_vie_etudiante;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Campus et vie étudiante">
+												Campus</a>
+										</li>
+							<li  >
+								<a href="/home/Centrale_Paris/Travailler_a_Centrale_Paris;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Travailler à Centrale Paris">
+												Recrutement</a>
+										</li>
+							<li  >
+								<a href="/home/Centrale_Paris/Bibliotheque;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Bibliothèque">
+												Bibliothèque</a>
+										</li>
+							<li  >
+								<a href="/home/Centrale_Paris/projet_architectural_et_urbain;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Projet architectural et urbain">
+												Campus Paris-Saclay</a>
+										</li>
+							<li  >
+								<a href="/home/Centrale_Paris/reseau_centraliens;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Réseau Centraliens">
+												Le réseau des Centraliens</a>
+										</li>
+							</ul>
+				</li>
+<li id="rub2_menu" class="sf-breadcrumb level1" >
+					<a class="sf-with-ul" href="/home/Formations;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Formation">
+						Formations<span class="sf-sub-indicator"></span>
+					</a>
+	
+					<ul style="display: block; visibility: visible;">
+						<li class="deco"></li>
+						<li  class="first"  >
+								<a href="/home/Formations/Cursus_ingenieur_centralien;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Programme ingénieur">
+												Programme ingénieur</a>
+										</li>
+							<li  >
+								<a href="/masters;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Master">
+												Master</a>
+										</li>
+							<li  >
+								<a href="/home/Formations/Masteres_Specialises;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Mastères Spécialisés">
+												Mastères Spécialisés</a>
+										</li>
+							<li  >
+								<a href="/home/Recherche/Ecole_Doctorale;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Ecole Doctorale">
+												École Doctorale</a>
+										</li>
+							<li  >
+								<a href="/home/Formations/MSc_in_Data_Science_and_Business_Analytics;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="MSc in Data Science and Business Analytics" class="selected">
+												MSc in Data Science</a>
+										</li>
+							<li  >
+								<a href="/home/Formations/Formation_continue;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Executive Education">
+												Executive Education</a>
+										</li>
+							<li  >
+								<a href="/home/Formations/Education_en_ligne;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Education en ligne">
+												Education en ligne</a>
+										</li>
+							<li  >
+								<a href="/home/Formations/Departements_d-enseignement;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Départements d'enseignement">
+												Départements d'enseignement</a>
+										</li>
+							<li  >
+								<a href="/home/Formations/Aides_financieres;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Aides financières">
+												Aides financières</a>
+										</li>
+							<li  >
+								<a href="/home/Formations/page-24609.html;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Entrepreneurship at Centrale">
+												Entrepreneurship@Centrale</a>
+										</li>
+							</ul>
+				</li>
+<li id="rub3_menu" class=" level1" >
+					<a class="sf-with-ul" href="/home/Recherche;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Recherche">
+						Recherche<span class="sf-sub-indicator"></span>
+					</a>
+	
+					<ul style="display: none; visibility: hidden;">
+						<li class="deco"></li>
+						<li  class="first"  >
+								<a href="/home/Recherche/Centre_de_recherche;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Centre de recherche">
+												Centre de recherche</a>
+										</li>
+							<li  >
+								<a href="/home/Recherche/Laboratoires;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Laboratoires">
+												Laboratoires</a>
+										</li>
+							<li  >
+								<a href="/home/Recherche/Ecole_Doctorale;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Ecole Doctorale">
+												Ecole Doctorale</a>
+										</li>
+							<li  >
+								<a href="/home/Recherche/Publications;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Publications">
+												Publications</a>
+										</li>
+							<li  >
+								<a href="/home/Recherche/chaires_d_entreprises;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Chaires d’entreprises">
+												Chaires d’entreprises</a>
+										</li>
+							<li  >
+								<a href="/home/Recherche/portraits;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Portraits">
+												Portraits de chercheurs</a>
+										</li>
+							</ul>
+				</li>
+<li id="rub4_menu" class=" level1" >
+					<a class="sf-with-ul" href="/home/Entreprises;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Entreprises">
+						Entreprises<span class="sf-sub-indicator"></span>
+					</a>
+	
+					<ul style="display: none; visibility: hidden;">
+						<li class="deco"></li>
+						<li  class="first"  >
+								<a href="/home/Entreprises/partenariats_de_recrutement;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Partenariats de recrutement">
+												Partenariats de recrutement</a>
+										</li>
+							<li  >
+								<a href="/home/Entreprises/partenariats_recherche_et_chaires;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Partenariats Recherche et Chaires">
+												Partenariats Recherche et Chaires</a>
+										</li>
+							<li  >
+								<a href="/home/Entreprises/vous_etes_une_entreprise;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Vous êtes une entreprise">
+												Devenir partenaire</a>
+										</li>
+							<li  >
+								<a href="/entreprises-partenaires;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Liste des entreprises partenaires">
+												Entreprises partenaires</a>
+										</li>
+							<li  >
+								<a href="/home/Entreprises/club_pme;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Club PME">
+												Club PME</a>
+										</li>
+							<li  >
+								<a href="/home/Entreprises/centrale_paris_executive_education;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Centrale Paris Executive Education">
+												Executive Education</a>
+										</li>
+							<li  >
+								<a href="/home/Entreprises/Incubateur;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Incubateur">
+												Incubateur</a>
+										</li>
+							<li  >
+								<a href="/home/Entreprises/taxe_d_apprentissage;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Taxe d'apprentissage">
+												Taxe d'apprentissage</a>
+										</li>
+							</ul>
+				</li>
+<li id="rub5_menu" class=" level1" >
+					<a class="sf-with-ul" href="/home/International;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="International">
+						International<span class="sf-sub-indicator"></span>
+					</a>
+	
+					<ul style="display: none; visibility: hidden;">
+						<li class="deco"></li>
+						<li  class="first"  >
+								<a href="/home/International/Developpement_international;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Developpement international">
+												Developpement international</a>
+										</li>
+							<li  >
+								<a href="http://www.ecp.fr/op/cms/home/International/Developpement_international/charte_erasmus_pour_l_enseignement_superieur_2014_2020" title="Charte ERASMUS + 2014-2020">
+												Charte ERASMUS + 2014-2020</a>
+										</li>
+							<li  >
+								<a href="/home/International/partir_a_l_international;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Partir à l'international">
+												Partir à l'international</a>
+										</li>
+							<li  >
+								<a href="/home/International/Etudier_a_Centrale_Paris;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Etudier à Centrale Paris">
+												Etudier à Centrale Paris</a>
+										</li>
+							<li  >
+								<a href="/home/International/centrale_paris_en_chine__inde_et_maroc;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Centrale Paris en Chine, Inde, Maroc">
+												Centrale Paris en Chine, Inde et Maroc</a>
+										</li>
+							</ul>
+				</li>
+<li id="rub6_menu" class=" level1" >
+					<a class="sf-with-ul" href="/home/Admissions;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Admissions">
+						Admissions<span class="sf-sub-indicator"></span>
+					</a>
+	
+					<ul style="display: none; visibility: hidden;">
+						<li class="deco"></li>
+						<li  class="first"  >
+								<a href="/home/Admissions/Admissions_cycle_ingenieur;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Cycle ingénieur">
+												Cycle ingénieur</a>
+										</li>
+							<li  >
+								<a href="/home/Admissions/admission_master;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Admission Master, ingénieur paris">
+												Master</a>
+										</li>
+							<li  >
+								<a href="/home/Admissions/mastere_specialise;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Mastère Spécialisé">
+												Mastère Spécialisé</a>
+										</li>
+							<li  >
+								<a href="/home/Admissions/Admision_Ecole_Doctorale;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Ecole Doctorale">
+												Ecole Doctorale</a>
+										</li>
+							</ul>
+				</li>
+</ul><div id="contenu">
+				<div id="barre_outils">
+					<div id="compas">
+	<ul class="default_pagePath"><li class="first" ><a href="/home;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4">Accueil</a></li>
+<li><a href="/home/Formations;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4">Formations</a></li>
+<li><a href="/home/Formations/MSc_in_Data_Science_and_Business_Analytics;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4">MSc in Data Science</a></li>
+<li class="current" >Faculty</li>
+</ul>
+</div>
+<script type="text/javascript">
+$().ready(function(){
+    if(window.opera) {
+        if ($("a.jqbookmark").attr("rel") != ""){ 
+            $("a.jqbookmark").attr("rel","sidebar");
+        }
+    }
+   
+    $("a.jqbookmark").click(function(event){
+        event.preventDefault(); 
+        var url = document.location.href;
+        var title = document.title;
+       
+        if (window.sidebar) { 
+            window.sidebar.addPanel(title, url, "");
+        } else if( window.external ) { 
+            window.external.AddFavorite( url, title);
+        } else if(window.opera) { 
+            return false; 
+        } else { 
+            alert('Unfortunately, this browser does not support the requested action, please bookmark this page manually.');
+        }
+    });
+}); 
+</script>
+
+<ul id="outils">
+	<li>
+		<a href="javascript:ts('body',-1)" title="diminuer la police">
+			<img src="/templates/ecp_internet_templates/images/structure/p_zoom_moins.png" alt="diminuer la police" />
+		</a>
+	</li>
+	<li>
+		<a href="javascript:ts('body',1)" title="augmenter la police">
+			<img src="/templates/ecp_internet_templates/images/structure/p_zoom.gif" alt="augmenter la police"  />
+		</a>
+	</li>
+    <li>
+    	<a href="mailto:?body=http://old-www.ecp.fr:80/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4&Subject=Un%20ami%20veut%20partager%20avec%20vous%20cette%20page%20du%20site%20web%20de%20l'Ecole%20Centrale%20Paris" title="envoyer à un ami">
+    		<img src="/templates/ecp_internet_templates/images/structure/p_envoyer.gif" alt="envoyer à un ami"  />
+    	</a>
+    </li>
+    <li>
+    	<a href="javascript:void(0)" class="jqbookmark" title="mettre en favori">
+    		<img src="/templates/ecp_internet_templates/images/structure/p_favori.gif" alt="mettre en favori"  />
+    	</a>
+    </li>
+    <li>
+    	<a href="javascript:window.print()" title="imprimer">
+    		<img src="/templates/ecp_internet_templates/images/structure/p_imprimer.gif" alt="imprimer"  />
+    	</a>
+    </li>
+</ul><div class="breaker"><!-- do not remove --></div>
+				</div>
+				<div id="contenu_principal">
+					<div id="col_gauche">
+				    		
+<ul id="menu_secondaire">
+						<li>
+										<a href="/home/Formations/MSc_in_Data_Science_and_Business_Analytics/Formations_program;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Program">
+											Program overview</a>
+									</li>
+<li>
+										<a href="/home/Formations/MSc_in_Data_Science_and_Business_Analytics/courses;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Courses">
+											Courses</a>
+									</li>
+<li>
+										<a href="/home/Formations/MSc_in_Data_Science_and_Business_Analytics/Formations_admission;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Admission">
+											Admission</a>
+									</li>
+<li class="active">
+										<a href="/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Faculty">
+											Faculty</a>
+									</li>
+<li>
+										<a href="/home/Formations/MSc_in_Data_Science_and_Business_Analytics/career;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Career">
+											Career</a>
+									</li>
+<li>
+										<a href="/home/Formations/MSc_in_Data_Science_and_Business_Analytics/financing;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="FINANCING">
+											FINANCING</a>
+									</li>
+<li>
+										<a href="/home/Formations/MSc_in_Data_Science_and_Business_Analytics/Formations_faq;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="FAQ">
+											FAQ</a>
+									</li>
+</ul>
+				
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=46967&cacheKey=" -->
+<h2>CONTACT</h2>
+				<div id="liens_utiles">	
+					<ul>
+						<li>
+										<a href="http://info.essec.edu/A01-MSc-In-Data-Science-and-Business-Analytics-ESSEC-CENTRALE-Info-Request.html">
+											Fill out this form</a>
+									</li>
+</ul>
+				</div>
+<!-- /cache:include -->
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=46992&cacheKey=" -->
+<h2>APPLICATIONS</h2>
+				<div id="liens_utiles">	
+					<ul>
+						<li>
+										<a href="http://scolarite.essec.fr/pls/PROD/bwskalog.P_DispLoginNon?essec_wapp=MA">
+											Please apply online</a>
+									</li>
+</ul>
+				</div>
+<!-- /cache:include -->
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=47327&cacheKey=" -->
+<h2>BROCHURE</h2>
+				<div id="liens_utiles">	
+					<ul>
+						<li>
+										<a href="http://info.essec.edu/A02-MSc-In-Data-Sciences-and-Business-Analytics-Telechargement-brochure_02.html?utm_medium=CENTRALE-EN">
+											Download the brochure</a>
+									</li>
+</ul>
+				</div>
+<!-- /cache:include -->
+</div>
+					<div id="col_central">
+						<script type="text/javascript" src="/templates/ecp_internet_templates/js/jquery/contribution_accordion.js"></script>
+
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=0&cacheKey=___absolute___" -->
+
+<!-- /cache:include -->
+
+<h2 class="level5ListTitle"></h2>
+			<div style="clear:both;"><!-- do not remove --></div>
+			<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=0&cacheKey=___absolute___" -->
+
+<!-- /cache:include -->
+<div class="accordian">
+	
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=46855&cacheKey=" -->
+<a class="hidden" id="ctn144_46855" name="ctn144_46855"></a><h2 class="header">Faculty</h2>		
+			
+<a class="hidden" id="ctn138_46856" name="ctn138_46856"></a><h3>HEAD</h3>
+<p>
+	<strong>Guillaume Chevillon</strong>, Professor of Econometrics and Statistics at ESSEC Business School &amp; <strong>Nikos Paragios</strong>, Professor of Applied Mathematics at CentraleSup&eacute;lec - co-directors of MSc in Data science and Business Analytics Centrale-ESSEC.&nbsp;
+</p>
+<h3>PROFESSORS</h3>
+<ul>
+	<li>
+		<a href="https://fr.linkedin.com/in/chlo%C3%A9-agathe-azencott-a116ba5" target="_blank">
+		<strong>Chloe-Agathe Azencott</strong>
+		</a> : Research Faculty, Mines ParisTech &amp; Institut Curie.
+	</li>
+	<li>
+		<a href="https://team.inria.fr/abs/team-members/homepage-frederic-cazals/" target="_blank">
+		<strong>Cazals, Fr&eacute;d&eacute;ric</strong>
+		</a> : Affiliated Professor at the <a href="/cms/lang/fr/home/Formations/Departements_d-enseignement/mathematiques" target="_blank">department of applied mathematics</a> of CentraleSup&eacute;lec &amp; Inria Permanent Researcher
+	</li>
+	<li>
+		<a href="https://sites.google.com/a/essec.edu/glady/">
+		<strong>Glady Nicolas</strong>
+		</a> : Associate Professor, Accenture Strategic Business Analytics Chair holder, and Director of the Center for Digital Business of ESSEC
+	</li>
+	<li>&nbsp; <a href="http://www.essec.edu/faculty/felix-papier">
+		<strong>Felix Papier</strong>
+		</a> : Associate Professor, Operation Management Department, ESSEC Business School
+	</li>
+	<li>
+		<a href="http://vision.mas.ecp.fr/" target="_blank">
+		<strong>Paragios, Nikos</strong>
+		</a> : Professor at the <a href="/cms/lang/fr/home/Formations/Departements_d-enseignement/mathematiques" target="_blank">department of applied mathematics</a> of CentraleSup&eacute;lec and affiliated research scientist at Inria and senior fellow of the Institut Universitaire de France
+	</li>
+	<li>
+		<strong>Pesquet, Jean-Christophe</strong>: Affiliated Professor at the <a href="/cms/lang/fr/home/Formations/Departements_d-enseignement/mathematiques" target="_blank">department of applied mathematics</a> of CentraleSup&eacute;lec &amp; Full of professor at the department of computer science of the University of Paris-East
+	</li>
+	<li>
+		<a href="http://www.essec.fr/professeurs/nicolas-prat">
+		<strong>Prat Nicolas</strong>
+		</a> : Associate Professor, Information Systems, Decision Sciences and Statistics (IDS) Department, ESSEC Business School
+	</li>
+	<li>
+		<a href="http://www.essec.edu/faculty/jeroen-rombouts">
+		<strong>Rombouts Jeroen</strong>
+		</a> : Professor, Information Systems, Decision Sciences and Statistics (IDS) Department, ESSEC Business School
+	</li>
+	<li>
+		<strong>Kevin Bretonnel Cohen</strong>, American PhD from CU Boulder Director, Biomedical Text Mining Group Computational Bioscience Program University of Colorado School of Medicine
+	</li>
+	<li>
+		<strong>Arnaud De Bruyn</strong>, Belgian Ph.D. in Business Administration, Pennsylvania State University (USA) Professor, Marketing Department, ESSEC Business School.
+	</li>
+	<li>
+		<strong>Marie Kratz French,</strong> Doctorate in Applied Mathematics, UPMC Paris VI (France) Professor, Information Systems, Decision<br/>
+		Sciences and Statistics Department, ESSEC Business School.
+	</li>
+	<li>
+		<strong>Fr&eacute;d&eacute;ric Pascal</strong>, French Ph.D. in Signal Processing, Universit&eacute; Paris-Ouest Nanterre-La-D&eacute;fense (France) Professor, Applied Mathematics Department, CentraleSup&eacute;lec
+	</li>
+</ul>
+<p>&nbsp;</p>
+<div class="separation_contenus"><!-- Do not remove --></div>
+<!-- /cache:include -->
+</div>
+
+<!-- fmt:message key="ecp.institutionnel.linkIntroList.contribText"/-->
+	<!-- AddThis Button BEGIN -->
+
+<div>
+	<div id="sociaux" class="addthis_toolbox addthis_default_style">
+		<ul>
+			<li style="float:left;">
+				<a href="/home/rss_centrale_paris;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4" title="Centrale Paris Actualités"><img src="/templates/ecp_internet_templates/images/structure/p_rss.png" alt="Centrale Paris Actualités"/></a></li>
+		 	<li>
+				<a class="addthis_button_preferred_4"></a>
+			</li>
+		 	<li>
+				<a class="addthis_button_preferred_7"></a>
+			</li>
+			<li>
+				<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4c976f7154889bc4" class="addthis_button_compact"></a>
+			</li>
+		</ul>
+	</div>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4c976f7154889bc4"></script>
+<!-- AddThis Button END --></div>
+					<div id="col_droite">
+				    		
+<div id="contact">
+			<h3>
+				CONTACT</h3>
+			
+<span class="he colored">
+							<strong>
+								Academic Liaison</strong>
+						</span>
+					<span class="he">
+						<strong>Guillemette Breysse</strong>
+					</span>
+					<span >
+						<strong>Courriel : </strong>
+						<a href="mailto:guillemette.breysse@centralesupelec.fr">guillemette.breysse@centralesupelec.fr</a>
+						</span>
+</div>
+
+<div class="fin_cellule b_0"></div>
+	</div>
+					<div class="breaker"><!-- do not remove --></div>
+				</div>
+				<div class="breaker"><!-- do not remove --></div>
+			</div>	
+		</div>
+		
+
+
+
+<div class="breaker"><!-- do not remove --></div>
+	</div>
+</div>
+<div id="footer">
+	<ul id="contextuel_bas">
+	
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=677&cacheKey=___absolute___" --><li class="contextual_item">
+					<a href="http://www.saclay2017.ecp.fr/">
+						<img src="/files/content/sites/ecp_internet/files/outils/picto_don.png" alt="Soutenir l'École"/>
+						<span class="contextual_text">Soutenir l'École</span>									
+					</a>
+				</li><!-- /cache:include -->
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=681&cacheKey=___absolute___" --><li class="contextual_item">
+					<a href="/op/c1c0bms��1� „2ernet/home/Centrale_Paris/Travailler_a_Centrale_Paris">
+						<img src="/files/content/sites/ecp_internet/files/outils/picto_recrutement.png" alt="Offres d'emploi"/>
+						<span class="contextual_text">Offres d'emploi</span>									
+					</a>
+				</li><!-- /cache:include -->
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=682&cacheKey=___absolute___" --><li class="contextual_item">
+					<a href="/op/c1c0bms��1� „2ernet/home/nos_autres_sites">
+						<img src="/files/content/sites/ecp_internet/files/outils/picto_autres-sites.png" alt="Nos autres sites"/>
+						<span class="contextual_text">Nos autres sites</span>									
+					</a>
+				</li><!-- /cache:include -->
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=683&cacheKey=___absolute___" --><li class="contextual_item">
+					<a href="/op/c1c0bms��1� „2ernet/home/Marches_publics">
+						<img src="/files/content/sites/ecp_internet/files/outils/picto_marche-public.png" alt="Marchés publics"/>
+						<span class="contextual_text">Marchés publics</span>									
+					</a>
+				</li><!-- /cache:include -->
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=684&cacheKey=___absolute___" --><li class="contextual_item">
+					<a href="/op/c1c0bms��1� „2ernet/home/identite_visuelle">
+						<img src="/files/content/sites/ecp_internet/files/outils/picto_identite.png" alt="Identité visuelle"/>
+						<span class="contextual_text">Identité visuelle</span>									
+					</a>
+				</li><!-- /cache:include -->
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=685&cacheKey=___absolute___" --><li class="contextual_item">
+					<a href="/op/c1c0bms��1� „2ernet/home/lettre">
+						<img src="/files/content/sites/ecp_internet/files/outils/picto_newsletter.png" alt="Lettre d'information"/>
+						<span class="contextual_text">Lettre d'information</span>									
+					</a>
+				</li><!-- /cache:include -->
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=2985&cacheKey=___absolute___" --><li class="contextual_item">
+					<a href="http://">
+						<span class="contextual_text"></span>									
+					</a>
+				</li><!-- /cache:include -->
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=2987&cacheKey=___absolute___" --><li class="contextual_item">
+					<a href="http://">
+						<span class="contextual_text"></span>									
+					</a>
+				</li><!-- /cache:include -->
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=679&cacheKey=___absolute___" --><li class="contextual_item">
+					<a href="http://www.centralesupelec.fr">
+						<img src="/files/content/shared/files/pictos/picto_centralesupelec.png" alt="CentraleSupélec"/>
+						<span class="contextual_text">CentraleSupélec</span>									
+					</a>
+				</li><!-- /cache:include -->
+</ul>
+<div id="menu_all">
+<div id="background-menu_principal">
+	<div id="footer_principal">
+		<ul><li><a href='/home/Centrale_Paris;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Centrale Paris</a><ul class='nav_footer liste_centrale'><li><a href='/home/Centrale_Paris/chiffres;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Centrale Paris en bref</a></li><li><a href='/home/Centrale_Paris/Fondation_et_Histoire;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Histoire</a></li><li><a href='/home/Centrale_Paris/Organisation;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Organisation</a></li><li><a href='/home/Centrale_Paris/Ecole_citoyenne;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>École citoyenne</a></li><li><a href='/home/Centrale_Paris/Partenariats_institutionnels_et_academiques;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Partenariats</a></li><li><a href='/home/Centrale_Paris/enjeux_pedagogiques;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Enjeux du XXI<sup>e</sup> siècle</a></li><li><a href='/saclay-2-0;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Saclay 2.0</a></li><li><a href='/home/Centrale_Paris/Campus_et_vie_etudiante;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Campus</a></li><li><a href='/home/Centrale_Paris/Travailler_a_Centrale_Paris;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Recrutement</a></li><li><a href='/home/Centrale_Paris/Bibliotheque;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Bibliothèque</a></li><li><a href='/home/Centrale_Paris/projet_architectural_et_urbain;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Campus Paris-Saclay</a></li><li><a href='/home/Centrale_Paris/reseau_centraliens;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Le réseau des Centraliens</a></li></ul></li><li><a href='/home/Formations;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Formations</a><ul class='nav_footer liste_formation'><li><a href='/home/Formations/Cursus_ingenieur_centralien;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Programme ingénieur</a></li><li><a href='/masters;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Master</a></li><li><a href='/home/Formations/Masteres_Specialises;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Mastères Spécialisés</a></li><li><a href='/home/Recherche/Ecole_Doctorale;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>École Doctorale</a></li><li><a href='/home/Formations/MSc_in_Data_Science_and_Business_Analytics;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>MSc in Data Science</a></li><li><a href='/home/Formations/Formation_continue;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Executive Education</a></li><li><a href='/home/Formations/Education_en_ligne;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Education en ligne</a></li><li><a href='/home/Formations/Departements_d-enseignement;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Départements d'enseignement</a></li><li><a href='/home/Formations/Aides_financieres;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Aides financières</a></li><li><a href='/home/Formations/page-24609.html;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Entrepreneurship@Centrale</a></li></ul></li><li><a href='/home/Recherche;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Recherche</a><ul class='nav_footer liste_recherche'><li><a href='/home/Recherche/Centre_de_recherche;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Centre de recherche</a></li><li><a href='/home/Recherche/Laboratoires;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Laboratoires</a></li><li><a href='/home/Recherche/Ecole_Doctorale;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Ecole Doctorale</a></li><li><a href='/home/Recherche/Publications;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Publications</a></li><li><a href='/home/Recherche/chaires_d_entreprises;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Chaires d’entreprises</a></li><li><a href='/home/Recherche/portraits;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Portraits de chercheurs</a></li></ul></li><li><a href='/home/Entreprises;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Entreprises</a><ul class='nav_footer liste_entreprise'><li><a href='/home/Entreprises/partenariats_de_recrutement;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Partenariats de recrutement</a></li><li><a href='/home/Entreprises/partenariats_recherche_et_chaires;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Partenariats Recherche et Chaires</a></li><li><a href='/home/Entreprises/vous_etes_une_entreprise;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Devenir partenaire</a></li><li><a href='/entreprises-partenaires;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Entreprises partenaires</a></li><li><a href='/home/Entreprises/club_pme;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Club PME</a></li><li><a href='/home/Entreprises/centrale_paris_executive_education;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Executive Education</a></li><li><a href='/home/Entreprises/Incubateur;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Incubateur</a></li><li><a href='/home/Entreprises/taxe_d_apprentissage;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Taxe d'apprentissage</a></li></ul></li><li><a href='/home/International;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>International</a><ul class='nav_footer liste_international'><li><a href='/home/International/Developpement_international;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Developpement international</a></li><li><a href='http://www.ecp.fr/op/cms/home/International/Developpement_international/charte_erasmus_pour_l_enseignement_superieur_2014_2020'>Charte ERASMUS + 2014-2020</a></li><li><a href='/home/International/partir_a_l_international;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Partir à l'international</a></li><li><a href='/home/International/Etudier_a_Centrale_Paris;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Etudier à Centrale Paris</a></li><li><a href='/home/International/centrale_paris_en_chine__inde_et_maroc;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Centrale Paris en Chine, Inde et Maroc</a></li></ul></li><li><a href='/home/Admissions;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Admissions</a><ul class='nav_footer liste_admission'><li><a href='/home/Admissions/Admissions_cycle_ingenieur;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Cycle ingénieur</a></li><li><a href='/home/Admissions/admission_master;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Master</a></li><li><a href='/home/Admissions/mastere_specialise;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Mastère Spécialisé</a></li><li><a href='/home/Admissions/Admision_Ecole_Doctorale;jsessionid=D1B0C37A2EA90CCB4E7417E38BA5BFB4'>Ecole Doctorale</a></li></ul></li></ul><div class="breaker"><!-- ne rien mettre ici--></div>
+	</div>
+</div>
+</div><div class="footer_secondaire-wrapper">
+	
+<div id="footer_secondaire">
+		<ul id="footer_menubas">
+			<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=2868&cacheKey=___absolute___" --><li>
+							<a href="/op/c1c0bms��1� „2ernet/home/mentions_legales">
+								Mentions légales</a>
+						</li><!-- /cache:include -->
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=2872&cacheKey=___absolute___" --><li>
+							<a href="/op/c1c0bms��1� „2ernet/home/contacts">
+								Contacts</a>
+						</li><!-- /cache:include -->
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=2875&cacheKey=___absolute___" --><li>
+							<a href="/op/c1c0bms��1� „2ernet/home/plan_du_site">
+								Plan du site</a>
+						</li><!-- /cache:include -->
+<!-- cache:include src="http://old-www.ecp.fr/cms/site/ecp_internet/home/Formations/MSc_in_Data_Science_and_Business_Analytics/faculty?ctnid=30685&cacheKey=___absolute___" --><li>
+							<a href="/op/c1c0bms��1� „2ernet/home/presse">
+								Presse</a>
+						</li><!-- /cache:include -->
+</ul>
+	</div>
+</div></div>
+
+
+	</div>
+<script type='text/javascript'>
+var jahia_gwt_messages = {
+"standaloneShortMonths":"janv., févr., mars, avr., mai, juin, juil., aot, sept., oct., nov., dc.",
+"cancelText":"Annuler",
+"nextText":"Mois suivant (CTRL+Flche droite)",
+"workInProgressTitle":"Travail en cours, veuillez patienter...",
+"standaloneNarrowMonths":"J, F, M, A, M, J, J, A, S, O, N, D",
+"weekdays":"dimanche, lundi, mardi, mercredi, jeudi, vendredi, samedi",
+"shortWeekdays":"dim., lun., mar., mer., jeu., ven., sam.",
+"quarters":"1er trimestre, 2e trimestre, 3e trimestre, 4e trimestre",
+"startDay":"1",
+"eras":"av. J.-C., ap. J.-C.",
+"firstDayOfTheWeek":"2",
+"standaloneMonths":"janvier, février, mars, avril, mai, juin, juillet, aot, septembre, octobre, novembre, dcembre",
+"todayTip":"{0} (Barre d''espace",
+"monthYearText":"Choisissez un mois (CTRL+Flche haut ou bas pour changer d''anne.)",
+"timeFormats":"HH:mm:ss v, HH:mm:ss z, HH:mm:ss, HH:mm",
+"narrowWeekdays":"D, L, M, M, J, V, S",
+"maxText":"Cette date est postrieure  la date maximum",
+"okText":"&#160;OK&#160;",
+"shortQuarters":"T1, T2, T3, T4",
+"standaloneShortWeekdays":"dim., lun., mar., mer., jeu., ven., sam.",
+"weekendRange":"7, 1",
+"disabledDaysText":"",
+"shortMonths":"janv., fvr., mars, avr., mai, juin, juil., aot, sept., oct., nov., dc.",
+"minText":"Cette date est antrieure  la date minimum",
+"standaloneWeekdays":"dimanche, lundi, mardi, mercredi, jeudi, vendredi, samedi",
+"months":"janvier, fevrier, mars, avril, mai, juin, juillet, aot, septembre, octobre, novembre, dcembre",
+"disabledDatesText":"",
+"eraNames":"avant Jésus-Christ, aprs Jésus-Christ",
+"todayText":"Aujourd'hui",
+"standaloneNarrowWeekdays":"D, L, M, M, J, V, S",
+"dateFormats":"EEEE d MMMM yyyy, d MMMM yyyy, d MMM yyyy, dd/MM/yy",
+"workInProgressProgressText":"Chargement en cours...",
+"narrowMonths":"J, F, M, A, M, J, J, A, S, O, N, D",
+"prevText":"Mois prcdent (CTRL+Flche gauche)"
+};
+</script>
+</body>
+
+</html>

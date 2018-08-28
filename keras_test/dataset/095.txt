@@ -1,0 +1,602 @@
+PhD O 0 0 head html none 4 1
+School O 0 1 head html none 4 1
+- O 0 0 head html none 4 1
+Computer O 0 0 head html none 4 1
+Science O 0 0 head html none 4 1
+Department O 0 0 head html none 4 1
+- O 0 0 head html none 4 1
+Sapienza O 0 1 head html none 4 1
+University O 0 1 head html none 4 1
+of O 0 1 head html none 4 1
+Rome O 0 1 head html none 4 1
+
+PhD O 0 0 td tr phd_school 7 0
+School O 0 1 td tr phd_school 7 0
+
+Home O 0 1 li ul menu 9 0
+• O 0 0 li ul menu 9 0
+
+Students O 0 0 li ul menu 9 0
+• O 0 0 li ul menu 9 0
+
+Faculty O 0 0 li ul menu_current 9 0
+• O 0 0 li ul menu_current 9 0
+
+Syllabus O 0 0 li ul menu 9 0
+• O 0 0 li ul menu 9 0
+
+Awards O 0 0 li ul menu 9 0
+• O 0 0 li ul menu 9 0
+
+Seminars O 0 0 li ul menu 9 0
+• O 0 0 li ul menu 9 0
+
+How O 0 1 li ul menu 9 0
+to O 0 0 li ul menu 9 0
+apply O 0 0 li ul menu 9 0
+• O 0 0 li ul menu 9 0
+
+PhD O 0 0 li ul menu 9 0
+Thesis O 0 0 li ul menu 9 0
+• O 0 0 li ul menu 9 0
+
+Intranet O 0 0 li ul menu 9 0
+• O 0 0 li ul menu 9 0
+
+Faculty O 0 0 td tr body 7 1
+
+[ O 0 0 td tr alphabet 7 2
+A O 0 1 p td alphabet 8 0
+B O 0 1 p td alphabet 8 1
+C O 0 1 p td alphabet 8 2
+D O 0 1 p td alphabet 8 3
+E O 0 1 p td alphabet 8 4
+F O 0 0 p td alphabet 8 5
+G O 0 1 p td alphabet 8 6
+H O 0 1 p td alphabet 8 7
+I O 0 1 p td alphabet 8 8
+J O 0 1 p td alphabet 8 9
+K O 0 1 p td alphabet 8 10
+L O 0 1 p td alphabet 8 11
+M O 0 1 p td alphabet 8 12
+N O 0 1 p td alphabet 8 13
+O O 0 1 p td alphabet 8 14
+P O 0 1 p td alphabet 8 15
+Q O 0 1 p td alphabet 8 16
+R O 0 1 p td alphabet 8 17
+S O 0 1 p td alphabet 8 18
+T O 0 1 p td alphabet 8 19
+U O 0 1 p td alphabet 8 20
+V O 0 1 p td alphabet 8 21
+W O 0 1 p td alphabet 8 22
+X O 0 0 p td alphabet 8 23
+Y O 0 1 p td alphabet 8 24
+Z O 0 1 p td alphabet 8 25
+] O 0 0 td tr alphabet 7 2
+
+Professor O 0 0 td tr body 7 29
+Emeritus O 0 1 td tr body 7 29
+
+Corrado B-NAME 1 1 div td person 8 1
+Böhm I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 30
+bohm[at]di.uniroma1.it O 0 0 td tr person 7 30
+
+web O 0 0 td tr person 7 30
+page: O 0 0 td tr person 7 30
+www.dsi.uniroma1.it/~boehm/ O 0 0 div td person 8 4
+
+A O 0 1 td tr body 7 38
+
+Giuseppe B-NAME 1 1 div td person 8 0
+Ateniese I-NAME 1 1 div td person 8 0
+
+email: O 0 0 td tr person 7 39
+ateniese[at]di.uniroma1.it O 0 0 td tr person 7 39
+
+phone: O 0 0 td tr person 7 39
++39 O 0 0 td tr person 7 39
+06 O 0 0 td tr person 7 39
+4991 O 0 0 td tr person 7 39
+8308 O 0 0 td tr person 7 39
+
+B O 0 1 td tr body 7 45
+
+Novella B-NAME 1 1 div td person 8 1
+Bartolini I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 46
+bartolini[at]di.uniroma1.it O 0 0 td tr person 7 46
+
+web O 0 0 td tr person 7 46
+page: O 0 0 td tr person 7 46
+www.dsi.uniroma1.it/~novella/ O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+Giancarlo B-NAME 0 1 div td person 8 1
+Bongiovanni I-NAME 0 1 div td person 8 1
+
+email: O 0 0 td tr person 7 54
+bongiovanni[at]di.uniroma1.it O 0 0 td tr person 7 54
+
+web O 0 0 td tr person 7 54
+page: O 0 0 td tr person 7 54
+www.dsi.uniroma1.it/~bongio/ O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+Paolo B-NAME 1 1 div td person 8 1
+Bottoni I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 62
+bottoni[at]di.uniroma1.it O 0 0 td tr person 7 62
+
+web O 0 0 td tr person 7 62
+page: O 0 0 td tr person 7 62
+w3.uniroma1.it/dipinfo/scheda_docente.asp?cognome=Bottoni&nome=Paolo O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+C O 0 1 td tr body 7 71
+
+Tiziana B-NAME 1 1 div td person 8 1
+Calamoneri I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 72
+calamoneri[at]di.uniroma1.it O 0 0 td tr person 7 72
+
+web O 0 0 td tr person 7 72
+page: O 0 0 td tr person 7 72
+www.dsi.uniroma1.it/~calamo/ O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+Lorenzo B-NAME 1 1 div td person 8 0
+Carlucci I-NAME 1 1 div td person 8 0
+
+email: O 0 0 td tr person 7 80
+carlucci[at]di.uniroma1.it O 0 0 td tr person 7 80
+
+web O 0 0 td tr person 7 80
+page: O 0 0 td tr person 7 80
+www.cis.udel.edu/~carlucci/ O 0 0 div td person 8 3
+
+CV O 0 0 div td person 8 5
+
+Pietro B-NAME 1 1 div td person 8 1
+Cenciarelli I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 87
+cenciarelli[at]di.uniroma1.it O 0 0 td tr person 7 87
+
+web O 0 0 td tr person 7 87
+page: O 0 0 td tr person 7 87
+www.dsi.uniroma1.it/~cencia/ O 0 0 div td person 8 4
+
+Flavio B-NAME 1 1 div td person 8 1
+Chierichetti I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 94
+chierichetti[at]di.uniroma1.it O 0 0 td tr person 7 94
+
+web O 0 0 td tr person 7 94
+page: O 0 0 td tr person 7 94
+www.chierichetti.name O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+Luigi B-NAME 1 1 div td person 8 1
+Cinque I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 102
+cinque[at]di.uniroma1.it O 0 0 td tr person 7 102
+
+web O 0 0 td tr person 7 102
+page: O 0 0 td tr person 7 102
+w3.uniroma1.it/dipinfo/scheda_docente.asp?cognome=Cinque&nome=Luigi O 0 0 div td person 8 4
+
+D O 0 1 td tr body 7 110
+
+Sergio B-NAME 1 1 div td person 8 1
+De I-NAME 1 1 div td person 8 1
+Agostino I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 111
+deagostino[at]di.uniroma1.it O 0 0 td tr person 7 111
+
+web O 0 0 td tr person 7 111
+page: O 0 0 td tr person 7 111
+w3.uniroma1.it/dipinfo/scheda_docente.asp?cognome=De%20Agostino&nome=Sergio O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+Maria B-NAME 1 1 div td person 8 1
+De I-NAME 1 1 div td person 8 1
+Marsico I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 119
+demarsico[at]di.uniroma1.it O 0 0 td tr person 7 119
+
+web O 0 0 td tr person 7 119
+page: O 0 0 td tr person 7 119
+hci.uniroma1.it/demarsico/curriculum.htm O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+F O 0 0 td tr body 7 129
+
+Emanuela B-NAME 1 1 div td person 8 1
+Fachini I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 130
+fachini[at]di.uniroma1.it O 0 0 td tr person 7 130
+
+web O 0 0 td tr person 7 130
+page: O 0 0 td tr person 7 130
+w3.uniroma1.it/dipinfo/scheda_docente.asp?cognome=Fachini&nome=Emanuela O 0 0 div td person 8 4
+
+Irene B-NAME 1 1 div td person 8 1
+Finocchi I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 137
+finocchi[at]di.uniroma1.it O 0 0 td tr person 7 137
+
+web O 0 0 td tr person 7 137
+page: O 0 0 td tr person 7 137
+www.dsi.uniroma1.it/~finocchi/ O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+Gianni B-NAME 1 1 div td person 8 0
+Franceschini I-NAME 1 1 div td person 8 0
+
+email: O 0 0 td tr person 7 145
+franceschini[at]di.uniroma1.it O 0 0 td tr person 7 145
+
+web O 0 0 td tr person 7 145
+page: O 0 0 td tr person 7 145
+www.di.unipi.it/~francesc/ O 0 0 div td person 8 3
+
+G O 0 1 td tr body 7 152
+
+Nicola B-NAME 1 1 div td person 8 1
+Galesi I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 153
+galesi[at]di.uniroma1.it O 0 0 td tr person 7 153
+
+web O 0 0 td tr person 7 153
+page: O 0 0 td tr person 7 153
+www.dsi.uniroma1.it/~galesi/ O 0 0 div td person 8 4
+
+Daniele B-NAME 1 1 div td person 8 1
+Gorla I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 160
+gorla[at]di.uniroma1.it O 0 0 td tr person 7 160
+
+web O 0 0 td tr person 7 160
+page: O 0 0 td tr person 7 160
+www.dsi.uniroma1.it/~gorla/ O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+K O 0 1 td tr body 7 172
+
+János B-NAME 1 1 div td person 8 1
+Körner I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 173
+korner[at]di.uniroma1.it O 0 0 td tr person 7 173
+
+web O 0 0 td tr person 7 173
+page: O 0 0 td tr person 7 173
+w3.uniroma1.it/dipinfo/scheda_docente.asp?cognome=Korner&nome=Janos O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+L O 0 1 td tr body 7 182
+
+Anna B-NAME 1 1 div td person 8 1
+Labella I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 183
+labella[at]di.uniroma1.it O 0 0 td tr person 7 183
+
+web O 0 0 td tr person 7 183
+page: O 0 0 td tr person 7 183
+w3.uniroma1.it/dipinfo/scheda_docente.asp?cognome=Labella&nome=Anna O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+M O 0 1 td tr body 7 192
+
+Luigi B-NAME 1 1 div td person 8 1
+Vincenzo I-NAME 1 1 div td person 8 1
+Mancini I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 193
+lv.mancini[at]di.uniroma1.it O 0 0 td tr person 7 193
+
+web O 0 0 td tr person 7 193
+page: O 0 0 td tr person 7 193
+www.dsi.uniroma1.it/~mancini/ O 0 0 div td person 8 4
+
+Toni B-NAME 1 1 div td person 8 1
+Mancini I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 200
+tmancini[at]di.uniroma1.it O 0 0 td tr person 7 200
+
+web O 0 0 td tr person 7 200
+page: O 0 0 td tr person 7 200
+http://tmancini.di.uniroma1.it O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+Federico B-NAME 1 1 div td person 8 1
+Mari I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 208
+mari[at]di.uniroma1.it O 0 0 td tr person 7 208
+
+web O 0 0 td tr person 7 208
+page: O 0 0 td tr person 7 208
+mari.di.uniroma1.it O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+Gaia B-NAME 1 1 div td person 8 0
+Maselli I-NAME 1 1 div td person 8 0
+
+email: O 0 0 td tr person 7 216
+maselli[at]di.uniroma1.it O 0 0 td tr person 7 216
+
+web O 0 0 td tr person 7 216
+page: O 0 0 td tr person 7 216
+http://reti.dsi.uniroma1.it/eng/maselli/ O 0 0 div td person 8 3
+
+Annalisa B-NAME 1 1 div td person 8 1
+Massini I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 222
+massini[at]di.uniroma1.it O 0 0 td tr person 7 222
+
+web O 0 0 td tr person 7 222
+page: O 0 0 td tr person 7 222
+twiki.di.uniroma1.it/twiki/view/Users/AnnalisaMassini O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+Alessandro B-NAME 1 1 div td person 8 1
+Mei I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 230
+mei[at]di.uniroma1.it O 0 0 td tr person 7 230
+
+web O 0 0 td tr person 7 230
+page: O 0 0 td tr person 7 230
+www.dsi.uniroma1.it/~mei/ O 0 0 div td person 8 4
+
+Igor B-NAME 1 1 div td person 8 0
+Melatti I-NAME 1 1 div td person 8 0
+
+email: O 0 0 td tr person 7 237
+melatti[at]di.uniroma1.it O 0 0 td tr person 7 237
+
+web O 0 0 td tr person 7 237
+page: O 0 0 td tr person 7 237
+http://wwwusers.di.uniroma1.it/~melatti/ O 0 0 div td person 8 3
+
+CV O 0 0 div td person 8 5
+
+Angelo B-NAME 1 1 div td person 8 1
+Monti I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 244
+monti[at]di.uniroma1.it O 0 0 td tr person 7 244
+
+web O 0 0 td tr person 7 244
+page: O 0 0 td tr person 7 244
+w3.uniroma1.it/dipinfo/scheda_docente.asp?cognome=Monti&nome=Angelo O 0 0 div td person 8 4
+
+Marina B-NAME 1 1 div td person 8 1
+Moscarini I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 251
+moscarini[at]di.uniroma1.it O 0 0 td tr person 7 251
+
+web O 0 0 td tr person 7 251
+page: O 0 0 td tr person 7 251
+w3.uniroma1.it/dipinfo/scheda_docente.asp?cognome=Moscarini&nome=Marina O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+N O 0 1 td tr body 7 260
+
+Roberto B-NAME 1 1 div td person 8 1
+Navigli I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 261
+navigli[at]di.uniroma1.it O 0 0 td tr person 7 261
+
+web O 0 0 td tr person 7 261
+page: O 0 0 td tr person 7 261
+www.dsi.uniroma1.it/~navigli/ O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+P O 0 1 td tr body 7 271
+
+Alessandro B-NAME 1 1 div td person 8 1
+Panconesi I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 272
+panconesi[at]di.uniroma1.it O 0 0 td tr person 7 272
+
+web O 0 0 td tr person 7 272
+page: O 0 0 td tr person 7 272
+www.dsi.uniroma1.it/~ale/ O 0 0 div td person 8 4
+
+Emanuele B-NAME 1 1 div td person 8 1
+Panizzi I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 279
+panizzi[at]di.uniroma1.it O 0 0 td tr person 7 279
+
+web O 0 0 td tr person 7 279
+page: O 0 0 td tr person 7 279
+hci.uniroma1.it/panizzi/ O 0 0 div td person 8 4
+
+Francesco B-NAME 1 1 div td person 8 1
+Parisi I-NAME 1 1 div td person 8 1
+Presicce I-NAME 0 1 div td person 8 1
+
+email: O 0 0 td tr person 7 286
+parisi[at]di.uniroma1.it O 0 0 td tr person 7 286
+
+web O 0 0 td tr person 7 286
+page: O 0 0 td tr person 7 286
+www.dsi.uniroma1.it/~parisi/welcome.html O 0 0 div td person 8 4
+
+Fabio B-NAME 1 1 div td person 8 0
+Pellacini I-NAME 1 1 div td person 8 0
+
+email: O 0 0 td tr person 7 293
+pellacini[at]di.uniroma1.it O 0 0 td tr person 7 293
+
+web O 0 0 td tr person 7 293
+page: O 0 0 td tr person 7 293
+http://pellacini.di.uniroma1.it/ O 0 0 div td person 8 3
+
+Rossella B-NAME 1 1 div td person 8 1
+Petreschi I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 299
+petreschi[at]di.uniroma1.it O 0 0 td tr person 7 299
+
+web O 0 0 td tr person 7 299
+page: O 0 0 td tr person 7 299
+w3.uniroma1.it/dipinfo/scheda_docente.asp?cognome=Petreschi&nome=Rossella O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+Chiara B-NAME 1 1 div td person 8 1
+Petrioli I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 307
+petrioli[at]di.uniroma1.it O 0 0 td tr person 7 307
+
+web O 0 0 td tr person 7 307
+page: O 0 0 td tr person 7 307
+reti.dsi.uniroma1.it/eng/petrioli/chiara-petrioli.html O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+Adolfo B-NAME 1 1 div td person 8 1
+Piperno I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 315
+piperno[at]di.uniroma1.it O 0 0 td tr person 7 315
+
+web O 0 0 td tr person 7 315
+page: O 0 0 td tr person 7 315
+www.dsi.uniroma1.it/~piperno/pers/Home.html O 0 0 div td person 8 4
+
+S O 0 1 td tr body 7 325
+
+Ivano B-NAME 1 1 div td person 8 1
+Salvo I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 326
+salvo[at]di.uniroma1.it O 0 0 td tr person 7 326
+
+web O 0 0 td tr person 7 326
+page: O 0 0 td tr person 7 326
+www.dsi.uniroma1.it/~salvo/ O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+Julinda B-NAME 1 1 div td person 8 1
+Stefa I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 334
+stefa[at]di.uniroma1.it O 0 0 td tr person 7 334
+
+web O 0 0 td tr person 7 334
+page: O 0 0 td tr person 7 334
+http://wwwusers.di.uniroma1.it/~stefa/ O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+Andrea B-NAME 1 1 div td person 8 1
+Sterbini I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 342
+sterbini[at]di.uniroma1.it O 0 0 td tr person 7 342
+
+web O 0 0 td tr person 7 342
+page: O 0 0 td tr person 7 342
+twiki.dsi.uniroma1.it/twiki/view/Users/AndreaSterbini O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+T O 0 1 td tr body 7 351
+
+Enrico B-NAME 1 1 div td person 8 1
+Tronci I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 352
+tronci[at]di.uniroma1.it O 0 0 td tr person 7 352
+
+web O 0 0 td tr person 7 352
+page: O 0 0 td tr person 7 352
+www.dsi.uniroma1.it/~tronci/ O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+V O 0 1 td tr body 7 362
+
+Paola B-NAME 1 1 div td person 8 1
+Velardi I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 363
+velardi[at]di.uniroma1.it O 0 0 td tr person 7 363
+
+web O 0 0 td tr person 7 363
+page: O 0 0 td tr person 7 363
+www.dsi.uniroma1.it/~velardi/welcome.htm O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+Daniele B-NAME 1 1 div td person 8 0
+Venturi I-NAME 1 1 div td person 8 0
+
+email: O 0 0 td tr person 7 371
+venturi[at]di.uniroma1.it O 0 0 td tr person 7 371
+
+web O 0 0 td tr person 7 371
+page: O 0 0 td tr person 7 371
+http://danieleventuri.altervista.org/ O 0 0 div td person 8 3
+
+W O 0 1 td tr body 7 378
+
+Paul B-NAME 1 1 div td person 8 1
+Wollan I-NAME 1 1 div td person 8 1
+
+email: O 0 0 td tr person 7 379
+wollan[at]di.uniroma1.it O 0 0 td tr person 7 379
+
+web O 0 0 td tr person 7 379
+page: O 0 0 td tr person 7 379
+http://wwwusers.di.uniroma1.it/~wollan O 0 0 div td person 8 4
+
+CV O 0 0 div td person 8 6
+
+XHTML O 0 0 td tr footer 7 0
+1.0 O 0 0 td tr footer 7 0
+- O 0 0 tr table footer 6 1
+CSS O 0 0 td tr footer 7 1
+- O 0 0 tr table footer 6 1

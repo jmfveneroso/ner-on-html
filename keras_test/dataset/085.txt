@@ -1,0 +1,300 @@
+Faculty O 0 0 head html none 4 6
+members O 0 0 head html none 4 6
+| O 0 0 head html none 4 6
+Département O 0 1 head html none 4 6
+d'Informatique O 0 0 head html none 4 6
+
+Skip O 0 1 div body element-invisible.element-focusable 5 0
+to O 0 0 div body element-invisible.element-focusable 5 0
+main O 0 0 div body element-invisible.element-focusable 5 0
+content O 0 0 div body element-invisible.element-focusable 5 0
+
+Username O 0 0 div div form-item.form-type-textfield.form-item-name 13 0
+* O 0 0 label div form-required 14 0
+
+Password O 0 0 div div form-item.form-type-password.form-item-pass 13 0
+* O 0 0 label div form-required 14 0
+
+Département O 0 1 h1 div logo-picture-true 9 0
+d'Informatique O 0 0 h1 div logo-picture-true 9 0
+
+News O 0 0 li ul menu-8976.menu-path-actualités.first.odd. 11 0
+
+Studies O 0 0 li ul menu-8701.menuparent.menu-path-node-1755.even. 11 0
+
+Undergraduate O 0 0 li ul menu-8702.menu-path-node-1736.first.odd. 13 0
+studies O 0 0 li ul menu-8702.menu-path-node-1736.first.odd. 13 0
+
+Graduate O 1 1 li ul menu-8703.menu-path-node-1764.even. 13 0
+Studies O 0 0 li ul menu-8703.menu-path-node-1764.even. 13 0
+
+Doctoral O 0 0 li ul menu-8708.menu-path-node-1744.odd.last. 13 0
+programme O 0 0 li ul menu-8708.menu-path-node-1744.odd.last. 13 0
+
+Research O 0 1 li ul menu-8363.menuparent.menu-path-node-55.odd. 11 0
+
+At O 0 1 li ul menu-8392.menu-path-node-55.first.odd. 13 0
+Uni. O 0 0 li ul menu-8392.menu-path-node-55.first.odd. 13 0
+Paris O 0 1 li ul menu-8392.menu-path-node-55.first.odd. 13 0
+Sud O 0 1 li ul menu-8392.menu-path-node-55.first.odd. 13 0
+
+LRI O 0 0 li ul menu-8393.menu-path-lrifr-#lri#lri.even. 13 0
+
+LIMSI O 0 0 li ul menu-8394.menu-path-limsifr-#limsi#limsi.odd.last. 13 0
+
+Liens O 0 0 li ul menu-8366.menu-path-node-462.even. 11 0
+utiles O 0 0 li ul menu-8366.menu-path-node-462.even. 11 0
+
+People O 0 1 li ul menu-8353.menuparent.menu-path-node-1661.active-trail.odd. 11 0
+
+Organigram O 0 0 li ul menu-8354.menu-path-node-1661.first.odd. 13 0
+
+Roles O 0 1 li ul menu-8981.menu-path-node-2795.even. 13 0
+and O 0 1 li ul menu-8981.menu-path-node-2795.even. 13 0
+responsibilities O 0 0 li ul menu-8981.menu-path-node-2795.even. 13 0
+
+Professors O 0 0 li ul active 13 0
+
+Resources O 0 0 li ul menu-8376.menu-path-Documentation.even. 11 0
+
+Links O 0 1 li ul menu-8367.menu-path-node-462.odd. 11 0
+
+Contact O 0 0 li ul menu-8960.menu-path-node-2715.even.last. 11 0
+
+Languages O 0 0 div div title 9 0
+
+Fr O 0 0 li ul language-link 12 0
+
+En O 0 1 li ul language-link.active 12 0
+
+Students O 0 0 div div title 8 0
+
+Admissions O 0 0 li ul first.last.leaf 11 0
+
+You O 0 1 div div element-invisible 6 0
+are O 0 0 div div element-invisible 6 0
+here O 0 0 div div element-invisible 6 0
+
+Home O 0 1 div div breadcrumb 7 0
+» O 0 0 div div breadcrumb 6 1
+People O 0 1 div div breadcrumb 7 1
+
+Faculty O 0 0 div div with-tabs 7 0
+members O 0 0 div div with-tabs 7 0
+
+Last O 0 1 tr thead views-field.views-field-field-enseignant-nom 20 0
+name O 0 0 tr thead views-field.views-field-field-enseignant-nom 20 0
+
+First O 0 1 tr thead views-field.views-field-field-enseignant-prenom 20 1
+Name O 0 1 tr thead views-field.views-field-field-enseignant-prenom 20 1
+
+More O 0 1 tr thead views-field.views-field-view-node 20 2
+details O 0 0 tr thead views-field.views-field-view-node 20 2
+
+Al B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Agha I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Khaldoun I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Allauzen B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Alexandre I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Amar B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Patrick I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Ammi B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Mehdi I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Beaudouin-Lafon B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Michel I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Beauquier B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Joffroy I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Benzaken B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Véronique I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Bezerianos B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Anastasia I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Bidoit B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Nicole I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Blondel B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Frédérique I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Boukhatem B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Lila I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Burman B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Janna I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Chatalic B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Philippe I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Chen B-NAME 1 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Lin I-NAME 1 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Cohen-Boulakia B-NAME 0 0 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Sarah I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Conchon B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Sylvain I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Dague B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Philippe I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Denise B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Alain I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Etiemble B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Daniel I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Fleury B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Cédric I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Forge B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+David I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Froidevaux B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Christine I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Germain B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Cécile I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Gherbi B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Rachid I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Gruau B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Frédéric I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Herschel B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Mélanie I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Hivert B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Florent I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Jacquemin B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Christian I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Lavergne B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Thomas I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Le B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Thanh I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Tho I-NAME 1 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Lisser B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Abdel I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Longuet B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Delphine I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Mandel B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Louis I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Martin B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Steven I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Paulin-Mohring B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Christine I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Quadri B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Dominique I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Rosaz B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Laurent I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Sabouret B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Nicolas I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Safar B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Brigitte I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Tannier B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Xavier I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Thiery B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Nicolas I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Ventos B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Véronique I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Vernier B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Frédéric I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Voisin B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Frédéric I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Waller B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Emmanuel I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Wisniewski B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Guillaume I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Wolff B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Burkhart I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Zaidi B-NAME 0 1 tr tbody views-field.views-field-field-enseignant-nom 20 0
+Fatiha I-NAME 0 1 tr tbody views-field.views-field-field-enseignant-prenom 20 1
+view O 0 0 td tr views-field.views-field-view-node 21 0
+
+Département O 0 1 div div content.clearfix 9 0
+d'Informatique O 0 0 div div content.clearfix 9 0
+Faculté O 0 0 div div content.clearfix 9 0
+des O 0 1 div div content.clearfix 9 0
+Sciences O 0 0 div div content.clearfix 9 0
+d'Orsay O 0 0 div div content.clearfix 9 0
+- O 0 0 div div content.clearfix 9 0
+Université O 0 0 p div content.clearfix 10 0
+Paris O 0 1 p div content.clearfix 10 0
+Sud O 0 1 p div content.clearfix 10 0
+- O 0 0 div div content.clearfix 9 0
+Informations O 0 0 p div content.clearfix 10 1
+légales O 0 0 p div content.clearfix 10 1

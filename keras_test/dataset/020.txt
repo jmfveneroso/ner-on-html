@@ -1,0 +1,893 @@
+Faculty O 0 0 meta meta none 7 0
+Directory O 0 0 meta meta none 7 0
+- O 0 0 meta meta none 7 0
+Leavey O 0 1 meta meta none 7 0
+School O 0 1 meta meta none 7 0
+of O 0 1 meta meta none 7 0
+Business O 0 0 meta meta none 7 0
+- O 0 0 meta meta none 7 0
+Santa O 0 1 meta meta none 7 0
+Clara O 0 1 meta meta none 7 0
+University O 0 1 meta meta none 7 0
+
+Skip O 0 1 body html sr-only.sr-only-focusable 4 2
+to O 0 0 body html sr-only.sr-only-focusable 4 2
+main O 0 0 body html sr-only.sr-only-focusable 4 2
+content O 0 0 body html sr-only.sr-only-focusable 4 2
+
+Santa O 0 1 a div sr-only 10 1
+Clara O 0 1 a div sr-only 10 1
+University O 0 1 a div sr-only 10 1
+Homepage O 0 0 a div sr-only 10 1
+
+Santa O 0 1 div div title-small 10 0
+Clara O 0 1 div div title-small 10 0
+University O 0 1 div div title-small 10 0
+Leavey O 0 1 div div title-large 10 1
+School O 0 1 div div title-large 10 1
+of O 0 1 div div title-large 10 1
+Business O 0 0 div div title-large 10 1
+
+Toggle O 0 0 span button sr-only 11 0
+navigation O 0 0 span button sr-only 11 0
+Menu O 0 1 button div menu-label 10 1
+
+Toggle O 0 0 span button sr-only 11 0
+navigation O 0 0 span button sr-only 11 0
+Gateways O 0 0 button div menu-label.text-hide 10 0
+
+Search O 0 0 div form sr-only 11 0
+
+About O 0 0 li ul dropdown 9 0
+LSB O 0 0 li ul dropdown 9 0
+
+View O 0 0 span a sr-only 12 0
+subcategory O 0 0 span a sr-only 12 0
+links O 0 0 span a sr-only 12 0
+
+About O 0 0 li ul dropdown-menu 11 0
+LSB O 0 0 li ul dropdown-menu 11 0
+
+Leadership O 0 0 li ul dropdown-menu 11 0
+
+Lucas O 0 1 li ul dropdown-menu 11 0
+Hall O 0 1 li ul dropdown-menu 11 0
+
+Alumni O 0 0 li ul dropdown-menu 11 0
+
+Staff O 0 1 li ul dropdown-menu 11 0
+Directory O 0 0 li ul dropdown-menu 11 0
+
+Faculty O 0 0 li ul dropdown-menu 11 0
+Governance O 0 0 li ul dropdown-menu 11 0
+
+Contact O 0 0 li ul dropdown-menu 11 0
+Us O 0 1 li ul dropdown-menu 11 0
+
+Undergraduates O 0 0 li ul dropdown 9 0
+
+View O 0 0 span a sr-only 12 0
+subcategory O 0 0 span a sr-only 12 0
+links O 0 0 span a sr-only 12 0
+
+Undergraduates O 0 0 li ul dropdown-menu 11 0
+
+Academics O 0 0 li ul dropdown-menu 11 0
+
+Community O 0 1 li ul dropdown-menu 11 0
+& O 0 0 li ul dropdown-menu 11 0
+Campus O 0 1 li ul dropdown-menu 11 0
+Involvement O 0 0 li ul dropdown-menu 11 0
+
+Advising O 0 0 li ul dropdown-menu 11 0
+
+Calendar O 0 0 li ul dropdown-menu 11 0
+
+Contact O 0 0 li ul dropdown-menu 11 0
+Undergraduate O 0 0 li ul dropdown-menu 11 0
+Business O 0 0 li ul dropdown-menu 11 0
+
+Graduate O 1 1 li ul dropdown 9 0
+
+View O 0 0 span a sr-only 12 0
+subcategory O 0 0 span a sr-only 12 0
+links O 0 0 span a sr-only 12 0
+
+Graduate O 1 1 li ul dropdown-menu 11 0
+
+MBA O 0 0 li ul dropdown-menu 11 0
+Degrees O 0 0 li ul dropdown-menu 11 0
+
+MS O 0 1 li ul dropdown-menu 11 0
+Degrees O 0 0 li ul dropdown-menu 11 0
+
+Current O 0 1 li ul dropdown-menu 11 0
+Students O 0 0 li ul dropdown-menu 11 0
+
+Alumni O 0 0 li ul dropdown-menu 11 0
+
+Academics O 0 0 li ul dropdown 9 0
+
+View O 0 0 span a sr-only 12 0
+subcategory O 0 0 span a sr-only 12 0
+links O 0 0 span a sr-only 12 0
+
+Academics O 0 0 li ul dropdown-menu 11 0
+
+Academic O 0 0 li ul dropdown-menu 11 0
+Departments O 0 0 li ul dropdown-menu 11 0
+
+Majors O 0 1 li ul dropdown-menu 11 0
+and O 0 1 li ul dropdown-menu 11 0
+Minors O 0 1 li ul dropdown-menu 11 0
+
+Graduate O 1 1 li ul dropdown-menu 11 0
+Degrees O 0 0 li ul dropdown-menu 11 0
+
+Faculty O 0 0 li ul dropdown-menu 11 0
+Directory O 0 0 li ul dropdown-menu 11 0
+
+Faculty O 0 0 li ul dropdown-menu 11 0
+Research O 0 1 li ul dropdown-menu 11 0
+
+Executive O 0 0 li ul dropdown 9 0
+Education O 0 0 li ul dropdown 9 0
+
+View O 0 0 span a sr-only 12 0
+subcategory O 0 0 span a sr-only 12 0
+links O 0 0 span a sr-only 12 0
+
+Executive O 0 0 li ul dropdown-menu 11 0
+Education O 0 0 li ul dropdown-menu 11 0
+
+About O 0 0 li ul dropdown-menu 11 0
+Us O 0 1 li ul dropdown-menu 11 0
+
+Custom O 0 0 li ul dropdown-menu 11 0
+University O 0 1 li ul dropdown-menu 11 0
+Partnerships O 0 0 li ul dropdown-menu 11 0
+
+Custom O 0 0 li ul dropdown-menu 11 0
+Corporate O 0 0 li ul dropdown-menu 11 0
+Learning O 0 1 li ul dropdown-menu 11 0
+Solutions O 0 0 li ul dropdown-menu 11 0
+
+Certificate O 0 0 li ul dropdown-menu 11 0
+of O 0 1 li ul dropdown-menu 11 0
+Advanced O 0 0 li ul dropdown-menu 11 0
+Accounting O 0 0 li ul dropdown-menu 11 0
+Proficiency O 0 0 li ul dropdown-menu 11 0
+
+Certified O 0 0 li ul dropdown-menu 11 0
+Equity O 0 0 li ul dropdown-menu 11 0
+Professional O 0 0 li ul dropdown-menu 11 0
+Program O 0 0 li ul dropdown-menu 11 0
+(CEP) O 0 0 li ul dropdown-menu 11 0
+
+Productizing O 0 0 li ul dropdown-menu 11 0
+Innovation O 0 0 li ul dropdown-menu 11 0
+Certificate O 0 0 li ul dropdown-menu 11 0
+Program O 0 0 li ul dropdown-menu 11 0
+
+Certified O 0 0 li ul dropdown-menu 11 0
+Financial O 0 0 li ul dropdown-menu 11 0
+Planner O 0 1 li ul dropdown-menu 11 0
+Program O 0 0 li ul dropdown-menu 11 0
+(CFP) O 0 0 li ul dropdown-menu 11 0
+
+Contact O 0 0 li ul dropdown-menu 11 0
+Us O 0 1 li ul dropdown-menu 11 0
+
+Institutes O 0 0 li ul dropdown 9 0
+
+View O 0 0 span a sr-only 12 0
+subcategory O 0 0 span a sr-only 12 0
+links O 0 0 span a sr-only 12 0
+
+Institutes O 0 0 li ul dropdown-menu 11 0
+
+Center O 0 1 li ul dropdown-menu 11 0
+for O 0 1 li ul dropdown-menu 11 0
+Innovation O 0 0 li ul dropdown-menu 11 0
+and O 0 1 li ul dropdown-menu 11 0
+Entrepreneurship O 0 0 li ul dropdown-menu 11 0
+(CIE) O 0 0 li ul dropdown-menu 11 0
+
+Food O 0 0 li ul dropdown-menu 11 0
+& O 0 0 li ul dropdown-menu 11 0
+Agribusiness O 0 0 li ul dropdown-menu 11 0
+Institute O 0 0 li ul dropdown-menu 11 0
+
+My O 0 1 li ul dropdown-menu 11 0
+Own O 0 1 li ul dropdown-menu 11 0
+Business O 0 0 li ul dropdown-menu 11 0
+Institute O 0 0 li ul dropdown-menu 11 0
+
+Retail O 0 0 li ul dropdown-menu 11 0
+Management O 0 1 li ul dropdown-menu 11 0
+Institute O 0 0 li ul dropdown-menu 11 0
+
+News O 0 0 li ul dropdown 9 0
+& O 0 0 li ul dropdown 9 0
+Events O 0 0 li ul dropdown 9 0
+
+View O 0 0 span a sr-only 12 0
+subcategory O 0 0 span a sr-only 12 0
+links O 0 0 span a sr-only 12 0
+
+News O 0 0 li ul dropdown-menu 11 0
+& O 0 0 li ul dropdown-menu 11 0
+Events O 0 0 li ul dropdown-menu 11 0
+
+Featured O 0 0 li ul dropdown-menu 11 0
+Events O 0 0 li ul dropdown-menu 11 0
+
+Top O 0 1 li ul dropdown-menu 11 0
+Stories O 0 0 li ul dropdown-menu 11 0
+
+Calendar O 0 0 li ul dropdown-menu 11 0
+
+Newsmakers O 0 0 li ul dropdown-menu 11 0
+
+LSB O 0 0 li ul dropdown-menu 11 0
+on O 0 0 li ul dropdown-menu 11 0
+Social O 0 0 li ul dropdown-menu 11 0
+
+Main O 0 1 a li text-hide.mission 10 0
+Navigation O 0 0 a li text-hide.mission 10 0
+for O 0 1 a li text-hide.mission 10 0
+SCU.EDU O 0 0 a li hidden-sm 10 1
+SCU O 0 0 a li hidden-xs.hidden-md.hidden-lg 10 2
+
+Home O 0 1 li ul nav.nav-pills 13 0
+
+About O 0 0 li ul nav.nav-pills 13 0
+SCU O 0 0 li ul nav.nav-pills 13 0
+
+Academics O 0 0 li ul nav.nav-pills 13 0
+
+Admission O 0 0 li ul nav.nav-pills 13 0
+
+Campus O 0 1 li ul nav.nav-pills 13 0
+Life O 0 1 li ul nav.nav-pills 13 0
+
+Athletics O 0 0 li ul nav.nav-pills 13 0
+
+Global O 0 1 li ul nav.nav-pills 13 0
+
+Giving O 0 0 li ul nav.nav-pills 13 0
+
+News O 0 0 li ul nav.nav-pills 13 0
+& O 0 0 li ul nav.nav-pills 13 0
+Events O 0 0 li ul nav.nav-pills 13 0
+
+People O 0 1 li ul dropdown-toggle.text-hide.hidden-xs.people-gateways 9 0
+Gateways O 0 0 li ul dropdown-toggle.text-hide.hidden-xs.people-gateways 9 0
+
+Students O 0 0 li ul nav.nav-pills.navbar-right 13 0
+
+Faculty O 0 0 li ul nav.nav-pills.navbar-right 13 0
+& O 0 0 li ul nav.nav-pills.navbar-right 13 0
+Staff O 0 1 li ul nav.nav-pills.navbar-right 13 0
+
+Families O 0 0 li ul nav.nav-pills.navbar-right 13 0
+
+Alumni O 0 0 li ul nav.nav-pills.navbar-right 13 0
+
+Visitors O 0 0 li ul nav.nav-pills.navbar-right 13 0
+
+Offices O 0 0 a li gateway-dropdown 10 0
+& O 0 0 a li gateway-dropdown 10 0
+Services O 0 0 a li gateway-dropdown 10 0
+
+Offices O 0 0 div div col-sm-12 13 0
+and O 0 1 div div col-sm-12 13 0
+Services O 0 0 div div col-sm-12 13 0
+at O 0 0 div div col-sm-12 13 0
+Santa O 0 1 div div col-sm-12 13 0
+Clara O 0 1 div div col-sm-12 13 0
+University O 0 1 div div col-sm-12 13 0
+
+Campus O 0 1 li ul col-sm-3 15 0
+Safety O 0 0 li ul col-sm-3 15 0
+
+Enrollment O 0 0 li ul col-sm-3 15 0
+Services O 0 0 li ul col-sm-3 15 0
+
+Campus O 0 1 li ul col-sm-3 15 0
+Ministry O 0 0 li ul col-sm-3 15 0
+
+Facilities O 0 0 li ul col-sm-3 15 0
+
+Diversity O 0 0 li ul col-sm-3 15 0
+and O 0 1 li ul col-sm-3 15 0
+Inclusion O 0 0 li ul col-sm-3 15 0
+
+Technology O 0 0 li ul col-sm-3 15 0
+at O 0 0 li ul col-sm-3 15 0
+SCU O 0 0 li ul col-sm-3 15 0
+
+Recreation O 0 0 li ul col-sm-3 15 0
+
+Sustainability O 0 0 li ul col-sm-3 15 0
+
+Arts O 0 1 li ul col-sm-3 15 0
+at O 0 0 li ul col-sm-3 15 0
+SCU O 0 0 li ul col-sm-3 15 0
+
+Bookstore O 0 0 li ul col-sm-3 15 0
+
+Career O 0 0 li ul col-sm-3 15 0
+Center O 0 1 li ul col-sm-3 15 0
+
+Human O 0 1 li ul col-sm-3 15 0
+Resources O 0 0 li ul col-sm-3 15 0
+
+University O 0 1 li ul col-sm-3 15 0
+Library O 0 0 li ul col-sm-3 15 0
+
+Mission O 0 1 li ul col-sm-3 15 0
+Church O 0 1 li ul col-sm-3 15 0
+
+SCU O 0 0 li ul col-sm-3 15 0
+Login O 0 0 li ul col-sm-3 15 0
+
+Offices O 0 0 div div more-link 13 7
+and O 0 1 div div more-link 13 7
+Services O 0 0 div div more-link 13 7
+» O 0 0 div div more-link 13 7
+
+Schools O 0 0 a li gateway-dropdown 10 0
+& O 0 0 a li gateway-dropdown 10 0
+Centers O 0 0 a li gateway-dropdown 10 0
+
+Schools O 0 0 div div col-sm-7 13 0
+and O 0 1 div div col-sm-7 13 0
+Colleges O 0 0 div div col-sm-7 13 0
+
+College O 0 0 li ul col-sm-6 17 0
+of O 0 1 li ul col-sm-6 17 0
+Arts O 0 1 li ul col-sm-6 17 0
+and O 0 1 li ul col-sm-6 17 0
+Sciences O 0 0 li ul col-sm-6 17 0
+
+Education O 0 0 li ul col-sm-6 17 0
+and O 0 1 li ul col-sm-6 17 0
+Counseling O 0 0 li ul col-sm-6 17 0
+Psychology O 0 0 li ul col-sm-6 17 0
+
+Leavey O 0 1 li ul col-sm-6 17 0
+School O 0 1 li ul col-sm-6 17 0
+of O 0 1 li ul col-sm-6 17 0
+Business O 0 0 li ul col-sm-6 17 0
+
+School O 0 1 li ul col-sm-6 17 0
+of O 0 1 li ul col-sm-6 17 0
+Engineering O 0 0 li ul col-sm-6 17 0
+
+Jesuit O 0 0 li ul col-sm-6 17 0
+School O 0 1 li ul col-sm-6 17 0
+of O 0 1 li ul col-sm-6 17 0
+Theology O 0 0 li ul col-sm-6 17 0
+
+School O 0 1 li ul col-sm-6 17 0
+of O 0 1 li ul col-sm-6 17 0
+Law O 0 1 li ul col-sm-6 17 0
+
+Centers O 0 0 div div col-sm-5 13 0
+of O 0 1 div div col-sm-5 13 0
+Distinction O 0 0 div div col-sm-5 13 0
+
+Miller O 0 1 li ul col-sm-12 17 0
+Center O 0 1 li ul col-sm-12 17 0
+for O 0 1 li ul col-sm-12 17 0
+Social O 0 0 li ul col-sm-12 17 0
+Entrepreneurship O 0 0 li ul col-sm-12 17 0
+
+Ignatian O 0 0 li ul col-sm-12 17 0
+Center O 0 1 li ul col-sm-12 17 0
+for O 0 1 li ul col-sm-12 17 0
+Jesuit O 0 0 li ul col-sm-12 17 0
+Education O 0 0 li ul col-sm-12 17 0
+
+Markkula O 0 1 li ul col-sm-12 17 0
+Center O 0 1 li ul col-sm-12 17 0
+for O 0 1 li ul col-sm-12 17 0
+Applied O 0 0 li ul col-sm-12 17 0
+Ethics O 0 0 li ul col-sm-12 17 0
+
+Centers O 0 0 div div more-link 15 7
+and O 0 1 div div more-link 15 7
+Institutes O 0 0 div div more-link 15 7
+» O 0 0 div div more-link 15 7
+
+Open O 0 0 a li sr-only 10 0
+Search O 0 0 a li sr-only 10 0
+Form O 0 1 a li sr-only 10 0
+
+Search O 0 0 div form sr-only 12 0
+
+Search O 0 0 label div radio 13 0
+the O 0 1 label div radio 13 0
+Leavey O 0 1 label div radio 13 0
+School O 0 1 label div radio 13 0
+of O 0 1 label div radio 13 0
+Business O 0 0 label div radio 13 0
+site O 0 0 label div radio 13 0
+
+Search O 0 0 label div radio 13 0
+the O 0 1 label div radio 13 0
+full O 0 0 label div radio 13 0
+SCU O 0 0 label div radio 13 0
+site O 0 0 label div radio 13 0
+
+Faculty O 0 0 div div page-title 7 0
+Directory O 0 0 div div page-title 7 0
+
+Home O 0 1 li ol breadcrumb-item 9 0
+
+Leavey O 0 1 li ol breadcrumb-item 9 0
+School O 0 1 li ol breadcrumb-item 9 0
+of O 0 1 li ol breadcrumb-item 9 0
+Business O 0 0 li ol breadcrumb-item 9 0
+
+Academics O 0 0 li ol breadcrumb-item 9 0
+
+Faculty O 0 0 ol div breadcrumb-item 8 6
+Directory O 0 0 ol div breadcrumb-item 8 6
+
+Accounting O 0 0 div div col-sm-8 8 0
+Faculty O 0 0 div div col-sm-8 8 0
+» O 0 0 div div col-sm-8 8 0
+
+Amanda B-NAME 0 1 li ul pagedrows-282539 9 0
+Badger I-NAME 0 1 li ul pagedrows-282539 9 0
+
+Michael B-NAME 0 1 li ul pagedrows-282539 9 0
+Calegari I-NAME 0 1 li ul pagedrows-282539 9 0
+
+Wendy B-NAME 0 1 li ul pagedrows-282539 9 0
+Donohoe I-NAME 0 1 li ul pagedrows-282539 9 0
+
+Michael B-NAME 0 1 li ul pagedrows-282539 9 0
+"Lucky" I-NAME 0 0 li ul pagedrows-282539 9 0
+Eames I-NAME 0 1 li ul pagedrows-282539 9 0
+
+Yongtae B-NAME 1 1 li ul pagedrows-282539 9 0
+Kim I-NAME 1 1 li ul pagedrows-282539 9 0
+
+Haidan B-NAME 0 1 li ul pagedrows-282539 9 0
+Li I-NAME 0 1 li ul pagedrows-282539 9 0
+
+Siqi B-NAME 1 1 li ul pagedrows-282539 9 0
+Li I-NAME 1 1 li ul pagedrows-282539 9 0
+
+Suzanne B-NAME 0 1 li ul pagedrows-282539 9 0
+Luttman I-NAME 0 1 li ul pagedrows-282539 9 0
+
+Brian B-NAME 1 1 li ul pagedrows-282539 9 0
+Nelson I-NAME 1 1 li ul pagedrows-282539 9 0
+
+Jane B-NAME 0 1 li ul pagedrows-282539 9 0
+Ou I-NAME 0 1 li ul pagedrows-282539 9 0
+
+Chris B-NAME 0 1 li ul pagedrows-282539 9 0
+Paisley I-NAME 0 1 li ul pagedrows-282539 9 0
+
+Hyungshin B-NAME 0 1 li ul pagedrows-282539 9 0
+Park I-NAME 0 1 li ul pagedrows-282539 9 0
+
+Susan B-NAME 0 1 li ul pagedrows-282539 9 0
+Parker I-NAME 0 1 li ul pagedrows-282539 9 0
+
+James B-NAME 0 1 li ul pagedrows-282539 9 0
+Sepe I-NAME 0 1 li ul pagedrows-282539 9 0
+
+Frank B-NAME 1 1 li ul pagedrows-282539 9 0
+Teruel I-NAME 0 1 li ul pagedrows-282539 9 0
+
+Neal B-NAME 0 1 li ul pagedrows-282539 9 0
+Ushman I-NAME 0 0 li ul pagedrows-282539 9 0
+
+Economics O 0 0 div div col-sm-8 8 0
+Faculty O 0 0 div div col-sm-8 8 0
+» O 0 0 div div col-sm-8 8 0
+
+James B-NAME 0 1 li ul pagedrows-282540 9 0
+Airola I-NAME 0 1 li ul pagedrows-282540 9 0
+
+Shireen B-NAME 0 1 li ul pagedrows-282540 9 0
+Al-Azzawi I-NAME 0 1 li ul pagedrows-282540 9 0
+
+Adina B-NAME 0 1 li ul pagedrows-282540 9 0
+Ardelean I-NAME 0 1 li ul pagedrows-282540 9 0
+
+Mario B-NAME 0 1 li ul pagedrows-282540 9 0
+L. I-NAME 0 1 li ul pagedrows-282540 9 0
+Belotti I-NAME 0 1 li ul pagedrows-282540 9 0
+
+Alexander B-NAME 1 1 li ul pagedrows-282540 9 0
+J. I-NAME 1 1 li ul pagedrows-282540 9 0
+Field I-NAME 1 1 li ul pagedrows-282540 9 0
+
+John B-NAME 1 1 li ul pagedrows-282540 9 0
+M. I-NAME 1 1 li ul pagedrows-282540 9 0
+Heineke I-NAME 1 1 li ul pagedrows-282540 9 0
+
+Christian B-NAME 0 1 li ul pagedrows-282540 9 0
+Helmers I-NAME 0 1 li ul pagedrows-282540 9 0
+
+John B-NAME 0 1 li ul pagedrows-282540 9 0
+Ifcher I-NAME 0 0 li ul pagedrows-282540 9 0
+
+Linda B-NAME 0 1 li ul pagedrows-282540 9 0
+Kamas I-NAME 0 1 li ul pagedrows-282540 9 0
+
+Michael B-NAME 0 1 li ul pagedrows-282540 9 0
+Kevane I-NAME 0 0 li ul pagedrows-282540 9 0
+
+Sofia B-NAME 0 1 li ul pagedrows-282540 9 0
+Kotsiri I-NAME 0 0 li ul pagedrows-282540 9 0
+
+Serguei B-NAME 1 1 li ul pagedrows-282540 9 0
+Maliar I-NAME 1 1 li ul pagedrows-282540 9 0
+
+Kris B-NAME 0 1 li ul pagedrows-282540 9 0
+James I-NAME 0 1 li ul pagedrows-282540 9 0
+Mitchener I-NAME 0 1 li ul pagedrows-282540 9 0
+
+Thuy B-NAME 0 1 li ul pagedrows-282540 9 0
+Lan I-NAME 1 1 li ul pagedrows-282540 9 0
+Nguyen I-NAME 1 1 li ul pagedrows-282540 9 0
+
+Damian B-NAME 0 1 li ul pagedrows-282540 9 0
+Park I-NAME 0 1 li ul pagedrows-282540 9 0
+
+Gonçalo B-NAME 0 1 li ul pagedrows-282540 9 0
+Pina I-NAME 0 1 li ul pagedrows-282540 9 0
+
+Helen B-NAME 0 1 li ul pagedrows-282540 9 0
+Popper I-NAME 0 1 li ul pagedrows-282540 9 0
+
+Teny B-NAME 0 0 li ul pagedrows-282540 9 0
+Maghakian I-NAME 0 0 li ul pagedrows-282540 9 0
+Shapiro I-NAME 0 1 li ul pagedrows-282540 9 0
+
+Dongsoo B-NAME 1 1 li ul pagedrows-282540 9 0
+Shin I-NAME 1 1 li ul pagedrows-282540 9 0
+
+William B-NAME 1 1 li ul pagedrows-282540 9 0
+A. I-NAME 0 1 li ul pagedrows-282540 9 0
+Sundstrom I-NAME 0 1 li ul pagedrows-282540 9 0
+
+Finance O 0 1 div div col-sm-8 8 0
+Faculty O 0 0 div div col-sm-8 8 0
+» O 0 0 div div col-sm-8 8 0
+
+Ye B-NAME 1 1 li ul pagedrows-282547 9 0
+Cai I-NAME 1 1 li ul pagedrows-282547 9 0
+
+George B-NAME 0 1 li ul pagedrows-282547 9 0
+Chacko I-NAME 0 1 li ul pagedrows-282547 9 0
+
+Mike B-NAME 0 1 li ul pagedrows-282547 9 0
+Dana I-NAME 0 1 li ul pagedrows-282547 9 0
+
+Sanjiv B-NAME 0 1 li ul pagedrows-282547 9 0
+Das I-NAME 0 1 li ul pagedrows-282547 9 0
+
+Donald B-NAME 1 1 li ul pagedrows-282547 9 0
+Davis I-NAME 1 1 li ul pagedrows-282547 9 0
+
+Robert B-NAME 0 1 li ul pagedrows-282547 9 0
+Hendershott I-NAME 0 1 li ul pagedrows-282547 9 0
+
+Hoje B-NAME 0 0 li ul pagedrows-282547 9 0
+Jo I-NAME 0 1 li ul pagedrows-282547 9 0
+
+Seoyoung B-NAME 1 1 li ul pagedrows-282547 9 0
+Kim I-NAME 1 1 li ul pagedrows-282547 9 0
+
+Wenyao B-NAME 0 1 li ul pagedrows-282547 9 0
+(Wendy) I-NAME 0 1 li ul pagedrows-282547 9 0
+Ku I-NAME 0 1 li ul pagedrows-282547 9 0
+
+Sam B-NAME 1 1 li ul pagedrows-282547 9 0
+Lee I-NAME 1 1 li ul pagedrows-282547 9 0
+
+Carrie B-NAME 0 1 li ul pagedrows-282547 9 0
+Pan I-NAME 0 1 li ul pagedrows-282547 9 0
+
+Atulya B-NAME 0 1 li ul pagedrows-282547 9 0
+Sarin I-NAME 0 1 li ul pagedrows-282547 9 0
+
+Hersh B-NAME 0 1 li ul pagedrows-282547 9 0
+Shefrin I-NAME 0 1 li ul pagedrows-282547 9 0
+
+Meir B-NAME 0 1 li ul pagedrows-282547 9 0
+Statman I-NAME 0 1 li ul pagedrows-282547 9 0
+
+Steve B-NAME 1 1 li ul pagedrows-282547 9 0
+Wade I-NAME 1 1 li ul pagedrows-282547 9 0
+
+Management O 0 1 div div col-sm-8 8 0
+Faculty O 0 0 div div col-sm-8 8 0
+» O 0 0 div div col-sm-8 8 0
+
+Greg B-NAME 0 1 li ul pagedrows-282549 9 0
+A. I-NAME 1 1 li ul pagedrows-282549 9 0
+Baker I-NAME 1 1 li ul pagedrows-282549 9 0
+
+Tanya B-NAME 0 1 li ul pagedrows-282549 9 0
+Bunger I-NAME 0 1 li ul pagedrows-282549 9 0
+
+Jack B-NAME 0 1 li ul pagedrows-282549 9 0
+Caffey I-NAME 0 1 li ul pagedrows-282549 9 0
+
+David B-NAME 1 1 li ul pagedrows-282549 9 0
+Caldwell I-NAME 1 1 li ul pagedrows-282549 9 0
+
+Robert B-NAME 0 1 li ul pagedrows-282549 9 0
+Eberhart I-NAME 0 1 li ul pagedrows-282549 9 0
+
+Robert B-NAME 0 1 li ul pagedrows-282549 9 0
+Eberhart I-NAME 0 1 li ul pagedrows-282549 9 0
+
+Francine B-NAME 0 1 li ul pagedrows-282549 9 0
+Gordon I-NAME 0 1 li ul pagedrows-282549 9 0
+
+Terri B-NAME 1 1 li ul pagedrows-282549 9 0
+Griffith I-NAME 1 1 li ul pagedrows-282549 9 0
+
+Laura B-NAME 0 1 li ul pagedrows-282549 9 0
+Jacobus I-NAME 0 1 li ul pagedrows-282549 9 0
+
+Fiona B-NAME 0 1 li ul pagedrows-282549 9 0
+Ji I-NAME 0 1 li ul pagedrows-282549 9 0
+
+Keyvan B-NAME 0 1 li ul pagedrows-282549 9 0
+Kashkooli I-NAME 0 1 li ul pagedrows-282549 9 0
+
+James B-NAME 1 1 li ul pagedrows-282549 9 0
+L. I-NAME 1 1 li ul pagedrows-282549 9 0
+Koch I-NAME 1 1 li ul pagedrows-282549 9 0
+
+Long B-NAME 0 1 li ul pagedrows-282549 9 0
+S. I-NAME 0 1 li ul pagedrows-282549 9 0
+Le I-NAME 0 1 li ul pagedrows-282549 9 0
+
+Nydia B-NAME 0 1 li ul pagedrows-282549 9 0
+MacGregor I-NAME 0 1 li ul pagedrows-282549 9 0
+
+Tammy B-NAME 0 1 li ul pagedrows-282549 9 0
+Madsen I-NAME 0 1 li ul pagedrows-282549 9 0
+
+Darrel B-NAME 0 1 li ul pagedrows-282549 9 0
+A. I-NAME 0 1 li ul pagedrows-282549 9 0
+Mank I-NAME 0 1 li ul pagedrows-282549 9 0
+
+Kelly B-NAME 0 1 li ul pagedrows-282549 9 0
+Patterson I-NAME 0 1 li ul pagedrows-282549 9 0
+
+Sandy B-NAME 1 1 li ul pagedrows-282549 9 0
+Piderit I-NAME 1 1 li ul pagedrows-282549 9 0
+
+Barry B-NAME 0 1 li ul pagedrows-282549 9 0
+Z. I-NAME 0 1 li ul pagedrows-282549 9 0
+Posner I-NAME 0 1 li ul pagedrows-282549 9 0
+
+Jo-Ellen B-NAME 0 0 li ul pagedrows-282549 9 0
+Pozner I-NAME 0 1 li ul pagedrows-282549 9 0
+
+Michael B-NAME 1 1 li ul pagedrows-282549 9 0
+Santoro I-NAME 1 1 li ul pagedrows-282549 9 0
+
+Manuel B-NAME 0 1 li ul pagedrows-282549 9 0
+Velasquez I-NAME 0 1 li ul pagedrows-282549 9 0
+
+Jennifer B-NAME 1 1 li ul pagedrows-282549 9 0
+L. I-NAME 1 1 li ul pagedrows-282549 9 0
+Woolley I-NAME 1 1 li ul pagedrows-282549 9 0
+
+Marketing O 0 0 div div col-sm-8 8 0
+Faculty O 0 0 div div col-sm-8 8 0
+» O 0 0 div div col-sm-8 8 0
+
+Dale B-NAME 0 1 li ul pagedrows-282548 9 0
+Achabal I-NAME 0 0 li ul pagedrows-282548 9 0
+
+Albert B-NAME 0 1 li ul pagedrows-282548 9 0
+Bruno I-NAME 0 1 li ul pagedrows-282548 9 0
+
+Charles B-NAME 0 1 li ul pagedrows-282548 9 0
+Byers I-NAME 0 1 li ul pagedrows-282548 9 0
+
+Xiaojing B-NAME 1 1 li ul pagedrows-282548 9 0
+Dong I-NAME 1 1 li ul pagedrows-282548 9 0
+
+Kirthi B-NAME 1 1 li ul pagedrows-282548 9 0
+Kalyanam I-NAME 1 1 li ul pagedrows-282548 9 0
+
+Gail B-NAME 0 1 li ul pagedrows-282548 9 0
+Kirby I-NAME 0 1 li ul pagedrows-282548 9 0
+
+Desmond B-NAME 0 1 li ul pagedrows-282548 9 0
+(Ho-Fu) I-NAME 0 0 li ul pagedrows-282548 9 0
+Lo I-NAME 0 1 li ul pagedrows-282548 9 0
+
+Shelby B-NAME 0 1 li ul pagedrows-282548 9 0
+McIntyre I-NAME 0 1 li ul pagedrows-282548 9 0
+
+Juan B-NAME 0 1 li ul pagedrows-282548 9 0
+P. I-NAME 0 1 li ul pagedrows-282548 9 0
+Montermoso I-NAME 0 0 li ul pagedrows-282548 9 0
+
+J. B-NAME 1 1 li ul pagedrows-282548 9 0
+Michael I-NAME 1 1 li ul pagedrows-282548 9 0
+Munson I-NAME 1 1 li ul pagedrows-282548 9 0
+
+Sean B-NAME 0 1 li ul pagedrows-282548 9 0
+O'Keefe I-NAME 0 1 li ul pagedrows-282548 9 0
+
+Kumar B-NAME 0 1 li ul pagedrows-282548 9 0
+R. I-NAME 0 1 li ul pagedrows-282548 9 0
+Sarangee I-NAME 0 0 li ul pagedrows-282548 9 0
+
+Savannah B-NAME 1 1 li ul pagedrows-282548 9 0
+Wei I-NAME 1 1 li ul pagedrows-282548 9 0
+Shi I-NAME 1 1 li ul pagedrows-282548 9 0
+
+Michael B-NAME 1 1 li ul pagedrows-282548 9 0
+Thomas I-NAME 1 1 li ul pagedrows-282548 9 0
+
+Mark B-NAME 1 1 li ul pagedrows-282548 9 0
+Weiner I-NAME 1 1 li ul pagedrows-282548 9 0
+
+Yuchi B-NAME 1 1 li ul pagedrows-282548 9 0
+Zhang I-NAME 1 1 li ul pagedrows-282548 9 0
+
+OMIS O 0 0 div div col-sm-8 8 0
+Faculty O 0 0 div div col-sm-8 8 0
+» O 0 0 div div col-sm-8 8 0
+
+Naren B-NAME 0 1 li ul pagedrows-282550 9 0
+Agrawal I-NAME 0 1 li ul pagedrows-282550 9 0
+
+Ram B-NAME 1 1 li ul pagedrows-282550 9 0
+Bala I-NAME 1 1 li ul pagedrows-282550 9 0
+
+George B-NAME 0 1 li ul pagedrows-282550 9 0
+(Gangshu) I-NAME 0 0 li ul pagedrows-282550 9 0
+Cai I-NAME 0 1 li ul pagedrows-282550 9 0
+
+Karla B-NAME 0 1 li ul pagedrows-282550 9 0
+Callahan I-NAME 0 1 li ul pagedrows-282550 9 0
+
+Yasin B-NAME 1 1 li ul pagedrows-282550 9 0
+Ceran I-NAME 1 1 li ul pagedrows-282550 9 0
+
+Necati B-NAME 0 1 li ul pagedrows-282550 9 0
+Ertekin I-NAME 0 1 li ul pagedrows-282550 9 0
+
+Manoochehr B-NAME 1 1 li ul pagedrows-282550 9 0
+Ghiassi I-NAME 1 1 li ul pagedrows-282550 9 0
+
+Vasu B-NAME 0 1 li ul pagedrows-282550 9 0
+Kadambi I-NAME 0 1 li ul pagedrows-282550 9 0
+
+Tao B-NAME 1 1 li ul pagedrows-282550 9 0
+Li I-NAME 1 1 li ul pagedrows-282550 9 0
+
+Haibing B-NAME 1 1 li ul pagedrows-282550 9 0
+Lu I-NAME 1 1 li ul pagedrows-282550 9 0
+
+Steven B-NAME 1 1 li ul pagedrows-282550 9 0
+Nahmias I-NAME 1 1 li ul pagedrows-282550 9 0
+
+Sami B-NAME 0 1 li ul pagedrows-282550 9 0
+Najafi I-NAME 0 1 li ul pagedrows-282550 9 0
+
+Michele B-NAME 1 1 li ul pagedrows-282550 9 0
+Samorani I-NAME 1 1 li ul pagedrows-282550 9 0
+
+Rick B-NAME 0 1 li ul pagedrows-282550 9 0
+Schaffzin I-NAME 0 1 li ul pagedrows-282550 9 0
+
+Michael B-NAME 1 1 li ul pagedrows-282550 9 0
+Schermann I-NAME 1 1 li ul pagedrows-282550 9 0
+
+Stephen B-NAME 1 1 li ul pagedrows-282550 9 0
+A. I-NAME 1 1 li ul pagedrows-282550 9 0
+Smith I-NAME 1 1 li ul pagedrows-282550 9 0
+
+S. B-NAME 0 1 li ul pagedrows-282550 9 0
+Andrew I-NAME 0 1 li ul pagedrows-282550 9 0
+Starbird I-NAME 0 1 li ul pagedrows-282550 9 0
+
+Sumana B-NAME 0 1 li ul pagedrows-282550 9 0
+Sur I-NAME 0 1 li ul pagedrows-282550 9 0
+
+Andy B-NAME 0 1 li ul pagedrows-282550 9 0
+Tsay I-NAME 0 1 li ul pagedrows-282550 9 0
+
+Graeme B-NAME 0 1 li ul pagedrows-282550 9 0
+Warren I-NAME 0 1 li ul pagedrows-282550 9 0
+
+David B-NAME 1 1 li ul pagedrows-282550 9 0
+Zimbra I-NAME 1 1 li ul pagedrows-282550 9 0
+
+Academics O 0 0 nav div side-navigation-header 8 0
+
+Academic O 0 0 li ul side-navigation.match-page-title 10 0
+Departments O 0 0 li ul side-navigation.match-page-title 10 0
+
+Majors O 0 1 li ul side-navigation.match-page-title 10 0
+and O 0 1 li ul side-navigation.match-page-title 10 0
+Minors O 0 1 li ul side-navigation.match-page-title 10 0
+
+Graduate O 1 1 li ul side-navigation.match-page-title 10 0
+Degrees O 0 0 li ul side-navigation.match-page-title 10 0
+
+Faculty O 0 0 span li currentbranch0 11 0
+Directory O 0 0 span li currentbranch0 11 0
+
+Accounting O 0 0 li ul multilevel-linkul-0 12 0
+Faculty O 0 0 li ul multilevel-linkul-0 12 0
+
+Economics O 0 0 li ul multilevel-linkul-0 12 0
+Faculty O 0 0 li ul multilevel-linkul-0 12 0
+
+Finance O 0 1 li ul multilevel-linkul-0 12 0
+Faculty O 0 0 li ul multilevel-linkul-0 12 0
+
+Management O 0 1 li ul multilevel-linkul-0 12 0
+Faculty O 0 0 li ul multilevel-linkul-0 12 0
+
+Marketing O 0 0 li ul multilevel-linkul-0 12 0
+Faculty O 0 0 li ul multilevel-linkul-0 12 0
+
+OMIS O 0 0 li ul multilevel-linkul-0 12 0
+Faculty O 0 0 li ul multilevel-linkul-0 12 0
+
+Faculty O 0 0 li ul side-navigation.match-page-title 10 0
+Research O 0 1 li ul side-navigation.match-page-title 10 0
+
+500 O 0 0 p div p-street-address.street-address 13 0
+El O 0 1 p div p-street-address.street-address 13 0
+Camino O 0 1 p div p-street-address.street-address 13 0
+Real O 0 1 p div p-street-address.street-address 13 0
+, O 0 0 div div h-adr.adr 12 0
+
+Contact O 0 0 p nav text-right 12 0
+Us O 0 1 p nav text-right 12 0
+
+Emergency O 0 0 p nav col-xs-5 12 0
+Info O 0 0 p nav col-xs-5 12 0
+
+Follow O 0 0 a span sr-only 14 1
+us O 0 1 a span sr-only 14 1
+on O 0 0 a span sr-only 14 1
+Facebook O 0 0 a span sr-only 14 1
+Follow O 0 0 a span sr-only 14 1
+us O 0 1 a span sr-only 14 1
+on O 0 0 a span sr-only 14 1
+Twitter O 0 0 a span sr-only 14 1
+Join O 0 1 a span sr-only 14 1
+us O 0 1 a span sr-only 14 1
+on O 0 0 a span sr-only 14 1
+LinkedIn O 0 0 a span sr-only 14 1
+Follow O 0 0 a span sr-only 14 1
+us O 0 1 a span sr-only 14 1
+on O 0 0 a span sr-only 14 1
+Pinterest O 0 0 a span sr-only 14 1
+Follow O 0 0 a span sr-only 14 1
+us O 0 1 a span sr-only 14 1
+on O 0 0 a span sr-only 14 1
+Instagram O 0 0 a span sr-only 14 1
+
+Social O 0 0 p nav text-right 12 0
+Media O 0 1 p nav text-right 12 0
+
+© O 0 0 p div t4Edit-page 7 0
+2017 O 0 0 div footer copyright.text-center 6 0
+SCU O 0 0 div footer copyright.text-center 6 0

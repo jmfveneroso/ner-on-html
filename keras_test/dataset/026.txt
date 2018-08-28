@@ -1,0 +1,411 @@
+Department O 0 0 head html none 4 6
+Faculty/Staff O 0 0 head html none 4 6
+- O 0 0 head html none 4 6
+Mathematics O 0 0 head html none 4 6
+- O 0 0 head html none 4 6
+Chadron O 0 0 head html none 4 6
+State O 0 1 head html none 4 6
+College O 0 0 head html none 4 6
+
+Chadron O 0 0 a h1 hidden 8 0
+State O 0 1 a h1 hidden 8 0
+College O 0 0 a h1 hidden 8 0
+
+Directory O 0 0 li ul headSearch 9 0
+
+Site O 0 1 li ul headSearch 9 0
+Map O 0 0 li ul headSearch 9 0
+
+About O 0 0 li ul headNav 9 0
+CSC O 0 0 li ul headNav 9 0
+
+Prospective O 0 0 li ul headNav 9 0
+Students O 0 0 li ul headNav 9 0
+
+Admissions O 0 0 li ul headNav 11 0
+
+Request O 0 0 li ul headNav 11 0
+More O 0 1 li ul headNav 11 0
+Information O 0 1 li ul headNav 11 0
+
+Visit O 0 1 li ul headNav 11 0
+CSC O 0 0 li ul headNav 11 0
+
+MyCSC O 0 0 li ul headNav 11 0
+
+EagleMail O 0 0 li ul headNav 11 0
+
+All O 0 1 li ul navEnd 11 0
+Prospective O 0 0 li ul navEnd 11 0
+Student O 0 1 li ul navEnd 11 0
+Links O 0 1 li ul navEnd 11 0
+
+Current O 0 1 li ul headNav 9 0
+Students O 0 0 li ul headNav 9 0
+
+MyCSC O 0 0 li ul headNav 11 0
+
+Online O 0 0 li ul headNav 11 0
+Course O 0 1 li ul headNav 11 0
+Login O 0 0 li ul headNav 11 0
+
+EagleMail O 0 0 li ul headNav 11 0
+
+Library O 0 0 li ul headNav 11 0
+Resources O 0 0 li ul headNav 11 0
+
+Tk20 O 0 0 li ul headNav 11 0
+
+Campus O 0 1 li ul headNav 11 0
+Safety O 0 0 li ul headNav 11 0
+
+All O 0 1 li ul navEnd 11 0
+Current O 0 1 li ul navEnd 11 0
+Student O 0 1 li ul navEnd 11 0
+Links O 0 1 li ul navEnd 11 0
+
+Academics O 0 0 li ul headNav 9 0
+
+Employees O 0 0 li ul headNav 9 0
+
+MyCSC O 0 0 li ul headNav 11 0
+
+Online O 0 0 li ul headNav 11 0
+Course O 0 1 li ul headNav 11 0
+Login O 0 0 li ul headNav 11 0
+
+Office O 0 0 li ul headNav 11 0
+365 O 0 0 li ul headNav 11 0
+
+Policies O 0 0 li ul headNav 11 0
+
+Library O 0 0 li ul headNav 11 0
+Resources O 0 0 li ul headNav 11 0
+
+Tk20 O 0 0 li ul headNav 11 0
+
+Employee O 0 0 li ul headNav 11 0
+Self-Service O 0 0 li ul headNav 11 0
+
+All O 0 1 li ul navEnd 11 0
+Employee O 0 0 li ul navEnd 11 0
+Links O 0 1 li ul navEnd 11 0
+
+Athletics O 0 0 li ul headNav 9 0
+
+NCAA O 0 0 li ul headNav 11 0
+Sports O 0 0 li ul headNav 11 0
+
+Club O 0 1 li ul headNav 11 0
+Sports O 0 0 li ul headNav 11 0
+
+Intramural O 0 0 li ul headNav 11 0
+Sports O 0 0 li ul headNav 11 0
+and O 0 1 li ul headNav 11 0
+Campus O 0 1 li ul headNav 11 0
+Recreation O 0 0 li ul headNav 11 0
+
+Apparel O 0 0 li ul headNav 11 0
+
+Alumni O 0 0 li ul headNav 9 0
+
+Chadron O 0 0 a div hidden 8 0
+State O 0 1 a div hidden 8 0
+College O 0 0 a div hidden 8 0
+
+Getting O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 0
+Started O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 0
+… O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 0
+
+I O 0 1 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 1
+want O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 1
+to O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 1
+attend O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 1
+on O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 1
+campus O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 1
+
+I O 0 1 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 2
+want O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 2
+to O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 2
+take O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 2
+online O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 2
+courses O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 2
+
+I O 0 1 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 3
+want O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 3
+to O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 3
+take O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 3
+graduate O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 3
+courses O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 3
+
+I O 0 1 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 4
+want O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 4
+to O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 4
+transfer O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 4
+to O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 4
+CSC O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 4
+
+I O 0 1 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 5
+want O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 5
+to O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 5
+attend O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 5
+as O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 5
+an O 0 1 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 5
+international O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 5
+student O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 5
+
+I O 0 1 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 6
+am O 0 1 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 6
+a O 0 1 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 6
+veteran O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 6
+
+I O 0 1 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 7
+want O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 7
+to O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 7
+take O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 7
+community-based O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 7
+programs O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 7
+
+I O 0 1 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 8
+want O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 8
+to O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 8
+take O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 8
+professional O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 8
+development O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 8
+courses O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 8
+for O 0 1 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 8
+educators O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 8
+
+Request O 0 0 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 9
+More O 0 1 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 9
+Information O 0 1 select fieldset curvedCorners.floatLeft.moduleHomeInside 10 9
+
+Apply O 0 0 div div apply 7 16
+to O 0 0 div div apply 7 16
+CSC O 0 0 div div apply 7 16
+
+Testimonial O 0 0 a div hidden 8 0
+
+Mathematics O 0 0 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+Home O 0 1 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+
+Degree O 0 0 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+Programs O 0 0 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+
+Course O 0 1 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+Descriptions O 0 0 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+
+Course O 0 1 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+Schedule O 0 0 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+and O 0 1 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+Catalog O 0 0 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+
+4 O 0 0 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+Year O 0 1 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+Course O 0 1 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+Rotation O 0 0 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+
+Department O 0 0 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+Faculty/Staff O 0 0 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+
+Careers O 0 0 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+in O 0 1 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+Mathematics O 0 0 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+
+Student O 0 1 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+Opportunities O 0 0 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+
+Contacting O 0 0 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+Mathematics O 0 0 li ul curvedCorners.floatLeft.moduleNavigation 9 0
+
+Mathematics O 0 0 h1 div curvedCorners.floatRight.moduleContent 8 0
+
+Print O 0 1 p div printFriendly.alignRight 8 0
+Page O 0 1 p div printFriendly.alignRight 8 0
+
+Department O 0 0 div div curvedCorners.floatRight.moduleContent 7 4
+Faculty/Staff O 0 0 div div curvedCorners.floatRight.moduleContent 7 4
+
+Name O 0 1 tr table general 9 0
+
+Email O 0 0 tr table general 9 1
+
+Phone O 0 1 tr table general 9 2
+
+Office O 0 0 tr table general 9 3
+
+Stephanie B-NAME 0 1 td tr general 10 0
+Colgate I-NAME 0 1 td tr general 10 0
+
+Adjunct O 0 0 td tr cutline 10 2
+Faculty O 0 0 td tr cutline 10 2
+scolgate@csc.edu O 0 0 td tr general 10 0
+-- O 0 0 tr table general 9 6
+Online O 0 0 tr table general 9 7
+
+Randall B-NAME 0 1 td tr general 10 0
+Doran I-NAME 0 1 td tr general 10 0
+
+Adjunct O 0 0 td tr cutline 10 2
+Faculty O 0 0 td tr cutline 10 2
+rdoran@csc.edu O 0 0 td tr general 10 0
+-- O 0 0 tr table general 9 6
+Online O 0 0 tr table general 9 7
+
+Gregory B-NAME 1 1 td tr general 10 0
+Moses I-NAME 1 1 td tr general 10 0
+
+Assistant O 0 0 td tr cutline 10 2
+Professor O 0 0 td tr cutline 10 2
+gmoses@csc.edu O 0 0 td tr general 10 0
+308-432-6295 O 0 0 tr table general 9 6
+Math O 0 1 tr table general 9 7
+& O 0 0 tr table general 9 7
+Science O 0 0 tr table general 9 7
+218 O 0 0 tr table general 9 7
+
+Detsinh B-NAME 0 0 td tr general 10 0
+Sayaloune I-NAME 0 0 td tr general 10 0
+
+Instructor O 0 0 td tr cutline 10 2
+dsayaloune@csc.edu O 0 0 td tr general 10 0
+308-432-6238 O 0 0 tr table general 9 6
+Math O 0 1 tr table general 9 7
+& O 0 0 tr table general 9 7
+Science O 0 0 tr table general 9 7
+216 O 0 0 tr table general 9 7
+
+John B-NAME 0 1 td tr general 10 0
+Staben I-NAME 0 1 td tr general 10 0
+
+Adjunct O 0 0 td tr cutline 10 2
+Faculty O 0 0 td tr cutline 10 2
+jstaben@csc.edu O 0 0 td tr general 10 0
+-- O 0 0 tr table general 9 6
+Online O 0 0 tr table general 9 7
+
+Robert B-NAME 0 1 td tr general 10 0
+Stack I-NAME 0 1 td tr general 10 0
+
+Professor O 0 0 td tr cutline 10 2
+- O 0 0 td tr cutline 10 2
+Department O 0 0 td tr cutline 10 2
+Chair O 0 1 td tr cutline 10 2
+rstack@csc.edu O 0 0 td tr general 10 0
+308-432-6056 O 0 0 tr table general 9 6
+Math O 0 1 tr table general 9 7
+& O 0 0 tr table general 9 7
+Science O 0 0 tr table general 9 7
+136B O 0 0 tr table general 9 7
+
+Mike B-NAME 0 1 td tr general 10 0
+Vogl I-NAME 0 1 td tr general 10 0
+
+Assistant O 0 0 td tr cutline 10 2
+Professor O 0 0 td tr cutline 10 2
+mvogl@csc.edu O 0 0 td tr general 10 0
+308-432-6480 O 0 0 tr table general 9 6
+Math O 0 1 tr table general 9 7
+& O 0 0 tr table general 9 7
+Science O 0 0 tr table general 9 7
+213 O 0 0 tr table general 9 7
+
+Barbara B-NAME 0 1 td tr general 10 0
+Waugh I-NAME 0 1 td tr general 10 0
+
+Adjunct O 0 0 td tr cutline 10 2
+Faculty O 0 0 td tr cutline 10 2
+bwaugh@csc.edu O 0 0 td tr general 10 0
+308-432-6293 O 0 0 tr table general 9 6
+Burkhiser O 0 0 tr table general 9 7
+Complex O 0 0 tr table general 9 7
+136 O 0 0 tr table general 9 7
+
+Beth B-NAME 0 1 td tr general 10 0
+Wentworth I-NAME 0 1 td tr general 10 0
+
+Professor O 0 0 td tr cutline 10 2
+bwentworth@csc.edu O 0 0 td tr general 10 0
+308-432-6406 O 0 0 tr table general 9 6
+Math O 0 1 tr table general 9 7
+& O 0 0 tr table general 9 7
+Science O 0 0 tr table general 9 7
+214 O 0 0 tr table general 9 7
+
+Find O 0 1 a li hidden 9 0
+Chadron O 0 0 a li hidden 9 0
+State O 0 1 a li hidden 9 0
+College O 0 0 a li hidden 9 0
+on O 0 0 a li hidden 9 0
+Facebook O 0 0 a li hidden 9 0
+
+Follow O 0 0 a li hidden 9 0
+Chadron O 0 0 a li hidden 9 0
+State O 0 1 a li hidden 9 0
+College O 0 0 a li hidden 9 0
+on O 0 0 a li hidden 9 0
+Twitter O 0 0 a li hidden 9 0
+
+Watch O 0 0 a li hidden 9 0
+Chadron O 0 0 a li hidden 9 0
+State O 0 1 a li hidden 9 0
+College O 0 0 a li hidden 9 0
+on O 0 0 a li hidden 9 0
+YouTube O 0 0 a li hidden 9 0
+
+View O 0 0 a li hidden 9 0
+live O 0 0 a li hidden 9 0
+events O 0 0 a li hidden 9 0
+from O 0 0 a li hidden 9 0
+Chadron O 0 0 a li hidden 9 0
+State O 0 1 a li hidden 9 0
+College O 0 0 a li hidden 9 0
+
+Subscribe O 0 0 a li hidden 9 0
+to O 0 0 a li hidden 9 0
+Chadron O 0 0 a li hidden 9 0
+State O 0 1 a li hidden 9 0
+College O 0 0 a li hidden 9 0
+News O 0 0 a li hidden 9 0
+Feeds O 0 0 a li hidden 9 0
+
+Copyright O 0 0 div div homeFoot 6 16
+© O 0 0 div div homeFoot 6 16
+Chadron O 0 0 div div homeFoot 6 16
+State O 0 1 div div homeFoot 6 16
+College. O 0 0 div div homeFoot 6 16
+All O 0 1 div div homeFoot 6 16
+Rights O 0 0 div div homeFoot 6 16
+Reserved. O 0 0 div div homeFoot 6 16
+
+Member, O 0 0 p div homeFoot 7 1
+Nebraska O 0 0 p div homeFoot 7 1
+State O 0 1 p div homeFoot 7 1
+College O 0 0 p div homeFoot 7 1
+System O 0 0 p div homeFoot 7 1
+• O 0 0 div div homeFoot 6 16
+Employment O 0 0 p div homeFoot 7 2
+Opportunities O 0 0 p div homeFoot 7 2
+• O 0 0 div div homeFoot 6 16
+Equal O 0 0 p div homeFoot 7 3
+Opportunity O 0 0 p div homeFoot 7 3
+Employer O 0 0 p div homeFoot 7 3
+• O 0 0 div div homeFoot 6 16
+Title O 0 1 p div homeFoot 7 4
+IX O 0 1 p div homeFoot 7 4
+Reporting/Resources O 0 0 p div homeFoot 7 4
+
+Accreditation O 0 0 p div homeFoot 7 6
+Information O 0 1 p div homeFoot 7 6
+• O 0 0 div div homeFoot 6 16
+Website O 0 0 p div homeFoot 7 7
+Feedback O 0 0 p div homeFoot 7 7
+
+1000 O 0 0 div div homeFoot 6 16
+Main O 0 1 div div homeFoot 6 16
+Street, O 0 0 div div homeFoot 6 16
+Chadron, O 0 0 div div homeFoot 6 16
+NE O 0 0 div div homeFoot 6 16
+69337 O 0 0 div div homeFoot 6 16
+• O 0 0 div div homeFoot 6 16
+1-800-CHADRON O 0 0 div div homeFoot 6 16

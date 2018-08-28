@@ -1,0 +1,625 @@
+TUD O 0 0 head html none 4 1
+- O 0 0 head html none 4 1
+Faculty O 0 0 head html none 4 1
+of O 0 1 head html none 4 1
+Computer O 0 0 head html none 4 1
+Science O 0 0 head html none 4 1
+- O 0 0 head html none 4 1
+Professors O 0 0 head html none 4 1
+
+TUD O 0 0 h1 div none 7 0
+
+Deutsch O 0 1 div div none 9 0
+
+TUD O 0 0 div div none 6 0
+Home O 0 1 div div none 6 0
+» O 0 0 div div breadcrumbSeparator 6 1
+... O 0 0 div div none 6 2
+» O 0 0 div div breadcrumbSeparator 6 1
+Faculty O 0 0 div div none 6 4
+of O 0 1 div div none 6 4
+Computer O 0 0 div div none 6 4
+Science O 0 0 div div none 6 4
+» O 0 0 div div breadcrumbSeparator 6 1
+People O 0 1 div div none 6 6
+» O 0 0 div div breadcrumbSeparator 6 1
+Professors O 0 0 div body none 5 13
+
+Faculty O 0 0 a h2 none 8 0
+of O 0 1 a h2 none 8 0
+Computer O 0 0 a h2 none 8 0
+Science O 0 0 a h2 none 8 0
+
+Home O 0 1 div div selected 8 0
+
+Business O 0 0 div div plain 8 0
+and O 0 1 div div plain 8 0
+Industry O 0 0 div div plain 8 0
+
+Faculty O 0 0 div div padding 12 0
+of O 0 1 div div padding 12 0
+Computer O 0 0 div div padding 12 0
+Science O 0 0 div div padding 12 0
+
+About O 0 0 li ul ebene1 13 0
+
+Our O 0 0 li ul ebene1 13 0
+History O 0 0 li ul ebene1 13 0
+
+People O 0 1 li ul ebene1node 13 0
+
+Professors O 0 0 li ul ebene2 15 0
+
+Staff O 0 1 li ul ebene2 15 0
+directory O 0 0 li ul ebene2 15 0
+
+Committees O 0 0 li ul ebene1node 13 0
+and O 0 1 li ul ebene1node 13 0
+Regulations O 0 0 li ul ebene1node 13 0
+
+How O 0 1 li ul ebene1 13 0
+to O 0 0 li ul ebene1 13 0
+Find O 0 1 li ul ebene1 13 0
+Us O 0 1 li ul ebene1 13 0
+
+Resources O 0 0 li ul ebene1node 13 0
+
+Alumni O 0 0 li ul ebene1 13 0
+
+Infos O 0 0 li ul ebene1 13 0
+from O 0 0 li ul ebene1 13 0
+the O 0 1 li ul ebene1 13 0
+ZIH O 0 0 li ul ebene1 13 0
+for O 0 1 li ul ebene1 13 0
+the O 0 1 li ul ebene1 13 0
+Faculty O 0 0 li ul ebene1 13 0
+(ex. O 0 0 li ul ebene1 13 0
+FRZ) O 0 0 li ul ebene1 13 0
+
+OPAL O 0 0 li ul ebene1 13 0
+
+Fakultätentag O 0 0 li ul ebene1 13 0
+Informatik O 0 0 li ul ebene1 13 0
+
+4ING O 0 0 li ul ebene1 13 0
+Fakultätentage O 0 0 li ul ebene1 13 0
+
+Jobportal O 0 0 li ul ebene1 13 0
+
+tutors O 0 0 li ul ebene1 13 0
+and O 0 1 li ul ebene1 13 0
+student O 0 0 li ul ebene1 13 0
+job O 0 0 li ul ebene1 13 0
+offers O 0 0 li ul ebene1 13 0
+
+School O 0 1 li ul ebene1 13 0
+of O 0 1 li ul ebene1 13 0
+Engineering O 0 0 li ul ebene1 13 0
+Sciences O 0 0 li ul ebene1 13 0
+
+Professors O 0 0 div td documentFirstHeading 10 1
+and O 0 1 div td documentFirstHeading 10 1
+Assistant O 0 0 div td documentFirstHeading 10 1
+Professors O 0 0 div td documentFirstHeading 10 1
+
+Table O 0 0 div div plain 11 0
+of O 0 1 div div plain 11 0
+Contents O 0 0 div div plain 11 0
+
+[1. O 0 0 p div plain 12 0
+Institute O 0 0 p div plain 12 0
+for O 0 1 p div plain 12 0
+Applied O 0 0 p div plain 12 0
+Computer O 0 0 p div plain 12 0
+Science] O 0 0 p div plain 12 0
+
+[2. O 0 0 p div plain 12 2
+Institute O 0 0 p div plain 12 2
+for O 0 1 p div plain 12 2
+Artificial O 0 0 p div plain 12 2
+Intelligence] O 0 0 p div plain 12 2
+
+[3. O 0 0 p div plain 12 4
+Institute O 0 0 p div plain 12 4
+for O 0 1 p div plain 12 4
+Software- O 0 0 p div plain 12 4
+and O 0 1 p div plain 12 4
+Multimedia-Technology] O 0 0 p div plain 12 4
+
+[4. O 0 0 p div plain 12 6
+Institute O 0 0 p div plain 12 6
+for O 0 1 p div plain 12 6
+System O 0 0 p div plain 12 6
+Architecture] O 0 0 p div plain 12 6
+
+[5. O 0 0 p div plain 12 8
+Institute O 0 0 p div plain 12 8
+for O 0 1 p div plain 12 8
+Computer O 0 0 p div plain 12 8
+Engineering] O 0 0 p div plain 12 8
+
+[6. O 0 0 p div plain 12 10
+Institute O 0 0 p div plain 12 10
+for O 0 1 p div plain 12 10
+Theoretical O 0 0 p div plain 12 10
+Computer O 0 0 p div plain 12 10
+Science] O 0 0 p div plain 12 10
+
+[7. O 0 0 p div plain 12 12
+Co-Memberships O 0 0 p div plain 12 12
+of O 0 1 p div plain 12 12
+professors O 0 0 p div plain 12 12
+from O 0 0 p div plain 12 12
+other O 0 0 p div plain 12 12
+departments] O 0 0 p div plain 12 12
+
+[8. O 0 0 p div plain 12 14
+Adjunct O 0 0 p div plain 12 14
+professors] O 0 0 p div plain 12 14
+
+1. O 0 0 div div plain 11 20
+Institute O 0 0 div div plain 11 20
+for O 0 1 div div plain 11 20
+Applied O 0 0 div div plain 11 20
+Computer O 0 0 div div plain 11 20
+Science O 0 0 div div plain 11 20
+
+Man-Computer O 0 0 tr table BodyTableInvisible 13 0
+Interaction O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Gerhard B-NAME 1 1 td tr BodyTableInvisible 14 0
+Weber I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Industrial O 0 0 tr table BodyTableInvisible 13 0
+Communications O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Martin B-NAME 1 1 td tr BodyTableInvisible 14 0
+Wollschlaeger I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Information O 0 1 tr table BodyTableInvisible 13 0
+Management O 0 1 tr table BodyTableInvisible 13 0
+Systems O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Klaus B-NAME 1 1 td tr BodyTableInvisible 14 0
+Kabitzsch I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+2. O 0 0 div div plain 11 37
+Institute O 0 0 div div plain 11 37
+for O 0 1 div div plain 11 37
+Artificial O 0 0 div div plain 11 37
+Intelligence O 0 0 div div plain 11 37
+
+Computer O 0 0 tr table BodyTableInvisible 13 0
+Vision O 0 1 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Carsten B-NAME 1 1 td tr BodyTableInvisible 14 0
+Rother I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Computational O 0 0 tr table BodyTableInvisible 13 0
+Logic O 0 1 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Sebsastian B-NAME 0 0 td tr BodyTableInvisible 14 0
+Rudolph I-NAME 0 1 td tr BodyTableInvisible 14 0
+
+Knowlege O 0 0 tr table BodyTableInvisible 13 0
+Representation O 0 0 tr table BodyTableInvisible 13 0
+and O 0 1 tr table BodyTableInvisible 13 0
+Reasoning O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Steffen B-NAME 1 1 td tr BodyTableInvisible 14 0
+Hölldobler I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Scientific O 0 0 tr table BodyTableInvisible 13 0
+Computing O 0 0 tr table BodyTableInvisible 13 0
+for O 0 1 tr table BodyTableInvisible 13 0
+Systems O 0 0 tr table BodyTableInvisible 13 0
+Biology O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Ivo B-NAME 1 1 td tr BodyTableInvisible 14 0
+F. I-NAME 1 1 td tr BodyTableInvisible 14 0
+Sbalzarini I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Workgroup O 0 0 tr table BodyTableInvisible 13 0
+Applied O 0 0 tr table BodyTableInvisible 13 0
+Knowledge O 0 1 tr table BodyTableInvisible 13 0
+Representation O 0 0 tr table BodyTableInvisible 13 0
+and O 0 1 tr table BodyTableInvisible 13 0
+Reasoning O 0 0 tr table BodyTableInvisible 13 0
+Doz. O 0 0 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Uwe B-NAME 1 1 td tr BodyTableInvisible 14 0
+Petersohn I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Senior O 0 1 tr table BodyTableInvisible 13 0
+Professorship O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 tr table BodyTableInvisible 13 1
+Dr. O 0 1 tr table BodyTableInvisible 13 1
+Horst B-NAME 1 1 tr table BodyTableInvisible 13 1
+Reichel I-NAME 1 1 tr table BodyTableInvisible 13 1
+
+3. O 0 0 div div plain 11 65
+Institute O 0 0 div div plain 11 65
+for O 0 1 div div plain 11 65
+Software- O 0 0 div div plain 11 65
+and O 0 1 div div plain 11 65
+Multimedia-Technology O 0 0 div div plain 11 65
+
+Computer O 0 0 tr table BodyTableInvisible 13 0
+Graphics O 0 0 tr table BodyTableInvisible 13 0
+and O 0 1 tr table BodyTableInvisible 13 0
+Visualization O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Stefan B-NAME 1 1 td tr BodyTableInvisible 14 0
+Gumhold I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Media O 0 1 tr table BodyTableInvisible 13 0
+Design O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Rainer B-NAME 1 1 td tr BodyTableInvisible 14 0
+Groh I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Multimedia O 0 0 tr table BodyTableInvisible 13 0
+Technology O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Raimund B-NAME 1 1 td tr BodyTableInvisible 14 0
+Dachselt I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Software O 0 1 tr table BodyTableInvisible 13 0
+Technology O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Uwe B-NAME 1 1 td tr BodyTableInvisible 14 0
+Aßmann I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Software O 0 1 tr table BodyTableInvisible 13 0
+Engineering O 0 0 tr table BodyTableInvisible 13 0
+of O 0 1 tr table BodyTableInvisible 13 0
+Ubiquitous O 0 0 tr table BodyTableInvisible 13 0
+Systems O 0 0 tr table BodyTableInvisible 13 0
+N.N. O 0 0 tr table BodyTableInvisible 13 1
+
+Workgroup O 0 0 tr table BodyTableInvisible 13 0
+Didactics O 0 0 tr table BodyTableInvisible 13 0
+of O 0 1 tr table BodyTableInvisible 13 0
+Computer O 0 0 tr table BodyTableInvisible 13 0
+Science O 0 0 tr table BodyTableInvisible 13 0
+apl. O 0 0 td tr BodyTableInvisible 14 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Steffen B-NAME 1 1 td tr BodyTableInvisible 14 0
+Friedrich I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Senior O 0 1 tr table BodyTableInvisible 13 0
+Professorship O 0 0 tr table BodyTableInvisible 13 0
+Multimedia O 0 0 tr table BodyTableInvisible 13 0
+Technology O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Klaus B-NAME 1 1 td tr BodyTableInvisible 14 0
+Meißner I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+4. O 0 0 div div plain 11 97
+Institute O 0 0 div div plain 11 97
+for O 0 1 div div plain 11 97
+System O 0 0 div div plain 11 97
+Architecture O 0 0 div div plain 11 97
+
+Operating O 0 0 tr table BodyTableInvisible 13 0
+Systems O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Hermann B-NAME 1 1 td tr BodyTableInvisible 14 0
+Härtig I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Databases O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Wolfgang B-NAME 1 1 td tr BodyTableInvisible 14 0
+Lehner I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Privacy O 0 0 tr table BodyTableInvisible 13 0
+and O 0 1 tr table BodyTableInvisible 13 0
+Security O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Thorsten B-NAME 1 1 td tr BodyTableInvisible 14 0
+Strufe I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Computer O 0 0 tr table BodyTableInvisible 13 0
+Networks O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Alexander B-NAME 1 1 td tr BodyTableInvisible 14 0
+Schill I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Systems O 0 0 tr table BodyTableInvisible 13 0
+Engineering O 0 0 tr table BodyTableInvisible 13 0
+(Heinz-Nixdorf-Endowment) O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Cristof B-NAME 0 1 td tr BodyTableInvisible 14 0
+Fetzer I-NAME 0 1 td tr BodyTableInvisible 14 0
+
+Workgroup O 0 0 tr table BodyTableInvisible 13 0
+Computer O 0 0 tr table BodyTableInvisible 13 0
+Science O 0 0 tr table BodyTableInvisible 13 0
+in O 0 1 tr table BodyTableInvisible 13 0
+Developing O 0 0 tr table BodyTableInvisible 13 0
+Countries O 0 0 tr table BodyTableInvisible 13 0
+PD O 0 0 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Horst B-NAME 1 1 td tr BodyTableInvisible 14 0
+Lazarek I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+5. O 0 0 div div plain 11 126
+Institute O 0 0 div div plain 11 126
+for O 0 1 div div plain 11 126
+Computer O 0 0 div div plain 11 126
+Engineering O 0 0 div div plain 11 126
+
+Compiler O 0 0 tr table BodyTableInvisible 13 0
+Construction O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Jerónimo B-NAME 0 1 td tr BodyTableInvisible 14 0
+Castrillón-Mazo I-NAME 0 0 td tr BodyTableInvisible 14 0
+
+Embedded O 0 0 tr table BodyTableInvisible 13 0
+Systems O 0 0 tr table BodyTableInvisible 13 0
+Mrs. O 0 1 tr table BodyTableInvisible 13 1
+Prof. O 0 1 tr table BodyTableInvisible 13 1
+Dr. O 0 1 tr table BodyTableInvisible 13 1
+Silvia B-NAME 1 1 tr table BodyTableInvisible 13 1
+Santini I-NAME 1 1 tr table BodyTableInvisible 13 1
+
+Processor O 0 0 tr table BodyTableInvisible 13 0
+Design O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Akash B-NAME 1 1 td tr BodyTableInvisible 14 0
+Kumar I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Computer O 0 0 tr table BodyTableInvisible 13 0
+Architecture O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Wolfgang B-NAME 0 1 td tr BodyTableInvisible 14 0
+Nagel I-NAME 0 1 td tr BodyTableInvisible 14 0
+
+VLSI O 0 0 tr table BodyTableInvisible 13 0
+Design, O 0 0 tr table BodyTableInvisible 13 0
+Testability O 0 0 tr table BodyTableInvisible 13 0
+and O 0 1 tr table BodyTableInvisible 13 0
+Architecture O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Rainer B-NAME 0 1 td tr BodyTableInvisible 14 0
+Spallek I-NAME 0 1 td tr BodyTableInvisible 14 0
+
+6. O 0 0 div div plain 11 150
+Institute O 0 0 div div plain 11 150
+for O 0 1 div div plain 11 150
+Theoretical O 0 0 div div plain 11 150
+Computer O 0 0 div div plain 11 150
+Science O 0 0 div div plain 11 150
+
+Algebraic O 0 0 tr table BodyTableInvisible 13 0
+and O 0 1 tr table BodyTableInvisible 13 0
+Logical O 0 0 tr table BodyTableInvisible 13 0
+Foundations O 0 0 tr table BodyTableInvisible 13 0
+of O 0 1 tr table BodyTableInvisible 13 0
+Computer O 0 0 tr table BodyTableInvisible 13 0
+Science O 0 0 tr table BodyTableInvisible 13 0
+Mrs. O 0 1 td tr BodyTableInvisible 14 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Christel B-NAME 1 1 td tr BodyTableInvisible 14 0
+Baier I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Automata O 0 0 tr table BodyTableInvisible 13 0
+Theory O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Franz B-NAME 1 1 td tr BodyTableInvisible 14 0
+Baader I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Foundations O 0 0 tr table BodyTableInvisible 13 0
+of O 0 1 tr table BodyTableInvisible 13 0
+Programming O 0 1 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Heiko B-NAME 1 1 td tr BodyTableInvisible 14 0
+Vogler I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Knowledge-Based O 0 0 tr table BodyTableInvisible 13 0
+Systems O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Markus B-NAME 1 1 td tr BodyTableInvisible 14 0
+Krötzsch I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+7. O 0 0 div div plain 11 171
+Co-Memberships O 0 0 div div plain 11 171
+of O 0 1 div div plain 11 171
+professors O 0 0 div div plain 11 171
+from O 0 0 div div plain 11 171
+other O 0 0 div div plain 11 171
+departments O 0 0 div div plain 11 171
+
+Biotechnology O 0 0 tr table BodyTableInvisible 13 0
+Center O 0 1 tr table BodyTableInvisible 13 0
+TU O 0 0 tr table BodyTableInvisible 13 0
+Dresden O 0 1 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Michael B-NAME 1 1 td tr BodyTableInvisible 14 0
+Schroeder I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Faculty O 0 0 tr table BodyTableInvisible 13 0
+of O 0 1 tr table BodyTableInvisible 13 0
+Electrical O 0 0 tr table BodyTableInvisible 13 0
+Engineering O 0 0 tr table BodyTableInvisible 13 0
+and O 0 1 tr table BodyTableInvisible 13 0
+Information O 0 1 tr table BodyTableInvisible 13 0
+Technology O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 tr table BodyTableInvisible 13 1
+Dr.-Ing. O 0 0 tr table BodyTableInvisible 13 1
+Gerhard B-NAME 1 1 tr table BodyTableInvisible 13 1
+Fettweis I-NAME 1 1 tr table BodyTableInvisible 13 1
+
+Faculty O 0 0 tr table BodyTableInvisible 13 0
+of O 0 1 tr table BodyTableInvisible 13 0
+Electrical O 0 0 tr table BodyTableInvisible 13 0
+Engineering O 0 0 tr table BodyTableInvisible 13 0
+and O 0 1 tr table BodyTableInvisible 13 0
+Information O 0 1 tr table BodyTableInvisible 13 0
+Technology O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr.-Ing. O 0 0 td tr BodyTableInvisible 14 0
+Ralf B-NAME 1 1 td tr BodyTableInvisible 14 0
+Lehnert I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Faculty O 0 0 tr table BodyTableInvisible 13 0
+of O 0 1 tr table BodyTableInvisible 13 0
+Mathematics O 0 0 tr table BodyTableInvisible 13 0
+and O 0 1 tr table BodyTableInvisible 13 0
+Natural O 0 0 tr table BodyTableInvisible 13 0
+Sciences O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Ulrike B-NAME 1 1 td tr BodyTableInvisible 14 0
+Baumann I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Faculty O 0 0 tr table BodyTableInvisible 13 0
+of O 0 1 tr table BodyTableInvisible 13 0
+Mathematics O 0 0 tr table BodyTableInvisible 13 0
+and O 0 1 tr table BodyTableInvisible 13 0
+Natural O 0 0 tr table BodyTableInvisible 13 0
+Sciences O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Bernhard B-NAME 1 1 td tr BodyTableInvisible 14 0
+Ganter I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Faculty O 0 0 tr table BodyTableInvisible 13 0
+of O 0 1 tr table BodyTableInvisible 13 0
+Mechanical O 0 0 tr table BodyTableInvisible 13 0
+Engineering O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Ralph B-NAME 1 1 td tr BodyTableInvisible 14 0
+Stelzer I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+Faculty O 0 0 tr table BodyTableInvisible 13 0
+of O 0 1 tr table BodyTableInvisible 13 0
+Business O 0 0 tr table BodyTableInvisible 13 0
+Management O 0 1 tr table BodyTableInvisible 13 0
+and O 0 1 tr table BodyTableInvisible 13 0
+Economics O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 td tr BodyTableInvisible 14 0
+Dr. O 0 1 td tr BodyTableInvisible 14 0
+Susanne B-NAME 1 1 td tr BodyTableInvisible 14 0
+Strahringer I-NAME 1 1 td tr BodyTableInvisible 14 0
+
+8. O 0 0 div div plain 11 203
+Adjunct O 0 0 div div plain 11 203
+professors O 0 0 div div plain 11 203
+
+Adjunct O 0 0 tr table BodyTableInvisible 13 0
+professor O 0 0 tr table BodyTableInvisible 13 0
+for O 0 1 tr table BodyTableInvisible 13 0
+Automotive O 0 0 tr table BodyTableInvisible 13 0
+Software O 0 1 tr table BodyTableInvisible 13 0
+Engineering O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 tr table BodyTableInvisible 13 1
+Dr. O 0 1 tr table BodyTableInvisible 13 1
+rer. O 0 0 tr table BodyTableInvisible 13 1
+nat. O 0 0 tr table BodyTableInvisible 13 1
+Bernhard B-NAME 1 1 tr table BodyTableInvisible 13 1
+Hohlfeld I-NAME 1 1 tr table BodyTableInvisible 13 1
+
+Adjunct O 0 0 tr table BodyTableInvisible 13 0
+professor O 0 0 tr table BodyTableInvisible 13 0
+for O 0 1 tr table BodyTableInvisible 13 0
+Computational O 0 0 tr table BodyTableInvisible 13 0
+Molecular O 0 0 tr table BodyTableInvisible 13 0
+Biology O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 tr table BodyTableInvisible 13 1
+Eugene O 0 1 tr table BodyTableInvisible 13 1
+W. O 0 1 tr table BodyTableInvisible 13 1
+Myers, O 0 0 tr table BodyTableInvisible 13 1
+Ph.D. O 0 0 tr table BodyTableInvisible 13 1
+
+Adjunct O 0 0 tr table BodyTableInvisible 13 0
+professor O 0 0 tr table BodyTableInvisible 13 0
+for O 0 1 tr table BodyTableInvisible 13 0
+Enterprise O 0 0 tr table BodyTableInvisible 13 0
+Software O 0 1 tr table BodyTableInvisible 13 0
+Prof. O 0 1 tr table BodyTableInvisible 13 1
+Dr. O 0 1 tr table BodyTableInvisible 13 1
+rer. O 0 0 tr table BodyTableInvisible 13 1
+nat. O 0 0 tr table BodyTableInvisible 13 1
+Uwe B-NAME 1 1 tr table BodyTableInvisible 13 1
+Kubach I-NAME 1 1 tr table BodyTableInvisible 13 1
+
+Adjunct O 0 0 tr table BodyTableInvisible 13 0
+professor O 0 0 tr table BodyTableInvisible 13 0
+for O 0 1 tr table BodyTableInvisible 13 0
+Software O 0 1 tr table BodyTableInvisible 13 0
+Architecture O 0 0 tr table BodyTableInvisible 13 0
+of O 0 1 tr table BodyTableInvisible 13 0
+Complex O 0 0 tr table BodyTableInvisible 13 0
+Systems O 0 0 tr table BodyTableInvisible 13 0
+Prof. O 0 1 tr table BodyTableInvisible 13 1
+Dr. O 0 1 tr table BodyTableInvisible 13 1
+Frank B-NAME 1 1 tr table BodyTableInvisible 13 1
+J. I-NAME 1 1 tr table BodyTableInvisible 13 1
+Furrer I-NAME 1 1 tr table BodyTableInvisible 13 1
+
+Last O 0 1 div td documentByLine 10 0
+modified: O 0 0 div td documentByLine 10 0
+21st O 0 0 div td documentByLine 10 0
+Jul O 0 1 div td documentByLine 10 0
+2016, O 0 0 div td documentByLine 10 0
+9.17 O 0 0 div td documentByLine 10 0
+AM O 0 0 div td documentByLine 10 0
+
+Author: O 0 0 div td documentByLine 10 0
+Webmaster O 0 0 div div documentByLine 11 1
+
+Print O 0 1 a li documentActions 14 1
+
+Contact O 0 0 div div padding 12 0
+
+Christine O 0 1 span div portletContent 15 0
+Leonhardi O 0 1 span div portletContent 15 0
+
+Phone: O 0 0 div div portletContent 14 0
++49 O 0 0 div div portletContent 14 0
+(0) O 0 0 div div portletContent 14 0
+351 O 0 0 div div portletContent 14 0
+463-38215 O 0 0 div div portletContent 14 0
+
+Fax: O 0 0 div div portletContent 14 0
++49 O 0 0 div div portletContent 14 0
+(0) O 0 0 div div portletContent 14 0
+351 O 0 0 div div portletContent 14 0
+463-38221 O 0 0 div div portletContent 14 0
+
+e-mail O 0 0 span div portletContent 15 6
+contact O 0 0 span div portletContent 15 6
+form O 0 0 span div portletContent 15 6
+
+Webmaster O 0 0 span div copyright 9 0
+
+Imprint O 0 0 span div copyright 9 0

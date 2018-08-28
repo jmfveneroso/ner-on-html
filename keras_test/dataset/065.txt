@@ -1,0 +1,740 @@
+Struktur O 0 0 link meta none 10 0
+| O 0 0 link meta none 10 0
+Computer O 0 0 link meta none 10 0
+Science O 0 0 link meta none 10 0
+| O 0 0 link meta none 10 0
+University O 0 1 link meta none 10 0
+Tübingen O 0 0 link meta none 10 0
+
+Fachbereich O 0 0 div div none 7 4
+Informatik O 0 0 div div none 7 4
+(Wilhelm-Schickard-Institut) O 0 0 div div none 7 4
+
+Uni O 0 1 div img uniaz 10 0
+A-Z O 0 0 div img uniaz 10 0
+Login O 0 0 div img login 10 1
+
+Department O 0 0 li ul amainmenuitem 7 0
+
+Aktuelles O 0 0 li ul mainmenuitem 7 0
+
+Studium O 0 0 li ul mainmenuitem 7 0
+
+Research O 0 1 li ul mainmenuitem 7 0
+
+Bibliothek O 0 0 li ul mainmenuitem 7 0
+
+Home O 0 1 div div none 6 0
+> O 0 0 div body none 5 45
+... O 0 0 div body none 5 45
+> O 0 0 div body none 5 45
+Departments O 0 0 div div none 6 1
+> O 0 0 div body none 5 45
+Computer O 0 0 div div none 6 2
+Science O 0 0 div div none 6 2
+> O 0 0 div body none 5 45
+Department O 0 0 div div none 6 3
+> O 0 0 div body none 5 45
+Struktur O 0 0 div div none 6 4
+
+Computer O 0 0 li ul submenuheader 9 0
+Science O 0 0 li ul submenuheader 9 0
+
+Wilhelm O 0 1 li ul sub1menuitem 9 0
+Schickard O 0 0 li ul sub1menuitem 9 0
+Institute O 0 0 li ul sub1menuitem 9 0
+
+Head O 0 1 li ul sub1menuitem 9 0
+of O 0 1 li ul sub1menuitem 9 0
+Department's O 0 0 li ul sub1menuitem 9 0
+Office O 0 0 li ul sub1menuitem 9 0
+
+Struktur O 0 0 li ul asub1menuitem 9 0
+
+Beschäftigte O 0 0 li ul sub1menuitem 9 0
+/ O 0 0 li ul sub1menuitem 9 0
+Staff O 0 1 li ul sub1menuitem 9 0
+
+Technical O 0 0 li ul sub1menuitem 9 0
+Support O 0 0 li ul sub1menuitem 9 0
+
+How O 0 1 li ul sub1menuitem 9 0
+to O 0 0 li ul sub1menuitem 9 0
+find O 0 0 li ul sub1menuitem 9 0
+us O 0 1 li ul sub1menuitem 9 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+math. O 0 0 div div csc-textpic-text 10 2
+Daniel B-NAME 0 1 div div csc-textpic-text 10 2
+Huson I-NAME 0 1 div div csc-textpic-text 10 2
+
+Algorithmen O 0 0 p div external-link-new-window 11 0
+der O 0 1 p div external-link-new-window 11 0
+Bioinformatik O 0 0 p div external-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+14, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+C O 0 1 div div bodytext 10 6
+310a O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+huson O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+informatik.uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr.-Ing. O 0 0 div div csc-textpic-text 10 2
+Oliver B-NAME 1 1 div div csc-textpic-text 10 2
+Kohlbacher I-NAME 1 1 div div csc-textpic-text 10 2
+
+Angewandte O 0 0 p div external-link-new-window 11 0
+Bioinformatik O 0 0 p div external-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+14, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+C O 0 1 div div bodytext 10 6
+317 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+oliver.kohlbacher O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+uni-tuebingen.de O 0 0 p div mail 11 0
+
+Apl. O 0 0 div div csc-textpic-text 10 2
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+math. O 0 0 div div csc-textpic-text 10 2
+Kay B-NAME 1 1 div div csc-textpic-text 10 2
+Nieselt I-NAME 1 1 div div csc-textpic-text 10 2
+
+Integrative O 0 0 p div external-link-new-window 11 0
+Transkriptomik O 0 0 p div external-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+14, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+C326a O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+nieselt O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+informatik.uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+rer. O 0 0 div div csc-textpic-text 10 2
+nat O 0 0 div div csc-textpic-text 10 2
+Nico B-NAME 1 1 div div csc-textpic-text 10 2
+Pfeifer I-NAME 1 1 div div csc-textpic-text 10 2
+
+Methoden O 0 0 p div external-link-new-window 11 0
+der O 0 1 p div external-link-new-window 11 0
+Medizininformatik O 0 0 p div external-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+14, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+C115 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+pfeifer O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+informatik.uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Andrei O 0 1 div div csc-textpic-text 10 2
+Lupas, O 0 0 div div csc-textpic-text 10 2
+Ph.D. O 0 0 div div csc-textpic-text 10 2
+(Honorarprof.) O 0 0 div div csc-textpic-text 10 2
+
+Proteinevolution O 0 0 p div external-link-new-window 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Martin O 0 1 div div csc-textpic-text 10 2
+Butz, O 0 0 div div csc-textpic-text 10 2
+Ph.D. O 0 0 div div csc-textpic-text 10 2
+
+Kognitive O 0 0 p div internal-link-new-window 11 0
+Modellierung O 0 0 p div internal-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+14, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+C O 0 1 div div bodytext 10 6
+415 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+butz O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+informatik.uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+rer. O 0 0 div div csc-textpic-text 10 2
+nat. O 0 0 div div csc-textpic-text 10 2
+Volker B-NAME 1 1 div div csc-textpic-text 10 2
+Franz I-NAME 1 1 div div csc-textpic-text 10 2
+
+Experimentelle O 0 0 p div external-link-new-window 11 0
+Kognitionswissenschaft O 0 0 p div external-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+13, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+B O 0 1 div div bodytext 10 6
+215 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+volker.franz O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+uni-tuebingen.de O 0 0 p div mail 11 0
+
+Jun. O 0 1 div div csc-textpic-text 10 2
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+Enkelejda B-NAME 1 1 div div csc-textpic-text 10 2
+Kasneci I-NAME 1 1 div div csc-textpic-text 10 2
+
+Perception O 0 0 p div external-link-new-window 11 0
+Engineering O 0 0 p div external-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+14, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+C O 0 1 div div bodytext 10 6
+221 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+enkelejda.kasneci O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+uni-tuebingen.de O 0 0 p div mail 11 0
+
+Jun. O 0 1 div div csc-textpic-text 10 2
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+Alexandra B-NAME 1 1 div div csc-textpic-text 10 2
+Kirsch I-NAME 1 1 div div csc-textpic-text 10 2
+
+Medieninformatik O 0 0 p div external-link-new-window 11 0
+(Human-Computer O 0 0 p div external-link-new-window 11 0
+Interaction) O 0 0 p div external-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+14, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+C O 0 1 div div bodytext 10 6
+112a O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+alexandra.kirsch O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr.-Ing. O 0 0 div div csc-textpic-text 10 2
+Hendrik B-NAME 1 1 div div csc-textpic-text 10 2
+Lensch I-NAME 0 1 div div csc-textpic-text 10 2
+
+Computergrafik O 0 0 p div internal-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+14, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+C O 0 1 div div bodytext 10 6
+404 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+hendrik.lensch O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+rer. O 0 0 div div csc-textpic-text 10 2
+nat. O 0 0 div div csc-textpic-text 10 2
+Andreas B-NAME 1 1 div div csc-textpic-text 10 2
+Schilling I-NAME 1 1 div div csc-textpic-text 10 2
+
+Medieninformatik O 0 0 p div internal-link-new-window 11 0
+(Visual O 0 0 p div internal-link-new-window 11 0
+Computing) O 0 0 p div internal-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+14, O 0 0 div div bodytext 10 6
+Raum O 0 1 div div bodytext 10 6
+C O 0 1 div div bodytext 10 6
+407 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+schilling O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Felix O 0 1 div div csc-textpic-text 10 2
+Wichmann, O 0 0 div div csc-textpic-text 10 2
+DPhil O 0 0 div div csc-textpic-text 10 2
+
+Neuronale O 0 0 p div external-link-new-window 11 0
+Informationsverarbeitung O 0 0 p div external-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+6, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+F236 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+felix.wichmann O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+rer. O 0 0 div div csc-textpic-text 10 2
+nat. O 0 0 div div csc-textpic-text 10 2
+Andreas B-NAME 1 1 div div csc-textpic-text 10 2
+Zell I-NAME 1 1 div div csc-textpic-text 10 2
+
+Kognitive O 0 0 p div external-link-new-window 11 0
+Systeme O 0 0 p div external-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+1, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+A O 0 1 div div bodytext 10 6
+310 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+andreas.zell O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Michael O 0 1 div div csc-textpic-text 10 2
+J. O 0 1 div div csc-textpic-text 10 2
+Black, O 0 0 div div csc-textpic-text 10 2
+Ph.D. O 0 0 div div csc-textpic-text 10 2
+(Honorarprof.) O 0 0 div div csc-textpic-text 10 2
+
+Perceiving O 0 0 p div external-link-new-window 11 0
+Systems O 0 0 p div external-link-new-window 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 8
+Dr.-Ing. O 0 0 div div csc-textpic-text 10 8
+Martin B-NAME 1 1 div div csc-textpic-text 10 8
+Giese I-NAME 1 1 div div csc-textpic-text 10 8
+(kooptiert) O 0 0 div div csc-textpic-text 10 8
+
+Computational O 0 0 p div external-link-new-window 11 0
+Sensomotorics O 0 0 p div external-link-new-window 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 14
+Dr. O 0 1 div div csc-textpic-text 10 14
+Bettina B-NAME 1 1 div div csc-textpic-text 10 14
+Rolke I-NAME 1 1 div div csc-textpic-text 10 14
+(kooptiert) O 0 0 div div csc-textpic-text 10 14
+
+Evolutionäre O 0 0 p div internal-link-new-window 11 0
+Kognition O 0 0 p div internal-link-new-window 11 0
+
+Prof. O 0 1 h3 div csc-textpic-text 11 0
+Dr. O 0 1 h3 div csc-textpic-text 11 0
+rer. O 0 0 h3 div csc-textpic-text 11 0
+nat. O 0 0 h3 div csc-textpic-text 11 0
+Oliver B-NAME 1 1 h3 div csc-textpic-text 11 0
+Bringmann I-NAME 1 1 h3 div csc-textpic-text 11 0
+
+Eingebettete O 0 0 p div external-link-new-window 11 0
+Systeme O 0 0 p div external-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 5
+13, O 0 0 div div bodytext 10 5
+Raum: O 0 0 div div bodytext 10 5
+B O 0 1 div div bodytext 10 5
+209 O 0 0 div div bodytext 10 5
+
+E-Mail: O 0 0 div div bodytext 10 6
+bringman O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+informatik.uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+rer. O 0 0 div div csc-textpic-text 10 2
+nat. O 0 0 div div csc-textpic-text 10 2
+Torsten B-NAME 1 1 div div csc-textpic-text 10 2
+Grust I-NAME 1 1 div div csc-textpic-text 10 2
+
+Datenbanksysteme O 0 0 p div external-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+13, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+B O 0 1 div div bodytext 10 6
+318 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+grust O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+informatik.uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+sc. O 0 0 div div csc-textpic-text 10 2
+techn.Wolfgang O 0 0 div div csc-textpic-text 10 2
+Küchlin O 0 1 div div csc-textpic-text 10 2
+
+Symbolisches O 0 0 p div internal-link-new-window 11 0
+Rechnen O 0 0 p div internal-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+14, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+C O 0 1 div div bodytext 10 6
+105 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+kuechlin O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+informatik.uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+rer. O 0 0 div div csc-textpic-text 10 2
+nat. O 0 0 div div csc-textpic-text 10 2
+Michael B-NAME 1 1 div div csc-textpic-text 10 2
+Menth I-NAME 1 1 div div csc-textpic-text 10 2
+
+Kommunikationsnetze O 0 0 p div external-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+13, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+B O 0 1 div div bodytext 10 6
+302 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+menth O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+informatik.uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr.-Ing. O 0 0 div div csc-textpic-text 10 2
+Klaus B-NAME 1 1 div div csc-textpic-text 10 2
+Ostermann I-NAME 1 1 div div csc-textpic-text 10 2
+
+Programmiersprachen O 0 0 p div external-link-new-window 11 0
+und O 0 1 p div external-link-new-window 11 0
+Softwaretechnik O 0 0 p div external-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+13, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+B O 0 1 div div bodytext 10 6
+217 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+klaus.ostermann O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+rer. O 0 0 div div csc-textpic-text 10 2
+nat. O 0 0 div div csc-textpic-text 10 2
+Wolfgang B-NAME 1 1 div div csc-textpic-text 10 2
+Rosenstiel I-NAME 1 1 div div csc-textpic-text 10 2
+
+Technische O 0 0 p div external-link-new-window 11 0
+Informatik O 0 0 p div external-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+13, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+B O 0 1 div div bodytext 10 6
+207 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+rosenstiel O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+informatik.uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+rer. O 0 0 div div csc-textpic-text 10 2
+nat. O 0 0 div div csc-textpic-text 10 2
+Thomas B-NAME 1 1 div div csc-textpic-text 10 2
+Walter I-NAME 1 1 div div csc-textpic-text 10 2
+
+Informationsdienste O 0 0 p div external-link-new-window 11 0
+
+Wächterstr. O 0 0 div div bodytext 10 6
+76, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+1.105 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+thomas.walter O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+uni-tuebingen.de O 0 0 p div mail 11 0
+
+Jun. O 0 1 div div csc-textpic-text 10 2
+Doz. O 0 0 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+rer. O 0 0 div div csc-textpic-text 10 2
+nat. O 0 0 div div csc-textpic-text 10 2
+Britta B-NAME 1 1 div div csc-textpic-text 10 2
+Dorn I-NAME 1 1 div div csc-textpic-text 10 2
+
+Mathematische O 0 0 p div internal-link-new-window 11 0
+Strukturen O 0 0 p div internal-link-new-window 11 0
+in O 0 1 p div internal-link-new-window 11 0
+der O 0 1 p div internal-link-new-window 11 0
+Informatik O 0 0 p div internal-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+13, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+B O 0 1 div div bodytext 10 6
+124 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+britta.dorn O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+rer. O 0 0 div div csc-textpic-text 10 2
+nat. O 0 0 div div csc-textpic-text 10 2
+Michael B-NAME 0 1 div div csc-textpic-text 10 2
+Kaufmann I-NAME 0 1 div div csc-textpic-text 10 2
+
+Algorithmik O 0 0 p div external-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+13, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+B O 0 1 div div bodytext 10 6
+112 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+mk O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+informatik.uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+rer. O 0 0 div div csc-textpic-text 10 2
+nat. O 0 0 div div csc-textpic-text 10 2
+Klaus-Jörn B-NAME 1 1 div div csc-textpic-text 10 2
+Lange I-NAME 1 1 div div csc-textpic-text 10 2
+
+Theoretische O 0 0 p div internal-link-new-window 11 0
+Informatik O 0 0 p div internal-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+13, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+B O 0 1 div div bodytext 10 6
+117 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+lange O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+informatik.uni-tuebingen.de O 0 0 p div mail 11 0
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+rer. O 0 0 div div csc-textpic-text 10 2
+nat. O 0 0 div div csc-textpic-text 10 2
+Ulrike B-NAME 1 1 div div csc-textpic-text 10 2
+von I-NAME 1 1 div div csc-textpic-text 10 2
+Luxburg I-NAME 1 1 div div csc-textpic-text 10 2
+
+Theorie O 0 0 p div external-link-new-window 11 0
+des O 0 1 p div external-link-new-window 11 0
+maschinellen O 0 0 p div external-link-new-window 11 0
+Lernens O 0 0 p div external-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+13, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+B214 O 0 0 div div bodytext 10 6
+
+Prof. O 0 1 div div csc-textpic-text 10 2
+Dr. O 0 1 div div csc-textpic-text 10 2
+phil. O 0 0 div div csc-textpic-text 10 2
+Peter B-NAME 1 1 div div csc-textpic-text 10 2
+Schroeder-Heister I-NAME 1 1 div div csc-textpic-text 10 2
+
+Logik O 0 0 p div external-link-new-window 11 0
+und O 0 1 p div external-link-new-window 11 0
+Sprachtheorie-Mathematische O 0 0 p div external-link-new-window 11 0
+Logik O 0 0 p div external-link-new-window 11 0
+
+Sand O 0 1 div div bodytext 10 6
+13, O 0 0 div div bodytext 10 6
+Raum: O 0 0 div div bodytext 10 6
+B O 0 1 div div bodytext 10 6
+109 O 0 0 div div bodytext 10 6
+
+E-Mail: O 0 0 div div bodytext 10 7
+psh O 0 0 p div mail 11 0
+(at) O 0 0 p div mail 11 0
+informatik.uni-tuebingen.de O 0 0 p div mail 11 0
+
+Außerplanmäßige O 0 0 tr thead td-0.align-left 13 0
+Professoren, O 0 0 tr thead td-0.align-left 13 0
+Heisenbergstipendiaten O 0 0 tr thead td-0.align-left 13 0
+
+apl. O 0 0 td tr external-link-new-window 14 0
+Prof. O 0 1 td tr external-link-new-window 14 0
+Dr. O 0 1 td tr external-link-new-window 14 0
+Michael B-NAME 1 1 td tr external-link-new-window 14 0
+Huber I-NAME 1 1 td tr external-link-new-window 14 0
+
+apl. O 0 0 td tr internal-link 14 0
+Prof. O 0 1 td tr internal-link 14 0
+Dr. O 0 1 td tr internal-link 14 0
+Klaus B-NAME 1 1 td tr internal-link 14 0
+Reinhardt I-NAME 1 1 td tr internal-link 14 0
+
+Professoren O 0 0 tr thead td-0.align-left 13 0
+im O 0 1 tr thead td-0.align-left 13 0
+Ruhestand O 0 0 tr thead td-0.align-left 13 0
+
+Diskrete O 0 0 td tr external-link-new-window 14 0
+Mathematik O 0 0 td tr external-link-new-window 14 0
+Prof. O 0 1 tr tbody tr-even 13 2
+Dr. O 0 1 tr tbody tr-even 13 2
+rer. O 0 0 tr tbody tr-even 13 2
+nat. O 0 0 tr tbody tr-even 13 2
+Peter B-NAME 1 1 tr tbody tr-even 13 2
+Hauck I-NAME 1 1 tr tbody tr-even 13 2
+
+Programmiersprachen O 0 0 td tr external-link-new-window 14 0
+und O 0 1 td tr external-link-new-window 14 0
+Übersetzer O 0 0 td tr external-link-new-window 14 0
+Prof. O 0 1 tr tbody tr-odd 13 2
+Dr. O 0 1 tr tbody tr-odd 13 2
+rer. O 0 0 tr tbody tr-odd 13 2
+nat. O 0 0 tr tbody tr-odd 13 2
+Herbert B-NAME 1 1 tr tbody tr-odd 13 2
+Klaeren I-NAME 1 1 tr tbody tr-odd 13 2
+
+Methodik O 0 0 td tr external-link-new-window 14 0
+computerunterstützter O 0 0 td tr external-link-new-window 14 0
+Textinterpretation O 0 0 td tr external-link-new-window 14 0
+Prof. O 0 1 tr tbody tr-even 13 2
+Dr. O 0 1 tr tbody tr-even 13 2
+theol. O 0 0 tr tbody tr-even 13 2
+Harald B-NAME 0 1 tr tbody tr-even 13 2
+Schweizer I-NAME 0 1 tr tbody tr-even 13 2
+
+Datenbanken O 0 0 tr tbody tr-odd 13 0
+Prof. O 0 1 tr tbody tr-odd 13 1
+Dr. O 0 1 tr tbody tr-odd 13 1
+Ulrich B-NAME 1 1 tr tbody tr-odd 13 1
+Güntzer I-NAME 1 1 tr tbody tr-odd 13 1
+
+Computer O 0 0 tr tbody tr-even 13 0
+Algebra O 0 0 tr tbody tr-even 13 0
+Prof. O 0 1 tr tbody tr-even 13 1
+Dr. O 0 1 tr tbody tr-even 13 1
+Rüdiger B-NAME 1 1 tr tbody tr-even 13 1
+Loos I-NAME 1 1 tr tbody tr-even 13 1
+
+© O 0 0 div div copyright 8 0
+
+Imprint O 0 0 li ul none 10 0
+
+Contact O 0 0 li ul none 10 0
+
+Shortcut O 0 0 li ul last 10 0
+
+RSS O 0 0 li ul rss 10 0
+
+Print O 0 1 div li none 11 0
+
+Last O 0 1 ul div last 9 5
+Changed: O 0 0 ul div last 9 5
+02.09.2017 O 0 0 ul div last 9 5
+
+Welcome O 0 1 li ul none 10 0
+Center O 0 1 li ul none 10 0
+for O 0 1 li ul none 10 0
+Scholars O 0 0 li ul none 10 0
+
+Advice O 0 0 li ul none 10 0
+for O 0 1 li ul none 10 0
+International O 0 0 li ul none 10 0
+Students O 0 0 li ul none 10 0
+
+Information O 0 1 li ul none 10 0
+& O 0 0 li ul none 10 0
+Forms O 0 0 li ul none 10 0
+Student O 0 1 li ul none 10 0
+Secretariat O 0 0 li ul none 10 0
+
+Campus-Portal O 0 0 li ul none 10 0
+
+E-Learning O 0 0 li ul none 10 0
+
+Courses O 0 0 li ul none 10 0
+available O 0 0 li ul none 10 0
+
+Wissenschaftliche O 0 0 li ul none 10 0
+Weiterbildung O 0 0 li ul none 10 0
+
+Library O 0 0 li ul none 10 0
+Online-catalogue O 0 0 li ul none 10 0
+
+Webmail O 0 0 li ul none 10 0
+Uni O 0 1 li ul none 10 0
+Tübingen O 0 0 li ul none 10 0
+
+Operating O 0 0 li ul none 10 0
+Status O 0 0 li ul none 10 0
+Network O 0 0 li ul none 10 0
+
+Forms O 0 0 li ul none 10 0
+Central O 0 0 li ul none 10 0
+Administration O 0 0 li ul none 10 0
+
+Corporate O 0 0 li ul none 10 0
+Design O 0 0 li ul none 10 0
+
+Konferenzmaterialien O 0 0 li ul none 10 0
+
+Mensa O 0 1 li ul none 10 0
+menu O 0 0 li ul none 10 0
+
+Staff O 0 1 li ul none 10 0
+search O 0 0 li ul none 10 0
+(EPV) O 0 0 li ul none 10 0
+
+Maps O 0 0 li ul none 10 0
+
+Barrierefreie O 0 0 li ul none 10 0
+Zugänge O 0 0 li ul none 10 0
+
+Current O 0 1 li ul none 10 0
+events O 0 0 li ul none 10 0
+
+Timms O 0 1 li ul none 10 0
+Video O 0 0 li ul none 10 0
+Portal O 0 1 li ul none 10 0
+
+Unishop O 0 0 li ul none 10 0
+
+EMAS O 0 0 li ul none 10 0
+Eco-Management O 0 0 li ul none 10 0
+
+Newsletter O 0 0 li ul none 10 0
+Uni O 0 1 li ul none 10 0
+Tübingen O 0 0 li ul none 10 0
+aktuell O 0 0 li ul none 10 0

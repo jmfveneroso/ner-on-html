@@ -1,0 +1,809 @@
+Faculty O 0 0 head html no-js 4 3
+& O 0 0 head html no-js 4 3
+Staff: O 0 0 head html no-js 4 3
+Computer O 0 0 head html no-js 4 3
+Science: O 0 0 head html no-js 4 3
+UNCW O 0 0 head html no-js 4 3
+
+Skip O 0 1 div li show-for-sr 10 0
+UNCW O 0 0 div li show-for-sr 10 0
+Quicklinks O 0 0 div li show-for-sr 10 0
+
+Email O 0 0 li ul right 10 0
+
+Directory O 0 0 li ul right 10 0
+
+mySeaport O 0 0 li ul right 10 0
+
+Quicklinks O 0 0 li ul has-dropdown 10 0
+
+Blackboard O 0 0 li ul dropdown 12 0
+Learn O 0 1 li ul dropdown 12 0
+
+Board O 0 1 li ul dropdown 12 0
+of O 0 1 li ul dropdown 12 0
+Trustees O 0 0 li ul dropdown 12 0
+
+Campus O 0 1 li ul dropdown 12 0
+Police O 0 0 li ul dropdown 12 0
+
+Career O 0 0 li ul dropdown 12 0
+Center O 0 1 li ul dropdown 12 0
+
+Chancellor's O 0 0 li ul dropdown 12 0
+Office O 0 0 li ul dropdown 12 0
+
+Consumer O 0 0 li ul dropdown 12 0
+Information O 0 1 li ul dropdown 12 0
+
+Diversity O 0 0 li ul dropdown 12 0
+
+Distance O 0 0 li ul dropdown 12 0
+Education O 0 0 li ul dropdown 12 0
+
+Financial O 0 0 li ul dropdown 12 0
+Aid O 0 1 li ul dropdown 12 0
+
+Forms O 0 0 li ul dropdown 12 0
+
+Health O 0 1 li ul dropdown 12 0
+Services O 0 0 li ul dropdown 12 0
+
+Housing O 0 0 li ul dropdown 12 0
+
+Information O 0 1 li ul dropdown 12 0
+Technology O 0 0 li ul dropdown 12 0
+
+Jobs O 0 1 li ul dropdown 12 0
+
+Leave O 0 0 li ul dropdown 12 0
+Keeping O 0 1 li ul dropdown 12 0
+
+Policies O 0 0 li ul dropdown 12 0
+& O 0 0 li ul dropdown 12 0
+Procedures O 0 0 li ul dropdown 12 0
+
+Registrar O 0 0 li ul dropdown 12 0
+
+SeaNet O 0 0 li ul dropdown 12 0
+
+Swoop O 0 0 li ul dropdown 12 0
+
+Tuition O 0 0 li ul dropdown 12 0
+& O 0 0 li ul dropdown 12 0
+Fees O 0 0 li ul dropdown 12 0
+
+Go O 0 1 div div button.tiny.radius 13 0
+
+Computer O 0 0 h1 div row 7 0
+Science O 0 0 h1 div row 7 0
+
+Page O 0 1 div div tiny.secondary.radius.button.dropdown.show-for-small-only 7 0
+Menu O 0 1 div div tiny.secondary.radius.button.dropdown.show-for-small-only 7 0
+
+About O 0 0 li ul f-dropdown.text-left 10 0
+Us O 0 1 li ul f-dropdown.text-left 10 0
+
+Computing O 0 0 li ul f-dropdown.text-left 12 0
+Facilities O 0 0 li ul f-dropdown.text-left 12 0
+
+Faculty O 0 0 li ul f-dropdown.text-left 12 0
+and O 0 1 li ul f-dropdown.text-left 12 0
+Staff O 0 1 li ul f-dropdown.text-left 12 0
+
+Mission O 0 1 li ul f-dropdown.text-left 12 0
+
+News O 0 0 li ul f-dropdown.text-left 12 0
+
+Option O 0 0 li ul f-dropdown.text-left 12 0
+1 O 0 0 li ul f-dropdown.text-left 12 0
+(Systems) O 0 0 li ul f-dropdown.text-left 12 0
+
+Option O 0 0 li ul f-dropdown.text-left 12 0
+2 O 0 0 li ul f-dropdown.text-left 12 0
+
+Policies O 0 0 li ul f-dropdown.text-left 12 0
+& O 0 0 li ul f-dropdown.text-left 12 0
+Procedures O 0 0 li ul f-dropdown.text-left 12 0
+
+Program O 0 0 li ul f-dropdown.text-left 12 0
+Education O 0 0 li ul f-dropdown.text-left 12 0
+Objectives O 0 0 li ul f-dropdown.text-left 12 0
+
+Student O 0 1 li ul f-dropdown.text-left 12 0
+Outcomes O 0 0 li ul f-dropdown.text-left 12 0
+
+Prospective O 0 0 li ul f-dropdown.text-left 10 0
+Students O 0 0 li ul f-dropdown.text-left 10 0
+
+Undergraduate O 0 0 li ul f-dropdown.text-left 10 0
+Students O 0 0 li ul f-dropdown.text-left 10 0
+
+Graduate O 1 1 li ul f-dropdown.text-left 10 0
+Students O 0 0 li ul f-dropdown.text-left 10 0
+
+Research O 0 1 li ul f-dropdown.text-left 10 0
+
+College O 0 0 li ul f-dropdown.text-left 10 0
+of O 0 1 li ul f-dropdown.text-left 10 0
+Arts O 0 1 li ul f-dropdown.text-left 10 0
+and O 0 1 li ul f-dropdown.text-left 10 0
+Sciences O 0 0 li ul f-dropdown.text-left 10 0
+
+Department O 0 0 div div small-24.columns 8 0
+Address O 0 0 div div small-24.columns 8 0
+
+Department O 0 0 tr tbody small-24.columns 11 0
+of O 0 1 tr tbody small-24.columns 11 0
+Computer O 0 0 tr tbody small-24.columns 11 0
+Science O 0 0 tr tbody small-24.columns 11 0
+
+University O 0 1 tr tbody small-24.columns 11 0
+of O 0 1 tr tbody small-24.columns 11 0
+North O 0 1 tr tbody small-24.columns 11 0
+Carolina O 0 1 tr tbody small-24.columns 11 0
+Wilmington O 0 1 tr tbody small-24.columns 11 0
+
+CIS O 0 0 tr tbody small-24.columns 11 0
+Building, O 0 0 tr tbody small-24.columns 11 0
+Room O 0 1 tr tbody small-24.columns 11 0
+2010 O 0 0 tr tbody small-24.columns 11 0
+
+601 O 0 0 tr tbody small-24.columns 11 0
+South O 0 1 tr tbody small-24.columns 11 0
+College O 0 0 tr tbody small-24.columns 11 0
+Road O 0 0 tr tbody small-24.columns 11 0
+
+Wilmington, O 0 0 tr tbody small-24.columns 11 0
+NC O 0 0 tr tbody small-24.columns 11 0
+28403 O 0 0 tr tbody small-24.columns 11 0
+Phone: O 0 0 tr tbody small-24.columns 11 5
+910.962.7182 O 0 0 tr tbody small-24.columns 11 5
+
+Fax: O 0 0 tr tbody small-24.columns 11 5
+910.962.7457 O 0 0 tr tbody small-24.columns 11 5
+
+Email O 0 0 td tr small-24.columns 12 2
+Us O 0 1 td tr small-24.columns 12 2
+
+Current O 0 1 div div small-24.columns 8 16
+Faculty O 0 0 div div small-24.columns 8 16
+and O 0 1 div div small-24.columns 8 16
+Staff O 0 1 div div small-24.columns 8 16
+
+Dr. O 0 1 p td small-24.columns 13 0
+Curry B-NAME 1 1 p td small-24.columns 13 0
+Guinn I-NAME 1 1 p td small-24.columns 13 0
+
+Department O 0 0 p td small-24.columns 13 2
+Chair O 0 1 p td small-24.columns 13 2
+
+Professor O 0 0 p td small-24.columns 13 4
+
+CIS O 0 0 td tr small-24.columns 12 0
+2015 O 0 0 td tr small-24.columns 12 0
+
+910.962.3937 O 0 0 td tr small-24.columns 12 0
+
+Email: O 0 0 td tr small-24.columns 12 9
+
+Web O 0 1 p td small-24.columns 13 3
+Site O 0 1 p td small-24.columns 13 3
+
+Emma B-NAME 0 1 td tr small-24.columns 12 0
+Kay I-NAME 0 1 td tr small-24.columns 12 0
+Thornton I-NAME 0 1 td tr small-24.columns 12 0
+
+Administrative O 0 0 td tr small-24.columns 12 0
+Assistant O 0 0 td tr small-24.columns 12 0
+
+CIS O 0 0 p td small-24.columns 13 0
+2010 O 0 0 p td small-24.columns 13 0
+
+910.962.7182 O 0 0 p td small-24.columns 13 0
+
+Email: O 0 0 p td small-24.columns 13 0
+
+Dr. O 0 1 td tr small-24.columns 12 0
+Gur B-NAME 1 1 td tr small-24.columns 12 0
+Saran I-NAME 1 1 td tr small-24.columns 12 0
+Adhar I-NAME 1 1 td tr small-24.columns 12 0
+
+Professor O 0 0 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 2
+2037 O 0 0 tr tbody small-24.columns 11 2
+
+910.962.3820 O 0 0 tr tbody small-24.columns 11 2
+
+Email: O 0 0 tr tbody small-24.columns 11 2
+
+Web O 0 1 td tr small-24.columns 12 9
+Site O 0 1 td tr small-24.columns 12 9
+
+Mr. O 0 1 td tr small-24.columns 12 0
+Ralph B-NAME 0 1 td tr small-24.columns 12 0
+Bradley I-NAME 0 1 td tr small-24.columns 12 0
+
+Assistant O 0 0 td tr small-24.columns 12 2
+Chair O 0 1 td tr small-24.columns 12 2
+
+and O 0 1 td tr small-24.columns 12 3
+
+Lecturer O 0 0 td tr small-24.columns 12 3
+
+CIS O 0 0 tr tbody small-24.columns 11 15
+2033 O 0 0 tr tbody small-24.columns 11 15
+
+910.962.4260 O 0 0 tr tbody small-24.columns 11 15
+
+Email: O 0 0 tr tbody small-24.columns 11 15
+
+Web O 0 1 td tr small-24.columns 12 12
+Site O 0 1 td tr small-24.columns 12 12
+
+Mr. O 0 1 td tr small-24.columns 12 0
+Eddie B-NAME 0 1 td tr small-24.columns 12 0
+Dunn I-NAME 0 1 td tr small-24.columns 12 0
+
+Systems O 0 0 td tr small-24.columns 12 0
+Administrator O 0 0 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 2
+2048 O 0 0 tr tbody small-24.columns 11 2
+
+910.962.3668 O 0 0 tr tbody small-24.columns 11 2
+
+Email: O 0 0 tr tbody small-24.columns 11 2
+
+Ms. O 0 1 td tr small-24.columns 12 0
+Elham B-NAME 1 1 td tr small-24.columns 12 0
+Ebrahimi I-NAME 1 1 td tr small-24.columns 12 0
+
+Assistant O 0 0 td tr small-24.columns 12 0
+Professor O 0 0 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 12
+2037 O 0 0 tr tbody small-24.columns 11 12
+
+910.962.--- O 0 0 tr tbody small-24.columns 11 12
+
+Email: O 0 0 tr tbody small-24.columns 11 12
+
+Web O 0 1 tr tbody small-24.columns 11 12
+Site O 0 1 tr tbody small-24.columns 11 12
+
+Dr. O 0 1 td tr small-24.columns 12 0
+Clayton B-NAME 1 1 td tr small-24.columns 12 0
+Ferner I-NAME 1 1 td tr small-24.columns 12 0
+
+Director, O 0 0 td tr small-24.columns 12 2
+MS O 0 1 td tr small-24.columns 12 2
+CSIS O 0 0 td tr small-24.columns 12 2
+Program O 0 0 td tr small-24.columns 12 2
+
+Professor O 0 0 td tr small-24.columns 12 4
+
+CIS O 0 0 tr tbody small-24.columns 11 2
+2036 O 0 0 tr tbody small-24.columns 11 2
+
+910.962.7129 O 0 0 tr tbody small-24.columns 11 2
+
+Email: O 0 0 tr tbody small-24.columns 11 2
+
+Web O 0 1 td tr small-24.columns 12 12
+Site O 0 1 td tr small-24.columns 12 12
+
+Ms. O 0 1 td tr small-24.columns 12 0
+Marni B-NAME 0 1 td tr small-24.columns 12 0
+Ferner I-NAME 0 1 td tr small-24.columns 12 0
+
+Senior O 0 1 td tr small-24.columns 12 0
+Lecturer O 0 0 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 18
+2032 O 0 0 tr tbody small-24.columns 11 18
+
+910.962.7567 O 0 0 tr tbody small-24.columns 11 18
+
+Email: O 0 0 tr tbody small-24.columns 11 18
+
+Web O 0 1 td tr small-24.columns 12 9
+Site O 0 1 td tr small-24.columns 12 9
+
+Dr. O 0 1 td tr small-24.columns 12 0
+HyunBum B-NAME 0 0 td tr small-24.columns 12 0
+Kim I-NAME 0 1 td tr small-24.columns 12 0
+
+Assistant O 0 0 td tr small-24.columns 12 0
+Professor O 0 0 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 2
+2044 O 0 0 tr tbody small-24.columns 11 2
+
+910.962.2160 O 0 0 tr tbody small-24.columns 11 2
+
+Email: O 0 0 tr tbody small-24.columns 11 2
+
+Web O 0 1 td tr small-24.columns 12 9
+Site O 0 1 td tr small-24.columns 12 9
+
+Dr. O 0 1 td tr small-24.columns 12 0
+Lucas B-NAME 1 1 td tr small-24.columns 12 0
+Layman I-NAME 1 1 td tr small-24.columns 12 0
+
+Assistant O 0 0 td tr small-24.columns 12 0
+Professor O 0 0 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 15
+2045 O 0 0 tr tbody small-24.columns 11 15
+
+910.962.--- O 0 0 tr tbody small-24.columns 11 15
+
+Email: O 0 0 tr tbody small-24.columns 11 15
+
+Web O 0 1 td tr small-24.columns 12 9
+Site O 0 1 td tr small-24.columns 12 9
+
+Dr. O 0 1 td tr small-24.columns 12 0
+Brittany B-NAME 1 1 td tr small-24.columns 12 0
+Morago I-NAME 1 1 td tr small-24.columns 12 0
+
+Assistant O 0 0 td tr small-24.columns 12 0
+Professor O 0 0 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 2
+2040 O 0 0 tr tbody small-24.columns 11 2
+
+910.962. O 0 0 tr tbody small-24.columns 11 2
+
+Email: O 0 0 tr tbody small-24.columns 11 2
+
+Web O 0 1 td tr small-24.columns 12 9
+Site O 0 1 td tr small-24.columns 12 9
+
+Dr. O 0 1 td tr small-24.columns 12 0
+Sridhar B-NAME 1 1 td tr small-24.columns 12 0
+Narayan I-NAME 1 1 td tr small-24.columns 12 0
+
+Professor O 0 0 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 15
+2039 O 0 0 tr tbody small-24.columns 11 15
+
+910.962.3695 O 0 0 tr tbody small-24.columns 11 15
+
+Email: O 0 0 tr tbody small-24.columns 11 15
+
+Web O 0 1 td tr small-24.columns 12 9
+Site O 0 1 td tr small-24.columns 12 9
+
+Dr. O 0 1 td tr small-24.columns 12 0
+Laurie B-NAME 1 1 td tr small-24.columns 12 0
+Patterson I-NAME 1 1 td tr small-24.columns 12 0
+
+Associate O 0 1 td tr small-24.columns 12 0
+Professor O 0 0 td tr small-24.columns 12 0
+
+OS O 0 0 tr tbody small-24.columns 11 2
+2016E O 0 0 tr tbody small-24.columns 11 2
+
+910.962.3906 O 0 0 tr tbody small-24.columns 11 2
+
+Email: O 0 0 tr tbody small-24.columns 11 2
+
+Web O 0 1 td tr small-24.columns 12 9
+Site O 0 1 td tr small-24.columns 12 9
+
+Dr. O 0 1 td tr small-24.columns 12 0
+Toni B-NAME 1 1 td tr small-24.columns 12 0
+Pence I-NAME 0 1 td tr small-24.columns 12 0
+
+Assistant O 0 0 td tr small-24.columns 12 0
+Professor O 0 0 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 15
+2041 O 0 0 tr tbody small-24.columns 11 15
+
+910.962.3886 O 0 0 tr tbody small-24.columns 11 15
+
+Email: O 0 0 tr tbody small-24.columns 11 15
+
+Web O 0 1 td tr small-24.columns 12 9
+Site O 0 1 td tr small-24.columns 12 9
+
+Dr. O 0 1 td tr small-24.columns 12 0
+Karl B-NAME 1 1 td tr small-24.columns 12 0
+Ricanek I-NAME 1 1 td tr small-24.columns 12 0
+
+Professor O 0 0 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 2
+2042 O 0 0 tr tbody small-24.columns 11 2
+
+910.962.4261 O 0 0 tr tbody small-24.columns 11 2
+
+Email: O 0 0 tr tbody small-24.columns 11 2
+
+Web O 0 1 td tr small-24.columns 12 9
+Site O 0 1 td tr small-24.columns 12 9
+
+Dr. O 0 1 td tr small-24.columns 12 0
+Devon B-NAME 1 1 td tr small-24.columns 12 0
+Simmonds I-NAME 1 1 td tr small-24.columns 12 0
+
+Associate O 0 1 td tr small-24.columns 12 0
+Professor O 0 0 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 15
+2046 O 0 0 tr tbody small-24.columns 11 15
+
+910.962.3819 O 0 0 tr tbody small-24.columns 11 15
+
+Email: O 0 0 tr tbody small-24.columns 11 15
+
+Web O 0 1 td tr small-24.columns 12 9
+Site O 0 1 td tr small-24.columns 12 9
+
+Mr. O 0 1 td tr small-24.columns 12 0
+Yang B-NAME 1 1 td tr small-24.columns 12 0
+Song I-NAME 1 1 td tr small-24.columns 12 0
+
+Assistant O 0 0 td tr small-24.columns 12 0
+Professor O 0 0 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 2
+2031 O 0 0 tr tbody small-24.columns 11 2
+
+910.962.---- O 0 0 tr tbody small-24.columns 11 2
+
+Email: O 0 0 tr tbody small-24.columns 11 2
+
+Web O 0 1 tr tbody small-24.columns 11 2
+Site O 0 1 tr tbody small-24.columns 11 2
+
+Dr. O 0 1 td tr small-24.columns 12 0
+Gene B-NAME 0 1 td tr small-24.columns 12 0
+Tagliarini I-NAME 0 1 td tr small-24.columns 12 0
+
+Professor O 0 0 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 14
+2038 O 0 0 tr tbody small-24.columns 11 14
+
+910.962.7572 O 0 0 tr tbody small-24.columns 11 14
+
+Email: O 0 0 tr tbody small-24.columns 11 14
+
+Web O 0 1 td tr small-24.columns 12 9
+Site O 0 1 td tr small-24.columns 12 9
+
+Mr. O 0 1 td tr small-24.columns 12 0
+Jack B-NAME 1 1 td tr small-24.columns 12 0
+Tompkins I-NAME 1 1 td tr small-24.columns 12 0
+
+Lecturer O 0 0 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 2
+2034 O 0 0 tr tbody small-24.columns 11 2
+
+910.962.7013 O 0 0 tr tbody small-24.columns 11 2
+
+Email: O 0 0 tr tbody small-24.columns 11 2
+
+Web O 0 1 td tr small-24.columns 12 9
+Site O 0 1 td tr small-24.columns 12 9
+
+Dr. O 0 1 td tr small-24.columns 12 0
+Ron B-NAME 1 1 td tr small-24.columns 12 0
+Vetter I-NAME 1 1 td tr small-24.columns 12 0
+
+Professor O 0 0 td tr small-24.columns 12 2
+and O 0 1 td tr small-24.columns 12 2
+Associate O 0 1 td tr small-24.columns 12 2
+Provost O 0 1 td tr small-24.columns 12 2
+for O 0 1 td tr small-24.columns 12 2
+Research O 0 1 td tr small-24.columns 12 2
+and O 0 1 td tr small-24.columns 12 2
+Dean, O 0 0 td tr small-24.columns 12 2
+Graduate O 1 1 td tr small-24.columns 12 2
+School O 0 1 td tr small-24.columns 12 2
+
+CIS O 0 0 tr tbody small-24.columns 11 15
+2044 O 0 0 tr tbody small-24.columns 11 15
+
+910.9623224 O 0 0 tr tbody small-24.columns 11 15
+
+Email: O 0 0 tr tbody small-24.columns 11 15
+
+Web O 0 1 td tr small-24.columns 12 10
+Site O 0 1 td tr small-24.columns 12 10
+
+Mr. O 0 1 td tr small-24.columns 12 0
+Kyle B-NAME 0 1 td tr small-24.columns 12 0
+Bowman I-NAME 0 1 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 1
+2025 O 0 0 tr tbody small-24.columns 11 1
+
+910.962.3348 O 0 0 tr tbody small-24.columns 11 1
+
+Email: O 0 0 tr tbody small-24.columns 11 1
+bowmank O 0 0 tr tbody small-24.columns 11 1
+at O 0 0 tr tbody small-24.columns 11 1
+uncw.edu O 0 0 tr tbody small-24.columns 11 1
+
+Mr. O 0 1 td tr small-24.columns 12 0
+Bradford B-NAME 0 1 td tr small-24.columns 12 0
+Brown I-NAME 0 1 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 9
+2025 O 0 0 tr tbody small-24.columns 11 9
+
+910.962.3348 O 0 0 tr tbody small-24.columns 11 9
+
+Email: O 0 0 tr tbody small-24.columns 11 9
+
+Web O 0 1 tr tbody small-24.columns 11 9
+Site O 0 1 tr tbody small-24.columns 11 9
+
+Mr. O 0 1 td tr small-24.columns 12 0
+Kevin B-NAME 0 1 td tr small-24.columns 12 0
+Carlin I-NAME 0 1 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 1
+2025 O 0 0 tr tbody small-24.columns 11 1
+
+910.962.3348 O 0 0 tr tbody small-24.columns 11 1
+
+Email: O 0 0 tr tbody small-24.columns 11 1
+
+Web O 0 1 tr tbody small-24.columns 11 1
+Site O 0 1 tr tbody small-24.columns 11 1
+
+Ms. O 0 1 td tr small-24.columns 12 0
+Amrutha B-NAME 1 1 td tr small-24.columns 12 0
+Sethuram I-NAME 1 1 td tr small-24.columns 12 0
+
+CIS O 0 0 td tr small-24.columns 12 3
+2025 O 0 0 td tr small-24.columns 12 3
+
+910.962.3348 O 0 0 td tr small-24.columns 12 5
+
+Email: O 0 0 td tr small-24.columns 12 7
+
+Web O 0 1 td tr small-24.columns 12 11
+Site O 0 1 td tr small-24.columns 12 11
+
+Mr. O 0 1 td tr small-24.columns 12 0
+Bill B-NAME 1 1 td tr small-24.columns 12 0
+Shipman I-NAME 1 1 td tr small-24.columns 12 0
+
+CIS O 0 0 td tr small-24.columns 12 3
+2025 O 0 0 td tr small-24.columns 12 3
+
+910.962.3348 O 0 0 td tr small-24.columns 12 5
+
+Email: O 0 0 td tr small-24.columns 12 7
+shipmanw O 0 0 td tr small-24.columns 12 7
+at O 0 0 td tr small-24.columns 12 7
+uncw.edu O 0 0 td tr small-24.columns 12 7
+
+Dr. O 0 1 td tr small-24.columns 12 0
+Geoff B-NAME 1 1 td tr small-24.columns 12 0
+Stoker I-NAME 1 1 td tr small-24.columns 12 0
+
+CIS O 0 0 td tr small-24.columns 12 3
+2025 O 0 0 td tr small-24.columns 12 3
+
+910.962.3348 O 0 0 td tr small-24.columns 12 5
+
+Email: O 0 0 td tr small-24.columns 12 7
+stokerg O 0 0 td tr small-24.columns 12 7
+at O 0 0 td tr small-24.columns 12 7
+uncw.edu O 0 0 td tr small-24.columns 12 7
+
+Mr. O 0 1 td tr small-24.columns 12 0
+Sohail B-NAME 0 1 td tr small-24.columns 12 0
+Sukhera I-NAME 0 0 td tr small-24.columns 12 0
+
+CIS O 0 0 tr tbody small-24.columns 11 2
+2025 O 0 0 tr tbody small-24.columns 11 2
+
+910.962.3348 O 0 0 tr tbody small-24.columns 11 2
+
+Email: O 0 0 tr tbody small-24.columns 11 2
+
+Web O 0 1 tr tbody small-24.columns 11 2
+Site O 0 1 tr tbody small-24.columns 11 2
+
+Retired O 0 0 div div small-24.columns 8 388
+Faculty O 0 0 div div small-24.columns 8 388
+
+Dr. O 0 1 td tr small-24.columns 12 0
+David B-NAME 1 1 td tr small-24.columns 12 0
+Berman I-NAME 1 1 td tr small-24.columns 12 0
+
+Professor O 0 0 td tr small-24.columns 12 0
+Emeritus O 0 1 td tr small-24.columns 12 0
+
+Dr. O 0 1 td tr small-24.columns 12 0
+Fletcher B-NAME 0 1 td tr small-24.columns 12 0
+Norris I-NAME 0 1 td tr small-24.columns 12 0
+
+Professor O 0 0 td tr small-24.columns 12 0
+Emeritus O 0 1 td tr small-24.columns 12 0
+
+Dr. O 0 1 td tr small-24.columns 12 0
+Harry B-NAME 1 1 td tr small-24.columns 12 0
+Smith I-NAME 1 1 td tr small-24.columns 12 0
+
+Associate O 0 1 td tr small-24.columns 12 0
+Professor O 0 0 td tr small-24.columns 12 0
+Emeritus O 0 1 td tr small-24.columns 12 0
+
+We O 0 1 tr tbody small-24.columns 11 2
+mourn O 0 0 tr tbody small-24.columns 11 2
+the O 0 1 tr tbody small-24.columns 11 2
+passing O 0 0 tr tbody small-24.columns 11 2
+of O 0 1 tr tbody small-24.columns 11 2
+a O 0 1 tr tbody small-24.columns 11 2
+friend O 0 0 tr tbody small-24.columns 11 2
+and O 0 1 tr tbody small-24.columns 11 2
+colleague. O 0 0 tr tbody small-24.columns 11 2
+
+Read O 0 1 tr tbody small-24.columns 11 2
+Dr. O 0 1 tr tbody small-24.columns 11 2
+Smith's O 0 0 tr tbody small-24.columns 11 2
+2004 O 0 0 tr tbody small-24.columns 11 2
+Interview O 0 0 td tr small-24.columns 12 4
+. O 0 1 tr tbody small-24.columns 11 2
+
+Dr. O 0 1 p td small-24.columns 13 0
+Barbara B-NAME 0 1 p td small-24.columns 13 0
+A. I-NAME 0 1 p td small-24.columns 13 0
+Greim I-NAME 0 1 p td small-24.columns 13 0
+
+We O 0 1 td tr small-24.columns 12 0
+mourn O 0 0 td tr small-24.columns 12 0
+the O 0 1 td tr small-24.columns 12 0
+passing O 0 0 td tr small-24.columns 12 0
+of O 0 1 td tr small-24.columns 12 0
+a O 0 1 td tr small-24.columns 12 0
+friend, O 0 0 td tr small-24.columns 12 0
+colleague, O 0 0 td tr small-24.columns 12 0
+and O 0 1 td tr small-24.columns 12 0
+our O 0 0 td tr small-24.columns 12 0
+first O 0 0 td tr small-24.columns 12 0
+department O 0 0 td tr small-24.columns 12 0
+chair. O 0 0 td tr small-24.columns 12 0
+
+Dr. O 0 1 td tr small-24.columns 12 0
+Greim's O 0 0 td tr small-24.columns 12 0
+obituary O 0 0 p td small-24.columns 13 3
+. O 0 1 td tr small-24.columns 12 0
+
+Department O 0 0 p div small-24.columns 9 0
+of O 0 1 p div small-24.columns 9 0
+Computer O 0 0 p div small-24.columns 9 0
+Science O 0 0 p div small-24.columns 9 0
+Organizational O 0 0 p div small-24.columns 9 0
+Chart O 0 1 p div small-24.columns 9 0
+
+The O 0 1 h4 div globalnav.small-4.columns 8 0
+University O 0 1 h4 div globalnav.small-4.columns 8 0
+
+Academics O 0 0 li ul no-bullet 9 0
+
+Admissions O 0 0 li ul no-bullet 9 0
+
+Arts O 0 1 li ul no-bullet 9 0
+
+Athletics O 0 0 li ul no-bullet 9 0
+
+Financial O 0 0 li ul no-bullet 9 0
+Aid O 0 1 li ul no-bullet 9 0
+
+Giving O 0 0 li ul no-bullet 9 0
+
+International O 0 0 li ul no-bullet 9 0
+
+Library O 0 0 li ul no-bullet 9 0
+
+Offices O 0 0 li ul no-bullet 9 0
+& O 0 0 li ul no-bullet 9 0
+Services O 0 0 li ul no-bullet 9 0
+
+Research O 0 1 li ul no-bullet 9 0
+
+Academic O 0 0 h4 div globalnav.small-4.columns 8 0
+Units O 0 0 h4 div globalnav.small-4.columns 8 0
+
+Graduate O 1 1 li ul no-bullet 9 0
+School O 0 1 li ul no-bullet 9 0
+
+Cameron O 0 1 li ul no-bullet 9 0
+School O 0 1 li ul no-bullet 9 0
+of O 0 1 li ul no-bullet 9 0
+Business O 0 0 li ul no-bullet 9 0
+
+Watson O 0 1 li ul no-bullet 9 0
+College O 0 0 li ul no-bullet 9 0
+of O 0 1 li ul no-bullet 9 0
+Education O 0 0 li ul no-bullet 9 0
+
+College O 0 0 li ul no-bullet 9 0
+of O 0 1 li ul no-bullet 9 0
+Arts O 0 1 li ul no-bullet 9 0
+& O 0 0 li ul no-bullet 9 0
+Sciences O 0 0 li ul no-bullet 9 0
+
+College O 0 0 li ul no-bullet 9 0
+of O 0 1 li ul no-bullet 9 0
+Health O 0 1 li ul no-bullet 9 0
+& O 0 0 li ul no-bullet 9 0
+Human O 0 1 li ul no-bullet 9 0
+Services O 0 0 li ul no-bullet 9 0
+
+Center O 0 1 li ul no-bullet 9 0
+for O 0 1 li ul no-bullet 9 0
+Marine O 0 1 li ul no-bullet 9 0
+Science O 0 0 li ul no-bullet 9 0
+
+Helpful O 0 0 h4 div globalnav.small-4.columns 8 0
+Links O 0 1 h4 div globalnav.small-4.columns 8 0
+
+Accessibility O 0 0 li ul no-bullet 9 0
+
+Alumni O 0 0 li ul no-bullet 9 0
+
+Calendar O 0 0 li ul no-bullet 9 0
+
+Current O 0 1 li ul no-bullet 9 0
+Students O 0 0 li ul no-bullet 9 0
+
+Diversity O 0 0 li ul no-bullet 9 0
+
+Emergency O 0 0 li ul no-bullet 9 0
+& O 0 0 li ul no-bullet 9 0
+Safety O 0 0 li ul no-bullet 9 0
+
+Jobs O 0 1 li ul no-bullet 9 0
+
+News O 0 0 li ul no-bullet 9 0
+
+Title O 0 1 li ul no-bullet 9 0
+IX O 0 1 li ul no-bullet 9 0
+
+Virtual O 0 0 li ul no-bullet 9 0
+Tour O 0 1 li ul no-bullet 9 0
+
+Visit O 0 1 li ul no-bullet 9 0
+
+UNC O 0 0 body html no-js 4 617
+Wilmington O 0 1 body html no-js 4 617
+| O 0 0 body html no-js 4 617
+601 O 0 0 body html no-js 4 617
+S. O 0 1 body html no-js 4 617
+College O 0 0 body html no-js 4 617
+Road, O 0 0 body html no-js 4 617
+Wilmington O 0 1 body html no-js 4 617
+NC O 0 0 body html no-js 4 617
+28403 O 0 0 body html no-js 4 617
+| O 0 0 body html no-js 4 617
+910.962.3000 O 0 0 body html no-js 4 617
+| O 0 0 body html no-js 4 617
+About O 0 0 footer body no-js 5 0
+this O 0 0 footer body no-js 5 0
+Site O 0 1 footer body no-js 5 0
+| O 0 0 body html no-js 4 617
+Copyright O 0 0 footer body no-js 5 1
+Notice O 0 0 footer body no-js 5 1
+| O 0 0 body html no-js 4 617
+Feedback O 0 0 footer body no-js 5 2
+| O 0 0 body html no-js 4 617
+Page O 0 1 body html no-js 4 617
+maintained O 0 0 body html no-js 4 617
+by O 0 1 body html no-js 4 617
+C. O 0 1 footer body no-js 5 3
+Guinn O 0 1 footer body no-js 5 3

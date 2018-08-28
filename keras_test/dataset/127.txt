@@ -1,0 +1,492 @@
+People O 0 1 head html none 4 0
+- O 0 0 head html none 4 0
+Personnel O 0 0 head html none 4 0
+information O 0 0 head html none 4 0
+
+MONTEFIORE O 0 0 span div sprite.sprite-logoulg 10 0
+INSTITUTE O 0 0 span div sprite.sprite-logoulg 10 0
+
+MONTEFIORE O 0 0 span div degrade 10 1
+INSTITUTE O 0 0 span div degrade 10 1
+
+Department O 0 0 span div degrade 10 2
+of O 0 1 span div degrade 10 2
+Electrical O 0 0 span div degrade 10 2
+
+Engineering O 0 0 span div degrade 10 2
+and O 0 1 span div degrade 10 2
+Computer O 0 0 span div degrade 10 2
+Science O 0 0 span div degrade 10 2
+
+University O 0 1 a span degrade 11 0
+of O 0 1 a span degrade 11 0
+Liège O 0 0 a span degrade 11 0
+ULg O 0 0 a span degrade 11 1
+Faculty O 0 0 a span degrade 11 0
+of O 0 1 a span degrade 11 0
+Engineering O 0 0 a span degrade 11 0
+FacSA O 0 0 a span degrade 11 1
+Library O 0 0 span span degrade 11 0
+News O 0 0 span div degrade 10 8
+
+Toggle O 0 0 button div sr-only 11 0
+navigation O 0 0 button div sr-only 11 0
+
+About O 0 0 li ul dropdown-toggle 12 0
+Us O 0 1 li ul dropdown-toggle 12 0
+
+Home O 0 1 li ul dropdown-menu 14 0
+
+Contacts O 0 0 li ul dropdown-menu 14 0
+
+Location O 0 0 li ul dropdown-menu 14 0
+
+People O 0 1 li ul dropdown-toggle 12 0
+
+Department O 0 0 li ul dropdown-menu 14 0
+Chair O 0 1 li ul dropdown-menu 14 0
+
+Faculty O 0 0 li ul dropdown-menu 14 0
+
+Research O 0 1 li ul dropdown-menu 14 0
+Staff O 0 1 li ul dropdown-menu 14 0
+
+Technical O 0 0 li ul dropdown-menu 14 0
+and O 0 1 li ul dropdown-menu 14 0
+administrative O 0 0 li ul dropdown-menu 14 0
+staff O 0 0 li ul dropdown-menu 14 0
+
+Complete O 0 0 li ul dropdown-menu 14 0
+List O 0 1 li ul dropdown-menu 14 0
+
+Alumni O 0 0 li ul dropdown-menu 14 0
+
+Research O 0 1 li ul dropdown-toggle 12 0
+
+Research O 0 1 li ul dropdown-menu 14 0
+Groups O 0 0 li ul dropdown-menu 14 0
+
+Seminars O 0 0 li ul dropdown-menu 14 0
+
+Education O 0 0 li ul dropdown-toggle 12 0
+
+Studying O 0 0 li ul dropdown-menu 14 0
+Here O 0 1 li ul dropdown-menu 14 0
+
+Degree O 0 0 li ul dropdown-menu 14 0
+Programmes O 0 0 li ul dropdown-menu 14 0
+
+Master O 0 1 li ul dropdown-menu 14 0
+thesis O 0 0 li ul dropdown-menu 14 0
+subjects O 0 0 li ul dropdown-menu 14 0
+
+Internships O 0 0 li ul dropdown-menu 14 0
+
+Mobility, O 0 0 li ul dropdown-menu 14 0
+Erasmus O 0 1 li ul dropdown-menu 14 0
+
+Laboratories O 0 0 li ul dropdown-toggle 12 0
+
+CEDIA O 0 0 li ul dropdown-menu 14 0
+
+MICROSYS O 0 0 li ul dropdown-menu 14 0
+
+CEM O 0 0 li ul dropdown-menu 14 0
+
+LEP O 0 0 li ul dropdown-menu 14 0
+
+Spin-offs O 0 0 li ul dropdown-toggle 12 0
+
+Ampacimon O 0 0 li ul dropdown-menu 14 0
+
+Nomics O 0 0 li ul dropdown-menu 14 0
+
+Pepite O 0 0 li ul dropdown-menu 14 0
+
+Phasya O 0 0 li ul dropdown-menu 14 0
+
+SmartNodes O 0 0 li ul dropdown-menu 14 0
+
+Taipro O 0 0 li ul dropdown-menu 14 0
+
+Local O 0 1 li ul dropdown-toggle 12 0
+Information O 0 1 li ul dropdown-toggle 12 0
+
+Library O 0 0 li ul dropdown-menu 14 0
+
+People O 0 1 div div row 11 0
+- O 0 0 div div row 11 0
+Research O 0 1 div div row 11 0
+Staff O 0 1 div div row 11 0
+
+Aittahar B-NAME 0 0 p div columns 14 0
+Samy I-NAME 0 1 p div columns 14 0
+
+Azrour B-NAME 0 1 p div columns 14 2
+Samir I-NAME 0 1 p div columns 14 2
+
+Baijot B-NAME 0 1 p div columns 14 0
+Mathieu I-NAME 0 1 p div columns 14 0
+
+Bajpai B-NAME 0 1 p div columns 14 2
+Namrata I-NAME 0 1 p div columns 14 2
+
+Barbette B-NAME 0 1 p div columns 14 4
+Tom I-NAME 0 1 p div columns 14 4
+
+Begon B-NAME 0 1 p div columns 14 6
+Jean-Michel I-NAME 0 1 p div columns 14 6
+
+Bellier B-NAME 0 1 p div columns 14 8
+Pierre I-NAME 0 1 p div columns 14 8
+
+Berger B-NAME 0 1 p div columns 14 10
+Mathias I-NAME 0 1 p div columns 14 10
+
+Bhardwaj B-NAME 0 1 p div columns 14 12
+Archana I-NAME 0 1 p div columns 14 12
+
+Boukas B-NAME 0 1 p div columns 14 14
+Ioannis I-NAME 0 1 p div columns 14 14
+
+Boutaayamou B-NAME 0 1 p div columns 14 16
+Mohamed I-NAME 0 1 p div columns 14 16
+
+Braham B-NAME 0 1 p div columns 14 18
+Marc I-NAME 0 1 p div columns 14 18
+
+Burger B-NAME 0 1 p div columns 14 21
+Loïc I-NAME 0 1 p div columns 14 21
+
+Castronovo B-NAME 0 1 p div columns 14 0
+Michaël I-NAME 0 1 p div columns 14 0
+
+Cauwet B-NAME 0 1 p div columns 14 2
+Marie-Liesse I-NAME 0 1 p div columns 14 2
+
+Cerica B-NAME 0 0 p div columns 14 4
+Delphine I-NAME 0 1 p div columns 14 4
+
+Chaichoompu B-NAME 0 1 p div columns 14 7
+Kridsadakorn I-NAME 0 1 p div columns 14 7
+
+Chaspierre B-NAME 0 0 p div columns 14 9
+Gilles I-NAME 0 1 p div columns 14 9
+
+Chen B-NAME 1 1 p div columns 14 11
+Wang I-NAME 1 1 p div columns 14 11
+
+Cioppa B-NAME 0 1 p div columns 14 13
+Anthony I-NAME 0 1 p div columns 14 13
+
+Colignon B-NAME 0 1 p div columns 14 15
+David I-NAME 0 1 p div columns 14 15
+
+Colson B-NAME 0 1 p div columns 14 17
+Gérald I-NAME 0 1 p div columns 14 17
+
+Coppieters B-NAME 0 1 p div columns 14 19
+Dorothee I-NAME 0 1 p div columns 14 19
+
+Cuvelier B-NAME 0 1 p div columns 14 21
+Thibaut I-NAME 0 1 p div columns 14 21
+
+De B-NAME 0 1 p div columns 14 0
+Becker I-NAME 0 1 p div columns 14 0
+Mathilde I-NAME 0 1 p div columns 14 0
+
+De B-NAME 0 1 p div columns 14 2
+Dijcker I-NAME 0 0 p div columns 14 2
+Sébastien I-NAME 0 1 p div columns 14 2
+
+Duchesne B-NAME 0 1 p div columns 14 4
+Laurine I-NAME 0 0 p div columns 14 4
+
+Dupont B-NAME 0 1 p div columns 14 6
+François I-NAME 0 1 p div columns 14 6
+
+Duthoit B-NAME 0 1 p div columns 14 8
+Fabienne I-NAME 0 1 p div columns 14 8
+
+Ebrahimbabaie B-NAME 0 0 p div columns 14 0
+Varnosfaderani I-NAME 0 0 p div columns 14 0
+Pouyan I-NAME 0 1 p div columns 14 0
+
+Edeline B-NAME 0 1 p div columns 14 2
+Korian I-NAME 0 1 p div columns 14 2
+
+Fagnard B-NAME 0 1 p div columns 14 0
+Jean-François I-NAME 0 1 p div columns 14 0
+
+Fentaw B-NAME 1 1 p div columns 14 2
+Abegaz I-NAME 1 1 p div columns 14 2
+Yazew I-NAME 0 0 p div columns 14 2
+
+Fonder B-NAME 0 1 p div columns 14 4
+Michaël I-NAME 0 1 p div columns 14 4
+
+Fonteneau B-NAME 0 1 p div columns 14 6
+Raphaël I-NAME 0 1 p div columns 14 6
+
+Fouladi B-NAME 0 1 p div columns 14 8
+Ramouna I-NAME 0 1 p div columns 14 8
+
+François B-NAME 0 1 p div columns 14 10
+Clémentine I-NAME 0 1 p div columns 14 10
+
+François-Lavet B-NAME 0 1 p div columns 14 12
+Vincent I-NAME 0 1 p div columns 14 12
+
+Gemine B-NAME 0 1 p div columns 14 0
+Quentin I-NAME 0 1 p div columns 14 0
+
+Gerard B-NAME 0 1 p div columns 14 2
+Damien I-NAME 0 1 p div columns 14 2
+
+Ghorbani B-NAME 0 1 p div columns 14 4
+Ali I-NAME 0 1 p div columns 14 4
+
+Glavic B-NAME 0 1 p div columns 14 6
+Mevludin I-NAME 0 1 p div columns 14 6
+
+Grailet B-NAME 0 0 p div columns 14 10
+Jean-François I-NAME 0 1 p div columns 14 10
+
+Grogna B-NAME 0 1 p div columns 14 12
+David I-NAME 0 1 p div columns 14 12
+
+Halbach B-NAME 0 1 p div columns 14 0
+Alexandre I-NAME 0 1 p div columns 14 0
+
+Halin B-NAME 0 1 p div columns 14 2
+Anaïs I-NAME 0 1 p div columns 14 2
+
+Henrotte B-NAME 0 1 p div columns 14 4
+François I-NAME 0 1 p div columns 14 4
+
+Hiard B-NAME 0 1 p div columns 14 6
+Samuel I-NAME 0 1 p div columns 14 6
+
+Hogan B-NAME 0 1 p div columns 14 8
+Kevin I-NAME 0 1 p div columns 14 8
+
+Hoyoux B-NAME 0 1 p div columns 14 11
+Renaud I-NAME 0 1 p div columns 14 11
+
+Huynh-Thu B-NAME 0 1 p div columns 14 13
+Vân I-NAME 0 1 p div columns 14 13
+Anh I-NAME 0 1 p div columns 14 13
+
+Jacques B-NAME 0 1 p div columns 14 0
+Kevin I-NAME 0 1 p div columns 14 0
+
+Jehaes B-NAME 0 1 p div columns 14 2
+Quentin I-NAME 0 1 p div columns 14 2
+
+Joly B-NAME 0 1 p div columns 14 4
+Arnaud I-NAME 0 1 p div columns 14 4
+
+Joris B-NAME 0 1 p div columns 14 6
+Laura I-NAME 0 1 p div columns 14 6
+
+Kaiser B-NAME 0 1 p div columns 14 0
+Xavier I-NAME 0 1 p div columns 14 0
+
+Karangelos B-NAME 0 1 p div columns 14 2
+Efthymios I-NAME 0 1 p div columns 14 2
+
+Kuci B-NAME 0 0 p div columns 14 4
+Erin I-NAME 0 1 p div columns 14 4
+
+Lallemand B-NAME 0 1 p div columns 14 0
+Jérôme I-NAME 0 1 p div columns 14 0
+
+Latour B-NAME 0 1 p div columns 14 2
+Philippe I-NAME 0 1 p div columns 14 2
+
+Laugraud B-NAME 0 1 p div columns 14 4
+Benjamin I-NAME 0 1 p div columns 14 4
+
+Laurent B-NAME 1 1 p div columns 14 6
+Philippe I-NAME 1 1 p div columns 14 6
+
+Lejeune B-NAME 0 1 p div columns 14 8
+Antoine I-NAME 0 1 p div columns 14 8
+
+Lesoinne B-NAME 0 1 p div columns 14 10
+Stéphane I-NAME 0 1 p div columns 14 10
+
+Li B-NAME 0 1 p div columns 14 12
+Jianwei I-NAME 0 1 p div columns 14 12
+
+Lienardy B-NAME 0 0 p div columns 14 14
+Simon I-NAME 1 1 p div columns 14 14
+
+Lozano B-NAME 0 1 p div columns 14 16
+Ariel I-NAME 0 1 p div columns 14 16
+
+Maillard B-NAME 0 1 p div columns 14 0
+Alexandre I-NAME 0 1 p div columns 14 0
+
+Mainz B-NAME 0 1 p div columns 14 2
+Isabelle I-NAME 0 1 p div columns 14 2
+
+Manuel B-NAME 0 1 p div columns 14 4
+de I-NAME 0 1 p div columns 14 4
+Villena I-NAME 0 1 p div columns 14 4
+Millan I-NAME 0 1 p div columns 14 4
+Miguel I-NAME 0 1 p div columns 14 4
+
+Marée B-NAME 0 1 p div columns 14 6
+Raphaël I-NAME 0 1 p div columns 14 6
+
+Marin B-NAME 0 1 p div columns 14 8
+Manuel I-NAME 0 1 p div columns 14 8
+
+Massoz B-NAME 0 0 p div columns 14 10
+Quentin I-NAME 0 1 p div columns 14 10
+
+Mathieu B-NAME 0 1 p div columns 14 13
+Sébastien I-NAME 0 1 p div columns 14 13
+
+Mattesi B-NAME 0 0 p div columns 14 15
+Vanessa I-NAME 0 1 p div columns 14 15
+
+Mattheus B-NAME 0 1 p div columns 14 17
+Benoît I-NAME 0 1 p div columns 14 17
+
+Meyer B-NAME 0 1 p div columns 14 19
+Gilles I-NAME 0 1 p div columns 14 19
+
+Modave B-NAME 0 1 p div columns 14 21
+Axel I-NAME 0 1 p div columns 14 21
+
+Mormont B-NAME 0 0 p div columns 14 25
+Romain I-NAME 0 1 p div columns 14 25
+
+Nemry B-NAME 0 0 p div columns 14 0
+Myriam I-NAME 0 1 p div columns 14 0
+
+Olivier B-NAME 0 1 p div columns 14 0
+Frédéric I-NAME 0 1 p div columns 14 0
+
+Opsomer B-NAME 0 1 p div columns 14 3
+Benoît I-NAME 0 1 p div columns 14 3
+
+Osmalskyj B-NAME 0 1 p div columns 14 5
+Julien I-NAME 0 1 p div columns 14 5
+
+Pachkawade B-NAME 0 0 p div columns 14 0
+Vinayak I-NAME 1 1 p div columns 14 0
+
+Pan B-NAME 0 1 p div columns 14 2
+Heng I-NAME 0 1 p div columns 14 2
+
+Papangelis B-NAME 0 1 p div columns 14 4
+Lampros I-NAME 0 1 p div columns 14 4
+
+Paquay B-NAME 0 1 p div columns 14 6
+Yannick I-NAME 0 1 p div columns 14 6
+
+Payen B-NAME 0 1 p div columns 14 10
+Aubry I-NAME 0 1 p div columns 14 10
+
+Pierard B-NAME 0 1 p div columns 14 12
+Sébastien I-NAME 0 1 p div columns 14 12
+
+Psanis B-NAME 0 0 p div columns 14 14
+Emmanouil I-NAME 0 1 p div columns 14 14
+
+Qiu B-NAME 0 1 p div columns 14 0
+Zixiao I-NAME 0 1 p div columns 14 0
+
+Roman B-NAME 0 1 p div columns 14 0
+Steven I-NAME 0 1 p div columns 14 0
+
+Royer B-NAME 0 1 p div columns 14 2
+Anthony I-NAME 0 1 p div columns 14 2
+
+Schmitz B-NAME 0 1 p div columns 14 0
+Thomas I-NAME 0 1 p div columns 14 0
+
+Soldani B-NAME 0 1 p div columns 14 2
+Cyril I-NAME 0 1 p div columns 14 2
+
+Soleimani B-NAME 0 1 p div columns 14 4
+Bidgoli I-NAME 0 1 p div columns 14 4
+Hamid I-NAME 0 1 p div columns 14 4
+
+Spirlet B-NAME 0 0 p div columns 14 6
+Maxime I-NAME 0 1 p div columns 14 6
+
+Stoukatch B-NAME 0 1 p div columns 14 8
+Serguei I-NAME 0 1 p div columns 14 8
+
+Sutera B-NAME 0 1 p div columns 14 10
+Antonio I-NAME 0 1 p div columns 14 10
+
+Uyttendaele B-NAME 0 1 p div columns 14 0
+Simon I-NAME 1 1 p div columns 14 0
+
+Van B-NAME 0 1 p div columns 14 0
+Lishout I-NAME 0 1 p div columns 14 0
+François I-NAME 0 1 p div columns 14 0
+
+Vanaubel B-NAME 0 1 p div columns 14 2
+Yves I-NAME 0 1 p div columns 14 2
+
+Vandaele B-NAME 0 1 p div columns 14 4
+Rémy I-NAME 0 1 p div columns 14 4
+
+Velasco B-NAME 0 1 p div columns 14 6
+Jonathan I-NAME 0 1 p div columns 14 6
+
+Verdin B-NAME 0 1 p div columns 14 8
+Jean-François I-NAME 0 1 p div columns 14 8
+
+Wang B-NAME 1 1 p div columns 14 0
+Yuan I-NAME 1 1 p div columns 14 0
+
+Weckesser B-NAME 0 1 p div columns 14 2
+Johannes I-NAME 0 1 p div columns 14 2
+
+Wehenkel B-NAME 0 1 p div columns 14 4
+Marie I-NAME 0 1 p div columns 14 4
+
+Wera B-NAME 0 0 p div columns 14 8
+Laurent I-NAME 0 1 p div columns 14 8
+
+Montefiore O 0 0 div div adresse 10 0
+Institute O 0 0 div div adresse 10 0
+
+Quartier O 0 1 div footer adresse 9 0
+Polytech O 0 0 div footer adresse 9 0
+1 O 0 0 div footer adresse 9 0
+
+10, O 0 0 div footer adresse 9 0
+Allée O 0 1 div footer adresse 9 0
+de O 0 1 div footer adresse 9 0
+la O 0 1 div footer adresse 9 0
+découverte O 0 0 div footer adresse 9 0
+
+4000 O 0 0 div footer adresse 9 0
+Liège O 0 0 div footer adresse 9 0
+
+Building O 0 0 div footer adresse 9 0
+B28, O 0 0 div footer adresse 9 0
+Carpark O 0 0 div footer adresse 9 0
+P32 O 0 0 div footer adresse 9 0
+
+[javascript O 0 0 div div email 10 0
+protected O 0 0 div div email 10 0
+email O 0 0 div div email 10 0
+address] O 0 0 div div email 10 0
+
+Contacts O 0 0 div div links 10 0
+| O 0 0 div footer links 9 8
+Location O 0 0 div div links 10 1
+| O 0 0 div footer links 9 8
+Montefiore-News O 0 0 div div links 10 2
+| O 0 0 div footer links 9 8
+Miscellaneous O 0 0 div div links 10 3
+Links O 0 1 div div links 10 3

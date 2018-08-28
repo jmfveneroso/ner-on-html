@@ -1,0 +1,270 @@
+Epoch 1/10
+29628/29628 [==============================] - 92s 3ms/step - loss: 0.4591
+ — f1: 0.905287 — precision: 0.951835 — recall 0.863078
+Epoch 2/10
+29628/29628 [==============================] - 90s 3ms/step - loss: 0.1408
+ — f1: 0.909614 — precision: 0.966782 — recall 0.858829
+Epoch 3/10
+29628/29628 [==============================] - 92s 3ms/step - loss: 0.1094
+ — f1: 0.933805 — precision: 0.965465 — recall 0.904155
+Epoch 4/10
+29628/29628 [==============================] - 92s 3ms/step - loss: 0.0895
+ — f1: 0.943066 — precision: 0.957877 — recall 0.928706
+Epoch 5/10
+29628/29628 [==============================] - 91s 3ms/step - loss: 0.0790
+ — f1: 0.943351 — precision: 0.965867 — recall 0.921860
+Epoch 6/10
+29628/29628 [==============================] - 91s 3ms/step - loss: 0.0696
+ — f1: 0.937164 — precision: 0.971856 — recall 0.904863
+No improvement
+Epoch 7/10
+29628/29628 [==============================] - 91s 3ms/step - loss: 0.0643
+ — f1: 0.929083 — precision: 0.974598 — recall 0.887630
+No improvement
+Epoch 8/10
+29628/29628 [==============================] - 90s 3ms/step - loss: 0.0580
+ — f1: 0.926647 — precision: 0.915649 — recall 0.937913
+No improvement
+Epoch 9/10
+29628/29628 [==============================] - 91s 3ms/step - loss: 0.0541
+ — f1: 0.922493 — precision: 0.958280 — recall 0.889282
+No improvement
+Epoch 10/10
+29628/29628 [==============================] - 90s 3ms/step - loss: 0.0508
+ — f1: 0.909982 — precision: 0.900208 — recall 0.919972
+No improvement
+
+
+
+ — f1: 0.952701 — precision: 0.967962 — recall 0.937914
+precision: 0.9672811059907834
+recall: 0.9333036905291241
+correct: 2099
+incorrect: 71
+missed: 150
+Ke XU
+Maosong SUN
+FEDERICO PEDERSINI
+Mark Napier, CIPT
+Min, Kaee (Kyunghi)
+Hamp, Herlisa
+Cooke, LaTherese R.
+Jesse R Elkins
+Tomaž Hočevar
+Weisberg, Brad
+Jiwu SHU
+Ionescu Radu
+Sargent, Aloha
+GIOVANNI ANTONIO DEL BENE
+Uroš Čibej
+Friedman, Ira S.
+Chandler, Andrew
+NICOLO' ANTONIO CESA BIANCHI
+Lisel Record
+Jerca Tekavec
+Jiangtao WEN
+Parsano, Al
+Youjian ZHAO
+Jure Žabkar
+Gonzales, Genina
+Jure Demšar
+Sandhu, Malkiat
+De Les Dernier, Bruce
+MARCO MESITI
+Matevž Poberžnik
+PAOLO BOLDI
+Bogard, Denese
+Sun , Jenn-Dong
+Yaoxue ZHANG
+Rok Češnovar
+MARINA BERTOLINI
+Chirita Carmen
+Qiang ZHOU
+Gašper Fele Žorž
+NELLO SCARABOTTOLO
+Xiaoyan ZHU
+Jones, KeTierra
+Žiga Emeršič
+Jane Yung-Jen Hsu
+Matevž Pogačnik
+Tataram Monica
+VINCENZO PIURI
+Drion, Yoka
+Juanzi LI
+Pouncil, Matais
+Breckenridge, Donna
+Hoje Jo
+Jihong ZHU
+MARIA ALBERTA ALBERTI
+Christena Nippert-Eng
+Anže Rezelj
+Matjaž Ličen
+ENRICO VALDINOCI
+Ling FENG
+Dobrovat Anca
+Suter Florentina
+CAMILLO FIORENTINI
+Jana Faganeli Pucer
+Lifeng SUN
+Yongwei WU
+Pauker, Michael
+Youhui ZHANG
+Petar Vračar
+MARCO TRUBIAN
+OZNUR YELDAN
+George (Gangshu) Cai
+Predut Sorina
+U Kang
+Walters, June
+ANNA GORI
+Muhammad Ahsan Farooq
+KITAKAMI Masato
+Lucija Završnik Čučkin
+Mincu Radu-Stefan
+SABRINA TIZIANA GAITO
+SABRINA DE CAPITANI DI VIMERCATI
+Negru Maria
+Cidota Marina
+Matjaž Pančur
+Vesna Gračner Žitnik
+Rok Gomišček
+Li ZHENG
+Mingwei XU
+De La Rosa, Lou
+Dinu Liviu
+VIOLETTA LONATI
+DARIO AUGUSTO GIOVE
+BEATRICE SANTA PALANO
+Hicks, Deanita
+Ommer, BjÃ¶rn
+Wenguang CHEN
+Yong CUI
+Matevž Jekovec
+Weitong HUANG
+J Duncan
+Moss, Brianna
+Shauqat Naseer
+FIORELLA DE CINDIO
+Banu Demergian Iulia
+Khalouyan-Pivk, Helen
+Mingsheng YING
+Uroš Lotrič
+BARBARA RITA BARRICELLI
+GIULIA BERTONE
+Butler, Tachmonite
+ANTONIO LANTERI
+Shiqiang YANG
+Gašper Fijavž
+Carol E.B. Choksy
+Pham, To Tam
+Hamid R Ekbia
+Velcescu Letitia
+Uroš Paščinski
+May, Gabriele
+Fouad-Farrar, Jazaer
+Aljoša Besednjak
+Jones, Tony
+Byers, LCSW, RYT, Michael
+FLAVIA MARIA GROPPI GARLANDINI
+Weidong LIU
+Nazir Ahmed Sangi
+VALERIO BELLANDI
+VALENTINA CIRIANI
+Žiga Pirnar
+Jure Šorn
+Long S. Le
+Bin LIU
+Kashima, Stephanie
+Georgescu Gianina
+Constantin (Costi) Siriteanu
+Xia YIN
+Horng , Maw-Sheng
+MATTEO RE'
+Jianping WU
+Liu,Chung-Hsin
+Piatt, Victoria
+RITA MARIA ROSA PIZZI
+PIERANGELA SAMARATI
+Anže Starič
+Rok Povše
+Fuchun SUN
+Rok Žitko
+MARCO RIGOLI
+GOFFREDO HAUS
+PAOLO STELLARI
+
+
+
+
+
+Joanna Heery
+Nazir Ahmed
+ADRIANO BARATE'
+Lebedeva Olga
+C., Tyrtyshnikov E.
+Romanyukha Alexei
+Mikhalev A.Yu., Oseledets
+Amanda Coles
+May, Gabriele German
+Bocharov Gennady
+Vijay Ganesh
+Vesna Gračner
+Jeffery Raphael
+Robert A. Lucas
+Alice Tucker
+Pauker, Michael Fine
+Vasa Curcin
+Jana Faganeli
+Cicely Saunders
+Von Lee
+h. c.
+Vassilevski Yury
+Yung-Jen Hsu
+Jamia Nama
+Tolstykh Mikhail
+Byers, LCSW,
+Breckenridge, Donna Sr.
+Oseledets Ivan
+Mikhail Tolstykh,
+Morrison Hall
+Pouncil, Matais Dean
+Chandler, Andrew Dean
+Harry L. Crisp
+Moss, Brianna French
+Friedman, Ira
+Luddy Hall
+Zamarashkin Nikolay
+RYT, Michael
+FLAVIA MARIA
+Setukha Aleksey
+SABRINA TIZIANA
+Secretary Miyo Ishikawa
+Maria Fox
+Muhammad Ahsan
+Jones, Tony Real
+Kashima, Stephanie Dean
+DARIO AUGUSTO
+Min, Kaee
+Simon Hall
+Lindley Hall
+Weisberg, Brad Dean
+Tudisco F., Di Fiore
+Agoshkov Valery
+Lucas Hall
+gil [dot]
+Dean, Rudy
+Rudnev Sergey
+Drion, Yoka Piano
+Daniele Magazzeni
+(Electrical Engineering), Chung Cheng
+Ernest Kamavuako
+Hannigan, , John
+Elizabeth Sklar
+Khalouyan-Pivk, Helen EOPS
+Rollno Slips
+Bangle, , Angelica
+Bogatyrev Andrei
+Grigorieva Svetlana
+James H. Rudy
+Sangi Chairman
+Robert C. Byrd

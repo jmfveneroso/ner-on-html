@@ -1,0 +1,678 @@
+Computer O 0 0 link head none 5 0
+Systems O 0 0 link head none 5 0
+Faculty O 0 0 link head none 5 0
+
+Collapsed O 0 0 button div screen-reader-text 8 3
+Menu O 0 1 button div screen-reader-text 8 3
+
+Apply O 0 0 div div navbar-brand.visible-sm.visible-xs 7 5
+Now O 0 1 div div navbar-brand.visible-sm.visible-xs 7 5
+
+Apply O 0 0 li ul nav.navbar-nav.navbar-left 9 0
+Now O 0 1 li ul nav.navbar-nav.navbar-left 9 0
+
+Admissions O 0 0 li ul dropdown-toggle.dropdown-toggle 9 0
+
+Admissions O 0 0 p li visible-md.visible-sm.visible-xs 16 0
+Office O 0 0 p li visible-md.visible-sm.visible-xs 16 0
+
+Go O 0 1 p li col-xs-6.list-unstyled 16 0
+to: O 0 0 p li col-xs-6.list-unstyled 16 0
+
+Application O 0 0 li ul col-xs-6.list-unstyled 15 0
+Status O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Campus O 0 1 li ul col-xs-6.list-unstyled 15 0
+Tours O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Deadlines O 0 0 li ul col-xs-6.list-unstyled 15 0
+& O 0 0 li ul col-xs-6.list-unstyled 15 0
+Requirements O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Excelsior O 0 0 li ul col-xs-6.list-unstyled 15 0
+Scholarship O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+General O 0 1 li ul col-xs-6.list-unstyled 15 0
+Information O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+How O 0 1 li ul col-xs-6.list-unstyled 15 0
+to O 0 0 li ul col-xs-6.list-unstyled 15 0
+Apply O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Open O 0 0 li ul col-xs-6.list-unstyled 15 0
+House O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+Orientation O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Request O 0 0 li ul col-xs-6.list-unstyled 15 0
+Information O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+Tuition O 0 0 li ul col-xs-6.list-unstyled 15 0
+& O 0 0 li ul col-xs-6.list-unstyled 15 0
+Fees O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Information O 0 1 p li col-xs-6.list-unstyled 16 0
+for: O 0 0 p li col-xs-6.list-unstyled 16 0
+
+Distance O 0 0 li ul col-xs-6.list-unstyled 15 0
+Learning O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+EOP O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Freshman O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+International O 0 0 li ul col-xs-6.list-unstyled 15 0
+Students O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+LIEOC O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Non-matriculated O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Nursing O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+Study O 0 1 li ul col-xs-6.list-unstyled 15 0
+Abroad O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+Transfer O 0 0 li ul col-xs-6.list-unstyled 15 0
+Students O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Veterans O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Academics O 0 0 li ul dropdown-toggle.dropdown-toggle 9 0
+
+Academics O 0 0 p li visible-md.visible-sm.visible-xs 16 0
+Home O 0 1 p li visible-md.visible-sm.visible-xs 16 0
+
+Registrar's O 0 0 p li col-xs-12.col-lg-12.list-unstyled 16 0
+Office O 0 0 p li col-xs-12.col-lg-12.list-unstyled 16 0
+
+Information: O 0 0 p li col-xs-6.list-unstyled 16 0
+
+Academic O 0 0 li ul col-xs-6.list-unstyled 15 0
+Advisement O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Academic O 0 0 li ul col-xs-6.list-unstyled 15 0
+Calendar O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Academic O 0 0 li ul col-xs-6.list-unstyled 15 0
+Departments O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Applied O 0 0 li ul col-xs-6.list-unstyled 15 0
+Learning O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+Degree O 0 0 li ul col-xs-6.list-unstyled 15 0
+Programs O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Distance O 0 0 li ul col-xs-6.list-unstyled 15 0
+Learning O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+Schools: O 0 0 p li col-xs-6.list-unstyled 16 0
+
+Arts O 0 1 li ul col-xs-6.list-unstyled 15 0
+& O 0 0 li ul col-xs-6.list-unstyled 15 0
+Sciences O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Business O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Engineering O 0 0 li ul col-xs-6.list-unstyled 15 0
+Technology O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Health O 0 1 li ul col-xs-6.list-unstyled 15 0
+Sciences O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Campus O 0 1 li ul dropdown-toggle.dropdown-toggle 9 0
+Life O 0 1 li ul dropdown-toggle.dropdown-toggle 9 0
+
+Campus O 0 1 p li visible-md.visible-sm.visible-xs 16 0
+Life O 0 1 p li visible-md.visible-sm.visible-xs 16 0
+Home O 0 1 p li visible-md.visible-sm.visible-xs 16 0
+
+Campus O 0 1 li ul col-xs-6.list-unstyled 15 0
+Safety O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Commuters O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Dean O 0 1 li ul col-xs-6.list-unstyled 15 0
+of O 0 1 li ul col-xs-6.list-unstyled 15 0
+Students O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Dining O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Division O 0 0 li ul col-xs-6.list-unstyled 15 0
+of O 0 1 li ul col-xs-6.list-unstyled 15 0
+Student O 0 1 li ul col-xs-6.list-unstyled 15 0
+Affairs O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Office O 0 0 li ul col-xs-6.list-unstyled 15 0
+of O 0 1 li ul col-xs-6.list-unstyled 15 0
+Student O 0 1 li ul col-xs-6.list-unstyled 15 0
+Activities O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Ram O 0 1 li ul col-xs-6.list-unstyled 15 0
+Rewards O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Rambassadors O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+RamCentral O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Rampage O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Residence O 0 0 li ul col-xs-6.list-unstyled 15 0
+Life O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+Student O 0 1 li ul col-xs-6.list-unstyled 15 0
+Clubs O 0 0 li ul col-xs-6.list-unstyled 15 0
+& O 0 0 li ul col-xs-6.list-unstyled 15 0
+Organizations O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Student O 0 1 li ul col-xs-6.list-unstyled 15 0
+Government O 0 0 li ul col-xs-6.list-unstyled 15 0
+Association O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Student O 0 1 li ul col-xs-6.list-unstyled 15 0
+Support O 0 0 li ul col-xs-6.list-unstyled 15 0
+Services O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Sustainability O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Students O 0 0 li ul dropdown-toggle.dropdown-toggle 9 0
+
+Students O 0 0 p li visible-md.visible-sm.visible-xs 16 0
+Home O 0 1 p li visible-md.visible-sm.visible-xs 16 0
+
+Future O 0 0 a p col-xs-6.list-unstyled 17 0
+Students: O 0 0 a p col-xs-6.list-unstyled 17 0
+
+About O 0 0 li ul col-xs-6.list-unstyled 15 0
+Farmingdale O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Academic O 0 0 li ul col-xs-6.list-unstyled 15 0
+Programs O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Campus O 0 1 li ul col-xs-6.list-unstyled 15 0
+Map O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+College O 0 0 li ul col-xs-6.list-unstyled 15 0
+Catalog O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Contact O 0 0 li ul col-xs-6.list-unstyled 15 0
+Us O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+Directions O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Facts O 0 0 li ul col-xs-6.list-unstyled 15 0
+& O 0 0 li ul col-xs-6.list-unstyled 15 0
+Figures O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Financial O 0 0 li ul col-xs-6.list-unstyled 15 0
+Aid O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+Net O 0 1 li ul col-xs-6.list-unstyled 15 0
+Price O 0 1 li ul col-xs-6.list-unstyled 15 0
+Cost O 0 1 li ul col-xs-6.list-unstyled 15 0
+Calculator O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Orientation O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Scholarships O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Tuition O 0 0 li ul col-xs-6.list-unstyled 15 0
+& O 0 0 li ul col-xs-6.list-unstyled 15 0
+Fees O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Visit O 0 1 li ul col-xs-6.list-unstyled 15 0
+our O 0 0 li ul col-xs-6.list-unstyled 15 0
+Campus O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+Current O 0 1 a p col-xs-6.list-unstyled 17 0
+Students: O 0 0 a p col-xs-6.list-unstyled 17 0
+
+Advisement O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Blackboard O 0 0 li ul col-xs-6.list-unstyled 15 0
+Learn O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+Bookstore O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Commencement O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Course O 0 1 li ul col-xs-6.list-unstyled 15 0
+Listing O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+DegreeWorks O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Email O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Internships O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Lynda.com O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+OASIS O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Pay O 0 1 li ul col-xs-6.list-unstyled 15 0
+Your O 0 0 li ul col-xs-6.list-unstyled 15 0
+Bill O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+Registrar's O 0 0 li ul col-xs-6.list-unstyled 15 0
+Office O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Scholarships O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Student O 0 1 li ul col-xs-6.list-unstyled 15 0
+Accounts O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Faculty O 0 0 li ul dropdown-toggle.dropdown-toggle 9 0
+& O 0 0 li ul dropdown-toggle.dropdown-toggle 9 0
+Staff O 0 1 li ul dropdown-toggle.dropdown-toggle 9 0
+
+Faculty O 0 0 p li visible-md.visible-sm.visible-xs 16 0
+& O 0 0 p li visible-md.visible-sm.visible-xs 16 0
+Staff O 0 1 p li visible-md.visible-sm.visible-xs 16 0
+Home O 0 1 p li visible-md.visible-sm.visible-xs 16 0
+
+Academic O 0 0 li ul col-xs-6.list-unstyled 15 0
+Calendar O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Academic O 0 0 li ul col-xs-6.list-unstyled 15 0
+Departments O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Academic O 0 0 li ul col-xs-6.list-unstyled 15 0
+Programs O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Administration O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Axiom O 0 0 li ul col-xs-6.list-unstyled 15 0
+Mentor O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+Blackboard O 0 0 li ul col-xs-6.list-unstyled 15 0
+Learn O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+Campus O 0 1 li ul col-xs-6.list-unstyled 15 0
+Offices O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+College O 0 0 li ul col-xs-6.list-unstyled 15 0
+Council O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+College O 0 0 li ul col-xs-6.list-unstyled 15 0
+Foundation O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+DegreeWorks O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Email O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+FacultyEnlight O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Faculty O 0 0 li ul col-xs-6.list-unstyled 15 0
+Pages O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+Faculty O 0 0 li ul col-xs-6.list-unstyled 15 0
+Resources O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Governance O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Human O 0 1 li ul col-xs-6.list-unstyled 15 0
+Resources O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Information O 0 1 li ul col-xs-6.list-unstyled 15 0
+Technology O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Intranet O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Lynda.com O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+News O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+OASIS O 0 0 li ul col-xs-6.list-unstyled 15 0
+
+Secure O 0 0 li ul col-xs-6.list-unstyled 15 0
+Access O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+Strategic O 0 0 li ul col-xs-6.list-unstyled 15 0
+Plan O 0 1 li ul col-xs-6.list-unstyled 15 0
+& O 0 0 li ul col-xs-6.list-unstyled 15 0
+Mission O 0 1 li ul col-xs-6.list-unstyled 15 0
+
+Alumni O 0 0 li ul dropdown-toggle.dropdown-toggle 9 0
+& O 0 0 li ul dropdown-toggle.dropdown-toggle 9 0
+Friends O 0 0 li ul dropdown-toggle.dropdown-toggle 9 0
+
+Alumni O 0 0 p li visible-md.visible-sm.visible-xs 16 0
+& O 0 0 p li visible-md.visible-sm.visible-xs 16 0
+Friends O 0 0 p li visible-md.visible-sm.visible-xs 16 0
+Home O 0 1 p li visible-md.visible-sm.visible-xs 16 0
+
+Alumni O 0 0 li ul col-xs-12.list-unstyled 15 0
+Relations O 0 0 li ul col-xs-12.list-unstyled 15 0
+Office O 0 0 li ul col-xs-12.list-unstyled 15 0
+
+Class O 0 1 li ul col-xs-12.list-unstyled 15 0
+Reunion O 0 0 li ul col-xs-12.list-unstyled 15 0
+
+Events O 0 0 li ul col-xs-12.list-unstyled 15 0
+
+Make O 0 1 li ul col-xs-12.list-unstyled 15 0
+a O 0 1 li ul col-xs-12.list-unstyled 15 0
+Gift O 0 1 li ul col-xs-12.list-unstyled 15 0
+
+Transcripts O 0 0 li ul col-xs-12.list-unstyled 15 0
+
+Update O 0 0 li ul col-xs-12.list-unstyled 15 0
+Your O 0 0 li ul col-xs-12.list-unstyled 15 0
+Information O 0 1 li ul col-xs-12.list-unstyled 15 0
+
+College O 0 0 li ul col-xs-12.list-unstyled 15 0
+Council O 0 1 li ul col-xs-12.list-unstyled 15 0
+
+College O 0 0 li ul col-xs-12.list-unstyled 15 0
+Foundation O 0 0 li ul col-xs-12.list-unstyled 15 0
+
+Development O 0 0 li ul col-xs-12.list-unstyled 15 0
+& O 0 0 li ul col-xs-12.list-unstyled 15 0
+Philanthropy O 0 0 li ul col-xs-12.list-unstyled 15 0
+
+Expert O 0 1 li ul col-xs-12.list-unstyled 15 0
+Center O 0 1 li ul col-xs-12.list-unstyled 15 0
+
+Athletics O 0 0 li ul nav.navbar-nav.navbar-left 9 0
+
+Give O 0 0 li ul dropdown-toggle.dropdown-toggle 9 0
+
+Give O 0 0 p li visible-md.visible-sm.visible-xs 16 0
+Home O 0 1 p li visible-md.visible-sm.visible-xs 16 0
+
+Give O 0 0 p li col-xs-12.list-unstyled 16 0
+to: O 0 0 p li col-xs-12.list-unstyled 16 0
+
+Alumni O 0 0 li ul col-xs-12.list-unstyled 15 0
+Association O 0 0 li ul col-xs-12.list-unstyled 15 0
+
+College O 0 0 li ul col-xs-12.list-unstyled 15 0
+Foundation O 0 0 li ul col-xs-12.list-unstyled 15 0
+
+Email O 0 0 li ul nav.nav-pills 12 0
+
+OASIS O 0 0 li ul nav.nav-pills 12 0
+
+Directory O 0 0 li ul nav.nav-pills 12 0
+
+Library O 0 0 li ul nav.nav-pills 12 0
+
+A-Z O 0 0 li ul nav.nav-pills 12 0
+Links O 0 1 li ul nav.nav-pills 12 0
+
+Search O 0 0 label div screen-reader-text 12 0
+for: O 0 0 label div screen-reader-text 12 0
+
+Go O 0 1 button div screen-reader-text 13 0
+
+Toggle O 0 0 button div sr-only 12 0
+navigation O 0 0 button div sr-only 12 0
+
+Menu O 0 1 div div visible-xs.visible-sm.navbar-brand 11 5
+
+BCS O 0 0 div div list-group-item.list-group-item-info 13 0
+HOME O 0 0 div div list-group-item.list-group-item-info 13 0
+ACADEMICS O 0 0 div div list-group-item.list-group-item-info 13 1
+
+Courses O 0 0 div div list-group-item.extra-indent 14 0
+Degrees O 0 0 div div list-group-item.extra-indent 14 1
+Certificates O 0 0 div div list-group-item.extra-indent 14 2
+
+STUDENTS O 0 0 div div list-group-item.list-group-item-info 13 6
+
+Credit O 0 1 div div list-group-item.extra-indent 14 0
+By O 0 1 div div list-group-item.extra-indent 14 0
+Evaluation O 0 0 div div list-group-item.extra-indent 14 0
+Internship O 0 0 div div list-group-item.extra-indent 14 1
+and O 0 1 div div list-group-item.extra-indent 14 1
+Listings O 0 0 div div list-group-item.extra-indent 14 1
+Job O 0 1 div div list-group-item.extra-indent 14 2
+Listings O 0 0 div div list-group-item.extra-indent 14 2
+Laptop O 0 0 div div list-group-item.extra-indent 14 3
+Program O 0 0 div div list-group-item.extra-indent 14 3
+Software O 0 1 div div list-group-item.extra-indent 14 4
+
+FACULTY O 0 0 div div list-group-item.list-group-item-info 13 13
+NEWS O 0 0 div div list-group-item.list-group-item-info 13 14
+CONTACT O 0 0 div div list-group-item.list-group-item-info 13 15
+FARMINGDALE O 0 0 div div list-group-item.list-group-item-info 13 16
+HOME O 0 0 div div list-group-item.list-group-item-info 13 16
+
+Virtual O 0 0 div div virtualtour_embed 11 0
+Tour O 0 1 div div virtualtour_embed 11 0
+
+Ready O 0 1 p div applyNow. 12 0
+to O 0 0 p div applyNow. 12 0
+Apply? O 0 0 p div applyNow. 12 0
+
+File O 0 1 p div large-text 12 2
+your O 0 0 p div large-text 12 2
+application O 0 0 p div large-text 12 2
+online O 0 0 p div large-text 12 2
+through O 0 0 p div large-text 12 2
+SUNY's O 0 0 p div large-text 12 2
+website. O 0 0 p div large-text 12 2
+
+Apply O 0 0 div div btn.btn-primary.btn-sm.center-block.left-nav-gtm 11 5
+Now O 0 1 div div btn.btn-primary.btn-sm.center-block.left-nav-gtm 11 5
+
+Home O 0 1 span div /.faculty.shtml 12 0
+» O 0 0 div div col-sm-9.col-sm-pull-3 10 0
+School O 0 1 span div /business/.faculty.shtml 12 0
+of O 0 1 span div /business/.faculty.shtml 12 0
+Business O 0 0 span div /business/.faculty.shtml 12 0
+» O 0 0 div div col-sm-9.col-sm-pull-3 10 0
+Computer O 0 0 span div /business/bcs/.faculty.shtml 12 0
+Systems O 0 0 span div /business/bcs/.faculty.shtml 12 0
+» O 0 0 div div col-sm-9.col-sm-pull-3 10 0
+Computer O 0 0 div div col-sm-9.col-sm-pull-3 10 0
+Systems O 0 0 div div col-sm-9.col-sm-pull-3 10 0
+Faculty O 0 0 div div col-sm-9.col-sm-pull-3 10 0
+
+Computer O 0 0 div div summary 10 0
+Systems O 0 0 div div summary 10 0
+Faculty O 0 0 div div summary 10 0
+
+Full-time: O 0 0 div div summary 10 1
+
+Moaath B-NAME 0 1 ul div summary 11 0
+Alrajab I-NAME 0 1 ul div summary 11 0
+
+Ilknur B-NAME 1 1 li ul summary 12 0
+Aydin I-NAME 1 1 li ul summary 12 0
+
+Henry B-NAME 0 1 li ul summary 12 0
+Bojack I-NAME 0 0 li ul summary 12 0
+
+Matthew B-NAME 0 1 ul div summary 11 5
+Fried I-NAME 0 1 ul div summary 11 5
+
+David B-NAME 0 1 li ul summary 12 0
+Gerstl I-NAME 0 1 li ul summary 12 0
+
+Maxine B-NAME 0 1 li ul summary 12 0
+A I-NAME 0 1 li ul summary 12 0
+Greenidge I-NAME 0 1 li ul summary 12 0
+
+Samir B-NAME 0 1 ul div summary 11 10
+Hamada I-NAME 0 1 ul div summary 11 10
+
+Arthur B-NAME 0 1 a li summary 13 0
+Hoskey I-NAME 0 0 li ul summary 12 0
+
+Jie B-NAME 1 1 li ul summary 12 0
+Li I-NAME 1 1 li ul summary 12 0
+
+Jill B-NAME 1 1 a li summary 13 0
+O'Sullivan I-NAME 1 1 li ul summary 12 0
+
+Marie B-NAME 0 1 a li summary 13 0
+Pullan I-NAME 0 1 li ul summary 12 0
+
+Mary B-NAME 1 1 li ul summary 12 0
+Villani I-NAME 1 1 li ul summary 12 0
+
+Jun B-NAME 1 1 li ul summary 12 0
+Yuan I-NAME 1 1 li ul summary 12 0
+
+Visiting: O 0 0 div div summary 10 29
+
+Anne B-NAME 0 1 ul div summary 11 0
+Galante I-NAME 0 1 ul div summary 11 0
+
+Zihni B-NAME 0 1 ul div summary 11 1
+Ugurbil I-NAME 0 1 ul div summary 11 1
+
+Faculty O 0 0 p div summary 11 0
+Repository O 0 0 p div summary 11 0
+
+About O 0 0 h4 div less-bottom-margin 11 0
+Farmingdale O 0 0 h4 div less-bottom-margin 11 0
+
+Administration O 0 0 li ul footer-list 12 0
+
+Aviation O 0 0 li ul footer-list 12 0
+Center O 0 1 li ul footer-list 12 0
+
+Broad O 0 1 li ul footer-list 12 0
+Hollow O 0 1 li ul footer-list 12 0
+Bioscience O 0 0 li ul footer-list 12 0
+Park O 0 1 li ul footer-list 12 0
+
+Centers O 0 0 li ul footer-list 12 0
+& O 0 0 li ul footer-list 12 0
+Institutes O 0 0 li ul footer-list 12 0
+
+Expert O 0 1 li ul footer-list 12 0
+Center O 0 1 li ul footer-list 12 0
+
+Renewable O 0 0 li ul footer-list 12 0
+Energy O 0 0 li ul footer-list 12 0
+& O 0 0 li ul footer-list 12 0
+Sustainability O 0 0 li ul footer-list 12 0
+Center O 0 1 li ul footer-list 12 0
+
+Solar O 0 1 li ul footer-list 12 0
+Energy O 0 0 li ul footer-list 12 0
+
+Strategic O 0 0 li ul footer-list 12 0
+Plan O 0 1 li ul footer-list 12 0
+& O 0 0 li ul footer-list 12 0
+Mission O 0 1 li ul footer-list 12 0
+
+Teaching O 0 0 li ul footer-list 12 0
+Gardens O 0 0 li ul footer-list 12 0
+
+Calendars O 0 0 h4 div less-bottom-margin 11 0
+
+Academic O 0 0 li ul footer-list 12 0
+Calendar O 0 0 li ul footer-list 12 0
+
+All O 0 1 li ul footer-list 12 0
+Activities O 0 0 li ul footer-list 12 0
+
+Athletic O 0 0 li ul footer-list 12 0
+Calendar O 0 0 li ul footer-list 12 0
+
+Resources O 0 0 h4 div less-bottom-margin 11 0
+
+Campus O 0 1 li ul footer-list 12 0
+Safety O 0 0 li ul footer-list 12 0
+
+Campus O 0 1 li ul footer-list 12 0
+Map O 0 0 li ul footer-list 12 0
+
+Directions O 0 0 li ul footer-list 12 0
+
+Get O 0 0 li ul footer-list 12 0
+Rave O 0 1 li ul footer-list 12 0
+
+Quick O 0 1 h4 div less-bottom-margin 11 0
+Access O 0 1 h4 div less-bottom-margin 11 0
+
+Blackboard O 0 0 li ul footer-list 12 0
+
+College O 0 0 li ul footer-list 12 0
+Catalog O 0 0 li ul footer-list 12 0
+
+Course O 0 1 li ul footer-list 12 0
+Listing O 0 1 li ul footer-list 12 0
+
+Degrees O 0 0 li ul footer-list 12 0
+
+Frequently O 0 0 li ul footer-list 12 0
+Asked O 0 0 li ul footer-list 12 0
+Questions O 0 0 li ul footer-list 12 0
+
+Pay O 0 1 li ul footer-list 12 0
+Your O 0 0 li ul footer-list 12 0
+Bill O 0 1 li ul footer-list 12 0
+
+Register O 0 1 li ul footer-list 12 0
+for O 0 1 li ul footer-list 12 0
+Classes O 0 0 li ul footer-list 12 0
+
+Schools O 0 0 li ul footer-list 12 0
+
+Student O 0 1 li ul footer-list 12 0
+Support O 0 0 li ul footer-list 12 0
+Services O 0 0 li ul footer-list 12 0
+
+University O 0 1 li ul footer-list 12 0
+Police O 0 0 li ul footer-list 12 0
+
+About O 0 0 li ul btn.btn-default..btn-sm.btn-block.call-to-action-gtm 11 0
+Us O 0 1 li ul btn.btn-default..btn-sm.btn-block.call-to-action-gtm 11 0
+
+Apply O 0 0 li ul btn.btn-default..btn-sm.btn-block.call-to-action-gtm 11 0
+Now O 0 1 li ul btn.btn-default..btn-sm.btn-block.call-to-action-gtm 11 0
+
+Contact O 0 0 li ul btn.btn-default..btn-sm.btn-block.call-to-action-gtm 11 0
+Us O 0 1 li ul btn.btn-default..btn-sm.btn-block.call-to-action-gtm 11 0
+
+Employment O 0 0 li ul btn.btn-default..btn-sm.btn-block.call-to-action-gtm 11 0
+
+Make O 0 1 li ul btn.btn-default..btn-sm.btn-block.call-to-action-gtm 11 0
+a O 0 1 li ul btn.btn-default..btn-sm.btn-block.call-to-action-gtm 11 0
+Gift O 0 1 li ul btn.btn-default..btn-sm.btn-block.call-to-action-gtm 11 0
+
+Visit O 0 1 li ul btn.btn-default..btn-sm.btn-block.call-to-action-gtm 11 0
+Campus O 0 1 li ul btn.btn-default..btn-sm.btn-block.call-to-action-gtm 11 0
+
+Farmingdale O 0 0 div div text-muted.address.white 9 0
+State O 0 1 div div text-muted.address.white 9 0
+College O 0 0 div div text-muted.address.white 9 0
+(SUNY), O 0 0 div div text-muted.address.white 9 0
+2350 O 0 0 div div text-muted.address.white 9 0
+Broadhollow O 0 0 div div text-muted.address.white 9 0
+Road, O 0 0 div div text-muted.address.white 9 0
+Farmingdale, O 0 0 div div text-muted.address.white 9 0
+NY O 0 0 div div text-muted.address.white 9 0
+11735-1021, O 0 0 div div text-muted.address.white 9 0
+tel O 0 0 div div text-muted.address.white 9 0
+631-420-2000 O 0 0 div div text-muted.address.white 9 0
+
+Farmingdale O 0 0 a div screen-reader-text 10 1
+Social O 0 0 a div screen-reader-text 10 1
+Go O 0 1 a div screen-reader-text 10 1
+to O 0 0 a div screen-reader-text 10 1
+Flickr O 0 0 a div screen-reader-text 10 1
+Follow O 0 0 a div screen-reader-text 10 1
+FSC O 0 0 a div screen-reader-text 10 1
+on O 0 0 a div screen-reader-text 10 1
+Facebook O 0 0 a div screen-reader-text 10 1
+FSC O 0 0 a div screen-reader-text 10 1
+Twitter O 0 0 a div screen-reader-text 10 1
+FSC O 0 0 a div screen-reader-text 10 1
+YouTube O 0 0 a div screen-reader-text 10 1
+FSC O 0 0 a div screen-reader-text 10 1
+Instagram O 0 0 a div screen-reader-text 10 1
+FSC O 0 0 a div screen-reader-text 10 1
+RSS O 0 0 a div screen-reader-text 10 1
+Feeds O 0 0 a div screen-reader-text 10 1
+
+Top O 0 1 a body screen-reader-text 5 1
+
+Last O 0 1 div div none 6 0
+Modified O 0 0 div div none 6 0
+9/8/17 O 0 0 div div none 6 0

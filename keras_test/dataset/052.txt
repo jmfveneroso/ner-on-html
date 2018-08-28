@@ -1,0 +1,851 @@
+Department O 0 0 link link no-js 12 2
+of O 0 1 link link no-js 12 2
+Computer O 0 0 link link no-js 12 2
+Science, O 0 0 link link no-js 12 2
+University O 0 1 link link no-js 12 2
+of O 0 1 link link no-js 12 2
+Oxford: O 0 0 link link no-js 12 2
+People O 0 1 link link no-js 12 2
+: O 0 0 link link no-js 12 2
+Faculty O 0 0 link link no-js 12 2
+members O 0 0 link link no-js 12 2
+
+Skip O 0 1 body html screen-reader-shortcut 4 0
+to O 0 0 body html screen-reader-shortcut 4 0
+main O 0 0 body html screen-reader-shortcut 4 0
+content O 0 0 body html screen-reader-shortcut 4 0
+
+University O 0 1 body html print-title 4 2
+of O 0 1 body html print-title 4 2
+Oxford O 0 1 body html print-title 4 2
+Department O 0 0 body html print-title 4 2
+of O 0 1 body html print-title 4 2
+Computer O 0 0 body html print-title 4 2
+Science O 0 0 body html print-title 4 2
+
+Search O 0 0 div form control-label.sr-only 9 0
+for O 0 1 div form control-label.sr-only 9 0
+
+Search O 0 0 img button btn-icon-text.text-uppercase 11 0
+
+Toggle O 0 0 button div sr-only 8 0
+Main O 0 1 div div btn-block.navbar-toggle.collapsed 7 0
+Menu O 0 1 div div btn-block.navbar-toggle.collapsed 7 0
+
+Home O 0 1 li ul text-uppercase 9 0
+
+Admissions O 0 0 li ul text-uppercase 9 0
+
+Research O 0 1 li ul text-uppercase 9 0
+
+News O 0 0 li ul text-uppercase 9 0
+& O 0 0 li ul text-uppercase 9 0
+Events O 0 0 li ul text-uppercase 9 0
+
+About O 0 0 li ul text-uppercase 9 0
+Us O 0 1 li ul text-uppercase 9 0
+(current) O 0 0 a li sr-only 10 0
+
+Alumni O 0 0 li ul text-uppercase 9 0
+
+Our O 0 0 li ul text-uppercase 9 0
+Students O 0 0 li ul text-uppercase 9 0
+
+Innovation O 0 0 li ul text-uppercase 9 0
+
+Home O 0 1 li ol breadcrumb.text-uppercase 7 0
+
+About O 0 0 li ol breadcrumb.text-uppercase 7 0
+us O 0 1 li ol breadcrumb.text-uppercase 7 0
+
+People O 0 1 li ol breadcrumb.text-uppercase 7 0
+
+Faculty O 0 0 ol div active 6 6
+
+Faculty O 0 0 div div page-title 8 0
+
+A O 0 1 li ul list-a-z 11 0
+
+B O 0 1 li ul list-a-z 11 0
+
+C O 0 1 li ul list-a-z 11 0
+
+D O 0 1 li ul list-a-z 11 0
+
+E O 0 1 li ul list-a-z 11 0
+
+F O 0 0 li ul list-a-z 11 0
+
+G O 0 1 li ul list-a-z 11 0
+
+H O 0 1 li ul list-a-z 11 0
+
+I O 0 1 ul a-to-z disabled 10 16
+
+J O 0 1 li ul list-a-z 11 0
+
+K O 0 1 li ul list-a-z 11 0
+
+L O 0 1 li ul list-a-z 11 0
+
+M O 0 1 li ul list-a-z 11 0
+
+N O 0 1 li ul list-a-z 11 0
+
+O O 0 1 li ul list-a-z 11 0
+
+P O 0 1 li ul list-a-z 11 0
+
+Q O 0 1 ul a-to-z disabled 10 31
+
+R O 0 1 li ul list-a-z 11 0
+
+S O 0 1 li ul list-a-z 11 0
+
+T O 0 1 li ul list-a-z 11 0
+
+U O 0 1 ul a-to-z disabled 10 38
+
+V O 0 1 li ul list-a-z 11 0
+
+W O 0 1 li ul list-a-z 11 0
+
+X O 0 0 ul a-to-z disabled 10 43
+
+Y O 0 1 ul a-to-z disabled 10 44
+
+Z O 0 1 li ul list-a-z 11 0
+
+A O 0 1 h2 div underlined-text 8 0
+
+Alessandro B-NAME 1 1 a li personIndex 10 0
+Abate I-NAME 1 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+Samson B-NAME 1 1 a li personIndex 10 0
+Abramsky I-NAME 1 1 a li personIndex 10 0
+Christopher O 1 1 li ul list-unbulleted-extra 9 2
+Strachey O 1 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computing O 0 0 li ul list-unbulleted-extra 9 2
+
+B O 0 1 h2 div underlined-text 8 0
+
+Jonathan B-NAME 1 1 a li personIndex 10 0
+Barrett I-NAME 1 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+Michael B-NAME 1 1 a li personIndex 10 0
+Benedikt I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computing O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Tim B-NAME 1 1 a li personIndex 10 0
+Berners-Lee I-NAME 1 1 a li personIndex 10 0
+Professorial O 0 0 li ul list-unbulleted-extra 9 2
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Fellow O 0 0 li ul list-unbulleted-extra 9 2
+
+Richard B-NAME 1 1 a li personIndex 10 0
+Bird I-NAME 0 1 a li personIndex 10 0
+Emeritus O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+Peter B-NAME 1 1 a li personIndex 10 0
+Bloodsworth I-NAME 1 1 a li personIndex 10 0
+Project O 0 1 li ul list-unbulleted-extra 9 2
+Supervisor O 0 0 li ul list-unbulleted-extra 9 2
+
+Phil B-NAME 1 1 a li personIndex 10 0
+Blunsom I-NAME 1 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor, O 0 0 li ul list-unbulleted-extra 9 2
+EPSRC O 0 0 li ul list-unbulleted-extra 9 2
+Early O 0 1 li ul list-unbulleted-extra 9 2
+Career O 0 0 li ul list-unbulleted-extra 9 2
+Fellow O 0 0 li ul list-unbulleted-extra 9 2
+
+Alexander B-NAME 0 1 a li personIndex 10 0
+Buckley I-NAME 0 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Researcher O 0 0 li ul list-unbulleted-extra 9 2
+
+Alfonso B-NAME 1 1 a li personIndex 10 0
+Bueno-Orovio I-NAME 1 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Researcher O 0 0 li ul list-unbulleted-extra 9 2
+
+C O 0 1 h2 div underlined-text 8 0
+
+Anisoara B-NAME 1 1 a li personIndex 10 0
+Calinescu I-NAME 1 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Lecturer O 0 0 li ul list-unbulleted-extra 9 2
+
+Stephen B-NAME 1 1 a li personIndex 10 0
+Cameron I-NAME 1 1 a li personIndex 10 0
+Reader O 0 1 li ul list-unbulleted-extra 9 2
+in O 0 1 li ul list-unbulleted-extra 9 2
+Computing O 0 0 li ul list-unbulleted-extra 9 2
+Science, O 0 0 li ul list-unbulleted-extra 9 2
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+Luca B-NAME 1 1 a li personIndex 10 0
+Cardelli I-NAME 1 1 a li personIndex 10 0
+Royal O 0 1 li ul list-unbulleted-extra 9 2
+Society O 0 0 li ul list-unbulleted-extra 9 2
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+Alessandra B-NAME 1 1 a li personIndex 10 0
+Cavarra I-NAME 1 1 a li personIndex 10 0
+University O 0 1 li ul list-unbulleted-extra 9 2
+Lecturer O 0 0 li ul list-unbulleted-extra 9 2
+
+Giulio B-NAME 1 1 a li personIndex 10 0
+Chiribella I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Bob B-NAME 1 1 a li personIndex 10 0
+Coecke I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Quantum O 0 0 li ul list-unbulleted-extra 9 2
+Foundations, O 0 0 li ul list-unbulleted-extra 9 2
+Logics O 0 0 li ul list-unbulleted-extra 9 2
+and O 0 1 li ul list-unbulleted-extra 9 2
+Structures O 0 0 li ul list-unbulleted-extra 9 2
+
+Sadie B-NAME 1 1 a li personIndex 10 0
+Creese I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Cybersecurity O 0 0 li ul list-unbulleted-extra 9 2
+
+Cas B-NAME 1 1 a li personIndex 10 0
+Cremers I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Information O 0 1 li ul list-unbulleted-extra 9 2
+Security O 0 0 li ul list-unbulleted-extra 9 2
+
+Bernardo B-NAME 1 1 a li personIndex 10 0
+Cuenca I-NAME 1 1 a li personIndex 10 0
+Grau I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science, O 0 0 li ul list-unbulleted-extra 9 2
+Royal O 0 1 li ul list-unbulleted-extra 9 2
+Society O 0 0 li ul list-unbulleted-extra 9 2
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Fellow O 0 0 li ul list-unbulleted-extra 9 2
+
+D O 0 1 h2 div underlined-text 8 0
+
+Jim B-NAME 1 1 a li personIndex 10 0
+Davies I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Software O 0 1 li ul list-unbulleted-extra 9 2
+Engineering, O 0 0 li ul list-unbulleted-extra 9 2
+Director, O 0 0 li ul list-unbulleted-extra 9 2
+Software O 0 1 li ul list-unbulleted-extra 9 2
+Engineering O 0 0 li ul list-unbulleted-extra 9 2
+Programme O 0 0 li ul list-unbulleted-extra 9 2
+
+E O 0 1 h2 div underlined-text 8 0
+
+Edith B-NAME 1 1 a li personIndex 10 0
+Elkind I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computing O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Zohar B-NAME 1 1 a li personIndex 10 0
+Etzioni I-NAME 1 1 a li personIndex 10 0
+Project O 0 1 li ul list-unbulleted-extra 9 2
+Supervisor O 0 0 li ul list-unbulleted-extra 9 2
+
+F O 0 0 h2 div underlined-text 8 0
+
+Ivan B-NAME 1 1 a li personIndex 10 0
+Flechais I-NAME 1 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+Tim B-NAME 1 1 a li personIndex 10 0
+Furche I-NAME 1 1 a li personIndex 10 0
+Departmental O 0 0 li ul list-unbulleted-extra 9 2
+Lecturer, O 0 0 li ul list-unbulleted-extra 9 2
+EPSRC O 0 0 li ul list-unbulleted-extra 9 2
+Post-Doctoral O 0 0 li ul list-unbulleted-extra 9 2
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Fellow O 0 0 li ul list-unbulleted-extra 9 2
+
+G O 0 1 h2 div underlined-text 8 0
+
+Yarin B-NAME 1 1 a li personIndex 10 0
+Gal I-NAME 1 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+David B-NAME 1 1 a li personIndex 10 0
+Gavaghan I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computational O 0 0 li ul list-unbulleted-extra 9 2
+Biology O 0 0 li ul list-unbulleted-extra 9 2
+
+Jeremy B-NAME 1 1 a li personIndex 10 0
+Gibbons I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computing O 0 0 li ul list-unbulleted-extra 9 2
+
+Thomas B-NAME 1 1 a li personIndex 10 0
+Gibson-Robinson I-NAME 1 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Researcher O 0 0 li ul list-unbulleted-extra 9 2
+
+Leslie B-NAME 1 1 a li personIndex 10 0
+Ann I-NAME 1 1 a li personIndex 10 0
+Goldberg I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Paul B-NAME 0 1 a li personIndex 10 0
+Goldberg I-NAME 0 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Michael B-NAME 1 1 a li personIndex 10 0
+Goldsmith I-NAME 1 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Fellow O 0 0 li ul list-unbulleted-extra 9 2
+
+Georg B-NAME 1 1 a li personIndex 10 0
+Gottlob I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Informatics O 0 0 li ul list-unbulleted-extra 9 2
+
+Julian B-NAME 1 1 a li personIndex 10 0
+Gutierrez I-NAME 1 1 a li personIndex 10 0
+Departmental O 0 0 li ul list-unbulleted-extra 9 2
+Lecturer O 0 0 li ul list-unbulleted-extra 9 2
+
+H O 0 1 h2 div underlined-text 8 0
+
+Christoph B-NAME 1 1 a li personIndex 10 0
+Haase I-NAME 1 1 a li personIndex 10 0
+Departmental O 0 0 li ul list-unbulleted-extra 9 2
+Lecturer O 0 0 li ul list-unbulleted-extra 9 2
+
+Tony B-NAME 1 1 a li personIndex 10 0
+Hoare I-NAME 1 1 a li personIndex 10 0
+Emeritus O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+Philippa B-NAME 0 1 a li personIndex 10 0
+Hopcroft I-NAME 0 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Fellow O 0 0 li ul list-unbulleted-extra 9 2
+
+Ian B-NAME 1 1 a li personIndex 10 0
+Horrocks I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+J O 0 1 h2 div underlined-text 8 0
+
+Peter B-NAME 1 1 a li personIndex 10 0
+Jeavons I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Marina B-NAME 1 1 a li personIndex 10 0
+Jirotka I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Human O 0 1 li ul list-unbulleted-extra 9 2
+Centred O 0 0 li ul list-unbulleted-extra 9 2
+Computing O 0 0 li ul list-unbulleted-extra 9 2
+
+Geraint B-NAME 1 1 a li personIndex 10 0
+Jones I-NAME 1 1 a li personIndex 10 0
+University O 0 1 li ul list-unbulleted-extra 9 2
+Lecturer O 0 0 li ul list-unbulleted-extra 9 2
+
+K O 0 1 h2 div underlined-text 8 0
+
+Mark B-NAME 1 1 a li personIndex 10 0
+Kaminski I-NAME 1 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Researcher O 0 0 li ul list-unbulleted-extra 9 2
+
+Varun B-NAME 1 1 a li personIndex 10 0
+Kanade I-NAME 1 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+David B-NAME 1 1 a li personIndex 10 0
+Kay I-NAME 1 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor, O 0 0 li ul list-unbulleted-extra 9 2
+Director O 0 1 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Graduate O 1 1 li ul list-unbulleted-extra 9 2
+Studies O 0 0 li ul list-unbulleted-extra 9 2
+
+Andrew B-NAME 1 1 a li personIndex 10 0
+D. I-NAME 1 1 a li personIndex 10 0
+Ker I-NAME 1 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+Evgeny B-NAME 1 1 a li personIndex 10 0
+Kharlamov I-NAME 1 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Fellow O 0 0 li ul list-unbulleted-extra 9 2
+
+Stefan B-NAME 1 1 a li personIndex 10 0
+Kiefer I-NAME 1 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor, O 0 0 li ul list-unbulleted-extra 9 2
+Royal O 0 1 li ul list-unbulleted-extra 9 2
+Society O 0 0 li ul list-unbulleted-extra 9 2
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Fellow O 0 0 li ul list-unbulleted-extra 9 2
+
+Egor B-NAME 1 1 a li personIndex 10 0
+V. I-NAME 1 1 a li personIndex 10 0
+Kostylev I-NAME 1 1 a li personIndex 10 0
+Departmental O 0 0 li ul list-unbulleted-extra 9 2
+Lecturer O 0 0 li ul list-unbulleted-extra 9 2
+
+Elias B-NAME 1 1 a li personIndex 10 0
+Koutsoupias I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Daniel B-NAME 1 1 a li personIndex 10 0
+Kroening I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Marta B-NAME 0 1 a li personIndex 10 0
+Kwiatkowska I-NAME 0 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computing O 0 0 li ul list-unbulleted-extra 9 2
+Systems O 0 0 li ul list-unbulleted-extra 9 2
+
+L O 0 1 h2 div underlined-text 8 0
+
+Anthony B-NAME 0 1 a li personIndex 10 0
+W. I-NAME 1 1 a li personIndex 10 0
+Lin I-NAME 1 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+in O 0 1 li ul list-unbulleted-extra 9 2
+Programming O 0 1 li ul list-unbulleted-extra 9 2
+Languages O 0 0 li ul list-unbulleted-extra 9 2
+
+Gavin B-NAME 1 1 a li personIndex 10 0
+Lowe I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Thomas B-NAME 1 1 a li personIndex 10 0
+Lukasiewicz I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science, O 0 0 li ul list-unbulleted-extra 9 2
+Yahoo! O 0 0 li ul list-unbulleted-extra 9 2
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Fellow O 0 0 li ul list-unbulleted-extra 9 2
+
+M O 0 1 h2 div underlined-text 8 0
+
+Andrew B-NAME 1 1 a li personIndex 10 0
+Markham I-NAME 1 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+Andrew B-NAME 1 1 a li personIndex 10 0
+Martin I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Systems O 0 0 li ul list-unbulleted-extra 9 2
+Security O 0 0 li ul list-unbulleted-extra 9 2
+
+Ursula B-NAME 1 1 a li personIndex 10 0
+Martin I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Ivan B-NAME 1 1 a li personIndex 10 0
+Martinovic I-NAME 1 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+Tom B-NAME 1 1 a li personIndex 10 0
+Melham I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Peter B-NAME 1 1 a li personIndex 10 0
+Minary I-NAME 1 1 a li personIndex 10 0
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Lecturer O 0 0 li ul list-unbulleted-extra 9 2
+in O 0 1 li ul list-unbulleted-extra 9 2
+Computational O 0 0 li ul list-unbulleted-extra 9 2
+Biology O 0 0 li ul list-unbulleted-extra 9 2
+
+Boris B-NAME 1 1 a li personIndex 10 0
+Motik I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Andrzej B-NAME 0 1 a li personIndex 10 0
+Murawski I-NAME 0 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+N O 0 1 h2 div underlined-text 8 0
+
+Hanno B-NAME 1 1 a li personIndex 10 0
+Nickau I-NAME 1 1 a li personIndex 10 0
+Departmental O 0 0 li ul list-unbulleted-extra 9 2
+Lecturer O 0 0 li ul list-unbulleted-extra 9 2
+
+Nadeschda B-NAME 1 1 a li personIndex 10 0
+Nikitina I-NAME 1 1 a li personIndex 10 0
+Departmental O 0 0 li ul list-unbulleted-extra 9 2
+Lecturer O 0 0 li ul list-unbulleted-extra 9 2
+
+Milos B-NAME 1 1 a li personIndex 10 0
+Nikolic I-NAME 1 1 a li personIndex 10 0
+Departmental O 0 0 li ul list-unbulleted-extra 9 2
+Lecturer O 0 0 li ul list-unbulleted-extra 9 2
+
+O O 0 1 h2 div underlined-text 8 0
+
+Dan B-NAME 1 1 a li personIndex 10 0
+Olteanu I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Luke B-NAME 1 1 a li personIndex 10 0
+Ong I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Joel B-NAME 0 1 a li personIndex 10 0
+Ouaknine I-NAME 0 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+P O 0 1 h2 div underlined-text 8 0
+
+Dmitrii B-NAME 0 1 a li personIndex 10 0
+Pasechnik I-NAME 0 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Fellow O 0 0 li ul list-unbulleted-extra 9 2
+
+Joe B-NAME 1 1 a li personIndex 10 0
+Pitt-Francis I-NAME 1 1 a li personIndex 10 0
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Assistant, O 0 0 li ul list-unbulleted-extra 9 2
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Director, O 0 0 li ul list-unbulleted-extra 9 2
+Doctoral O 0 0 li ul list-unbulleted-extra 9 2
+Training O 0 0 li ul list-unbulleted-extra 9 2
+Center, O 0 0 li ul list-unbulleted-extra 9 2
+Departmental O 0 0 li ul list-unbulleted-extra 9 2
+Lecturer O 0 0 li ul list-unbulleted-extra 9 2
+
+Stephen B-NAME 1 1 a li personIndex 10 0
+Pulman I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computational O 0 0 li ul list-unbulleted-extra 9 2
+Linguistics O 0 0 li ul list-unbulleted-extra 9 2
+
+R O 0 1 h2 div underlined-text 8 0
+
+Kasper B-NAME 0 1 a li personIndex 10 0
+Rasmussen I-NAME 0 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor, O 0 0 li ul list-unbulleted-extra 9 2
+Royal O 0 1 li ul list-unbulleted-extra 9 2
+Society O 0 0 li ul list-unbulleted-extra 9 2
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Fellow O 0 0 li ul list-unbulleted-extra 9 2
+
+Stephane B-NAME 0 1 a li personIndex 10 0
+Reissfelder I-NAME 0 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Researcher O 0 0 li ul list-unbulleted-extra 9 2
+
+Blanca B-NAME 0 1 a li personIndex 10 0
+Rodriguez I-NAME 0 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computational O 0 0 li ul list-unbulleted-extra 9 2
+Medicine, O 0 0 li ul list-unbulleted-extra 9 2
+Wellcome O 0 1 li ul list-unbulleted-extra 9 2
+Trust O 0 1 li ul list-unbulleted-extra 9 2
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Fellow O 0 0 li ul list-unbulleted-extra 9 2
+in O 0 1 li ul list-unbulleted-extra 9 2
+Basic O 0 1 li ul list-unbulleted-extra 9 2
+Biomedical O 0 0 li ul list-unbulleted-extra 9 2
+Sciences O 0 0 li ul list-unbulleted-extra 9 2
+
+Alex B-NAME 1 1 a li personIndex 10 0
+Rogers I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Bill B-NAME 1 1 a li personIndex 10 0
+Roscoe I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computing O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+S O 0 1 h2 div underlined-text 8 0
+
+Emanuel B-NAME 1 1 a li personIndex 10 0
+Sallinger I-NAME 1 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Researcher O 0 0 li ul list-unbulleted-extra 9 2
+
+Rahul B-NAME 1 1 a li personIndex 10 0
+Santhanam I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computing O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Nigel B-NAME 1 1 a li personIndex 10 0
+Shadbolt I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computing O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Seyyed B-NAME 0 1 a li personIndex 10 0
+M I-NAME 0 1 a li personIndex 10 0
+Shah I-NAME 0 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Researcher O 0 0 li ul list-unbulleted-extra 9 2
+
+Andrew B-NAME 1 1 a li personIndex 10 0
+Simpson I-NAME 1 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+Monika B-NAME 1 1 a li personIndex 10 0
+Solanki I-NAME 1 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Researcher O 0 0 li ul list-unbulleted-extra 9 2
+
+Mike B-NAME 0 1 a li personIndex 10 0
+Spivey I-NAME 0 1 a li personIndex 10 0
+Director O 0 1 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Teaching, O 0 0 li ul list-unbulleted-extra 9 2
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+Sam B-NAME 1 1 a li personIndex 10 0
+Staton I-NAME 1 1 a li personIndex 10 0
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Lecturer, O 0 0 li ul list-unbulleted-extra 9 2
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+Bernard B-NAME 1 1 a li personIndex 10 0
+Sufrin I-NAME 1 1 a li personIndex 10 0
+Emeritus O 0 1 li ul list-unbulleted-extra 9 2
+Fellow O 0 0 li ul list-unbulleted-extra 9 2
+
+T O 0 1 h2 div underlined-text 8 0
+
+Andreas B-NAME 1 1 a li personIndex 10 0
+Tiemeyer I-NAME 1 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Researcher O 0 0 li ul list-unbulleted-extra 9 2
+
+Niki B-NAME 1 1 a li personIndex 10 0
+Trigoni I-NAME 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computing O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+V O 0 1 h2 div underlined-text 8 0
+
+Max O 1 1 a li personIndex 10 0
+Van O 1 1 a li personIndex 10 0
+Kleek O 1 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+Jamie O 1 1 a li personIndex 10 0
+Vicary O 1 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Fellow O 0 0 li ul list-unbulleted-extra 9 2
+
+Irina O 1 1 a li personIndex 10 0
+Voiculescu O 1 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Lecturer O 0 0 li ul list-unbulleted-extra 9 2
+
+W O 0 1 h2 div underlined-text 8 0
+
+Helena O 0 1 a li personIndex 10 0
+Webb O 0 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Researcher O 0 0 li ul list-unbulleted-extra 9 2
+
+Jonathan O 0 1 a li personIndex 10 0
+Whiteley O 0 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+Shimon O 1 1 a li personIndex 10 0
+Whiteson O 1 1 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+
+Michael O 1 1 a li personIndex 10 0
+Wooldridge O 1 1 a li personIndex 10 0
+Head O 0 1 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Department O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science, O 0 0 li ul list-unbulleted-extra 9 2
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+James O 1 1 a li personIndex 10 0
+Worrell O 1 1 a li personIndex 10 0
+Professor O 0 0 li ul list-unbulleted-extra 9 2
+of O 0 1 li ul list-unbulleted-extra 9 2
+Computer O 0 0 li ul list-unbulleted-extra 9 2
+Science O 0 0 li ul list-unbulleted-extra 9 2
+
+Z O 0 1 h2 div underlined-text 8 0
+
+Jun O 1 1 a li personIndex 10 0
+Zhao O 1 1 a li personIndex 10 0
+Senior O 0 1 li ul list-unbulleted-extra 9 2
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Fellow O 0 0 li ul list-unbulleted-extra 9 2
+
+Standa O 0 0 a li personIndex 10 0
+Živný O 0 0 a li personIndex 10 0
+Associate O 0 1 li ul list-unbulleted-extra 9 2
+Professor, O 0 0 li ul list-unbulleted-extra 9 2
+Royal O 0 1 li ul list-unbulleted-extra 9 2
+Society O 0 0 li ul list-unbulleted-extra 9 2
+Research O 0 1 li ul list-unbulleted-extra 9 2
+Fellow O 0 0 li ul list-unbulleted-extra 9 2
+
+About O 0 0 h2 div side-menu-title.text-uppercase 8 0
+Us O 0 1 h2 div side-menu-title.text-uppercase 8 0
+
+People O 0 1 li ul active.mobile-menu-source 9 0
+
+Faculty O 0 0 li ul active 11 0
+
+Research O 0 1 li ul active.mobile-menu-source 11 0
+
+Students O 0 0 li ul active.mobile-menu-source 11 0
+
+Admin O 0 0 li ul active.mobile-menu-source 11 0
+& O 0 0 li ul active.mobile-menu-source 11 0
+Support O 0 0 li ul active.mobile-menu-source 11 0
+
+Vacancies O 0 0 li ul side-menu 9 0
+
+History O 0 0 li ul side-menu 9 0
+
+Contact O 0 0 li ul side-menu 9 0
+Us O 0 1 li ul side-menu 9 0
+
+Back O 0 1 div div scroll-to-anchor 7 0
+to O 0 0 div div scroll-to-anchor 7 0
+Top O 0 1 div div scroll-to-anchor 7 0
+
+Calendars O 0 0 li ul site-footer-links 11 0
+
+Internal O 0 0 li ul site-footer-links 11 0
+
+RSS O 0 0 li ul site-footer-links 11 0
+Feeds O 0 0 li ul site-footer-links 11 0
+
+Sitemap O 0 0 li ul site-footer-links 11 0
+
+Privacy O 0 0 li ul site-footer-links 11 0
+& O 0 0 li ul site-footer-links 11 0
+Cookies O 0 0 li ul site-footer-links 11 0
+
+© O 0 0 p div site-footer-copyright 9 0
+University O 0 1 small p site-footer-copyright 10 0
+of O 0 1 small p site-footer-copyright 10 0
+Oxford O 0 1 small p site-footer-copyright 10 0
+
+/people/faculty.html O 0 0 div div site-footer-url 8 3

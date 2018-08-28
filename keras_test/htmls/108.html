@@ -1,0 +1,2439 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+		<meta http-equiv="Pragma" content="no-cache" />
+		<meta http-equiv="Expires" content="0" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+		<meta name="Subject" content="KAIST School of Computing, 카이스트 전산학부 - 컴퓨터공학과 컴퓨터과학(Computer Science & Engineering)을 교육하고 연구하는 국내 최대 규모의 전산학부" /> 
+		<meta name="description" content="KAIST School of Computing, 카이스트 전산학부 - 컴퓨터공학과 컴퓨터과학(Computer Science & Engineering)을 교육하고 연구하는 국내 최대 규모의 전산학부" /> 
+		<meta name="keywords" content="KAIST, School, Computing, Computer, Science, Engineering, 카이스트, 전산학부, 전산, 컴퓨터, 공학, 과학, 인간중심, 컴퓨팅" />
+		<meta property="og:url" content="https://cs.kaist.ac.kr" />
+		<meta property="og:title" content="KAIST School of Computing, 카이스트 전산학부 - 컴퓨터공학과 컴퓨터과학(Computer Science & Engineering)을 교육하고 연구하는 국내 최대 규모의 전산학부" />
+		<meta property="og:image" content="/common/images/facebook_title_logo.jpg" />
+		<meta property="og:site_name" content="KAIST School of Computing, 카이스트 전산학부 - 컴퓨터공학과 컴퓨터과학(Computer Science & Engineering)을 교육하고 연구하는 국내 최대 규모의 전산학부" />
+		<meta property="og:description" content="KAIST School of Computing, 카이스트 전산학부 - 컴퓨터공학과 컴퓨터과학(Computer Science & Engineering)을 교육하고 연구하는 국내 최대 규모의 전산학부" />
+		<meta property="og:updated_time" content="1412567194" />
+		<title>KAIST School of Computing, 카이스트 전산학부 - 컴퓨터공학과 컴퓨터과학(Computer Science & Engineering)을 교육하고 연구하는 국내 최대 규모의 전산학부</title>
+		<link rel="shortcut icon" type="image/x-icon" href="/common/images/favicon.ico" />
+		<link rel="stylesheet" type="text/css" href="/common/css/basic.css">
+		<link rel="stylesheet" type="text/css" href="/common/css/mobile.css">
+		<link rel="stylesheet" type="text/css" href="/common/css/style.css">
+		<link rel="stylesheet" type="text/css" href="/common/css/jquery.timepicker.css">
+		<link href="/common/css/overcast/jquery-ui-1.10.4.custom.min.css" rel="stylesheet">
+		<!-- 페이스북에 올릴시 기본 사용될 이미지 -->
+		<link rel="image_src" href="https://cs.kaist.ac.kr/common/images/facebook_title_logo.jpg" />
+		<script type="text/javascript" src="/common/js/jquery-1.11.1.min.js"></script>
+		<script type="text/javascript" src="/common/js/jquery.timepicker.js"></script>
+		<script type="text/javascript" src="/common/js/jquery-ui-1.10.4.custom.min.js"></script>
+		<script type="text/javascript" src="/common/js/script.js"></script>
+		<script type="text/javascript" src="/common/js/message.js"></script>
+		<script type="text/javascript" src="/common/common.js?rnd=20160223"></script>
+		<!--[if lt IE 9]>
+		<script type="text/javascript" src="/common/js/css3-mediaqueries.js"></script>
+		<script type="text/javascript" src="/common/js/respond.min.js"></script>
+		<![endif]-->
+		<script>
+			
+			var cLang = "en";
+			var mobile = ( navigator.userAgent.match(/iPhone|iPad|iPhone|iPod|Mobile|UP.Browser|Android|BlackBerry|Windows CE|Nokia|webOS|Opera Mini|SonyEricsson|opera mobi|Windows Phone|IEMobile|POLARIS/) != null)?  true : false;
+		
+			var isios = navigator.userAgent.match(/(iPad|iPhone|iPod)/g) ? true : false;
+			if(mobile){
+				if(isios){
+					if(navigator.userAgent.match(/(iPad)/g)){	// iPad
+						document.write("<meta name='viewport' content='width=device-width, initial-scale=0.7, maximum-scale=1.4, minimum-scale=0.7, target-densitydpi=device-dpi' />");
+					
+						$(function () {    
+							var safariMove = false;
+
+							$(document).ready(function(){
+								$(document).on("touchmove", function(e){
+								    safariMove = true;
+								});
+								
+								$(document).on("touchcancel", function(e){
+									safariMove = false;
+								});
+
+								$(document).on("touchend", function(e){
+								    if(!safariMove){
+								        e.target.click();
+								    }
+								    
+								    safariMove = false;
+								});
+							});
+							
+							/*
+						    var timeoutId = 0;
+						    var messageAppeared = false;
+
+						     $('a').on('touchstart', function(event) {
+
+						        event.preventDefault();
+						        timeoutId = setTimeout(function() {           
+
+						            messageAppeared = true;
+
+						        }, 1000);
+
+						    }).on('click touchend touchcancel', function(event) {                                
+
+						        if (messageAppeared) {
+						            event.preventDefault();
+						        } else {
+						            clearTimeout(timeoutId);
+						            if($(this).attr('target') == '_blank'){
+							    		window.open(link,'_blank');
+							    	}else {
+							    		location.href = $(this).attr('href');	
+							    	}
+						        }
+						        messageAppeared = false;        
+						    }); */
+						    
+						    /* $('a').on('click touchend', function(event) {                                
+					            if($(this).attr('target') == '_blank'){
+						    		window.open(link,'_blank');
+						    	}else {
+						    		location.href = $(this).attr('href');	
+						    	}
+						    }); */
+						    
+						});
+						
+					}else {	// iPhone
+						document.write("<meta name='viewport' content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=2.0'>");
+					}
+					
+				}else {	// 기타 모바일 OS
+					document.write("<meta name='viewport' content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=2.0'>");
+				}
+			}
+		</script>
+		<style>
+                body {font-family:Arial,sans-serif;}
+		</style>
+	</head>
+
+<body>
+	<ul class="accessibility">
+		<li><a href="#gnb">주메뉴로 이동</a></li>
+		<li><a href="#cont">메인본문내용으로 이동</a></li>
+		<li><a href="#container">본문내용으로 이동</a></li>
+		<li><a href="#footer">바닥글로 이동</a></li>
+	</ul>
+	<div id="wrap">
+
+<script>
+	   var isMobile = false; 
+	   
+	   $(document).ready(function(){
+            initNavMouse();
+            selectMenu();
+        });
+        
+        $(window).resize(function(){
+            var windowWidth = $(window).width();
+            if(windowWidth > 1049 && isMobile){
+                isMobile = false;
+                selectMenu();
+            }
+            else if(windowWidth < 1050 && !isMobile){
+               isMobile = true; 
+            }
+        });
+        
+	    /** 
+         * 메뉴 마우스 오버 설정
+         */
+        function initNavMouse(){
+            var topMenu = "160";
+            
+            $(".nav_depth_1 > li").mouseover(function(e){
+                // 객체에 마우스 올렸을시
+                var d1 = $(this);
+                var d2 = d1.find(">.nav_depth_2");
+                var menuBgGroup = $(".menu_bg_group");
+                selColor = d1.attr("menu-color");
+                
+                d2.css("padding-left", "");
+                //.css("padding-right", "");
+                $(".nav_depth_2").hide();
+                d1.parent().find("> li").css("background-color", "").css("border-bottom-color", "#000").find(">a").css("color", "#1e1e1e");
+                 
+                if(d2.length > 0){
+                    menuBgGroup.show();
+                }
+                else{
+                    menuBgGroup.hide();
+                }
+                
+                var pl = 325;
+                var mcount = (d2.width() / 145); 
+                if(mcount > 5){
+                    pl = 35 + ((7 - mcount) * 145);
+                }
+               
+                d2.css("padding-left", pl);
+                //d2.css("padding-right", Math.floor(pl/3));
+                
+                d2.show();
+                d1.css("background-color", "#1e1e1e");
+                d1.css("border-bottom-color", "#"+selColor);
+                
+                //var topBgColor = colorToRGBA(selColor, 0.25);
+                $(".top_depth_2").css("background-color", "#"+selColor);
+                $(".top_depth_2").css("opacity", "0.25");
+                
+                d1.find(">a").css("color", "#fff"); 
+                
+                //var menuSelector = $(".menu_selector");
+                //menuSelector.css("background-color", "#"+selColor);
+                offEventBubble(e);
+            }).mouseout(function(e){
+                // 객체에서 마우스가 벗어났을시
+                /*
+                var menuSelector = $(".menu_selector");
+                
+                if($(this).attr("menu_code") == topMenu || $(this).find("li").is("li[menu_code='"+topMenu+"']")){
+                    menuSelector.html((menuSelector.attr("menu_title")).replace("<br />", " "));
+                }
+                else{
+                    menuSelector.html("");
+                }
+                */
+               
+                offEventBubble(e);
+            });
+            
+            // 이 객체에 설정된 특정 함수 제거
+            $(".nav_menu > li a").off("mouseover").off("mouseoff");
+            
+            // 객체에 마우스 오버, 아웃 함수 설정
+            $(".nav_menu .nav_depth_2  li  a").mouseover(function(e){
+                var d2 = $(this);
+                d2.css("color", colorToRGBA(selColor, 1, 50));
+                d2.parent().css("color", colorToRGBA(selColor, 1, 50));
+                
+                offEventBubble(e);
+            }).mouseout(function(e){
+                var d2 = $(this);
+                d2.css("color", "#fff");
+                d2.parent().css("color", "#fff");
+                
+                offEventBubble(e);
+            });
+            
+            /*
+            $(".nav_menu .nav_depth_2 li").mouseover(function(){
+                var d2 = $(this);
+                var menuSelector = $(".menu_selector");
+                menuSelector.html((d2.find(">a").html()).replace("<br>", " "));
+            });
+            */
+           
+            $("#container > .inner").mouseover(function(e){
+                var topMenu = "160";
+                var navDepth1 = $(".nav_depth_1 > li");
+                
+                $.each(navDepth1, function(key, value){
+                    var obj = $(value);
+                    if(obj.attr("menu_code") == topMenu){
+                        obj.mouseover();
+                    }
+                    else if(obj.find("li").is("li[menu_code='"+topMenu+"']")){
+                        obj.mouseover();
+                    }
+                });
+                
+                offEventBubble(e);
+            });
+        }
+        
+        function selectMenu(){
+            var topMenu = "160";
+            var navDepth1 = $(".nav_depth_1 > li");
+            var menuSelector = $(".menu_selector");
+            var pNavi = $("p[class='navi']");
+            pNavi.html("");
+            
+            menuSelector.html((menuSelector.attr("menu_title")).replace("<br />", " "));
+            $(".local > .mark").html((menuSelector.attr("menu_title")).replace("<br />", " "));
+            
+            $.each(navDepth1, function(key, value){
+                var obj = $(value);
+                if(obj.attr("menu_code") == topMenu){
+                    menuSelector.css("background-color", "#"+obj.attr("menu-color"));
+                    
+                    var selectorObj = obj.find(">a");
+                    selectorObj.css("color", colorToRGBA(obj.attr("menu-color"), 1, 50)).off("mouseover").off("mouseout");
+                    obj.mouseover();
+                    
+                    pNavi.append("<a href='#'>"+(selectorObj.html()).replace("<br>", " ")+"</a>");
+                    
+                    var mobileObj = $("li[menu_code='"+obj.attr("menu_code")+"']");
+                    mobileObj.addClass("selected");
+                    $selectMenuItem = mobileObj;
+                    
+                    return;
+                }
+                else if(obj.find("li").is("li[menu_code='"+topMenu+"']")){
+                    menuSelector.css("background-color", "#"+obj.attr("menu-color"));
+                    obj.mouseover();
+                    
+                    var mobileObj = $(".menuList li[menu_code='"+obj.attr("menu_code")+"']");
+                    mobileObj.addClass("selected active");
+                    mobileObj.find("> ul").css("display","block");
+                    $selectMenuItem = mobileObj;
+                    
+                    var rgbaColor = colorToRGBA(obj.attr("menu-color"), 1, 50);
+                    
+                    var selectorObj = obj.find(">a");
+                    pNavi.append("<a href='"+selectorObj.attr("href")+"'>"+(selectorObj.html()).replace("<br>", " ")+"</a>");
+                    
+                    $.each(obj.find("> ul > li"), function(key2, value2){
+                        var obj2 = $(value2);
+                        if(obj2.attr("menu_code") == topMenu){
+                            var aObj2 = obj.find("li[menu_code='"+topMenu+"']").find("> a"); 
+                            aObj2.css("color", rgbaColor).off("mouseover").off("mouseout");
+                            
+                            pNavi.append(" > <a href='"+aObj2.attr("href")+"'>"+(aObj2.html()).replace("<br>", " ")+"</a>");
+                            
+                            var mobileObj = $(".menuList li[menu_code='"+topMenu+"']");
+                            mobileObj.addClass("selected");
+                            $subMenuItem = mobileObj;
+                            
+                            return ;
+                        }
+                        else if(obj2.find("li").is("li[menu_code='"+topMenu+"']")){
+                            var selectorObj = obj2.find("> a");
+                            selectorObj.css("color", rgbaColor).off("mouseover").off("mouseout");
+                            
+                            var selectorObj2 = obj2.find("li[menu_code='"+topMenu+"']");
+                            selectorObj2.css("color", rgbaColor);
+                            var aObj2 = selectorObj2.find("> a"); 
+                            aObj2.css("color", rgbaColor).off("mouseover").off("mouseout");
+                            
+                            pNavi.append(" > <a href='"+selectorObj.attr("href")+"'>"+(selectorObj.html()).replace("<br>", " ")+"</a>");
+                            pNavi.append(" > <a href='"+aObj2.attr("href")+"'>"+(aObj2.html()).replace("<br>", " ")+"</a>");
+                            
+                            var mobileObj = $(".menuList li[menu_code='"+obj2.attr("menu_code")+"']");
+                            mobileObj.addClass("selected active");
+                            mobileObj.find("> ul").css("display","block");
+                            $subMenuItem = mobileObj;
+                            
+                            var mobileObj2 = $(".menuList li[menu_code='"+topMenu+"']");
+                            mobileObj2.addClass("selected");
+                            $lastMenuItem = mobileObj2; 
+                            
+                            return ;
+                        }
+                    });
+                    
+                    return;
+                }
+            });
+        }
+        
+        
+	</script>
+	
+	<!-- web 버전 header 부분 -->
+	<div class="header" id="headWeb">
+		<div class="header_w">
+			<h1><a href="/"><img src="/common/images/header/logo_top.png" alt="KAIST - COMPUTER SCIENCE"  border=0 height="69" style="height: 69px;"/></a></h1>
+			<ul class="headNoti fix">
+				<li><a href="javascript:setLanguage('en' );"><img src="/common/images/header/lang_en.gif"  alt="korea" /></a></li><!-- img_headNoti_english.gif : english 이미지 -->
+				<li><a href="/search/search"><img src="/common/images/header/img_headNoti_search.gif" alt="search" /></a></li>
+					<li><a href='javascript:ssoLogin();'><img src='/common/images/header/img_headNoti_login.gif' alt='login' /></a></li>
+							</ul>
+			<!-- 메뉴 구성 -->
+            <nav class="nav_menu">
+                <ul class="nav_depth_1">
+                    <li menu-color="a66e79" menu_code="80"><a href="/bbs/news" target="_self" navi="News">News</a>
+                        <ul class="nav_depth_2">
+                            <li menu_code="82"><a href="/bbs/notice" target="_self" navi="News > Announcements">Announcements</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="151"><a href="/bbs/notice" target="_self" navi="News > Announcements > CS Announcements">CS Announcements</a>
+                                    </li>
+                                    <li menu_code="149"><a href="http://www.kaist.ac.kr/_prog/_board/?code=ed_notice&site_dvs_cd=en&menu_dvs_cd=0602" target="_blank" navi="News > Announcements > KAIST Notice">KAIST Notice</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="83"><a href="/bbs/news" target="_self" navi="News > News">News</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="84"><a href="/bbs/news/news" target="_self" navi="News > News > School News">School News</a>
+                                    </li>
+                                    <li menu_code="85"><a href="/bbs/news/awards" target="_self" navi="News > News > Awards News">Awards News</a>
+                                    </li>
+                                    <li menu_code="104"><a href="/bbs/news/research" target="_self" navi="News > News > Research News">Research News</a>
+                                    </li>
+                                    <li menu_code="37"><a href="/spotlights/education" target="_self" navi="News > News > Education News">Education News</a>
+                                    </li>
+                                    <li menu_code="196"><a href="/bbs/news/soc" target="_self" navi="News > News > On Media">On Media</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="139"><a href="/spotlights/people" target="_self" navi="News > People News">People News</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="159"><a href="/spotlights/faculty" target="_self" navi="News > People News > Faculty News">Faculty News</a>
+                                    </li>
+                                    <li menu_code="20"><a href="/spotlights/student" target="_self" navi="News > People News > Students News">Students News</a>
+                                    </li>
+                                    <li menu_code="105"><a href="/spotlights/alumni" target="_self" navi="News > People News > Alumni News">Alumni News</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="86"><a href="/bbs/events" target="_self" navi="News > Events">Events</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="87"><a href="/bbs/events/seminars" target="_self" navi="News > Events > Seminars">Seminars</a>
+                                    </li>
+                                    <li menu_code="88"><a href="/bbs/events/colloquiums" target="_self" navi="News > Events > Colloquiums">Colloquiums</a>
+                                    </li>
+                                    <li menu_code="89"><a href="/bbs/events/ph_d_defenses" target="_self" navi="News > Events > Ph.D. Defenses">Ph.D. Defenses</a>
+                                    </li>
+                                    <li menu_code="147"><a href="/bbs/events/etc" target="_self" navi="News > Events > Others">Others</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="81"><a href="/news/calendar" target="_self" navi="News > Events Calendar">Events Calendar</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li menu-color="7e9600" menu_code="55"><a href="/content?menu=57" target="_self" navi="Research">Research</a>
+                        <ul class="nav_depth_2">
+                            <li menu_code="57"><a href="/content?menu=57" target="_self" navi="Research > Research Areas">Research Areas</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="64"><a href="/research/labs" target="_self" navi="Research > Research Areas > All Research Labs">All Research Labs</a>
+                                    </li>
+                                    <li menu_code="65"><a href="/research/foundation" target="_self" navi="Research > Research Areas > Foundations">Foundations</a>
+                                    </li>
+                                    <li menu_code="66"><a href="/research/design" target="_self" navi="Research > Research Areas > Design">Design</a>
+                                    </li>
+                                    <li menu_code="197"><a href="/research/securecom" target="_self" navi="Research > Research Areas > Secure Computing">Secure Computing</a>
+                                    </li>
+                                    <li menu_code="67"><a href="/research/visualcom" target="_self" navi="Research > Research Areas > Visual Computing">Visual Computing</a>
+                                    </li>
+                                    <li menu_code="68"><a href="/research/infoservice" target="_self" navi="Research > Research Areas > Information Service">Information Service</a>
+                                    </li>
+                                    <li menu_code="69"><a href="/research/socialcom" target="_self" navi="Research > Research Areas > Social Computing">Social Computing</a>
+                                    </li>
+                                    <li menu_code="70"><a href="/research/interaccom" target="_self" navi="Research > Research Areas > Interactive Computing">Interactive Computing</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="71"><a href="/research/rndCenter" target="_self" navi="Research > Research &<br />Development">Research &<br />Development</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="72"><a href="/research/rndCenter" target="_self" navi="Research > Research &<br />Development > Research Centers">Research Centers</a>
+                                    </li>
+                                    <li menu_code="73"><a href="/research/partnership" target="_self" navi="Research > Research &<br />Development > Research Partnership">Research Partnership</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="74"><a href="/content?menu=75" target="_self" navi="Research > Publications">Publications</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="75"><a href="/research/paper" target="_self" navi="Research > Publications > Paper">Paper</a>
+                                    </li>
+                                    <li menu_code="76"><a href="/research/techReport" target="_self" navi="Research > Publications > Technical Report">Technical Report</a>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </li>
+                    <li menu-color="c08d00" menu_code="36"><a href="/content?menu=188" target="_self" navi="Education">Education</a>
+                        <ul class="nav_depth_2">
+                            <li menu_code="190"><a href="https://cs.kaist.ac.kr/content?menu=188" target="_self" navi="Education > Academic Program">Academic Program</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="188"><a href="/content?menu=188" target="_self" navi="Education > Academic Program > CS Programs">CS Programs</a>
+                                    </li>
+                                    <li menu_code="145"><a href="/content?menu=145" target="_self" navi="Education > Academic Program > Int'l Programs">Int'l Programs</a>
+                                        <ul class="nav_depth_4">
+                                            <li menu_code="222"><a href="/content?menu=222" target="_self" navi="Education > Academic Program > Int'l Programs > DTU/TUB Program">DTU/TUB Program</a></li>
+                                            <li menu_code="223"><a href="/content?menu=223" target="_self" navi="Education > Academic Program > Int'l Programs > KAIST-CQUT Prog.">KAIST-CQUT Prog.</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="44"><a href="/education/undergraduate" target="_self" navi="Education > Courses">Courses</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="45"><a href="/education/undergraduate" target="_self" navi="Education > Courses > Undergraduate">Undergraduate</a>
+                                    </li>
+                                    <li menu_code="46"><a href="/education/graduate" target="_self" navi="Education > Courses > Graduate">Graduate</a>
+                                    </li>
+                                    <li menu_code="47"><a href="/education/schedules" target="_self" navi="Education > Courses > Class Schedules">Class Schedules</a>
+                                    </li>
+                                    <li menu_code="48"><a href="/education/officehour" target="_self" navi="Education > Courses > Office Hour">Office Hour</a>
+                                    </li>
+                                    <li menu_code="156"><a href="http://bulletin.kaist.ac.kr/html/en/?year=2016&id=en20161220&file=C" target="_blank" navi="Education > Courses > Grad. Requirements">Grad. Requirements</a>
+                                        <ul class="nav_depth_4">
+                                            <li menu_code="192"><a href="/content?menu=192" target="_self" navi="Education > Courses > Grad. Requirements > Ph.D. QE">Ph.D. QE</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="173"><a href="https://cs.kaist.ac.kr/content?menu=174" target="_self" navi="Education > Information">Information</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="174"><a href="/content?menu=174" target="_self" navi="Education > Information > Life & Welfare">Life & Welfare</a>
+                                    </li>
+                                    <li menu_code="183"><a href="/content?menu=183" target="_self" navi="Education > Information > Student Clubs">Student Clubs</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="43"><a href="/education/academiccalendar" target="_self" navi="Education > Academic<br />Calendar">Academic<br />Calendar</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li menu-color="c36743" menu_code="200"><a href="/content?menu=200" target="_self" navi="Admissions">Admissions</a>
+                        <ul class="nav_depth_2">
+                            <li menu_code="41"><a href="/content?menu=41" target="_self" navi="Admissions > Graduate">Graduate</a>
+                            </li>
+                            <li menu_code="40"><a href="/content?menu=40" target="_self" navi="Admissions > Undergraduate">Undergraduate</a>
+                            </li>
+                            <li menu_code="42"><a href="/content?menu=42" target="_self" navi="Admissions > Scholarship">Scholarship</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li menu-color="50967c" menu_code="7"><a href="/people/faculty" target="_self" navi="People">People</a>
+                        <ul class="nav_depth_2">
+                            <li menu_code="160"><a href="/people/faculty" target="_self" navi="People > Faculty">Faculty</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="167"><a href="/people/facultyFoundations" target="_self" navi="People > Faculty > Foundations">Foundations</a>
+                                    </li>
+                                    <li menu_code="168"><a href="/people/facultyDesign" target="_self" navi="People > Faculty > Design">Design</a>
+                                    </li>
+                                    <li menu_code="199"><a href="/people/facultySecureComputing" target="_self" navi="People > Faculty > Secure Computing">Secure Computing</a>
+                                    </li>
+                                    <li menu_code="169"><a href="/people/facultyVisualComputing" target="_self" navi="People > Faculty > Visual Computing">Visual Computing</a>
+                                    </li>
+                                    <li menu_code="170"><a href="/people/facultyInformationService" target="_self" navi="People > Faculty > Information Service">Information Service</a>
+                                    </li>
+                                    <li menu_code="171"><a href="/people/facultySocialComputing" target="_self" navi="People > Faculty > Social Computing">Social Computing</a>
+                                    </li>
+                                    <li menu_code="172"><a href="/people/facultyInteractiveComputing" target="_self" navi="People > Faculty > Interactive Computing">Interactive Computing</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="25"><a href="/people/staff" target="_self" navi="People > Staff">Staff</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="178"><a href="/people/staffresearch" target="_self" navi="People > Staff > Staff">Staff</a>
+                                        <ul class="nav_depth_4">
+                                            <li menu_code="26"><a href="/people/administration" target="_self" navi="People > Staff > Staff > Administration">Administration</a></li>
+                                            <li menu_code="27"><a href="/people/academic" target="_self" navi="People > Staff > Staff > Academic Affairs">Academic Affairs</a></li>
+                                            <li menu_code="28"><a href="/people/admission" target="_self" navi="People > Staff > Staff > Admisson">Admisson</a></li>
+                                            <li menu_code="30"><a href="/people/facilities" target="_self" navi="People > Staff > Staff > Facilities">Facilities</a></li>
+                                            <li menu_code="180"><a href="/people/funding" target="_self" navi="People > Staff > Staff > Funding">Funding</a></li>
+                                        </ul>
+                                    </li>
+                                    <li menu_code="18"><a href="/people/researchers" target="_self" navi="People > Staff > Researchers">Researchers</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="181"><a href="/people/students" target="_self" navi="People > Students">Students</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="22"><a href="/people/phdstudents" target="_self" navi="People > Students > Ph.D. Students">Ph.D. Students</a>
+                                    </li>
+                                    <li menu_code="23"><a href="/people/msstudents" target="_self" navi="People > Students > M.S. Students">M.S. Students</a>
+                                    </li>
+                                    <li menu_code="24"><a href="/people/ugstudents" target="_self" navi="People > Students > Undergraduates">Undergraduates</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="8"><a href="/people/schPeople" target="_self" navi="People > Search People">Search People</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li menu-color="708fcf" menu_code="1"><a href="/content?menu=133" target="_self" navi="About">About</a>
+                        <ul class="nav_depth_2">
+                            <li menu_code="133"><a href="/content?menu=133" target="_self" navi="About > Introduction">Introduction</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="134"><a href="/content?menu=134" target="_self" navi="About > Introduction > Welcome Message">Welcome Message</a>
+                                    </li>
+                                    <li menu_code="3"><a href="/cstimeline" target="_self" navi="About > Introduction > Timeline">Timeline</a>
+                                    </li>
+                                    <li menu_code="50"><a href="/content?menu=50" target="_self" navi="About > Introduction > Environments">Environments</a>
+                                    </li>
+                                    <li menu_code="204"><a href="/bbs/annualreport" target="_self" navi="About > Introduction > Annual Report">Annual Report</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="138"><a href="/content?menu=138" target="_self" navi="About > Contact">Contact</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="4"><a href="/content?menu=4" target="_self" navi="About > Contact > Directions">Directions</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="132"><a href="/content?menu=132" target="_self" navi="About > Donation">Donation</a>
+                            </li>
+                            <li menu_code="9"><a href="/content?menu=9" target="_self" navi="About > Faculty Recruiting">Faculty Recruiting</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li menu-color="9075a0" menu_code="90"><a href="/content?menu=108" target="_self" navi="Resources">Resources</a>
+                        <ul class="nav_depth_2">
+                            <li menu_code="107"><a href="/content?menu=108" target="_self" navi="Resources > Facilities">Facilities</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="108"><a href="/content?menu=108" target="_self" navi="Resources > Facilities > Overview">Overview</a>
+                                    </li>
+                                    <li menu_code="109"><a href="/content?menu=95" target="_self" navi="Resources > Facilities > Facility Reservation">Facility Reservation</a>
+                                        <ul class="nav_depth_4">
+                                            <li menu_code="94"><a href="/resources/currentreservation" target="_self" navi="Resources > Facilities > Facility Reservation > Reservation Status">Reservation Status</a></li>
+                                            <li menu_code="95"><a href="/resources/seminarroom" target="_self" navi="Resources > Facilities > Facility Reservation > Seminar Room">Seminar Room</a></li>
+                                            <li menu_code="123"><a href="/resources/lectureroom" target="_self" navi="Resources > Facilities > Facility Reservation > Lecture Room">Lecture Room</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="110"><a href="/content?menu=110" target="_self" navi="Resources > Administration">Administration</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="112"><a href="http://form.kaist.ac.kr/index_eng.aspx" target="_blank" navi="Resources > Administration > KAIST Forms">KAIST Forms</a>
+                                    </li>
+                                    <li menu_code="186"><a href="/news/error" target="_self" navi="Resources > Administration > Error Report">Error Report</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="117"><a href="/bbs/related" target="_self" navi="Resources > Links">Links</a>
+                                <ul class="nav_depth_3">
+                                    <li menu_code="187"><a href="/bbs/related" target="_self" navi="Resources > Links > CS Related Sites">CS Related Sites</a>
+                                    </li>
+                                    <li menu_code="119"><a href="https://www.facebook.com/groups/kaistcomputerscience/" target="_blank" navi="Resources > Links > CS Facebook">CS Facebook</a>
+                                    </li>
+                                    <li menu_code="118"><a href="https://twitter.com/kaistcsdept" target="_blank" navi="Resources > Links > CS Twitter">CS Twitter</a>
+                                    </li>
+                                    <li menu_code="121"><a href="http://noah.kaist.ac.kr/" target="_blank" navi="Resources > Links > NOAH Board">NOAH Board</a>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li menu_code="122"><a href="/bbs/stgallery" target="_self" navi="Resources > Photo Albums">Photo Albums</a>
+                            </li>
+                            <li menu_code="184"><a href="/bbs/materials" target="_self" navi="Resources > Publicity">Publicity</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                <div class="bg_group">
+                    <div class="menu_bg_group" style="display:none;">
+                        <div class="bg_depth_2"></div>
+                        <div class="top_depth_2"></div>
+                        <h2 class="menu_selector" menu_title="Faculty"></h2>
+                    </div>
+                </div>
+            </nav>
+		</div><!-- header_w -->
+	</div><!-- header -->
+
+	<!-- mobile 버전 header 부분 -->
+	<div class="header" id="headMobile">
+		<div class="header_m fix">
+			<button type="button" class="menuBtn" id="menuBtn"><img src="/common/images/header/btn_menu.gif" alt="메뉴" style="height:45px; width:45px;" /></button>
+			<div class="hlogo" onclick="location.href='/'"><img src="/common/images/header/h1_logo_m.gif" alt="KAIST - COMPUTER SCIENCE" style="height: 24px;"/></div>
+			<div class="bnt">
+				<button type="button" onclick="setLanguage('en');"><img src="/common/images/header/img_headNoti_en_m.png" alt="en" /></button>
+				<button type="button" onclick="location.href='/search/search'"><img src="/common/images/header/img_headNoti_search_m.gif" alt="search" /></button>
+					<button type='button' onclick='ssoLogin();'><img src='/common/images/header/img_headNoti_login_m.gif' alt='login' /></button>
+			</div>
+		</div><!-- header_m -->
+		<!-- mobile 버전 메뉴 펼침 시 나오는 부분 -->
+		<div class="menu">
+    		<div class="header_m fix">
+    			<button type="button" class="menuBtn" id="menuBtnOn"><img src="/common/images/header/btn_menu_on.gif" height="45" alt="메뉴" /></button>
+    			<div class="hlogo" onclick="location.href='/'"><img src="/common/images/header/h1_logo_m_on.gif" alt="KAIST - COMPUTER SCIENCE" style="height:24px;"/></div>
+    		</div><!-- header_m -->
+    		<ul class="menuList">
+    			<li><a href="/">Home</a></li>
+    			<li class="bg" menu_code="80"><a href="/bbs/news" navi="News">News</a>
+                    <ul class="subMenu">
+                        <li class="bg" menu_code="82"><a href="/bbs/notice" navi="News > Announcements">ㆍAnnouncements</a>
+                            <ul>
+                                <li menu_code="151"><a href="/bbs/notice" navi="News > Announcements > CS Announcements"> <span>ㆍㆍ</span> CS Announcements</a>
+                                </li>
+                                <li menu_code="149"><a href="http://www.kaist.ac.kr/_prog/_board/?code=ed_notice&site_dvs_cd=en&menu_dvs_cd=0602" navi="News > Announcements > KAIST Notice"> <span>ㆍㆍ</span> KAIST Notice</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="83"><a href="/bbs/news" navi="News > News">ㆍNews</a>
+                            <ul>
+                                <li menu_code="84"><a href="/bbs/news/news" navi="News > News > School News"> <span>ㆍㆍ</span> School News</a>
+                                </li>
+                                <li menu_code="85"><a href="/bbs/news/awards" navi="News > News > Awards News"> <span>ㆍㆍ</span> Awards News</a>
+                                </li>
+                                <li menu_code="104"><a href="/bbs/news/research" navi="News > News > Research News"> <span>ㆍㆍ</span> Research News</a>
+                                </li>
+                                <li menu_code="37"><a href="/spotlights/education" navi="News > News > Education News"> <span>ㆍㆍ</span> Education News</a>
+                                </li>
+                                <li menu_code="196"><a href="/bbs/news/soc" navi="News > News > On Media"> <span>ㆍㆍ</span> On Media</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="139"><a href="/spotlights/people" navi="News > People News">ㆍPeople News</a>
+                            <ul>
+                                <li menu_code="159"><a href="/spotlights/faculty" navi="News > People News > Faculty News"> <span>ㆍㆍ</span> Faculty News</a>
+                                </li>
+                                <li menu_code="20"><a href="/spotlights/student" navi="News > People News > Students News"> <span>ㆍㆍ</span> Students News</a>
+                                </li>
+                                <li menu_code="105"><a href="/spotlights/alumni" navi="News > People News > Alumni News"> <span>ㆍㆍ</span> Alumni News</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="86"><a href="/bbs/events" navi="News > Events">ㆍEvents</a>
+                            <ul>
+                                <li menu_code="87"><a href="/bbs/events/seminars" navi="News > Events > Seminars"> <span>ㆍㆍ</span> Seminars</a>
+                                </li>
+                                <li menu_code="88"><a href="/bbs/events/colloquiums" navi="News > Events > Colloquiums"> <span>ㆍㆍ</span> Colloquiums</a>
+                                </li>
+                                <li menu_code="89"><a href="/bbs/events/ph_d_defenses" navi="News > Events > Ph.D. Defenses"> <span>ㆍㆍ</span> Ph.D. Defenses</a>
+                                </li>
+                                <li menu_code="147"><a href="/bbs/events/etc" navi="News > Events > Others"> <span>ㆍㆍ</span> Others</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li  menu_code="81"><a href="/news/calendar" navi="News > Events Calendar">ㆍEvents Calendar</a>
+                        </li>
+                    </ul>
+                </li>
+    			<li class="bg" menu_code="55"><a href="/content?menu=57" navi="Research">Research</a>
+                    <ul class="subMenu">
+                        <li class="bg" menu_code="57"><a href="/content?menu=57" navi="Research > Research Areas">ㆍResearch Areas</a>
+                            <ul>
+                                <li menu_code="64"><a href="/research/labs" navi="Research > Research Areas > All Research Labs"> <span>ㆍㆍ</span> All Research Labs</a>
+                                </li>
+                                <li menu_code="65"><a href="/research/foundation" navi="Research > Research Areas > Foundations"> <span>ㆍㆍ</span> Foundations</a>
+                                </li>
+                                <li menu_code="66"><a href="/research/design" navi="Research > Research Areas > Design"> <span>ㆍㆍ</span> Design</a>
+                                </li>
+                                <li menu_code="197"><a href="/research/securecom" navi="Research > Research Areas > Secure Computing"> <span>ㆍㆍ</span> Secure Computing</a>
+                                </li>
+                                <li menu_code="67"><a href="/research/visualcom" navi="Research > Research Areas > Visual Computing"> <span>ㆍㆍ</span> Visual Computing</a>
+                                </li>
+                                <li menu_code="68"><a href="/research/infoservice" navi="Research > Research Areas > Information Service"> <span>ㆍㆍ</span> Information Service</a>
+                                </li>
+                                <li menu_code="69"><a href="/research/socialcom" navi="Research > Research Areas > Social Computing"> <span>ㆍㆍ</span> Social Computing</a>
+                                </li>
+                                <li menu_code="70"><a href="/research/interaccom" navi="Research > Research Areas > Interactive Computing"> <span>ㆍㆍ</span> Interactive Computing</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="71"><a href="/research/rndCenter" navi="Research > Research &<br />Development">ㆍResearch & Development</a>
+                            <ul>
+                                <li menu_code="72"><a href="/research/rndCenter" navi="Research > Research &<br />Development > Research Centers"> <span>ㆍㆍ</span> Research Centers</a>
+                                </li>
+                                <li menu_code="73"><a href="/research/partnership" navi="Research > Research &<br />Development > Research Partnership"> <span>ㆍㆍ</span> Research Partnership</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="74"><a href="/content?menu=75" navi="Research > Publications">ㆍPublications</a>
+                            <ul>
+                                <li menu_code="75"><a href="/research/paper" navi="Research > Publications > Paper"> <span>ㆍㆍ</span> Paper</a>
+                                </li>
+                                <li menu_code="76"><a href="/research/techReport" navi="Research > Publications > Technical Report"> <span>ㆍㆍ</span> Technical Report</a>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </li>
+    			<li class="bg" menu_code="36"><a href="/content?menu=188" navi="Education">Education</a>
+                    <ul class="subMenu">
+                        <li class="bg" menu_code="190"><a href="https://cs.kaist.ac.kr/content?menu=188" navi="Education > Academic Program">ㆍAcademic Program</a>
+                            <ul>
+                                <li menu_code="188"><a href="/content?menu=188" navi="Education > Academic Program > CS Programs"> <span>ㆍㆍ</span> CS Programs</a>
+                                </li>
+                                <li menu_code="145"><a href="/content?menu=145" navi="Education > Academic Program > Int'l Programs"> <span>ㆍㆍ</span> Int'l Programs</a>
+                                    <ul>
+                                        <li menu_code="222"><a href="/content?menu=222" navi="Education > Academic Program > Int'l Programs > DTU/TUB Program"><span>ㆍㆍㆍ</span> DTU/TUB Program</a></li>
+                                        <li menu_code="223"><a href="/content?menu=223" navi="Education > Academic Program > Int'l Programs > KAIST-CQUT Prog."><span>ㆍㆍㆍ</span> KAIST-CQUT Prog.</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="44"><a href="/education/undergraduate" navi="Education > Courses">ㆍCourses</a>
+                            <ul>
+                                <li menu_code="45"><a href="/education/undergraduate" navi="Education > Courses > Undergraduate"> <span>ㆍㆍ</span> Undergraduate</a>
+                                </li>
+                                <li menu_code="46"><a href="/education/graduate" navi="Education > Courses > Graduate"> <span>ㆍㆍ</span> Graduate</a>
+                                </li>
+                                <li menu_code="47"><a href="/education/schedules" navi="Education > Courses > Class Schedules"> <span>ㆍㆍ</span> Class Schedules</a>
+                                </li>
+                                <li menu_code="48"><a href="/education/officehour" navi="Education > Courses > Office Hour"> <span>ㆍㆍ</span> Office Hour</a>
+                                </li>
+                                <li menu_code="156"><a href="http://bulletin.kaist.ac.kr/html/en/?year=2016&id=en20161220&file=C" navi="Education > Courses > Grad. Requirements"> <span>ㆍㆍ</span> Grad. Requirements</a>
+                                    <ul>
+                                        <li menu_code="192"><a href="/content?menu=192" navi="Education > Courses > Grad. Requirements > Ph.D. QE"><span>ㆍㆍㆍ</span> Ph.D. QE</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="173"><a href="https://cs.kaist.ac.kr/content?menu=174" navi="Education > Information">ㆍInformation</a>
+                            <ul>
+                                <li menu_code="174"><a href="/content?menu=174" navi="Education > Information > Life & Welfare"> <span>ㆍㆍ</span> Life & Welfare</a>
+                                </li>
+                                <li menu_code="183"><a href="/content?menu=183" navi="Education > Information > Student Clubs"> <span>ㆍㆍ</span> Student Clubs</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li  menu_code="43"><a href="/education/academiccalendar" navi="Education > Academic<br />Calendar">ㆍAcademic Calendar</a>
+                        </li>
+                    </ul>
+                </li>
+    			<li class="bg" menu_code="200"><a href="/content?menu=200" navi="Admissions">Admissions</a>
+                    <ul class="subMenu">
+                        <li  menu_code="41"><a href="/content?menu=41" navi="Admissions > Graduate">ㆍGraduate</a>
+                        </li>
+                        <li  menu_code="40"><a href="/content?menu=40" navi="Admissions > Undergraduate">ㆍUndergraduate</a>
+                        </li>
+                        <li  menu_code="42"><a href="/content?menu=42" navi="Admissions > Scholarship">ㆍScholarship</a>
+                        </li>
+                    </ul>
+                </li>
+    			<li class="bg" menu_code="7"><a href="/people/faculty" navi="People">People</a>
+                    <ul class="subMenu">
+                        <li class="bg" menu_code="160"><a href="/people/faculty" navi="People > Faculty">ㆍFaculty</a>
+                            <ul>
+                                <li menu_code="167"><a href="/people/facultyFoundations" navi="People > Faculty > Foundations"> <span>ㆍㆍ</span> Foundations</a>
+                                </li>
+                                <li menu_code="168"><a href="/people/facultyDesign" navi="People > Faculty > Design"> <span>ㆍㆍ</span> Design</a>
+                                </li>
+                                <li menu_code="199"><a href="/people/facultySecureComputing" navi="People > Faculty > Secure Computing"> <span>ㆍㆍ</span> Secure Computing</a>
+                                </li>
+                                <li menu_code="169"><a href="/people/facultyVisualComputing" navi="People > Faculty > Visual Computing"> <span>ㆍㆍ</span> Visual Computing</a>
+                                </li>
+                                <li menu_code="170"><a href="/people/facultyInformationService" navi="People > Faculty > Information Service"> <span>ㆍㆍ</span> Information Service</a>
+                                </li>
+                                <li menu_code="171"><a href="/people/facultySocialComputing" navi="People > Faculty > Social Computing"> <span>ㆍㆍ</span> Social Computing</a>
+                                </li>
+                                <li menu_code="172"><a href="/people/facultyInteractiveComputing" navi="People > Faculty > Interactive Computing"> <span>ㆍㆍ</span> Interactive Computing</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="25"><a href="/people/staff" navi="People > Staff">ㆍStaff</a>
+                            <ul>
+                                <li menu_code="178"><a href="/people/staffresearch" navi="People > Staff > Staff"> <span>ㆍㆍ</span> Staff</a>
+                                    <ul>
+                                        <li menu_code="26"><a href="/people/administration" navi="People > Staff > Staff > Administration"><span>ㆍㆍㆍ</span> Administration</a></li>
+                                        <li menu_code="27"><a href="/people/academic" navi="People > Staff > Staff > Academic Affairs"><span>ㆍㆍㆍ</span> Academic Affairs</a></li>
+                                        <li menu_code="28"><a href="/people/admission" navi="People > Staff > Staff > Admisson"><span>ㆍㆍㆍ</span> Admisson</a></li>
+                                        <li menu_code="30"><a href="/people/facilities" navi="People > Staff > Staff > Facilities"><span>ㆍㆍㆍ</span> Facilities</a></li>
+                                        <li menu_code="180"><a href="/people/funding" navi="People > Staff > Staff > Funding"><span>ㆍㆍㆍ</span> Funding</a></li>
+                                    </ul>
+                                </li>
+                                <li menu_code="18"><a href="/people/researchers" navi="People > Staff > Researchers"> <span>ㆍㆍ</span> Researchers</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="181"><a href="/people/students" navi="People > Students">ㆍStudents</a>
+                            <ul>
+                                <li menu_code="22"><a href="/people/phdstudents" navi="People > Students > Ph.D. Students"> <span>ㆍㆍ</span> Ph.D. Students</a>
+                                </li>
+                                <li menu_code="23"><a href="/people/msstudents" navi="People > Students > M.S. Students"> <span>ㆍㆍ</span> M.S. Students</a>
+                                </li>
+                                <li menu_code="24"><a href="/people/ugstudents" navi="People > Students > Undergraduates"> <span>ㆍㆍ</span> Undergraduates</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li  menu_code="8"><a href="/people/schPeople" navi="People > Search People">ㆍSearch People</a>
+                        </li>
+                    </ul>
+                </li>
+    			<li class="bg" menu_code="1"><a href="/content?menu=133" navi="About">About</a>
+                    <ul class="subMenu">
+                        <li class="bg" menu_code="133"><a href="/content?menu=133" navi="About > Introduction">ㆍIntroduction</a>
+                            <ul>
+                                <li menu_code="134"><a href="/content?menu=134" navi="About > Introduction > Welcome Message"> <span>ㆍㆍ</span> Welcome Message</a>
+                                </li>
+                                <li menu_code="3"><a href="/cstimeline" navi="About > Introduction > Timeline"> <span>ㆍㆍ</span> Timeline</a>
+                                </li>
+                                <li menu_code="50"><a href="/content?menu=50" navi="About > Introduction > Environments"> <span>ㆍㆍ</span> Environments</a>
+                                </li>
+                                <li menu_code="204"><a href="/bbs/annualreport" navi="About > Introduction > Annual Report"> <span>ㆍㆍ</span> Annual Report</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="138"><a href="/content?menu=138" navi="About > Contact">ㆍContact</a>
+                            <ul>
+                                <li menu_code="4"><a href="/content?menu=4" navi="About > Contact > Directions"> <span>ㆍㆍ</span> Directions</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li  menu_code="132"><a href="/content?menu=132" navi="About > Donation">ㆍDonation</a>
+                        </li>
+                        <li  menu_code="9"><a href="/content?menu=9" navi="About > Faculty Recruiting">ㆍFaculty Recruiting</a>
+                        </li>
+                    </ul>
+                </li>
+    			<li class="bg" menu_code="90"><a href="/content?menu=108" navi="Resources">Resources</a>
+                    <ul class="subMenu">
+                        <li class="bg" menu_code="107"><a href="/content?menu=108" navi="Resources > Facilities">ㆍFacilities</a>
+                            <ul>
+                                <li menu_code="108"><a href="/content?menu=108" navi="Resources > Facilities > Overview"> <span>ㆍㆍ</span> Overview</a>
+                                </li>
+                                <li menu_code="109"><a href="/content?menu=95" navi="Resources > Facilities > Facility Reservation"> <span>ㆍㆍ</span> Facility Reservation</a>
+                                    <ul>
+                                        <li menu_code="94"><a href="/resources/currentreservation" navi="Resources > Facilities > Facility Reservation > Reservation Status"><span>ㆍㆍㆍ</span> Reservation Status</a></li>
+                                        <li menu_code="95"><a href="/resources/seminarroom" navi="Resources > Facilities > Facility Reservation > Seminar Room"><span>ㆍㆍㆍ</span> Seminar Room</a></li>
+                                        <li menu_code="123"><a href="/resources/lectureroom" navi="Resources > Facilities > Facility Reservation > Lecture Room"><span>ㆍㆍㆍ</span> Lecture Room</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="110"><a href="/content?menu=110" navi="Resources > Administration">ㆍAdministration</a>
+                            <ul>
+                                <li menu_code="112"><a href="http://form.kaist.ac.kr/index_eng.aspx" navi="Resources > Administration > KAIST Forms"> <span>ㆍㆍ</span> KAIST Forms</a>
+                                </li>
+                                <li menu_code="186"><a href="/news/error" navi="Resources > Administration > Error Report"> <span>ㆍㆍ</span> Error Report</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="bg" menu_code="117"><a href="/bbs/related" navi="Resources > Links">ㆍLinks</a>
+                            <ul>
+                                <li menu_code="187"><a href="/bbs/related" navi="Resources > Links > CS Related Sites"> <span>ㆍㆍ</span> CS Related Sites</a>
+                                </li>
+                                <li menu_code="119"><a href="https://www.facebook.com/groups/kaistcomputerscience/" navi="Resources > Links > CS Facebook"> <span>ㆍㆍ</span> CS Facebook</a>
+                                </li>
+                                <li menu_code="118"><a href="https://twitter.com/kaistcsdept" navi="Resources > Links > CS Twitter"> <span>ㆍㆍ</span> CS Twitter</a>
+                                </li>
+                                <li menu_code="121"><a href="http://noah.kaist.ac.kr/" navi="Resources > Links > NOAH Board"> <span>ㆍㆍ</span> NOAH Board</a>
+                                </li>
+                            </ul>
+                        </li>
+                        <li  menu_code="122"><a href="/bbs/stgallery" navi="Resources > Photo Albums">ㆍPhoto Albums</a>
+                        </li>
+                        <li  menu_code="184"><a href="/bbs/materials" navi="Resources > Publicity">ㆍPublicity</a>
+                        </li>
+                    </ul>
+                </li>
+    		</ul>
+		</div>
+	</div><!-- header headMobile -->
+		
+        <div id="div_container" style="background:#d2d2d2 url(/common/images/header/main_bg_pattern.jpg) center top repeat-x;">
+            
+            <div id="container" class="people" style="background:url(/upload_files/main/20141003_542e216f31afb.jpg) center top no-repeat;">
+				<div class="local">
+					<p class="mark">Directions</p>
+				</div>
+				<div class="inner">
+				
+<script>
+$(document).ready(function() {  
+    // $("#bbs_level_list option:eq(9)").attr("selected", "selected");   
+    //  $('input:checkbox[name="yoil[]"]:input[value=]').attr("checked", true);
+});
+
+
+$(function(){
+	$(".searchSort").find("button").click(function(){
+        $("#gubun").val( $(this).val() ) ;
+        $("#frm").submit() ;
+    })
+});
+
+function jumpShow(lang){
+	if(lang == "en"){
+		$("#jump_ko").hide();
+        $("#jump_en").show();
+	}else if(lang == "ko"){
+		$("#jump_en").hide();
+        $("#jump_ko").show();
+	}
+	
+    $("#radio_"+lang).attr("checked", true);
+    $("#gubun_lang").val(lang);
+}
+
+function facultyView(idx, top_num){
+    document.location.href="/people/view?idx="+idx+"&kind=faculty&menu="+top_num;
+}
+
+function changeRA(code){
+	if(code == 'A'){
+		location.href = '/people/facultyFoundations';
+	}else if(code == 'B'){
+		location.href = '/people/facultyDesign';
+	}else if(code == 'C'){
+		location.href = '/people/facultyVisualComputing';
+	}else if(code == 'D'){
+		location.href = '/people/facultyInformationService';
+	}else if(code == 'E'){
+		location.href = '/people/facultySocialComputing';
+	}else if(code == 'F'){
+		location.href = '/people/facultyInteractiveComputing';
+	}else if(code == 'G'){
+		location.href = '/people/facultySecureComputing';	
+	}else {
+		location.href = '/people/faculty';	
+	}
+}
+
+</script>
+
+<p class="navi">Home &gt; People &gt; Faculty</p>
+
+<form name="frm"  id="frm"  method="get"  action="/people/faculty">
+<input type="hidden"  id="kind"  name="kind"  value=""  maxlength="10">
+<input type="hidden"  id="gubun"  name="gubun"  value=""  maxlength="2">
+<input type="hidden"  id="gubun_lang"  name="gubun_lang"  value="en"  maxlength="2">
+<input type="hidden"  id="research_area"  name="research_area"  value=""  maxlength="2">
+
+<fieldset class="searchBox">
+<legend>검색</legend>
+   	<div class="selectBox2">
+	<p class="default">All</p>
+	<button type="button" class="btn_selectList"></button>
+	<ul class="selectList" style="display: none;">
+		<li onclick="changeRA('')"><button type="button">All</button></li>
+		<li onclick="changeRA('A')"><button type="button">Foundations</button></li>
+		<li onclick="changeRA('B')"><button type="button">Design</button></li>
+		<li onclick="changeRA('C')"><button type="button">Visual Computing</button></li>
+		<li onclick="changeRA('D')"><button type="button">Intelligent·Information Service</button></li>
+		<li onclick="changeRA('E')"><button type="button">Social Computing</button></li>
+		<li onclick="changeRA('F')"><button type="button">Interactive Computing</button></li>
+		<li onclick="changeRA('G')"><button type="button">Secure Computing</button></li>
+	</ul>
+	</div>
+    <span class="searchArea">
+        <input type="text"  id="keyword"  name="keyword"  value=""  placeholder="Search"  />
+        <a href="javascript:document.frm.submit();"></a>
+    </span>
+    <!--
+    <p class="txtSort">Results 1–8 of about 8.  Sort by subject. </p>
+    <button type="button" class="btnTxt">Advanced Search</button>-->
+</fieldset>
+<div class="searchSort">
+    <div style="float:left; width: 50px; -webkit-box-sizing: border-box; height: 30px; margin: 2px 28px 0px 9px">
+    	<input type="radio" checked="checked" name="radio_lang" id="radio_en" style="margin-top: 5px" value="en" onclick="jumpShow('en');"/> &nbsp;Eng
+    </div>
+    <div style="float:left; width: 50px; -webkit-box-sizing: border-box; height: 30px; margin: 2px 28px 0px 0px">
+    	<input type="radio"  name="radio_lang" id="radio_ko" style="margin-top: 5px" value="ko" onclick="jumpShow('ko');" /> &nbsp;Kor
+    </div>
+    
+    
+	<div id="jump_en" style="">
+		<button type="button" name="jump_en" value="A" >A</button>
+		<button type="button" name="jump_en" value="B">B</button>
+		<button type="button" name="jump_en" value="C">C</button>
+		<button type="button" name="jump_en" value="D">D</button>
+		<button type="button" name="jump_en" value="E">E</button>
+		<button type="button" name="jump_en" value="F">F</button>
+		<button type="button" name="jump_en" value="G">G</button>
+		<button type="button" name="jump_en" value="H">H</button>
+		<button type="button" name="jump_en" value="I">I</button>
+		<button type="button" name="jump_en" value="J">J</button>
+		<button type="button" name="jump_en" value="K">K</button>
+		<button type="button" name="jump_en" value="L">L</button>
+		<button type="button" name="jump_en" value="M">M</button>
+		<button type="button" name="jump_en" value="N">N</button>
+		<button type="button" name="jump_en" value="O">O</button>
+		<button type="button" name="jump_en" value="P">P</button>
+		<button type="button" name="jump_en" value="Q">Q</button>
+		<button type="button" name="jump_en" value="R">R</button>
+		<button type="button" name="jump_en" value="S">S</button>
+		<button type="button" name="jump_en" value="T">T</button>
+		<button type="button" name="jump_en" value="U">U</button>
+		<button type="button" name="jump_en" value="V">V</button>
+		<button type="button" name="jump_en" value="W">W</button>
+		<button type="button" name="jump_en" value="X">X</button>
+		<button type="button" name="jump_en" value="Y">Y</button>
+		<button type="button" name="jump_en" value="Z">Z</button>
+	</div>
+	<div id="jump_ko" style="display:none;">
+		<button type="button" name="jump_ko" value="1" >가</button>
+		<button type="button" name="jump_ko" value="2">나</button>	
+		<button type="button" name="jump_ko" value="3">다</button>	
+		<button type="button" name="jump_ko" value="4">라</button>
+		<button type="button" name="jump_ko" value="5">마</button>
+		<button type="button" name="jump_ko" value="6">바</button>
+		<button type="button" name="jump_ko" value="7">사</button>
+		<button type="button" name="jump_ko" value="8">아</button>
+		<button type="button" name="jump_ko" value="9">자</button>
+		<button type="button" name="jump_ko" value="10">차</button>
+		<button type="button" name="jump_ko" value="11">카</button>
+		<button type="button" name="jump_ko" value="12">타</button>
+		<button type="button" name="jump_ko" value="13">파</button>
+		<button type="button" name="jump_ko" value="14">하</button>
+	</div>
+</div>
+            
+</form>
+
+<div class="list_warp"><!-- list wrap layout -->    
+
+			
+            <p class="line"><span>Faculty Members</span></p>
+            <ul class="item_box line2 fix" style="margin-top: 20px; margin-bottom: 50px;">
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(12, 160)"> 
+					<div class="photo"><img src="/upload_files/member//540962ba60774.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Doo­Hwan Bae </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 503, N1<br/>    						<span onclick="emailSend('bae^*cs.kaist.ac.kr');"><script>emailWrite('bae^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3539						</p>
+						<p class="part">Software Engineering</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(371, 160)"> 
+					<div class="photo"><img src="/upload_files/member//54098c4a0ad41.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Jongmoon Baik </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 502, N1<br/>    						<span onclick="emailSend('jbaik^*cs.kaist.ac.kr');"><script>emailWrite('jbaik^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3556						</p>
+						<p class="part">Software Engineering</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(527, 160)"> 
+					<div class="photo"><img src="/upload_files/member//564c03cddd568.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Sang Kil Cha </p>
+						<p class="depart">Assistant Professor</p>
+						<p class="text">
+Office: 2319, N5<br/>    						<span onclick="emailSend('sangkilc^*kaist.ac.kr');"><script>emailWrite('sangkilc^*kaist.ac.kr');</script></span><br/>
+042-350-3569						</p>
+						<p class="part">Software Security, Program Analysis</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(418, 160)"> 
+					<div class="photo"><img src="/upload_files/member//597eeee0cc091.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Meeyoung Cha </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: E3-1, 2425<br/>    						<span onclick="emailSend('meeyoungcha^*kaist.ac.kr');"><script>emailWrite('meeyoungcha^*kaist.ac.kr');</script></span><br/>
+042-350-3574						</p>
+						<p class="part">Network Science, Computational Social Science, Statistical Inference</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(25, 160)"> 
+					<div class="photo"><img src="/upload_files/member//542ba129d0e47.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Otfried Cheong </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 3434, E3-1<br/>    						<span onclick="emailSend('otfried^*kaist.edu');"><script>emailWrite('otfried^*kaist.edu');</script></span><br/>
+042-350-3542						</p>
+						<p class="part">Discrete and Computational Geometry</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(29, 160)"> 
+					<div class="photo"><img src="/upload_files/member//541d5afd95cfe.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Kwang­Moo Choe </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 2427, E3-1<br/>    						<span onclick="emailSend('choe^*cs.kaist.ac.kr');"><script>emailWrite('choe^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3520						</p>
+						<p class="part">Programming Language, Compiler</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(30, 160)"> 
+					<div class="photo"><img src="/upload_files/member//54096c9b83d59.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Key-­Sun Choi </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 2435, E3-1<br/>    						<span onclick="emailSend('kschoi^*kaist.ac.kr');"><script>emailWrite('kschoi^*kaist.ac.kr');</script></span><br/>
+042-350-3525						</p>
+						<p class="part">NLP, Machine Reading, Semantic Web</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(31, 160)"> 
+					<div class="photo"><img src="/upload_files/member//54099181e7eff.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Sunghee Choi </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 3404, E3-1<br/>    						<span onclick="emailSend('sunghee^*kaist.edu');"><script>emailWrite('sunghee^*kaist.edu');</script></span><br/>
+042-350-3534						</p>
+						<p class="part">Geometric computing, computational geometry, computer graphics, sensor networks</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(366, 160)"> 
+					<div class="photo"><img src="/upload_files/member//584f5623585de.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Ho Jin Choi </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 707, N1<br/>    						<span onclick="emailSend('hojinc^*cs.kaist.ac.kr');"><script>emailWrite('hojinc^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3561						</p>
+						<p class="part">Artificial Intelligence, Knowledge Engineering, Biomedical Informatics</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(32, 160)"> 
+					<div class="photo"><img src="/upload_files/member//584f564a6ac61.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Taisook Han </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 504, N1<br/>    						<span onclick="emailSend('han^*cs.kaist.ac.kr');"><script>emailWrite('han^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3533						</p>
+						<p class="part">Programming Language, Compiler</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(369, 160)"> 
+					<div class="photo"><img src="/upload_files/member//54096d52efeaf.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Dong Soo Han </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 704, N1<br/>    						<span onclick="emailSend('dshan^*cs.kaist.ac.kr');"><script>emailWrite('dshan^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3562						</p>
+						<p class="part">Location Aware Mobile Computing</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(33, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5851f0d75b33d.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Jaehyuk Huh </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 4406, E3-1<br/>    						<span onclick="emailSend('jhhuh^*cs.kaist.ac.kr');"><script>emailWrite('jhhuh^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3515						</p>
+						<p class="part">Computer Architecture, Parallel Processing Embedded Systems</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(363, 160)"> 
+					<div class="photo"><img src="/upload_files/member//540971e86f42b.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Soon Joo Hyun </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 804, N1<br/>    						<span onclick="emailSend('sjhyun^*cs.kaist.ac.kr');"><script>emailWrite('sjhyun^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3563						</p>
+						<p class="part">Intelligent Database, Context Aware, Data Mining</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(27, 160)"> 
+					<div class="photo"><img src="/upload_files/member//54098fdea4764.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Sungho Jo </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 2433, E3-1<br/>    						<span onclick="emailSend('shjo^*cs.kaist.ac.kr');"><script>emailWrite('shjo^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3540						</p>
+						<p class="part">Human­Robot Interaction, Biosignal­based Interface</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(368, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5437279e2f83f.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Sungwon Kang </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 1429, E3-1<br/>    						<span onclick="emailSend('sungwon.kang^*kaist.ac.kr');"><script>emailWrite('sungwon.kang^*kaist.ac.kr');</script></span><br/>
+042-350-3512						</p>
+						<p class="part">Software Architecture, Software Product Line</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(510, 160)"> 
+					<div class="photo"><img src="/upload_files/member//55139c0bd8f1b.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Brent Byunghoon Kang </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: N5, 2315<br/>    						<span onclick="emailSend('brentkang^*kaist.ac.kr');"><script>emailWrite('brentkang^*kaist.ac.kr');</script></span><br/>
+042-350-8322						</p>
+						<p class="part">System Security</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(5, 160)"> 
+					<div class="photo"><img src="/upload_files/member//540974812f58d.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Kee­Eung Kim </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 2402, E3-1<br/>    						<span onclick="emailSend('kekim^*cs.kaist.ac.kr');"><script>emailWrite('kekim^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3536						</p>
+						<p class="part">Artificial Intelligence, Machine Learning</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(6, 160)"> 
+					<div class="photo"><img src="/upload_files/member//541a854118e5c.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Myoung Ho Kim </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 3405, E3-1<br/>    						<span onclick="emailSend('mhkim^*cs.kaist.ac.kr');"><script>emailWrite('mhkim^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3530						</p>
+						<p class="part">Database System, Information Processing</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(7, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5850a344b125b.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Moonzoo Kim </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 2434, E3-1<br/>    						<span onclick="emailSend('moonzoo^*cs.kaist.ac.kr');"><script>emailWrite('moonzoo^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3543						</p>
+						<p class="part">Software testing</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(535, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5775ba1fa4142.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Juho Kim </p>
+						<p class="depart">Assistant Professor</p>
+						<p class="text">
+Office: 605, N1<br/>    						<span onclick="emailSend('juhokim^*kaist.ac.kr');"><script>emailWrite('juhokim^*kaist.ac.kr');</script></span><br/>
+042-350-3570						</p>
+						<p class="part">Human-Computer Interaction (HCI), Crowdsourcing, Learning at Scale</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(355, 160)"> 
+					<div class="photo"><img src="/upload_files/member//540974f65a481.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">John Dongjun Kim </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 4405, E3-1<br/>    						<span onclick="emailSend('jjk12^*kaist.edu');"><script>emailWrite('jjk12^*kaist.edu');</script></span><br/>
+042-350-3535						</p>
+						<p class="part">Computer Architecture, Interconnection Network</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(362, 160)"> 
+					<div class="photo"><img src="/upload_files/member//541d5bedcf8a6.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Kwangjo Kim </p>
+						<p class="depart">Professor, IACR Fellow</p>
+						<p class="text">
+Office: 901, N1<br/>    						<span onclick="emailSend('kkj^*cs.kaist.ac.kr');"><script>emailWrite('kkj^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3550						</p>
+						<p class="part">Cryptology, Information Security</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(365, 160)"> 
+					<div class="photo"><img src="/upload_files/member//589171bbb9846.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Myungchul Kim </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 805, N1<br/>    						<span onclick="emailSend('mck^*kaist.ac.kr');"><script>emailWrite('mck^*kaist.ac.kr');</script></span><br/>
+042-350-3552						</p>
+						<p class="part">Network protocol, Mobile network, Information security</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(373, 160)"> 
+					<div class="photo"><img src="/upload_files/member//540912e1d4f7a.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Dae Young Kim </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 902, N1<br/>    						<span onclick="emailSend('kimd^*kaist.ac.kr');"><script>emailWrite('kimd^*kaist.ac.kr');</script></span><br/>
+042-350-3551						</p>
+						<p class="part">Real­time and Embedded Systems,  Internet of Things</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(375, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5409773893fbf.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Soontae Kim </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 903, N1<br/>    						<span onclick="emailSend('kims^*kaist.ac.kr');"><script>emailWrite('kims^*kaist.ac.kr');</script></span><br/>
+042-350-3554						</p>
+						<p class="part">Embedded Computing, Computer Architecture, Low­Power, Reliability, Real­Time</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(460, 160)"> 
+					<div class="photo"><img src="/upload_files/member//541fc8d2322eb.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Min H. Kim </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 3429, E3-1<br/>    						<span onclick="emailSend('minhkim^*vclab.kaist.ac.kr');"><script>emailWrite('minhkim^*vclab.kaist.ac.kr');</script></span><br/>
+042-350-3564						</p>
+						<p class="part">Computer Graphics, Computer Vision, Machine Learning</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(374, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5409738a7d0ff.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">In-Young Ko </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 505, N1<br/>    						<span onclick="emailSend('iko^*cs.kaist.ac.kr');"><script>emailWrite('iko^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3547						</p>
+						<p class="part">Software Engineering, Web Engineering</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(23, 160)"> 
+					<div class="photo"><img src="/upload_files/member//54096a40ba839.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Yoon Joon Lee </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 607, N1<br/>    						<span onclick="emailSend('yjlee^*cs.kaist.ac.kr');"><script>emailWrite('yjlee^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3523						</p>
+						<p class="part">Database System</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(24, 160)"> 
+					<div class="photo"><img src="/upload_files/member//54096ab120d00.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Heung­Kyu Lee </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 4436, E3-1<br/>    						<span onclick="emailSend('hklee^*cs.kaist.ac.kr');"><script>emailWrite('hklee^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3526						</p>
+						<p class="part">Information Hiding， Multimedia Forensics</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(536, 160)"> 
+					<div class="photo"><img src="/upload_files/member//588ffd87076b3.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Jooyoung Lee </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 2318, N5<br/>    						<span onclick="emailSend('hicalf^*kaist.ac.kr');"><script>emailWrite('hicalf^*kaist.ac.kr');</script></span><br/>
+042-350-3571						</p>
+						<p class="part">Cryptology, Combinatorics</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(361, 160)"> 
+					<div class="photo"><img src="/upload_files/member//540969b84b6bc.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Young Hee Lee </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 802, N1<br/>    						<span onclick="emailSend('yhlee^*cs.kaist.ac.kr');"><script>emailWrite('yhlee^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3560						</p>
+						<p class="part">Computer Network</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(367, 160)"> 
+					<div class="photo"><img src="/upload_files/member//541ab8c66d84f.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Dongman Lee </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 803, N1<br/>    						<span onclick="emailSend('dlee^*cs.kaist.ac.kr');"><script>emailWrite('dlee^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3559						</p>
+						<p class="part">Distributed System, Compter Network, Ubiquitous Computing</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(372, 160)"> 
+					<div class="photo"><img src="/upload_files/member//542b9de47a136.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Geehyuk Lee </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 708, N1<br/>    						<span onclick="emailSend('geehyuk^*cs.kaist.ac.kr');"><script>emailWrite('geehyuk^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3557						</p>
+						<p class="part">HCI, Interaction Devices</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(508, 160)"> 
+					<div class="photo"><img src="/upload_files/member//54e18a55a46bc.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Sung-Ju Lee </p>
+						<p class="depart">Professor, IEEE Fellow</p>
+						<p class="text">
+Office: N1, 706<br/>    						<span onclick="emailSend('profsj^*kaist.ac.kr');"><script>emailWrite('profsj^*kaist.ac.kr');</script></span><br/>
+042-350-3566						</p>
+						<p class="part">Networking, Mobility, Wireless, Systems, Security</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(57, 160)"> 
+					<div class="photo"><img src="/upload_files/member//542b9f9a7c801.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Seungryoul Maeng </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 4403, E3-1<br/>    						<span onclick="emailSend('maeng^*cs.kaist.ac.kr');"><script>emailWrite('maeng^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3519						</p>
+						<p class="part">Computer Architecture, Embedded Systems</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(10, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5662c8191e08d.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Sue Bok Moon </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 608, N1<br/>    						<span onclick="emailSend('sbmoon^*kaist.edu');"><script>emailWrite('sbmoon^*kaist.edu');</script></span><br/>
+042-350-3548						</p>
+						<p class="part">Network Platforms, Online Social Networks</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(495, 160)"> 
+					<div class="photo"><img src="/upload_files/member//584f555c40347.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Sung Hyon Myaeng </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 604, N1<br/>    						<span onclick="emailSend('myaeng^*kaist.ac.kr');"><script>emailWrite('myaeng^*kaist.ac.kr');</script></span><br/>
+042-350-3553						</p>
+						<p class="part">Information Retrieval, Text Mining, Natural Language Processing</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(18, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5850a3885e1fd.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Alice Oh </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 4404, E3-1<br/>    						<span onclick="emailSend('alice.oh^*cs.kaist.ac.kr');"><script>emailWrite('alice.oh^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3549						</p>
+						<p class="part">Machine Learning, Computational Social Science</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(11, 160)"> 
+					<div class="photo"><img src="/upload_files/member//54091469c3261.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Jong Cheol Park </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 2406, E3-1<br/>    						<span onclick="emailSend('park^*cs.kaist.ac.kr');"><script>emailWrite('park^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3541						</p>
+						<p class="part">Natural Language Processing, Computational Linguistics, Bioinformatics</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(370, 160)"> 
+					<div class="photo"><img src="/upload_files/member//540991d2bccf3.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Jinah Park </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 2404, E3-1<br/>    						<span onclick="emailSend('jinah^*cs.kaist.ac.kr');"><script>emailWrite('jinah^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3555						</p>
+						<p class="part">Computer Graphics, Data Visualization, Computer Haptics, Biomedical Application</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(397, 160)"> 
+					<div class="photo"><img src="/upload_files/member//541d5c61c5e4e.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Sukyoung Ryu </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 4407, E3-1<br/>    						<span onclick="emailSend('sryu.cs^*kaist.ac.kr');"><script>emailWrite('sryu.cs^*kaist.ac.kr');</script></span><br/>
+042-350-3538						</p>
+						<p class="part">Programming Languages and Program Analysis</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(15, 160)"> 
+					<div class="photo"><img src="/upload_files/member//57a9d352901ee.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Insik Shin </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 4425, E3-1<br/>    						<span onclick="emailSend('insik.shin^*cs.kaist.ac.kr');"><script>emailWrite('insik.shin^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3524						</p>
+						<p class="part">Real-Time Embedded Systems, Cyber-Physical Systems</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(553, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5976dc6b83403.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Sooel Son </p>
+						<p class="depart">Assistant Professor</p>
+						<p class="text">
+Office: N5, 2312<br/>    						<span onclick="emailSend('sl.son^*kaist.ac.kr');"><script>emailWrite('sl.son^*kaist.ac.kr');</script></span><br/>
+042-350-3575						</p>
+						<p class="part">Web security／privacy, Web authentication</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(13, 160)"> 
+					<div class="photo"><img src="/upload_files/member//541ab91c2aa9f.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Junehwa Song </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 4432, E3-1<br/>    						<span onclick="emailSend('junesong^*cs.kaist.ac.kr');"><script>emailWrite('junesong^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3546						</p>
+						<p class="part">Mobile System, OS, IoT System</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(16, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5409674662e23.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Hyun Seung Yang </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 4435, E3-1<br/>    						<span onclick="emailSend('hsyang^*cs.kaist.ac.kr');"><script>emailWrite('hsyang^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3527						</p>
+						<p class="part">Artificial Intelligence, Computer Vision, Human Robotics, Virtual Reality</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(537, 160)"> 
+					<div class="photo"><img src="/upload_files/member//58d87452973bc.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Eunho Yang </p>
+						<p class="depart">Assistant Professor</p>
+						<p class="text">
+Office: 3426, E3-1<br/>    						<span onclick="emailSend('eunhoy^*kaist.ac.kr');"><script>emailWrite('eunhoy^*kaist.ac.kr');</script></span><br/>
+042-350-3572						</p>
+						<p class="part">Statistical Machine Learning</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(552, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5971b2460b7a1.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Hongseok Yang </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: E3-1, 3403<br/>    						<span onclick="emailSend('hongseok00^*gmail.com');"><script>emailWrite('hongseok00^*gmail.com');</script></span><br/>
+042-350-3573						</p>
+						<p class="part">Programming Languages. Machine Learning.</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(516, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5662c8ea0555e.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Shin Yoo </p>
+						<p class="depart">Assistant Professor</p>
+						<p class="text">
+Office: 2405, E3-1<br/>    						<span onclick="emailSend('shin.yoo^*cs.kaist.ac.kr');"><script>emailWrite('shin.yoo^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3567						</p>
+						<p class="part">Software Engineering, Software Testing</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(20, 160)"> 
+					<div class="photo"><img src="/upload_files/member//584f55d1eb809.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Sungeui Yoon </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: 3432, E3-1<br/>    						<span onclick="emailSend('sungeui^*gmail.com');"><script>emailWrite('sungeui^*gmail.com');</script></span><br/>
+042-350-3531						</p>
+						<p class="part">Computer Graphics, Visualization, Geometric Problems</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(21, 160)"> 
+					<div class="photo"><img src="/upload_files/member//540975be222a0.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Hyunsoo Yoon </p>
+						<p class="depart">Professor</p>
+						<p class="text">
+Office: 3435, E3-1<br/>    						<span onclick="emailSend('hyoon^*kaist.ac.kr');"><script>emailWrite('hyoon^*kaist.ac.kr');</script></span><br/>
+042-350-3529						</p>
+						<p class="part">Computer Network and Information Security</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(517, 160)"> 
+					<div class="photo"><img src="/upload_files/member//55efc11731fa0.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Martin Ziegler </p>
+						<p class="depart">Associate Professor</p>
+						<p class="text">
+Office: E3-1, 3406<br/>    						<span onclick="emailSend('ziegler^*cs.kaist.ac.kr');"><script>emailWrite('ziegler^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3568						</p>
+						<p class="part">Complexity and Real Computation</p>
+					</div>
+				</div>
+			</li>
+				
+				</ul>
+				
+			
+            <p class="line"><span>명예교수</span></p>
+            <ul class="item_box line2 fix" style="margin-top: 20px; margin-bottom: 50px;">
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(37, 160)"> 
+					<div class="photo"><img src="/upload_files/member//584f56c923f09.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Kilnam Chon </p>
+						<p class="depart">Emeritus</p>
+						<p class="text">
+Office: 1426, E3-1<br/>    						<span onclick="emailSend('chon^*cs.kaist.ac.kr');"><script>emailWrite('chon^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3514						</p>
+						<p class="part">Computer Network</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(26, 160)"> 
+					<div class="photo"><img src="/upload_files/member//541a6ad991eea.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Chin­Wan Chung </p>
+						<p class="depart">Emeritus</p>
+						<p class="text">
+Office: 1417, E3-1<br/>    						<span onclick="emailSend('chungcw^*cs.kaist.ac.kr');"><script>emailWrite('chungcw^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3537						</p>
+						<p class="part">Database, Web, Social Network</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(28, 160)"> 
+					<div class="photo"><img src="/upload_files/member//541a6b786ad6a.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Kyung-Yong Chwa </p>
+						<p class="depart">Emeritus</p>
+						<p class="text">
+Office: 1418, E3-1<br/>    						<span onclick="emailSend('kychwa^*cs.kaist.ac.kr');"><script>emailWrite('kychwa^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3513						</p>
+						<p class="part">Graph Theory, Algorithm</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(36, 160)"> 
+					<div class="photo"><img src="/upload_files/member//541a69e76d1bb.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Gil Chang Kim </p>
+						<p class="depart">Emeritus</p>
+						<p class="text">
+Office: -<br/>    						<span onclick="emailSend('gckim^*cs.kaist.ac.kr');"><script>emailWrite('gckim^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3511						</p>
+						<p class="part">Natural Language Processing</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(56, 160)"> 
+					<div class="photo"><img src="/upload_files/member//542cda0993dc5.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Jin Hyung Kim </p>
+						<p class="depart">Emeritus</p>
+						<p class="text">
+Office: 1416, E3-1<br/>    						<span onclick="emailSend('jkim^*cs.kaist.ac.kr');"><script>emailWrite('jkim^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3517						</p>
+						<p class="part">Artificial Intelligence, Pattern Recognition</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(17, 160)"> 
+					<div class="photo"><img src="/upload_files/member//541a6a63c1a62.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Yung Hwan Oh </p>
+						<p class="depart">Emeritus</p>
+						<p class="text">
+Office: 1421, E3-1<br/>    						<span onclick="emailSend('yhoh^*cs.kaist.ac.kr');"><script>emailWrite('yhoh^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3516						</p>
+						<p class="part">Spoken Language Processing</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(14, 160)"> 
+					<div class="photo"><img src="/upload_files/member//541d5cf829274.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Sung Yong Shin </p>
+						<p class="depart">Emeritus</p>
+						<p class="text">
+Office: 1419, E3-1<br/>    						<span onclick="emailSend('josephsyshin^*gmail.com');"><script>emailWrite('josephsyshin^*gmail.com');</script></span><br/>
+042-350-3528						</p>
+						<p class="part">Computer Graphics</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(34, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5409971044408.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Kyu-Young Whang </p>
+						<p class="depart">Emeritus, 특훈교수 ACM/IEEE Life Fellow</p>
+						<p class="text">
+Office: 1420, E3-1<br/>    						<span onclick="emailSend('kywhang^*cs.kaist.ac.kr');"><script>emailWrite('kywhang^*cs.kaist.ac.kr');</script></span><br/>
+042-350-3522						</p>
+						<p class="part">Database, Search Engines</p>
+					</div>
+				</div>
+			</li>
+				
+				</ul>
+				
+			
+            <p class="line"><span>겸직교수</span></p>
+            <ul class="item_box line2 fix" style="margin-top: 20px; margin-bottom: 50px;">
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(528, 160)"> 
+					<div class="photo"><img src="/upload_files/member//56d8e106d5580.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Jungwoo Ha </p>
+						<p class="depart">Affiliated Professor</p>
+						<p class="text">
+    						<span onclick="emailSend('habals^*gmail.com');"><script>emailWrite('habals^*gmail.com');</script></span><br/>
+						</p>
+						<p class="part">Computer Science and Engineering</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(556, 160)"> 
+					<div class="photo"><img src="/upload_files/member//59a8becc7b453.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Inseok Hwang </p>
+						<p class="depart">Affiliated Professor</p>
+						<p class="text">
+    						<span onclick="emailSend('inseok.hwang^*gmail.com');"><script>emailWrite('inseok.hwang^*gmail.com');</script></span><br/>
+						</p>
+						<p class="part">Intersection of mobile systems and human-computer interaction.</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(522, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5601101b5f8d0.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Shim Ki-Bo </p>
+						<p class="depart">Affiliated Professor</p>
+						<p class="text">
+    						<span onclick="emailSend('pmodosa^*nate.com');"><script>emailWrite('pmodosa^*nate.com');</script></span><br/>
+						</p>
+						<p class="part"></p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(482, 160)"> 
+					<div class="photo"><img src="/upload_files/member//541a65f922dac.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Jin-Dong Kim </p>
+						<p class="depart">Affiliated Professor</p>
+						<p class="text">
+    						<span onclick="emailSend('jdkim^*dbcls.rois.ac.jp');"><script>emailWrite('jdkim^*dbcls.rois.ac.jp');</script></span><br/>
+						</p>
+						<p class="part">Computer Science</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(524, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5604f93f5bbb6.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Youngki Lee </p>
+						<p class="depart">Affiliated Professor</p>
+						<p class="text">
+    						<span onclick="emailSend('youngkilee^*smu.edu.sh');"><script>emailWrite('youngkilee^*smu.edu.sh');</script></span><br/>
+						</p>
+						<p class="part">Computer Science</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(554, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5993d84e96b72.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Jaeseo Lee </p>
+						<p class="depart">Affiliated Professor</p>
+						<p class="text">
+Office: -<br/>    						<span onclick="emailSend('mirr1004^*gmail.com');"><script>emailWrite('mirr1004^*gmail.com');</script></span><br/>
+042-870-2326						</p>
+						<p class="part">Information Security</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(550, 160)"> 
+					<div class="photo"><img src="/upload_files/member//58f45922f37e8.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Sang-Yoon Min </p>
+						<p class="depart">Affiliated Professor</p>
+						<p class="text">
+    						<span onclick="emailSend('sang^*sol-link.com');"><script>emailWrite('sang^*sol-link.com');</script></span><br/>
+042-350-042-861-4202						</p>
+						<p class="part">Software Engineering</p>
+					</div>
+				</div>
+			</li>
+				
+				</ul>
+				
+			
+            <p class="line"><span>겸임교수</span></p>
+            <ul class="item_box line2 fix" style="margin-top: 20px; margin-bottom: 50px;">
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(547, 160)"> 
+					<div class="photo"><img src="/upload_files/member//58f44fbe06e56.png" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Jeongseok Ha </p>
+						<p class="depart">Joint Professor</p>
+						<p class="text">
+Office: 612, N1<br/>    						<span onclick="emailSend('jsha^*ee.kaist.ac.kr');"><script>emailWrite('jsha^*ee.kaist.ac.kr');</script></span><br/>
+042-350-7424						</p>
+						<p class="part">Coding, Communications, and Information Theory</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(549, 160)"> 
+					<div class="photo"><img src="/upload_files/member//58f4525411f0d.png" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Sang Geun Hahn </p>
+						<p class="depart">Joint Professor</p>
+						<p class="text">
+    						<span onclick="emailSend('sghahn^*kaist.ac.kr');"><script>emailWrite('sghahn^*kaist.ac.kr');</script></span><br/>
+042-350-2727						</p>
+						<p class="part">number theory</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(548, 160)"> 
+					<div class="photo"><img src="/upload_files/member//58f450e9e4047.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Dongsu Han </p>
+						<p class="depart">Joint Professor</p>
+						<p class="text">
+Office: 814, N1<br/>    						<span onclick="emailSend('dongsuh^*ee.kaist.ac.kr');"><script>emailWrite('dongsuh^*ee.kaist.ac.kr');</script></span><br/>
+042-350-7431						</p>
+						<p class="part">Computer systems in the networked environment</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(545, 160)"> 
+					<div class="photo"><img src="/upload_files/member//58f44b1849647.png" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">June-Koo Kevin Rhee </p>
+						<p class="depart">Joint Professor</p>
+						<p class="text">
+    						<span onclick="emailSend('rhee.jk^*kaist.ac.kr');"><script>emailWrite('rhee.jk^*kaist.ac.kr');</script></span><br/>
+042-350-7416						</p>
+						<p class="part">Quantum information system, Networking</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(543, 160)"> 
+					<div class="photo"><img src="/upload_files/member//58f4278176992.png" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Yongdae Kim </p>
+						<p class="depart">Joint Professor</p>
+						<p class="text">
+    						<span onclick="emailSend('yongdaek^*kaist.ac.kr');"><script>emailWrite('yongdaek^*kaist.ac.kr');</script></span><br/>
+042-350-7430						</p>
+						<p class="part">Security of emerging and current systems.</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(544, 160)"> 
+					<div class="photo"><img src="/upload_files/member//58f42c1b63a63.png" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">ByungChun Kim </p>
+						<p class="depart">Joint Professor</p>
+						<p class="text">
+    						<span onclick="emailSend('bckim^*business.kaist.ac.kr');"><script>emailWrite('bckim^*business.kaist.ac.kr');</script></span><br/>
+042-350-02-958-3699						</p>
+						<p class="part">Datamining, Cryptography</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(538, 160)"> 
+					<div class="photo"><img src="/upload_files/member//57a9994798cb5.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Aviv Segev </p>
+						<p class="depart">Joint Professor</p>
+						<p class="text">
+Office: E2-1 1205.<br/>    						<span onclick="emailSend('aviv^*kaist.edu');"><script>emailWrite('aviv^*kaist.edu');</script></span><br/>
+042-350-1614						</p>
+						<p class="part">Technology and Information Systems</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(509, 160)"> 
+					<div class="photo"><img src="/upload_files/member//54f7a4e41e839.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Seungwon Shin </p>
+						<p class="depart">Joint Professor</p>
+						<p class="text">
+Office: N1, 910<br/>    						<span onclick="emailSend('claude^*kaist.ac.kr');"><script>emailWrite('claude^*kaist.ac.kr');</script></span><br/>
+042-350-8370						</p>
+						<p class="part">Network Security, Software-Defined Networking</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(546, 160)"> 
+					<div class="photo"><img src="/upload_files/member//58f44c9c3d67f.png" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Chang Dong Yoo </p>
+						<p class="depart">Joint Professor</p>
+						<p class="text">
+Office: N24, 2111<br/>    						<span onclick="emailSend('cd_yoo^*kaist.ac.kr');"><script>emailWrite('cd_yoo^*kaist.ac.kr');</script></span><br/>
+042-350-3470						</p>
+						<p class="part">Machine Learning, Computer Vision</p>
+					</div>
+				</div>
+			</li>
+				
+				</ul>
+				
+			
+            <p class="line"><span>연구교수</span></p>
+            <ul class="item_box line2 fix" style="margin-top: 20px; margin-bottom: 50px;">
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(444, 160)"> 
+					<div class="photo"><img src="/upload_files/member//542bc92d7576c.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Eunkyoung Jee </p>
+						<p class="depart">Research Assistant Professor</p>
+						<p class="text">
+    						<span onclick="emailSend('ekjee^*se.kaist.ac.kr');"><script>emailWrite('ekjee^*se.kaist.ac.kr');</script></span><br/>
+042-350-7739						</p>
+						<p class="part">Software Engineering</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(506, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5472d39100fe6.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">LEE Joon-sang </p>
+						<p class="depart">Research Professor, 산학협력중점교수</p>
+						<p class="text">
+Office: N1, 406<br/>    						<span onclick="emailSend('jslee^*cs.kaist.ac.kr');"><script>emailWrite('jslee^*cs.kaist.ac.kr');</script></span><br/>
+042-350-7706						</p>
+						<p class="part">SW Design ＆ Architecture, SW Quality Engineering, Reliability Engineering</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(513, 160)"> 
+					<div class="photo"><img src="/upload_files/member//55506adc40b69.png" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Choi Okjoo </p>
+						<p class="depart">Research Associate Professor, 산학협력중점교수</p>
+						<p class="text">
+    						<span onclick="emailSend('okjoo.choi^*kaist.ac.kr');"><script>emailWrite('okjoo.choi^*kaist.ac.kr');</script></span><br/>
+042-350-7707						</p>
+						<p class="part">Computer Science</p>
+					</div>
+				</div>
+			</li>
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(551, 160)"> 
+					<div class="photo"><img src="/upload_files/member//594a0150843ed.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Duksan Ryu </p>
+						<p class="depart">Research Assistant Professor</p>
+						<p class="text">
+Office: N1, 501<br/>    						<span onclick="emailSend('dsryu99^*gmail.com');"><script>emailWrite('dsryu99^*gmail.com');</script></span><br/>
+042-350-7856						</p>
+						<p class="part">Software engineering</p>
+					</div>
+				</div>
+			</li>
+				
+				</ul>
+				
+			
+            <p class="line"><span>초빙교수</span></p>
+            <ul class="item_box line2 fix" style="margin-top: 20px; margin-bottom: 50px;">
+ 
+			
+			
+	       	<li class="horiz_item">
+				<div class="item fix" style="cursor: pointer;" onclick="facultyView(514, 160)"> 
+					<div class="photo"><img src="/upload_files/member//5552e2cb5d211.jpg" alt="" style="vertical-align: middle;width:100%;" ></div>
+					<div class="infoTxt">
+						<p class="name">Young Whan Kim </p>
+						<p class="depart">Visiting Professor</p>
+						<p class="text">
+Office: KAIST Dogok Campus 305<br/>    						<span onclick="emailSend('nomadyoung^*kaist.ac.kr');"><script>emailWrite('nomadyoung^*kaist.ac.kr');</script></span><br/>
+02-3498-7563						</p>
+						<p class="part">Artificial Intelligence (Intelligent Information Search)</p>
+					</div>
+				</div>
+			</li>
+				
+				</ul>
+				
+</div><!-- // list_warp -->
+		            
+		            
+				</div>
+			</div>
+			
+        </div>
+
+<script>
+    function btnShareFacebook(){
+        var u = location.href;
+        var t = document.title;
+        window.open('http://www.facebook.com/sharer.php?u=' + encodeURIComponent(u) + '&t=' + encodeURIComponent(t), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+    }
+    
+    function btnShareTwitter(){
+        var u = location.href;
+        window.open("https://twitter.com/home?status=" + encodeURIComponent("Faculty") + " - " + encodeURIComponent(u), 'sharer', 'toolbar=0,status=0,width=626,height=436');
+    }
+    
+    function btnShareGooglePlus(){
+        var u = location.href;
+        window.open("https://plus.google.com/share?url="+u, '', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes');
+    }
+    
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    	  ga('create', 'UA-45570408-1', 'auto');
+    	  ga('send', 'pageview');
+
+</script>
+
+<div id="footer">
+    <div class="address fix">
+        <div class="inner">
+            <p><span>KAIST School of Computing</span> 291 Daehak-ro, Yuseong-gu, Daejeon, Korea 34141</p>
+            <ul class="fix">
+            	<li><a target="_blank" href="http://www.kaist.ac.kr/">KAIST</a></li>
+                <li><a target="_blank" href="http://www.kaist.ac.kr/html/kr/edu/edu_030103.html">College of Engineering</a></li>
+                <li><a href="/content?menu=138">Contact</a></li>
+                <li><a href="/content?menu=4">Directions</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="copy">
+        <div class="inner2">
+            <p>ⓒ KAIST School of Computing. All Rights Reserved.</p>
+            <p class="sns">
+                <a href="javascript:btnShareFacebook();"><img src="/common/images/common/btn_fb.png"/></a>
+                <a href="javascript:btnShareTwitter();"><img src="/common/images/common/btn_tw.png" alt="twitter" /></a>
+                <a href="javascript:btnShareGooglePlus();"><img src="/common/images/common/btn_gp.png" alt="rss" /></a>
+            </p>
+        </div>
+    </div>
+</div><!-- footer -->
+	
+	</div><!-- //wrap -->
+
+</body>
+</html>

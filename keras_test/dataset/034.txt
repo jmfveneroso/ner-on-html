@@ -1,0 +1,1593 @@
+Faculty O 0 0 head html none 4 22
+— O 0 0 head html none 4 22
+Department O 0 0 head html none 4 22
+of O 0 1 head html none 4 22
+Electrical O 0 0 head html none 4 22
+Engineering O 0 0 head html none 4 22
+
+UNIVERSITY O 0 0 p div undBrand 9 0
+of O 0 1 p div undBrand 9 0
+NOTRE O 0 0 p div undBrand 9 0
+DAME O 0 0 p div undBrand 9 0
+
+COLLEGE O 0 0 p div orgBrand 9 0
+of O 0 1 p div orgBrand 9 0
+ENGINEERING O 0 0 p div orgBrand 9 0
+
+OFFICE O 0 0 p div orgBrand.provost 9 0
+of O 0 1 p div orgBrand.provost 9 0
+the O 0 1 p div orgBrand.provost 9 0
+PROVOST O 0 0 p div orgBrand.provost 9 0
+
+Skip O 0 1 p div hiddenStructure 8 0
+to O 0 0 p div hiddenStructure 8 0
+content. O 0 0 p div hiddenStructure 8 0
+| O 0 0 div div hiddenStructure 7 7
+Skip O 0 1 p div hiddenStructure 8 1
+to O 0 0 p div hiddenStructure 8 1
+navigation O 0 0 p div hiddenStructure 8 1
+
+Department O 0 0 a div template-document_view.portaltype-document.section-people.navroot-ee 8 0
+of O 0 1 a div template-document_view.portaltype-document.section-people.navroot-ee 8 0
+Electrical O 0 0 a div template-document_view.portaltype-document.section-people.navroot-ee 8 0
+Engineering O 0 0 a div template-document_view.portaltype-document.section-people.navroot-ee 8 0
+
+Search O 0 0 div form hiddenStructure 10 0
+Site O 0 1 div form hiddenStructure 10 0
+
+Search O 0 0 div form searchButton 10 2
+
+Advanced O 0 0 div div hiddenStructure 9 0
+Search… O 0 0 div div hiddenStructure 9 0
+
+Personal O 0 1 div div hiddenStructure 8 0
+tools O 0 0 div div hiddenStructure 8 0
+
+Log O 0 1 dt dl actionMenu.deactivated 10 0
+in O 0 1 dt dl actionMenu.deactivated 10 0
+
+Sections O 0 0 div div hiddenStructure 7 27
+
+Home O 0 1 li ul plain 9 0
+
+People O 0 1 li ul plain 9 0
+
+Faculty O 0 0 li ul state-published 11 0
+
+Staff O 0 1 li ul state-published 11 0
+
+Graduate O 1 1 li ul state-published 11 0
+Student O 0 1 li ul state-published 11 0
+Directory O 0 0 li ul state-published 11 0
+
+Directory O 0 0 li ul state-published 11 0
+
+Undergraduate O 0 0 li ul plain 9 0
+
+Prospective O 0 0 li ul state-published 11 0
+Students O 0 0 li ul state-published 11 0
+
+Current O 0 1 li ul state-published 11 0
+Students O 0 0 li ul state-published 11 0
+
+Graduating O 0 0 li ul state-published 11 0
+Students O 0 0 li ul state-published 11 0
+
+Faculty O 0 0 li ul state-published 11 0
+
+Graduate O 1 1 li ul plain 9 0
+
+Admission O 0 0 li ul state-published 11 0
+Requirements O 0 0 li ul state-published 11 0
+
+Apply O 0 0 li ul state-published 11 0
+Now O 0 1 li ul state-published 11 0
+
+Applicant O 0 0 li ul state-published 11 0
+FAQs O 0 0 li ul state-published 11 0
+
+Career O 0 0 li ul state-published 11 0
+Services O 0 0 li ul state-published 11 0
+
+Curriculum O 0 0 li ul state-published 11 0
+
+Graduate O 1 1 li ul state-published 11 0
+Studies O 0 0 li ul state-published 11 0
+Handbook O 0 0 li ul state-published 11 0
+
+Overview O 0 0 li ul state-published 11 0
+of O 0 1 li ul state-published 11 0
+Graduate O 1 1 li ul state-published 11 0
+Education O 0 0 li ul state-published 11 0
+
+EEGraduateHandbook.pdf O 0 0 li ul state-missing-value 11 0
+
+Research O 0 1 li ul plain 9 0
+
+LEAST O 0 0 li ul state-published 11 0
+
+NDnano O 0 0 li ul state-published 11 0
+
+NDNF O 0 0 li ul state-published 11 0
+
+Undergraduate O 0 0 li ul state-published 11 0
+Research O 0 1 li ul state-published 11 0
+
+Wireless O 0 0 li ul state-published 11 0
+Institute O 0 0 li ul state-published 11 0
+
+List O 0 1 li ul state-published 11 0
+of O 0 1 li ul state-published 11 0
+Publications O 0 0 li ul state-published 11 0
+
+Recent O 0 0 li ul state-published 11 0
+Grants O 0 0 li ul state-published 11 0
+
+Admissions O 0 0 li ul plain 9 0
+
+Undergraduate O 0 0 li ul state-published 11 0
+
+Graduate O 1 1 li ul state-published 11 0
+
+Employment O 0 0 li ul plain 9 0
+
+Contact O 0 0 li ul plain 9 0
+Us O 0 1 li ul plain 9 0
+
+Navigation O 0 0 dt dl tile 13 1
+
+People O 0 1 div li contenttype-plone-site. 16 0
+
+Faculty O 0 0 a li state-published.navTreeCurrentItem.navTreeCurrentNode.contenttype-document 16 0
+
+Staff O 0 1 a li state-published.contenttype-document 16 0
+
+Graduate O 1 1 a li state-published.navTreeFolderish.contenttype-folder 16 0
+Student O 0 1 a li state-published.navTreeFolderish.contenttype-folder 16 0
+Directory O 0 0 a li state-published.navTreeFolderish.contenttype-folder 16 0
+
+Directory O 0 0 a li state-published.navTreeFolderish.contenttype-folder 16 0
+
+Feedback O 0 0 dt dl portletHeader 13 1
+
+Help O 0 0 dd dl portletItem.odd 13 0
+us O 0 1 dd dl portletItem.odd 13 0
+make O 0 0 dd dl portletItem.odd 13 0
+your O 0 0 dd dl portletItem.odd 13 0
+experience O 0 0 dd dl portletItem.odd 13 0
+on O 0 0 dd dl portletItem.odd 13 0
+this O 0 0 dd dl portletItem.odd 13 0
+site O 0 0 dd dl portletItem.odd 13 0
+even O 0 0 dd dl portletItem.odd 13 0
+better. O 0 0 dd dl portletItem.odd 13 0
+We O 0 1 dd dl portletItem.odd 13 0
+would O 0 0 dd dl portletItem.odd 13 0
+appreciate O 0 0 dd dl portletItem.odd 13 0
+your O 0 0 dd dl portletItem.odd 13 0
+feedback O 0 0 p dd mail-link 14 0
+. O 0 1 dd dl portletItem.odd 13 0
+
+Home O 0 1 span div template-document_view.portaltype-document.section-people.navroot-ee 12 0
+> O 0 0 span div breadcrumbSeparator 12 1
+People O 0 1 span div template-document_view.portaltype-document.section-people.navroot-ee 12 0
+> O 0 0 span div breadcrumbSeparator 12 1
+Faculty O 0 0 span div template-document_view.portaltype-document.section-people.navroot-ee 12 0
+
+Info O 0 0 dl div portalMessage.info 11 0
+
+Faculty O 0 0 div div documentFirstHeading 11 0
+
+Panos B-NAME 0 1 a p external-link 19 0
+Antsaklis I-NAME 0 1 a p external-link 19 0
+
+H. O 0 1 td tr listing 17 3
+Clifford O 0 1 td tr listing 17 3
+and O 0 1 td tr listing 17 3
+Evelyn O 0 1 td tr listing 17 3
+A. O 0 1 td tr listing 17 3
+Brosey O 0 1 td tr listing 17 3
+Chair O 0 1 td tr listing 17 3
+Professor O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 td tr listing 17 4
+Brown O 0 1 td tr listing 17 4
+University, O 0 0 td tr listing 17 4
+1977 O 0 0 td tr listing 17 4
+
+His O 0 0 td tr listing 17 5
+research O 0 0 td tr listing 17 5
+focuses O 0 0 td tr listing 17 5
+on O 0 0 td tr listing 17 5
+Cyber O 0 0 td tr listing 17 5
+Physical O 0 0 td tr listing 17 5
+Systems O 0 0 td tr listing 17 5
+and O 0 1 td tr listing 17 5
+addresses O 0 0 td tr listing 17 5
+problems O 0 0 td tr listing 17 5
+in O 0 1 td tr listing 17 5
+the O 0 1 td tr listing 17 5
+interdisciplinary O 0 0 td tr listing 17 5
+research O 0 0 td tr listing 17 5
+area O 0 0 td tr listing 17 5
+of O 0 1 td tr listing 17 5
+Control, O 0 0 td tr listing 17 5
+Computing O 0 0 td tr listing 17 5
+and O 0 1 td tr listing 17 5
+Communication O 0 0 td tr listing 17 5
+Networks, O 0 0 td tr listing 17 5
+and O 0 1 td tr listing 17 5
+on O 0 0 td tr listing 17 5
+Hybrid O 0 1 td tr listing 17 5
+and O 0 1 td tr listing 17 5
+Discrete O 0 0 td tr listing 17 5
+Event O 0 1 td tr listing 17 5
+Dynamical O 0 0 td tr listing 17 5
+Systems. O 0 0 td tr listing 17 5
+
+Peter B-NAME 1 1 span span external-link 22 0
+Bauer I-NAME 1 1 span span external-link 22 0
+
+Professor O 0 0 td tr listing 17 6
+
+Ph.D., O 0 0 p td listing 18 0
+University O 0 1 p td listing 18 0
+of O 0 1 p td listing 18 0
+Miami, O 0 0 p td listing 18 0
+1987 O 0 0 p td listing 18 0
+
+Distributed O 0 0 td tr listing 17 9
+sensor/actuator O 0 0 td tr listing 17 9
+networks, O 0 0 td tr listing 17 9
+network O 0 0 td tr listing 17 9
+congestion O 0 0 td tr listing 17 9
+control, O 0 0 td tr listing 17 9
+networked O 0 0 td tr listing 17 9
+control O 0 0 td tr listing 17 9
+systems, O 0 0 td tr listing 17 9
+system O 0 0 td tr listing 17 9
+theory, O 0 0 td tr listing 17 9
+digital O 0 0 td tr listing 17 9
+signal O 0 0 td tr listing 17 9
+processing, O 0 0 td tr listing 17 9
+stability O 0 0 td tr listing 17 9
+theory, O 0 0 td tr listing 17 9
+multidimensional O 0 0 td tr listing 17 9
+systems O 0 0 td tr listing 17 9
+
+Gary B-NAME 0 1 span span external-link 23 0
+Bernstein I-NAME 0 1 span span external-link 23 0
+
+Frank O 1 1 p td position 18 0
+M. O 0 1 p td position 18 0
+Freimann O 0 1 p td position 18 0
+Chair O 0 1 p td position 18 0
+Professor O 0 0 p td position 18 0
+
+Ph.D., O 0 0 p td listing 18 0
+Arizona O 0 0 p td listing 18 0
+State O 0 1 p td listing 18 0
+University, O 0 0 p td listing 18 0
+1987 O 0 0 p td listing 18 0
+
+Nanostructure O 0 0 td tr listing 17 13
+fabrication, O 0 0 td tr listing 17 13
+electron O 0 0 td tr listing 17 13
+beam O 0 0 td tr listing 17 13
+lithography, O 0 0 td tr listing 17 13
+microfluidics O 0 0 td tr listing 17 13
+systems. O 0 0 td tr listing 17 13
+
+William B-NAME 1 1 span span external-link 24 0
+Berr I-NAME 0 1 span span external-link 24 0
+
+y O 0 1 strong span external-link 20 0
+
+Professor O 0 0 p td position 18 0
+Emeritus O 0 1 p td position 18 0
+
+Ph.D., O 0 0 p td listing 18 0
+Purdue O 0 1 p td listing 18 0
+University, O 0 0 p td listing 18 0
+1963 O 0 0 p td listing 18 0
+
+Solid-state O 0 0 td tr listing 17 21
+energy O 0 0 td tr listing 17 21
+conversion, O 0 0 td tr listing 17 21
+thermoelectrics, O 0 0 td tr listing 17 21
+photovoltaics O 0 0 td tr listing 17 21
+
+Jonathan B-NAME 0 1 span a external-link 20 0
+Chisum I-NAME 0 1 span a external-link 20 0
+
+Assistant O 0 0 td tr listing 17 4
+Professor O 0 0 td tr listing 17 4
+
+Ph.D., O 0 0 td tr listing 17 5
+University O 0 1 td tr listing 17 5
+of O 0 1 td tr listing 17 5
+Colorado, O 0 0 td tr listing 17 5
+Boulder, O 0 0 td tr listing 17 5
+2011 O 0 0 td tr listing 17 5
+
+Millimeter O 0 0 td tr listing 17 6
+Wave O 0 0 td tr listing 17 6
+(MMW) O 0 0 td tr listing 17 6
+systems O 0 0 td tr listing 17 6
+for O 0 1 td tr listing 17 6
+wideband O 0 0 td tr listing 17 6
+wireless O 0 0 td tr listing 17 6
+communications O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+multi-funtion O 0 0 td tr listing 17 6
+apertures O 0 0 td tr listing 17 6
+
+Daniel B-NAME 0 1 strong span external-link 25 0
+J. I-NAME 0 1 strong span external-link 25 0
+Costello, I-NAME 0 0 strong span external-link 25 0
+Jr. I-NAME 0 1 strong span external-link 25 0
+
+Bettex O 0 1 p td position 18 0
+Chair O 0 1 p td position 18 0
+Professor O 0 0 p td position 18 0
+Emeritus O 0 1 p td position 18 0
+
+Ph.D., O 0 0 p td position 18 0
+University O 0 1 p td position 18 0
+of O 0 1 p td position 18 0
+Notre O 0 0 p td position 18 0
+Dame, O 0 0 p td position 18 0
+1969 O 0 0 p td position 18 0
+
+The O 0 1 span p Apple-converted-space 19 0
+Analysis O 0 0 span p Apple-converted-space 19 0
+and O 0 1 span p Apple-converted-space 19 0
+Design O 0 0 span p Apple-converted-space 19 0
+of O 0 1 span p Apple-converted-space 19 0
+Error-Correcting O 0 0 span p Apple-converted-space 19 0
+Codes O 0 1 span p Apple-converted-space 19 0
+for O 0 1 span p Apple-converted-space 19 0
+Applications O 0 0 span p Apple-converted-space 19 0
+in O 0 1 span p Apple-converted-space 19 0
+Digital O 0 1 span p Apple-converted-space 19 0
+Communications O 0 0 span p Apple-converted-space 19 0
+and O 0 1 span p Apple-converted-space 19 0
+Data O 0 1 span p Apple-converted-space 19 0
+Storage O 0 0 span p Apple-converted-space 19 0
+
+Suman B-NAME 1 1 span a internal-link 20 0
+Datta I-NAME 1 1 span a internal-link 20 0
+
+Chang O 0 1 td tr listing 17 4
+Family O 0 1 td tr listing 17 4
+Chair O 0 1 td tr listing 17 4
+Professor O 0 0 td tr listing 17 4
+
+Ph.D., O 0 0 td tr listing 17 5
+University O 0 1 td tr listing 17 5
+of O 0 1 td tr listing 17 5
+Cincinnati, O 0 0 td tr listing 17 5
+1999 O 0 0 td tr listing 17 5
+
+Nanoelectronic O 0 0 td tr listing 17 7
+device O 0 0 td tr listing 17 7
+modeling, O 0 0 td tr listing 17 7
+fabrication, O 0 0 td tr listing 17 7
+characterization O 0 0 td tr listing 17 7
+and O 0 1 td tr listing 17 7
+their O 0 0 td tr listing 17 7
+circuit O 0 0 td tr listing 17 7
+applications O 0 0 td tr listing 17 7
+for O 0 1 td tr listing 17 7
+future O 0 0 td tr listing 17 7
+energy O 0 0 td tr listing 17 7
+efficient O 0 0 td tr listing 17 7
+and O 0 1 td tr listing 17 7
+high O 0 0 td tr listing 17 7
+performance O 0 0 td tr listing 17 7
+information O 0 0 td tr listing 17 7
+processing O 0 0 td tr listing 17 7
+systems; O 0 0 td tr listing 17 7
+ultra O 0 0 td tr listing 17 7
+low O 0 0 td tr listing 17 7
+voltage O 0 0 td tr listing 17 7
+computing O 0 0 td tr listing 17 7
+applications O 0 0 td tr listing 17 7
+for O 0 1 td tr listing 17 7
+energy O 0 0 td tr listing 17 7
+autonomous O 0 0 td tr listing 17 7
+systems; O 0 0 td tr listing 17 7
+millimeter O 0 0 td tr listing 17 7
+wave O 0 0 td tr listing 17 7
+integrated O 0 0 td tr listing 17 7
+circuits; O 0 0 td tr listing 17 7
+convergence O 0 0 td tr listing 17 7
+between O 0 0 td tr listing 17 7
+life O 0 0 td tr listing 17 7
+sciences O 0 0 td tr listing 17 7
+and O 0 1 td tr listing 17 7
+solid-state O 0 0 td tr listing 17 7
+technologies. O 0 0 td tr listing 17 7
+
+Robert B-NAME 1 1 a p external-link 19 0
+Dunn I-NAME 1 1 a p external-link 19 0
+
+Professional O 0 0 td tr listing 17 7
+Specialist O 0 0 td tr listing 17 7
+
+Ph.D., O 0 0 td tr listing 17 9
+University O 0 1 td tr listing 17 9
+of O 0 1 td tr listing 17 9
+Illinois, O 0 0 td tr listing 17 9
+1972 O 0 0 td tr listing 17 9
+
+Managing O 0 0 td tr listing 17 10
+Director, O 0 0 td tr listing 17 10
+LEAST O 0 0 td tr listing 17 10
+
+Patrick B-NAME 1 1 a p external-link 19 0
+Fay I-NAME 1 1 a p external-link 19 0
+
+Professor O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 p td listing 18 0
+University O 1 1 p td listing 18 0
+of O 1 1 p td listing 18 0
+Illinois O 1 1 p td listing 18 0
+at O 0 0 p td listing 18 0
+Urbana-Champaign, O 0 0 p td listing 18 0
+1996 O 0 0 p td listing 18 0
+
+Dr. O 0 1 td tr listing 17 7
+Fay's O 0 0 td tr listing 17 7
+research O 0 0 td tr listing 17 7
+interests O 0 0 td tr listing 17 7
+include O 0 0 td tr listing 17 7
+the O 0 1 td tr listing 17 7
+design, O 0 0 td tr listing 17 7
+fabrication, O 0 0 td tr listing 17 7
+and O 0 1 td tr listing 17 7
+characterization O 0 0 td tr listing 17 7
+of O 0 1 td tr listing 17 7
+microwave O 0 0 td tr listing 17 7
+and O 0 1 td tr listing 17 7
+millimeter-wave O 0 0 td tr listing 17 7
+electronic O 0 0 td tr listing 17 7
+devices O 0 0 td tr listing 17 7
+and O 0 1 td tr listing 17 7
+circuits, O 0 0 td tr listing 17 7
+as O 0 0 td tr listing 17 7
+well O 0 0 td tr listing 17 7
+as O 0 0 td tr listing 17 7
+high-speed O 0 0 td tr listing 17 7
+optoelectronic O 0 0 td tr listing 17 7
+devices O 0 0 td tr listing 17 7
+and O 0 1 td tr listing 17 7
+optoelectronic O 0 0 td tr listing 17 7
+integrated O 0 0 td tr listing 17 7
+circuits O 0 0 td tr listing 17 7
+for O 0 1 td tr listing 17 7
+fiber O 0 0 td tr listing 17 7
+optic O 0 0 td tr listing 17 7
+telecommunications. O 0 0 td tr listing 17 7
+
+Thomas B-NAME 1 1 a p external-link 19 0
+E. I-NAME 1 1 a p external-link 19 0
+Fuja I-NAME 1 1 a p external-link 19 0
+
+Professor O 0 0 td tr listing 17 3
+and O 0 1 td tr listing 17 3
+Chair O 0 1 td tr listing 17 3
+
+Ph.D., O 0 0 p td listing 18 0
+Cornell O 0 1 p td listing 18 0
+University, O 0 0 p td listing 18 0
+1987 O 0 0 p td listing 18 0
+
+Prof. O 0 1 td tr listing 17 6
+Fuja O 0 1 td tr listing 17 6
+research O 0 0 td tr listing 17 6
+addresses O 0 0 td tr listing 17 6
+reliable O 0 0 td tr listing 17 6
+communication O 0 0 td tr listing 17 6
+over O 0 0 td tr listing 17 6
+inherently O 0 0 td tr listing 17 6
+unreliable O 0 0 td tr listing 17 6
+and/or O 0 0 td tr listing 17 6
+constrained O 0 0 td tr listing 17 6
+communication O 0 0 td tr listing 17 6
+links. O 0 0 td tr listing 17 6
+
+Vijay B-NAME 1 1 a p external-link 19 0
+Gupta I-NAME 1 1 a p external-link 19 0
+
+Professor O 0 0 td tr listing 17 3
+and O 0 1 td tr listing 17 3
+Associate O 0 1 td tr listing 17 3
+Chair O 0 1 td tr listing 17 3
+of O 0 1 td tr listing 17 3
+Graduate O 1 1 td tr listing 17 3
+Studies O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 p td listing 18 0
+California O 0 0 p td listing 18 0
+Institute O 0 0 p td listing 18 0
+of O 0 1 p td listing 18 0
+Technology O 0 0 p td listing 18 0
+
+Dr. O 0 1 td tr listing 17 6
+Gupta's O 0 0 td tr listing 17 6
+current O 0 0 td tr listing 17 6
+research O 0 0 td tr listing 17 6
+interests O 0 0 td tr listing 17 6
+are O 0 0 td tr listing 17 6
+in O 0 1 td tr listing 17 6
+the O 0 1 td tr listing 17 6
+analysis O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+design O 0 0 td tr listing 17 6
+of O 0 1 td tr listing 17 6
+cyberphysical O 0 0 td tr listing 17 6
+systems. O 0 0 td tr listing 17 6
+
+Martin B-NAME 1 1 a p external-link 19 0
+Haenggi I-NAME 1 1 a p external-link 19 0
+
+Frank O 1 1 td tr listing 17 3
+M. O 0 1 td tr listing 17 3
+Freimann O 0 1 td tr listing 17 3
+Chair O 0 1 td tr listing 17 3
+Professor O 0 0 td tr listing 17 3
+
+Ph.D. O 0 0 p td listing 18 0
+(EE): O 0 0 p td listing 18 0
+Swiss O 0 1 p td listing 18 0
+Federal O 0 0 p td listing 18 0
+Institute O 0 0 p td listing 18 0
+of O 0 1 p td listing 18 0
+Technology O 0 0 p td listing 18 0
+(ETH), O 0 0 p td listing 18 0
+1999 O 0 0 p td listing 18 0
+
+Information O 0 1 td tr listing 17 6
+Theory O 0 0 td tr listing 17 6
+for O 0 1 td tr listing 17 6
+Mobile O 0 0 td tr listing 17 6
+Ad O 0 1 td tr listing 17 6
+Hoc O 0 1 td tr listing 17 6
+Networks O 0 0 td tr listing 17 6
+(IT-MANET): O 0 0 td tr listing 17 6
+The O 0 1 td tr listing 17 6
+goal O 0 0 td tr listing 17 6
+of O 0 1 td tr listing 17 6
+this O 0 0 td tr listing 17 6
+project O 0 0 td tr listing 17 6
+is O 0 0 td tr listing 17 6
+to O 0 0 td tr listing 17 6
+find O 0 0 td tr listing 17 6
+the O 0 1 td tr listing 17 6
+fundamental O 0 0 td tr listing 17 6
+performance O 0 0 td tr listing 17 6
+limits O 0 0 td tr listing 17 6
+of O 0 1 td tr listing 17 6
+mobile O 0 0 td tr listing 17 6
+ad O 0 0 td tr listing 17 6
+hoc O 0 0 td tr listing 17 6
+networks O 0 0 td tr listing 17 6
+in O 0 1 td tr listing 17 6
+terms O 0 0 td tr listing 17 6
+of O 0 1 td tr listing 17 6
+throughput, O 0 0 td tr listing 17 6
+delay, O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+reliability. O 0 0 td tr listing 17 6
+
+Douglas B-NAME 0 1 a p external-link 19 0
+Hall I-NAME 0 1 a p external-link 19 0
+
+Associate O 0 1 td tr listing 17 3
+Professor O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 p td listing 18 0
+University O 1 1 p td listing 18 0
+of O 1 1 p td listing 18 0
+Illinois O 1 1 p td listing 18 0
+at O 0 0 p td listing 18 0
+Urbana-Champaign, O 0 0 p td listing 18 0
+1991 O 0 0 p td listing 18 0
+
+Optoelectronics O 0 0 td tr listing 17 6
+device O 0 0 td tr listing 17 6
+characterization, O 0 0 td tr listing 17 6
+fabrication, O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+materials O 0 0 td tr listing 17 6
+studies O 0 0 td tr listing 17 6
+
+Eugene B-NAME 0 1 a p external-link 19 0
+Henry I-NAME 0 1 a p external-link 19 0
+
+Professor O 0 0 td tr listing 17 3
+Emeritus O 0 1 td tr listing 17 3
+
+Ph.D., O 0 0 td tr listing 17 4
+Electrical O 0 0 td tr listing 17 4
+Engineering, O 0 0 td tr listing 17 4
+Stanford O 0 1 td tr listing 17 4
+University, O 0 0 td tr listing 17 4
+1960 O 0 0 td tr listing 17 4
+
+Control O 0 0 td tr listing 17 5
+systems, O 0 0 td tr listing 17 5
+simulation O 0 0 td tr listing 17 5
+and O 0 1 td tr listing 17 5
+computer O 0 0 td tr listing 17 5
+design O 0 0 td tr listing 17 5
+
+Bertrand B-NAME 0 1 a p external-link 19 0
+Hochwald I-NAME 0 1 a p external-link 19 0
+
+Frank O 1 1 p td position 18 0
+M. O 0 1 p td position 18 0
+Freimann O 0 1 p td position 18 0
+Chair O 0 1 p td position 18 0
+Professor O 0 0 p td position 18 0
+
+Ph.D O 0 0 p td listing 18 0
+(engineering) O 0 0 p td listing 18 0
+1995, O 0 0 p td listing 18 0
+Yale O 0 1 p td listing 18 0
+University O 0 1 p td listing 18 0
+
+Wireless O 0 0 p td listing 18 0
+Communications O 0 0 p td listing 18 0
+
+Anthony B-NAME 1 1 strong p external-link 19 0
+Hoffman I-NAME 1 1 strong p external-link 19 0
+
+Assistant O 0 0 td tr listing 17 3
+Professor O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 td tr listing 17 4
+Princeton O 0 1 td tr listing 17 4
+University, O 0 0 td tr listing 17 4
+2009 O 0 0 td tr listing 17 4
+
+Scott B-NAME 1 1 a p external-link 19 0
+Howard I-NAME 1 1 a p external-link 19 0
+
+Associate O 0 1 td tr listing 17 3
+Professor O 0 0 td tr listing 17 3
+
+Ph.D. O 0 0 p td listing 18 0
+Princeton O 0 1 p td listing 18 0
+University, O 0 0 p td listing 18 0
+2008 O 0 0 p td listing 18 0
+(EE) O 0 0 p td listing 18 0
+
+Prof. O 0 1 td tr listing 17 6
+Howard's O 0 0 td tr listing 17 6
+research O 0 0 td tr listing 17 6
+focuses O 0 0 td tr listing 17 6
+on O 0 0 td tr listing 17 6
+how O 0 0 td tr listing 17 6
+the O 0 1 td tr listing 17 6
+interaction O 0 0 td tr listing 17 6
+of O 0 1 td tr listing 17 6
+photons O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+tissue O 0 0 td tr listing 17 6
+can O 0 0 td tr listing 17 6
+be O 0 1 td tr listing 17 6
+used O 0 0 td tr listing 17 6
+to O 0 0 td tr listing 17 6
+aid O 0 0 td tr listing 17 6
+diagnosis O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+fundamental O 0 0 td tr listing 17 6
+research O 0 0 td tr listing 17 6
+in O 0 1 td tr listing 17 6
+biological O 0 0 td tr listing 17 6
+fields. O 0 0 td tr listing 17 6
+
+Yih-Fang B-NAME 1 1 strong a internal-link 20 0
+Huang I-NAME 1 1 strong a internal-link 20 0
+
+Professor O 0 0 p td position 18 0
+and O 0 1 p td position 18 0
+Senior O 0 1 p td position 18 0
+Associate O 0 1 p td position 18 0
+Dean O 0 1 p td position 18 0
+for O 0 1 p td position 18 0
+Education O 0 0 p td position 18 0
+and O 0 1 p td position 18 0
+Undergraduate O 0 0 p td position 18 0
+Programs O 0 0 p td position 18 0
+
+Ph.D., O 0 0 p td listing 18 0
+Princeton O 0 1 p td listing 18 0
+University, O 0 0 p td listing 18 0
+1982 O 0 0 p td listing 18 0
+
+My O 0 1 td tr listing 17 8
+research O 0 0 td tr listing 17 8
+interests O 0 0 td tr listing 17 8
+focus O 0 0 td tr listing 17 8
+on O 0 0 td tr listing 17 8
+theory O 0 0 td tr listing 17 8
+and O 0 1 td tr listing 17 8
+applications O 0 0 td tr listing 17 8
+of O 0 1 td tr listing 17 8
+detection O 0 0 td tr listing 17 8
+and O 0 1 td tr listing 17 8
+estimation O 0 0 td tr listing 17 8
+
+Thomas B-NAME 0 1 a p external-link 19 0
+Kosel I-NAME 0 1 a p external-link 19 0
+
+Professor O 0 0 td tr listing 17 3
+Emeritus O 0 1 td tr listing 17 3
+
+Ph.D., O 0 0 p td listing 18 0
+University O 0 1 p td listing 18 0
+of O 0 1 p td listing 18 0
+California, O 0 0 p td listing 18 0
+1975 O 0 0 p td listing 18 0
+
+Wear, O 0 0 td tr listing 17 6
+erosion, O 0 0 td tr listing 17 6
+electron O 0 0 td tr listing 17 6
+microscopy O 0 0 td tr listing 17 6
+
+J. B-NAME 1 1 strong p external-link 19 0
+Nicholas I-NAME 1 1 strong p external-link 19 0
+Laneman I-NAME 1 1 strong p external-link 19 0
+
+Professor O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 p td listing 18 0
+MIT, O 0 0 p td listing 18 0
+2002 O 0 0 p td listing 18 0
+
+Wireless O 0 0 p td listing 18 0
+communication O 0 0 p td listing 18 0
+systems, O 0 0 p td listing 18 0
+information O 0 0 p td listing 18 0
+theory, O 0 0 p td listing 18 0
+software O 0 0 p td listing 18 0
+radio O 0 0 p td listing 18 0
+
+Michael B-NAME 1 1 a td external-link 18 0
+Lemmon I-NAME 1 1 a td external-link 18 0
+
+Professor O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 p td listing 18 0
+Carnegie O 0 1 p td listing 18 0
+Mellon O 0 1 p td listing 18 0
+University, O 0 0 p td listing 18 0
+1990 O 0 0 p td listing 18 0
+
+Inter-relationship O 0 0 td tr listing 17 6
+between O 0 0 td tr listing 17 6
+communication, O 0 0 td tr listing 17 6
+computation, O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+control O 0 0 td tr listing 17 6
+in O 0 1 td tr listing 17 6
+such O 0 0 td tr listing 17 6
+large-scale O 0 0 td tr listing 17 6
+sensor-actuator O 0 0 td tr listing 17 6
+networks O 0 0 td tr listing 17 6
+
+Craig B-NAME 0 1 a p external-link 19 0
+Lent I-NAME 0 1 a p external-link 19 0
+
+Frank O 1 1 td tr listing 17 3
+M. O 0 1 td tr listing 17 3
+Freimann O 0 1 td tr listing 17 3
+Chair O 0 1 td tr listing 17 3
+Professor O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 p td listing 18 0
+University O 0 1 p td listing 18 0
+of O 0 1 p td listing 18 0
+Minnesota, O 0 0 p td listing 18 0
+1984 O 0 0 p td listing 18 0
+
+Quantum-dot O 0 0 td tr listing 17 6
+Cellular O 0 0 td tr listing 17 6
+Automata O 0 0 td tr listing 17 6
+(QCA) O 0 0 td tr listing 17 6
+
+Hai B-NAME 1 1 a p external-link 19 0
+Lin I-NAME 1 1 a p external-link 19 0
+
+Associate O 0 1 td tr listing 17 3
+Professor O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 p td listing 18 0
+University O 0 1 p td listing 18 0
+of O 0 1 p td listing 18 0
+Notre O 0 0 p td listing 18 0
+Dame, O 0 0 p td listing 18 0
+2005 O 0 0 p td listing 18 0
+
+Dr. O 0 1 td tr listing 17 6
+Lin's O 0 0 td tr listing 17 6
+teaching O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+research O 0 0 td tr listing 17 6
+interests O 0 0 td tr listing 17 6
+are O 0 0 td tr listing 17 6
+in O 0 1 td tr listing 17 6
+the O 0 1 td tr listing 17 6
+multidisciplinary O 0 0 td tr listing 17 6
+study O 0 0 td tr listing 17 6
+of O 0 1 td tr listing 17 6
+the O 0 1 td tr listing 17 6
+problems O 0 0 td tr listing 17 6
+at O 0 0 td tr listing 17 6
+the O 0 1 td tr listing 17 6
+intersections O 0 0 td tr listing 17 6
+of O 0 1 td tr listing 17 6
+control, O 0 0 td tr listing 17 6
+communication, O 0 0 td tr listing 17 6
+computation O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+life O 0 0 td tr listing 17 6
+sciences. O 0 0 td tr listing 17 6
+His O 0 0 td tr listing 17 6
+current O 0 0 td tr listing 17 6
+research O 0 0 td tr listing 17 6
+thrust O 0 0 td tr listing 17 6
+is O 0 0 td tr listing 17 6
+on O 0 0 td tr listing 17 6
+cyber-physical O 0 0 td tr listing 17 6
+systems, O 0 0 td tr listing 17 6
+multi-robot O 0 0 td tr listing 17 6
+cooperative O 0 0 td tr listing 17 6
+tasking, O 0 0 td tr listing 17 6
+systems O 0 0 td tr listing 17 6
+biology O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+quantum O 0 0 td tr listing 17 6
+control. O 0 0 td tr listing 17 6
+
+Lei B-NAME 1 1 a p external-link 19 0
+Liu I-NAME 1 1 a p external-link 19 0
+
+Assistant O 0 0 td tr listing 17 3
+Professor O 0 0 td tr listing 17 3
+
+Ph.D. O 0 0 p td listing 18 0
+University O 0 1 p td listing 18 0
+of O 0 1 p td listing 18 0
+Virginia, O 0 0 p td listing 18 0
+2007 O 0 0 p td listing 18 0
+
+His O 0 0 td tr listing 17 6
+research O 0 0 td tr listing 17 6
+interests O 0 0 td tr listing 17 6
+include O 0 0 td tr listing 17 6
+millimeter- O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+submillimeter-wave O 0 0 td tr listing 17 6
+device O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+circuit O 0 0 td tr listing 17 6
+design, O 0 0 td tr listing 17 6
+modeling, O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+testing, O 0 0 td tr listing 17 6
+quasi-optical O 0 0 td tr listing 17 6
+techniques, O 0 0 td tr listing 17 6
+terahertz O 0 0 td tr listing 17 6
+detectors O 0 0 td tr listing 17 6
+for O 0 1 td tr listing 17 6
+imaging O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+spectroscopy, O 0 0 td tr listing 17 6
+novel O 0 0 td tr listing 17 6
+microwave O 0 0 td tr listing 17 6
+materials O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+devices, O 0 0 td tr listing 17 6
+superconducting O 0 0 td tr listing 17 6
+electronics, O 0 0 td tr listing 17 6
+microfabrication O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+processing. O 0 0 td tr listing 17 6
+
+Ruey-Wen B-NAME 1 1 strong p external-link 19 0
+Liu I-NAME 1 1 strong p external-link 19 0
+
+Frank O 1 1 p td position 18 0
+M. O 0 1 p td position 18 0
+Freimann O 0 1 p td position 18 0
+Chair O 0 1 p td position 18 0
+Professor O 0 0 p td position 18 0
+Emeritus O 0 1 p td position 18 0
+
+University O 1 1 td tr listing 17 5
+of O 1 1 td tr listing 17 5
+Illinois O 1 1 td tr listing 17 5
+at O 0 0 td tr listing 17 5
+Urbana, O 0 0 td tr listing 17 5
+1960 O 0 0 td tr listing 17 5
+
+Dr. O 0 1 td tr listing 17 6
+Liu's O 0 0 td tr listing 17 6
+research O 0 0 td tr listing 17 6
+interests O 0 0 td tr listing 17 6
+encompass O 0 0 td tr listing 17 6
+circuits O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+systems, O 0 0 td tr listing 17 6
+signal O 0 0 td tr listing 17 6
+processing O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+communication. O 0 0 td tr listing 17 6
+He O 0 1 td tr listing 17 6
+is O 0 0 td tr listing 17 6
+currently O 0 0 td tr listing 17 6
+pursuing O 0 0 td tr listing 17 6
+a O 0 1 td tr listing 17 6
+new O 0 0 td tr listing 17 6
+multiple O 0 0 td tr listing 17 6
+access O 0 0 td tr listing 17 6
+for O 0 1 td tr listing 17 6
+the O 0 1 td tr listing 17 6
+physical O 0 0 td tr listing 17 6
+layer O 0 0 td tr listing 17 6
+of O 0 1 td tr listing 17 6
+wireless O 0 0 td tr listing 17 6
+communication O 0 0 td tr listing 17 6
+networks O 0 0 td tr listing 17 6
+in O 0 1 td tr listing 17 6
+the O 0 1 td tr listing 17 6
+unlicensed O 0 0 td tr listing 17 6
+spectrum. O 0 0 td tr listing 17 6
+
+Christine B-NAME 0 1 a p external-link 19 0
+Maziar I-NAME 0 1 a p external-link 19 0
+
+Professor, O 0 0 p td position 18 0
+VP O 0 0 p td position 18 0
+and O 0 1 p td position 18 0
+Senior O 0 1 p td position 18 0
+Associate O 0 1 p td position 18 0
+Provost O 0 1 p td position 18 0
+
+Ph.D., O 0 0 p td position 18 0
+Purdue O 0 1 p td position 18 0
+University, O 0 0 p td position 18 0
+1987 O 0 0 p td position 18 0
+
+Research O 0 1 td tr listing 17 7
+interests O 0 0 td tr listing 17 7
+include O 0 0 td tr listing 17 7
+developing O 0 0 td tr listing 17 7
+models O 0 0 td tr listing 17 7
+and O 0 1 td tr listing 17 7
+computer O 0 0 td tr listing 17 7
+simulation O 0 0 td tr listing 17 7
+tools O 0 0 td tr listing 17 7
+that O 0 0 td tr listing 17 7
+describe O 0 0 td tr listing 17 7
+charge O 0 0 td tr listing 17 7
+transport O 0 0 td tr listing 17 7
+in O 0 1 td tr listing 17 7
+semiconductor O 0 0 td tr listing 17 7
+device O 0 0 td tr listing 17 7
+structures, O 0 0 td tr listing 17 7
+transport O 0 0 td tr listing 17 7
+phenomena O 0 0 td tr listing 17 7
+in O 0 1 td tr listing 17 7
+ultra-small O 0 0 td tr listing 17 7
+structures, O 0 0 td tr listing 17 7
+structures O 0 0 td tr listing 17 7
+under O 0 0 td tr listing 17 7
+high O 0 0 td tr listing 17 7
+electric O 0 0 td tr listing 17 7
+fields, O 0 0 td tr listing 17 7
+and O 0 1 td tr listing 17 7
+structures O 0 0 td tr listing 17 7
+composed O 0 0 td tr listing 17 7
+of O 0 1 td tr listing 17 7
+superlattices O 0 0 td tr listing 17 7
+or O 0 0 td tr listing 17 7
+novel O 0 0 td tr listing 17 7
+materials. O 0 0 td tr listing 17 7
+
+Jim B-NAME 0 1 a p external-link 19 0
+Merz I-NAME 0 1 a p external-link 19 0
+
+Frank O 1 1 p td position 18 0
+M. O 0 1 p td position 18 0
+Freimann O 0 1 p td position 18 0
+Chair O 0 1 p td position 18 0
+Professor O 0 0 p td position 18 0
+Emeritus O 0 1 p td position 18 0
+
+Ph.D., O 0 0 p td listing 18 0
+Harvard O 0 1 p td listing 18 0
+University, O 0 0 p td listing 18 0
+1967 O 0 0 p td listing 18 0
+
+Semiconductor O 0 1 td tr listing 17 7
+physics, O 0 0 td tr listing 17 7
+materials, O 0 0 td tr listing 17 7
+and O 0 1 td tr listing 17 7
+devices; O 0 0 td tr listing 17 7
+optical O 0 0 td tr listing 17 7
+properties O 0 0 td tr listing 17 7
+of O 0 1 td tr listing 17 7
+solids; O 0 0 td tr listing 17 7
+
+defects; O 0 0 td tr listing 17 7
+and O 0 1 td tr listing 17 7
+nanostructures O 0 0 td tr listing 17 7
+
+Alexander B-NAME 0 1 a p external-link 19 0
+Mintairov I-NAME 0 0 a p external-link 19 0
+
+Research O 0 1 td tr listing 17 3
+Associate O 0 1 td tr listing 17 3
+Professor O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 p td listing 18 0
+Ioffe O 0 1 p td listing 18 0
+Physical-Technical O 0 0 p td listing 18 0
+Institute, O 0 0 p td listing 18 0
+St. O 0 1 p td listing 18 0
+Petersburg, O 0 0 p td listing 18 0
+1987 O 0 0 p td listing 18 0
+
+Dr. O 0 1 td tr listing 17 6
+Mintairov's O 0 0 td tr listing 17 6
+research O 0 0 td tr listing 17 6
+interests O 0 0 td tr listing 17 6
+include O 0 0 td tr listing 17 6
+near-field O 0 0 td tr listing 17 6
+magneto-spectroscopy O 0 0 td tr listing 17 6
+of O 0 1 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+nano-photonic O 0 0 td tr listing 17 6
+structutres. O 0 0 td tr listing 17 6
+Current O 0 1 td tr listing 17 6
+research O 0 0 td tr listing 17 6
+projects O 0 0 td tr listing 17 6
+include O 0 0 td tr listing 17 6
+study O 0 0 td tr listing 17 6
+of O 0 1 td tr listing 17 6
+emission O 0 0 td tr listing 17 6
+properties O 0 0 td tr listing 17 6
+of O 0 1 td tr listing 17 6
+dilute O 0 0 td tr listing 17 6
+nitride O 0 0 td tr listing 17 6
+materials, O 0 0 td tr listing 17 6
+nano-optics O 0 0 td tr listing 17 6
+of O 0 1 td tr listing 17 6
+microdisk O 0 0 td tr listing 17 6
+lasers, O 0 0 td tr listing 17 6
+light-emitting O 0 0 td tr listing 17 6
+single O 0 0 td tr listing 17 6
+electron O 0 0 td tr listing 17 6
+transistors O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+blinking O 0 0 td tr listing 17 6
+phenomena O 0 0 td tr listing 17 6
+in O 0 1 td tr listing 17 6
+colloidal O 0 0 td tr listing 17 6
+nanostructures. O 0 0 td tr listing 17 6
+
+Alexei B-NAME 0 1 a p external-link 19 0
+Orlov I-NAME 0 1 a p external-link 19 0
+
+Research O 0 1 td tr listing 17 3
+Associate O 0 1 td tr listing 17 3
+Professor O 0 0 td tr listing 17 3
+
+Ph. O 0 1 p td listing 18 0
+D., O 0 0 p td listing 18 0
+IREE O 0 0 p td listing 18 0
+RAS, O 0 0 p td listing 18 0
+Moscow, O 0 0 p td listing 18 0
+1990 O 0 0 p td listing 18 0
+
+My O 0 1 td tr listing 17 6
+topics O 0 0 td tr listing 17 6
+of O 0 1 td tr listing 17 6
+research O 0 0 td tr listing 17 6
+are O 0 0 td tr listing 17 6
+experimental O 0 0 td tr listing 17 6
+studies O 0 0 td tr listing 17 6
+of O 0 1 td tr listing 17 6
+nanostructures O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+nanodevices O 0 0 td tr listing 17 6
+with O 0 0 td tr listing 17 6
+main O 0 0 td tr listing 17 6
+focus O 0 0 td tr listing 17 6
+on O 0 0 td tr listing 17 6
+experimental O 0 0 td tr listing 17 6
+single O 0 0 td tr listing 17 6
+electronics O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+nanomagnetics. O 0 0 td tr listing 17 6
+
+Thomas B-NAME 0 1 a p external-link 19 0
+O'Sullivan I-NAME 0 1 a p external-link 19 0
+
+Assistant O 0 0 td tr listing 17 3
+Professor O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 td tr listing 17 5
+Stanford O 0 1 td tr listing 17 5
+University, O 0 0 td tr listing 17 5
+2011 O 0 0 td tr listing 17 5
+
+Prof. O 0 1 td tr listing 17 6
+O'Sullivan's O 0 0 td tr listing 17 6
+research O 0 0 td tr listing 17 6
+interests O 0 0 td tr listing 17 6
+include O 0 0 td tr listing 17 6
+the O 0 1 td tr listing 17 6
+design O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+application O 0 0 td tr listing 17 6
+of O 0 1 td tr listing 17 6
+semiconductor O 0 0 td tr listing 17 6
+optical O 0 0 td tr listing 17 6
+devices O 0 0 td tr listing 17 6
+for O 0 1 td tr listing 17 6
+biomedical O 0 0 td tr listing 17 6
+sensing, O 0 0 td tr listing 17 6
+diagnostics O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+imaging O 0 0 td tr listing 17 6
+(biophotonics). O 0 0 td tr listing 17 6
+He O 0 1 td tr listing 17 6
+also O 0 0 td tr listing 17 6
+integrates O 0 0 td tr listing 17 6
+these O 0 0 td tr listing 17 6
+technologies O 0 0 td tr listing 17 6
+into O 0 0 td tr listing 17 6
+medical O 0 0 td tr listing 17 6
+devices O 0 0 td tr listing 17 6
+designed O 0 0 td tr listing 17 6
+to O 0 0 td tr listing 17 6
+understand O 0 0 td tr listing 17 6
+human O 0 0 td tr listing 17 6
+physiology O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+diagnose/monitor O 0 0 td tr listing 17 6
+disease. O 0 0 td tr listing 17 6
+
+Wolfgang B-NAME 1 1 a p external-link 19 0
+Porod I-NAME 1 1 a p external-link 19 0
+
+Frank O 1 1 p td position 18 0
+M. O 0 1 p td position 18 0
+Freimann O 0 1 p td position 18 0
+Chair O 0 1 p td position 18 0
+Professor O 0 0 p td position 18 0
+
+Ph.D., O 0 0 p td listing 18 0
+Universität O 0 0 p td listing 18 0
+Graz, O 0 0 p td listing 18 0
+Graz, O 0 0 p td listing 18 0
+Austria, O 0 0 p td listing 18 0
+June O 0 1 p td listing 18 0
+1981 O 0 0 p td listing 18 0
+
+Solid-state O 0 0 td tr listing 17 7
+devices, O 0 0 td tr listing 17 7
+computational O 0 0 td tr listing 17 7
+electronics, O 0 0 td tr listing 17 7
+and O 0 1 td tr listing 17 7
+nanoelectronics. O 0 0 td tr listing 17 7
+
+Thomas B-NAME 0 1 a p external-link 19 0
+Pratt I-NAME 0 1 a p external-link 19 0
+
+Research O 0 1 td tr listing 17 3
+Professor O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 p td listing 18 0
+Georgia O 0 1 p td listing 18 0
+Institute O 0 0 p td listing 18 0
+of O 0 1 p td listing 18 0
+Technology, O 0 0 p td listing 18 0
+1999 O 0 0 p td listing 18 0
+
+Dr. O 0 1 td tr listing 17 6
+Pratt O 0 1 td tr listing 17 6
+has O 0 0 td tr listing 17 6
+particular O 0 0 td tr listing 17 6
+interest O 0 0 td tr listing 17 6
+in O 0 1 td tr listing 17 6
+multi-port O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+dual-polarized O 0 0 td tr listing 17 6
+communications O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+sensing O 0 0 td tr listing 17 6
+architectures O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+their O 0 0 td tr listing 17 6
+application O 0 0 td tr listing 17 6
+to O 0 0 td tr listing 17 6
+detection, O 0 0 td tr listing 17 6
+interference O 0 0 td tr listing 17 6
+avoidance O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+suppression, O 0 0 td tr listing 17 6
+sensing, O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+diversity O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+capacity O 0 0 td tr listing 17 6
+enhancement. O 0 0 td tr listing 17 6
+
+Sergei B-NAME 0 1 a p external-link 19 0
+Rouvimov I-NAME 0 0 a p external-link 19 0
+
+Research O 0 1 td tr listing 17 3
+Associate O 0 1 td tr listing 17 3
+Professor O 0 0 td tr listing 17 3
+and O 0 1 td tr listing 17 3
+Director O 0 1 td tr listing 17 3
+of O 0 1 td tr listing 17 3
+TEM, O 0 0 td tr listing 17 3
+NDIIF O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 td tr listing 17 4
+Physics, O 0 0 td tr listing 17 4
+A.F. O 0 0 td tr listing 17 4
+Ioffe O 0 1 td tr listing 17 4
+Institute, O 0 0 td tr listing 17 4
+St. O 0 1 td tr listing 17 4
+Petersburg, O 0 0 td tr listing 17 4
+Russia, O 0 0 td tr listing 17 4
+1987 O 0 0 td tr listing 17 4
+
+High O 0 1 td tr listing 17 5
+resolution O 0 0 td tr listing 17 5
+transmission O 0 0 td tr listing 17 5
+electron O 0 0 td tr listing 17 5
+microscopy O 0 0 td tr listing 17 5
+
+Ken B-NAME 1 1 a p external-link 19 0
+Sauer I-NAME 1 1 a p external-link 19 0
+
+Associate O 0 1 td tr listing 17 3
+Professor O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 p td listing 18 0
+Princeton O 0 1 p td listing 18 0
+University, O 0 0 p td listing 18 0
+1989 O 0 0 p td listing 18 0
+
+Sauer's O 0 0 td tr listing 17 6
+research O 0 0 td tr listing 17 6
+centers O 0 0 td tr listing 17 6
+on O 0 0 td tr listing 17 6
+statistical O 0 0 td tr listing 17 6
+methods O 0 0 td tr listing 17 6
+of O 0 1 td tr listing 17 6
+solving O 0 0 td tr listing 17 6
+inverse O 0 0 td tr listing 17 6
+
+problems, O 0 0 td tr listing 17 6
+primarily O 0 0 td tr listing 17 6
+in O 0 1 td tr listing 17 6
+imaging O 0 0 td tr listing 17 6
+
+Michael B-NAME 0 1 a p external-link 19 0
+Schafer I-NAME 0 1 a p external-link 19 0
+
+Teaching O 0 0 td tr listing 17 3
+Professor O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 td tr listing 17 4
+University O 0 1 td tr listing 17 4
+of O 0 1 td tr listing 17 4
+Notre O 0 0 td tr listing 17 4
+Dame, O 0 0 td tr listing 17 4
+1980 O 0 0 td tr listing 17 4
+
+Alan B-NAME 0 1 a p external-link 19 0
+Seabaugh I-NAME 0 1 a p external-link 19 0
+
+Frank O 1 1 td tr listing 17 3
+M. O 0 1 td tr listing 17 3
+Freimann O 0 1 td tr listing 17 3
+Chair O 0 1 td tr listing 17 3
+Professor O 0 0 td tr listing 17 3
+and O 0 1 td tr listing 17 3
+Director O 0 1 td tr listing 17 3
+LEAST O 0 0 td tr listing 17 3
+
+Ph.D. O 0 0 p td listing 18 0
+University O 0 1 p td listing 18 0
+of O 0 1 p td listing 18 0
+Virginia, O 0 0 p td listing 18 0
+Charlottesville, O 0 0 p td listing 18 0
+1985 O 0 0 p td listing 18 0
+
+Current O 0 1 td tr listing 17 8
+research O 0 0 td tr listing 17 8
+areas O 0 0 td tr listing 17 8
+include O 0 0 td tr listing 17 8
+tunnel O 0 0 td tr listing 17 8
+field-effect O 0 0 td tr listing 17 8
+transistors, O 0 0 td tr listing 17 8
+memory, O 0 0 td tr listing 17 8
+transport O 0 0 td tr listing 17 8
+in O 0 1 td tr listing 17 8
+two-dimensional O 0 0 td tr listing 17 8
+materials, O 0 0 td tr listing 17 8
+and O 0 1 td tr listing 17 8
+lithium O 0 0 td tr listing 17 8
+ion O 0 0 td tr listing 17 8
+batteries. O 0 0 td tr listing 17 8
+
+Roxana B-NAME 1 1 a p external-link 19 0
+Smarandache I-NAME 1 1 a p external-link 19 0
+
+Professor O 0 0 td tr listing 17 3
+of O 0 1 td tr listing 17 3
+Mathematics O 0 0 td tr listing 17 3
+and O 0 1 td tr listing 17 3
+Electrical O 0 0 td tr listing 17 3
+Engineering O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 td tr listing 17 4
+University O 0 1 td tr listing 17 4
+of O 0 1 td tr listing 17 4
+Notre O 0 0 td tr listing 17 4
+Dame, O 0 0 td tr listing 17 4
+Mathematics, O 0 0 td tr listing 17 4
+2001 O 0 0 td tr listing 17 4
+
+Error O 0 0 td tr listing 17 5
+Control O 0 0 td tr listing 17 5
+Coding O 0 0 td tr listing 17 5
+
+Greg B-NAME 1 1 a p external-link 19 0
+Snider I-NAME 1 1 a p external-link 19 0
+
+Professor O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 p td listing 18 0
+University O 0 1 p td listing 18 0
+of O 0 1 p td listing 18 0
+California O 0 0 p td listing 18 0
+- O 0 0 p td listing 18 0
+Santa O 1 1 p td listing 18 0
+Barbara O 1 1 p td listing 18 0
+
+Design, O 0 0 td tr listing 17 6
+fabrication, O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+measurements O 0 0 td tr listing 17 6
+of O 0 1 td tr listing 17 6
+micro O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+nanoelectronic O 0 0 td tr listing 17 6
+devices O 0 0 td tr listing 17 6
+
+Robert B-NAME 0 1 a p external-link 19 0
+Stevenson I-NAME 0 1 a p external-link 19 0
+
+Professor O 0 0 td tr listing 17 3
+and O 0 1 td tr listing 17 3
+Associate O 0 1 td tr listing 17 3
+Chair O 0 1 td tr listing 17 3
+for O 0 1 td tr listing 17 3
+Undergraduate O 0 0 td tr listing 17 3
+Studies O 0 0 td tr listing 17 3
+
+Ph.D., O 0 0 p td listing 18 0
+Purdue O 0 1 p td listing 18 0
+University, O 0 0 p td listing 18 0
+1990 O 0 0 p td listing 18 0
+
+Statistical O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+multidimensional O 0 0 td tr listing 17 6
+signal O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+image O 0 0 td tr listing 17 6
+processing, O 0 0 td tr listing 17 6
+computer O 0 0 td tr listing 17 6
+vision. O 0 0 td tr listing 17 6
+
+Gregory B-NAME 1 1 a p external-link 19 0
+Timp I-NAME 1 1 a p external-link 19 0
+
+Keough-Hesburgh O 0 0 p td position 18 0
+Chair O 0 1 p td position 18 0
+in O 0 1 p td position 18 0
+Electrical O 0 0 p td position 18 0
+Engineering O 0 0 p td position 18 0
+and O 0 1 p td position 18 0
+Biological O 0 0 p td position 18 0
+Sciences O 0 0 p td position 18 0
+
+Ph.D. O 0 0 td tr Default 17 5
+Massachusetts O 0 0 td tr Default 17 5
+Institute O 0 0 td tr Default 17 5
+of O 0 1 td tr Default 17 5
+Technology, O 0 0 td tr Default 17 5
+Electrical O 0 0 td tr Default 17 5
+Engineering,1984 O 0 0 td tr Default 17 5
+
+Synthetic O 0 0 td tr listing 17 6
+Biology O 0 0 td tr listing 17 6
+
+John B-NAME 0 1 a p external-link 19 0
+Uhran I-NAME 0 1 a p external-link 19 0
+
+Professor O 0 0 td tr listing 17 3
+Emeritus O 0 1 td tr listing 17 3
+
+Ph.D., O 0 0 p td listing 18 0
+Electrical O 0 0 p td listing 18 0
+Engineering, O 0 0 p td listing 18 0
+Purdue O 0 1 p td listing 18 0
+University, O 0 0 p td listing 18 0
+1967 O 0 0 p td listing 18 0
+
+Dr. O 0 1 p td text 18 0
+Uhran O 0 1 p td text 18 0
+has O 0 0 p td text 18 0
+specialized O 0 0 p td text 18 0
+in O 0 1 p td text 18 0
+communication O 0 0 p td text 18 0
+theory O 0 0 p td text 18 0
+and O 0 1 p td text 18 0
+systems, O 0 0 p td text 18 0
+signal O 0 0 p td text 18 0
+processing O 0 0 p td text 18 0
+techniques, O 0 0 p td text 18 0
+simulation O 0 0 p td text 18 0
+techniques, O 0 0 p td text 18 0
+and O 0 1 p td text 18 0
+artificial O 0 0 p td text 18 0
+intelligence, O 0 0 p td text 18 0
+especially O 0 0 p td text 18 0
+robotics, O 0 0 p td text 18 0
+while O 0 0 p td text 18 0
+maintaining O 0 0 p td text 18 0
+a O 0 1 p td text 18 0
+special O 0 0 p td text 18 0
+interest O 0 0 p td text 18 0
+in O 0 1 p td text 18 0
+engineering O 0 0 p td text 18 0
+education. O 0 0 p td text 18 0
+
+Huili B-NAME 0 1 a p external-link 19 0
+(Grace) I-NAME 0 1 a p external-link 19 0
+Xing I-NAME 0 1 a p external-link 19 0
+
+Adjunct O 0 0 td tr listing 17 3
+Professor O 0 0 td tr listing 17 3
+
+Ph.D, O 0 0 p td listing 18 0
+University O 0 1 p td listing 18 0
+of O 0 1 p td listing 18 0
+California, O 0 0 p td listing 18 0
+Santa O 0 1 p td listing 18 0
+Barbara, O 0 0 p td listing 18 0
+2003 O 0 0 p td listing 18 0
+
+GaN O 0 0 td tr listing 17 6
+based O 0 0 td tr listing 17 6
+devices, O 0 0 td tr listing 17 6
+nanowire O 0 0 td tr listing 17 6
+enabled O 0 0 td tr listing 17 6
+devices, O 0 0 td tr listing 17 6
+including O 0 0 td tr listing 17 6
+InGaN O 0 0 td tr listing 17 6
+nanowires O 0 0 td tr listing 17 6
+for O 0 1 td tr listing 17 6
+high O 0 0 td tr listing 17 6
+efficiency O 0 0 td tr listing 17 6
+green O 0 0 td tr listing 17 6
+emission O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+solar O 0 0 td tr listing 17 6
+cells, O 0 0 td tr listing 17 6
+II-VI O 0 0 td tr listing 17 6
+nanowires O 0 0 td tr listing 17 6
+for O 0 1 td tr listing 17 6
+polarization O 0 0 td tr listing 17 6
+sensitive O 0 0 td tr listing 17 6
+wide O 0 0 td tr listing 17 6
+spectrum O 0 0 td tr listing 17 6
+photodetection O 0 0 td tr listing 17 6
+etc., O 0 0 td tr listing 17 6
+graphene O 0 0 td tr listing 17 6
+physics O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+devices, O 0 0 td tr listing 17 6
+and O 0 1 td tr listing 17 6
+tunneling O 0 0 td tr listing 17 6
+field O 0 0 td tr listing 17 6
+effect O 0 0 td tr listing 17 6
+transistors O 0 0 td tr listing 17 6
+for O 0 1 td tr listing 17 6
+high O 0 0 td tr listing 17 6
+efficiency O 0 0 td tr listing 17 6
+logic O 0 0 td tr listing 17 6
+electronics O 0 0 td tr listing 17 6
+
+Copyright O 0 0 p div template-document_view.portaltype-document.section-people.navroot-ee 7 0
+© O 0 0 div div template-document_view.portaltype-document.section-people.navroot-ee 6 2
+2017 O 0 0 p div template-document_view.portaltype-document.section-people.navroot-ee 7 1
+
+The O 0 1 div div template-document_view.portaltype-document.section-people.navroot-ee 6 2
+Department O 0 0 p div template-document_view.portaltype-document.section-people.navroot-ee 7 3
+of O 0 1 p div template-document_view.portaltype-document.section-people.navroot-ee 7 3
+Electrical O 0 0 p div template-document_view.portaltype-document.section-people.navroot-ee 7 3
+Engineering O 0 0 p div template-document_view.portaltype-document.section-people.navroot-ee 7 3
+at O 0 0 div div template-document_view.portaltype-document.section-people.navroot-ee 6 2
+the O 0 1 div div template-document_view.portaltype-document.section-people.navroot-ee 6 2
+University O 0 1 p div template-document_view.portaltype-document.section-people.navroot-ee 7 4
+of O 0 1 p div template-document_view.portaltype-document.section-people.navroot-ee 7 4
+Notre O 0 0 p div template-document_view.portaltype-document.section-people.navroot-ee 7 4
+Dame O 0 1 p div template-document_view.portaltype-document.section-people.navroot-ee 7 4
+
+E-mail: O 0 0 div div template-document_view.portaltype-document.section-people.navroot-ee 6 2
+ee@nd.edu O 0 0 p div template-document_view.portaltype-document.section-people.navroot-ee 7 6
+
+Accreditation O 0 0 div div visualClear.accreditation 7 0
+Statement O 0 0 div div visualClear.accreditation 7 0
+
+The O 0 1 div div visualClear.accreditation 7 1
+bachelor’s O 0 0 div div visualClear.accreditation 7 1
+degree O 0 0 div div visualClear.accreditation 7 1
+programs O 0 0 div div visualClear.accreditation 7 1
+in O 0 1 div div visualClear.accreditation 7 1
+aerospace, O 0 0 div div visualClear.accreditation 7 1
+chemical, O 0 0 div div visualClear.accreditation 7 1
+civil, O 0 0 div div visualClear.accreditation 7 1
+computer, O 0 0 div div visualClear.accreditation 7 1
+electrical, O 0 0 div div visualClear.accreditation 7 1
+and O 0 1 div div visualClear.accreditation 7 1
+mechanical O 0 0 div div visualClear.accreditation 7 1
+engineering O 0 0 div div visualClear.accreditation 7 1
+are O 0 0 div div visualClear.accreditation 7 1
+accredited O 0 0 div div visualClear.accreditation 7 1
+by O 0 1 div div visualClear.accreditation 7 1
+the O 0 1 div div visualClear.accreditation 7 1
+Engineering O 0 0 div div visualClear.accreditation 7 1
+Accreditation O 0 0 div div visualClear.accreditation 7 1
+Commission O 0 0 div div visualClear.accreditation 7 1
+of O 0 1 div div visualClear.accreditation 7 1
+ABET O 0 0 p div visualClear.accreditation 8 0
+, O 0 0 div div visualClear.accreditation 7 1
+Inc. O 0 1 div div visualClear.accreditation 7 1
+The O 0 1 div div visualClear.accreditation 7 1
+bachelor’s O 0 0 div div visualClear.accreditation 7 1
+degree O 0 0 div div visualClear.accreditation 7 1
+program O 0 0 div div visualClear.accreditation 7 1
+in O 0 1 div div visualClear.accreditation 7 1
+computer O 0 0 div div visualClear.accreditation 7 1
+science O 0 0 div div visualClear.accreditation 7 1
+is O 0 0 div div visualClear.accreditation 7 1
+accredited O 0 0 div div visualClear.accreditation 7 1
+by O 0 1 div div visualClear.accreditation 7 1
+the O 0 1 div div visualClear.accreditation 7 1
+Computing O 0 0 div div visualClear.accreditation 7 1
+Accreditation O 0 0 div div visualClear.accreditation 7 1
+Commission O 0 0 div div visualClear.accreditation 7 1
+of O 0 1 div div visualClear.accreditation 7 1
+ABET O 0 0 p div visualClear.accreditation 8 1
+, O 0 0 div div visualClear.accreditation 7 1
+Inc. O 0 1 div div visualClear.accreditation 7 1
+
+Accessibility O 0 0 p div template-document_view.portaltype-document.section-people.navroot-ee 7 1
+Information O 0 1 p div template-document_view.portaltype-document.section-people.navroot-ee 7 1

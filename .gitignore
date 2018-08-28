@@ -1,3 +1,6 @@
 *.swp
 *.pyc
 keras_test/venv
+keras_test/models
+keras_test/embeddings
+datasets

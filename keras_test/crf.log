@@ -1,0 +1,82 @@
+Epoch 1/20
+31649/31649 [==============================] - 8s 263us/step - loss: 0.7028
+ — f1: 0.688422 — precision: 0.807240 — recall 0.600094
+Epoch 2/20
+31649/31649 [==============================] - 8s 254us/step - loss: 0.4324
+ — f1: 0.787400 — precision: 0.764798 — recall 0.811379
+Epoch 3/20
+31649/31649 [==============================] - 8s 253us/step - loss: 0.4260
+ — f1: 0.688871 — precision: 0.807619 — recall 0.600567
+No improvement
+Epoch 4/20
+31649/31649 [==============================] - 8s 258us/step - loss: 0.4227
+ — f1: 0.692916 — precision: 0.819265 — recall 0.600331
+No improvement
+Epoch 5/20
+31649/31649 [==============================] - 8s 259us/step - loss: 0.4216
+ — f1: 0.692203 — precision: 0.819032 — recall 0.599386
+No improvement
+Epoch 6/20
+31649/31649 [==============================] - 8s 257us/step - loss: 0.4199
+ — f1: 0.692035 — precision: 0.819444 — recall 0.598914
+No improvement
+Epoch 7/20
+31649/31649 [==============================] - 8s 252us/step - loss: 0.4195
+ — f1: 0.692318 — precision: 0.820239 — recall 0.598914
+No improvement
+Epoch 8/20
+31649/31649 [==============================] - 8s 258us/step - loss: 0.4179
+ — f1: 0.790400 — precision: 0.766061 — recall 0.816336
+Epoch 9/20
+31649/31649 [==============================] - 8s 264us/step - loss: 0.4173
+ — f1: 0.765191 — precision: 0.700687 — recall 0.842776
+No improvement
+Epoch 10/20
+31649/31649 [==============================] - 10s 302us/step - loss: 0.4173
+ — f1: 0.692916 — precision: 0.819265 — recall 0.600331
+No improvement
+Epoch 11/20
+31649/31649 [==============================] - 9s 288us/step - loss: 0.4160
+ — f1: 0.675022 — precision: 0.727819 — recall 0.629367
+No improvement
+Epoch 12/20
+31649/31649 [==============================] - 9s 279us/step - loss: 0.4160
+ — f1: 0.692203 — precision: 0.819032 — recall 0.599386
+No improvement
+Epoch 13/20
+31649/31649 [==============================] - 8s 260us/step - loss: 0.4161
+ — f1: 0.692318 — precision: 0.820239 — recall 0.598914
+No improvement
+Epoch 14/20
+31649/31649 [==============================] - 9s 271us/step - loss: 0.4155
+ — f1: 0.692916 — precision: 0.819265 — recall 0.600331
+No improvement
+Epoch 15/20
+31649/31649 [==============================] - 9s 277us/step - loss: 0.4156
+ — f1: 0.692916 — precision: 0.819265 — recall 0.600331
+No improvement
+Epoch 16/20
+31649/31649 [==============================] - 8s 266us/step - loss: 0.4154
+ — f1: 0.693575 — precision: 0.809899 — recall 0.606468
+No improvement
+Epoch 17/20
+31649/31649 [==============================] - 10s 304us/step - loss: 0.4150
+ — f1: 0.790783 — precision: 0.772277 — recall 0.810198
+Epoch 18/20
+31649/31649 [==============================] - 9s 276us/step - loss: 0.4153
+ — f1: 0.692916 — precision: 0.819265 — recall 0.600331
+No improvement
+Epoch 19/20
+31649/31649 [==============================] - 8s 262us/step - loss: 0.4150
+ — f1: 0.692916 — precision: 0.819265 — recall 0.600331
+No improvement
+Epoch 20/20
+31649/31649 [==============================] - 8s 266us/step - loss: 0.4145
+ — f1: 0.765355 — precision: 0.700962 — recall 0.842776
+No improvement
+
+
+
+ — f1: 0.662322 — precision: 0.663683 — recall 0.660967
+precision: 0.5578358208955224
+recall: 0.5514909314478943

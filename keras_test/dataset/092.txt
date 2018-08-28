@@ -1,0 +1,785 @@
+CCDINF: O 0 0 meta head none 5 0
+Docenti O 0 0 meta head none 5 0
+
+Collegio O 0 0 h1 div hidden 7 0
+Didattico O 0 0 h1 div hidden 7 0
+di O 0 1 h1 div hidden 7 0
+
+Università O 0 0 h2 div hidden 7 0
+degli O 0 1 h2 div hidden 7 0
+Studi O 0 0 h2 div hidden 7 0
+di O 0 1 h2 div hidden 7 0
+Milano O 0 1 h2 div hidden 7 0
+
+Intranet O 0 0 li ul n 8 0
+
+English O 0 1 li ul n 8 0
+version O 0 0 li ul n 8 0
+
+Home O 0 1 td tr n 10 0
+page O 0 0 td tr n 10 0
+Informazioni O 0 0 td tr n 10 0
+generali O 0 0 td tr n 10 0
+Corsi O 0 1 td tr n 10 0
+di O 0 1 td tr n 10 0
+laurea O 0 0 td tr n 10 0
+2017/2018 O 0 0 td tr n 10 0
+Corsi O 0 1 td tr n 10 0
+di O 0 1 td tr n 10 0
+laurea O 0 0 td tr n 10 0
+2016/2017 O 0 0 td tr n 10 0
+Docenti O 0 0 td tr s 10 0
+Tirocini O 0 0 td tr n 10 0
+Avvisi O 0 0 td tr n 10 0
+
+Cerca O 0 0 tr table form_ricerca 10 0
+insegnamento O 0 0 tr table form_ricerca 10 0
+
+Tutti O 0 0 select input form_ricerca 13 0
+i O 0 1 select input form_ricerca 13 0
+corsi O 0 0 select input form_ricerca 13 0
+di O 0 1 select input form_ricerca 13 0
+laurea O 0 0 select input form_ricerca 13 0
+
+[F1Xof2] O 0 0 select input form_ricerca 13 1
+INFORMATICA O 0 0 select input form_ricerca 13 1
+(Immatricolati O 0 0 select input form_ricerca 13 1
+dal O 0 1 select input form_ricerca 13 1
+2014 O 0 0 select input form_ricerca 13 1
+- O 0 0 select input form_ricerca 13 1
+2015) O 0 0 select input form_ricerca 13 1
+
+[F3Xof2] O 0 0 select input form_ricerca 13 2
+INFORMATICA O 0 0 select input form_ricerca 13 2
+MUSICALE O 0 0 select input form_ricerca 13 2
+(Immatricolati O 0 0 select input form_ricerca 13 2
+dal O 0 1 select input form_ricerca 13 2
+2014 O 0 0 select input form_ricerca 13 2
+- O 0 0 select input form_ricerca 13 2
+2015) O 0 0 select input form_ricerca 13 2
+
+[F9Xof1] O 0 0 select input form_ricerca 13 3
+INFORMATICA O 0 0 select input form_ricerca 13 3
+PER O 0 0 select input form_ricerca 13 3
+LA O 0 0 select input form_ricerca 13 3
+COMUNICAZIONE O 0 0 select input form_ricerca 13 3
+DIGITALE O 0 0 select input form_ricerca 13 3
+(Immatricolati O 0 0 select input form_ricerca 13 3
+dal O 0 1 select input form_ricerca 13 3
+2014 O 0 0 select input form_ricerca 13 3
+- O 0 0 select input form_ricerca 13 3
+2015) O 0 0 select input form_ricerca 13 3
+
+[F94of2] O 0 0 select input form_ricerca 13 4
+INFORMATICA O 0 0 select input form_ricerca 13 4
+(Immatricolati O 0 0 select input form_ricerca 13 4
+dal O 0 1 select input form_ricerca 13 4
+2014 O 0 0 select input form_ricerca 13 4
+- O 0 0 select input form_ricerca 13 4
+2015) O 0 0 select input form_ricerca 13 4
+
+2017/2018 O 0 0 select input form_ricerca 13 0
+
+2016/2017 O 0 0 select input form_ricerca 13 1
+
+2015/2016 O 0 0 select input form_ricerca 13 2
+
+2014/2015 O 0 0 select input form_ricerca 13 3
+
+2013/2014 O 0 0 select input form_ricerca 13 4
+
+2012/2013 O 0 0 select input form_ricerca 13 5
+
+2011/2012 O 0 0 select input form_ricerca 13 6
+
+2010/2011 O 0 0 select input form_ricerca 13 7
+
+2009/2010 O 0 0 select input form_ricerca 13 8
+
+2008/2009 O 0 0 select input form_ricerca 13 9
+
+2007/2008 O 0 0 select input form_ricerca 13 10
+
+2006/2007 O 0 0 select input form_ricerca 13 11
+
+Docenti O 0 0 div div none 7 0
+
+Nome O 0 1 tr table label 9 0
+e-mail O 0 0 tr table label 9 1
+Qualifica O 0 0 tr table label 9 2
+
+STEFANO B-NAME 0 0 td tr elenco 10 0
+AGUZZOLI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+
+MARIA B-NAME 0 0 td tr elenco 10 0
+ALBERTA I-NAME 0 0 td tr elenco 10 0
+ALBERTI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+ALBERTO B-NAME 0 0 td tr elenco 10 0
+ALZATI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ASSOCIATO O 0 0 tr table elenco 9 3
+CONFERMATO O 0 0 tr table elenco 9 3
+
+MARCO B-NAME 0 0 td tr elenco 10 0
+ANISETTI I-NAME 0 0 td tr elenco 10 0
+RICERCATORE O 0 0 tr table elenco 9 3
+A O 0 1 tr table elenco 9 3
+TEMPO O 0 0 tr table elenco 9 3
+DETERMINATO O 0 0 tr table elenco 9 3
+(Lettera O 0 0 tr table elenco 9 3
+B) O 0 0 tr table elenco 9 3
+
+BRUNO B-NAME 0 0 td tr elenco 10 0
+APOLLONI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+A O 0 1 tr table elenco 9 4
+CONTRATTO O 0 0 tr table elenco 9 4
+
+CLAUDIO B-NAME 0 0 td tr elenco 10 0
+AGOSTINO I-NAME 0 0 td tr elenco 10 0
+ARDAGNA I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+
+ADRIANO O 0 0 td tr elenco 10 0
+BARATE' O 0 0 td tr elenco 10 0
+RICERCATORE O 0 0 tr table elenco 9 3
+A O 0 1 tr table elenco 9 3
+TEMPO O 0 0 tr table elenco 9 3
+DETERMINATO O 0 0 tr table elenco 9 3
+(Lettera O 0 0 tr table elenco 9 3
+A) O 0 0 tr table elenco 9 3
+
+BARBARA B-NAME 0 0 td tr elenco 10 0
+RITA I-NAME 0 0 td tr elenco 10 0
+BARRICELLI I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+A O 0 1 tr table elenco 9 4
+TEMPO O 0 0 tr table elenco 9 4
+DETERMINATO O 0 0 tr table elenco 9 4
+(Lettera O 0 0 tr table elenco 9 4
+A) O 0 0 tr table elenco 9 4
+
+NICOLA B-NAME 0 0 td tr elenco 10 0
+BASILICO I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+A O 0 1 tr table elenco 9 4
+TEMPO O 0 0 tr table elenco 9 4
+DETERMINATO O 0 0 tr table elenco 9 4
+(Lettera O 0 0 tr table elenco 9 4
+B) O 0 0 tr table elenco 9 4
+
+VALERIO B-NAME 0 0 td tr elenco 10 0
+BELLANDI I-NAME 0 0 td tr elenco 10 0
+RICERCATORE O 0 0 tr table elenco 9 3
+A O 0 1 tr table elenco 9 3
+TEMPO O 0 0 tr table elenco 9 3
+DETERMINATO O 0 0 tr table elenco 9 3
+(Lettera O 0 0 tr table elenco 9 3
+A) O 0 0 tr table elenco 9 3
+
+CARLO B-NAME 0 0 td tr elenco 10 0
+BELLETTINI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+MARINA B-NAME 0 0 td tr elenco 10 0
+BERTOLINI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ASSOCIATO O 0 0 tr table elenco 9 3
+CONFERMATO O 0 0 tr table elenco 9 3
+
+GIULIA B-NAME 0 0 td tr elenco 10 0
+BERTONE I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+A O 0 1 tr table elenco 9 3
+CONTRATTO O 0 0 tr table elenco 9 3
+
+CLAUDIO B-NAME 0 0 td tr elenco 10 0
+BETTINI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ORDINARIO O 0 0 tr table elenco 9 3
+
+GIUSEPPE B-NAME 0 0 td tr elenco 10 0
+BOCCIGNONE I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ORDINARIO O 0 0 tr table elenco 9 4
+
+PAOLO B-NAME 0 0 td tr elenco 10 0
+BOLDI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ORDINARIO O 0 0 tr table elenco 9 3
+
+NUNZIO B-NAME 0 0 td tr elenco 10 0
+ALBERTO I-NAME 0 0 td tr elenco 10 0
+BORGHESE I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ORDINARIO O 0 0 tr table elenco 9 4
+
+DANILO B-NAME 0 0 td tr elenco 10 0
+MAURO I-NAME 0 0 td tr elenco 10 0
+BRUSCHI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ORDINARIO O 0 0 tr table elenco 9 4
+
+PAOLA B-NAME 0 0 td tr elenco 10 0
+CAMPADELLI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ORDINARIO O 0 0 tr table elenco 9 4
+
+LORENZO B-NAME 0 0 td tr elenco 10 0
+CAPRA I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+ELENA B-NAME 0 0 td tr elenco 10 0
+CASIRAGHI I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+SILVANA B-NAME 0 0 td tr elenco 10 0
+CASTANO I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ORDINARIO O 0 0 tr table elenco 9 4
+
+PAOLO B-NAME 0 0 td tr elenco 10 0
+CATTANEO I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+A O 0 1 tr table elenco 9 4
+CONTRATTO O 0 0 tr table elenco 9 4
+
+WALTER B-NAME 0 0 td tr elenco 10 0
+CAZZOLA I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+NICOLO' B-NAME 0 0 td tr elenco 10 0
+ANTONIO I-NAME 0 0 td tr elenco 10 0
+CESA I-NAME 0 0 td tr elenco 10 0
+BIANCHI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ORDINARIO O 0 0 tr table elenco 9 3
+
+ALBERTO B-NAME 0 0 td tr elenco 10 0
+CESELLI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ASSOCIATO O 0 0 tr table elenco 9 3
+
+VALENTINA B-NAME 0 0 td tr elenco 10 0
+CIRIANI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ASSOCIATO O 0 0 tr table elenco 9 3
+
+ROBERTO B-NAME 0 0 td tr elenco 10 0
+CORDONE I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+
+MARCO B-NAME 0 0 td tr elenco 10 0
+CREMONINI I-NAME 0 0 td tr elenco 10 0
+RICERCATORE O 0 0 tr table elenco 9 3
+CONFERMATO O 0 0 tr table elenco 9 3
+
+OTTAVIO B-NAME 0 0 td tr elenco 10 0
+D'ANTONA I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ORDINARIO O 0 0 tr table elenco 9 4
+
+ERNESTO B-NAME 0 0 td tr elenco 10 0
+DAMIANI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ORDINARIO O 0 0 tr table elenco 9 3
+
+MARIA B-NAME 0 0 td tr elenco 10 0
+LUISA I-NAME 0 0 td tr elenco 10 0
+DAMIANI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+
+SABRINA B-NAME 0 0 td tr elenco 10 0
+DE I-NAME 0 0 td tr elenco 10 0
+CAPITANI I-NAME 0 0 td tr elenco 10 0
+DI I-NAME 0 0 td tr elenco 10 0
+VIMERCATI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ORDINARIO O 0 0 tr table elenco 9 3
+
+FIORELLA B-NAME 0 0 td tr elenco 10 0
+DE I-NAME 0 0 td tr elenco 10 0
+CINDIO I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ASSOCIATO O 0 0 tr table elenco 9 3
+CONFERMATO O 0 0 tr table elenco 9 3
+
+GIOVANNI B-NAME 0 0 td tr elenco 10 0
+ANTONIO I-NAME 0 0 td tr elenco 10 0
+DEL I-NAME 0 0 td tr elenco 10 0
+BENE I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+A O 0 1 tr table elenco 9 4
+CONTRATTO O 0 0 tr table elenco 9 4
+
+ALFIO B-NAME 0 0 td tr elenco 10 0
+FERRARA I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+
+STEFANO B-NAME 0 0 td tr elenco 10 0
+FERRARI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ASSOCIATO O 0 0 tr table elenco 9 3
+
+CAMILLO B-NAME 0 0 td tr elenco 10 0
+FIORENTINI I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+SARA B-NAME 0 0 td tr elenco 10 0
+FORESTI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ASSOCIATO O 0 0 tr table elenco 9 3
+
+MARCO B-NAME 0 0 td tr elenco 10 0
+FRASCA I-NAME 0 0 td tr elenco 10 0
+RICERCATORE O 0 0 tr table elenco 9 3
+A O 0 1 tr table elenco 9 3
+TEMPO O 0 0 tr table elenco 9 3
+DETERMINATO O 0 0 tr table elenco 9 3
+(Lettera O 0 0 tr table elenco 9 3
+A) O 0 0 tr table elenco 9 3
+
+DAVIDE B-NAME 0 0 td tr elenco 10 0
+GADIA I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+SABRINA B-NAME 0 0 td tr elenco 10 0
+TIZIANA I-NAME 0 0 td tr elenco 10 0
+GAITO I-NAME 0 0 td tr elenco 10 0
+RICERCATORE O 0 0 tr table elenco 9 3
+CONFERMATO O 0 0 tr table elenco 9 3
+
+DARIO B-NAME 0 0 td tr elenco 10 0
+AUGUSTO I-NAME 0 0 td tr elenco 10 0
+GIOVE I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+A O 0 1 tr table elenco 9 3
+CONTRATTO O 0 0 tr table elenco 9 3
+
+MASSIMILIANO B-NAME 0 0 td tr elenco 10 0
+GOLDWURM I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ORDINARIO O 0 0 tr table elenco 9 3
+
+ANNA B-NAME 0 0 td tr elenco 10 0
+GORI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ASSOCIATO O 0 0 tr table elenco 9 3
+
+FLAVIA B-NAME 0 0 td tr elenco 10 0
+MARIA I-NAME 0 0 td tr elenco 10 0
+GROPPI I-NAME 0 0 td tr elenco 10 0
+GARLANDINI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+GIULIANO B-NAME 0 0 td tr elenco 10 0
+GROSSI I-NAME 0 0 td tr elenco 10 0
+RICERCATORE O 0 0 tr table elenco 9 3
+CONFERMATO O 0 0 tr table elenco 9 3
+
+GOFFREDO B-NAME 0 0 td tr elenco 10 0
+HAUS I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ORDINARIO O 0 0 tr table elenco 9 4
+
+ANTONIO B-NAME 0 0 td tr elenco 10 0
+LANTERI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ORDINARIO O 0 0 tr table elenco 9 3
+
+RAFFAELLA B-NAME 0 0 td tr elenco 10 0
+LANZAROTTI I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+ANDREA B-NAME 0 0 td tr elenco 10 0
+LANZI I-NAME 0 0 td tr elenco 10 0
+RICERCATORE O 0 0 tr table elenco 9 3
+A O 0 1 tr table elenco 9 3
+TEMPO O 0 0 tr table elenco 9 3
+DETERMINATO O 0 0 tr table elenco 9 3
+(Lettera O 0 0 tr table elenco 9 3
+B) O 0 0 tr table elenco 9 3
+
+GIOVANNI B-NAME 0 0 td tr elenco 10 0
+LIVRAGA I-NAME 0 0 td tr elenco 10 0
+RICERCATORE O 0 0 tr table elenco 9 3
+A O 0 1 tr table elenco 9 3
+TEMPO O 0 0 tr table elenco 9 3
+DETERMINATO O 0 0 tr table elenco 9 3
+(Lettera O 0 0 tr table elenco 9 3
+A) O 0 0 tr table elenco 9 3
+
+VIOLETTA B-NAME 0 0 td tr elenco 10 0
+LONATI I-NAME 0 0 td tr elenco 10 0
+RICERCATORE O 0 0 tr table elenco 9 3
+CONFERMATO O 0 0 tr table elenco 9 3
+
+LUCA B-NAME 0 0 td tr elenco 10 0
+ANDREA I-NAME 0 0 td tr elenco 10 0
+LUDOVICO I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+DARIO B-NAME 0 0 td tr elenco 10 0
+MAGGIORINI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+
+MARIO B-NAME 0 0 td tr elenco 10 0
+NATALINO I-NAME 0 0 td tr elenco 10 0
+MALCANGI I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+DARIO B-NAME 0 0 td tr elenco 10 0
+MALCHIODI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+FABIO B-NAME 0 0 td tr elenco 10 0
+MANCINI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+A O 0 1 tr table elenco 9 3
+CONTRATTO O 0 0 tr table elenco 9 3
+
+VINCENZO B-NAME 0 0 td tr elenco 10 0
+MARRA I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+
+SERGIO B-NAME 0 0 td tr elenco 10 0
+MASCETTI I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+CARLO B-NAME 0 0 td tr elenco 10 0
+MEREGHETTI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+MARCO B-NAME 0 0 td tr elenco 10 0
+MESITI I-NAME 0 0 td tr elenco 10 0
+RICERCATORE O 0 0 tr table elenco 9 3
+CONFERMATO O 0 0 tr table elenco 9 3
+
+ALBERTO B-NAME 0 0 td tr elenco 10 0
+MOMIGLIANO I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+MATTIA B-NAME 0 0 td tr elenco 10 0
+MONGA I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+STEFANO B-NAME 0 0 td tr elenco 10 0
+MONTANELLI I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+A O 0 1 tr table elenco 9 4
+TEMPO O 0 0 tr table elenco 9 4
+DETERMINATO O 0 0 tr table elenco 9 4
+(Lettera O 0 0 tr table elenco 9 4
+B) O 0 0 tr table elenco 9 4
+
+ANNA B-NAME 0 0 td tr elenco 10 0
+CHIARA I-NAME 0 0 td tr elenco 10 0
+GIOVANNA I-NAME 0 0 td tr elenco 10 0
+MORPURGO I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+MARIO B-NAME 0 0 td tr elenco 10 0
+ORNAGHI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+A O 0 1 tr table elenco 9 4
+CONTRATTO O 0 0 tr table elenco 9 4
+
+ELENA B-NAME 0 0 td tr elenco 10 0
+PAGANI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+BEATRICE B-NAME 0 0 td tr elenco 10 0
+SANTA I-NAME 0 0 td tr elenco 10 0
+PALANO I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+FEDERICO B-NAME 0 0 td tr elenco 10 0
+PEDERSINI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ASSOCIATO O 0 0 tr table elenco 9 3
+CONFERMATO O 0 0 tr table elenco 9 3
+
+PAOLO B-NAME 0 0 td tr elenco 10 0
+PERLASCA I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+GIOVANNI B-NAME 0 0 td tr elenco 10 0
+PIGHIZZINI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ORDINARIO O 0 0 tr table elenco 9 4
+
+VINCENZO B-NAME 0 0 td tr elenco 10 0
+PIURI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ORDINARIO O 0 0 tr table elenco 9 3
+
+RITA B-NAME 0 0 td tr elenco 10 0
+MARIA I-NAME 0 0 td tr elenco 10 0
+ROSA I-NAME 0 0 td tr elenco 10 0
+PIZZI I-NAME 0 0 td tr elenco 10 0
+RICERCATORE O 0 0 tr table elenco 9 3
+CONFERMATO O 0 0 tr table elenco 9 3
+
+LIVIO B-NAME 0 0 td tr elenco 10 0
+PIZZOCCHERO I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+MATTEO B-NAME 0 0 td tr elenco 10 0
+RE' I-NAME 0 0 td tr elenco 10 0
+RICERCATORE O 0 0 tr table elenco 9 3
+A O 0 1 tr table elenco 9 3
+TEMPO O 0 0 tr table elenco 9 3
+DETERMINATO O 0 0 tr table elenco 9 3
+(Lettera O 0 0 tr table elenco 9 3
+B) O 0 0 tr table elenco 9 3
+
+ELVINIA B-NAME 0 0 td tr elenco 10 0
+MARIA I-NAME 0 0 td tr elenco 10 0
+RICCOBENE I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ORDINARIO O 0 0 tr table elenco 9 4
+
+GIOVANNI B-NAME 0 0 td tr elenco 10 0
+RIGHINI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ASSOCIATO O 0 0 tr table elenco 9 3
+CONFERMATO O 0 0 tr table elenco 9 3
+
+MARCO B-NAME 0 0 td tr elenco 10 0
+RIGOLI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ORDINARIO O 0 0 tr table elenco 9 3
+
+LAURA B-NAME 0 0 td tr elenco 10 0
+ANNA I-NAME 0 0 td tr elenco 10 0
+RIPAMONTI I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+ALESSANDRO B-NAME 0 0 td tr elenco 10 0
+RIZZI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ORDINARIO O 0 0 tr table elenco 9 4
+
+GIAN B-NAME 0 0 td tr elenco 10 0
+PAOLO I-NAME 0 0 td tr elenco 10 0
+ROSSI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ORDINARIO O 0 0 tr table elenco 9 4
+
+PIERANGELA B-NAME 0 0 td tr elenco 10 0
+SAMARATI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ORDINARIO O 0 0 tr table elenco 9 3
+
+MASSIMO B-NAME 0 0 td tr elenco 10 0
+SANTINI I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+ROBERTO B-NAME 0 0 td tr elenco 10 0
+SASSI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ASSOCIATO O 0 0 tr table elenco 9 3
+
+SIMONE B-NAME 0 0 td tr elenco 10 0
+SCACCHI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ASSOCIATO O 0 0 tr table elenco 9 3
+
+NELLO B-NAME 0 0 td tr elenco 10 0
+SCARABOTTOLO I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ORDINARIO O 0 0 tr table elenco 9 3
+
+FABIO B-NAME 0 0 td tr elenco 10 0
+SCOTTI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ASSOCIATO O 0 0 tr table elenco 9 3
+
+PAOLO B-NAME 0 0 td tr elenco 10 0
+STELLARI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ORDINARIO O 0 0 tr table elenco 9 3
+
+MASSIMO B-NAME 0 0 td tr elenco 10 0
+EMILIO I-NAME 0 0 td tr elenco 10 0
+TARALLO I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+ANDREA B-NAME 0 0 td tr elenco 10 0
+MARIO I-NAME 0 0 td tr elenco 10 0
+TRENTINI I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+MARCO B-NAME 0 0 td tr elenco 10 0
+TRUBIAN I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ASSOCIATO O 0 0 tr table elenco 9 3
+CONFERMATO O 0 0 tr table elenco 9 3
+
+GABRIELLA B-NAME 0 0 td tr elenco 10 0
+TRUCCO I-NAME 0 0 td tr elenco 10 0
+RICERCATORE O 0 0 tr table elenco 9 3
+CONFERMATO O 0 0 tr table elenco 9 3
+
+CRISTINA B-NAME 0 0 td tr elenco 10 0
+TURRINI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ASSOCIATO O 0 0 tr table elenco 9 3
+CONFERMATO O 0 0 tr table elenco 9 3
+
+ENRICO B-NAME 0 0 td tr elenco 10 0
+VALDINOCI I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+ORDINARIO O 0 0 tr table elenco 9 3
+
+GIORGIO B-NAME 0 0 td tr elenco 10 0
+VALENTINI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+STEFANO B-NAME 0 0 td tr elenco 10 0
+VALTOLINA I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+SEBASTIANO B-NAME 0 0 td tr elenco 10 0
+VIGNA I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ORDINARIO O 0 0 tr table elenco 9 4
+
+ANDREA B-NAME 0 0 td tr elenco 10 0
+VISCONTI I-NAME 0 0 td tr elenco 10 0
+RICERCATORE O 0 0 tr table elenco 9 3
+CONFERMATO O 0 0 tr table elenco 9 3
+
+OZNUR B-NAME 0 0 td tr elenco 10 0
+YELDAN I-NAME 0 0 td tr elenco 10 0
+PROFESSORE O 0 0 tr table elenco 9 3
+A O 0 1 tr table elenco 9 3
+CONTRATTO O 0 0 tr table elenco 9 3
+
+ELENA B-NAME 0 0 td tr elenco 10 0
+ZAMPIERI I-NAME 0 0 td tr elenco 10 0
+
+PROFESSORE O 0 0 tr table elenco 9 4
+ASSOCIATO O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+ANNA B-NAME 0 0 td tr elenco 10 0
+MARIA I-NAME 0 0 td tr elenco 10 0
+ZANABONI I-NAME 0 0 td tr elenco 10 0
+
+RICERCATORE O 0 0 tr table elenco 9 4
+CONFERMATO O 0 0 tr table elenco 9 4
+
+Collegio O 0 0 div div none 7 0
+Didattico O 0 0 div div none 7 0
+Dipartimentale O 0 0 div div none 7 0
+
+via O 0 0 div div none 7 3
+Comelico O 0 0 div div none 7 3
+39/41 O 0 0 div div none 7 3
+- O 0 0 div div none 7 3
+20135 O 0 0 div div none 7 3
+Milano O 0 1 div div none 7 3
+(Italy), O 0 0 div div none 7 3
++39-0250316372 O 0 0 div div none 7 3

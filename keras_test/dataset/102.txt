@@ -1,0 +1,2616 @@
+People: O 0 0 head html none 4 3
+School O 0 1 head html none 4 3
+of O 0 1 head html none 4 3
+Computing O 0 0 head html none 4 3
+and O 0 1 head html none 4 3
+Information O 0 1 head html none 4 3
+Systems, O 0 0 head html none 4 3
+University O 0 1 head html none 4 3
+of O 0 1 head html none 4 3
+Melbourne O 0 1 head html none 4 3
+
+Computing O 0 0 a li root 9 0
+and O 0 1 a li root 9 0
+Information O 0 1 a li root 9 0
+Systems O 0 0 a li root 9 0
+
+People O 0 1 a li last 9 0
+
+People O 0 1 div header mid-align 9 0
+
+Leadership O 0 0 nav div full-width 10 0
+Academic O 0 0 nav div full-width 10 1
+Staff O 0 1 nav div full-width 10 1
+Research O 0 1 nav div full-width 10 2
+Staff O 0 1 nav div full-width 10 2
+Professional O 0 0 nav div full-width 10 3
+Staff O 0 1 nav div full-width 10 3
+Research O 0 1 nav div full-width 10 4
+students O 0 0 nav div full-width 10 4
+Honorary O 0 0 nav div full-width 10 5
+
+Leadership O 0 0 section div title 10 0
+
+Prof O 0 0 a li staff-listing-detailed 13 2
+Justin B-NAME 1 1 a li staff-listing-detailed 13 2
+Zobel I-NAME 1 1 a li staff-listing-detailed 13 2
+
+Head O 0 1 a li staff-listing-detailed 13 3
+of O 0 1 a li staff-listing-detailed 13 3
+School O 0 1 a li staff-listing-detailed 13 3
+
+Prof O 0 0 a li staff-listing-detailed 13 2
+Karin B-NAME 1 1 a li staff-listing-detailed 13 2
+Verspoor I-NAME 1 1 a li staff-listing-detailed 13 2
+
+Deputy O 0 0 a li staff-listing-detailed 13 3
+Head O 0 1 a li staff-listing-detailed 13 3
+— O 0 0 a li staff-listing-detailed 13 3
+Operations O 0 0 a li staff-listing-detailed 13 3
+
+Prof O 0 0 a li staff-listing-detailed 13 2
+Andrew B-NAME 1 1 a li staff-listing-detailed 13 2
+Turpin I-NAME 1 1 a li staff-listing-detailed 13 2
+
+Deputy O 0 0 a li staff-listing-detailed 13 3
+Head O 0 1 a li staff-listing-detailed 13 3
+— O 0 0 a li staff-listing-detailed 13 3
+Engagement O 0 0 a li staff-listing-detailed 13 3
+
+Prof O 0 0 a li staff-listing-detailed 13 2
+Frank B-NAME 1 1 a li staff-listing-detailed 13 2
+Vetere I-NAME 1 1 a li staff-listing-detailed 13 2
+
+Director, O 0 0 a li staff-listing-detailed 13 3
+Microsoft O 0 1 a li staff-listing-detailed 13 3
+Centre O 0 1 a li staff-listing-detailed 13 3
+for O 0 1 a li staff-listing-detailed 13 3
+Social O 0 0 a li staff-listing-detailed 13 3
+
+NUI O 0 0 p a staff-listing-detailed 14 0
+
+Rhonda B-NAME 0 1 li ul staff-listing-detailed 12 0
+Smithies I-NAME 0 1 li ul staff-listing-detailed 12 0
+and O 0 1 li ul staff-listing-detailed 12 0
+Julie B-NAME 0 1 li ul staff-listing-detailed 12 0
+Ireland I-NAME 0 1 li ul staff-listing-detailed 12 0
+
+School O 0 1 li ul staff-listing-detailed 12 1
+Administrators O 0 0 li ul staff-listing-detailed 12 1
+
+Program O 0 0 section div title 10 31
+coordinators O 0 0 section div title 10 31
+
+Title O 0 1 tr thead zebra 13 0
+
+Given O 0 1 tr thead zebra 13 1
+name O 0 0 tr thead zebra 13 1
+
+Family O 0 1 tr thead zebra 13 2
+name O 0 0 tr thead zebra 13 2
+
+Program O 0 0 tr thead zebra 13 3
+
+Profile O 0 0 tr thead zebra 13 4
+
+Email O 0 0 tr thead zebra 13 5
+
+Dr O 0 1 tr tbody zebra 13 0
+Aaron B-NAME 1 1 tr tbody zebra 13 1
+Harwood I-NAME 1 1 tr tbody zebra 13 2
+MSc O 0 0 tr tbody zebra 13 3
+(Computer O 0 0 tr tbody zebra 13 3
+Science); O 0 0 tr tbody zebra 13 3
+GCert O 0 0 tr tbody zebra 13 3
+(Computer O 0 0 tr tbody zebra 13 3
+Science); O 0 0 tr tbody zebra 13 3
+GDip O 0 0 tr tbody zebra 13 3
+(Computer O 0 0 tr tbody zebra 13 3
+Science) O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+James B-NAME 1 1 tr tbody zebra 13 1
+Bailey I-NAME 1 1 tr tbody zebra 13 2
+Master O 0 1 tr tbody zebra 13 3
+of O 0 1 tr tbody zebra 13 3
+Data O 0 1 tr tbody zebra 13 3
+Science O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Rachelle B-NAME 1 1 tr tbody zebra 13 1
+Bosua I-NAME 1 1 tr tbody zebra 13 2
+BSc O 0 0 tr tbody zebra 13 3
+(Informatics); O 0 0 tr tbody zebra 13 3
+Diploma O 0 0 tr tbody zebra 13 3
+of O 0 1 tr tbody zebra 13 3
+Informatics; O 0 0 tr tbody zebra 13 3
+Research O 0 1 tr tbody zebra 13 3
+Graduate O 1 1 tr tbody zebra 13 3
+Coordinator O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Tim B-NAME 1 1 tr tbody zebra 13 1
+Miller I-NAME 1 1 tr tbody zebra 13 2
+BSc O 0 0 tr tbody zebra 13 3
+(Computing O 0 0 tr tbody zebra 13 3
+& O 0 0 tr tbody zebra 13 3
+Software O 0 1 tr tbody zebra 13 3
+Systems) O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Shanika B-NAME 1 1 tr tbody zebra 13 1
+Karunasekera I-NAME 1 1 tr tbody zebra 13 2
+ME O 0 0 tr tbody zebra 13 3
+(Software) O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Reeva B-NAME 1 1 tr tbody zebra 13 1
+Lederman I-NAME 1 1 tr tbody zebra 13 2
+MSc O 0 0 tr tbody zebra 13 3
+(Information O 0 0 tr tbody zebra 13 3
+Systems) O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Sean B-NAME 0 1 tr tbody zebra 13 1
+Maynard I-NAME 0 1 tr tbody zebra 13 2
+Master O 0 1 tr tbody zebra 13 3
+of O 0 1 tr tbody zebra 13 3
+Information O 0 1 tr tbody zebra 13 3
+Systems O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Egemen B-NAME 1 1 tr tbody zebra 13 1
+Tanin I-NAME 1 1 tr tbody zebra 13 2
+Master O 0 1 tr tbody zebra 13 3
+of O 0 1 tr tbody zebra 13 3
+Information O 0 1 tr tbody zebra 13 3
+Technology O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Tony B-NAME 1 1 tr tbody zebra 13 1
+Wirth I-NAME 0 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Graduate O 1 1 tr tbody zebra 13 3
+Coordinator O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Academic O 0 0 section div title 10 0
+staff O 0 0 section div title 10 0
+
+Title O 0 1 tr thead zebra 13 0
+
+Given O 0 1 tr thead zebra 13 1
+name O 0 0 tr thead zebra 13 1
+
+Family O 0 1 tr thead zebra 13 2
+name O 0 0 tr thead zebra 13 2
+
+Position O 0 0 tr thead zebra 13 3
+
+Profile O 0 0 tr thead zebra 13 4
+
+Email O 0 0 tr thead zebra 13 5
+
+Dr O 0 1 tr tbody zebra 13 0
+Greg B-NAME 1 1 tr tbody zebra 13 1
+Adamson I-NAME 1 1 tr tbody zebra 13 2
+Enterprise O 0 0 tr tbody zebra 13 3
+Fellow, O 0 0 tr tbody zebra 13 3
+Cyber O 0 0 tr tbody zebra 13 3
+Security O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Atif B-NAME 1 1 tr tbody zebra 13 1
+Ahmad I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Ida B-NAME 1 1 tr tbody zebra 13 1
+Asadi I-NAME 1 1 tr tbody zebra 13 2
+Someh I-NAME 1 1 tr tbody zebra 13 2
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+James B-NAME 1 1 tr tbody zebra 13 1
+Bailey I-NAME 1 1 tr tbody zebra 13 2
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Tim B-NAME 0 1 tr tbody zebra 13 1
+Baldwin I-NAME 0 1 tr tbody zebra 13 2
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Renata B-NAME 1 1 tr tbody zebra 13 1
+Borovica-Gajic I-NAME 1 1 tr tbody zebra 13 2
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Rachelle B-NAME 1 1 tr tbody zebra 13 1
+Bosua I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Christoph B-NAME 0 1 tr tbody zebra 13 1
+Breidbach I-NAME 0 1 tr tbody zebra 13 2
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+George B-NAME 1 1 tr tbody zebra 13 1
+Buchanan I-NAME 1 1 tr tbody zebra 13 2
+Associate O 0 1 tr tbody zebra 13 3
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Rajkumar B-NAME 1 1 tr tbody zebra 13 1
+Buyya I-NAME 1 1 tr tbody zebra 13 2
+Redmond O 0 1 tr tbody zebra 13 3
+Barry O 0 1 tr tbody zebra 13 3
+Distinguished O 0 0 tr tbody zebra 13 3
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Shanton B-NAME 1 1 tr tbody zebra 13 1
+Chang I-NAME 1 1 tr tbody zebra 13 2
+Associate O 0 1 tr tbody zebra 13 3
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Trevor B-NAME 1 1 tr tbody zebra 13 1
+Cohn I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Lecturer O 0 0 tr tbody zebra 13 3
+and O 0 1 tr tbody zebra 13 3
+ARC O 0 0 tr tbody zebra 13 3
+Future O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Philip B-NAME 0 1 tr tbody zebra 13 1
+Dart I-NAME 0 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Mr O 0 0 tr tbody zebra 13 0
+David B-NAME 0 1 tr tbody zebra 13 1
+Eccles I-NAME 0 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Tutor O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Sarah B-NAME 0 1 tr tbody zebra 13 1
+Erfani I-NAME 0 1 tr tbody zebra 13 2
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Nicholas B-NAME 1 1 tr tbody zebra 13 1
+Geard I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Martin B-NAME 1 1 tr tbody zebra 13 1
+Gibbs I-NAME 1 1 tr tbody zebra 13 2
+Associate O 0 1 tr tbody zebra 13 3
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Jorge B-NAME 1 1 tr tbody zebra 13 1
+Goncalves I-NAME 1 1 tr tbody zebra 13 2
+Lecturer, O 0 0 tr tbody zebra 13 3
+Human-Computer O 0 0 tr tbody zebra 13 3
+Interaction O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Kathleen B-NAME 1 1 tr tbody zebra 13 1
+Gray I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Aaron B-NAME 1 1 tr tbody zebra 13 1
+Harwood I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Shanika B-NAME 1 1 tr tbody zebra 13 1
+Karunasekera I-NAME 1 1 tr tbody zebra 13 2
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Ms O 0 0 tr tbody zebra 13 0
+Emily B-NAME 1 1 tr tbody zebra 13 1
+Keen I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Tutor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Michael B-NAME 1 1 tr tbody zebra 13 1
+Kirley I-NAME 1 1 tr tbody zebra 13 2
+Associate O 0 1 tr tbody zebra 13 3
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Jesper B-NAME 1 1 tr tbody zebra 13 1
+Kjeldskov I-NAME 1 1 tr tbody zebra 13 2
+Associate O 0 1 tr tbody zebra 13 3
+Professor O 0 0 tr tbody zebra 13 3
+of O 0 1 tr tbody zebra 13 3
+Human O 0 1 tr tbody zebra 13 3
+Computer O 0 0 tr tbody zebra 13 3
+Interaction O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Vassilis B-NAME 1 1 tr tbody zebra 13 1
+Kostakos I-NAME 1 1 tr tbody zebra 13 2
+Professor O 0 0 tr tbody zebra 13 3
+of O 0 1 tr tbody zebra 13 3
+Human O 0 1 tr tbody zebra 13 3
+Computer O 0 0 tr tbody zebra 13 3
+Interaction O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Rao B-NAME 1 1 tr tbody zebra 13 1
+Kotagiri I-NAME 1 1 tr tbody zebra 13 2
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Lars B-NAME 1 1 tr tbody zebra 13 1
+Kulik I-NAME 1 1 tr tbody zebra 13 2
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Sherah B-NAME 1 1 tr tbody zebra 13 1
+Kurnia I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Chris B-NAME 0 1 tr tbody zebra 13 1
+Leckie I-NAME 0 1 tr tbody zebra 13 2
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Reeva B-NAME 1 1 tr tbody zebra 13 1
+Lederman I-NAME 1 1 tr tbody zebra 13 2
+Associate O 0 1 tr tbody zebra 13 3
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Nir B-NAME 1 1 tr tbody zebra 13 1
+Lipovetzky I-NAME 1 1 tr tbody zebra 13 2
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Alex B-NAME 0 1 tr tbody zebra 13 1
+Lopez-Lorca I-NAME 0 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Tutor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Sean B-NAME 0 1 tr tbody zebra 13 1
+Maynard I-NAME 0 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Ms O 0 0 tr tbody zebra 13 0
+Dana B-NAME 1 1 tr tbody zebra 13 1
+McKay I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Tutor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Antonette B-NAME 1 1 tr tbody zebra 13 1
+Mendoza I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Tim B-NAME 1 1 tr tbody zebra 13 1
+Miller I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Alistair B-NAME 1 1 tr tbody zebra 13 1
+Moffat I-NAME 1 1 tr tbody zebra 13 2
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Toby B-NAME 0 1 tr tbody zebra 13 1
+Murray I-NAME 0 1 tr tbody zebra 13 2
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Mr O 0 0 tr tbody zebra 13 0
+Jeremy B-NAME 1 1 tr tbody zebra 13 1
+Nicholson I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Tutor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Eduardo B-NAME 1 1 tr tbody zebra 13 1
+Oliveira I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Tutor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Patrick B-NAME 0 1 tr tbody zebra 13 1
+Pang I-NAME 0 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Tutor O 0 0 tr tbody zebra 13 3
+(Internships) O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Udaya B-NAME 1 1 tr tbody zebra 13 1
+Parampalli I-NAME 1 1 tr tbody zebra 13 2
+Associate O 0 1 tr tbody zebra 13 3
+Professor O 0 0 tr tbody zebra 13 3
+and O 0 1 tr tbody zebra 13 3
+Reader O 0 1 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Adrian B-NAME 0 1 tr tbody zebra 13 1
+Pearce I-NAME 0 1 tr tbody zebra 13 2
+Associate O 0 1 tr tbody zebra 13 3
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Jianzhong B-NAME 1 1 tr tbody zebra 13 1
+Qi I-NAME 1 1 tr tbody zebra 13 2
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Ben B-NAME 0 1 tr tbody zebra 13 1
+Rubinstein I-NAME 0 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Peter B-NAME 1 1 tr tbody zebra 13 1
+Schachte I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Jan B-NAME 0 1 tr tbody zebra 13 1
+Schroeder I-NAME 0 1 tr tbody zebra 13 2
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Graeme B-NAME 1 1 tr tbody zebra 13 1
+Shanks I-NAME 1 1 tr tbody zebra 13 2
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Richard B-NAME 1 1 tr tbody zebra 13 1
+Sinnott I-NAME 0 1 tr tbody zebra 13 2
+Professor O 0 0 tr tbody zebra 13 3
+Applied O 0 0 tr tbody zebra 13 3
+Computing O 0 0 tr tbody zebra 13 3
+Science O 0 0 tr tbody zebra 13 3
+and O 0 1 tr tbody zebra 13 3
+Director, O 0 0 tr tbody zebra 13 3
+eResearch O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Wally B-NAME 1 1 tr tbody zebra 13 1
+Smith I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Harald B-NAME 0 1 tr tbody zebra 13 1
+Sondergaard I-NAME 0 1 tr tbody zebra 13 2
+Associate O 0 1 tr tbody zebra 13 3
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Liz B-NAME 1 1 tr tbody zebra 13 1
+Sonenberg I-NAME 1 1 tr tbody zebra 13 2
+Professor O 0 0 tr tbody zebra 13 3
+and O 0 1 tr tbody zebra 13 3
+Pro O 0 1 tr tbody zebra 13 3
+Vice-Chancellor O 0 0 tr tbody zebra 13 3
+(Research O 0 0 tr tbody zebra 13 3
+Collaboration) O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Peter B-NAME 1 1 tr tbody zebra 13 1
+Stuckey I-NAME 1 1 tr tbody zebra 13 2
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Egemen B-NAME 1 1 tr tbody zebra 13 1
+Tanin I-NAME 1 1 tr tbody zebra 13 2
+Associate O 0 1 tr tbody zebra 13 3
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Vanessa B-NAME 1 1 tr tbody zebra 13 1
+Teague I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Gil B-NAME 1 1 tr tbody zebra 13 1
+Tidhar I-NAME 1 1 tr tbody zebra 13 2
+Enterprise O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Van-Hau B-NAME 0 1 tr tbody zebra 13 1
+Trieu I-NAME 0 1 tr tbody zebra 13 2
+Associate O 0 1 tr tbody zebra 13 3
+Lecturer O 0 0 tr tbody zebra 13 3
+(MIS O 0 0 tr tbody zebra 13 3
+Online) O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Heidi B-NAME 1 1 tr tbody zebra 13 1
+Tscherning I-NAME 1 1 tr tbody zebra 13 2
+Associate O 0 1 tr tbody zebra 13 3
+Lecturer O 0 0 tr tbody zebra 13 3
+(MIS O 0 0 tr tbody zebra 13 3
+Online) O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Andrew B-NAME 1 1 tr tbody zebra 13 1
+Turpin I-NAME 1 1 tr tbody zebra 13 2
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Eduardo B-NAME 1 1 tr tbody zebra 13 1
+Velloso I-NAME 1 1 tr tbody zebra 13 2
+Lecturer O 0 0 tr tbody zebra 13 3
+in O 0 1 tr tbody zebra 13 3
+Human-Computer O 0 0 tr tbody zebra 13 3
+Interaction O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Karin B-NAME 1 1 tr tbody zebra 13 1
+Verspoor I-NAME 1 1 tr tbody zebra 13 2
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Frank B-NAME 1 1 tr tbody zebra 13 1
+Vetere I-NAME 1 1 tr tbody zebra 13 2
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Greg B-NAME 1 1 tr tbody zebra 13 1
+Wadley I-NAME 1 1 tr tbody zebra 13 2
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Jenny B-NAME 1 1 tr tbody zebra 13 1
+Waycott I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Lecturer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Tony B-NAME 1 1 tr tbody zebra 13 1
+Wirth I-NAME 0 1 tr tbody zebra 13 2
+Associate O 0 1 tr tbody zebra 13 3
+Professor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Ms O 0 0 tr tbody zebra 13 0
+Marion B-NAME 1 1 tr tbody zebra 13 1
+Zalk I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Tutor O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Rui B-NAME 1 1 tr tbody zebra 13 1
+Zhang I-NAME 1 1 tr tbody zebra 13 2
+Professor, O 0 0 tr tbody zebra 13 3
+Reader O 0 1 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Justin B-NAME 1 1 tr tbody zebra 13 1
+Zobel I-NAME 1 1 tr tbody zebra 13 2
+Redmond O 0 1 tr tbody zebra 13 3
+Barry O 0 1 tr tbody zebra 13 3
+Distinguished O 0 0 tr tbody zebra 13 3
+Professor O 0 0 tr tbody zebra 13 3
+and O 0 1 tr tbody zebra 13 3
+Head O 0 1 tr tbody zebra 13 3
+of O 0 1 tr tbody zebra 13 3
+School O 0 1 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Research O 0 1 section div title 10 0
+staff O 0 0 section div title 10 0
+
+Title O 0 1 tr thead zebra 13 0
+
+Given O 0 1 tr thead zebra 13 1
+name O 0 0 tr thead zebra 13 1
+
+Family O 0 1 tr thead zebra 13 2
+name O 0 0 tr thead zebra 13 2
+
+Position O 0 0 tr thead zebra 13 3
+
+Profile O 0 0 tr thead zebra 13 4
+
+Email O 0 0 tr thead zebra 13 5
+
+Dr O 0 1 tr tbody zebra 13 0
+Roberto B-NAME 1 1 tr tbody zebra 13 1
+Amadini I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Mr O 0 0 tr tbody zebra 13 0
+Steven B-NAME 1 1 tr tbody zebra 13 1
+Baker I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Mr O 0 0 tr tbody zebra 13 0
+Daniel B-NAME 1 1 tr tbody zebra 13 1
+Beck I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Michelle B-NAME 0 1 tr tbody zebra 13 1
+Blom I-NAME 0 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Mohamed B-NAME 1 1 tr tbody zebra 13 1
+Reda I-NAME 1 1 tr tbody zebra 13 1
+Bouadjenek I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Rachel B-NAME 1 1 tr tbody zebra 13 1
+Burrows I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Thomas B-NAME 1 1 tr tbody zebra 13 1
+Christy I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Dora B-NAME 1 1 tr tbody zebra 13 1
+Constantinidis I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Sara B-NAME 1 1 tr tbody zebra 13 1
+Cullen I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Chris B-NAME 1 1 tr tbody zebra 13 1
+Culnane I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Emir B-NAME 1 1 tr tbody zebra 13 1
+Demirovic I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Suelette B-NAME 1 1 tr tbody zebra 13 1
+Dreyfus I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Meng B-NAME 1 1 tr tbody zebra 13 1
+Fang I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Mr O 0 0 tr tbody zebra 13 0
+Hasan B-NAME 1 1 tr tbody zebra 13 1
+Ferdous I-NAME 0 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Graeme B-NAME 1 1 tr tbody zebra 13 1
+Gange I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Ms O 0 0 tr tbody zebra 13 0
+Seyedeh B-NAME 0 1 tr tbody zebra 13 1
+Mohadeseh I-NAME 0 1 tr tbody zebra 13 1
+Ghasempour I-NAME 0 1 tr tbody zebra 13 2
+Ganji I-NAME 0 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Yi B-NAME 1 1 tr tbody zebra 13 1
+Han I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Ms O 0 0 tr tbody zebra 13 0
+Jiazhen B-NAME 1 1 tr tbody zebra 13 1
+He I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Thuong B-NAME 0 1 tr tbody zebra 13 1
+Hoang I-NAME 0 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Mohsen B-NAME 1 1 tr tbody zebra 13 1
+Jafari I-NAME 1 1 tr tbody zebra 13 2
+Songhori I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Sergio B-NAME 1 1 tr tbody zebra 13 1
+Jiménez I-NAME 1 1 tr tbody zebra 13 2
+Celorrio I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Mr O 0 0 tr tbody zebra 13 0
+Zaher B-NAME 0 1 tr tbody zebra 13 1
+Joukhadar I-NAME 0 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Bishoksan B-NAME 1 1 tr tbody zebra 13 1
+Kafle I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Kewen B-NAME 1 1 tr tbody zebra 13 1
+Liao I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Mr O 0 0 tr tbody zebra 13 0
+Kwan B-NAME 1 1 tr tbody zebra 13 1
+Hui I-NAME 1 1 tr tbody zebra 13 1
+Lim I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Ms O 0 0 tr tbody zebra 13 0
+Jenny B-NAME 0 1 tr tbody zebra 13 1
+Kennedy I-NAME 0 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Adel B-NAME 1 1 tr tbody zebra 13 1
+Nadjaran I-NAME 1 1 tr tbody zebra 13 2
+Toosi I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Matthias B-NAME 1 1 tr tbody zebra 13 1
+Petri I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Miguel B-NAME 0 1 tr tbody zebra 13 1
+Ramirez I-NAME 0 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Ms O 0 0 tr tbody zebra 13 0
+Lida B-NAME 1 1 tr tbody zebra 13 1
+Rashidi I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Mrs O 0 0 tr tbody zebra 13 0
+Maria B-NAME 1 1 tr tbody zebra 13 1
+Rodriguez I-NAME 1 1 tr tbody zebra 13 2
+Sossa I-NAME 0 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Ms O 0 0 tr tbody zebra 13 0
+Bahar B-NAME 1 1 tr tbody zebra 13 1
+Salehi I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Shen B-NAME 1 1 tr tbody zebra 13 1
+Wang I-NAME 1 1 tr tbody zebra 13 2
+Research O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Niels B-NAME 1 1 tr tbody zebra 13 1
+Wouters I-NAME 1 1 tr tbody zebra 13 2
+Digital O 0 1 tr tbody zebra 13 3
+Media O 0 1 tr tbody zebra 13 3
+Specialist O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Professional O 0 0 section div title 10 0
+staff O 0 0 section div title 10 0
+
+Title O 0 1 tr thead zebra 13 0
+
+Given O 0 1 tr thead zebra 13 1
+name O 0 0 tr thead zebra 13 1
+
+Family O 0 1 tr thead zebra 13 2
+Name O 0 1 tr thead zebra 13 2
+
+Position O 0 0 tr thead zebra 13 3
+
+Profile/Phone O 0 0 tr thead zebra 13 4
+
+Email O 0 0 tr thead zebra 13 5
+
+Dr O 0 1 tr tbody zebra 13 0
+Nicole O 0 1 tr tbody zebra 13 1
+Barbee O 0 1 tr tbody zebra 13 2
+Manager, O 0 0 tr tbody zebra 13 3
+Microsoft O 0 1 tr tbody zebra 13 3
+Centre O 0 1 tr tbody zebra 13 3
+for O 0 1 tr tbody zebra 13 3
+Social O 0 0 tr tbody zebra 13 3
+Natural O 0 0 tr tbody zebra 13 3
+User O 0 1 tr tbody zebra 13 3
+Interfaces O 0 0 tr tbody zebra 13 3
+
+Mr O 0 0 tr tbody zebra 13 0
+Chris B-NAME 0 1 tr tbody zebra 13 1
+Bayliss I-NAME 0 1 tr tbody zebra 13 2
+MEG O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Software O 0 1 tr tbody zebra 13 3
+Developer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Mr O 0 0 tr tbody zebra 13 0
+Andrew B-NAME 0 1 tr tbody zebra 13 1
+Bromage I-NAME 0 1 tr tbody zebra 13 2
+MEG O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Software O 0 1 tr tbody zebra 13 3
+Developer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Loren B-NAME 1 1 tr tbody zebra 13 1
+Bruns I-NAME 1 1 tr tbody zebra 13 2
+Jnr I-NAME 0 1 tr tbody zebra 13 2
+MEG O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Software O 0 1 tr tbody zebra 13 3
+Developer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Ms O 0 0 tr tbody zebra 13 0
+Madalain B-NAME 0 0 tr tbody zebra 13 1
+Dolic I-NAME 0 1 tr tbody zebra 13 2
+Academic O 0 0 tr tbody zebra 13 3
+Support O 0 0 tr tbody zebra 13 3
+Coordinator O 0 0 tr tbody zebra 13 3
+834 O 0 0 tr tbody zebra 13 4
+41300 O 0 0 tr tbody zebra 13 4
+
+Mr O 0 0 tr tbody zebra 13 0
+Gerson B-NAME 1 1 tr tbody zebra 13 1
+Galang I-NAME 1 1 tr tbody zebra 13 2
+PRESS O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Software O 0 1 tr tbody zebra 13 3
+Developer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Mr O 0 0 tr tbody zebra 13 0
+Philip B-NAME 1 1 tr tbody zebra 13 1
+Greenwood I-NAME 1 1 tr tbody zebra 13 2
+MEG O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Software O 0 1 tr tbody zebra 13 3
+Developer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Mr O 0 0 tr tbody zebra 13 0
+Chris B-NAME 0 1 tr tbody zebra 13 1
+Guest I-NAME 0 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Software O 0 1 tr tbody zebra 13 3
+Engineer O 0 1 tr tbody zebra 13 3
+
+Mr O 0 0 tr tbody zebra 13 0
+William B-NAME 1 1 tr tbody zebra 13 1
+Hu I-NAME 1 1 tr tbody zebra 13 2
+MEG O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Software O 0 1 tr tbody zebra 13 3
+Developer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Ms O 0 0 tr tbody zebra 13 0
+Julie B-NAME 0 1 tr tbody zebra 13 1
+Ireland I-NAME 0 1 tr tbody zebra 13 2
+School O 0 1 tr tbody zebra 13 3
+Administrator O 0 0 tr tbody zebra 13 3
+903 O 0 0 tr tbody zebra 13 4
+54422 O 0 0 tr tbody zebra 13 4
+
+Ms O 0 0 tr tbody zebra 13 0
+Cathy B-NAME 0 1 tr tbody zebra 13 1
+Izzard I-NAME 0 1 tr tbody zebra 13 2
+Academic O 0 0 tr tbody zebra 13 3
+Support O 0 0 tr tbody zebra 13 3
+Coordinator O 0 0 tr tbody zebra 13 3
+903 O 0 0 tr tbody zebra 13 4
+53441 O 0 0 tr tbody zebra 13 4
+
+Dr O 0 1 tr tbody zebra 13 0
+Glenn B-NAME 0 1 tr tbody zebra 13 1
+Jayaputera I-NAME 0 1 tr tbody zebra 13 2
+PRESS O 0 0 tr tbody zebra 13 3
+Platform O 0 1 tr tbody zebra 13 3
+Manager O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+James B-NAME 1 1 tr tbody zebra 13 1
+Jayaputera I-NAME 1 1 tr tbody zebra 13 2
+Senior O 0 1 tr tbody zebra 13 3
+Server O 0 1 tr tbody zebra 13 3
+Side O 0 1 tr tbody zebra 13 3
+Software O 0 1 tr tbody zebra 13 3
+Engineer O 0 1 tr tbody zebra 13 3
+
+Mrs O 0 0 tr tbody zebra 13 0
+Kylie B-NAME 0 1 tr tbody zebra 13 1
+McColl I-NAME 0 1 tr tbody zebra 13 2
+Secondary O 0 0 tr tbody zebra 13 3
+Teacher O 0 1 tr tbody zebra 13 3
+(VCE O 0 0 tr tbody zebra 13 3
+Algorithmics) O 0 0 tr tbody zebra 13 3
+
+Mr O 0 0 tr tbody zebra 13 0
+Jiajie B-NAME 0 1 tr tbody zebra 13 1
+Li I-NAME 0 1 tr tbody zebra 13 2
+Software O 0 1 tr tbody zebra 13 3
+Developer O 0 0 tr tbody zebra 13 3
+
+Mr O 0 0 tr tbody zebra 13 0
+Davis B-NAME 1 1 tr tbody zebra 13 1
+Marques I-NAME 1 1 tr tbody zebra 13 2
+AURIN O 0 0 td tr zebra 14 0
+User O 0 1 tr tbody zebra 13 3
+Interface O 0 0 tr tbody zebra 13 3
+Software O 0 1 tr tbody zebra 13 3
+Engineer O 0 1 tr tbody zebra 13 3
+903 O 0 0 tr tbody zebra 13 5
+54795 O 0 0 tr tbody zebra 13 5
+
+Mr O 0 0 tr tbody zebra 13 0
+Luca B-NAME 1 1 tr tbody zebra 13 1
+Morandini I-NAME 1 1 tr tbody zebra 13 2
+AURIN O 0 0 td tr zebra 14 0
+Data O 0 1 tr tbody zebra 13 3
+Architect O 0 1 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Ms O 0 0 tr tbody zebra 13 0
+Ghazal B-NAME 1 1 tr tbody zebra 13 1
+Nogoorani I-NAME 1 1 tr tbody zebra 13 2
+AURIN O 0 0 td tr zebra 14 0
+User O 0 1 tr tbody zebra 13 3
+Interface O 0 0 tr tbody zebra 13 3
+Software O 0 1 tr tbody zebra 13 3
+Engineer O 0 1 tr tbody zebra 13 3
+903 O 0 0 tr tbody zebra 13 5
+56187 O 0 0 tr tbody zebra 13 5
+
+Mr O 0 0 tr tbody zebra 13 0
+Alwyn B-NAME 0 1 tr tbody zebra 13 1
+Pan I-NAME 0 1 tr tbody zebra 13 2
+Software O 0 1 tr tbody zebra 13 3
+Developer O 0 0 tr tbody zebra 13 3
+8344 O 0 0 tr tbody zebra 13 4
+6672 O 0 0 tr tbody zebra 13 4
+
+Dr O 0 1 tr tbody zebra 13 0
+Hossein B-NAME 0 1 tr tbody zebra 13 1
+Pursultani I-NAME 0 0 tr tbody zebra 13 2
+AURIN O 0 0 td tr zebra 14 0
+Systems O 0 0 tr tbody zebra 13 3
+Administrator/Developer O 0 0 tr tbody zebra 13 3
+834 O 0 0 tr tbody zebra 13 5
+42015 O 0 0 tr tbody zebra 13 5
+
+Mr O 0 0 tr tbody zebra 13 0
+Sulman B-NAME 0 1 tr tbody zebra 13 1
+Sarwar I-NAME 0 1 tr tbody zebra 13 2
+AURIN O 0 0 td tr zebra 14 0
+Portal O 0 1 tr tbody zebra 13 3
+& O 0 0 tr tbody zebra 13 3
+Service O 0 1 tr tbody zebra 13 3
+eEnabler O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Ms O 0 0 tr tbody zebra 13 0
+Rhonda B-NAME 0 1 tr tbody zebra 13 1
+Smithies I-NAME 0 1 tr tbody zebra 13 2
+School O 0 1 tr tbody zebra 13 3
+Administrator O 0 0 tr tbody zebra 13 3
+834 O 0 0 tr tbody zebra 13 4
+41505 O 0 0 tr tbody zebra 13 4
+
+Mr O 0 0 tr tbody zebra 13 0
+Anthony B-NAME 1 1 tr tbody zebra 13 1
+Stell I-NAME 1 1 tr tbody zebra 13 2
+MEG O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Software O 0 1 tr tbody zebra 13 3
+Developer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+William B-NAME 1 1 tr tbody zebra 13 1
+Voorsluys I-NAME 1 1 tr tbody zebra 13 2
+MEG O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Software O 0 1 tr tbody zebra 13 3
+Developer O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Ivo B-NAME 1 1 tr tbody zebra 13 1
+Widjaja I-NAME 1 1 tr tbody zebra 13 2
+AURIN I-NAME 0 0 td tr zebra 14 0
+Data O 0 1 tr tbody zebra 13 3
+eEnabler O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Research O 0 1 section div title 10 0
+higher O 0 0 section div title 10 0
+degree O 0 0 section div title 10 0
+students O 0 0 section div title 10 0
+
+Given O 0 1 tr thead zebra 13 0
+name O 0 0 tr thead zebra 13 0
+
+Family O 0 1 tr thead zebra 13 1
+name O 0 0 tr thead zebra 13 1
+
+Profile O 0 0 tr thead zebra 13 2
+
+Email O 0 0 tr thead zebra 13 3
+
+Andres B-NAME 0 1 tr tbody zebra 13 0
+Abeliuk I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Oliver B-NAME 1 1 tr tbody zebra 13 0
+Adams I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Deepti B-NAME 1 1 tr tbody zebra 13 0
+Aggarwal I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Carlos-Andres B-NAME 0 0 tr tbody zebra 13 0
+Agudelo-Serna I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Eman B-NAME 0 1 tr tbody zebra 13 0
+Alatawi I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Yasser B-NAME 0 1 tr tbody zebra 13 0
+Aldwyan I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Abdullah B-NAME 1 1 tr tbody zebra 13 0
+Aldwyish I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Elaheh B-NAME 0 1 tr tbody zebra 13 0
+Alipour I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Saad B-NAME 1 1 tr tbody zebra 13 0
+Aljubayrin I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Sami B-NAME 0 1 tr tbody zebra 13 0
+Alkhatib I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Fraser B-NAME 0 1 tr tbody zebra 13 0
+Allison I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Mohammed B-NAME 0 1 tr tbody zebra 13 0
+Alrokayan I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Moneer B-NAME 0 1 tr tbody zebra 13 0
+Alshaikh I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Mona B-NAME 1 1 tr tbody zebra 13 0
+Alshardan I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Nazik B-NAME 0 0 tr tbody zebra 13 0
+Al-Turki I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Mahmuda B-NAME 1 1 tr tbody zebra 13 0
+Asrafi I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Kagonya B-NAME 1 1 tr tbody zebra 13 0
+Awori I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Zay B-NAME 0 0 tr tbody zebra 13 0
+Maung I-NAME 0 1 tr tbody zebra 13 0
+Maung I-NAME 0 1 tr tbody zebra 13 0
+Aye I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Rehan B-NAME 1 1 tr tbody zebra 13 0
+Abdul I-NAME 1 1 tr tbody zebra 13 0
+Aziz I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Eman B-NAME 0 1 tr tbody zebra 13 0
+Bin I-NAME 0 1 tr tbody zebra 13 1
+Khunayn I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Haifa B-NAME 0 1 tr tbody zebra 13 0
+Binsahl I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+James B-NAME 1 1 tr tbody zebra 13 0
+Breen I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Irum B-NAME 0 1 tr tbody zebra 13 0
+Fahim I-NAME 0 1 tr tbody zebra 13 0
+Bukhari I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Joanne B-NAME 1 1 tr tbody zebra 13 0
+Cannon I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Romina B-NAME 0 1 tr tbody zebra 13 0
+Carrasco I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Daochang B-NAME 0 1 tr tbody zebra 13 0
+Chen I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Qingyu B-NAME 1 1 tr tbody zebra 13 0
+Chen I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Milad B-NAME 0 1 tr tbody zebra 13 0
+Chenaghlou I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Weihao B-NAME 0 1 tr tbody zebra 13 0
+Cheng I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Jooyoung B-NAME 0 1 tr tbody zebra 13 0
+Choi I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Luke B-NAME 0 1 tr tbody zebra 13 0
+Chong I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+David B-NAME 0 1 tr tbody zebra 13 0
+(Knobby) I-NAME 0 0 tr tbody zebra 13 0
+Clarke I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Oscar B-NAME 0 1 tr tbody zebra 13 0
+Correa I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Ranko B-NAME 0 1 tr tbody zebra 13 0
+Cosic I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Yimeng B-NAME 0 1 tr tbody zebra 13 0
+Dai I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Adam B-NAME 1 1 tr tbody zebra 13 0
+Davies I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Toby B-NAME 0 1 tr tbody zebra 13 0
+Davies I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+toby.davies@nicta.com.au O 0 0 tr tbody zebra 13 4
+
+Partha B-NAME 1 1 tr tbody zebra 13 0
+De I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Diego B-NAME 0 1 tr tbody zebra 13 0
+De I-NAME 0 1 tr tbody zebra 13 1
+Una I-NAME 0 1 tr tbody zebra 13 1
+Gomez I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Gerardo B-NAME 1 1 tr tbody zebra 13 0
+Luis I-NAME 1 1 tr tbody zebra 13 0
+Dimaguila I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Nicholas B-NAME 1 1 tr tbody zebra 13 0
+Downing I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Long B-NAME 1 1 tr tbody zebra 13 0
+Duong I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Imairi B-NAME 0 0 tr tbody zebra 13 0
+Eitiveni I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Aparna B-NAME 0 1 tr tbody zebra 13 0
+Elangovan I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Aref B-NAME 0 1 tr tbody zebra 13 0
+Eshghishargh I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Fernando B-NAME 1 1 tr tbody zebra 13 0
+Estrada I-NAME 1 1 tr tbody zebra 13 1
+Martinez I-NAME 0 1 tr tbody zebra 13 1
+De I-NAME 0 1 tr tbody zebra 13 1
+Alva I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Peter B-NAME 0 1 tr tbody zebra 13 0
+Eze I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Maryam B-NAME 1 1 tr tbody zebra 13 0
+Fanaeepour I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Hasan B-NAME 1 1 tr tbody zebra 13 0
+Shahid I-NAME 1 1 tr tbody zebra 13 0
+Ferdous I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Sareh B-NAME 0 1 tr tbody zebra 13 0
+Fotuhi I-NAME 0 1 tr tbody zebra 13 1
+Piraghaj I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Kathryn B-NAME 1 1 tr tbody zebra 13 0
+Francis I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Thomas B-NAME 0 1 tr tbody zebra 13 0
+Gale I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+tom@tg.id.au O 0 0 tr tbody zebra 13 4
+
+Mohadeseh B-NAME 0 1 tr tbody zebra 13 0
+Ganji I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Wei B-NAME 1 1 tr tbody zebra 13 0
+Gao I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Henry B-NAME 0 1 tr tbody zebra 13 0
+Gasko I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Zahra B-NAME 0 1 tr tbody zebra 13 0
+Ghafoori I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Soheila B-NAME 0 1 tr tbody zebra 13 0
+Ghane I-NAME 0 1 tr tbody zebra 13 1
+Ezabadi I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Stephan B-NAME 0 1 tr tbody zebra 13 0
+Gloeckner I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Preeti B-NAME 1 1 tr tbody zebra 13 0
+Goel I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Yikai B-NAME 0 1 tr tbody zebra 13 0
+Gong I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Nikolay B-NAME 0 1 tr tbody zebra 13 0
+Grozdanov I-NAME 0 1 tr tbody zebra 13 0
+Grozev I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Guan B-NAME 1 1 tr tbody zebra 13 0
+Gui I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Ping B-NAME 1 1 tr tbody zebra 13 0
+Guo I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Jiayuan B-NAME 1 1 tr tbody zebra 13 0
+He I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Jiazhen B-NAME 1 1 tr tbody zebra 13 0
+He I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Kayla B-NAME 0 1 tr tbody zebra 13 0
+Heffernan I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Safiollah B-NAME 0 0 tr tbody zebra 13 0
+Heidari I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Cong B-NAME 1 1 tr tbody zebra 13 0
+Duy I-NAME 1 1 tr tbody zebra 13 0
+Vu I-NAME 1 1 tr tbody zebra 13 0
+Hoang I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Doris B-NAME 0 1 tr tbody zebra 13 0
+Hoogeveen I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Craig B-NAME 0 1 tr tbody zebra 13 0
+Andrew I-NAME 0 1 tr tbody zebra 13 0
+Horne I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Md O 0 1 tr tbody zebra 13 0
+Akter B-NAME 1 1 tr tbody zebra 13 0
+Hussain I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Nwakego B-NAME 0 1 tr tbody zebra 13 0
+Isika I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Muhammed B-NAME 0 1 tr tbody zebra 13 0
+Islam I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Hamideh B-NAME 0 1 tr tbody zebra 13 0
+Iraj I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Lakshmi B-NAME 0 1 tr tbody zebra 13 0
+Jagathammamohan I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Stephanie B-NAME 0 1 tr tbody zebra 13 0
+James I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Sachini B-NAME 0 1 tr tbody zebra 13 0
+Jayasekara I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Jongkil B-NAME 0 1 tr tbody zebra 13 0
+Jeong I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Yunzhe B-NAME 1 1 tr tbody zebra 13 0
+Jia I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Wenkai B-NAME 0 1 tr tbody zebra 13 0
+Jiang I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Yamuna B-NAME 1 1 tr tbody zebra 13 0
+Kankanige I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Sameera B-NAME 0 1 tr tbody zebra 13 0
+Kannangara I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Sehrish B-NAME 0 1 tr tbody zebra 13 0
+Kanwal I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Sara B-NAME 0 1 tr tbody zebra 13 0
+Kardani I-NAME 0 1 tr tbody zebra 13 1
+Moghaddam I-NAME 0 1 tr tbody zebra 13 1
+
+Pasan B-NAME 0 1 tr tbody zebra 13 0
+Karunaratne I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Emily B-NAME 1 1 tr tbody zebra 13 0
+Keen I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Atlarelang B-NAME 0 0 tr tbody zebra 13 0
+Kesiilwe I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+A.K.M. B-NAME 0 0 tr tbody zebra 13 0
+Mustafizur I-NAME 1 1 tr tbody zebra 13 0
+Rahman I-NAME 1 1 tr tbody zebra 13 0
+Khan I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Farah B-NAME 1 1 tr tbody zebra 13 0
+Khan I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Gitansh B-NAME 1 1 tr tbody zebra 13 0
+Khirbat I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Farzad B-NAME 1 1 tr tbody zebra 13 0
+Khodadadi I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Atefeh B-NAME 1 1 tr tbody zebra 13 0
+Khosravi I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Karin B-NAME 0 1 tr tbody zebra 13 0
+Klotzbuecher I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Yousef B-NAME 0 1 tr tbody zebra 13 0
+Kowsar I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Grant B-NAME 1 1 tr tbody zebra 13 0
+Kruger I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Ross B-NAME 1 1 tr tbody zebra 13 0
+Kyprianou I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+ross7k@gmail.com O 0 0 tr tbody zebra 13 4
+
+Edward B-NAME 0 1 tr tbody zebra 13 0
+Lam I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+edward.lam@nicta.com.au O 0 0 tr tbody zebra 13 4
+
+Yang B-NAME 1 1 tr tbody zebra 13 0
+Lei I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Hengfeng B-NAME 1 1 tr tbody zebra 13 0
+Li I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Li B-NAME 1 1 tr tbody zebra 13 0
+Li I-NAME 1 1 tr tbody zebra 13 0
+Profile O 0 0 td tr zebra 14 0
+
+Xin B-NAME 1 1 tr tbody zebra 13 0
+Li I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Yichen B-NAME 1 1 tr tbody zebra 13 0
+Li I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Yitong B-NAME 1 1 tr tbody zebra 13 0
+Li I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Yuan B-NAME 1 1 tr tbody zebra 13 0
+Li I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Yude B-NAME 1 1 tr tbody zebra 13 0
+Lin I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Fei B-NAME 1 1 tr tbody zebra 13 0
+Liu I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Liyan B-NAME 1 1 tr tbody zebra 13 0
+Liu I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Xunyun B-NAME 1 1 tr tbody zebra 13 0
+Liu I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Juan B-NAME 1 1 tr tbody zebra 13 0
+Lu I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Yang B-NAME 1 1 tr tbody zebra 13 0
+Lu I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Xingjun B-NAME 0 1 tr tbody zebra 13 0
+Ma I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Aleck B-NAME 0 1 tr tbody zebra 13 0
+MacNally I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Md O 0 1 tr tbody zebra 13 0
+Redowan B-NAME 0 1 tr tbody zebra 13 0
+Mahmud I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Donia B-NAME 0 1 tr tbody zebra 13 0
+Malekian I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Yaser B-NAME 1 1 tr tbody zebra 13 0
+Mansouri I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Neil B-NAME 0 1 tr tbody zebra 13 0
+Marchant I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Nitika B-NAME 0 1 tr tbody zebra 13 0
+Mathur I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Jane B-NAME 0 1 tr tbody zebra 13 0
+Mavoa I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Jessica B-NAME 0 1 tr tbody zebra 13 0
+McClintock I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Dana B-NAME 1 1 tr tbody zebra 13 0
+McKay I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Toni B-NAME 1 1 tr tbody zebra 13 0
+McLennan I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Zakaria B-NAME 0 1 tr tbody zebra 13 0
+Mhammedi I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Mahtab B-NAME 0 1 tr tbody zebra 13 0
+Mirmomeni I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Mohammad B-NAME 1 1 tr tbody zebra 13 0
+Moniruzzaman I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Sadegh B-NAME 1 1 tr tbody zebra 13 0
+Motallebi I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Morteza B-NAME 1 1 tr tbody zebra 13 0
+Mousavi I-NAME 1 1 tr tbody zebra 13 1
+Barroudi I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Hilman B-NAME 0 1 tr tbody zebra 13 0
+Muhammad I-NAME 0 1 tr tbody zebra 13 1
+Hafizhuddin I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Abdulaziz B-NAME 0 1 tr tbody zebra 13 0
+Murad I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Somayeh B-NAME 0 1 tr tbody zebra 13 0
+Naderivesal I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Elham B-NAME 0 1 tr tbody zebra 13 0
+Naghi I-NAME 0 1 tr tbody zebra 13 1
+Zadeh I-NAME 0 1 tr tbody zebra 13 1
+Kakhki I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Humza B-NAME 1 1 tr tbody zebra 13 0
+Naseer I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Sadia B-NAME 1 1 tr tbody zebra 13 0
+Nawaz I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Neelofar B-NAME 1 1 tr tbody zebra 13 0
+Neelofar I-NAME 1 1 tr tbody zebra 13 0
+Profile O 0 0 td tr zebra 14 0
+
+Chris B-NAME 1 1 tr tbody zebra 13 0
+Nelson I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Joshua B-NAME 0 1 tr tbody zebra 13 0
+Newn I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Le B-NAME 1 1 tr tbody zebra 13 0
+Tan I-NAME 1 1 tr tbody zebra 13 0
+Chanh I-NAME 1 1 tr tbody zebra 13 0
+Nguyen I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Anitya B-NAME 1 1 tr tbody zebra 13 0
+Nijhara I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Mohammad B-NAME 1 1 tr tbody zebra 13 0
+Oloomi I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Mazino B-NAME 0 0 tr tbody zebra 13 0
+Onibere I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Patrick B-NAME 0 1 tr tbody zebra 13 0
+Pang I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Nagesh B-NAME 0 1 tr tbody zebra 13 0
+Panyam I-NAME 0 1 tr tbody zebra 13 1
+Chandrasekarasastry I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+David B-NAME 1 1 tr tbody zebra 13 0
+Patman I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Kushani B-NAME 1 1 tr tbody zebra 13 0
+Perera I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Sam B-NAME 0 1 tr tbody zebra 13 0
+Pitruzzello I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Chenhao B-NAME 1 1 tr tbody zebra 13 0
+Qu I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Anthony B-NAME 1 1 tr tbody zebra 13 0
+Quattrone I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Afshin B-NAME 1 1 tr tbody zebra 13 0
+Rahimi I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Luthfi B-NAME 0 1 tr tbody zebra 13 0
+Ramadani I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Subramaniam B-NAME 0 1 tr tbody zebra 13 0
+Ramasubramanian I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Kim B-NAME 1 1 tr tbody zebra 13 0
+Ramchen I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Martin B-NAME 0 1 tr tbody zebra 13 0
+Reinoso I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Naomi B-NAME 0 1 tr tbody zebra 13 0
+Robinson I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Maria B-NAME 1 1 tr tbody zebra 13 0
+Alejandra I-NAME 1 1 tr tbody zebra 13 0
+Rodriguez I-NAME 1 1 tr tbody zebra 13 1
+Sossa I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Melissa B-NAME 0 1 tr tbody zebra 13 0
+Rogerson I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Leyla B-NAME 0 1 tr tbody zebra 13 0
+Roohi I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Behnaz B-NAME 1 1 tr tbody zebra 13 0
+Rostami I-NAME 1 1 tr tbody zebra 13 1
+Yeganeh I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Bahar B-NAME 1 1 tr tbody zebra 13 0
+Salehi I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Sameendra B-NAME 1 1 tr tbody zebra 13 0
+Samarawickrama I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Tabinda B-NAME 1 1 tr tbody zebra 13 0
+Sarwar I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Naghmeh B-NAME 0 1 tr tbody zebra 13 0
+Sharikzadeh I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Aili B-NAME 1 1 tr tbody zebra 13 0
+Shen I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Ronal B-NAME 1 1 tr tbody zebra 13 0
+Singh I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Nicholas B-NAME 1 1 tr tbody zebra 13 0
+Smith I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Jay B-NAME 0 1 tr tbody zebra 13 0
+Son I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Namrata B-NAME 0 1 tr tbody zebra 13 0
+Srivastava I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Shivashankar B-NAME 1 1 tr tbody zebra 13 0
+Subramanian I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Yu B-NAME 1 1 tr tbody zebra 13 0
+Sun I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Ping B-NAME 1 1 tr tbody zebra 13 0
+Tan I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Nyree B-NAME 0 1 tr tbody zebra 13 0
+Taylor I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Tri B-NAME 0 1 tr tbody zebra 13 0
+Minh I-NAME 0 1 tr tbody zebra 13 0
+Truong I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Alex B-NAME 0 1 tr tbody zebra 13 0
+Vedernikov I-NAME 0 0 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Patrick B-NAME 0 1 tr tbody zebra 13 0
+Vicky I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Friedrich B-NAME 0 1 tr tbody zebra 13 0
+Burkhard I-NAME 0 1 tr tbody zebra 13 0
+Von I-NAME 0 1 tr tbody zebra 13 1
+Der I-NAME 0 1 tr tbody zebra 13 1
+Osten I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Ekaterina B-NAME 1 1 tr tbody zebra 13 0
+Vylomova I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Qiao B-NAME 1 1 tr tbody zebra 13 0
+Wang I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Zhen B-NAME 1 1 tr tbody zebra 13 0
+Wang I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Sarah B-NAME 1 1 tr tbody zebra 13 0
+Webber I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+sarah@sarahwebber.me O 0 0 td tr zebra 14 0
+
+Chee B-NAME 0 1 tr tbody zebra 13 0
+Kong I-NAME 0 1 tr tbody zebra 13 0
+Wong I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Diana B-NAME 1 1 tr tbody zebra 13 0
+Wong I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Miguel-Angel B-NAME 0 1 tr tbody zebra 13 0
+Wood I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Caesar B-NAME 0 1 tr tbody zebra 13 0
+Wu I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Minxian B-NAME 1 1 tr tbody zebra 13 0
+Xu I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+xianecisp@gmail.com O 0 0 td tr zebra 14 0
+
+Yuan B-NAME 1 1 tr tbody zebra 13 0
+Xue I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Meng B-NAME 1 1 tr tbody zebra 13 0
+Yang I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Ziying B-NAME 0 1 tr tbody zebra 13 0
+Yang I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Ge B-NAME 0 1 tr tbody zebra 13 0
+Yao I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Chuandong B-NAME 0 1 tr tbody zebra 13 0
+Yin I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Zhou B-NAME 0 1 tr tbody zebra 13 0
+Yun I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Marion B-NAME 1 1 tr tbody zebra 13 0
+Zalk I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Mahsa B-NAME 0 1 tr tbody zebra 13 0
+Zameni I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Xin B-NAME 1 1 tr tbody zebra 13 0
+Zhang I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Yiqing B-NAME 1 1 tr tbody zebra 13 0
+Zhang I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Chenxu B-NAME 1 1 tr tbody zebra 13 0
+Zhao I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+He B-NAME 1 1 tr tbody zebra 13 0
+Zhao I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Yali B-NAME 1 1 tr tbody zebra 13 0
+Zhao I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Yunxiang B-NAME 0 1 tr tbody zebra 13 0
+Zhao I-NAME 0 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Bowen B-NAME 1 1 tr tbody zebra 13 0
+Zhou I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Shuo B-NAME 1 1 tr tbody zebra 13 0
+Zhou I-NAME 1 1 tr tbody zebra 13 1
+Profile O 0 0 td tr zebra 14 0
+
+Honorary O 0 0 section div title 10 0
+staff O 0 0 section div title 10 0
+
+Title O 0 1 tr thead zebra 13 0
+
+Given O 0 1 tr thead zebra 13 1
+name O 0 0 tr thead zebra 13 1
+
+Family O 0 1 tr thead zebra 13 2
+name O 0 0 tr thead zebra 13 2
+
+Position O 0 0 tr thead zebra 13 3
+
+Profile O 0 0 tr thead zebra 13 4
+
+Email O 0 0 tr thead zebra 13 5
+
+Dr O 0 1 tr tbody zebra 13 0
+Peter B-NAME 1 1 tr tbody zebra 13 1
+Bailey I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Justin B-NAME 1 1 tr tbody zebra 13 1
+Bedo I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+James B-NAME 0 1 tr tbody zebra 13 1
+Bezdek I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Alauddin B-NAME 1 1 tr tbody zebra 13 1
+Bhuiyan I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Steven B-NAME 1 1 tr tbody zebra 13 1
+Bird I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Ron B-NAME 1 1 tr tbody zebra 13 1
+Borland I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Professorial O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+(G08/U21) O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Manuel B-NAME 0 1 tr tbody zebra 13 1
+Cebrian I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Professorial O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Jeffrey B-NAME 1 1 tr tbody zebra 13 1
+Chan I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Prof O 0 0 tr tbody zebra 13 0
+Michael B-NAME 1 1 tr tbody zebra 13 1
+Codish I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Carleton B-NAME 1 1 tr tbody zebra 13 1
+Coffrin I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Thomas B-NAME 1 1 tr tbody zebra 13 1
+Conway I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Paul B-NAME 0 1 tr tbody zebra 13 1
+(Christopher) I-NAME 0 0 tr tbody zebra 13 1
+Cook I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Frank B-NAME 1 1 tr tbody zebra 13 1
+Dignum I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Principal O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Virginia B-NAME 1 1 tr tbody zebra 13 1
+Dignum I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Principal O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Roderick B-NAME 0 1 tr tbody zebra 13 1
+Dilnutt I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Enterprise O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Prof O 0 0 tr tbody zebra 13 0
+Paul B-NAME 1 1 tr tbody zebra 13 1
+Dourish I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Mr O 0 0 tr tbody zebra 13 0
+Kevin B-NAME 0 1 tr tbody zebra 13 1
+Elz I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Damir B-NAME 0 1 tr tbody zebra 13 1
+Harabor I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Naeem B-NAME 0 1 tr tbody zebra 13 1
+Haroon I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+David B-NAME 1 1 tr tbody zebra 13 1
+Hawking I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Ms O 0 0 tr tbody zebra 13 0
+Judith B-NAME 0 1 tr tbody zebra 13 1
+Hughes I-NAME 0 1 tr tbody zebra 13 2
+Visitor I-NAME 0 0 tr tbody zebra 13 3
+(Non-Academic) O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Edmund B-NAME 1 1 tr tbody zebra 13 1
+Kazmierczak I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Christopher B-NAME 0 1 tr tbody zebra 13 1
+Keen I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Leslie B-NAME 0 1 tr tbody zebra 13 1
+Kitchen I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Simon B-NAME 1 1 tr tbody zebra 13 1
+Kocbek I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Jey B-NAME 1 1 tr tbody zebra 13 1
+Han I-NAME 1 1 tr tbody zebra 13 1
+Lau I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Mr O 0 0 tr tbody zebra 13 0
+Geoffrey B-NAME 0 1 tr tbody zebra 13 1
+Macintyre I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Andrew B-NAME 0 1 tr tbody zebra 13 1
+Mackinlay I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Drs O 0 0 tr tbody zebra 13 0
+Patrick B-NAME 1 1 tr tbody zebra 13 1
+Maes I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Enterprise O 0 0 tr tbody zebra 13 3
+Professorial O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Simon B-NAME 1 1 tr tbody zebra 13 1
+Milton I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Principal O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Prof O 0 0 tr tbody zebra 13 0
+Mukesh B-NAME 0 1 tr tbody zebra 13 1
+Mohania I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Professorial O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Haroon B-NAME 1 1 tr tbody zebra 13 1
+Naeem I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Lee B-NAME 1 1 tr tbody zebra 13 1
+Naish I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+George B-NAME 0 1 tr tbody zebra 13 1
+Navas I-NAME 0 1 tr tbody zebra 13 2
+Laserna I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Kenton B-NAME 0 1 tr tbody zebra 13 1
+O’Hara I-NAME 0 0 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Principal O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Jeni B-NAME 1 1 tr tbody zebra 13 1
+Paay I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Alison B-NAME 1 1 tr tbody zebra 13 1
+Parkes I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Al-Mukaddim B-NAME 0 1 tr tbody zebra 13 1
+Pathan I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Jon B-NAME 1 1 tr tbody zebra 13 1
+Pearce I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Victor B-NAME 1 1 tr tbody zebra 13 1
+Pillac I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Bernd B-NAME 1 1 tr tbody zebra 13 1
+Ploderer I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Rajiv B-NAME 1 1 tr tbody zebra 13 1
+Ranjan I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Ms O 0 0 tr tbody zebra 13 0
+Judith B-NAME 1 1 tr tbody zebra 13 1
+Ross I-NAME 1 1 tr tbody zebra 13 2
+Visitor I-NAME 0 0 tr tbody zebra 13 3
+(Academic) O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Andreas B-NAME 1 1 tr tbody zebra 13 1
+Schutt I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Prof O 0 0 tr tbody zebra 13 0
+Peter B-NAME 0 1 tr tbody zebra 13 1
+Seddon I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Professorial O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Mr O 0 0 tr tbody zebra 13 0
+Jurij B-NAME 0 1 tr tbody zebra 13 1
+Semkiw I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Senior O 0 1 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+Zoltan B-NAME 1 1 tr tbody zebra 13 1
+Somogyi I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Prof O 0 0 tr tbody zebra 13 0
+Leon B-NAME 1 1 tr tbody zebra 13 1
+Sterling I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Professorial O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Linda B-NAME 1 1 tr tbody zebra 13 1
+Stern I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Assoc O 0 0 tr tbody zebra 13 0
+Prof O 0 0 tr tbody zebra 13 0
+Peter B-NAME 1 1 tr tbody zebra 13 1
+Thorne I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Principal O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Prof O 0 0 tr tbody zebra 13 0
+Pascal B-NAME 1 1 tr tbody zebra 13 1
+Van I-NAME 1 1 tr tbody zebra 13 2
+Hentenryck I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Professorial O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Cristian B-NAME 0 1 tr tbody zebra 13 1
+Vecchiola I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+Profile O 0 0 td tr zebra 14 0
+
+Dr O 0 1 tr tbody zebra 13 0
+Bodo B-NAME 0 1 tr tbody zebra 13 1
+Von I-NAME 0 1 tr tbody zebra 13 2
+Billerbeck I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Mr O 0 0 tr tbody zebra 13 0
+Christopher B-NAME 0 1 tr tbody zebra 13 1
+Waddell I-NAME 0 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Mr O 0 0 tr tbody zebra 13 0
+John B-NAME 1 1 tr tbody zebra 13 1
+Warren I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Dr O 0 1 tr tbody zebra 13 0
+William B-NAME 1 1 tr tbody zebra 13 1
+Webber I-NAME 1 1 tr tbody zebra 13 2
+Honorary O 0 0 tr tbody zebra 13 3
+Fellow O 0 0 tr tbody zebra 13 3
+
+Email O 0 0 a li small.icon--hide-label 11 0
+Contact O 0 0 li ul email 10 0
+us O 0 1 li ul email 10 0
+
+Engineering O 0 0 li ul site-links 10 0
+& O 0 0 li ul site-links 10 0
+IT O 0 0 li ul site-links 10 0
+Students O 0 0 li ul site-links 10 0
+
+MSE O 0 0 li ul site-links 10 0
+Intranet O 0 0 li ul site-links 10 0
+
+Make O 0 1 p footer button-hero-inverse 9 0
+a O 0 1 p footer button-hero-inverse 9 0
+Gift O 0 1 p footer button-hero-inverse 9 0
+
+Computing O 0 0 div div no-js 7 0
+and O 0 1 div div no-js 7 0
+Information O 0 1 div div no-js 7 0
+Systems O 0 0 div div no-js 7 0
+
+About O 0 0 li ul no-js 9 0
+us O 0 1 li ul no-js 9 0
+
+About O 0 0 li ul inner 12 0
+the O 0 1 li ul inner 12 0
+school O 0 0 li ul inner 12 0
+
+History O 0 0 li ul inner 12 0
+of O 0 1 li ul inner 12 0
+computing O 0 0 li ul inner 12 0
+at O 0 0 li ul inner 12 0
+the O 0 1 li ul inner 12 0
+university O 0 0 li ul inner 12 0
+
+Introduction O 0 0 li ul inner 15 0
+
+Student O 0 1 li ul inner 15 0
+life O 0 0 li ul inner 15 0
+in O 0 1 li ul inner 15 0
+the O 0 1 li ul inner 15 0
+Department O 0 0 li ul inner 15 0
+
+Programming O 0 1 li ul inner 15 0
+
+Early O 0 1 li ul inner 15 0
+Internet O 0 0 li ul inner 15 0
+
+History O 0 0 li ul inner 15 0
+of O 0 1 li ul inner 15 0
+computing O 0 0 li ul inner 15 0
+
+Memories O 0 0 li ul inner 15 0
+of O 0 1 li ul inner 15 0
+the O 0 1 li ul inner 15 0
+Department O 0 0 li ul inner 15 0
+
+Starting O 0 0 li ul inner 15 0
+the O 0 1 li ul inner 15 0
+Department O 0 0 li ul inner 15 0
+of O 0 1 li ul inner 15 0
+Information O 0 1 li ul inner 15 0
+Systems O 0 0 li ul inner 15 0
+
+Women O 0 0 li ul inner 15 0
+in O 0 1 li ul inner 15 0
+computing O 0 0 li ul inner 15 0
+
+CSIRAC: O 0 0 li ul inner 15 0
+Australia’s O 0 0 li ul inner 15 0
+first O 0 0 li ul inner 15 0
+computer O 0 0 li ul inner 15 0
+
+Alumni O 0 0 li ul inner 12 0
+profiles O 0 0 li ul inner 12 0
+
+Industry O 0 0 li ul no-js 9 0
+
+Industry O 0 0 li ul inner 12 0
+collaboration O 0 0 li ul inner 12 0
+projects O 0 0 li ul inner 12 0
+
+Guest O 0 1 li ul inner 12 0
+speakers O 0 0 li ul inner 12 0
+
+Internships O 0 0 li ul inner 12 0
+
+Mentoring O 0 0 li ul inner 12 0
+students O 0 0 li ul inner 12 0
+
+Student O 0 1 li ul inner 12 0
+industry O 0 0 li ul inner 12 0
+projects O 0 0 li ul inner 12 0
+
+Industry O 0 0 li ul inner 12 0
+Advisory O 0 0 li ul inner 12 0
+Group O 0 1 li ul inner 12 0
+
+Research O 0 1 li ul no-js 9 0
+
+Data O 0 1 li ul inner 12 0
+and O 0 1 li ul inner 12 0
+knowledge O 0 0 li ul inner 12 0
+
+Platforms O 0 0 li ul inner 12 0
+and O 0 1 li ul inner 12 0
+systems O 0 0 li ul inner 12 0
+
+People O 0 1 li ul inner 12 0
+and O 0 1 li ul inner 12 0
+organisations O 0 0 li ul inner 12 0
+
+Projects O 0 0 li ul inner 12 0
+
+Seminars O 0 0 li ul inner 12 0
+
+Study O 0 1 li ul no-js 9 0
+
+Undergraduate O 0 0 li ul inner 12 0
+
+Graduate O 1 1 li ul inner 12 0
+
+Research O 0 1 li ul inner 12 0
+
+Doctoral O 0 0 li ul inner 12 0
+colloquium O 0 0 li ul inner 12 0
+
+Internships O 0 0 li ul inner 12 0
+
+Schools O 0 0 li ul no-js 9 0
+
+VCE O 0 0 li ul inner 12 0
+Algorithmics O 0 0 li ul inner 12 0
+
+Computer O 0 0 li ul inner 12 0
+Science O 0 0 li ul inner 12 0
+for O 0 1 li ul inner 12 0
+High O 0 1 li ul inner 12 0
+School O 0 1 li ul inner 12 0
+
+People O 0 1 li ul no-js 9 0
+
+Contact O 0 0 li ul no-js 9 0
+us O 0 1 li ul no-js 9 0
