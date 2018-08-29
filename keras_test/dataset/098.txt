@@ -1,136 +1,136 @@
-Faculty O 0 0 head html none 4 0
-: O 0 0 head html none 4 0
-Department O 0 0 head html none 4 0
-of O 0 1 head html none 4 0
-Computer O 0 0 head html none 4 0
-Science O 0 0 head html none 4 0
-: O 0 0 head html none 4 0
-University O 0 1 head html none 4 0
-of O 0 1 head html none 4 0
-Pune O 0 0 head html none 4 0
+Faculty O faculty 0 0 0 0 0 0 1 head html none 4 0
+: O : 0 0 0 0 0 0 0 head html none 4 0
+Department O department 0 0 0 0 0 0 1 head html none 4 0
+of O of 0 1 0 0 0 0 0 head html none 4 0
+Computer O computer 0 0 0 0 0 0 1 head html none 4 0
+Science O science 0 0 0 0 0 0 1 head html none 4 0
+: O : 0 0 0 0 0 0 0 head html none 4 0
+University O university 0 1 0 0 0 0 1 head html none 4 0
+of O of 0 1 0 0 0 0 0 head html none 4 0
+Pune O pune 0 0 0 0 0 0 1 head html none 4 0
 
-Home O 0 1 a font none 24 0
+Home O home 0 1 0 0 0 0 1 a font none 24 0
 
-> O 0 0 spacer p none 22 0
+> O > 0 0 0 0 0 0 0 spacer p none 22 0
 
-Faculty O 0 0 font spacer none 23 2
+Faculty O faculty 0 0 0 0 0 0 1 font spacer none 23 2
 
-About O 0 0 b td none 30 0
-Department O 0 0 b td none 30 0
+About O about 0 0 0 0 0 0 1 b td none 30 0
+Department O department 0 0 0 0 0 0 1 b td none 30 0
 
-Department O 0 0 td tr intro 29 0
-Home O 0 1 td tr intro 29 0
+Department O department 0 0 0 0 0 0 1 td tr intro 29 0
+Home O home 0 1 0 0 0 0 1 td tr intro 29 0
 
-Department O 0 0 td tr intro 4 0
-Profile O 0 0 td tr intro 4 0
+Department O department 0 0 0 0 0 0 1 td tr intro 4 0
+Profile O profile 0 0 0 0 1 0 1 td tr intro 4 0
 
-HOD O 0 0 td tr intro 4 0
-Message O 0 1 td tr intro 4 0
+HOD O hod 0 0 0 0 0 0 1 td tr intro 4 0
+Message O message 0 1 0 0 1 0 1 td tr intro 4 0
 
-Academic O 0 0 td tr intro 4 0
+Academic O academic 0 0 0 0 0 0 1 td tr intro 4 0
 
-Research O 0 1 td tr intro 4 0
+Research O research 0 1 0 0 0 0 1 td tr intro 4 0
 
-Faculty O 0 0 td tr intro 4 0
+Faculty O faculty 0 0 0 0 0 0 1 td tr intro 4 0
 
-Facilities O 0 0 td tr intro 4 0
+Facilities O facilities 0 0 0 0 0 0 1 td tr intro 4 0
 
-Admissions O 0 0 td tr intro 4 0
+Admissions O admissions 0 0 0 0 0 0 1 td tr intro 4 0
 
-Syllabus O 0 0 td tr intro 4 0
+Syllabus O syllabus 0 0 0 0 0 0 1 td tr intro 4 0
 
-Alumni O 0 0 a font intro 6 0
-Cells O 0 0 a font intro 6 0
+Alumni O alumni 0 0 0 0 0 0 1 a font intro 6 0
+Cells O cells 0 0 0 0 0 0 1 a font intro 6 0
 
-Placement O 0 0 td tr intro 4 0
-Cells O 0 0 td tr intro 4 0
+Placement O placement 0 0 0 0 0 0 1 td tr intro 4 0
+Cells O cells 0 0 0 0 0 0 1 td tr intro 4 0
 
-Students O 0 0 td tr intro 4 0
-Association O 0 0 td tr intro 4 0
+Students O students 0 0 0 0 0 0 1 td tr intro 4 0
+Association O association 0 0 0 0 0 0 1 td tr intro 4 0
 
-System O 0 0   none 1 0
-Administrator O 0 0   none 1 0
+System O system 0 0 0 0 0 0 1   none 1 0
+Administrator O administrator 0 0 0 0 0 0 1   none 1 0
 
-Students O 0 0 a span none 6 0
-Info O 0 0 a span none 6 0
+Students O students 0 0 0 0 0 0 1 a span none 6 0
+Info O info 0 0 0 0 0 0 1 a span none 6 0
 
-Syllabi O 0 0 a span none 6 0
-For O 0 1 a span none 6 0
-Affiliated O 0 0 a span none 6 0
-Colleges O 0 0 a span none 6 0
+Syllabi O syllabi 0 0 0 0 0 0 1 a span none 6 0
+For O for 0 1 0 0 0 0 1 a span none 6 0
+Affiliated O affiliated 0 0 0 0 0 0 1 a span none 6 0
+Colleges O colleges 0 0 0 0 0 0 1 a span none 6 0
 
-Feedback O 0 0 td tr intro 4 0
+Feedback O feedback 0 0 0 0 0 0 1 td tr intro 4 0
 
-News O 0 0 a span none 7 0
-and O 0 1 a span none 7 0
-Events O 0 0 a span none 7 0
+News O news 0 0 0 0 0 0 1 a span none 7 0
+and O and 0 1 0 0 0 0 0 a span none 7 0
+Events O events 0 0 0 0 0 0 1 a span none 7 0
 
-Contact O 0 0 td tr intro 4 0
-Information O 0 1 td tr intro 4 0
+Contact O contact 0 0 0 0 0 0 1 td tr intro 4 0
+Information O information 0 1 0 0 0 0 1 td tr intro 4 0
 
-Faculty O 0 0 b p none 10 0
+Faculty O faculty 0 0 0 0 0 0 1 b p none 10 0
 
-Visiting O 0 0 p div none 13 0
-Faculty O 0 0 p div none 13 0
+Visiting O visiting 0 0 0 0 0 0 1 p div none 13 0
+Faculty O faculty 0 0 0 0 0 0 1 p div none 13 0
 
-Name O 0 1 p td none 16 0
+Name O name 0 1 0 0 0 0 1 p td none 16 0
 
-Girish B-NAME 0 1 td tr none 15 0
-Palshikar I-NAME 0 1 td tr none 15 0
+Girish B-PER girish 0 1 0 0 0 0 1 td tr none 15 0
+Palshikar I-PER palshikar 0 1 0 0 0 0 1 td tr none 15 0
 
-Jayaraman B-NAME 0 1 td tr none 15 0
-V.K. I-NAME 0 0 td tr none 15 0
+Jayaraman B-PER jayaraman 0 1 0 0 0 0 1 td tr none 15 0
+V.K. I-PER v.k. 0 0 0 0 0 0 1 td tr none 15 0
 
-Sangmeshwar B-NAME 0 0 td tr none 15 0
-Patil I-NAME 0 1 td tr none 15 0
+Sangmeshwar B-PER sangmeshwar 0 0 0 0 0 0 1 td tr none 15 0
+Patil I-PER patil 0 1 0 0 0 0 1 td tr none 15 0
 
-Anupam B-NAME 1 1 td tr none 15 0
-Chomal I-NAME 0 1 td tr none 15 0
+Anupam B-PER anupam 1 1 0 0 0 0 1 td tr none 15 0
+Chomal I-PER chomal 0 1 0 0 0 0 1 td tr none 15 0
 
-Amardeep B-NAME 0 1 td tr none 15 0
-Nagarkar I-NAME 0 1 td tr none 15 0
+Amardeep B-PER amardeep 0 1 0 0 0 0 1 td tr none 15 0
+Nagarkar I-PER nagarkar 0 1 0 0 0 0 1 td tr none 15 0
 
-Vibhas B-NAME 0 1 td tr none 15 0
-Joshi I-NAME 0 1 td tr none 15 0
+Vibhas B-PER vibhas 0 1 0 0 0 0 1 td tr none 15 0
+Joshi I-PER joshi 0 1 0 0 0 0 1 td tr none 15 0
 
-Deepak B-NAME 0 1 td tr none 15 0
-Bali I-NAME 0 1 td tr none 15 0
+Deepak B-PER deepak 0 1 0 0 0 0 1 td tr none 15 0
+Bali I-PER bali 0 1 0 0 0 0 1 td tr none 15 0
 
-Teaching B-NAME 0 0 p div none 13 0
-Associates I-NAME 0 0 p div none 13 0
+Teaching B-PER teaching 0 0 0 0 0 0 1 p div none 13 0
+Associates I-PER associates 0 0 0 0 0 0 1 p div none 13 0
 
-Name O 0 1 p td none 16 0
+Name O name 0 1 0 0 0 0 1 p td none 16 0
 
-Mrs. O 0 1 td tr none 15 0
-Kavita B-NAME 1 1 td tr none 15 0
-Pankaj I-NAME 1 1 td tr none 15 0
-Ahire I-NAME 0 1 td tr none 15 0
+Mrs. O mrs. 0 1 0 0 1 0 1 td tr none 15 0
+Kavita B-PER kavita 1 1 0 0 0 0 1 td tr none 15 0
+Pankaj I-PER pankaj 1 1 0 0 0 0 1 td tr none 15 0
+Ahire I-PER ahire 0 1 0 0 0 0 1 td tr none 15 0
 
-Ms. O 0 1 td tr none 15 0
-Manisha B-NAME 1 1 td tr none 15 0
-Eknath I-NAME 0 1 td tr none 15 0
-Kolhe I-NAME 0 1 td tr none 15 0
+Ms. O ms. 0 1 0 0 0 0 1 td tr none 15 0
+Manisha B-PER manisha 1 1 0 0 0 0 1 td tr none 15 0
+Eknath I-PER eknath 0 1 0 0 0 0 1 td tr none 15 0
+Kolhe I-PER kolhe 0 1 0 0 0 0 1 td tr none 15 0
 
-Ms. O 0 1 td tr none 15 0
-Sonali B-NAME 0 1 td tr none 15 0
-Gowardhan I-NAME 0 0 td tr none 15 0
-Karale I-NAME 0 1 td tr none 15 0
+Ms. O ms. 0 1 0 0 0 0 1 td tr none 15 0
+Sonali B-PER sonali 0 1 0 0 0 0 1 td tr none 15 0
+Gowardhan I-PER gowardhan 0 0 0 0 0 0 1 td tr none 15 0
+Karale I-PER karale 0 1 0 0 0 0 1 td tr none 15 0
 
-Mr. O 0 1 td tr none 15 0
-Abhijit B-NAME 0 1 td tr none 15 0
-Mane I-NAME 0 1 td tr none 15 0
+Mr. O mr. 0 1 0 0 1 0 1 td tr none 15 0
+Abhijit B-PER abhijit 0 1 0 0 0 0 1 td tr none 15 0
+Mane I-PER mane 0 1 0 0 0 0 1 td tr none 15 0
 
-Ms. O 0 1 td tr none 15 0
-Sneha B-NAME 0 1 td tr none 15 0
-Nikum I-NAME 0 0 td tr none 15 0
+Ms. O ms. 0 1 0 0 0 0 1 td tr none 15 0
+Sneha B-PER sneha 0 1 0 0 0 0 1 td tr none 15 0
+Nikum I-PER nikum 0 0 0 0 0 0 1 td tr none 15 0
 
-Copyright O 0 0 font span none 8 0
+Copyright O copyright 0 0 0 0 0 0 1 font span none 8 0
 
-© O 0 0 font span none 8 1
+© O © 0 0 0 0 0 0 0 font span none 8 1
 
-University O 0 1 font font none 8 0
-of O 0 1 font font none 8 0
-Pune. O 0 0 font font none 8 0
-All O 0 1 font font none 8 0
-Rights O 0 0 font font none 8 0
-Reserved. O 0 0 font font none 8 0
+University O university 0 1 0 0 0 0 1 font font none 8 0
+of O of 0 1 0 0 0 0 0 font font none 8 0
+Pune. O pune. 0 0 0 0 0 0 1 font font none 8 0
+All O all 0 1 0 0 0 0 1 font font none 8 0
+Rights O rights 0 0 0 0 0 0 1 font font none 8 0
+Reserved. O reserved. 0 0 0 0 0 0 1 font font none 8 0

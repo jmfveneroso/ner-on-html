@@ -1,774 +1,903 @@
-HKUST O 0 0 head html none 4 2
-- O 0 0 head html none 4 2
-Department O 0 0 head html none 4 2
-of O 0 1 head html none 4 2
-Electronic O 0 0 head html none 4 2
-& O 0 0 head html none 4 2
-Computer O 0 0 head html none 4 2
-Engineering O 0 0 head html none 4 2
+HKUST O hkust 0 0 0 0 0 0 1 head html none 4 2
+- O - 0 0 0 0 0 0 0 head html none 4 2
+Department O department 0 0 0 0 0 0 1 head html none 4 2
+of O of 0 1 0 0 0 0 0 head html none 4 2
+Electronic O electronic 0 0 0 0 0 0 1 head html none 4 2
+& O & 0 0 0 0 0 0 0 head html none 4 2
+Computer O computer 0 0 0 0 0 0 1 head html none 4 2
+Engineering O engineering 0 0 0 0 0 0 1 head html none 4 2
 
-Faculty O 0 0 td tr selected 19 0
+Faculty O faculty 0 0 0 0 0 0 1 td tr selected 19 0
 
-- O 0 0 tr table ssubmenu 21 0
-International O 0 0 td tr ssubmenu 22 0
-Recognition O 0 0 td tr ssubmenu 22 0
+- O - 0 0 0 0 0 0 0 tr table ssubmenu 21 0
+International O international 0 0 0 0 0 0 1 td tr ssubmenu 22 0
+Recognition O recognition 0 0 0 0 0 0 1 td tr ssubmenu 22 0
 
-- O 0 0 tr table ssubmenu 21 0
-Books O 0 0 td tr ssubmenu 22 0
-by O 0 1 td tr ssubmenu 22 0
-ECE O 0 0 td tr ssubmenu 22 0
-Faculty O 0 0 td tr ssubmenu 22 0
+- O - 0 0 0 0 0 0 0 tr table ssubmenu 21 0
+Books O books 0 0 0 0 0 0 1 td tr ssubmenu 22 0
+by O by 0 1 0 0 0 0 0 td tr ssubmenu 22 0
+ECE O ece 0 0 0 0 0 0 1 td tr ssubmenu 22 0
+Faculty O faculty 0 0 0 0 0 0 1 td tr ssubmenu 22 0
 
-Admin O 0 0 td tr submenu 19 0
-& O 0 0 td tr submenu 19 0
-Technical O 0 0 td tr submenu 19 0
-Staff O 0 1 td tr submenu 19 0
+Admin O admin 0 0 0 0 0 0 1 td tr submenu 19 0
+& O & 0 0 0 0 0 0 0 td tr submenu 19 0
+Technical O technical 0 0 0 0 0 0 1 td tr submenu 19 0
+Staff O staff 0 1 0 0 0 0 1 td tr submenu 19 0
 
-Postgraduate O 0 0 td tr submenu 19 0
-Students O 0 0 td tr submenu 19 0
+Postgraduate O postgraduate 0 0 0 0 0 0 1 td tr submenu 19 0
+Students O students 0 0 0 0 0 0 1 td tr submenu 19 0
 
-Faculty O 0 0 tr table hdr-inside 12 0
+Faculty O faculty 0 0 0 0 0 0 1 tr table hdr-inside 12 0
 
-Primary O 0 0 td tr cell_hvr 13 0
-Joint O 0 1 td tr cell_hvr 13 0
-Appointments O 0 0 td tr cell_hvr 13 0
-Research O 0 1 td tr cell_hvr 13 0
-Emeritus O 0 1 td tr cell_hvr 13 0
-Adjunct O 0 0 td tr cell_hvr 13 0
+Primary O primary 0 0 0 0 0 0 1 td tr cell_hvr 13 0
+Joint O joint 0 1 0 0 0 0 1 td tr cell_hvr 13 0
+Appointments O appointments 0 0 0 0 0 0 1 td tr cell_hvr 13 0
+Research O research 0 1 0 0 0 0 1 td tr cell_hvr 13 0
+Emeritus O emeritus 0 1 0 0 1 0 1 td tr cell_hvr 13 0
+Adjunct O adjunct 0 0 0 0 0 0 1 td tr cell_hvr 13 0
 
-Name O 0 1 th tr ppl-list 13 0
+Name O name 0 1 0 0 0 0 1 th tr ppl-list 13 0
 
-Position O 0 0 th tr ppl-list 13 0
+Position O position 0 0 0 0 0 0 1 th tr ppl-list 13 0
 
-Extn O 0 0 tr table ppl-list 12 11
+Extn O extn 0 0 0 0 0 0 1 tr table ppl-list 12 11
 
-Email O 0 0 tr table ppl-list 12 14
+Email O email 0 0 0 0 1 0 1 tr table ppl-list 12 14
 
-Room O 0 1 tr table ppl-list 12 17
+Room O room 0 1 0 0 0 0 1 tr table ppl-list 12 17
 
-Research O 0 1 th tr ppl-list 13 0
-Area(s) O 0 0 th tr ppl-list 13 0
+Research O research 0 1 0 0 0 0 1 th tr ppl-list 13 0
+Area O area 0 1 0 0 0 0 1 th tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 th tr ppl-list 13 0
+s O s 0 0 0 0 0 0 0 th tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 th tr ppl-list 13 0
 
-Tim B-NAME 0 1 td tr link 13 0
-Kwang I-NAME 0 1 td tr link 13 0
-Ting I-NAME 1 1 td tr link 13 0
-CHENG I-NAME 0 0 td tr link 13 0
-鄭光廷 O 0 0 tr table ppl-list 12 3
-Dean O 0 1 tr table ppl-list 12 5
-of O 0 1 tr table ppl-list 12 5
-Engineering O 0 0 tr table ppl-list 12 5
-and O 0 1 tr table ppl-list 12 5
-Chair O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-6952 O 0 0 tr table ppl-list 12 7
-timcheng O 0 0 td tr link 13 0
-6548 O 0 0 tr table ppl-list 12 12
-Integrated O 0 0 td tr ppl-list 13 0
-Circuits O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Systems O 0 0 td tr ppl-list 13 0
-(ICS) O 0 0 td tr ppl-list 13 0
+Tim B-PER tim 0 1 0 0 0 0 1 td tr link 13 0
+Kwang I-PER kwang 0 1 0 0 0 0 1 td tr link 13 0
+Ting I-PER ting 1 1 0 0 0 0 1 td tr link 13 0
+CHENG I-PER cheng 0 0 0 0 0 0 1 td tr link 13 0
+鄭光廷 O 鄭光廷 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Dean O dean 0 1 0 0 0 0 1 tr table ppl-list 12 5
+of O of 0 1 0 0 0 0 0 tr table ppl-list 12 5
+Engineering O engineering 0 0 0 0 0 0 1 tr table ppl-list 12 5
+and O and 0 1 0 0 0 0 0 tr table ppl-list 12 5
+Chair O chair 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+6952 O 6952 0 0 0 1 0 0 0 tr table ppl-list 12 7
+timcheng O timcheng 0 0 0 0 0 0 0 td tr link 13 0
+6548 O 6548 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Integrated O integrated 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Circuits O circuits 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Systems O systems 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+ICS O ics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Bertram B-NAME 0 1 td tr link 13 0
-SHI I-NAME 0 0 td tr link 13 0
-施 O 0 0 tr table ppl-list 12 3
-毅 O 0 0 tr table ppl-list 12 3
-明 O 0 0 tr table ppl-list 12 3
-Department O 0 0 tr table ppl-list 12 5
-Head O 0 1 tr table ppl-list 12 5
-and O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-7079 O 0 0 tr table ppl-list 12 7
-eebert O 0 0 td tr link 13 0
-2460 O 0 0 tr table ppl-list 12 12
-Biomedical O 0 0 td tr ppl-list 13 0
-Engineering O 0 0 td tr ppl-list 13 0
-(BME) O 0 0 td tr ppl-list 13 0
+Bertram B-PER bertram 0 1 0 0 0 0 1 td tr link 13 0
+SHI I-PER shi 0 0 0 0 0 0 1 td tr link 13 0
+施 O 施 0 0 0 0 0 0 0 tr table ppl-list 12 3
+毅 O 毅 0 0 0 0 0 0 0 tr table ppl-list 12 3
+明 O 明 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Department O department 0 0 0 0 0 0 1 tr table ppl-list 12 5
+Head O head 0 1 0 0 0 0 1 tr table ppl-list 12 5
+and O and 0 1 0 0 0 0 0 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7079 O 7079 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eebert O eebert 0 0 0 0 0 0 0 td tr link 13 0
+2460 O 2460 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Biomedical O biomedical 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Engineering O engineering 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+BME O bme 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Hoi B-NAME 0 1 td tr link 13 0
-Sing I-NAME 0 1 td tr link 13 0
-KWOK I-NAME 0 0 td tr link 13 0
-郭 O 0 0 tr table ppl-list 12 3
-海 O 0 0 tr table ppl-list 12 3
-成 O 0 0 tr table ppl-list 12 3
-Dr O 0 1 tr table ppl-list 12 5
-William O 1 1 tr table ppl-list 12 5
-M O 0 1 tr table ppl-list 12 5
-W O 0 1 tr table ppl-list 12 5
-Mong O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-of O 0 1 tr table ppl-list 12 5
-Nanotechnology O 0 0 tr table ppl-list 12 5
-and O 0 1 tr table ppl-list 12 5
-Chair O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-7056 O 0 0 tr table ppl-list 12 7
-eekwok O 0 0 td tr link 13 0
-CYT4013 O 0 0 tr table ppl-list 12 12
-Solid-State O 0 0 td tr ppl-list 13 0
-Electronics O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Photonics O 0 0 td tr ppl-list 13 0
-(S2EP) O 0 0 td tr ppl-list 13 0
+Hoi B-PER hoi 0 1 0 0 0 0 1 td tr link 13 0
+Sing I-PER sing 0 1 0 0 0 0 1 td tr link 13 0
+KWOK I-PER kwok 0 0 0 0 0 0 1 td tr link 13 0
+郭 O 郭 0 0 0 0 0 0 0 tr table ppl-list 12 3
+海 O 海 0 0 0 0 0 0 0 tr table ppl-list 12 3
+成 O 成 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Dr O dr 0 1 0 0 0 0 1 tr table ppl-list 12 5
+William O william 1 1 0 0 0 0 1 tr table ppl-list 12 5
+M O m 0 1 0 0 0 0 1 tr table ppl-list 12 5
+W O w 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Mong O mong 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+of O of 0 1 0 0 0 0 0 tr table ppl-list 12 5
+Nanotechnology O nanotechnology 0 0 0 0 0 0 1 tr table ppl-list 12 5
+and O and 0 1 0 0 0 0 0 tr table ppl-list 12 5
+Chair O chair 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7056 O 7056 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eekwok O eekwok 0 0 0 0 0 0 0 td tr link 13 0
+CYT4013 O cyt4013 0 0 0 1 0 0 1 tr table ppl-list 12 12
+Solid O solid 0 0 0 0 0 0 1 td tr ppl-list 13 0
+- O - 0 0 0 0 0 0 0 td tr ppl-list 13 0
+State O state 0 1 0 0 0 0 1 td tr ppl-list 13 0
+Electronics O electronics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Photonics O photonics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+S2EP O s2ep 0 0 0 1 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Kei B-NAME 0 1 td tr link 13 0
-May I-NAME 0 1 td tr link 13 0
-LAU I-NAME 0 0 td tr link 13 0
-劉 O 0 0 tr table ppl-list 12 3
-紀 O 0 0 tr table ppl-list 12 3
-美 O 0 0 tr table ppl-list 12 3
-Fang O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-of O 0 1 tr table ppl-list 12 5
-Engineering O 0 0 tr table ppl-list 12 5
-and O 0 1 tr table ppl-list 12 5
-Chair O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-7049 O 0 0 tr table ppl-list 12 7
-eekmlau O 0 0 td tr link 13 0
-2452 O 0 0 tr table ppl-list 12 12
-Solid-State O 0 0 td tr ppl-list 13 0
-Electronics O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Photonics O 0 0 td tr ppl-list 13 0
-(S2EP) O 0 0 td tr ppl-list 13 0
+Kei B-PER kei 0 1 0 0 0 0 1 td tr link 13 0
+May I-PER may 0 1 0 0 0 0 1 td tr link 13 0
+LAU I-PER lau 0 0 0 0 0 0 1 td tr link 13 0
+劉 O 劉 0 0 0 0 0 0 0 tr table ppl-list 12 3
+紀 O 紀 0 0 0 0 0 0 0 tr table ppl-list 12 3
+美 O 美 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Fang O fang 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+of O of 0 1 0 0 0 0 0 tr table ppl-list 12 5
+Engineering O engineering 0 0 0 0 0 0 1 tr table ppl-list 12 5
+and O and 0 1 0 0 0 0 0 tr table ppl-list 12 5
+Chair O chair 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7049 O 7049 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eekmlau O eekmlau 0 0 0 0 0 0 0 td tr link 13 0
+2452 O 2452 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Solid O solid 0 0 0 0 0 0 1 td tr ppl-list 13 0
+- O - 0 0 0 0 0 0 0 td tr ppl-list 13 0
+State O state 0 1 0 0 0 0 1 td tr ppl-list 13 0
+Electronics O electronics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Photonics O photonics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+S2EP O s2ep 0 0 0 1 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Ching B-NAME 0 1 td tr link 13 0
-Wan I-NAME 0 1 td tr link 13 0
-TANG I-NAME 0 0 td tr link 13 0
-鄧 O 0 0 tr table ppl-list 12 3
-青 O 0 0 tr table ppl-list 12 3
-雲 O 0 0 tr table ppl-list 12 3
-IAS O 0 0 tr table ppl-list 12 5
-Bank O 0 1 tr table ppl-list 12 5
-of O 0 1 tr table ppl-list 12 5
-East O 0 1 tr table ppl-list 12 5
-Asia O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-and O 0 1 tr table ppl-list 12 5
-Chair O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-3469 O 0 0 tr table ppl-list 12 7
-2308 O 0 0 tr table ppl-list 12 7
-chingtang O 0 0 td tr link 13 0
-IAS2010 O 0 0 tr table ppl-list 12 12
-Solid-State O 0 0 td tr ppl-list 13 0
-Electronics O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Photonics O 0 0 td tr ppl-list 13 0
-(S2EP) O 0 0 td tr ppl-list 13 0
+Ching B-PER ching 0 1 0 0 0 0 1 td tr link 13 0
+Wan I-PER wan 0 1 0 0 0 0 1 td tr link 13 0
+TANG I-PER tang 0 0 0 0 0 0 1 td tr link 13 0
+鄧 O 鄧 0 0 0 0 0 0 0 tr table ppl-list 12 3
+青 O 青 0 0 0 0 0 0 0 tr table ppl-list 12 3
+雲 O 雲 0 0 0 0 0 0 0 tr table ppl-list 12 3
+IAS O ias 0 0 0 0 0 0 1 tr table ppl-list 12 5
+Bank O bank 0 1 0 0 0 0 1 tr table ppl-list 12 5
+of O of 0 1 0 0 0 0 0 tr table ppl-list 12 5
+East O east 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Asia O asia 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+and O and 0 1 0 0 0 0 0 tr table ppl-list 12 5
+Chair O chair 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+3469 O 3469 0 0 0 1 0 0 0 tr table ppl-list 12 7
+2308 O 2308 0 0 0 1 0 0 0 tr table ppl-list 12 7
+chingtang O chingtang 0 0 0 0 0 0 0 td tr link 13 0
+IAS2010 O ias2010 0 0 0 1 0 0 1 tr table ppl-list 12 12
+Solid O solid 0 0 0 0 0 0 1 td tr ppl-list 13 0
+- O - 0 0 0 0 0 0 0 td tr ppl-list 13 0
+State O state 0 1 0 0 0 0 1 td tr ppl-list 13 0
+Electronics O electronics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Photonics O photonics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+S2EP O s2ep 0 0 0 1 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Khaled B-NAME 0 1 td tr link 13 0
-BEN I-NAME 0 0 td tr link 13 0
-LETAIEF I-NAME 0 0 td tr link 13 0
-李 O 0 0 tr table ppl-list 12 3
-德 O 0 0 tr table ppl-list 12 3
-富 O 0 0 tr table ppl-list 12 3
-Chair O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-7064 O 0 0 tr table ppl-list 12 7
-eekhaled O 0 0 td tr link 13 0
-2533 O 0 0 tr table ppl-list 12 12
-Wireless O 0 0 td tr ppl-list 13 0
-Communications O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Networking O 0 0 td tr ppl-list 13 0
-(WCN) O 0 0 td tr ppl-list 13 0
+Khaled B-PER khaled 0 1 0 0 0 0 1 td tr link 13 0
+BEN I-PER ben 0 0 0 0 0 0 1 td tr link 13 0
+LETAIEF I-PER letaief 0 0 0 0 0 0 1 td tr link 13 0
+李 O 李 0 0 0 0 0 0 0 tr table ppl-list 12 3
+德 O 德 0 0 0 0 0 0 0 tr table ppl-list 12 3
+富 O 富 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Chair O chair 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7064 O 7064 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eekhaled O eekhaled 0 0 0 0 0 0 0 td tr link 13 0
+2533 O 2533 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Wireless O wireless 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Communications O communications 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Networking O networking 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+WCN O wcn 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Vincent B-NAME 0 1 td tr link 13 0
-LAU I-NAME 0 0 td tr link 13 0
-劉 O 0 0 tr table ppl-list 12 3
-堅 O 0 0 tr table ppl-list 12 3
-能 O 0 0 tr table ppl-list 12 3
-Chair O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-7066 O 0 0 tr table ppl-list 12 7
-eeknlau O 0 0 td tr link 13 0
-2416 O 0 0 tr table ppl-list 12 12
-Wireless O 0 0 td tr ppl-list 13 0
-Communications O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Networking O 0 0 td tr ppl-list 13 0
-(WCN) O 0 0 td tr ppl-list 13 0
+Vincent B-PER vincent 0 1 0 0 0 0 1 td tr link 13 0
+LAU I-PER lau 0 0 0 0 0 0 1 td tr link 13 0
+劉 O 劉 0 0 0 0 0 0 0 tr table ppl-list 12 3
+堅 O 堅 0 0 0 0 0 0 0 tr table ppl-list 12 3
+能 O 能 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Chair O chair 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7066 O 7066 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eeknlau O eeknlau 0 0 0 0 0 0 0 td tr link 13 0
+2416 O 2416 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Wireless O wireless 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Communications O communications 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Networking O networking 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+WCN O wcn 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Ross B-NAME 0 1 td tr link 13 0
-D. I-NAME 0 1 td tr link 13 0
-MURCH I-NAME 0 0 td tr link 13 0
-穆 O 0 0 tr table ppl-list 12 3
-樂 O 0 0 tr table ppl-list 12 3
-思 O 0 0 tr table ppl-list 12 3
-Chair O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-7044 O 0 0 tr table ppl-list 12 7
-eermurch O 0 0 td tr link 13 0
-2417 O 0 0 tr table ppl-list 12 12
-Wireless O 0 0 td tr ppl-list 13 0
-Communications O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Networking O 0 0 td tr ppl-list 13 0
-(WCN) O 0 0 td tr ppl-list 13 0
+Ross B-PER ross 0 1 0 0 0 0 1 td tr link 13 0
+D. I-PER d. 0 1 0 0 0 0 1 td tr link 13 0
+MURCH I-PER murch 0 0 0 0 0 0 1 td tr link 13 0
+穆 O 穆 0 0 0 0 0 0 0 tr table ppl-list 12 3
+樂 O 樂 0 0 0 0 0 0 0 tr table ppl-list 12 3
+思 O 思 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Chair O chair 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7044 O 7044 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eermurch O eermurch 0 0 0 0 0 0 0 td tr link 13 0
+2417 O 2417 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Wireless O wireless 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Communications O communications 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Networking O networking 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+WCN O wcn 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Kevin B-NAME 0 1 td tr link 13 0
-CHEN I-NAME 0 0 td tr link 13 0
-陳 O 0 0 tr table ppl-list 12 3
-敬 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-and O 0 1 tr table ppl-list 12 5
-Associate O 0 1 tr table ppl-list 12 5
-Head O 0 1 tr table ppl-list 12 5
-for O 0 1 tr table ppl-list 12 5
-PG O 0 0 tr table ppl-list 12 5
-Studies O 0 0 tr table ppl-list 12 5
-and O 0 1 tr table ppl-list 12 5
-Research O 0 1 tr table ppl-list 12 5
-8969 O 0 0 tr table ppl-list 12 7
-eekjchen O 0 0 td tr link 13 0
-2456 O 0 0 tr table ppl-list 12 12
-Solid-State O 0 0 td tr ppl-list 13 0
-Electronics O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Photonics O 0 0 td tr ppl-list 13 0
-(S2EP) O 0 0 td tr ppl-list 13 0
+Kevin B-PER kevin 0 1 0 0 0 0 1 td tr link 13 0
+CHEN I-PER chen 0 0 0 0 0 0 1 td tr link 13 0
+陳 O 陳 0 0 0 0 0 0 0 tr table ppl-list 12 3
+敬 O 敬 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+and O and 0 1 0 0 0 0 0 tr table ppl-list 12 5
+Associate O associate 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Head O head 0 1 0 0 0 0 1 tr table ppl-list 12 5
+for O for 0 1 0 0 0 0 0 tr table ppl-list 12 5
+PG O pg 0 0 0 0 0 0 1 tr table ppl-list 12 5
+Studies O studies 0 0 0 0 0 0 1 tr table ppl-list 12 5
+and O and 0 1 0 0 0 0 0 tr table ppl-list 12 5
+Research O research 0 1 0 0 0 0 1 tr table ppl-list 12 5
+8969 O 8969 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eekjchen O eekjchen 0 0 0 0 0 0 0 td tr link 13 0
+2456 O 2456 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Solid O solid 0 0 0 0 0 0 1 td tr ppl-list 13 0
+- O - 0 0 0 0 0 0 0 td tr ppl-list 13 0
+State O state 0 1 0 0 0 0 1 td tr ppl-list 13 0
+Electronics O electronics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Photonics O photonics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+S2EP O s2ep 0 0 0 1 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Philip B-NAME 0 1 td tr link 13 0
-K.T. I-NAME 0 0 td tr link 13 0
-MOK I-NAME 0 0 td tr link 13 0
-莫 O 0 0 tr table ppl-list 12 3
-國 O 0 0 tr table ppl-list 12 3
-泰 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-and O 0 1 tr table ppl-list 12 5
-Associate O 0 1 tr table ppl-list 12 5
-Head O 0 1 tr table ppl-list 12 5
-for O 0 1 tr table ppl-list 12 5
-UG O 0 0 tr table ppl-list 12 5
-Studies O 0 0 tr table ppl-list 12 5
-and O 0 1 tr table ppl-list 12 5
-Outreach O 0 0 tr table ppl-list 12 5
-8517 O 0 0 tr table ppl-list 12 7
-eemok O 0 0 td tr link 13 0
-2410 O 0 0 tr table ppl-list 12 12
-Integrated O 0 0 td tr ppl-list 13 0
-Circuits O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Systems O 0 0 td tr ppl-list 13 0
-(ICS) O 0 0 td tr ppl-list 13 0
+Philip B-PER philip 0 1 0 0 0 0 1 td tr link 13 0
+K.T. I-PER k.t. 0 0 0 0 0 0 1 td tr link 13 0
+MOK I-PER mok 0 0 0 0 0 0 1 td tr link 13 0
+莫 O 莫 0 0 0 0 0 0 0 tr table ppl-list 12 3
+國 O 國 0 0 0 0 0 0 0 tr table ppl-list 12 3
+泰 O 泰 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+and O and 0 1 0 0 0 0 0 tr table ppl-list 12 5
+Associate O associate 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Head O head 0 1 0 0 0 0 1 tr table ppl-list 12 5
+for O for 0 1 0 0 0 0 0 tr table ppl-list 12 5
+UG O ug 0 0 0 0 0 0 1 tr table ppl-list 12 5
+Studies O studies 0 0 0 0 0 0 1 tr table ppl-list 12 5
+and O and 0 1 0 0 0 0 0 tr table ppl-list 12 5
+Outreach O outreach 0 0 0 0 0 0 1 tr table ppl-list 12 5
+8517 O 8517 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eemok O eemok 0 0 0 0 0 0 0 td tr link 13 0
+2410 O 2410 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Integrated O integrated 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Circuits O circuits 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Systems O systems 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+ICS O ics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Amine B-NAME 0 1 td tr link 13 0
-BERMAK I-NAME 0 0 td tr link 13 0
-Professor O 0 0 tr table ppl-list 12 5
-8992 O 0 0 tr table ppl-list 12 7
-eebermak O 0 0 td tr link 13 0
-2446 O 0 0 tr table ppl-list 12 12
-Integrated O 0 0 td tr ppl-list 13 0
-Circuits O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Systems O 0 0 td tr ppl-list 13 0
-(ICS) O 0 0 td tr ppl-list 13 0
+Amine B-PER amine 0 1 0 0 0 0 1 td tr link 13 0
+BERMAK I-PER bermak 0 0 0 0 0 0 1 td tr link 13 0
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+8992 O 8992 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eebermak O eebermak 0 0 0 0 0 0 0 td tr link 13 0
+2446 O 2446 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Integrated O integrated 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Circuits O circuits 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Systems O systems 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+ICS O ics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Mansun B-NAME 0 1 td tr link 13 0
-CHAN I-NAME 0 0 td tr link 13 0
-陳 O 0 0 tr table ppl-list 12 3
-文 O 0 0 tr table ppl-list 12 3
-新 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-8519 O 0 0 tr table ppl-list 12 7
-mchan O 0 0 td tr link 13 0
-2519 O 0 0 tr table ppl-list 12 12
-Solid-State O 0 0 td tr ppl-list 13 0
-Electronics O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Photonics O 0 0 td tr ppl-list 13 0
-(S2EP) O 0 0 td tr ppl-list 13 0
+Mansun B-PER mansun 0 1 0 0 0 0 1 td tr link 13 0
+CHAN I-PER chan 0 0 0 0 0 0 1 td tr link 13 0
+陳 O 陳 0 0 0 0 0 0 0 tr table ppl-list 12 3
+文 O 文 0 0 0 0 0 0 0 tr table ppl-list 12 3
+新 O 新 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+8519 O 8519 0 0 0 1 0 0 0 tr table ppl-list 12 7
+mchan O mchan 0 0 0 0 0 0 0 td tr link 13 0
+2519 O 2519 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Solid O solid 0 0 0 0 0 0 1 td tr ppl-list 13 0
+- O - 0 0 0 0 0 0 0 td tr ppl-list 13 0
+State O state 0 1 0 0 0 0 1 td tr ppl-list 13 0
+Electronics O electronics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Photonics O photonics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+S2EP O s2ep 0 0 0 1 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Roger B-NAME 0 1 td tr link 13 0
-Shu-Kwan I-NAME 0 1 td tr link 13 0
-CHENG I-NAME 0 0 td tr link 13 0
-鄭 O 0 0 tr table ppl-list 12 3
-樹 O 0 0 tr table ppl-list 12 3
-坤 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-6282 O 0 0 tr table ppl-list 12 7
-eecheng O 0 0 td tr link 13 0
-6335 O 0 0 tr table ppl-list 12 12
-Wireless O 0 0 td tr ppl-list 13 0
-Communications O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Networking O 0 0 td tr ppl-list 13 0
-(WCN) O 0 0 td tr ppl-list 13 0
+Roger B-PER roger 0 1 0 0 0 0 1 td tr link 13 0
+Shu I-PER shu 0 1 0 0 0 0 1 td tr link 13 0
+- I-PER - 0 0 0 0 0 0 0 td tr link 13 0
+Kwan I-PER kwan 0 1 0 0 0 0 1 td tr link 13 0
+CHENG I-PER cheng 0 0 0 0 0 0 1 td tr link 13 0
+鄭 O 鄭 0 0 0 0 0 0 0 tr table ppl-list 12 3
+樹 O 樹 0 0 0 0 0 0 0 tr table ppl-list 12 3
+坤 O 坤 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+6282 O 6282 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eecheng O eecheng 0 0 0 0 0 0 0 td tr link 13 0
+6335 O 6335 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Wireless O wireless 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Communications O communications 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Networking O networking 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+WCN O wcn 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Pascale B-NAME 0 1 td tr link 13 0
-FUNG I-NAME 0 0 td tr link 13 0
-馮 O 0 0 tr table ppl-list 12 3
-雁 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-8537 O 0 0 tr table ppl-list 12 7
-pascale O 0 0 td tr link 13 0
-2454 O 0 0 tr table ppl-list 12 12
-Signal, O 0 0 td tr ppl-list 13 0
-Information O 0 1 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Multimedia O 0 0 td tr ppl-list 13 0
-Processing O 0 0 td tr ppl-list 13 0
-(SIMP) O 0 0 td tr ppl-list 13 0
+Pascale B-PER pascale 0 1 0 0 0 0 1 td tr link 13 0
+FUNG I-PER fung 0 0 0 0 0 0 1 td tr link 13 0
+馮 O 馮 0 0 0 0 0 0 0 tr table ppl-list 12 3
+雁 O 雁 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+8537 O 8537 0 0 0 1 0 0 0 tr table ppl-list 12 7
+pascale O pascale 0 0 0 0 0 0 0 td tr link 13 0
+2454 O 2454 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Signal O signal 0 1 0 0 0 0 1 td tr ppl-list 13 0
+, O , 0 0 0 0 0 0 0 td tr ppl-list 13 0
+Information O information 0 1 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Multimedia O multimedia 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Processing O processing 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+SIMP O simp 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Wing-Hung B-NAME 0 1 td tr link 13 0
-KI I-NAME 0 0 td tr link 13 0
-暨 O 0 0 tr table ppl-list 12 3
-永 O 0 0 tr table ppl-list 12 3
-雄 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-8516 O 0 0 tr table ppl-list 12 7
-eeki O 0 0 td tr link 13 0
-2520 O 0 0 tr table ppl-list 12 12
-Integrated O 0 0 td tr ppl-list 13 0
-Circuits O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Systems O 0 0 td tr ppl-list 13 0
-(ICS) O 0 0 td tr ppl-list 13 0
+Wing B-PER wing 0 1 0 0 0 0 1 td tr link 13 0
+- I-PER - 0 0 0 0 0 0 0 td tr link 13 0
+Hung I-PER hung 0 1 0 0 0 0 1 td tr link 13 0
+KI I-PER ki 0 0 0 0 0 0 1 td tr link 13 0
+暨 O 暨 0 0 0 0 0 0 0 tr table ppl-list 12 3
+永 O 永 0 0 0 0 0 0 0 tr table ppl-list 12 3
+雄 O 雄 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+8516 O 8516 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eeki O eeki 0 0 0 0 0 0 0 td tr link 13 0
+2520 O 2520 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Integrated O integrated 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Circuits O circuits 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Systems O systems 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+ICS O ics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Chin B-NAME 0 1 td tr link 13 0
-Tau I-NAME 0 1 td tr link 13 0
-LEA I-NAME 0 0 td tr link 13 0
-李 O 0 0 tr table ppl-list 12 3
-景 O 0 0 tr table ppl-list 12 3
-濤 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-7090 O 0 0 tr table ppl-list 12 7
-eelea O 0 0 td tr link 13 0
-2428 O 0 0 tr table ppl-list 12 12
-Wireless O 0 0 td tr ppl-list 13 0
-Communications O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Networking O 0 0 td tr ppl-list 13 0
-(WCN) O 0 0 td tr ppl-list 13 0
+Chin B-PER chin 0 1 0 0 0 0 1 td tr link 13 0
+Tau I-PER tau 0 1 0 0 0 0 1 td tr link 13 0
+LEA I-PER lea 0 0 0 0 0 0 1 td tr link 13 0
+李 O 李 0 0 0 0 0 0 0 tr table ppl-list 12 3
+景 O 景 0 0 0 0 0 0 0 tr table ppl-list 12 3
+濤 O 濤 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7090 O 7090 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eelea O eelea 0 0 0 0 0 0 0 td tr link 13 0
+2428 O 2428 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Wireless O wireless 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Communications O communications 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Networking O networking 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+WCN O wcn 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Zexiang B-NAME 0 1 td tr link 13 0
-LI I-NAME 0 1 td tr link 13 0
-李 O 0 0 tr table ppl-list 12 3
-澤 O 0 0 tr table ppl-list 12 3
-湘 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-7051 O 0 0 tr table ppl-list 12 7
-eezxli O 0 0 td tr link 13 0
-CYT O 0 0 tr table ppl-list 12 12
-2009 O 0 0 tr table ppl-list 12 12
-Control O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Robotic O 0 0 td tr ppl-list 13 0
-Systems O 0 0 td tr ppl-list 13 0
-(CRS) O 0 0 td tr ppl-list 13 0
+Zexiang B-PER zexiang 0 1 0 0 0 0 1 td tr link 13 0
+LI I-PER li 0 1 0 0 0 0 1 td tr link 13 0
+李 O 李 0 0 0 0 0 0 0 tr table ppl-list 12 3
+澤 O 澤 0 0 0 0 0 0 0 tr table ppl-list 12 3
+湘 O 湘 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7051 O 7051 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eezxli O eezxli 0 0 0 0 0 0 0 td tr link 13 0
+CYT O cyt 0 0 0 0 0 0 1 tr table ppl-list 12 12
+2009 O 2009 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Control O control 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Robotic O robotic 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Systems O systems 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+CRS O crs 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Howard B-NAME 0 1 td tr link 13 0
-Cam I-NAME 0 1 td tr link 13 0
-LUONG I-NAME 0 0 td tr link 13 0
-梁 O 0 0 tr table ppl-list 12 3
-錦 O 0 0 tr table ppl-list 12 3
-和 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-8514 O 0 0 tr table ppl-list 12 7
-eeluong O 0 0 td tr link 13 0
-2453 O 0 0 tr table ppl-list 12 12
-Integrated O 0 0 td tr ppl-list 13 0
-Circuits O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Systems O 0 0 td tr ppl-list 13 0
-(ICS) O 0 0 td tr ppl-list 13 0
+Howard B-PER howard 0 1 0 0 0 0 1 td tr link 13 0
+Cam I-PER cam 0 1 0 0 0 0 1 td tr link 13 0
+LUONG I-PER luong 0 0 0 0 0 0 1 td tr link 13 0
+梁 O 梁 0 0 0 0 0 0 0 tr table ppl-list 12 3
+錦 O 錦 0 0 0 0 0 0 0 tr table ppl-list 12 3
+和 O 和 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+8514 O 8514 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eeluong O eeluong 0 0 0 0 0 0 0 td tr link 13 0
+2453 O 2453 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Integrated O integrated 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Circuits O circuits 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Systems O systems 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+ICS O ics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Daniel B-NAME 0 1 td tr link 13 0
-P. I-NAME 0 1 td tr link 13 0
-PALOMAR I-NAME 0 0 td tr link 13 0
-Professor O 0 0 tr table ppl-list 12 5
-7060 O 0 0 tr table ppl-list 12 7
-palomar O 0 0 td tr link 13 0
-2398 O 0 0 tr table ppl-list 12 12
-Signal, O 0 0 td tr ppl-list 13 0
-Information O 0 1 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Multimedia O 0 0 td tr ppl-list 13 0
-Processing O 0 0 td tr ppl-list 13 0
-(SIMP) O 0 0 td tr ppl-list 13 0
+Daniel B-PER daniel 0 1 0 0 0 0 1 td tr link 13 0
+P. I-PER p. 0 1 0 0 0 0 1 td tr link 13 0
+PALOMAR I-PER palomar 0 0 0 0 0 0 1 td tr link 13 0
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7060 O 7060 0 0 0 1 0 0 0 tr table ppl-list 12 7
+palomar O palomar 0 0 0 0 0 0 0 td tr link 13 0
+2398 O 2398 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Signal O signal 0 1 0 0 0 0 1 td tr ppl-list 13 0
+, O , 0 0 0 0 0 0 0 td tr ppl-list 13 0
+Information O information 0 1 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Multimedia O multimedia 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Processing O processing 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+SIMP O simp 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Andrew B-NAME 0 1 td tr link 13 0
-Wing-On I-NAME 0 0 td tr link 13 0
-POON I-NAME 0 0 td tr link 13 0
-潘 O 0 0 tr table ppl-list 12 3
-永 O 0 0 tr table ppl-list 12 3
-安 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-7905 O 0 0 tr table ppl-list 12 7
-eeawpoon O 0 0 td tr link 13 0
-2432 O 0 0 tr table ppl-list 12 12
-Solid-State O 0 0 td tr ppl-list 13 0
-Electronics O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Photonics O 0 0 td tr ppl-list 13 0
-(S2EP) O 0 0 td tr ppl-list 13 0
+Andrew B-PER andrew 0 1 0 0 1 0 1 td tr link 13 0
+Wing I-PER wing 0 1 0 0 0 0 1 td tr link 13 0
+- I-PER - 0 0 0 0 0 0 0 td tr link 13 0
+On I-PER on 0 1 0 0 0 0 1 td tr link 13 0
+POON I-PER poon 0 0 0 0 0 0 1 td tr link 13 0
+潘 O 潘 0 0 0 0 0 0 0 tr table ppl-list 12 3
+永 O 永 0 0 0 0 0 0 0 tr table ppl-list 12 3
+安 O 安 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7905 O 7905 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eeawpoon O eeawpoon 0 0 0 0 0 0 0 td tr link 13 0
+2432 O 2432 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Solid O solid 0 0 0 0 0 0 1 td tr ppl-list 13 0
+- O - 0 0 0 0 0 0 0 td tr ppl-list 13 0
+State O state 0 1 0 0 0 0 1 td tr ppl-list 13 0
+Electronics O electronics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Photonics O photonics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+S2EP O s2ep 0 0 0 1 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Li B-NAME 0 1 td tr link 13 0
-QIU I-NAME 0 0 td tr link 13 0
-丘 O 0 0 tr table ppl-list 12 3
-立 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-7067 O 0 0 tr table ppl-list 12 7
-eeqiu O 0 0 td tr link 13 0
-2440 O 0 0 tr table ppl-list 12 12
-Control O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Robotic O 0 0 td tr ppl-list 13 0
-Systems O 0 0 td tr ppl-list 13 0
-(CRS) O 0 0 td tr ppl-list 13 0
+Li B-PER li 0 1 0 0 0 0 1 td tr link 13 0
+QIU I-PER qiu 0 0 0 0 0 0 1 td tr link 13 0
+丘 O 丘 0 0 0 0 0 0 0 tr table ppl-list 12 3
+立 O 立 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7067 O 7067 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eeqiu O eeqiu 0 0 0 0 0 0 0 td tr link 13 0
+2440 O 2440 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Control O control 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Robotic O robotic 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Systems O systems 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+CRS O crs 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Jianan B-NAME 0 1 td tr link 13 0
-QU I-NAME 0 0 td tr link 13 0
-瞿 O 0 0 tr table ppl-list 12 3
-佳 O 0 0 tr table ppl-list 12 3
-男 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-8541 O 0 0 tr table ppl-list 12 7
-eequ O 0 0 td tr link 13 0
-2434 O 0 0 tr table ppl-list 12 12
-Biomedical O 0 0 td tr ppl-list 13 0
-Engineering O 0 0 td tr ppl-list 13 0
-(BME) O 0 0 td tr ppl-list 13 0
+Jianan B-PER jianan 0 1 0 0 0 0 1 td tr link 13 0
+QU I-PER qu 0 0 0 0 0 0 1 td tr link 13 0
+瞿 O 瞿 0 0 0 0 0 0 0 tr table ppl-list 12 3
+佳 O 佳 0 0 0 0 0 0 0 tr table ppl-list 12 3
+男 O 男 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+8541 O 8541 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eequ O eequ 0 0 0 0 0 0 0 td tr link 13 0
+2434 O 2434 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Biomedical O biomedical 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Engineering O engineering 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+BME O bme 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Johnny B-NAME 0 1 td tr link 13 0
-K. I-NAME 0 1 td tr link 13 0
-O. I-NAME 0 1 td tr link 13 0
-SIN I-NAME 0 0 td tr link 13 0
-單 O 0 0 tr table ppl-list 12 3
-建 O 0 0 tr table ppl-list 12 3
-安 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-7052 O 0 0 tr table ppl-list 12 7
-eesin O 0 0 td tr link 13 0
-2415 O 0 0 tr table ppl-list 12 12
-Solid-State O 0 0 td tr ppl-list 13 0
-Electronics O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Photonics O 0 0 td tr ppl-list 13 0
-(S2EP) O 0 0 td tr ppl-list 13 0
+Johnny B-PER johnny 0 1 0 0 0 0 1 td tr link 13 0
+K. I-PER k. 0 1 0 0 0 0 1 td tr link 13 0
+O. I-PER o. 0 1 0 0 0 0 1 td tr link 13 0
+SIN I-PER sin 0 0 0 0 0 0 1 td tr link 13 0
+單 O 單 0 0 0 0 0 0 0 tr table ppl-list 12 3
+建 O 建 0 0 0 0 0 0 0 tr table ppl-list 12 3
+安 O 安 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7052 O 7052 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eesin O eesin 0 0 0 0 0 0 0 td tr link 13 0
+2415 O 2415 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Solid O solid 0 0 0 0 0 0 1 td tr ppl-list 13 0
+- O - 0 0 0 0 0 0 0 td tr ppl-list 13 0
+State O state 0 1 0 0 0 0 1 td tr ppl-list 13 0
+Electronics O electronics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Photonics O photonics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+S2EP O s2ep 0 0 0 1 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Danny B-NAME 0 1 td tr link 13 0
-Hin-Kwok I-NAME 0 1 td tr link 13 0
-TSANG I-NAME 0 0 td tr link 13 0
-曽 O 0 0 tr table ppl-list 12 3
-憲 O 0 0 tr table ppl-list 12 3
-國 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-7045 O 0 0 tr table ppl-list 12 7
-eetsang O 0 0 td tr link 13 0
-2414 O 0 0 tr table ppl-list 12 12
-Wireless O 0 0 td tr ppl-list 13 0
-Communications O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Networking O 0 0 td tr ppl-list 13 0
-(WCN) O 0 0 td tr ppl-list 13 0
+Danny B-PER danny 0 1 0 0 0 0 1 td tr link 13 0
+Hin I-PER hin 0 1 0 0 0 0 1 td tr link 13 0
+- I-PER - 0 0 0 0 0 0 0 td tr link 13 0
+Kwok I-PER kwok 0 1 0 0 0 0 1 td tr link 13 0
+TSANG I-PER tsang 0 0 0 0 0 0 1 td tr link 13 0
+曽 O 曽 0 0 0 0 0 0 0 tr table ppl-list 12 3
+憲 O 憲 0 0 0 0 0 0 0 tr table ppl-list 12 3
+國 O 國 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7045 O 7045 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eetsang O eetsang 0 0 0 0 0 0 0 td tr link 13 0
+2414 O 2414 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Wireless O wireless 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Communications O communications 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Networking O networking 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+WCN O wcn 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Chi-Ying B-NAME 0 1 td tr link 13 0
-TSUI I-NAME 0 0 td tr link 13 0
-崔 O 0 0 tr table ppl-list 12 3
-志 O 0 0 tr table ppl-list 12 3
-英 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-6970 O 0 0 tr table ppl-list 12 7
-eetsui O 0 0 td tr link 13 0
-2438 O 0 0 tr table ppl-list 12 12
-Integrated O 0 0 td tr ppl-list 13 0
-Circuits O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Systems O 0 0 td tr ppl-list 13 0
-(ICS) O 0 0 td tr ppl-list 13 0
+Chi B-PER chi 0 1 0 0 0 0 1 td tr link 13 0
+- I-PER - 0 0 0 0 0 0 0 td tr link 13 0
+Ying I-PER ying 0 1 0 0 0 0 1 td tr link 13 0
+TSUI I-PER tsui 0 0 0 0 0 0 1 td tr link 13 0
+崔 O 崔 0 0 0 0 0 0 0 tr table ppl-list 12 3
+志 O 志 0 0 0 0 0 0 0 tr table ppl-list 12 3
+英 O 英 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+6970 O 6970 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eetsui O eetsui 0 0 0 0 0 0 0 td tr link 13 0
+2438 O 2438 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Integrated O integrated 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Circuits O circuits 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Systems O systems 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+ICS O ics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Man B-NAME 0 1 td tr link 13 0
-WONG I-NAME 0 0 td tr link 13 0
-王 O 0 0 tr table ppl-list 12 3
-文 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-7057 O 0 0 tr table ppl-list 12 7
-eemwong O 0 0 td tr link 13 0
-2521 O 0 0 tr table ppl-list 12 12
-Solid-State O 0 0 td tr ppl-list 13 0
-Electronics O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Photonics O 0 0 td tr ppl-list 13 0
-(S2EP) O 0 0 td tr ppl-list 13 0
+Man B-PER man 0 1 0 0 0 0 1 td tr link 13 0
+WONG I-PER wong 0 0 0 0 0 0 1 td tr link 13 0
+王 O 王 0 0 0 0 0 0 0 tr table ppl-list 12 3
+文 O 文 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7057 O 7057 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eemwong O eemwong 0 0 0 0 0 0 0 td tr link 13 0
+2521 O 2521 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Solid O solid 0 0 0 0 0 0 1 td tr ppl-list 13 0
+- O - 0 0 0 0 0 0 0 td tr ppl-list 13 0
+State O state 0 1 0 0 0 0 1 td tr ppl-list 13 0
+Electronics O electronics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Photonics O photonics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+S2EP O s2ep 0 0 0 1 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Weichuan B-NAME 0 1 td tr link 13 0
-YU I-NAME 0 0 td tr link 13 0
-余 O 0 0 tr table ppl-list 12 3
-維 O 0 0 tr table ppl-list 12 3
-川 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-7054 O 0 0 tr table ppl-list 12 7
-eeyu O 0 0 td tr link 13 0
-2442 O 0 0 tr table ppl-list 12 12
-Biomedical O 0 0 td tr ppl-list 13 0
-Engineering O 0 0 td tr ppl-list 13 0
-(BME) O 0 0 td tr ppl-list 13 0
+Weichuan B-PER weichuan 0 1 0 0 0 0 1 td tr link 13 0
+YU I-PER yu 0 0 0 0 0 0 1 td tr link 13 0
+余 O 余 0 0 0 0 0 0 0 tr table ppl-list 12 3
+維 O 維 0 0 0 0 0 0 0 tr table ppl-list 12 3
+川 O 川 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7054 O 7054 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eeyu O eeyu 0 0 0 0 0 0 0 td tr link 13 0
+2442 O 2442 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Biomedical O biomedical 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Engineering O engineering 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+BME O bme 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Patrick B-NAME 0 1 td tr link 13 0
-YUE I-NAME 0 0 td tr link 13 0
-俞 O 0 0 tr table ppl-list 12 3
-捷 O 0 0 tr table ppl-list 12 3
-Professor O 0 0 tr table ppl-list 12 5
-7047 O 0 0 tr table ppl-list 12 7
-eepatrick O 0 0 td tr link 13 0
-CYT O 0 0 tr table ppl-list 12 12
-3010 O 0 0 tr table ppl-list 12 12
-Integrated O 0 0 td tr ppl-list 13 0
-Circuits O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Systems O 0 0 td tr ppl-list 13 0
-(ICS) O 0 0 td tr ppl-list 13 0
+Patrick B-PER patrick 0 1 0 0 0 0 1 td tr link 13 0
+YUE I-PER yue 0 0 0 0 0 0 1 td tr link 13 0
+俞 O 俞 0 0 0 0 0 0 0 tr table ppl-list 12 3
+捷 O 捷 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7047 O 7047 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eepatrick O eepatrick 0 0 0 0 0 0 0 td tr link 13 0
+CYT O cyt 0 0 0 0 0 0 1 tr table ppl-list 12 12
+3010 O 3010 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Integrated O integrated 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Circuits O circuits 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Systems O systems 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+ICS O ics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Zhiyong B-NAME 0 1 td tr link 13 0
-FAN I-NAME 0 0 td tr link 13 0
-范 O 0 0 tr table ppl-list 12 3
-智 O 0 0 tr table ppl-list 12 3
-勇 O 0 0 tr table ppl-list 12 3
-Associate O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-8027 O 0 0 tr table ppl-list 12 7
-eezfan O 0 0 td tr link 13 0
-2523 O 0 0 tr table ppl-list 12 12
-Solid-State O 0 0 td tr ppl-list 13 0
-Electronics O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Photonics O 0 0 td tr ppl-list 13 0
-(S2EP) O 0 0 td tr ppl-list 13 0
+Zhiyong B-PER zhiyong 0 1 0 0 0 0 1 td tr link 13 0
+FAN I-PER fan 0 0 0 0 0 0 1 td tr link 13 0
+范 O 范 0 0 0 0 0 0 0 tr table ppl-list 12 3
+智 O 智 0 0 0 0 0 0 0 tr table ppl-list 12 3
+勇 O 勇 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Associate O associate 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+8027 O 8027 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eezfan O eezfan 0 0 0 0 0 0 0 td tr link 13 0
+2523 O 2523 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Solid O solid 0 0 0 0 0 0 1 td tr ppl-list 13 0
+- O - 0 0 0 0 0 0 0 td tr ppl-list 13 0
+State O state 0 1 0 0 0 0 1 td tr ppl-list 13 0
+Electronics O electronics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Photonics O photonics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+S2EP O s2ep 0 0 0 1 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Volkan B-NAME 0 1 td tr link 13 0
-KURSUN I-NAME 0 0 td tr link 13 0
-Associate O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-7043 O 0 0 tr table ppl-list 12 7
-eekursun O 0 0 td tr link 13 0
-2426 O 0 0 tr table ppl-list 12 12
-Integrated O 0 0 td tr ppl-list 13 0
-Circuits O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Systems O 0 0 td tr ppl-list 13 0
-(ICS) O 0 0 td tr ppl-list 13 0
+Volkan B-PER volkan 0 1 0 0 0 0 1 td tr link 13 0
+KURSUN I-PER kursun 0 0 0 0 0 0 1 td tr link 13 0
+Associate O associate 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7043 O 7043 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eekursun O eekursun 0 0 0 0 0 0 0 td tr link 13 0
+2426 O 2426 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Integrated O integrated 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Circuits O circuits 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Systems O systems 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+ICS O ics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Matthew B-NAME 0 1 td tr link 13 0
-McKAY I-NAME 0 0 td tr link 13 0
-Associate O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-5035 O 0 0 tr table ppl-list 12 7
-m.mckay O 0 0 td tr link 13 0
-2450 O 0 0 tr table ppl-list 12 12
-Signal, O 0 0 td tr ppl-list 13 0
-Information O 0 1 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Multimedia O 0 0 td tr ppl-list 13 0
-Processing O 0 0 td tr ppl-list 13 0
-(SIMP) O 0 0 td tr ppl-list 13 0
+Matthew B-PER matthew 0 1 0 0 0 0 1 td tr link 13 0
+McKAY I-PER mckay 0 0 0 0 0 0 1 td tr link 13 0
+Associate O associate 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+5035 O 5035 0 0 0 1 0 0 0 tr table ppl-list 12 7
+m.mckay O m.mckay 0 0 0 0 0 0 0 td tr link 13 0
+2450 O 2450 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Signal O signal 0 1 0 0 0 0 1 td tr ppl-list 13 0
+, O , 0 0 0 0 0 0 0 td tr ppl-list 13 0
+Information O information 0 1 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Multimedia O multimedia 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Processing O processing 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+SIMP O simp 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Wai B-NAME 0 1 td tr link 13 0
-Ho I-NAME 0 1 td tr link 13 0
-MOW I-NAME 0 0 td tr link 13 0
-繆 O 0 0 tr table ppl-list 12 3
-偉 O 0 0 tr table ppl-list 12 3
-豪 O 0 0 tr table ppl-list 12 3
-Associate O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-7070 O 0 0 tr table ppl-list 12 7
-eewhmow O 0 0 td tr link 13 0
-2451 O 0 0 tr table ppl-list 12 12
-Wireless O 0 0 td tr ppl-list 13 0
-Communications O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Networking O 0 0 td tr ppl-list 13 0
-(WCN) O 0 0 td tr ppl-list 13 0
+Wai B-PER wai 0 1 0 0 0 0 1 td tr link 13 0
+Ho I-PER ho 0 1 0 0 0 0 1 td tr link 13 0
+MOW I-PER mow 0 0 0 0 0 0 1 td tr link 13 0
+繆 O 繆 0 0 0 0 0 0 0 tr table ppl-list 12 3
+偉 O 偉 0 0 0 0 0 0 0 tr table ppl-list 12 3
+豪 O 豪 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Associate O associate 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7070 O 7070 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eewhmow O eewhmow 0 0 0 0 0 0 0 td tr link 13 0
+2451 O 2451 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Wireless O wireless 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Communications O communications 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Networking O networking 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+WCN O wcn 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Ling B-NAME 0 1 td tr link 13 0
-SHI I-NAME 0 0 td tr link 13 0
-施 O 0 0 tr table ppl-list 12 3
-凌 O 0 0 tr table ppl-list 12 3
-Associate O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-7055 O 0 0 tr table ppl-list 12 7
-eesling O 0 0 td tr link 13 0
-CYT-2013A O 0 0 tr table ppl-list 12 12
-Control O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Robotic O 0 0 td tr ppl-list 13 0
-Systems O 0 0 td tr ppl-list 13 0
-(CRS) O 0 0 td tr ppl-list 13 0
+Ling B-PER ling 0 1 0 0 0 0 1 td tr link 13 0
+SHI I-PER shi 0 0 0 0 0 0 1 td tr link 13 0
+施 O 施 0 0 0 0 0 0 0 tr table ppl-list 12 3
+凌 O 凌 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Associate O associate 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7055 O 7055 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eesling O eesling 0 0 0 0 0 0 0 td tr link 13 0
+CYT O cyt 0 0 0 0 0 0 1 tr table ppl-list 12 12
+- O - 0 0 0 0 0 0 0 tr table ppl-list 12 12
+2013A O 2013a 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Control O control 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Robotic O robotic 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Systems O systems 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+CRS O crs 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Jiang B-NAME 0 1 td tr link 13 0
-XU I-NAME 0 0 td tr link 13 0
-須 O 0 0 tr table ppl-list 12 3
-江 O 0 0 tr table ppl-list 12 3
-Associate O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-5036 O 0 0 tr table ppl-list 12 7
-eexu O 0 0 td tr link 13 0
-2449 O 0 0 tr table ppl-list 12 12
-Integrated O 0 0 td tr ppl-list 13 0
-Circuits O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Systems O 0 0 td tr ppl-list 13 0
-(ICS) O 0 0 td tr ppl-list 13 0
+Jiang B-PER jiang 0 1 0 0 0 0 1 td tr link 13 0
+XU I-PER xu 0 0 0 0 0 0 1 td tr link 13 0
+須 O 須 0 0 0 0 0 0 0 tr table ppl-list 12 3
+江 O 江 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Associate O associate 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+5036 O 5036 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eexu O eexu 0 0 0 0 0 0 0 td tr link 13 0
+2449 O 2449 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Integrated O integrated 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Circuits O circuits 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Systems O systems 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+ICS O ics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Levent B-NAME 0 1 td tr link 13 0
-YOBAS I-NAME 0 0 td tr link 13 0
-Associate O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-7068 O 0 0 tr table ppl-list 12 7
-eelyobas O 0 0 td tr link 13 0
-CYT O 0 0 tr table ppl-list 12 12
-3012 O 0 0 tr table ppl-list 12 12
-Biomedical O 0 0 td tr ppl-list 13 0
-Engineering O 0 0 td tr ppl-list 13 0
-(BME) O 0 0 td tr ppl-list 13 0
+Levent B-PER levent 0 1 0 0 0 0 1 td tr link 13 0
+YOBAS I-PER yobas 0 0 0 0 0 0 1 td tr link 13 0
+Associate O associate 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7068 O 7068 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eelyobas O eelyobas 0 0 0 0 0 0 0 td tr link 13 0
+CYT O cyt 0 0 0 0 0 0 1 tr table ppl-list 12 12
+3012 O 3012 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Biomedical O biomedical 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Engineering O engineering 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+BME O bme 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-George B-NAME 0 1 td tr link 13 0
-Jie I-NAME 0 1 td tr link 13 0
-YUAN I-NAME 0 0 td tr link 13 0
-袁 O 0 0 tr table ppl-list 12 3
-杰 O 0 0 tr table ppl-list 12 3
-Associate O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-8029 O 0 0 tr table ppl-list 12 7
-eeyuan O 0 0 td tr link 13 0
-2522 O 0 0 tr table ppl-list 12 12
-Integrated O 0 0 td tr ppl-list 13 0
-Circuits O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Systems O 0 0 td tr ppl-list 13 0
-(ICS) O 0 0 td tr ppl-list 13 0
+George B-PER george 0 1 0 0 0 0 1 td tr link 13 0
+Jie I-PER jie 0 1 0 0 0 0 1 td tr link 13 0
+YUAN I-PER yuan 0 0 0 0 0 0 1 td tr link 13 0
+袁 O 袁 0 0 0 0 0 0 0 tr table ppl-list 12 3
+杰 O 杰 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Associate O associate 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+8029 O 8029 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eeyuan O eeyuan 0 0 0 0 0 0 0 td tr link 13 0
+2522 O 2522 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Integrated O integrated 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Circuits O circuits 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Systems O systems 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+ICS O ics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Wei B-NAME 0 1 td tr link 13 0
-ZHANG I-NAME 0 0 td tr link 13 0
-張 O 0 0 tr table ppl-list 12 3
-薇 O 0 0 tr table ppl-list 12 3
-Associate O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-8170 O 0 0 tr table ppl-list 12 7
-eeweiz O 0 0 td tr link 13 0
-2444 O 0 0 tr table ppl-list 12 12
-Integrated O 0 0 td tr ppl-list 13 0
-Circuits O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Systems O 0 0 td tr ppl-list 13 0
-(ICS) O 0 0 td tr ppl-list 13 0
+Wei B-PER wei 0 1 0 0 0 0 1 td tr link 13 0
+ZHANG I-PER zhang 0 0 0 0 0 0 1 td tr link 13 0
+張 O 張 0 0 0 0 0 0 0 tr table ppl-list 12 3
+薇 O 薇 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Associate O associate 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+8170 O 8170 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eeweiz O eeweiz 0 0 0 0 0 0 0 td tr link 13 0
+2444 O 2444 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Integrated O integrated 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Circuits O circuits 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Systems O systems 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+ICS O ics 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Kam B-NAME 0 1 td tr link 13 0
-Tim I-NAME 0 1 td tr link 13 0
-WOO I-NAME 0 0 td tr link 13 0
-胡 O 0 0 tr table ppl-list 12 3
-錦 O 0 0 tr table ppl-list 12 3
-添 O 0 0 tr table ppl-list 12 3
-Associate O 0 1 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-of O 0 1 tr table ppl-list 12 5
-Engineering O 0 0 tr table ppl-list 12 5
-Education O 0 0 tr table ppl-list 12 5
-8540 O 0 0 tr table ppl-list 12 7
-eetim O 0 0 td tr link 13 0
-2419 O 0 0 tr table ppl-list 12 12
-Control O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Robotic O 0 0 td tr ppl-list 13 0
-Systems O 0 0 td tr ppl-list 13 0
-(CRS) O 0 0 td tr ppl-list 13 0
+Kam B-PER kam 0 1 0 0 0 0 1 td tr link 13 0
+Tim I-PER tim 0 1 0 0 0 0 1 td tr link 13 0
+WOO I-PER woo 0 0 0 0 0 0 1 td tr link 13 0
+胡 O 胡 0 0 0 0 0 0 0 tr table ppl-list 12 3
+錦 O 錦 0 0 0 0 0 0 0 tr table ppl-list 12 3
+添 O 添 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Associate O associate 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+of O of 0 1 0 0 0 0 0 tr table ppl-list 12 5
+Engineering O engineering 0 0 0 0 0 0 1 tr table ppl-list 12 5
+Education O education 0 0 0 0 0 0 1 tr table ppl-list 12 5
+8540 O 8540 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eetim O eetim 0 0 0 0 0 0 0 td tr link 13 0
+2419 O 2419 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Control O control 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Robotic O robotic 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Systems O systems 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+CRS O crs 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Ming B-NAME 0 1 td tr link 13 0
-LIU I-NAME 0 0 td tr link 13 0
-劉 O 0 0 tr table ppl-list 12 3
-明 O 0 0 tr table ppl-list 12 3
-Assistant O 0 0 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-7058 O 0 0 tr table ppl-list 12 7
-eelium O 0 0 td tr link 13 0
-CYT-2011 O 0 0 tr table ppl-list 12 12
-Control O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Robotic O 0 0 td tr ppl-list 13 0
-Systems O 0 0 td tr ppl-list 13 0
-(CRS) O 0 0 td tr ppl-list 13 0
+Ming B-PER ming 0 1 0 0 0 0 1 td tr link 13 0
+LIU I-PER liu 0 0 0 0 0 0 1 td tr link 13 0
+劉 O 劉 0 0 0 0 0 0 0 tr table ppl-list 12 3
+明 O 明 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Assistant O assistant 0 0 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7058 O 7058 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eelium O eelium 0 0 0 0 0 0 0 td tr link 13 0
+CYT O cyt 0 0 0 0 0 0 1 tr table ppl-list 12 12
+- O - 0 0 0 0 0 0 0 tr table ppl-list 12 12
+2011 O 2011 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Control O control 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Robotic O robotic 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Systems O systems 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+CRS O crs 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-James B-NAME 0 1 td tr link 13 0
-SHE I-NAME 0 0 td tr link 13 0
-許 O 0 0 tr table ppl-list 12 3
-丕 O 0 0 tr table ppl-list 12 3
-文 O 0 0 tr table ppl-list 12 3
-Assistant O 0 0 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-7041 O 0 0 tr table ppl-list 12 7
-eejames O 0 0 td tr link 13 0
-2430 O 0 0 tr table ppl-list 12 12
-Signal, O 0 0 td tr ppl-list 13 0
-Information O 0 1 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Multimedia O 0 0 td tr ppl-list 13 0
-Processing O 0 0 td tr ppl-list 13 0
-(SIMP) O 0 0 td tr ppl-list 13 0
+James B-PER james 0 1 0 0 0 0 1 td tr link 13 0
+SHE I-PER she 0 0 0 0 0 0 1 td tr link 13 0
+許 O 許 0 0 0 0 0 0 0 tr table ppl-list 12 3
+丕 O 丕 0 0 0 0 0 0 0 tr table ppl-list 12 3
+文 O 文 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Assistant O assistant 0 0 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7041 O 7041 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eejames O eejames 0 0 0 0 0 0 0 td tr link 13 0
+2430 O 2430 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Signal O signal 0 1 0 0 0 0 1 td tr ppl-list 13 0
+, O , 0 0 0 0 0 0 0 td tr ppl-list 13 0
+Information O information 0 1 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Multimedia O multimedia 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Processing O processing 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+SIMP O simp 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Shaojie B-NAME 0 1 td tr link 13 0
-SHEN I-NAME 0 0 td tr link 13 0
-沈 O 0 0 tr table ppl-list 12 3
-劭 O 0 0 tr table ppl-list 12 3
-劼 O 0 0 tr table ppl-list 12 3
-Assistant O 0 0 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-3469 O 0 0 tr table ppl-list 12 7
-2287 O 0 0 tr table ppl-list 12 7
-eeshaojie O 0 0 td tr link 13 0
-CYT O 0 0 tr table ppl-list 12 12
-2012 O 0 0 tr table ppl-list 12 12
-Control O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Robotic O 0 0 td tr ppl-list 13 0
-Systems O 0 0 td tr ppl-list 13 0
-(CRS) O 0 0 td tr ppl-list 13 0
+Shaojie B-PER shaojie 0 1 0 0 0 0 1 td tr link 13 0
+SHEN I-PER shen 0 0 0 0 0 0 1 td tr link 13 0
+沈 O 沈 0 0 0 0 0 0 0 tr table ppl-list 12 3
+劭 O 劭 0 0 0 0 0 0 0 tr table ppl-list 12 3
+劼 O 劼 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Assistant O assistant 0 0 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+3469 O 3469 0 0 0 1 0 0 0 tr table ppl-list 12 7
+2287 O 2287 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eeshaojie O eeshaojie 0 0 0 0 0 0 0 td tr link 13 0
+CYT O cyt 0 0 0 0 0 0 1 tr table ppl-list 12 12
+2012 O 2012 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Control O control 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Robotic O robotic 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Systems O systems 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+CRS O crs 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Yiwen B-NAME 0 1 td tr link 13 0
-WANG I-NAME 0 0 td tr link 13 0
-王怡雯 O 0 0 tr table ppl-list 12 3
-Assistant O 0 0 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-7053 O 0 0 tr table ppl-list 12 7
-eewangyw O 0 0 td tr link 13 0
-2437 O 0 0 tr table ppl-list 12 12
-Biomedical O 0 0 td tr ppl-list 13 0
-Engineering O 0 0 td tr ppl-list 13 0
-(BME) O 0 0 td tr ppl-list 13 0
+Yiwen B-PER yiwen 0 1 0 0 0 0 1 td tr link 13 0
+WANG I-PER wang 0 0 0 0 0 0 1 td tr link 13 0
+王怡雯 O 王怡雯 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Assistant O assistant 0 0 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+7053 O 7053 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eewangyw O eewangyw 0 0 0 0 0 0 0 td tr link 13 0
+2437 O 2437 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Biomedical O biomedical 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Engineering O engineering 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+BME O bme 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Shenghui B-NAME 0 1 td tr link 13 0
-SONG I-NAME 0 0 td tr link 13 0
-宋 O 0 0 tr table ppl-list 12 3
-勝 O 0 0 tr table ppl-list 12 3
-輝 O 0 0 tr table ppl-list 12 3
-Assistant O 0 0 tr table ppl-list 12 5
-Professor O 0 0 tr table ppl-list 12 5
-of O 0 1 tr table ppl-list 12 5
-Engineering O 0 0 tr table ppl-list 12 5
-Education O 0 0 tr table ppl-list 12 5
-5033 O 0 0 tr table ppl-list 12 7
-eeshsong O 0 0 td tr link 13 0
-2524 O 0 0 tr table ppl-list 12 12
-Wireless O 0 0 td tr ppl-list 13 0
-Communications O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Networking O 0 0 td tr ppl-list 13 0
-(WCN) O 0 0 td tr ppl-list 13 0
+Shenghui B-PER shenghui 0 1 0 0 0 0 1 td tr link 13 0
+SONG I-PER song 0 0 0 0 0 0 1 td tr link 13 0
+宋 O 宋 0 0 0 0 0 0 0 tr table ppl-list 12 3
+勝 O 勝 0 0 0 0 0 0 0 tr table ppl-list 12 3
+輝 O 輝 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Assistant O assistant 0 0 0 0 0 0 1 tr table ppl-list 12 5
+Professor O professor 0 0 0 0 1 0 1 tr table ppl-list 12 5
+of O of 0 1 0 0 0 0 0 tr table ppl-list 12 5
+Engineering O engineering 0 0 0 0 0 0 1 tr table ppl-list 12 5
+Education O education 0 0 0 0 0 0 1 tr table ppl-list 12 5
+5033 O 5033 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eeshsong O eeshsong 0 0 0 0 0 0 0 td tr link 13 0
+2524 O 2524 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Wireless O wireless 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Communications O communications 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Networking O networking 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+WCN O wcn 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0
 
-Albert B-NAME 0 1 td tr link 13 0
-Kai-Sun I-NAME 0 1 td tr link 13 0
-WONG I-NAME 0 0 td tr link 13 0
-王 O 0 0 tr table ppl-list 12 3
-啟 O 0 0 tr table ppl-list 12 3
-新 O 0 0 tr table ppl-list 12 3
-Senior O 0 1 tr table ppl-list 12 5
-Lecturer O 0 0 tr table ppl-list 12 5
-7065 O 0 0 tr table ppl-list 12 7
-eealbert O 0 0 td tr link 13 0
-2424 O 0 0 tr table ppl-list 12 12
-Wireless O 0 0 td tr ppl-list 13 0
-Communications O 0 0 td tr ppl-list 13 0
-and O 0 1 td tr ppl-list 13 0
-Networking O 0 0 td tr ppl-list 13 0
-(WCN) O 0 0 td tr ppl-list 13 0
+Albert B-PER albert 0 1 0 0 0 0 1 td tr link 13 0
+Kai I-PER kai 0 1 0 0 0 0 1 td tr link 13 0
+- I-PER - 0 0 0 0 0 0 0 td tr link 13 0
+Sun I-PER sun 0 1 0 0 0 0 1 td tr link 13 0
+WONG I-PER wong 0 0 0 0 0 0 1 td tr link 13 0
+王 O 王 0 0 0 0 0 0 0 tr table ppl-list 12 3
+啟 O 啟 0 0 0 0 0 0 0 tr table ppl-list 12 3
+新 O 新 0 0 0 0 0 0 0 tr table ppl-list 12 3
+Senior O senior 0 1 0 0 0 0 1 tr table ppl-list 12 5
+Lecturer O lecturer 0 0 0 0 0 0 1 tr table ppl-list 12 5
+7065 O 7065 0 0 0 1 0 0 0 tr table ppl-list 12 7
+eealbert O eealbert 0 0 0 0 0 0 0 td tr link 13 0
+2424 O 2424 0 0 0 1 0 0 0 tr table ppl-list 12 12
+Wireless O wireless 0 0 0 0 0 0 1 td tr ppl-list 13 0
+Communications O communications 0 0 0 0 0 0 1 td tr ppl-list 13 0
+and O and 0 1 0 0 0 0 0 td tr ppl-list 13 0
+Networking O networking 0 0 0 0 0 0 1 td tr ppl-list 13 0
+( O ( 0 0 0 0 0 0 0 td tr ppl-list 13 0
+WCN O wcn 0 0 0 0 0 0 1 td tr ppl-list 13 0
+) O ) 0 0 0 0 0 0 0 td tr ppl-list 13 0

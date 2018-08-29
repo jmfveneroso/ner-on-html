@@ -1,490 +1,529 @@
-Department O 0 0 head html nexus-font-support 4 3
-of O 0 1 head html nexus-font-support 4 3
-Computer O 0 0 head html nexus-font-support 4 3
-Science O 0 0 head html nexus-font-support 4 3
-and O 0 1 head html nexus-font-support 4 3
-Engineering O 0 0 head html nexus-font-support 4 3
-– O 0 0 head html nexus-font-support 4 3
-Profiles O 0 0 head html nexus-font-support 4 3
-— O 0 0 head html nexus-font-support 4 3
-Korea O 0 0 head html nexus-font-support 4 3
-University O 0 1 head html nexus-font-support 4 3
+Department O department 0 0 0 0 0 0 1 head html nexus-font-support 4 3
+of O of 0 1 0 0 0 0 0 head html nexus-font-support 4 3
+Computer O computer 0 0 0 0 0 0 1 head html nexus-font-support 4 3
+Science O science 0 0 0 0 0 0 1 head html nexus-font-support 4 3
+and O and 0 1 0 0 0 0 0 head html nexus-font-support 4 3
+Engineering O engineering 0 0 0 0 0 0 1 head html nexus-font-support 4 3
+– O – 0 0 0 0 0 0 0 head html nexus-font-support 4 3
+Profiles O profiles 0 0 0 0 1 0 1 head html nexus-font-support 4 3
+— O — 0 0 0 0 0 0 0 head html nexus-font-support 4 3
+Korea O korea 0 0 0 0 0 0 1 head html nexus-font-support 4 3
+University O university 0 1 0 0 0 0 1 head html nexus-font-support 4 3
+
+Skip O skip 0 1 0 0 0 0 1 body html sr-only-focusable 4 0
+to O to 0 0 0 0 0 0 0 body html sr-only-focusable 4 0
+main O main 0 0 0 0 0 0 0 body html sr-only-focusable 4 0
+content O content 0 0 0 0 0 0 0 body html sr-only-focusable 4 0
+
+Home O home 0 1 0 0 0 0 1 li ul  11 0
+
+Profiles O profiles 0 0 0 0 1 0 1 a li portal_link 12 0
+
+Research O research 0 1 0 0 0 0 1 a li portal_link 12 0
+Units O units 0 0 0 0 0 0 1 a li portal_link 12 0
+
+Research O research 0 1 0 0 0 0 1 a li portal_link 12 0
+Output O output 0 0 0 0 0 0 1 a li portal_link 12 0
+
+Department O department 0 0 0 0 0 0 1 div div organisation-details 13 0
+of O of 0 1 0 0 0 0 0 div div organisation-details 13 0
+Computer O computer 0 0 0 0 0 0 1 div div organisation-details 13 0
+Science O science 0 0 0 0 0 0 1 div div organisation-details 13 0
+and O and 0 1 0 0 0 0 0 div div organisation-details 13 0
+Engineering O engineering 0 0 0 0 0 0 1 div div organisation-details 13 0
+
+Korea O korea 0 0 0 0 0 0 1 a li link 17 0
+University O university 0 1 0 0 0 0 1 a li link 17 0
+
+College O college 0 0 0 0 0 0 1 a li link 17 0
+of O of 0 1 0 0 0 0 0 a li link 17 0
+Informatics O informatics 0 0 0 0 0 0 1 a li link 17 0
+
+Korea O korea 0 0 0 0 0 0 1 div li country 16 0
+, O , 0 0 0 0 0 0 0 div li country 16 0
+Republic O republic 0 0 0 0 0 0 1 div li country 16 0
+of O of 0 1 0 0 0 0 0 div li country 16 0
+
+Overview O overview 0 0 0 0 0 0 1 span a label 15 1
+
+Fingerprint O fingerprint 0 0 0 0 0 0 1 span a label 15 1
+
+Network O network 0 0 0 0 0 0 1 span a label 15 1
+
+Profiles O profiles 0 0 0 0 1 0 1 span a label 15 1
+( O ( 0 0 0 0 0 0 0 span a count 15 2
+21 O 21 0 0 0 1 0 0 0 span a count 15 2
+) O ) 0 0 0 0 0 0 0 span a count 15 2
+
+Research O research 0 1 0 0 0 0 1 span a label 15 1
+Output O output 0 0 0 0 0 0 1 span a label 15 1
+( O ( 0 0 0 0 0 0 0 span a count 15 2
+1206 O 1206 0 0 0 1 0 0 0 span a count 15 2
+) O ) 0 0 0 0 0 0 0 span a count 15 2
+
+Profiles O profiles 0 0 0 0 1 0 1 h2 header title 11 0
 
-Skip O 0 1 body html sr-only.sr-only-focusable 4 0
-to O 0 0 body html sr-only.sr-only-focusable 4 0
-main O 0 0 body html sr-only.sr-only-focusable 4 0
-content O 0 0 body html sr-only.sr-only-focusable 4 0
+21 O 21 0 0 0 1 0 0 0 ul div search-pager-information 13 0
+results O results 0 0 0 0 0 0 0 ul div search-pager-information 13 0
+
+Last O last 0 1 0 0 0 0 1 li ul search-orderings 14 0
+Name O name 0 1 0 0 0 0 1 li ul search-orderings 14 0
+( O ( 0 0 0 0 0 0 0 a li direction 15 0
+ascending O ascending 0 0 0 0 0 0 0 a li direction 15 0
+) O ) 0 0 0 0 0 0 0 a li direction 15 0
+
+Last O last 0 1 0 0 0 0 1 li ul search-orderings 17 0
+Name O name 0 1 0 0 0 0 1 li ul search-orderings 17 0
+( O ( 0 0 0 0 0 0 0 a li label 18 0
+descending O descending 0 0 0 0 0 0 0 a li label 18 0
+) O ) 0 0 0 0 0 0 0 a li label 18 0
+
+Seung B-PER seung 1 1 0 0 0 0 1 a h2 person 15 0
+Jun I-PER jun 1 1 0 0 0 0 1 a h2 person 15 0
+Baek I-PER baek 1 1 0 0 0 0 1 a h2 person 15 0
+
+sjbaek@korea.ac.kr O sjbaek@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
+
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
+
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
+
+2004 O 2004 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2017 O 2017 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 29
+
+Sungdeok B-PER sungdeok 0 1 0 0 0 0 1 a h2 person 15 0
+Cha I-PER cha 0 1 0 0 0 0 1 a h2 person 15 0
 
-Home O 0 1 li ul  11 0
+scha@korea.ac.kr O scha@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
 
-Profiles O 0 0 a li portal_link 12 0
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
 
-Research O 0 1 a li portal_link 12 0
-Units O 0 0 a li portal_link 12 0
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
 
-Research O 0 1 a li portal_link 12 0
-Output O 0 0 a li portal_link 12 0
+1995 O 1995 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2017 O 2017 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 47
 
-Department O 0 0 div div organisation-details 13 0
-of O 0 1 div div organisation-details 13 0
-Computer O 0 0 div div organisation-details 13 0
-Science O 0 0 div div organisation-details 13 0
-and O 0 1 div div organisation-details 13 0
-Engineering O 0 0 div div organisation-details 13 0
+Yon B-PER yon 1 1 0 0 0 0 1 a h2 person 15 0
+Dohn I-PER dohn 1 1 0 0 0 0 1 a h2 person 15 0
+Chung I-PER chung 1 1 0 0 0 0 1 a h2 person 15 0
 
-Korea O 0 0 a li link 17 0
-University O 0 1 a li link 17 0
+ydchung@korea.ac.kr O ydchung@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
 
-College O 0 0 a li link 17 0
-of O 0 1 a li link 17 0
-Informatics O 0 0 a li link 17 0
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
 
-Korea, O 0 0 div li country 16 0
-Republic O 0 0 div li country 16 0
-of O 0 1 div li country 16 0
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
 
-Overview O 0 0 span a label 15 1
+2000 O 2000 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2017 O 2017 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 38
 
-Fingerprint O 0 0 span a label 15 1
+Hoh B-PER hoh 1 1 0 0 0 0 1 a h2 person 15 0
+In I-PER in 1 1 0 0 0 0 1 a h2 person 15 0
 
-Network O 0 0 span a label 15 1
+hoh_in@korea.ac.kr O hoh_in@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
 
-Profiles O 0 0 span a label 15 1
-(21) O 0 0 span a count 15 2
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
 
-Research O 0 1 span a label 15 1
-Output O 0 0 span a label 15 1
-(1206) O 0 0 span a count 15 2
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
 
-Profiles O 0 0 h2 header title 11 0
+1996 O 1996 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2017 O 2017 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 44
 
-21 O 0 0 ul div search-pager-information 13 0
-results O 0 0 ul div search-pager-information 13 0
+Soon B-PER soon 1 1 0 0 0 0 1 a h2 person 15 0
+Young I-PER young 1 1 0 0 0 0 1 a h2 person 15 0
+Jung I-PER jung 1 1 0 0 0 0 1 a h2 person 15 0
 
-Last O 0 1 li ul dropdown.search-orderings 14 0
-Name O 0 1 li ul dropdown.search-orderings 14 0
-(ascending) O 0 0 a li direction 15 0
+jsy@korea.ac.kr O jsy@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
 
-Last O 0 1 li ul search-orderings 17 0
-Name O 0 1 li ul search-orderings 17 0
-(descending) O 0 0 a li label 18 0
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
 
-Seung B-NAME 1 1 a h2 link.person 15 0
-Jun I-NAME 1 1 a h2 link.person 15 0
-Baek I-NAME 1 1 a h2 link.person 15 0
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
 
-sjbaek@korea.ac.kr O 0 0 a li link 16 0
+1996 O 1996 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2017 O 2017 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 41
 
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
+Sung B-PER sung 0 1 0 0 0 0 1 a h2 person 15 0
+Woo I-PER woo 0 1 0 0 0 0 1 a h2 person 15 0
+Jung I-PER jung 0 1 0 0 0 0 1 a h2 person 15 0
 
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
+swchung@korea.ac.kr O swchung@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
 
-2004 O 0 0 span div stacked-trend-graph-year 14 0
-2017 O 0 0 span div stacked-trend-graph-year 14 29
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
 
-Sungdeok B-NAME 0 1 a h2 link.person 15 0
-Cha I-NAME 0 1 a h2 link.person 15 0
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
 
-scha@korea.ac.kr O 0 0 a li link 16 0
+1997 O 1997 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2017 O 2017 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 42
 
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
+Jaewoo B-PER jaewoo 1 1 0 0 0 0 1 a h2 person 15 0
+Kang I-PER kang 1 1 0 0 0 0 1 a h2 person 15 0
 
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
+kangj@korea.ac.kr O kangj@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
 
-1995 O 0 0 span div stacked-trend-graph-year 14 0
-2017 O 0 0 span div stacked-trend-graph-year 14 47
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
 
-Yon B-NAME 1 1 a h2 link.person 15 0
-Dohn I-NAME 1 1 a h2 link.person 15 0
-Chung I-NAME 1 1 a h2 link.person 15 0
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
 
-ydchung@korea.ac.kr O 0 0 a li link 16 0
+1997 O 1997 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2017 O 2017 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 39
 
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
+Chang B-PER chang 0 1 0 0 0 0 1 a h2 person 15 0
+- I-PER - 0 0 0 0 0 0 0 a h2 person 15 0
+Hun I-PER hun 1 1 0 0 0 0 1 a h2 person 15 0
+Kim I-PER kim 1 1 0 0 0 0 1 a h2 person 15 0
 
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
+chkim@korea.ac.kr O chkim@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
 
-2000 O 0 0 span div stacked-trend-graph-year 14 0
-2017 O 0 0 span div stacked-trend-graph-year 14 38
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
 
-Hoh B-NAME 1 1 a h2 link.person 15 0
-In I-NAME 1 1 a h2 link.person 15 0
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
 
-hoh_in@korea.ac.kr O 0 0 a li link 16 0
+1996 O 1996 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2017 O 2017 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 45
 
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
+Hyeoncheol B-PER hyeoncheol 1 1 0 0 0 0 1 a h2 person 15 0
+Kim I-PER kim 1 1 0 0 0 0 1 a h2 person 15 0
 
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
+harrykim@korea.ac.kr O harrykim@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
 
-1996 O 0 0 span div stacked-trend-graph-year 14 0
-2017 O 0 0 span div stacked-trend-graph-year 14 44
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
 
-Soon B-NAME 1 1 a h2 link.person 15 0
-Young I-NAME 1 1 a h2 link.person 15 0
-Jung I-NAME 1 1 a h2 link.person 15 0
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
 
-jsy@korea.ac.kr O 0 0 a li link 16 0
+2000 O 2000 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2017 O 2017 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 35
 
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
+Hyogon B-PER hyogon 1 1 0 0 0 0 1 a h2 person 15 0
+Kim I-PER kim 1 1 0 0 0 0 1 a h2 person 15 0
 
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
+hyogon@korea.ac.kr O hyogon@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
 
-1996 O 0 0 span div stacked-trend-graph-year 14 0
-2017 O 0 0 span div stacked-trend-graph-year 14 41
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
 
-Sung B-NAME 0 1 a h2 link.person 15 0
-Woo I-NAME 0 1 a h2 link.person 15 0
-Jung I-NAME 0 1 a h2 link.person 15 0
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
 
-swchung@korea.ac.kr O 0 0 a li link 16 0
+1997 O 1997 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2017 O 2017 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 44
 
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
+Jeonghyun B-PER jeonghyun 1 1 0 0 0 0 1 a h2 person 15 0
+Kim I-PER kim 1 1 0 0 0 0 1 a h2 person 15 0
 
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
+gjkim@korea.ac.kr O gjkim@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
 
-1997 O 0 0 span div stacked-trend-graph-year 14 0
-2017 O 0 0 span div stacked-trend-graph-year 14 42
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
 
-Jaewoo B-NAME 1 1 a h2 link.person 15 0
-Kang I-NAME 1 1 a h2 link.person 15 0
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
 
-kangj@korea.ac.kr O 0 0 a li link 16 0
+1990 O 1990 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2017 O 2017 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 55
 
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
+Heejo B-PER heejo 1 1 0 0 0 0 1 a h2 person 15 0
+Lee I-PER lee 1 1 0 0 0 0 1 a h2 person 15 0
 
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
+heejo@korea.ac.kr O heejo@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
 
-1997 O 0 0 span div stacked-trend-graph-year 14 0
-2017 O 0 0 span div stacked-trend-graph-year 14 39
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
 
-Chang-Hun B-NAME 1 1 a h2 link.person 15 0
-Kim I-NAME 1 1 a h2 link.person 15 0
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
 
-chkim@korea.ac.kr O 0 0 a li link 16 0
+1995 O 1995 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2017 O 2017 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 45
 
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
+Kyung B-PER kyung 1 1 0 0 0 0 1 a h2 person 15 0
+Ho I-PER ho 1 1 0 0 0 0 1 a h2 person 15 0
+Lee I-PER lee 1 1 0 0 0 0 1 a h2 person 15 0
 
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
+ghlee@korea.ac.kr O ghlee@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
 
-1996 O 0 0 span div stacked-trend-graph-year 14 0
-2017 O 0 0 span div stacked-trend-graph-year 14 45
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
 
-Hyeoncheol B-NAME 1 1 a h2 link.person 15 0
-Kim I-NAME 1 1 a h2 link.person 15 0
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
 
-harrykim@korea.ac.kr O 0 0 a li link 16 0
+1984 O 1984 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2015 O 2015 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 56
 
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
+Sang B-PER sang 0 1 0 0 0 0 1 a h2 person 15 0
+- I-PER - 0 0 0 0 0 0 0 a h2 person 15 0
+Geun I-PER geun 0 1 0 0 0 0 1 a h2 person 15 0
+Lee I-PER lee 1 1 0 0 0 0 1 a h2 person 15 0
 
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
+yalphy@korea.ac.kr O yalphy@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
 
-2000 O 0 0 span div stacked-trend-graph-year 14 0
-2017 O 0 0 span div stacked-trend-graph-year 14 35
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
 
-Hyogon B-NAME 1 1 a h2 link.person 15 0
-Kim I-NAME 1 1 a h2 link.person 15 0
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
 
-hyogon@korea.ac.kr O 0 0 a li link 16 0
+1996 O 1996 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2017 O 2017 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 43
 
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
+Won B-PER won 0 1 0 0 0 0 1 a h2 person 15 0
+Gyu I-PER gyu 0 1 0 0 0 0 1 a h2 person 15 0
+Lee I-PER lee 1 1 0 0 0 0 1 a h2 person 15 0
 
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
+wglee@korea.ac.kr O wglee@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
 
-1997 O 0 0 span div stacked-trend-graph-year 14 0
-2017 O 0 0 span div stacked-trend-graph-year 14 44
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
 
-Jeonghyun B-NAME 1 1 a h2 link.person 15 0
-Kim I-NAME 1 1 a h2 link.person 15 0
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
 
-gjkim@korea.ac.kr O 0 0 a li link 16 0
+1997 O 1997 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2016 O 2016 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 37
 
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
+Heui B-PER heui 0 1 0 0 0 0 1 a h2 person 15 0
+Seok I-PER seok 0 1 0 0 0 0 1 a h2 person 15 0
+Lim I-PER lim 0 1 0 0 0 0 1 a h2 person 15 0
 
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
+limhseok@korea.ac.kr O limhseok@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
 
-1990 O 0 0 span div stacked-trend-graph-year 14 0
-2017 O 0 0 span div stacked-trend-graph-year 14 55
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
 
-Heejo B-NAME 1 1 a h2 link.person 15 0
-Lee I-NAME 1 1 a h2 link.person 15 0
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
 
-heejo@korea.ac.kr O 0 0 a li link 16 0
+2000 O 2000 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2017 O 2017 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 35
 
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
+Seong B-PER seong 0 1 0 0 0 0 1 a h2 person 15 0
+- I-PER - 0 0 0 0 0 0 0 a h2 person 15 0
+Jun I-PER jun 0 1 0 0 0 0 1 a h2 person 15 0
+Oh I-PER oh 0 1 0 0 0 0 1 a h2 person 15 0
 
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
-
-1995 O 0 0 span div stacked-trend-graph-year 14 0
-2017 O 0 0 span div stacked-trend-graph-year 14 45
-
-Kyung B-NAME 1 1 a h2 link.person 15 0
-Ho I-NAME 1 1 a h2 link.person 15 0
-Lee I-NAME 1 1 a h2 link.person 15 0
-
-ghlee@korea.ac.kr O 0 0 a li link 16 0
-
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
-
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
-
-1984 O 0 0 span div stacked-trend-graph-year 14 0
-2015 O 0 0 span div stacked-trend-graph-year 14 56
-
-Sang-Geun B-NAME 0 1 a h2 link.person 15 0
-Lee I-NAME 1 1 a h2 link.person 15 0
-
-yalphy@korea.ac.kr O 0 0 a li link 16 0
-
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
-
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
-
-1996 O 0 0 span div stacked-trend-graph-year 14 0
-2017 O 0 0 span div stacked-trend-graph-year 14 43
-
-Won B-NAME 0 1 a h2 link.person 15 0
-Gyu I-NAME 0 1 a h2 link.person 15 0
-Lee I-NAME 1 1 a h2 link.person 15 0
-
-wglee@korea.ac.kr O 0 0 a li link 16 0
-
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
-
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
-
-1997 O 0 0 span div stacked-trend-graph-year 14 0
-2016 O 0 0 span div stacked-trend-graph-year 14 37
-
-Heui B-NAME 0 1 a h2 link.person 15 0
-Seok I-NAME 0 1 a h2 link.person 15 0
-Lim I-NAME 0 1 a h2 link.person 15 0
-
-limhseok@korea.ac.kr O 0 0 a li link 16 0
-
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
-
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
-
-2000 O 0 0 span div stacked-trend-graph-year 14 0
-2017 O 0 0 span div stacked-trend-graph-year 14 35
-
-Seong-Jun B-NAME 1 1 a h2 link.person 15 0
-Oh I-NAME 1 1 a h2 link.person 15 0
-
-seongjun@korea.ac.kr O 0 0 a li link 16 0
-
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
-
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
-
-1997 O 0 0 span div stacked-trend-graph-year 14 0
-2017 O 0 0 span div stacked-trend-graph-year 14 42
-
-Seongbin B-NAME 1 1 a h2 link.person 15 0
-Park I-NAME 1 1 a h2 link.person 15 0
-
-hyperspace@korea.ac.kr O 0 0 a li link 16 0
-
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
-
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
-
-1998 O 0 0 span div stacked-trend-graph-year 14 0
-2016 O 0 0 span div stacked-trend-graph-year 14 34
-
-Hae-Chang B-NAME 1 1 a h2 link.person 15 0
-Rim I-NAME 1 1 a h2 link.person 15 0
-
-rim@korea.ac.kr O 0 0 a li link 16 0
-
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
-
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
-
-1998 O 0 0 span div stacked-trend-graph-year 14 0
-2017 O 0 0 span div stacked-trend-graph-year 14 40
-
-Byonghyo B-NAME 1 1 a h2 link.person 15 0
-Shim I-NAME 1 1 a h2 link.person 15 0
-
-bshim@korea.ac.kr O 0 0 a li link 16 0
-
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
-
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
-
-1997 O 0 0 span div stacked-trend-graph-year 14 0
-2017 O 0 0 span div stacked-trend-graph-year 14 41
-
-Dongsuk B-NAME 1 1 a h2 link.person 15 0
-Yook I-NAME 1 1 a h2 link.person 15 0
-
-yook@korea.ac.kr O 0 0 a li link 16 0
-
-Department O 0 0 a li link.organisation 16 0
-of O 0 1 a li link.organisation 16 0
-Computer O 0 0 a li link.organisation 16 0
-Science O 0 0 a li link.organisation 16 0
-and O 0 1 a li link.organisation 16 0
-Engineering O 0 0 a li link.organisation 16 0
-
-Person: O 0 0 p div family 14 0
-Researcher O 0 0 div div type 13 11
-
-2002 O 0 0 span div stacked-trend-graph-year 14 0
-2016 O 0 0 span div stacked-trend-graph-year 14 29
-
-Powered O 0 0 div div footer-column 10 0
-by O 0 1 div div footer-column 10 0
-Pure O 0 1 p div footer-column 11 0
-, O 0 0 div div footer-column 10 0
-Scopus O 0 0 p div footer-column 11 1
-& O 0 0 div div footer-column 10 0
-Elsevier O 0 0 p div footer-column 11 2
-Fingerprint O 0 0 p div footer-column 11 2
-Engine™ O 0 0 p div footer-column 11 2
-© O 0 0 div div footer-column 10 0
-2017 O 0 0 div div footer-column 10 0
-Elsevier O 0 0 p div footer-column 11 3
-B.V O 0 0 p div footer-column 11 3
-. O 0 1 div div footer-column 10 0
-
-Cookies O 0 0 div div footer-column 10 5
-are O 0 0 div div footer-column 10 5
-used O 0 0 div div footer-column 10 5
-by O 0 1 div div footer-column 10 5
-this O 0 0 div div footer-column 10 5
-site. O 0 0 div div footer-column 10 5
-To O 0 1 div div footer-column 10 5
-decline O 0 0 div div footer-column 10 5
-or O 0 0 div div footer-column 10 5
-learn O 0 0 div div footer-column 10 5
-more, O 0 0 div div footer-column 10 5
-visit O 0 0 div div footer-column 10 5
-our O 0 0 div div footer-column 10 5
-Cookies O 0 0 p div footer-column 11 0
-page O 0 0 p div footer-column 11 0
-
-About O 0 0 p div footer-column 11 0
-web O 0 0 p div footer-column 11 0
-accessibility O 0 0 p div footer-column 11 0
+seongjun@korea.ac.kr O seongjun@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
+
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
+
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
+
+1997 O 1997 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2017 O 2017 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 42
+
+Seongbin B-PER seongbin 1 1 0 0 0 0 1 a h2 person 15 0
+Park I-PER park 1 1 0 0 0 0 1 a h2 person 15 0
+
+hyperspace@korea.ac.kr O hyperspace@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
+
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
+
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
+
+1998 O 1998 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2016 O 2016 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 34
+
+Hae B-PER hae 0 1 0 0 0 0 1 a h2 person 15 0
+- I-PER - 0 0 0 0 0 0 0 a h2 person 15 0
+Chang I-PER chang 0 1 0 0 0 0 1 a h2 person 15 0
+Rim I-PER rim 0 1 0 0 0 0 1 a h2 person 15 0
+
+rim@korea.ac.kr O rim@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
+
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
+
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
+
+1998 O 1998 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2017 O 2017 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 40
+
+Byonghyo B-PER byonghyo 1 1 0 0 0 0 1 a h2 person 15 0
+Shim I-PER shim 1 1 0 0 0 0 1 a h2 person 15 0
+
+bshim@korea.ac.kr O bshim@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
+
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
+
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
+
+1997 O 1997 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2017 O 2017 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 41
+
+Dongsuk B-PER dongsuk 1 1 0 0 0 0 1 a h2 person 15 0
+Yook I-PER yook 1 1 0 0 0 0 1 a h2 person 15 0
+
+yook@korea.ac.kr O yook@korea.ac.kr 0 0 1 0 0 0 0 a li link 16 0
+
+Department O department 0 0 0 0 0 0 1 a li organisation 16 0
+of O of 0 1 0 0 0 0 0 a li organisation 16 0
+Computer O computer 0 0 0 0 0 0 1 a li organisation 16 0
+Science O science 0 0 0 0 0 0 1 a li organisation 16 0
+and O and 0 1 0 0 0 0 0 a li organisation 16 0
+Engineering O engineering 0 0 0 0 0 0 1 a li organisation 16 0
+
+Person O person 0 1 0 0 0 0 1 p div family 14 0
+: O : 0 0 0 0 0 0 0 p div family 14 0
+Researcher O researcher 0 0 0 0 0 0 1 div div type 13 11
+
+2002 O 2002 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 0
+2016 O 2016 0 0 0 1 0 0 0 span div stacked-trend-graph-year 14 29
+
+Powered O powered 0 0 0 0 0 0 1 div div footer-column 10 0
+by O by 0 1 0 0 0 0 0 div div footer-column 10 0
+Pure O pure 0 1 0 0 0 0 1 p div footer-column 11 0
+, O , 0 0 0 0 0 0 0 div div footer-column 10 0
+Scopus O scopus 0 0 0 0 0 0 1 p div footer-column 11 1
+& O & 0 0 0 0 0 0 0 div div footer-column 10 0
+Elsevier O elsevier 0 0 0 0 0 0 1 p div footer-column 11 2
+Fingerprint O fingerprint 0 0 0 0 0 0 1 p div footer-column 11 2
+Engine™ O engine™ 0 0 0 0 0 0 1 p div footer-column 11 2
+© O © 0 0 0 0 0 0 0 div div footer-column 10 0
+2017 O 2017 0 0 0 1 0 0 0 div div footer-column 10 0
+Elsevier O elsevier 0 0 0 0 0 0 1 p div footer-column 11 3
+B.V O b.v 0 0 0 0 0 0 1 p div footer-column 11 3
+. O . 0 1 0 0 0 0 0 div div footer-column 10 0
+
+Cookies O cookies 0 0 0 0 0 0 1 div div footer-column 10 5
+are O are 0 0 0 0 0 0 0 div div footer-column 10 5
+used O used 0 0 0 0 0 0 0 div div footer-column 10 5
+by O by 0 1 0 0 0 0 0 div div footer-column 10 5
+this O this 0 0 0 0 0 0 0 div div footer-column 10 5
+site. O site. 0 0 0 0 0 0 0 div div footer-column 10 5
+To O to 0 1 0 0 0 0 1 div div footer-column 10 5
+decline O decline 0 0 0 0 0 0 0 div div footer-column 10 5
+or O or 0 0 0 0 0 0 0 div div footer-column 10 5
+learn O learn 0 0 0 0 0 0 0 div div footer-column 10 5
+more O more 0 0 0 0 0 0 0 div div footer-column 10 5
+, O , 0 0 0 0 0 0 0 div div footer-column 10 5
+visit O visit 0 0 0 0 0 0 0 div div footer-column 10 5
+our O our 0 0 0 0 0 0 0 div div footer-column 10 5
+Cookies O cookies 0 0 0 0 0 0 1 p div footer-column 11 0
+page O page 0 0 0 0 0 0 0 p div footer-column 11 0
+
+About O about 0 0 0 0 0 0 1 p div footer-column 11 0
+web O web 0 0 0 0 0 0 0 p div footer-column 11 0
+accessibility O accessibility 0 0 0 0 0 0 0 p div footer-column 11 0

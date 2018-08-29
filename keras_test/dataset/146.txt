@@ -1,676 +1,733 @@
-Staff O 0 1 head html none 4 0
-Detail O 0 0 head html none 4 0
+Staff O staff 0 1 0 0 0 0 1 head html none 4 0
+Detail O detail 0 0 0 0 0 0 1 head html none 4 0
 
-AIOU O 0 0 meta meta none 8 0
+AIOU O aiou 0 0 0 0 0 0 1 meta meta none 8 0
 
-Toggle O 0 0 button nav sr-only 9 0
-navigation O 0 0 button nav sr-only 9 0
+Toggle O toggle 0 0 0 0 0 0 1 button nav sr-only 9 0
+navigation O navigation 0 0 0 0 0 0 0 button nav sr-only 9 0
 
-Home O 0 1 li ul link-1 11 0
+Home O home 0 1 0 0 0 0 1 li ul link-1 11 0
 
-About O 0 0 li ul dropdown-toggle 11 0
+About O about 0 0 0 0 0 0 1 li ul dropdown-toggle 11 0
 
-Vice O 0 1 li ul dropdown-menu 13 0
-Chancellor O 0 1 li ul dropdown-menu 13 0
-Message O 0 1 li ul dropdown-menu 13 0
+Vice O vice 0 1 0 0 0 0 1 li ul dropdown-menu 13 0
+Chancellor O chancellor 0 1 0 0 0 0 1 li ul dropdown-menu 13 0
+Message O message 0 1 0 0 1 0 1 li ul dropdown-menu 13 0
 
-An O 0 1 li ul dropdown-menu 13 0
-Overview O 0 0 li ul dropdown-menu 13 0
+An O an 0 1 0 0 0 0 1 li ul dropdown-menu 13 0
+Overview O overview 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-Organization O 0 0 li ul dropdown-menu 13 0
+Organization O organization 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-Councils O 0 0 li ul dropdown-submenu 13 0
-and O 0 1 li ul dropdown-submenu 13 0
-Committees O 0 0 li ul dropdown-submenu 13 0
+Councils O councils 0 0 0 0 0 0 1 li ul dropdown-submenu 13 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-submenu 13 0
+Committees O committees 0 0 0 0 0 0 1 li ul dropdown-submenu 13 0
 
-Executive O 0 0 li ul dropdown-menu 15 0
-Council O 0 1 li ul dropdown-menu 15 0
+Executive O executive 0 0 0 0 0 0 1 li ul dropdown-menu 15 0
+Council O council 0 1 0 0 0 0 1 li ul dropdown-menu 15 0
 
-Academic O 0 0 li ul dropdown-menu 15 0
-Council O 0 1 li ul dropdown-menu 15 0
+Academic O academic 0 0 0 0 0 0 1 li ul dropdown-menu 15 0
+Council O council 0 1 0 0 0 0 1 li ul dropdown-menu 15 0
 
-Academic O 0 0 li ul dropdown-menu 15 0
-Planning O 0 0 li ul dropdown-menu 15 0
-and O 0 1 li ul dropdown-menu 15 0
-Development O 0 0 li ul dropdown-menu 15 0
+Academic O academic 0 0 0 0 0 0 1 li ul dropdown-menu 15 0
+Planning O planning 0 0 0 0 0 0 1 li ul dropdown-menu 15 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+Development O development 0 0 0 0 0 0 1 li ul dropdown-menu 15 0
 
-Finance O 0 1 li ul dropdown-menu 15 0
-Committee O 0 0 li ul dropdown-menu 15 0
+Finance O finance 0 1 0 0 0 0 1 li ul dropdown-menu 15 0
+Committee O committee 0 0 0 0 0 0 1 li ul dropdown-menu 15 0
 
-Research O 0 1 li ul dropdown-menu 15 0
-& O 0 0 li ul dropdown-menu 15 0
-Educational O 0 0 li ul dropdown-menu 15 0
-Technology O 0 0 li ul dropdown-menu 15 0
-Committee O 0 0 li ul dropdown-menu 15 0
+Research O research 0 1 0 0 0 0 1 li ul dropdown-menu 15 0
+& O & 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+Educational O educational 0 0 0 0 0 0 1 li ul dropdown-menu 15 0
+Technology O technology 0 0 0 0 0 0 1 li ul dropdown-menu 15 0
+Committee O committee 0 0 0 0 0 0 1 li ul dropdown-menu 15 0
 
-Selection O 0 0 li ul dropdown-menu 15 0
-Board O 0 1 li ul dropdown-menu 15 0
+Selection O selection 0 0 0 0 0 0 1 li ul dropdown-menu 15 0
+Board O board 0 1 0 0 0 0 1 li ul dropdown-menu 15 0
 
-Teaching O 0 0 li ul dropdown-menu 13 0
-Methodology O 0 0 li ul dropdown-menu 13 0
+Teaching O teaching 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+Methodology O methodology 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-Regional O 0 0 li ul dropdown-menu 13 0
-Outreach O 0 0 li ul dropdown-menu 13 0
+Regional O regional 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+Outreach O outreach 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-Campus O 0 1 li ul dropdown-menu 13 0
-Location O 0 0 li ul dropdown-menu 13 0
+Campus O campus 0 1 0 0 0 0 1 li ul dropdown-menu 13 0
+Location O location 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-Faculties O 0 0 li ul dropdown-toggle 11 0
+Faculties O faculties 0 0 0 0 0 0 1 li ul dropdown-toggle 11 0
 
-Faculty O 0 0 li ul dropdown-menu 13 0
-of O 0 1 li ul dropdown-menu 13 0
-Arabic O 0 0 li ul dropdown-menu 13 0
-& O 0 0 li ul dropdown-menu 13 0
-Islamic O 0 0 li ul dropdown-menu 13 0
-Studies O 0 0 li ul dropdown-menu 13 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 13 0
+Arabic O arabic 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+& O & 0 0 0 0 0 0 0 li ul dropdown-menu 13 0
+Islamic O islamic 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+Studies O studies 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-Faculty O 0 0 li ul dropdown-menu 13 0
-of O 0 1 li ul dropdown-menu 13 0
-Education O 0 0 li ul dropdown-menu 13 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 13 0
+Education O education 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-Faculty O 0 0 li ul dropdown-menu 13 0
-of O 0 1 li ul dropdown-menu 13 0
-Science O 0 0 li ul dropdown-menu 13 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 13 0
+Science O science 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-Faculty O 0 0 li ul dropdown-menu 13 0
-of O 0 1 li ul dropdown-menu 13 0
-Social O 0 0 li ul dropdown-menu 13 0
-Sciences O 0 0 li ul dropdown-menu 13 0
-& O 0 0 li ul dropdown-menu 13 0
-Humanities O 0 0 li ul dropdown-menu 13 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 13 0
+Social O social 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+& O & 0 0 0 0 0 0 0 li ul dropdown-menu 13 0
+Humanities O humanities 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-Departments O 0 0 li ul dropdown-toggle 11 0
+Departments O departments 0 0 0 0 0 0 1 li ul dropdown-toggle 11 0
 
-Academic O 0 0 li ul dropdown-submenu 13 0
-Departments O 0 0 li ul dropdown-submenu 13 0
+Academic O academic 0 0 0 0 0 0 1 li ul dropdown-submenu 13 0
+Departments O departments 0 0 0 0 0 0 1 li ul dropdown-submenu 13 0
+
+agricultural O agricultural 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+sciences O sciences 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
 
-agricultural O 0 0 li ul dropdown-menu 15 0
-sciences O 0 0 li ul dropdown-menu 15 0
+arabic O arabic 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
 
-arabic O 0 0 li ul dropdown-menu 15 0
+biology O biology 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
 
-biology O 0 0 li ul dropdown-menu 15 0
+business O business 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+administration O administration 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
 
-business O 0 0 li ul dropdown-menu 15 0
-administration O 0 0 li ul dropdown-menu 15 0
+Bureau O bureau 0 1 0 0 0 0 1 li ul dropdown-menu 15 0
+For O for 0 1 0 0 0 0 1 li ul dropdown-menu 15 0
+University O university 0 1 0 0 0 0 1 li ul dropdown-menu 15 0
+Extension O extension 0 0 0 0 0 0 1 li ul dropdown-menu 15 0
+And O and 0 1 0 0 0 0 1 li ul dropdown-menu 15 0
+Special O special 0 1 0 0 0 0 1 li ul dropdown-menu 15 0
+Programmes O programmes 0 0 0 0 0 0 1 li ul dropdown-menu 15 0
+/ O / 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+Projects O projects 0 0 0 0 0 0 1 li ul dropdown-menu 15 0
+
+centre O centre 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+for O for 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+instructional O instructional 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+design O design 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+chemistry O chemistry 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+commerce O commerce 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+commonwealth O commonwealth 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+MBA O mba 0 0 0 0 0 0 1 li ul dropdown-menu 15 0
+/ O / 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+MPA O mpa 0 0 0 0 0 0 1 li ul dropdown-menu 15 0
+
+commonwealth O commonwealth 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+youth O youth 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+program O program 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+computer O computer 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+science O science 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+department O department 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+economics O economics 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+department O department 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+french O french 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+department O department 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+mass O mass 0 0 0 0 1 0 0 li ul dropdown-menu 15 0
+communication O communication 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+department O department 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+mathematics O mathematics 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+department O department 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+statistics O statistics 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+department O department 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+urdu O urdu 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+distance O distance 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+, O , 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+non O non 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+- O - 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+formal O formal 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+continuing O continuing 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+education O education 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+early O early 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+childhood O childhood 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+education O education 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+& O & 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+elementary O elementary 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+teacher O teacher 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+education O education 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+educational O educational 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+planning O planning 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+, O , 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+policy O policy 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+studies O studies 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+leadership O leadership 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+engineering O engineering 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+technology O technology 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+english O english 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+language O language 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+applied O applied 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+linguistics O linguistics 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+environmental O environmental 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+sciences O sciences 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+fiqh O fiqh 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+islamic O islamic 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+law O law 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+gender O gender 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+women O women 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+studies O studies 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+hadith O hadith 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+seerah O seerah 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+history O history 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+department O department 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+home O home 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+health O health 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+sciences O sciences 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+institute O institute 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+engineering O engineering 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+technology O technology 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+iqbal O iqbal 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+studies O studies 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+islamic O islamic 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+thought O thought 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+, O , 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+history O history 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+culture O culture 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+library O library 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+information O information 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+sciences O sciences 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+pakistan O pakistan 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+studies O studies 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+pakistani O pakistani 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+language O language 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+physics O physics 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+quran O quran 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+tafseer O tafseer 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+S.T.E.P O s.t.e.p 0 0 0 0 0 0 1 li ul dropdown-menu 15 0
+
+science O science 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+education O education 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+secondary O secondary 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+teacher O teacher 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+education O education 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+sociology O sociology 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+, O , 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+social O social 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+work O work 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+& O & 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+pop. O pop. 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+studies O studies 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+special O special 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+education O education 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+Administrative O administrative 0 0 0 0 0 0 1 li ul dropdown-submenu 13 0
+Departments O departments 0 0 0 0 0 0 1 li ul dropdown-submenu 13 0
+
+audit O audit 0 0 0 0 1 0 0 li ul dropdown-menu 15 0
+
+registrar O registrar 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+department O department 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+treasurer O treasurer 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+office O office 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+vice O vice 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+chancellor O chancellor 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+office O office 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+Servicing O servicing 0 0 0 0 0 0 1 li ul dropdown-submenu 13 0
+Departments O departments 0 0 0 0 0 0 1 li ul dropdown-submenu 13 0
+
+institute O institute 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+educational O educational 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+technology O technology 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+admission O admission 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+department O department 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+( O ( 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+general O general 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+) O ) 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+central O central 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+library O library 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+computer O computer 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+center O center 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+directorate O directorate 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+students O students 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+advisory O advisory 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+& O & 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+counselling O counselling 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+services O services 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+directorate O directorate 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+academic O academic 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+planning O planning 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+& O & 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+course O course 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+production O production 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+directorate O directorate 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+basr O basr 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+directorate O directorate 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+information O information 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+& O & 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+communication O communication 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+technology O technology 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+directorate O directorate 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+overseas O overseas 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+education O education 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+& O & 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+e O e 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+- O - 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+learning O learning 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+directorate O directorate 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+quality O quality 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+enhancement O enhancement 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+directorate O directorate 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+regional O regional 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+services O services 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+editing O editing 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+cell O cell 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+examination O examination 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+mailing O mailing 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+section O section 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+office O office 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+research O research 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+, O , 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+innovation O innovation 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-menu 15 0
+commercialization O commercialization 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+print O print 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+production O production 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+unit O unit 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+project O project 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+directorate O directorate 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+public O public 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+relations O relations 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+office O office 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+regional O regional 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+examinations O examinations 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+office O office 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+, O , 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+lahore O lahore 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+wafaqi O wafaqi 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+mohtasib O mohtasib 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+cell O cell 0 0 0 0 0 0 0 li ul dropdown-menu 15 0
+
+Programmes O programmes 0 0 0 0 0 0 1 li ul dropdown-toggle 11 0
+
+Ph.D O ph.d 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+Programmes O programmes 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+
+M. O m. 0 1 0 0 0 0 1 li ul dropdown-menu 13 0
+Phil O phil 0 1 0 0 0 0 1 li ul dropdown-menu 13 0
+/ O / 0 0 0 0 0 0 0 li ul dropdown-menu 13 0
+MS O ms 0 1 0 0 0 0 1 li ul dropdown-menu 13 0
+Programmes O programmes 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+
+Master O master 0 1 0 0 1 0 1 li ul dropdown-menu 13 0
+' O ' 0 0 0 0 0 0 0 li ul dropdown-menu 13 0
+s O s 0 0 0 0 0 0 0 li ul dropdown-menu 13 0
+Programmes O programmes 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+
+B.Ed O b.ed 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+Programme O programme 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+
+Bachelor O bachelor 0 1 0 0 0 0 1 li ul dropdown-menu 13 0
+Programmes O programmes 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-Bureau O 0 1 li ul dropdown-menu 15 0
-For O 0 1 li ul dropdown-menu 15 0
-University O 0 1 li ul dropdown-menu 15 0
-Extension O 0 0 li ul dropdown-menu 15 0
-And O 0 1 li ul dropdown-menu 15 0
-Special O 0 1 li ul dropdown-menu 15 0
-Programmes O 0 0 li ul dropdown-menu 15 0
-/ O 0 0 li ul dropdown-menu 15 0
-Projects O 0 0 li ul dropdown-menu 15 0
-
-centre O 0 0 li ul dropdown-menu 15 0
-for O 0 1 li ul dropdown-menu 15 0
-instructional O 0 0 li ul dropdown-menu 15 0
-design O 0 0 li ul dropdown-menu 15 0
-
-chemistry O 0 0 li ul dropdown-menu 15 0
-
-commerce O 0 0 li ul dropdown-menu 15 0
-
-commonwealth O 0 0 li ul dropdown-menu 15 0
-MBA O 0 0 li ul dropdown-menu 15 0
-/ O 0 0 li ul dropdown-menu 15 0
-MPA O 0 0 li ul dropdown-menu 15 0
-
-commonwealth O 0 0 li ul dropdown-menu 15 0
-youth O 0 0 li ul dropdown-menu 15 0
-program O 0 0 li ul dropdown-menu 15 0
-
-computer O 0 0 li ul dropdown-menu 15 0
-science O 0 0 li ul dropdown-menu 15 0
-
-department O 0 0 li ul dropdown-menu 15 0
-of O 0 1 li ul dropdown-menu 15 0
-economics O 0 0 li ul dropdown-menu 15 0
-
-department O 0 0 li ul dropdown-menu 15 0
-of O 0 1 li ul dropdown-menu 15 0
-french O 0 0 li ul dropdown-menu 15 0
-
-department O 0 0 li ul dropdown-menu 15 0
-of O 0 1 li ul dropdown-menu 15 0
-mass O 0 0 li ul dropdown-menu 15 0
-communication O 0 0 li ul dropdown-menu 15 0
-
-department O 0 0 li ul dropdown-menu 15 0
-of O 0 1 li ul dropdown-menu 15 0
-mathematics O 0 0 li ul dropdown-menu 15 0
-
-department O 0 0 li ul dropdown-menu 15 0
-of O 0 1 li ul dropdown-menu 15 0
-statistics O 0 0 li ul dropdown-menu 15 0
-
-department O 0 0 li ul dropdown-menu 15 0
-of O 0 1 li ul dropdown-menu 15 0
-urdu O 0 0 li ul dropdown-menu 15 0
-
-distance, O 0 0 li ul dropdown-menu 15 0
-non-formal O 0 0 li ul dropdown-menu 15 0
-and O 0 1 li ul dropdown-menu 15 0
-continuing O 0 0 li ul dropdown-menu 15 0
-education O 0 0 li ul dropdown-menu 15 0
-
-early O 0 0 li ul dropdown-menu 15 0
-childhood O 0 0 li ul dropdown-menu 15 0
-education O 0 0 li ul dropdown-menu 15 0
-& O 0 0 li ul dropdown-menu 15 0
-elementary O 0 0 li ul dropdown-menu 15 0
-teacher O 0 0 li ul dropdown-menu 15 0
-education O 0 0 li ul dropdown-menu 15 0
-
-educational O 0 0 li ul dropdown-menu 15 0
-planning, O 0 0 li ul dropdown-menu 15 0
-policy O 0 0 li ul dropdown-menu 15 0
-studies O 0 0 li ul dropdown-menu 15 0
-and O 0 1 li ul dropdown-menu 15 0
-leadership O 0 0 li ul dropdown-menu 15 0
-
-engineering O 0 0 li ul dropdown-menu 15 0
-and O 0 1 li ul dropdown-menu 15 0
-technology O 0 0 li ul dropdown-menu 15 0
-
-english O 0 0 li ul dropdown-menu 15 0
-language O 0 0 li ul dropdown-menu 15 0
-and O 0 1 li ul dropdown-menu 15 0
-applied O 0 0 li ul dropdown-menu 15 0
-linguistics O 0 0 li ul dropdown-menu 15 0
-
-environmental O 0 0 li ul dropdown-menu 15 0
-sciences O 0 0 li ul dropdown-menu 15 0
-
-fiqh O 0 0 li ul dropdown-menu 15 0
-and O 0 1 li ul dropdown-menu 15 0
-islamic O 0 0 li ul dropdown-menu 15 0
-law O 0 0 li ul dropdown-menu 15 0
-
-gender O 0 0 li ul dropdown-menu 15 0
-and O 0 1 li ul dropdown-menu 15 0
-women O 0 0 li ul dropdown-menu 15 0
-studies O 0 0 li ul dropdown-menu 15 0
-
-hadith O 0 0 li ul dropdown-menu 15 0
-and O 0 1 li ul dropdown-menu 15 0
-seerah O 0 0 li ul dropdown-menu 15 0
-
-history O 0 0 li ul dropdown-menu 15 0
-department O 0 0 li ul dropdown-menu 15 0
-
-home O 0 0 li ul dropdown-menu 15 0
-and O 0 1 li ul dropdown-menu 15 0
-health O 0 0 li ul dropdown-menu 15 0
-sciences O 0 0 li ul dropdown-menu 15 0
-
-institute O 0 0 li ul dropdown-menu 15 0
-of O 0 1 li ul dropdown-menu 15 0
-engineering O 0 0 li ul dropdown-menu 15 0
-technology O 0 0 li ul dropdown-menu 15 0
-
-iqbal O 0 0 li ul dropdown-menu 15 0
-studies O 0 0 li ul dropdown-menu 15 0
-
-islamic O 0 0 li ul dropdown-menu 15 0
-thought, O 0 0 li ul dropdown-menu 15 0
-history O 0 0 li ul dropdown-menu 15 0
-and O 0 1 li ul dropdown-menu 15 0
-culture O 0 0 li ul dropdown-menu 15 0
-
-library O 0 0 li ul dropdown-menu 15 0
-and O 0 1 li ul dropdown-menu 15 0
-information O 0 0 li ul dropdown-menu 15 0
-sciences O 0 0 li ul dropdown-menu 15 0
-
-pakistan O 0 0 li ul dropdown-menu 15 0
-studies O 0 0 li ul dropdown-menu 15 0
-
-pakistani O 0 0 li ul dropdown-menu 15 0
-language O 0 0 li ul dropdown-menu 15 0
-
-physics O 0 0 li ul dropdown-menu 15 0
-
-quran O 0 0 li ul dropdown-menu 15 0
-and O 0 1 li ul dropdown-menu 15 0
-tafseer O 0 0 li ul dropdown-menu 15 0
-
-S.T.E.P O 0 0 li ul dropdown-menu 15 0
-
-science O 0 0 li ul dropdown-menu 15 0
-education O 0 0 li ul dropdown-menu 15 0
-
-secondary O 0 0 li ul dropdown-menu 15 0
-teacher O 0 0 li ul dropdown-menu 15 0
-education O 0 0 li ul dropdown-menu 15 0
-
-sociology, O 0 0 li ul dropdown-menu 15 0
-social O 0 0 li ul dropdown-menu 15 0
-work O 0 0 li ul dropdown-menu 15 0
-& O 0 0 li ul dropdown-menu 15 0
-pop. O 0 0 li ul dropdown-menu 15 0
-studies O 0 0 li ul dropdown-menu 15 0
-
-special O 0 0 li ul dropdown-menu 15 0
-education O 0 0 li ul dropdown-menu 15 0
-
-Administrative O 0 0 li ul dropdown-submenu 13 0
-Departments O 0 0 li ul dropdown-submenu 13 0
-
-audit O 0 0 li ul dropdown-menu 15 0
-
-registrar O 0 0 li ul dropdown-menu 15 0
-department O 0 0 li ul dropdown-menu 15 0
-
-treasurer O 0 0 li ul dropdown-menu 15 0
-office O 0 0 li ul dropdown-menu 15 0
-
-vice O 0 0 li ul dropdown-menu 15 0
-chancellor O 0 0 li ul dropdown-menu 15 0
-office O 0 0 li ul dropdown-menu 15 0
-
-Servicing O 0 0 li ul dropdown-submenu 13 0
-Departments O 0 0 li ul dropdown-submenu 13 0
-
-institute O 0 0 li ul dropdown-menu 15 0
-of O 0 1 li ul dropdown-menu 15 0
-educational O 0 0 li ul dropdown-menu 15 0
-technology O 0 0 li ul dropdown-menu 15 0
-
-admission O 0 0 li ul dropdown-menu 15 0
-department O 0 0 li ul dropdown-menu 15 0
-(general) O 0 0 li ul dropdown-menu 15 0
-
-central O 0 0 li ul dropdown-menu 15 0
-library O 0 0 li ul dropdown-menu 15 0
-
-computer O 0 0 li ul dropdown-menu 15 0
-center O 0 0 li ul dropdown-menu 15 0
-
-directorate O 0 0 li ul dropdown-menu 15 0
-of O 0 1 li ul dropdown-menu 15 0
-students O 0 0 li ul dropdown-menu 15 0
-advisory O 0 0 li ul dropdown-menu 15 0
-& O 0 0 li ul dropdown-menu 15 0
-counselling O 0 0 li ul dropdown-menu 15 0
-services O 0 0 li ul dropdown-menu 15 0
-
-directorate O 0 0 li ul dropdown-menu 15 0
-of O 0 1 li ul dropdown-menu 15 0
-academic O 0 0 li ul dropdown-menu 15 0
-planning O 0 0 li ul dropdown-menu 15 0
-& O 0 0 li ul dropdown-menu 15 0
-course O 0 0 li ul dropdown-menu 15 0
-production O 0 0 li ul dropdown-menu 15 0
-
-directorate O 0 0 li ul dropdown-menu 15 0
-of O 0 1 li ul dropdown-menu 15 0
-basr O 0 0 li ul dropdown-menu 15 0
-
-directorate O 0 0 li ul dropdown-menu 15 0
-of O 0 1 li ul dropdown-menu 15 0
-information O 0 0 li ul dropdown-menu 15 0
-& O 0 0 li ul dropdown-menu 15 0
-communication O 0 0 li ul dropdown-menu 15 0
-technology O 0 0 li ul dropdown-menu 15 0
-
-directorate O 0 0 li ul dropdown-menu 15 0
-of O 0 1 li ul dropdown-menu 15 0
-overseas O 0 0 li ul dropdown-menu 15 0
-education O 0 0 li ul dropdown-menu 15 0
-& O 0 0 li ul dropdown-menu 15 0
-e-learning O 0 0 li ul dropdown-menu 15 0
-
-directorate O 0 0 li ul dropdown-menu 15 0
-of O 0 1 li ul dropdown-menu 15 0
-quality O 0 0 li ul dropdown-menu 15 0
-enhancement O 0 0 li ul dropdown-menu 15 0
-
-directorate O 0 0 li ul dropdown-menu 15 0
-of O 0 1 li ul dropdown-menu 15 0
-regional O 0 0 li ul dropdown-menu 15 0
-services O 0 0 li ul dropdown-menu 15 0
-
-editing O 0 0 li ul dropdown-menu 15 0
-cell O 0 0 li ul dropdown-menu 15 0
-
-examination O 0 0 li ul dropdown-menu 15 0
+Intermediate O intermediate 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-mailing O 0 0 li ul dropdown-menu 15 0
-section O 0 0 li ul dropdown-menu 15 0
+Secondary O secondary 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+School O school 0 1 0 0 0 0 1 li ul dropdown-menu 13 0
+Certificate O certificate 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-office O 0 0 li ul dropdown-menu 15 0
-of O 0 1 li ul dropdown-menu 15 0
-research,innovation O 0 0 li ul dropdown-menu 15 0
-and O 0 1 li ul dropdown-menu 15 0
-commercialization O 0 0 li ul dropdown-menu 15 0
+Post O post 0 1 0 0 0 0 1 li ul dropdown-menu 13 0
+Graduate O graduate 1 1 0 0 0 0 1 li ul dropdown-menu 13 0
+Diploma O diploma 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-print O 0 0 li ul dropdown-menu 15 0
-production O 0 0 li ul dropdown-menu 15 0
-unit O 0 0 li ul dropdown-menu 15 0
+STEP O step 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+/ O / 0 0 0 0 0 0 0 li ul dropdown-menu 13 0
+Certificate O certificate 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+Courses O courses 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-project O 0 0 li ul dropdown-menu 15 0
-directorate O 0 0 li ul dropdown-menu 15 0
+Research O research 0 1 0 0 0 0 1 li ul dropdown-toggle 11 0
 
-public O 0 0 li ul dropdown-menu 15 0
-relations O 0 0 li ul dropdown-menu 15 0
-office O 0 0 li ul dropdown-menu 15 0
+Research O research 0 1 0 0 0 0 1 li ul dropdown-menu 13 0
+Journals O journals 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-regional O 0 0 li ul dropdown-menu 15 0
-examinations O 0 0 li ul dropdown-menu 15 0
-office, O 0 0 li ul dropdown-menu 15 0
-lahore O 0 0 li ul dropdown-menu 15 0
+Research O research 0 1 0 0 0 0 1 li ul dropdown-menu 13 0
+Conferences O conferences 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-wafaqi O 0 0 li ul dropdown-menu 15 0
-mohtasib O 0 0 li ul dropdown-menu 15 0
-cell O 0 0 li ul dropdown-menu 15 0
+Libraries O libraries 0 0 0 0 0 0 1 li ul dropdown-toggle 11 0
 
-Programmes O 0 0 li ul dropdown-toggle 11 0
+AIOU O aiou 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+Library O library 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-Ph.D O 0 0 li ul dropdown-menu 13 0
-Programmes O 0 0 li ul dropdown-menu 13 0
+Ebrary O ebrary 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-M. O 0 1 li ul dropdown-menu 13 0
-Phil O 0 1 li ul dropdown-menu 13 0
-/ O 0 0 li ul dropdown-menu 13 0
-MS O 0 1 li ul dropdown-menu 13 0
-Programmes O 0 0 li ul dropdown-menu 13 0
+National O national 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+Digital O digital 0 1 0 0 0 0 1 li ul dropdown-menu 13 0
+Library O library 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-Master's O 0 0 li ul dropdown-menu 13 0
-Programmes O 0 0 li ul dropdown-menu 13 0
+News O news 0 0 0 0 0 0 1 li ul dropdown-toggle 11 0
+Letters O letters 0 1 0 0 0 0 1 li ul dropdown-toggle 11 0
 
-B.Ed O 0 0 li ul dropdown-menu 13 0
-Programme O 0 0 li ul dropdown-menu 13 0
+AIOU O aiou 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+News O news 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
+& O & 0 0 0 0 0 0 0 li ul dropdown-menu 13 0
+Views O views 0 0 0 0 0 0 1 li ul dropdown-menu 13 0
 
-Bachelor O 0 1 li ul dropdown-menu 13 0
-Programmes O 0 0 li ul dropdown-menu 13 0
+Jamia O jamia 0 1 0 0 0 0 1 li ul dropdown-menu 13 0
+Nama O nama 0 1 0 0 0 0 1 li ul dropdown-menu 13 0
 
-Intermediate O 0 0 li ul dropdown-menu 13 0
+Jobs O jobs 0 1 0 0 0 0 1 li ul link-1 11 0
 
-Secondary O 0 0 li ul dropdown-menu 13 0
-School O 0 1 li ul dropdown-menu 13 0
-Certificate O 0 0 li ul dropdown-menu 13 0
+Contact O contact 0 0 0 0 0 0 1 li [document] link-1 3 0
+Us O us 0 1 0 0 0 0 1 li [document] link-1 3 0
 
-Post O 0 1 li ul dropdown-menu 13 0
-Graduate O 1 1 li ul dropdown-menu 13 0
-Diploma O 0 0 li ul dropdown-menu 13 0
+Toggle O toggle 0 0 0 0 0 0 1 button nav sr-only 5 0
+navigation O navigation 0 0 0 0 0 0 0 button nav sr-only 5 0
 
-STEP O 0 0 li ul dropdown-menu 13 0
-/ O 0 0 li ul dropdown-menu 13 0
-Certificate O 0 0 li ul dropdown-menu 13 0
-Courses O 0 0 li ul dropdown-menu 13 0
+Admissions O admissions 0 0 0 0 0 0 1 li ul dropdown-toggle 7 0
 
-Research O 0 1 li ul dropdown-toggle 11 0
+Admission O admission 0 0 0 0 0 0 1 li ul dropdown-menu 9 0
+Calender O calender 0 0 0 0 0 0 1 li ul dropdown-menu 9 0
 
-Research O 0 1 li ul dropdown-menu 13 0
-Journals O 0 0 li ul dropdown-menu 13 0
+New O new 0 1 0 0 0 0 1 li ul dropdown-menu 9 0
+Student O student 0 1 0 0 0 0 1 li ul dropdown-menu 9 0
 
-Research O 0 1 li ul dropdown-menu 13 0
-Conferences O 0 0 li ul dropdown-menu 13 0
+Continuing O continuing 0 0 0 0 0 0 1 li ul dropdown-menu 9 0
+Student O student 0 1 0 0 0 0 1 li ul dropdown-menu 9 0
 
-Libraries O 0 0 li ul dropdown-toggle 11 0
+Programmes O programmes 0 0 0 0 0 0 1 li ul dropdown-menu 9 0
 
-AIOU O 0 0 li ul dropdown-menu 13 0
-Library O 0 0 li ul dropdown-menu 13 0
+Eligibility O eligibility 0 0 0 0 0 0 1 li ul dropdown-menu 9 0
 
-Ebrary O 0 0 li ul dropdown-menu 13 0
+Online O online 0 0 0 0 0 0 1 li ul dropdown-submenu 9 0
+Services O services 0 0 0 0 0 0 1 li ul dropdown-submenu 9 0
 
-National O 0 0 li ul dropdown-menu 13 0
-Digital O 0 1 li ul dropdown-menu 13 0
-Library O 0 0 li ul dropdown-menu 13 0
+Admission O admission 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Confirmation O confirmation 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
 
-News O 0 0 li ul dropdown-toggle 11 0
-Letters O 0 1 li ul dropdown-toggle 11 0
+Old O old 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+Objections O objections 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Admission O admission 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Forms O forms 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
 
-AIOU O 0 0 li ul dropdown-menu 13 0
-News O 0 0 li ul dropdown-menu 13 0
-& O 0 0 li ul dropdown-menu 13 0
-Views O 0 0 li ul dropdown-menu 13 0
+Current O current 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+Objections O objections 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Admission O admission 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Forms O forms 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
 
-Jamia O 0 1 li ul dropdown-menu 13 0
-Nama O 0 1 li ul dropdown-menu 13 0
+Admission O admission 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Amendements O amendements 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
 
-Jobs O 0 1 li ul link-1 11 0
+Refund O refund 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 11 0
+Fee O fee 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
 
-Contact O 0 0 li [document] link-1 3 0
-Us O 0 1 li [document] link-1 3 0
+Books O books 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Dispatch O dispatch 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Inquiry O inquiry 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
 
-Toggle O 0 0 button nav sr-only 5 0
-navigation O 0 0 button nav sr-only 5 0
+FAQs O faqs 0 0 0 0 0 0 1 li ul dropdown-menu 9 0
 
-Admissions O 0 0 li ul dropdown-toggle 7 0
+| O | 0 0 0 0 0 0 0 li ul navbar-left 7 0
 
-Admission O 0 0 li ul dropdown-menu 9 0
-Calender O 0 0 li ul dropdown-menu 9 0
+Mailing O mailing 0 1 0 0 0 0 1 li ul link-1 7 0
 
-New O 0 1 li ul dropdown-menu 9 0
-Student O 0 1 li ul dropdown-menu 9 0
+| O | 0 0 0 0 0 0 0 li ul navbar-left 7 0
 
-Continuing O 0 0 li ul dropdown-menu 9 0
-Student O 0 1 li ul dropdown-menu 9 0
+Examination O examination 0 0 0 0 0 0 1 li ul link-1 7 0
 
-Programmes O 0 0 li ul dropdown-menu 9 0
+Examination O examination 0 0 0 0 0 0 1 li ul dropdown-menu 9 0
 
-Eligibility O 0 0 li ul dropdown-menu 9 0
+Online O online 0 0 0 0 0 0 1 li ul dropdown-submenu 9 0
+Services O services 0 0 0 0 0 0 1 li ul dropdown-submenu 9 0
 
-Online O 0 0 li ul dropdown-submenu 9 0
-Services O 0 0 li ul dropdown-submenu 9 0
+Date O date 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+Sheet O sheet 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
 
-Admission O 0 0 li ul dropdown-menu 11 0
-Confirmation O 0 0 li ul dropdown-menu 11 0
+Rollno O rollno 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Slips O slips 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
 
-Old O 0 1 li ul dropdown-menu 11 0
-Objections O 0 0 li ul dropdown-menu 11 0
-Admission O 0 0 li ul dropdown-menu 11 0
-Forms O 0 0 li ul dropdown-menu 11 0
+Assignment O assignment 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Marks O marks 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
 
-Current O 0 1 li ul dropdown-menu 11 0
-Objections O 0 0 li ul dropdown-menu 11 0
-Admission O 0 0 li ul dropdown-menu 11 0
-Forms O 0 0 li ul dropdown-menu 11 0
+Results O results 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Detail O detail 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
 
-Admission O 0 0 li ul dropdown-menu 11 0
-Amendements O 0 0 li ul dropdown-menu 11 0
+Provisional O provisional 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Certificate O certificate 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
 
-Refund O 0 0 li ul dropdown-menu 11 0
-of O 0 1 li ul dropdown-menu 11 0
-Fee O 0 1 li ul dropdown-menu 11 0
+Degree O degree 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Tracking O tracking 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+System O system 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
 
-Books O 0 0 li ul dropdown-menu 11 0
-Dispatch O 0 0 li ul dropdown-menu 11 0
-Inquiry O 0 0 li ul dropdown-menu 11 0
+| O | 0 0 0 0 0 0 0 li ul navbar-left 7 0
 
-FAQs O 0 0 li ul dropdown-menu 9 0
+Live O live 0 1 0 0 0 0 1 li ul dropdown-toggle 7 0
+Media O media 0 1 0 0 0 0 1 li ul dropdown-toggle 7 0
 
-| O 0 0 li ul nav.navbar-nav.navbar-left 7 0
+FM O fm 0 0 0 0 0 0 1 li ul dropdown-menu 9 0
+Radio O radio 0 1 0 0 0 0 1 li ul dropdown-menu 9 0
 
-Mailing O 0 1 li ul link-1 7 0
+Live O live 0 1 0 0 0 0 1 li ul dropdown-menu 9 0
+TV O tv 0 1 0 0 0 0 1 li ul dropdown-menu 9 0
 
-| O 0 0 li ul nav.navbar-nav.navbar-left 7 0
+Video O video 0 0 0 0 0 0 1 li ul dropdown-menu 9 0
+on O on 0 0 0 0 0 0 0 li ul dropdown-menu 9 0
+Demand O demand 0 1 0 0 0 0 1 li ul dropdown-menu 9 0
 
-Examination O 0 0 li ul link-1 7 0
+| O | 0 0 0 0 0 0 0 li ul navbar-left 7 0
 
-Examination O 0 0 li ul dropdown-menu 9 0
+Downloads O downloads 0 0 0 0 0 0 1 li ul link-1 7 0
 
-Online O 0 0 li ul dropdown-submenu 9 0
-Services O 0 0 li ul dropdown-submenu 9 0
+| O | 0 0 0 0 0 0 0 li ul navbar-left 7 0
 
-Date O 0 1 li ul dropdown-menu 11 0
-Sheet O 0 1 li ul dropdown-menu 11 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul link-1 7 0
 
-Rollno O 0 0 li ul dropdown-menu 11 0
-Slips O 0 1 li ul dropdown-menu 11 0
-
-Assignment O 0 0 li ul dropdown-menu 11 0
-Marks O 0 1 li ul dropdown-menu 11 0
-
-Results O 0 0 li ul dropdown-menu 11 0
-Detail O 0 0 li ul dropdown-menu 11 0
-
-Provisional O 0 0 li ul dropdown-menu 11 0
-Certificate O 0 0 li ul dropdown-menu 11 0
-
-Degree O 0 0 li ul dropdown-menu 11 0
-Tracking O 0 0 li ul dropdown-menu 11 0
-System O 0 0 li ul dropdown-menu 11 0
-
-| O 0 0 li ul nav.navbar-nav.navbar-left 7 0
-
-Live O 0 1 li ul dropdown-toggle 7 0
-Media O 0 1 li ul dropdown-toggle 7 0
-
-FM O 0 0 li ul dropdown-menu 9 0
-Radio O 0 1 li ul dropdown-menu 9 0
-
-Live O 0 1 li ul dropdown-menu 9 0
-TV O 0 1 li ul dropdown-menu 9 0
-
-Video O 0 0 li ul dropdown-menu 9 0
-on O 0 0 li ul dropdown-menu 9 0
-Demand O 0 1 li ul dropdown-menu 9 0
-
-| O 0 0 li ul nav.navbar-nav.navbar-left 7 0
-
-Downloads O 0 0 li ul link-1 7 0
-
-| O 0 0 li ul nav.navbar-nav.navbar-left 7 0
-
-Alumni O 0 0 li ul link-1 7 0
-
-| O 0 0 li ul nav.navbar-nav.navbar-left 7 0
-
-Life O 0 1 li ul dropdown-toggle 7 0
-at O 0 0 li ul dropdown-toggle 7 0
-AIOU O 0 0 li ul dropdown-toggle 7 0
-
-Life O 0 1 li ul dropdown-menu 9 0
-at O 0 0 li ul dropdown-menu 9 0
-AIOU O 0 0 li ul dropdown-menu 9 0
-
-Google O 0 0 li ul dropdown-menu 9 0
-Plus O 0 1 li ul dropdown-menu 9 0
-
-Twitter O 0 0 li ul dropdown-menu 9 0
-
-Youtube O 0 0 li ul dropdown-menu 9 0
-
-| O 0 0 li ul nav.navbar-nav.navbar-left 7 0
-
-ORIC O 0 0 li ul link-1 7 0
-
-| O 0 0 li li nav.navbar-nav.navbar-left 8 0
-
-Help O 0 0 li li link-1 8 0
-Desk O 0 0 li li link-1 8 0
-
-Staff O 0 1 div div col-md-8.curl-page.col-md-offset-2 5 0
-Members O 0 0 div div col-md-8.curl-page.col-md-offset-2 5 0
-(COMPUTER O 0 0 div div col-md-8.curl-page.col-md-offset-2 5 0
-SCIENCE) O 0 0 div div col-md-8.curl-page.col-md-offset-2 5 0
-
-Name O 0 1 tr tbody success 8 0
-Designation O 0 0 tr tbody success 8 1
-Phone O 0 1 tr tbody success 8 2
-
-Prof. O 0 1 td tr table 9 0
-Dr. O 0 1 td tr table 9 0
-Nazir B-NAME 0 1 td tr table 9 0
-Ahmed I-NAME 1 1 td tr table 9 0
-Sangi I-NAME 0 1 td tr table 9 0
-Chairman O 0 0 tr tbody table 8 2
-9250091 O 0 0 tr tbody table 8 3
-
-Dr. O 0 1 td tr table 9 0
-Moiz-ud-din B-NAME 0 0 td tr table 9 0
-Ahmed I-NAME 1 1 td tr table 9 0
-Assistant O 0 0 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-92-51-9057259 O 0 0 tr tbody table 8 3
-
-Mohammad B-NAME 1 1 td tr table 9 0
-Qasim I-NAME 0 1 td tr table 9 0
-Khan I-NAME 0 1 td tr table 9 0
-Assistant O 0 0 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-051-9057260 O 0 0 tr tbody table 8 3
-
-Dr. O 0 1 td tr table 9 0
-Muhammad B-NAME 1 1 td tr table 9 0
-Arshad I-NAME 1 1 td tr table 9 0
-Awan I-NAME 1 1 td tr table 9 0
-Assistant O 0 0 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-
-Chaudhary B-NAME 0 1 td tr table 9 0
-Muhammad I-NAME 1 1 td tr table 9 0
-Shahbaz I-NAME 1 1 td tr table 9 0
-Anjum I-NAME 0 1 td tr table 9 0
-Lecturer O 0 0 tr tbody table 8 2
-051-9057780 O 0 0 tr tbody table 8 3
-
-Tahir B-NAME 0 1 td tr table 9 0
-Javed I-NAME 0 1 td tr table 9 0
-Awan I-NAME 0 1 td tr table 9 0
-System O 0 0 tr tbody table 8 2
-Programmer O 0 0 tr tbody table 8 2
-051-9057440 O 0 0 tr tbody table 8 3
-
-Muhammad B-NAME 1 1 td tr table 9 0
-Asif I-NAME 1 1 td tr table 9 0
-Junior O 0 1 tr tbody table 8 2
-Programmer O 0 0 tr tbody table 8 2
-051-9057183 O 0 0 tr tbody table 8 3
-
-Muhammad B-NAME 1 1 td tr table 9 0
-Ahsan I-NAME 1 1 td tr table 9 0
-Farooq I-NAME 0 1 td tr table 9 0
-Technical O 0 0 tr tbody table 8 2
-Assistant O 0 0 tr tbody table 8 2
-051-9057809 O 0 0 tr tbody table 8 3
-
-Muhammad B-NAME 1 1 td tr table 9 0
-Usman I-NAME 1 1 td tr table 9 0
-Personal O 0 1 tr tbody table 8 2
-Assistant O 0 0 tr tbody table 8 2
-051-9057809 O 0 0 tr tbody table 8 3
-
-Muhammad B-NAME 1 1 td tr table 9 0
-Kaleem I-NAME 1 1 td tr table 9 0
-Ullah I-NAME 1 1 td tr table 9 0
-Lab O 0 1 tr tbody table 8 2
-Assistant O 0 0 tr tbody table 8 2
-905-7789 O 0 0 tr tbody table 8 3
-
-Shauqat B-NAME 0 0 td tr table 9 0
-Naseer I-NAME 0 1 td tr table 9 0
-LDC O 0 0 tr tbody table 8 2
-051-9057402 O 0 0 tr tbody table 8 3
-
-Allama O 0 0 meta meta container 10 0
-Iqbal O 0 1 meta meta container 10 0
-Open O 0 0 meta meta container 10 0
-University O 0 1 meta meta container 10 0
-
-Helpline: O 0 0 div div col-md-3.footer1 10 0
-051-111-112-468 O 0 0 div div col-md-3.footer1 10 0
-
-Copyright O 0 0 div div col-md-3.footer1 9 0
-© O 0 0 div div col-md-3.footer1 9 0
-2016-17 O 0 0 div div col-md-3.footer1 9 0
-@ O 0 1 div div col-md-3.footer1 9 0
-AIOU O 0 0 div div col-md-3.footer1 9 0
-
-Allama O 0 0 div div col-md-6.footer1.text-center 9 0
-Iqbal O 0 1 div div col-md-6.footer1.text-center 9 0
-Open O 0 0 div div col-md-6.footer1.text-center 9 0
-University, O 0 0 div div col-md-6.footer1.text-center 9 0
-Sector O 0 0 div div col-md-6.footer1.text-center 9 0
-H-8, O 0 0 div div col-md-6.footer1.text-center 9 0
-Islamabad- O 0 0 div div col-md-6.footer1.text-center 9 0
-44000, O 0 0 div div col-md-6.footer1.text-center 9 0
-Pakistan O 0 0 div div col-md-6.footer1.text-center 9 0
-
-Email: O 0 0 div div col-md-3.footer1 9 0
-support@aiou.edu.pk O 0 0 div div col-md-3.footer1 9 0
+| O | 0 0 0 0 0 0 0 li ul navbar-left 7 0
+
+Life O life 0 1 0 0 0 0 1 li ul dropdown-toggle 7 0
+at O at 0 0 0 0 0 0 0 li ul dropdown-toggle 7 0
+AIOU O aiou 0 0 0 0 0 0 1 li ul dropdown-toggle 7 0
+
+Life O life 0 1 0 0 0 0 1 li ul dropdown-menu 9 0
+at O at 0 0 0 0 0 0 0 li ul dropdown-menu 9 0
+AIOU O aiou 0 0 0 0 0 0 1 li ul dropdown-menu 9 0
+
+Google O google 0 0 0 0 0 0 1 li ul dropdown-menu 9 0
+Plus O plus 0 1 0 0 0 0 1 li ul dropdown-menu 9 0
+
+Twitter O twitter 0 0 0 0 0 0 1 li ul dropdown-menu 9 0
+
+Youtube O youtube 0 0 0 0 0 0 1 li ul dropdown-menu 9 0
+
+| O | 0 0 0 0 0 0 0 li ul navbar-left 7 0
+
+ORIC O oric 0 0 0 0 0 0 1 li ul link-1 7 0
+
+| O | 0 0 0 0 0 0 0 li li navbar-left 8 0
+
+Help O help 0 0 0 0 0 0 1 li li link-1 8 0
+Desk O desk 0 0 0 0 0 0 1 li li link-1 8 0
+
+Staff O staff 0 1 0 0 0 0 1 div div col-md-offset-2 5 0
+Members O members 0 0 0 0 0 0 1 div div col-md-offset-2 5 0
+( O ( 0 0 0 0 0 0 0 div div col-md-offset-2 5 0
+COMPUTER O computer 0 0 0 0 0 0 1 div div col-md-offset-2 5 0
+SCIENCE O science 0 0 0 0 0 0 1 div div col-md-offset-2 5 0
+) O ) 0 0 0 0 0 0 0 div div col-md-offset-2 5 0
+
+Name O name 0 1 0 0 0 0 1 tr tbody success 8 0
+Designation O designation 0 0 0 0 0 0 1 tr tbody success 8 1
+Phone O phone 0 1 0 0 0 0 1 tr tbody success 8 2
+
+Prof. O prof. 0 1 0 0 1 0 1 td tr table 9 0
+Dr. O dr. 0 1 0 0 1 0 1 td tr table 9 0
+Nazir B-PER nazir 0 1 0 0 0 0 1 td tr table 9 0
+Ahmed I-PER ahmed 1 1 0 0 0 0 1 td tr table 9 0
+Sangi I-PER sangi 0 1 0 0 0 0 1 td tr table 9 0
+Chairman O chairman 0 0 0 0 0 0 1 tr tbody table 8 2
+9250091 O 9250091 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Dr. O dr. 0 1 0 0 1 0 1 td tr table 9 0
+Moiz B-PER moiz 0 1 0 0 0 0 1 td tr table 9 0
+- I-PER - 0 0 0 0 0 0 0 td tr table 9 0
+ud I-PER ud 0 1 0 0 0 0 0 td tr table 9 0
+- I-PER - 0 0 0 0 0 0 0 td tr table 9 0
+din I-PER din 0 1 0 0 0 0 0 td tr table 9 0
+Ahmed I-PER ahmed 1 1 0 0 0 0 1 td tr table 9 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+92 O 92 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+51 O 51 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+9057259 O 9057259 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Mohammad B-PER mohammad 1 1 0 0 0 0 1 td tr table 9 0
+Qasim I-PER qasim 0 1 0 0 0 0 1 td tr table 9 0
+Khan I-PER khan 0 1 0 0 0 0 1 td tr table 9 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+051 O 051 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+9057260 O 9057260 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Dr. O dr. 0 1 0 0 1 0 1 td tr table 9 0
+Muhammad B-PER muhammad 1 1 0 0 0 0 1 td tr table 9 0
+Arshad I-PER arshad 1 1 0 0 0 0 1 td tr table 9 0
+Awan I-PER awan 1 1 0 0 0 0 1 td tr table 9 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+
+Chaudhary B-PER chaudhary 0 1 0 0 0 0 1 td tr table 9 0
+Muhammad I-PER muhammad 1 1 0 0 0 0 1 td tr table 9 0
+Shahbaz I-PER shahbaz 1 1 0 0 0 0 1 td tr table 9 0
+Anjum I-PER anjum 0 1 0 0 0 0 1 td tr table 9 0
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+051 O 051 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+9057780 O 9057780 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Tahir B-PER tahir 0 1 0 0 0 0 1 td tr table 9 0
+Javed I-PER javed 0 1 0 0 0 0 1 td tr table 9 0
+Awan I-PER awan 0 1 0 0 0 0 1 td tr table 9 0
+System O system 0 0 0 0 0 0 1 tr tbody table 8 2
+Programmer O programmer 0 0 0 0 0 0 1 tr tbody table 8 2
+051 O 051 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+9057440 O 9057440 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Muhammad B-PER muhammad 1 1 0 0 0 0 1 td tr table 9 0
+Asif I-PER asif 1 1 0 0 0 0 1 td tr table 9 0
+Junior O junior 0 1 0 0 0 0 1 tr tbody table 8 2
+Programmer O programmer 0 0 0 0 0 0 1 tr tbody table 8 2
+051 O 051 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+9057183 O 9057183 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Muhammad B-PER muhammad 1 1 0 0 0 0 1 td tr table 9 0
+Ahsan I-PER ahsan 1 1 0 0 0 0 1 td tr table 9 0
+Farooq I-PER farooq 0 1 0 0 0 0 1 td tr table 9 0
+Technical O technical 0 0 0 0 0 0 1 tr tbody table 8 2
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody table 8 2
+051 O 051 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+9057809 O 9057809 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Muhammad B-PER muhammad 1 1 0 0 0 0 1 td tr table 9 0
+Usman I-PER usman 1 1 0 0 0 0 1 td tr table 9 0
+Personal O personal 0 1 0 0 0 0 1 tr tbody table 8 2
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody table 8 2
+051 O 051 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+9057809 O 9057809 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Muhammad B-PER muhammad 1 1 0 0 0 0 1 td tr table 9 0
+Kaleem I-PER kaleem 1 1 0 0 0 0 1 td tr table 9 0
+Ullah I-PER ullah 1 1 0 0 0 0 1 td tr table 9 0
+Lab O lab 0 1 0 0 0 0 1 tr tbody table 8 2
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody table 8 2
+905 O 905 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+7789 O 7789 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Shauqat B-PER shauqat 0 0 0 0 0 0 1 td tr table 9 0
+Naseer I-PER naseer 0 1 0 0 0 0 1 td tr table 9 0
+LDC O ldc 0 0 0 0 0 0 1 tr tbody table 8 2
+051 O 051 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+9057402 O 9057402 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Allama O allama 0 0 0 0 0 0 1 meta meta container 10 0
+Iqbal O iqbal 0 1 0 0 0 0 1 meta meta container 10 0
+Open O open 0 0 0 0 0 0 1 meta meta container 10 0
+University O university 0 1 0 0 0 0 1 meta meta container 10 0
+
+Helpline O helpline 0 0 0 0 0 0 1 div div footer1 10 0
+: O : 0 0 0 0 0 0 0 div div footer1 10 0
+051 O 051 0 0 0 1 0 0 0 div div footer1 10 0
+- O - 0 0 0 0 0 0 0 div div footer1 10 0
+111 O 111 0 0 0 1 0 0 0 div div footer1 10 0
+- O - 0 0 0 0 0 0 0 div div footer1 10 0
+112 O 112 0 0 0 1 0 0 0 div div footer1 10 0
+- O - 0 0 0 0 0 0 0 div div footer1 10 0
+468 O 468 0 0 0 1 0 0 0 div div footer1 10 0
+
+Copyright O copyright 0 0 0 0 0 0 1 div div footer1 9 0
+© O © 0 0 0 0 0 0 0 div div footer1 9 0
+2016 O 2016 0 0 0 1 0 0 0 div div footer1 9 0
+- O - 0 0 0 0 0 0 0 div div footer1 9 0
+17 O 17 0 0 0 1 0 0 0 div div footer1 9 0
+@ O @ 0 1 0 0 0 0 0 div div footer1 9 0
+AIOU O aiou 0 0 0 0 0 0 1 div div footer1 9 0
+
+Allama O allama 0 0 0 0 0 0 1 div div text-center 9 0
+Iqbal O iqbal 0 1 0 0 0 0 1 div div text-center 9 0
+Open O open 0 0 0 0 0 0 1 div div text-center 9 0
+University O university 0 1 0 0 0 0 1 div div text-center 9 0
+, O , 0 0 0 0 0 0 0 div div text-center 9 0
+Sector O sector 0 0 0 0 0 0 1 div div text-center 9 0
+H O h 0 1 0 0 0 0 1 div div text-center 9 0
+- O - 0 0 0 0 0 0 0 div div text-center 9 0
+8 O 8 0 0 0 1 0 0 0 div div text-center 9 0
+, O , 0 0 0 0 0 0 0 div div text-center 9 0
+Islamabad O islamabad 0 0 0 0 0 0 1 div div text-center 9 0
+- O - 0 0 0 0 0 0 0 div div text-center 9 0
+44000 O 44000 0 0 0 1 0 0 0 div div text-center 9 0
+, O , 0 0 0 0 0 0 0 div div text-center 9 0
+Pakistan O pakistan 0 0 0 0 0 0 1 div div text-center 9 0
+
+Email O email 0 0 0 0 1 0 1 div div footer1 9 0
+: O : 0 0 0 0 0 0 0 div div footer1 9 0
+support@aiou.edu.pk O support@aiou.edu.pk 0 0 1 0 0 0 0 div div footer1 9 0

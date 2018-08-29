@@ -1,969 +1,1040 @@
-Faculty O 0 0 meta meta none 7 0
-and O 0 1 meta meta none 7 0
-Staff O 0 1 meta meta none 7 0
-- O 0 0 meta meta none 7 0
-Mathematics O 0 0 meta meta none 7 0
-& O 0 0 meta meta none 7 0
-Computer O 0 0 meta meta none 7 0
-Science O 0 0 meta meta none 7 0
-- O 0 0 meta meta none 7 0
-College O 0 0 meta meta none 7 0
-of O 0 1 meta meta none 7 0
-Arts O 0 1 meta meta none 7 0
-and O 0 1 meta meta none 7 0
-Sciences O 0 0 meta meta none 7 0
-- O 0 0 meta meta none 7 0
-Santa O 0 1 meta meta none 7 0
-Clara O 0 1 meta meta none 7 0
-University O 0 1 meta meta none 7 0
+Faculty O faculty 0 0 0 0 0 0 1 meta meta none 7 0
+and O and 0 1 0 0 0 0 0 meta meta none 7 0
+Staff O staff 0 1 0 0 0 0 1 meta meta none 7 0
+- O - 0 0 0 0 0 0 0 meta meta none 7 0
+Mathematics O mathematics 0 0 0 0 0 0 1 meta meta none 7 0
+& O & 0 0 0 0 0 0 0 meta meta none 7 0
+Computer O computer 0 0 0 0 0 0 1 meta meta none 7 0
+Science O science 0 0 0 0 0 0 1 meta meta none 7 0
+- O - 0 0 0 0 0 0 0 meta meta none 7 0
+College O college 0 0 0 0 0 0 1 meta meta none 7 0
+of O of 0 1 0 0 0 0 0 meta meta none 7 0
+Arts O arts 0 1 0 0 0 0 1 meta meta none 7 0
+and O and 0 1 0 0 0 0 0 meta meta none 7 0
+Sciences O sciences 0 0 0 0 0 0 1 meta meta none 7 0
+- O - 0 0 0 0 0 0 0 meta meta none 7 0
+Santa O santa 0 1 0 0 0 0 1 meta meta none 7 0
+Clara O clara 0 1 0 0 0 0 1 meta meta none 7 0
+University O university 0 1 0 0 0 0 1 meta meta none 7 0
 
-Skip O 0 1 body html sr-only.sr-only-focusable 4 2
-to O 0 0 body html sr-only.sr-only-focusable 4 2
-main O 0 0 body html sr-only.sr-only-focusable 4 2
-content O 0 0 body html sr-only.sr-only-focusable 4 2
+Skip O skip 0 1 0 0 0 0 1 body html sr-only-focusable 4 2
+to O to 0 0 0 0 0 0 0 body html sr-only-focusable 4 2
+main O main 0 0 0 0 0 0 0 body html sr-only-focusable 4 2
+content O content 0 0 0 0 0 0 0 body html sr-only-focusable 4 2
 
-Santa O 0 1 a div sr-only 10 1
-Clara O 0 1 a div sr-only 10 1
-University O 0 1 a div sr-only 10 1
-Homepage O 0 0 a div sr-only 10 1
+Santa O santa 0 1 0 0 0 0 1 a div sr-only 10 1
+Clara O clara 0 1 0 0 0 0 1 a div sr-only 10 1
+University O university 0 1 0 0 0 0 1 a div sr-only 10 1
+Homepage O homepage 0 0 0 0 0 0 1 a div sr-only 10 1
 
-Santa O 0 1 a div scu-tagline 11 0
-Clara O 0 1 a div scu-tagline 11 0
-University O 0 1 a div scu-tagline 11 0
+Santa O santa 0 1 0 0 0 0 1 a div scu-tagline 11 0
+Clara O clara 0 1 0 0 0 0 1 a div scu-tagline 11 0
+University O university 0 1 0 0 0 0 1 a div scu-tagline 11 0
 
-College O 0 0 a div scu-primary 11 0
-of O 0 1 a div scu-primary 11 0
-Arts O 0 1 a div scu-primary 11 0
-and O 0 1 a div scu-primary 11 0
-Sciences O 0 0 a div scu-primary 11 0
+College O college 0 0 0 0 0 0 1 a div scu-primary 11 0
+of O of 0 1 0 0 0 0 0 a div scu-primary 11 0
+Arts O arts 0 1 0 0 0 0 1 a div scu-primary 11 0
+and O and 0 1 0 0 0 0 0 a div scu-primary 11 0
+Sciences O sciences 0 0 0 0 0 0 1 a div scu-primary 11 0
 
-Toggle O 0 0 span button sr-only 11 0
-navigation O 0 0 span button sr-only 11 0
-Menu O 0 1 button div menu-label 10 1
+Toggle O toggle 0 0 0 0 0 0 1 span button sr-only 11 0
+navigation O navigation 0 0 0 0 0 0 0 span button sr-only 11 0
+Menu O menu 0 1 0 0 0 0 1 button div menu-label 10 1
 
-Toggle O 0 0 span button sr-only 11 0
-navigation O 0 0 span button sr-only 11 0
-Gateways O 0 0 button div menu-label.text-hide 10 0
+Toggle O toggle 0 0 0 0 0 0 1 span button sr-only 11 0
+navigation O navigation 0 0 0 0 0 0 0 span button sr-only 11 0
+Gateways O gateways 0 0 0 0 0 0 1 button div text-hide 10 0
 
-Search O 0 0 div form sr-only 11 0
+Search O search 0 0 0 0 0 0 1 div form sr-only 11 0
 
-About O 0 0 li ul nav.nav-pills 9 0
-SCU O 0 0 li ul nav.nav-pills 9 0
+About O about 0 0 0 0 0 0 1 li ul nav-pills 9 0
+SCU O scu 0 0 0 0 0 0 1 li ul nav-pills 9 0
 
-Academics O 0 0 li ul nav.nav-pills 9 0
+Academics O academics 0 0 0 0 0 0 1 li ul nav-pills 9 0
 
-Admission O 0 0 li ul nav.nav-pills 9 0
+Admission O admission 0 0 0 0 0 0 1 li ul nav-pills 9 0
 
-Campus O 0 1 li ul nav.nav-pills 9 0
-Life O 0 1 li ul nav.nav-pills 9 0
+Campus O campus 0 1 0 0 0 0 1 li ul nav-pills 9 0
+Life O life 0 1 0 0 0 0 1 li ul nav-pills 9 0
 
-Athletics O 0 0 li ul nav.nav-pills 9 0
+Athletics O athletics 0 0 0 0 0 0 1 li ul nav-pills 9 0
 
-Global O 0 1 li ul nav.nav-pills 9 0
+Global O global 0 1 0 0 0 0 1 li ul nav-pills 9 0
 
-Giving O 0 0 li ul nav.nav-pills 9 0
+Giving O giving 0 0 0 0 0 0 1 li ul nav-pills 9 0
 
-News O 0 0 li ul nav.nav-pills 9 0
-& O 0 0 li ul nav.nav-pills 9 0
-Events O 0 0 li ul nav.nav-pills 9 0
+News O news 0 0 0 0 0 0 1 li ul nav-pills 9 0
+& O & 0 0 0 0 0 0 0 li ul nav-pills 9 0
+Events O events 0 0 0 0 0 0 1 li ul nav-pills 9 0
 
-Students O 0 0 li ul nav.nav-pills.navbar-right 9 0
+Students O students 0 0 0 0 0 0 1 li ul navbar-right 9 0
 
-Faculty O 0 0 li ul nav.nav-pills.navbar-right 9 0
-& O 0 0 li ul nav.nav-pills.navbar-right 9 0
-Staff O 0 1 li ul nav.nav-pills.navbar-right 9 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul navbar-right 9 0
+& O & 0 0 0 0 0 0 0 li ul navbar-right 9 0
+Staff O staff 0 1 0 0 0 0 1 li ul navbar-right 9 0
 
-Families O 0 0 li ul nav.nav-pills.navbar-right 9 0
+Families O families 0 0 0 0 0 0 1 li ul navbar-right 9 0
 
-Alumni O 0 0 li ul nav.nav-pills.navbar-right 9 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul navbar-right 9 0
 
-Visitors O 0 0 li ul nav.nav-pills.navbar-right 9 0
+Visitors O visitors 0 0 0 0 0 0 1 li ul navbar-right 9 0
 
-Offices O 0 0 a li gateway-dropdown 10 0
-& O 0 0 a li gateway-dropdown 10 0
-Services O 0 0 a li gateway-dropdown 10 0
+Offices O offices 0 0 0 0 0 0 1 a li gateway-dropdown 10 0
+& O & 0 0 0 0 0 0 0 a li gateway-dropdown 10 0
+Services O services 0 0 0 0 0 0 1 a li gateway-dropdown 10 0
 
-Offices O 0 0 div div col-sm-12 13 0
-and O 0 1 div div col-sm-12 13 0
-Services O 0 0 div div col-sm-12 13 0
-at O 0 0 div div col-sm-12 13 0
-Santa O 0 1 div div col-sm-12 13 0
-Clara O 0 1 div div col-sm-12 13 0
-University O 0 1 div div col-sm-12 13 0
+Offices O offices 0 0 0 0 0 0 1 div div col-sm-12 13 0
+and O and 0 1 0 0 0 0 0 div div col-sm-12 13 0
+Services O services 0 0 0 0 0 0 1 div div col-sm-12 13 0
+at O at 0 0 0 0 0 0 0 div div col-sm-12 13 0
+Santa O santa 0 1 0 0 0 0 1 div div col-sm-12 13 0
+Clara O clara 0 1 0 0 0 0 1 div div col-sm-12 13 0
+University O university 0 1 0 0 0 0 1 div div col-sm-12 13 0
 
-Campus O 0 1 li ul col-sm-3 15 0
-Safety O 0 0 li ul col-sm-3 15 0
+Campus O campus 0 1 0 0 0 0 1 li ul col-sm-3 15 0
+Safety O safety 0 0 0 0 0 0 1 li ul col-sm-3 15 0
 
-Enrollment O 0 0 li ul col-sm-3 15 0
-Services O 0 0 li ul col-sm-3 15 0
+Enrollment O enrollment 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+Services O services 0 0 0 0 0 0 1 li ul col-sm-3 15 0
 
-Campus O 0 1 li ul col-sm-3 15 0
-Ministry O 0 0 li ul col-sm-3 15 0
+Campus O campus 0 1 0 0 0 0 1 li ul col-sm-3 15 0
+Ministry O ministry 0 0 0 0 0 0 1 li ul col-sm-3 15 0
 
-Facilities O 0 0 li ul col-sm-3 15 0
+Facilities O facilities 0 0 0 0 0 0 1 li ul col-sm-3 15 0
 
-Diversity O 0 0 li ul col-sm-3 15 0
-and O 0 1 li ul col-sm-3 15 0
-Inclusion O 0 0 li ul col-sm-3 15 0
+Diversity O diversity 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+and O and 0 1 0 0 0 0 0 li ul col-sm-3 15 0
+Inclusion O inclusion 0 0 0 0 0 0 1 li ul col-sm-3 15 0
 
-Technology O 0 0 li ul col-sm-3 15 0
-at O 0 0 li ul col-sm-3 15 0
-SCU O 0 0 li ul col-sm-3 15 0
-
-Recreation O 0 0 li ul col-sm-3 15 0
-
-Sustainability O 0 0 li ul col-sm-3 15 0
-
-Arts O 0 1 li ul col-sm-3 15 0
-at O 0 0 li ul col-sm-3 15 0
-SCU O 0 0 li ul col-sm-3 15 0
-
-Bookstore O 0 0 li ul col-sm-3 15 0
-
-Career O 0 0 li ul col-sm-3 15 0
-Center O 0 1 li ul col-sm-3 15 0
-
-Human O 0 1 li ul col-sm-3 15 0
-Resources O 0 0 li ul col-sm-3 15 0
-
-University O 0 1 li ul col-sm-3 15 0
-Library O 0 0 li ul col-sm-3 15 0
-
-Mission O 0 1 li ul col-sm-3 15 0
-Church O 0 1 li ul col-sm-3 15 0
-
-SCU O 0 0 li ul col-sm-3 15 0
-Login O 0 0 li ul col-sm-3 15 0
-
-Offices O 0 0 div div more-link 13 7
-and O 0 1 div div more-link 13 7
-Services O 0 0 div div more-link 13 7
-» O 0 0 div div more-link 13 7
-
-Schools O 0 0 a li gateway-dropdown 10 0
-& O 0 0 a li gateway-dropdown 10 0
-Centers O 0 0 a li gateway-dropdown 10 0
-
-Schools O 0 0 div div col-sm-7 13 0
-and O 0 1 div div col-sm-7 13 0
-Colleges O 0 0 div div col-sm-7 13 0
-
-College O 0 0 li ul col-sm-6 17 0
-of O 0 1 li ul col-sm-6 17 0
-Arts O 0 1 li ul col-sm-6 17 0
-and O 0 1 li ul col-sm-6 17 0
-Sciences O 0 0 li ul col-sm-6 17 0
+Technology O technology 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+at O at 0 0 0 0 0 0 0 li ul col-sm-3 15 0
+SCU O scu 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Recreation O recreation 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Sustainability O sustainability 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Arts O arts 0 1 0 0 0 0 1 li ul col-sm-3 15 0
+at O at 0 0 0 0 0 0 0 li ul col-sm-3 15 0
+SCU O scu 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Bookstore O bookstore 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Career O career 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+Center O center 0 1 0 0 0 0 1 li ul col-sm-3 15 0
+
+Human O human 0 1 0 0 0 0 1 li ul col-sm-3 15 0
+Resources O resources 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+University O university 0 1 0 0 0 0 1 li ul col-sm-3 15 0
+Library O library 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Mission O mission 0 1 0 0 1 0 1 li ul col-sm-3 15 0
+Church O church 0 1 0 0 0 0 1 li ul col-sm-3 15 0
+
+SCU O scu 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+Login O login 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Offices O offices 0 0 0 0 0 0 1 div div more-link 13 7
+and O and 0 1 0 0 0 0 0 div div more-link 13 7
+Services O services 0 0 0 0 0 0 1 div div more-link 13 7
+» O » 0 0 0 0 0 0 0 div div more-link 13 7
+
+Schools O schools 0 0 0 0 0 0 1 a li gateway-dropdown 10 0
+& O & 0 0 0 0 0 0 0 a li gateway-dropdown 10 0
+Centers O centers 0 0 0 0 0 0 1 a li gateway-dropdown 10 0
+
+Schools O schools 0 0 0 0 0 0 1 div div col-sm-7 13 0
+and O and 0 1 0 0 0 0 0 div div col-sm-7 13 0
+Colleges O colleges 0 0 0 0 0 0 1 div div col-sm-7 13 0
+
+College O college 0 0 0 0 0 0 1 li ul col-sm-6 17 0
+of O of 0 1 0 0 0 0 0 li ul col-sm-6 17 0
+Arts O arts 0 1 0 0 0 0 1 li ul col-sm-6 17 0
+and O and 0 1 0 0 0 0 0 li ul col-sm-6 17 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul col-sm-6 17 0
 
-Education O 0 0 li ul col-sm-6 17 0
-and O 0 1 li ul col-sm-6 17 0
-Counseling O 0 0 li ul col-sm-6 17 0
-Psychology O 0 0 li ul col-sm-6 17 0
+Education O education 0 0 0 0 0 0 1 li ul col-sm-6 17 0
+and O and 0 1 0 0 0 0 0 li ul col-sm-6 17 0
+Counseling O counseling 0 0 0 0 0 0 1 li ul col-sm-6 17 0
+Psychology O psychology 0 0 0 0 0 0 1 li ul col-sm-6 17 0
 
-Leavey O 0 1 li ul col-sm-6 17 0
-School O 0 1 li ul col-sm-6 17 0
-of O 0 1 li ul col-sm-6 17 0
-Business O 0 0 li ul col-sm-6 17 0
+Leavey O leavey 0 1 0 0 0 0 1 li ul col-sm-6 17 0
+School O school 0 1 0 0 0 0 1 li ul col-sm-6 17 0
+of O of 0 1 0 0 0 0 0 li ul col-sm-6 17 0
+Business O business 0 0 0 0 0 0 1 li ul col-sm-6 17 0
 
-School O 0 1 li ul col-sm-6 17 0
-of O 0 1 li ul col-sm-6 17 0
-Engineering O 0 0 li ul col-sm-6 17 0
+School O school 0 1 0 0 0 0 1 li ul col-sm-6 17 0
+of O of 0 1 0 0 0 0 0 li ul col-sm-6 17 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul col-sm-6 17 0
 
-Jesuit O 0 0 li ul col-sm-6 17 0
-School O 0 1 li ul col-sm-6 17 0
-of O 0 1 li ul col-sm-6 17 0
-Theology O 0 0 li ul col-sm-6 17 0
+Jesuit O jesuit 0 0 0 0 0 0 1 li ul col-sm-6 17 0
+School O school 0 1 0 0 0 0 1 li ul col-sm-6 17 0
+of O of 0 1 0 0 0 0 0 li ul col-sm-6 17 0
+Theology O theology 0 0 0 0 0 0 1 li ul col-sm-6 17 0
 
-School O 0 1 li ul col-sm-6 17 0
-of O 0 1 li ul col-sm-6 17 0
-Law O 0 1 li ul col-sm-6 17 0
+School O school 0 1 0 0 0 0 1 li ul col-sm-6 17 0
+of O of 0 1 0 0 0 0 0 li ul col-sm-6 17 0
+Law O law 0 1 0 0 0 0 1 li ul col-sm-6 17 0
 
-Centers O 0 0 div div col-sm-5 13 0
-of O 0 1 div div col-sm-5 13 0
-Distinction O 0 0 div div col-sm-5 13 0
+Centers O centers 0 0 0 0 0 0 1 div div col-sm-5 13 0
+of O of 0 1 0 0 0 0 0 div div col-sm-5 13 0
+Distinction O distinction 0 0 0 0 0 0 1 div div col-sm-5 13 0
 
-Miller O 0 1 li ul col-sm-12 17 0
-Center O 0 1 li ul col-sm-12 17 0
-for O 0 1 li ul col-sm-12 17 0
-Social O 0 0 li ul col-sm-12 17 0
-Entrepreneurship O 0 0 li ul col-sm-12 17 0
+Miller O miller 0 1 0 0 0 0 1 li ul col-sm-12 17 0
+Center O center 0 1 0 0 0 0 1 li ul col-sm-12 17 0
+for O for 0 1 0 0 0 0 0 li ul col-sm-12 17 0
+Social O social 0 0 0 0 0 0 1 li ul col-sm-12 17 0
+Entrepreneurship O entrepreneurship 0 0 0 0 0 0 1 li ul col-sm-12 17 0
 
-Ignatian O 0 0 li ul col-sm-12 17 0
-Center O 0 1 li ul col-sm-12 17 0
-for O 0 1 li ul col-sm-12 17 0
-Jesuit O 0 0 li ul col-sm-12 17 0
-Education O 0 0 li ul col-sm-12 17 0
+Ignatian O ignatian 0 0 0 0 0 0 1 li ul col-sm-12 17 0
+Center O center 0 1 0 0 0 0 1 li ul col-sm-12 17 0
+for O for 0 1 0 0 0 0 0 li ul col-sm-12 17 0
+Jesuit O jesuit 0 0 0 0 0 0 1 li ul col-sm-12 17 0
+Education O education 0 0 0 0 0 0 1 li ul col-sm-12 17 0
 
-Markkula O 0 1 li ul col-sm-12 17 0
-Center O 0 1 li ul col-sm-12 17 0
-for O 0 1 li ul col-sm-12 17 0
-Applied O 0 0 li ul col-sm-12 17 0
-Ethics O 0 0 li ul col-sm-12 17 0
+Markkula O markkula 0 1 0 0 0 0 1 li ul col-sm-12 17 0
+Center O center 0 1 0 0 0 0 1 li ul col-sm-12 17 0
+for O for 0 1 0 0 0 0 0 li ul col-sm-12 17 0
+Applied O applied 0 0 0 0 0 0 1 li ul col-sm-12 17 0
+Ethics O ethics 0 0 0 0 0 0 1 li ul col-sm-12 17 0
 
-Centers O 0 0 div div more-link 15 7
-and O 0 1 div div more-link 15 7
-Institutes O 0 0 div div more-link 15 7
-» O 0 0 div div more-link 15 7
+Centers O centers 0 0 0 0 0 0 1 div div more-link 15 7
+and O and 0 1 0 0 0 0 0 div div more-link 15 7
+Institutes O institutes 0 0 0 0 0 0 1 div div more-link 15 7
+» O » 0 0 0 0 0 0 0 div div more-link 15 7
 
-Department O 0 0 h1 div col-sm-8 9 0
-of O 0 1 h1 div col-sm-8 9 0
-Mathematics O 0 0 div div col-sm-8 8 0
-and O 0 1 div div col-sm-8 8 0
-Computer O 0 0 div div col-sm-8 8 0
-Science O 0 0 div div col-sm-8 8 0
+Department O department 0 0 0 0 0 0 1 h1 div col-sm-8 9 0
+of O of 0 1 0 0 0 0 0 h1 div col-sm-8 9 0
+Mathematics O mathematics 0 0 0 0 0 0 1 div div col-sm-8 8 0
+and O and 0 1 0 0 0 0 0 div div col-sm-8 8 0
+Computer O computer 0 0 0 0 0 0 1 div div col-sm-8 8 0
+Science O science 0 0 0 0 0 0 1 div div col-sm-8 8 0
 
-Departments O 0 0 a div link-button.switcher.module 10 0
-& O 0 0 a div link-button.switcher.module 10 0
-Programs O 0 0 a div link-button.switcher.module 10 0
+Departments O departments 0 0 0 0 0 0 1 a div module 10 0
+& O & 0 0 0 0 0 0 0 a div module 10 0
+Programs O programs 0 0 0 0 0 0 1 a div module 10 0
 
-College O 0 0 h4 div related-links-header 12 0
-of O 0 1 h4 div related-links-header 12 0
-Arts O 0 1 h4 div related-links-header 12 0
-and O 0 1 h4 div related-links-header 12 0
-Sciences O 0 0 h4 div related-links-header 12 0
+College O college 0 0 0 0 0 0 1 h4 div related-links-header 12 0
+of O of 0 1 0 0 0 0 0 h4 div related-links-header 12 0
+Arts O arts 0 1 0 0 0 0 1 h4 div related-links-header 12 0
+and O and 0 1 0 0 0 0 0 h4 div related-links-header 12 0
+Sciences O sciences 0 0 0 0 0 0 1 h4 div related-links-header 12 0
 
-AIMES O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Program O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+AIMES O aimes 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Program O program 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Anthropology O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Anthropology O anthropology 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Art O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-and O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Art O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-History O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Art O art 0 1 0 0 0 0 1 li ul col-sm-6 13 0
+and O and 0 1 0 0 0 0 0 li ul col-sm-6 13 0
+Art O art 0 1 0 0 0 0 1 li ul col-sm-6 13 0
+History O history 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Asian O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Studies O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Program O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Asian O asian 0 1 0 0 0 0 1 li ul col-sm-6 13 0
+Studies O studies 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Program O program 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Biology O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Biology O biology 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Catholic O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Studies O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Program O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Catholic O catholic 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Studies O studies 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Program O program 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Chemistry O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-and O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Biochemistry O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Chemistry O chemistry 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+and O and 0 1 0 0 0 0 0 li ul col-sm-6 13 0
+Biochemistry O biochemistry 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Child O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Studies O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Program O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Child O child 0 1 0 0 0 0 1 li ul col-sm-6 13 0
+Studies O studies 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Program O program 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Classics O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Classics O classics 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Communication O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Communication O communication 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Economics O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Economics O economics 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-English O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
+English O english 0 1 0 0 0 0 1 li ul col-sm-6 13 0
 
-Environmental O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Studies O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-and O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Sciences O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Environmental O environmental 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Studies O studies 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+and O and 0 1 0 0 0 0 0 li ul col-sm-6 13 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Ethnic O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Studies O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Ethnic O ethnic 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Studies O studies 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-History O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+History O history 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Latin O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-American O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Studies O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Program O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Latin O latin 0 1 0 0 0 0 1 li ul col-sm-6 13 0
+American O american 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Studies O studies 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Program O program 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Mathematics O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-and O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Computer O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Science O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Mathematics O mathematics 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+and O and 0 1 0 0 0 0 0 li ul col-sm-6 13 0
+Computer O computer 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Science O science 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Medieval O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-and O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Renaissance O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Studies O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Program O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Medieval O medieval 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+and O and 0 1 0 0 0 0 0 li ul col-sm-6 13 0
+Renaissance O renaissance 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Studies O studies 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Program O program 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Military O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Science O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Military O military 0 1 0 0 0 0 1 li ul col-sm-6 13 0
+Science O science 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Modern O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Languages O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-and O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Literatures O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Modern O modern 0 1 0 0 0 0 1 li ul col-sm-6 13 0
+Languages O languages 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+and O and 0 1 0 0 0 0 0 li ul col-sm-6 13 0
+Literatures O literatures 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Arabic O 0 0 li ul one-column.related-links.module.col-sm-6 14 0
+Arabic O arabic 0 0 0 0 0 0 1 li ul col-sm-6 14 0
 
-Chinese O 0 0 li ul one-column.related-links.module.col-sm-6 14 0
+Chinese O chinese 0 0 0 0 0 0 1 li ul col-sm-6 14 0
 
-French O 0 1 li ul one-column.related-links.module.col-sm-6 14 0
+French O french 0 1 0 0 0 0 1 li ul col-sm-6 14 0
 
-German O 0 1 li ul one-column.related-links.module.col-sm-6 14 0
+German O german 0 1 0 0 0 0 1 li ul col-sm-6 14 0
 
-Italian O 0 0 li ul one-column.related-links.module.col-sm-6 14 0
+Italian O italian 0 0 0 0 0 0 1 li ul col-sm-6 14 0
 
-Japanese O 0 0 li ul one-column.related-links.module.col-sm-6 14 0
+Japanese O japanese 0 0 0 0 0 0 1 li ul col-sm-6 14 0
 
-Spanish O 0 0 li ul one-column.related-links.module.col-sm-6 14 0
+Spanish O spanish 0 0 0 0 0 0 1 li ul col-sm-6 14 0
 
-Music O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
+Music O music 0 1 0 0 1 0 1 li ul col-sm-6 13 0
 
-Neuroscience O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Neuroscience O neuroscience 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Philosophy O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Philosophy O philosophy 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Physics O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Physics O physics 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Political O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Science O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Political O political 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Science O science 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Psychology O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Psychology O psychology 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Public O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Health O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Program O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Public O public 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Health O health 0 1 0 0 0 0 1 li ul col-sm-6 13 0
+Program O program 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Religious O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Studies O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Religious O religious 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Studies O studies 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Sociology O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Sociology O sociology 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Sustainability O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Program O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Sustainability O sustainability 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Program O program 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Theatre O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-and O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Dance O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
+Theatre O theatre 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+and O and 0 1 0 0 0 0 0 li ul col-sm-6 13 0
+Dance O dance 0 1 0 0 0 0 1 li ul col-sm-6 13 0
 
-Urban O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Education O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Program O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Urban O urban 0 1 0 0 0 0 1 li ul col-sm-6 13 0
+Education O education 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Program O program 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Women's O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-and O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Gender O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Studies O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Women O women 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+' O ' 0 0 0 0 0 0 0 li ul col-sm-6 13 0
+s O s 0 0 0 0 0 0 0 li ul col-sm-6 13 0
+and O and 0 1 0 0 0 0 0 li ul col-sm-6 13 0
+Gender O gender 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Studies O studies 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-School O 0 1 h4 div related-links-header 12 0
-of O 0 1 h4 div related-links-header 12 0
-Engineering O 0 0 h4 div related-links-header 12 0
+School O school 0 1 0 0 0 0 1 h4 div related-links-header 12 0
+of O of 0 1 0 0 0 0 0 h4 div related-links-header 12 0
+Engineering O engineering 0 0 0 0 0 0 1 h4 div related-links-header 12 0
 
-Applied O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Mathematics O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Applied O applied 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Mathematics O mathematics 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Bioengineering O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Bioengineering O bioengineering 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Civil O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Engineering O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Civil O civil 0 1 0 0 0 0 1 li ul col-sm-6 13 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Computer O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Engineering O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Computer O computer 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Electrical O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Engineering O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Electrical O electrical 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Engineering O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Management O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-& O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Leadership O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Management O management 0 1 0 0 0 0 1 li ul col-sm-6 13 0
+& O & 0 0 0 0 0 0 0 li ul col-sm-6 13 0
+Leadership O leadership 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Mechanical O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Engineering O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Mechanical O mechanical 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Power O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Systems O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-and O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Sustainable O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Energy O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Power O power 0 1 0 0 0 0 1 li ul col-sm-6 13 0
+Systems O systems 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+and O and 0 1 0 0 0 0 0 li ul col-sm-6 13 0
+Sustainable O sustainable 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Energy O energy 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Leavey O 0 1 h4 div related-links-header 12 0
-School O 0 1 h4 div related-links-header 12 0
-of O 0 1 h4 div related-links-header 12 0
-Business O 0 0 h4 div related-links-header 12 0
+Leavey O leavey 0 1 0 0 0 0 1 h4 div related-links-header 12 0
+School O school 0 1 0 0 0 0 1 h4 div related-links-header 12 0
+of O of 0 1 0 0 0 0 0 h4 div related-links-header 12 0
+Business O business 0 0 0 0 0 0 1 h4 div related-links-header 12 0
 
-Accounting O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Accounting O accounting 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Accounting O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-& O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Information O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Systems O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Accounting O accounting 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+& O & 0 0 0 0 0 0 0 li ul col-sm-6 13 0
+Information O information 0 1 0 0 0 0 1 li ul col-sm-6 13 0
+Systems O systems 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Economics O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Economics O economics 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Finance O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
+Finance O finance 0 1 0 0 0 0 1 li ul col-sm-6 13 0
 
-Management O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
+Management O management 0 1 0 0 0 0 1 li ul col-sm-6 13 0
 
-Marketing O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Marketing O marketing 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-Operations O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Management O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-& O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
-Information O 0 1 li ul one-column.related-links.module.col-sm-6 13 0
-Systems O 0 0 li ul one-column.related-links.module.col-sm-6 13 0
+Operations O operations 0 0 0 0 0 0 1 li ul col-sm-6 13 0
+Management O management 0 1 0 0 0 0 1 li ul col-sm-6 13 0
+& O & 0 0 0 0 0 0 0 li ul col-sm-6 13 0
+Information O information 0 1 0 0 0 0 1 li ul col-sm-6 13 0
+Systems O systems 0 0 0 0 0 0 1 li ul col-sm-6 13 0
 
-School O 0 1 h4 div related-links-header 12 0
-of O 0 1 h4 div related-links-header 12 0
-Law O 0 1 h4 div related-links-header 12 0
+School O school 0 1 0 0 0 0 1 h4 div related-links-header 12 0
+of O of 0 1 0 0 0 0 0 h4 div related-links-header 12 0
+Law O law 0 1 0 0 0 0 1 h4 div related-links-header 12 0
 
-Jesuit O 0 0 h4 div related-links-header 12 0
-School O 0 1 h4 div related-links-header 12 0
-of O 0 1 h4 div related-links-header 12 0
-Theology O 0 0 h4 div related-links-header 12 0
+Jesuit O jesuit 0 0 0 0 0 0 1 h4 div related-links-header 12 0
+School O school 0 1 0 0 0 0 1 h4 div related-links-header 12 0
+of O of 0 1 0 0 0 0 0 h4 div related-links-header 12 0
+Theology O theology 0 0 0 0 0 0 1 h4 div related-links-header 12 0
 
-School O 0 1 h4 div related-links-header 12 0
-of O 0 1 h4 div related-links-header 12 0
-Education O 0 0 h4 div related-links-header 12 0
-and O 0 1 h4 div related-links-header 12 0
-Counseling O 0 0 h4 div related-links-header 12 0
-Psychology O 0 0 h4 div related-links-header 12 0
+School O school 0 1 0 0 0 0 1 h4 div related-links-header 12 0
+of O of 0 1 0 0 0 0 0 h4 div related-links-header 12 0
+Education O education 0 0 0 0 0 0 1 h4 div related-links-header 12 0
+and O and 0 1 0 0 0 0 0 h4 div related-links-header 12 0
+Counseling O counseling 0 0 0 0 0 0 1 h4 div related-links-header 12 0
+Psychology O psychology 0 0 0 0 0 0 1 h4 div related-links-header 12 0
 
-Faculty O 0 0 div div page-title 7 0
-and O 0 1 div div page-title 7 0
-Staff O 0 1 div div page-title 7 0
+Faculty O faculty 0 0 0 0 0 0 1 div div page-title 7 0
+and O and 0 1 0 0 0 0 0 div div page-title 7 0
+Staff O staff 0 1 0 0 0 0 1 div div page-title 7 0
 
-Home O 0 1 li ol breadcrumb-item 9 0
+Home O home 0 1 0 0 0 0 1 li ol breadcrumb-item 9 0
 
-College O 0 0 li ol breadcrumb-item 9 0
-of O 0 1 li ol breadcrumb-item 9 0
-Arts O 0 1 li ol breadcrumb-item 9 0
-and O 0 1 li ol breadcrumb-item 9 0
-Sciences O 0 0 li ol breadcrumb-item 9 0
+College O college 0 0 0 0 0 0 1 li ol breadcrumb-item 9 0
+of O of 0 1 0 0 0 0 0 li ol breadcrumb-item 9 0
+Arts O arts 0 1 0 0 0 0 1 li ol breadcrumb-item 9 0
+and O and 0 1 0 0 0 0 0 li ol breadcrumb-item 9 0
+Sciences O sciences 0 0 0 0 0 0 1 li ol breadcrumb-item 9 0
 
-Mathematics O 0 0 li ol breadcrumb-item 9 0
-& O 0 0 li ol breadcrumb-item 9 0
-Computer O 0 0 li ol breadcrumb-item 9 0
-Science O 0 0 li ol breadcrumb-item 9 0
+Mathematics O mathematics 0 0 0 0 0 0 1 li ol breadcrumb-item 9 0
+& O & 0 0 0 0 0 0 0 li ol breadcrumb-item 9 0
+Computer O computer 0 0 0 0 0 0 1 li ol breadcrumb-item 9 0
+Science O science 0 0 0 0 0 0 1 li ol breadcrumb-item 9 0
 
-Faculty O 0 0 ol div breadcrumb-item 8 6
-and O 0 1 ol div breadcrumb-item 8 6
-Staff O 0 1 ol div breadcrumb-item 8 6
+Faculty O faculty 0 0 0 0 0 0 1 ol div breadcrumb-item 8 6
+and O and 0 1 0 0 0 0 0 ol div breadcrumb-item 8 6
+Staff O staff 0 1 0 0 0 0 1 ol div breadcrumb-item 8 6
 
-Gerald B-NAME 1 1 strong p table 14 0
-L. I-NAME 1 1 strong p table 14 0
-Alexanderson I-NAME 1 1 strong p table 14 0
+Gerald B-PER gerald 1 1 0 0 0 0 1 strong p table 14 0
+L. I-PER l. 1 1 0 0 0 0 1 strong p table 14 0
+Alexanderson I-PER alexanderson 1 1 0 0 0 0 1 strong p table 14 0
 
-, O 0 0 td tr table 12 0
-Professor O 0 0 td tr table 12 0
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Professor O professor 0 0 0 0 1 0 1 td tr table 12 0
 
-Specialties: O 0 0 br br table 15 0
-combinatorics, O 0 0 br br table 15 0
-number O 0 0 br br table 15 0
-theory O 0 0 br br table 15 0
+Specialties O specialties 0 0 0 0 0 0 1 br br table 15 0
+: O : 0 0 0 0 0 0 0 br br table 15 0
+combinatorics O combinatorics 0 0 0 0 0 0 0 br br table 15 0
+, O , 0 0 0 0 0 0 0 br br table 15 0
+number O number 0 0 0 0 0 0 0 br br table 15 0
+theory O theory 0 0 0 0 0 0 0 br br table 15 0
 
-Glenn B-NAME 0 1 p td table 13 0
-D. I-NAME 0 1 p td table 13 0
-Appleby I-NAME 0 1 p td table 13 0
+Glenn B-PER glenn 0 1 0 0 0 0 1 p td table 13 0
+D. I-PER d. 0 1 0 0 0 0 1 p td table 13 0
+Appleby I-PER appleby 0 1 0 0 0 0 1 p td table 13 0
 
-, O 0 0 td tr table 12 0
-Associate O 0 1 td tr table 12 0
-Professor O 0 0 td tr table 12 0
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Associate O associate 0 1 0 0 0 0 1 td tr table 12 0
+Professor O professor 0 0 0 0 1 0 1 td tr table 12 0
 
-Specialties: O 0 0 br br table 15 0
-algebra, O 0 0 br br table 15 0
-algebraic O 0 0 br br table 15 0
-combinatorics O 0 0 br br table 15 0
+Specialties O specialties 0 0 0 0 0 0 1 br br table 15 0
+: O : 0 0 0 0 0 0 0 br br table 15 0
+algebra O algebra 0 0 0 0 0 0 0 br br table 15 0
+, O , 0 0 0 0 0 0 0 br br table 15 0
+algebraic O algebraic 0 0 0 0 0 0 0 br br table 15 0
+combinatorics O combinatorics 0 0 0 0 0 0 0 br br table 15 0
 
-José B-NAME 1 1 p td table 13 0
-Barría I-NAME 0 1 p td table 13 0
+José B-PER jose 1 1 0 0 0 0 1 p td table 13 0
+Barría I-PER barria 0 1 0 0 0 0 1 p td table 13 0
 
-, O 0 0 td tr table 12 0
-Professor O 0 0 td tr table 12 0
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Professor O professor 0 0 0 0 1 0 1 td tr table 12 0
 
-Specialties: O 0 0 br br table 15 0
-operator O 0 0 br br table 15 0
-theory, O 0 0 br br table 15 0
-functional O 0 0 br br table 15 0
-analysis O 0 0 br br table 15 0
+Specialties O specialties 0 0 0 0 0 0 1 br br table 15 0
+: O : 0 0 0 0 0 0 0 br br table 15 0
+operator O operator 0 0 0 0 0 0 0 br br table 15 0
+theory O theory 0 0 0 0 0 0 0 br br table 15 0
+, O , 0 0 0 0 0 0 0 br br table 15 0
+functional O functional 0 0 0 0 0 0 0 br br table 15 0
+analysis O analysis 0 0 0 0 0 0 0 br br table 15 0
 
-Robert B-NAME 0 1 p td table 13 0
-A. I-NAME 0 1 p td table 13 0
-Bekes I-NAME 0 1 p td table 13 0
+Robert B-PER robert 0 1 0 0 0 0 1 p td table 13 0
+A. I-PER a. 0 1 0 0 0 0 1 p td table 13 0
+Bekes I-PER bekes 0 1 0 0 0 0 1 p td table 13 0
 
-, O 0 0 td tr table 12 0
-Associate O 0 1 td tr table 12 0
-Professor O 0 0 td tr table 12 0
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Associate O associate 0 1 0 0 0 0 1 td tr table 12 0
+Professor O professor 0 0 0 0 1 0 1 td tr table 12 0
 
-Specialties: O 0 0 br br table 15 0
-functional O 0 0 br br table 15 0
-analysis, O 0 0 br br table 15 0
-statistics O 0 0 br br table 15 0
+Specialties O specialties 0 0 0 0 0 0 1 br br table 15 0
+: O : 0 0 0 0 0 0 0 br br table 15 0
+functional O functional 0 0 0 0 0 0 0 br br table 15 0
+analysis O analysis 0 0 0 0 0 0 0 br br table 15 0
+, O , 0 0 0 0 0 0 0 br br table 15 0
+statistics O statistics 0 0 0 0 0 0 0 br br table 15 0
 
-Frank B-NAME 1 1 strong p table 14 0
-A. I-NAME 1 1 strong p table 14 0
-Farris I-NAME 1 1 strong p table 14 0
+Frank B-PER frank 1 1 0 0 0 0 1 strong p table 14 0
+A. I-PER a. 1 1 0 0 0 0 1 strong p table 14 0
+Farris I-PER farris 1 1 0 0 0 0 1 strong p table 14 0
 
-, O 0 0 td tr table 12 0
-Professor O 0 0 td tr table 12 0
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Professor O professor 0 0 0 0 1 0 1 td tr table 12 0
 
-Specialties: O 0 0 br br table 15 0
-differential O 0 0 br br table 15 0
-geometry, O 0 0 br br table 15 0
-expository O 0 0 br br table 15 0
-mathematics, O 0 0 br br table 15 0
-mathematical O 0 0 br br table 15 0
-economics O 0 0 br br table 15 0
-
-Mike B-NAME 0 1 strong p table 14 0
-Hartglass I-NAME 0 1 strong p table 14 0
-
-, O 0 0 td tr table 12 0
-Assistant O 0 0 td tr table 12 0
-Professor O 0 0 td tr table 12 0
-
-Specialty: O 0 0 br br table 15 0
-analysis O 0 0 br br table 15 0
-
-Corey B-NAME 0 1 p td table 13 0
-Irving I-NAME 0 1 p td table 13 0
-
-, O 0 0 td tr table 12 0
-Lecturer O 0 0 td tr table 12 0
-
-Specialty: O 0 0 br br table 15 0
-algebraic O 0 0 br br table 15 0
-geometry O 0 0 br br table 15 0
-
-Leonard B-NAME 1 1 strong td table 13 0
-F. I-NAME 1 1 strong td table 13 0
-Klosinski I-NAME 1 1 strong td table 13 0
-, O 0 0 td tr table 12 0
-
-Associate O 0 1 tr tbody table 11 2
-Professor O 0 0 tr tbody table 11 2
-
-B.S., O 0 0 tr tbody table 11 2
-Santa O 0 1 tr tbody table 11 2
-Clara O 0 1 tr tbody table 11 2
-University; O 0 0 tr tbody table 11 2
-M.S., O 0 0 tr tbody table 11 2
-Oregon O 0 0 tr tbody table 11 2
-State O 0 1 tr tbody table 11 2
-University O 0 1 tr tbody table 11 2
-
-Specialty: O 0 0 br strong table 14 0
-computer O 0 0 br strong table 14 0
-science O 0 0 br strong table 14 0
-
-O'Connor O 0 1 tr tbody table 11 2
-Hall, O 0 0 tr tbody table 11 2
-Room O 0 1 tr tbody table 11 2
-6 O 0 0 tr tbody table 11 2
-
-Natalie B-NAME 1 1 strong p table 14 0
-Linnell I-NAME 1 1 strong p table 14 0
-
-, O 0 0 td tr table 12 0
-Lecturer O 0 0 td tr table 12 0
-
-Specialty: O 0 0 br br table 15 0
-computer O 0 0 br br table 15 0
-science O 0 0 br br table 15 0
-
-Mary B-NAME 0 1 p td table 13 0
-Long I-NAME 0 1 p td table 13 0
-
-, O 0 0 td tr table 12 0
-Lecturer O 0 0 td tr table 12 0
-
-Specialty: O 0 0 br br table 15 0
-mathematics O 0 0 br br table 15 0
-and O 0 1 br br table 15 0
-physics O 0 0 br br table 15 0
-
-Sukanya B-NAME 1 1 strong p table 14 0
-Manna I-NAME 1 1 strong p table 14 0
-
-, O 0 0 td tr table 12 0
-Assistant O 0 0 td tr table 12 0
-Professor O 0 0 td tr table 12 0
-
-Specialties: O 0 0 br br table 17 0
-Web O 0 1 br br table 17 0
-and O 0 1 br br table 17 0
-Data O 0 1 br br table 17 0
-Science, O 0 0 br br table 17 0
-Machine O 0 1 br br table 17 0
-Learning O 0 1 br br table 17 0
-and O 0 1 br br table 17 0
-Data/Text O 0 0 br br table 17 0
-mining, O 0 0 br br table 17 0
-Natural O 0 0 br br table 17 0
-Language O 0 0 br br table 17 0
-Processing, O 0 0 br br table 17 0
-Information O 0 1 br br table 17 0
-Retrieval O 0 0 br br table 17 0
-
-Nicolette B-NAME 1 1 strong p table 14 0
-Meshkat I-NAME 1 1 strong p table 14 0
-, O 0 0 p td table 13 0
-
-Clare O 1 1 p td table 13 2
-Booth O 1 1 p td table 13 2
-Luce O 0 1 p td table 13 2
-Assistant O 0 0 p td table 13 2
-Professor O 0 0 p td table 13 2
-
-B.A., O 0 0 td tr table 12 0
-University O 0 1 td tr table 12 0
-of O 0 1 td tr table 12 0
-California, O 0 0 td tr table 12 0
-Berkeley; O 0 0 td tr table 12 0
-M.A., O 0 0 td tr table 12 0
-Ph.D., O 0 0 td tr table 12 0
-University O 0 1 td tr table 12 0
-of O 0 1 td tr table 12 0
-California, O 0 0 td tr table 12 0
-Los O 0 1 td tr table 12 0
-Angeles O 0 1 td tr table 12 0
-
-Specialties: O 0 0 br p table 14 0
-applied O 0 0 br p table 14 0
-algebraic O 0 0 br p table 14 0
-geometry, O 0 0 br p table 14 0
-systems O 0 0 br p table 14 0
-biology O 0 0 br p table 14 0
-
-Tamsen B-NAME 0 1 strong p table 14 0
-(Whitehead) I-NAME 0 0 strong p table 14 0
-McGinley I-NAME 0 1 strong p table 14 0
-, O 0 0 p td table 13 0
-
-Associate O 0 1 td tr table 12 0
-Professor O 0 0 td tr table 12 0
-
-B.S., O 0 0 td tr table 12 0
-San O 0 1 td tr table 12 0
-Diego O 0 1 td tr table 12 0
-State O 0 1 td tr table 12 0
-University; O 0 0 td tr table 12 0
-Ph.D., O 0 0 td tr table 12 0
-University O 0 1 td tr table 12 0
-of O 0 1 td tr table 12 0
-California, O 0 0 td tr table 12 0
-San O 0 1 td tr table 12 0
-Diego O 0 1 td tr table 12 0
-
-Specialties: O 0 0 br p table 14 0
-combinatorics, O 0 0 br p table 14 0
-theoretical O 0 0 br p table 14 0
-computer O 0 0 br p table 14 0
-science O 0 0 br p table 14 0
-
-Mona B-NAME 1 1 td tr table 12 0
-Musa I-NAME 0 1 td tr table 12 0
-
-, O 0 0 tr tbody table 11 2
-Lecturer O 0 0 tr tbody table 11 2
-
-Specialties: O 0 0 br br table 14 0
-algebra O 0 0 br br table 14 0
-and O 0 1 br br table 14 0
-coding O 0 0 br br table 14 0
-theory, O 0 0 br br table 14 0
-computer O 0 0 br br table 14 0
-algebra O 0 0 br br table 14 0
-systems O 0 0 br br table 14 0
-
-Daniel B-NAME 1 1 strong p table 14 0
-N. I-NAME 1 1 strong p table 14 0
-Ostrov I-NAME 1 1 strong p table 14 0
-
-, O 0 0 td tr table 12 0
-Professor O 0 0 td tr table 12 0
-
-Specialties: O 0 0 br br table 15 0
-financial O 0 0 br br table 15 0
-mathematics, O 0 0 br br table 15 0
-partial O 0 0 br br table 15 0
-differential O 0 0 br br table 15 0
-equations, O 0 0 br br table 15 0
-control O 0 0 br br table 15 0
-theory, O 0 0 br br table 15 0
-applied O 0 0 br br table 15 0
-mathematics O 0 0 br br table 15 0
-
-Laurie B-NAME 0 1 p td table 13 0
-Poe I-NAME 0 1 p td table 13 0
-
-, O 0 0 td tr table 12 0
-Senior O 0 1 td tr table 12 0
-Lecturer O 0 0 td tr table 12 0
-
-Specialties: O 0 0 br br table 15 0
-mathematics O 0 0 br br table 15 0
-education O 0 0 br br table 15 0
-
-Edward B-NAME 1 1 strong p table 14 0
-F. I-NAME 1 1 strong p table 14 0
-Schaefer I-NAME 1 1 strong p table 14 0
-
-, O 0 0 td tr table 12 0
-Professor O 0 0 td tr table 12 0
-and O 0 1 td tr table 12 0
-Department O 0 0 td tr table 12 0
-Chair O 0 1 td tr table 12 0
-
-Specialties: O 0 0 br br table 15 0
-algebraic O 0 0 br br table 15 0
-number O 0 0 br br table 15 0
-theory, O 0 0 br br table 15 0
-cryptography, O 0 0 br br table 15 0
-arithmetic O 0 0 br br table 15 0
-geometry O 0 0 br br table 15 0
-
-Richard B-NAME 1 1 strong p table 14 0
-A. I-NAME 1 1 strong p table 14 0
-Scott I-NAME 1 1 strong p table 14 0
-
-, O 0 0 td tr table 12 0
-Professor O 0 0 td tr table 12 0
-
-Specialties: O 0 0 br br table 15 0
-topology, O 0 0 br br table 15 0
-geometric O 0 0 br br table 15 0
-group O 0 0 br br table 15 0
-theory, O 0 0 br br table 15 0
-algebraic O 0 0 br br table 15 0
-geometry O 0 0 br br table 15 0
-
-Dennis B-NAME 0 1 strong p table 14 0
-C. I-NAME 0 1 strong p table 14 0
-Smolarski, I-NAME 0 0 strong p table 14 0
-S.J. I-NAME 0 0 strong p table 14 0
-
-, O 0 0 td tr table 12 0
-Professor O 0 0 td tr table 12 0
-
-Specialties: O 0 0 br br table 15 0
-numerical O 0 0 br br table 15 0
-analysis, O 0 0 br br table 15 0
-iterative O 0 0 br br table 15 0
-solution O 0 0 br br table 15 0
-of O 0 1 br br table 15 0
-linear O 0 0 br br table 15 0
-systems O 0 0 br br table 15 0
-
-Nicholas B-NAME 1 1 strong p table 14 0
-Tran I-NAME 1 1 strong p table 14 0
-
-, O 0 0 td tr table 12 0
-Associate O 0 1 td tr table 12 0
-Professor O 0 0 td tr table 12 0
-
-Specialties: O 0 0 br br table 15 0
-information O 0 0 br br table 15 0
-security, O 0 0 br br table 15 0
-complexity O 0 0 br br table 15 0
-theory O 0 0 br br table 15 0
-
-Byron B-NAME 1 1 strong p table 14 0
-L. I-NAME 1 1 strong p table 14 0
-Walden I-NAME 1 1 strong p table 14 0
-
-, O 0 0 td tr table 12 0
-Associate O 0 1 td tr table 12 0
-Professor O 0 0 td tr table 12 0
-
-Specialties: O 0 0 br br table 15 0
-complex O 0 0 br br table 15 0
-analysis, O 0 0 br br table 15 0
-computer O 0 0 br br table 15 0
-science O 0 0 br br table 15 0
-
-Adjunct O 0 0 div div col-sm-8 8 0
-Faculty O 0 0 div div col-sm-8 8 0
-
-Linda B-NAME 0 1 td tr col-sm-8 12 0
-C. I-NAME 0 1 td tr col-sm-8 12 0
-Burks I-NAME 0 1 td tr col-sm-8 12 0
-
-, O 0 0 tr tbody col-sm-8 11 2
-Inclusive O 0 0 tr tbody col-sm-8 11 2
-Excellence O 0 0 tr tbody col-sm-8 11 2
-Post-doctoral O 0 0 tr tbody col-sm-8 11 2
-Fellow O 0 0 tr tbody col-sm-8 11 2
-
-Specialty: O 0 0 br br col-sm-8 14 0
-Mathematics O 0 0 br br col-sm-8 14 0
-education O 0 0 br br col-sm-8 14 0
-
-Suzanne B-NAME 0 1 p td col-sm-8 13 0
-Damm I-NAME 0 1 p td col-sm-8 13 0
-
-, O 0 0 td tr col-sm-8 12 0
-Quarterly O 0 0 td tr col-sm-8 12 0
-Adjunct O 0 0 td tr col-sm-8 12 0
-Lecturer O 0 0 td tr col-sm-8 12 0
-
-Carrie B-NAME 0 1 td tr col-sm-8 12 0
-Frates I-NAME 0 0 td tr col-sm-8 12 0
-
-, O 0 0 tr tbody col-sm-8 11 2
-Academic O 0 0 tr tbody col-sm-8 11 2
-Year O 0 1 tr tbody col-sm-8 11 2
-Adjunct O 0 0 tr tbody col-sm-8 11 2
-Lecturer O 0 0 tr tbody col-sm-8 11 2
-
-Specialties: O 0 0 br br col-sm-8 14 0
-mathematics O 0 0 br br col-sm-8 14 0
-and O 0 1 br br col-sm-8 14 0
-health O 0 0 br br col-sm-8 14 0
-education O 0 0 br br col-sm-8 14 0
-
-Matthew B-NAME 0 1 td tr col-sm-8 12 0
-O’Dell I-NAME 0 0 td tr col-sm-8 12 0
-
-, O 0 0 tr tbody col-sm-8 11 2
-Academic O 0 0 tr tbody col-sm-8 11 2
-Year O 0 1 tr tbody col-sm-8 11 2
-Adjunct O 0 0 tr tbody col-sm-8 11 2
-Lecturer O 0 0 tr tbody col-sm-8 11 2
-
-Norman B-NAME 0 1 p td col-sm-8 13 0
-Paris I-NAME 0 1 p td col-sm-8 13 0
-
-, O 0 0 td tr col-sm-8 12 0
-Academic O 0 0 td tr col-sm-8 12 0
-Year O 0 1 td tr col-sm-8 12 0
-Adjunct O 0 0 td tr col-sm-8 12 0
-Lecturer O 0 0 td tr col-sm-8 12 0
-
-Reza B-NAME 0 1 td tr col-sm-8 12 0
-Shariatmadari I-NAME 0 1 td tr col-sm-8 12 0
-
-, O 0 0 tr tbody col-sm-8 11 2
-Academic O 0 0 tr tbody col-sm-8 11 2
-Year O 0 1 tr tbody col-sm-8 11 2
-Adjunct O 0 0 tr tbody col-sm-8 11 2
-Lecturer O 0 0 tr tbody col-sm-8 11 2
-
-Specialty: O 0 0 br br col-sm-8 14 0
-graph O 0 0 br br col-sm-8 14 0
-theory O 0 0 br br col-sm-8 14 0
-
-Navid O 0 1 span p col-sm-8 14 0
-Shaghaghi, O 0 0 span p col-sm-8 14 0
-
-Academic O 0 0 p td col-sm-8 13 0
-Year O 0 1 p td col-sm-8 13 0
-Adjunct O 0 0 p td col-sm-8 13 0
-Lecturer O 0 0 p td col-sm-8 13 0
-
-Diane B-NAME 0 1 td tr col-sm-8 12 0
-Taylor I-NAME 0 1 td tr col-sm-8 12 0
-
-, O 0 0 tr tbody col-sm-8 11 2
-Academic O 0 0 tr tbody col-sm-8 11 2
-Year O 0 1 tr tbody col-sm-8 11 2
-Adjunct O 0 0 tr tbody col-sm-8 11 2
-Lecturer O 0 0 tr tbody col-sm-8 11 2
-
-Specialty: O 0 0 br br col-sm-8 14 0
-fluid O 0 0 br br col-sm-8 14 0
-mechanics O 0 0 br br col-sm-8 14 0
-
-Ignacio B-NAME 1 1 p td col-sm-8 13 0
-Terrizzano I-NAME 1 1 p td col-sm-8 13 0
-
-, O 0 0 td tr col-sm-8 12 0
-Quarterly O 0 0 td tr col-sm-8 12 0
-Adjunct O 0 0 td tr col-sm-8 12 0
-Lecturer O 0 0 td tr col-sm-8 12 0
-
-Katelyn B-NAME 0 1 p td col-sm-8 13 0
-White I-NAME 0 1 p td col-sm-8 13 0
-
-, O 0 0 td tr col-sm-8 12 0
-Academic O 0 0 td tr col-sm-8 12 0
-Year O 0 1 td tr col-sm-8 12 0
-Adjunct O 0 0 td tr col-sm-8 12 0
-Lecturer O 0 0 td tr col-sm-8 12 0
-
-Julia B-NAME 1 1 strong span col-sm-8 15 0
-Zuev I-NAME 1 1 strong span col-sm-8 15 0
-
-, O 0 0 p td col-sm-8 13 0
-Quarterly O 0 0 p td col-sm-8 13 0
-Adjunct O 0 0 p td col-sm-8 13 0
-Lecturer O 0 0 p td col-sm-8 13 0
-
-Mathematics O 0 0 nav div side-navigation-header 8 0
-& O 0 0 nav div side-navigation-header 8 0
-Computer O 0 0 nav div side-navigation-header 8 0
-Science O 0 0 nav div side-navigation-header 8 0
-
-About O 0 0 li ul side-navigation.match-page-title 10 0
-Us O 0 1 li ul side-navigation.match-page-title 10 0
-
-Academic O 0 0 li ul side-navigation.match-page-title 10 0
-Program O 0 0 li ul side-navigation.match-page-title 10 0
-
-Faculty O 0 0 span li currentbranch0 11 0
-and O 0 1 span li currentbranch0 11 0
-Staff O 0 1 span li currentbranch0 11 0
-
-Student O 0 1 li ul side-navigation.match-page-title 10 0
-Resources O 0 0 li ul side-navigation.match-page-title 10 0
-
-Beyond O 0 0 li ul side-navigation.match-page-title 10 0
-the O 0 1 li ul side-navigation.match-page-title 10 0
-Classroom O 0 0 li ul side-navigation.match-page-title 10 0
-
-Life O 0 1 li ul side-navigation.match-page-title 10 0
-After O 0 0 li ul side-navigation.match-page-title 10 0
-SCU O 0 0 li ul side-navigation.match-page-title 10 0
-
-News O 0 0 li ul side-navigation.match-page-title 10 0
-and O 0 1 li ul side-navigation.match-page-title 10 0
-Events O 0 0 li ul side-navigation.match-page-title 10 0
-
-Santa O 0 1 div div h6.text-trajan.text-uppercase 10 0
-Clara O 0 1 div div h6.text-trajan.text-uppercase 10 0
-University O 0 1 div div h6.text-trajan.text-uppercase 10 0
-
-The O 0 1 div div h6.text-trajan.text-uppercase 10 0
-Jesuit O 0 0 div div h6.text-trajan.text-uppercase 10 0
-University O 0 1 div div h6.text-trajan.text-uppercase 10 0
-in O 0 1 div div h6.text-trajan.text-uppercase 10 0
-Silicon O 0 0 div div h6.text-trajan.text-uppercase 10 0
-Valley O 0 1 div div h6.text-trajan.text-uppercase 10 0
-
-500 O 0 0 p div p-street-address.street-address 13 0
-El O 0 1 p div p-street-address.street-address 13 0
-Camino O 0 1 p div p-street-address.street-address 13 0
-Real O 0 1 p div p-street-address.street-address 13 0
-, O 0 0 div div h-adr.adr 12 0
-
-Contact O 0 0 p nav text-right 12 0
-Us O 0 1 p nav text-right 12 0
-
-Emergency O 0 0 p nav col-xs-5 12 0
-Info O 0 0 p nav col-xs-5 12 0
-
-Follow O 0 0 a span sr-only 14 1
-us O 0 1 a span sr-only 14 1
-on O 0 0 a span sr-only 14 1
-Facebook O 0 0 a span sr-only 14 1
-Follow O 0 0 a span sr-only 14 1
-us O 0 1 a span sr-only 14 1
-on O 0 0 a span sr-only 14 1
-Twitter O 0 0 a span sr-only 14 1
-Join O 0 1 a span sr-only 14 1
-us O 0 1 a span sr-only 14 1
-on O 0 0 a span sr-only 14 1
-LinkedIn O 0 0 a span sr-only 14 1
-Follow O 0 0 a span sr-only 14 1
-us O 0 1 a span sr-only 14 1
-on O 0 0 a span sr-only 14 1
-Pinterest O 0 0 a span sr-only 14 1
-Follow O 0 0 a span sr-only 14 1
-us O 0 1 a span sr-only 14 1
-on O 0 0 a span sr-only 14 1
-Instagram O 0 0 a span sr-only 14 1
-
-Social O 0 0 p nav text-right 12 0
-Media O 0 1 p nav text-right 12 0
-
-© O 0 0 p div t4Edit-page 7 0
-2017 O 0 0 div footer copyright.text-center 6 0
-SCU O 0 0 div footer copyright.text-center 6 0
+Specialties O specialties 0 0 0 0 0 0 1 br br table 15 0
+: O : 0 0 0 0 0 0 0 br br table 15 0
+differential O differential 0 0 0 0 0 0 0 br br table 15 0
+geometry O geometry 0 0 0 0 0 0 0 br br table 15 0
+, O , 0 0 0 0 0 0 0 br br table 15 0
+expository O expository 0 0 0 0 0 0 0 br br table 15 0
+mathematics O mathematics 0 0 0 0 0 0 0 br br table 15 0
+, O , 0 0 0 0 0 0 0 br br table 15 0
+mathematical O mathematical 0 0 0 0 0 0 0 br br table 15 0
+economics O economics 0 0 0 0 0 0 0 br br table 15 0
+
+Mike B-PER mike 0 1 0 0 0 0 1 strong p table 14 0
+Hartglass I-PER hartglass 0 1 0 0 0 0 1 strong p table 14 0
+
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Assistant O assistant 0 0 0 0 0 0 1 td tr table 12 0
+Professor O professor 0 0 0 0 1 0 1 td tr table 12 0
+
+Specialty O specialty 0 0 0 0 0 0 1 br br table 15 0
+: O : 0 0 0 0 0 0 0 br br table 15 0
+analysis O analysis 0 0 0 0 0 0 0 br br table 15 0
+
+Corey B-PER corey 0 1 0 0 0 0 1 p td table 13 0
+Irving I-PER irving 0 1 0 0 0 0 1 p td table 13 0
+
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 td tr table 12 0
+
+Specialty O specialty 0 0 0 0 0 0 1 br br table 15 0
+: O : 0 0 0 0 0 0 0 br br table 15 0
+algebraic O algebraic 0 0 0 0 0 0 0 br br table 15 0
+geometry O geometry 0 0 0 0 0 0 0 br br table 15 0
+
+Leonard B-PER leonard 1 1 0 0 0 0 1 strong td table 13 0
+F. I-PER f. 1 1 0 0 0 0 1 strong td table 13 0
+Klosinski I-PER klosinski 1 1 0 0 0 0 1 strong td table 13 0
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 11 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 11 2
+
+B.S. O b.s. 0 0 0 0 0 0 1 tr tbody table 11 2
+, O , 0 0 0 0 0 0 0 tr tbody table 11 2
+Santa O santa 0 1 0 0 0 0 1 tr tbody table 11 2
+Clara O clara 0 1 0 0 0 0 1 tr tbody table 11 2
+University O university 0 1 0 0 0 0 1 tr tbody table 11 2
+; O ; 0 0 0 0 0 0 0 tr tbody table 11 2
+M.S. O m.s. 0 0 0 0 1 0 1 tr tbody table 11 2
+, O , 0 0 0 0 0 0 0 tr tbody table 11 2
+Oregon O oregon 0 0 0 0 0 0 1 tr tbody table 11 2
+State O state 0 1 0 0 0 0 1 tr tbody table 11 2
+University O university 0 1 0 0 0 0 1 tr tbody table 11 2
+
+Specialty O specialty 0 0 0 0 0 0 1 br strong table 14 0
+: O : 0 0 0 0 0 0 0 br strong table 14 0
+computer O computer 0 0 0 0 0 0 0 br strong table 14 0
+science O science 0 0 0 0 0 0 0 br strong table 14 0
+
+O O o 0 1 0 0 0 0 1 tr tbody table 11 2
+' O ' 0 0 0 0 0 0 0 tr tbody table 11 2
+Connor O connor 0 1 0 0 0 0 1 tr tbody table 11 2
+Hall O hall 0 1 0 0 0 0 1 tr tbody table 11 2
+, O , 0 0 0 0 0 0 0 tr tbody table 11 2
+Room O room 0 1 0 0 0 0 1 tr tbody table 11 2
+6 O 6 0 0 0 1 0 0 0 tr tbody table 11 2
+
+Natalie B-PER natalie 1 1 0 0 0 0 1 strong p table 14 0
+Linnell I-PER linnell 1 1 0 0 0 0 1 strong p table 14 0
+
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 td tr table 12 0
+
+Specialty O specialty 0 0 0 0 0 0 1 br br table 15 0
+: O : 0 0 0 0 0 0 0 br br table 15 0
+computer O computer 0 0 0 0 0 0 0 br br table 15 0
+science O science 0 0 0 0 0 0 0 br br table 15 0
+
+Mary B-PER mary 0 1 0 0 0 0 1 p td table 13 0
+Long I-PER long 0 1 0 0 0 0 1 p td table 13 0
+
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 td tr table 12 0
+
+Specialty O specialty 0 0 0 0 0 0 1 br br table 15 0
+: O : 0 0 0 0 0 0 0 br br table 15 0
+mathematics O mathematics 0 0 0 0 0 0 0 br br table 15 0
+and O and 0 1 0 0 0 0 0 br br table 15 0
+physics O physics 0 0 0 0 0 0 0 br br table 15 0
+
+Sukanya B-PER sukanya 1 1 0 0 0 0 1 strong p table 14 0
+Manna I-PER manna 1 1 0 0 0 0 1 strong p table 14 0
+
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Assistant O assistant 0 0 0 0 0 0 1 td tr table 12 0
+Professor O professor 0 0 0 0 1 0 1 td tr table 12 0
+
+Specialties O specialties 0 0 0 0 0 0 1 br br table 17 0
+: O : 0 0 0 0 0 0 0 br br table 17 0
+Web O web 0 1 0 0 0 0 1 br br table 17 0
+and O and 0 1 0 0 0 0 0 br br table 17 0
+Data O data 0 1 0 0 0 0 1 br br table 17 0
+Science O science 0 0 0 0 0 0 1 br br table 17 0
+, O , 0 0 0 0 0 0 0 br br table 17 0
+Machine O machine 0 1 0 0 0 0 1 br br table 17 0
+Learning O learning 0 1 0 0 0 0 1 br br table 17 0
+and O and 0 1 0 0 0 0 0 br br table 17 0
+Data/Text O data/text 0 0 0 0 0 0 1 br br table 17 0
+mining O mining 0 0 0 0 0 0 0 br br table 17 0
+, O , 0 0 0 0 0 0 0 br br table 17 0
+Natural O natural 0 0 0 0 0 0 1 br br table 17 0
+Language O language 0 0 0 0 0 0 1 br br table 17 0
+Processing O processing 0 0 0 0 0 0 1 br br table 17 0
+, O , 0 0 0 0 0 0 0 br br table 17 0
+Information O information 0 1 0 0 0 0 1 br br table 17 0
+Retrieval O retrieval 0 0 0 0 0 0 1 br br table 17 0
+
+Nicolette B-PER nicolette 1 1 0 0 0 0 1 strong p table 14 0
+Meshkat I-PER meshkat 1 1 0 0 1 0 1 strong p table 14 0
+, O , 0 0 0 0 0 0 0 p td table 13 0
+
+Clare O clare 1 1 0 0 0 0 1 p td table 13 2
+Booth O booth 1 1 0 0 0 0 1 p td table 13 2
+Luce O luce 0 1 0 0 0 0 1 p td table 13 2
+Assistant O assistant 0 0 0 0 0 0 1 p td table 13 2
+Professor O professor 0 0 0 0 1 0 1 p td table 13 2
+
+B.A. O b.a. 0 0 0 0 0 0 1 td tr table 12 0
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+University O university 0 1 0 0 0 0 1 td tr table 12 0
+of O of 0 1 0 0 0 0 0 td tr table 12 0
+California O california 0 0 0 0 0 0 1 td tr table 12 0
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Berkeley O berkeley 0 1 0 0 0 0 1 td tr table 12 0
+; O ; 0 0 0 0 0 0 0 td tr table 12 0
+M.A. O m.a. 0 0 0 0 0 0 1 td tr table 12 0
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 td tr table 12 0
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+University O university 0 1 0 0 0 0 1 td tr table 12 0
+of O of 0 1 0 0 0 0 0 td tr table 12 0
+California O california 0 0 0 0 0 0 1 td tr table 12 0
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Los O los 0 1 0 0 0 0 1 td tr table 12 0
+Angeles O angeles 0 1 0 0 0 0 1 td tr table 12 0
+
+Specialties O specialties 0 0 0 0 0 0 1 br p table 14 0
+: O : 0 0 0 0 0 0 0 br p table 14 0
+applied O applied 0 0 0 0 0 0 0 br p table 14 0
+algebraic O algebraic 0 0 0 0 0 0 0 br p table 14 0
+geometry O geometry 0 0 0 0 0 0 0 br p table 14 0
+, O , 0 0 0 0 0 0 0 br p table 14 0
+systems O systems 0 0 0 0 0 0 0 br p table 14 0
+biology O biology 0 0 0 0 0 0 0 br p table 14 0
+
+Tamsen B-PER tamsen 0 1 0 0 0 0 1 strong p table 14 0
+( I-PER ( 0 0 0 0 0 0 0 strong p table 14 0
+Whitehead I-PER whitehead 0 1 0 0 0 0 1 strong p table 14 0
+) I-PER ) 0 0 0 0 0 0 0 strong p table 14 0
+McGinley I-PER mcginley 0 1 0 0 0 0 1 strong p table 14 0
+, O , 0 0 0 0 0 0 0 p td table 13 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr table 12 0
+Professor O professor 0 0 0 0 1 0 1 td tr table 12 0
+
+B.S. O b.s. 0 0 0 0 0 0 1 td tr table 12 0
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+San O san 0 1 0 0 0 0 1 td tr table 12 0
+Diego O diego 0 1 0 0 0 0 1 td tr table 12 0
+State O state 0 1 0 0 0 0 1 td tr table 12 0
+University O university 0 1 0 0 0 0 1 td tr table 12 0
+; O ; 0 0 0 0 0 0 0 td tr table 12 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 td tr table 12 0
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+University O university 0 1 0 0 0 0 1 td tr table 12 0
+of O of 0 1 0 0 0 0 0 td tr table 12 0
+California O california 0 0 0 0 0 0 1 td tr table 12 0
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+San O san 0 1 0 0 0 0 1 td tr table 12 0
+Diego O diego 0 1 0 0 0 0 1 td tr table 12 0
+
+Specialties O specialties 0 0 0 0 0 0 1 br p table 14 0
+: O : 0 0 0 0 0 0 0 br p table 14 0
+combinatorics O combinatorics 0 0 0 0 0 0 0 br p table 14 0
+, O , 0 0 0 0 0 0 0 br p table 14 0
+theoretical O theoretical 0 0 0 0 0 0 0 br p table 14 0
+computer O computer 0 0 0 0 0 0 0 br p table 14 0
+science O science 0 0 0 0 0 0 0 br p table 14 0
+
+Mona B-PER mona 1 1 0 0 0 0 1 td tr table 12 0
+Musa I-PER musa 0 1 0 0 1 0 1 td tr table 12 0
+
+, O , 0 0 0 0 0 0 0 tr tbody table 11 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 11 2
+
+Specialties O specialties 0 0 0 0 0 0 1 br br table 14 0
+: O : 0 0 0 0 0 0 0 br br table 14 0
+algebra O algebra 0 0 0 0 0 0 0 br br table 14 0
+and O and 0 1 0 0 0 0 0 br br table 14 0
+coding O coding 0 0 0 0 0 0 0 br br table 14 0
+theory O theory 0 0 0 0 0 0 0 br br table 14 0
+, O , 0 0 0 0 0 0 0 br br table 14 0
+computer O computer 0 0 0 0 0 0 0 br br table 14 0
+algebra O algebra 0 0 0 0 0 0 0 br br table 14 0
+systems O systems 0 0 0 0 0 0 0 br br table 14 0
+
+Daniel B-PER daniel 1 1 0 0 0 0 1 strong p table 14 0
+N. I-PER n. 1 1 0 0 0 0 1 strong p table 14 0
+Ostrov I-PER ostrov 1 1 0 0 0 0 1 strong p table 14 0
+
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Professor O professor 0 0 0 0 1 0 1 td tr table 12 0
+
+Specialties O specialties 0 0 0 0 0 0 1 br br table 15 0
+: O : 0 0 0 0 0 0 0 br br table 15 0
+financial O financial 0 0 0 0 0 0 0 br br table 15 0
+mathematics O mathematics 0 0 0 0 0 0 0 br br table 15 0
+, O , 0 0 0 0 0 0 0 br br table 15 0
+partial O partial 0 0 0 0 0 0 0 br br table 15 0
+differential O differential 0 0 0 0 0 0 0 br br table 15 0
+equations O equations 0 0 0 0 0 0 0 br br table 15 0
+, O , 0 0 0 0 0 0 0 br br table 15 0
+control O control 0 0 0 0 0 0 0 br br table 15 0
+theory O theory 0 0 0 0 0 0 0 br br table 15 0
+, O , 0 0 0 0 0 0 0 br br table 15 0
+applied O applied 0 0 0 0 0 0 0 br br table 15 0
+mathematics O mathematics 0 0 0 0 0 0 0 br br table 15 0
+
+Laurie B-PER laurie 0 1 0 0 0 0 1 p td table 13 0
+Poe I-PER poe 0 1 0 0 0 0 1 p td table 13 0
+
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Senior O senior 0 1 0 0 0 0 1 td tr table 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 td tr table 12 0
+
+Specialties O specialties 0 0 0 0 0 0 1 br br table 15 0
+: O : 0 0 0 0 0 0 0 br br table 15 0
+mathematics O mathematics 0 0 0 0 0 0 0 br br table 15 0
+education O education 0 0 0 0 0 0 0 br br table 15 0
+
+Edward B-PER edward 1 1 0 0 0 0 1 strong p table 14 0
+F. I-PER f. 1 1 0 0 0 0 1 strong p table 14 0
+Schaefer I-PER schaefer 1 1 0 0 0 0 1 strong p table 14 0
+
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Professor O professor 0 0 0 0 1 0 1 td tr table 12 0
+and O and 0 1 0 0 0 0 0 td tr table 12 0
+Department O department 0 0 0 0 0 0 1 td tr table 12 0
+Chair O chair 0 1 0 0 0 0 1 td tr table 12 0
+
+Specialties O specialties 0 0 0 0 0 0 1 br br table 15 0
+: O : 0 0 0 0 0 0 0 br br table 15 0
+algebraic O algebraic 0 0 0 0 0 0 0 br br table 15 0
+number O number 0 0 0 0 0 0 0 br br table 15 0
+theory O theory 0 0 0 0 0 0 0 br br table 15 0
+, O , 0 0 0 0 0 0 0 br br table 15 0
+cryptography O cryptography 0 0 0 0 0 0 0 br br table 15 0
+, O , 0 0 0 0 0 0 0 br br table 15 0
+arithmetic O arithmetic 0 0 0 0 0 0 0 br br table 15 0
+geometry O geometry 0 0 0 0 0 0 0 br br table 15 0
+
+Richard B-PER richard 1 1 0 0 0 0 1 strong p table 14 0
+A. I-PER a. 1 1 0 0 0 0 1 strong p table 14 0
+Scott I-PER scott 1 1 0 0 0 0 1 strong p table 14 0
+
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Professor O professor 0 0 0 0 1 0 1 td tr table 12 0
+
+Specialties O specialties 0 0 0 0 0 0 1 br br table 15 0
+: O : 0 0 0 0 0 0 0 br br table 15 0
+topology O topology 0 0 0 0 0 0 0 br br table 15 0
+, O , 0 0 0 0 0 0 0 br br table 15 0
+geometric O geometric 0 0 0 0 0 0 0 br br table 15 0
+group O group 0 0 0 0 0 0 0 br br table 15 0
+theory O theory 0 0 0 0 0 0 0 br br table 15 0
+, O , 0 0 0 0 0 0 0 br br table 15 0
+algebraic O algebraic 0 0 0 0 0 0 0 br br table 15 0
+geometry O geometry 0 0 0 0 0 0 0 br br table 15 0
+
+Dennis B-PER dennis 1 1 0 0 0 0 1 strong p table 14 0
+C. I-PER c. 1 1 0 0 0 0 1 strong p table 14 0
+Smolarski I-PER smolarski 1 1 0 0 0 0 1 strong p table 14 0
+, I-PER , 0 0 0 0 0 0 0 strong p table 14 0
+S.J. I-PER s.j. 0 0 0 0 0 0 1 strong p table 14 0
+
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Professor O professor 0 0 0 0 1 0 1 td tr table 12 0
+
+Specialties O specialties 0 0 0 0 0 0 1 br br table 15 0
+: O : 0 0 0 0 0 0 0 br br table 15 0
+numerical O numerical 0 0 0 0 0 0 0 br br table 15 0
+analysis O analysis 0 0 0 0 0 0 0 br br table 15 0
+, O , 0 0 0 0 0 0 0 br br table 15 0
+iterative O iterative 0 0 0 0 0 0 0 br br table 15 0
+solution O solution 0 0 0 0 0 0 0 br br table 15 0
+of O of 0 1 0 0 0 0 0 br br table 15 0
+linear O linear 0 0 0 0 0 0 0 br br table 15 0
+systems O systems 0 0 0 0 0 0 0 br br table 15 0
+
+Nicholas B-PER nicholas 1 1 0 0 0 0 1 strong p table 14 0
+Tran I-PER tran 1 1 0 0 0 0 1 strong p table 14 0
+
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Associate O associate 0 1 0 0 0 0 1 td tr table 12 0
+Professor O professor 0 0 0 0 1 0 1 td tr table 12 0
+
+Specialties O specialties 0 0 0 0 0 0 1 br br table 15 0
+: O : 0 0 0 0 0 0 0 br br table 15 0
+information O information 0 0 0 0 0 0 0 br br table 15 0
+security O security 0 0 0 0 0 0 0 br br table 15 0
+, O , 0 0 0 0 0 0 0 br br table 15 0
+complexity O complexity 0 0 0 0 0 0 0 br br table 15 0
+theory O theory 0 0 0 0 0 0 0 br br table 15 0
+
+Byron B-PER byron 1 1 0 0 0 0 1 strong p table 14 0
+L. I-PER l. 1 1 0 0 0 0 1 strong p table 14 0
+Walden I-PER walden 1 1 0 0 0 0 1 strong p table 14 0
+
+, O , 0 0 0 0 0 0 0 td tr table 12 0
+Associate O associate 0 1 0 0 0 0 1 td tr table 12 0
+Professor O professor 0 0 0 0 1 0 1 td tr table 12 0
+
+Specialties O specialties 0 0 0 0 0 0 1 br br table 15 0
+: O : 0 0 0 0 0 0 0 br br table 15 0
+complex O complex 0 0 0 0 0 0 0 br br table 15 0
+analysis O analysis 0 0 0 0 0 0 0 br br table 15 0
+, O , 0 0 0 0 0 0 0 br br table 15 0
+computer O computer 0 0 0 0 0 0 0 br br table 15 0
+science O science 0 0 0 0 0 0 0 br br table 15 0
+
+Adjunct O adjunct 0 0 0 0 0 0 1 div div col-sm-8 8 0
+Faculty O faculty 0 0 0 0 0 0 1 div div col-sm-8 8 0
+
+Linda B-PER linda 0 1 0 0 0 0 1 td tr col-sm-8 12 0
+C. I-PER c. 0 1 0 0 0 0 1 td tr col-sm-8 12 0
+Burks I-PER burks 0 1 0 0 0 0 1 td tr col-sm-8 12 0
+
+, O , 0 0 0 0 0 0 0 tr tbody col-sm-8 11 2
+Inclusive O inclusive 0 0 0 0 0 0 1 tr tbody col-sm-8 11 2
+Excellence O excellence 0 0 0 0 0 0 1 tr tbody col-sm-8 11 2
+Post O post 0 1 0 0 0 0 1 tr tbody col-sm-8 11 2
+- O - 0 0 0 0 0 0 0 tr tbody col-sm-8 11 2
+doctoral O doctoral 0 0 0 0 0 0 0 tr tbody col-sm-8 11 2
+Fellow O fellow 0 0 0 0 0 0 1 tr tbody col-sm-8 11 2
+
+Specialty O specialty 0 0 0 0 0 0 1 br br col-sm-8 14 0
+: O : 0 0 0 0 0 0 0 br br col-sm-8 14 0
+Mathematics O mathematics 0 0 0 0 0 0 1 br br col-sm-8 14 0
+education O education 0 0 0 0 0 0 0 br br col-sm-8 14 0
+
+Suzanne B-PER suzanne 0 1 0 0 0 0 1 p td col-sm-8 13 0
+Damm I-PER damm 0 1 0 0 0 0 1 p td col-sm-8 13 0
+
+, O , 0 0 0 0 0 0 0 td tr col-sm-8 12 0
+Quarterly O quarterly 0 0 0 0 0 0 1 td tr col-sm-8 12 0
+Adjunct O adjunct 0 0 0 0 0 0 1 td tr col-sm-8 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 td tr col-sm-8 12 0
+
+Carrie B-PER carrie 0 1 0 0 0 0 1 td tr col-sm-8 12 0
+Frates I-PER frates 0 0 0 0 0 0 1 td tr col-sm-8 12 0
+
+, O , 0 0 0 0 0 0 0 tr tbody col-sm-8 11 2
+Academic O academic 0 0 0 0 0 0 1 tr tbody col-sm-8 11 2
+Year O year 0 1 0 0 0 0 1 tr tbody col-sm-8 11 2
+Adjunct O adjunct 0 0 0 0 0 0 1 tr tbody col-sm-8 11 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody col-sm-8 11 2
+
+Specialties O specialties 0 0 0 0 0 0 1 br br col-sm-8 14 0
+: O : 0 0 0 0 0 0 0 br br col-sm-8 14 0
+mathematics O mathematics 0 0 0 0 0 0 0 br br col-sm-8 14 0
+and O and 0 1 0 0 0 0 0 br br col-sm-8 14 0
+health O health 0 0 0 0 0 0 0 br br col-sm-8 14 0
+education O education 0 0 0 0 0 0 0 br br col-sm-8 14 0
+
+Matthew B-PER matthew 0 1 0 0 0 0 1 td tr col-sm-8 12 0
+O’Dell I-PER o’dell 0 0 0 0 0 0 1 td tr col-sm-8 12 0
+
+, O , 0 0 0 0 0 0 0 tr tbody col-sm-8 11 2
+Academic O academic 0 0 0 0 0 0 1 tr tbody col-sm-8 11 2
+Year O year 0 1 0 0 0 0 1 tr tbody col-sm-8 11 2
+Adjunct O adjunct 0 0 0 0 0 0 1 tr tbody col-sm-8 11 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody col-sm-8 11 2
+
+Norman B-PER norman 0 1 0 0 0 0 1 p td col-sm-8 13 0
+Paris I-PER paris 0 1 0 0 0 0 1 p td col-sm-8 13 0
+
+, O , 0 0 0 0 0 0 0 td tr col-sm-8 12 0
+Academic O academic 0 0 0 0 0 0 1 td tr col-sm-8 12 0
+Year O year 0 1 0 0 0 0 1 td tr col-sm-8 12 0
+Adjunct O adjunct 0 0 0 0 0 0 1 td tr col-sm-8 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 td tr col-sm-8 12 0
+
+Reza B-PER reza 0 1 0 0 0 0 1 td tr col-sm-8 12 0
+Shariatmadari I-PER shariatmadari 0 1 0 0 0 0 1 td tr col-sm-8 12 0
+
+, O , 0 0 0 0 0 0 0 tr tbody col-sm-8 11 2
+Academic O academic 0 0 0 0 0 0 1 tr tbody col-sm-8 11 2
+Year O year 0 1 0 0 0 0 1 tr tbody col-sm-8 11 2
+Adjunct O adjunct 0 0 0 0 0 0 1 tr tbody col-sm-8 11 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody col-sm-8 11 2
+
+Specialty O specialty 0 0 0 0 0 0 1 br br col-sm-8 14 0
+: O : 0 0 0 0 0 0 0 br br col-sm-8 14 0
+graph O graph 0 0 0 0 0 0 0 br br col-sm-8 14 0
+theory O theory 0 0 0 0 0 0 0 br br col-sm-8 14 0
+
+Navid B-PER navid 0 1 0 0 0 0 1 span p col-sm-8 14 0
+Shaghaghi I-PER shaghaghi 0 1 0 0 0 0 1 span p col-sm-8 14 0
+, O , 0 0 0 0 0 0 0 span p col-sm-8 14 0
+
+Academic O academic 0 0 0 0 0 0 1 p td col-sm-8 13 0
+Year O year 0 1 0 0 0 0 1 p td col-sm-8 13 0
+Adjunct O adjunct 0 0 0 0 0 0 1 p td col-sm-8 13 0
+Lecturer O lecturer 0 0 0 0 0 0 1 p td col-sm-8 13 0
+
+Diane B-PER diane 0 1 0 0 0 0 1 td tr col-sm-8 12 0
+Taylor I-PER taylor 0 1 0 0 0 0 1 td tr col-sm-8 12 0
+
+, O , 0 0 0 0 0 0 0 tr tbody col-sm-8 11 2
+Academic O academic 0 0 0 0 0 0 1 tr tbody col-sm-8 11 2
+Year O year 0 1 0 0 0 0 1 tr tbody col-sm-8 11 2
+Adjunct O adjunct 0 0 0 0 0 0 1 tr tbody col-sm-8 11 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody col-sm-8 11 2
+
+Specialty O specialty 0 0 0 0 0 0 1 br br col-sm-8 14 0
+: O : 0 0 0 0 0 0 0 br br col-sm-8 14 0
+fluid O fluid 0 0 0 0 0 0 0 br br col-sm-8 14 0
+mechanics O mechanics 0 0 0 0 0 0 0 br br col-sm-8 14 0
+
+Ignacio B-PER ignacio 1 1 0 0 0 0 1 p td col-sm-8 13 0
+Terrizzano I-PER terrizzano 1 1 0 0 0 0 1 p td col-sm-8 13 0
+
+, O , 0 0 0 0 0 0 0 td tr col-sm-8 12 0
+Quarterly O quarterly 0 0 0 0 0 0 1 td tr col-sm-8 12 0
+Adjunct O adjunct 0 0 0 0 0 0 1 td tr col-sm-8 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 td tr col-sm-8 12 0
+
+Katelyn B-PER katelyn 0 1 0 0 0 0 1 p td col-sm-8 13 0
+White I-PER white 0 1 0 0 0 0 1 p td col-sm-8 13 0
+
+, O , 0 0 0 0 0 0 0 td tr col-sm-8 12 0
+Academic O academic 0 0 0 0 0 0 1 td tr col-sm-8 12 0
+Year O year 0 1 0 0 0 0 1 td tr col-sm-8 12 0
+Adjunct O adjunct 0 0 0 0 0 0 1 td tr col-sm-8 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 td tr col-sm-8 12 0
+
+Julia B-PER julia 1 1 0 0 0 0 1 strong span col-sm-8 15 0
+Zuev I-PER zuev 1 1 0 0 0 0 1 strong span col-sm-8 15 0
+
+, O , 0 0 0 0 0 0 0 p td col-sm-8 13 0
+Quarterly O quarterly 0 0 0 0 0 0 1 p td col-sm-8 13 0
+Adjunct O adjunct 0 0 0 0 0 0 1 p td col-sm-8 13 0
+Lecturer O lecturer 0 0 0 0 0 0 1 p td col-sm-8 13 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 nav div side-navigation-header 8 0
+& O & 0 0 0 0 0 0 0 nav div side-navigation-header 8 0
+Computer O computer 0 0 0 0 0 0 1 nav div side-navigation-header 8 0
+Science O science 0 0 0 0 0 0 1 nav div side-navigation-header 8 0
+
+About O about 0 0 0 0 0 0 1 li ul match-page-title 10 0
+Us O us 0 1 0 0 0 0 1 li ul match-page-title 10 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul match-page-title 10 0
+Program O program 0 0 0 0 0 0 1 li ul match-page-title 10 0
+
+Faculty O faculty 0 0 0 0 0 0 1 span li currentbranch0 11 0
+and O and 0 1 0 0 0 0 0 span li currentbranch0 11 0
+Staff O staff 0 1 0 0 0 0 1 span li currentbranch0 11 0
+
+Student O student 0 1 0 0 0 0 1 li ul match-page-title 10 0
+Resources O resources 0 0 0 0 0 0 1 li ul match-page-title 10 0
+
+Beyond O beyond 0 0 0 0 0 0 1 li ul match-page-title 10 0
+the O the 0 1 0 0 0 0 0 li ul match-page-title 10 0
+Classroom O classroom 0 0 0 0 0 0 1 li ul match-page-title 10 0
+
+Life O life 0 1 0 0 0 0 1 li ul match-page-title 10 0
+After O after 0 0 0 0 0 0 1 li ul match-page-title 10 0
+SCU O scu 0 0 0 0 0 0 1 li ul match-page-title 10 0
+
+News O news 0 0 0 0 0 0 1 li ul match-page-title 10 0
+and O and 0 1 0 0 0 0 0 li ul match-page-title 10 0
+Events O events 0 0 0 0 0 0 1 li ul match-page-title 10 0
+
+Santa O santa 0 1 0 0 0 0 1 div div text-uppercase 10 0
+Clara O clara 0 1 0 0 0 0 1 div div text-uppercase 10 0
+University O university 0 1 0 0 0 0 1 div div text-uppercase 10 0
+
+The O the 0 1 0 0 0 0 1 div div text-uppercase 10 0
+Jesuit O jesuit 0 0 0 0 0 0 1 div div text-uppercase 10 0
+University O university 0 1 0 0 0 0 1 div div text-uppercase 10 0
+in O in 0 1 0 0 0 0 0 div div text-uppercase 10 0
+Silicon O silicon 0 0 0 0 0 0 1 div div text-uppercase 10 0
+Valley O valley 0 1 0 0 0 0 1 div div text-uppercase 10 0
+
+500 O 500 0 0 0 1 0 0 0 p div street-address 13 0
+El O el 0 1 0 0 0 0 1 p div street-address 13 0
+Camino O camino 0 1 0 0 0 0 1 p div street-address 13 0
+Real O real 0 1 0 0 0 0 1 p div street-address 13 0
+, O , 0 0 0 0 0 0 0 div div adr 12 0
+
+Contact O contact 0 0 0 0 0 0 1 p nav text-right 12 0
+Us O us 0 1 0 0 0 0 1 p nav text-right 12 0
+
+Emergency O emergency 0 0 0 0 1 0 1 p nav col-xs-5 12 0
+Info O info 0 0 0 0 0 0 1 p nav col-xs-5 12 0
+
+Follow O follow 0 0 0 0 0 0 1 a span sr-only 14 1
+us O us 0 1 0 0 0 0 0 a span sr-only 14 1
+on O on 0 0 0 0 0 0 0 a span sr-only 14 1
+Facebook O facebook 0 0 0 0 0 0 1 a span sr-only 14 1
+Follow O follow 0 0 0 0 0 0 1 a span sr-only 14 1
+us O us 0 1 0 0 0 0 0 a span sr-only 14 1
+on O on 0 0 0 0 0 0 0 a span sr-only 14 1
+Twitter O twitter 0 0 0 0 0 0 1 a span sr-only 14 1
+Join O join 0 1 0 0 0 0 1 a span sr-only 14 1
+us O us 0 1 0 0 0 0 0 a span sr-only 14 1
+on O on 0 0 0 0 0 0 0 a span sr-only 14 1
+LinkedIn O linkedin 0 0 0 0 0 0 1 a span sr-only 14 1
+Follow O follow 0 0 0 0 0 0 1 a span sr-only 14 1
+us O us 0 1 0 0 0 0 0 a span sr-only 14 1
+on O on 0 0 0 0 0 0 0 a span sr-only 14 1
+Pinterest O pinterest 0 0 0 0 0 0 1 a span sr-only 14 1
+Follow O follow 0 0 0 0 0 0 1 a span sr-only 14 1
+us O us 0 1 0 0 0 0 0 a span sr-only 14 1
+on O on 0 0 0 0 0 0 0 a span sr-only 14 1
+Instagram O instagram 0 0 0 0 0 0 1 a span sr-only 14 1
+
+Social O social 0 0 0 0 0 0 1 p nav text-right 12 0
+Media O media 0 1 0 0 0 0 1 p nav text-right 12 0
+
+© O © 0 0 0 0 0 0 0 p div t4Edit-page 7 0
+2017 O 2017 0 0 0 1 0 0 0 div footer text-center 6 0
+SCU O scu 0 0 0 0 0 0 1 div footer text-center 6 0

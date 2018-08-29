@@ -6,55 +6,62 @@ import re
 from bs4 import BeautifulSoup, Tag
 from bs4.element import NavigableString
 
-class HtmlToken():
-  """ 
-  An HTML token is a composite object containing a value, and the corresponding HTML element from where that value was extracted.
-  It also holds a list of textual and structural features.
-  """
+def remove_accents(tkn):
+  text = tkn.strip().lower()
 
+  special_chars = "ÀÁÂÃÄÅÆÇÈÉÊËÌÍİÎÏÐÑÒÓÔÕÖĞ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿšŽčžŠšČłńężśćŞ"
+  chars         = "aaaaaaeceeeeiiiiidnooooogxouuuuypsaaaaaaeceeeeiiiionooooooouuuuypyszczssclnezscs"
+
+  new_text = ""
+  for c in text:
+    index = special_chars.find(c)
+    if index != -1:
+      new_text += chars[index]
+    else:
+      new_text += c
+
+  return new_text 
+
+class HtmlToken():
   def __init__(self, tkn, element):
     self.tkn = tkn
     self.element = element
     self.features = []
     self.bio_tag = 'O'
-    self.exact_match = False
-    self.partial_match = False
+    self.set_features()
 
-  def set_features(self, features):
-    self.features = features
+  def is_email(self):
+    return 1 if re.match('\S+@\S+(\.\S+)+', self.tkn) else 0
 
-class Tokenizer():
-  def __init__(self):
-    self.exact_gazetteer = {}
-    self.partial_gazetteer = {}
+  def is_url(self):
+    regex = 'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+'
+    return 1 if re.match(regex, self.tkn) else 0
 
-  def tokenize_text(self, text):
-    return re.compile("\s+").split(text)
+  def is_number(self):
+    return 1 if any(c.isdigit() for c in self.tkn) else 0
 
-  def create_token(self, tkn_value, element):
-    tkn = HtmlToken(tkn_value, element)
-    tkn.set_features([
-      str(self.get_parent(element)), 
-      str(self.get_second_parent(element)), 
-      str(self.get_class_name(element)), 
-      str(self.get_text_depth(element)), 
-      str(self.get_element_position(element))
-    ])
+  def is_capitalized(self):
+    if len(self.tkn) > 0:
+      return 1 if self.tkn[0].isupper() else 0
+    return 0
 
-    return tkn
+  def is_title(self):
+    titles = ['m.sc.','sc.nat.','rer.nat.','sc.nat.','md.',
+      'b.sc.', 'bs.sc.', 'ph.d.', 'ed.d.', 'm.s.', 'hon.', 
+      'a.d.', 'em.', 'apl.', 'prof.', 'prof.dr.', 'conf.dr.',
+      'asist.dr.', 'dr.', 'mr.', 'mrs.']
+
+    for t in titles:
+      if re.match(t, self.tkn, re.IGNORECASE):
+        return 1
+    return 0
 
   def get_parent(self, element):
-    """ 
-    Returns the parent tag of an HTML element.
-    """
     if element.parent != None:
       return element.parent.name
     return ''
 
   def get_second_parent(self, element):
-    """ 
-    Returns the second parent tag of an HTML element.
-    """
     if element.parent != None:
       if element.parent.parent != None:
         return element.parent.parent.name
@@ -64,7 +71,7 @@ class Tokenizer():
     while element != None:
       if element.has_attr("class"):
         try:
-          class_name = ".".join(element.get("class"))
+          class_name = element.get("class")[-1]
           return class_name
         except:
           break
@@ -73,10 +80,6 @@ class Tokenizer():
     return 'none'
 
   def get_text_depth(self, element):
-    """ 
-    Returns the number of "indents" in the DOM Tree until the HTML
-    element is reached.
-    """
     text_depth = 0
     while element != None:
       element = element.parent
@@ -84,10 +87,6 @@ class Tokenizer():
     return text_depth
 
   def get_element_position(self, element):
-    """ 
-    Returns the position of an HTML element in comparison with its siblings 
-    relative to the HTML parent element.
-    """
     element_position = 0
     if element.parent != None:
       for child in element.parent.findChildren():
@@ -95,6 +94,35 @@ class Tokenizer():
           break
         element_position += 1
     return element_position
+
+  def set_features(self):
+    self.features = [
+      str(remove_accents(self.tkn)),
+      0, # Exact match.
+      0, # Partial match.
+      str(self.is_email()),
+      str(self.is_number()),
+      str(self.is_title()),
+      str(self.is_url()),
+      str(self.is_capitalized()),
+      str(self.get_parent(self.element)), 
+      str(self.get_second_parent(self.element)), 
+      str(self.get_class_name(self.element)), 
+      str(self.get_text_depth(self.element)), 
+      str(self.get_element_position(self.element))
+    ]
+
+def tokenize_text(text):
+  tkns = re.compile("(\s+|[\,\;\:\-\"'\(\)“”])").split(text)
+  return [t for t in tkns if re.compile("\s+").match(t) is None and len(t) > 0] 
+
+class Tokenizer():
+  def __init__(self):
+    self.exact_gazetteer = {}
+    self.partial_gazetteer = {}
+
+  def create_token(self, tkn_value, element):
+    return HtmlToken(tkn_value, element)
 
   def assign_correct_labels(self, tokens, correct_names):
     correct_names = [n.split(' ') for n in correct_names]
@@ -116,15 +144,15 @@ class Tokenizer():
       if size == 0:
         i += 1
       else:
-        tokens[i].bio_tag = 'B-NAME'
+        tokens[i].bio_tag = 'B-PER'
         for j in range(i + 1, i + size):
-          tokens[j].bio_tag = 'I-NAME'
+          tokens[j].bio_tag = 'I-PER'
         i += size
 
     for i in range(len(tokens)):
       # Partial match.
       if tokens[i].tkn in self.partial_gazetteer:
-        tokens[i].partial_match = True
+        tokens[i].features[2] = 1
 
       # Exact match.
       for j in reversed(range(6)): 
@@ -134,7 +162,7 @@ class Tokenizer():
         name = ' '.join([t.tkn for t in tokens[i:i+j+1]])
         if name in self.exact_gazetteer:
           for k in range(i, i+j+1):
-            tokens[k].exact_match = True
+            tokens[k].features[1] = 1
           break
 
   def get_block_element(self, tkn):
@@ -181,7 +209,7 @@ class Tokenizer():
       if len(content) == 0:
         continue
 
-      for t in self.tokenize_text(content):
+      for t in tokenize_text(content):
         t = self.create_token(t, n_str.parent)
         tkns.append(t)
 
@@ -212,21 +240,25 @@ class Tokenizer():
     return sentences
 
 if __name__ == '__main__':
-  if len(sys.argv) != 4:
+  if len(sys.argv) != 2:
     print('Wrong arguments')
     quit()
 
   tokenizer = Tokenizer()
-  
+
+  zero_padded = sys.argv[1].zfill(3)  
+  html_file = 'htmls/' + zero_padded + '.html'
+  target_file = 'target_names/target_names_' + zero_padded + '.txt'
+
   target_names = []
-  with open(sys.argv[2]) as f:
+  with open(target_file) as f:
     for name in f:
       if len(name) == 0: 
         continue
-      name = " ".join(tokenizer.tokenize_text(name.strip()))
+      name = " ".join(tokenize_text(name.strip()))
       target_names.append(name.strip())
 
-  with open(sys.argv[3]) as f:
+  with open('names.txt') as f:
     for name in f:
       if len(name) == 0: 
         continue
@@ -236,11 +268,11 @@ if __name__ == '__main__':
       for t in name.split(' '):
         tokenizer.partial_gazetteer[t] = True
   
-  with open(sys.argv[1]) as f:
+  with open(html_file) as f:
     sentences = tokenizer.tokenize(f.read(), target_names)
   
     for i, s in enumerate(sentences):
       for t in s:
-        print(t.tkn, t.bio_tag, 1 if t.exact_match else 0, 1 if t.partial_match else 0, ' '.join(t.features))
+        print(t.tkn, t.bio_tag, ' '.join(str(t) for t in t.features))
       if i < len(sentences) - 1:
         print('')

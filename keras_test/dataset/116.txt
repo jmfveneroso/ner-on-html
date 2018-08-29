@@ -1,509 +1,535 @@
-Professors O 0 0 head html none 4 1
-EESP O 0 0 head html none 4 1
-| O 0 0 head html none 4 1
-FGV-EESP O 0 0 head html none 4 1
+Professors O professors 0 0 0 0 1 0 1 head html none 4 1
+EESP O eesp 0 0 0 0 0 0 1 head html none 4 1
+| O | 0 0 0 0 0 0 0 head html none 4 1
+FGV O fgv 0 0 0 0 0 0 1 head html none 4 1
+- O - 0 0 0 0 0 0 0 head html none 4 1
+EESP O eesp 0 0 0 0 0 0 1 head html none 4 1
 
-- O 0 0 a div changer 10 0
+- O - 0 0 0 0 0 0 0 a div changer 10 0
 
-A O 0 1 div div changer 9 0
+A O a 0 1 0 0 0 0 1 div div changer 9 0
 
-+ O 0 0 a div changer 10 0
++ O + 0 0 0 0 0 0 0 a div changer 10 0
 
-A O 0 1 div div changer 9 2
+A O a 0 1 0 0 0 0 1 div div changer 9 2
 
-Admittion O 0 0 li ul leaf.first.no-dhtml. 11 0
-Center O 0 1 li ul leaf.first.no-dhtml. 11 0
+Admittion O admittion 0 0 0 0 0 0 1 li ul  11 0
+Center O center 0 1 0 0 0 0 1 li ul  11 0
 
-Portal O 0 1 li ul expanded.no-dhtml. 11 0
-FGV O 0 0 li ul expanded.no-dhtml. 11 0
+Portal O portal 0 1 0 0 0 0 1 li ul  11 0
+FGV O fgv 0 0 0 0 0 0 1 li ul  11 0
 
-FGV O 0 0 li ul leaf.first.last.no-dhtml. 13 0
-Publisher O 0 0 li ul leaf.first.last.no-dhtml. 13 0
+FGV O fgv 0 0 0 0 0 0 1 li ul  13 0
+Publisher O publisher 0 0 0 0 0 0 1 li ul  13 0
 
-Student O 0 1 li ul expanded.no-dhtml. 11 0
-Support O 0 0 li ul expanded.no-dhtml. 11 0
+Student O student 0 1 0 0 0 0 1 li ul  11 0
+Support O support 0 0 0 0 0 0 1 li ul  11 0
 
-Webmail O 0 0 li ul leaf.first.no-dhtml. 13 0
+Webmail O webmail 0 0 0 0 0 0 1 li ul  13 0
 
-Eclass O 0 0 li ul leaf.no-dhtml. 13 0
+Eclass O eclass 0 0 0 0 0 0 1 li ul  13 0
 
-Student O 0 1 li ul leaf.no-dhtml. 13 0
-Online O 0 0 li ul leaf.no-dhtml. 13 0
+Student O student 0 1 0 0 0 0 1 li ul  13 0
+Online O online 0 0 0 0 0 0 1 li ul  13 0
 
-Intranet O 0 0 li ul leaf.last.no-dhtml. 13 0
+Intranet O intranet 0 0 0 0 0 0 1 li ul  13 0
 
-Professors O 0 0 li ul expanded.no-dhtml. 11 0
-Support O 0 0 li ul expanded.no-dhtml. 11 0
+Professors O professors 0 0 0 0 1 0 1 li ul  11 0
+Support O support 0 0 0 0 0 0 1 li ul  11 0
 
-Webmail O 0 0 li ul leaf.first.no-dhtml. 13 0
+Webmail O webmail 0 0 0 0 0 0 1 li ul  13 0
 
-Eclass O 0 0 li ul leaf.no-dhtml. 13 0
+Eclass O eclass 0 0 0 0 0 0 1 li ul  13 0
 
-Professor O 0 0 li ul leaf.no-dhtml. 13 0
-Online O 0 0 li ul leaf.no-dhtml. 13 0
+Professor O professor 0 0 0 0 1 0 1 li ul  13 0
+Online O online 0 0 0 0 0 0 1 li ul  13 0
 
-Intranet O 0 0 li ul leaf.last.no-dhtml. 13 0
+Intranet O intranet 0 0 0 0 0 0 1 li ul  13 0
 
-Portal O 0 1 li ul leaf.no-dhtml. 11 0
-ex-alunos O 0 0 li ul leaf.no-dhtml. 11 0
+Portal O portal 0 1 0 0 0 0 1 li ul  11 0
+ex O ex 0 0 0 0 0 0 0 li ul  11 0
+- O - 0 0 0 0 0 0 0 li ul  11 0
+alunos O alunos 0 0 0 0 0 0 0 li ul  11 0
 
-Press O 0 1 li ul leaf.no-dhtml. 11 0
+Press O press 0 1 0 0 0 0 1 li ul  11 0
 
-Library O 0 0 li ul leaf.no-dhtml. 11 0
+Library O library 0 0 0 0 0 0 1 li ul  11 0
 
-Internships O 0 0 li ul leaf.no-dhtml. 11 0
+Internships O internships 0 0 0 0 0 0 1 li ul  11 0
 
-Contact O 0 0 li ul leaf.no-dhtml. 11 0
+Contact O contact 0 0 0 0 0 0 1 li ul  11 0
 
-Site O 0 1 li ul leaf.last.no-dhtml. 11 0
-Map O 0 0 li ul leaf.last.no-dhtml. 11 0
+Site O site 0 1 0 0 0 0 1 li ul  11 0
+Map O map 0 0 0 0 0 0 1 li ul  11 0
 
-Home O 0 1 li ul leaf.first.no-dhtml. 10 0
-Page O 0 1 li ul leaf.first.no-dhtml. 10 0
+Home O home 0 1 0 0 0 0 1 li ul  10 0
+Page O page 0 1 0 0 0 0 1 li ul  10 0
 
-The O 0 1 li ul expanded.no-dhtml. 10 0
-School O 0 1 li ul expanded.no-dhtml. 10 0
+The O the 0 1 0 0 0 0 1 li ul  10 0
+School O school 0 1 0 0 0 0 1 li ul  10 0
 
-Presentation O 0 0 li ul leaf.first.no-dhtml. 12 0
+Presentation O presentation 0 0 0 0 0 0 1 li ul  12 0
 
-EESP´s O 0 0 li ul leaf.no-dhtml. 12 0
-Mission O 0 1 li ul leaf.no-dhtml. 12 0
+EESP´s O eesp´s 0 0 0 0 0 0 1 li ul  12 0
+Mission O mission 0 1 0 0 1 0 1 li ul  12 0
 
-A O 0 1 li ul leaf.no-dhtml. 12 0
-New O 0 1 li ul leaf.no-dhtml. 12 0
-Model O 0 1 li ul leaf.no-dhtml. 12 0
-of O 0 1 li ul leaf.no-dhtml. 12 0
-Education O 0 0 li ul leaf.no-dhtml. 12 0
+A O a 0 1 0 0 0 0 1 li ul  12 0
+New O new 0 1 0 0 0 0 1 li ul  12 0
+Model O model 0 1 0 0 0 0 1 li ul  12 0
+of O of 0 1 0 0 0 0 0 li ul  12 0
+Education O education 0 0 0 0 0 0 1 li ul  12 0
 
-Facilities O 0 0 li ul leaf.no-dhtml. 12 0
+Facilities O facilities 0 0 0 0 0 0 1 li ul  12 0
 
-How O 0 1 li ul leaf.no-dhtml. 12 0
-to O 0 0 li ul leaf.no-dhtml. 12 0
-Get O 0 0 li ul leaf.no-dhtml. 12 0
-There O 0 0 li ul leaf.no-dhtml. 12 0
+How O how 0 1 0 0 0 0 1 li ul  12 0
+to O to 0 0 0 0 0 0 0 li ul  12 0
+Get O get 0 0 0 0 0 0 1 li ul  12 0
+There O there 0 0 0 0 0 0 1 li ul  12 0
 
-Other O 0 1 li ul leaf.no-dhtml. 12 0
-Services O 0 0 li ul leaf.no-dhtml. 12 0
+Other O other 0 1 0 0 0 0 1 li ul  12 0
+Services O services 0 0 0 0 0 0 1 li ul  12 0
 
-São O 0 1 li ul leaf.last.no-dhtml. 12 0
-Paulo O 0 1 li ul leaf.last.no-dhtml. 12 0
+São O sao 0 1 0 0 0 0 1 li ul  12 0
+Paulo O paulo 0 1 0 0 0 0 1 li ul  12 0
 
-Professors O 0 0 li ul active 10 0
+Professors O professors 0 0 0 0 1 0 1 li ul active 10 0
 
-Professors O 0 0 li ul active 12 0
-EESP O 0 0 li ul active 12 0
+Professors O professors 0 0 0 0 1 0 1 li ul active 12 0
+EESP O eesp 0 0 0 0 0 0 1 li ul active 12 0
 
-Professors O 0 0 li ul leaf.no-dhtml. 12 0
-PhD. O 0 0 li ul leaf.no-dhtml. 12 0
-Program O 0 0 li ul leaf.no-dhtml. 12 0
+Professors O professors 0 0 0 0 1 0 1 li ul  12 0
+PhD. O phd. 0 0 0 0 0 0 1 li ul  12 0
+Program O program 0 0 0 0 0 0 1 li ul  12 0
 
-Invited O 0 0 li ul leaf.last.no-dhtml. 12 0
-Professors O 0 0 li ul leaf.last.no-dhtml. 12 0
+Invited O invited 0 0 0 0 0 0 1 li ul  12 0
+Professors O professors 0 0 0 0 1 0 1 li ul  12 0
 
-Community O 0 1 li ul expanded.no-dhtml. 10 0
+Community O community 0 1 0 0 0 0 1 li ul  10 0
 
-Junior O 0 1 li ul leaf.first.last.no-dhtml. 12 0
-Economics O 0 0 li ul leaf.first.last.no-dhtml. 12 0
-Consulting O 0 0 li ul leaf.first.last.no-dhtml. 12 0
+Junior O junior 0 1 0 0 0 0 1 li ul  12 0
+Economics O economics 0 0 0 0 0 0 1 li ul  12 0
+Consulting O consulting 0 0 0 0 0 0 1 li ul  12 0
 
-Research O 0 1 li ul expanded.no-dhtml. 10 0
-
-Study O 0 1 li ul leaf.first.no-dhtml. 12 0
-Center O 0 1 li ul leaf.first.no-dhtml. 12 0
+Research O research 0 1 0 0 0 0 1 li ul  10 0
+
+Study O study 0 1 0 0 0 0 1 li ul  12 0
+Center O center 0 1 0 0 0 0 1 li ul  12 0
 
-Theses O 0 0 li ul leaf.no-dhtml. 12 0
-and O 0 1 li ul leaf.no-dhtml. 12 0
-Dissertations O 0 0 li ul leaf.no-dhtml. 12 0
+Theses O theses 0 0 0 0 0 0 1 li ul  12 0
+and O and 0 1 0 0 0 0 0 li ul  12 0
+Dissertations O dissertations 0 0 0 0 0 0 1 li ul  12 0
 
-Working O 0 0 li ul leaf.no-dhtml. 12 0
-Papers O 0 0 li ul leaf.no-dhtml. 12 0
-
-Academic O 0 0 li ul leaf.last.no-dhtml. 12 0
-Seminars O 0 0 li ul leaf.last.no-dhtml. 12 0
-
-Education O 0 0 li ul collapsed.no-dhtml. 10 0
-
-Events O 0 0 li ul expanded.no-dhtml. 10 0
-
-Conference O 0 1 li ul leaf.first.no-dhtml. 12 0
-Series O 0 1 li ul leaf.first.no-dhtml. 12 0
-FGV/EESP O 0 0 li ul leaf.first.no-dhtml. 12 0
-
-Laporde O 0 0 li ul leaf.no-dhtml. 12 0
-
-Economics O 0 0 li ul leaf.no-dhtml. 12 0
-Forum O 0 1 li ul leaf.no-dhtml. 12 0
-
-Laporde O 0 0 li ul expanded.no-dhtml. 12 0
-
-The O 0 1 li ul leaf.first.last.no-dhtml. 14 0
-Sixth O 0 0 li ul leaf.first.last.no-dhtml. 14 0
-Latin O 0 1 li ul leaf.first.last.no-dhtml. 14 0
-American O 0 0 li ul leaf.first.last.no-dhtml. 14 0
-Advanced O 0 0 li ul leaf.first.last.no-dhtml. 14 0
-Programme O 0 0 li ul leaf.first.last.no-dhtml. 14 0
-on O 0 0 li ul leaf.first.last.no-dhtml. 14 0
-Rethinking O 0 0 li ul leaf.first.last.no-dhtml. 14 0
-Macro O 0 1 li ul leaf.first.last.no-dhtml. 14 0
-and O 0 1 li ul leaf.first.last.no-dhtml. 14 0
-Development O 0 0 li ul leaf.first.last.no-dhtml. 14 0
-Economics O 0 0 li ul leaf.first.last.no-dhtml. 14 0
-
-Série O 0 0 li ul expanded.last.no-dhtml. 12 0
-de O 0 1 li ul expanded.last.no-dhtml. 12 0
-Conferências O 0 0 li ul expanded.last.no-dhtml. 12 0
-
-9th O 0 0 li ul leaf.first.no-dhtml. 14 0
-Annual O 0 0 li ul leaf.first.no-dhtml. 14 0
-Conference O 0 1 li ul leaf.first.no-dhtml. 14 0
-
-7th O 0 0 li ul leaf.last.no-dhtml. 14 0
-Annual O 0 0 li ul leaf.last.no-dhtml. 14 0
-Conference O 0 1 li ul leaf.last.no-dhtml. 14 0
-
-International O 0 0 li ul leaf.last.no-dhtml. 10 0
-Affairs O 0 0 li ul leaf.last.no-dhtml. 10 0
-
-Professors O 0 0 div div block.block-local_menu 7 0
-
-Professors O 0 0 li ul active 10 0
-EESP O 0 0 li ul active 10 0
-
-Professors O 0 0 li ul leaf.no-dhtml. 10 0
-PhD. O 0 0 li ul leaf.no-dhtml. 10 0
-Program O 0 0 li ul leaf.no-dhtml. 10 0
-
-Invited O 0 0 li ul leaf.last.no-dhtml. 10 0
-Professors O 0 0 li ul leaf.last.no-dhtml. 10 0
-
-Home O 0 1 div div breadcrumb 7 0
-» O 0 0 div div breadcrumb 6 0
-Professores O 0 0 div div breadcrumb 7 1
-» O 0 0 div div breadcrumb 6 0
-Professors O 0 0 div div active 7 2
-EESP O 0 0 div div active 7 2
-
-Professors O 0 0 div div page-title 6 4
-EESP O 0 0 div div page-title 6 4
-
-To O 0 1 div div description 15 1
-prevent O 0 0 div div description 15 1
-automated O 0 0 div div description 15 1
-spam O 0 0 div div description 15 1
-submissions O 0 0 div div description 15 1
-leave O 0 0 div div description 15 1
-this O 0 0 div div description 15 1
-field O 0 0 div div description 15 1
-empty. O 0 0 div div description 15 1
-
-Afonso B-NAME 0 1 span div field-content 13 0
-de I-NAME 0 1 span div field-content 13 0
-Campos I-NAME 0 1 span div field-content 13 0
-Pinto I-NAME 0 1 span div field-content 13 0
-
-Ph.D. O 0 0 div li field-content 12 0
-in O 0 1 div li field-content 12 0
-Computer O 0 0 div li field-content 12 0
-Science O 0 0 div li field-content 12 0
-- O 0 0 div li field-content 12 0
-IMPERIAL O 0 0 div li field-content 12 0
-COLLEGE O 0 0 div li field-content 12 0
-LONDON O 0 0 div li field-content 12 0
-
-Andre B-NAME 0 1 span div field-content 13 0
-Portela I-NAME 0 1 span div field-content 13 0
-
-PhD O 0 0 div li field-content 12 0
-em O 0 0 div li field-content 12 0
-Economia O 0 0 div li field-content 12 0
-pela O 0 0 div li field-content 12 0
-Universidade O 0 0 div li field-content 12 0
-de O 0 1 div li field-content 12 0
-Cornell, O 0 0 div li field-content 12 0
-EUA O 0 0 div li field-content 12 0
-Especialidades:Economia O 0 0 div li field-content 12 0
-Social, O 0 0 div li field-content 12 0
-Economia O 0 0 div li field-content 12 0
-do O 0 1 div li field-content 12 0
-Trabalho, O 0 0 div li field-content 12 0
-Microeconomia O 0 0 div li field-content 12 0
-Aplicada O 0 0 div li field-content 12 0
-e O 0 1 div li field-content 12 0
-Microeconometria. O 0 0 div li field-content 12 0
-
-Angelo B-NAME 0 1 span div field-content 13 0
-Costa I-NAME 0 1 span div field-content 13 0
-Gurgel I-NAME 0 1 span div field-content 13 0
-
-Doutor O 0 1 div li field-content 12 0
-em O 0 0 div li field-content 12 0
-Economia O 0 0 div li field-content 12 0
-Aplicada, O 0 0 div li field-content 12 0
-Universidade O 0 0 div li field-content 12 0
-Federal O 0 0 div li field-content 12 0
-de O 0 1 div li field-content 12 0
-Viçosa O 0 0 div li field-content 12 0
-
-Antonio B-NAME 0 1 span div field-content 13 0
-Zoratto I-NAME 0 0 span div field-content 13 0
-Sanvicente I-NAME 0 1 span div field-content 13 0
-
-Ph.D. O 0 0 div li field-content 12 0
-Business O 0 0 div li field-content 12 0
-Administration, O 0 0 div li field-content 12 0
-Stanford O 0 1 div li field-content 12 0
-University O 0 1 div li field-content 12 0
-
-Áureo B-NAME 0 1 span div field-content 13 0
-de I-NAME 0 1 span div field-content 13 0
-Paula I-NAME 0 1 span div field-content 13 0
-
-Doutor O 0 1 div li field-content 12 0
-em O 0 0 div li field-content 12 0
-Economia O 0 0 div li field-content 12 0
-pela O 0 0 div li field-content 12 0
-University O 0 1 div li field-content 12 0
-of O 0 1 div li field-content 12 0
-Princeton O 0 1 div li field-content 12 0
-
-Bernardo B-NAME 0 1 span div field-content 13 0
-Guimarães I-NAME 0 1 span div field-content 13 0
-
-PhD. O 0 0 div li field-content 12 0
-Yale O 0 1 div li field-content 12 0
-
-Braz B-NAME 1 1 span div field-content 13 0
-Camargo I-NAME 1 1 span div field-content 13 0
-
-Ph.D., O 0 0 div li field-content 12 0
-Universidade O 0 0 div li field-content 12 0
-da O 0 1 div li field-content 12 0
-Pennsylvania O 0 0 div li field-content 12 0
-
-Bruno B-NAME 0 1 span div field-content 13 0
-Cara I-NAME 0 1 span div field-content 13 0
-Giovannetti I-NAME 0 1 span div field-content 13 0
-
-Ph.D. O 0 0 div li field-content 12 0
-em O 0 0 div li field-content 12 0
-Economia O 0 0 div li field-content 12 0
-
-Bruno B-NAME 0 1 span div field-content 13 0
-Ferman I-NAME 0 1 span div field-content 13 0
-
-PhD, O 0 0 div li field-content 12 0
-Massachusetts O 0 0 div li field-content 12 0
-Institute O 0 0 div li field-content 12 0
-of O 0 1 div li field-content 12 0
-Technology O 0 0 div li field-content 12 0
-(MIT) O 0 0 div li field-content 12 0
-
-Clemens B-NAME 0 1 span div field-content 13 0
-Nunes I-NAME 0 1 span div field-content 13 0
-
-Doutor O 0 1 div li field-content 12 0
-em O 0 0 div li field-content 12 0
-Economia O 0 0 div li field-content 12 0
-EESP-FGV O 0 0 div li field-content 12 0
-
-1 O 0 0 ul div pager-current.first 9 0
-
-2 O 0 0 li ul active 10 0
-
-3 O 0 0 li ul active 10 0
-
-4 O 0 0 li ul active 10 0
-
-5 O 0 0 li ul active 10 0
-
-next O 0 0 li ul active 10 0
-› O 0 0 li ul active 10 0
-
-last O 0 0 li ul active 10 0
-» O 0 0 li ul active 10 0
-
-| O 0 0 div div addthis_separator 9 3
-Share O 0 1 div div addthis_button 9 4
-
-Copyright O 0 0 div div content 8 0
-2011 O 0 0 div div content 8 0
-- O 0 0 div div content 8 0
-Fundação O 0 0 div div content 8 0
-Getulio O 0 1 div div content 8 0
-Vargas O 0 1 div div content 8 0
-- O 0 0 div div content 8 0
-PRIVACY O 0 0 p div content 9 0
-POLICY O 0 0 p div content 9 0
-
-Tel: O 0 0 div div content 8 0
-55 O 0 0 div div content 8 0
-(11) O 0 0 div div content 8 0
-3799.3350 O 0 0 div div content 8 0
-- O 0 0 div div content 8 0
-Fax: O 0 0 div div content 8 0
-55 O 0 0 div div content 8 0
-(11) O 0 0 div div content 8 0
-3799.3357 O 0 0 div div content 8 0
-
-E-mail: O 0 0 div div content 8 0
-economia@fgv.br O 0 0 p div content 9 1
-- O 0 0 div div content 8 0
-Ouvidoria O 0 0 p div content 9 2
-/ O 0 0 div div content 8 0
-Clube O 0 0 p div content 9 3
-de O 0 1 p div content 9 3
-parceiros O 0 0 p div content 9 3
-FGV O 0 0 p div content 9 3
-
-Portal O 0 1 p div titulo-barra 6 0
-FGV O 0 0 p div titulo-barra 6 0
-ENG O 0 0 p div titulo-barra-en 6 1
-
-Educação O 0 0 ul div views-row.views-row-1.views-row-odd.views-row-first.views-row-last 6 0
-Graduação O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 0
-Graduação O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 1
-Tecnológica O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 1
-Mestrado O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 2
-& O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 2
-Doutorado O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 2
-MBA O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 3
-& O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 3
-Pós O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 3
-Graduação O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 3
-Cursos O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 4
-de O 0 1 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 4
-extensão O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 4
-In O 0 1 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 5
-Company O 0 1 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 5
-Cursos O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 6
-Online O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 6
-Vestibular O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 7
-FGV O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 7
-Preparatório O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 8
-ENEM O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 8
-Digital O 0 1 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 8
-Livros O 0 0 ul div views-row.views-row-1.views-row-odd.views-row-first.views-row-last 6 0
-Livraria O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 9
-Editora O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 10
-FGV O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 10
-Biblioteca O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 11
-
-Escolas O 0 0 div body not-front.not-logged-in.page-professores-eesp.one-sidebar.sidebar-left.i18n-en 5 17
-FGV O 0 0 div body not-front.not-logged-in.page-professores-eesp.one-sidebar.sidebar-left.i18n-en 5 17
-
-CPDOC O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first 7 0
-Escola O 0 1 li ul views-row.views-row-1.views-row-odd.views-row-first 7 1
-de O 0 1 li ul views-row.views-row-1.views-row-odd.views-row-first 7 1
-Ciências O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first 7 1
-Sociais O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first 7 1
-
-Direito O 0 1 li ul views-row.views-row-2.views-row-even 7 0
-Rio O 0 1 li ul views-row.views-row-2.views-row-even 7 0
-Escola O 0 1 li ul views-row.views-row-2.views-row-even 7 1
-de O 0 1 li ul views-row.views-row-2.views-row-even 7 1
-Direito O 0 1 li ul views-row.views-row-2.views-row-even 7 1
-do O 0 1 li ul views-row.views-row-2.views-row-even 7 1
-Rio O 0 1 li ul views-row.views-row-2.views-row-even 7 1
-de O 0 1 li ul views-row.views-row-2.views-row-even 7 1
-Janeiro O 0 1 li ul views-row.views-row-2.views-row-even 7 1
-
-Direito O 0 1 li ul views-row.views-row-3.views-row-odd 7 0
-SP O 0 0 li ul views-row.views-row-3.views-row-odd 7 0
-Escola O 0 1 li ul views-row.views-row-3.views-row-odd 7 1
-de O 0 1 li ul views-row.views-row-3.views-row-odd 7 1
-Direito O 0 1 li ul views-row.views-row-3.views-row-odd 7 1
-de O 0 1 li ul views-row.views-row-3.views-row-odd 7 1
-São O 0 1 li ul views-row.views-row-3.views-row-odd 7 1
-Paulo O 0 1 li ul views-row.views-row-3.views-row-odd 7 1
-
-EAESP O 0 0 li ul views-row.views-row-4.views-row-even 7 0
-Escola O 0 1 li ul views-row.views-row-4.views-row-even 7 1
-de O 0 1 li ul views-row.views-row-4.views-row-even 7 1
-Administração O 0 0 li ul views-row.views-row-4.views-row-even 7 1
-de O 0 1 li ul views-row.views-row-4.views-row-even 7 1
-Empresas O 0 0 li ul views-row.views-row-4.views-row-even 7 1
-de O 0 1 li ul views-row.views-row-4.views-row-even 7 1
-São O 0 1 li ul views-row.views-row-4.views-row-even 7 1
-Paulo O 0 1 li ul views-row.views-row-4.views-row-even 7 1
-
-EBAPE O 0 0 li ul views-row.views-row-5.views-row-odd 7 0
-Escola O 0 1 li ul views-row.views-row-5.views-row-odd 7 1
-Brasileira O 0 0 li ul views-row.views-row-5.views-row-odd 7 1
-de O 0 1 li ul views-row.views-row-5.views-row-odd 7 1
-Administração O 0 0 li ul views-row.views-row-5.views-row-odd 7 1
-Pública O 0 0 li ul views-row.views-row-5.views-row-odd 7 1
-e O 0 1 li ul views-row.views-row-5.views-row-odd 7 1
-de O 0 1 li ul views-row.views-row-5.views-row-odd 7 1
-Empresas O 0 0 li ul views-row.views-row-5.views-row-odd 7 1
-
-EESP O 0 0 li ul views-row.views-row-6.views-row-even 7 0
-Escola O 0 1 li ul views-row.views-row-6.views-row-even 7 1
-de O 0 1 li ul views-row.views-row-6.views-row-even 7 1
-Economia O 0 0 li ul views-row.views-row-6.views-row-even 7 1
-de O 0 1 li ul views-row.views-row-6.views-row-even 7 1
-São O 0 1 li ul views-row.views-row-6.views-row-even 7 1
-Paulo O 0 1 li ul views-row.views-row-6.views-row-even 7 1
-
-EMAp O 0 0 li ul views-row.views-row-7.views-row-odd 7 0
-Escola O 0 1 li ul views-row.views-row-7.views-row-odd 7 1
-de O 0 1 li ul views-row.views-row-7.views-row-odd 7 1
-Matemárica O 0 0 li ul views-row.views-row-7.views-row-odd 7 1
-Aplicada O 0 0 li ul views-row.views-row-7.views-row-odd 7 1
-
-EPGE O 0 0 li ul views-row.views-row-8.views-row-even.views-row-last 7 0
-Escola O 0 1 li ul views-row.views-row-8.views-row-even.views-row-last 7 1
-Brasileira O 0 0 li ul views-row.views-row-8.views-row-even.views-row-last 7 1
-de O 0 1 li ul views-row.views-row-8.views-row-even.views-row-last 7 1
-Economia O 0 0 li ul views-row.views-row-8.views-row-even.views-row-last 7 1
-e O 0 1 li ul views-row.views-row-8.views-row-even.views-row-last 7 1
-Finanças O 0 0 li ul views-row.views-row-8.views-row-even.views-row-last 7 1
-
-Pesquisa O 0 0 ul div views-row.views-row-1.views-row-odd.views-row-first.views-row-last 6 0
-Pesquisas O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 0
-Teses O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 0
-e O 0 1 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 0
-Publicações O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 0
-Assessoria O 0 0 ul div views-row.views-row-1.views-row-odd.views-row-first.views-row-last 6 0
-técnica O 0 0 ul div views-row.views-row-1.views-row-odd.views-row-first.views-row-last 6 0
-Concursos O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 1
-e O 0 1 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 1
-Projetos O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 1
-Índices O 0 0 ul div views-row.views-row-1.views-row-odd.views-row-first.views-row-last 6 0
-Instituto O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 2
-Brasileiro O 0 1 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 2
-de O 0 1 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 2
-Economia O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 2
-Unidades O 0 0 ul div views-row.views-row-1.views-row-odd.views-row-first.views-row-last 6 0
-CERI O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 3
-DAPP O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 4
-DINT O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 5
-FGV O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 6
-Energia O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 6
-FGV O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 7
-Social O 0 0 li ul views-row.views-row-1.views-row-odd.views-row-first.views-row-last 7 7
-
-Navegue O 0 0 li ul first.leaf.menu-depth-1.menu-item-1756 7 0
-por O 0 0 li ul first.leaf.menu-depth-1.menu-item-1756 7 0
-áreas O 0 0 li ul first.leaf.menu-depth-1.menu-item-1756 7 0
-
-Administração O 0 0 li ul leaf.adm.not-first.menu-depth-1.menu-item-1757 7 0
-
-Ciências O 0 0 li ul leaf.cis.not-first.menu-depth-1.menu-item-1758 7 0
-Sociais O 0 0 li ul leaf.cis.not-first.menu-depth-1.menu-item-1758 7 0
-
-Direito O 0 1 li ul leaf.dir.not-first.menu-depth-1.menu-item-1759 7 0
-
-Economia O 0 0 li ul leaf.eco.not-first.menu-depth-1.menu-item-1760 7 0
-
-Matemática O 0 0 li ul last.leaf.mat.not-first.menu-depth-1.menu-item-1761 7 0
-aplicada O 0 0 li ul last.leaf.mat.not-first.menu-depth-1.menu-item-1761 7 0
-
-Acompanhe O 0 0 div body not-front.not-logged-in.page-professores-eesp.one-sidebar.sidebar-left.i18n-en 5 66
-na O 0 0 div body not-front.not-logged-in.page-professores-eesp.one-sidebar.sidebar-left.i18n-en 5 66
-rede O 0 0 div body not-front.not-logged-in.page-professores-eesp.one-sidebar.sidebar-left.i18n-en 5 66
-
-Livros O 0 0 li ul even.first 7 0
-
-Notícias O 0 0 li ul odd 7 0
-
-Eventos O 0 0 li ul even.last 7 0
+Working O working 0 0 0 0 0 0 1 li ul  12 0
+Papers O papers 0 0 0 0 0 0 1 li ul  12 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul  12 0
+Seminars O seminars 0 0 0 0 0 0 1 li ul  12 0
+
+Education O education 0 0 0 0 0 0 1 li ul  10 0
+
+Events O events 0 0 0 0 0 0 1 li ul  10 0
+
+Conference O conference 0 1 0 0 0 0 1 li ul  12 0
+Series O series 0 1 0 0 0 0 1 li ul  12 0
+FGV/EESP O fgv/eesp 0 0 0 0 0 0 1 li ul  12 0
+
+Laporde O laporde 0 0 0 0 0 0 1 li ul  12 0
+
+Economics O economics 0 0 0 0 0 0 1 li ul  12 0
+Forum O forum 0 1 0 0 0 0 1 li ul  12 0
+
+Laporde O laporde 0 0 0 0 0 0 1 li ul  12 0
+
+The O the 0 1 0 0 0 0 1 li ul  14 0
+Sixth O sixth 0 0 0 0 0 0 1 li ul  14 0
+Latin O latin 0 1 0 0 0 0 1 li ul  14 0
+American O american 0 0 0 0 0 0 1 li ul  14 0
+Advanced O advanced 0 0 0 0 0 0 1 li ul  14 0
+Programme O programme 0 0 0 0 0 0 1 li ul  14 0
+on O on 0 0 0 0 0 0 0 li ul  14 0
+Rethinking O rethinking 0 0 0 0 0 0 1 li ul  14 0
+Macro O macro 0 1 0 0 0 0 1 li ul  14 0
+and O and 0 1 0 0 0 0 0 li ul  14 0
+Development O development 0 0 0 0 0 0 1 li ul  14 0
+Economics O economics 0 0 0 0 0 0 1 li ul  14 0
+
+Série O serie 0 0 0 0 0 0 1 li ul  12 0
+de O de 0 1 0 0 0 0 0 li ul  12 0
+Conferências O conferencias 0 0 0 0 0 0 1 li ul  12 0
+
+9th O 9th 0 0 0 1 0 0 0 li ul  14 0
+Annual O annual 0 0 0 0 0 0 1 li ul  14 0
+Conference O conference 0 1 0 0 0 0 1 li ul  14 0
+
+7th O 7th 0 0 0 1 0 0 0 li ul  14 0
+Annual O annual 0 0 0 0 0 0 1 li ul  14 0
+Conference O conference 0 1 0 0 0 0 1 li ul  14 0
+
+International O international 0 0 0 0 0 0 1 li ul  10 0
+Affairs O affairs 0 0 0 0 0 0 1 li ul  10 0
+
+Professors O professors 0 0 0 0 1 0 1 div div block-local_menu 7 0
+
+Professors O professors 0 0 0 0 1 0 1 li ul active 10 0
+EESP O eesp 0 0 0 0 0 0 1 li ul active 10 0
+
+Professors O professors 0 0 0 0 1 0 1 li ul  10 0
+PhD. O phd. 0 0 0 0 0 0 1 li ul  10 0
+Program O program 0 0 0 0 0 0 1 li ul  10 0
+
+Invited O invited 0 0 0 0 0 0 1 li ul  10 0
+Professors O professors 0 0 0 0 1 0 1 li ul  10 0
+
+Home O home 0 1 0 0 0 0 1 div div breadcrumb 7 0
+» O » 0 0 0 0 0 0 0 div div breadcrumb 6 0
+Professores O professores 0 0 0 0 1 0 1 div div breadcrumb 7 1
+» O » 0 0 0 0 0 0 0 div div breadcrumb 6 0
+Professors O professors 0 0 0 0 1 0 1 div div active 7 2
+EESP O eesp 0 0 0 0 0 0 1 div div active 7 2
+
+Professors O professors 0 0 0 0 1 0 1 div div page-title 6 4
+EESP O eesp 0 0 0 0 0 0 1 div div page-title 6 4
+
+To O to 0 1 0 0 0 0 1 div div description 15 1
+prevent O prevent 0 0 0 0 0 0 0 div div description 15 1
+automated O automated 0 0 0 0 0 0 0 div div description 15 1
+spam O spam 0 0 0 0 0 0 0 div div description 15 1
+submissions O submissions 0 0 0 0 0 0 0 div div description 15 1
+leave O leave 0 0 0 0 0 0 0 div div description 15 1
+this O this 0 0 0 0 0 0 0 div div description 15 1
+field O field 0 0 0 0 0 0 0 div div description 15 1
+empty. O empty. 0 0 0 0 1 0 0 div div description 15 1
+
+Afonso B-PER afonso 0 1 0 0 0 0 1 span div field-content 13 0
+de I-PER de 0 1 0 0 0 0 0 span div field-content 13 0
+Campos I-PER campos 0 1 0 0 0 0 1 span div field-content 13 0
+Pinto I-PER pinto 0 1 0 0 0 0 1 span div field-content 13 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div li field-content 12 0
+in O in 0 1 0 0 0 0 0 div li field-content 12 0
+Computer O computer 0 0 0 0 0 0 1 div li field-content 12 0
+Science O science 0 0 0 0 0 0 1 div li field-content 12 0
+- O - 0 0 0 0 0 0 0 div li field-content 12 0
+IMPERIAL O imperial 0 0 0 0 0 0 1 div li field-content 12 0
+COLLEGE O college 0 0 0 0 0 0 1 div li field-content 12 0
+LONDON O london 0 0 0 0 0 0 1 div li field-content 12 0
+
+Andre B-PER andre 0 1 0 0 1 0 1 span div field-content 13 0
+Portela I-PER portela 0 1 0 0 0 0 1 span div field-content 13 0
+
+PhD O phd 0 0 0 0 0 0 1 div li field-content 12 0
+em O em 0 0 0 0 0 0 0 div li field-content 12 0
+Economia O economia 0 0 0 0 0 0 1 div li field-content 12 0
+pela O pela 0 0 0 0 0 0 0 div li field-content 12 0
+Universidade O universidade 0 0 0 0 0 0 1 div li field-content 12 0
+de O de 0 1 0 0 0 0 0 div li field-content 12 0
+Cornell O cornell 0 1 0 0 0 0 1 div li field-content 12 0
+, O , 0 0 0 0 0 0 0 div li field-content 12 0
+EUA O eua 0 0 0 0 0 0 1 div li field-content 12 0
+Especialidades O especialidades 0 0 0 0 0 0 1 div li field-content 12 0
+: O : 0 0 0 0 0 0 0 div li field-content 12 0
+Economia O economia 0 0 0 0 0 0 1 div li field-content 12 0
+Social O social 0 0 0 0 0 0 1 div li field-content 12 0
+, O , 0 0 0 0 0 0 0 div li field-content 12 0
+Economia O economia 0 0 0 0 0 0 1 div li field-content 12 0
+do O do 0 1 0 0 0 0 0 div li field-content 12 0
+Trabalho O trabalho 0 0 0 0 0 0 1 div li field-content 12 0
+, O , 0 0 0 0 0 0 0 div li field-content 12 0
+Microeconomia O microeconomia 0 0 0 0 0 0 1 div li field-content 12 0
+Aplicada O aplicada 0 0 0 0 1 0 1 div li field-content 12 0
+e O e 0 1 0 0 0 0 0 div li field-content 12 0
+Microeconometria. O microeconometria. 0 0 0 0 0 0 1 div li field-content 12 0
+
+Angelo B-PER angelo 0 1 0 0 0 0 1 span div field-content 13 0
+Costa I-PER costa 0 1 0 0 0 0 1 span div field-content 13 0
+Gurgel I-PER gurgel 0 1 0 0 0 0 1 span div field-content 13 0
+
+Doutor O doutor 0 1 0 0 0 0 1 div li field-content 12 0
+em O em 0 0 0 0 0 0 0 div li field-content 12 0
+Economia O economia 0 0 0 0 0 0 1 div li field-content 12 0
+Aplicada O aplicada 0 0 0 0 1 0 1 div li field-content 12 0
+, O , 0 0 0 0 0 0 0 div li field-content 12 0
+Universidade O universidade 0 0 0 0 0 0 1 div li field-content 12 0
+Federal O federal 0 0 0 0 0 0 1 div li field-content 12 0
+de O de 0 1 0 0 0 0 0 div li field-content 12 0
+Viçosa O vicosa 0 0 0 0 0 0 1 div li field-content 12 0
+
+Antonio B-PER antonio 0 1 0 0 0 0 1 span div field-content 13 0
+Zoratto I-PER zoratto 0 0 0 0 0 0 1 span div field-content 13 0
+Sanvicente I-PER sanvicente 0 1 0 0 0 0 1 span div field-content 13 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div li field-content 12 0
+Business O business 0 0 0 0 0 0 1 div li field-content 12 0
+Administration O administration 0 0 0 0 0 0 1 div li field-content 12 0
+, O , 0 0 0 0 0 0 0 div li field-content 12 0
+Stanford O stanford 0 1 0 0 0 0 1 div li field-content 12 0
+University O university 0 1 0 0 0 0 1 div li field-content 12 0
+
+Áureo B-PER aureo 0 1 0 0 0 0 1 span div field-content 13 0
+de I-PER de 0 1 0 0 0 0 0 span div field-content 13 0
+Paula I-PER paula 0 1 0 0 0 0 1 span div field-content 13 0
+
+Doutor O doutor 0 1 0 0 0 0 1 div li field-content 12 0
+em O em 0 0 0 0 0 0 0 div li field-content 12 0
+Economia O economia 0 0 0 0 0 0 1 div li field-content 12 0
+pela O pela 0 0 0 0 0 0 0 div li field-content 12 0
+University O university 0 1 0 0 0 0 1 div li field-content 12 0
+of O of 0 1 0 0 0 0 0 div li field-content 12 0
+Princeton O princeton 0 1 0 0 0 0 1 div li field-content 12 0
+
+Bernardo B-PER bernardo 0 1 0 0 0 0 1 span div field-content 13 0
+Guimarães I-PER guimaraes 0 1 0 0 0 0 1 span div field-content 13 0
+
+PhD. O phd. 0 0 0 0 0 0 1 div li field-content 12 0
+Yale O yale 0 1 0 0 0 0 1 div li field-content 12 0
+
+Braz B-PER braz 1 1 0 0 0 0 1 span div field-content 13 0
+Camargo I-PER camargo 1 1 0 0 0 0 1 span div field-content 13 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div li field-content 12 0
+, O , 0 0 0 0 0 0 0 div li field-content 12 0
+Universidade O universidade 0 0 0 0 0 0 1 div li field-content 12 0
+da O da 0 1 0 0 0 0 0 div li field-content 12 0
+Pennsylvania O pennsylvania 0 0 0 0 0 0 1 div li field-content 12 0
+
+Bruno B-PER bruno 0 1 0 0 0 0 1 span div field-content 13 0
+Cara I-PER cara 0 1 0 0 0 0 1 span div field-content 13 0
+Giovannetti I-PER giovannetti 0 1 0 0 0 0 1 span div field-content 13 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div li field-content 12 0
+em O em 0 0 0 0 0 0 0 div li field-content 12 0
+Economia O economia 0 0 0 0 0 0 1 div li field-content 12 0
+
+Bruno B-PER bruno 0 1 0 0 0 0 1 span div field-content 13 0
+Ferman I-PER ferman 0 1 0 0 0 0 1 span div field-content 13 0
+
+PhD O phd 0 0 0 0 0 0 1 div li field-content 12 0
+, O , 0 0 0 0 0 0 0 div li field-content 12 0
+Massachusetts O massachusetts 0 0 0 0 1 0 1 div li field-content 12 0
+Institute O institute 0 0 0 0 0 0 1 div li field-content 12 0
+of O of 0 1 0 0 0 0 0 div li field-content 12 0
+Technology O technology 0 0 0 0 0 0 1 div li field-content 12 0
+( O ( 0 0 0 0 0 0 0 div li field-content 12 0
+MIT O mit 0 0 0 0 0 0 1 div li field-content 12 0
+) O ) 0 0 0 0 0 0 0 div li field-content 12 0
+
+Clemens B-PER clemens 0 1 0 0 0 0 1 span div field-content 13 0
+Nunes I-PER nunes 0 1 0 0 0 0 1 span div field-content 13 0
+
+Doutor O doutor 0 1 0 0 0 0 1 div li field-content 12 0
+em O em 0 0 0 0 0 0 0 div li field-content 12 0
+Economia O economia 0 0 0 0 0 0 1 div li field-content 12 0
+EESP O eesp 0 0 0 0 0 0 1 div li field-content 12 0
+- O - 0 0 0 0 0 0 0 div li field-content 12 0
+FGV O fgv 0 0 0 0 0 0 1 div li field-content 12 0
+
+1 O 1 0 0 0 1 0 0 0 ul div first 9 0
+
+2 O 2 0 0 0 1 0 0 0 li ul active 10 0
+
+3 O 3 0 0 0 1 0 0 0 li ul active 10 0
+
+4 O 4 0 0 0 1 0 0 0 li ul active 10 0
+
+5 O 5 0 0 0 1 0 0 0 li ul active 10 0
+
+next O next 0 0 0 0 0 0 0 li ul active 10 0
+› O › 0 0 0 0 0 0 0 li ul active 10 0
+
+last O last 0 0 0 0 0 0 0 li ul active 10 0
+» O » 0 0 0 0 0 0 0 li ul active 10 0
+
+| O | 0 0 0 0 0 0 0 div div addthis_separator 9 3
+Share O share 0 1 0 0 0 0 1 div div addthis_button 9 4
+
+Copyright O copyright 0 0 0 0 0 0 1 div div content 8 0
+2011 O 2011 0 0 0 1 0 0 0 div div content 8 0
+- O - 0 0 0 0 0 0 0 div div content 8 0
+Fundação O fundacao 0 0 0 0 0 0 1 div div content 8 0
+Getulio O getulio 0 1 0 0 0 0 1 div div content 8 0
+Vargas O vargas 0 1 0 0 0 0 1 div div content 8 0
+- O - 0 0 0 0 0 0 0 div div content 8 0
+PRIVACY O privacy 0 0 0 0 0 0 1 p div content 9 0
+POLICY O policy 0 0 0 0 0 0 1 p div content 9 0
+
+Tel O tel 0 1 0 0 0 0 1 div div content 8 0
+: O : 0 0 0 0 0 0 0 div div content 8 0
+55 O 55 0 0 0 1 0 0 0 div div content 8 0
+( O ( 0 0 0 0 0 0 0 div div content 8 0
+11 O 11 0 0 0 1 0 0 0 div div content 8 0
+) O ) 0 0 0 0 0 0 0 div div content 8 0
+3799.3350 O 3799.3350 0 0 0 1 0 0 0 div div content 8 0
+- O - 0 0 0 0 0 0 0 div div content 8 0
+Fax O fax 0 1 0 0 0 0 1 div div content 8 0
+: O : 0 0 0 0 0 0 0 div div content 8 0
+55 O 55 0 0 0 1 0 0 0 div div content 8 0
+( O ( 0 0 0 0 0 0 0 div div content 8 0
+11 O 11 0 0 0 1 0 0 0 div div content 8 0
+) O ) 0 0 0 0 0 0 0 div div content 8 0
+3799.3357 O 3799.3357 0 0 0 1 0 0 0 div div content 8 0
+
+E O e 0 1 0 0 0 0 1 div div content 8 0
+- O - 0 0 0 0 0 0 0 div div content 8 0
+mail O mail 0 0 0 0 0 0 0 div div content 8 0
+: O : 0 0 0 0 0 0 0 div div content 8 0
+economia@fgv.br O economia@fgv.br 0 0 1 0 0 0 0 p div content 9 1
+- O - 0 0 0 0 0 0 0 div div content 8 0
+Ouvidoria O ouvidoria 0 0 0 0 0 0 1 p div content 9 2
+/ O / 0 0 0 0 0 0 0 div div content 8 0
+Clube O clube 0 0 0 0 0 0 1 p div content 9 3
+de O de 0 1 0 0 0 0 0 p div content 9 3
+parceiros O parceiros 0 0 0 0 0 0 0 p div content 9 3
+FGV O fgv 0 0 0 0 0 0 1 p div content 9 3
+
+Portal O portal 0 1 0 0 0 0 1 p div titulo-barra 6 0
+FGV O fgv 0 0 0 0 0 0 1 p div titulo-barra 6 0
+ENG O eng 0 0 0 0 0 0 1 p div titulo-barra-en 6 1
+
+Educação O educacao 0 0 0 0 0 0 1 ul div views-row-last 6 0
+Graduação O graduacao 0 0 0 0 0 0 1 li ul views-row-last 7 0
+Graduação O graduacao 0 0 0 0 0 0 1 li ul views-row-last 7 1
+Tecnológica O tecnologica 0 0 0 0 0 0 1 li ul views-row-last 7 1
+Mestrado O mestrado 0 0 0 0 1 0 1 li ul views-row-last 7 2
+& O & 0 0 0 0 0 0 0 li ul views-row-last 7 2
+Doutorado O doutorado 0 0 0 0 0 0 1 li ul views-row-last 7 2
+MBA O mba 0 0 0 0 0 0 1 li ul views-row-last 7 3
+& O & 0 0 0 0 0 0 0 li ul views-row-last 7 3
+Pós O pos 0 0 0 0 0 0 1 li ul views-row-last 7 3
+Graduação O graduacao 0 0 0 0 0 0 1 li ul views-row-last 7 3
+Cursos O cursos 0 0 0 0 0 0 1 li ul views-row-last 7 4
+de O de 0 1 0 0 0 0 0 li ul views-row-last 7 4
+extensão O extensao 0 0 0 0 0 0 0 li ul views-row-last 7 4
+In O in 0 1 0 0 0 0 1 li ul views-row-last 7 5
+Company O company 0 1 0 0 0 0 1 li ul views-row-last 7 5
+Cursos O cursos 0 0 0 0 0 0 1 li ul views-row-last 7 6
+Online O online 0 0 0 0 0 0 1 li ul views-row-last 7 6
+Vestibular O vestibular 0 0 0 0 0 0 1 li ul views-row-last 7 7
+FGV O fgv 0 0 0 0 0 0 1 li ul views-row-last 7 7
+Preparatório O preparatorio 0 0 0 0 0 0 1 li ul views-row-last 7 8
+ENEM O enem 0 0 0 0 0 0 1 li ul views-row-last 7 8
+Digital O digital 0 1 0 0 0 0 1 li ul views-row-last 7 8
+Livros O livros 0 0 0 0 0 0 1 ul div views-row-last 6 0
+Livraria O livraria 0 0 0 0 0 0 1 li ul views-row-last 7 9
+Editora O editora 0 0 0 0 0 0 1 li ul views-row-last 7 10
+FGV O fgv 0 0 0 0 0 0 1 li ul views-row-last 7 10
+Biblioteca O biblioteca 0 0 0 0 0 0 1 li ul views-row-last 7 11
+
+Escolas O escolas 0 0 0 0 0 0 1 div body i18n-en 5 17
+FGV O fgv 0 0 0 0 0 0 1 div body i18n-en 5 17
+
+CPDOC O cpdoc 0 0 0 0 0 0 1 li ul views-row-first 7 0
+Escola O escola 0 1 0 0 0 0 1 li ul views-row-first 7 1
+de O de 0 1 0 0 0 0 0 li ul views-row-first 7 1
+Ciências O ciencias 0 0 0 0 0 0 1 li ul views-row-first 7 1
+Sociais O sociais 0 0 0 0 0 0 1 li ul views-row-first 7 1
+
+Direito O direito 0 1 0 0 0 0 1 li ul views-row-even 7 0
+Rio O rio 0 1 0 0 0 0 1 li ul views-row-even 7 0
+Escola O escola 0 1 0 0 0 0 1 li ul views-row-even 7 1
+de O de 0 1 0 0 0 0 0 li ul views-row-even 7 1
+Direito O direito 0 1 0 0 0 0 1 li ul views-row-even 7 1
+do O do 0 1 0 0 0 0 0 li ul views-row-even 7 1
+Rio O rio 0 1 0 0 0 0 1 li ul views-row-even 7 1
+de O de 0 1 0 0 0 0 0 li ul views-row-even 7 1
+Janeiro O janeiro 0 1 0 0 0 0 1 li ul views-row-even 7 1
+
+Direito O direito 0 1 0 0 0 0 1 li ul views-row-odd 7 0
+SP O sp 0 0 0 0 0 0 1 li ul views-row-odd 7 0
+Escola O escola 0 1 0 0 0 0 1 li ul views-row-odd 7 1
+de O de 0 1 0 0 0 0 0 li ul views-row-odd 7 1
+Direito O direito 0 1 0 0 0 0 1 li ul views-row-odd 7 1
+de O de 0 1 0 0 0 0 0 li ul views-row-odd 7 1
+São O sao 0 1 0 0 0 0 1 li ul views-row-odd 7 1
+Paulo O paulo 0 1 0 0 0 0 1 li ul views-row-odd 7 1
+
+EAESP O eaesp 0 0 0 0 0 0 1 li ul views-row-even 7 0
+Escola O escola 0 1 0 0 0 0 1 li ul views-row-even 7 1
+de O de 0 1 0 0 0 0 0 li ul views-row-even 7 1
+Administração O administracao 0 0 0 0 0 0 1 li ul views-row-even 7 1
+de O de 0 1 0 0 0 0 0 li ul views-row-even 7 1
+Empresas O empresas 0 0 0 0 1 0 1 li ul views-row-even 7 1
+de O de 0 1 0 0 0 0 0 li ul views-row-even 7 1
+São O sao 0 1 0 0 0 0 1 li ul views-row-even 7 1
+Paulo O paulo 0 1 0 0 0 0 1 li ul views-row-even 7 1
+
+EBAPE O ebape 0 0 0 0 0 0 1 li ul views-row-odd 7 0
+Escola O escola 0 1 0 0 0 0 1 li ul views-row-odd 7 1
+Brasileira O brasileira 0 0 0 0 0 0 1 li ul views-row-odd 7 1
+de O de 0 1 0 0 0 0 0 li ul views-row-odd 7 1
+Administração O administracao 0 0 0 0 0 0 1 li ul views-row-odd 7 1
+Pública O publica 0 0 0 0 0 0 1 li ul views-row-odd 7 1
+e O e 0 1 0 0 0 0 0 li ul views-row-odd 7 1
+de O de 0 1 0 0 0 0 0 li ul views-row-odd 7 1
+Empresas O empresas 0 0 0 0 1 0 1 li ul views-row-odd 7 1
+
+EESP O eesp 0 0 0 0 0 0 1 li ul views-row-even 7 0
+Escola O escola 0 1 0 0 0 0 1 li ul views-row-even 7 1
+de O de 0 1 0 0 0 0 0 li ul views-row-even 7 1
+Economia O economia 0 0 0 0 0 0 1 li ul views-row-even 7 1
+de O de 0 1 0 0 0 0 0 li ul views-row-even 7 1
+São O sao 0 1 0 0 0 0 1 li ul views-row-even 7 1
+Paulo O paulo 0 1 0 0 0 0 1 li ul views-row-even 7 1
+
+EMAp O emap 0 0 0 0 1 0 1 li ul views-row-odd 7 0
+Escola O escola 0 1 0 0 0 0 1 li ul views-row-odd 7 1
+de O de 0 1 0 0 0 0 0 li ul views-row-odd 7 1
+Matemárica O matemarica 0 0 0 0 0 0 1 li ul views-row-odd 7 1
+Aplicada O aplicada 0 0 0 0 1 0 1 li ul views-row-odd 7 1
+
+EPGE O epge 0 0 0 0 0 0 1 li ul views-row-last 7 0
+Escola O escola 0 1 0 0 0 0 1 li ul views-row-last 7 1
+Brasileira O brasileira 0 0 0 0 0 0 1 li ul views-row-last 7 1
+de O de 0 1 0 0 0 0 0 li ul views-row-last 7 1
+Economia O economia 0 0 0 0 0 0 1 li ul views-row-last 7 1
+e O e 0 1 0 0 0 0 0 li ul views-row-last 7 1
+Finanças O financas 0 0 0 0 0 0 1 li ul views-row-last 7 1
+
+Pesquisa O pesquisa 0 0 0 0 0 0 1 ul div views-row-last 6 0
+Pesquisas O pesquisas 0 0 0 0 0 0 1 li ul views-row-last 7 0
+Teses O teses 0 0 0 0 0 0 1 li ul views-row-last 7 0
+e O e 0 1 0 0 0 0 0 li ul views-row-last 7 0
+Publicações O publicacoes 0 0 0 0 0 0 1 li ul views-row-last 7 0
+Assessoria O assessoria 0 0 0 0 0 0 1 ul div views-row-last 6 0
+técnica O tecnica 0 0 0 0 0 0 0 ul div views-row-last 6 0
+Concursos O concursos 0 0 0 0 0 0 1 li ul views-row-last 7 1
+e O e 0 1 0 0 0 0 0 li ul views-row-last 7 1
+Projetos O projetos 0 0 0 0 0 0 1 li ul views-row-last 7 1
+Índices O indices 0 0 0 0 0 0 1 ul div views-row-last 6 0
+Instituto O instituto 0 0 0 0 0 0 1 li ul views-row-last 7 2
+Brasileiro O brasileiro 0 1 0 0 0 0 1 li ul views-row-last 7 2
+de O de 0 1 0 0 0 0 0 li ul views-row-last 7 2
+Economia O economia 0 0 0 0 0 0 1 li ul views-row-last 7 2
+Unidades O unidades 0 0 0 0 0 0 1 ul div views-row-last 6 0
+CERI O ceri 0 0 0 0 0 0 1 li ul views-row-last 7 3
+DAPP O dapp 0 0 0 0 0 0 1 li ul views-row-last 7 4
+DINT O dint 0 0 0 0 0 0 1 li ul views-row-last 7 5
+FGV O fgv 0 0 0 0 0 0 1 li ul views-row-last 7 6
+Energia O energia 0 0 0 0 0 0 1 li ul views-row-last 7 6
+FGV O fgv 0 0 0 0 0 0 1 li ul views-row-last 7 7
+Social O social 0 0 0 0 0 0 1 li ul views-row-last 7 7
+
+Navegue O navegue 0 0 0 0 0 0 1 li ul menu-item-1756 7 0
+por O por 0 0 0 0 0 0 0 li ul menu-item-1756 7 0
+áreas O areas 0 0 0 0 0 0 0 li ul menu-item-1756 7 0
+
+Administração O administracao 0 0 0 0 0 0 1 li ul menu-item-1757 7 0
+
+Ciências O ciencias 0 0 0 0 0 0 1 li ul menu-item-1758 7 0
+Sociais O sociais 0 0 0 0 0 0 1 li ul menu-item-1758 7 0
+
+Direito O direito 0 1 0 0 0 0 1 li ul menu-item-1759 7 0
+
+Economia O economia 0 0 0 0 0 0 1 li ul menu-item-1760 7 0
+
+Matemática O matematica 0 0 0 0 0 0 1 li ul menu-item-1761 7 0
+aplicada O aplicada 0 0 0 0 1 0 0 li ul menu-item-1761 7 0
+
+Acompanhe O acompanhe 0 0 0 0 0 0 1 div body i18n-en 5 66
+na O na 0 0 0 0 0 0 0 div body i18n-en 5 66
+rede O rede 0 0 0 0 0 0 0 div body i18n-en 5 66
+
+Livros O livros 0 0 0 0 0 0 1 li ul first 7 0
+
+Notícias O noticias 0 0 0 0 0 0 1 li ul odd 7 0
+
+Eventos O eventos 0 0 0 0 0 0 1 li ul last 7 0

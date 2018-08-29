@@ -1,835 +1,907 @@
-Faculty O 0 0 head html no-js 4 25
-Profiles O 0 0 head html no-js 4 25
-| O 0 0 head html no-js 4 25
-DSU O 0 0 head html no-js 4 25
-College O 0 0 head html no-js 4 25
-of O 0 1 head html no-js 4 25
-Mathematics, O 0 0 head html no-js 4 25
-Natural O 0 0 head html no-js 4 25
-Sciences O 0 0 head html no-js 4 25
-& O 0 0 head html no-js 4 25
-Technology O 0 0 head html no-js 4 25
+Faculty O faculty 0 0 0 0 0 0 1 head html no-js 4 25
+Profiles O profiles 0 0 0 0 1 0 1 head html no-js 4 25
+| O | 0 0 0 0 0 0 0 head html no-js 4 25
+DSU O dsu 0 0 0 0 0 0 1 head html no-js 4 25
+College O college 0 0 0 0 0 0 1 head html no-js 4 25
+of O of 0 1 0 0 0 0 0 head html no-js 4 25
+Mathematics O mathematics 0 0 0 0 0 0 1 head html no-js 4 25
+, O , 0 0 0 0 0 0 0 head html no-js 4 25
+Natural O natural 0 0 0 0 0 0 1 head html no-js 4 25
+Sciences O sciences 0 0 0 0 0 0 1 head html no-js 4 25
+& O & 0 0 0 0 0 0 0 head html no-js 4 25
+Technology O technology 0 0 0 0 0 0 1 head html no-js 4 25
 
-Skip O 0 1 body html element-invisible.element-focusable 4 0
-to O 0 0 body html element-invisible.element-focusable 4 0
-main O 0 0 body html element-invisible.element-focusable 4 0
-content O 0 0 body html element-invisible.element-focusable 4 0
+Skip O skip 0 1 0 0 0 0 1 body html element-focusable 4 0
+to O to 0 0 0 0 0 0 0 body html element-focusable 4 0
+main O main 0 0 0 0 0 0 0 body html element-focusable 4 0
+content O content 0 0 0 0 0 0 0 body html element-focusable 4 0
 
-Return O 0 0 nav body close-btn 5 0
-to O 0 0 nav body close-btn 5 0
-Content O 0 1 nav body close-btn 5 0
+Return O return 0 0 0 0 0 0 1 nav body close-btn 5 0
+to O to 0 0 0 0 0 0 0 nav body close-btn 5 0
+Content O content 0 1 0 0 0 0 1 nav body close-btn 5 0
 
-About O 0 0 li ul active-trail 8 0
+About O about 0 0 0 0 0 0 1 li ul active-trail 8 0
 
-Faculty O 0 0 li ul active-trail.active 10 0
-Profiles O 0 0 li ul active-trail.active 10 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul active 10 0
+Profiles O profiles 0 0 0 0 1 0 1 li ul active 10 0
 
-Cheng-Yu B-NAME 1 1 li ul first.leaf.menu-mlid-7936 12 0
-Lai I-NAME 1 1 li ul first.leaf.menu-mlid-7936 12 0
-PH.D O 0 0 li ul first.leaf.menu-mlid-7936 12 0
+Cheng B-PER cheng 0 1 0 0 0 0 1 li ul menu-mlid-7936 12 0
+- I-PER - 0 0 0 0 0 0 0 li ul menu-mlid-7936 12 0
+Yu I-PER yu 0 1 0 0 0 0 1 li ul menu-mlid-7936 12 0
+Lai I-PER lai 0 1 0 0 0 0 1 li ul menu-mlid-7936 12 0
+PH.D O ph.d 0 0 0 0 0 0 1 li ul menu-mlid-7936 12 0
 
-Daniela B-NAME 0 1 li ul leaf.menu-mlid-7916 12 0
-Radu I-NAME 0 1 li ul leaf.menu-mlid-7916 12 0
-Ph.D O 0 0 li ul leaf.menu-mlid-7916 12 0
+Daniela B-PER daniela 0 1 0 0 0 0 1 li ul menu-mlid-7916 12 0
+Radu I-PER radu 0 1 0 0 0 0 1 li ul menu-mlid-7916 12 0
+Ph.D O ph.d 0 0 0 0 0 0 1 li ul menu-mlid-7916 12 0
 
-Hacene B-NAME 0 1 li ul leaf.menu-mlid-7951 12 0
-Boukari I-NAME 0 1 li ul leaf.menu-mlid-7951 12 0
-Ph.D. O 0 0 li ul leaf.menu-mlid-7951 12 0
+Hacene B-PER hacene 0 1 0 0 0 0 1 li ul menu-mlid-7951 12 0
+Boukari I-PER boukari 0 1 0 0 0 0 1 li ul menu-mlid-7951 12 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 li ul menu-mlid-7951 12 0
 
-Jinjie O 0 1 li ul leaf.menu-mlid-7941 12 0
-Liu, O 0 0 li ul leaf.menu-mlid-7941 12 0
-Ph.D. O 0 0 li ul leaf.menu-mlid-7941 12 0
+Jinjie B-PER jinjie 1 1 0 0 0 0 1 li ul menu-mlid-7941 12 0
+Liu I-PER liu 1 1 0 0 0 0 1 li ul menu-mlid-7941 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7941 12 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 li ul menu-mlid-7941 12 0
 
-Melissa B-NAME 0 1 li ul leaf.menu-mlid-7946 12 0
-A. I-NAME 0 1 li ul leaf.menu-mlid-7946 12 0
-Harrington I-NAME 0 1 li ul leaf.menu-mlid-7946 12 0
-Ph.D. O 0 0 li ul leaf.menu-mlid-7946 12 0
+Melissa B-PER melissa 0 1 0 0 0 0 1 li ul menu-mlid-7946 12 0
+A. I-PER a. 0 1 0 0 0 0 1 li ul menu-mlid-7946 12 0
+Harrington I-PER harrington 0 1 0 0 0 0 1 li ul menu-mlid-7946 12 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 li ul menu-mlid-7946 12 0
 
-Mohammad B-NAME 1 1 li ul leaf.menu-mlid-7961 12 0
-A. I-NAME 1 1 li ul leaf.menu-mlid-7961 12 0
-Khan I-NAME 1 1 li ul leaf.menu-mlid-7961 12 0
-Ph.D. O 0 0 li ul leaf.menu-mlid-7961 12 0
+Mohammad B-PER mohammad 1 1 0 0 0 0 1 li ul menu-mlid-7961 12 0
+A. I-PER a. 1 1 0 0 0 0 1 li ul menu-mlid-7961 12 0
+Khan I-PER khan 1 1 0 0 0 0 1 li ul menu-mlid-7961 12 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 li ul menu-mlid-7961 12 0
 
-Mukti B-NAME 0 1 li ul leaf.menu-mlid-7921 12 0
-M. I-NAME 0 1 li ul leaf.menu-mlid-7921 12 0
-Rana I-NAME 0 1 li ul leaf.menu-mlid-7921 12 0
-Ph.D O 0 0 li ul leaf.menu-mlid-7921 12 0
+Mukti B-PER mukti 0 1 0 0 0 0 1 li ul menu-mlid-7921 12 0
+M. I-PER m. 0 1 0 0 0 0 1 li ul menu-mlid-7921 12 0
+Rana I-PER rana 0 1 0 0 0 0 1 li ul menu-mlid-7921 12 0
+Ph.D O ph.d 0 0 0 0 0 0 1 li ul menu-mlid-7921 12 0
 
-Sokratis B-NAME 1 1 li ul leaf.menu-mlid-7926 12 0
-Makrogiannis I-NAME 1 1 li ul leaf.menu-mlid-7926 12 0
-Ph.D. O 0 0 li ul leaf.menu-mlid-7926 12 0
+Sokratis B-PER sokratis 1 1 0 0 0 0 1 li ul menu-mlid-7926 12 0
+Makrogiannis I-PER makrogiannis 1 1 0 0 0 0 1 li ul menu-mlid-7926 12 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 li ul menu-mlid-7926 12 0
 
-Thomas B-NAME 0 1 li ul leaf.menu-mlid-7956 12 0
-A. I-NAME 0 1 li ul leaf.menu-mlid-7956 12 0
-Planchon I-NAME 0 1 li ul leaf.menu-mlid-7956 12 0
-Ph.D. O 0 0 li ul leaf.menu-mlid-7956 12 0
+Thomas B-PER thomas 0 1 0 0 0 0 1 li ul menu-mlid-7956 12 0
+A. I-PER a. 0 1 0 0 0 0 1 li ul menu-mlid-7956 12 0
+Planchon I-PER planchon 0 1 0 0 0 0 1 li ul menu-mlid-7956 12 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 li ul menu-mlid-7956 12 0
 
-Young-Gi B-NAME 1 1 li ul last.expanded.menu-mlid-7846 12 0
-Kim I-NAME 1 1 li ul last.expanded.menu-mlid-7846 12 0
-Ph.D. O 0 0 li ul last.expanded.menu-mlid-7846 12 0
+Young B-PER young 0 1 0 0 0 0 1 li ul menu-mlid-7846 12 0
+- I-PER - 0 0 0 0 0 0 0 li ul menu-mlid-7846 12 0
+Gi I-PER gi 0 1 0 0 0 0 1 li ul menu-mlid-7846 12 0
+Kim I-PER kim 0 1 0 0 0 0 1 li ul menu-mlid-7846 12 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 li ul menu-mlid-7846 12 0
 
-Members O 0 0 li ul first.leaf.menu-mlid-7851 14 0
+Members O members 0 0 0 0 0 0 1 li ul menu-mlid-7851 14 0
 
-Teaching O 0 0 li ul leaf.menu-mlid-7856 14 0
+Teaching O teaching 0 0 0 0 0 0 1 li ul menu-mlid-7856 14 0
 
-Research O 0 1 li ul leaf.menu-mlid-7876 14 0
+Research O research 0 1 0 0 0 0 1 li ul menu-mlid-7876 14 0
 
-Publications O 0 0 li ul leaf.menu-mlid-7861 14 0
+Publications O publications 0 0 0 0 0 0 1 li ul menu-mlid-7861 14 0
 
-Presentations O 0 0 li ul leaf.menu-mlid-7866 14 0
+Presentations O presentations 0 0 0 0 0 0 1 li ul menu-mlid-7866 14 0
 
-Pictures O 0 0 li ul leaf.menu-mlid-7881 14 0
+Pictures O pictures 0 0 0 0 0 0 1 li ul menu-mlid-7881 14 0
 
-Links O 0 1 li ul last.leaf.menu-mlid-7871 14 0
+Links O links 0 1 0 0 0 0 1 li ul menu-mlid-7871 14 0
 
-Communicating O 0 0 li ul leaf.menu-mlid-9786 10 0
-Science O 0 0 li ul leaf.menu-mlid-9786 10 0
-Workshop O 0 0 li ul leaf.menu-mlid-9786 10 0
+Communicating O communicating 0 0 0 0 0 0 1 li ul menu-mlid-9786 10 0
+Science O science 0 0 0 0 0 0 1 li ul menu-mlid-9786 10 0
+Workshop O workshop 0 0 0 0 0 0 1 li ul menu-mlid-9786 10 0
 
-Contact O 0 0 li ul leaf.menu-mlid-6636 10 0
-Us O 0 1 li ul leaf.menu-mlid-6636 10 0
+Contact O contact 0 0 0 0 0 0 1 li ul menu-mlid-6636 10 0
+Us O us 0 1 0 0 0 0 1 li ul menu-mlid-6636 10 0
 
-Grant O 0 1 li ul leaf.menu-mlid-7666 10 0
-Writing O 0 0 li ul leaf.menu-mlid-7666 10 0
+Grant O grant 0 1 0 0 0 0 1 li ul menu-mlid-7666 10 0
+Writing O writing 0 0 0 0 0 0 1 li ul menu-mlid-7666 10 0
 
-Office O 0 0 li ul leaf.menu-mlid-7661 10 0
-Staff O 0 1 li ul leaf.menu-mlid-7661 10 0
+Office O office 0 0 0 0 0 0 1 li ul menu-mlid-7661 10 0
+Staff O staff 0 1 0 0 0 0 1 li ul menu-mlid-7661 10 0
+
+Give O give 0 0 0 0 0 0 1 li ul menu-mlid-6641 10 0
 
-Give O 0 0 li ul last.leaf.menu-mlid-6641 10 0
+Students O students 0 0 0 0 0 0 1 li ul menu-mlid-6601 8 0
+
+Scholarships O scholarships 0 0 0 0 0 0 1 li ul menu-mlid-6646 10 0
+
+Bridge O bridge 0 1 0 0 0 0 1 li ul menu-mlid-7641 12 0
+to O to 0 0 0 0 0 0 0 li ul menu-mlid-7641 12 0
+the O the 0 1 0 0 0 0 0 li ul menu-mlid-7641 12 0
+Doctorate O doctorate 0 0 0 0 0 0 1 li ul menu-mlid-7641 12 0
+Program O program 0 0 0 0 0 0 1 li ul menu-mlid-7641 12 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul menu-mlid-7636 12 0
+Partnership O partnership 0 0 0 0 0 0 1 li ul menu-mlid-7636 12 0
+Award O award 0 0 0 0 0 0 1 li ul menu-mlid-7636 12 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 li ul menu-mlid-7646 12 0
+Preparation O preparation 0 0 0 0 0 0 1 li ul menu-mlid-7646 12 0
+Program O program 0 0 0 0 0 0 1 li ul menu-mlid-7646 12 0
+
+Robert O robert 0 1 0 0 0 0 1 li ul menu-mlid-7671 12 0
+Noyce O noyce 0 1 0 0 0 0 1 li ul menu-mlid-7671 12 0
+Teacher O teacher 0 1 0 0 0 0 1 li ul menu-mlid-7671 12 0
+Scholarship O scholarship 0 0 0 0 0 0 1 li ul menu-mlid-7671 12 0
+
+Teaching O teaching 0 0 0 0 0 0 1 li ul menu-mlid-7651 12 0
+Assistant O assistant 0 0 0 0 0 0 1 li ul menu-mlid-7651 12 0
+Program O program 0 0 0 0 0 0 1 li ul menu-mlid-7651 12 0
+
+Clubs O clubs 0 0 0 0 0 0 1 li ul menu-mlid-6656 10 0
+& O & 0 0 0 0 0 0 0 li ul menu-mlid-6656 10 0
+Organizations O organizations 0 0 0 0 0 0 1 li ul menu-mlid-6656 10 0
+
+Advisement O advisement 0 0 0 0 0 0 1 li ul menu-mlid-6661 10 0
+Center O center 0 1 0 0 0 0 1 li ul menu-mlid-6661 10 0
+
+Math O math 0 1 0 0 0 0 1 li ul menu-mlid-7656 12 0
+Study O study 0 1 0 0 0 0 1 li ul menu-mlid-7656 12 0
+Help O help 0 0 0 0 0 0 1 li ul menu-mlid-7656 12 0
+
+Student O student 0 1 0 0 0 0 1 li ul menu-mlid-6666 10 0
+Success O success 0 0 0 0 0 0 1 li ul menu-mlid-6666 10 0
+
+Departments O departments 0 0 0 0 0 0 1 li ul menu-mlid-6606 8 0
+
+Biological O biological 0 0 0 0 0 0 1 li ul menu-mlid-6676 10 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul menu-mlid-6676 10 0
+
+Biological O biological 0 0 0 0 0 0 1 li ul menu-mlid-7106 12 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul menu-mlid-7106 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7106 12 0
+BS O bs 0 0 0 0 0 0 1 li ul menu-mlid-7106 12 0
+
+Biological O biological 0 0 0 0 0 0 1 li ul menu-mlid-7111 12 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul menu-mlid-7111 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7111 12 0
+MS O ms 0 1 0 0 0 0 1 li ul menu-mlid-7111 12 0
+
+Forensic O forensic 0 0 0 0 0 0 1 li ul menu-mlid-7116 12 0
+Biology O biology 0 0 0 0 0 0 1 li ul menu-mlid-7116 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7116 12 0
+BS O bs 0 0 0 0 0 0 1 li ul menu-mlid-7116 12 0
+
+Molecular O molecular 0 0 0 0 0 0 1 li ul menu-mlid-7121 12 0
+and O and 0 1 0 0 0 0 0 li ul menu-mlid-7121 12 0
+Cellular O cellular 0 0 0 0 0 0 1 li ul menu-mlid-7121 12 0
+Neuroscience O neuroscience 0 0 0 0 0 0 1 li ul menu-mlid-7121 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7121 12 0
+MS O ms 0 1 0 0 0 0 1 li ul menu-mlid-7121 12 0
+
+Neuroscience O neuroscience 0 0 0 0 0 0 1 li ul menu-mlid-7126 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7126 12 0
+PhD O phd 0 0 0 0 0 0 1 li ul menu-mlid-7126 12 0
+
+Chemistry O chemistry 0 0 0 0 0 0 1 li ul menu-mlid-6681 10 0
+
+Applied O applied 0 0 0 0 0 0 1 li ul menu-mlid-7131 12 0
+Chemistry O chemistry 0 0 0 0 0 0 1 li ul menu-mlid-7131 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7131 12 0
+MS O ms 0 1 0 0 0 0 1 li ul menu-mlid-7131 12 0
+
+Applied O applied 0 0 0 0 0 0 1 li ul menu-mlid-7136 12 0
+Chemistry O chemistry 0 0 0 0 0 0 1 li ul menu-mlid-7136 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7136 12 0
+PhD O phd 0 0 0 0 0 0 1 li ul menu-mlid-7136 12 0
+
+Chemistry O chemistry 0 0 0 0 0 0 1 li ul menu-mlid-7141 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7141 12 0
+BS O bs 0 0 0 0 0 0 1 li ul menu-mlid-7141 12 0
+
+Chemistry/Pre O chemistry/pre 0 0 0 0 0 0 1 li ul menu-mlid-7146 12 0
+- O - 0 0 0 0 0 0 0 li ul menu-mlid-7146 12 0
+Professional O professional 0 0 0 0 1 0 1 li ul menu-mlid-7146 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7146 12 0
+BS O bs 0 0 0 0 0 0 1 li ul menu-mlid-7146 12 0
+
+Computer O computer 0 0 0 0 0 0 1 li ul menu-mlid-6686 10 0
+and O and 0 1 0 0 0 0 0 li ul menu-mlid-6686 10 0
+Information O information 0 1 0 0 0 0 1 li ul menu-mlid-6686 10 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul menu-mlid-6686 10 0
+
+Computer O computer 0 0 0 0 0 0 1 li ul menu-mlid-7151 12 0
+Science O science 0 0 0 0 0 0 1 li ul menu-mlid-7151 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7151 12 0
+BS O bs 0 0 0 0 0 0 1 li ul menu-mlid-7151 12 0
+
+Computer O computer 0 0 0 0 0 0 1 li ul menu-mlid-7156 12 0
+Science O science 0 0 0 0 0 0 1 li ul menu-mlid-7156 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7156 12 0
+MS O ms 0 1 0 0 0 0 1 li ul menu-mlid-7156 12 0
+
+Information O information 0 1 0 0 0 0 1 li ul menu-mlid-7161 12 0
+Technology O technology 0 0 0 0 0 0 1 li ul menu-mlid-7161 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7161 12 0
+BS O bs 0 0 0 0 0 0 1 li ul menu-mlid-7161 12 0
+
+Mathematical O mathematical 0 0 0 0 0 0 1 li ul menu-mlid-6691 10 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul menu-mlid-6691 10 0
+
+Interdisciplinary O interdisciplinary 0 0 0 0 0 0 1 li ul menu-mlid-7171 12 0
+Applied O applied 0 0 0 0 0 0 1 li ul menu-mlid-7171 12 0
+Mathematics O mathematics 0 0 0 0 0 0 1 li ul menu-mlid-7171 12 0
+and O and 0 1 0 0 0 0 0 li ul menu-mlid-7171 12 0
+Mathematical O mathematical 0 0 0 0 0 0 1 li ul menu-mlid-7171 12 0
+Physics O physics 0 0 0 0 0 0 1 li ul menu-mlid-7171 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7171 12 0
+PhD O phd 0 0 0 0 0 0 1 li ul menu-mlid-7171 12 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 li ul menu-mlid-7181 12 0
+Education O education 0 0 0 0 0 0 1 li ul menu-mlid-7181 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7181 12 0
+BS O bs 0 0 0 0 0 0 1 li ul menu-mlid-7181 12 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 li ul menu-mlid-7176 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7176 12 0
+Applied O applied 0 0 0 0 0 0 1 li ul menu-mlid-7176 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7176 12 0
+MS O ms 0 1 0 0 0 0 1 li ul menu-mlid-7176 12 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 li ul menu-mlid-7166 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7166 12 0
+BS O bs 0 0 0 0 0 0 1 li ul menu-mlid-7166 12 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 li ul menu-mlid-7186 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7186 12 0
+Pure O pure 0 1 0 0 0 0 1 li ul menu-mlid-7186 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7186 12 0
+MS O ms 0 1 0 0 0 0 1 li ul menu-mlid-7186 12 0
 
-Students O 0 0 li ul expanded.menu-mlid-6601 8 0
+Physics O physics 0 0 0 0 0 0 1 li ul menu-mlid-6696 10 0
+and O and 0 1 0 0 0 0 0 li ul menu-mlid-6696 10 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul menu-mlid-6696 10 0
 
-Scholarships O 0 0 li ul first.expanded.menu-mlid-6646 10 0
+Applied O applied 0 0 0 0 0 0 1 li ul menu-mlid-7191 12 0
+Optics O optics 0 0 0 0 0 0 1 li ul menu-mlid-7191 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7191 12 0
+MS O ms 0 1 0 0 0 0 1 li ul menu-mlid-7191 12 0
 
-Bridge O 0 1 li ul first.leaf.menu-mlid-7641 12 0
-to O 0 0 li ul first.leaf.menu-mlid-7641 12 0
-the O 0 1 li ul first.leaf.menu-mlid-7641 12 0
-Doctorate O 0 0 li ul first.leaf.menu-mlid-7641 12 0
-Program O 0 0 li ul first.leaf.menu-mlid-7641 12 0
+Electrical O electrical 0 0 0 0 0 0 1 li ul menu-mlid-7196 12 0
+and O and 0 1 0 0 0 0 0 li ul menu-mlid-7196 12 0
+Electronics O electronics 0 0 0 0 0 0 1 li ul menu-mlid-7196 12 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul menu-mlid-7196 12 0
+Technology O technology 0 0 0 0 0 0 1 li ul menu-mlid-7196 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7196 12 0
+BS O bs 0 0 0 0 0 0 1 li ul menu-mlid-7196 12 0
 
-Graduate O 1 1 li ul leaf.menu-mlid-7636 12 0
-Partnership O 0 0 li ul leaf.menu-mlid-7636 12 0
-Award O 0 0 li ul leaf.menu-mlid-7636 12 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul menu-mlid-7201 12 0
+Physics O physics 0 0 0 0 0 0 1 li ul menu-mlid-7201 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7201 12 0
+BS O bs 0 0 0 0 0 0 1 li ul menu-mlid-7201 12 0
 
-Mathematics O 0 0 li ul leaf.menu-mlid-7646 12 0
-Preparation O 0 0 li ul leaf.menu-mlid-7646 12 0
-Program O 0 0 li ul leaf.menu-mlid-7646 12 0
+Optics O optics 0 0 0 0 0 0 1 li ul menu-mlid-7206 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7206 12 0
+PhD O phd 0 0 0 0 0 0 1 li ul menu-mlid-7206 12 0
 
-Robert O 0 1 li ul leaf.menu-mlid-7671 12 0
-Noyce O 0 1 li ul leaf.menu-mlid-7671 12 0
-Teacher O 0 1 li ul leaf.menu-mlid-7671 12 0
-Scholarship O 0 0 li ul leaf.menu-mlid-7671 12 0
+Physics O physics 0 0 0 0 0 0 1 li ul menu-mlid-7211 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7211 12 0
+BS O bs 0 0 0 0 0 0 1 li ul menu-mlid-7211 12 0
 
-Teaching O 0 0 li ul last.leaf.menu-mlid-7651 12 0
-Assistant O 0 0 li ul last.leaf.menu-mlid-7651 12 0
-Program O 0 0 li ul last.leaf.menu-mlid-7651 12 0
+Physics O physics 0 0 0 0 0 0 1 li ul menu-mlid-7216 12 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7216 12 0
+MS O ms 0 1 0 0 0 0 1 li ul menu-mlid-7216 12 0
 
-Clubs O 0 0 li ul leaf.menu-mlid-6656 10 0
-& O 0 0 li ul leaf.menu-mlid-6656 10 0
-Organizations O 0 0 li ul leaf.menu-mlid-6656 10 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu-mlid-6611 8 0
 
-Advisement O 0 0 li ul expanded.menu-mlid-6661 10 0
-Center O 0 1 li ul expanded.menu-mlid-6661 10 0
+Outreach O outreach 0 0 0 0 0 0 1 li ul menu-mlid-6726 10 0
 
-Math O 0 1 li ul first.last.leaf.menu-mlid-7656 12 0
-Study O 0 1 li ul first.last.leaf.menu-mlid-7656 12 0
-Help O 0 0 li ul first.last.leaf.menu-mlid-7656 12 0
+Course O course 0 1 0 0 0 0 1 li ul menu-mlid-7381 10 0
+Catalogs O catalogs 0 0 0 0 0 0 1 li ul menu-mlid-7381 10 0
 
-Student O 0 1 li ul last.leaf.menu-mlid-6666 10 0
-Success O 0 0 li ul last.leaf.menu-mlid-6666 10 0
+ROTC O rotc 0 0 0 0 0 0 1 li ul menu-mlid-6701 10 0
 
-Departments O 0 0 li ul expanded.menu-mlid-6606 8 0
+Research O research 0 1 0 0 0 0 1 li ul menu-mlid-6616 8 0
 
-Biological O 0 0 li ul first.expanded.menu-mlid-6676 10 0
-Sciences O 0 0 li ul first.expanded.menu-mlid-6676 10 0
+Research O research 0 1 0 0 0 0 1 li ul menu-mlid-6731 10 0
+Projects O projects 0 0 0 0 0 0 1 li ul menu-mlid-6731 10 0
+& O & 0 0 0 0 0 0 0 li ul menu-mlid-6731 10 0
+Partnerships O partnerships 0 0 0 0 0 0 1 li ul menu-mlid-6731 10 0
 
-Biological O 0 0 li ul first.leaf.menu-mlid-7106 12 0
-Sciences, O 0 0 li ul first.leaf.menu-mlid-7106 12 0
-BS O 0 0 li ul first.leaf.menu-mlid-7106 12 0
+ANERA O anera 0 0 0 0 0 0 1 li ul menu-mlid-6736 12 0
+- O - 0 0 0 0 0 0 0 li ul menu-mlid-6736 12 0
+RISE O rise 0 0 0 0 0 0 1 li ul menu-mlid-6736 12 0
+Program O program 0 0 0 0 0 0 1 li ul menu-mlid-6736 12 0
 
-Biological O 0 0 li ul leaf.menu-mlid-7111 12 0
-Sciences, O 0 0 li ul leaf.menu-mlid-7111 12 0
-MS O 0 1 li ul leaf.menu-mlid-7111 12 0
+INBRE O inbre 0 0 0 0 0 0 1 li ul menu-mlid-6756 12 0
 
-Forensic O 0 0 li ul leaf.menu-mlid-7116 12 0
-Biology, O 0 0 li ul leaf.menu-mlid-7116 12 0
-BS O 0 0 li ul leaf.menu-mlid-7116 12 0
+Centers O centers 0 0 0 0 0 0 1 li ul menu-mlid-6741 10 0
 
-Molecular O 0 0 li ul leaf.menu-mlid-7121 12 0
-and O 0 1 li ul leaf.menu-mlid-7121 12 0
-Cellular O 0 0 li ul leaf.menu-mlid-7121 12 0
-Neuroscience, O 0 0 li ul leaf.menu-mlid-7121 12 0
-MS O 0 1 li ul leaf.menu-mlid-7121 12 0
+Applied O applied 0 0 0 0 0 0 1 li ul menu-mlid-6746 12 0
+Mathematics O mathematics 0 0 0 0 0 0 1 li ul menu-mlid-6746 12 0
+Research O research 0 1 0 0 0 0 1 li ul menu-mlid-6746 12 0
+Center O center 0 1 0 0 0 0 1 li ul menu-mlid-6746 12 0
 
-Neuroscience, O 0 0 li ul last.leaf.menu-mlid-7126 12 0
-PhD O 0 0 li ul last.leaf.menu-mlid-7126 12 0
+Machine O machine 0 1 0 0 0 0 1 li ul menu-mlid-7761 12 0
+Shop O shop 0 0 0 0 0 0 1 li ul menu-mlid-7761 12 0
 
-Chemistry O 0 0 li ul expanded.menu-mlid-6681 10 0
+Optical O optical 0 0 0 0 0 0 1 li ul menu-mlid-7746 12 0
+Science O science 0 0 0 0 0 0 1 li ul menu-mlid-7746 12 0
+Research O research 0 1 0 0 0 0 1 li ul menu-mlid-7746 12 0
+Imaging O imaging 0 0 0 0 0 0 1 li ul menu-mlid-7746 12 0
+Center O center 0 1 0 0 0 0 1 li ul menu-mlid-7746 12 0
 
-Applied O 0 0 li ul first.leaf.menu-mlid-7131 12 0
-Chemistry, O 0 0 li ul first.leaf.menu-mlid-7131 12 0
-MS O 0 1 li ul first.leaf.menu-mlid-7131 12 0
+Polices O polices 0 0 0 0 0 0 1 li ul menu-mlid-7751 14 0
+and O and 0 1 0 0 0 0 0 li ul menu-mlid-7751 14 0
+Fees O fees 0 0 0 0 0 0 1 li ul menu-mlid-7751 14 0
 
-Applied O 0 0 li ul leaf.menu-mlid-7136 12 0
-Chemistry, O 0 0 li ul leaf.menu-mlid-7136 12 0
-PhD O 0 0 li ul leaf.menu-mlid-7136 12 0
+Other O other 0 1 0 0 0 0 1 nav body section-about 5 174
+Links O links 0 1 0 0 0 0 1 nav body section-about 5 174
 
-Chemistry, O 0 0 li ul leaf.menu-mlid-7141 12 0
-BS O 0 0 li ul leaf.menu-mlid-7141 12 0
+Apply O apply 0 0 0 0 0 0 1 li ul menu-mlid-7291 8 0
 
-Chemistry/Pre-Professional, O 0 0 li ul last.leaf.menu-mlid-7146 12 0
-BS O 0 0 li ul last.leaf.menu-mlid-7146 12 0
+Visit O visit 0 1 0 0 0 0 1 li ul menu-mlid-7296 8 0
 
-Computer O 0 0 li ul expanded.menu-mlid-6686 10 0
-and O 0 1 li ul expanded.menu-mlid-6686 10 0
-Information O 0 1 li ul expanded.menu-mlid-6686 10 0
-Sciences O 0 0 li ul expanded.menu-mlid-6686 10 0
+Contact O contact 0 0 0 0 0 0 1 li ul menu-mlid-7301 8 0
 
-Computer O 0 0 li ul first.leaf.menu-mlid-7151 12 0
-Science, O 0 0 li ul first.leaf.menu-mlid-7151 12 0
-BS O 0 0 li ul first.leaf.menu-mlid-7151 12 0
+DSU O dsu 0 0 0 0 0 0 1 li ul menu-mlid-7306 8 0
+Home O home 0 1 0 0 0 0 1 li ul menu-mlid-7306 8 0
 
-Computer O 0 0 li ul leaf.menu-mlid-7156 12 0
-Science, O 0 0 li ul leaf.menu-mlid-7156 12 0
-MS O 0 1 li ul leaf.menu-mlid-7156 12 0
+Mobile O mobile 0 0 0 0 0 0 1 div div nav-btn 8 0
+Navigation O navigation 0 0 0 0 0 0 1 div div nav-btn 8 0
 
-Information O 0 1 li ul last.leaf.menu-mlid-7161 12 0
-Technology, O 0 0 li ul last.leaf.menu-mlid-7161 12 0
-BS O 0 0 li ul last.leaf.menu-mlid-7161 12 0
+Apply O apply 0 0 0 0 0 0 1 li ul menu-mlid-7291 15 0
 
-Mathematical O 0 0 li ul expanded.menu-mlid-6691 10 0
-Sciences O 0 0 li ul expanded.menu-mlid-6691 10 0
+Visit O visit 0 1 0 0 0 0 1 li ul menu-mlid-7296 15 0
 
-Interdisciplinary O 0 0 li ul first.leaf.menu-mlid-7171 12 0
-Applied O 0 0 li ul first.leaf.menu-mlid-7171 12 0
-Mathematics O 0 0 li ul first.leaf.menu-mlid-7171 12 0
-and O 0 1 li ul first.leaf.menu-mlid-7171 12 0
-Mathematical O 0 0 li ul first.leaf.menu-mlid-7171 12 0
-Physics, O 0 0 li ul first.leaf.menu-mlid-7171 12 0
-PhD O 0 0 li ul first.leaf.menu-mlid-7171 12 0
+Contact O contact 0 0 0 0 0 0 1 li ul menu-mlid-7301 15 0
 
-Mathematics O 0 0 li ul leaf.menu-mlid-7181 12 0
-Education, O 0 0 li ul leaf.menu-mlid-7181 12 0
-BS O 0 0 li ul leaf.menu-mlid-7181 12 0
+DSU O dsu 0 0 0 0 0 0 1 li ul menu-mlid-7306 15 0
+Home O home 0 1 0 0 0 0 1 li ul menu-mlid-7306 15 0
 
-Mathematics, O 0 0 li ul leaf.menu-mlid-7176 12 0
-Applied, O 0 0 li ul leaf.menu-mlid-7176 12 0
-MS O 0 1 li ul leaf.menu-mlid-7176 12 0
+MyDESU O mydesu 0 0 0 0 0 0 1 li ul menu 11 0
 
-Mathematics, O 0 0 li ul leaf.menu-mlid-7166 12 0
-BS O 0 0 li ul leaf.menu-mlid-7166 12 0
+Webmail O webmail 0 0 0 0 0 0 1 li ul menu 11 0
 
-Mathematics, O 0 0 li ul last.leaf.menu-mlid-7186 12 0
-Pure, O 0 0 li ul last.leaf.menu-mlid-7186 12 0
-MS O 0 1 li ul last.leaf.menu-mlid-7186 12 0
+Directory O directory 0 0 0 0 0 0 1 li ul menu 11 0
 
-Physics O 0 0 li ul last.expanded.menu-mlid-6696 10 0
-and O 0 1 li ul last.expanded.menu-mlid-6696 10 0
-Engineering O 0 0 li ul last.expanded.menu-mlid-6696 10 0
+Blackboard O blackboard 0 0 0 0 0 0 1 li ul menu 11 0
 
-Applied O 0 0 li ul first.leaf.menu-mlid-7191 12 0
-Optics, O 0 0 li ul first.leaf.menu-mlid-7191 12 0
-MS O 0 1 li ul first.leaf.menu-mlid-7191 12 0
+Testing O testing 0 0 0 0 0 0 1 li ul menu 11 0
+Services O services 0 0 0 0 0 0 1 li ul menu 11 0
 
-Electrical O 0 0 li ul leaf.menu-mlid-7196 12 0
-and O 0 1 li ul leaf.menu-mlid-7196 12 0
-Electronics O 0 0 li ul leaf.menu-mlid-7196 12 0
-Engineering O 0 0 li ul leaf.menu-mlid-7196 12 0
-Technology, O 0 0 li ul leaf.menu-mlid-7196 12 0
-BS O 0 0 li ul leaf.menu-mlid-7196 12 0
+Campus O campus 0 1 0 0 0 0 1 li ul menu 11 0
+Map O map 0 0 0 0 0 0 1 li ul menu 11 0
 
-Engineering O 0 0 li ul leaf.menu-mlid-7201 12 0
-Physics, O 0 0 li ul leaf.menu-mlid-7201 12 0
-BS O 0 0 li ul leaf.menu-mlid-7201 12 0
+Emergency O emergency 0 0 0 0 1 0 1 li ul menu 11 0
+Info O info 0 0 0 0 0 0 1 li ul menu 11 0
 
-Optics, O 0 0 li ul leaf.menu-mlid-7206 12 0
-PhD O 0 0 li ul leaf.menu-mlid-7206 12 0
+About O about 0 0 0 0 0 0 1 li ul active-trail 14 0
 
-Physics, O 0 0 li ul leaf.menu-mlid-7211 12 0
-BS O 0 0 li ul leaf.menu-mlid-7211 12 0
+Students O students 0 0 0 0 0 0 1 li ul menu-mlid-6601 14 0
 
-Physics, O 0 0 li ul last.leaf.menu-mlid-7216 12 0
-MS O 0 1 li ul last.leaf.menu-mlid-7216 12 0
+Departments O departments 0 0 0 0 0 0 1 li ul menu-mlid-6606 14 0
 
-Programs O 0 0 li ul expanded.menu-mlid-6611 8 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu-mlid-6611 14 0
 
-Outreach O 0 0 li ul first.leaf.menu-mlid-6726 10 0
+Research O research 0 1 0 0 0 0 1 li ul menu-mlid-6616 14 0
 
-Course O 0 1 li ul leaf.menu-mlid-7381 10 0
-Catalogs O 0 0 li ul leaf.menu-mlid-7381 10 0
+Home O home 0 1 0 0 0 0 1 span div easy-breadcrumb_segment-front 9 0
+> O > 0 0 0 0 0 0 0 div div easy-breadcrumb_segment-separator 8 2
+About O about 0 0 0 0 0 0 1 span div easy-breadcrumb_segment-1 9 0
+> O > 0 0 0 0 0 0 0 div div easy-breadcrumb_segment-separator 8 2
+Faculty O faculty 0 0 0 0 0 0 1 div div easy-breadcrumb_segment-title 8 6
+Profiles O profiles 0 0 0 0 1 0 1 div div easy-breadcrumb_segment-title 8 6
 
-ROTC O 0 0 li ul last.leaf.menu-mlid-6701 10 0
+Faculty O faculty 0 0 0 0 0 0 1 div div pane-dsu-page-title 13 0
+Profiles O profiles 0 0 0 0 1 0 1 div div pane-dsu-page-title 13 0
 
-Research O 0 1 li ul last.expanded.menu-mlid-6616 8 0
+Department O department 0 0 0 0 0 0 1 div div pane-node-body 13 0
+of O of 0 1 0 0 0 0 0 div div pane-node-body 13 0
+Biological O biological 0 0 0 0 0 0 1 div div pane-node-body 13 0
+Sciences O sciences 0 0 0 0 0 0 1 div div pane-node-body 13 0
 
-Research O 0 1 li ul first.expanded.menu-mlid-6731 10 0
-Projects O 0 0 li ul first.expanded.menu-mlid-6731 10 0
-& O 0 0 li ul first.expanded.menu-mlid-6731 10 0
-Partnerships O 0 0 li ul first.expanded.menu-mlid-6731 10 0
+Professors O professors 0 0 0 0 1 0 1 div div pane-node-body 13 1
+: O : 0 0 0 0 0 0 0 div div pane-node-body 13 1
 
-ANERA-RISE O 0 0 li ul first.leaf.menu-mlid-6736 12 0
-Program O 0 0 li ul first.leaf.menu-mlid-6736 12 0
+Harbinder B-PER harbinder 0 1 0 0 0 0 1 div div pane-node-body 13 2
+Dhillon I-PER dhillon 0 1 0 0 0 0 1 div div pane-node-body 13 2
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 2
 
-INBRE O 0 0 li ul last.leaf.menu-mlid-6756 12 0
+Vincent B-PER vincent 0 1 0 0 0 0 1 p div pane-node-body 14 1
+Fondong I-PER fondong 0 0 0 0 0 0 1 p div pane-node-body 14 1
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 1
 
-Centers O 0 0 li ul last.expanded.menu-mlid-6741 10 0
+Melissa B-PER melissa 0 1 0 0 0 0 1 p div pane-node-body 14 3
+Harrington I-PER harrington 0 1 0 0 0 0 1 p div pane-node-body 14 3
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 3
 
-Applied O 0 0 li ul first.leaf.menu-mlid-6746 12 0
-Mathematics O 0 0 li ul first.leaf.menu-mlid-6746 12 0
-Research O 0 1 li ul first.leaf.menu-mlid-6746 12 0
-Center O 0 1 li ul first.leaf.menu-mlid-6746 12 0
+Andrew B-PER andrew 0 1 0 0 1 0 1 div div pane-node-body 13 2
+Lloyd I-PER lloyd 0 1 0 0 0 0 1 div div pane-node-body 13 2
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 2
 
-Machine O 0 1 li ul leaf.menu-mlid-7761 12 0
-Shop O 0 0 li ul leaf.menu-mlid-7761 12 0
+Clytrice B-PER clytrice 0 0 0 0 0 0 1 p div pane-node-body 14 6
+Watson I-PER watson 0 1 0 0 0 0 1 p div pane-node-body 14 6
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 6
 
-Optical O 0 0 li ul last.expanded.menu-mlid-7746 12 0
-Science O 0 0 li ul last.expanded.menu-mlid-7746 12 0
-Research O 0 1 li ul last.expanded.menu-mlid-7746 12 0
-Imaging O 0 0 li ul last.expanded.menu-mlid-7746 12 0
-Center O 0 1 li ul last.expanded.menu-mlid-7746 12 0
+Associate O associate 0 1 0 0 0 0 1 div div pane-node-body 13 10
+Professors O professors 0 0 0 0 1 0 1 div div pane-node-body 13 10
+: O : 0 0 0 0 0 0 0 div div pane-node-body 13 10
 
-Polices O 0 0 li ul first.last.leaf.menu-mlid-7751 14 0
-and O 0 1 li ul first.last.leaf.menu-mlid-7751 14 0
-Fees O 0 0 li ul first.last.leaf.menu-mlid-7751 14 0
+Y. B-PER y. 0 1 0 0 0 0 1 p div pane-node-body 14 0
+Hwan I-PER hwan 1 1 0 0 0 0 1 p div pane-node-body 14 0
+Kim I-PER kim 1 1 0 0 0 0 1 p div pane-node-body 14 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 0
 
-Other O 0 1 nav body html.not-front.not-logged-in.page-node.page-node-.page-node-26.node-type-page.og-context.og-context-node.og-context-node-1.section-about 5 174
-Links O 0 1 nav body html.not-front.not-logged-in.page-node.page-node-.page-node-26.node-type-page.og-context.og-context-node.og-context-node-1.section-about 5 174
+Sabrina B-PER sabrina 0 1 0 0 0 0 1 div div pane-node-body 13 11
+McGary I-PER mcgary 0 1 0 0 0 0 1 div div pane-node-body 13 11
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 11
 
-Apply O 0 0 li ul first.leaf.menu-mlid-7291 8 0
+Karl B-PER karl 0 1 0 0 0 0 1 div div pane-node-body 13 11
+Miletti I-PER miletti 0 0 0 0 0 0 1 div div pane-node-body 13 11
+- I-PER - 0 0 0 0 0 0 0 div div pane-node-body 13 11
+Gonzalez I-PER gonzalez 0 1 0 0 0 0 1 div div pane-node-body 13 11
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 11
 
-Visit O 0 1 li ul leaf.menu-mlid-7296 8 0
+Murali B-PER murali 0 1 0 0 0 0 1 div div pane-node-body 13 11
+Temburni I-PER temburni 0 0 0 0 0 0 1 div div pane-node-body 13 11
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 11
 
-Contact O 0 0 li ul leaf.menu-mlid-7301 8 0
+Cynthia B-PER cynthia 0 1 0 0 0 0 1 p div pane-node-body 14 5
+VanGolen I-PER vangolen 0 0 0 0 0 0 1 p div pane-node-body 14 5
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 5
 
-DSU O 0 0 li ul last.leaf.menu-mlid-7306 8 0
-Home O 0 1 li ul last.leaf.menu-mlid-7306 8 0
+Charlie B-PER charlie 1 1 0 0 0 0 1 div div pane-node-body 13 11
+Wilson I-PER wilson 1 1 0 0 0 0 1 div div pane-node-body 13 11
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 11
+, O , 0 0 0 0 0 0 0 div div pane-node-body 13 11
+Chair O chair 0 1 0 0 0 0 1 div div pane-node-body 13 11
 
-Mobile O 0 0 div div nav-btn 8 0
-Navigation O 0 0 div div nav-btn 8 0
+Assistant O assistant 0 0 0 0 0 0 1 div div pane-node-body 13 19
+Professors O professors 0 0 0 0 1 0 1 div div pane-node-body 13 19
+: O : 0 0 0 0 0 0 0 div div pane-node-body 13 19
 
-Apply O 0 0 li ul first.leaf.menu-mlid-7291 15 0
+Anthea B-PER anthea 0 1 0 0 0 0 1 div div pane-node-body 13 20
+Aikins I-PER aikins 0 1 0 0 0 0 1 div div pane-node-body 13 20
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 20
 
-Visit O 0 1 li ul leaf.menu-mlid-7296 15 0
+Michael B-PER michael 0 1 0 0 0 0 1 div div pane-node-body 13 20
+Gitcho I-PER gitcho 0 0 0 0 0 0 1 div div pane-node-body 13 20
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 20
 
-Contact O 0 0 li ul leaf.menu-mlid-7301 15 0
+Hakeem B-PER hakeem 0 1 0 0 0 0 1 p div pane-node-body 14 2
+Lawal I-PER lawal 0 1 0 0 0 0 1 p div pane-node-body 14 2
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 2
 
-DSU O 0 0 li ul last.leaf.menu-mlid-7306 15 0
-Home O 0 1 li ul last.leaf.menu-mlid-7306 15 0
+Derrick B-PER derrick 0 1 0 0 0 0 1 div div pane-node-body 13 20
+Scott I-PER scott 0 1 0 0 0 0 1 div div pane-node-body 13 20
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 20
 
-MyDESU O 0 0 li ul menu 11 0
+Krystal B-PER krystal 0 1 0 0 0 0 1 div div pane-node-body 13 20
+Hans I-PER hans 0 1 0 0 0 0 1 div div pane-node-body 13 20
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 20
 
-Webmail O 0 0 li ul menu 11 0
+Department O department 0 0 0 0 0 0 1 div div pane-node-body 13 26
+of O of 0 1 0 0 0 0 0 div div pane-node-body 13 26
+Chemistry O chemistry 0 0 0 0 0 0 1 div div pane-node-body 13 26
 
-Directory O 0 0 li ul menu 11 0
+Professor O professor 0 0 0 0 1 0 1 div div pane-node-body 13 28
+: O : 0 0 0 0 0 0 0 div div pane-node-body 13 28
 
-Blackboard O 0 0 li ul menu 11 0
+Andrew B-PER andrew 0 1 0 0 1 0 1 p div pane-node-body 14 0
+Goudy I-PER goudy 0 1 0 0 0 0 1 p div pane-node-body 14 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 0
 
-Testing O 0 0 li ul menu 11 0
-Services O 0 0 li ul menu 11 0
+Associate O associate 0 1 0 0 0 0 1 div div pane-node-body 13 10
+Professors O professors 0 0 0 0 1 0 1 div div pane-node-body 13 10
+: O : 0 0 0 0 0 0 0 div div pane-node-body 13 10
 
-Campus O 0 1 li ul menu 11 0
-Map O 0 0 li ul menu 11 0
+Peter B-PER peter 1 1 0 0 0 0 1 div div pane-node-body 13 32
+DiMaria I-PER dimaria 1 1 0 0 0 0 1 div div pane-node-body 13 32
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 32
 
-Emergency O 0 0 li ul menu 11 0
-Info O 0 0 li ul menu 11 0
+Cheng B-PER cheng 0 1 0 0 0 0 1 p div pane-node-body 14 1
+- I-PER - 0 0 0 0 0 0 0 p div pane-node-body 14 1
+Yu I-PER yu 0 1 0 0 0 0 1 p div pane-node-body 14 1
+Lai I-PER lai 0 1 0 0 0 0 1 p div pane-node-body 14 1
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 1
 
-About O 0 0 li ul active-trail 14 0
+Qiquan B-PER qiquan 1 1 0 0 0 0 1 p div pane-node-body 14 3
+Wang I-PER wang 1 1 0 0 0 0 1 p div pane-node-body 14 3
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 3
 
-Students O 0 0 li ul leaf.has-children.menu-mlid-6601 14 0
+Cherese B-PER cherese 0 0 0 0 0 0 1 div div pane-node-body 13 32
+Winstead I-PER winstead 0 1 0 0 0 0 1 div div pane-node-body 13 32
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 32
+, O , 0 0 0 0 0 0 0 div div pane-node-body 13 32
+Chair O chair 0 1 0 0 0 0 1 div div pane-node-body 13 32
 
-Departments O 0 0 li ul leaf.has-children.menu-mlid-6606 14 0
+Bizuneh B-PER bizuneh 0 1 0 0 0 0 1 div div pane-node-body 13 32
+Workie I-PER workie 0 0 0 0 0 0 1 div div pane-node-body 13 32
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 32
 
-Programs O 0 0 li ul leaf.has-children.menu-mlid-6611 14 0
+Assistant O assistant 0 0 0 0 0 0 1 div div pane-node-body 13 39
+Professors O professors 0 0 0 0 1 0 1 div div pane-node-body 13 39
+: O : 0 0 0 0 0 0 0 div div pane-node-body 13 39
 
-Research O 0 1 li ul last.leaf.has-children.menu-mlid-6616 14 0
+Dula B-PER dula 0 1 0 0 0 0 1 div div pane-node-body 13 40
+Man I-PER man 0 1 0 0 0 0 1 div div pane-node-body 13 40
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 40
 
-Home O 0 1 span div easy-breadcrumb_segment.easy-breadcrumb_segment-front 9 0
-> O 0 0 div div easy-breadcrumb_segment-separator 8 2
-About O 0 0 span div easy-breadcrumb_segment.easy-breadcrumb_segment-1 9 0
-> O 0 0 div div easy-breadcrumb_segment-separator 8 2
-Faculty O 0 0 div div easy-breadcrumb_segment.easy-breadcrumb_segment-title 8 6
-Profiles O 0 0 div div easy-breadcrumb_segment.easy-breadcrumb_segment-title 8 6
+Daniela B-PER daniela 0 1 0 0 0 0 1 p div pane-node-body 14 1
+Radu I-PER radu 0 1 0 0 0 0 1 p div pane-node-body 14 1
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 1
 
-Faculty O 0 0 div div panel-pane.pane-dsu-page-title 13 0
-Profiles O 0 0 div div panel-pane.pane-dsu-page-title 13 0
+Young B-PER young 0 1 0 0 0 0 1 p div pane-node-body 14 3
+- I-PER - 0 0 0 0 0 0 0 p div pane-node-body 14 3
+Gi I-PER gi 0 1 0 0 0 0 1 p div pane-node-body 14 3
+Kim I-PER kim 0 1 0 0 0 0 1 p div pane-node-body 14 3
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 3
 
-Department O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 0
-of O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 0
-Biological O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 0
-Sciences O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 0
+Lecturer O lecturer 0 0 0 0 0 0 1 div div pane-node-body 13 45
+: O : 0 0 0 0 0 0 0 div div pane-node-body 13 45
 
-Professors: O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 1
+Weiping B-PER weiping 1 1 0 0 0 0 1 div div pane-node-body 13 46
+Guo I-PER guo 1 1 0 0 0 0 1 div div pane-node-body 13 46
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 46
 
-Harbinder B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 2
-Dhillon I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 2
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 2
+Department O department 0 0 0 0 0 0 1 div div pane-node-body 13 47
+of O of 0 1 0 0 0 0 0 div div pane-node-body 13 47
+Computer O computer 0 0 0 0 0 0 1 div div pane-node-body 13 47
+and O and 0 1 0 0 0 0 0 div div pane-node-body 13 47
+Information O information 0 1 0 0 0 0 1 div div pane-node-body 13 47
+Sciences O sciences 0 0 0 0 0 0 1 div div pane-node-body 13 47
 
-Vincent B-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 1
-Fondong I-NAME 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 1
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 1
+Professor O professor 0 0 0 0 1 0 1 div div pane-node-body 13 28
+: O : 0 0 0 0 0 0 0 div div pane-node-body 13 28
 
-Melissa B-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 3
-Harrington I-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 3
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 3
+Dragolijub B-PER dragolijub 0 0 0 0 1 0 1 p div pane-node-body 14 0
+Pokrajac I-PER pokrajac 0 1 0 0 0 0 1 p div pane-node-body 14 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 0
 
-Andrew B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 2
-Lloyd I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 2
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 2
+Associate O associate 0 1 0 0 0 0 1 div div pane-node-body 13 52
+Professors O professors 0 0 0 0 1 0 1 div div pane-node-body 13 52
+: O : 0 0 0 0 0 0 0 div div pane-node-body 13 52
 
-Clytrice B-NAME 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 6
-Watson I-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 6
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 6
+Gary B-PER gary 1 1 0 0 0 0 1 div div pane-node-body 13 53
+Holness I-PER holness 1 1 0 0 0 0 1 div div pane-node-body 13 53
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 53
 
-Associate O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 10
-Professors: O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 10
+Kam B-PER kam 1 1 0 0 0 0 1 p div pane-node-body 14 1
+Kong I-PER kong 1 1 0 0 0 0 1 p div pane-node-body 14 1
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 1
 
-Y. B-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 0
-Hwan I-NAME 1 1 p div panel-pane.pane-entity-field.pane-node-body 14 0
-Kim I-NAME 1 1 p div panel-pane.pane-entity-field.pane-node-body 14 0
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 0
+Zhongyan B-PER zhongyan 1 1 0 0 0 0 1 div div pane-node-body 13 53
+Lin I-PER lin 1 1 0 0 0 0 1 div div pane-node-body 13 53
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 53
 
-Sabrina B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 11
-McGary I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 11
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 11
+Janko B-PER janko 0 1 0 0 0 0 1 div div pane-node-body 13 53
+Milutinovic I-PER milutinovic 0 1 0 0 0 0 1 div div pane-node-body 13 53
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 53
 
-Karl B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 11
-Miletti-Gonzalez I-NAME 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 11
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 11
+Marwan B-PER marwan 1 1 0 0 0 0 1 div div pane-node-body 13 53
+Rasamny I-PER rasamny 1 1 0 0 0 0 1 div div pane-node-body 13 53
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 53
+, O , 0 0 0 0 0 0 0 div div pane-node-body 13 53
+Chair O chair 0 1 0 0 0 0 1 div div pane-node-body 13 53
 
-Murali B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 11
-Temburni I-NAME 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 11
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 11
+Tomasz B-PER tomasz 0 1 0 0 0 0 1 p div pane-node-body 14 6
+Smolinski I-PER smolinski 0 1 0 0 0 0 1 p div pane-node-body 14 6
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 6
 
-Cynthia B-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 5
-VanGolen I-NAME 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 5
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 5
+Assistant O assistant 0 0 0 0 0 0 1 div div pane-node-body 13 61
+Professor O professor 0 0 0 0 1 0 1 div div pane-node-body 13 61
+: O : 0 0 0 0 0 0 0 div div pane-node-body 13 61
 
-Charlie B-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 11
-Wilson I-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 11
-Ph.D., O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 11
-Chair O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 11
+Xiali B-PER xiali 1 1 0 0 0 0 1 div div pane-node-body 13 62
+Hei I-PER hei 1 1 0 0 0 0 1 div div pane-node-body 13 62
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 62
 
-Assistant O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 19
-Professors: O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 19
+Lecturer O lecturer 0 0 0 0 0 0 1 div div pane-node-body 13 63
 
-Anthea B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 20
-Aikins I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 20
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 20
+Shilpa B-PER shilpa 1 1 0 0 0 0 1 div div pane-node-body 13 64
+Patel I-PER patel 0 1 0 0 0 0 1 div div pane-node-body 13 64
+M.S. O m.s. 0 0 0 0 1 0 1 div div pane-node-body 13 64
 
-Michael B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 20
-Gitcho I-NAME 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 20
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 20
+Department O department 0 0 0 0 0 0 1 div div pane-node-body 13 65
+of O of 0 1 0 0 0 0 0 div div pane-node-body 13 65
+Mathematical O mathematical 0 0 0 0 0 0 1 div div pane-node-body 13 65
+Sciences O sciences 0 0 0 0 0 0 1 div div pane-node-body 13 65
 
-Hakeem B-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 2
-Lawal I-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 2
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 2
+Professors O professors 0 0 0 0 1 0 1 div div pane-node-body 13 1
+: O : 0 0 0 0 0 0 0 div div pane-node-body 13 1
 
-Derrick B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 20
-Scott I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 20
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 20
+Fengshan B-PER fengshan 1 1 0 0 0 0 1 div div pane-node-body 13 68
+Liu I-PER liu 1 1 0 0 0 0 1 div div pane-node-body 13 68
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 68
 
-Krystal B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 20
-Hans I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 20
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 20
+Dawn B-PER dawn 0 1 0 0 0 0 1 p div pane-node-body 14 1
+Lott I-PER lott 0 1 0 0 0 0 1 p div pane-node-body 14 1
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 1
 
-Department O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 26
-of O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 26
-Chemistry O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 26
+Mazen B-PER mazen 0 1 0 0 0 0 1 div div pane-node-body 13 68
+Shahin I-PER shahin 0 1 0 0 0 0 1 div div pane-node-body 13 68
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 68
 
-Professor: O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 28
+Xiguan B-PER xiguan 0 0 0 0 0 0 1 div div pane-node-body 13 68
+Shi I-PER shi 0 1 0 0 0 0 1 div div pane-node-body 13 68
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 68
 
-Andrew B-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 0
-Goudy I-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 0
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 0
+Associate O associate 0 1 0 0 0 0 1 div div pane-node-body 13 52
+Professors O professors 0 0 0 0 1 0 1 div div pane-node-body 13 52
+: O : 0 0 0 0 0 0 0 div div pane-node-body 13 52
 
-Associate O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 10
-Professors: O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 10
+Nicola B-PER nicola 0 1 0 0 0 0 1 div div pane-node-body 13 74
+Edwards I-PER edwards 0 1 0 0 0 0 1 div div pane-node-body 13 74
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 74
+, O , 0 0 0 0 0 0 0 div div pane-node-body 13 74
+Chair O chair 0 1 0 0 0 0 1 div div pane-node-body 13 74
 
-Peter B-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 32
-DiMaria I-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 32
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 32
+Jinjie B-PER jinjie 1 1 0 0 0 0 1 p div pane-node-body 14 1
+Liu I-PER liu 1 1 0 0 0 0 1 p div pane-node-body 14 1
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 1
 
-Cheng-Yu B-NAME 1 1 p div panel-pane.pane-entity-field.pane-node-body 14 1
-Lai I-NAME 1 1 p div panel-pane.pane-entity-field.pane-node-body 14 1
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 1
+Rodney B-PER rodney 0 1 0 0 0 0 1 div div pane-node-body 13 74
+McNair I-PER mcnair 0 1 0 0 0 0 1 div div pane-node-body 13 74
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 74
 
-Qiquan B-NAME 1 1 p div panel-pane.pane-entity-field.pane-node-body 14 3
-Wang I-NAME 1 1 p div panel-pane.pane-entity-field.pane-node-body 14 3
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 3
+Assistant O assistant 0 0 0 0 0 0 1 div div pane-node-body 13 19
+Professors O professors 0 0 0 0 1 0 1 div div pane-node-body 13 19
+: O : 0 0 0 0 0 0 0 div div pane-node-body 13 19
 
-Cherese B-NAME 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 32
-Winstead I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 32
-Ph.D., O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 32
-Chair O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 32
+Delayne B-PER delayne 0 0 0 0 0 0 1 div div pane-node-body 13 79
+Johnson I-PER johnson 0 1 0 0 0 0 1 div div pane-node-body 13 79
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 79
 
-Bizuneh B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 32
-Workie I-NAME 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 32
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 32
+Sokratis B-PER sokratis 1 1 0 0 0 0 1 p div pane-node-body 14 1
+Makrogiannis I-PER makrogiannis 1 1 0 0 0 0 1 p div pane-node-body 14 1
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 1
 
-Assistant O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 39
-Professors: O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 39
+Matthew B-PER matthew 0 1 0 0 0 0 1 div div pane-node-body 13 79
+Tanzy I-PER tanzy 0 1 0 0 0 0 1 div div pane-node-body 13 79
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 79
 
-Dula B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 40
-Man I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 40
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 40
+Onur B-PER onur 0 1 0 0 0 0 1 div div pane-node-body 13 79
+Yavuz I-PER yavuz 0 1 0 0 0 0 1 div div pane-node-body 13 79
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 79
 
-Daniela B-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 1
-Radu I-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 1
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 1
+Lecturer O lecturer 0 0 0 0 0 0 1 div div pane-node-body 13 84
 
-Young-Gi B-NAME 1 1 p div panel-pane.pane-entity-field.pane-node-body 14 3
-Kim I-NAME 1 1 p div panel-pane.pane-entity-field.pane-node-body 14 3
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 3
+Ellen B-PER ellen 0 1 0 0 0 0 1 div div pane-node-body 13 85
+Carr I-PER carr 0 1 0 0 0 0 1 div div pane-node-body 13 85
+MS O ms 0 1 0 0 0 0 1 div div pane-node-body 13 85
 
-Lecturer: O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 45
+Laila B-PER laila 1 1 0 0 0 0 1 div div pane-node-body 13 85
+Girgis I-PER girgis 1 1 0 0 0 0 1 div div pane-node-body 13 85
+Ph.D.. O ph.d.. 0 0 0 0 1 0 1 div div pane-node-body 13 85
 
-Weiping B-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 46
-Guo I-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 46
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 46
+Sharon B-PER sharon 1 1 0 0 0 0 1 div div pane-node-body 13 85
+Smith I-PER smith 1 1 0 0 0 0 1 div div pane-node-body 13 85
+Ed.D. O ed.d. 0 0 0 0 1 0 1 div div pane-node-body 13 85
 
-Department O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 47
-of O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 47
-Computer O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 47
-and O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 47
-Information O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 47
-Sciences O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 47
+Department O department 0 0 0 0 0 0 1 div div pane-node-body 13 88
+of O of 0 1 0 0 0 0 0 div div pane-node-body 13 88
+Physics O physics 0 0 0 0 0 0 1 div div pane-node-body 13 88
+& O & 0 0 0 0 0 0 0 div div pane-node-body 13 88
+Engineering O engineering 0 0 0 0 0 0 1 div div pane-node-body 13 88
 
-Professor: O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 28
+Professors O professors 0 0 0 0 1 0 1 div div pane-node-body 13 1
+: O : 0 0 0 0 0 0 0 div div pane-node-body 13 1
 
-Dragolijub B-NAME 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 0
-Pokrajac I-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 0
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 0
+Hacene B-PER hacene 0 1 0 0 0 0 1 div div pane-node-body 13 91
+Boukari I-PER boukari 0 1 0 0 0 0 1 div div pane-node-body 13 91
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 91
 
-Associate O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 52
-Professors: O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 52
+Gabriel B-PER gabriel 0 1 0 0 0 0 1 div div pane-node-body 13 91
+Gwanmesia I-PER gwanmesia 0 1 0 0 0 0 1 div div pane-node-body 13 91
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 91
 
-Gary B-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 53
-Holness I-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 53
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 53
+Aristides B-PER aristides 1 1 0 0 0 0 1 div div pane-node-body 13 91
+Marcano I-PER marcano 1 1 0 0 0 0 1 div div pane-node-body 13 91
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 91
 
-Kam B-NAME 1 1 p div panel-pane.pane-entity-field.pane-node-body 14 1
-Kong I-NAME 1 1 p div panel-pane.pane-entity-field.pane-node-body 14 1
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 1
+Gour B-PER gour 0 1 0 0 0 0 1 div div pane-node-body 13 91
+Pati I-PER pati 0 1 0 0 0 0 1 div div pane-node-body 13 91
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 91
 
-Zhongyan B-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 53
-Lin I-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 53
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 53
+Renu B-PER renu 1 1 0 0 0 0 1 div div pane-node-body 13 91
+Tripathi I-PER tripathi 0 1 0 0 0 0 1 div div pane-node-body 13 91
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 91
 
-Janko B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 53
-Milutinovic I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 53
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 53
+Essaid B-PER essaid 1 1 0 0 0 0 1 div div pane-node-body 13 91
+Zerrad I-PER zerrad 1 1 0 0 0 0 1 div div pane-node-body 13 91
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 91
 
-Marwan B-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 53
-Rasamny I-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 53
-Ph.D., O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 53
-Chair O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 53
+Associate O associate 0 1 0 0 0 0 1 div div pane-node-body 13 10
+Professors O professors 0 0 0 0 1 0 1 div div pane-node-body 13 10
+: O : 0 0 0 0 0 0 0 div div pane-node-body 13 10
 
-Tomasz B-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 6
-Smolinski I-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 6
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 6
+Mohammad B-PER mohammad 1 1 0 0 0 0 1 div div pane-node-body 13 98
+Khan I-PER khan 1 1 0 0 0 0 1 div div pane-node-body 13 98
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 98
 
-Assistant O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 61
-Professor: O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 61
+Qi B-PER qi 1 1 0 0 0 0 1 div div pane-node-body 13 98
+Lu I-PER lu 1 1 0 0 0 0 1 div div pane-node-body 13 98
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 98
 
-Xiali B-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 62
-Hei I-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 62
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 62
+Thomas B-PER thomas 0 1 0 0 0 0 1 p div pane-node-body 14 2
+Planchon I-PER planchon 0 1 0 0 0 0 1 p div pane-node-body 14 2
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p div pane-node-body 14 2
 
-Lecturer O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 63
+Mukti B-PER mukti 0 1 0 0 0 0 1 div div pane-node-body 13 98
+Rana I-PER rana 0 1 0 0 0 0 1 div div pane-node-body 13 98
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 98
+, O , 0 0 0 0 0 0 0 div div pane-node-body 13 98
+Chair O chair 0 1 0 0 0 0 1 div div pane-node-body 13 98
 
-Shilpa B-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 64
-Patel I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 64
-M.S. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 64
+Deborah B-PER deborah 0 1 0 0 0 0 1 div div pane-node-body 13 98
+Santamore I-PER santamore 0 1 0 0 0 0 1 div div pane-node-body 13 98
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 98
 
-Department O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 65
-of O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 65
-Mathematical O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 65
-Sciences O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 65
+Assistant O assistant 0 0 0 0 0 0 1 div div pane-node-body 13 19
+Professors O professors 0 0 0 0 1 0 1 div div pane-node-body 13 19
+: O : 0 0 0 0 0 0 0 div div pane-node-body 13 19
 
-Professors: O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 1
+Yuriy B-PER yuriy 0 1 0 0 0 0 1 div div pane-node-body 13 105
+Markushin I-PER markushin 0 1 0 0 0 0 1 div div pane-node-body 13 105
+, O , 0 0 0 0 0 0 0 div div pane-node-body 13 105
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 105
 
-Fengshan B-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 68
-Liu I-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 68
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 68
+Jun B-PER jun 1 1 0 0 0 0 1 div div pane-node-body 13 105
+Ren I-PER ren 1 1 0 0 0 0 1 div div pane-node-body 13 105
+Ph.D. O ph.d. 0 0 0 0 1 0 1 div div pane-node-body 13 105
 
-Dawn B-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 1
-Lott I-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 1
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 1
+About O about 0 0 0 0 0 0 1 h2 nav active-trail 13 0
 
-Mazen B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 68
-Shahin I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 68
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 68
+Communicating O communicating 0 0 0 0 0 0 1 li ul menu-mlid-9786 15 0
+Science O science 0 0 0 0 0 0 1 li ul menu-mlid-9786 15 0
+Workshop O workshop 0 0 0 0 0 0 1 li ul menu-mlid-9786 15 0
 
-Xiguan B-NAME 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 68
-Shi I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 68
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 68
+Contact O contact 0 0 0 0 0 0 1 li ul menu-mlid-6636 15 0
+Us O us 0 1 0 0 0 0 1 li ul menu-mlid-6636 15 0
 
-Associate O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 52
-Professors: O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 52
+Faculty O faculty 0 0 0 0 0 0 1 li ul active 15 0
+Profiles O profiles 0 0 0 0 1 0 1 li ul active 15 0
 
-Nicola B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 74
-Edwards I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 74
-Ph.D., O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 74
-Chair O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 74
-
-Jinjie B-NAME 1 1 p div panel-pane.pane-entity-field.pane-node-body 14 1
-Liu I-NAME 1 1 p div panel-pane.pane-entity-field.pane-node-body 14 1
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 1
-
-Rodney B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 74
-McNair I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 74
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 74
-
-Assistant O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 19
-Professors: O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 19
-
-Delayne B-NAME 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 79
-Johnson I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 79
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 79
-
-Sokratis B-NAME 1 1 p div panel-pane.pane-entity-field.pane-node-body 14 1
-Makrogiannis I-NAME 1 1 p div panel-pane.pane-entity-field.pane-node-body 14 1
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 1
-
-Matthew B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 79
-Tanzy I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 79
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 79
-
-Onur B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 79
-Yavuz I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 79
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 79
-
-Lecturer O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 84
-
-Ellen B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 85
-Carr I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 85
-MS O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 85
-
-Laila B-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 85
-Girgis I-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 85
-Ph.D.. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 85
-
-Sharon B-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 85
-Smith I-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 85
-Ed.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 85
-
-Department O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 88
-of O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 88
-Physics O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 88
-& O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 88
-Engineering O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 88
-
-Professors: O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 1
-
-Hacene B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 91
-Boukari I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 91
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 91
-
-Gabriel B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 91
-Gwanmesia I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 91
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 91
-
-Aristides B-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 91
-Marcano I-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 91
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 91
-
-Gour B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 91
-Pati I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 91
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 91
-
-Renu B-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 91
-Tripathi I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 91
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 91
-
-Essaid B-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 91
-Zerrad I-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 91
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 91
-
-Associate O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 10
-Professors: O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 10
-
-Mohammad B-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 98
-Khan I-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 98
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 98
-
-Qi B-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 98
-Lu I-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 98
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 98
-
-Thomas B-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 2
-Planchon I-NAME 0 1 p div panel-pane.pane-entity-field.pane-node-body 14 2
-Ph.D. O 0 0 p div panel-pane.pane-entity-field.pane-node-body 14 2
-
-Mukti B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 98
-Rana I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 98
-Ph.D., O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 98
-Chair O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 98
-
-Deborah B-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 98
-Santamore I-NAME 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 98
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 98
-
-Assistant O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 19
-Professors: O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 19
-
-Yuriy O 0 1 div div panel-pane.pane-entity-field.pane-node-body 13 105
-Markushin, O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 105
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 105
-
-Jun B-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 105
-Ren I-NAME 1 1 div div panel-pane.pane-entity-field.pane-node-body 13 105
-Ph.D. O 0 0 div div panel-pane.pane-entity-field.pane-node-body 13 105
-
-About O 0 0 h2 nav active-trail 13 0
-
-Communicating O 0 0 li ul first.leaf.menu-mlid-9786 15 0
-Science O 0 0 li ul first.leaf.menu-mlid-9786 15 0
-Workshop O 0 0 li ul first.leaf.menu-mlid-9786 15 0
-
-Contact O 0 0 li ul leaf.menu-mlid-6636 15 0
-Us O 0 1 li ul leaf.menu-mlid-6636 15 0
-
-Faculty O 0 0 li ul active-trail.active 15 0
-Profiles O 0 0 li ul active-trail.active 15 0
-
-Cheng-Yu B-NAME 1 1 li ul first.leaf.menu-mlid-7936 17 0
-Lai I-NAME 1 1 li ul first.leaf.menu-mlid-7936 17 0
-PH.D O 0 0 li ul first.leaf.menu-mlid-7936 17 0
-
-Daniela B-NAME 0 1 li ul leaf.menu-mlid-7916 17 0
-Radu I-NAME 0 1 li ul leaf.menu-mlid-7916 17 0
-Ph.D O 0 0 li ul leaf.menu-mlid-7916 17 0
-
-Hacene B-NAME 0 1 li ul leaf.menu-mlid-7951 17 0
-Boukari I-NAME 0 1 li ul leaf.menu-mlid-7951 17 0
-Ph.D. O 0 0 li ul leaf.menu-mlid-7951 17 0
-
-Jinjie O 0 1 li ul leaf.menu-mlid-7941 17 0
-Liu, O 0 0 li ul leaf.menu-mlid-7941 17 0
-Ph.D. O 0 0 li ul leaf.menu-mlid-7941 17 0
-
-Melissa B-NAME 0 1 li ul leaf.menu-mlid-7946 17 0
-A. I-NAME 0 1 li ul leaf.menu-mlid-7946 17 0
-Harrington I-NAME 0 1 li ul leaf.menu-mlid-7946 17 0
-Ph.D. O 0 0 li ul leaf.menu-mlid-7946 17 0
-
-Mohammad B-NAME 1 1 li ul leaf.menu-mlid-7961 17 0
-A. I-NAME 1 1 li ul leaf.menu-mlid-7961 17 0
-Khan I-NAME 1 1 li ul leaf.menu-mlid-7961 17 0
-Ph.D. O 0 0 li ul leaf.menu-mlid-7961 17 0
-
-Mukti B-NAME 0 1 li ul leaf.menu-mlid-7921 17 0
-M. I-NAME 0 1 li ul leaf.menu-mlid-7921 17 0
-Rana I-NAME 0 1 li ul leaf.menu-mlid-7921 17 0
-Ph.D O 0 0 li ul leaf.menu-mlid-7921 17 0
-
-Sokratis B-NAME 1 1 li ul leaf.menu-mlid-7926 17 0
-Makrogiannis I-NAME 1 1 li ul leaf.menu-mlid-7926 17 0
-Ph.D. O 0 0 li ul leaf.menu-mlid-7926 17 0
-
-Thomas B-NAME 0 1 li ul leaf.menu-mlid-7956 17 0
-A. I-NAME 0 1 li ul leaf.menu-mlid-7956 17 0
-Planchon I-NAME 0 1 li ul leaf.menu-mlid-7956 17 0
-Ph.D. O 0 0 li ul leaf.menu-mlid-7956 17 0
-
-Young-Gi B-NAME 1 1 li ul last.leaf.has-children.menu-mlid-7846 17 0
-Kim I-NAME 1 1 li ul last.leaf.has-children.menu-mlid-7846 17 0
-Ph.D. O 0 0 li ul last.leaf.has-children.menu-mlid-7846 17 0
-
-Grant O 0 1 li ul leaf.menu-mlid-7666 15 0
-Writing O 0 0 li ul leaf.menu-mlid-7666 15 0
-
-Office O 0 0 li ul leaf.menu-mlid-7661 15 0
-Staff O 0 1 li ul leaf.menu-mlid-7661 15 0
-
-Give O 0 0 li ul last.leaf.menu-mlid-6641 15 0
-
-Delaware O 0 1 ul div title 13 0
-State O 0 1 ul div title 13 0
-University O 0 1 ul div title 13 0
-
-1200 O 0 0 ul div contact 13 1
-N. O 0 1 ul div contact 13 1
-DuPont O 0 1 ul div contact 13 1
-Highway O 0 0 ul div contact 13 1
-
-Dover, O 0 0 ul div contact 13 2
-DE O 0 0 ul div contact 13 2
-19901 O 0 0 ul div contact 13 2
-
-Daytime: O 0 0 ul div contact 13 0
-302.857.6060 O 0 0 ul div contact 13 0
-
-Evening: O 0 0 ul div contact 13 1
-302.857.6290 O 0 0 ul div contact 13 1
-
-Contact O 0 0 li ul links 14 0
-Us O 0 1 li ul links 14 0
-
-Virtual O 0 0 li ul links 14 0
-Tour O 0 1 li ul links 14 0
-
-Directions O 0 0 li ul links 14 0
-
-Delaware O 0 1 div div statement 11 16
-State O 0 1 div div statement 11 16
-University O 0 1 div div statement 11 16
-was O 0 0 div div statement 11 16
-founded O 0 0 div div statement 11 16
-in O 0 1 div div statement 11 16
-1891 O 0 0 div div statement 11 16
-and O 0 1 div div statement 11 16
-is O 0 0 div div statement 11 16
-accredited O 0 0 div div statement 11 16
-by O 0 1 div div statement 11 16
-the O 0 1 div div statement 11 16
-Middle O 0 0 div div statement 11 16
-States O 0 1 div div statement 11 16
-Commission O 0 0 div div statement 11 16
-on O 0 0 div div statement 11 16
-Higher O 0 0 div div statement 11 16
-Education. O 0 0 div div statement 11 16
-Its O 0 1 div div statement 11 16
-main O 0 0 div div statement 11 16
-location O 0 0 div div statement 11 16
-is O 0 0 div div statement 11 16
-in O 0 1 div div statement 11 16
-Dover, O 0 0 div div statement 11 16
-yet O 0 0 div div statement 11 16
-DSU O 0 0 div div statement 11 16
-offers O 0 0 div div statement 11 16
-courses O 0 0 div div statement 11 16
-throughout O 0 0 div div statement 11 16
-the O 0 1 div div statement 11 16
-state O 0 0 div div statement 11 16
-of O 0 1 div div statement 11 16
-Delaware. O 0 0 div div statement 11 16
-
-© O 0 0 div div copyright 11 17
-All O 0 1 div div copyright 11 17
-Rights O 0 0 div div copyright 11 17
-Reserved. O 0 0 div div copyright 11 17
-
-Calendar O 0 0 li ul links.first 14 0
-
-Pay O 0 1 li ul links.first 14 0
-Your O 0 0 li ul links.first 14 0
-Fees O 0 0 li ul links.first 14 0
-
-Library O 0 0 li ul links.first 14 0
-
-Jobs O 0 1 li ul links.first 14 0
-
-Website O 0 0 li ul links.last 14 0
-Feedback O 0 0 li ul links.last 14 0
-
-Disclaimer O 0 0 li ul links.last 14 0
-
-Copyright O 0 0 li ul links.last 14 0
-
-Privacy O 0 0 li ul links.last 14 0
-Statement O 0 0 li ul links.last 14 0
-
-Accessibility O 0 0 li ul links.last 14 0
-
-Sitemap O 0 0 li ul links.last 14 0
+Cheng B-PER cheng 0 1 0 0 0 0 1 li ul menu-mlid-7936 17 0
+- I-PER - 0 0 0 0 0 0 0 li ul menu-mlid-7936 17 0
+Yu I-PER yu 0 1 0 0 0 0 1 li ul menu-mlid-7936 17 0
+Lai I-PER lai 0 1 0 0 0 0 1 li ul menu-mlid-7936 17 0
+PH.D O ph.d 0 0 0 0 0 0 1 li ul menu-mlid-7936 17 0
+
+Daniela B-PER daniela 0 1 0 0 0 0 1 li ul menu-mlid-7916 17 0
+Radu I-PER radu 0 1 0 0 0 0 1 li ul menu-mlid-7916 17 0
+Ph.D O ph.d 0 0 0 0 0 0 1 li ul menu-mlid-7916 17 0
+
+Hacene B-PER hacene 0 1 0 0 0 0 1 li ul menu-mlid-7951 17 0
+Boukari I-PER boukari 0 1 0 0 0 0 1 li ul menu-mlid-7951 17 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 li ul menu-mlid-7951 17 0
+
+Jinjie B-PER jinjie 1 1 0 0 0 0 1 li ul menu-mlid-7941 17 0
+Liu I-PER liu 1 1 0 0 0 0 1 li ul menu-mlid-7941 17 0
+, O , 0 0 0 0 0 0 0 li ul menu-mlid-7941 17 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 li ul menu-mlid-7941 17 0
+
+Melissa B-PER melissa 0 1 0 0 0 0 1 li ul menu-mlid-7946 17 0
+A. I-PER a. 0 1 0 0 0 0 1 li ul menu-mlid-7946 17 0
+Harrington I-PER harrington 0 1 0 0 0 0 1 li ul menu-mlid-7946 17 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 li ul menu-mlid-7946 17 0
+
+Mohammad B-PER mohammad 1 1 0 0 0 0 1 li ul menu-mlid-7961 17 0
+A. I-PER a. 1 1 0 0 0 0 1 li ul menu-mlid-7961 17 0
+Khan I-PER khan 1 1 0 0 0 0 1 li ul menu-mlid-7961 17 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 li ul menu-mlid-7961 17 0
+
+Mukti B-PER mukti 0 1 0 0 0 0 1 li ul menu-mlid-7921 17 0
+M. I-PER m. 0 1 0 0 0 0 1 li ul menu-mlid-7921 17 0
+Rana I-PER rana 0 1 0 0 0 0 1 li ul menu-mlid-7921 17 0
+Ph.D O ph.d 0 0 0 0 0 0 1 li ul menu-mlid-7921 17 0
+
+Sokratis B-PER sokratis 1 1 0 0 0 0 1 li ul menu-mlid-7926 17 0
+Makrogiannis I-PER makrogiannis 1 1 0 0 0 0 1 li ul menu-mlid-7926 17 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 li ul menu-mlid-7926 17 0
+
+Thomas B-PER thomas 0 1 0 0 0 0 1 li ul menu-mlid-7956 17 0
+A. I-PER a. 0 1 0 0 0 0 1 li ul menu-mlid-7956 17 0
+Planchon I-PER planchon 0 1 0 0 0 0 1 li ul menu-mlid-7956 17 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 li ul menu-mlid-7956 17 0
+
+Young B-PER young 0 1 0 0 0 0 1 li ul menu-mlid-7846 17 0
+- I-PER - 0 0 0 0 0 0 0 li ul menu-mlid-7846 17 0
+Gi I-PER gi 0 1 0 0 0 0 1 li ul menu-mlid-7846 17 0
+Kim I-PER kim 0 1 0 0 0 0 1 li ul menu-mlid-7846 17 0
+Ph.D. O ph.d. 0 0 0 0 1 0 1 li ul menu-mlid-7846 17 0
+
+Grant O grant 0 1 0 0 0 0 1 li ul menu-mlid-7666 15 0
+Writing O writing 0 0 0 0 0 0 1 li ul menu-mlid-7666 15 0
+
+Office O office 0 0 0 0 0 0 1 li ul menu-mlid-7661 15 0
+Staff O staff 0 1 0 0 0 0 1 li ul menu-mlid-7661 15 0
+
+Give O give 0 0 0 0 0 0 1 li ul menu-mlid-6641 15 0
+
+Delaware O delaware 0 1 0 0 0 0 1 ul div title 13 0
+State O state 0 1 0 0 0 0 1 ul div title 13 0
+University O university 0 1 0 0 0 0 1 ul div title 13 0
+
+1200 O 1200 0 0 0 1 0 0 0 ul div contact 13 1
+N. O n. 0 1 0 0 0 0 1 ul div contact 13 1
+DuPont O dupont 0 1 0 0 0 0 1 ul div contact 13 1
+Highway O highway 0 0 0 0 0 0 1 ul div contact 13 1
+
+Dover O dover 0 1 0 0 0 0 1 ul div contact 13 2
+, O , 0 0 0 0 0 0 0 ul div contact 13 2
+DE O de 0 0 0 0 0 0 1 ul div contact 13 2
+19901 O 19901 0 0 0 1 0 0 0 ul div contact 13 2
+
+Daytime O daytime 0 0 0 0 0 0 1 ul div contact 13 0
+: O : 0 0 0 0 0 0 0 ul div contact 13 0
+302.857.6060 O 302.857.6060 0 0 0 1 0 0 0 ul div contact 13 0
+
+Evening O evening 0 0 0 0 0 0 1 ul div contact 13 1
+: O : 0 0 0 0 0 0 0 ul div contact 13 1
+302.857.6290 O 302.857.6290 0 0 0 1 0 0 0 ul div contact 13 1
+
+Contact O contact 0 0 0 0 0 0 1 li ul links 14 0
+Us O us 0 1 0 0 0 0 1 li ul links 14 0
+
+Virtual O virtual 0 0 0 0 0 0 1 li ul links 14 0
+Tour O tour 0 1 0 0 0 0 1 li ul links 14 0
+
+Directions O directions 0 0 0 0 0 0 1 li ul links 14 0
+
+Delaware O delaware 0 1 0 0 0 0 1 div div statement 11 16
+State O state 0 1 0 0 0 0 1 div div statement 11 16
+University O university 0 1 0 0 0 0 1 div div statement 11 16
+was O was 0 0 0 0 0 0 0 div div statement 11 16
+founded O founded 0 0 0 0 0 0 0 div div statement 11 16
+in O in 0 1 0 0 0 0 0 div div statement 11 16
+1891 O 1891 0 0 0 1 0 0 0 div div statement 11 16
+and O and 0 1 0 0 0 0 0 div div statement 11 16
+is O is 0 0 0 0 0 0 0 div div statement 11 16
+accredited O accredited 0 0 0 0 0 0 0 div div statement 11 16
+by O by 0 1 0 0 0 0 0 div div statement 11 16
+the O the 0 1 0 0 0 0 0 div div statement 11 16
+Middle O middle 0 0 0 0 0 0 1 div div statement 11 16
+States O states 0 1 0 0 0 0 1 div div statement 11 16
+Commission O commission 0 0 0 0 0 0 1 div div statement 11 16
+on O on 0 0 0 0 0 0 0 div div statement 11 16
+Higher O higher 0 0 0 0 0 0 1 div div statement 11 16
+Education. O education. 0 0 0 0 0 0 1 div div statement 11 16
+Its O its 0 1 0 0 0 0 1 div div statement 11 16
+main O main 0 0 0 0 0 0 0 div div statement 11 16
+location O location 0 0 0 0 0 0 0 div div statement 11 16
+is O is 0 0 0 0 0 0 0 div div statement 11 16
+in O in 0 1 0 0 0 0 0 div div statement 11 16
+Dover O dover 0 1 0 0 0 0 1 div div statement 11 16
+, O , 0 0 0 0 0 0 0 div div statement 11 16
+yet O yet 0 0 0 0 0 0 0 div div statement 11 16
+DSU O dsu 0 0 0 0 0 0 1 div div statement 11 16
+offers O offers 0 0 0 0 0 0 0 div div statement 11 16
+courses O courses 0 0 0 0 0 0 0 div div statement 11 16
+throughout O throughout 0 0 0 0 0 0 0 div div statement 11 16
+the O the 0 1 0 0 0 0 0 div div statement 11 16
+state O state 0 0 0 0 0 0 0 div div statement 11 16
+of O of 0 1 0 0 0 0 0 div div statement 11 16
+Delaware. O delaware. 0 0 0 0 0 0 1 div div statement 11 16
+
+© O © 0 0 0 0 0 0 0 div div copyright 11 17
+All O all 0 1 0 0 0 0 1 div div copyright 11 17
+Rights O rights 0 0 0 0 0 0 1 div div copyright 11 17
+Reserved. O reserved. 0 0 0 0 0 0 1 div div copyright 11 17
+
+Calendar O calendar 0 0 0 0 0 0 1 li ul first 14 0
+
+Pay O pay 0 1 0 0 0 0 1 li ul first 14 0
+Your O your 0 0 0 0 0 0 1 li ul first 14 0
+Fees O fees 0 0 0 0 0 0 1 li ul first 14 0
+
+Library O library 0 0 0 0 0 0 1 li ul first 14 0
+
+Jobs O jobs 0 1 0 0 0 0 1 li ul first 14 0
+
+Website O website 0 0 0 0 0 0 1 li ul last 14 0
+Feedback O feedback 0 0 0 0 0 0 1 li ul last 14 0
+
+Disclaimer O disclaimer 0 0 0 0 0 0 1 li ul last 14 0
+
+Copyright O copyright 0 0 0 0 0 0 1 li ul last 14 0
+
+Privacy O privacy 0 0 0 0 0 0 1 li ul last 14 0
+Statement O statement 0 0 0 0 0 0 1 li ul last 14 0
+
+Accessibility O accessibility 0 0 0 0 0 0 1 li ul last 14 0
+
+Sitemap O sitemap 0 0 0 0 0 0 1 li ul last 14 0

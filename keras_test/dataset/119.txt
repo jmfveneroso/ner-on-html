@@ -1,1294 +1,1568 @@
-Faculty O 0 0 meta head none 5 0
-- O 0 0 meta head none 5 0
-Department O 0 0 meta head none 5 0
-of O 0 1 meta head none 5 0
-Computer O 0 0 meta head none 5 0
-Science O 0 0 meta head none 5 0
-& O 0 0 meta head none 5 0
-Information O 0 1 meta head none 5 0
-Engineering O 0 0 meta head none 5 0
-
-Your O 0 0 meta head none 5 2
-browser O 0 0 meta head none 5 2
-does O 0 0 meta head none 5 2
-not O 0 0 meta head none 5 2
-support O 0 0 meta head none 5 2
-JavaScript! O 0 0 meta head none 5 2
-Your O 0 0 meta head none 5 2
-browser O 0 0 meta head none 5 2
-does O 0 0 meta head none 5 2
-not O 0 0 meta head none 5 2
-support O 0 0 meta head none 5 2
-JavaScript! O 0 0 meta head none 5 2
-Your O 0 0 meta head none 5 2
-browser O 0 0 meta head none 5 2
-does O 0 0 meta head none 5 2
-not O 0 0 meta head none 5 2
-support O 0 0 meta head none 5 2
-JavaScript! O 0 0 meta head none 5 2
-Your O 0 0 meta head none 5 2
-browser O 0 0 meta head none 5 2
-does O 0 0 meta head none 5 2
-not O 0 0 meta head none 5 2
-support O 0 0 meta head none 5 2
-JavaScript! O 0 0 meta head none 5 2
-Your O 0 0 meta head none 5 2
-browser O 0 0 meta head none 5 2
-does O 0 0 meta head none 5 2
-not O 0 0 meta head none 5 2
-support O 0 0 meta head none 5 2
-JavaScript! O 0 0 meta head none 5 2
+Faculty O faculty 0 0 0 0 0 0 1 meta head none 5 0
+- O - 0 0 0 0 0 0 0 meta head none 5 0
+Department O department 0 0 0 0 0 0 1 meta head none 5 0
+of O of 0 1 0 0 0 0 0 meta head none 5 0
+Computer O computer 0 0 0 0 0 0 1 meta head none 5 0
+Science O science 0 0 0 0 0 0 1 meta head none 5 0
+& O & 0 0 0 0 0 0 0 meta head none 5 0
+Information O information 0 1 0 0 0 0 1 meta head none 5 0
+Engineering O engineering 0 0 0 0 0 0 1 meta head none 5 0
+
+Your O your 0 0 0 0 0 0 1 meta head none 5 2
+browser O browser 0 0 0 0 0 0 0 meta head none 5 2
+does O does 0 0 0 0 0 0 0 meta head none 5 2
+not O not 0 0 0 0 0 0 0 meta head none 5 2
+support O support 0 0 0 0 0 0 0 meta head none 5 2
+JavaScript! O javascript! 0 0 0 0 0 0 1 meta head none 5 2
+Your O your 0 0 0 0 0 0 1 meta head none 5 2
+browser O browser 0 0 0 0 0 0 0 meta head none 5 2
+does O does 0 0 0 0 0 0 0 meta head none 5 2
+not O not 0 0 0 0 0 0 0 meta head none 5 2
+support O support 0 0 0 0 0 0 0 meta head none 5 2
+JavaScript! O javascript! 0 0 0 0 0 0 1 meta head none 5 2
+Your O your 0 0 0 0 0 0 1 meta head none 5 2
+browser O browser 0 0 0 0 0 0 0 meta head none 5 2
+does O does 0 0 0 0 0 0 0 meta head none 5 2
+not O not 0 0 0 0 0 0 0 meta head none 5 2
+support O support 0 0 0 0 0 0 0 meta head none 5 2
+JavaScript! O javascript! 0 0 0 0 0 0 1 meta head none 5 2
+Your O your 0 0 0 0 0 0 1 meta head none 5 2
+browser O browser 0 0 0 0 0 0 0 meta head none 5 2
+does O does 0 0 0 0 0 0 0 meta head none 5 2
+not O not 0 0 0 0 0 0 0 meta head none 5 2
+support O support 0 0 0 0 0 0 0 meta head none 5 2
+JavaScript! O javascript! 0 0 0 0 0 0 1 meta head none 5 2
+Your O your 0 0 0 0 0 0 1 meta head none 5 2
+browser O browser 0 0 0 0 0 0 0 meta head none 5 2
+does O does 0 0 0 0 0 0 0 meta head none 5 2
+not O not 0 0 0 0 0 0 0 meta head none 5 2
+support O support 0 0 0 0 0 0 0 meta head none 5 2
+JavaScript! O javascript! 0 0 0 0 0 0 1 meta head none 5 2
 
-Department O 0 0 div div h1.sitename 14 0
-of O 0 1 div div h1.sitename 14 0
-Computer O 0 0 div div h1.sitename 14 0
-Science O 0 0 div div h1.sitename 14 0
-& O 0 0 div div h1.sitename 14 0
-Information O 0 1 div div h1.sitename 14 0
-Engineering O 0 0 div div h1.sitename 14 0
+Department O department 0 0 0 0 0 0 1 div div sitename 14 0
+of O of 0 1 0 0 0 0 0 div div sitename 14 0
+Computer O computer 0 0 0 0 0 0 1 div div sitename 14 0
+Science O science 0 0 0 0 0 0 1 div div sitename 14 0
+& O & 0 0 0 0 0 0 0 div div sitename 14 0
+Information O information 0 1 0 0 0 0 1 div div sitename 14 0
+Engineering O engineering 0 0 0 0 0 0 1 div div sitename 14 0
 
-Home O 0 1 a li menu-item 20 0
+Home O home 0 1 0 0 0 0 1 a li menu-item 20 0
 
-Backoffice O 0 0 a li menu-item 20 0
+Backoffice O backoffice 0 0 0 0 0 0 1 a li menu-item 20 0
 
-Member O 0 1 a li menu-item 20 0
-
-Login O 0 0 a li menu-item 23 0
-
-Logout O 0 0 a li menu-item 23 0
-
-My O 0 1 a li menu-item 23 0
-Account O 0 0 a li menu-item 23 0
-
-Register O 0 1 a li menu-item 23 0
-
-ç¹é« O 0 0 div div multilang 17 0
-
-English O 0 1 div div curlang 16 2
-
-Your O 0 0 div div mainhead-inner 11 53
-browser O 0 0 div div mainhead-inner 11 53
-does O 0 0 div div mainhead-inner 11 53
-not O 0 0 div div mainhead-inner 11 53
-support O 0 0 div div mainhead-inner 11 53
-JavaScript! O 0 0 div div mainhead-inner 11 53
-
-Category O 0 0 div div h3 28 0
-List O 0 1 div div h3 28 0
-
-Introduction O 0 0 a li menu-item. 32 0
-
-Faculty O 0 0 a li menu-item. 32 0
-
-Curriculum O 0 0 a li menu-item. 32 0
-
-Facility O 0 0 a li menu-item. 32 0
-
-Resource O 0 0 a li menu-item. 32 0
-
-Links O 0 1 div div h3 28 0
-
-Login O 0 0 div div h3 28 0
-
-Your O 0 0 div div mm_01 28 0
-browser O 0 0 div div mm_01 28 0
-does O 0 0 div div mm_01 28 0
-not O 0 0 div div mm_01 28 0
-support O 0 0 div div mm_01 28 0
-JavaScript! O 0 0 div div mm_01 28 0
-
-Account: O 0 0 form div mm_01 29 0
-
-Password: O 0 0 form div mm_01 29 3
-
-Code O 0 1 span div captcha_tips 32 0
-: O 0 0 label span captcha_tips 33 0
-
-Voice O 0 1 param object authimg-outer 36 1
-Play O 0 1 param object authimg-outer 36 1
-
-refresh O 0 0 span span authimg-chgimg 33 0
-captcha O 0 0 span span authimg-chgimg 33 0
-
-Register O 0 1 div form form-submit 30 2
-Forget O 0 1 div form form-submit 30 3
-password O 0 0 div form form-submit 30 3
-
-Home O 0 1 div div path 28 0
-> O 0 0 div div mm_01 27 0
-Faculty O 0 0 div div path 28 1
-
-Faculty O 0 0 div div h4.item-title 28 0
-
-Nameï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Min-Hsiung B-NAME 1 1 span small ptcontent.clearfix.floatholder 36 0
-Hung I-NAME 1 1 span small ptcontent.clearfix.floatholder 36 0
-
-E-mailï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-hmx4@faculty.pccu.edu.tw O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Positionï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Professor O 0 0 small p ptcontent.clearfix.floatholder 35 0
-and O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Chairman O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Educationalï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Background O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Ph.D. O 0 0 span small ptcontent.clearfix.floatholder 36 0
-(Electrical O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Engineering), O 0 0 span small ptcontent.clearfix.floatholder 36 0
-The O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Ohio O 0 0 span small ptcontent.clearfix.floatholder 36 0
-State O 0 1 span small ptcontent.clearfix.floatholder 36 0
-University, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-USA O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Experience O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Professor O 0 0 font span ptcontent.clearfix.floatholder 37 0
-& O 0 0 font span ptcontent.clearfix.floatholder 37 0
-Director, O 0 0 font span ptcontent.clearfix.floatholder 37 0
-School O 0 1 font span ptcontent.clearfix.floatholder 37 0
-of O 0 1 font span ptcontent.clearfix.floatholder 37 0
-Defense O 0 0 font span ptcontent.clearfix.floatholder 37 0
-Science, O 0 0 font span ptcontent.clearfix.floatholder 37 0
-National O 0 0 font span ptcontent.clearfix.floatholder 37 0
-Defense O 0 0 font span ptcontent.clearfix.floatholder 37 0
-University O 0 1 font span ptcontent.clearfix.floatholder 37 0
-
-Professor O 0 0 font span ptcontent.clearfix.floatholder 37 0
-& O 0 0 font span ptcontent.clearfix.floatholder 37 0
-Chairman, O 0 0 font span ptcontent.clearfix.floatholder 37 0
-Department O 0 0 font span ptcontent.clearfix.floatholder 37 0
-of O 0 1 font span ptcontent.clearfix.floatholder 37 0
-Electrical O 0 0 font span ptcontent.clearfix.floatholder 37 0
-and O 0 1 font span ptcontent.clearfix.floatholder 37 0
-Electronic O 0 0 font span ptcontent.clearfix.floatholder 37 0
-Engineering, O 0 0 font span ptcontent.clearfix.floatholder 37 0
-National O 0 0 font span ptcontent.clearfix.floatholder 37 0
-Defense O 0 0 font span ptcontent.clearfix.floatholder 37 0
-University O 0 1 font span ptcontent.clearfix.floatholder 37 0
-
-Specialty O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-e-Automation O 0 0 font span ptcontent.clearfix.floatholder 37 0
-
-e-Manufacturing O 0 0 font span ptcontent.clearfix.floatholder 37 0
-
-Wireless O 0 0 font span ptcontent.clearfix.floatholder 37 0
-Sensor O 0 0 font span ptcontent.clearfix.floatholder 37 0
-Network O 0 0 font span ptcontent.clearfix.floatholder 37 0
-& O 0 0 font span ptcontent.clearfix.floatholder 37 0
-RFID O 0 0 font span ptcontent.clearfix.floatholder 37 0
-
-Embedded O 0 0 font span ptcontent.clearfix.floatholder 37 0
-System O 0 0 font span ptcontent.clearfix.floatholder 37 0
-
-Control O 0 0 font span ptcontent.clearfix.floatholder 37 0
-and O 0 1 font span ptcontent.clearfix.floatholder 37 0
-Simulation O 0 0 font span ptcontent.clearfix.floatholder 37 0
-of O 0 1 font span ptcontent.clearfix.floatholder 37 0
-Robots O 0 0 font span ptcontent.clearfix.floatholder 37 0
-
-Personal O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Websiteï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Nameï¼ O 0 0 small p ptcontent.clearfix.floatholder 36 0
-
-Tsai, B-NAME 0 0 small p ptcontent.clearfix.floatholder 36 0
-Dwen-Ren I-NAME 0 1 small p ptcontent.clearfix.floatholder 36 0
-
-E-mailï¼ O 0 0 small p ptcontent.clearfix.floatholder 36 0
-
-drtt@mail.pccu.edu.tw O 0 0 span small ptcontent.clearfix.floatholder 37 0
-
-Positionï¼ O 0 0 small p ptcontent.clearfix.floatholder 36 0
-
-Associate O 0 1 small p ptcontent.clearfix.floatholder 36 0
-Professor O 0 0 small p ptcontent.clearfix.floatholder 36 0
-
-Educationalï¼ O 0 0 small p ptcontent.clearfix.floatholder 36 0
-
-Background O 0 0 small p ptcontent.clearfix.floatholder 36 0
-
-PhD(Computer O 0 0 small p ptcontent.clearfix.floatholder 36 0
-Science) O 0 0 small p ptcontent.clearfix.floatholder 36 0
-, O 0 0 small p ptcontent.clearfix.floatholder 36 0
-The O 0 1 small p ptcontent.clearfix.floatholder 36 0
-City O 0 0 small p ptcontent.clearfix.floatholder 36 0
-University O 0 1 small p ptcontent.clearfix.floatholder 36 0
-of O 0 1 small p ptcontent.clearfix.floatholder 36 0
-New O 0 1 small p ptcontent.clearfix.floatholder 36 0
-York O 0 1 small p ptcontent.clearfix.floatholder 36 0
-, O 0 0 small p ptcontent.clearfix.floatholder 36 0
-New O 0 1 small p ptcontent.clearfix.floatholder 36 0
-York, O 0 0 small p ptcontent.clearfix.floatholder 36 0
-NY, O 0 0 small p ptcontent.clearfix.floatholder 36 0
-USA O 0 0 small p ptcontent.clearfix.floatholder 36 0
-
-Experienceï¼ O 0 0 small div ptcontent.clearfix.floatholder 36 0
-
-CCU O 0 0 small p ptcontent.clearfix.floatholder 36 0
-ã O 0 0 small p ptcontent.clearfix.floatholder 36 0
-Assistant O 0 0 small p ptcontent.clearfix.floatholder 36 0
-Professor, O 0 0 small p ptcontent.clearfix.floatholder 36 0
-Information O 0 1 small p ptcontent.clearfix.floatholder 36 0
-System, O 0 0 small p ptcontent.clearfix.floatholder 36 0
-Stockton O 0 1 small p ptcontent.clearfix.floatholder 36 0
-State O 0 1 small p ptcontent.clearfix.floatholder 36 0
-College, O 0 0 small p ptcontent.clearfix.floatholder 36 0
-New O 0 1 small p ptcontent.clearfix.floatholder 36 0
-Jersey, O 0 0 small p ptcontent.clearfix.floatholder 36 0
-USA, O 0 0 small p ptcontent.clearfix.floatholder 36 0
-Lecturer, O 0 0 small p ptcontent.clearfix.floatholder 36 0
-The O 0 1 small p ptcontent.clearfix.floatholder 36 0
-City O 0 0 small p ptcontent.clearfix.floatholder 36 0
-College O 0 0 small p ptcontent.clearfix.floatholder 36 0
-of O 0 1 small p ptcontent.clearfix.floatholder 36 0
-New O 0 1 small p ptcontent.clearfix.floatholder 36 0
-York, O 0 0 small p ptcontent.clearfix.floatholder 36 0
-NY, O 0 0 small p ptcontent.clearfix.floatholder 36 0
-USA O 0 0 small p ptcontent.clearfix.floatholder 36 0
-
-Specialty O 0 0 small p ptcontent.clearfix.floatholder 36 0
-Information O 0 1 small p ptcontent.clearfix.floatholder 36 0
-Security, O 0 0 small p ptcontent.clearfix.floatholder 36 0
-Network O 0 0 small p ptcontent.clearfix.floatholder 36 0
-Management, O 0 0 small p ptcontent.clearfix.floatholder 36 0
-
-Specialty O 0 0 small div ptcontent.clearfix.floatholder 36 0
-ï¼ O 0 0 small div ptcontent.clearfix.floatholder 36 0
-
-Management O 0 1 small p ptcontent.clearfix.floatholder 36 0
-of O 0 1 small p ptcontent.clearfix.floatholder 36 0
-Information O 0 1 small p ptcontent.clearfix.floatholder 36 0
-System, O 0 0 small p ptcontent.clearfix.floatholder 36 0
-Software O 0 1 small p ptcontent.clearfix.floatholder 36 0
-Engineering O 0 0 small p ptcontent.clearfix.floatholder 36 0
-
-Personal O 0 1 small p ptcontent.clearfix.floatholder 36 0
-Websiteï¼ O 0 0 small p ptcontent.clearfix.floatholder 36 0
-
-Nameï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Chen, B-NAME 0 0 a span ptcontent.clearfix.floatholder 37 0
-Chun-Jung I-NAME 0 1 a span ptcontent.clearfix.floatholder 37 0
-
-E-mailï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-teacherchen@faculty.pccu.edu.tw O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Positionï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Associate O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Professor O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Educationalï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Background O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Ph.D., O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Electrical O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Engineering O 0 0 span small ptcontent.clearfix.floatholder 36 0
-, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-National O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Taiwan O 0 0 span small ptcontent.clearfix.floatholder 36 0
-University O 0 1 span small ptcontent.clearfix.floatholder 36 0
-
-Experience O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Associate O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Professor, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Computer O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Science O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Dept., O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Chinese O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Culture O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Univ O 0 0 span small ptcontent.clearfix.floatholder 36 0
-, O 0 0 span small ptcontent.clearfix.floatholder 36 1
-Associate O 0 1 span small ptcontent.clearfix.floatholder 36 2
-Professor, O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Dung- O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Nan O 0 1 span small ptcontent.clearfix.floatholder 36 2
-Institude O 0 0 span small ptcontent.clearfix.floatholder 36 2
-of O 0 1 span small ptcontent.clearfix.floatholder 36 2
-Technology O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Manger, O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Silicon-based O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Technology O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Associate O 0 1 span small ptcontent.clearfix.floatholder 36 2
-Professor, O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Chun-Go O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Institude O 0 0 span small ptcontent.clearfix.floatholder 36 2
-of O 0 1 span small ptcontent.clearfix.floatholder 36 2
-Technology O 0 0 span small ptcontent.clearfix.floatholder 36 2
-, O 0 0 span small ptcontent.clearfix.floatholder 36 3
-Manager O 0 0 span small ptcontent.clearfix.floatholder 36 3
-of O 0 1 span small ptcontent.clearfix.floatholder 36 3
-CAD O 0 0 span small ptcontent.clearfix.floatholder 36 3
-Division, O 0 0 span small ptcontent.clearfix.floatholder 36 3
-Silicon-Based O 0 0 span small ptcontent.clearfix.floatholder 36 3
-Technology O 0 0 span small ptcontent.clearfix.floatholder 36 3
-Corporation O 0 1 span small ptcontent.clearfix.floatholder 36 3
-
-Specialty O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-EDA O 0 0 span small ptcontent.clearfix.floatholder 36 0
-tool O 0 0 span small ptcontent.clearfix.floatholder 36 0
-design, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Circuit O 0 0 span small ptcontent.clearfix.floatholder 36 0
-simulation O 0 0 span small ptcontent.clearfix.floatholder 36 0
-for O 0 1 span small ptcontent.clearfix.floatholder 36 0
-large-scale O 0 0 span small ptcontent.clearfix.floatholder 36 0
-integrated O 0 0 span small ptcontent.clearfix.floatholder 36 0
-circuits, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Programming O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Language, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Digital O 0 1 span small ptcontent.clearfix.floatholder 36 0
-logic, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Algorithm O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Personal O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Websiteï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Nameï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Sun B-NAME 0 1 a span ptcontent.clearfix.floatholder 37 0
-, I-NAME 0 0 a span ptcontent.clearfix.floatholder 37 0
-Jenn-Dong I-NAME 0 1 a span ptcontent.clearfix.floatholder 37 0
-
-E-mailï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-jdsun@faculty.pccu.edu.tw O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Positionï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Associate O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Professor O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Educationalï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Background O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Ph.D. O 0 0 span small ptcontent.clearfix.floatholder 36 0
-(Electrical O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Engineering), O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Syracuse O 0 0 span small ptcontent.clearfix.floatholder 36 0
-University O 0 1 span small ptcontent.clearfix.floatholder 36 0
-, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Syracuse O 0 0 span small ptcontent.clearfix.floatholder 36 0
-, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-NY O 0 0 span small ptcontent.clearfix.floatholder 36 0
-, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-USA O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Experience O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Associate O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Professor, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Dept. O 0 0 span small ptcontent.clearfix.floatholder 36 0
-of O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Information O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Engineering, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-I-Shou O 0 0 span small ptcontent.clearfix.floatholder 36 0
-University O 0 1 span small ptcontent.clearfix.floatholder 36 0
-, O 0 0 span small ptcontent.clearfix.floatholder 36 1
-Researcher, O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Electronic O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Systems O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Research O 0 1 span small ptcontent.clearfix.floatholder 36 2
-Division, O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Chung-Shan O 0 1 span small ptcontent.clearfix.floatholder 36 2
-Institute O 0 0 span small ptcontent.clearfix.floatholder 36 2
-of O 0 1 span small ptcontent.clearfix.floatholder 36 2
-Science O 0 0 span small ptcontent.clearfix.floatholder 36 2
-and O 0 1 span small ptcontent.clearfix.floatholder 36 2
-Technology O 0 0 span small ptcontent.clearfix.floatholder 36 2
-, O 0 0 span small ptcontent.clearfix.floatholder 36 3
-Instructor, O 0 0 span small ptcontent.clearfix.floatholder 36 3
-Dept. O 0 0 span small ptcontent.clearfix.floatholder 36 3
-of O 0 1 span small ptcontent.clearfix.floatholder 36 3
-Electrical O 0 0 span small ptcontent.clearfix.floatholder 36 3
-Engineering, O 0 0 span small ptcontent.clearfix.floatholder 36 3
-Chung-Cheng O 0 1 span small ptcontent.clearfix.floatholder 36 3
-Institute O 0 0 span small ptcontent.clearfix.floatholder 36 3
-of O 0 1 span small ptcontent.clearfix.floatholder 36 3
-Technology O 0 0 span small ptcontent.clearfix.floatholder 36 3
-
-Specialty O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Analysis O 0 0 span small ptcontent.clearfix.floatholder 36 0
-and O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Simulation O 0 0 span small ptcontent.clearfix.floatholder 36 0
-of O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Telecommunication O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Systems O 0 0 span small ptcontent.clearfix.floatholder 36 0
-, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Digital O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Watermarking O 0 0 span small ptcontent.clearfix.floatholder 36 0
-, O 0 0 span small ptcontent.clearfix.floatholder 36 1
-Digital O 0 1 span small ptcontent.clearfix.floatholder 36 2
-Signal O 0 1 span small ptcontent.clearfix.floatholder 36 2
-Processing O 0 0 span small ptcontent.clearfix.floatholder 36 2
-
-Personal O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Websiteï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Nameï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Lee, B-NAME 0 0 a span ptcontent.clearfix.floatholder 37 0
-Chih-Jen I-NAME 0 1 a span ptcontent.clearfix.floatholder 37 0
-
-E-mailï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-cjlee@faculty.pccu.edu.tw O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Positionï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Associate O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Professor O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Educationalï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Background O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-PhD(Electrical O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Engineering), O 0 0 span small ptcontent.clearfix.floatholder 36 0
-National O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Taiwan O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Univ. O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Experience O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Associate O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Professor, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Dept. O 0 0 span small ptcontent.clearfix.floatholder 36 0
-of O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Computer O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Science, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Chinese O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Culture O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Univ., O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Associate O 0 1 span small ptcontent.clearfix.floatholder 36 1
-Professor, O 0 0 span small ptcontent.clearfix.floatholder 36 1
-Dept. O 0 0 span small ptcontent.clearfix.floatholder 36 1
-of O 0 1 span small ptcontent.clearfix.floatholder 36 1
-Advertising, O 0 0 span small ptcontent.clearfix.floatholder 36 1
-Ming O 0 1 span small ptcontent.clearfix.floatholder 36 1
-Chuan O 0 1 span small ptcontent.clearfix.floatholder 36 1
-Univ. O 0 0 span small ptcontent.clearfix.floatholder 36 1
-, O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Lecturer, O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Dept. O 0 0 span small ptcontent.clearfix.floatholder 36 2
-of O 0 1 span small ptcontent.clearfix.floatholder 36 2
-Electronic O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Engineering, O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Oriental O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Institute O 0 0 span small ptcontent.clearfix.floatholder 36 2
-of O 0 1 span small ptcontent.clearfix.floatholder 36 2
-Technology O 0 0 span small ptcontent.clearfix.floatholder 36 2
-
-Specialty O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Computer O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Vision O 0 1 span small ptcontent.clearfix.floatholder 36 0
-, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Artificial O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Intelligence O 0 0 span small ptcontent.clearfix.floatholder 36 0
-, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Neural O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Networks O 0 0 span small ptcontent.clearfix.floatholder 36 0
-, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Digital O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Image O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Processing O 0 0 span small ptcontent.clearfix.floatholder 36 0
-, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Embedded O 0 0 span small ptcontent.clearfix.floatholder 36 0
-System O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Personal O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Websiteï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Nameï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Yang, B-NAME 0 0 a span ptcontent.clearfix.floatholder 37 0
-Tai-Ning I-NAME 0 1 a span ptcontent.clearfix.floatholder 37 0
-
-E-mailï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-tnyang@faculty.pccu.edu.tw O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Positionï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Assistant O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Professor O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Educationalï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Background O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-PhD, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Department O 0 0 span small ptcontent.clearfix.floatholder 36 0
-of O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Electrical O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Engineering, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-National O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Taiwan O 0 0 span small ptcontent.clearfix.floatholder 36 0
-University O 0 1 span small ptcontent.clearfix.floatholder 36 0
-
-Experience O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-1.Manager O 0 0 span small ptcontent.clearfix.floatholder 36 0
-of O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Research O 0 1 span small ptcontent.clearfix.floatholder 36 0
-and O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Design O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Department O 0 0 span small ptcontent.clearfix.floatholder 36 0
-in O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Goldensoft O 0 0 span small ptcontent.clearfix.floatholder 36 0
-company. O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-2.Lecturer O 0 0 span small ptcontent.clearfix.floatholder 36 0
-in O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Dept. O 0 0 span small ptcontent.clearfix.floatholder 36 0
-of O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Business O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Administration, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Providence O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Univ. O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-3.Teaching O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Assistant, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Electrical O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Engineering, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Taiwan O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Univ. O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-4.Lecturer O 0 0 strong span ptcontent.clearfix.floatholder 37 0
-of O 0 1 strong span ptcontent.clearfix.floatholder 37 0
-Computer O 0 0 strong span ptcontent.clearfix.floatholder 37 0
-Training O 0 0 strong span ptcontent.clearfix.floatholder 37 0
-Institute O 0 0 strong span ptcontent.clearfix.floatholder 37 0
-of O 0 1 strong span ptcontent.clearfix.floatholder 37 0
-Electrical O 0 0 strong span ptcontent.clearfix.floatholder 37 0
-Engineering O 0 0 strong span ptcontent.clearfix.floatholder 37 0
-
-Specialty O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Artificial O 0 0 span small ptcontent.clearfix.floatholder 36 0
-intelligence, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Pattern O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Recognition, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Bioinformatics, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Clustering O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Algorithms, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Robotics, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Data O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Mining O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Personal O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Websiteï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Nameï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Chou, B-NAME 0 0 a span ptcontent.clearfix.floatholder 37 0
-Li-Ping I-NAME 0 1 a span ptcontent.clearfix.floatholder 37 0
-
-E-mailï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-zlp@faculty.pccu.edu.tw O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Positionï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Assistant O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Professor O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Educationalï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Background O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-PhD(Computer O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Science), O 0 0 span small ptcontent.clearfix.floatholder 36 0
-The O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Taiwan O 0 0 span small ptcontent.clearfix.floatholder 36 0
-University, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Taipei, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Taiwan, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-ROC O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Experience O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-1.Lecture, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Tamkang O 0 0 span small ptcontent.clearfix.floatholder 36 0
-University, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Taiwan O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-2.Lecture, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Aletheia O 0 0 span small ptcontent.clearfix.floatholder 36 0
-University, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Taiwan O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-3.Patent O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Engineer, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Panasonic O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Taiwan O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Laboratory, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Taiwan. O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-4.Lecturer, O 0 0 strong span ptcontent.clearfix.floatholder 37 0
-Lunghwa O 0 0 strong span ptcontent.clearfix.floatholder 37 0
-University O 0 1 strong span ptcontent.clearfix.floatholder 37 0
-of O 0 1 strong span ptcontent.clearfix.floatholder 37 0
-Science O 0 0 strong span ptcontent.clearfix.floatholder 37 0
-and O 0 1 strong span ptcontent.clearfix.floatholder 37 0
-Technology, O 0 0 strong span ptcontent.clearfix.floatholder 37 0
-Taiwan O 0 0 strong span ptcontent.clearfix.floatholder 37 0
-
-Specialty O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Database, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Parallel O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Processing, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Wireless O 0 0 span small ptcontent.clearfix.floatholder 36 0
-computation O 0 0 span small ptcontent.clearfix.floatholder 36 0
-. O 0 1 span small ptcontent.clearfix.floatholder 36 0
-
-Personal O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Websiteï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Nameï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Sheng-Hsuan B-NAME 1 1 a span ptcontent.clearfix.floatholder 37 0
-Hsu I-NAME 1 1 a span ptcontent.clearfix.floatholder 37 0
-
-E-mailï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-xsx@faculty.pccu.edu.tw O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Positionï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Assistant O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Professor O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Educationalï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Background O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Ph.D. O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Computer O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Science O 0 0 span small ptcontent.clearfix.floatholder 36 0
-and O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Information O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Engineering, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-National O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Taiwan O 0 0 span small ptcontent.clearfix.floatholder 36 0
-University, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Taiwan O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Experience O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-1.Assistant O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Professor, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Information O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Management, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Lung-Hwa O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Technology O 0 0 span small ptcontent.clearfix.floatholder 36 0
-University O 0 1 span small ptcontent.clearfix.floatholder 36 0
-
-2.Lecturer, O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Information O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Management, O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Lung-Hwa O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Technology O 0 0 small p ptcontent.clearfix.floatholder 35 0
-University O 0 1 small p ptcontent.clearfix.floatholder 35 0
-
-Specialty O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Computation O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Theory O 0 0 span small ptcontent.clearfix.floatholder 36 0
-, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Algorithm, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Parallel O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Computing,Distributed O 0 0 span small ptcontent.clearfix.floatholder 36 2
-Systems, O 0 0 span small ptcontent.clearfix.floatholder 36 2
-
-Wireless O 0 0 span small ptcontent.clearfix.floatholder 36 4
-Networks O 0 0 span small ptcontent.clearfix.floatholder 36 4
-
-Personal O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Websiteï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Nameï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Liu,Chung-Hsin B-NAME 0 0 a span ptcontent.clearfix.floatholder 37 0
-
-E-mailï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-lzx11@faculty.pccu.edu.tw O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Positionï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Associate O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Professor O 0 0 span small ptcontent.clearfix.floatholder 36 1
-
-Educationalï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Background O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Ph.D., O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Computer O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Science, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-National O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Tsing O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Hua O 0 1 span small ptcontent.clearfix.floatholder 36 0
-University O 0 1 span small ptcontent.clearfix.floatholder 36 0
-
-Experience O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-1. O 0 0 strong span ptcontent.clearfix.floatholder 37 0
-Assistant O 0 0 strong span ptcontent.clearfix.floatholder 37 0
-Researcher O 0 0 strong span ptcontent.clearfix.floatholder 37 0
-of O 0 1 strong span ptcontent.clearfix.floatholder 37 0
-CHT, O 0 0 strong span ptcontent.clearfix.floatholder 37 0
-TL O 0 0 strong span ptcontent.clearfix.floatholder 37 0
-
-2. O 0 0 strong span ptcontent.clearfix.floatholder 37 2
-(Part O 0 0 strong span ptcontent.clearfix.floatholder 37 2
-time) O 0 0 strong span ptcontent.clearfix.floatholder 37 2
-Assistant O 0 0 strong span ptcontent.clearfix.floatholder 37 2
-Professor O 0 0 strong span ptcontent.clearfix.floatholder 37 2
-of O 0 1 strong span ptcontent.clearfix.floatholder 37 2
-National O 0 0 strong span ptcontent.clearfix.floatholder 37 2
-Open O 0 0 strong span ptcontent.clearfix.floatholder 37 2
-University, O 0 0 strong span ptcontent.clearfix.floatholder 37 2
-Dept. O 0 0 strong span ptcontent.clearfix.floatholder 37 2
-of O 0 1 strong span ptcontent.clearfix.floatholder 37 2
-Management O 0 1 strong span ptcontent.clearfix.floatholder 37 2
-and O 0 1 strong span ptcontent.clearfix.floatholder 37 2
-Information O 0 1 strong span ptcontent.clearfix.floatholder 37 2
-
-Specialty O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Telecommunication O 0 0 span small ptcontent.clearfix.floatholder 36 0
-and O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Computer O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Network, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Multimedia O 0 0 span small ptcontent.clearfix.floatholder 36 0
-System, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Software O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Engineering O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Personal O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Websiteï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Nameï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Jimmy, B-NAME 0 0 a span ptcontent.clearfix.floatholder 37 0
-Chang-Lung I-NAME 1 1 a span ptcontent.clearfix.floatholder 37 0
-Tsai I-NAME 1 1 a span ptcontent.clearfix.floatholder 37 0
-
-E-mailï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-ccl3@faculty.pccu.edu.tw O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Positionï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Associate O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Professor O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Educationalï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Background O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Ph. O 0 1 span small ptcontent.clearfix.floatholder 36 0
-D., O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Electrical O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Engineering, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-National O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Central O 0 0 span small ptcontent.clearfix.floatholder 36 0
-University O 0 1 span small ptcontent.clearfix.floatholder 36 0
-
-Experience O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-1.Assistant O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Professor, O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Dept. O 0 0 small p ptcontent.clearfix.floatholder 35 0
-of O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Computer O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Science, O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Chinese O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Culture O 0 0 small p ptcontent.clearfix.floatholder 35 0
-University, O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Taiwan O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-2.Assistant O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Professor, O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Dept. O 0 0 small p ptcontent.clearfix.floatholder 35 0
-of O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Computer O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Science O 0 0 small p ptcontent.clearfix.floatholder 35 0
-and O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Information O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Engineering, O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Vanung O 0 0 small p ptcontent.clearfix.floatholder 35 0
-University, O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Taiwan O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-3.Senior O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Officer, O 0 0 small p ptcontent.clearfix.floatholder 35 0
-National O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Security O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Bureau, O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Taiwan O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-4.Adjunct O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Lecturer, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Dept. O 0 0 span small ptcontent.clearfix.floatholder 36 0
-of O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Information O 0 1 span small ptcontent.clearfix.floatholder 36 0
-and O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Networking O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Engineering, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Lung-Hwa O 0 0 span small ptcontent.clearfix.floatholder 36 0
-University O 0 1 span small ptcontent.clearfix.floatholder 36 0
-of O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Science O 0 0 span small ptcontent.clearfix.floatholder 36 0
-and O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Technology, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Taiwan O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Specialty O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Information O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Security, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Image O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Processing, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Cryptology, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Satellite O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Communication, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Multimedia O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Processing O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Personal O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Websiteï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Nameï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Allen B-NAME 1 1 a span ptcontent.clearfix.floatholder 37 0
-Y. I-NAME 1 1 a span ptcontent.clearfix.floatholder 37 0
-Chang I-NAME 1 1 a span ptcontent.clearfix.floatholder 37 0
-
-E-mailï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-zyh3@faculty.pccu.edu.tw O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Positionï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Associate O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Professor O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Educationalï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Background O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-PhD(Computer O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Science), O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Polytechnic O 0 0 span small ptcontent.clearfix.floatholder 36 0
-University O 0 1 span small ptcontent.clearfix.floatholder 36 0
-
-Experience O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-1.Assistant O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Professor, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Dept. O 0 0 span small ptcontent.clearfix.floatholder 36 0
-of O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Computer O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Science, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Chinese O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Culture O 0 0 span small ptcontent.clearfix.floatholder 36 0
-University, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Taiwan O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-2.Manager, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Taiwan O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Futures O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Exchange, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Taiwan O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-3. O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Developer, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Equity O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Division, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Citigroup, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-New O 0 1 span small ptcontent.clearfix.floatholder 36 0
-York, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-U.S.A. O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-4.Programmer O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Analyst, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Securities O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Industry O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Automation O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Corporation O 0 1 span small ptcontent.clearfix.floatholder 36 0
-(NYSE), O 0 0 span small ptcontent.clearfix.floatholder 36 0
-New O 0 1 span small ptcontent.clearfix.floatholder 36 0
-York, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-U.S.A. O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-5.Scientific O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Programmer, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-National O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Weather O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Services, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Washington, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-D.C., O 0 0 span small ptcontent.clearfix.floatholder 36 0
-U.S.A. O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Specialty O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Computational O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Geometry, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Algorithm, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Computer O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Graphics, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Electronic O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Trading O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Systems, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Information O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Security O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Personal O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Websiteï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Nameï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Horng B-NAME 0 1 a span ptcontent.clearfix.floatholder 37 0
-, I-NAME 0 0 a span ptcontent.clearfix.floatholder 37 0
-Maw-Sheng I-NAME 0 1 a span ptcontent.clearfix.floatholder 37 0
-
-E-mailï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-horng@tea.ntptc.edu.tw O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Positionï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Adjunct O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Associate O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Professor O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Educationalï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Background O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Ph.D., O 0 0 span small ptcontent.clearfix.floatholder 36 0
-in O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Computer O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Science O 0 0 span small ptcontent.clearfix.floatholder 36 0
-of O 0 1 span small ptcontent.clearfix.floatholder 36 0
-National O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Chiao-Tung O 0 0 span small ptcontent.clearfix.floatholder 36 0
-University O 0 1 span small ptcontent.clearfix.floatholder 36 0
-
-Experience O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Lecturer O 0 0 span small ptcontent.clearfix.floatholder 36 0
-in O 0 1 span small ptcontent.clearfix.floatholder 36 0
-department O 0 0 span small ptcontent.clearfix.floatholder 36 0
-of O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Electronics O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Engineering O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Oriental O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Institute O 0 0 span small ptcontent.clearfix.floatholder 36 0
-of O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Technology, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Associate O 0 1 span small ptcontent.clearfix.floatholder 36 0
-professor O 0 0 span small ptcontent.clearfix.floatholder 36 0
-in O 0 1 span small ptcontent.clearfix.floatholder 36 0
-department O 0 0 span small ptcontent.clearfix.floatholder 36 0
-of O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Mathematics O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Education O 0 0 span small ptcontent.clearfix.floatholder 36 0
-National O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Taipei O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Teachers O 0 0 span small ptcontent.clearfix.floatholder 36 0
-College O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Specialty O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Fault O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Tolerant O 0 0 span small ptcontent.clearfix.floatholder 36 0
-computing O 0 0 span small ptcontent.clearfix.floatholder 36 0
-ã O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Reliabity O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Analysis O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Personal O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Websiteï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Nameï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Homer B-NAME 0 1 a span ptcontent.clearfix.floatholder 37 0
-Liao I-NAME 0 1 a span ptcontent.clearfix.floatholder 37 0
-
-E-mailï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-homer.liao@globeunion.com O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Positionï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Adjunct O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Assistant O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Professor O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Educationalï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Background O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-MBA O 0 0 span small ptcontent.clearfix.floatholder 36 0
-in O 0 1 span small ptcontent.clearfix.floatholder 36 0
-MIS O 0 0 span small ptcontent.clearfix.floatholder 36 0
-and O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Financial O 0 0 span small ptcontent.clearfix.floatholder 36 0
-, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-University O 0 1 span small ptcontent.clearfix.floatholder 36 0
-of O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Taiwan O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Experience O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-IT/IS O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Head O 0 1 span small ptcontent.clearfix.floatholder 36 0
-of O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Globalized O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Enterprise, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-consultant O 0 0 span small ptcontent.clearfix.floatholder 36 0
-of O 0 1 span small ptcontent.clearfix.floatholder 36 0
-IBM/Oracle O 0 0 span small ptcontent.clearfix.floatholder 36 0
-on O 0 0 span small ptcontent.clearfix.floatholder 36 0
-CIM, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-ERP, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-SCM O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Respectively, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-CIO O 0 0 span small ptcontent.clearfix.floatholder 36 0
-of O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Sipix O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Group O 0 1 span small ptcontent.clearfix.floatholder 36 0
-
-Specialty O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Management O 0 1 span small ptcontent.clearfix.floatholder 36 0
-on O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Operations, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Information O 0 1 span small ptcontent.clearfix.floatholder 36 0
-and O 0 1 span small ptcontent.clearfix.floatholder 36 0
-Financial; O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Global O 0 1 span small ptcontent.clearfix.floatholder 36 0
-IT O 0 0 span small ptcontent.clearfix.floatholder 36 0
-/ERP/SCM, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-infrastructure O 0 0 span small ptcontent.clearfix.floatholder 36 0
-Deployment, O 0 0 span small ptcontent.clearfix.floatholder 36 0
-e-Commerce O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Personal O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Websiteï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Nameï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Farn, B-NAME 0 0 small p ptcontent.clearfix.floatholder 35 0
-Kwo-Jean I-NAME 0 1 small p ptcontent.clearfix.floatholder 35 0
-
-E-mailï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-fgz3@ulive.pccu.edu.tw O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Positionï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Adjunct O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Associate O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Professor O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Educationalï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Background O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-CIO O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Experience O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Researcher, O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ITRI O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Specialty O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Information O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Security O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Personal O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Websiteï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Nameï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-KU, B-NAME 0 0 span small ptcontent.clearfix.floatholder 36 0
-MIN-YU I-NAME 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-E-mailï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-gmy5@ulive.pccu.edu.tw O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Positionï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Adjunct O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Assistant O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Professor O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Educationalï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Background O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-PhD O 0 0 small p ptcontent.clearfix.floatholder 35 0
-(Electrical O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Engineering), O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Chung O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Cheng O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Institute O 0 0 small p ptcontent.clearfix.floatholder 35 0
-of O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Technology, O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ROC O 0 0 small p ptcontent.clearfix.floatholder 35 0
-National O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Defense O 0 0 small p ptcontent.clearfix.floatholder 35 0
-University O 0 1 small p ptcontent.clearfix.floatholder 35 0
-
-Experience O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Assistant O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Professor O 0 0 small p ptcontent.clearfix.floatholder 35 0
-of O 0 1 small p ptcontent.clearfix.floatholder 35 0
-R.O.C O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Naval O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Academy O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Specialty O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Computer O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Vision O 0 1 small p ptcontent.clearfix.floatholder 35 0
-
-Personal O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Websiteï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Nameï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-TZENG, B-NAME 0 0 span small ptcontent.clearfix.floatholder 36 0
-YEU-RUEY I-NAME 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-E-mailï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-zyr3@ulive.pccu.edu.tw O 0 0 span small ptcontent.clearfix.floatholder 36 0
-
-Positionï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Adjunct O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Assistant O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Professor O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Educationalï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Background O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-PhD O 0 0 small p ptcontent.clearfix.floatholder 35 0
-( O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Information O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Management), O 0 0 small p ptcontent.clearfix.floatholder 35 0
-National O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Chengchi O 0 1 small p ptcontent.clearfix.floatholder 35 0
-University O 0 1 small p ptcontent.clearfix.floatholder 35 0
-
-Experience O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Adjunct O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Instructor O 0 0 small p ptcontent.clearfix.floatholder 35 0
-of O 0 1 small p ptcontent.clearfix.floatholder 35 0
-J.U.S.T O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Specialty O 0 0 small p ptcontent.clearfix.floatholder 35 0
-ï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Database O 0 1 span small ptcontent.clearfix.floatholder 36 0
-System O 0 0 span small ptcontent.clearfix.floatholder 36 0
-, O 0 0 small p ptcontent.clearfix.floatholder 35 0
-Data O 0 1 small p ptcontent.clearfix.floatholder 35 0
-security O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Personal O 0 1 small p ptcontent.clearfix.floatholder 35 0
-Websiteï¼ O 0 0 small p ptcontent.clearfix.floatholder 35 0
-
-Address:No. O 0 0 div td style6 20 0
-55 O 0 0 div td style6 20 0
-, O 0 0 div td style6 20 0
-Huagang O 0 1 div td style6 20 0
-Rd. O 0 0 div td style6 20 0
-, O 0 0 div td style6 20 0
-Shrlin O 0 0 div td style6 20 0
-Chiu O 0 1 div td style6 20 0
-, O 0 0 div td style6 20 0
-Taipei O 0 0 div td style6 20 0
-, O 0 0 div td style6 20 0
-Taiwan O 0 0 div td style6 20 0
-111 O 0 0 div td style6 20 0
-, O 0 0 div td style6 20 0
-R.O.C. O 0 0 div td style6 20 0
-
-TEL:886-02-2861-0511 O 0 0 td tr style7.style17.style19.style34 19 0
-Extension O 0 0 td tr style7.style17.style19.style34 19 0
-: O 0 0 td tr style7.style17.style19.style34 19 0
-701 O 0 0 td tr style7.style17.style19.style34 19 0
-or O 0 0 td tr style7.style17.style19.style34 19 0
-724 O 0 0 td tr style7.style17.style19.style34 19 0
-
-Department O 0 0 td tr style7.style17.style19.style34 19 0
-of O 0 1 td tr style7.style17.style19.style34 19 0
-Computer O 0 0 td tr style7.style17.style19.style34 19 0
-Science O 0 0 td tr style7.style17.style19.style34 19 0
-, O 0 0 td tr style7.style17.style19.style34 19 0
-Chinese O 0 0 td tr style7.style17.style19.style34 19 0
-Culture O 0 0 td tr style7.style17.style19.style34 19 0
-University O 0 1 td tr style7.style17.style19.style34 19 0
-(C) O 0 0 td tr style7.style17.style19.style34 19 0
-2004 O 0 0 td tr style7.style17.style19.style34 19 0
-All O 0 1 td tr style7.style17.style19.style34 19 0
-Rights O 0 0 td tr style7.style17.style19.style34 19 0
-Reserved. O 0 0 td tr style7.style17.style19.style34 19 0
+Member O member 0 1 0 0 0 0 1 a li menu-item 20 0
+
+Login O login 0 0 0 0 0 0 1 a li menu-item 23 0
+
+Logout O logout 0 0 0 0 0 0 1 a li menu-item 23 0
+
+My O my 0 1 0 0 0 0 1 a li menu-item 23 0
+Account O account 0 0 0 0 0 0 1 a li menu-item 23 0
+
+Register O register 0 1 0 0 0 0 1 a li menu-item 23 0
+
+ç¹é« O c¹e« 0 0 0 1 0 0 0 div div multilang 17 0
+
+English O english 0 1 0 0 0 0 1 div div curlang 16 2
+
+Your O your 0 0 0 0 0 0 1 div div mainhead-inner 11 53
+browser O browser 0 0 0 0 0 0 0 div div mainhead-inner 11 53
+does O does 0 0 0 0 0 0 0 div div mainhead-inner 11 53
+not O not 0 0 0 0 0 0 0 div div mainhead-inner 11 53
+support O support 0 0 0 0 0 0 0 div div mainhead-inner 11 53
+JavaScript! O javascript! 0 0 0 0 0 0 1 div div mainhead-inner 11 53
+
+Category O category 0 0 0 0 0 0 1 div div h3 28 0
+List O list 0 1 0 0 0 0 1 div div h3 28 0
+
+Introduction O introduction 0 0 0 0 0 0 1 a li  32 0
+
+Faculty O faculty 0 0 0 0 0 0 1 a li  32 0
+
+Curriculum O curriculum 0 0 0 0 0 0 1 a li  32 0
+
+Facility O facility 0 0 0 0 0 0 1 a li  32 0
+
+Resource O resource 0 0 0 0 0 0 1 a li  32 0
+
+Links O links 0 1 0 0 0 0 1 div div h3 28 0
+
+Login O login 0 0 0 0 0 0 1 div div h3 28 0
+
+Your O your 0 0 0 0 0 0 1 div div mm_01 28 0
+browser O browser 0 0 0 0 0 0 0 div div mm_01 28 0
+does O does 0 0 0 0 0 0 0 div div mm_01 28 0
+not O not 0 0 0 0 0 0 0 div div mm_01 28 0
+support O support 0 0 0 0 0 0 0 div div mm_01 28 0
+JavaScript! O javascript! 0 0 0 0 0 0 1 div div mm_01 28 0
+
+Account O account 0 0 0 0 0 0 1 form div mm_01 29 0
+: O : 0 0 0 0 0 0 0 form div mm_01 29 0
+
+Password O password 0 0 0 0 0 0 1 form div mm_01 29 3
+: O : 0 0 0 0 0 0 0 form div mm_01 29 3
+
+Code O code 0 1 0 0 0 0 1 span div captcha_tips 32 0
+: O : 0 0 0 0 0 0 0 label span captcha_tips 33 0
+
+Voice O voice 0 1 0 0 0 0 1 param object authimg-outer 36 1
+Play O play 0 1 0 0 0 0 1 param object authimg-outer 36 1
+
+refresh O refresh 0 0 0 0 0 0 0 span span authimg-chgimg 33 0
+captcha O captcha 0 0 0 0 0 0 0 span span authimg-chgimg 33 0
+
+Register O register 0 1 0 0 0 0 1 div form form-submit 30 2
+Forget O forget 0 1 0 0 0 0 1 div form form-submit 30 3
+password O password 0 0 0 0 0 0 0 div form form-submit 30 3
+
+Home O home 0 1 0 0 0 0 1 div div path 28 0
+> O > 0 0 0 0 0 0 0 div div mm_01 27 0
+Faculty O faculty 0 0 0 0 0 0 1 div div path 28 1
+
+Faculty O faculty 0 0 0 0 0 0 1 div div item-title 28 0
+
+Nameï¼ O namei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Min B-PER min 1 1 0 0 0 0 1 span small floatholder 36 0
+- I-PER - 0 0 0 0 0 0 0 span small floatholder 36 0
+Hsiung I-PER hsiung 0 1 0 0 0 0 1 span small floatholder 36 0
+Hung I-PER hung 0 1 0 0 0 0 1 span small floatholder 36 0
+
+E O e 0 1 0 0 0 0 1 small p floatholder 35 0
+- O - 0 0 0 0 0 0 0 small p floatholder 35 0
+mailï¼ O maili¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+hmx4@faculty.pccu.edu.tw O hmx4@faculty.pccu.edu.tw 0 0 1 1 0 0 0 span small floatholder 36 0
+
+Positionï¼ O positioni¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Professor O professor 0 0 0 0 1 0 1 small p floatholder 35 0
+and O and 0 1 0 0 0 0 0 small p floatholder 35 0
+Chairman O chairman 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Educationalï¼ O educationali¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Background O background 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 span small floatholder 36 0
+( O ( 0 0 0 0 0 0 0 span small floatholder 36 0
+Electrical O electrical 0 0 0 0 0 0 1 span small floatholder 36 0
+Engineering O engineering 0 0 0 0 0 0 1 span small floatholder 36 0
+) O ) 0 0 0 0 0 0 0 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+The O the 0 1 0 0 0 0 1 span small floatholder 36 0
+Ohio O ohio 0 0 0 0 0 0 1 span small floatholder 36 0
+State O state 0 1 0 0 0 0 1 span small floatholder 36 0
+University O university 0 1 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+USA O usa 0 0 0 0 0 0 1 span small floatholder 36 0
+
+Experience O experience 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Professor O professor 0 0 0 0 1 0 1 font span floatholder 37 0
+& O & 0 0 0 0 0 0 0 font span floatholder 37 0
+Director O director 0 1 0 0 0 0 1 font span floatholder 37 0
+, O , 0 0 0 0 0 0 0 font span floatholder 37 0
+School O school 0 1 0 0 0 0 1 font span floatholder 37 0
+of O of 0 1 0 0 0 0 0 font span floatholder 37 0
+Defense O defense 0 0 0 0 0 0 1 font span floatholder 37 0
+Science O science 0 0 0 0 0 0 1 font span floatholder 37 0
+, O , 0 0 0 0 0 0 0 font span floatholder 37 0
+National O national 0 0 0 0 0 0 1 font span floatholder 37 0
+Defense O defense 0 0 0 0 0 0 1 font span floatholder 37 0
+University O university 0 1 0 0 0 0 1 font span floatholder 37 0
+
+Professor O professor 0 0 0 0 1 0 1 font span floatholder 37 0
+& O & 0 0 0 0 0 0 0 font span floatholder 37 0
+Chairman O chairman 0 0 0 0 0 0 1 font span floatholder 37 0
+, O , 0 0 0 0 0 0 0 font span floatholder 37 0
+Department O department 0 0 0 0 0 0 1 font span floatholder 37 0
+of O of 0 1 0 0 0 0 0 font span floatholder 37 0
+Electrical O electrical 0 0 0 0 0 0 1 font span floatholder 37 0
+and O and 0 1 0 0 0 0 0 font span floatholder 37 0
+Electronic O electronic 0 0 0 0 0 0 1 font span floatholder 37 0
+Engineering O engineering 0 0 0 0 0 0 1 font span floatholder 37 0
+, O , 0 0 0 0 0 0 0 font span floatholder 37 0
+National O national 0 0 0 0 0 0 1 font span floatholder 37 0
+Defense O defense 0 0 0 0 0 0 1 font span floatholder 37 0
+University O university 0 1 0 0 0 0 1 font span floatholder 37 0
+
+Specialty O specialty 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+e O e 0 1 0 0 0 0 0 font span floatholder 37 0
+- O - 0 0 0 0 0 0 0 font span floatholder 37 0
+Automation O automation 0 0 0 0 0 0 1 font span floatholder 37 0
+
+e O e 0 1 0 0 0 0 0 font span floatholder 37 0
+- O - 0 0 0 0 0 0 0 font span floatholder 37 0
+Manufacturing O manufacturing 0 0 0 0 0 0 1 font span floatholder 37 0
+
+Wireless O wireless 0 0 0 0 0 0 1 font span floatholder 37 0
+Sensor O sensor 0 0 0 0 0 0 1 font span floatholder 37 0
+Network O network 0 0 0 0 0 0 1 font span floatholder 37 0
+& O & 0 0 0 0 0 0 0 font span floatholder 37 0
+RFID O rfid 0 0 0 0 0 0 1 font span floatholder 37 0
+
+Embedded O embedded 0 0 0 0 1 0 1 font span floatholder 37 0
+System O system 0 0 0 0 0 0 1 font span floatholder 37 0
+
+Control O control 0 0 0 0 0 0 1 font span floatholder 37 0
+and O and 0 1 0 0 0 0 0 font span floatholder 37 0
+Simulation O simulation 0 0 0 0 0 0 1 font span floatholder 37 0
+of O of 0 1 0 0 0 0 0 font span floatholder 37 0
+Robots O robots 0 0 0 0 0 0 1 font span floatholder 37 0
+
+Personal O personal 0 1 0 0 0 0 1 small p floatholder 35 0
+Websiteï¼ O websitei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Nameï¼ O namei¼ 0 0 0 0 0 0 1 small p floatholder 36 0
+
+Tsai B-PER tsai 0 1 0 0 0 0 1 small p floatholder 36 0
+, I-PER , 0 0 0 0 0 0 0 small p floatholder 36 0
+Dwen I-PER dwen 0 0 0 0 0 0 1 small p floatholder 36 0
+- I-PER - 0 0 0 0 0 0 0 small p floatholder 36 0
+Ren I-PER ren 0 1 0 0 0 0 1 small p floatholder 36 0
+
+E O e 0 1 0 0 0 0 1 small p floatholder 36 0
+- O - 0 0 0 0 0 0 0 small p floatholder 36 0
+mailï¼ O maili¼ 0 0 0 0 0 0 0 small p floatholder 36 0
+
+drtt@mail.pccu.edu.tw O drtt@mail.pccu.edu.tw 0 0 1 0 1 0 0 span small floatholder 37 0
+
+Positionï¼ O positioni¼ 0 0 0 0 0 0 1 small p floatholder 36 0
+
+Associate O associate 0 1 0 0 0 0 1 small p floatholder 36 0
+Professor O professor 0 0 0 0 1 0 1 small p floatholder 36 0
+
+Educationalï¼ O educationali¼ 0 0 0 0 0 0 1 small p floatholder 36 0
+
+Background O background 0 0 0 0 0 0 1 small p floatholder 36 0
+
+PhD O phd 0 0 0 0 0 0 1 small p floatholder 36 0
+( O ( 0 0 0 0 0 0 0 small p floatholder 36 0
+Computer O computer 0 0 0 0 0 0 1 small p floatholder 36 0
+Science O science 0 0 0 0 0 0 1 small p floatholder 36 0
+) O ) 0 0 0 0 0 0 0 small p floatholder 36 0
+, O , 0 0 0 0 0 0 0 small p floatholder 36 0
+The O the 0 1 0 0 0 0 1 small p floatholder 36 0
+City O city 0 0 0 0 0 0 1 small p floatholder 36 0
+University O university 0 1 0 0 0 0 1 small p floatholder 36 0
+of O of 0 1 0 0 0 0 0 small p floatholder 36 0
+New O new 0 1 0 0 0 0 1 small p floatholder 36 0
+York O york 0 1 0 0 0 0 1 small p floatholder 36 0
+, O , 0 0 0 0 0 0 0 small p floatholder 36 0
+New O new 0 1 0 0 0 0 1 small p floatholder 36 0
+York O york 0 1 0 0 0 0 1 small p floatholder 36 0
+, O , 0 0 0 0 0 0 0 small p floatholder 36 0
+NY O ny 0 0 0 0 0 0 1 small p floatholder 36 0
+, O , 0 0 0 0 0 0 0 small p floatholder 36 0
+USA O usa 0 0 0 0 0 0 1 small p floatholder 36 0
+
+Experienceï¼ O experiencei¼ 0 0 0 0 0 0 1 small div floatholder 36 0
+
+CCU O ccu 0 0 0 0 0 0 1 small p floatholder 36 0
+ã O a 0 0 0 0 0 0 0 small p floatholder 36 0
+Assistant O assistant 0 0 0 0 0 0 1 small p floatholder 36 0
+Professor O professor 0 0 0 0 1 0 1 small p floatholder 36 0
+, O , 0 0 0 0 0 0 0 small p floatholder 36 0
+Information O information 0 1 0 0 0 0 1 small p floatholder 36 0
+System O system 0 0 0 0 0 0 1 small p floatholder 36 0
+, O , 0 0 0 0 0 0 0 small p floatholder 36 0
+Stockton O stockton 0 1 0 0 0 0 1 small p floatholder 36 0
+State O state 0 1 0 0 0 0 1 small p floatholder 36 0
+College O college 0 0 0 0 0 0 1 small p floatholder 36 0
+, O , 0 0 0 0 0 0 0 small p floatholder 36 0
+New O new 0 1 0 0 0 0 1 small p floatholder 36 0
+Jersey O jersey 0 1 0 0 0 0 1 small p floatholder 36 0
+, O , 0 0 0 0 0 0 0 small p floatholder 36 0
+USA O usa 0 0 0 0 0 0 1 small p floatholder 36 0
+, O , 0 0 0 0 0 0 0 small p floatholder 36 0
+Lecturer O lecturer 0 0 0 0 0 0 1 small p floatholder 36 0
+, O , 0 0 0 0 0 0 0 small p floatholder 36 0
+The O the 0 1 0 0 0 0 1 small p floatholder 36 0
+City O city 0 0 0 0 0 0 1 small p floatholder 36 0
+College O college 0 0 0 0 0 0 1 small p floatholder 36 0
+of O of 0 1 0 0 0 0 0 small p floatholder 36 0
+New O new 0 1 0 0 0 0 1 small p floatholder 36 0
+York O york 0 1 0 0 0 0 1 small p floatholder 36 0
+, O , 0 0 0 0 0 0 0 small p floatholder 36 0
+NY O ny 0 0 0 0 0 0 1 small p floatholder 36 0
+, O , 0 0 0 0 0 0 0 small p floatholder 36 0
+USA O usa 0 0 0 0 0 0 1 small p floatholder 36 0
+
+Specialty O specialty 0 0 0 0 0 0 1 small p floatholder 36 0
+Information O information 0 1 0 0 0 0 1 small p floatholder 36 0
+Security O security 0 0 0 0 0 0 1 small p floatholder 36 0
+, O , 0 0 0 0 0 0 0 small p floatholder 36 0
+Network O network 0 0 0 0 0 0 1 small p floatholder 36 0
+Management O management 0 1 0 0 0 0 1 small p floatholder 36 0
+, O , 0 0 0 0 0 0 0 small p floatholder 36 0
+
+Specialty O specialty 0 0 0 0 0 0 1 small div floatholder 36 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small div floatholder 36 0
+
+Management O management 0 1 0 0 0 0 1 small p floatholder 36 0
+of O of 0 1 0 0 0 0 0 small p floatholder 36 0
+Information O information 0 1 0 0 0 0 1 small p floatholder 36 0
+System O system 0 0 0 0 0 0 1 small p floatholder 36 0
+, O , 0 0 0 0 0 0 0 small p floatholder 36 0
+Software O software 0 1 0 0 0 0 1 small p floatholder 36 0
+Engineering O engineering 0 0 0 0 0 0 1 small p floatholder 36 0
+
+Personal O personal 0 1 0 0 0 0 1 small p floatholder 36 0
+Websiteï¼ O websitei¼ 0 0 0 0 0 0 1 small p floatholder 36 0
+
+Nameï¼ O namei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Chen B-PER chen 0 1 0 0 0 0 1 a span floatholder 37 0
+, I-PER , 0 0 0 0 0 0 0 a span floatholder 37 0
+Chun I-PER chun 0 1 0 0 0 0 1 a span floatholder 37 0
+- I-PER - 0 0 0 0 0 0 0 a span floatholder 37 0
+Jung I-PER jung 0 1 0 0 0 0 1 a span floatholder 37 0
+
+E O e 0 1 0 0 0 0 1 small p floatholder 35 0
+- O - 0 0 0 0 0 0 0 small p floatholder 35 0
+mailï¼ O maili¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+teacherchen@faculty.pccu.edu.tw O teacherchen@faculty.pccu.edu.tw 0 0 1 0 0 0 0 span small floatholder 36 0
+
+Positionï¼ O positioni¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Associate O associate 0 1 0 0 0 0 1 span small floatholder 36 0
+Professor O professor 0 0 0 0 1 0 1 span small floatholder 36 0
+
+Educationalï¼ O educationali¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Background O background 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Electrical O electrical 0 0 0 0 0 0 1 span small floatholder 36 0
+Engineering O engineering 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+National O national 0 0 0 0 0 0 1 span small floatholder 36 0
+Taiwan O taiwan 0 0 0 0 0 0 1 span small floatholder 36 0
+University O university 0 1 0 0 0 0 1 span small floatholder 36 0
+
+Experience O experience 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Associate O associate 0 1 0 0 0 0 1 span small floatholder 36 0
+Professor O professor 0 0 0 0 1 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Computer O computer 0 0 0 0 0 0 1 span small floatholder 36 0
+Science O science 0 0 0 0 0 0 1 span small floatholder 36 0
+Dept. O dept. 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Chinese O chinese 0 0 0 0 0 0 1 span small floatholder 36 0
+Culture O culture 0 0 0 0 0 0 1 span small floatholder 36 0
+Univ O univ 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 1
+Associate O associate 0 1 0 0 0 0 1 span small floatholder 36 2
+Professor O professor 0 0 0 0 1 0 1 span small floatholder 36 2
+, O , 0 0 0 0 0 0 0 span small floatholder 36 2
+Dung O dung 0 1 0 0 0 0 1 span small floatholder 36 2
+- O - 0 0 0 0 0 0 0 span small floatholder 36 2
+Nan O nan 0 1 0 0 0 0 1 span small floatholder 36 2
+Institude O institude 0 0 0 0 0 0 1 span small floatholder 36 2
+of O of 0 1 0 0 0 0 0 span small floatholder 36 2
+Technology O technology 0 0 0 0 0 0 1 span small floatholder 36 2
+Manger O manger 0 1 0 0 0 0 1 span small floatholder 36 2
+, O , 0 0 0 0 0 0 0 span small floatholder 36 2
+Silicon O silicon 0 0 0 0 0 0 1 span small floatholder 36 2
+- O - 0 0 0 0 0 0 0 span small floatholder 36 2
+based O based 0 0 0 0 0 0 0 span small floatholder 36 2
+Technology O technology 0 0 0 0 0 0 1 span small floatholder 36 2
+Associate O associate 0 1 0 0 0 0 1 span small floatholder 36 2
+Professor O professor 0 0 0 0 1 0 1 span small floatholder 36 2
+, O , 0 0 0 0 0 0 0 span small floatholder 36 2
+Chun O chun 0 1 0 0 0 0 1 span small floatholder 36 2
+- O - 0 0 0 0 0 0 0 span small floatholder 36 2
+Go O go 0 1 0 0 0 0 1 span small floatholder 36 2
+Institude O institude 0 0 0 0 0 0 1 span small floatholder 36 2
+of O of 0 1 0 0 0 0 0 span small floatholder 36 2
+Technology O technology 0 0 0 0 0 0 1 span small floatholder 36 2
+, O , 0 0 0 0 0 0 0 span small floatholder 36 3
+Manager O manager 0 0 0 0 0 0 1 span small floatholder 36 3
+of O of 0 1 0 0 0 0 0 span small floatholder 36 3
+CAD O cad 0 0 0 0 0 0 1 span small floatholder 36 3
+Division O division 0 0 0 0 0 0 1 span small floatholder 36 3
+, O , 0 0 0 0 0 0 0 span small floatholder 36 3
+Silicon O silicon 0 0 0 0 0 0 1 span small floatholder 36 3
+- O - 0 0 0 0 0 0 0 span small floatholder 36 3
+Based O based 0 1 0 0 0 0 1 span small floatholder 36 3
+Technology O technology 0 0 0 0 0 0 1 span small floatholder 36 3
+Corporation O corporation 0 1 0 0 0 0 1 span small floatholder 36 3
+
+Specialty O specialty 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+EDA O eda 0 0 0 0 0 0 1 span small floatholder 36 0
+tool O tool 0 0 0 0 0 0 0 span small floatholder 36 0
+design O design 0 0 0 0 0 0 0 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Circuit O circuit 0 0 0 0 0 0 1 span small floatholder 36 0
+simulation O simulation 0 0 0 0 0 0 0 span small floatholder 36 0
+for O for 0 1 0 0 0 0 0 span small floatholder 36 0
+large O large 0 0 0 0 0 0 0 span small floatholder 36 0
+- O - 0 0 0 0 0 0 0 span small floatholder 36 0
+scale O scale 0 0 0 0 0 0 0 span small floatholder 36 0
+integrated O integrated 0 0 0 0 0 0 0 span small floatholder 36 0
+circuits O circuits 0 0 0 0 0 0 0 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Programming O programming 0 1 0 0 0 0 1 span small floatholder 36 0
+Language O language 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Digital O digital 0 1 0 0 0 0 1 span small floatholder 36 0
+logic O logic 0 0 0 0 0 0 0 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Algorithm O algorithm 0 0 0 0 0 0 1 span small floatholder 36 0
+
+Personal O personal 0 1 0 0 0 0 1 small p floatholder 35 0
+Websiteï¼ O websitei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Nameï¼ O namei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Sun B-PER sun 0 1 0 0 0 0 1 a span floatholder 37 0
+, I-PER , 0 0 0 0 0 0 0 a span floatholder 37 0
+Jenn I-PER jenn 0 1 0 0 0 0 1 a span floatholder 37 0
+- I-PER - 0 0 0 0 0 0 0 a span floatholder 37 0
+Dong I-PER dong 0 1 0 0 0 0 1 a span floatholder 37 0
+
+E O e 0 1 0 0 0 0 1 small p floatholder 35 0
+- O - 0 0 0 0 0 0 0 small p floatholder 35 0
+mailï¼ O maili¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+jdsun@faculty.pccu.edu.tw O jdsun@faculty.pccu.edu.tw 0 0 1 0 0 0 0 span small floatholder 36 0
+
+Positionï¼ O positioni¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Associate O associate 0 1 0 0 0 0 1 span small floatholder 36 0
+Professor O professor 0 0 0 0 1 0 1 span small floatholder 36 0
+
+Educationalï¼ O educationali¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Background O background 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 span small floatholder 36 0
+( O ( 0 0 0 0 0 0 0 span small floatholder 36 0
+Electrical O electrical 0 0 0 0 0 0 1 span small floatholder 36 0
+Engineering O engineering 0 0 0 0 0 0 1 span small floatholder 36 0
+) O ) 0 0 0 0 0 0 0 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Syracuse O syracuse 0 0 0 0 0 0 1 span small floatholder 36 0
+University O university 0 1 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Syracuse O syracuse 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+NY O ny 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+USA O usa 0 0 0 0 0 0 1 span small floatholder 36 0
+
+Experience O experience 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Associate O associate 0 1 0 0 0 0 1 span small floatholder 36 0
+Professor O professor 0 0 0 0 1 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Dept. O dept. 0 0 0 0 0 0 1 span small floatholder 36 0
+of O of 0 1 0 0 0 0 0 span small floatholder 36 0
+Information O information 0 1 0 0 0 0 1 span small floatholder 36 0
+Engineering O engineering 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+I O i 0 1 0 0 0 0 1 span small floatholder 36 0
+- O - 0 0 0 0 0 0 0 span small floatholder 36 0
+Shou O shou 0 1 0 0 0 0 1 span small floatholder 36 0
+University O university 0 1 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 1
+Researcher O researcher 0 0 0 0 0 0 1 span small floatholder 36 2
+, O , 0 0 0 0 0 0 0 span small floatholder 36 2
+Electronic O electronic 0 0 0 0 0 0 1 span small floatholder 36 2
+Systems O systems 0 0 0 0 0 0 1 span small floatholder 36 2
+Research O research 0 1 0 0 0 0 1 span small floatholder 36 2
+Division O division 0 0 0 0 0 0 1 span small floatholder 36 2
+, O , 0 0 0 0 0 0 0 span small floatholder 36 2
+Chung O chung 0 1 0 0 0 0 1 span small floatholder 36 2
+- O - 0 0 0 0 0 0 0 span small floatholder 36 2
+Shan O shan 0 1 0 0 0 0 1 span small floatholder 36 2
+Institute O institute 0 0 0 0 0 0 1 span small floatholder 36 2
+of O of 0 1 0 0 0 0 0 span small floatholder 36 2
+Science O science 0 0 0 0 0 0 1 span small floatholder 36 2
+and O and 0 1 0 0 0 0 0 span small floatholder 36 2
+Technology O technology 0 0 0 0 0 0 1 span small floatholder 36 2
+, O , 0 0 0 0 0 0 0 span small floatholder 36 3
+Instructor O instructor 0 0 0 0 0 0 1 span small floatholder 36 3
+, O , 0 0 0 0 0 0 0 span small floatholder 36 3
+Dept. O dept. 0 0 0 0 0 0 1 span small floatholder 36 3
+of O of 0 1 0 0 0 0 0 span small floatholder 36 3
+Electrical O electrical 0 0 0 0 0 0 1 span small floatholder 36 3
+Engineering O engineering 0 0 0 0 0 0 1 span small floatholder 36 3
+, O , 0 0 0 0 0 0 0 span small floatholder 36 3
+Chung O chung 0 1 0 0 0 0 1 span small floatholder 36 3
+- O - 0 0 0 0 0 0 0 span small floatholder 36 3
+Cheng O cheng 0 1 0 0 0 0 1 span small floatholder 36 3
+Institute O institute 0 0 0 0 0 0 1 span small floatholder 36 3
+of O of 0 1 0 0 0 0 0 span small floatholder 36 3
+Technology O technology 0 0 0 0 0 0 1 span small floatholder 36 3
+
+Specialty O specialty 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Analysis O analysis 0 0 0 0 0 0 1 span small floatholder 36 0
+and O and 0 1 0 0 0 0 0 span small floatholder 36 0
+Simulation O simulation 0 0 0 0 0 0 1 span small floatholder 36 0
+of O of 0 1 0 0 0 0 0 span small floatholder 36 0
+Telecommunication O telecommunication 0 0 0 0 0 0 1 span small floatholder 36 0
+Systems O systems 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Digital O digital 0 1 0 0 0 0 1 span small floatholder 36 0
+Watermarking O watermarking 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 1
+Digital O digital 0 1 0 0 0 0 1 span small floatholder 36 2
+Signal O signal 0 1 0 0 0 0 1 span small floatholder 36 2
+Processing O processing 0 0 0 0 0 0 1 span small floatholder 36 2
+
+Personal O personal 0 1 0 0 0 0 1 small p floatholder 35 0
+Websiteï¼ O websitei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Nameï¼ O namei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Lee B-PER lee 1 1 0 0 0 0 1 a span floatholder 37 0
+, I-PER , 0 0 0 0 0 0 0 a span floatholder 37 0
+Chih I-PER chih 0 1 0 0 0 0 1 a span floatholder 37 0
+- I-PER - 0 0 0 0 0 0 0 a span floatholder 37 0
+Jen I-PER jen 0 1 0 0 0 0 1 a span floatholder 37 0
+
+E O e 0 1 0 0 0 0 1 small p floatholder 35 0
+- O - 0 0 0 0 0 0 0 small p floatholder 35 0
+mailï¼ O maili¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+cjlee@faculty.pccu.edu.tw O cjlee@faculty.pccu.edu.tw 0 0 1 0 0 0 0 span small floatholder 36 0
+
+Positionï¼ O positioni¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Associate O associate 0 1 0 0 0 0 1 span small floatholder 36 0
+Professor O professor 0 0 0 0 1 0 1 span small floatholder 36 0
+
+Educationalï¼ O educationali¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Background O background 0 0 0 0 0 0 1 small p floatholder 35 0
+
+PhD O phd 0 0 0 0 0 0 1 span small floatholder 36 0
+( O ( 0 0 0 0 0 0 0 span small floatholder 36 0
+Electrical O electrical 0 0 0 0 0 0 1 span small floatholder 36 0
+Engineering O engineering 0 0 0 0 0 0 1 span small floatholder 36 0
+) O ) 0 0 0 0 0 0 0 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+National O national 0 0 0 0 0 0 1 span small floatholder 36 0
+Taiwan O taiwan 0 0 0 0 0 0 1 span small floatholder 36 0
+Univ. O univ. 0 0 0 0 0 0 1 span small floatholder 36 0
+
+Experience O experience 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Associate O associate 0 1 0 0 0 0 1 span small floatholder 36 0
+Professor O professor 0 0 0 0 1 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Dept. O dept. 0 0 0 0 0 0 1 span small floatholder 36 0
+of O of 0 1 0 0 0 0 0 span small floatholder 36 0
+Computer O computer 0 0 0 0 0 0 1 span small floatholder 36 0
+Science O science 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Chinese O chinese 0 0 0 0 0 0 1 span small floatholder 36 0
+Culture O culture 0 0 0 0 0 0 1 span small floatholder 36 0
+Univ. O univ. 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Associate O associate 0 1 0 0 0 0 1 span small floatholder 36 1
+Professor O professor 0 0 0 0 1 0 1 span small floatholder 36 1
+, O , 0 0 0 0 0 0 0 span small floatholder 36 1
+Dept. O dept. 0 0 0 0 0 0 1 span small floatholder 36 1
+of O of 0 1 0 0 0 0 0 span small floatholder 36 1
+Advertising O advertising 0 0 0 0 0 0 1 span small floatholder 36 1
+, O , 0 0 0 0 0 0 0 span small floatholder 36 1
+Ming O ming 0 1 0 0 0 0 1 span small floatholder 36 1
+Chuan O chuan 0 1 0 0 0 0 1 span small floatholder 36 1
+Univ. O univ. 0 0 0 0 0 0 1 span small floatholder 36 1
+, O , 0 0 0 0 0 0 0 span small floatholder 36 2
+Lecturer O lecturer 0 0 0 0 0 0 1 span small floatholder 36 2
+, O , 0 0 0 0 0 0 0 span small floatholder 36 2
+Dept. O dept. 0 0 0 0 0 0 1 span small floatholder 36 2
+of O of 0 1 0 0 0 0 0 span small floatholder 36 2
+Electronic O electronic 0 0 0 0 0 0 1 span small floatholder 36 2
+Engineering O engineering 0 0 0 0 0 0 1 span small floatholder 36 2
+, O , 0 0 0 0 0 0 0 span small floatholder 36 2
+Oriental O oriental 0 0 0 0 0 0 1 span small floatholder 36 2
+Institute O institute 0 0 0 0 0 0 1 span small floatholder 36 2
+of O of 0 1 0 0 0 0 0 span small floatholder 36 2
+Technology O technology 0 0 0 0 0 0 1 span small floatholder 36 2
+
+Specialty O specialty 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Computer O computer 0 0 0 0 0 0 1 span small floatholder 36 0
+Vision O vision 0 1 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Artificial O artificial 0 0 0 0 0 0 1 span small floatholder 36 0
+Intelligence O intelligence 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Neural O neural 0 0 0 0 0 0 1 span small floatholder 36 0
+Networks O networks 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Digital O digital 0 1 0 0 0 0 1 span small floatholder 36 0
+Image O image 0 0 0 0 0 0 1 span small floatholder 36 0
+Processing O processing 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Embedded O embedded 0 0 0 0 1 0 1 span small floatholder 36 0
+System O system 0 0 0 0 0 0 1 span small floatholder 36 0
+
+Personal O personal 0 1 0 0 0 0 1 small p floatholder 35 0
+Websiteï¼ O websitei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Nameï¼ O namei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Yang B-PER yang 0 1 0 0 0 0 1 a span floatholder 37 0
+, I-PER , 0 0 0 0 0 0 0 a span floatholder 37 0
+Tai I-PER tai 0 1 0 0 0 0 1 a span floatholder 37 0
+- I-PER - 0 0 0 0 0 0 0 a span floatholder 37 0
+Ning I-PER ning 0 1 0 0 0 0 1 a span floatholder 37 0
+
+E O e 0 1 0 0 0 0 1 small p floatholder 35 0
+- O - 0 0 0 0 0 0 0 small p floatholder 35 0
+mailï¼ O maili¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+tnyang@faculty.pccu.edu.tw O tnyang@faculty.pccu.edu.tw 0 0 1 0 0 0 0 span small floatholder 36 0
+
+Positionï¼ O positioni¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Assistant O assistant 0 0 0 0 0 0 1 span small floatholder 36 0
+Professor O professor 0 0 0 0 1 0 1 span small floatholder 36 0
+
+Educationalï¼ O educationali¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Background O background 0 0 0 0 0 0 1 small p floatholder 35 0
+
+PhD O phd 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Department O department 0 0 0 0 0 0 1 span small floatholder 36 0
+of O of 0 1 0 0 0 0 0 span small floatholder 36 0
+Electrical O electrical 0 0 0 0 0 0 1 span small floatholder 36 0
+Engineering O engineering 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+National O national 0 0 0 0 0 0 1 span small floatholder 36 0
+Taiwan O taiwan 0 0 0 0 0 0 1 span small floatholder 36 0
+University O university 0 1 0 0 0 0 1 span small floatholder 36 0
+
+Experience O experience 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+1.Manager O 1.manager 0 0 0 1 0 0 0 span small floatholder 36 0
+of O of 0 1 0 0 0 0 0 span small floatholder 36 0
+Research O research 0 1 0 0 0 0 1 span small floatholder 36 0
+and O and 0 1 0 0 0 0 0 span small floatholder 36 0
+Design O design 0 0 0 0 0 0 1 span small floatholder 36 0
+Department O department 0 0 0 0 0 0 1 span small floatholder 36 0
+in O in 0 1 0 0 0 0 0 span small floatholder 36 0
+Goldensoft O goldensoft 0 0 0 0 0 0 1 span small floatholder 36 0
+company. O company. 0 0 0 0 0 0 0 span small floatholder 36 0
+
+2.Lecturer O 2.lecturer 0 0 0 1 0 0 0 span small floatholder 36 0
+in O in 0 1 0 0 0 0 0 span small floatholder 36 0
+Dept. O dept. 0 0 0 0 0 0 1 span small floatholder 36 0
+of O of 0 1 0 0 0 0 0 span small floatholder 36 0
+Business O business 0 0 0 0 0 0 1 span small floatholder 36 0
+Administration O administration 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Providence O providence 0 1 0 0 0 0 1 span small floatholder 36 0
+Univ. O univ. 0 0 0 0 0 0 1 span small floatholder 36 0
+
+3.Teaching O 3.teaching 0 0 0 1 0 0 0 span small floatholder 36 0
+Assistant O assistant 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Electrical O electrical 0 0 0 0 0 0 1 span small floatholder 36 0
+Engineering O engineering 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Taiwan O taiwan 0 0 0 0 0 0 1 span small floatholder 36 0
+Univ. O univ. 0 0 0 0 0 0 1 span small floatholder 36 0
+
+4.Lecturer O 4.lecturer 0 0 0 1 0 0 0 strong span floatholder 37 0
+of O of 0 1 0 0 0 0 0 strong span floatholder 37 0
+Computer O computer 0 0 0 0 0 0 1 strong span floatholder 37 0
+Training O training 0 0 0 0 0 0 1 strong span floatholder 37 0
+Institute O institute 0 0 0 0 0 0 1 strong span floatholder 37 0
+of O of 0 1 0 0 0 0 0 strong span floatholder 37 0
+Electrical O electrical 0 0 0 0 0 0 1 strong span floatholder 37 0
+Engineering O engineering 0 0 0 0 0 0 1 strong span floatholder 37 0
+
+Specialty O specialty 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Artificial O artificial 0 0 0 0 0 0 1 span small floatholder 36 0
+intelligence O intelligence 0 0 0 0 0 0 0 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Pattern O pattern 0 0 0 0 0 0 1 span small floatholder 36 0
+Recognition O recognition 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Bioinformatics O bioinformatics 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Clustering O clustering 0 0 0 0 0 0 1 span small floatholder 36 0
+Algorithms O algorithms 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Robotics O robotics 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Data O data 0 1 0 0 0 0 1 span small floatholder 36 0
+Mining O mining 0 0 0 0 0 0 1 span small floatholder 36 0
+
+Personal O personal 0 1 0 0 0 0 1 small p floatholder 35 0
+Websiteï¼ O websitei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Nameï¼ O namei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Chou B-PER chou 0 1 0 0 0 0 1 a span floatholder 37 0
+, I-PER , 0 0 0 0 0 0 0 a span floatholder 37 0
+Li I-PER li 0 1 0 0 0 0 1 a span floatholder 37 0
+- I-PER - 0 0 0 0 0 0 0 a span floatholder 37 0
+Ping I-PER ping 0 1 0 0 0 0 1 a span floatholder 37 0
+
+E O e 0 1 0 0 0 0 1 small p floatholder 35 0
+- O - 0 0 0 0 0 0 0 small p floatholder 35 0
+mailï¼ O maili¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+zlp@faculty.pccu.edu.tw O zlp@faculty.pccu.edu.tw 0 0 1 0 0 0 0 span small floatholder 36 0
+
+Positionï¼ O positioni¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Assistant O assistant 0 0 0 0 0 0 1 span small floatholder 36 0
+Professor O professor 0 0 0 0 1 0 1 span small floatholder 36 0
+
+Educationalï¼ O educationali¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Background O background 0 0 0 0 0 0 1 small p floatholder 35 0
+
+PhD O phd 0 0 0 0 0 0 1 span small floatholder 36 0
+( O ( 0 0 0 0 0 0 0 span small floatholder 36 0
+Computer O computer 0 0 0 0 0 0 1 span small floatholder 36 0
+Science O science 0 0 0 0 0 0 1 span small floatholder 36 0
+) O ) 0 0 0 0 0 0 0 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+The O the 0 1 0 0 0 0 1 span small floatholder 36 0
+Taiwan O taiwan 0 0 0 0 0 0 1 span small floatholder 36 0
+University O university 0 1 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Taipei O taipei 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Taiwan O taiwan 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+ROC O roc 0 0 0 0 0 0 1 span small floatholder 36 0
+
+Experience O experience 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+1.Lecture O 1.lecture 0 0 0 1 0 0 0 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Tamkang O tamkang 0 0 0 0 0 0 1 span small floatholder 36 0
+University O university 0 1 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Taiwan O taiwan 0 0 0 0 0 0 1 span small floatholder 36 0
+
+2.Lecture O 2.lecture 0 0 0 1 0 0 0 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Aletheia O aletheia 0 0 0 0 0 0 1 span small floatholder 36 0
+University O university 0 1 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Taiwan O taiwan 0 0 0 0 0 0 1 span small floatholder 36 0
+
+3.Patent O 3.patent 0 0 0 1 0 0 0 span small floatholder 36 0
+Engineer O engineer 0 1 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Panasonic O panasonic 0 0 0 0 0 0 1 span small floatholder 36 0
+Taiwan O taiwan 0 0 0 0 0 0 1 span small floatholder 36 0
+Laboratory O laboratory 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Taiwan. O taiwan. 0 0 0 0 0 0 1 span small floatholder 36 0
+
+4.Lecturer O 4.lecturer 0 0 0 1 0 0 0 strong span floatholder 37 0
+, O , 0 0 0 0 0 0 0 strong span floatholder 37 0
+Lunghwa O lunghwa 0 0 0 0 0 0 1 strong span floatholder 37 0
+University O university 0 1 0 0 0 0 1 strong span floatholder 37 0
+of O of 0 1 0 0 0 0 0 strong span floatholder 37 0
+Science O science 0 0 0 0 0 0 1 strong span floatholder 37 0
+and O and 0 1 0 0 0 0 0 strong span floatholder 37 0
+Technology O technology 0 0 0 0 0 0 1 strong span floatholder 37 0
+, O , 0 0 0 0 0 0 0 strong span floatholder 37 0
+Taiwan O taiwan 0 0 0 0 0 0 1 strong span floatholder 37 0
+
+Specialty O specialty 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Database O database 0 1 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Parallel O parallel 0 0 0 0 0 0 1 span small floatholder 36 0
+Processing O processing 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Wireless O wireless 0 0 0 0 0 0 1 span small floatholder 36 0
+computation O computation 0 0 0 0 0 0 0 span small floatholder 36 0
+. O . 0 1 0 0 0 0 0 span small floatholder 36 0
+
+Personal O personal 0 1 0 0 0 0 1 small p floatholder 35 0
+Websiteï¼ O websitei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Nameï¼ O namei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Sheng B-PER sheng 0 1 0 0 0 0 1 a span floatholder 37 0
+- I-PER - 0 0 0 0 0 0 0 a span floatholder 37 0
+Hsuan I-PER hsuan 0 1 0 0 0 0 1 a span floatholder 37 0
+Hsu I-PER hsu 0 1 0 0 0 0 1 a span floatholder 37 0
+
+E O e 0 1 0 0 0 0 1 small p floatholder 35 0
+- O - 0 0 0 0 0 0 0 small p floatholder 35 0
+mailï¼ O maili¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+xsx@faculty.pccu.edu.tw O xsx@faculty.pccu.edu.tw 0 0 1 0 0 0 0 span small floatholder 36 0
+
+Positionï¼ O positioni¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Assistant O assistant 0 0 0 0 0 0 1 span small floatholder 36 0
+Professor O professor 0 0 0 0 1 0 1 span small floatholder 36 0
+
+Educationalï¼ O educationali¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Background O background 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 span small floatholder 36 0
+Computer O computer 0 0 0 0 0 0 1 span small floatholder 36 0
+Science O science 0 0 0 0 0 0 1 span small floatholder 36 0
+and O and 0 1 0 0 0 0 0 span small floatholder 36 0
+Information O information 0 1 0 0 0 0 1 span small floatholder 36 0
+Engineering O engineering 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+National O national 0 0 0 0 0 0 1 span small floatholder 36 0
+Taiwan O taiwan 0 0 0 0 0 0 1 span small floatholder 36 0
+University O university 0 1 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Taiwan O taiwan 0 0 0 0 0 0 1 span small floatholder 36 0
+
+Experience O experience 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+1.Assistant O 1.assistant 0 0 0 1 0 0 0 span small floatholder 36 0
+Professor O professor 0 0 0 0 1 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Information O information 0 1 0 0 0 0 1 span small floatholder 36 0
+Management O management 0 1 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Lung O lung 0 1 0 0 0 0 1 span small floatholder 36 0
+- O - 0 0 0 0 0 0 0 span small floatholder 36 0
+Hwa O hwa 0 1 0 0 0 0 1 span small floatholder 36 0
+Technology O technology 0 0 0 0 0 0 1 span small floatholder 36 0
+University O university 0 1 0 0 0 0 1 span small floatholder 36 0
+
+2.Lecturer O 2.lecturer 0 0 0 1 0 0 0 small p floatholder 35 0
+, O , 0 0 0 0 0 0 0 small p floatholder 35 0
+Information O information 0 1 0 0 0 0 1 small p floatholder 35 0
+Management O management 0 1 0 0 0 0 1 small p floatholder 35 0
+, O , 0 0 0 0 0 0 0 small p floatholder 35 0
+Lung O lung 0 1 0 0 0 0 1 small p floatholder 35 0
+- O - 0 0 0 0 0 0 0 small p floatholder 35 0
+Hwa O hwa 0 1 0 0 0 0 1 small p floatholder 35 0
+Technology O technology 0 0 0 0 0 0 1 small p floatholder 35 0
+University O university 0 1 0 0 0 0 1 small p floatholder 35 0
+
+Specialty O specialty 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Computation O computation 0 0 0 0 0 0 1 span small floatholder 36 0
+Theory O theory 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Algorithm O algorithm 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+
+Parallel O parallel 0 0 0 0 0 0 1 span small floatholder 36 2
+Computing O computing 0 0 0 0 0 0 1 span small floatholder 36 2
+, O , 0 0 0 0 0 0 0 span small floatholder 36 2
+Distributed O distributed 0 0 0 0 0 0 1 span small floatholder 36 2
+Systems O systems 0 0 0 0 0 0 1 span small floatholder 36 2
+, O , 0 0 0 0 0 0 0 span small floatholder 36 2
+
+Wireless O wireless 0 0 0 0 0 0 1 span small floatholder 36 4
+Networks O networks 0 0 0 0 0 0 1 span small floatholder 36 4
+
+Personal O personal 0 1 0 0 0 0 1 small p floatholder 35 0
+Websiteï¼ O websitei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Nameï¼ O namei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Liu B-PER liu 0 1 0 0 0 0 1 a span floatholder 37 0
+, I-PER , 0 0 0 0 0 0 0 a span floatholder 37 0
+Chung I-PER chung 0 1 0 0 0 0 1 a span floatholder 37 0
+- I-PER - 0 0 0 0 0 0 0 a span floatholder 37 0
+Hsin I-PER hsin 0 1 0 0 0 0 1 a span floatholder 37 0
+
+E O e 0 1 0 0 0 0 1 small p floatholder 35 0
+- O - 0 0 0 0 0 0 0 small p floatholder 35 0
+mailï¼ O maili¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+lzx11@faculty.pccu.edu.tw O lzx11@faculty.pccu.edu.tw 0 0 1 1 0 0 0 span small floatholder 36 0
+
+Positionï¼ O positioni¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Associate O associate 0 1 0 0 0 0 1 span small floatholder 36 0
+Professor O professor 0 0 0 0 1 0 1 span small floatholder 36 1
+
+Educationalï¼ O educationali¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Background O background 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Computer O computer 0 0 0 0 0 0 1 span small floatholder 36 0
+Science O science 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+National O national 0 0 0 0 0 0 1 span small floatholder 36 0
+Tsing O tsing 0 1 0 0 0 0 1 span small floatholder 36 0
+Hua O hua 0 1 0 0 0 0 1 span small floatholder 36 0
+University O university 0 1 0 0 0 0 1 span small floatholder 36 0
+
+Experience O experience 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+1. O 1. 0 0 0 1 0 0 0 strong span floatholder 37 0
+Assistant O assistant 0 0 0 0 0 0 1 strong span floatholder 37 0
+Researcher O researcher 0 0 0 0 0 0 1 strong span floatholder 37 0
+of O of 0 1 0 0 0 0 0 strong span floatholder 37 0
+CHT O cht 0 0 0 0 0 0 1 strong span floatholder 37 0
+, O , 0 0 0 0 0 0 0 strong span floatholder 37 0
+TL O tl 0 0 0 0 0 0 1 strong span floatholder 37 0
+
+2. O 2. 0 0 0 1 0 0 0 strong span floatholder 37 2
+( O ( 0 0 0 0 0 0 0 strong span floatholder 37 2
+Part O part 0 1 0 0 0 0 1 strong span floatholder 37 2
+time O time 0 0 0 0 0 0 0 strong span floatholder 37 2
+) O ) 0 0 0 0 0 0 0 strong span floatholder 37 2
+Assistant O assistant 0 0 0 0 0 0 1 strong span floatholder 37 2
+Professor O professor 0 0 0 0 1 0 1 strong span floatholder 37 2
+of O of 0 1 0 0 0 0 0 strong span floatholder 37 2
+National O national 0 0 0 0 0 0 1 strong span floatholder 37 2
+Open O open 0 0 0 0 0 0 1 strong span floatholder 37 2
+University O university 0 1 0 0 0 0 1 strong span floatholder 37 2
+, O , 0 0 0 0 0 0 0 strong span floatholder 37 2
+Dept. O dept. 0 0 0 0 0 0 1 strong span floatholder 37 2
+of O of 0 1 0 0 0 0 0 strong span floatholder 37 2
+Management O management 0 1 0 0 0 0 1 strong span floatholder 37 2
+and O and 0 1 0 0 0 0 0 strong span floatholder 37 2
+Information O information 0 1 0 0 0 0 1 strong span floatholder 37 2
+
+Specialty O specialty 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Telecommunication O telecommunication 0 0 0 0 0 0 1 span small floatholder 36 0
+and O and 0 1 0 0 0 0 0 span small floatholder 36 0
+Computer O computer 0 0 0 0 0 0 1 span small floatholder 36 0
+Network O network 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Multimedia O multimedia 0 0 0 0 0 0 1 span small floatholder 36 0
+System O system 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Software O software 0 1 0 0 0 0 1 span small floatholder 36 0
+Engineering O engineering 0 0 0 0 0 0 1 span small floatholder 36 0
+
+Personal O personal 0 1 0 0 0 0 1 small p floatholder 35 0
+Websiteï¼ O websitei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Nameï¼ O namei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Jimmy B-PER jimmy 1 1 0 0 0 0 1 a span floatholder 37 0
+, I-PER , 0 0 0 0 0 0 0 a span floatholder 37 0
+Chang I-PER chang 0 1 0 0 0 0 1 a span floatholder 37 0
+- I-PER - 0 0 0 0 0 0 0 a span floatholder 37 0
+Lung I-PER lung 0 1 0 0 0 0 1 a span floatholder 37 0
+Tsai I-PER tsai 0 1 0 0 0 0 1 a span floatholder 37 0
+
+E O e 0 1 0 0 0 0 1 small p floatholder 35 0
+- O - 0 0 0 0 0 0 0 small p floatholder 35 0
+mailï¼ O maili¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+ccl3@faculty.pccu.edu.tw O ccl3@faculty.pccu.edu.tw 0 0 1 1 0 0 0 span small floatholder 36 0
+
+Positionï¼ O positioni¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Associate O associate 0 1 0 0 0 0 1 span small floatholder 36 0
+Professor O professor 0 0 0 0 1 0 1 span small floatholder 36 0
+
+Educationalï¼ O educationali¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Background O background 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Ph. O ph. 0 1 0 0 0 0 1 span small floatholder 36 0
+D. O d. 0 1 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Electrical O electrical 0 0 0 0 0 0 1 span small floatholder 36 0
+Engineering O engineering 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+National O national 0 0 0 0 0 0 1 span small floatholder 36 0
+Central O central 0 0 0 0 0 0 1 span small floatholder 36 0
+University O university 0 1 0 0 0 0 1 span small floatholder 36 0
+
+Experience O experience 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+1.Assistant O 1.assistant 0 0 0 1 0 0 0 small p floatholder 35 0
+Professor O professor 0 0 0 0 1 0 1 small p floatholder 35 0
+, O , 0 0 0 0 0 0 0 small p floatholder 35 0
+Dept. O dept. 0 0 0 0 0 0 1 small p floatholder 35 0
+of O of 0 1 0 0 0 0 0 small p floatholder 35 0
+Computer O computer 0 0 0 0 0 0 1 small p floatholder 35 0
+Science O science 0 0 0 0 0 0 1 small p floatholder 35 0
+, O , 0 0 0 0 0 0 0 small p floatholder 35 0
+Chinese O chinese 0 0 0 0 0 0 1 small p floatholder 35 0
+Culture O culture 0 0 0 0 0 0 1 small p floatholder 35 0
+University O university 0 1 0 0 0 0 1 small p floatholder 35 0
+, O , 0 0 0 0 0 0 0 small p floatholder 35 0
+Taiwan O taiwan 0 0 0 0 0 0 1 small p floatholder 35 0
+
+2.Assistant O 2.assistant 0 0 0 1 0 0 0 small p floatholder 35 0
+Professor O professor 0 0 0 0 1 0 1 small p floatholder 35 0
+, O , 0 0 0 0 0 0 0 small p floatholder 35 0
+Dept. O dept. 0 0 0 0 0 0 1 small p floatholder 35 0
+of O of 0 1 0 0 0 0 0 small p floatholder 35 0
+Computer O computer 0 0 0 0 0 0 1 small p floatholder 35 0
+Science O science 0 0 0 0 0 0 1 small p floatholder 35 0
+and O and 0 1 0 0 0 0 0 small p floatholder 35 0
+Information O information 0 1 0 0 0 0 1 small p floatholder 35 0
+Engineering O engineering 0 0 0 0 0 0 1 small p floatholder 35 0
+, O , 0 0 0 0 0 0 0 small p floatholder 35 0
+Vanung O vanung 0 0 0 0 0 0 1 small p floatholder 35 0
+University O university 0 1 0 0 0 0 1 small p floatholder 35 0
+, O , 0 0 0 0 0 0 0 small p floatholder 35 0
+Taiwan O taiwan 0 0 0 0 0 0 1 small p floatholder 35 0
+
+3.Senior O 3.senior 0 0 0 1 0 0 0 small p floatholder 35 0
+Officer O officer 0 0 0 0 0 0 1 small p floatholder 35 0
+, O , 0 0 0 0 0 0 0 small p floatholder 35 0
+National O national 0 0 0 0 0 0 1 small p floatholder 35 0
+Security O security 0 0 0 0 0 0 1 small p floatholder 35 0
+Bureau O bureau 0 1 0 0 0 0 1 small p floatholder 35 0
+, O , 0 0 0 0 0 0 0 small p floatholder 35 0
+Taiwan O taiwan 0 0 0 0 0 0 1 small p floatholder 35 0
+
+4.Adjunct O 4.adjunct 0 0 0 1 0 0 0 span small floatholder 36 0
+Lecturer O lecturer 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Dept. O dept. 0 0 0 0 0 0 1 span small floatholder 36 0
+of O of 0 1 0 0 0 0 0 span small floatholder 36 0
+Information O information 0 1 0 0 0 0 1 span small floatholder 36 0
+and O and 0 1 0 0 0 0 0 span small floatholder 36 0
+Networking O networking 0 0 0 0 0 0 1 span small floatholder 36 0
+Engineering O engineering 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Lung O lung 0 1 0 0 0 0 1 span small floatholder 36 0
+- O - 0 0 0 0 0 0 0 span small floatholder 36 0
+Hwa O hwa 0 1 0 0 0 0 1 span small floatholder 36 0
+University O university 0 1 0 0 0 0 1 span small floatholder 36 0
+of O of 0 1 0 0 0 0 0 span small floatholder 36 0
+Science O science 0 0 0 0 0 0 1 span small floatholder 36 0
+and O and 0 1 0 0 0 0 0 span small floatholder 36 0
+Technology O technology 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Taiwan O taiwan 0 0 0 0 0 0 1 span small floatholder 36 0
+
+Specialty O specialty 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Information O information 0 1 0 0 0 0 1 span small floatholder 36 0
+Security O security 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Image O image 0 0 0 0 0 0 1 span small floatholder 36 0
+Processing O processing 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Cryptology O cryptology 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Satellite O satellite 0 0 0 0 0 0 1 span small floatholder 36 0
+Communication O communication 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Multimedia O multimedia 0 0 0 0 0 0 1 span small floatholder 36 0
+Processing O processing 0 0 0 0 0 0 1 span small floatholder 36 0
+
+Personal O personal 0 1 0 0 0 0 1 small p floatholder 35 0
+Websiteï¼ O websitei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Nameï¼ O namei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Allen B-PER allen 1 1 0 0 0 0 1 a span floatholder 37 0
+Y. I-PER y. 1 1 0 0 0 0 1 a span floatholder 37 0
+Chang I-PER chang 1 1 0 0 0 0 1 a span floatholder 37 0
+
+E O e 0 1 0 0 0 0 1 small p floatholder 35 0
+- O - 0 0 0 0 0 0 0 small p floatholder 35 0
+mailï¼ O maili¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+zyh3@faculty.pccu.edu.tw O zyh3@faculty.pccu.edu.tw 0 0 1 1 0 0 0 span small floatholder 36 0
+
+Positionï¼ O positioni¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Associate O associate 0 1 0 0 0 0 1 span small floatholder 36 0
+Professor O professor 0 0 0 0 1 0 1 span small floatholder 36 0
+
+Educationalï¼ O educationali¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Background O background 0 0 0 0 0 0 1 small p floatholder 35 0
+
+PhD O phd 0 0 0 0 0 0 1 span small floatholder 36 0
+( O ( 0 0 0 0 0 0 0 span small floatholder 36 0
+Computer O computer 0 0 0 0 0 0 1 span small floatholder 36 0
+Science O science 0 0 0 0 0 0 1 span small floatholder 36 0
+) O ) 0 0 0 0 0 0 0 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Polytechnic O polytechnic 0 0 0 0 0 0 1 span small floatholder 36 0
+University O university 0 1 0 0 0 0 1 span small floatholder 36 0
+
+Experience O experience 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+1.Assistant O 1.assistant 0 0 0 1 0 0 0 span small floatholder 36 0
+Professor O professor 0 0 0 0 1 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Dept. O dept. 0 0 0 0 0 0 1 span small floatholder 36 0
+of O of 0 1 0 0 0 0 0 span small floatholder 36 0
+Computer O computer 0 0 0 0 0 0 1 span small floatholder 36 0
+Science O science 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Chinese O chinese 0 0 0 0 0 0 1 span small floatholder 36 0
+Culture O culture 0 0 0 0 0 0 1 span small floatholder 36 0
+University O university 0 1 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Taiwan O taiwan 0 0 0 0 0 0 1 span small floatholder 36 0
+
+2.Manager O 2.manager 0 0 0 1 0 0 0 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Taiwan O taiwan 0 0 0 0 0 0 1 span small floatholder 36 0
+Futures O futures 0 0 0 0 0 0 1 span small floatholder 36 0
+Exchange O exchange 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Taiwan O taiwan 0 0 0 0 0 0 1 span small floatholder 36 0
+
+3. O 3. 0 0 0 1 0 0 0 span small floatholder 36 0
+Developer O developer 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Equity O equity 0 0 0 0 0 0 1 span small floatholder 36 0
+Division O division 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Citigroup O citigroup 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+New O new 0 1 0 0 0 0 1 span small floatholder 36 0
+York O york 0 1 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+U.S.A. O u.s.a. 0 0 0 0 0 0 1 span small floatholder 36 0
+
+4.Programmer O 4.programmer 0 0 0 1 0 0 0 span small floatholder 36 0
+Analyst O analyst 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Securities O securities 0 0 0 0 0 0 1 span small floatholder 36 0
+Industry O industry 0 0 0 0 0 0 1 span small floatholder 36 0
+Automation O automation 0 0 0 0 0 0 1 span small floatholder 36 0
+Corporation O corporation 0 1 0 0 0 0 1 span small floatholder 36 0
+( O ( 0 0 0 0 0 0 0 span small floatholder 36 0
+NYSE O nyse 0 0 0 0 0 0 1 span small floatholder 36 0
+) O ) 0 0 0 0 0 0 0 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+New O new 0 1 0 0 0 0 1 span small floatholder 36 0
+York O york 0 1 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+U.S.A. O u.s.a. 0 0 0 0 0 0 1 span small floatholder 36 0
+
+5.Scientific O 5.scientific 0 0 0 1 0 0 0 span small floatholder 36 0
+Programmer O programmer 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+National O national 0 0 0 0 0 0 1 span small floatholder 36 0
+Weather O weather 0 0 0 0 0 0 1 span small floatholder 36 0
+Services O services 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Washington O washington 0 1 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+D.C. O d.c. 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+U.S.A. O u.s.a. 0 0 0 0 0 0 1 span small floatholder 36 0
+
+Specialty O specialty 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Computational O computational 0 0 0 0 0 0 1 span small floatholder 36 0
+Geometry O geometry 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Algorithm O algorithm 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Computer O computer 0 0 0 0 0 0 1 span small floatholder 36 0
+Graphics O graphics 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Electronic O electronic 0 0 0 0 0 0 1 span small floatholder 36 0
+Trading O trading 0 0 0 0 0 0 1 span small floatholder 36 0
+Systems O systems 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Information O information 0 1 0 0 0 0 1 span small floatholder 36 0
+Security O security 0 0 0 0 0 0 1 span small floatholder 36 0
+
+Personal O personal 0 1 0 0 0 0 1 small p floatholder 35 0
+Websiteï¼ O websitei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Nameï¼ O namei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Horng B-PER horng 0 1 0 0 0 0 1 a span floatholder 37 0
+, I-PER , 0 0 0 0 0 0 0 a span floatholder 37 0
+Maw I-PER maw 0 1 0 0 0 0 1 a span floatholder 37 0
+- I-PER - 0 0 0 0 0 0 0 a span floatholder 37 0
+Sheng I-PER sheng 0 1 0 0 0 0 1 a span floatholder 37 0
+
+E O e 0 1 0 0 0 0 1 small p floatholder 35 0
+- O - 0 0 0 0 0 0 0 small p floatholder 35 0
+mailï¼ O maili¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+horng@tea.ntptc.edu.tw O horng@tea.ntptc.edu.tw 0 0 1 0 0 0 0 span small floatholder 36 0
+
+Positionï¼ O positioni¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Adjunct O adjunct 0 0 0 0 0 0 1 small p floatholder 35 0
+Associate O associate 0 1 0 0 0 0 1 small p floatholder 35 0
+Professor O professor 0 0 0 0 1 0 1 small p floatholder 35 0
+
+Educationalï¼ O educationali¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Background O background 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+in O in 0 1 0 0 0 0 0 span small floatholder 36 0
+Computer O computer 0 0 0 0 0 0 1 span small floatholder 36 0
+Science O science 0 0 0 0 0 0 1 span small floatholder 36 0
+of O of 0 1 0 0 0 0 0 span small floatholder 36 0
+National O national 0 0 0 0 0 0 1 span small floatholder 36 0
+Chiao O chiao 0 1 0 0 0 0 1 span small floatholder 36 0
+- O - 0 0 0 0 0 0 0 span small floatholder 36 0
+Tung O tung 0 1 0 0 0 0 1 span small floatholder 36 0
+University O university 0 1 0 0 0 0 1 span small floatholder 36 0
+
+Experience O experience 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Lecturer O lecturer 0 0 0 0 0 0 1 span small floatholder 36 0
+in O in 0 1 0 0 0 0 0 span small floatholder 36 0
+department O department 0 0 0 0 0 0 0 span small floatholder 36 0
+of O of 0 1 0 0 0 0 0 span small floatholder 36 0
+Electronics O electronics 0 0 0 0 0 0 1 span small floatholder 36 0
+Engineering O engineering 0 0 0 0 0 0 1 span small floatholder 36 0
+Oriental O oriental 0 0 0 0 0 0 1 span small floatholder 36 0
+Institute O institute 0 0 0 0 0 0 1 span small floatholder 36 0
+of O of 0 1 0 0 0 0 0 span small floatholder 36 0
+Technology O technology 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Associate O associate 0 1 0 0 0 0 1 span small floatholder 36 0
+professor O professor 0 0 0 0 1 0 0 span small floatholder 36 0
+in O in 0 1 0 0 0 0 0 span small floatholder 36 0
+department O department 0 0 0 0 0 0 0 span small floatholder 36 0
+of O of 0 1 0 0 0 0 0 span small floatholder 36 0
+Mathematics O mathematics 0 0 0 0 0 0 1 span small floatholder 36 0
+Education O education 0 0 0 0 0 0 1 span small floatholder 36 0
+National O national 0 0 0 0 0 0 1 span small floatholder 36 0
+Taipei O taipei 0 0 0 0 0 0 1 span small floatholder 36 0
+Teachers O teachers 0 0 0 0 0 0 1 span small floatholder 36 0
+College O college 0 0 0 0 0 0 1 span small floatholder 36 0
+
+Specialty O specialty 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Fault O fault 0 0 0 0 0 0 1 span small floatholder 36 0
+Tolerant O tolerant 0 0 0 0 0 0 1 span small floatholder 36 0
+computing O computing 0 0 0 0 0 0 0 span small floatholder 36 0
+ã O a 0 0 0 0 0 0 0 span small floatholder 36 0
+Reliabity O reliabity 0 0 0 0 0 0 1 span small floatholder 36 0
+Analysis O analysis 0 0 0 0 0 0 1 span small floatholder 36 0
+
+Personal O personal 0 1 0 0 0 0 1 small p floatholder 35 0
+Websiteï¼ O websitei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Nameï¼ O namei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Homer B-PER homer 0 1 0 0 0 0 1 a span floatholder 37 0
+Liao I-PER liao 0 1 0 0 0 0 1 a span floatholder 37 0
+
+E O e 0 1 0 0 0 0 1 small p floatholder 35 0
+- O - 0 0 0 0 0 0 0 small p floatholder 35 0
+mailï¼ O maili¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+homer.liao@globeunion.com O homer.liao@globeunion.com 0 0 1 0 0 0 0 span small floatholder 36 0
+
+Positionï¼ O positioni¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Adjunct O adjunct 0 0 0 0 0 0 1 small p floatholder 35 0
+Assistant O assistant 0 0 0 0 0 0 1 small p floatholder 35 0
+Professor O professor 0 0 0 0 1 0 1 small p floatholder 35 0
+
+Educationalï¼ O educationali¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Background O background 0 0 0 0 0 0 1 small p floatholder 35 0
+
+MBA O mba 0 0 0 0 0 0 1 span small floatholder 36 0
+in O in 0 1 0 0 0 0 0 span small floatholder 36 0
+MIS O mis 0 0 0 0 0 0 1 span small floatholder 36 0
+and O and 0 1 0 0 0 0 0 span small floatholder 36 0
+Financial O financial 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+University O university 0 1 0 0 0 0 1 span small floatholder 36 0
+of O of 0 1 0 0 0 0 0 span small floatholder 36 0
+Taiwan O taiwan 0 0 0 0 0 0 1 span small floatholder 36 0
+
+Experience O experience 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+IT/IS O it/is 0 0 0 0 0 0 1 span small floatholder 36 0
+Head O head 0 1 0 0 0 0 1 span small floatholder 36 0
+of O of 0 1 0 0 0 0 0 span small floatholder 36 0
+Globalized O globalized 0 0 0 0 0 0 1 span small floatholder 36 0
+Enterprise O enterprise 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+consultant O consultant 0 0 0 0 0 0 0 span small floatholder 36 0
+of O of 0 1 0 0 0 0 0 span small floatholder 36 0
+IBM/Oracle O ibm/oracle 0 0 0 0 0 0 1 span small floatholder 36 0
+on O on 0 0 0 0 0 0 0 span small floatholder 36 0
+CIM O cim 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+ERP O erp 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+SCM O scm 0 0 0 0 0 0 1 span small floatholder 36 0
+Respectively O respectively 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+CIO O cio 0 0 0 0 0 0 1 span small floatholder 36 0
+of O of 0 1 0 0 0 0 0 span small floatholder 36 0
+Sipix O sipix 0 0 0 0 0 0 1 span small floatholder 36 0
+Group O group 0 1 0 0 0 0 1 span small floatholder 36 0
+
+Specialty O specialty 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Management O management 0 1 0 0 0 0 1 span small floatholder 36 0
+on O on 0 0 0 0 0 0 0 span small floatholder 36 0
+Operations O operations 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+Information O information 0 1 0 0 0 0 1 span small floatholder 36 0
+and O and 0 1 0 0 0 0 0 span small floatholder 36 0
+Financial O financial 0 0 0 0 0 0 1 span small floatholder 36 0
+; O ; 0 0 0 0 0 0 0 span small floatholder 36 0
+Global O global 0 1 0 0 0 0 1 span small floatholder 36 0
+IT O it 0 0 0 0 0 0 1 span small floatholder 36 0
+/ERP/SCM O /erp/scm 0 0 0 0 0 0 0 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+infrastructure O infrastructure 0 0 0 0 0 0 0 span small floatholder 36 0
+Deployment O deployment 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 span small floatholder 36 0
+e O e 0 1 0 0 0 0 0 span small floatholder 36 0
+- O - 0 0 0 0 0 0 0 span small floatholder 36 0
+Commerce O commerce 0 0 0 0 0 0 1 span small floatholder 36 0
+
+Personal O personal 0 1 0 0 0 0 1 small p floatholder 35 0
+Websiteï¼ O websitei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Nameï¼ O namei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Farn B-PER farn 0 1 0 0 0 0 1 small p floatholder 35 0
+, I-PER , 0 0 0 0 0 0 0 small p floatholder 35 0
+Kwo I-PER kwo 0 1 0 0 0 0 1 small p floatholder 35 0
+- I-PER - 0 0 0 0 0 0 0 small p floatholder 35 0
+Jean I-PER jean 0 1 0 0 0 0 1 small p floatholder 35 0
+
+E O e 0 1 0 0 0 0 1 small p floatholder 35 0
+- O - 0 0 0 0 0 0 0 small p floatholder 35 0
+mailï¼ O maili¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+fgz3@ulive.pccu.edu.tw O fgz3@ulive.pccu.edu.tw 0 0 1 1 0 0 0 span small floatholder 36 0
+
+Positionï¼ O positioni¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Adjunct O adjunct 0 0 0 0 0 0 1 small p floatholder 35 0
+Associate O associate 0 1 0 0 0 0 1 small p floatholder 35 0
+Professor O professor 0 0 0 0 1 0 1 small p floatholder 35 0
+
+Educationalï¼ O educationali¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Background O background 0 0 0 0 0 0 1 small p floatholder 35 0
+
+CIO O cio 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Experience O experience 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Researcher O researcher 0 0 0 0 0 0 1 small p floatholder 35 0
+, O , 0 0 0 0 0 0 0 small p floatholder 35 0
+ITRI O itri 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Specialty O specialty 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Information O information 0 1 0 0 0 0 1 small p floatholder 35 0
+Security O security 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Personal O personal 0 1 0 0 0 0 1 small p floatholder 35 0
+Websiteï¼ O websitei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Nameï¼ O namei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+KU B-PER ku 0 0 0 0 0 0 1 span small floatholder 36 0
+, I-PER , 0 0 0 0 0 0 0 span small floatholder 36 0
+MIN I-PER min 0 0 0 0 0 0 1 span small floatholder 36 0
+- I-PER - 0 0 0 0 0 0 0 span small floatholder 36 0
+YU I-PER yu 0 0 0 0 0 0 1 span small floatholder 36 0
+
+E O e 0 1 0 0 0 0 1 small p floatholder 35 0
+- O - 0 0 0 0 0 0 0 small p floatholder 35 0
+mailï¼ O maili¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+gmy5@ulive.pccu.edu.tw O gmy5@ulive.pccu.edu.tw 0 0 1 1 0 0 0 span small floatholder 36 0
+
+Positionï¼ O positioni¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Adjunct O adjunct 0 0 0 0 0 0 1 small p floatholder 35 0
+Assistant O assistant 0 0 0 0 0 0 1 small p floatholder 35 0
+Professor O professor 0 0 0 0 1 0 1 small p floatholder 35 0
+
+Educationalï¼ O educationali¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Background O background 0 0 0 0 0 0 1 small p floatholder 35 0
+
+PhD O phd 0 0 0 0 0 0 1 small p floatholder 35 0
+( O ( 0 0 0 0 0 0 0 small p floatholder 35 0
+Electrical O electrical 0 0 0 0 0 0 1 small p floatholder 35 0
+Engineering O engineering 0 0 0 0 0 0 1 small p floatholder 35 0
+) O ) 0 0 0 0 0 0 0 small p floatholder 35 0
+, O , 0 0 0 0 0 0 0 small p floatholder 35 0
+Chung O chung 0 1 0 0 0 0 1 small p floatholder 35 0
+Cheng O cheng 0 1 0 0 0 0 1 small p floatholder 35 0
+Institute O institute 0 0 0 0 0 0 1 small p floatholder 35 0
+of O of 0 1 0 0 0 0 0 small p floatholder 35 0
+Technology O technology 0 0 0 0 0 0 1 small p floatholder 35 0
+, O , 0 0 0 0 0 0 0 small p floatholder 35 0
+ROC O roc 0 0 0 0 0 0 1 small p floatholder 35 0
+National O national 0 0 0 0 0 0 1 small p floatholder 35 0
+Defense O defense 0 0 0 0 0 0 1 small p floatholder 35 0
+University O university 0 1 0 0 0 0 1 small p floatholder 35 0
+
+Experience O experience 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Assistant O assistant 0 0 0 0 0 0 1 small p floatholder 35 0
+Professor O professor 0 0 0 0 1 0 1 small p floatholder 35 0
+of O of 0 1 0 0 0 0 0 small p floatholder 35 0
+R.O.C O r.o.c 0 0 0 0 0 0 1 small p floatholder 35 0
+Naval O naval 0 1 0 0 0 0 1 small p floatholder 35 0
+Academy O academy 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Specialty O specialty 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Computer O computer 0 0 0 0 0 0 1 small p floatholder 35 0
+Vision O vision 0 1 0 0 0 0 1 small p floatholder 35 0
+
+Personal O personal 0 1 0 0 0 0 1 small p floatholder 35 0
+Websiteï¼ O websitei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Nameï¼ O namei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+TZENG B-PER tzeng 0 0 0 0 0 0 1 span small floatholder 36 0
+, I-PER , 0 0 0 0 0 0 0 span small floatholder 36 0
+YEU I-PER yeu 0 0 0 0 0 0 1 span small floatholder 36 0
+- I-PER - 0 0 0 0 0 0 0 span small floatholder 36 0
+RUEY I-PER ruey 0 0 0 0 0 0 1 span small floatholder 36 0
+
+E O e 0 1 0 0 0 0 1 small p floatholder 35 0
+- O - 0 0 0 0 0 0 0 small p floatholder 35 0
+mailï¼ O maili¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+zyr3@ulive.pccu.edu.tw O zyr3@ulive.pccu.edu.tw 0 0 1 1 0 0 0 span small floatholder 36 0
+
+Positionï¼ O positioni¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Adjunct O adjunct 0 0 0 0 0 0 1 small p floatholder 35 0
+Assistant O assistant 0 0 0 0 0 0 1 small p floatholder 35 0
+Professor O professor 0 0 0 0 1 0 1 small p floatholder 35 0
+
+Educationalï¼ O educationali¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Background O background 0 0 0 0 0 0 1 small p floatholder 35 0
+
+PhD O phd 0 0 0 0 0 0 1 small p floatholder 35 0
+( O ( 0 0 0 0 0 0 0 small p floatholder 35 0
+Information O information 0 1 0 0 0 0 1 small p floatholder 35 0
+Management O management 0 1 0 0 0 0 1 small p floatholder 35 0
+) O ) 0 0 0 0 0 0 0 small p floatholder 35 0
+, O , 0 0 0 0 0 0 0 small p floatholder 35 0
+National O national 0 0 0 0 0 0 1 small p floatholder 35 0
+Chengchi O chengchi 0 1 0 0 0 0 1 small p floatholder 35 0
+University O university 0 1 0 0 0 0 1 small p floatholder 35 0
+
+Experience O experience 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Adjunct O adjunct 0 0 0 0 0 0 1 small p floatholder 35 0
+Instructor O instructor 0 0 0 0 0 0 1 small p floatholder 35 0
+of O of 0 1 0 0 0 0 0 small p floatholder 35 0
+J.U.S.T O j.u.s.t 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Specialty O specialty 0 0 0 0 0 0 1 small p floatholder 35 0
+ï¼ O i¼ 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Database O database 0 1 0 0 0 0 1 span small floatholder 36 0
+System O system 0 0 0 0 0 0 1 span small floatholder 36 0
+, O , 0 0 0 0 0 0 0 small p floatholder 35 0
+Data O data 0 1 0 0 0 0 1 small p floatholder 35 0
+security O security 0 0 0 0 0 0 0 small p floatholder 35 0
+
+Personal O personal 0 1 0 0 0 0 1 small p floatholder 35 0
+Websiteï¼ O websitei¼ 0 0 0 0 0 0 1 small p floatholder 35 0
+
+Address O address 0 0 0 0 1 0 1 div td style6 20 0
+: O : 0 0 0 0 0 0 0 div td style6 20 0
+No. O no. 0 0 0 0 0 0 1 div td style6 20 0
+55 O 55 0 0 0 1 0 0 0 div td style6 20 0
+, O , 0 0 0 0 0 0 0 div td style6 20 0
+Huagang O huagang 0 1 0 0 0 0 1 div td style6 20 0
+Rd. O rd. 0 0 0 0 0 0 1 div td style6 20 0
+, O , 0 0 0 0 0 0 0 div td style6 20 0
+Shrlin O shrlin 0 0 0 0 0 0 1 div td style6 20 0
+Chiu O chiu 0 1 0 0 0 0 1 div td style6 20 0
+, O , 0 0 0 0 0 0 0 div td style6 20 0
+Taipei O taipei 0 0 0 0 0 0 1 div td style6 20 0
+, O , 0 0 0 0 0 0 0 div td style6 20 0
+Taiwan O taiwan 0 0 0 0 0 0 1 div td style6 20 0
+111 O 111 0 0 0 1 0 0 0 div td style6 20 0
+, O , 0 0 0 0 0 0 0 div td style6 20 0
+R.O.C. O r.o.c. 0 0 0 0 0 0 1 div td style6 20 0
+
+TEL O tel 0 0 0 0 0 0 1 td tr style34 19 0
+: O : 0 0 0 0 0 0 0 td tr style34 19 0
+886 O 886 0 0 0 1 0 0 0 td tr style34 19 0
+- O - 0 0 0 0 0 0 0 td tr style34 19 0
+02 O 02 0 0 0 1 0 0 0 td tr style34 19 0
+- O - 0 0 0 0 0 0 0 td tr style34 19 0
+2861 O 2861 0 0 0 1 0 0 0 td tr style34 19 0
+- O - 0 0 0 0 0 0 0 td tr style34 19 0
+0511 O 0511 0 0 0 1 0 0 0 td tr style34 19 0
+Extension O extension 0 0 0 0 0 0 1 td tr style34 19 0
+: O : 0 0 0 0 0 0 0 td tr style34 19 0
+701 O 701 0 0 0 1 0 0 0 td tr style34 19 0
+or O or 0 0 0 0 0 0 0 td tr style34 19 0
+724 O 724 0 0 0 1 0 0 0 td tr style34 19 0
+
+Department O department 0 0 0 0 0 0 1 td tr style34 19 0
+of O of 0 1 0 0 0 0 0 td tr style34 19 0
+Computer O computer 0 0 0 0 0 0 1 td tr style34 19 0
+Science O science 0 0 0 0 0 0 1 td tr style34 19 0
+, O , 0 0 0 0 0 0 0 td tr style34 19 0
+Chinese O chinese 0 0 0 0 0 0 1 td tr style34 19 0
+Culture O culture 0 0 0 0 0 0 1 td tr style34 19 0
+University O university 0 1 0 0 0 0 1 td tr style34 19 0
+( O ( 0 0 0 0 0 0 0 td tr style34 19 0
+C O c 0 1 0 0 0 0 1 td tr style34 19 0
+) O ) 0 0 0 0 0 0 0 td tr style34 19 0
+2004 O 2004 0 0 0 1 0 0 0 td tr style34 19 0
+All O all 0 1 0 0 0 0 1 td tr style34 19 0
+Rights O rights 0 0 0 0 0 0 1 td tr style34 19 0
+Reserved. O reserved. 0 0 0 0 0 0 1 td tr style34 19 0

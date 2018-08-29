@@ -1,679 +1,712 @@
-Faculty O 0 0 head html no-js 4 39
-& O 0 0 head html no-js 4 39
-Staff O 0 1 head html no-js 4 39
-| O 0 0 head html no-js 4 39
-Computer O 0 0 head html no-js 4 39
-Science O 0 0 head html no-js 4 39
-| O 0 0 head html no-js 4 39
-Haverford O 0 0 head html no-js 4 39
-College O 0 0 head html no-js 4 39
+Faculty O faculty 0 0 0 0 0 0 1 head html no-js 4 39
+& O & 0 0 0 0 0 0 0 head html no-js 4 39
+Staff O staff 0 1 0 0 0 0 1 head html no-js 4 39
+| O | 0 0 0 0 0 0 0 head html no-js 4 39
+Computer O computer 0 0 0 0 0 0 1 head html no-js 4 39
+Science O science 0 0 0 0 0 0 1 head html no-js 4 39
+| O | 0 0 0 0 0 0 0 head html no-js 4 39
+Haverford O haverford 0 0 0 0 0 0 1 head html no-js 4 39
+College O college 0 0 0 0 0 0 1 head html no-js 4 39
 
-Skip O 0 1 div body element-invisible.element-focusable 5 0
-to O 0 0 div body element-invisible.element-focusable 5 0
-main O 0 0 div body element-invisible.element-focusable 5 0
-content O 0 0 div body element-invisible.element-focusable 5 0
+Skip O skip 0 1 0 0 0 0 1 div body element-focusable 5 0
+to O to 0 0 0 0 0 0 0 div body element-focusable 5 0
+main O main 0 0 0 0 0 0 0 div body element-focusable 5 0
+content O content 0 0 0 0 0 0 0 div body element-focusable 5 0
 
-Haverford O 0 0 a div logo-text.element-invisible 9 3
-College O 0 0 a div logo-text.element-invisible 9 3
+Haverford O haverford 0 0 0 0 0 0 1 a div element-invisible 9 3
+College O college 0 0 0 0 0 0 1 a div element-invisible 9 3
 
-Primary O 0 0 div nav element-invisible 9 0
-Menu O 0 1 div nav element-invisible 9 0
+Primary O primary 0 0 0 0 0 0 1 div nav element-invisible 9 0
+Menu O menu 0 1 0 0 0 0 1 div nav element-invisible 9 0
 
-Search O 0 0 a li element-invisible 12 1
+Search O search 0 0 0 0 0 0 1 a li element-invisible 12 1
 
-Menu O 0 1 a li element-invisible 12 1
+Menu O menu 0 1 0 0 0 0 1 a li element-invisible 12 1
 
-Log O 0 1 a li element-invisible 12 1
-in O 0 1 a li element-invisible 12 1
+Log O log 0 1 0 0 0 0 1 a li element-invisible 12 1
+in O in 0 1 0 0 0 0 0 a li element-invisible 12 1
 
-Fall O 0 1 li ul button.transparent 11 0
-for O 0 1 li ul button.transparent 11 0
-the O 0 1 li ul button.transparent 11 0
-Ford O 0 1 li ul button.transparent 11 0
+Fall O fall 0 1 0 0 0 0 1 li ul transparent 11 0
+for O for 0 1 0 0 0 0 0 li ul transparent 11 0
+the O the 0 1 0 0 0 0 0 li ul transparent 11 0
+Ford O ford 0 1 0 0 0 0 1 li ul transparent 11 0
 
-Log O 0 1 li ul fa.fw.fa-sign-in 10 0
-in O 0 1 li ul fa.fw.fa-sign-in 10 0
+Log O log 0 1 0 0 0 0 1 li ul fa-sign-in 10 0
+in O in 0 1 0 0 0 0 0 li ul fa-sign-in 10 0
 
-HC O 0 0 li ul fa.fw.fa-envelope-o 10 0
-Gmail O 0 0 li ul fa.fw.fa-envelope-o 10 0
+HC O hc 0 0 0 0 0 0 1 li ul fa-envelope-o 10 0
+Gmail O gmail 0 0 0 0 0 0 1 li ul fa-envelope-o 10 0
 
-Moodle O 0 0 li ul fa.fw.fa-cloud 10 0
+Moodle O moodle 0 0 0 0 0 0 1 li ul fa-cloud 10 0
 
-Workday O 0 0 li ul fa.fw.fa-id-card 10 0
+Workday O workday 0 0 0 0 0 0 1 li ul fa-id-card 10 0
 
-You O 0 1 div div element-invisible 12 0
-are O 0 0 div div element-invisible 12 0
-here O 0 0 div div element-invisible 12 0
+You O you 0 1 0 0 0 0 1 div div element-invisible 12 0
+are O are 0 0 0 0 0 0 0 div div element-invisible 12 0
+here O here 0 0 0 0 0 0 0 div div element-invisible 12 0
 
-Haverford O 0 0 a li element-invisible 15 1
-College O 0 0 a li element-invisible 15 1
-homepage O 0 0 a li element-invisible 15 1
+Haverford O haverford 0 0 0 0 0 0 1 a li element-invisible 15 1
+College O college 0 0 0 0 0 0 1 a li element-invisible 15 1
+homepage O homepage 0 0 0 0 0 0 0 a li element-invisible 15 1
 
-Computer O 0 0 li ul breadcrumbs 14 0
-Science O 0 0 li ul breadcrumbs 14 0
+Computer O computer 0 0 0 0 0 0 1 li ul breadcrumbs 14 0
+Science O science 0 0 0 0 0 0 1 li ul breadcrumbs 14 0
 
-Faculty O 0 0 li ul breadcrumbs 14 0
-& O 0 0 li ul breadcrumbs 14 0
-Staff O 0 1 li ul breadcrumbs 14 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul breadcrumbs 14 0
+& O & 0 0 0 0 0 0 0 li ul breadcrumbs 14 0
+Staff O staff 0 1 0 0 0 0 1 li ul breadcrumbs 14 0
 
-Department O 0 0 h1 div pane-title 14 0
-of O 0 1 h1 div pane-title 14 0
+Department O department 0 0 0 0 0 0 1 h1 div pane-title 14 0
+of O of 0 1 0 0 0 0 0 h1 div pane-title 14 0
 
-Computer O 0 0 div div pane-title 13 2
-Science O 0 0 div div pane-title 13 2
+Computer O computer 0 0 0 0 0 0 1 div div pane-title 13 2
+Science O science 0 0 0 0 0 0 1 div div pane-title 13 2
 
-Home O 0 1 li ul first.leaf.menu-mlid-4170 20 0
+Home O home 0 1 0 0 0 0 1 li ul menu-mlid-4170 20 0
 
-Academic O 0 0 li ul collapsed.menu-mlid-4168 20 0
-Programs O 0 0 li ul collapsed.menu-mlid-4168 20 0
+Academic O academic 0 0 0 0 0 0 1 li ul menu-mlid-4168 20 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu-mlid-4168 20 0
 
-Faculty O 0 0 li ul active-trail.active 20 0
-& O 0 0 li ul active-trail.active 20 0
-Staff O 0 1 li ul active-trail.active 20 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul active 20 0
+& O & 0 0 0 0 0 0 0 li ul active 20 0
+Staff O staff 0 1 0 0 0 0 1 li ul active 20 0
 
-Courses O 0 0 li ul leaf.menu-mlid-11211 20 0
+Courses O courses 0 0 0 0 0 0 1 li ul menu-mlid-11211 20 0
 
-News O 0 0 li ul leaf.menu-mlid-11221 20 0
-& O 0 0 li ul leaf.menu-mlid-11221 20 0
-Events O 0 0 li ul leaf.menu-mlid-11221 20 0
+News O news 0 0 0 0 0 0 1 li ul menu-mlid-11221 20 0
+& O & 0 0 0 0 0 0 0 li ul menu-mlid-11221 20 0
+Events O events 0 0 0 0 0 0 1 li ul menu-mlid-11221 20 0
 
-Resources O 0 0 li ul collapsed.menu-mlid-11226 20 0
+Resources O resources 0 0 0 0 0 0 1 li ul menu-mlid-11226 20 0
 
-Contact O 0 0 li ul last.leaf.menu-mlid-11231 20 0
+Contact O contact 0 0 0 0 0 0 1 li ul menu-mlid-11231 20 0
 
-Home O 0 1 li ul first.leaf.menu-mlid-4170 20 0
+Home O home 0 1 0 0 0 0 1 li ul menu-mlid-4170 20 0
 
-Academic O 0 0 li ul collapsed.menu-mlid-4168 20 0
-Programs O 0 0 li ul collapsed.menu-mlid-4168 20 0
+Academic O academic 0 0 0 0 0 0 1 li ul menu-mlid-4168 20 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu-mlid-4168 20 0
 
-Faculty O 0 0 li ul active-trail.active 20 0
-& O 0 0 li ul active-trail.active 20 0
-Staff O 0 1 li ul active-trail.active 20 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul active 20 0
+& O & 0 0 0 0 0 0 0 li ul active 20 0
+Staff O staff 0 1 0 0 0 0 1 li ul active 20 0
 
-Courses O 0 0 li ul leaf.menu-mlid-11211 20 0
+Courses O courses 0 0 0 0 0 0 1 li ul menu-mlid-11211 20 0
 
-News O 0 0 li ul leaf.menu-mlid-11221 20 0
-& O 0 0 li ul leaf.menu-mlid-11221 20 0
-Events O 0 0 li ul leaf.menu-mlid-11221 20 0
+News O news 0 0 0 0 0 0 1 li ul menu-mlid-11221 20 0
+& O & 0 0 0 0 0 0 0 li ul menu-mlid-11221 20 0
+Events O events 0 0 0 0 0 0 1 li ul menu-mlid-11221 20 0
 
-Resources O 0 0 li ul collapsed.menu-mlid-11226 20 0
+Resources O resources 0 0 0 0 0 0 1 li ul menu-mlid-11226 20 0
 
-Contact O 0 0 li ul last.leaf.menu-mlid-11231 20 0
+Contact O contact 0 0 0 0 0 0 1 li ul menu-mlid-11231 20 0
 
-Faculty O 0 0 div div pane-content 17 0
-& O 0 0 div div pane-content 17 0
-Staff O 0 1 div div pane-content 17 0
+Faculty O faculty 0 0 0 0 0 0 1 div div pane-content 17 0
+& O & 0 0 0 0 0 0 0 div div pane-content 17 0
+Staff O staff 0 1 0 0 0 0 1 div div pane-content 17 0
 
-Siddharth B-NAME 1 1 div div profile_link-full-name 25 0
-Bhaskar I-NAME 0 1 div div profile_link-full-name 25 0
+Siddharth B-PER siddharth 1 1 0 0 0 0 1 div div profile_link-full-name 25 0
+Bhaskar I-PER bhaskar 0 1 0 0 0 0 1 div div profile_link-full-name 25 0
 
-Visiting O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-Assistant O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-Professor O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-of O 0 1 div div profile_diplay-title.field-name-field-job-title 24 5
-Computer O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-Science O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
+Visiting O visiting 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
+Assistant O assistant 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
+Professor O professor 0 0 0 0 1 0 1 div div field-name-field-job-title 24 5
+of O of 0 1 0 0 0 0 0 div div field-name-field-job-title 24 5
+Computer O computer 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
+Science O science 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
 
-370 O 0 0 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 6
-Lancaster O 0 1 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 6
-Ave O 0 1 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 6
+370 O 370 0 0 0 1 0 0 0 div div fa-building 24 6
+Lancaster O lancaster 0 1 0 0 0 0 1 div div fa-building 24 6
+Ave O ave 0 1 0 0 0 0 1 div div fa-building 24 6
 
-sbhaskar@haverford.edu O 0 0 div div field.profile_email 25 0
+sbhaskar@haverford.edu O sbhaskar@haverford.edu 0 0 1 0 0 0 0 div div profile_email 25 0
 
-Profile O 0 0 div div profile_link 25 1
+Profile O profile 0 0 0 0 1 0 1 div div profile_link 25 1
 
-John B-NAME 1 1 div div profile_link-full-name 25 0
-Dougherty I-NAME 1 1 div div profile_link-full-name 25 0
+John B-PER john 1 1 0 0 0 0 1 div div profile_link-full-name 25 0
+Dougherty I-PER dougherty 1 1 0 0 0 0 1 div div profile_link-full-name 25 0
 
-Associate O 0 1 div div profile_diplay-title.field-name-field-job-title 24 5
-Professor O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-of O 0 1 div div profile_diplay-title.field-name-field-job-title 24 5
-Computer O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-Science O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
+Associate O associate 0 1 0 0 0 0 1 div div field-name-field-job-title 24 5
+Professor O professor 0 0 0 0 1 0 1 div div field-name-field-job-title 24 5
+of O of 0 1 0 0 0 0 0 div div field-name-field-job-title 24 5
+Computer O computer 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
+Science O science 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
 
-FAPC, O 0 0 div div field.field-name-field-information-block.field-type-text.field-label-hidden.field-wrapper 25 0
-KINSC O 0 0 div div field.field-name-field-information-block.field-type-text.field-label-hidden.field-wrapper 25 0
-steering O 0 0 div div field.field-name-field-information-block.field-type-text.field-label-hidden.field-wrapper 25 0
-committee O 0 0 div div field.field-name-field-information-block.field-type-text.field-label-hidden.field-wrapper 25 0
+FAPC O fapc 0 0 0 0 0 0 1 div div field-wrapper 25 0
+, O , 0 0 0 0 0 0 0 div div field-wrapper 25 0
+KINSC O kinsc 0 0 0 0 0 0 1 div div field-wrapper 25 0
+steering O steering 0 0 0 0 0 0 0 div div field-wrapper 25 0
+committee O committee 0 0 0 0 0 0 0 div div field-wrapper 25 0
 
-KINSC O 0 0 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 8
-H111A O 0 0 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 8
+KINSC O kinsc 0 0 0 0 0 0 1 div div fa-building 24 8
+H111A O h111a 0 0 0 1 0 0 1 div div fa-building 24 8
 
-(610)896-1000 O 0 0 div div field.field-name-field-phone.field-type-telephone.field-label-hidden.field-wrapper.fa.fa-phone 25 0
+( O ( 0 0 0 0 0 0 0 div div fa-phone 25 0
+610 O 610 0 0 0 1 0 0 0 div div fa-phone 25 0
+) O ) 0 0 0 0 0 0 0 div div fa-phone 25 0
+896 O 896 0 0 0 1 0 0 0 div div fa-phone 25 0
+- O - 0 0 0 0 0 0 0 div div fa-phone 25 0
+1000 O 1000 0 0 0 1 0 0 0 div div fa-phone 25 0
 
-jdougher@haverford.edu O 0 0 div div field.profile_email 25 0
+jdougher@haverford.edu O jdougher@haverford.edu 0 0 1 0 0 0 0 div div profile_email 25 0
 
-Make O 0 1 div div field.field-name-field-calendar-link.field-type-link-field.field-label-hidden.field-wrapper.fa.fa-calendar 25 0
-an O 0 1 div div field.field-name-field-calendar-link.field-type-link-field.field-label-hidden.field-wrapper.fa.fa-calendar 25 0
-Appointment O 0 0 div div field.field-name-field-calendar-link.field-type-link-field.field-label-hidden.field-wrapper.fa.fa-calendar 25 0
+Make O make 0 1 0 0 0 0 1 div div fa-calendar 25 0
+an O an 0 1 0 0 0 0 0 div div fa-calendar 25 0
+Appointment O appointment 0 0 0 0 0 0 1 div div fa-calendar 25 0
 
-Profile O 0 0 div div profile_link 25 1
+Profile O profile 0 0 0 0 1 0 1 div div profile_link 25 1
 
-Assistant: O 0 0 div div fa.fa-user 24 18
+Assistant O assistant 0 0 0 0 0 0 1 div div fa-user 24 18
+: O : 0 0 0 0 0 0 0 div div fa-user 24 18
 
-Lisabeth B-NAME 0 0 div div profile_assistant-email 25 0
-Lieberman I-NAME 0 1 div div profile_assistant-email 25 0
+Lisabeth B-PER lisabeth 0 0 0 0 0 0 1 div div profile_assistant-email 25 0
+Lieberman I-PER lieberman 0 1 0 0 0 0 1 div div profile_assistant-email 25 0
 
-Homepage O 0 0 div div homepage-link 25 0
+Homepage O homepage 0 0 0 0 0 0 1 div div homepage-link 25 0
 
-Publications O 0 0 div div publication-link 25 0
+Publications O publications 0 0 0 0 0 0 1 div div publication-link 25 0
 
-Sorelle B-NAME 0 1 div div profile_link-full-name 25 0
-Friedler I-NAME 0 1 div div profile_link-full-name 25 0
+Sorelle B-PER sorelle 0 1 0 0 0 0 1 div div profile_link-full-name 25 0
+Friedler I-PER friedler 0 1 0 0 0 0 1 div div profile_link-full-name 25 0
 
-Assistant O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-Professor O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-of O 0 1 div div profile_diplay-title.field-name-field-job-title 24 5
-Computer O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-Science O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
+Assistant O assistant 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
+Professor O professor 0 0 0 0 1 0 1 div div field-name-field-job-title 24 5
+of O of 0 1 0 0 0 0 0 div div field-name-field-job-title 24 5
+Computer O computer 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
+Science O science 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
 
-KINSC O 0 0 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 6
-L305 O 0 0 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 6
+KINSC O kinsc 0 0 0 0 0 0 1 div div fa-building 24 6
+L305 O l305 0 0 0 1 0 0 1 div div fa-building 24 6
 
-(610) O 0 0 div div field.field-name-field-phone.field-type-telephone.field-label-hidden.field-wrapper.fa.fa-phone 25 0
-795-6236 O 0 0 div div field.field-name-field-phone.field-type-telephone.field-label-hidden.field-wrapper.fa.fa-phone 25 0
+( O ( 0 0 0 0 0 0 0 div div fa-phone 25 0
+610 O 610 0 0 0 1 0 0 0 div div fa-phone 25 0
+) O ) 0 0 0 0 0 0 0 div div fa-phone 25 0
+795 O 795 0 0 0 1 0 0 0 div div fa-phone 25 0
+- O - 0 0 0 0 0 0 0 div div fa-phone 25 0
+6236 O 6236 0 0 0 1 0 0 0 div div fa-phone 25 0
 
-sfriedle@haverford.edu O 0 0 div div field.profile_email 25 0
+sfriedle@haverford.edu O sfriedle@haverford.edu 0 0 1 0 0 0 0 div div profile_email 25 0
 
-Profile O 0 0 div div profile_link 25 1
+Profile O profile 0 0 0 0 1 0 1 div div profile_link 25 1
 
-Homepage O 0 0 div div homepage-link 25 0
+Homepage O homepage 0 0 0 0 0 0 1 div div homepage-link 25 0
 
-Steven B-NAME 1 1 div div profile_link-full-name 25 0
-Lindell I-NAME 1 1 div div profile_link-full-name 25 0
+Steven B-PER steven 1 1 0 0 0 0 1 div div profile_link-full-name 25 0
+Lindell I-PER lindell 1 1 0 0 0 0 1 div div profile_link-full-name 25 0
 
-Professor O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-of O 0 1 div div profile_diplay-title.field-name-field-job-title 24 5
-Computer O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-Science O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
+Professor O professor 0 0 0 0 1 0 1 div div field-name-field-job-title 24 5
+of O of 0 1 0 0 0 0 0 div div field-name-field-job-title 24 5
+Computer O computer 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
+Science O science 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
 
-KINSC O 0 0 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 6
-L308 O 0 0 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 6
+KINSC O kinsc 0 0 0 0 0 0 1 div div fa-building 24 6
+L308 O l308 0 0 0 1 0 0 1 div div fa-building 24 6
 
-(610) O 0 0 div div field.field-name-field-phone.field-type-telephone.field-label-hidden.field-wrapper.fa.fa-phone 25 0
-896-1203 O 0 0 div div field.field-name-field-phone.field-type-telephone.field-label-hidden.field-wrapper.fa.fa-phone 25 0
+( O ( 0 0 0 0 0 0 0 div div fa-phone 25 0
+610 O 610 0 0 0 1 0 0 0 div div fa-phone 25 0
+) O ) 0 0 0 0 0 0 0 div div fa-phone 25 0
+896 O 896 0 0 0 1 0 0 0 div div fa-phone 25 0
+- O - 0 0 0 0 0 0 0 div div fa-phone 25 0
+1203 O 1203 0 0 0 1 0 0 0 div div fa-phone 25 0
 
-slindell@haverford.edu O 0 0 div div field.profile_email 25 0
+slindell@haverford.edu O slindell@haverford.edu 0 0 1 0 0 0 0 div div profile_email 25 0
 
-Profile O 0 0 div div profile_link 25 1
+Profile O profile 0 0 0 0 1 0 1 div div profile_link 25 1
 
-Homepage O 0 0 div div homepage-link 25 0
+Homepage O homepage 0 0 0 0 0 0 1 div div homepage-link 25 0
 
-Kristopher B-NAME 1 1 div div profile_link-full-name 25 0
-Micinski I-NAME 1 1 div div profile_link-full-name 25 0
+Kristopher B-PER kristopher 1 1 0 0 0 0 1 div div profile_link-full-name 25 0
+Micinski I-PER micinski 1 1 0 0 0 0 1 div div profile_link-full-name 25 0
 
-Visiting O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-Assistant O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-Professor O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-of O 0 1 div div profile_diplay-title.field-name-field-job-title 24 5
-Computer O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-Science O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
+Visiting O visiting 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
+Assistant O assistant 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
+Professor O professor 0 0 0 0 1 0 1 div div field-name-field-job-title 24 5
+of O of 0 1 0 0 0 0 0 div div field-name-field-job-title 24 5
+Computer O computer 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
+Science O science 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
 
-370 O 0 0 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 6
-Lancaster O 0 1 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 6
-Ave O 0 1 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 6
+370 O 370 0 0 0 1 0 0 0 div div fa-building 24 6
+Lancaster O lancaster 0 1 0 0 0 0 1 div div fa-building 24 6
+Ave O ave 0 1 0 0 0 0 1 div div fa-building 24 6
 
-kmicinski@haverford.edu O 0 0 div div field.profile_email 25 0
+kmicinski@haverford.edu O kmicinski@haverford.edu 0 0 1 0 0 0 0 div div profile_email 25 0
 
-Profile O 0 0 div div profile_link 25 1
+Profile O profile 0 0 0 0 1 0 1 div div profile_link 25 1
 
-Homepage O 0 0 div div homepage-link 25 0
+Homepage O homepage 0 0 0 0 0 0 1 div div homepage-link 25 0
 
-David B-NAME 1 1 div div profile_link-full-name 25 0
-Wonnacott I-NAME 1 1 div div profile_link-full-name 25 0
+David B-PER david 1 1 0 0 0 0 1 div div profile_link-full-name 25 0
+Wonnacott I-PER wonnacott 1 1 0 0 0 0 1 div div profile_link-full-name 25 0
 
-Associate O 0 1 div div profile_diplay-title.field-name-field-job-title 24 5
-Professor O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-of O 0 1 div div profile_diplay-title.field-name-field-job-title 24 5
-Computer O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-Science O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
+Associate O associate 0 1 0 0 0 0 1 div div field-name-field-job-title 24 5
+Professor O professor 0 0 0 0 1 0 1 div div field-name-field-job-title 24 5
+of O of 0 1 0 0 0 0 0 div div field-name-field-job-title 24 5
+Computer O computer 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
+Science O science 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
 
-Computer O 0 0 div div field.field-name-field-information-block.field-type-text.field-label-hidden.field-wrapper 25 0
-Science O 0 0 div div field.field-name-field-information-block.field-type-text.field-label-hidden.field-wrapper 25 0
-Department O 0 0 div div field.field-name-field-information-block.field-type-text.field-label-hidden.field-wrapper 25 0
-Chair O 0 1 div div field.field-name-field-information-block.field-type-text.field-label-hidden.field-wrapper 25 0
+Computer O computer 0 0 0 0 0 0 1 div div field-wrapper 25 0
+Science O science 0 0 0 0 0 0 1 div div field-wrapper 25 0
+Department O department 0 0 0 0 0 0 1 div div field-wrapper 25 0
+Chair O chair 0 1 0 0 0 0 1 div div field-wrapper 25 0
 
-KINSC O 0 0 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 8
-L307 O 0 0 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 8
+KINSC O kinsc 0 0 0 0 0 0 1 div div fa-building 24 8
+L307 O l307 0 0 0 1 0 0 1 div div fa-building 24 8
 
-(610) O 0 0 div div field.field-name-field-phone.field-type-telephone.field-label-hidden.field-wrapper.fa.fa-phone 25 0
-896-4973 O 0 0 div div field.field-name-field-phone.field-type-telephone.field-label-hidden.field-wrapper.fa.fa-phone 25 0
+( O ( 0 0 0 0 0 0 0 div div fa-phone 25 0
+610 O 610 0 0 0 1 0 0 0 div div fa-phone 25 0
+) O ) 0 0 0 0 0 0 0 div div fa-phone 25 0
+896 O 896 0 0 0 1 0 0 0 div div fa-phone 25 0
+- O - 0 0 0 0 0 0 0 div div fa-phone 25 0
+4973 O 4973 0 0 0 1 0 0 0 div div fa-phone 25 0
 
-dwonnaco@haverford.edu O 0 0 div div field.profile_email 25 0
+dwonnaco@haverford.edu O dwonnaco@haverford.edu 0 0 1 0 0 0 0 div div profile_email 25 0
 
-Profile O 0 0 div div profile_link 25 1
+Profile O profile 0 0 0 0 1 0 1 div div profile_link 25 1
 
-Homepage O 0 0 div div homepage-link 25 0
+Homepage O homepage 0 0 0 0 0 0 1 div div homepage-link 25 0
 
-Staff O 0 1 div div pane-content 17 0
+Staff O staff 0 1 0 0 0 0 1 div div pane-content 17 0
 
-Lisabeth B-NAME 0 0 div div profile_link-full-name 25 0
-Lieberman I-NAME 0 1 div div profile_link-full-name 25 0
+Lisabeth B-PER lisabeth 0 0 0 0 0 0 1 div div profile_link-full-name 25 0
+Lieberman I-PER lieberman 0 1 0 0 0 0 1 div div profile_link-full-name 25 0
+
+Administrative O administrative 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
+Assistant O assistant 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
+
+KINSC O kinsc 0 0 0 0 0 0 1 div div fa-building 24 6
+L204 O l204 0 0 0 1 0 0 1 div div fa-building 24 6
+
+( O ( 0 0 0 0 0 0 0 div div fa-phone 25 0
+610 O 610 0 0 0 1 0 0 0 div div fa-phone 25 0
+) O ) 0 0 0 0 0 0 0 div div fa-phone 25 0
+896 O 896 0 0 0 1 0 0 0 div div fa-phone 25 0
+- O - 0 0 0 0 0 0 0 div div fa-phone 25 0
+4204 O 4204 0 0 0 1 0 0 0 div div fa-phone 25 0
+
+llieberma@haverford.edu O llieberma@haverford.edu 0 0 1 0 0 0 0 div div profile_email 25 0
+
+Profile O profile 0 0 0 0 1 0 1 div div profile_link 25 1
+
+Suzanne B-PER suzanne 0 1 0 0 0 0 1 div div profile_link-full-name 25 0
+Lindell I-PER lindell 0 1 0 0 0 0 1 div div profile_link-full-name 25 0
+
+Amanuensis O amanuensis 0 0 0 0 0 0 1 div div field-name-field-job-title 24 5
+
+370 O 370 0 0 0 1 0 0 0 div div fa-building 24 6
+Lancaster O lancaster 0 1 0 0 0 0 1 div div fa-building 24 6
+Ave O ave 0 1 0 0 0 0 1 div div fa-building 24 6
+
+shlindel@haverford.edu O shlindel@haverford.edu 0 0 1 0 0 0 0 div div profile_email 25 0
+
+Profile O profile 0 0 0 0 1 0 1 div div profile_link 25 1
+
+Bryn O bryn 0 1 0 0 0 0 1 div div pane-content 17 0
+Mawr O mawr 0 0 0 0 0 0 1 div div pane-content 17 0
+College O college 0 0 0 0 0 0 1 div div pane-content 17 0
+Computer O computer 0 0 0 0 0 0 1 div div pane-content 17 0
+Science O science 0 0 0 0 0 0 1 div div pane-content 17 0
+Faculty O faculty 0 0 0 0 0 0 1 div div pane-content 17 0
 
-Administrative O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
-Assistant O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
+Douglas B-PER douglas 1 1 0 0 0 0 1 li ul pane-content 19 0
+Blank I-PER blank 1 1 0 0 0 0 1 li ul pane-content 19 0
+, O , 0 0 0 0 0 0 0 ul div pane-content 18 0
+Associate O associate 0 1 0 0 0 0 1 ul div pane-content 18 0
+Professor O professor 0 0 0 0 1 0 1 ul div pane-content 18 0
+of O of 0 1 0 0 0 0 0 ul div pane-content 18 0
+Computer O computer 0 0 0 0 0 0 1 ul div pane-content 18 0
+Science O science 0 0 0 0 0 0 1 ul div pane-content 18 0
 
-KINSC O 0 0 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 6
-L204 O 0 0 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 6
+Richard B-PER richard 1 1 0 0 0 0 1 li ul pane-content 19 0
+Eisenberg I-PER eisenberg 0 1 0 0 0 0 1 li ul pane-content 19 0
+, O , 0 0 0 0 0 0 0 ul div pane-content 18 2
+PhD. O phd. 0 0 0 0 0 0 1 ul div pane-content 18 2
+, O , 0 0 0 0 0 0 0 ul div pane-content 18 2
+Assistant O assistant 0 0 0 0 0 0 1 ul div pane-content 18 2
+Professor O professor 0 0 0 0 1 0 1 ul div pane-content 18 2
+of O of 0 1 0 0 0 0 0 ul div pane-content 18 2
+Computer O computer 0 0 0 0 0 0 1 ul div pane-content 18 2
+Science O science 0 0 0 0 0 0 1 ul div pane-content 18 2
 
-(610) O 0 0 div div field.field-name-field-phone.field-type-telephone.field-label-hidden.field-wrapper.fa.fa-phone 25 0
-896-4204 O 0 0 div div field.field-name-field-phone.field-type-telephone.field-label-hidden.field-wrapper.fa.fa-phone 25 0
+Deepak B-PER deepak 1 1 0 0 0 0 1 li ul pane-content 19 0
+Kumar I-PER kumar 1 1 0 0 0 0 1 li ul pane-content 19 0
+, O , 0 0 0 0 0 0 0 ul div pane-content 18 4
+Professor O professor 0 0 0 0 1 0 1 ul div pane-content 18 4
+of O of 0 1 0 0 0 0 0 ul div pane-content 18 4
+Computer O computer 0 0 0 0 0 0 1 ul div pane-content 18 4
+Science O science 0 0 0 0 0 0 1 ul div pane-content 18 4
 
-llieberma@haverford.edu O 0 0 div div field.profile_email 25 0
+Dianna B-PER dianna 1 1 0 0 0 0 1 li ul pane-content 19 0
+Xu I-PER xu 1 1 0 0 0 0 1 li ul pane-content 19 0
+, O , 0 0 0 0 0 0 0 ul div pane-content 18 6
+Associate O associate 0 1 0 0 0 0 1 ul div pane-content 18 6
+Professor O professor 0 0 0 0 1 0 1 ul div pane-content 18 6
+and O and 0 1 0 0 0 0 0 ul div pane-content 18 6
+Chair O chair 0 1 0 0 0 0 1 ul div pane-content 18 6
+of O of 0 1 0 0 0 0 0 ul div pane-content 18 6
+Computer O computer 0 0 0 0 0 0 1 ul div pane-content 18 6
+Science O science 0 0 0 0 0 0 1 ul div pane-content 18 6
 
-Profile O 0 0 div div profile_link 25 1
+Swarthmore O swarthmore 0 0 0 0 0 0 1 div div pane-content 17 10
+College O college 0 0 0 0 0 0 1 div div pane-content 17 10
+Computer O computer 0 0 0 0 0 0 1 div div pane-content 17 10
+Science O science 0 0 0 0 0 0 1 div div pane-content 17 10
+Faculty O faculty 0 0 0 0 0 0 1 div div pane-content 17 10
 
-Suzanne B-NAME 0 1 div div profile_link-full-name 25 0
-Lindell I-NAME 0 1 div div profile_link-full-name 25 0
+Lisa B-PER lisa 0 1 0 0 0 0 1 li ul pane-content 19 0
+A. I-PER a. 0 1 0 0 0 0 1 li ul pane-content 19 0
+Meeden I-PER meeden 0 1 0 0 0 0 1 li ul pane-content 19 0
+, O , 0 0 0 0 0 0 0 ul div pane-content 18 0
+Professor O professor 0 0 0 0 1 0 1 ul div pane-content 18 0
 
-Amanuensis O 0 0 div div profile_diplay-title.field-name-field-job-title 24 5
+Joshua B-PER joshua 1 1 0 0 0 0 1 li ul pane-content 19 0
+Brody I-PER brody 1 1 0 0 0 0 1 li ul pane-content 19 0
+, O , 0 0 0 0 0 0 0 ul div pane-content 18 2
+Assistant O assistant 0 0 0 0 0 0 1 ul div pane-content 18 2
+Professor O professor 0 0 0 0 1 0 1 ul div pane-content 18 2
 
-370 O 0 0 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 6
-Lancaster O 0 1 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 6
-Ave O 0 1 div div field.field-name-field-office-location.field-type-text.field-label-hidden.field-wrapper.fa.fa-building 24 6
+Andrew B-PER andrew 1 1 0 0 1 0 1 li ul pane-content 19 0
+Danner I-PER danner 1 1 0 0 0 0 1 li ul pane-content 19 0
+, O , 0 0 0 0 0 0 0 ul div pane-content 18 4
+Associate O associate 0 1 0 0 0 0 1 ul div pane-content 18 4
+Professor O professor 0 0 0 0 1 0 1 ul div pane-content 18 4
 
-shlindel@haverford.edu O 0 0 div div field.profile_email 25 0
+Tia B-PER tia 1 1 0 0 0 0 1 li ul pane-content 19 0
+Newhall I-PER newhall 1 1 0 0 0 0 1 li ul pane-content 19 0
+, O , 0 0 0 0 0 0 0 ul div pane-content 18 6
+Professor O professor 0 0 0 0 1 0 1 ul div pane-content 18 6
+and O and 0 1 0 0 0 0 0 ul div pane-content 18 6
+Chair O chair 0 1 0 0 0 0 1 ul div pane-content 18 6
 
-Profile O 0 0 div div profile_link 25 1
+Ameet B-PER ameet 1 1 0 0 0 0 1 li ul pane-content 19 0
+Soni I-PER soni 1 1 0 0 0 0 1 li ul pane-content 19 0
+, O , 0 0 0 0 0 0 0 ul div pane-content 18 8
+Assistant O assistant 0 0 0 0 0 0 1 ul div pane-content 18 8
+Professor O professor 0 0 0 0 1 0 1 ul div pane-content 18 8
 
-Bryn O 0 1 div div pane-content 17 0
-Mawr O 0 0 div div pane-content 17 0
-College O 0 0 div div pane-content 17 0
-Computer O 0 0 div div pane-content 17 0
-Science O 0 0 div div pane-content 17 0
-Faculty O 0 0 div div pane-content 17 0
+Kevin B-PER kevin 1 1 0 0 0 0 1 li ul pane-content 19 0
+Webb I-PER webb 1 1 0 0 0 0 1 li ul pane-content 19 0
+, O , 0 0 0 0 0 0 0 ul div pane-content 18 10
+Assistant O assistant 0 0 0 0 0 0 1 ul div pane-content 18 10
+Professor O professor 0 0 0 0 1 0 1 ul div pane-content 18 10
 
-Douglas B-NAME 1 1 li ul pane-content 19 0
-Blank I-NAME 1 1 li ul pane-content 19 0
-, O 0 0 ul div pane-content 18 0
-Associate O 0 1 ul div pane-content 18 0
-Professor O 0 0 ul div pane-content 18 0
-of O 0 1 ul div pane-content 18 0
-Computer O 0 0 ul div pane-content 18 0
-Science O 0 0 ul div pane-content 18 0
+Richard B-PER richard 1 1 0 0 0 0 1 li ul pane-content 19 0
+Wicentowski I-PER wicentowski 1 1 0 0 0 0 1 li ul pane-content 19 0
+, O , 0 0 0 0 0 0 0 ul div pane-content 18 12
+Professor O professor 0 0 0 0 1 0 1 ul div pane-content 18 12
 
-Richard B-NAME 1 1 li ul pane-content 19 0
-Eisenberg I-NAME 0 1 li ul pane-content 19 0
-, O 0 0 ul div pane-content 18 2
-PhD., O 0 0 ul div pane-content 18 2
-Assistant O 0 0 ul div pane-content 18 2
-Professor O 0 0 ul div pane-content 18 2
-of O 0 1 ul div pane-content 18 2
-Computer O 0 0 ul div pane-content 18 2
-Science O 0 0 ul div pane-content 18 2
+Search O search 0 0 0 0 0 0 1 div div element-invisible 14 0
+form O form 0 0 0 0 0 0 0 div div element-invisible 14 0
 
-Deepak B-NAME 1 1 li ul pane-content 19 0
-Kumar I-NAME 1 1 li ul pane-content 19 0
-, O 0 0 ul div pane-content 18 4
-Professor O 0 0 ul div pane-content 18 4
-of O 0 1 ul div pane-content 18 4
-Computer O 0 0 ul div pane-content 18 4
-Science O 0 0 ul div pane-content 18 4
+Search O search 0 0 0 0 0 0 1 div div element-invisible 17 0
 
-Dianna B-NAME 1 1 li ul pane-content 19 0
-Xu I-NAME 1 1 li ul pane-content 19 0
-, O 0 0 ul div pane-content 18 6
-Associate O 0 1 ul div pane-content 18 6
-Professor O 0 0 ul div pane-content 18 6
-and O 0 1 ul div pane-content 18 6
-Chair O 0 1 ul div pane-content 18 6
-of O 0 1 ul div pane-content 18 6
-Computer O 0 0 ul div pane-content 18 6
-Science O 0 0 ul div pane-content 18 6
+Search O search 0 0 0 0 0 0 1 div div form-submit 16 0
 
-Swarthmore O 0 0 div div pane-content 17 10
-College O 0 0 div div pane-content 17 10
-Computer O 0 0 div div pane-content 17 10
-Science O 0 0 div div pane-content 17 10
-Faculty O 0 0 div div pane-content 17 10
+Main O main 0 1 0 0 0 0 1 div div pane-title 10 0
+Menu O menu 0 1 0 0 0 0 1 div div pane-title 10 0
 
-Lisa B-NAME 0 1 li ul pane-content 19 0
-A. I-NAME 0 1 li ul pane-content 19 0
-Meeden I-NAME 0 1 li ul pane-content 19 0
-, O 0 0 ul div pane-content 18 0
-Professor O 0 0 ul div pane-content 18 0
+About O about 0 0 0 0 0 0 1 li ul menu-mlid-23371 14 0
 
-Joshua B-NAME 1 1 li ul pane-content 19 0
-Brody I-NAME 1 1 li ul pane-content 19 0
-, O 0 0 ul div pane-content 18 2
-Assistant O 0 0 ul div pane-content 18 2
-Professor O 0 0 ul div pane-content 18 2
+Academics O academics 0 0 0 0 0 0 1 li ul menu-mlid-23376 14 0
 
-Andrew B-NAME 1 1 li ul pane-content 19 0
-Danner I-NAME 1 1 li ul pane-content 19 0
-, O 0 0 ul div pane-content 18 4
-Associate O 0 1 ul div pane-content 18 4
-Professor O 0 0 ul div pane-content 18 4
+Admission O admission 0 0 0 0 0 0 1 li ul menu-mlid-23381 14 0
+& O & 0 0 0 0 0 0 0 li ul menu-mlid-23381 14 0
+Aid O aid 0 1 0 0 0 0 1 li ul menu-mlid-23381 14 0
 
-Tia B-NAME 1 1 li ul pane-content 19 0
-Newhall I-NAME 1 1 li ul pane-content 19 0
-, O 0 0 ul div pane-content 18 6
-Professor O 0 0 ul div pane-content 18 6
-and O 0 1 ul div pane-content 18 6
-Chair O 0 1 ul div pane-content 18 6
+Campus O campus 0 1 0 0 0 0 1 li ul menu-mlid-23386 14 0
+Life O life 0 1 0 0 0 0 1 li ul menu-mlid-23386 14 0
 
-Ameet B-NAME 1 1 li ul pane-content 19 0
-Soni I-NAME 1 1 li ul pane-content 19 0
-, O 0 0 ul div pane-content 18 8
-Assistant O 0 0 ul div pane-content 18 8
-Professor O 0 0 ul div pane-content 18 8
+Headlines O headlines 0 0 0 0 0 0 1 li ul menu-mlid-23391 14 0
 
-Kevin B-NAME 1 1 li ul pane-content 19 0
-Webb I-NAME 1 1 li ul pane-content 19 0
-, O 0 0 ul div pane-content 18 10
-Assistant O 0 0 ul div pane-content 18 10
-Professor O 0 0 ul div pane-content 18 10
+Events O events 0 0 0 0 0 0 1 li ul menu-mlid-23396 14 0
 
-Richard B-NAME 1 1 li ul pane-content 19 0
-Wicentowski I-NAME 1 1 li ul pane-content 19 0
-, O 0 0 ul div pane-content 18 12
-Professor O 0 0 ul div pane-content 18 12
+Contacts O contacts 0 0 0 0 0 0 1 li ul menu-mlid-23401 14 0
 
-Search O 0 0 div div element-invisible 14 0
-form O 0 0 div div element-invisible 14 0
+Information O information 0 1 0 0 0 0 1 div div pane-title 10 0
+For O for 0 1 0 0 0 0 1 div div pane-title 10 0
 
-Search O 0 0 div div element-invisible 17 0
+Prospective O prospective 0 0 0 0 0 0 1 li ul menu-mlid-23431 14 0
+Students O students 0 0 0 0 0 0 1 li ul menu-mlid-23431 14 0
 
-Search O 0 0 div div secondary.button.radius.postfix.expand.form-submit 16 0
+Current O current 0 1 0 0 0 0 1 li ul menu-mlid-23436 14 0
+Students O students 0 0 0 0 0 0 1 li ul menu-mlid-23436 14 0
 
-Main O 0 1 div div pane-title 10 0
-Menu O 0 1 div div pane-title 10 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul menu-mlid-23441 14 0
+& O & 0 0 0 0 0 0 0 li ul menu-mlid-23441 14 0
+Staff O staff 0 1 0 0 0 0 1 li ul menu-mlid-23441 14 0
 
-About O 0 0 li ul first.leaf.menu-mlid-23371 14 0
+Parents O parents 0 0 0 0 0 0 1 li ul menu-mlid-23446 14 0
 
-Academics O 0 0 li ul leaf.menu-mlid-23376 14 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul menu-mlid-23451 14 0
 
-Admission O 0 0 li ul leaf.menu-mlid-23381 14 0
-& O 0 0 li ul leaf.menu-mlid-23381 14 0
-Aid O 0 1 li ul leaf.menu-mlid-23381 14 0
+Admission O admission 0 0 0 0 0 0 1 div div pane-title 10 0
+Info O info 0 0 0 0 0 0 1 div div pane-title 10 0
 
-Campus O 0 1 li ul leaf.menu-mlid-23386 14 0
-Life O 0 1 li ul leaf.menu-mlid-23386 14 0
+Why O why 0 1 0 0 0 0 1 li ul menu-mlid-23336 14 0
+Haverford? O haverford? 0 0 0 0 0 0 1 li ul menu-mlid-23336 14 0
 
-Headlines O 0 0 li ul leaf.menu-mlid-23391 14 0
+Giving O giving 0 0 0 0 0 0 1 li ul menu-mlid-23346 14 0
 
-Events O 0 0 li ul leaf.menu-mlid-23396 14 0
+Join O join 0 1 0 0 0 0 1 li ul menu-mlid-23341 14 0
+Mailing O mailing 0 1 0 0 0 0 1 li ul menu-mlid-23341 14 0
+List O list 0 1 0 0 0 0 1 li ul menu-mlid-23341 14 0
 
-Contacts O 0 0 li ul last.leaf.menu-mlid-23401 14 0
+Social O social 0 0 0 0 0 0 1 div div pane-title 10 0
+Networks O networks 0 0 0 0 0 0 1 div div pane-title 10 0
 
-Information O 0 1 div div pane-title 10 0
-For O 0 1 div div pane-title 10 0
+Twitter O twitter 0 0 0 0 0 0 1 li ul menu-mlid-23461 14 0
 
-Prospective O 0 0 li ul first.leaf.menu-mlid-23431 14 0
-Students O 0 0 li ul first.leaf.menu-mlid-23431 14 0
+Instagram O instagram 0 0 0 0 0 0 1 li ul menu-mlid-23471 14 0
 
-Current O 0 1 li ul leaf.menu-mlid-23436 14 0
-Students O 0 0 li ul leaf.menu-mlid-23436 14 0
+Facebook O facebook 0 0 0 0 0 0 1 li ul menu-mlid-23466 14 0
 
-Faculty O 0 0 li ul leaf.menu-mlid-23441 14 0
-& O 0 0 li ul leaf.menu-mlid-23441 14 0
-Staff O 0 1 li ul leaf.menu-mlid-23441 14 0
+Vimeo O vimeo 0 0 0 0 0 0 1 li ul menu-mlid-23481 14 0
 
-Parents O 0 0 li ul leaf.menu-mlid-23446 14 0
+Youtube O youtube 0 0 0 0 0 0 1 li ul menu-mlid-23476 14 0
 
-Alumni O 0 0 li ul last.leaf.menu-mlid-23451 14 0
+Snapchat O snapchat 0 0 0 0 0 0 1 li ul menu-mlid-26571 14 0
 
-Admission O 0 0 div div pane-title 10 0
-Info O 0 0 div div pane-title 10 0
+Founded O founded 0 0 0 0 0 0 1 img div lead 9 0
+1833 O 1833 0 0 0 1 0 0 0 img div lead 9 0
 
-Why O 0 1 li ul first.leaf.menu-mlid-23336 14 0
-Haverford? O 0 0 li ul first.leaf.menu-mlid-23336 14 0
+370 O 370 0 0 0 1 0 0 0 img div logo 9 1
+Lancaster O lancaster 0 1 0 0 0 0 1 img div logo 9 1
+Avenue O avenue 0 0 0 0 0 0 1 img div logo 9 1
+, O , 0 0 0 0 0 0 0 img div logo 9 1
+Haverford O haverford 0 0 0 0 0 0 1 img div logo 9 1
+, O , 0 0 0 0 0 0 0 img div logo 9 1
+PA O pa 0 0 0 0 0 0 1 img div logo 9 1
+19041 O 19041 0 0 0 1 0 0 0 img div logo 9 1
 
-Giving O 0 0 li ul leaf.menu-mlid-23346 14 0
+Come O come 0 1 0 0 0 0 1 div div subheader 8 0
+Say O say 0 1 0 0 0 0 1 div div subheader 8 0
+Hello O hello 0 1 0 0 0 0 1 div div subheader 8 0
 
-Join O 0 1 li ul last.leaf.menu-mlid-23341 14 0
-Mailing O 0 1 li ul last.leaf.menu-mlid-23341 14 0
-List O 0 1 li ul last.leaf.menu-mlid-23341 14 0
+Directions O directions 0 0 0 0 0 0 1 li ul first 10 0
 
-Social O 0 0 div div pane-title 10 0
-Networks O 0 0 div div pane-title 10 0
+Campus O campus 0 1 0 0 0 0 1 li ul menu-23296 10 0
+Map O map 0 0 0 0 0 0 1 li ul menu-23296 10 0
 
-Twitter O 0 0 li ul first.leaf.menu-mlid-23461 14 0
+Campus O campus 0 1 0 0 0 0 1 li ul last 10 0
+Tours O tours 0 0 0 0 0 0 1 li ul last 10 0
 
-Instagram O 0 0 li ul leaf.menu-mlid-23471 14 0
+Get O get 0 0 0 0 0 0 1 div div subheader 8 0
+to O to 0 0 0 0 0 0 0 div div subheader 8 0
+Know O know 0 0 0 0 0 0 1 div div subheader 8 0
+Us O us 0 1 0 0 0 0 1 div div subheader 8 0
 
-Facebook O 0 0 li ul leaf.menu-mlid-23466 14 0
+About O about 0 0 0 0 0 0 1 li ul first 10 0
+Haverford O haverford 0 0 0 0 0 0 1 li ul first 10 0
 
-Vimeo O 0 0 li ul leaf.menu-mlid-23481 14 0
+Facts O facts 0 0 0 0 0 0 1 li ul menu-23311 10 0
+& O & 0 0 0 0 0 0 0 li ul menu-23311 10 0
+Statistics O statistics 0 0 0 0 0 0 1 li ul menu-23311 10 0
 
-Youtube O 0 0 li ul leaf.menu-mlid-23476 14 0
+Download O download 0 0 0 0 0 0 1 li ul last 10 0
+Viewbook O viewbook 0 0 0 0 0 0 1 li ul last 10 0
 
-Snapchat O 0 0 li ul last.leaf.menu-mlid-26571 14 0
+Join O join 0 1 0 0 0 0 1 div div subheader 8 0
+Our O our 0 0 0 0 0 0 1 div div subheader 8 0
+Community O community 0 1 0 0 0 0 1 div div subheader 8 0
 
-Founded O 0 0 img div lead 9 0
-1833 O 0 0 img div lead 9 0
+Job O job 0 1 0 0 0 0 1 li ul first 10 0
+Openings O openings 0 0 0 0 0 0 1 li ul first 10 0
 
-370 O 0 0 img div logo 9 1
-Lancaster O 0 1 img div logo 9 1
-Avenue, O 0 0 img div logo 9 1
-Haverford, O 0 0 img div logo 9 1
-PA O 0 0 img div logo 9 1
-19041 O 0 0 img div logo 9 1
+Faculty O faculty 0 0 0 0 0 0 1 li ul menu-23326 10 0
+Positions O positions 0 0 0 0 0 0 1 li ul menu-23326 10 0
 
-Come O 0 1 div div subheader 8 0
-Say O 0 1 div div subheader 8 0
-Hello O 0 1 div div subheader 8 0
+Non O non 0 1 0 0 0 0 1 li ul last 10 0
+- O - 0 0 0 0 0 0 0 li ul last 10 0
+discrimination O discrimination 0 0 0 0 0 0 0 li ul last 10 0
+Policy O policy 0 0 0 0 0 0 1 li ul last 10 0
 
-Directions O 0 0 li ul menu-23291.first 10 0
+Get O get 0 0 0 0 0 0 1 div div subheader 8 0
+Social O social 0 0 0 0 0 0 1 div div subheader 8 0
+with O with 0 0 0 0 0 0 0 div div subheader 8 0
+Haverford O haverford 0 0 0 0 0 0 1 div div subheader 8 0
 
-Campus O 0 1 li ul menu-23296 10 0
-Map O 0 0 li ul menu-23296 10 0
+Twitter O twitter 0 0 0 0 0 0 1 a li element-invisible 11 1
 
-Campus O 0 1 li ul menu-23301.last 10 0
-Tours O 0 0 li ul menu-23301.last 10 0
+Instagram O instagram 0 0 0 0 0 0 1 a li element-invisible 11 1
 
-Get O 0 0 div div subheader 8 0
-to O 0 0 div div subheader 8 0
-Know O 0 0 div div subheader 8 0
-Us O 0 1 div div subheader 8 0
+Facebook O facebook 0 0 0 0 0 0 1 a li element-invisible 11 1
 
-About O 0 0 li ul menu-23306.first 10 0
-Haverford O 0 0 li ul menu-23306.first 10 0
+Vimeo O vimeo 0 0 0 0 0 0 1 a li element-invisible 11 1
 
-Facts O 0 0 li ul menu-23311 10 0
-& O 0 0 li ul menu-23311 10 0
-Statistics O 0 0 li ul menu-23311 10 0
+Youtube O youtube 0 0 0 0 0 0 1 a li element-invisible 11 1
 
-Download O 0 0 li ul menu-23316.last 10 0
-Viewbook O 0 0 li ul menu-23316.last 10 0
+Snapchat O snapchat 0 0 0 0 0 0 1 a li element-invisible 11 1
 
-Join O 0 1 div div subheader 8 0
-Our O 0 0 div div subheader 8 0
-Community O 0 1 div div subheader 8 0
+© O © 0 0 0 0 0 0 0 div div columns 9 0
+2017 O 2017 0 0 0 1 0 0 0 div div columns 9 0
+Haverford O haverford 0 0 0 0 0 0 1 div div columns 9 0
+College. O college. 0 0 0 0 0 0 1 div div columns 9 0
+All O all 0 1 0 0 0 0 1 div div columns 9 0
+Rights O rights 0 0 0 0 0 0 1 div div columns 9 0
+Reserved. O reserved. 0 0 0 0 0 0 1 div div columns 9 0
 
-Job O 0 1 li ul menu-23321.first 10 0
-Openings O 0 0 li ul menu-23321.first 10 0
+Made O made 0 1 0 0 0 0 1 div div text-right 9 0
+with O with 0 0 0 0 0 0 0 div div text-right 9 0
+♥ O ♥ 0 0 0 0 0 0 0 div div text-right 9 0
+by O by 0 1 0 0 0 0 0 div div text-right 9 0
+Black O black 0 1 0 0 0 0 1 p div text-right 10 0
+Squirrels O squirrels 0 0 0 0 0 0 1 p div text-right 10 0
+. O . 0 1 0 0 0 0 0 div div text-right 9 0
 
-Faculty O 0 0 li ul menu-23326 10 0
-Positions O 0 0 li ul menu-23326 10 0
+× O x 0 0 0 0 0 0 0 button body close-reveal-modal 5 0
 
-Non-discrimination O 0 0 li ul menu-23331.last 10 0
-Policy O 0 0 li ul menu-23331.last 10 0
+Search O search 0 0 0 0 0 0 1 div body element-invisible 5 0
 
-Get O 0 0 div div color-white.fancy.subheader 8 0
-Social O 0 0 div div color-white.fancy.subheader 8 0
-with O 0 0 div div color-white.fancy.subheader 8 0
-Haverford O 0 0 div div color-white.fancy.subheader 8 0
+Welcome O welcome 0 1 0 0 0 0 1 div div modalTitle 7 0
+, O , 0 0 0 0 0 0 0 div div modalTitle 7 0
+friend. O friend. 0 0 0 0 0 0 0 div div modalTitle 7 0
 
-Twitter O 0 0 a li element-invisible 11 1
+Search O search 0 0 0 0 0 0 1 div div form-item-keys 14 0
 
-Instagram O 0 0 a li element-invisible 11 1
+Hit O hit 0 0 0 0 0 0 1 p div hide-for-medium 14 0
+enter O enter 0 0 0 0 0 0 0 p div hide-for-medium 14 0
+to O to 0 0 0 0 0 0 0 p div hide-for-medium 14 0
+Search O search 0 0 0 0 0 0 1 p div columns 14 1
+all O all 0 0 0 0 0 0 0 p div columns 14 1
+of O of 0 1 0 0 0 0 0 p div columns 14 1
+Haverford O haverford 0 0 0 0 0 0 1 p div columns 14 1
+for O for 0 1 0 0 0 0 0 p div columns 14 1
+search O search 0 0 0 0 0 0 0 a p columns 15 0
+. O . 0 1 0 0 0 0 0 p div columns 14 1
 
-Facebook O 0 0 a li element-invisible 11 1
+Search O search 0 0 0 0 0 0 1 div div form-submit 13 2
 
-Vimeo O 0 0 a li element-invisible 11 1
+Black O black 0 1 0 0 0 0 1 div div color-white 8 0
+Squirrel O squirrel 0 1 0 0 0 0 1 div div color-white 8 0
+Search O search 0 0 0 0 0 0 1 div div color-white 8 0
+Suggestions O suggestions 0 0 0 0 0 0 1 div div color-white 8 0
 
-Youtube O 0 0 a li element-invisible 11 1
+* O * 0 0 0 0 0 0 0 h3 div color-white 9 0
+* O * 0 0 0 0 0 0 0 em p color-white 10 0
 
-Snapchat O 0 0 a li element-invisible 11 1
+We O we 0 1 0 0 0 0 1 p div color-white 9 0
+have O have 0 0 0 0 0 0 0 p div color-white 9 0
+a O a 0 1 0 0 0 0 0 p div color-white 9 0
+very O very 0 0 0 0 0 0 0 p div color-white 9 0
+tiny O tiny 0 0 0 0 0 0 0 p div color-white 9 0
+magic O magic 0 0 0 0 0 0 0 p div color-white 9 0
+8 O 8 0 0 0 1 0 0 0 p div color-white 9 0
+ball. O ball. 0 0 0 0 0 0 0 p div color-white 9 0
 
-© O 0 0 div div small-6.columns 9 0
-2017 O 0 0 div div small-6.columns 9 0
-Haverford O 0 0 div div small-6.columns 9 0
-College. O 0 0 div div small-6.columns 9 0
-All O 0 1 div div small-6.columns 9 0
-Rights O 0 0 div div small-6.columns 9 0
-Reserved. O 0 0 div div small-6.columns 9 0
+× O x 0 0 0 0 0 0 0 button div close-reveal-modal 6 0
 
-Made O 0 1 div div small-6.columns.text-right 9 0
-with O 0 0 div div small-6.columns.text-right 9 0
-♥ O 0 0 div div small-6.columns.text-right 9 0
-by O 0 1 div div small-6.columns.text-right 9 0
-Black O 0 1 p div small-6.columns.text-right 10 0
-Squirrels O 0 0 p div small-6.columns.text-right 10 0
-. O 0 1 div div small-6.columns.text-right 9 0
+Menu O menu 0 1 0 0 0 0 1 div body element-invisible 5 0
 
-× O 0 0 button body close-reveal-modal 5 0
+Quick O quick 0 1 0 0 0 0 1 nav div element-invisible 8 0
+Links O links 0 1 0 0 0 0 1 nav div element-invisible 8 0
 
-Search O 0 0 div body element-invisible 5 0
+Today O today 0 1 0 0 0 0 1 li ul transparent 10 0
 
-Welcome, O 0 0 div div text-centered.color-white.subheader.modalTitle 7 0
-friend. O 0 0 div div text-centered.color-white.subheader.modalTitle 7 0
+Quick O quick 0 1 0 0 0 0 1 li ul transparent 10 0
+Access O access 0 1 0 0 0 0 1 li ul transparent 10 0
 
-Search O 0 0 div div form-item.form-type-textfield.form-item-keys 14 0
+Make O make 0 1 0 0 0 0 1 li ul alert 10 0
+a O a 0 1 0 0 0 0 0 li ul alert 10 0
+Gift O gift 0 1 0 0 0 0 1 li ul alert 10 0
 
-Hit O 0 0 p div hide-for-small.hide-for-medium 14 0
-enter O 0 0 p div hide-for-small.hide-for-medium 14 0
-to O 0 0 p div hide-for-small.hide-for-medium 14 0
-Search O 0 0 p div small-12.columns 14 1
-all O 0 0 p div small-12.columns 14 1
-of O 0 1 p div small-12.columns 14 1
-Haverford O 0 0 p div small-12.columns 14 1
-for O 0 1 p div small-12.columns 14 1
-search O 0 0 a p small-12.columns 15 0
-. O 0 1 p div small-12.columns 14 1
+Main O main 0 1 0 0 0 0 1 nav div element-focusable 10 0
+menu O menu 0 0 0 0 0 0 0 nav div element-focusable 10 0
 
-Search O 0 0 div div postfix.form-submit 13 2
+About O about 0 0 0 0 0 0 1 li ul first 12 0
 
-Black O 0 1 div div subheader.text-center.color-white 8 0
-Squirrel O 0 1 div div subheader.text-center.color-white 8 0
-Search O 0 0 div div subheader.text-center.color-white 8 0
-Suggestions O 0 0 div div subheader.text-center.color-white 8 0
+Academics O academics 0 0 0 0 0 0 1 li ul menu-23376 12 0
 
-* O 0 0 h3 div subheader.text-center.color-white 9 0
-* O 0 0 em p text-center.color-white 10 0
+Admission O admission 0 0 0 0 0 0 1 li ul menu-23381 12 0
+& O & 0 0 0 0 0 0 0 li ul menu-23381 12 0
+Aid O aid 0 1 0 0 0 0 1 li ul menu-23381 12 0
 
-We O 0 1 p div text-center.color-white 9 0
-have O 0 0 p div text-center.color-white 9 0
-a O 0 1 p div text-center.color-white 9 0
-very O 0 0 p div text-center.color-white 9 0
-tiny O 0 0 p div text-center.color-white 9 0
-magic O 0 0 p div text-center.color-white 9 0
-8 O 0 0 p div text-center.color-white 9 0
-ball. O 0 0 p div text-center.color-white 9 0
+Campus O campus 0 1 0 0 0 0 1 li ul menu-23386 12 0
+Life O life 0 1 0 0 0 0 1 li ul menu-23386 12 0
 
-× O 0 0 button div close-reveal-modal 6 0
+Headlines O headlines 0 0 0 0 0 0 1 li ul menu-23391 12 0
 
-Menu O 0 1 div body element-invisible 5 0
+Events O events 0 0 0 0 0 0 1 li ul menu-23396 12 0
 
-Quick O 0 1 nav div element-invisible 8 0
-Links O 0 1 nav div element-invisible 8 0
+Contacts O contacts 0 0 0 0 0 0 1 li ul last 12 0
 
-Today O 0 1 li ul button.expand.small.transparent 10 0
+Information O information 0 1 0 0 0 0 1 nav div color-white 10 0
+for O for 0 1 0 0 0 0 0 nav div color-white 10 0
+: O : 0 0 0 0 0 0 0 nav div color-white 10 0
 
-Quick O 0 1 li ul button.expand.small.transparent 10 0
-Access O 0 1 li ul button.expand.small.transparent 10 0
+Prospective O prospective 0 0 0 0 0 0 1 li ul first 12 0
+Students O students 0 0 0 0 0 0 1 li ul first 12 0
 
-Make O 0 1 li ul button.expand.small.alert 10 0
-a O 0 1 li ul button.expand.small.alert 10 0
-Gift O 0 1 li ul button.expand.small.alert 10 0
+Current O current 0 1 0 0 0 0 1 li ul menu-23436 12 0
+Students O students 0 0 0 0 0 0 1 li ul menu-23436 12 0
 
-Main O 0 1 nav div element-invisible.element-focusable 10 0
-menu O 0 0 nav div element-invisible.element-focusable 10 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul menu-23441 12 0
+& O & 0 0 0 0 0 0 0 li ul menu-23441 12 0
+Staff O staff 0 1 0 0 0 0 1 li ul menu-23441 12 0
 
-About O 0 0 li ul menu-23371.first 12 0
+Parents O parents 0 0 0 0 0 0 1 li ul menu-23446 12 0
 
-Academics O 0 0 li ul menu-23376 12 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul last 12 0
 
-Admission O 0 0 li ul menu-23381 12 0
-& O 0 0 li ul menu-23381 12 0
-Aid O 0 1 li ul menu-23381 12 0
+Information O information 0 1 0 0 0 0 1 div div form-item-jump 13 0
+for O for 0 1 0 0 0 0 0 div div form-item-jump 13 0
 
-Campus O 0 1 li ul menu-23386 12 0
-Life O 0 1 li ul menu-23386 12 0
+- O - 0 0 0 0 0 0 0 select div form-select 14 0
+Choose O choose 0 0 0 0 0 0 1 select div form-select 14 0
+- O - 0 0 0 0 0 0 0 select div form-select 14 0
 
-Headlines O 0 0 li ul menu-23391 12 0
+Prospective O prospective 0 0 0 0 0 0 1 select div form-select 14 1
+Students O students 0 0 0 0 0 0 1 select div form-select 14 1
 
-Events O 0 0 li ul menu-23396 12 0
+Current O current 0 1 0 0 0 0 1 select div form-select 14 2
+Students O students 0 0 0 0 0 0 1 select div form-select 14 2
 
-Contacts O 0 0 li ul menu-23401.last 12 0
+Faculty O faculty 0 0 0 0 0 0 1 select div form-select 14 3
+& O & 0 0 0 0 0 0 0 select div form-select 14 3
+Staff O staff 0 1 0 0 0 0 1 select div form-select 14 3
 
-Information O 0 1 nav div color-white 10 0
-for: O 0 0 nav div color-white 10 0
+Parents O parents 0 0 0 0 0 0 1 select div form-select 14 4
 
-Prospective O 0 0 li ul menu-23431.first 12 0
-Students O 0 0 li ul menu-23431.first 12 0
+Alumni O alumni 0 0 0 0 0 0 1 select div form-select 14 5
 
-Current O 0 1 li ul menu-23436 12 0
-Students O 0 0 li ul menu-23436 12 0
+Go O go 0 1 0 0 0 0 1 div div form-submit 12 9
 
-Faculty O 0 0 li ul menu-23441 12 0
-& O 0 0 li ul menu-23441 12 0
-Staff O 0 1 li ul menu-23441 12 0
+Admission O admission 0 0 0 0 0 0 1 nav div element-invisible 10 0
+Menu O menu 0 1 0 0 0 0 1 nav div element-invisible 10 0
 
-Parents O 0 0 li ul menu-23446 12 0
+Why O why 0 1 0 0 0 0 1 li ul first 12 0
+Haverford? O haverford? 0 0 0 0 0 0 1 li ul first 12 0
 
-Alumni O 0 0 li ul menu-23451.last 12 0
+Giving O giving 0 0 0 0 0 0 1 li ul menu-23346 12 0
 
-Information O 0 1 div div form-item.form-type-select.form-item-jump 13 0
-for O 0 1 div div form-item.form-type-select.form-item-jump 13 0
+Join O join 0 1 0 0 0 0 1 li ul last 12 0
+Mailing O mailing 0 1 0 0 0 0 1 li ul last 12 0
+List O list 0 1 0 0 0 0 1 li ul last 12 0
 
-- O 0 0 select div ctools-jump-menu-select.ctools-jump-menu-change.form-select 14 0
-Choose O 0 0 select div ctools-jump-menu-select.ctools-jump-menu-change.form-select 14 0
-- O 0 0 select div ctools-jump-menu-select.ctools-jump-menu-change.form-select 14 0
+Get O get 0 0 0 0 0 0 1 nav div subheader 10 0
+Social O social 0 0 0 0 0 0 1 nav div subheader 10 0
+with O with 0 0 0 0 0 0 0 nav div subheader 10 0
+Haverford O haverford 0 0 0 0 0 0 1 nav div subheader 10 0
 
-Prospective O 0 0 select div ctools-jump-menu-select.ctools-jump-menu-change.form-select 14 1
-Students O 0 0 select div ctools-jump-menu-select.ctools-jump-menu-change.form-select 14 1
+Twitter O twitter 0 0 0 0 0 0 1 a li element-invisible 13 1
 
-Current O 0 1 select div ctools-jump-menu-select.ctools-jump-menu-change.form-select 14 2
-Students O 0 0 select div ctools-jump-menu-select.ctools-jump-menu-change.form-select 14 2
+Instagram O instagram 0 0 0 0 0 0 1 a li element-invisible 13 1
 
-Faculty O 0 0 select div ctools-jump-menu-select.ctools-jump-menu-change.form-select 14 3
-& O 0 0 select div ctools-jump-menu-select.ctools-jump-menu-change.form-select 14 3
-Staff O 0 1 select div ctools-jump-menu-select.ctools-jump-menu-change.form-select 14 3
+Facebook O facebook 0 0 0 0 0 0 1 a li element-invisible 13 1
 
-Parents O 0 0 select div ctools-jump-menu-select.ctools-jump-menu-change.form-select 14 4
+Vimeo O vimeo 0 0 0 0 0 0 1 a li element-invisible 13 1
 
-Alumni O 0 0 select div ctools-jump-menu-select.ctools-jump-menu-change.form-select 14 5
+Youtube O youtube 0 0 0 0 0 0 1 a li element-invisible 13 1
 
-Go O 0 1 div div ctools-jump-menu-button.ctools-jump-menu-hide.form-submit 12 9
+Snapchat O snapchat 0 0 0 0 0 0 1 a li element-invisible 13 1
 
-Admission O 0 0 nav div element-invisible 10 0
-Menu O 0 1 nav div element-invisible 10 0
+But O but 0 1 0 0 0 0 1 nav div subheader 10 0
+wait O wait 0 0 0 0 0 0 0 nav div subheader 10 0
+, O , 0 0 0 0 0 0 0 nav div subheader 10 0
+there O there 0 0 0 0 0 0 0 nav div subheader 10 0
+' O ' 0 0 0 0 0 0 0 nav div subheader 10 0
+s O s 0 0 0 0 0 0 0 nav div subheader 10 0
+more! O more! 0 0 0 0 0 0 0 nav div subheader 10 0
 
-Why O 0 1 li ul menu-23336.first 12 0
-Haverford? O 0 0 li ul menu-23336.first 12 0
+Athletics O athletics 0 0 0 0 0 0 1 li ul first 12 0
 
-Giving O 0 0 li ul menu-23346 12 0
+Library O library 0 0 0 0 0 0 1 li ul last 12 0
 
-Join O 0 1 li ul menu-23341.last 12 0
-Mailing O 0 1 li ul menu-23341.last 12 0
-List O 0 1 li ul menu-23341.last 12 0
-
-Get O 0 0 nav div color-white.fancy.subheader 10 0
-Social O 0 0 nav div color-white.fancy.subheader 10 0
-with O 0 0 nav div color-white.fancy.subheader 10 0
-Haverford O 0 0 nav div color-white.fancy.subheader 10 0
-
-Twitter O 0 0 a li element-invisible 13 1
-
-Instagram O 0 0 a li element-invisible 13 1
-
-Facebook O 0 0 a li element-invisible 13 1
-
-Vimeo O 0 0 a li element-invisible 13 1
-
-Youtube O 0 0 a li element-invisible 13 1
-
-Snapchat O 0 0 a li element-invisible 13 1
-
-But O 0 1 nav div color-white.fancy.subheader 10 0
-wait, O 0 0 nav div color-white.fancy.subheader 10 0
-there's O 0 0 nav div color-white.fancy.subheader 10 0
-more! O 0 0 nav div color-white.fancy.subheader 10 0
-
-Athletics O 0 0 li ul menu-23351.first 12 0
-
-Library O 0 0 li ul menu-23356.last 12 0
-
-× O 0 0 button div close-reveal-modal 6 0
+× O x 0 0 0 0 0 0 0 button div close-reveal-modal 6 0

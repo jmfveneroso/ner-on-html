@@ -1,905 +1,1004 @@
-Investigadores O 0 0 head html none 4 1
-| O 0 0 head html none 4 1
-Departamento O 0 0 head html none 4 1
-de O 0 1 head html none 4 1
-Computación O 0 0 head html none 4 1
+Investigadores O investigadores 0 0 0 0 0 0 1 head html none 4 1
+| O | 0 0 0 0 0 0 0 head html none 4 1
+Departamento O departamento 0 0 0 0 0 0 1 head html none 4 1
+de O de 0 1 0 0 0 0 0 head html none 4 1
+Computación O computacion 0 0 0 0 0 0 1 head html none 4 1
 
-Departamento O 0 0 h1 td site-name 10 0
-de O 0 1 h1 td site-name 10 0
-Computación O 0 0 h1 td site-name 10 0
+Departamento O departamento 0 0 0 0 0 0 1 h1 td site-name 10 0
+de O de 0 1 0 0 0 0 0 h1 td site-name 10 0
+Computación O computacion 0 0 0 0 0 0 1 h1 td site-name 10 0
 
-Buscar O 0 0 div div form-item 13 0
-en O 0 0 div div form-item 13 0
-este O 0 0 div div form-item 13 0
-sitio: O 0 0 div div form-item 13 0
+Buscar O buscar 0 0 0 0 1 0 1 div div form-item 13 0
+en O en 0 0 0 0 0 0 0 div div form-item 13 0
+este O este 0 0 0 0 0 0 0 div div form-item 13 0
+sitio O sitio 0 0 0 0 0 0 0 div div form-item 13 0
+: O : 0 0 0 0 0 0 0 div div form-item 13 0
 
-This O 0 1 li ul menu-122.first.last 11 0
-site O 0 0 li ul menu-122.first.last 11 0
-in O 0 1 li ul menu-122.first.last 11 0
-English O 0 1 li ul menu-122.first.last 11 0
+This O this 0 1 0 0 0 0 1 li ul last 11 0
+site O site 0 0 0 0 0 0 0 li ul last 11 0
+in O in 0 1 0 0 0 0 0 li ul last 11 0
+English O english 0 1 0 0 0 0 1 li ul last 11 0
 
-Inicio O 0 0 li ul first.odd.sf-item-1 16 0
+Inicio O inicio 0 0 0 0 0 0 1 li ul sf-item-1 16 0
 
-Quienes O 0 0 li ul even.sf-item-2.menuparent 16 0
-Somos O 0 1 li ul even.sf-item-2.menuparent 16 0
+Quienes O quienes 0 0 0 0 0 0 1 li ul menuparent 16 0
+Somos O somos 0 1 0 0 0 0 1 li ul menuparent 16 0
 
-Presentación O 0 0 li ul first.odd.sf-item-1 18 0
+Presentación O presentacion 0 0 0 0 0 0 1 li ul sf-item-1 18 0
 
-Objetivo O 0 0 li ul even.sf-item-2 18 0
+Objetivo O objetivo 0 0 0 0 0 0 1 li ul sf-item-2 18 0
 
-Ubicación O 0 0 li ul odd.sf-item-3 18 0
+Ubicación O ubicacion 0 0 0 0 0 0 1 li ul sf-item-3 18 0
 
-Cómo O 0 0 li ul last.even.sf-item-4 18 0
-llegar O 0 0 li ul last.even.sf-item-4 18 0
+Cómo O como 0 0 0 0 0 0 1 li ul sf-item-4 18 0
+llegar O llegar 0 0 0 0 0 0 0 li ul sf-item-4 18 0
 
-Investigadores O 0 0 li ul active 16 0
+Investigadores O investigadores 0 0 0 0 0 0 1 li ul active 16 0
 
-Investigación O 0 0 li ul even.sf-item-4.menuparent 16 0
+Investigación O investigacion 0 0 0 0 0 0 1 li ul menuparent 16 0
 
-Lineas O 0 0 li ul first.odd.sf-item-1 18 0
-de O 0 1 li ul first.odd.sf-item-1 18 0
-Investigación O 0 0 li ul first.odd.sf-item-1 18 0
+Lineas O lineas 0 0 0 0 0 0 1 li ul sf-item-1 18 0
+de O de 0 1 0 0 0 0 0 li ul sf-item-1 18 0
+Investigación O investigacion 0 0 0 0 0 0 1 li ul sf-item-1 18 0
 
-Publicaciones O 0 0 li ul last.even.sf-item-2 18 0
+Publicaciones O publicaciones 0 0 0 0 0 0 1 li ul sf-item-2 18 0
 
-Admisión O 0 0 li ul odd.sf-item-5.menuparent 16 0
+Admisión O admision 0 0 0 0 0 0 1 li ul menuparent 16 0
 
-Maestría O 0 0 li ul first.odd.sf-item-1 18 0
+Maestría O maestria 0 0 0 0 0 0 1 li ul sf-item-1 18 0
 
-Doctorado O 0 0 li ul even.sf-item-2 18 0
+Doctorado O doctorado 0 0 0 0 0 0 1 li ul sf-item-2 18 0
 
-Solicitud O 0 0 li ul odd.sf-item-3 18 0
-de O 0 1 li ul odd.sf-item-3 18 0
-Información O 0 0 li ul odd.sf-item-3 18 0
+Solicitud O solicitud 0 0 0 0 0 0 1 li ul sf-item-3 18 0
+de O de 0 1 0 0 0 0 0 li ul sf-item-3 18 0
+Información O informacion 0 0 0 0 0 0 1 li ul sf-item-3 18 0
 
-Extranjeros O 0 0 li ul last.even.sf-item-4 18 0
+Extranjeros O extranjeros 0 0 0 0 0 0 1 li ul sf-item-4 18 0
 
-Programas O 0 0 li ul even.sf-item-6.menuparent 16 0
-Académicos O 0 0 li ul even.sf-item-6.menuparent 16 0
+Programas O programas 0 0 0 0 0 0 1 li ul menuparent 16 0
+Académicos O academicos 0 0 0 0 0 0 1 li ul menuparent 16 0
 
-Maestría O 0 0 li ul first.odd.sf-item-1 18 0
+Maestría O maestria 0 0 0 0 0 0 1 li ul sf-item-1 18 0
 
-Doctorado O 0 0 li ul even.sf-item-2 18 0
+Doctorado O doctorado 0 0 0 0 0 0 1 li ul sf-item-2 18 0
 
-Lista O 0 1 li ul last.odd.sf-item-3 18 0
-de O 0 1 li ul last.odd.sf-item-3 18 0
-Graduados O 0 0 li ul last.odd.sf-item-3 18 0
+Lista O lista 0 1 0 0 0 0 1 li ul sf-item-3 18 0
+de O de 0 1 0 0 0 0 0 li ul sf-item-3 18 0
+Graduados O graduados 0 0 0 0 0 0 1 li ul sf-item-3 18 0
 
-Directorio O 0 0 li ul odd.sf-item-7.menuparent 16 0
+Directorio O directorio 0 0 0 0 0 0 1 li ul menuparent 16 0
 
-Personal O 0 1 li ul first.odd.sf-item-1 18 0
-Administrativo O 0 0 li ul first.odd.sf-item-1 18 0
+Personal O personal 0 1 0 0 0 0 1 li ul sf-item-1 18 0
+Administrativo O administrativo 0 0 0 0 0 0 1 li ul sf-item-1 18 0
 
-Investigadores O 0 0 li ul even.sf-item-2 18 0
+Investigadores O investigadores 0 0 0 0 0 0 1 li ul sf-item-2 18 0
 
-Auxiliares O 0 0 li ul odd.sf-item-3 18 0
-de O 0 1 li ul odd.sf-item-3 18 0
-Investigación O 0 0 li ul odd.sf-item-3 18 0
+Auxiliares O auxiliares 0 0 0 0 0 0 1 li ul sf-item-3 18 0
+de O de 0 1 0 0 0 0 0 li ul sf-item-3 18 0
+Investigación O investigacion 0 0 0 0 0 0 1 li ul sf-item-3 18 0
 
-Estudiantes O 0 0 li ul last.even.sf-item-4 18 0
+Estudiantes O estudiantes 0 0 0 0 0 0 1 li ul sf-item-4 18 0
 
-E-mail O 0 0 li ul even.sf-item-8.menuparent 16 0
+E O e 0 1 0 0 0 0 1 li ul menuparent 16 0
+- O - 0 0 0 0 0 0 0 li ul menuparent 16 0
+mail O mail 0 0 0 0 0 0 0 li ul menuparent 16 0
 
-Web O 0 1 li ul first.odd.sf-item-1 18 0
-Mail O 0 1 li ul first.odd.sf-item-1 18 0
-Profesores O 0 0 li ul first.odd.sf-item-1 18 0
+Web O web 0 1 0 0 0 0 1 li ul sf-item-1 18 0
+Mail O mail 0 1 0 0 0 0 1 li ul sf-item-1 18 0
+Profesores O profesores 0 0 0 0 1 0 1 li ul sf-item-1 18 0
 
-Web O 0 1 li ul last.even.sf-item-2 18 0
-Mail O 0 1 li ul last.even.sf-item-2 18 0
-Estudiantes O 0 0 li ul last.even.sf-item-2 18 0
+Web O web 0 1 0 0 0 0 1 li ul sf-item-2 18 0
+Mail O mail 0 1 0 0 0 0 1 li ul sf-item-2 18 0
+Estudiantes O estudiantes 0 0 0 0 0 0 1 li ul sf-item-2 18 0
 
-Contacto O 0 0 li ul last.odd.sf-item-9 16 0
+Contacto O contacto 0 0 0 0 0 0 1 li ul sf-item-9 16 0
 
-Información O 0 0 td tr block-tc 12 0
-General O 0 1 td tr block-tc 12 0
+Información O informacion 0 0 0 0 0 0 1 td tr block-tc 12 0
+General O general 0 1 0 0 0 0 1 td tr block-tc 12 0
 
-Quienes O 0 0 li ul parent.closed 15 1
-Somos O 0 1 li ul parent.closed 15 1
+Quienes O quienes 0 0 0 0 0 0 1 li ul closed 15 1
+Somos O somos 0 1 0 0 0 0 1 li ul closed 15 1
 
-Presentación O 0 0 li ul parent.closed 17 0
+Presentación O presentacion 0 0 0 0 0 0 1 li ul closed 17 0
 
-Objetivo O 0 0 li ul parent.closed 17 0
+Objetivo O objetivo 0 0 0 0 0 0 1 li ul closed 17 0
 
-Ubicación O 0 0 li ul parent.closed 17 0
+Ubicación O ubicacion 0 0 0 0 0 0 1 li ul closed 17 0
 
-Cómo O 0 0 li ul parent.closed 17 0
-llegar O 0 0 li ul parent.closed 17 0
+Cómo O como 0 0 0 0 0 0 1 li ul closed 17 0
+llegar O llegar 0 0 0 0 0 0 0 li ul closed 17 0
 
-Investigación O 0 0 li ul parent.closed 15 1
+Investigación O investigacion 0 0 0 0 0 0 1 li ul closed 15 1
 
-Lineas O 0 0 li ul closed 17 0
-de O 0 1 li ul closed 17 0
-Investigación O 0 0 li ul closed 17 0
+Lineas O lineas 0 0 0 0 0 0 1 li ul closed 17 0
+de O de 0 1 0 0 0 0 0 li ul closed 17 0
+Investigación O investigacion 0 0 0 0 0 0 1 li ul closed 17 0
 
-Publicaciones O 0 0 li ul closed 17 0
+Publicaciones O publicaciones 0 0 0 0 0 0 1 li ul closed 17 0
 
-Programas O 0 0 li ul parent.closed 15 1
-Académicos O 0 0 li ul parent.closed 15 1
+Programas O programas 0 0 0 0 0 0 1 li ul closed 15 1
+Académicos O academicos 0 0 0 0 0 0 1 li ul closed 15 1
 
-Maestría O 0 0 li ul closed 17 0
+Maestría O maestria 0 0 0 0 0 0 1 li ul closed 17 0
 
-Doctorado O 0 0 li ul closed 17 0
+Doctorado O doctorado 0 0 0 0 0 0 1 li ul closed 17 0
 
-Lista O 0 1 li ul parent.closed 17 0
-de O 0 1 li ul parent.closed 17 0
-Graduados O 0 0 li ul parent.closed 17 0
+Lista O lista 0 1 0 0 0 0 1 li ul closed 17 0
+de O de 0 1 0 0 0 0 0 li ul closed 17 0
+Graduados O graduados 0 0 0 0 0 0 1 li ul closed 17 0
 
-Directorio O 0 0 li ul parent.closed 15 1
+Directorio O directorio 0 0 0 0 0 0 1 li ul closed 15 1
 
-Personal O 0 1 li ul closed 17 0
-Administrativo O 0 0 li ul closed 17 0
+Personal O personal 0 1 0 0 0 0 1 li ul closed 17 0
+Administrativo O administrativo 0 0 0 0 0 0 1 li ul closed 17 0
 
-Investigadores O 0 0 li ul closed 17 0
+Investigadores O investigadores 0 0 0 0 0 0 1 li ul closed 17 0
 
-Auxiliares O 0 0 li ul closed 17 0
-de O 0 1 li ul closed 17 0
-Investigación O 0 0 li ul closed 17 0
+Auxiliares O auxiliares 0 0 0 0 0 0 1 li ul closed 17 0
+de O de 0 1 0 0 0 0 0 li ul closed 17 0
+Investigación O investigacion 0 0 0 0 0 0 1 li ul closed 17 0
 
-Estudiantes O 0 0 li ul closed 17 0
+Estudiantes O estudiantes 0 0 0 0 0 0 1 li ul closed 17 0
 
-Infraestructura O 0 0 li ul closed 15 0
+Infraestructura O infraestructura 0 0 0 0 0 0 1 li ul closed 15 0
 
-Bolsa O 0 0 li ul closed 15 0
-de O 0 1 li ul closed 15 0
-Trabajo O 0 0 li ul closed 15 0
+Bolsa O bolsa 0 0 0 0 0 0 1 li ul closed 15 0
+de O de 0 1 0 0 0 0 0 li ul closed 15 0
+Trabajo O trabajo 0 0 0 0 0 0 1 li ul closed 15 0
 
-Noticias O 0 0 li ul menu.jquerymenu 15 0
-Departamentales O 0 0 li ul menu.jquerymenu 15 0
+Noticias O noticias 0 0 0 0 0 0 1 li ul jquerymenu 15 0
+Departamentales O departamentales 0 0 0 0 0 0 1 li ul jquerymenu 15 0
 
-Vinculación O 0 0 li ul menu.jquerymenu 15 0
+Vinculación O vinculacion 0 0 0 0 0 0 1 li ul jquerymenu 15 0
 
-Visitas O 0 0 li ul menu.jquerymenu 15 0
-Institucionales O 0 0 li ul menu.jquerymenu 15 0
+Visitas O visitas 0 0 0 0 0 0 1 li ul jquerymenu 15 0
+Institucionales O institucionales 0 0 0 0 0 0 1 li ul jquerymenu 15 0
 
-Personal O 0 1 td tr block-tc 12 0
+Personal O personal 0 1 0 0 0 0 1 td tr block-tc 12 0
 
-Investigadores O 0 0 li ul active 15 0
+Investigadores O investigadores 0 0 0 0 0 0 1 li ul active 15 0
 
-Profesores O 0 0 li ul menu.jquerymenu 15 0
-Visitantes O 0 0 li ul menu.jquerymenu 15 0
+Profesores O profesores 0 0 0 0 1 0 1 li ul jquerymenu 15 0
+Visitantes O visitantes 0 0 0 0 0 0 1 li ul jquerymenu 15 0
 
-Posdoctorantes O 0 0 li ul menu.jquerymenu 15 0
+Posdoctorantes O posdoctorantes 0 0 0 0 0 0 1 li ul jquerymenu 15 0
 
-Estudiantes O 0 0 li ul parent.closed 15 1
+Estudiantes O estudiantes 0 0 0 0 0 0 1 li ul closed 15 1
 
-Doctorado O 0 0 li ul parent.closed 17 0
+Doctorado O doctorado 0 0 0 0 0 0 1 li ul closed 17 0
 
-Maestría O 0 0 li ul parent.closed 17 0
+Maestría O maestria 0 0 0 0 0 0 1 li ul closed 17 0
 
-Lista O 0 1 li ul parent.closed 17 0
-de O 0 1 li ul parent.closed 17 0
-Graduados O 0 0 li ul parent.closed 17 0
+Lista O lista 0 1 0 0 0 0 1 li ul closed 17 0
+de O de 0 1 0 0 0 0 0 li ul closed 17 0
+Graduados O graduados 0 0 0 0 0 0 1 li ul closed 17 0
 
-Personal O 0 1 li ul parent.closed 15 1
-de O 0 1 li ul parent.closed 15 1
-Apoyo O 0 0 li ul parent.closed 15 1
+Personal O personal 0 1 0 0 0 0 1 li ul closed 15 1
+de O de 0 1 0 0 0 0 0 li ul closed 15 1
+Apoyo O apoyo 0 0 0 0 0 0 1 li ul closed 15 1
 
-Auxiliares O 0 0 li ul parent.closed 17 0
-de O 0 1 li ul parent.closed 17 0
-Investigación O 0 0 li ul parent.closed 17 0
+Auxiliares O auxiliares 0 0 0 0 0 0 1 li ul closed 17 0
+de O de 0 1 0 0 0 0 0 li ul closed 17 0
+Investigación O investigacion 0 0 0 0 0 0 1 li ul closed 17 0
 
-Personal O 0 1 li ul parent.closed 17 0
-Administrativo O 0 0 li ul parent.closed 17 0
+Personal O personal 0 1 0 0 0 0 1 li ul closed 17 0
+Administrativo O administrativo 0 0 0 0 0 0 1 li ul closed 17 0
 
-Líneas O 0 0 td tr block-tc 12 0
-de O 0 1 td tr block-tc 12 0
-Investigación O 0 0 td tr block-tc 12 0
+Líneas O lineas 0 0 0 0 0 0 1 td tr block-tc 12 0
+de O de 0 1 0 0 0 0 0 td tr block-tc 12 0
+Investigación O investigacion 0 0 0 0 0 0 1 td tr block-tc 12 0
 
-Teoría O 0 0 li ul leaf.first 15 0
-de O 0 1 li ul leaf.first 15 0
-la O 0 1 li ul leaf.first 15 0
-Computación O 0 0 li ul leaf.first 15 0
+Teoría O teoria 0 0 0 0 0 0 1 li ul first 15 0
+de O de 0 1 0 0 0 0 0 li ul first 15 0
+la O la 0 1 0 0 0 0 0 li ul first 15 0
+Computación O computacion 0 0 0 0 0 0 1 li ul first 15 0
 
-Inteligencia O 0 0 li ul leaf 15 0
-Artificial O 0 0 li ul leaf 15 0
+Inteligencia O inteligencia 0 0 0 0 0 0 1 li ul leaf 15 0
+Artificial O artificial 0 0 0 0 0 0 1 li ul leaf 15 0
 
-Sistemas O 0 0 li ul leaf 15 0
-de O 0 1 li ul leaf 15 0
-Cómputo O 0 0 li ul leaf 15 0
+Sistemas O sistemas 0 0 0 0 0 0 1 li ul leaf 15 0
+de O de 0 1 0 0 0 0 0 li ul leaf 15 0
+Cómputo O computo 0 0 0 0 0 0 1 li ul leaf 15 0
 
-Sistemas O 0 0 li ul leaf.last 15 0
-de O 0 1 li ul leaf.last 15 0
-Información O 0 0 li ul leaf.last 15 0
+Sistemas O sistemas 0 0 0 0 0 0 1 li ul last 15 0
+de O de 0 1 0 0 0 0 0 li ul last 15 0
+Información O informacion 0 0 0 0 0 0 1 li ul last 15 0
 
-Foros O 0 1 td tr block-tc 12 0
+Foros O foros 0 1 0 0 0 0 1 td tr block-tc 12 0
 
-Foros O 0 1 li ul leaf.first 15 0
-de O 0 1 li ul leaf.first 15 0
-los O 0 1 li ul leaf.first 15 0
-investigadores O 0 0 li ul leaf.first 15 0
+Foros O foros 0 1 0 0 0 0 1 li ul first 15 0
+de O de 0 1 0 0 0 0 0 li ul first 15 0
+los O los 0 1 0 0 0 0 0 li ul first 15 0
+investigadores O investigadores 0 0 0 0 0 0 0 li ul first 15 0
 
-Foros O 0 1 li ul leaf 15 0
-de O 0 1 li ul leaf 15 0
-los O 0 1 li ul leaf 15 0
-estudiantes O 0 0 li ul leaf 15 0
+Foros O foros 0 1 0 0 0 0 1 li ul leaf 15 0
+de O de 0 1 0 0 0 0 0 li ul leaf 15 0
+los O los 0 1 0 0 0 0 0 li ul leaf 15 0
+estudiantes O estudiantes 0 0 0 0 0 0 0 li ul leaf 15 0
 
-Foros O 0 1 li ul leaf.last 15 0
-de O 0 1 li ul leaf.last 15 0
-los O 0 1 li ul leaf.last 15 0
-cursos O 0 0 li ul leaf.last 15 0
+Foros O foros 0 1 0 0 0 0 1 li ul last 15 0
+de O de 0 1 0 0 0 0 0 li ul last 15 0
+los O los 0 1 0 0 0 0 0 li ul last 15 0
+cursos O cursos 0 0 0 0 0 0 0 li ul last 15 0
 
-Otras O 0 0 td tr block-tc 12 0
-Ligas O 0 0 td tr block-tc 12 0
+Otras O otras 0 0 0 0 0 0 1 td tr block-tc 12 0
+Ligas O ligas 0 0 0 0 0 0 1 td tr block-tc 12 0
 
-Biblioteca O 0 0 li ul leaf.first 15 0
-digital O 0 0 li ul leaf.first 15 0
+Biblioteca O biblioteca 0 0 0 0 0 0 1 li ul first 15 0
+digital O digital 0 0 0 0 0 0 0 li ul first 15 0
 
-Cinvestav O 0 0 li ul leaf.last 15 0
+Cinvestav O cinvestav 0 0 0 0 0 0 1 li ul last 15 0
 
-Home O 0 1 div div breadcrumb 11 0
+Home O home 0 1 0 0 0 0 1 div div breadcrumb 11 0
 
-Investigadores O 0 0 h2 td title 19 0
+Investigadores O investigadores 0 0 0 0 0 0 1 h2 td title 19 0
 
-Investigadores O 0 0 span span content 20 0
-de O 0 1 span span content 20 0
-tiempo O 0 0 span span content 20 0
-completo O 0 0 span span content 20 0
+Investigadores O investigadores 0 0 0 0 0 0 1 span span content 20 0
+de O de 0 1 0 0 0 0 0 span span content 20 0
+tiempo O tiempo 0 0 0 0 0 0 0 span span content 20 0
+completo O completo 0 0 0 0 0 0 0 span span content 20 0
 
-José B-NAME 1 1 strong a content 23 0
-Matías I-NAME 1 1 strong a content 23 0
-Alvarado I-NAME 1 1 strong a content 23 0
-Mentado I-NAME 0 0 strong a content 23 0
+José B-PER jose 1 1 0 0 0 0 1 strong a content 23 0
+Matías I-PER matias 1 1 0 0 0 0 1 strong a content 23 0
+Alvarado I-PER alvarado 1 1 0 0 0 0 1 strong a content 23 0
+Mentado I-PER mentado 0 0 0 0 0 0 1 strong a content 23 0
 
-. O 0 1 span font content 22 0
+. O . 0 1 0 0 0 0 0 span font content 22 0
 
-Doctor O 0 1 font li content 19 0
-en O 0 0 font li content 19 0
-Ciencias, O 0 0 font li content 19 0
-Universidad O 0 0 font li content 19 0
-Politécnica O 0 0 font li content 19 0
-de O 0 1 font li content 19 0
-Cataluña, O 0 0 font li content 19 0
-España O 0 1 font li content 19 0
-1998. O 0 0 font li content 19 0
+Doctor O doctor 0 1 0 0 0 0 1 font li content 19 0
+en O en 0 0 0 0 0 0 0 font li content 19 0
+Ciencias O ciencias 0 1 0 0 0 0 1 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+Universidad O universidad 0 0 0 0 0 0 1 font li content 19 0
+Politécnica O politecnica 0 0 0 0 0 0 1 font li content 19 0
+de O de 0 1 0 0 0 0 0 font li content 19 0
+Cataluña O cataluna 0 0 0 0 0 0 1 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+España O espana 0 1 0 0 0 0 1 font li content 19 0
+1998. O 1998. 0 0 0 1 0 0 0 font li content 19 0
 
-Investigador O 0 0 p ul content 18 0
-CINVESTAV O 0 0 p ul content 18 0
-3-C O 0 0 p ul content 18 0
+Investigador O investigador 0 0 0 0 0 0 1 p ul content 18 0
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 p ul content 18 0
+3 O 3 0 0 0 1 0 0 0 p ul content 18 0
+- O - 0 0 0 0 0 0 0 p ul content 18 0
+C O c 0 1 0 0 0 0 1 p ul content 18 0
 
-Nivel O 0 1 font p content 19 0
-en O 0 0 font p content 19 0
-el O 0 1 font p content 19 0
-SNI: O 0 0 font p content 19 0
+Nivel O nivel 0 1 0 0 0 0 1 font p content 19 0
+en O en 0 0 0 0 0 0 0 font p content 19 0
+el O el 0 1 0 0 0 0 0 font p content 19 0
+SNI O sni 0 0 0 0 0 0 1 font p content 19 0
+: O : 0 0 0 0 0 0 0 font p content 19 0
 
-1 O 0 0 font font content 20 0
+1 O 1 0 0 0 1 0 0 0 font font content 20 0
 
-Sergio B-NAME 1 1 strong a content 22 0
-Víctor I-NAME 1 1 strong a content 22 0
-Chapa I-NAME 1 1 strong a content 22 0
-Vergara I-NAME 1 1 strong a content 22 0
+Sergio B-PER sergio 1 1 0 0 0 0 1 strong a content 22 0
+Víctor I-PER victor 1 1 0 0 0 0 1 strong a content 22 0
+Chapa I-PER chapa 1 1 0 0 0 0 1 strong a content 22 0
+Vergara I-PER vergara 1 1 0 0 0 0 1 strong a content 22 0
 
-. O 0 1 font b content 20 0
+. O . 0 1 0 0 0 0 0 font b content 20 0
 
-Doctor O 0 1 font li content 19 0
-en O 0 0 font li content 19 0
-Ciencias O 0 1 font li content 19 0
-(Ingeniería O 0 0 font li content 19 0
-Eléctrica), O 0 0 font li content 19 0
-CINVESTAV O 0 0 font li content 19 0
-1991. O 0 0 font li content 19 0
+Doctor O doctor 0 1 0 0 0 0 1 font li content 19 0
+en O en 0 0 0 0 0 0 0 font li content 19 0
+Ciencias O ciencias 0 1 0 0 0 0 1 font li content 19 0
+( O ( 0 0 0 0 0 0 0 font li content 19 0
+Ingeniería O ingenieria 0 0 0 0 0 0 1 font li content 19 0
+Eléctrica O electrica 0 0 0 0 0 0 1 font li content 19 0
+) O ) 0 0 0 0 0 0 0 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 font li content 19 0
+1991. O 1991. 0 0 0 1 0 0 0 font li content 19 0
 
-Investigador O 0 0 p ul content 18 0
-CINVESTAV O 0 0 p ul content 18 0
-3-B O 0 0 p ul content 18 0
+Investigador O investigador 0 0 0 0 0 0 1 p ul content 18 0
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 p ul content 18 0
+3 O 3 0 0 0 1 0 0 0 p ul content 18 0
+- O - 0 0 0 0 0 0 0 p ul content 18 0
+B O b 0 1 0 0 0 0 1 p ul content 18 0
 
-Nivel O 0 1 font p content 19 0
-en O 0 0 font p content 19 0
-el O 0 1 font p content 19 0
-SNI: O 0 0 font p content 19 0
+Nivel O nivel 0 1 0 0 0 0 1 font p content 19 0
+en O en 0 0 0 0 0 0 0 font p content 19 0
+el O el 0 1 0 0 0 0 0 font p content 19 0
+SNI O sni 0 0 0 0 0 0 1 font p content 19 0
+: O : 0 0 0 0 0 0 0 font p content 19 0
 
-1 O 0 0 font font content 20 0
+1 O 1 0 0 0 1 0 0 0 font font content 20 0
 
-Carlos B-NAME 1 1 strong a content 22 0
-Artemio I-NAME 1 1 strong a content 22 0
-Coello I-NAME 1 1 strong a content 22 0
-Coello I-NAME 1 1 strong a content 22 0
+Carlos B-PER carlos 1 1 0 0 0 0 1 strong a content 22 0
+Artemio I-PER artemio 1 1 0 0 0 0 1 strong a content 22 0
+Coello I-PER coello 1 1 0 0 0 0 1 strong a content 22 0
+Coello I-PER coello 1 1 0 0 0 0 1 strong a content 22 0
 
-. O 0 1 font font content 20 3
+. O . 0 1 0 0 0 0 0 font font content 20 3
 
-Doctor O 0 1 font li content 19 0
-en O 0 0 font li content 19 0
-Ciencias, O 0 0 font li content 19 0
-Tulane O 0 0 font li content 19 0
-University, O 0 0 font li content 19 0
-USA, O 0 0 font li content 19 0
-1996. O 0 0 font li content 19 0
+Doctor O doctor 0 1 0 0 0 0 1 font li content 19 0
+en O en 0 0 0 0 0 0 0 font li content 19 0
+Ciencias O ciencias 0 1 0 0 0 0 1 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+Tulane O tulane 0 0 0 0 0 0 1 font li content 19 0
+University O university 0 1 0 0 0 0 1 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+USA O usa 0 0 0 0 0 0 1 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+1996. O 1996. 0 0 0 1 0 0 0 font li content 19 0
 
-Investigador O 0 0 p ul content 18 0
-CINVESTAV O 0 0 p ul content 18 0
-3-F O 0 0 p ul content 18 0
+Investigador O investigador 0 0 0 0 0 0 1 p ul content 18 0
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 p ul content 18 0
+3 O 3 0 0 0 1 0 0 0 p ul content 18 0
+- O - 0 0 0 0 0 0 0 p ul content 18 0
+F O f 0 0 0 0 0 0 1 p ul content 18 0
 
-Nivel O 0 1 font p content 19 0
-en O 0 0 font p content 19 0
-el O 0 1 font p content 19 0
-SNI: O 0 0 font p content 19 0
+Nivel O nivel 0 1 0 0 0 0 1 font p content 19 0
+en O en 0 0 0 0 0 0 0 font p content 19 0
+el O el 0 1 0 0 0 0 0 font p content 19 0
+SNI O sni 0 0 0 0 0 0 1 font p content 19 0
+: O : 0 0 0 0 0 0 0 font p content 19 0
 
-3 O 0 0 font font content 20 0
+3 O 3 0 0 0 1 0 0 0 font font content 20 0
 
-Luis B-NAME 1 1 strong a content 22 0
-Gerardo I-NAME 1 1 strong a content 22 0
-de I-NAME 1 1 strong a content 22 0
-la I-NAME 1 1 strong a content 22 0
-Fraga I-NAME 1 1 strong a content 22 0
+Luis B-PER luis 1 1 0 0 0 0 1 strong a content 22 0
+Gerardo I-PER gerardo 1 1 0 0 0 0 1 strong a content 22 0
+de I-PER de 1 1 0 0 0 0 0 strong a content 22 0
+la I-PER la 1 1 0 0 0 0 0 strong a content 22 0
+Fraga I-PER fraga 1 1 0 0 0 0 1 strong a content 22 0
 
-. O 0 1 font font content 20 3
+. O . 0 1 0 0 0 0 0 font font content 20 3
 
-Doctor O 0 1 font li content 19 0
-en O 0 0 font li content 19 0
-Ingeniería O 0 0 font li content 19 0
-Informática. O 0 0 font li content 19 0
-Universidad O 0 0 font li content 19 0
-Autónoma O 0 0 font li content 19 0
-de O 0 1 font li content 19 0
-Madrid, O 0 0 font li content 19 0
-Madrid, O 0 0 font li content 19 0
-España O 0 1 font li content 19 0
-1998. O 0 0 font li content 19 0
-
-Investigador O 0 0 p ul content 18 0
-CINVESTAV O 0 0 p ul content 18 0
-3-C O 0 0 p ul content 18 0
-
-Nivel O 0 1 font p content 19 0
-en O 0 0 font p content 19 0
-el O 0 1 font p content 19 0
-SNI: O 0 0 font p content 19 0
-
-1 O 0 0 font font content 20 0
-
-Juan B-NAME 1 1 strong a content 22 0
-Carlos I-NAME 1 1 strong a content 22 0
-Ku I-NAME 0 1 strong a content 22 0
-Cauich I-NAME 0 1 strong a content 22 0
-
-. O 0 1 font font content 20 3
-
-Doctor O 0 1 font li content 19 0
-en O 0 0 font li content 19 0
-Matemáticas. O 0 0 font li content 19 0
-
-Cátedra O 0 1 p ul content 18 0
-Conacyt O 0 0 p ul content 18 0
-
-Nivel O 0 1 font p content 19 0
-en O 0 0 font p content 19 0
-el O 0 1 font p content 19 0
-SNI: O 0 0 font p content 19 0
-
-C O 0 1 strong font content 20 0
-
-Dolores B-NAME 1 1 span a content 22 0
-Lara I-NAME 1 1 span a content 22 0
-Cuevas I-NAME 0 1 span a content 22 0
-
-. O 0 1 font font content 20 3
-
-Doctora O 0 0 font li content 19 0
-en O 0 0 font li content 19 0
-Ciencias O 0 1 font li content 19 0
-de O 0 1 font li content 19 0
-la O 0 1 font li content 19 0
-Computación, O 0 0 font li content 19 0
-Universidad O 0 0 font li content 19 0
-Nacional O 0 0 font li content 19 0
-Autónoma O 0 0 font li content 19 0
-de O 0 1 font li content 19 0
-México, O 0 0 font li content 19 0
-2011. O 0 0 font li content 19 0
-
-Investigador O 0 0 p ul content 18 0
-CINVESTAV O 0 0 p ul content 18 0
-3-A O 0 0 p ul content 18 0
-
-Nivel O 0 1 font p content 19 0
-en O 0 0 font p content 19 0
-el O 0 1 font p content 19 0
-SNI: O 0 0 font p content 19 0
-
-C O 0 1 font font content 20 0
-
-Xiaoou B-NAME 1 1 strong a content 22 0
-Li I-NAME 1 1 strong a content 22 0
-Zhang I-NAME 1 1 strong a content 22 0
-
-. O 0 1 font font content 20 3
-
-Doctora O 0 0 font li content 19 0
-en O 0 0 font li content 19 0
-Ciencias O 0 1 font li content 19 0
-(Ingeniería O 0 0 font li content 19 0
-Eléctrica), O 0 0 font li content 19 0
-Northeastern O 0 0 font li content 19 0
-University, O 0 0 font li content 19 0
-China O 0 1 font li content 19 0
-1995. O 0 0 font li content 19 0
-
-Investigador O 0 0 p ul content 18 0
-CINVESTAV O 0 0 p ul content 18 0
-3-C O 0 0 p ul content 18 0
-
-Nivel O 0 1 font p content 19 0
-en O 0 0 font p content 19 0
-el O 0 1 font p content 19 0
-SNI: O 0 0 font p content 19 0
-
-2 O 0 0 font font content 20 0
-
-Cuauhtémoc B-NAME 0 1 strong a content 22 0
-Mancillas I-NAME 0 1 strong a content 22 0
-López I-NAME 0 1 strong a content 22 0
-
-. O 0 1 font font content 20 3
-
-Doctor O 0 1 font li content 19 0
-en O 0 0 font li content 19 0
-Ciencias O 0 1 font li content 19 0
-(Computación), O 0 0 font li content 19 0
-CINVESTAV O 0 0 font li content 19 0
-2013. O 0 0 font li content 19 0
-
-Investigador O 0 0 p ul content 18 0
-CINVESTAV O 0 0 p ul content 18 0
-2-B O 0 0 p ul content 18 0
-
-Nivel O 0 1 font p content 19 0
-en O 0 0 font p content 19 0
-el O 0 1 font p content 19 0
-SNI: O 0 0 font p content 19 0
-
-1 O 0 0 font font content 20 0
-
-Ana B-NAME 0 1 strong a content 22 0
-María I-NAME 0 1 strong a content 22 0
-Antonia I-NAME 0 1 strong a content 22 0
-Martínez I-NAME 0 1 strong a content 22 0
-Enríquez I-NAME 0 1 strong a content 22 0
-
-. O 0 1 font b content 20 0
-
-Doctora O 0 0 font li content 19 0
-en O 0 0 font li content 19 0
-Ciencias O 0 1 font li content 19 0
-(Ingeniería O 0 0 font li content 19 0
-en O 0 0 font li content 19 0
-Informática) O 0 0 font li content 19 0
-Universidad O 0 0 font li content 19 0
-Pierre O 0 1 font li content 19 0
-et O 0 1 font li content 19 0
-Marie O 0 1 font li content 19 0
-Curie, O 0 0 font li content 19 0
-París, O 0 0 font li content 19 0
-Francia O 0 1 font li content 19 0
-1985. O 0 0 font li content 19 0
-
-Investigador O 0 0 p ul content 18 0
-CINVESTAV O 0 0 p ul content 18 0
-3-C O 0 0 p ul content 18 0
-
-Nivel O 0 1 font p content 19 0
-en O 0 0 font p content 19 0
-el O 0 1 font p content 19 0
-SNI: O 0 0 font p content 19 0
-
-1 O 0 0 font font content 20 0
-
-Sonia B-NAME 1 1 strong a content 23 0
-G. I-NAME 1 1 strong a content 23 0
-Mendoza I-NAME 1 1 strong a content 23 0
-Chapa I-NAME 0 1 strong a content 23 0
-
-. O 0 1 strong font content 21 0
-
-Doctora O 0 0 font li content 19 0
-en O 0 0 font li content 19 0
-Informática, O 0 0 font li content 19 0
-Institute O 0 0 font li content 19 0
-National O 0 0 font li content 19 0
-Polytechnique O 0 0 font li content 19 0
-de O 0 1 font li content 19 0
-Grenoble, O 0 0 font li content 19 0
-Francia O 0 1 font li content 19 0
-2006. O 0 0 font li content 19 0
-
-Investigador O 0 0 p ul content 18 0
-CINVESTAV O 0 0 p ul content 18 0
-
-3 O 0 0 font p content 19 0
-
--A O 0 0 p ul content 18 0
-
-Nivel O 0 1 font p content 19 0
-en O 0 0 font p content 19 0
-el O 0 1 font p content 19 0
-SNI: O 0 0 font p content 19 0
-
-1 O 0 0 font font content 20 0
-
-Amilcar B-NAME 1 1 strong a content 23 0
-Meneses I-NAME 1 1 strong a content 23 0
-Viveros I-NAME 1 1 strong a content 23 0
-
-. O 0 1 strong font content 21 0
-
-Doctor O 0 1 font li content 19 0
-en O 0 0 font li content 19 0
-Ciencias O 0 1 font li content 19 0
-(Ingeniería O 0 0 font li content 19 0
-Eléctrica), O 0 0 font li content 19 0
-CINVESTAV O 0 0 font li content 19 0
-2009 O 0 0 font li content 19 0
-
-. O 0 1 font li content 19 0
-
-Investigador O 0 0 p ul content 18 0
-CINVESTAV O 0 0 p ul content 18 0
-
-2 O 0 0 font p content 19 0
-
--A O 0 0 p ul content 18 0
-
-Guillermo B-NAME 0 1 strong a content 23 0
-Benito I-NAME 0 1 strong a content 23 0
-Morales I-NAME 0 1 strong a content 23 0
-Luna I-NAME 0 1 strong a content 23 0
-
-. O 0 1 strong font content 21 0
-
-Doctor O 0 1 font li content 19 0
-en O 0 0 font li content 19 0
-Ciencias O 0 1 font li content 19 0
-(Matemáticas) O 0 0 font li content 19 0
-Instituto O 0 0 font li content 19 0
-de O 0 1 font li content 19 0
-Matemáticas, O 0 0 font li content 19 0
-Academia O 0 0 font li content 19 0
-Polaca O 0 0 font li content 19 0
-de O 0 1 font li content 19 0
-Ciencias, O 0 0 font li content 19 0
-Polonia O 0 1 font li content 19 0
-1984. O 0 0 font li content 19 0
-
-Investigador O 0 0 ul div content 17 12
-CINVESTAV O 0 0 ul div content 17 12
-3-B O 0 0 ul div content 17 12
-
-Nivel O 0 1 font ul content 18 0
-en O 0 0 font ul content 18 0
-el O 0 1 font ul content 18 0
-SNI: O 0 0 font ul content 18 0
-
-1 O 0 0 font font content 19 0
-
-José B-NAME 1 1 strong a content 22 0
-Guadalupe I-NAME 0 1 strong a content 22 0
-Rodríguez I-NAME 0 1 strong a content 22 0
-García I-NAME 0 1 strong a content 22 0
-
-. O 0 1 strong font content 21 0
-
-Doctor O 0 1 font font content 20 0
-en O 0 0 font font content 20 0
-Informática, O 0 0 font font content 20 0
-Universidad O 0 0 font font content 20 0
-de O 0 1 font font content 20 0
-Toulouse, O 0 0 font font content 20 0
-Francia. O 0 0 font font content 20 0
-2005. O 0 0 font font content 20 0
-
-Investigador O 0 0 p ul content 18 0
-CINVESTAV O 0 0 p ul content 18 0
-3-A O 0 0 p ul content 18 0
-
-Nivel O 0 1 font p content 19 0
-en O 0 0 font p content 19 0
-el O 0 1 font p content 19 0
-SNI: O 0 0 font p content 19 0
-
-1 O 0 0 font font content 20 0
-
-Francisco B-NAME 1 1 strong a content 20 0
-Rodríguez I-NAME 1 1 strong a content 20 0
-Henríquez I-NAME 0 1 strong a content 20 0
-
-. O 0 1 li ul content 18 3
-
-Doctor O 0 1 font font content 22 0
-en O 0 0 font font content 22 0
-Ciencias, O 0 0 font font content 22 0
-Universidad O 0 0 font font content 22 0
-del O 0 1 font font content 22 0
-Estado O 0 0 font font content 22 0
-de O 0 1 font font content 22 0
-Oregon, O 0 0 font font content 22 0
-EU. O 0 0 font font content 22 0
-2000. O 0 0 font font content 22 0
-
-Investigador O 0 0 font font content 22 0
-CINVESTAV O 0 0 font font content 22 0
-3- O 0 0 font font content 22 0
-
-D O 0 1 font font content 23 0
-
-Nivel O 0 1 font font content 22 0
-en O 0 0 font font content 22 0
-el O 0 1 font font content 22 0
-SNI: O 0 0 font font content 22 0
-
-2 O 0 0 font font content 23 0
-
-Oliver B-NAME 1 1 a b content 21 0
-Schütze I-NAME 1 1 a b content 21 0
-
-. O 0 1 span li content 19 3
-
-Doctor O 0 1 font font content 22 0
-en O 0 0 font font content 22 0
-Ciencias O 0 1 font font content 22 0
-(Matemáticas O 0 0 font font content 22 0
-Aplicadas), O 0 0 font font content 22 0
-Universidad O 0 0 font font content 22 0
-Paderborn, O 0 0 font font content 22 0
-Alemania, O 0 0 font font content 22 0
-2004. O 0 0 font font content 22 0
-
-Investigador O 0 0 p ul content 18 0
-CINVESTAV O 0 0 p ul content 18 0
-3-B O 0 0 p ul content 18 0
-
-Nivel O 0 1 font font content 24 0
-en O 0 0 font font content 24 0
-el O 0 1 font font content 24 0
-SNI: O 0 0 font font content 24 0
-
-2 O 0 0 font font content 25 0
-
-Esteban B-NAME 0 1 a b content 21 0
-Tlelo I-NAME 0 0 a b content 21 0
-Cuautle I-NAME 0 1 a b content 21 0
-
-. O 0 1 span li content 19 3
-
-Doctor O 0 1 font font content 22 0
-en O 0 0 font font content 22 0
-Ciencias O 0 1 font font content 22 0
-(Electrónica), O 0 0 font font content 22 0
-INAOE, O 0 0 font font content 22 0
-2000. O 0 0 font font content 22 0
-
-Investigador O 0 0 p ul content 18 0
-CINVESTAV O 0 0 p ul content 18 0
-
-Nivel O 0 1 font font content 24 0
-en O 0 0 font font content 24 0
-el O 0 1 font font content 24 0
-SNI: O 0 0 font font content 24 0
-
-2 O 0 0 font font content 25 0
-
-Investigadores O 0 0 font font content 21 0
-asociados O 0 0 font font content 21 0
-
-Dominique O 0 1 strong a rteleft 23 0
-Decouchant. O 0 0 strong a rteleft 23 0
-
-Doctor O 0 1 font font rteleft 27 0
-en O 0 0 font font rteleft 27 0
-Ciencias, O 0 0 font font rteleft 27 0
-Universidad O 0 0 font font rteleft 27 0
-Joseph O 0 1 font font rteleft 27 0
-Fourier O 0 1 font font rteleft 27 0
-de O 0 1 font font rteleft 27 0
-Grenoble, O 0 0 font font rteleft 27 0
-Francia O 0 1 font font rteleft 27 0
-1987. O 0 0 font font rteleft 27 0
-
-Harold B-NAME 1 1 strong a rteleft 24 0
-V. I-NAME 1 1 strong a rteleft 24 0
-McIntosh I-NAME 1 1 strong a rteleft 24 0
-
-Departmento O 0 0 font font content 22 0
-de O 0 1 font font content 22 0
-Aplicación O 0 0 font font content 22 0
-de O 0 1 font font content 22 0
-Microcomputadoras O 0 0 font font content 22 0
-del O 0 1 font font content 22 0
-Instituto O 0 0 font font content 22 0
-de O 0 1 font font content 22 0
-Ciencias O 0 1 font font content 22 0
-de O 0 1 font font content 22 0
-la O 0 1 font font content 22 0
-Universidad O 0 0 font font content 22 0
-Autónoma O 0 0 font font content 22 0
-de O 0 1 font font content 22 0
-Puebla, O 0 0 font font content 22 0
-México O 0 0 font font content 22 0
-
-Aviso O 0 0 td tr block-tc 12 0
-Urgente O 0 0 td tr block-tc 12 0
-
-Aviso O 0 0 li ul leaf.first.last 15 0
-Urgente O 0 0 li ul leaf.first.last 15 0
-Alumnos O 0 0 li ul leaf.first.last 15 0
-de O 0 1 li ul leaf.first.last 15 0
-Nuevo O 0 1 li ul leaf.first.last 15 0
-Ingreso O 0 0 li ul leaf.first.last 15 0
-
-Información O 0 0 td tr block-tc 12 0
-Coordinación O 0 0 td tr block-tc 12 0
-Académica O 0 0 td tr block-tc 12 0
-
-Admisión O 0 0 li ul leaf.first 15 0
-
-Cursos O 0 0 li ul leaf 15 0
-
-Calendario O 0 0 li ul leaf 15 0
-Escolar O 0 1 li ul leaf 15 0
-
-Criterios O 0 0 li ul leaf.last 15 0
-de O 0 1 li ul leaf.last 15 0
-Evaluación O 0 0 li ul leaf.last 15 0
-del O 0 1 li ul leaf.last 15 0
-PNP O 0 0 li ul leaf.last 15 0
-
-Información O 0 0 td tr block-tc 12 0
-Reciente O 0 0 td tr block-tc 12 0
-
-Simposio O 0 0 li ul leaf.first 15 0
-conmemorando O 0 0 li ul leaf.first 15 0
-los O 0 1 li ul leaf.first 15 0
-100 O 0 0 li ul leaf.first 15 0
-años O 0 0 li ul leaf.first 15 0
-del O 0 1 li ul leaf.first 15 0
-envío O 0 0 li ul leaf.first 15 0
-del O 0 1 li ul leaf.first 15 0
-Telegrama O 0 0 li ul leaf.first 15 0
-de O 0 1 li ul leaf.first 15 0
-Zimmermann O 0 1 li ul leaf.first 15 0
-
-Simposio O 0 0 li ul leaf 15 0
-Homenaje O 0 0 li ul leaf 15 0
-a O 0 1 li ul leaf 15 0
-H. O 0 1 li ul leaf 15 0
-V. O 0 1 li ul leaf 15 0
-McIntosh O 0 1 li ul leaf 15 0
-2016 O 0 0 li ul leaf 15 0
-
-Seminario O 0 1 li ul leaf 15 0
-Departamental O 0 0 li ul leaf 15 0
-
-Eventos O 0 0 li ul leaf 15 0
-Especiales O 0 0 li ul leaf 15 0
-
-Logros O 0 0 li ul leaf 15 0
-
-Libros O 0 0 li ul leaf 15 0
-Publicados O 0 0 li ul leaf 15 0
-
-Noticias O 0 0 li ul leaf 15 0
-Departamentales O 0 0 li ul leaf 15 0
-
-Notas O 0 0 li ul leaf 15 0
-de O 0 1 li ul leaf 15 0
-Prensa O 0 1 li ul leaf 15 0
-
-Lista O 0 1 li ul leaf 15 0
-de O 0 1 li ul leaf 15 0
-Graduados O 0 0 li ul leaf 15 0
-
-Estadísticas O 0 0 li ul leaf.last 15 0
-
-Calendario O 0 0 td tr block-tc 12 0
-de O 0 1 td tr block-tc 12 0
-Eventos O 0 0 td tr block-tc 12 0
-
-« O 0 0 span caption updateblock 18 0
-Octubre O 0 0 caption table event-block.octubre.sticky-enabled 17 2
-2017 O 0 0 caption table event-block.octubre.sticky-enabled 17 2
-» O 0 0 caption table stop 17 3
-
-Dom O 0 1 tr thead sun 18 0
-
-Lun O 0 1 tr thead mon 18 1
-
-Mar O 0 1 tr thead tue 18 2
-
-Mié O 0 0 tr thead wed 18 3
-
-Jue O 0 1 tr thead thu 18 4
-
-Vie O 0 1 tr thead fri 18 5
-
-Sáb O 0 0 tr thead sat 18 6
-
-1 O 0 0 tr tbody sun.day-01 18 0
-2 O 0 0 tr tbody mon.day-02 18 1
-3 O 0 0 tr tbody tue.day-03.today.selected 18 2
-4 O 0 0 tr tbody wed.day-04 18 3
-5 O 0 0 tr tbody thu.day-05 18 4
-6 O 0 0 tr tbody fri.day-06 18 5
-7 O 0 0 tr tbody sat.day-07 18 6
-
-8 O 0 0 tr tbody sun.day-08 18 0
-9 O 0 0 tr tbody mon.day-09 18 1
-10 O 0 0 tr tbody tue.day-10 18 2
-11 O 0 0 tr tbody wed.day-11 18 3
-12 O 0 0 tr tbody thu.day-12 18 4
-13 O 0 0 tr tbody fri.day-13 18 5
-14 O 0 0 tr tbody sat.day-14 18 6
-
-15 O 0 0 tr tbody sun.day-15 18 0
-16 O 0 0 tr tbody mon.day-16 18 1
-17 O 0 0 tr tbody tue.day-17 18 2
-18 O 0 0 tr tbody wed.day-18 18 3
-19 O 0 0 tr tbody thu.day-19 18 4
-20 O 0 0 tr tbody fri.day-20 18 5
-21 O 0 0 tr tbody sat.day-21 18 6
-
-22 O 0 0 tr tbody sun.day-22 18 0
-23 O 0 0 tr tbody mon.day-23 18 1
-24 O 0 0 tr tbody tue.day-24 18 2
-25 O 0 0 tr tbody wed.day-25 18 3
-26 O 0 0 tr tbody thu.day-26 18 4
-27 O 0 0 tr tbody fri.day-27 18 5
-28 O 0 0 tr tbody sat.day-28 18 6
-
-29 O 0 0 tr tbody sun.day-29 18 0
-30 O 0 0 tr tbody mon.day-30 18 1
-31 O 0 0 tr tbody tue.day-31 18 2
-
-Próximos O 0 0 td tr block-tc 12 0
-Eventos O 0 0 td tr block-tc 12 0
-
-No O 0 1 ul div first.last 15 0
-hay O 0 0 ul div first.last 15 0
-eventos O 0 0 ul div first.last 15 0
-programados O 0 0 ul div first.last 15 0
-
-more O 0 0 div div more-link 14 0
-
-DEPARTAMENTO O 0 0 p div content 11 0
-DE O 0 0 p div content 11 0
-COMPUTACIÓN O 0 0 p div content 11 0
-
-CENTRO O 0 0 p div content 11 0
-DE O 0 0 p div content 11 0
-INVESTIGACIÓN O 0 0 p div content 11 0
-Y O 0 1 p div content 11 0
-DE O 0 0 p div content 11 0
-ESTUDIOS O 0 0 p div content 11 0
-AVANZADOS O 0 0 p div content 11 0
-DEL O 0 0 p div content 11 0
-IPN O 0 0 p div content 11 0
-
-Av. O 0 0 strong div rtecenter 12 0
-Instituto O 0 0 strong div rtecenter 12 0
-Politécnico O 0 0 strong div rtecenter 12 0
-Nacional O 0 0 strong div rtecenter 12 0
-No. O 0 0 strong div rtecenter 12 0
-2508 O 0 0 strong div rtecenter 12 0
-
-Col. O 0 1 strong div rtecenter 12 1
-San O 0 1 strong div rtecenter 12 1
-Pedro O 0 1 strong div rtecenter 12 1
-Zacatenco. O 0 0 strong div rtecenter 12 1
-
-México, O 0 0 strong div rtecenter 12 2
-D. O 0 1 strong div rtecenter 12 2
-F, O 0 0 strong div rtecenter 12 2
-07360 O 0 0 strong div rtecenter 12 2
-
-MEXICO O 0 0 strong div rtecenter 12 3
-
-Tel. O 0 0 div div rtecenter 11 0
-(+52 O 0 0 div div rtecenter 11 0
-55) O 0 0 div div rtecenter 11 0
-5747 O 0 0 div div rtecenter 11 0
-3800 O 0 0 div div rtecenter 11 0
-ext: O 0 0 div div rtecenter 11 0
-3758 O 0 0 div div rtecenter 11 0
-y O 0 1 div div rtecenter 11 0
-3756 O 0 0 div div rtecenter 11 0
-Fax: O 0 0 div div rtecenter 11 0
-(+52 O 0 0 div div rtecenter 11 0
-55) O 0 0 div div rtecenter 11 0
-5747 O 0 0 div div rtecenter 11 0
-3757 O 0 0 div div rtecenter 11 0
+Doctor O doctor 0 1 0 0 0 0 1 font li content 19 0
+en O en 0 0 0 0 0 0 0 font li content 19 0
+Ingeniería O ingenieria 0 0 0 0 0 0 1 font li content 19 0
+Informática. O informatica. 0 0 0 0 0 0 1 font li content 19 0
+Universidad O universidad 0 0 0 0 0 0 1 font li content 19 0
+Autónoma O autonoma 0 0 0 0 0 0 1 font li content 19 0
+de O de 0 1 0 0 0 0 0 font li content 19 0
+Madrid O madrid 0 1 0 0 0 0 1 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+Madrid O madrid 0 1 0 0 0 0 1 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+España O espana 0 1 0 0 0 0 1 font li content 19 0
+1998. O 1998. 0 0 0 1 0 0 0 font li content 19 0
+
+Investigador O investigador 0 0 0 0 0 0 1 p ul content 18 0
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 p ul content 18 0
+3 O 3 0 0 0 1 0 0 0 p ul content 18 0
+- O - 0 0 0 0 0 0 0 p ul content 18 0
+C O c 0 1 0 0 0 0 1 p ul content 18 0
+
+Nivel O nivel 0 1 0 0 0 0 1 font p content 19 0
+en O en 0 0 0 0 0 0 0 font p content 19 0
+el O el 0 1 0 0 0 0 0 font p content 19 0
+SNI O sni 0 0 0 0 0 0 1 font p content 19 0
+: O : 0 0 0 0 0 0 0 font p content 19 0
+
+1 O 1 0 0 0 1 0 0 0 font font content 20 0
+
+Juan B-PER juan 1 1 0 0 0 0 1 strong a content 22 0
+Carlos I-PER carlos 1 1 0 0 0 0 1 strong a content 22 0
+Ku I-PER ku 0 1 0 0 0 0 1 strong a content 22 0
+Cauich I-PER cauich 0 1 0 0 0 0 1 strong a content 22 0
+
+. O . 0 1 0 0 0 0 0 font font content 20 3
+
+Doctor O doctor 0 1 0 0 0 0 1 font li content 19 0
+en O en 0 0 0 0 0 0 0 font li content 19 0
+Matemáticas. O matematicas. 0 0 0 0 0 0 1 font li content 19 0
+
+Cátedra O catedra 0 1 0 0 0 0 1 p ul content 18 0
+Conacyt O conacyt 0 0 0 0 0 0 1 p ul content 18 0
+
+Nivel O nivel 0 1 0 0 0 0 1 font p content 19 0
+en O en 0 0 0 0 0 0 0 font p content 19 0
+el O el 0 1 0 0 0 0 0 font p content 19 0
+SNI O sni 0 0 0 0 0 0 1 font p content 19 0
+: O : 0 0 0 0 0 0 0 font p content 19 0
+
+C O c 0 1 0 0 0 0 1 strong font content 20 0
+
+Dolores B-PER dolores 1 1 0 0 0 0 1 span a content 22 0
+Lara I-PER lara 1 1 0 0 0 0 1 span a content 22 0
+Cuevas I-PER cuevas 0 1 0 0 0 0 1 span a content 22 0
+
+. O . 0 1 0 0 0 0 0 font font content 20 3
+
+Doctora O doctora 0 0 0 0 0 0 1 font li content 19 0
+en O en 0 0 0 0 0 0 0 font li content 19 0
+Ciencias O ciencias 0 1 0 0 0 0 1 font li content 19 0
+de O de 0 1 0 0 0 0 0 font li content 19 0
+la O la 0 1 0 0 0 0 0 font li content 19 0
+Computación O computacion 0 0 0 0 0 0 1 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+Universidad O universidad 0 0 0 0 0 0 1 font li content 19 0
+Nacional O nacional 0 0 0 0 0 0 1 font li content 19 0
+Autónoma O autonoma 0 0 0 0 0 0 1 font li content 19 0
+de O de 0 1 0 0 0 0 0 font li content 19 0
+México O mexico 0 0 0 0 0 0 1 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+2011. O 2011. 0 0 0 1 0 0 0 font li content 19 0
+
+Investigador O investigador 0 0 0 0 0 0 1 p ul content 18 0
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 p ul content 18 0
+3 O 3 0 0 0 1 0 0 0 p ul content 18 0
+- O - 0 0 0 0 0 0 0 p ul content 18 0
+A O a 0 1 0 0 0 0 1 p ul content 18 0
+
+Nivel O nivel 0 1 0 0 0 0 1 font p content 19 0
+en O en 0 0 0 0 0 0 0 font p content 19 0
+el O el 0 1 0 0 0 0 0 font p content 19 0
+SNI O sni 0 0 0 0 0 0 1 font p content 19 0
+: O : 0 0 0 0 0 0 0 font p content 19 0
+
+C O c 0 1 0 0 0 0 1 font font content 20 0
+
+Xiaoou B-PER xiaoou 1 1 0 0 0 0 1 strong a content 22 0
+Li I-PER li 1 1 0 0 0 0 1 strong a content 22 0
+Zhang I-PER zhang 1 1 0 0 0 0 1 strong a content 22 0
+
+. O . 0 1 0 0 0 0 0 font font content 20 3
+
+Doctora O doctora 0 0 0 0 0 0 1 font li content 19 0
+en O en 0 0 0 0 0 0 0 font li content 19 0
+Ciencias O ciencias 0 1 0 0 0 0 1 font li content 19 0
+( O ( 0 0 0 0 0 0 0 font li content 19 0
+Ingeniería O ingenieria 0 0 0 0 0 0 1 font li content 19 0
+Eléctrica O electrica 0 0 0 0 0 0 1 font li content 19 0
+) O ) 0 0 0 0 0 0 0 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+Northeastern O northeastern 0 0 0 0 0 0 1 font li content 19 0
+University O university 0 1 0 0 0 0 1 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+China O china 0 1 0 0 0 0 1 font li content 19 0
+1995. O 1995. 0 0 0 1 0 0 0 font li content 19 0
+
+Investigador O investigador 0 0 0 0 0 0 1 p ul content 18 0
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 p ul content 18 0
+3 O 3 0 0 0 1 0 0 0 p ul content 18 0
+- O - 0 0 0 0 0 0 0 p ul content 18 0
+C O c 0 1 0 0 0 0 1 p ul content 18 0
+
+Nivel O nivel 0 1 0 0 0 0 1 font p content 19 0
+en O en 0 0 0 0 0 0 0 font p content 19 0
+el O el 0 1 0 0 0 0 0 font p content 19 0
+SNI O sni 0 0 0 0 0 0 1 font p content 19 0
+: O : 0 0 0 0 0 0 0 font p content 19 0
+
+2 O 2 0 0 0 1 0 0 0 font font content 20 0
+
+Cuauhtémoc B-PER cuauhtemoc 0 1 0 0 0 0 1 strong a content 22 0
+Mancillas I-PER mancillas 0 1 0 0 0 0 1 strong a content 22 0
+López I-PER lopez 0 1 0 0 0 0 1 strong a content 22 0
+
+. O . 0 1 0 0 0 0 0 font font content 20 3
+
+Doctor O doctor 0 1 0 0 0 0 1 font li content 19 0
+en O en 0 0 0 0 0 0 0 font li content 19 0
+Ciencias O ciencias 0 1 0 0 0 0 1 font li content 19 0
+( O ( 0 0 0 0 0 0 0 font li content 19 0
+Computación O computacion 0 0 0 0 0 0 1 font li content 19 0
+) O ) 0 0 0 0 0 0 0 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 font li content 19 0
+2013. O 2013. 0 0 0 1 0 0 0 font li content 19 0
+
+Investigador O investigador 0 0 0 0 0 0 1 p ul content 18 0
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 p ul content 18 0
+2 O 2 0 0 0 1 0 0 0 p ul content 18 0
+- O - 0 0 0 0 0 0 0 p ul content 18 0
+B O b 0 1 0 0 0 0 1 p ul content 18 0
+
+Nivel O nivel 0 1 0 0 0 0 1 font p content 19 0
+en O en 0 0 0 0 0 0 0 font p content 19 0
+el O el 0 1 0 0 0 0 0 font p content 19 0
+SNI O sni 0 0 0 0 0 0 1 font p content 19 0
+: O : 0 0 0 0 0 0 0 font p content 19 0
+
+1 O 1 0 0 0 1 0 0 0 font font content 20 0
+
+Ana B-PER ana 0 1 0 0 0 0 1 strong a content 22 0
+María I-PER maria 0 1 0 0 0 0 1 strong a content 22 0
+Antonia I-PER antonia 0 1 0 0 0 0 1 strong a content 22 0
+Martínez I-PER martinez 0 1 0 0 0 0 1 strong a content 22 0
+Enríquez I-PER enriquez 0 1 0 0 0 0 1 strong a content 22 0
+
+. O . 0 1 0 0 0 0 0 font b content 20 0
+
+Doctora O doctora 0 0 0 0 0 0 1 font li content 19 0
+en O en 0 0 0 0 0 0 0 font li content 19 0
+Ciencias O ciencias 0 1 0 0 0 0 1 font li content 19 0
+( O ( 0 0 0 0 0 0 0 font li content 19 0
+Ingeniería O ingenieria 0 0 0 0 0 0 1 font li content 19 0
+en O en 0 0 0 0 0 0 0 font li content 19 0
+Informática O informatica 0 0 0 0 0 0 1 font li content 19 0
+) O ) 0 0 0 0 0 0 0 font li content 19 0
+Universidad O universidad 0 0 0 0 0 0 1 font li content 19 0
+Pierre O pierre 0 1 0 0 0 0 1 font li content 19 0
+et O et 0 1 0 0 0 0 0 font li content 19 0
+Marie O marie 0 1 0 0 0 0 1 font li content 19 0
+Curie O curie 0 1 0 0 0 0 1 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+París O paris 0 1 0 0 0 0 1 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+Francia O francia 0 1 0 0 0 0 1 font li content 19 0
+1985. O 1985. 0 0 0 1 0 0 0 font li content 19 0
+
+Investigador O investigador 0 0 0 0 0 0 1 p ul content 18 0
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 p ul content 18 0
+3 O 3 0 0 0 1 0 0 0 p ul content 18 0
+- O - 0 0 0 0 0 0 0 p ul content 18 0
+C O c 0 1 0 0 0 0 1 p ul content 18 0
+
+Nivel O nivel 0 1 0 0 0 0 1 font p content 19 0
+en O en 0 0 0 0 0 0 0 font p content 19 0
+el O el 0 1 0 0 0 0 0 font p content 19 0
+SNI O sni 0 0 0 0 0 0 1 font p content 19 0
+: O : 0 0 0 0 0 0 0 font p content 19 0
+
+1 O 1 0 0 0 1 0 0 0 font font content 20 0
+
+Sonia B-PER sonia 1 1 0 0 0 0 1 strong a content 23 0
+G. I-PER g. 1 1 0 0 0 0 1 strong a content 23 0
+Mendoza I-PER mendoza 1 1 0 0 0 0 1 strong a content 23 0
+Chapa I-PER chapa 0 1 0 0 0 0 1 strong a content 23 0
+
+. O . 0 1 0 0 0 0 0 strong font content 21 0
+
+Doctora O doctora 0 0 0 0 0 0 1 font li content 19 0
+en O en 0 0 0 0 0 0 0 font li content 19 0
+Informática O informatica 0 0 0 0 0 0 1 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+Institute O institute 0 0 0 0 0 0 1 font li content 19 0
+National O national 0 0 0 0 0 0 1 font li content 19 0
+Polytechnique O polytechnique 0 0 0 0 0 0 1 font li content 19 0
+de O de 0 1 0 0 0 0 0 font li content 19 0
+Grenoble O grenoble 0 0 0 0 0 0 1 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+Francia O francia 0 1 0 0 0 0 1 font li content 19 0
+2006. O 2006. 0 0 0 1 0 0 0 font li content 19 0
+
+Investigador O investigador 0 0 0 0 0 0 1 p ul content 18 0
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 p ul content 18 0
+
+3 O 3 0 0 0 1 0 0 0 font p content 19 0
+
+- O - 0 0 0 0 0 0 0 p ul content 18 0
+A O a 0 1 0 0 0 0 1 p ul content 18 0
+
+Nivel O nivel 0 1 0 0 0 0 1 font p content 19 0
+en O en 0 0 0 0 0 0 0 font p content 19 0
+el O el 0 1 0 0 0 0 0 font p content 19 0
+SNI O sni 0 0 0 0 0 0 1 font p content 19 0
+: O : 0 0 0 0 0 0 0 font p content 19 0
+
+1 O 1 0 0 0 1 0 0 0 font font content 20 0
+
+Amilcar B-PER amilcar 1 1 0 0 0 0 1 strong a content 23 0
+Meneses I-PER meneses 1 1 0 0 0 0 1 strong a content 23 0
+Viveros I-PER viveros 1 1 0 0 0 0 1 strong a content 23 0
+
+. O . 0 1 0 0 0 0 0 strong font content 21 0
+
+Doctor O doctor 0 1 0 0 0 0 1 font li content 19 0
+en O en 0 0 0 0 0 0 0 font li content 19 0
+Ciencias O ciencias 0 1 0 0 0 0 1 font li content 19 0
+( O ( 0 0 0 0 0 0 0 font li content 19 0
+Ingeniería O ingenieria 0 0 0 0 0 0 1 font li content 19 0
+Eléctrica O electrica 0 0 0 0 0 0 1 font li content 19 0
+) O ) 0 0 0 0 0 0 0 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 font li content 19 0
+2009 O 2009 0 0 0 1 0 0 0 font li content 19 0
+
+. O . 0 1 0 0 0 0 0 font li content 19 0
+
+Investigador O investigador 0 0 0 0 0 0 1 p ul content 18 0
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 p ul content 18 0
+
+2 O 2 0 0 0 1 0 0 0 font p content 19 0
+
+- O - 0 0 0 0 0 0 0 p ul content 18 0
+A O a 0 1 0 0 0 0 1 p ul content 18 0
+
+Guillermo B-PER guillermo 0 1 0 0 0 0 1 strong a content 23 0
+Benito I-PER benito 0 1 0 0 0 0 1 strong a content 23 0
+Morales I-PER morales 0 1 0 0 0 0 1 strong a content 23 0
+Luna I-PER luna 0 1 0 0 0 0 1 strong a content 23 0
+
+. O . 0 1 0 0 0 0 0 strong font content 21 0
+
+Doctor O doctor 0 1 0 0 0 0 1 font li content 19 0
+en O en 0 0 0 0 0 0 0 font li content 19 0
+Ciencias O ciencias 0 1 0 0 0 0 1 font li content 19 0
+( O ( 0 0 0 0 0 0 0 font li content 19 0
+Matemáticas O matematicas 0 0 0 0 0 0 1 font li content 19 0
+) O ) 0 0 0 0 0 0 0 font li content 19 0
+Instituto O instituto 0 0 0 0 0 0 1 font li content 19 0
+de O de 0 1 0 0 0 0 0 font li content 19 0
+Matemáticas O matematicas 0 0 0 0 0 0 1 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+Academia O academia 0 0 0 0 0 0 1 font li content 19 0
+Polaca O polaca 0 0 0 0 0 0 1 font li content 19 0
+de O de 0 1 0 0 0 0 0 font li content 19 0
+Ciencias O ciencias 0 1 0 0 0 0 1 font li content 19 0
+, O , 0 0 0 0 0 0 0 font li content 19 0
+Polonia O polonia 0 1 0 0 0 0 1 font li content 19 0
+1984. O 1984. 0 0 0 1 0 0 0 font li content 19 0
+
+Investigador O investigador 0 0 0 0 0 0 1 ul div content 17 12
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 ul div content 17 12
+3 O 3 0 0 0 1 0 0 0 ul div content 17 12
+- O - 0 0 0 0 0 0 0 ul div content 17 12
+B O b 0 1 0 0 0 0 1 ul div content 17 12
+
+Nivel O nivel 0 1 0 0 0 0 1 font ul content 18 0
+en O en 0 0 0 0 0 0 0 font ul content 18 0
+el O el 0 1 0 0 0 0 0 font ul content 18 0
+SNI O sni 0 0 0 0 0 0 1 font ul content 18 0
+: O : 0 0 0 0 0 0 0 font ul content 18 0
+
+1 O 1 0 0 0 1 0 0 0 font font content 19 0
+
+José B-PER jose 1 1 0 0 0 0 1 strong a content 22 0
+Guadalupe I-PER guadalupe 0 1 0 0 0 0 1 strong a content 22 0
+Rodríguez I-PER rodriguez 0 1 0 0 0 0 1 strong a content 22 0
+García I-PER garcia 0 1 0 0 0 0 1 strong a content 22 0
+
+. O . 0 1 0 0 0 0 0 strong font content 21 0
+
+Doctor O doctor 0 1 0 0 0 0 1 font font content 20 0
+en O en 0 0 0 0 0 0 0 font font content 20 0
+Informática O informatica 0 0 0 0 0 0 1 font font content 20 0
+, O , 0 0 0 0 0 0 0 font font content 20 0
+Universidad O universidad 0 0 0 0 0 0 1 font font content 20 0
+de O de 0 1 0 0 0 0 0 font font content 20 0
+Toulouse O toulouse 0 1 0 0 0 0 1 font font content 20 0
+, O , 0 0 0 0 0 0 0 font font content 20 0
+Francia. O francia. 0 0 0 0 0 0 1 font font content 20 0
+2005. O 2005. 0 0 0 1 0 0 0 font font content 20 0
+
+Investigador O investigador 0 0 0 0 0 0 1 p ul content 18 0
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 p ul content 18 0
+3 O 3 0 0 0 1 0 0 0 p ul content 18 0
+- O - 0 0 0 0 0 0 0 p ul content 18 0
+A O a 0 1 0 0 0 0 1 p ul content 18 0
+
+Nivel O nivel 0 1 0 0 0 0 1 font p content 19 0
+en O en 0 0 0 0 0 0 0 font p content 19 0
+el O el 0 1 0 0 0 0 0 font p content 19 0
+SNI O sni 0 0 0 0 0 0 1 font p content 19 0
+: O : 0 0 0 0 0 0 0 font p content 19 0
+
+1 O 1 0 0 0 1 0 0 0 font font content 20 0
+
+Francisco B-PER francisco 1 1 0 0 0 0 1 strong a content 20 0
+Rodríguez I-PER rodriguez 1 1 0 0 0 0 1 strong a content 20 0
+Henríquez I-PER henriquez 0 1 0 0 0 0 1 strong a content 20 0
+
+. O . 0 1 0 0 0 0 0 li ul content 18 3
+
+Doctor O doctor 0 1 0 0 0 0 1 font font content 22 0
+en O en 0 0 0 0 0 0 0 font font content 22 0
+Ciencias O ciencias 0 1 0 0 0 0 1 font font content 22 0
+, O , 0 0 0 0 0 0 0 font font content 22 0
+Universidad O universidad 0 0 0 0 0 0 1 font font content 22 0
+del O del 0 1 0 0 0 0 0 font font content 22 0
+Estado O estado 0 0 0 0 0 0 1 font font content 22 0
+de O de 0 1 0 0 0 0 0 font font content 22 0
+Oregon O oregon 0 0 0 0 0 0 1 font font content 22 0
+, O , 0 0 0 0 0 0 0 font font content 22 0
+EU. O eu. 0 0 0 0 0 0 1 font font content 22 0
+2000. O 2000. 0 0 0 1 0 0 0 font font content 22 0
+
+Investigador O investigador 0 0 0 0 0 0 1 font font content 22 0
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 font font content 22 0
+3 O 3 0 0 0 1 0 0 0 font font content 22 0
+- O - 0 0 0 0 0 0 0 font font content 22 0
+
+D O d 0 1 0 0 0 0 1 font font content 23 0
+
+Nivel O nivel 0 1 0 0 0 0 1 font font content 22 0
+en O en 0 0 0 0 0 0 0 font font content 22 0
+el O el 0 1 0 0 0 0 0 font font content 22 0
+SNI O sni 0 0 0 0 0 0 1 font font content 22 0
+: O : 0 0 0 0 0 0 0 font font content 22 0
+
+2 O 2 0 0 0 1 0 0 0 font font content 23 0
+
+Oliver B-PER oliver 1 1 0 0 0 0 1 a b content 21 0
+Schütze I-PER schutze 1 1 0 0 0 0 1 a b content 21 0
+
+. O . 0 1 0 0 0 0 0 span li content 19 3
+
+Doctor O doctor 0 1 0 0 0 0 1 font font content 22 0
+en O en 0 0 0 0 0 0 0 font font content 22 0
+Ciencias O ciencias 0 1 0 0 0 0 1 font font content 22 0
+( O ( 0 0 0 0 0 0 0 font font content 22 0
+Matemáticas O matematicas 0 0 0 0 0 0 1 font font content 22 0
+Aplicadas O aplicadas 0 0 0 0 1 0 1 font font content 22 0
+) O ) 0 0 0 0 0 0 0 font font content 22 0
+, O , 0 0 0 0 0 0 0 font font content 22 0
+Universidad O universidad 0 0 0 0 0 0 1 font font content 22 0
+Paderborn O paderborn 0 0 0 0 0 0 1 font font content 22 0
+, O , 0 0 0 0 0 0 0 font font content 22 0
+Alemania O alemania 0 0 0 0 0 0 1 font font content 22 0
+, O , 0 0 0 0 0 0 0 font font content 22 0
+2004. O 2004. 0 0 0 1 0 0 0 font font content 22 0
+
+Investigador O investigador 0 0 0 0 0 0 1 p ul content 18 0
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 p ul content 18 0
+3 O 3 0 0 0 1 0 0 0 p ul content 18 0
+- O - 0 0 0 0 0 0 0 p ul content 18 0
+B O b 0 1 0 0 0 0 1 p ul content 18 0
+
+Nivel O nivel 0 1 0 0 0 0 1 font font content 24 0
+en O en 0 0 0 0 0 0 0 font font content 24 0
+el O el 0 1 0 0 0 0 0 font font content 24 0
+SNI O sni 0 0 0 0 0 0 1 font font content 24 0
+: O : 0 0 0 0 0 0 0 font font content 24 0
+
+2 O 2 0 0 0 1 0 0 0 font font content 25 0
+
+Esteban B-PER esteban 0 1 0 0 0 0 1 a b content 21 0
+Tlelo I-PER tlelo 0 0 0 0 0 0 1 a b content 21 0
+Cuautle I-PER cuautle 0 1 0 0 0 0 1 a b content 21 0
+
+. O . 0 1 0 0 0 0 0 span li content 19 3
+
+Doctor O doctor 0 1 0 0 0 0 1 font font content 22 0
+en O en 0 0 0 0 0 0 0 font font content 22 0
+Ciencias O ciencias 0 1 0 0 0 0 1 font font content 22 0
+( O ( 0 0 0 0 0 0 0 font font content 22 0
+Electrónica O electronica 0 0 0 0 0 0 1 font font content 22 0
+) O ) 0 0 0 0 0 0 0 font font content 22 0
+, O , 0 0 0 0 0 0 0 font font content 22 0
+INAOE O inaoe 0 0 0 0 0 0 1 font font content 22 0
+, O , 0 0 0 0 0 0 0 font font content 22 0
+2000. O 2000. 0 0 0 1 0 0 0 font font content 22 0
+
+Investigador O investigador 0 0 0 0 0 0 1 p ul content 18 0
+CINVESTAV O cinvestav 0 0 0 0 0 0 1 p ul content 18 0
+
+Nivel O nivel 0 1 0 0 0 0 1 font font content 24 0
+en O en 0 0 0 0 0 0 0 font font content 24 0
+el O el 0 1 0 0 0 0 0 font font content 24 0
+SNI O sni 0 0 0 0 0 0 1 font font content 24 0
+: O : 0 0 0 0 0 0 0 font font content 24 0
+
+2 O 2 0 0 0 1 0 0 0 font font content 25 0
+
+Investigadores O investigadores 0 0 0 0 0 0 1 font font content 21 0
+asociados O asociados 0 0 0 0 0 0 0 font font content 21 0
+
+Dominique O dominique 0 1 0 0 0 0 1 strong a rteleft 23 0
+Decouchant. O decouchant. 0 0 0 0 0 0 1 strong a rteleft 23 0
+
+Doctor O doctor 0 1 0 0 0 0 1 font font rteleft 27 0
+en O en 0 0 0 0 0 0 0 font font rteleft 27 0
+Ciencias O ciencias 0 1 0 0 0 0 1 font font rteleft 27 0
+, O , 0 0 0 0 0 0 0 font font rteleft 27 0
+Universidad O universidad 0 0 0 0 0 0 1 font font rteleft 27 0
+Joseph O joseph 0 1 0 0 0 0 1 font font rteleft 27 0
+Fourier O fourier 0 1 0 0 0 0 1 font font rteleft 27 0
+de O de 0 1 0 0 0 0 0 font font rteleft 27 0
+Grenoble O grenoble 0 0 0 0 0 0 1 font font rteleft 27 0
+, O , 0 0 0 0 0 0 0 font font rteleft 27 0
+Francia O francia 0 1 0 0 0 0 1 font font rteleft 27 0
+1987. O 1987. 0 0 0 1 0 0 0 font font rteleft 27 0
+
+Harold B-PER harold 1 1 0 0 0 0 1 strong a rteleft 24 0
+V. I-PER v. 1 1 0 0 0 0 1 strong a rteleft 24 0
+McIntosh I-PER mcintosh 1 1 0 0 0 0 1 strong a rteleft 24 0
+
+Departmento O departmento 0 0 0 0 0 0 1 font font content 22 0
+de O de 0 1 0 0 0 0 0 font font content 22 0
+Aplicación O aplicacion 0 0 0 0 1 0 1 font font content 22 0
+de O de 0 1 0 0 0 0 0 font font content 22 0
+Microcomputadoras O microcomputadoras 0 0 0 0 0 0 1 font font content 22 0
+del O del 0 1 0 0 0 0 0 font font content 22 0
+Instituto O instituto 0 0 0 0 0 0 1 font font content 22 0
+de O de 0 1 0 0 0 0 0 font font content 22 0
+Ciencias O ciencias 0 1 0 0 0 0 1 font font content 22 0
+de O de 0 1 0 0 0 0 0 font font content 22 0
+la O la 0 1 0 0 0 0 0 font font content 22 0
+Universidad O universidad 0 0 0 0 0 0 1 font font content 22 0
+Autónoma O autonoma 0 0 0 0 0 0 1 font font content 22 0
+de O de 0 1 0 0 0 0 0 font font content 22 0
+Puebla O puebla 0 1 0 0 0 0 1 font font content 22 0
+, O , 0 0 0 0 0 0 0 font font content 22 0
+México O mexico 0 0 0 0 0 0 1 font font content 22 0
+
+Aviso O aviso 0 0 0 0 0 0 1 td tr block-tc 12 0
+Urgente O urgente 0 0 0 0 0 0 1 td tr block-tc 12 0
+
+Aviso O aviso 0 0 0 0 0 0 1 li ul last 15 0
+Urgente O urgente 0 0 0 0 0 0 1 li ul last 15 0
+Alumnos O alumnos 0 0 0 0 0 0 1 li ul last 15 0
+de O de 0 1 0 0 0 0 0 li ul last 15 0
+Nuevo O nuevo 0 1 0 0 0 0 1 li ul last 15 0
+Ingreso O ingreso 0 0 0 0 0 0 1 li ul last 15 0
+
+Información O informacion 0 0 0 0 0 0 1 td tr block-tc 12 0
+Coordinación O coordinacion 0 0 0 0 0 0 1 td tr block-tc 12 0
+Académica O academica 0 0 0 0 0 0 1 td tr block-tc 12 0
+
+Admisión O admision 0 0 0 0 0 0 1 li ul first 15 0
+
+Cursos O cursos 0 0 0 0 0 0 1 li ul leaf 15 0
+
+Calendario O calendario 0 0 0 0 0 0 1 li ul leaf 15 0
+Escolar O escolar 0 1 0 0 0 0 1 li ul leaf 15 0
+
+Criterios O criterios 0 0 0 0 0 0 1 li ul last 15 0
+de O de 0 1 0 0 0 0 0 li ul last 15 0
+Evaluación O evaluacion 0 0 0 0 0 0 1 li ul last 15 0
+del O del 0 1 0 0 0 0 0 li ul last 15 0
+PNP O pnp 0 0 0 0 0 0 1 li ul last 15 0
+
+Información O informacion 0 0 0 0 0 0 1 td tr block-tc 12 0
+Reciente O reciente 0 0 0 0 0 0 1 td tr block-tc 12 0
+
+Simposio O simposio 0 0 0 0 0 0 1 li ul first 15 0
+conmemorando O conmemorando 0 0 0 0 0 0 0 li ul first 15 0
+los O los 0 1 0 0 0 0 0 li ul first 15 0
+100 O 100 0 0 0 1 0 0 0 li ul first 15 0
+años O anos 0 0 0 0 0 0 0 li ul first 15 0
+del O del 0 1 0 0 0 0 0 li ul first 15 0
+envío O envio 0 0 0 0 0 0 0 li ul first 15 0
+del O del 0 1 0 0 0 0 0 li ul first 15 0
+Telegrama O telegrama 0 0 0 0 0 0 1 li ul first 15 0
+de O de 0 1 0 0 0 0 0 li ul first 15 0
+Zimmermann O zimmermann 0 1 0 0 0 0 1 li ul first 15 0
+
+Simposio O simposio 0 0 0 0 0 0 1 li ul leaf 15 0
+Homenaje O homenaje 0 0 0 0 0 0 1 li ul leaf 15 0
+a O a 0 1 0 0 0 0 0 li ul leaf 15 0
+H. O h. 0 1 0 0 0 0 1 li ul leaf 15 0
+V. O v. 0 1 0 0 0 0 1 li ul leaf 15 0
+McIntosh O mcintosh 0 1 0 0 0 0 1 li ul leaf 15 0
+2016 O 2016 0 0 0 1 0 0 0 li ul leaf 15 0
+
+Seminario O seminario 0 1 0 0 0 0 1 li ul leaf 15 0
+Departamental O departamental 0 0 0 0 0 0 1 li ul leaf 15 0
+
+Eventos O eventos 0 0 0 0 0 0 1 li ul leaf 15 0
+Especiales O especiales 0 0 0 0 0 0 1 li ul leaf 15 0
+
+Logros O logros 0 0 0 0 0 0 1 li ul leaf 15 0
+
+Libros O libros 0 0 0 0 0 0 1 li ul leaf 15 0
+Publicados O publicados 0 0 0 0 0 0 1 li ul leaf 15 0
+
+Noticias O noticias 0 0 0 0 0 0 1 li ul leaf 15 0
+Departamentales O departamentales 0 0 0 0 0 0 1 li ul leaf 15 0
+
+Notas O notas 0 0 0 0 0 0 1 li ul leaf 15 0
+de O de 0 1 0 0 0 0 0 li ul leaf 15 0
+Prensa O prensa 0 1 0 0 0 0 1 li ul leaf 15 0
+
+Lista O lista 0 1 0 0 0 0 1 li ul leaf 15 0
+de O de 0 1 0 0 0 0 0 li ul leaf 15 0
+Graduados O graduados 0 0 0 0 0 0 1 li ul leaf 15 0
+
+Estadísticas O estadisticas 0 0 0 0 0 0 1 li ul last 15 0
+
+Calendario O calendario 0 0 0 0 0 0 1 td tr block-tc 12 0
+de O de 0 1 0 0 0 0 0 td tr block-tc 12 0
+Eventos O eventos 0 0 0 0 0 0 1 td tr block-tc 12 0
+
+« O « 0 0 0 0 0 0 0 span caption updateblock 18 0
+Octubre O octubre 0 0 0 0 0 0 1 caption table sticky-enabled 17 2
+2017 O 2017 0 0 0 1 0 0 0 caption table sticky-enabled 17 2
+» O » 0 0 0 0 0 0 0 caption table stop 17 3
+
+Dom O dom 0 1 0 0 0 0 1 tr thead sun 18 0
+
+Lun O lun 0 1 0 0 0 0 1 tr thead mon 18 1
+
+Mar O mar 0 1 0 0 0 0 1 tr thead tue 18 2
+
+Mié O mie 0 0 0 0 0 0 1 tr thead wed 18 3
+
+Jue O jue 0 1 0 0 0 0 1 tr thead thu 18 4
+
+Vie O vie 0 1 0 0 0 0 1 tr thead fri 18 5
+
+Sáb O sab 0 0 0 0 0 0 1 tr thead sat 18 6
+
+1 O 1 0 0 0 1 0 0 0 tr tbody day-01 18 0
+2 O 2 0 0 0 1 0 0 0 tr tbody day-02 18 1
+3 O 3 0 0 0 1 0 0 0 tr tbody selected 18 2
+4 O 4 0 0 0 1 0 0 0 tr tbody day-04 18 3
+5 O 5 0 0 0 1 0 0 0 tr tbody day-05 18 4
+6 O 6 0 0 0 1 0 0 0 tr tbody day-06 18 5
+7 O 7 0 0 0 1 0 0 0 tr tbody day-07 18 6
+
+8 O 8 0 0 0 1 0 0 0 tr tbody day-08 18 0
+9 O 9 0 0 0 1 0 0 0 tr tbody day-09 18 1
+10 O 10 0 0 0 1 0 0 0 tr tbody day-10 18 2
+11 O 11 0 0 0 1 0 0 0 tr tbody day-11 18 3
+12 O 12 0 0 0 1 0 0 0 tr tbody day-12 18 4
+13 O 13 0 0 0 1 0 0 0 tr tbody day-13 18 5
+14 O 14 0 0 0 1 0 0 0 tr tbody day-14 18 6
+
+15 O 15 0 0 0 1 0 0 0 tr tbody day-15 18 0
+16 O 16 0 0 0 1 0 0 0 tr tbody day-16 18 1
+17 O 17 0 0 0 1 0 0 0 tr tbody day-17 18 2
+18 O 18 0 0 0 1 0 0 0 tr tbody day-18 18 3
+19 O 19 0 0 0 1 0 0 0 tr tbody day-19 18 4
+20 O 20 0 0 0 1 0 0 0 tr tbody day-20 18 5
+21 O 21 0 0 0 1 0 0 0 tr tbody day-21 18 6
+
+22 O 22 0 0 0 1 0 0 0 tr tbody day-22 18 0
+23 O 23 0 0 0 1 0 0 0 tr tbody day-23 18 1
+24 O 24 0 0 0 1 0 0 0 tr tbody day-24 18 2
+25 O 25 0 0 0 1 0 0 0 tr tbody day-25 18 3
+26 O 26 0 0 0 1 0 0 0 tr tbody day-26 18 4
+27 O 27 0 0 0 1 0 0 0 tr tbody day-27 18 5
+28 O 28 0 0 0 1 0 0 0 tr tbody day-28 18 6
+
+29 O 29 0 0 0 1 0 0 0 tr tbody day-29 18 0
+30 O 30 0 0 0 1 0 0 0 tr tbody day-30 18 1
+31 O 31 0 0 0 1 0 0 0 tr tbody day-31 18 2
+
+Próximos O proximos 0 0 0 0 0 0 1 td tr block-tc 12 0
+Eventos O eventos 0 0 0 0 0 0 1 td tr block-tc 12 0
+
+No O no 0 1 0 0 0 0 1 ul div last 15 0
+hay O hay 0 0 0 0 0 0 0 ul div last 15 0
+eventos O eventos 0 0 0 0 0 0 0 ul div last 15 0
+programados O programados 0 0 0 0 0 0 0 ul div last 15 0
+
+more O more 0 0 0 0 0 0 0 div div more-link 14 0
+
+DEPARTAMENTO O departamento 0 0 0 0 0 0 1 p div content 11 0
+DE O de 0 0 0 0 0 0 1 p div content 11 0
+COMPUTACIÓN O computacion 0 0 0 0 0 0 1 p div content 11 0
+
+CENTRO O centro 0 0 0 0 0 0 1 p div content 11 0
+DE O de 0 0 0 0 0 0 1 p div content 11 0
+INVESTIGACIÓN O investigacion 0 0 0 0 0 0 1 p div content 11 0
+Y O y 0 1 0 0 0 0 1 p div content 11 0
+DE O de 0 0 0 0 0 0 1 p div content 11 0
+ESTUDIOS O estudios 0 0 0 0 0 0 1 p div content 11 0
+AVANZADOS O avanzados 0 0 0 0 0 0 1 p div content 11 0
+DEL O del 0 0 0 0 0 0 1 p div content 11 0
+IPN O ipn 0 0 0 0 0 0 1 p div content 11 0
+
+Av. O av. 0 0 0 0 0 0 1 strong div rtecenter 12 0
+Instituto O instituto 0 0 0 0 0 0 1 strong div rtecenter 12 0
+Politécnico O politecnico 0 0 0 0 0 0 1 strong div rtecenter 12 0
+Nacional O nacional 0 0 0 0 0 0 1 strong div rtecenter 12 0
+No. O no. 0 0 0 0 0 0 1 strong div rtecenter 12 0
+2508 O 2508 0 0 0 1 0 0 0 strong div rtecenter 12 0
+
+Col. O col. 0 1 0 0 0 0 1 strong div rtecenter 12 1
+San O san 0 1 0 0 0 0 1 strong div rtecenter 12 1
+Pedro O pedro 0 1 0 0 0 0 1 strong div rtecenter 12 1
+Zacatenco. O zacatenco. 0 0 0 0 0 0 1 strong div rtecenter 12 1
+
+México O mexico 0 0 0 0 0 0 1 strong div rtecenter 12 2
+, O , 0 0 0 0 0 0 0 strong div rtecenter 12 2
+D. O d. 0 1 0 0 0 0 1 strong div rtecenter 12 2
+F O f 0 0 0 0 0 0 1 strong div rtecenter 12 2
+, O , 0 0 0 0 0 0 0 strong div rtecenter 12 2
+07360 O 07360 0 0 0 1 0 0 0 strong div rtecenter 12 2
+
+MEXICO O mexico 0 0 0 0 0 0 1 strong div rtecenter 12 3
+
+Tel. O tel. 0 0 0 0 0 0 1 div div rtecenter 11 0
+( O ( 0 0 0 0 0 0 0 div div rtecenter 11 0
++52 O +52 0 0 0 1 0 0 0 div div rtecenter 11 0
+55 O 55 0 0 0 1 0 0 0 div div rtecenter 11 0
+) O ) 0 0 0 0 0 0 0 div div rtecenter 11 0
+5747 O 5747 0 0 0 1 0 0 0 div div rtecenter 11 0
+3800 O 3800 0 0 0 1 0 0 0 div div rtecenter 11 0
+ext O ext 0 0 0 0 0 0 0 div div rtecenter 11 0
+: O : 0 0 0 0 0 0 0 div div rtecenter 11 0
+3758 O 3758 0 0 0 1 0 0 0 div div rtecenter 11 0
+y O y 0 1 0 0 0 0 0 div div rtecenter 11 0
+3756 O 3756 0 0 0 1 0 0 0 div div rtecenter 11 0
+Fax O fax 0 1 0 0 0 0 1 div div rtecenter 11 0
+: O : 0 0 0 0 0 0 0 div div rtecenter 11 0
+( O ( 0 0 0 0 0 0 0 div div rtecenter 11 0
++52 O +52 0 0 0 1 0 0 0 div div rtecenter 11 0
+55 O 55 0 0 0 1 0 0 0 div div rtecenter 11 0
+) O ) 0 0 0 0 0 0 0 div div rtecenter 11 0
+5747 O 5747 0 0 0 1 0 0 0 div div rtecenter 11 0
+3757 O 3757 0 0 0 1 0 0 0 div div rtecenter 11 0

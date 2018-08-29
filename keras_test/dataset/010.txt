@@ -1,1155 +1,1311 @@
-Faculty O 0 0 meta head no-js 5 1
-Directory O 0 0 meta head no-js 5 1
-- O 0 0 meta head no-js 5 1
-South O 0 1 meta head no-js 5 1
-Suburban O 0 0 meta head no-js 5 1
-College O 0 0 meta head no-js 5 1
+Faculty O faculty 0 0 0 0 0 0 1 meta head no-js 5 1
+Directory O directory 0 0 0 0 0 0 1 meta head no-js 5 1
+- O - 0 0 0 0 0 0 0 meta head no-js 5 1
+South O south 0 1 0 0 0 0 1 meta head no-js 5 1
+Suburban O suburban 0 0 0 0 0 0 1 meta head no-js 5 1
+College O college 0 0 0 0 0 0 1 meta head no-js 5 1
 
-Skip O 0 1 div body sr-only 5 0
-to O 0 0 div body sr-only 5 0
-content O 0 0 div body sr-only 5 0
+Skip O skip 0 1 0 0 0 0 1 div body sr-only 5 0
+to O to 0 0 0 0 0 0 0 div body sr-only 5 0
+content O content 0 0 0 0 0 0 0 div body sr-only 5 0
 
-Toggle O 0 0 button div sr-only 10 0
-navigation O 0 0 button div sr-only 10 0
+Toggle O toggle 0 0 0 0 0 0 1 button div sr-only 10 0
+navigation O navigation 0 0 0 0 0 0 0 button div sr-only 10 0
 
-My O 0 1 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-10948 11 0
-SSC O 0 0 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-10948 11 0
-Login O 0 0 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-10948 11 0
+My O my 0 1 0 0 0 0 1 li ul menu-item-10948 11 0
+SSC O ssc 0 0 0 0 0 0 1 li ul menu-item-10948 11 0
+Login O login 0 0 0 0 0 0 1 li ul menu-item-10948 11 0
 
-Current O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3326 11 0
-Students O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3326 11 0
+Current O current 0 1 0 0 0 0 1 li ul menu-item-3326 11 0
+Students O students 0 0 0 0 0 0 1 li ul menu-item-3326 11 0
 
-Adult O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3320 11 0
-& O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3320 11 0
-Continuing O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3320 11 0
-Education O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3320 11 0
+Adult O adult 0 0 0 0 0 0 1 li ul menu-item-3320 11 0
+& O & 0 0 0 0 0 0 0 li ul menu-item-3320 11 0
+Continuing O continuing 0 0 0 0 0 0 1 li ul menu-item-3320 11 0
+Education O education 0 0 0 0 0 0 1 li ul menu-item-3320 11 0
 
-Future O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3329 11 0
-Students O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3329 11 0
+Future O future 0 0 0 0 0 0 1 li ul menu-item-3329 11 0
+Students O students 0 0 0 0 0 0 1 li ul menu-item-3329 11 0
 
-Apply O 0 0 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-5013 11 0
-Online O 0 0 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-5013 11 0
+Apply O apply 0 0 0 0 0 0 1 li ul menu-item-5013 11 0
+Online O online 0 0 0 0 0 0 1 li ul menu-item-5013 11 0
 
-Non-Credit O 0 0 div div hidden 11 0
-Offerings O 0 0 div div hidden 11 0
+Non O non 0 1 0 0 0 0 1 div div hidden 11 0
+- O - 0 0 0 0 0 0 0 div div hidden 11 0
+Credit O credit 0 1 0 0 0 0 1 div div hidden 11 0
+Offerings O offerings 0 0 0 0 0 0 1 div div hidden 11 0
 
-SITEMAP O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-5342 14 0
-
-Search O 0 0 form div sr-only 12 0
-for O 0 1 form div sr-only 12 0
-
-Search O 0 0 span input btn.btn-default 15 0
-
-South O 0 1 h1 div site-title-heading 10 0
-Suburban O 0 0 h1 div site-title-heading 10 0
-College O 0 0 h1 div site-title-heading 10 0
-
-Browse: O 0 0 nav main trail-browse 12 0
-
-Home O 0 1 a li trail-item.trail-begin 15 0
-
-News, O 0 0 a li trail-item 15 0
-Events, O 0 0 a li trail-item 15 0
-& O 0 0 a li trail-item 15 0
-Information O 0 1 a li trail-item 15 0
-
-Employee O 0 0 a li trail-item 15 0
-Directories O 0 0 a li trail-item 15 0
-
-Faculty O 0 0 span li trail-item.trail-end 15 0
-Directory O 0 0 span li trail-item.trail-end 15 0
-
-Faculty O 0 0 header article color-title 13 0
-Directory O 0 0 header article color-title 13 0
-
-Name O 0 1 tr thead tablesorter.table.table-bordered.table-striped 17 0
-
-Department O 0 0 tr thead tablesorter.table.table-bordered.table-striped 17 1
-
-Title O 0 1 tr thead tablesorter.table.table-bordered.table-striped 17 2
-
-Room O 0 1 tr thead tablesorter.table.table-bordered.table-striped 17 3
-
-Ext. O 0 0 tr thead tablesorter.table.table-bordered.table-striped 17 4
-
-Overstreet, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-La'Taria I-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Allied O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Health O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Occupational O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Therapy O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Assistant O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Program O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Coordinator, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4469P O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2473 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Jairath, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Ruchi I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Physical O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Science O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4148O O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2417 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Horn, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Gregory I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Mathematics O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4148R O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2381 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-McAley, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Sarah I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Counseling O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Counselor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-2350O O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2208 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Hinkle, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Samuel I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Counseling O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Counselor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-2350M O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2392 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Mulvihill, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Nancy I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-M. I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Allied O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Health O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-EMT/Fire O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Science O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Coordinator O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3455 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2396 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Haroun, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Zubeir I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Allied O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Health O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Echocardiography O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Program O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Coordinator, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4453 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2204 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Wollstadt, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Lynn I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-English O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3223 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2047 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Wilson, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Michael I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-J. I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Physical O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Science O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4148Y O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2435 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Wiley, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Crystal I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-English O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3116 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2267 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Wells, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Marilyn I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Library O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Reference/Instructional O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Librarian O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-1249 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2239 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Welling, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Jamie I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Life O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Science O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Physical O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Education O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4469M O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2250 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Weber, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Carol I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Art O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Design O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4435C O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2202 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Wallace, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Marcia I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-A. I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Mathematics O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4148N O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2626 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Walker, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Donna I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Allied O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Health O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Teacher O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Aide/Child O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Development O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Program O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Coordinator, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3463 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2659 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Vivian, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Steven I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-D. I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-English O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3221 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2323 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Tucker, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Eric I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Art O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Design O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4435 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2300 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Todd, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Anthony I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-D. I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Counseling O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Counselor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-2350 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2310 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Thompson, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Juhelia I-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Counseling O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Counselor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-2350 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2393 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Stark, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Herman I-NAME 1 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-E. I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Communications O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Humanities O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3471 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2547 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Simpson, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-James I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Physical O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Science O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Department O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Chair, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4236 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2270 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Shelton, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-LaDonn I-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Nursing O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4128G O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2504 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Shear, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Margaret I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-English O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3122 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2369 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Schaberg, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-David I-NAME 1 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-English O 1 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3144 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2352 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Saltzman, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Bobbie I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Communications O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Humanities O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Theatre O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Program O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Coordinator, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-SSC O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Playhouse O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Director O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3136 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2286 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Rosen, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Joan I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Communications O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Humanities O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3146 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2486 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Reaves, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Adrienne I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Allied O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Health O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Medical O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Assistant O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Program O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Coordinator, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Phlebotomy O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Program O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Coordinator, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4469-P O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-5734 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Raices, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Edith I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Social O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Behavioral O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Sciences O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Department O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Chairperson, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Sheriff O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Training O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Institute O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Coordinator, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3485 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2465 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Pelech, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Mark I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-H. I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Business O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Programs O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Computer O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Technology O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3439 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2366 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Olaleye, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Caleb I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-A. I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Mathematics O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4148J O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2377 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-O’Leary, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-James I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Life O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Science O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Physical O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Education O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4469C O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2401 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-O'Leary, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Patrick I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Mathematics O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4148U O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2347 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Myers, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Eric I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Life O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Science O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Physical O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Education O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4469N O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2318 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Mrozek, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Gina I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Mathematics O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4148R O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2409 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Monbrod, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Dennis I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Mathematics O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4148U O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2342 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Medlen, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Jennifer I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Mathematics O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4148Q O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2424 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-McGriff, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Shunda I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Counseling O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Counselor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-2350 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2259 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-McGovern, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Shari I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Allied O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Health O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Department O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Chairperson, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Director O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-of O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Diagnostic O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Imaging O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Programs, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Radiologic O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Technology O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Program O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Coordinator, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4469K O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2634 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-McDonald, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Corey I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Mathematics O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4148E O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2431 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Mansour, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Taha I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Social O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Behavioral O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Sciences O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3489 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2472 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Lyttle, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Michael I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-H. I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Life O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Science O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Physical O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Education O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4469P O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2376 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Lu, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Yixia I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Mathematics O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4148M O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2425 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Liauba, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Marianne I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-English O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Department O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Chairperson, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3132 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2327 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Kumar, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Sangeeta I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Library O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Technical O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Services, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructional O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Serials O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Librarian O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-1249 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2574 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Kraft, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Jennifer I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Reading O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Department O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Chairperson, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3130 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2540 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Kirkpatrick, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Jack I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Art O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Design O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Department O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Chairperson, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4435E O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2445 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Kelley, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Amy I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Mathematics O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4148Y O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2412 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Jones, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-M. I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-Richard I-NAME 1 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-English O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3221 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2363 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Johnston, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Lauren I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Counseling O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Counselor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-2350C O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2308 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Johnson, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Ona' I-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Business O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Programs O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Computer O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Technology O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Department O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Chair, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3441 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2357 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Jefferson, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Lakesha I-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Communications O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Humanities O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3116 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2267 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Hannon, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Mark I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Counseling O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Counselor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-2350O O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2241 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Haney, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Diana I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Reading O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3104 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2237 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Grzeczka, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Diane I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Mathematics O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4148Q O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2444 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Griffith, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Gerald I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-A. I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Health O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Professions O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Sciences O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Department O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Chair, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4469M O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2251 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Gomez, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Sergio I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Art O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Design O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Graphic O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Design O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Program O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Coordinator, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4435 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2211 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Geraci, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-John I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-C. I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Communications O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Humanities O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Department O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Chairperson, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-L240 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2479 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Fouad-Farrar, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Jazaer I-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Counseling O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Department O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Chairperson, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Counselor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-2350 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2511 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Evans, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Richard I-NAME 1 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Business O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Programs O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Computer O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Technology O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3443 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2441 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Eberhardt, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Kathryn I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-Melin I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Allied O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Health O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Allied O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Health O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Career O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Advisor, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Occupational O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Therapy O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Assistant O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Program O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Field O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Work O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Coordindator O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4469 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2379 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-DosSantos, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Marilu I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-English O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3138 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2367 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Deane, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Patrick I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-T. I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Legal O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Studies O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Criminal O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Justice O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3427 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2538 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Damiani, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Eugene I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Engineering O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Technology O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Building O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Code O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Enforcement O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Program O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Coordinator, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Construction O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Technology O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Program O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Coordinator, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-2368 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2292 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Curless, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Lisa I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Mathematics O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4148N O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2025 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Cooley, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Ronald I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-L. I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Business O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Programs O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Computer O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Technology O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3431 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2320 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Cooke, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-LaTherese I-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-R. I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Legal O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Studies O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Criminal O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Justice O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Court O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Reporting O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Program O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Coordinator; O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-5030 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-3217 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Collett, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Keith I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-E. I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-English O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3164 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2037 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Cline, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Susan I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Reading O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3106 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2269 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Cieslik, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Jason I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-M. I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Legal O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Studies O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Criminal O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Justice O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Paralegal O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-& O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Criminal O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Justice O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Program O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Coordinator, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3457 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2579 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Churney, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Kyle I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-English O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3116 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2267 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Chou, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Godwin I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Music O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Department O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Chairperson, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-1110 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2296 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Carrillo, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Leticia I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Counseling O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Bilingual O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Counselor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-(Spanish/English) O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-2350 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2516 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Calhoun, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Christine I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Life O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Science O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Physical O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Education O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4469G O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2255 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Brown, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Alfred I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-English O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3128 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2353 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Beno, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Marybeth I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Mathematics O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Department O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Chairperson, O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4148F O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2333 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Bein, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Sandra I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Communications O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Humanities O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3126 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2368 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Gilmore B-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-Bathgate, I-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Linda I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Counseling O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Counselor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-2364 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2313 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Baltuska, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Laura I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-English O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3110 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2297 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Bailey, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Robert I-NAME 1 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-English O 1 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3114 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2460 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Anderson, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-David I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Mathematics O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4148V O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2332 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Allardice, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Bruce I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Social O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-and O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Behavioral O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Sciences O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-3461 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2277 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Adeyemi, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-Oluwakemi I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Nursing O 0 1 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4128H O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2500 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Alexopoulos, B-NAME 0 0 th tr tablesorter.table.table-bordered.table-striped 18 0
-George I-NAME 0 1 th tr tablesorter.table.table-bordered.table-striped 18 0
-
-Physical O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Science O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 2
-Instructor O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 3
-4148 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 4
-2475 O 0 0 tr tbody tablesorter.table.table-bordered.table-striped 17 5
-
-Student O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-109.dropdown 13 0
-Self-Service O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-109.dropdown 13 0
-
-My O 0 1 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-5103 15 0
-SSC O 0 0 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-5103 15 0
-Login O 0 0 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-5103 15 0
-
-My O 0 1 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-5104 15 0
-Student O 0 1 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-5104 15 0
-eMail O 0 0 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-5104 15 0
-
-Moodle O 0 0 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-5084 15 0
-Course O 0 1 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-5084 15 0
-Login O 0 0 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-5084 15 0
-
-My O 0 1 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-5730 15 0
-FACTS O 0 0 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-5730 15 0
-Login O 0 0 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-5730 15 0
-
-About O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-14346.dropdown 13 0
-SSC O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-14346.dropdown 13 0
-
-Employee O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.current-page-ancestor.menu-item-23723 15 0
-Directories O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.current-page-ancestor.menu-item-23723 15 0
-
-Getting O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-112 15 0
-to O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-112 15 0
-Campus O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-112 15 0
-
-Admissions O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-4226.dropdown 13 0
-& O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-4226.dropdown 13 0
-Registration O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-4226.dropdown 13 0
-
-Application O 0 0 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-5015 15 0
-
-Catalog O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3155 15 0
-
-Financial O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-118 15 0
-Aid O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-118 15 0
-
-Payment O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-119 15 0
-Plans O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-119 15 0
-
-Scholarships O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-121 15 0
-
-Special O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-5410 15 0
-Tuition O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-5410 15 0
-Programs O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-5410 15 0
-
-Transcripts O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-122 15 0
-
-Veteran O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-24050 15 0
-Services O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-24050 15 0
-
-Academics O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-3333.dropdown 13 0
-
-Academic O 0 0 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-5819 15 0
-Calendar O 0 0 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-5819 15 0
-
-Class O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-5712 15 0
-Schedules O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-5712 15 0
-
-Programs O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-4575 15 0
-of O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-4575 15 0
-Study O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-4575 15 0
-
-Transfer O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3156 15 0
-Center O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3156 15 0
-
-Distance O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-129.dropdown 13 0
-Learning O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-129.dropdown 13 0
-
-Online O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-130 15 0
-& O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-130 15 0
-Hybrid O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-130 15 0
-Login O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-130 15 0
-Information O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-130 15 0
-
-“The O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-4203 15 0
-Educator” O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-4203 15 0
-
-News, O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.current-page-ancestor.menu-item-has-children.menu-item-5539.dropdown 13 0
-Events, O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.current-page-ancestor.menu-item-has-children.menu-item-5539.dropdown 13 0
-& O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.current-page-ancestor.menu-item-has-children.menu-item-5539.dropdown 13 0
-Information O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.current-page-ancestor.menu-item-has-children.menu-item-5539.dropdown 13 0
-
-Athletics O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-5568 15 0
-
-Employee O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.current-page-ancestor.menu-item-7254 15 0
-Directories O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.current-page-ancestor.menu-item-7254 15 0
-
-Press O 0 1 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-4305 15 0
-Releases O 0 0 li ul menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-4305 15 0
-
-SSC O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-23722 15 0
-Foundation O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-23722 15 0
-& O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-23722 15 0
-Alumni O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-23722 15 0
-
-Non-Credit O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-5624.dropdown 13 0
-Offerings O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-5624.dropdown 13 0
-
-Adult O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3925 15 0
-Education O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3925 15 0
-
-Business O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-139 15 0
-& O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-139 15 0
-Career O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-139 15 0
-Institute O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-139 15 0
-
-College O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3866 15 0
-For O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3866 15 0
-Kids O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3866 15 0
-
-Continuing O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-5617 15 0
-Education O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-5617 15 0
-
-GED O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-22919 13 0
-
-® O 0 0 a li menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-22919 14 0
-
-Test O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-22919 13 0
-Prep O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-22919 13 0
-& O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-22919 13 0
-ESL O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-22919 13 0
-
-Services O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-has-children.menu-item-141.dropdown 13 0
-
-Assessment O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-149 15 0
-Center O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-149 15 0
-
-Bookstore O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-143 15 0
-
-Campus O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3154 15 0
-Police O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-3154 15 0
-
-Computer O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-144 15 0
-Labs O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-144 15 0
-
-Counseling O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-145 15 0
-Center O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-145 15 0
-
-Human O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-5193 15 0
-Resources O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-5193 15 0
-
-Library O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-147 15 0
-
-Student O 0 1 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-148 15 0
-Services O 0 0 li ul menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-148 15 0
-
-© O 0 0 div div textwidget 11 0
-2017 O 0 0 div div textwidget 11 0
-South O 0 1 div div textwidget 11 0
-Suburban O 0 0 div div textwidget 11 0
-College O 0 0 div div textwidget 11 0
-| O 0 0 div div textwidget 11 0
-Main O 0 1 div div textwidget 11 0
-Number: O 0 0 div div textwidget 11 0
-(708) O 0 0 div div textwidget 11 0
-596-2000 O 0 0 div div textwidget 11 0
-| O 0 0 div div textwidget 11 0
-Office O 0 0 div div textwidget 11 0
-of O 0 1 div div textwidget 11 0
-Admissions: O 0 0 div div textwidget 11 0
-(708) O 0 0 div div textwidget 11 0
-210-5718 O 0 0 div div textwidget 11 0
-
-Main O 0 1 div div textwidget 11 0
-Campus: O 0 0 div div textwidget 11 0
-15800 O 0 0 div div textwidget 11 0
-South O 0 1 div div textwidget 11 0
-State O 0 1 div div textwidget 11 0
-Street, O 0 0 div div textwidget 11 0
-South O 0 1 div div textwidget 11 0
-Holland, O 0 0 div div textwidget 11 0
-Illinois O 0 1 div div textwidget 11 0
-60473-1200 O 0 0 div div textwidget 11 0
-
-Oak O 0 1 div div textwidget 11 0
-Forest O 0 1 div div textwidget 11 0
-Center: O 0 0 div div textwidget 11 0
-16333 O 0 0 div div textwidget 11 0
-South O 0 1 div div textwidget 11 0
-Kilbourn O 0 1 div div textwidget 11 0
-Avenue, O 0 0 div div textwidget 11 0
-Oak O 0 1 div div textwidget 11 0
-Forest, O 0 0 div div textwidget 11 0
-Illinois O 0 1 div div textwidget 11 0
-60452-4601 O 0 0 div div textwidget 11 0
-
-About O 0 0 p div textwidget 12 3
-This O 0 1 p div textwidget 12 3
-Site O 0 1 p div textwidget 12 3
-| O 0 0 div div textwidget 11 0
-Translate O 0 0 p div textwidget 12 4
-| O 0 0 div div textwidget 11 0
-Illinois O 0 1 p div textwidget 12 5
-Voter O 0 1 p div textwidget 12 5
-Registration O 0 0 p div textwidget 12 5
+SITEMAP O sitemap 0 0 0 0 0 0 1 li ul menu-item-5342 14 0
+
+Search O search 0 0 0 0 0 0 1 form div sr-only 12 0
+for O for 0 1 0 0 0 0 0 form div sr-only 12 0
+
+Search O search 0 0 0 0 0 0 1 span input btn-default 15 0
+
+South O south 0 1 0 0 0 0 1 h1 div site-title-heading 10 0
+Suburban O suburban 0 0 0 0 0 0 1 h1 div site-title-heading 10 0
+College O college 0 0 0 0 0 0 1 h1 div site-title-heading 10 0
+
+Browse O browse 0 1 0 0 0 0 1 nav main trail-browse 12 0
+: O : 0 0 0 0 0 0 0 nav main trail-browse 12 0
+
+Home O home 0 1 0 0 0 0 1 a li trail-begin 15 0
+
+News O news 0 0 0 0 0 0 1 a li trail-item 15 0
+, O , 0 0 0 0 0 0 0 a li trail-item 15 0
+Events O events 0 0 0 0 0 0 1 a li trail-item 15 0
+, O , 0 0 0 0 0 0 0 a li trail-item 15 0
+& O & 0 0 0 0 0 0 0 a li trail-item 15 0
+Information O information 0 1 0 0 0 0 1 a li trail-item 15 0
+
+Employee O employee 0 0 0 0 1 0 1 a li trail-item 15 0
+Directories O directories 0 0 0 0 0 0 1 a li trail-item 15 0
+
+Faculty O faculty 0 0 0 0 0 0 1 span li trail-end 15 0
+Directory O directory 0 0 0 0 0 0 1 span li trail-end 15 0
+
+Faculty O faculty 0 0 0 0 0 0 1 header article color-title 13 0
+Directory O directory 0 0 0 0 0 0 1 header article color-title 13 0
+
+Name O name 0 1 0 0 0 0 1 tr thead table-striped 17 0
+
+Department O department 0 0 0 0 0 0 1 tr thead table-striped 17 1
+
+Title O title 0 1 0 0 0 0 1 tr thead table-striped 17 2
+
+Room O room 0 1 0 0 0 0 1 tr thead table-striped 17 3
+
+Ext. O ext. 0 0 0 0 0 0 1 tr thead table-striped 17 4
+
+Overstreet B-PER overstreet 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+La I-PER la 0 1 0 0 0 0 1 th tr table-striped 18 0
+' I-PER ' 0 0 0 0 0 0 0 th tr table-striped 18 0
+Taria I-PER taria 0 0 0 0 0 0 1 th tr table-striped 18 0
+
+Allied O allied 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Health O health 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Occupational O occupational 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Therapy O therapy 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Program O program 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Coordinator O coordinator 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4469P O 4469p 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2473 O 2473 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Jairath B-PER jairath 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Ruchi I-PER ruchi 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Physical O physical 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Science O science 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4148O O 4148o 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2417 O 2417 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Horn B-PER horn 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Gregory I-PER gregory 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4148R O 4148r 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2381 O 2381 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+McAley B-PER mcaley 0 0 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Sarah I-PER sarah 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Counseling O counseling 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Counselor O counselor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+2350O O 2350o 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2208 O 2208 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Hinkle B-PER hinkle 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Samuel I-PER samuel 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Counseling O counseling 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Counselor O counselor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+2350M O 2350m 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2392 O 2392 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Mulvihill B-PER mulvihill 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Nancy I-PER nancy 0 1 0 0 0 0 1 th tr table-striped 18 0
+M. I-PER m. 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Allied O allied 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Health O health 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+EMT/Fire O emt/fire 0 0 0 0 1 0 1 tr tbody table-striped 17 3
+Science O science 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Coordinator O coordinator 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3455 O 3455 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2396 O 2396 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Haroun B-PER haroun 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Zubeir I-PER zubeir 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Allied O allied 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Health O health 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Echocardiography O echocardiography 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Program O program 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Coordinator O coordinator 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4453 O 4453 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2204 O 2204 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Wollstadt B-PER wollstadt 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Lynn I-PER lynn 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+English O english 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3223 O 3223 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2047 O 2047 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Wilson B-PER wilson 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Michael I-PER michael 0 1 0 0 0 0 1 th tr table-striped 18 0
+J. I-PER j. 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Physical O physical 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Science O science 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4148Y O 4148y 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2435 O 2435 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Wiley B-PER wiley 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Crystal I-PER crystal 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+English O english 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3116 O 3116 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2267 O 2267 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Wells B-PER wells 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Marilyn I-PER marilyn 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Library O library 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Reference/Instructional O reference/instructional 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Librarian O librarian 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+1249 O 1249 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2239 O 2239 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Welling B-PER welling 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Jamie I-PER jamie 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Life O life 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Science O science 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Physical O physical 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Education O education 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4469M O 4469m 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2250 O 2250 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Weber B-PER weber 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Carol I-PER carol 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Art O art 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Design O design 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4435C O 4435c 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2202 O 2202 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Wallace B-PER wallace 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Marcia I-PER marcia 0 1 0 0 0 0 1 th tr table-striped 18 0
+A. I-PER a. 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4148N O 4148n 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2626 O 2626 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Walker B-PER walker 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Donna I-PER donna 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Allied O allied 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Health O health 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Teacher O teacher 0 1 0 0 0 0 1 tr tbody table-striped 17 3
+Aide/Child O aide/child 0 0 0 0 1 0 1 tr tbody table-striped 17 3
+Development O development 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Program O program 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Coordinator O coordinator 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3463 O 3463 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2659 O 2659 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Vivian B-PER vivian 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Steven I-PER steven 0 1 0 0 0 0 1 th tr table-striped 18 0
+D. I-PER d. 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+English O english 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3221 O 3221 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2323 O 2323 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Tucker B-PER tucker 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Eric I-PER eric 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Art O art 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Design O design 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4435 O 4435 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2300 O 2300 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Todd B-PER todd 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Anthony I-PER anthony 0 1 0 0 0 0 1 th tr table-striped 18 0
+D. I-PER d. 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Counseling O counseling 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Counselor O counselor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+2350 O 2350 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2310 O 2310 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Thompson B-PER thompson 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Juhelia I-PER juhelia 0 0 0 0 0 0 1 th tr table-striped 18 0
+
+Counseling O counseling 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Counselor O counselor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+2350 O 2350 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2393 O 2393 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Stark B-PER stark 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Herman I-PER herman 1 1 0 0 0 0 1 th tr table-striped 18 0
+E. I-PER e. 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Communications O communications 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Humanities O humanities 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3471 O 3471 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2547 O 2547 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Simpson B-PER simpson 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+James I-PER james 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Physical O physical 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Science O science 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Department O department 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Chair O chair 0 1 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4236 O 4236 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2270 O 2270 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Shelton B-PER shelton 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+LaDonn I-PER ladonn 0 0 0 0 0 0 1 th tr table-striped 18 0
+
+Nursing O nursing 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4128G O 4128g 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2504 O 2504 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Shear B-PER shear 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Margaret I-PER margaret 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+English O english 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3122 O 3122 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2369 O 2369 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Schaberg B-PER schaberg 0 0 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+David I-PER david 1 1 0 0 0 0 1 th tr table-striped 18 0
+
+English O english 1 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3144 O 3144 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2352 O 2352 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Saltzman B-PER saltzman 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Bobbie I-PER bobbie 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Communications O communications 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Humanities O humanities 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Theatre O theatre 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Program O program 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Coordinator O coordinator 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+SSC O ssc 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Playhouse O playhouse 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Director O director 0 1 0 0 0 0 1 tr tbody table-striped 17 3
+3136 O 3136 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2286 O 2286 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Rosen B-PER rosen 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Joan I-PER joan 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Communications O communications 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Humanities O humanities 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3146 O 3146 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2486 O 2486 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Reaves B-PER reaves 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Adrienne I-PER adrienne 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Allied O allied 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Health O health 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Medical O medical 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Program O program 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Coordinator O coordinator 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Phlebotomy O phlebotomy 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Program O program 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Coordinator O coordinator 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4469 O 4469 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+- O - 0 0 0 0 0 0 0 tr tbody table-striped 17 4
+P O p 0 1 0 0 0 0 1 tr tbody table-striped 17 4
+5734 O 5734 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Raices B-PER raices 0 0 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Edith I-PER edith 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Social O social 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Behavioral O behavioral 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Sciences O sciences 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Department O department 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Chairperson O chairperson 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Sheriff O sheriff 0 1 0 0 0 0 1 tr tbody table-striped 17 3
+Training O training 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Institute O institute 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Coordinator O coordinator 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3485 O 3485 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2465 O 2465 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Pelech B-PER pelech 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Mark I-PER mark 0 1 0 0 0 0 1 th tr table-striped 18 0
+H. I-PER h. 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Business O business 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Programs O programs 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Computer O computer 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Technology O technology 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3439 O 3439 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2366 O 2366 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Olaleye B-PER olaleye 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Caleb I-PER caleb 0 1 0 0 0 0 1 th tr table-striped 18 0
+A. I-PER a. 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4148J O 4148j 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2377 O 2377 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+O’Leary B-PER o’leary 0 0 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+James I-PER james 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Life O life 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Science O science 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Physical O physical 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Education O education 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4469C O 4469c 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2401 O 2401 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+O B-PER o 0 1 0 0 0 0 1 th tr table-striped 18 0
+' I-PER ' 0 0 0 0 0 0 0 th tr table-striped 18 0
+Leary I-PER leary 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Patrick I-PER patrick 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4148U O 4148u 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2347 O 2347 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Myers B-PER myers 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Eric I-PER eric 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Life O life 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Science O science 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Physical O physical 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Education O education 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4469N O 4469n 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2318 O 2318 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Mrozek B-PER mrozek 0 1 0 0 1 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Gina I-PER gina 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4148R O 4148r 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2409 O 2409 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Monbrod B-PER monbrod 0 0 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Dennis I-PER dennis 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4148U O 4148u 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2342 O 2342 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Medlen B-PER medlen 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Jennifer I-PER jennifer 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4148Q O 4148q 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2424 O 2424 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+McGriff B-PER mcgriff 0 0 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Shunda I-PER shunda 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Counseling O counseling 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Counselor O counselor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+2350 O 2350 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2259 O 2259 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+McGovern B-PER mcgovern 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Shari I-PER shari 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Allied O allied 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Health O health 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Department O department 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Chairperson O chairperson 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Director O director 0 1 0 0 0 0 1 tr tbody table-striped 17 3
+of O of 0 1 0 0 0 0 0 tr tbody table-striped 17 3
+Diagnostic O diagnostic 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Imaging O imaging 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Programs O programs 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Radiologic O radiologic 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Technology O technology 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Program O program 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Coordinator O coordinator 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4469K O 4469k 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2634 O 2634 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+McDonald B-PER mcdonald 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Corey I-PER corey 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4148E O 4148e 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2431 O 2431 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Mansour B-PER mansour 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Taha I-PER taha 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Social O social 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Behavioral O behavioral 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Sciences O sciences 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3489 O 3489 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2472 O 2472 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Lyttle B-PER lyttle 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Michael I-PER michael 0 1 0 0 0 0 1 th tr table-striped 18 0
+H. I-PER h. 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Life O life 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Science O science 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Physical O physical 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Education O education 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4469P O 4469p 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2376 O 2376 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Lu B-PER lu 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Yixia I-PER yixia 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4148M O 4148m 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2425 O 2425 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Liauba B-PER liauba 0 0 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Marianne I-PER marianne 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+English O english 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Department O department 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Chairperson O chairperson 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3132 O 3132 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2327 O 2327 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Kumar B-PER kumar 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Sangeeta I-PER sangeeta 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Library O library 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Technical O technical 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Services O services 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructional O instructional 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 3
+Serials O serials 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Librarian O librarian 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+1249 O 1249 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2574 O 2574 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Kraft B-PER kraft 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Jennifer I-PER jennifer 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Reading O reading 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Department O department 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Chairperson O chairperson 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3130 O 3130 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2540 O 2540 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Kirkpatrick B-PER kirkpatrick 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Jack I-PER jack 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Art O art 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Design O design 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Department O department 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Chairperson O chairperson 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4435E O 4435e 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2445 O 2445 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Kelley B-PER kelley 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Amy I-PER amy 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4148Y O 4148y 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2412 O 2412 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Jones B-PER jones 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+M. I-PER m. 0 1 0 0 0 0 1 th tr table-striped 18 0
+Richard I-PER richard 1 1 0 0 0 0 1 th tr table-striped 18 0
+
+English O english 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3221 O 3221 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2363 O 2363 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Johnston B-PER johnston 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Lauren I-PER lauren 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Counseling O counseling 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Counselor O counselor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+2350C O 2350c 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2308 O 2308 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Johnson B-PER johnson 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Ona I-PER ona 0 1 0 0 0 0 1 th tr table-striped 18 0
+' I-PER ' 0 0 0 0 0 0 0 th tr table-striped 18 0
+
+Business O business 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Programs O programs 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Computer O computer 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Technology O technology 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Department O department 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Chair O chair 0 1 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3441 O 3441 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2357 O 2357 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Jefferson B-PER jefferson 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Lakesha I-PER lakesha 0 0 0 0 0 0 1 th tr table-striped 18 0
+
+Communications O communications 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Humanities O humanities 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3116 O 3116 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2267 O 2267 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Hannon B-PER hannon 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Mark I-PER mark 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Counseling O counseling 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Counselor O counselor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+2350O O 2350o 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2241 O 2241 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Haney B-PER haney 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Diana I-PER diana 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Reading O reading 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3104 O 3104 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2237 O 2237 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Grzeczka B-PER grzeczka 0 0 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Diane I-PER diane 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4148Q O 4148q 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2444 O 2444 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Griffith B-PER griffith 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Gerald I-PER gerald 0 1 0 0 0 0 1 th tr table-striped 18 0
+A. I-PER a. 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Health O health 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Professions O professions 0 0 0 0 1 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Sciences O sciences 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Department O department 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Chair O chair 0 1 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4469M O 4469m 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2251 O 2251 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Gomez B-PER gomez 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Sergio I-PER sergio 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Art O art 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Design O design 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Graphic O graphic 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Design O design 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Program O program 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Coordinator O coordinator 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4435 O 4435 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2211 O 2211 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Geraci B-PER geraci 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+John I-PER john 0 1 0 0 0 0 1 th tr table-striped 18 0
+C. I-PER c. 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Communications O communications 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Humanities O humanities 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Department O department 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Chairperson O chairperson 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+L240 O l240 0 0 0 1 0 0 1 tr tbody table-striped 17 4
+2479 O 2479 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Fouad B-PER fouad 0 1 0 0 0 0 1 th tr table-striped 18 0
+- I-PER - 0 0 0 0 0 0 0 th tr table-striped 18 0
+Farrar I-PER farrar 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Jazaer I-PER jazaer 0 0 0 0 0 0 1 th tr table-striped 18 0
+
+Counseling O counseling 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Department O department 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Chairperson O chairperson 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Counselor O counselor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+2350 O 2350 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2511 O 2511 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Evans B-PER evans 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Richard I-PER richard 1 1 0 0 0 0 1 th tr table-striped 18 0
+
+Business O business 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Programs O programs 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Computer O computer 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Technology O technology 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3443 O 3443 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2441 O 2441 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Eberhardt B-PER eberhardt 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Kathryn I-PER kathryn 0 1 0 0 0 0 1 th tr table-striped 18 0
+Melin I-PER melin 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Allied O allied 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Health O health 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Allied O allied 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Health O health 0 1 0 0 0 0 1 tr tbody table-striped 17 3
+Career O career 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Advisor O advisor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Occupational O occupational 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Therapy O therapy 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Program O program 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Field O field 0 1 0 0 0 0 1 tr tbody table-striped 17 3
+Work O work 0 1 0 0 0 0 1 tr tbody table-striped 17 3
+Coordindator O coordindator 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4469 O 4469 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2379 O 2379 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+DosSantos B-PER dossantos 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Marilu I-PER marilu 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+English O english 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3138 O 3138 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2367 O 2367 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Deane B-PER deane 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Patrick I-PER patrick 0 1 0 0 0 0 1 th tr table-striped 18 0
+T. I-PER t. 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Legal O legal 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Studies O studies 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Criminal O criminal 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Justice O justice 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3427 O 3427 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2538 O 2538 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Damiani B-PER damiani 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Eugene I-PER eugene 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Engineering O engineering 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Technology O technology 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Building O building 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Code O code 0 1 0 0 0 0 1 tr tbody table-striped 17 3
+Enforcement O enforcement 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Program O program 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Coordinator O coordinator 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Construction O construction 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Technology O technology 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Program O program 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Coordinator O coordinator 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+2368 O 2368 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2292 O 2292 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Curless B-PER curless 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Lisa I-PER lisa 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4148N O 4148n 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2025 O 2025 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Cooley B-PER cooley 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Ronald I-PER ronald 0 1 0 0 0 0 1 th tr table-striped 18 0
+L. I-PER l. 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Business O business 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Programs O programs 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Computer O computer 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Technology O technology 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3431 O 3431 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2320 O 2320 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Cooke B-PER cooke 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+LaTherese I-PER latherese 0 0 0 0 0 0 1 th tr table-striped 18 0
+R. I-PER r. 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Legal O legal 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Studies O studies 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Criminal O criminal 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Justice O justice 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Court O court 0 1 0 0 0 0 1 tr tbody table-striped 17 3
+Reporting O reporting 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Program O program 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Coordinator O coordinator 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+; O ; 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+5030 O 5030 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+3217 O 3217 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Collett B-PER collett 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Keith I-PER keith 0 1 0 0 0 0 1 th tr table-striped 18 0
+E. I-PER e. 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+English O english 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3164 O 3164 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2037 O 2037 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Cline B-PER cline 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Susan I-PER susan 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Reading O reading 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3106 O 3106 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2269 O 2269 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Cieslik B-PER cieslik 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Jason I-PER jason 0 1 0 0 0 0 1 th tr table-striped 18 0
+M. I-PER m. 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Legal O legal 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Studies O studies 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Criminal O criminal 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Justice O justice 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Paralegal O paralegal 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+& O & 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Criminal O criminal 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Justice O justice 0 1 0 0 0 0 1 tr tbody table-striped 17 3
+Program O program 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Coordinator O coordinator 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3457 O 3457 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2579 O 2579 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Churney B-PER churney 0 0 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Kyle I-PER kyle 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+English O english 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3116 O 3116 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2267 O 2267 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Chou B-PER chou 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Godwin I-PER godwin 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Music O music 0 1 0 0 1 0 1 tr tbody table-striped 17 2
+Department O department 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Chairperson O chairperson 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+1110 O 1110 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2296 O 2296 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Carrillo B-PER carrillo 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Leticia I-PER leticia 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Counseling O counseling 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Bilingual O bilingual 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Counselor O counselor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+( O ( 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Spanish/English O spanish/english 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+) O ) 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+2350 O 2350 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2516 O 2516 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Calhoun B-PER calhoun 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Christine I-PER christine 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Life O life 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Science O science 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Physical O physical 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Education O education 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4469G O 4469g 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2255 O 2255 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Brown B-PER brown 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Alfred I-PER alfred 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+English O english 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3128 O 3128 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2353 O 2353 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Beno B-PER beno 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Marybeth I-PER marybeth 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Department O department 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+Chairperson O chairperson 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+, O , 0 0 0 0 0 0 0 tr tbody table-striped 17 3
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4148F O 4148f 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2333 O 2333 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Bein B-PER bein 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Sandra I-PER sandra 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Communications O communications 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Humanities O humanities 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3126 O 3126 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2368 O 2368 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Gilmore B-PER gilmore 0 1 0 0 0 0 1 th tr table-striped 18 0
+Bathgate I-PER bathgate 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Linda I-PER linda 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Counseling O counseling 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Counselor O counselor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+2364 O 2364 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2313 O 2313 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Baltuska B-PER baltuska 0 0 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Laura I-PER laura 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+English O english 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3110 O 3110 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2297 O 2297 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Bailey B-PER bailey 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Robert I-PER robert 1 1 0 0 0 0 1 th tr table-striped 18 0
+
+English O english 1 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3114 O 3114 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2460 O 2460 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Anderson B-PER anderson 0 1 0 0 1 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+David I-PER david 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4148V O 4148v 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2332 O 2332 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Allardice B-PER allardice 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Bruce I-PER bruce 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Social O social 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+and O and 0 1 0 0 0 0 0 tr tbody table-striped 17 2
+Behavioral O behavioral 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Sciences O sciences 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+3461 O 3461 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2277 O 2277 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Adeyemi B-PER adeyemi 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+Oluwakemi I-PER oluwakemi 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Nursing O nursing 0 1 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4128H O 4128h 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2500 O 2500 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Alexopoulos B-PER alexopoulos 0 1 0 0 0 0 1 th tr table-striped 18 0
+, I-PER , 0 0 0 0 0 0 0 th tr table-striped 18 0
+George I-PER george 0 1 0 0 0 0 1 th tr table-striped 18 0
+
+Physical O physical 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Science O science 0 0 0 0 0 0 1 tr tbody table-striped 17 2
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody table-striped 17 3
+4148 O 4148 0 0 0 1 0 0 0 tr tbody table-striped 17 4
+2475 O 2475 0 0 0 1 0 0 0 tr tbody table-striped 17 5
+
+Student O student 0 1 0 0 0 0 1 li ul dropdown 13 0
+Self O self 0 1 0 0 0 0 1 li ul dropdown 13 0
+- O - 0 0 0 0 0 0 0 li ul dropdown 13 0
+Service O service 0 1 0 0 0 0 1 li ul dropdown 13 0
+
+My O my 0 1 0 0 0 0 1 li ul menu-item-5103 15 0
+SSC O ssc 0 0 0 0 0 0 1 li ul menu-item-5103 15 0
+Login O login 0 0 0 0 0 0 1 li ul menu-item-5103 15 0
+
+My O my 0 1 0 0 0 0 1 li ul menu-item-5104 15 0
+Student O student 0 1 0 0 0 0 1 li ul menu-item-5104 15 0
+eMail O email 0 0 0 0 1 0 0 li ul menu-item-5104 15 0
+
+Moodle O moodle 0 0 0 0 0 0 1 li ul menu-item-5084 15 0
+Course O course 0 1 0 0 0 0 1 li ul menu-item-5084 15 0
+Login O login 0 0 0 0 0 0 1 li ul menu-item-5084 15 0
+
+My O my 0 1 0 0 0 0 1 li ul menu-item-5730 15 0
+FACTS O facts 0 0 0 0 0 0 1 li ul menu-item-5730 15 0
+Login O login 0 0 0 0 0 0 1 li ul menu-item-5730 15 0
+
+About O about 0 0 0 0 0 0 1 li ul dropdown 13 0
+SSC O ssc 0 0 0 0 0 0 1 li ul dropdown 13 0
+
+Employee O employee 0 0 0 0 1 0 1 li ul menu-item-23723 15 0
+Directories O directories 0 0 0 0 0 0 1 li ul menu-item-23723 15 0
+
+Getting O getting 0 0 0 0 0 0 1 li ul menu-item-112 15 0
+to O to 0 0 0 0 0 0 0 li ul menu-item-112 15 0
+Campus O campus 0 1 0 0 0 0 1 li ul menu-item-112 15 0
+
+Admissions O admissions 0 0 0 0 0 0 1 li ul dropdown 13 0
+& O & 0 0 0 0 0 0 0 li ul dropdown 13 0
+Registration O registration 0 0 0 0 0 0 1 li ul dropdown 13 0
+
+Application O application 0 0 0 0 0 0 1 li ul menu-item-5015 15 0
+
+Catalog O catalog 0 0 0 0 0 0 1 li ul menu-item-3155 15 0
+
+Financial O financial 0 0 0 0 0 0 1 li ul menu-item-118 15 0
+Aid O aid 0 1 0 0 0 0 1 li ul menu-item-118 15 0
+
+Payment O payment 0 1 0 0 0 0 1 li ul menu-item-119 15 0
+Plans O plans 0 1 0 0 0 0 1 li ul menu-item-119 15 0
+
+Scholarships O scholarships 0 0 0 0 0 0 1 li ul menu-item-121 15 0
+
+Special O special 0 1 0 0 0 0 1 li ul menu-item-5410 15 0
+Tuition O tuition 0 0 0 0 0 0 1 li ul menu-item-5410 15 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu-item-5410 15 0
+
+Transcripts O transcripts 0 0 0 0 0 0 1 li ul menu-item-122 15 0
+
+Veteran O veteran 0 0 0 0 0 0 1 li ul menu-item-24050 15 0
+Services O services 0 0 0 0 0 0 1 li ul menu-item-24050 15 0
+
+Academics O academics 0 0 0 0 0 0 1 li ul dropdown 13 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul menu-item-5819 15 0
+Calendar O calendar 0 0 0 0 0 0 1 li ul menu-item-5819 15 0
+
+Class O class 0 1 0 0 0 0 1 li ul menu-item-5712 15 0
+Schedules O schedules 0 0 0 0 0 0 1 li ul menu-item-5712 15 0
+
+Programs O programs 0 0 0 0 0 0 1 li ul menu-item-4575 15 0
+of O of 0 1 0 0 0 0 0 li ul menu-item-4575 15 0
+Study O study 0 1 0 0 0 0 1 li ul menu-item-4575 15 0
+
+Transfer O transfer 0 0 0 0 0 0 1 li ul menu-item-3156 15 0
+Center O center 0 1 0 0 0 0 1 li ul menu-item-3156 15 0
+
+Distance O distance 0 0 0 0 0 0 1 li ul dropdown 13 0
+Learning O learning 0 1 0 0 0 0 1 li ul dropdown 13 0
+
+Online O online 0 0 0 0 0 0 1 li ul menu-item-130 15 0
+& O & 0 0 0 0 0 0 0 li ul menu-item-130 15 0
+Hybrid O hybrid 0 1 0 0 0 0 1 li ul menu-item-130 15 0
+Login O login 0 0 0 0 0 0 1 li ul menu-item-130 15 0
+Information O information 0 1 0 0 0 0 1 li ul menu-item-130 15 0
+
+“ O “ 0 0 0 0 0 0 0 li ul menu-item-4203 15 0
+The O the 0 1 0 0 0 0 1 li ul menu-item-4203 15 0
+Educator O educator 0 0 0 0 0 0 1 li ul menu-item-4203 15 0
+” O ” 0 0 0 0 0 0 0 li ul menu-item-4203 15 0
+
+News O news 0 0 0 0 0 0 1 li ul dropdown 13 0
+, O , 0 0 0 0 0 0 0 li ul dropdown 13 0
+Events O events 0 0 0 0 0 0 1 li ul dropdown 13 0
+, O , 0 0 0 0 0 0 0 li ul dropdown 13 0
+& O & 0 0 0 0 0 0 0 li ul dropdown 13 0
+Information O information 0 1 0 0 0 0 1 li ul dropdown 13 0
+
+Athletics O athletics 0 0 0 0 0 0 1 li ul menu-item-5568 15 0
+
+Employee O employee 0 0 0 0 1 0 1 li ul menu-item-7254 15 0
+Directories O directories 0 0 0 0 0 0 1 li ul menu-item-7254 15 0
+
+Press O press 0 1 0 0 0 0 1 li ul menu-item-4305 15 0
+Releases O releases 0 0 0 0 0 0 1 li ul menu-item-4305 15 0
+
+SSC O ssc 0 0 0 0 0 0 1 li ul menu-item-23722 15 0
+Foundation O foundation 0 0 0 0 0 0 1 li ul menu-item-23722 15 0
+& O & 0 0 0 0 0 0 0 li ul menu-item-23722 15 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul menu-item-23722 15 0
+
+Non O non 0 1 0 0 0 0 1 li ul dropdown 13 0
+- O - 0 0 0 0 0 0 0 li ul dropdown 13 0
+Credit O credit 0 1 0 0 0 0 1 li ul dropdown 13 0
+Offerings O offerings 0 0 0 0 0 0 1 li ul dropdown 13 0
+
+Adult O adult 0 0 0 0 0 0 1 li ul menu-item-3925 15 0
+Education O education 0 0 0 0 0 0 1 li ul menu-item-3925 15 0
+
+Business O business 0 0 0 0 0 0 1 li ul menu-item-139 15 0
+& O & 0 0 0 0 0 0 0 li ul menu-item-139 15 0
+Career O career 0 0 0 0 0 0 1 li ul menu-item-139 15 0
+Institute O institute 0 0 0 0 0 0 1 li ul menu-item-139 15 0
+
+College O college 0 0 0 0 0 0 1 li ul menu-item-3866 15 0
+For O for 0 1 0 0 0 0 1 li ul menu-item-3866 15 0
+Kids O kids 0 0 0 0 0 0 1 li ul menu-item-3866 15 0
+
+Continuing O continuing 0 0 0 0 0 0 1 li ul menu-item-5617 15 0
+Education O education 0 0 0 0 0 0 1 li ul menu-item-5617 15 0
+
+GED O ged 0 0 0 0 0 0 1 li ul menu-item-22919 13 0
+
+® O ® 0 0 0 0 0 0 0 a li menu-item-22919 14 0
+
+Test O test 0 1 0 0 0 0 1 li ul menu-item-22919 13 0
+Prep O prep 0 0 0 0 0 0 1 li ul menu-item-22919 13 0
+& O & 0 0 0 0 0 0 0 li ul menu-item-22919 13 0
+ESL O esl 0 0 0 0 0 0 1 li ul menu-item-22919 13 0
+
+Services O services 0 0 0 0 0 0 1 li ul dropdown 13 0
+
+Assessment O assessment 0 0 0 0 0 0 1 li ul menu-item-149 15 0
+Center O center 0 1 0 0 0 0 1 li ul menu-item-149 15 0
+
+Bookstore O bookstore 0 0 0 0 0 0 1 li ul menu-item-143 15 0
+
+Campus O campus 0 1 0 0 0 0 1 li ul menu-item-3154 15 0
+Police O police 0 0 0 0 0 0 1 li ul menu-item-3154 15 0
+
+Computer O computer 0 0 0 0 0 0 1 li ul menu-item-144 15 0
+Labs O labs 0 1 0 0 0 0 1 li ul menu-item-144 15 0
+
+Counseling O counseling 0 0 0 0 0 0 1 li ul menu-item-145 15 0
+Center O center 0 1 0 0 0 0 1 li ul menu-item-145 15 0
+
+Human O human 0 1 0 0 0 0 1 li ul menu-item-5193 15 0
+Resources O resources 0 0 0 0 0 0 1 li ul menu-item-5193 15 0
+
+Library O library 0 0 0 0 0 0 1 li ul menu-item-147 15 0
+
+Student O student 0 1 0 0 0 0 1 li ul menu-item-148 15 0
+Services O services 0 0 0 0 0 0 1 li ul menu-item-148 15 0
+
+© O © 0 0 0 0 0 0 0 div div textwidget 11 0
+2017 O 2017 0 0 0 1 0 0 0 div div textwidget 11 0
+South O south 0 1 0 0 0 0 1 div div textwidget 11 0
+Suburban O suburban 0 0 0 0 0 0 1 div div textwidget 11 0
+College O college 0 0 0 0 0 0 1 div div textwidget 11 0
+| O | 0 0 0 0 0 0 0 div div textwidget 11 0
+Main O main 0 1 0 0 0 0 1 div div textwidget 11 0
+Number O number 0 0 0 0 0 0 1 div div textwidget 11 0
+: O : 0 0 0 0 0 0 0 div div textwidget 11 0
+( O ( 0 0 0 0 0 0 0 div div textwidget 11 0
+708 O 708 0 0 0 1 0 0 0 div div textwidget 11 0
+) O ) 0 0 0 0 0 0 0 div div textwidget 11 0
+596 O 596 0 0 0 1 0 0 0 div div textwidget 11 0
+- O - 0 0 0 0 0 0 0 div div textwidget 11 0
+2000 O 2000 0 0 0 1 0 0 0 div div textwidget 11 0
+| O | 0 0 0 0 0 0 0 div div textwidget 11 0
+Office O office 0 0 0 0 0 0 1 div div textwidget 11 0
+of O of 0 1 0 0 0 0 0 div div textwidget 11 0
+Admissions O admissions 0 0 0 0 0 0 1 div div textwidget 11 0
+: O : 0 0 0 0 0 0 0 div div textwidget 11 0
+( O ( 0 0 0 0 0 0 0 div div textwidget 11 0
+708 O 708 0 0 0 1 0 0 0 div div textwidget 11 0
+) O ) 0 0 0 0 0 0 0 div div textwidget 11 0
+210 O 210 0 0 0 1 0 0 0 div div textwidget 11 0
+- O - 0 0 0 0 0 0 0 div div textwidget 11 0
+5718 O 5718 0 0 0 1 0 0 0 div div textwidget 11 0
+
+Main O main 0 1 0 0 0 0 1 div div textwidget 11 0
+Campus O campus 0 1 0 0 0 0 1 div div textwidget 11 0
+: O : 0 0 0 0 0 0 0 div div textwidget 11 0
+15800 O 15800 0 0 0 1 0 0 0 div div textwidget 11 0
+South O south 0 1 0 0 0 0 1 div div textwidget 11 0
+State O state 0 1 0 0 0 0 1 div div textwidget 11 0
+Street O street 0 1 0 0 0 0 1 div div textwidget 11 0
+, O , 0 0 0 0 0 0 0 div div textwidget 11 0
+South O south 0 1 0 0 0 0 1 div div textwidget 11 0
+Holland O holland 0 1 0 0 0 0 1 div div textwidget 11 0
+, O , 0 0 0 0 0 0 0 div div textwidget 11 0
+Illinois O illinois 0 1 0 0 0 0 1 div div textwidget 11 0
+60473 O 60473 0 0 0 1 0 0 0 div div textwidget 11 0
+- O - 0 0 0 0 0 0 0 div div textwidget 11 0
+1200 O 1200 0 0 0 1 0 0 0 div div textwidget 11 0
+
+Oak O oak 0 1 0 0 0 0 1 div div textwidget 11 0
+Forest O forest 0 1 0 0 0 0 1 div div textwidget 11 0
+Center O center 0 1 0 0 0 0 1 div div textwidget 11 0
+: O : 0 0 0 0 0 0 0 div div textwidget 11 0
+16333 O 16333 0 0 0 1 0 0 0 div div textwidget 11 0
+South O south 0 1 0 0 0 0 1 div div textwidget 11 0
+Kilbourn O kilbourn 0 1 0 0 0 0 1 div div textwidget 11 0
+Avenue O avenue 0 0 0 0 0 0 1 div div textwidget 11 0
+, O , 0 0 0 0 0 0 0 div div textwidget 11 0
+Oak O oak 0 1 0 0 0 0 1 div div textwidget 11 0
+Forest O forest 0 1 0 0 0 0 1 div div textwidget 11 0
+, O , 0 0 0 0 0 0 0 div div textwidget 11 0
+Illinois O illinois 0 1 0 0 0 0 1 div div textwidget 11 0
+60452 O 60452 0 0 0 1 0 0 0 div div textwidget 11 0
+- O - 0 0 0 0 0 0 0 div div textwidget 11 0
+4601 O 4601 0 0 0 1 0 0 0 div div textwidget 11 0
+
+About O about 0 0 0 0 0 0 1 p div textwidget 12 3
+This O this 0 1 0 0 0 0 1 p div textwidget 12 3
+Site O site 0 1 0 0 0 0 1 p div textwidget 12 3
+| O | 0 0 0 0 0 0 0 div div textwidget 11 0
+Translate O translate 0 0 0 0 0 0 1 p div textwidget 12 4
+| O | 0 0 0 0 0 0 0 div div textwidget 11 0
+Illinois O illinois 0 1 0 0 0 0 1 p div textwidget 12 5
+Voter O voter 0 1 0 0 0 0 1 p div textwidget 12 5
+Registration O registration 0 0 0 0 0 0 1 p div textwidget 12 5

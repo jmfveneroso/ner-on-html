@@ -1,1949 +1,2750 @@
-Staff O 0 1 head html none 4 1
-– O 0 0 head html none 4 1
-University O 0 1 head html none 4 1
-of O 0 1 head html none 4 1
-Copenhagen O 0 0 head html none 4 1
+Staff O staff 0 1 0 0 0 0 1 head html none 4 1
+– O – 0 0 0 0 0 0 0 head html none 4 1
+University O university 0 1 0 0 0 0 1 head html none 4 1
+of O of 0 1 0 0 0 0 0 head html none 4 1
+Copenhagen O copenhagen 0 0 0 0 0 0 1 head html none 4 1
 
-Søg O 0 0 h1 div Medarbejderoversigt. 8 0
-/ O 0 0 div div Medarbejderoversigt. 7 1
-Search O 0 0 h1 div Medarbejderoversigt. 8 1
+Søg O sog 0 0 0 0 0 0 1 h1 div  8 0
+/ O / 0 0 0 0 0 0 0 div div  7 1
+Search O search 0 0 0 0 0 0 1 h1 div  8 1
 
-Global O 0 1 div div Medarbejderoversigt. 7 1
-navigation O 0 0 div div Medarbejderoversigt. 7 1
+Global O global 0 1 0 0 0 0 1 div div  7 1
+navigation O navigation 0 0 0 0 0 0 0 div div  7 1
 
-Study O 0 1 li ul sf-menu 9 0
-at O 0 0 li ul sf-menu 9 0
-UCPH O 0 0 li ul sf-menu 9 0
+Study O study 0 1 0 0 0 0 1 li ul sf-menu 9 0
+at O at 0 0 0 0 0 0 0 li ul sf-menu 9 0
+UCPH O ucph 0 0 0 0 0 0 1 li ul sf-menu 9 0
 
-Bachelor's O 0 0 li ul sf-menu 11 0
-Programmes O 0 0 li ul sf-menu 11 0
+Bachelor O bachelor 0 1 0 0 0 0 1 li ul sf-menu 11 0
+' O ' 0 0 0 0 0 0 0 li ul sf-menu 11 0
+s O s 0 0 0 0 0 0 0 li ul sf-menu 11 0
+Programmes O programmes 0 0 0 0 0 0 1 li ul sf-menu 11 0
 
-Master's O 0 0 li ul sf-menu 11 0
-Programmes O 0 0 li ul sf-menu 11 0
+Master O master 0 1 0 0 1 0 1 li ul sf-menu 11 0
+' O ' 0 0 0 0 0 0 0 li ul sf-menu 11 0
+s O s 0 0 0 0 0 0 0 li ul sf-menu 11 0
+Programmes O programmes 0 0 0 0 0 0 1 li ul sf-menu 11 0
 
-PhD O 0 0 li ul sf-menu 11 0
-Programmes O 0 0 li ul sf-menu 11 0
+PhD O phd 0 0 0 0 0 0 1 li ul sf-menu 11 0
+Programmes O programmes 0 0 0 0 0 0 1 li ul sf-menu 11 0
 
-Continuing O 0 0 li ul sf-menu 11 0
-Education O 0 0 li ul sf-menu 11 0
+Continuing O continuing 0 0 0 0 0 0 1 li ul sf-menu 11 0
+Education O education 0 0 0 0 0 0 1 li ul sf-menu 11 0
 
-Online O 0 0 li ul sf-menu 11 0
-Courses O 0 0 li ul sf-menu 11 0
+Online O online 0 0 0 0 0 0 1 li ul sf-menu 11 0
+Courses O courses 0 0 0 0 0 0 1 li ul sf-menu 11 0
 
-Research O 0 1 li ul sf-menu 9 0
+Research O research 0 1 0 0 0 0 1 li ul sf-menu 9 0
 
-Research O 0 1 li ul sf-menu 11 0
-Strengths O 0 0 li ul sf-menu 11 0
+Research O research 0 1 0 0 0 0 1 li ul sf-menu 11 0
+Strengths O strengths 0 0 0 0 0 0 1 li ul sf-menu 11 0
 
-Collaboration O 0 1 li ul sf-menu 11 0
+Collaboration O collaboration 0 1 0 0 0 0 1 li ul sf-menu 11 0
 
-PhD O 0 0 li ul sf-menu 11 0
-Programmes O 0 0 li ul sf-menu 11 0
+PhD O phd 0 0 0 0 0 0 1 li ul sf-menu 11 0
+Programmes O programmes 0 0 0 0 0 0 1 li ul sf-menu 11 0
 
-Research O 0 1 li ul sf-menu 11 0
-Centres O 0 0 li ul sf-menu 11 0
+Research O research 0 1 0 0 0 0 1 li ul sf-menu 11 0
+Centres O centres 0 0 0 0 0 0 1 li ul sf-menu 11 0
 
-News O 0 0 li ul sf-menu 9 0
+News O news 0 0 0 0 0 0 1 li ul sf-menu 9 0
 
-A O 0 1 li ul nyheder 11 1
-new O 0 0 li ul nyheder 11 1
-role O 0 0 li ul nyheder 11 1
-for O 0 1 li ul nyheder 11 1
-Insulin O 0 0 li ul nyheder 11 1
-as O 0 0 li ul nyheder 11 1
-a O 0 1 li ul nyheder 11 1
-Vital O 0 1 li ul nyheder 11 1
-Factor O 0 1 li ul nyheder 11 1
-in O 0 1 li ul nyheder 11 1
-Maintaining O 0 0 li ul nyheder 11 1
-Stem O 0 1 li ul nyheder 11 1
-Cells O 0 0 li ul nyheder 11 1
+A O a 0 1 0 0 0 0 1 li ul nyheder 11 1
+new O new 0 0 0 0 0 0 0 li ul nyheder 11 1
+role O role 0 0 0 0 0 0 0 li ul nyheder 11 1
+for O for 0 1 0 0 0 0 0 li ul nyheder 11 1
+Insulin O insulin 0 0 0 0 0 0 1 li ul nyheder 11 1
+as O as 0 0 0 0 0 0 0 li ul nyheder 11 1
+a O a 0 1 0 0 0 0 0 li ul nyheder 11 1
+Vital O vital 0 1 0 0 0 0 1 li ul nyheder 11 1
+Factor O factor 0 1 0 0 0 0 1 li ul nyheder 11 1
+in O in 0 1 0 0 0 0 0 li ul nyheder 11 1
+Maintaining O maintaining 0 0 0 0 0 0 1 li ul nyheder 11 1
+Stem O stem 0 1 0 0 0 0 1 li ul nyheder 11 1
+Cells O cells 0 0 0 0 0 0 1 li ul nyheder 11 1
 
-2017.09.25 O 0 0 li ul small 11 2
+2017.09.25 O 2017.09.25 0 0 0 1 0 0 0 li ul small 11 2
 
-The O 0 1 li ul nyheder 11 1
-University O 0 1 li ul nyheder 11 1
-of O 0 1 li ul nyheder 11 1
-Copenhagen O 0 0 li ul nyheder 11 1
-revokes O 0 0 li ul nyheder 11 1
-doctoral O 0 0 li ul nyheder 11 1
-degree O 0 0 li ul nyheder 11 1
+The O the 0 1 0 0 0 0 1 li ul nyheder 11 1
+University O university 0 1 0 0 0 0 1 li ul nyheder 11 1
+of O of 0 1 0 0 0 0 0 li ul nyheder 11 1
+Copenhagen O copenhagen 0 0 0 0 0 0 1 li ul nyheder 11 1
+revokes O revokes 0 0 0 0 0 0 0 li ul nyheder 11 1
+doctoral O doctoral 0 0 0 0 0 0 0 li ul nyheder 11 1
+degree O degree 0 0 0 0 0 0 0 li ul nyheder 11 1
 
-2017.09.12 O 0 0 li ul small 11 2
+2017.09.12 O 2017.09.12 0 0 0 1 0 0 0 li ul small 11 2
 
-Young O 0 1 li ul nyheder 11 1
-research O 0 0 li ul nyheder 11 1
-talents O 0 0 li ul nyheder 11 1
-receive O 0 0 li ul nyheder 11 1
-prestigious O 0 0 li ul nyheder 11 1
-grant O 0 0 li ul nyheder 11 1
+Young O young 0 1 0 0 0 0 1 li ul nyheder 11 1
+research O research 0 0 0 0 0 0 0 li ul nyheder 11 1
+talents O talents 0 0 0 0 0 0 0 li ul nyheder 11 1
+receive O receive 0 0 0 0 0 0 0 li ul nyheder 11 1
+prestigious O prestigious 0 0 0 0 0 0 0 li ul nyheder 11 1
+grant O grant 0 0 0 0 0 0 0 li ul nyheder 11 1
 
-2017.09.12 O 0 0 li ul small 11 2
+2017.09.12 O 2017.09.12 0 0 0 1 0 0 0 li ul small 11 2
 
-All O 0 1 li ul nyheder 11 0
-news O 0 0 li ul nyheder 11 0
+All O all 0 1 0 0 0 0 1 li ul nyheder 11 0
+news O news 0 0 0 0 0 0 0 li ul nyheder 11 0
 
-Collaboration O 0 1 li ul sf-menu 9 0
+Collaboration O collaboration 0 1 0 0 0 0 1 li ul sf-menu 9 0
 
-International O 0 0 li ul sf-menu 11 0
+International O international 0 0 0 0 0 0 1 li ul sf-menu 11 0
 
-Business O 0 0 li ul sf-menu 11 0
+Business O business 0 0 0 0 0 0 1 li ul sf-menu 11 0
 
-Research O 0 1 li ul sf-menu 11 0
-& O 0 0 li ul sf-menu 11 0
-Innovation O 0 0 li ul sf-menu 11 0
+Research O research 0 1 0 0 0 0 1 li ul sf-menu 11 0
+& O & 0 0 0 0 0 0 0 li ul sf-menu 11 0
+Innovation O innovation 0 0 0 0 0 0 1 li ul sf-menu 11 0
 
-Alumni O 0 0 li ul sf-menu 11 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul sf-menu 11 0
 
-Employment O 0 0 li ul sf-menu 9 0
+Employment O employment 0 0 0 0 1 0 1 li ul sf-menu 9 0
 
-Job O 0 1 li ul sf-menu 11 0
-Portal O 0 1 li ul sf-menu 11 0
+Job O job 0 1 0 0 0 0 1 li ul sf-menu 11 0
+Portal O portal 0 1 0 0 0 0 1 li ul sf-menu 11 0
 
-International O 0 0 li ul sf-menu 11 0
-Employees O 0 0 li ul sf-menu 11 0
+International O international 0 0 0 0 0 0 1 li ul sf-menu 11 0
+Employees O employees 0 0 0 0 1 0 1 li ul sf-menu 11 0
 
-About O 0 0 li ul sf-menu 9 0
-UCPH O 0 0 li ul sf-menu 9 0
+About O about 0 0 0 0 0 0 1 li ul sf-menu 9 0
+UCPH O ucph 0 0 0 0 0 0 1 li ul sf-menu 9 0
 
-Introduction O 0 0 li ul sf-menu 11 0
+Introduction O introduction 0 0 0 0 0 0 1 li ul sf-menu 11 0
 
-Organisation O 0 0 li ul sf-menu 11 0
+Organisation O organisation 0 0 0 0 0 0 1 li ul sf-menu 11 0
 
-Management O 0 1 li ul sf-menu 11 0
+Management O management 0 1 0 0 0 0 1 li ul sf-menu 11 0
 
-Faculties O 0 0 li ul sf-menu 11 0
+Faculties O faculties 0 0 0 0 0 0 1 li ul sf-menu 11 0
 
-Departments O 0 0 li ul sf-menu 11 0
+Departments O departments 0 0 0 0 0 0 1 li ul sf-menu 11 0
 
-Contact O 0 0 li ul sf-menu 11 0
+Contact O contact 0 0 0 0 0 0 1 li ul sf-menu 11 0
 
-Map O 0 0 li ul Medarbejderoversigt. 9 0
+Map O map 0 0 0 0 0 0 1 li ul  9 0
 
-Phone O 0 1 li ul Medarbejderoversigt. 9 0
-Book O 0 1 li ul Medarbejderoversigt. 9 0
+Phone O phone 0 1 0 0 0 0 1 li ul  9 0
+Book O book 0 1 0 0 0 0 1 li ul  9 0
 
-KUnet O 0 0 li ul Medarbejderoversigt. 9 0
+KUnet O kunet 0 0 0 0 0 0 1 li ul  9 0
 
-Dansk O 0 0 li ul dansk 9 0
+Dansk O dansk 0 0 0 0 0 0 1 li ul dansk 9 0
 
-☰ O 0 0 div body Medarbejderoversigt. 5 0
+☰ O ☰ 0 0 0 0 0 0 0 div body  5 0
 
-Staff O 0 1 div div Medarbejderoversigt. 6 0
-– O 0 0 div div Medarbejderoversigt. 6 0
-University O 0 1 div div Medarbejderoversigt. 6 0
-of O 0 1 div div Medarbejderoversigt. 6 0
-Copenhagen O 0 0 div div Medarbejderoversigt. 6 0
+Staff O staff 0 1 0 0 0 0 1 div div  6 0
+– O – 0 0 0 0 0 0 0 div div  6 0
+University O university 0 1 0 0 0 0 1 div div  6 0
+of O of 0 1 0 0 0 0 0 div div  6 0
+Copenhagen O copenhagen 0 0 0 0 0 0 1 div div  6 0
 
-Department O 0 0 a div Medarbejderoversigt. 8 0
-of O 0 1 a div Medarbejderoversigt. 8 0
-Computer O 0 0 a div Medarbejderoversigt. 8 0
-Science O 0 0 a div Medarbejderoversigt. 8 0
-
-Hop O 0 1 h1 div Medarbejderoversigt. 7 0
-til O 0 0 h1 div Medarbejderoversigt. 7 0
-/ O 0 0 div div Medarbejderoversigt. 6 0
-Skip O 0 1 h1 div Medarbejderoversigt. 7 1
-to O 0 0 h1 div Medarbejderoversigt. 7 1
-: O 0 0 div div Medarbejderoversigt. 6 0
-
-Indhold O 0 0 a li Medarbejderoversigt. 9 0
-/ O 0 0 li ul Medarbejderoversigt. 8 0
-Content O 0 1 a li Medarbejderoversigt. 9 1
-
-Global O 0 1 li ul Medarbejderoversigt. 8 0
-navigation O 0 0 li ul Medarbejderoversigt. 8 0
-
-Oversigt O 0 0 a li Medarbejderoversigt. 9 0
-/ O 0 0 li ul Medarbejderoversigt. 8 0
-Site O 0 1 a li Medarbejderoversigt. 9 1
-navigation O 0 0 a li Medarbejderoversigt. 9 1
-
-Søg O 0 0 a li Medarbejderoversigt. 9 0
-/ O 0 0 li ul Medarbejderoversigt. 8 0
-Search O 0 0 a li Medarbejderoversigt. 9 1
-
-Ekstra O 0 0 a li Medarbejderoversigt. 9 0
-information O 0 0 a li Medarbejderoversigt. 9 0
-/ O 0 0 li ul Medarbejderoversigt. 8 0
-Sidebar O 0 0 a li Medarbejderoversigt. 9 1
-
-Kolofon O 0 0 a li Medarbejderoversigt. 9 0
-/ O 0 0 li ul Medarbejderoversigt. 8 0
-Footer O 0 1 a li Medarbejderoversigt. 9 1
-
-☰ O 0 0 div div subpage 8 0
-Menu O 0 1 div div subpage 8 0
-
-Department O 0 0 p div subpage 9 0
-of O 0 1 p div subpage 9 0
-Computer O 0 0 p div subpage 9 0
-Science O 0 0 p div subpage 9 0
-DIKU O 0 0 p div subpage 9 0
-> O 0 0 div div subpage 8 9
-Staff O 0 1 div div subpage 8 9
-
-Staff O 0 1 div div title 7 14
-
-Name O 0 1 tr thead pct_30 10 0
-
-Title O 0 1 tr thead pct_40 10 1
-
-Phone O 0 1 tr thead pct_20 10 2
-
-E-mail O 0 0 tr thead pct_25 10 3
-
-Adamaszek, B-NAME 0 0 td tr list 11 0
-Anna I-NAME 0 1 td tr list 11 0
-Maria I-NAME 0 1 td tr list 11 0
-Postdoc O 0 0 tr tbody list 10 2
-
-Al-Khawaja, B-NAME 0 0 td tr list 11 0
-Mays I-NAME 0 1 td tr list 11 0
-Mohammad I-NAME 1 1 td tr list 11 0
-Ali I-NAME 1 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Alstrup, B-NAME 0 0 td tr list 11 0
-Stephen I-NAME 0 1 td tr list 11 0
-Professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35691 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Andersen, B-NAME 0 0 td tr list 11 0
-Asger I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Andersen, B-NAME 0 0 td tr list 11 0
-Tariq I-NAME 0 1 td tr list 11 0
-Osman I-NAME 0 1 td tr list 11 0
-Assistant O 0 0 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35684 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Andersen, B-NAME 0 0 td tr list 11 0
-Ulrich I-NAME 0 1 td tr list 11 0
-Lichtenstein I-NAME 0 1 td tr list 11 0
-S I-NAME 0 1 td tr list 11 0
-Part-time O 0 0 tr tbody list 10 2
-lecturer O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Annenkov, B-NAME 0 0 td tr list 11 0
-Danil I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-student O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-37937 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Asheim, B-NAME 0 0 td tr list 11 0
-Truls I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Augenstein, B-NAME 0 0 td tr list 11 0
-Isabelle I-NAME 0 1 td tr list 11 0
-Assistant O 0 0 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-93 O 0 0 tr tbody list 10 3
-56 O 0 0 tr tbody list 10 3
-59 O 0 0 tr tbody list 10 3
-19 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Baggesen, B-NAME 0 0 td tr list 11 0
-Herluf I-NAME 0 0 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Bak, B-NAME 0 0 td tr list 11 0
-Emil I-NAME 0 1 td tr list 11 0
-Sander I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Bansler, B-NAME 0 0 td tr list 11 0
-Jørgen I-NAME 0 1 td tr list 11 0
-P. I-NAME 0 1 td tr list 11 0
-Professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-23 O 0 0 tr tbody list 10 3
-81 O 0 0 tr tbody list 10 3
-13 O 0 0 tr tbody list 10 3
-32 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Bergqvist, B-NAME 0 0 td tr list 11 0
-Mette I-NAME 0 1 td tr list 11 0
-Nowack I-NAME 0 1 td tr list 11 0
-Section O 0 1 tr tbody list 10 2
-secratary O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-36680 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Bergström-Lehtovirta, B-NAME 0 0 td tr list 11 0
-Joanna I-NAME 0 1 td tr list 11 0
-Postdoc O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-93 O 0 0 tr tbody list 10 3
-56 O 0 0 tr tbody list 10 3
-54 O 0 0 tr tbody list 10 3
-83 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Bingel, B-NAME 0 0 td tr list 11 0
-Joachim I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-fellow O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Bjørn, B-NAME 0 0 td tr list 11 0
-Pernille I-NAME 0 1 td tr list 11 0
-Professor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Boomsma, B-NAME 0 0 td tr list 11 0
-Wouter I-NAME 0 1 td tr list 11 0
-Krogh I-NAME 0 1 td tr list 11 0
-Assistant O 0 0 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-51 O 0 0 tr tbody list 10 3
-92 O 0 0 tr tbody list 10 3
-36 O 0 0 tr tbody list 10 3
-00 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Borg, B-NAME 0 0 td tr list 11 0
-Leise I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-student O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35708 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Boring, B-NAME 0 0 td tr list 11 0
-Sebastian I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35694 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Brandt, B-NAME 0 0 td tr list 11 0
-Patrick I-NAME 0 1 td tr list 11 0
-Krøll I-NAME 0 0 td tr list 11 0
-Teacher's O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Brandt, B-NAME 0 0 td tr list 11 0
-Sami I-NAME 0 1 td tr list 11 0
-Sebastian I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-21426 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Breddam, B-NAME 0 0 td tr list 11 0
-Svend I-NAME 0 1 td tr list 11 0
-Lund I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Brix, B-NAME 0 0 td tr list 11 0
-Matthias I-NAME 0 1 td tr list 11 0
-Christian I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-
-Carlqvist, B-NAME 0 0 td tr list 11 0
-Alexander I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-cdl966, O 0 0 td tr list 11 0
-cdl966 O 0 0 td tr list 11 0
-Student O 0 1 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Christensen, B-NAME 0 0 td tr list 11 0
-Amalie I-NAME 0 1 td tr list 11 0
-Vangekjær I-NAME 0 0 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Christensen, B-NAME 0 0 td tr list 11 0
-Niels I-NAME 0 1 td tr list 11 0
-Liljedahl I-NAME 0 1 td tr list 11 0
-
-Cox, B-NAME 0 0 td tr list 11 0
-Ingemar I-NAME 1 1 td tr list 11 0
-Johansson I-NAME 1 1 td tr list 11 0
-Professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35676 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Czajka, B-NAME 0 0 td tr list 11 0
-Lukasz I-NAME 0 1 td tr list 11 0
-Tadeusz I-NAME 0 1 td tr list 11 0
-Postdoc O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-34207 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Dam, B-NAME 0 0 td tr list 11 0
-Erik I-NAME 0 1 td tr list 11 0
-Bjørnager I-NAME 0 0 td tr list 11 0
-E-mail O 0 0 td tr list 11 0
-
-Danielsen, B-NAME 0 0 td tr list 11 0
-Andreas I-NAME 0 1 td tr list 11 0
-Hjortgaard I-NAME 0 1 td tr list 11 0
-
-Darkner, B-NAME 0 0 td tr list 11 0
-Sune I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35702 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-de B-NAME 0 1 td tr list 11 0
-Bruijne, I-NAME 0 0 td tr list 11 0
-Marleen I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Dickow, B-NAME 0 0 td tr list 11 0
-Jan I-NAME 0 1 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Do, B-NAME 0 0 td tr list 11 0
-Manh I-NAME 0 1 td tr list 11 0
-Tan I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Duckert, B-NAME 0 0 td tr list 11 0
-Anne-Marie I-NAME 0 1 td tr list 11 0
-Research O 0 1 tr tbody list 10 2
-secretary O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-93 O 0 0 tr tbody list 10 3
-56 O 0 0 tr tbody list 10 3
-57 O 0 0 tr tbody list 10 3
-75 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Due-Frederiksen, B-NAME 0 0 td tr list 11 0
-Camilla I-NAME 0 1 td tr list 11 0
-Student O 0 1 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Düdder, B-NAME 0 0 td tr list 11 0
-Boris I-NAME 0 1 td tr list 11 0
-Assistant O 0 0 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-93 O 0 0 tr tbody list 10 3
-56 O 0 0 tr tbody list 10 3
-57 O 0 0 tr tbody list 10 3
-48 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Edwards, B-NAME 0 0 td tr list 11 0
-Franchesca I-NAME 0 1 td tr list 11 0
-Andre I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Edwards, B-NAME 0 0 td tr list 11 0
-Michaela I-NAME 0 1 td tr list 11 0
-Isabella I-NAME 0 1 td tr list 11 0
-André I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Einarsson, B-NAME 0 0 td tr list 11 0
-Arni I-NAME 0 1 td tr list 11 0
-Már I-NAME 0 1 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Elsman, B-NAME 0 0 td tr list 11 0
-Martin I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35683 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Engedal, B-NAME 0 0 td tr list 11 0
-Lukas I-NAME 1 1 td tr list 11 0
-Svarre I-NAME 0 1 td tr list 11 0
-Teacher's O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Engell-Nørregård, B-NAME 0 0 td tr list 11 0
-Morten I-NAME 0 1 td tr list 11 0
-Pol I-NAME 0 1 td tr list 11 0
-
-Engstrøm, B-NAME 0 0 td tr list 11 0
-Jeanett I-NAME 0 1 td tr list 11 0
-Ella I-NAME 0 1 td tr list 11 0
-Grau I-NAME 0 1 td tr list 11 0
-Head O 0 1 tr tbody list 10 2
-of O 0 1 tr tbody list 10 2
-administration O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-32603 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Erleben, B-NAME 0 0 td tr list 11 0
-Kenny I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-21413 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Erno, B-NAME 0 0 td tr list 11 0
-Jesper I-NAME 0 1 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Evald, B-NAME 0 0 td tr list 11 0
-Jacob I-NAME 0 1 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Falck, B-NAME 0 0 td tr list 11 0
-Philip I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Feragen, B-NAME 0 0 td tr list 11 0
-Aasa I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35723 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Filinski, B-NAME 0 0 td tr list 11 0
-Andrzej I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35687 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Fleron, B-NAME 0 0 td tr list 11 0
-Benedicte I-NAME 0 1 td tr list 11 0
-Frederikke I-NAME 0 0 td tr list 11 0
-Rex I-NAME 0 1 td tr list 11 0
-Part-time O 0 0 tr tbody list 10 2
-lecturer O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Fonseca, B-NAME 0 0 td tr list 11 0
-Rasmus I-NAME 0 1 td tr list 11 0
-International O 0 0 tr tbody list 10 2
-Researcher O 0 0 tr tbody list 10 2
-
-Fredmark, B-NAME 0 0 td tr list 11 0
-Sandra I-NAME 0 1 td tr list 11 0
-Thordahl I-NAME 0 0 td tr list 11 0
-
-Frenzel, B-NAME 0 0 td tr list 11 0
-Sven I-NAME 0 1 td tr list 11 0
-Uhrenholdt I-NAME 0 0 td tr list 11 0
-Teacher's O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Frøkjær, B-NAME 0 0 td tr list 11 0
-Erik I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-30 O 0 0 tr tbody list 10 3
-58 O 0 0 tr tbody list 10 3
-95 O 0 0 tr tbody list 10 3
-21 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Gieseke, B-NAME 0 0 td tr list 11 0
-Fabian I-NAME 0 1 td tr list 11 0
-Cristian I-NAME 0 1 td tr list 11 0
-Assistant O 0 0 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Glück, B-NAME 0 0 td tr list 11 0
-Robert I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-29 O 0 0 tr tbody list 10 3
-61 O 0 0 tr tbody list 10 3
-16 O 0 0 tr tbody list 10 3
-55 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Grathwohl, B-NAME 0 0 td tr list 11 0
-Niels I-NAME 0 1 td tr list 11 0
-Bjørn I-NAME 0 1 td tr list 11 0
-Bugge I-NAME 0 1 td tr list 11 0
-
-Groot, B-NAME 0 0 td tr list 11 0
-Christopher I-NAME 0 1 td tr list 11 0
-Mulvad I-NAME 0 1 td tr list 11 0
-Student O 0 1 tr tbody list 10 2
-adviser O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Grue, B-NAME 0 0 td tr list 11 0
-Klaus I-NAME 0 1 td tr list 11 0
-Ebbe I-NAME 0 1 td tr list 11 0
-E-mail O 0 0 td tr list 11 0
-
-Gui, B-NAME 0 0 td tr list 11 0
-Sisi I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-fellow O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-71 O 0 0 tr tbody list 10 3
-48 O 0 0 tr tbody list 10 3
-84 O 0 0 tr tbody list 10 3
-94 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Hagenow, B-NAME 0 0 td tr list 11 0
-Line I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Hall-Andersen, B-NAME 0 0 td tr list 11 0
-Mathias I-NAME 0 1 td tr list 11 0
-Nørup I-NAME 0 1 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-
-Hansen, B-NAME 0 0 td tr list 11 0
-Casper I-NAME 0 1 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Hansen, B-NAME 0 0 td tr list 11 0
-Christian I-NAME 0 1 td tr list 11 0
-Teacher's O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Hansen, B-NAME 0 0 td tr list 11 0
-Jacob I-NAME 0 1 td tr list 11 0
-Daniel I-NAME 0 1 td tr list 11 0
-Kirstejn I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-student O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Hansen, B-NAME 0 0 td tr list 11 0
-Klaus I-NAME 0 1 td tr list 11 0
-Professor O 0 0 tr tbody list 10 2
-emeritus O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Hansen, B-NAME 0 0 td tr list 11 0
-Niels I-NAME 0 1 td tr list 11 0
-Dalum I-NAME 0 1 td tr list 11 0
-Industrial O 0 0 tr tbody list 10 2
-PhD O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Hartmann, B-NAME 0 0 td tr list 11 0
-Mareike I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-fellow O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Havn, B-NAME 0 0 td tr list 11 0
-Erling I-NAME 0 1 td tr list 11 0
-Carl I-NAME 0 1 td tr list 11 0
-Part-time O 0 0 tr tbody list 10 2
-lecturer O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Hellfritzsch, B-NAME 0 0 td tr list 11 0
-Sune I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Henglein, B-NAME 0 0 td tr list 11 0
-Fritz I-NAME 0 1 td tr list 11 0
-Professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35692 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Henriksen, B-NAME 0 0 td tr list 11 0
-Marianne I-NAME 0 1 td tr list 11 0
-Administrative O 0 0 tr tbody list 10 2
-officer O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-21399 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Henriksen, B-NAME 0 0 td tr list 11 0
-Troels I-NAME 0 1 td tr list 11 0
-&#955; O 0 0 td tr list 11 0
-Postdoc O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Hernandez, B-NAME 0 0 td tr list 11 0
-Alejandro I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Hindkjær, B-NAME 0 0 td tr list 11 0
-Christian I-NAME 0 1 td tr list 11 0
-Attendant O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35670 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Hjuler, B-NAME 0 0 td tr list 11 0
-Niklas I-NAME 0 1 td tr list 11 0
-Oskar I-NAME 0 1 td tr list 11 0
-Daniel I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-student O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-33579 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Hochreuter, B-NAME 0 0 td tr list 11 0
-Henrik I-NAME 0 1 td tr list 11 0
-Lilleriis I-NAME 0 0 td tr list 11 0
-Senior O 0 1 tr tbody list 10 2
-adviser O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-21148 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Holm, B-NAME 0 0 td tr list 11 0
-Andreas I-NAME 0 1 td tr list 11 0
-Nugaard I-NAME 0 0 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Holm, B-NAME 0 0 td tr list 11 0
-Jacob I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-fellow O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Holm, B-NAME 0 0 td tr list 11 0
-Sabrina I-NAME 0 1 td tr list 11 0
-Escalante I-NAME 0 1 td tr list 11 0
-Teacher's O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Holst, B-NAME 0 0 td tr list 11 0
-Peter I-NAME 1 1 td tr list 11 0
-Otto I-NAME 1 1 td tr list 11 0
-Sloth I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Hornbæk, B-NAME 0 0 td tr list 11 0
-Kasper I-NAME 0 1 td tr list 11 0
-Professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-21425 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Hovy, B-NAME 0 0 td tr list 11 0
-Dirk I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-21 O 0 0 tr tbody list 10 3
-26 O 0 0 tr tbody list 10 3
-55 O 0 0 tr tbody list 10 3
-76 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Igel, B-NAME 0 0 td tr list 11 0
-Christian I-NAME 0 1 td tr list 11 0
-Professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35674 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Iversen, B-NAME 0 0 td tr list 11 0
-Bjarke I-NAME 0 1 td tr list 11 0
-Kingo I-NAME 0 1 td tr list 11 0
-Student O 0 1 tr tbody list 10 2
-adviser O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Jabbar, B-NAME 0 0 td tr list 11 0
-Karim I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-student O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Jacobsen, B-NAME 0 0 td tr list 11 0
-Nicklas I-NAME 0 1 td tr list 11 0
-Warming I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Jansen, B-NAME 0 0 td tr list 11 0
-Yvonne I-NAME 0 1 td tr list 11 0
-E-mail O 0 0 td tr list 11 0
-
-Jensen, B-NAME 0 0 td tr list 11 0
-Henrik I-NAME 0 1 td tr list 11 0
-Grønholt I-NAME 0 0 td tr list 11 0
-Research O 0 1 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Jensen, B-NAME 0 0 td tr list 11 0
-Inge I-NAME 0 1 td tr list 11 0
-Hviid I-NAME 0 1 td tr list 11 0
-Senior O 0 1 tr tbody list 10 2
-executive O 0 0 tr tbody list 10 2
-adviser O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-287-51428 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Jensen, B-NAME 0 0 td tr list 11 0
-Katrine I-NAME 0 1 td tr list 11 0
-Hommelhoff I-NAME 0 1 td tr list 11 0
-
-Joensen, B-NAME 0 0 td tr list 11 0
-Mads I-NAME 0 1 td tr list 11 0
-Højgaard I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Johansen, B-NAME 0 0 td tr list 11 0
-Peter I-NAME 0 1 td tr list 11 0
-Professor O 0 0 tr tbody list 10 2
-emeritus O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Johansen, B-NAME 0 0 td tr list 11 0
-Sebastian I-NAME 0 1 td tr list 11 0
-Dyrby I-NAME 0 1 td tr list 11 0
-Teacher's O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Jones, B-NAME 0 0 td tr list 11 0
-Neil I-NAME 0 1 td tr list 11 0
-Professor O 0 0 tr tbody list 10 2
-emeritus O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Jørgensen, B-NAME 0 0 td tr list 11 0
-Troels I-NAME 0 1 td tr list 11 0
-Anker I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Kaarsgaard, B-NAME 0 0 td tr list 11 0
-Robin I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-student O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Karagiannis, B-NAME 0 0 td tr list 11 0
-Georgios I-NAME 0 1 td tr list 11 0
-E-mail O 0 0 td tr list 11 0
-
-Kasenburg, B-NAME 0 0 td tr list 11 0
-Niklas I-NAME 0 1 td tr list 11 0
-
-Katajainen, B-NAME 0 0 td tr list 11 0
-Jyrki I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35680 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Keller, B-NAME 0 0 td tr list 11 0
-Rikke I-NAME 0 1 td tr list 11 0
-Smith I-NAME 0 1 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Kensing, B-NAME 0 0 td tr list 11 0
-Finn I-NAME 0 1 td tr list 11 0
-Professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-21146 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Koch, B-NAME 0 0 td tr list 11 0
-Magnus I-NAME 0 1 td tr list 11 0
-
-Kovacevic, B-NAME 0 0 td tr list 11 0
-Milos I-NAME 0 1 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Krarup, B-NAME 0 0 td tr list 11 0
-Jakob I-NAME 0 1 td tr list 11 0
-Professor O 0 0 tr tbody list 10 2
-emeritus O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Kremer, B-NAME 0 0 td tr list 11 0
-Jan I-NAME 0 1 td tr list 11 0
-Research O 0 1 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Kristensen, B-NAME 0 0 td tr list 11 0
-Daniela I-NAME 0 1 td tr list 11 0
-Mechlenborg I-NAME 0 1 td tr list 11 0
-Student O 0 1 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Kristensen, B-NAME 0 0 td tr list 11 0
-Joachim I-NAME 0 1 td tr list 11 0
-Tilsted I-NAME 0 0 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Kühnel, B-NAME 0 0 td tr list 11 0
-Line I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-fellow O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Lane, B-NAME 0 0 td tr list 11 0
-Håkan I-NAME 0 1 td tr list 11 0
-Assistant O 0 0 tr tbody list 10 2
-lecturer O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Larsen, B-NAME 0 0 td tr list 11 0
-Christian I-NAME 0 1 td tr list 11 0
-Kjær I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Larsen, B-NAME 0 0 td tr list 11 0
-Ken I-NAME 0 1 td tr list 11 0
-Friis I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35697 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Lassen, B-NAME 0 0 td tr list 11 0
-Anders I-NAME 0 1 td tr list 11 0
-Part-time O 0 0 tr tbody list 10 2
-lecturer O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-20 O 0 0 tr tbody list 10 3
-89 O 0 0 tr tbody list 10 3
-86 O 0 0 tr tbody list 10 3
-68 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Lassen, B-NAME 0 0 td tr list 11 0
-Lee I-NAME 1 1 td tr list 11 0
-Herluf I-NAME 0 0 td tr list 11 0
-Lund I-NAME 0 1 td tr list 11 0
-
-Laursen, B-NAME 0 0 td tr list 11 0
-Jens I-NAME 0 1 td tr list 11 0
-Emil I-NAME 0 1 td tr list 11 0
-Østergaard I-NAME 0 1 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Lauze, B-NAME 0 0 td tr list 11 0
-Francois I-NAME 0 1 td tr list 11 0
-Bernard I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35671 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Leskes, B-NAME 0 0 td tr list 11 0
-Troels I-NAME 0 1 td tr list 11 0
-Kamp I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Lillholm-Jørgensen, B-NAME 0 0 td tr list 11 0
-Camilla I-NAME 0 1 td tr list 11 0
-Senior O 0 1 tr tbody list 10 2
-executive O 0 0 tr tbody list 10 2
-adviser O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35693 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Lioma, B-NAME 0 0 td tr list 11 0
-Christina I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-
-Lomholt, B-NAME 0 0 td tr list 11 0
-Sune I-NAME 0 1 td tr list 11 0
-Part-time O 0 0 tr tbody list 10 2
-lecturer O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Loog, B-NAME 0 0 td tr list 11 0
-Marco I-NAME 0 1 td tr list 11 0
-Affiliate O 0 0 tr tbody list 10 2
-Professor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Lorenzen, B-NAME 0 0 td tr list 11 0
-Stephan I-NAME 0 1 td tr list 11 0
-Sloth I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-fellow O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Low, B-NAME 0 0 td tr list 11 0
-Becky I-NAME 0 1 td tr list 11 0
-Dan I-NAME 0 1 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Lund, B-NAME 0 0 td tr list 11 0
-Otto I-NAME 0 1 td tr list 11 0
-Kristoffersen I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Lundsgaard, B-NAME 0 0 td tr list 11 0
-Jesper I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Madsen, B-NAME 0 0 td tr list 11 0
-Sophie I-NAME 0 1 td tr list 11 0
-Fredslund I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Mallasto, B-NAME 0 0 td tr list 11 0
-Anton I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-student O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Mansourvar, B-NAME 0 0 td tr list 11 0
-Marjan I-NAME 0 1 td tr list 11 0
-Assistant O 0 0 tr tbody list 10 2
-lecturer O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Matthiesen, B-NAME 0 0 td tr list 11 0
-Stina I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-fellow O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-21 O 0 0 tr tbody list 10 3
-23 O 0 0 tr tbody list 10 3
-10 O 0 0 tr tbody list 10 3
-08 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-McGillion, B-NAME 0 0 td tr list 11 0
-Sarah I-NAME 0 1 td tr list 11 0
-Alice I-NAME 0 1 td tr list 11 0
-Teacher's O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-mct671, O 0 0 td tr list 11 0
-mct671 O 0 0 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Mogensen, B-NAME 0 0 td tr list 11 0
-Torben I-NAME 0 1 td tr list 11 0
-Ægidius I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35673 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Moll, B-NAME 0 0 td tr list 11 0
-Jonas I-NAME 0 1 td tr list 11 0
-Assistant O 0 0 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-21393 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Mottelson, B-NAME 0 0 td tr list 11 0
-Aske I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-fellow O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-27 O 0 0 tr tbody list 10 3
-64 O 0 0 tr tbody list 10 3
-70 O 0 0 tr tbody list 10 3
-16 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Møller, B-NAME 0 0 td tr list 11 0
-Jette I-NAME 0 1 td tr list 11 0
-Giovanni I-NAME 0 1 td tr list 11 0
-Administrative O 0 0 tr tbody list 10 2
-staff O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35689 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Møller, B-NAME 0 0 td tr list 11 0
-Naja I-NAME 0 1 td tr list 11 0
-L. I-NAME 0 1 td tr list 11 0
-Holten I-NAME 0 1 td tr list 11 0
-Assistant O 0 0 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-34771 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Neumann, B-NAME 0 0 td tr list 11 0
-Cille I-NAME 0 0 td tr list 11 0
-Kruuse I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Niclasen, B-NAME 0 0 td tr list 11 0
-Aslak I-NAME 0 1 td tr list 11 0
-Hammer I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Nielsen, B-NAME 0 0 td tr list 11 0
-Emma I-NAME 0 1 td tr list 11 0
-Liv I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Nielsen, B-NAME 0 0 td tr list 11 0
-Mads I-NAME 0 1 td tr list 11 0
-Professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-24 O 0 0 tr tbody list 10 3
-60 O 0 0 tr tbody list 10 3
-05 O 0 0 tr tbody list 10 3
-99 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Nielsen, B-NAME 0 0 td tr list 11 0
-Max I-NAME 0 1 td tr list 11 0
-Kragballe I-NAME 0 0 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Nielsen, B-NAME 0 0 td tr list 11 0
-Sacha I-NAME 0 1 td tr list 11 0
-Weile I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Nielsen, B-NAME 0 0 td tr list 11 0
-Terese I-NAME 0 1 td tr list 11 0
-Marianne I-NAME 0 1 td tr list 11 0
-Olga I-NAME 0 1 td tr list 11 0
-Assistant O 0 0 tr tbody list 10 2
-Lecturer O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Nielsen, B-NAME 0 0 td tr list 11 0
-Trine I-NAME 0 1 td tr list 11 0
-Louise I-NAME 0 1 td tr list 11 0
-Brøndt I-NAME 0 0 td tr list 11 0
-Academic O 0 0 tr tbody list 10 2
-staff O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-32256 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Nielsen, B-NAME 0 0 td tr list 11 0
-Tue I-NAME 0 1 td tr list 11 0
-Bjerl I-NAME 0 0 td tr list 11 0
-Part-time O 0 0 tr tbody list 10 2
-lecturer O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-31 O 0 0 tr tbody list 10 3
-25 O 0 0 tr tbody list 10 3
-70 O 0 0 tr tbody list 10 3
-85 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Nissen, B-NAME 0 0 td tr list 11 0
-Kristian I-NAME 0 1 td tr list 11 0
-Fogh I-NAME 0 1 td tr list 11 0
-Teacher's O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Nissen, B-NAME 0 0 td tr list 11 0
-Malte I-NAME 0 1 td tr list 11 0
-Stær I-NAME 0 0 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-student O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-51 O 0 0 tr tbody list 10 3
-94 O 0 0 tr tbody list 10 3
-81 O 0 0 tr tbody list 10 3
-22 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Norup, B-NAME 0 0 td tr list 11 0
-Helle I-NAME 0 1 td tr list 11 0
-Research O 0 1 tr tbody list 10 2
-group O 0 0 tr tbody list 10 2
-secretary O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-27790 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Novak, B-NAME 0 0 td tr list 11 0
-Cecilie I-NAME 0 1 td tr list 11 0
-Teacher's O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Nørbjerg, B-NAME 0 0 td tr list 11 0
-Jacob I-NAME 0 1 td tr list 11 0
-Assistant O 0 0 tr tbody list 10 2
-lecturer O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Oancea, B-NAME 0 0 td tr list 11 0
-Cosmin I-NAME 0 1 td tr list 11 0
-Eugen I-NAME 0 1 td tr list 11 0
-Assistant O 0 0 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-23 O 0 0 tr tbody list 10 3
-82 O 0 0 tr tbody list 10 3
-80 O 0 0 tr tbody list 10 3
-86 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Ojala, B-NAME 0 0 td tr list 11 0
-Mace I-NAME 0 1 td tr list 11 0
-Markku I-NAME 0 1 td tr list 11 0
-Olavi I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Olsen, B-NAME 0 0 td tr list 11 0
-Søren I-NAME 0 1 td tr list 11 0
-Ingvor I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-93 O 0 0 tr tbody list 10 3
-56 O 0 0 tr tbody list 10 3
-57 O 0 0 tr tbody list 10 3
-22 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Pai, B-NAME 0 0 td tr list 11 0
-Akshay I-NAME 0 1 td tr list 11 0
-Sadananda I-NAME 0 1 td tr list 11 0
-Uppinakudru I-NAME 0 0 td tr list 11 0
-Research O 0 1 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Pedersen, B-NAME 0 0 td tr list 11 0
-Kim I-NAME 0 1 td tr list 11 0
-Steenstrup I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-21455 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Pedersen, B-NAME 0 0 td tr list 11 0
-Peter I-NAME 0 1 td tr list 11 0
-Nørfjand I-NAME 0 0 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Petersen, B-NAME 0 0 td tr list 11 0
-Emil I-NAME 0 1 td tr list 11 0
-Teacher's O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Petersen, B-NAME 0 0 td tr list 11 0
-Jens I-NAME 0 1 td tr list 11 0
-Postdoc O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Petersen, B-NAME 0 0 td tr list 11 0
-Tobias I-NAME 0 1 td tr list 11 0
-Hallundbæk I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Pham, B-NAME 0 0 td tr list 11 0
-Chi I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-
-Pham, B-NAME 0 0 td tr list 11 0
-Dang I-NAME 0 1 td tr list 11 0
-Ninh I-NAME 0 1 td tr list 11 0
-Postdoc O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Pinder, B-NAME 0 0 td tr list 11 0
-Annie I-NAME 0 1 td tr list 11 0
-Jane I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-fellow O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Pisinger, B-NAME 0 0 td tr list 11 0
-David I-NAME 0 1 td tr list 11 0
-Affiliate O 0 0 tr tbody list 10 2
-Professor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Pohl, B-NAME 0 0 td tr list 11 0
-Henning I-NAME 0 1 td tr list 11 0
-Sebastian I-NAME 0 1 td tr list 11 0
-Clemens I-NAME 0 1 td tr list 11 0
-Postdoc O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-31965 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Probst, B-NAME 0 0 td tr list 11 0
-Jonas I-NAME 0 1 td tr list 11 0
-Bilsted I-NAME 0 0 td tr list 11 0
-Head O 0 1 tr tbody list 10 2
-of O 0 1 tr tbody list 10 2
-administration O 0 0 tr tbody list 10 2
-+255 O 0 0 tr tbody list 10 3
-756677390 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Probst, B-NAME 0 0 td tr list 11 0
-Maximilian I-NAME 0 1 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Raghavendra, B-NAME 0 0 td tr list 11 0
-Selvan I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-fellow O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Ramirez B-NAME 0 1 td tr list 11 0
-Lapena, I-NAME 0 0 td tr list 11 0
-Laura I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-
-Rasmussen, B-NAME 0 0 td tr list 11 0
-Kasper I-NAME 0 1 td tr list 11 0
-Verdel I-NAME 0 1 td tr list 11 0
-Senior O 0 1 tr tbody list 10 2
-adviser O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35668 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Rodríguez B-NAME 0 1 td tr list 11 0
-Arbonès, I-NAME 0 0 td tr list 11 0
-Dídac I-NAME 0 1 td tr list 11 0
-Assistant O 0 0 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Roman, B-NAME 0 0 td tr list 11 0
-Claudiu-Horatiu I-NAME 0 0 td tr list 11 0
-Student O 0 1 tr tbody list 10 2
-programmer O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Rosendahl, B-NAME 0 0 td tr list 11 0
-Mads I-NAME 0 1 td tr list 11 0
-
-Ross, B-NAME 0 0 td tr list 11 0
-Omry I-NAME 0 1 td tr list 11 0
-Assistant O 0 0 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-30673 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Rotenberg, B-NAME 0 0 td tr list 11 0
-Eva I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-fellow O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Rotendahl, B-NAME 0 0 td tr list 11 0
-Benjamin I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Roytman, B-NAME 0 0 td tr list 11 0
-Alan I-NAME 0 1 td tr list 11 0
-James I-NAME 0 1 td tr list 11 0
-Postdoc O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Rudloff, B-NAME 0 0 td tr list 11 0
-Jonas I-NAME 0 1 td tr list 11 0
-Thomas I-NAME 0 1 td tr list 11 0
-Seneberg I-NAME 0 0 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Ryther, B-NAME 0 0 td tr list 11 0
-Christopher I-NAME 0 1 td tr list 11 0
-Alan I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-student O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Rønnow, B-NAME 0 0 td tr list 11 0
-Mads I-NAME 0 1 td tr list 11 0
-Jeppe I-NAME 0 1 td tr list 11 0
-Lyngholm I-NAME 0 1 td tr list 11 0
-Teacher's O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-
-Saietz, B-NAME 0 0 td tr list 11 0
-Maya I-NAME 0 1 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Sand, B-NAME 0 0 td tr list 11 0
-Pernille I-NAME 0 1 td tr list 11 0
-Julie I-NAME 0 1 td tr list 11 0
-Viuff I-NAME 0 0 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Schwartz, B-NAME 0 0 td tr list 11 0
-Julie I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Seiller, B-NAME 0 0 td tr list 11 0
-Thomas I-NAME 0 1 td tr list 11 0
-Postdoc O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-93 O 0 0 tr tbody list 10 3
-56 O 0 0 tr tbody list 10 3
-54 O 0 0 tr tbody list 10 3
-52 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Seldin, B-NAME 0 0 td tr list 11 0
-Yevgeny I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Serup, B-NAME 0 0 td tr list 11 0
-Niels I-NAME 0 1 td tr list 11 0
-G. I-NAME 0 1 td tr list 11 0
-W. I-NAME 0 1 td tr list 11 0
-
-Shakibfar, B-NAME 0 0 td tr list 11 0
-Saeed I-NAME 0 1 td tr list 11 0
-Postdoc O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-31269 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Simonsen, B-NAME 0 0 td tr list 11 0
-Jakob I-NAME 0 1 td tr list 11 0
-Grue I-NAME 0 1 td tr list 11 0
-Professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-21439 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Slaats, B-NAME 0 0 td tr list 11 0
-Tijs I-NAME 0 1 td tr list 11 0
-Assistant O 0 0 tr tbody list 10 2
-professor, O 0 0 tr tbody list 10 2
-tenure O 0 0 tr tbody list 10 2
-track O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-30318 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Sommer, B-NAME 0 0 td tr list 11 0
-Stefan I-NAME 0 1 td tr list 11 0
-Horst I-NAME 0 1 td tr list 11 0
-Assistant O 0 0 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35716 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Spiegelhauer, B-NAME 0 0 td tr list 11 0
-Brian I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Sporring, B-NAME 0 0 td tr list 11 0
-Jon I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35682 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Steen, B-NAME 0 0 td tr list 11 0
-Amanda I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Steen, B-NAME 0 0 td tr list 11 0
-Anne I-NAME 0 1 td tr list 11 0
-Karina I-NAME 0 1 td tr list 11 0
-Academic O 0 0 tr tbody list 10 2
-Officer O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-33659 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Strohmeier, B-NAME 0 0 td tr list 11 0
-Paul I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-fellow O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Svendsen, B-NAME 0 0 td tr list 11 0
-Mads I-NAME 0 1 td tr list 11 0
-Ulrik I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Søgaard, B-NAME 0 0 td tr list 11 0
-Anders I-NAME 0 1 td tr list 11 0
-Professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-29065 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Søndergaard, B-NAME 0 0 td tr list 11 0
-Ann I-NAME 1 1 td tr list 11 0
-Steendahl I-NAME 0 1 td tr list 11 0
-Senior O 0 1 tr tbody list 10 2
-adviser O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-24 O 0 0 tr tbody list 10 3
-48 O 0 0 tr tbody list 10 3
-03 O 0 0 tr tbody list 10 3
-38 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Sørensen, B-NAME 0 0 td tr list 11 0
-Nikolaj I-NAME 0 1 td tr list 11 0
-Overgaard I-NAME 0 1 td tr list 11 0
-Teacher's O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Thomasberg, B-NAME 0 0 td tr list 11 0
-John I-NAME 0 1 td tr list 11 0
-Barzel I-NAME 0 1 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Thomsen, B-NAME 0 0 td tr list 11 0
-Henrik I-NAME 0 1 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Thomsen, B-NAME 0 0 td tr list 11 0
-Michael I-NAME 0 1 td tr list 11 0
-Kirkedal I-NAME 0 1 td tr list 11 0
-Assistant O 0 0 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-36154 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Thoresen, B-NAME 0 0 td tr list 11 0
-Freja I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Thorup, B-NAME 0 0 td tr list 11 0
-Mikkel I-NAME 0 1 td tr list 11 0
-Professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35710 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Thune, B-NAME 0 0 td tr list 11 0
-Tobias I-NAME 1 1 td tr list 11 0
-Sommer I-NAME 1 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-student O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-33468 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Tofte, B-NAME 0 0 td tr list 11 0
-Stefan I-NAME 0 1 td tr list 11 0
-Friis I-NAME 0 1 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Uldall, B-NAME 0 0 td tr list 11 0
-Alexander I-NAME 0 1 td tr list 11 0
-Winther I-NAME 0 1 td tr list 11 0
-Teacher's O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Uldall-Espersen, B-NAME 0 0 td tr list 11 0
-Tobias I-NAME 0 1 td tr list 11 0
-Part-time O 0 0 tr tbody list 10 2
-lecturer O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-21389 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Vaz B-NAME 0 1 td tr list 11 0
-Salles, I-NAME 0 0 td tr list 11 0
-Marcos I-NAME 0 1 td tr list 11 0
-António I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-23 O 0 0 tr tbody list 10 3
-83 O 0 0 tr tbody list 10 3
-99 O 0 0 tr tbody list 10 3
-58 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Vej, B-NAME 0 0 td tr list 11 0
-Jenny-Margrethe I-NAME 0 0 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-
-Vidø, B-NAME 0 0 td tr list 11 0
-Emilie I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Waagstein, B-NAME 0 0 td tr list 11 0
-Jeppe I-NAME 0 1 td tr list 11 0
-Eimose I-NAME 0 0 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-student O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-51 O 0 0 tr tbody list 10 3
-53 O 0 0 tr tbody list 10 3
-82 O 0 0 tr tbody list 10 3
-40 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Wac, B-NAME 0 0 td tr list 11 0
-Katarzyna I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-60 O 0 0 tr tbody list 10 3
-42 O 0 0 tr tbody list 10 3
-56 O 0 0 tr tbody list 10 3
-52 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Wang, B-NAME 0 0 td tr list 11 0
-Xiaoyi I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-fellow O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Winter, B-NAME 0 0 td tr list 11 0
-Pawel I-NAME 0 1 td tr list 11 0
-Professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-23 O 0 0 tr tbody list 10 3
-80 O 0 0 tr tbody list 10 3
-77 O 0 0 tr tbody list 10 3
-99 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Winther, B-NAME 0 0 td tr list 11 0
-Sidsel I-NAME 0 1 td tr list 11 0
-Borup I-NAME 0 1 td tr list 11 0
-Teaching O 0 0 tr tbody list 10 2
-assistant O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Wulff-Nilsen, B-NAME 0 0 td tr list 11 0
-Christian I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-35695 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Zhou, B-NAME 0 0 td tr list 11 0
-Yongluan I-NAME 0 1 td tr list 11 0
-Associate O 0 1 tr tbody list 10 2
-professor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Zimmert, B-NAME 0 0 td tr list 11 0
-Julian I-NAME 0 1 td tr list 11 0
-Ulf I-NAME 0 1 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-student O 0 0 tr tbody list 10 2
-+45 O 0 0 tr tbody list 10 3
-353-31402 O 0 0 tr tbody list 10 3
-E-mail O 0 0 td tr list 11 0
-
-Zou, B-NAME 0 0 td tr list 11 0
-Eric I-NAME 0 1 td tr list 11 0
-Qing I-NAME 0 1 td tr list 11 0
-Instructor O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Ørting, B-NAME 0 0 td tr list 11 0
-Silas I-NAME 0 1 td tr list 11 0
-Nyboe I-NAME 0 0 td tr list 11 0
-PhD O 0 0 tr tbody list 10 2
-fellow O 0 0 tr tbody list 10 2
-E-mail O 0 0 td tr list 11 0
-
-Oversigt O 0 0 h1 div Medarbejderoversigt. 7 0
-/ O 0 0 div div Medarbejderoversigt. 6 1
-Site O 0 1 h1 div Medarbejderoversigt. 7 1
-navigation O 0 0 h1 div Medarbejderoversigt. 7 1
-
-Department O 0 0 h1 div Medarbejderoversigt. 8 0
-of O 0 1 h1 div Medarbejderoversigt. 8 0
-Computer O 0 0 h1 div Medarbejderoversigt. 8 0
-Science O 0 0 h1 div Medarbejderoversigt. 8 0
-
-Home O 0 1 li ul first 8 0
-
-About O 0 0 li ul first 8 0
-DIKU O 0 0 li ul first 8 0
-
-Research O 0 1 li ul first 8 0
-
-Study O 0 1 li ul first 8 0
-Programmes O 0 0 li ul first 8 0
-
-DIKU O 0 0 li ul first 8 0
-Business O 0 0 li ul first 8 0
-Club O 0 1 li ul first 8 0
-
-Press O 0 1 li ul first 8 0
-and O 0 1 li ul first 8 0
-Dissemination O 0 0 li ul first 8 0
-
-Staff O 0 1 li ul valgt 8 0
-
-Administration O 0 0 li ul valgt 10 0
-
-Research O 0 1 li ul valgt 10 0
-staff O 0 0 li ul valgt 10 0
-
-Contact O 0 0 li ul first 8 0
-us O 0 1 li ul first 8 0
-
-Vacant O 0 0 li ul Medarbejderoversigt. 8 0
-positions O 0 0 li ul Medarbejderoversigt. 8 0
-
-Ekstra O 0 0 h1 div hide 7 0
-information O 0 0 h1 div hide 7 0
-/ O 0 0 div div hide 6 1
-Sidebar O 0 0 h1 div hide 7 1
-
-Kolofon O 0 0 h1 div Medarbejderoversigt. 7 0
-/ O 0 0 div div Medarbejderoversigt. 6 1
-Footer O 0 1 h1 div Medarbejderoversigt. 7 1
-
-Datalogisk O 0 0 address div Medarbejderoversigt. 8 0
-Institut O 0 0 address div Medarbejderoversigt. 8 0
-
-University O 0 1 address div Medarbejderoversigt. 8 2
-of O 0 1 address div Medarbejderoversigt. 8 2
-Copenhagen O 0 0 address div Medarbejderoversigt. 8 2
-
-Universitetsparken O 0 0 div div Medarbejderoversigt. 7 0
-1 O 0 0 div div Medarbejderoversigt. 7 0
-
-2100 O 0 0 div div Medarbejderoversigt. 7 0
-København O 0 0 div div Medarbejderoversigt. 7 0
-Ø O 0 0 div div Medarbejderoversigt. 7 0
-
-Contact: O 0 0 div div Medarbejderoversigt. 6 13
-
-DIKU O 0 0 div div Medarbejderoversigt. 7 0
-
-info O 0 0 address div Medarbejderoversigt. 8 1
-@ O 0 1 address div Medarbejderoversigt. 8 1
-di O 0 1 address div Medarbejderoversigt. 8 1
-. O 0 1 address div Medarbejderoversigt. 8 1
-ku O 0 0 address div Medarbejderoversigt. 8 1
-. O 0 1 address div Medarbejderoversigt. 8 1
-dk O 0 0 address div Medarbejderoversigt. 8 1
-
-Tel. O 0 0 div div Medarbejderoversigt. 7 0
-+45 O 0 0 div div Medarbejderoversigt. 7 0
-35 O 0 0 div div Medarbejderoversigt. 7 0
-32 O 0 0 div div Medarbejderoversigt. 7 0
-14 O 0 0 div div Medarbejderoversigt. 7 0
-00 O 0 0 div div Medarbejderoversigt. 7 0
-
-Cookies O 0 0 a div english 7 0
-and O 0 1 a div english 7 0
-privacy O 0 0 a div english 7 0
-policy O 0 0 a div english 7 0
-
-University O 0 1 div div footer-heading.visible-desktop 7 0
-of O 0 1 div div footer-heading.visible-desktop 7 0
-Copenhagen O 0 0 div div footer-heading.visible-desktop 7 0
-
-Organization O 0 0 div div footer-heading.visible-mobile 7 1
-
-Management O 0 1 li ul footerlinks 9 0
-
-Administration O 0 0 li ul footerlinks 9 0
-
-Faculties O 0 0 li ul footerlinks 9 0
-
-Departments O 0 0 li ul footerlinks 9 0
-
-Research O 0 1 li ul footerlinks 9 0
-Centres O 0 0 li ul footerlinks 9 0
-
-Animal O 0 0 li ul footerlinks 9 0
-hospitals O 0 0 li ul footerlinks 9 0
-
-School O 0 1 li ul footerlinks 9 0
-of O 0 1 li ul footerlinks 9 0
-Dentistry O 0 0 li ul footerlinks 9 0
-
-Libraries O 0 0 li ul footerlinks 9 0
-
-Museums O 0 0 li ul footerlinks 9 0
-
-Contact O 0 0 div div footer-heading 7 0
-
-Map O 0 0 li ul footerlinks 9 0
-
-Find O 0 1 li ul footerlinks 9 0
-an O 0 1 li ul footerlinks 9 0
-employee O 0 0 li ul footerlinks 9 0
-
-Contact O 0 0 li ul footerlinks 9 0
-UCPH O 0 0 li ul footerlinks 9 0
-
-Services O 0 0 div div footer-heading 7 8
-
-Press O 0 1 li ul footerlinks 9 0
-and O 0 1 li ul footerlinks 9 0
-media O 0 0 li ul footerlinks 9 0
-service O 0 0 li ul footerlinks 9 0
-
-Merchandise O 0 0 li ul footerlinks 9 0
-
-UCPH O 0 0 li ul footerlinks 9 0
-apps O 0 0 li ul footerlinks 9 0
-
-IT-support O 0 0 li ul footerlinks 9 0
-
-For O 0 1 div div footer-heading 7 0
-students O 0 0 div div footer-heading 7 0
-and O 0 1 div div footer-heading 7 0
-employees O 0 0 div div footer-heading 7 0
-
-KUnet O 0 0 li ul padlock 9 0
-
-Job O 0 1 div div footer-heading 7 5
-and O 0 1 div div footer-heading 7 5
-career O 0 0 div div footer-heading 7 5
-
-Job O 0 1 li ul footerlinks 9 0
-portal O 0 0 li ul footerlinks 9 0
-
-Alumni O 0 0 li ul footerlinks 9 0
-
-Emergencies O 0 0 div div footer-heading 7 11
-
-Emergency O 0 0 li ul footerlinks 9 0
-response O 0 0 li ul footerlinks 9 0
-
-Web O 0 1 div div footer-heading 7 0
-
-Cookies O 0 0 li ul footerlinks 9 0
-and O 0 1 li ul footerlinks 9 0
-privacy O 0 0 li ul footerlinks 9 0
-policy O 0 0 li ul footerlinks 9 0
-
-Information O 0 1 li ul footerlinks 9 0
-Security O 0 0 li ul footerlinks 9 0
-
-Connect O 0 0 div div footer-heading 8 0
-with O 0 0 div div footer-heading 8 0
-UCPH O 0 0 div div footer-heading 8 0
+Department O department 0 0 0 0 0 0 1 a div  8 0
+of O of 0 1 0 0 0 0 0 a div  8 0
+Computer O computer 0 0 0 0 0 0 1 a div  8 0
+Science O science 0 0 0 0 0 0 1 a div  8 0
+
+Hop O hop 0 1 0 0 0 0 1 h1 div  7 0
+til O til 0 0 0 0 0 0 0 h1 div  7 0
+/ O / 0 0 0 0 0 0 0 div div  6 0
+Skip O skip 0 1 0 0 0 0 1 h1 div  7 1
+to O to 0 0 0 0 0 0 0 h1 div  7 1
+: O : 0 0 0 0 0 0 0 div div  6 0
+
+Indhold O indhold 0 0 0 0 0 0 1 a li  9 0
+/ O / 0 0 0 0 0 0 0 li ul  8 0
+Content O content 0 1 0 0 0 0 1 a li  9 1
+
+Global O global 0 1 0 0 0 0 1 li ul  8 0
+navigation O navigation 0 0 0 0 0 0 0 li ul  8 0
+
+Oversigt O oversigt 0 0 0 0 0 0 1 a li  9 0
+/ O / 0 0 0 0 0 0 0 li ul  8 0
+Site O site 0 1 0 0 0 0 1 a li  9 1
+navigation O navigation 0 0 0 0 0 0 0 a li  9 1
+
+Søg O sog 0 0 0 0 0 0 1 a li  9 0
+/ O / 0 0 0 0 0 0 0 li ul  8 0
+Search O search 0 0 0 0 0 0 1 a li  9 1
+
+Ekstra O ekstra 0 0 0 0 0 0 1 a li  9 0
+information O information 0 0 0 0 0 0 0 a li  9 0
+/ O / 0 0 0 0 0 0 0 li ul  8 0
+Sidebar O sidebar 0 0 0 0 0 0 1 a li  9 1
+
+Kolofon O kolofon 0 0 0 0 0 0 1 a li  9 0
+/ O / 0 0 0 0 0 0 0 li ul  8 0
+Footer O footer 0 1 0 0 0 0 1 a li  9 1
+
+☰ O ☰ 0 0 0 0 0 0 0 div div subpage 8 0
+Menu O menu 0 1 0 0 0 0 1 div div subpage 8 0
+
+Department O department 0 0 0 0 0 0 1 p div subpage 9 0
+of O of 0 1 0 0 0 0 0 p div subpage 9 0
+Computer O computer 0 0 0 0 0 0 1 p div subpage 9 0
+Science O science 0 0 0 0 0 0 1 p div subpage 9 0
+DIKU O diku 0 0 0 0 0 0 1 p div subpage 9 0
+> O > 0 0 0 0 0 0 0 div div subpage 8 9
+Staff O staff 0 1 0 0 0 0 1 div div subpage 8 9
+
+Staff O staff 0 1 0 0 0 0 1 div div title 7 14
+
+Name O name 0 1 0 0 0 0 1 tr thead pct_30 10 0
+
+Title O title 0 1 0 0 0 0 1 tr thead pct_40 10 1
+
+Phone O phone 0 1 0 0 0 0 1 tr thead pct_20 10 2
+
+E O e 0 1 0 0 0 0 1 tr thead pct_25 10 3
+- O - 0 0 0 0 0 0 0 tr thead pct_25 10 3
+mail O mail 0 0 0 0 0 0 0 tr thead pct_25 10 3
+
+Adamaszek B-PER adamaszek 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Anna I-PER anna 0 1 0 0 0 0 1 td tr list 11 0
+Maria I-PER maria 0 1 0 0 0 0 1 td tr list 11 0
+Postdoc O postdoc 0 0 0 0 0 0 1 tr tbody list 10 2
+
+Al B-PER al 0 1 0 0 0 0 1 td tr list 11 0
+- I-PER - 0 0 0 0 0 0 0 td tr list 11 0
+Khawaja I-PER khawaja 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Mays I-PER mays 0 1 0 0 0 0 1 td tr list 11 0
+Mohammad I-PER mohammad 1 1 0 0 0 0 1 td tr list 11 0
+Ali I-PER ali 1 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Alstrup B-PER alstrup 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Stephen I-PER stephen 0 1 0 0 0 0 1 td tr list 11 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35691 O 35691 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Andersen B-PER andersen 0 1 0 0 1 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Asger I-PER asger 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Andersen B-PER andersen 0 1 0 0 1 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Tariq I-PER tariq 0 1 0 0 0 0 1 td tr list 11 0
+Osman I-PER osman 0 1 0 0 0 0 1 td tr list 11 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35684 O 35684 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Andersen B-PER andersen 0 1 0 0 1 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Ulrich I-PER ulrich 0 1 0 0 0 0 1 td tr list 11 0
+Lichtenstein I-PER lichtenstein 0 1 0 0 0 0 1 td tr list 11 0
+S I-PER s 0 1 0 0 0 0 1 td tr list 11 0
+Part O part 0 1 0 0 0 0 1 tr tbody list 10 2
+- O - 0 0 0 0 0 0 0 tr tbody list 10 2
+time O time 0 0 0 0 0 0 0 tr tbody list 10 2
+lecturer O lecturer 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Annenkov B-PER annenkov 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Danil I-PER danil 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+student O student 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+37937 O 37937 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Asheim B-PER asheim 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Truls I-PER truls 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Augenstein B-PER augenstein 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Isabelle I-PER isabelle 0 1 0 0 0 0 1 td tr list 11 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+93 O 93 0 0 0 1 0 0 0 tr tbody list 10 3
+56 O 56 0 0 0 1 0 0 0 tr tbody list 10 3
+59 O 59 0 0 0 1 0 0 0 tr tbody list 10 3
+19 O 19 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Baggesen B-PER baggesen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Herluf I-PER herluf 0 0 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Bak B-PER bak 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Emil I-PER emil 0 1 0 0 1 0 1 td tr list 11 0
+Sander I-PER sander 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Bansler B-PER bansler 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jørgen I-PER jorgen 0 1 0 0 0 0 1 td tr list 11 0
+P. I-PER p. 0 1 0 0 0 0 1 td tr list 11 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+23 O 23 0 0 0 1 0 0 0 tr tbody list 10 3
+81 O 81 0 0 0 1 0 0 0 tr tbody list 10 3
+13 O 13 0 0 0 1 0 0 0 tr tbody list 10 3
+32 O 32 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Bergqvist B-PER bergqvist 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Mette I-PER mette 0 1 0 0 0 0 1 td tr list 11 0
+Nowack I-PER nowack 0 1 0 0 0 0 1 td tr list 11 0
+Section O section 0 1 0 0 0 0 1 tr tbody list 10 2
+secratary O secratary 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+36680 O 36680 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Bergström B-PER bergstrom 0 1 0 0 0 0 1 td tr list 11 0
+- I-PER - 0 0 0 0 0 0 0 td tr list 11 0
+Lehtovirta I-PER lehtovirta 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Joanna I-PER joanna 0 1 0 0 0 0 1 td tr list 11 0
+Postdoc O postdoc 0 0 0 0 0 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+93 O 93 0 0 0 1 0 0 0 tr tbody list 10 3
+56 O 56 0 0 0 1 0 0 0 tr tbody list 10 3
+54 O 54 0 0 0 1 0 0 0 tr tbody list 10 3
+83 O 83 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Bingel B-PER bingel 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Joachim I-PER joachim 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+fellow O fellow 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Bjørn B-PER bjorn 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Pernille I-PER pernille 0 1 0 0 0 0 1 td tr list 11 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Boomsma B-PER boomsma 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Wouter I-PER wouter 0 1 0 0 0 0 1 td tr list 11 0
+Krogh I-PER krogh 0 1 0 0 0 0 1 td tr list 11 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+51 O 51 0 0 0 1 0 0 0 tr tbody list 10 3
+92 O 92 0 0 0 1 0 0 0 tr tbody list 10 3
+36 O 36 0 0 0 1 0 0 0 tr tbody list 10 3
+00 O 00 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Borg B-PER borg 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Leise I-PER leise 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+student O student 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35708 O 35708 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Boring B-PER boring 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Sebastian I-PER sebastian 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35694 O 35694 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Brandt B-PER brandt 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Patrick I-PER patrick 0 1 0 0 0 0 1 td tr list 11 0
+Krøll I-PER kroll 0 0 0 0 0 0 1 td tr list 11 0
+Teacher O teacher 0 1 0 0 0 0 1 tr tbody list 10 2
+' O ' 0 0 0 0 0 0 0 tr tbody list 10 2
+s O s 0 0 0 0 0 0 0 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Brandt B-PER brandt 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Sami I-PER sami 0 1 0 0 0 0 1 td tr list 11 0
+Sebastian I-PER sebastian 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+21426 O 21426 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Breddam B-PER breddam 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Svend I-PER svend 0 1 0 0 0 0 1 td tr list 11 0
+Lund I-PER lund 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Brix B-PER brix 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Matthias I-PER matthias 0 1 0 0 0 0 1 td tr list 11 0
+Christian I-PER christian 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+
+Carlqvist B-PER carlqvist 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Alexander I-PER alexander 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+cdl966 O cdl966 0 0 0 1 0 0 0 td tr list 11 0
+, O , 0 0 0 0 0 0 0 td tr list 11 0
+cdl966 O cdl966 0 0 0 1 0 0 0 td tr list 11 0
+Student O student 0 1 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Christensen B-PER christensen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Amalie I-PER amalie 0 1 0 0 0 0 1 td tr list 11 0
+Vangekjær I-PER vangekjer 0 0 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Christensen B-PER christensen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Niels I-PER niels 0 1 0 0 0 0 1 td tr list 11 0
+Liljedahl I-PER liljedahl 0 1 0 0 0 0 1 td tr list 11 0
+
+Cox B-PER cox 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Ingemar I-PER ingemar 1 1 0 0 0 0 1 td tr list 11 0
+Johansson I-PER johansson 1 1 0 0 0 0 1 td tr list 11 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35676 O 35676 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Czajka B-PER czajka 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Lukasz I-PER lukasz 0 1 0 0 0 0 1 td tr list 11 0
+Tadeusz I-PER tadeusz 0 1 0 0 0 0 1 td tr list 11 0
+Postdoc O postdoc 0 0 0 0 0 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+34207 O 34207 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Dam B-PER dam 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Erik I-PER erik 0 1 0 0 0 0 1 td tr list 11 0
+Bjørnager I-PER bjornager 0 0 0 0 0 0 1 td tr list 11 0
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Danielsen B-PER danielsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Andreas I-PER andreas 0 1 0 0 1 0 1 td tr list 11 0
+Hjortgaard I-PER hjortgaard 0 1 0 0 0 0 1 td tr list 11 0
+
+Darkner B-PER darkner 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Sune I-PER sune 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35702 O 35702 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+de B-PER de 0 1 0 0 0 0 0 td tr list 11 0
+Bruijne I-PER bruijne 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Marleen I-PER marleen 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Dickow B-PER dickow 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jan I-PER jan 0 1 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Do B-PER do 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Manh I-PER manh 0 1 0 0 0 0 1 td tr list 11 0
+Tan I-PER tan 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Duckert B-PER duckert 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Anne I-PER anne 0 1 0 0 0 0 1 td tr list 11 0
+- I-PER - 0 0 0 0 0 0 0 td tr list 11 0
+Marie I-PER marie 0 1 0 0 0 0 1 td tr list 11 0
+Research O research 0 1 0 0 0 0 1 tr tbody list 10 2
+secretary O secretary 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+93 O 93 0 0 0 1 0 0 0 tr tbody list 10 3
+56 O 56 0 0 0 1 0 0 0 tr tbody list 10 3
+57 O 57 0 0 0 1 0 0 0 tr tbody list 10 3
+75 O 75 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Due B-PER due 0 1 0 0 0 0 1 td tr list 11 0
+- I-PER - 0 0 0 0 0 0 0 td tr list 11 0
+Frederiksen I-PER frederiksen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Camilla I-PER camilla 0 1 0 0 0 0 1 td tr list 11 0
+Student O student 0 1 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Düdder B-PER dudder 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Boris I-PER boris 0 1 0 0 0 0 1 td tr list 11 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+93 O 93 0 0 0 1 0 0 0 tr tbody list 10 3
+56 O 56 0 0 0 1 0 0 0 tr tbody list 10 3
+57 O 57 0 0 0 1 0 0 0 tr tbody list 10 3
+48 O 48 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Edwards B-PER edwards 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Franchesca I-PER franchesca 0 1 0 0 0 0 1 td tr list 11 0
+Andre I-PER andre 0 1 0 0 1 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Edwards B-PER edwards 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Michaela I-PER michaela 0 1 0 0 0 0 1 td tr list 11 0
+Isabella I-PER isabella 0 1 0 0 0 0 1 td tr list 11 0
+André I-PER andre 0 1 0 0 1 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Einarsson B-PER einarsson 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Arni I-PER arni 0 1 0 0 0 0 1 td tr list 11 0
+Már I-PER mar 0 1 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Elsman B-PER elsman 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Martin I-PER martin 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35683 O 35683 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Engedal B-PER engedal 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Lukas I-PER lukas 1 1 0 0 0 0 1 td tr list 11 0
+Svarre I-PER svarre 0 1 0 0 0 0 1 td tr list 11 0
+Teacher O teacher 0 1 0 0 0 0 1 tr tbody list 10 2
+' O ' 0 0 0 0 0 0 0 tr tbody list 10 2
+s O s 0 0 0 0 0 0 0 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Engell B-PER engell 0 1 0 0 0 0 1 td tr list 11 0
+- I-PER - 0 0 0 0 0 0 0 td tr list 11 0
+Nørregård I-PER norregard 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Morten I-PER morten 0 1 0 0 0 0 1 td tr list 11 0
+Pol I-PER pol 0 1 0 0 0 0 1 td tr list 11 0
+
+Engstrøm B-PER engstrom 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jeanett I-PER jeanett 0 1 0 0 0 0 1 td tr list 11 0
+Ella I-PER ella 0 1 0 0 0 0 1 td tr list 11 0
+Grau I-PER grau 0 1 0 0 0 0 1 td tr list 11 0
+Head O head 0 1 0 0 0 0 1 tr tbody list 10 2
+of O of 0 1 0 0 0 0 0 tr tbody list 10 2
+administration O administration 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+32603 O 32603 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Erleben B-PER erleben 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Kenny I-PER kenny 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+21413 O 21413 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Erno B-PER erno 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jesper I-PER jesper 0 1 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Evald B-PER evald 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jacob I-PER jacob 0 1 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Falck B-PER falck 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Philip I-PER philip 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Feragen B-PER feragen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Aasa I-PER aasa 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35723 O 35723 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Filinski B-PER filinski 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Andrzej I-PER andrzej 0 1 0 0 1 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35687 O 35687 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Fleron B-PER fleron 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Benedicte I-PER benedicte 0 1 0 0 0 0 1 td tr list 11 0
+Frederikke I-PER frederikke 0 0 0 0 0 0 1 td tr list 11 0
+Rex I-PER rex 0 1 0 0 0 0 1 td tr list 11 0
+Part O part 0 1 0 0 0 0 1 tr tbody list 10 2
+- O - 0 0 0 0 0 0 0 tr tbody list 10 2
+time O time 0 0 0 0 0 0 0 tr tbody list 10 2
+lecturer O lecturer 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Fonseca B-PER fonseca 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Rasmus I-PER rasmus 0 1 0 0 0 0 1 td tr list 11 0
+International O international 0 0 0 0 0 0 1 tr tbody list 10 2
+Researcher O researcher 0 0 0 0 0 0 1 tr tbody list 10 2
+
+Fredmark B-PER fredmark 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Sandra I-PER sandra 0 1 0 0 0 0 1 td tr list 11 0
+Thordahl I-PER thordahl 0 0 0 0 0 0 1 td tr list 11 0
+
+Frenzel B-PER frenzel 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Sven I-PER sven 0 1 0 0 0 0 1 td tr list 11 0
+Uhrenholdt I-PER uhrenholdt 0 0 0 0 0 0 1 td tr list 11 0
+Teacher O teacher 0 1 0 0 0 0 1 tr tbody list 10 2
+' O ' 0 0 0 0 0 0 0 tr tbody list 10 2
+s O s 0 0 0 0 0 0 0 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Frøkjær B-PER frokjer 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Erik I-PER erik 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+30 O 30 0 0 0 1 0 0 0 tr tbody list 10 3
+58 O 58 0 0 0 1 0 0 0 tr tbody list 10 3
+95 O 95 0 0 0 1 0 0 0 tr tbody list 10 3
+21 O 21 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Gieseke B-PER gieseke 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Fabian I-PER fabian 0 1 0 0 0 0 1 td tr list 11 0
+Cristian I-PER cristian 0 1 0 0 0 0 1 td tr list 11 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Glück B-PER gluck 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Robert I-PER robert 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+29 O 29 0 0 0 1 0 0 0 tr tbody list 10 3
+61 O 61 0 0 0 1 0 0 0 tr tbody list 10 3
+16 O 16 0 0 0 1 0 0 0 tr tbody list 10 3
+55 O 55 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Grathwohl B-PER grathwohl 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Niels I-PER niels 0 1 0 0 0 0 1 td tr list 11 0
+Bjørn I-PER bjorn 0 1 0 0 0 0 1 td tr list 11 0
+Bugge I-PER bugge 0 1 0 0 0 0 1 td tr list 11 0
+
+Groot B-PER groot 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Christopher I-PER christopher 0 1 0 0 0 0 1 td tr list 11 0
+Mulvad I-PER mulvad 0 1 0 0 0 0 1 td tr list 11 0
+Student O student 0 1 0 0 0 0 1 tr tbody list 10 2
+adviser O adviser 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Grue B-PER grue 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Klaus I-PER klaus 0 1 0 0 0 0 1 td tr list 11 0
+Ebbe I-PER ebbe 0 1 0 0 0 0 1 td tr list 11 0
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Gui B-PER gui 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Sisi I-PER sisi 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+fellow O fellow 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+71 O 71 0 0 0 1 0 0 0 tr tbody list 10 3
+48 O 48 0 0 0 1 0 0 0 tr tbody list 10 3
+84 O 84 0 0 0 1 0 0 0 tr tbody list 10 3
+94 O 94 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Hagenow B-PER hagenow 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Line I-PER line 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Hall B-PER hall 0 1 0 0 0 0 1 td tr list 11 0
+- I-PER - 0 0 0 0 0 0 0 td tr list 11 0
+Andersen I-PER andersen 0 1 0 0 1 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Mathias I-PER mathias 0 1 0 0 0 0 1 td tr list 11 0
+Nørup I-PER norup 0 1 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+
+Hansen B-PER hansen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Casper I-PER casper 0 1 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Hansen B-PER hansen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Christian I-PER christian 0 1 0 0 0 0 1 td tr list 11 0
+Teacher O teacher 0 1 0 0 0 0 1 tr tbody list 10 2
+' O ' 0 0 0 0 0 0 0 tr tbody list 10 2
+s O s 0 0 0 0 0 0 0 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Hansen B-PER hansen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jacob I-PER jacob 0 1 0 0 0 0 1 td tr list 11 0
+Daniel I-PER daniel 0 1 0 0 0 0 1 td tr list 11 0
+Kirstejn I-PER kirstejn 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+student O student 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Hansen B-PER hansen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Klaus I-PER klaus 0 1 0 0 0 0 1 td tr list 11 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
+emeritus O emeritus 0 0 0 0 1 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Hansen B-PER hansen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Niels I-PER niels 0 1 0 0 0 0 1 td tr list 11 0
+Dalum I-PER dalum 0 1 0 0 0 0 1 td tr list 11 0
+Industrial O industrial 0 0 0 0 0 0 1 tr tbody list 10 2
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Hartmann B-PER hartmann 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Mareike I-PER mareike 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+fellow O fellow 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Havn B-PER havn 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Erling I-PER erling 0 1 0 0 0 0 1 td tr list 11 0
+Carl I-PER carl 0 1 0 0 0 0 1 td tr list 11 0
+Part O part 0 1 0 0 0 0 1 tr tbody list 10 2
+- O - 0 0 0 0 0 0 0 tr tbody list 10 2
+time O time 0 0 0 0 0 0 0 tr tbody list 10 2
+lecturer O lecturer 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Hellfritzsch B-PER hellfritzsch 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Sune I-PER sune 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Henglein B-PER henglein 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Fritz I-PER fritz 0 1 0 0 0 0 1 td tr list 11 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35692 O 35692 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Henriksen B-PER henriksen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Marianne I-PER marianne 0 1 0 0 0 0 1 td tr list 11 0
+Administrative O administrative 0 0 0 0 0 0 1 tr tbody list 10 2
+officer O officer 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+21399 O 21399 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Henriksen B-PER henriksen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Troels I-PER troels 0 1 0 0 0 0 1 td tr list 11 0
+&#955 O &#955 0 0 0 1 0 0 0 td tr list 11 0
+; O ; 0 0 0 0 0 0 0 td tr list 11 0
+Postdoc O postdoc 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Hernandez B-PER hernandez 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Alejandro I-PER alejandro 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Hindkjær B-PER hindkjer 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Christian I-PER christian 0 1 0 0 0 0 1 td tr list 11 0
+Attendant O attendant 0 0 0 0 0 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35670 O 35670 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Hjuler B-PER hjuler 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Niklas I-PER niklas 0 1 0 0 0 0 1 td tr list 11 0
+Oskar I-PER oskar 0 1 0 0 0 0 1 td tr list 11 0
+Daniel I-PER daniel 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+student O student 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+33579 O 33579 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Hochreuter B-PER hochreuter 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Henrik I-PER henrik 0 1 0 0 0 0 1 td tr list 11 0
+Lilleriis I-PER lilleriis 0 0 0 0 0 0 1 td tr list 11 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody list 10 2
+adviser O adviser 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+21148 O 21148 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Holm B-PER holm 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Andreas I-PER andreas 0 1 0 0 1 0 1 td tr list 11 0
+Nugaard I-PER nugaard 0 0 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Holm B-PER holm 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jacob I-PER jacob 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+fellow O fellow 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Holm B-PER holm 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Sabrina I-PER sabrina 0 1 0 0 0 0 1 td tr list 11 0
+Escalante I-PER escalante 0 1 0 0 0 0 1 td tr list 11 0
+Teacher O teacher 0 1 0 0 0 0 1 tr tbody list 10 2
+' O ' 0 0 0 0 0 0 0 tr tbody list 10 2
+s O s 0 0 0 0 0 0 0 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Holst B-PER holst 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Peter I-PER peter 1 1 0 0 0 0 1 td tr list 11 0
+Otto I-PER otto 1 1 0 0 0 0 1 td tr list 11 0
+Sloth I-PER sloth 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Hornbæk B-PER hornbek 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Kasper I-PER kasper 0 1 0 0 0 0 1 td tr list 11 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+21425 O 21425 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Hovy B-PER hovy 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Dirk I-PER dirk 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+21 O 21 0 0 0 1 0 0 0 tr tbody list 10 3
+26 O 26 0 0 0 1 0 0 0 tr tbody list 10 3
+55 O 55 0 0 0 1 0 0 0 tr tbody list 10 3
+76 O 76 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Igel B-PER igel 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Christian I-PER christian 0 1 0 0 0 0 1 td tr list 11 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35674 O 35674 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Iversen B-PER iversen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Bjarke I-PER bjarke 0 1 0 0 0 0 1 td tr list 11 0
+Kingo I-PER kingo 0 1 0 0 0 0 1 td tr list 11 0
+Student O student 0 1 0 0 0 0 1 tr tbody list 10 2
+adviser O adviser 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Jabbar B-PER jabbar 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Karim I-PER karim 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+student O student 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Jacobsen B-PER jacobsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Nicklas I-PER nicklas 0 1 0 0 0 0 1 td tr list 11 0
+Warming I-PER warming 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Jansen B-PER jansen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Yvonne I-PER yvonne 0 1 0 0 0 0 1 td tr list 11 0
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Jensen B-PER jensen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Henrik I-PER henrik 0 1 0 0 0 0 1 td tr list 11 0
+Grønholt I-PER gronholt 0 0 0 0 0 0 1 td tr list 11 0
+Research O research 0 1 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Jensen B-PER jensen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Inge I-PER inge 0 1 0 0 0 0 1 td tr list 11 0
+Hviid I-PER hviid 0 1 0 0 0 0 1 td tr list 11 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody list 10 2
+executive O executive 0 0 0 0 0 0 0 tr tbody list 10 2
+adviser O adviser 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+287 O 287 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+51428 O 51428 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Jensen B-PER jensen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Katrine I-PER katrine 0 1 0 0 0 0 1 td tr list 11 0
+Hommelhoff I-PER hommelhoff 0 1 0 0 0 0 1 td tr list 11 0
+
+Joensen B-PER joensen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Mads I-PER mads 0 1 0 0 0 0 1 td tr list 11 0
+Højgaard I-PER hojgaard 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Johansen B-PER johansen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Peter I-PER peter 0 1 0 0 0 0 1 td tr list 11 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
+emeritus O emeritus 0 0 0 0 1 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Johansen B-PER johansen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Sebastian I-PER sebastian 0 1 0 0 0 0 1 td tr list 11 0
+Dyrby I-PER dyrby 0 1 0 0 0 0 1 td tr list 11 0
+Teacher O teacher 0 1 0 0 0 0 1 tr tbody list 10 2
+' O ' 0 0 0 0 0 0 0 tr tbody list 10 2
+s O s 0 0 0 0 0 0 0 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Jones B-PER jones 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Neil I-PER neil 0 1 0 0 0 0 1 td tr list 11 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
+emeritus O emeritus 0 0 0 0 1 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Jørgensen B-PER jorgensen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Troels I-PER troels 0 1 0 0 0 0 1 td tr list 11 0
+Anker I-PER anker 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Kaarsgaard B-PER kaarsgaard 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Robin I-PER robin 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+student O student 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Karagiannis B-PER karagiannis 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Georgios I-PER georgios 0 1 0 0 0 0 1 td tr list 11 0
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Kasenburg B-PER kasenburg 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Niklas I-PER niklas 0 1 0 0 0 0 1 td tr list 11 0
+
+Katajainen B-PER katajainen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jyrki I-PER jyrki 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35680 O 35680 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Keller B-PER keller 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Rikke I-PER rikke 0 1 0 0 0 0 1 td tr list 11 0
+Smith I-PER smith 0 1 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Kensing B-PER kensing 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Finn I-PER finn 0 1 0 0 0 0 1 td tr list 11 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+21146 O 21146 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Koch B-PER koch 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Magnus I-PER magnus 0 1 0 0 0 0 1 td tr list 11 0
+
+Kovacevic B-PER kovacevic 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Milos I-PER milos 0 1 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Krarup B-PER krarup 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jakob I-PER jakob 0 1 0 0 0 0 1 td tr list 11 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
+emeritus O emeritus 0 0 0 0 1 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Kremer B-PER kremer 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jan I-PER jan 0 1 0 0 0 0 1 td tr list 11 0
+Research O research 0 1 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Kristensen B-PER kristensen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Daniela I-PER daniela 0 1 0 0 0 0 1 td tr list 11 0
+Mechlenborg I-PER mechlenborg 0 1 0 0 0 0 1 td tr list 11 0
+Student O student 0 1 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Kristensen B-PER kristensen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Joachim I-PER joachim 0 1 0 0 0 0 1 td tr list 11 0
+Tilsted I-PER tilsted 0 0 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Kühnel B-PER kuhnel 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Line I-PER line 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+fellow O fellow 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Lane B-PER lane 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Håkan I-PER hakan 0 1 0 0 0 0 1 td tr list 11 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody list 10 2
+lecturer O lecturer 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Larsen B-PER larsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Christian I-PER christian 0 1 0 0 0 0 1 td tr list 11 0
+Kjær I-PER kjer 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Larsen B-PER larsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Ken I-PER ken 0 1 0 0 0 0 1 td tr list 11 0
+Friis I-PER friis 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35697 O 35697 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Lassen B-PER lassen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Anders I-PER anders 0 1 0 0 1 0 1 td tr list 11 0
+Part O part 0 1 0 0 0 0 1 tr tbody list 10 2
+- O - 0 0 0 0 0 0 0 tr tbody list 10 2
+time O time 0 0 0 0 0 0 0 tr tbody list 10 2
+lecturer O lecturer 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+20 O 20 0 0 0 1 0 0 0 tr tbody list 10 3
+89 O 89 0 0 0 1 0 0 0 tr tbody list 10 3
+86 O 86 0 0 0 1 0 0 0 tr tbody list 10 3
+68 O 68 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Lassen B-PER lassen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Lee I-PER lee 1 1 0 0 0 0 1 td tr list 11 0
+Herluf I-PER herluf 0 0 0 0 0 0 1 td tr list 11 0
+Lund I-PER lund 0 1 0 0 0 0 1 td tr list 11 0
+
+Laursen B-PER laursen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jens I-PER jens 0 1 0 0 0 0 1 td tr list 11 0
+Emil I-PER emil 0 1 0 0 1 0 1 td tr list 11 0
+Østergaard I-PER ostergaard 0 1 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Lauze B-PER lauze 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Francois I-PER francois 0 1 0 0 0 0 1 td tr list 11 0
+Bernard I-PER bernard 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35671 O 35671 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Leskes B-PER leskes 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Troels I-PER troels 0 1 0 0 0 0 1 td tr list 11 0
+Kamp I-PER kamp 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Lillholm B-PER lillholm 0 1 0 0 0 0 1 td tr list 11 0
+- I-PER - 0 0 0 0 0 0 0 td tr list 11 0
+Jørgensen I-PER jorgensen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Camilla I-PER camilla 0 1 0 0 0 0 1 td tr list 11 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody list 10 2
+executive O executive 0 0 0 0 0 0 0 tr tbody list 10 2
+adviser O adviser 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35693 O 35693 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Lioma B-PER lioma 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Christina I-PER christina 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
+
+Lomholt B-PER lomholt 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Sune I-PER sune 0 1 0 0 0 0 1 td tr list 11 0
+Part O part 0 1 0 0 0 0 1 tr tbody list 10 2
+- O - 0 0 0 0 0 0 0 tr tbody list 10 2
+time O time 0 0 0 0 0 0 0 tr tbody list 10 2
+lecturer O lecturer 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Loog B-PER loog 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Marco I-PER marco 0 1 0 0 0 0 1 td tr list 11 0
+Affiliate O affiliate 0 0 0 0 0 0 1 tr tbody list 10 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Lorenzen B-PER lorenzen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Stephan I-PER stephan 0 1 0 0 0 0 1 td tr list 11 0
+Sloth I-PER sloth 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+fellow O fellow 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Low B-PER low 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Becky I-PER becky 0 1 0 0 0 0 1 td tr list 11 0
+Dan I-PER dan 0 1 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Lund B-PER lund 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Otto I-PER otto 0 1 0 0 0 0 1 td tr list 11 0
+Kristoffersen I-PER kristoffersen 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Lundsgaard B-PER lundsgaard 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jesper I-PER jesper 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Madsen B-PER madsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Sophie I-PER sophie 0 1 0 0 0 0 1 td tr list 11 0
+Fredslund I-PER fredslund 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Mallasto B-PER mallasto 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Anton I-PER anton 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+student O student 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Mansourvar B-PER mansourvar 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Marjan I-PER marjan 0 1 0 0 0 0 1 td tr list 11 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody list 10 2
+lecturer O lecturer 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Matthiesen B-PER matthiesen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Stina I-PER stina 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+fellow O fellow 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+21 O 21 0 0 0 1 0 0 0 tr tbody list 10 3
+23 O 23 0 0 0 1 0 0 0 tr tbody list 10 3
+10 O 10 0 0 0 1 0 0 0 tr tbody list 10 3
+08 O 08 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+McGillion B-PER mcgillion 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Sarah I-PER sarah 0 1 0 0 0 0 1 td tr list 11 0
+Alice I-PER alice 0 1 0 0 0 0 1 td tr list 11 0
+Teacher O teacher 0 1 0 0 0 0 1 tr tbody list 10 2
+' O ' 0 0 0 0 0 0 0 tr tbody list 10 2
+s O s 0 0 0 0 0 0 0 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+mct671 O mct671 0 0 0 1 0 0 0 td tr list 11 0
+, O , 0 0 0 0 0 0 0 td tr list 11 0
+mct671 O mct671 0 0 0 1 0 0 0 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Mogensen B-PER mogensen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Torben I-PER torben 0 1 0 0 0 0 1 td tr list 11 0
+Ægidius I-PER egidius 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35673 O 35673 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Moll B-PER moll 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jonas I-PER jonas 0 1 0 0 0 0 1 td tr list 11 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+21393 O 21393 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Mottelson B-PER mottelson 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Aske I-PER aske 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+fellow O fellow 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+27 O 27 0 0 0 1 0 0 0 tr tbody list 10 3
+64 O 64 0 0 0 1 0 0 0 tr tbody list 10 3
+70 O 70 0 0 0 1 0 0 0 tr tbody list 10 3
+16 O 16 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Møller B-PER moller 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jette I-PER jette 0 1 0 0 0 0 1 td tr list 11 0
+Giovanni I-PER giovanni 0 1 0 0 0 0 1 td tr list 11 0
+Administrative O administrative 0 0 0 0 0 0 1 tr tbody list 10 2
+staff O staff 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35689 O 35689 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Møller B-PER moller 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Naja I-PER naja 0 1 0 0 0 0 1 td tr list 11 0
+L. I-PER l. 0 1 0 0 0 0 1 td tr list 11 0
+Holten I-PER holten 0 1 0 0 0 0 1 td tr list 11 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+34771 O 34771 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Neumann B-PER neumann 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Cille I-PER cille 0 0 0 0 0 0 1 td tr list 11 0
+Kruuse I-PER kruuse 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Niclasen B-PER niclasen 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Aslak I-PER aslak 0 1 0 0 0 0 1 td tr list 11 0
+Hammer I-PER hammer 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Nielsen B-PER nielsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Emma I-PER emma 0 1 0 0 1 0 1 td tr list 11 0
+Liv I-PER liv 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Nielsen B-PER nielsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Mads I-PER mads 0 1 0 0 0 0 1 td tr list 11 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+24 O 24 0 0 0 1 0 0 0 tr tbody list 10 3
+60 O 60 0 0 0 1 0 0 0 tr tbody list 10 3
+05 O 05 0 0 0 1 0 0 0 tr tbody list 10 3
+99 O 99 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Nielsen B-PER nielsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Max I-PER max 0 1 0 0 0 0 1 td tr list 11 0
+Kragballe I-PER kragballe 0 0 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Nielsen B-PER nielsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Sacha I-PER sacha 0 1 0 0 0 0 1 td tr list 11 0
+Weile I-PER weile 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Nielsen B-PER nielsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Terese I-PER terese 0 1 0 0 0 0 1 td tr list 11 0
+Marianne I-PER marianne 0 1 0 0 0 0 1 td tr list 11 0
+Olga I-PER olga 0 1 0 0 0 0 1 td tr list 11 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody list 10 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Nielsen B-PER nielsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Trine I-PER trine 0 1 0 0 0 0 1 td tr list 11 0
+Louise I-PER louise 0 1 0 0 0 0 1 td tr list 11 0
+Brøndt I-PER brondt 0 0 0 0 0 0 1 td tr list 11 0
+Academic O academic 0 0 0 0 0 0 1 tr tbody list 10 2
+staff O staff 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+32256 O 32256 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Nielsen B-PER nielsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Tue I-PER tue 0 1 0 0 0 0 1 td tr list 11 0
+Bjerl I-PER bjerl 0 0 0 0 0 0 1 td tr list 11 0
+Part O part 0 1 0 0 0 0 1 tr tbody list 10 2
+- O - 0 0 0 0 0 0 0 tr tbody list 10 2
+time O time 0 0 0 0 0 0 0 tr tbody list 10 2
+lecturer O lecturer 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+31 O 31 0 0 0 1 0 0 0 tr tbody list 10 3
+25 O 25 0 0 0 1 0 0 0 tr tbody list 10 3
+70 O 70 0 0 0 1 0 0 0 tr tbody list 10 3
+85 O 85 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Nissen B-PER nissen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Kristian I-PER kristian 0 1 0 0 0 0 1 td tr list 11 0
+Fogh I-PER fogh 0 1 0 0 0 0 1 td tr list 11 0
+Teacher O teacher 0 1 0 0 0 0 1 tr tbody list 10 2
+' O ' 0 0 0 0 0 0 0 tr tbody list 10 2
+s O s 0 0 0 0 0 0 0 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Nissen B-PER nissen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Malte I-PER malte 0 1 0 0 0 0 1 td tr list 11 0
+Stær I-PER ster 0 0 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+student O student 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+51 O 51 0 0 0 1 0 0 0 tr tbody list 10 3
+94 O 94 0 0 0 1 0 0 0 tr tbody list 10 3
+81 O 81 0 0 0 1 0 0 0 tr tbody list 10 3
+22 O 22 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Norup B-PER norup 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Helle I-PER helle 0 1 0 0 0 0 1 td tr list 11 0
+Research O research 0 1 0 0 0 0 1 tr tbody list 10 2
+group O group 0 0 0 0 0 0 0 tr tbody list 10 2
+secretary O secretary 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+27790 O 27790 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Novak B-PER novak 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Cecilie I-PER cecilie 0 1 0 0 0 0 1 td tr list 11 0
+Teacher O teacher 0 1 0 0 0 0 1 tr tbody list 10 2
+' O ' 0 0 0 0 0 0 0 tr tbody list 10 2
+s O s 0 0 0 0 0 0 0 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Nørbjerg B-PER norbjerg 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jacob I-PER jacob 0 1 0 0 0 0 1 td tr list 11 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody list 10 2
+lecturer O lecturer 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Oancea B-PER oancea 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Cosmin I-PER cosmin 0 1 0 0 0 0 1 td tr list 11 0
+Eugen I-PER eugen 0 1 0 0 0 0 1 td tr list 11 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+23 O 23 0 0 0 1 0 0 0 tr tbody list 10 3
+82 O 82 0 0 0 1 0 0 0 tr tbody list 10 3
+80 O 80 0 0 0 1 0 0 0 tr tbody list 10 3
+86 O 86 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Ojala B-PER ojala 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Mace I-PER mace 0 1 0 0 0 0 1 td tr list 11 0
+Markku I-PER markku 0 1 0 0 0 0 1 td tr list 11 0
+Olavi I-PER olavi 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Olsen B-PER olsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Søren I-PER soren 0 1 0 0 0 0 1 td tr list 11 0
+Ingvor I-PER ingvor 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+93 O 93 0 0 0 1 0 0 0 tr tbody list 10 3
+56 O 56 0 0 0 1 0 0 0 tr tbody list 10 3
+57 O 57 0 0 0 1 0 0 0 tr tbody list 10 3
+22 O 22 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Pai B-PER pai 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Akshay I-PER akshay 0 1 0 0 0 0 1 td tr list 11 0
+Sadananda I-PER sadananda 0 1 0 0 0 0 1 td tr list 11 0
+Uppinakudru I-PER uppinakudru 0 0 0 0 0 0 1 td tr list 11 0
+Research O research 0 1 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Pedersen B-PER pedersen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Kim I-PER kim 0 1 0 0 0 0 1 td tr list 11 0
+Steenstrup I-PER steenstrup 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+21455 O 21455 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Pedersen B-PER pedersen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Peter I-PER peter 0 1 0 0 0 0 1 td tr list 11 0
+Nørfjand I-PER norfjand 0 0 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Petersen B-PER petersen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Emil I-PER emil 0 1 0 0 1 0 1 td tr list 11 0
+Teacher O teacher 0 1 0 0 0 0 1 tr tbody list 10 2
+' O ' 0 0 0 0 0 0 0 tr tbody list 10 2
+s O s 0 0 0 0 0 0 0 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Petersen B-PER petersen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jens I-PER jens 0 1 0 0 0 0 1 td tr list 11 0
+Postdoc O postdoc 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Petersen B-PER petersen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Tobias I-PER tobias 0 1 0 0 0 0 1 td tr list 11 0
+Hallundbæk I-PER hallundbek 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Pham B-PER pham 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Chi I-PER chi 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+
+Pham B-PER pham 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Dang I-PER dang 0 1 0 0 0 0 1 td tr list 11 0
+Ninh I-PER ninh 0 1 0 0 0 0 1 td tr list 11 0
+Postdoc O postdoc 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Pinder B-PER pinder 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Annie I-PER annie 0 1 0 0 0 0 1 td tr list 11 0
+Jane I-PER jane 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+fellow O fellow 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Pisinger B-PER pisinger 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+David I-PER david 0 1 0 0 0 0 1 td tr list 11 0
+Affiliate O affiliate 0 0 0 0 0 0 1 tr tbody list 10 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Pohl B-PER pohl 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Henning I-PER henning 0 1 0 0 0 0 1 td tr list 11 0
+Sebastian I-PER sebastian 0 1 0 0 0 0 1 td tr list 11 0
+Clemens I-PER clemens 0 1 0 0 0 0 1 td tr list 11 0
+Postdoc O postdoc 0 0 0 0 0 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+31965 O 31965 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Probst B-PER probst 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jonas I-PER jonas 0 1 0 0 0 0 1 td tr list 11 0
+Bilsted I-PER bilsted 0 0 0 0 0 0 1 td tr list 11 0
+Head O head 0 1 0 0 0 0 1 tr tbody list 10 2
+of O of 0 1 0 0 0 0 0 tr tbody list 10 2
+administration O administration 0 0 0 0 0 0 0 tr tbody list 10 2
++255 O +255 0 0 0 1 0 0 0 tr tbody list 10 3
+756677390 O 756677390 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Probst B-PER probst 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Maximilian I-PER maximilian 0 1 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Raghavendra B-PER raghavendra 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Selvan I-PER selvan 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+fellow O fellow 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Ramirez B-PER ramirez 0 1 0 0 0 0 1 td tr list 11 0
+Lapena I-PER lapena 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Laura I-PER laura 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+
+Rasmussen B-PER rasmussen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Kasper I-PER kasper 0 1 0 0 0 0 1 td tr list 11 0
+Verdel I-PER verdel 0 1 0 0 0 0 1 td tr list 11 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody list 10 2
+adviser O adviser 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35668 O 35668 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Rodríguez B-PER rodriguez 0 1 0 0 0 0 1 td tr list 11 0
+Arbonès I-PER arbones 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Dídac I-PER didac 0 1 0 0 0 0 1 td tr list 11 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Roman B-PER roman 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Claudiu I-PER claudiu 0 1 0 0 0 0 1 td tr list 11 0
+- I-PER - 0 0 0 0 0 0 0 td tr list 11 0
+Horatiu I-PER horatiu 0 1 0 0 0 0 1 td tr list 11 0
+Student O student 0 1 0 0 0 0 1 tr tbody list 10 2
+programmer O programmer 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Rosendahl B-PER rosendahl 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Mads I-PER mads 0 1 0 0 0 0 1 td tr list 11 0
+
+Ross B-PER ross 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Omry I-PER omry 0 1 0 0 0 0 1 td tr list 11 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+30673 O 30673 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Rotenberg B-PER rotenberg 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Eva I-PER eva 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+fellow O fellow 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Rotendahl B-PER rotendahl 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Benjamin I-PER benjamin 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Roytman B-PER roytman 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Alan I-PER alan 0 1 0 0 0 0 1 td tr list 11 0
+James I-PER james 0 1 0 0 0 0 1 td tr list 11 0
+Postdoc O postdoc 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Rudloff B-PER rudloff 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jonas I-PER jonas 0 1 0 0 0 0 1 td tr list 11 0
+Thomas I-PER thomas 0 1 0 0 0 0 1 td tr list 11 0
+Seneberg I-PER seneberg 0 0 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Ryther B-PER ryther 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Christopher I-PER christopher 0 1 0 0 0 0 1 td tr list 11 0
+Alan I-PER alan 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+student O student 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Rønnow B-PER ronnow 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Mads I-PER mads 0 1 0 0 0 0 1 td tr list 11 0
+Jeppe I-PER jeppe 0 1 0 0 0 0 1 td tr list 11 0
+Lyngholm I-PER lyngholm 0 1 0 0 0 0 1 td tr list 11 0
+Teacher O teacher 0 1 0 0 0 0 1 tr tbody list 10 2
+' O ' 0 0 0 0 0 0 0 tr tbody list 10 2
+s O s 0 0 0 0 0 0 0 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+
+Saietz B-PER saietz 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Maya I-PER maya 0 1 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Sand B-PER sand 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Pernille I-PER pernille 0 1 0 0 0 0 1 td tr list 11 0
+Julie I-PER julie 0 1 0 0 0 0 1 td tr list 11 0
+Viuff I-PER viuff 0 0 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Schwartz B-PER schwartz 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Julie I-PER julie 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Seiller B-PER seiller 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Thomas I-PER thomas 0 1 0 0 0 0 1 td tr list 11 0
+Postdoc O postdoc 0 0 0 0 0 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+93 O 93 0 0 0 1 0 0 0 tr tbody list 10 3
+56 O 56 0 0 0 1 0 0 0 tr tbody list 10 3
+54 O 54 0 0 0 1 0 0 0 tr tbody list 10 3
+52 O 52 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Seldin B-PER seldin 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Yevgeny I-PER yevgeny 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Serup B-PER serup 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Niels I-PER niels 0 1 0 0 0 0 1 td tr list 11 0
+G. I-PER g. 0 1 0 0 0 0 1 td tr list 11 0
+W. I-PER w. 0 1 0 0 0 0 1 td tr list 11 0
+
+Shakibfar B-PER shakibfar 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Saeed I-PER saeed 0 1 0 0 0 0 1 td tr list 11 0
+Postdoc O postdoc 0 0 0 0 0 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+31269 O 31269 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Simonsen B-PER simonsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jakob I-PER jakob 0 1 0 0 0 0 1 td tr list 11 0
+Grue I-PER grue 0 1 0 0 0 0 1 td tr list 11 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+21439 O 21439 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Slaats B-PER slaats 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Tijs I-PER tijs 0 1 0 0 0 0 1 td tr list 11 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
+, O , 0 0 0 0 0 0 0 tr tbody list 10 2
+tenure O tenure 0 0 0 0 0 0 0 tr tbody list 10 2
+track O track 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+30318 O 30318 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Sommer B-PER sommer 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Stefan I-PER stefan 0 1 0 0 0 0 1 td tr list 11 0
+Horst I-PER horst 0 1 0 0 0 0 1 td tr list 11 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35716 O 35716 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Spiegelhauer B-PER spiegelhauer 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Brian I-PER brian 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Sporring B-PER sporring 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jon I-PER jon 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35682 O 35682 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Steen B-PER steen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Amanda I-PER amanda 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Steen B-PER steen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Anne I-PER anne 0 1 0 0 0 0 1 td tr list 11 0
+Karina I-PER karina 0 1 0 0 0 0 1 td tr list 11 0
+Academic O academic 0 0 0 0 0 0 1 tr tbody list 10 2
+Officer O officer 0 0 0 0 0 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+33659 O 33659 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Strohmeier B-PER strohmeier 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Paul I-PER paul 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+fellow O fellow 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Svendsen B-PER svendsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Mads I-PER mads 0 1 0 0 0 0 1 td tr list 11 0
+Ulrik I-PER ulrik 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Søgaard B-PER sogaard 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Anders I-PER anders 0 1 0 0 1 0 1 td tr list 11 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+29065 O 29065 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Søndergaard B-PER sondergaard 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Ann I-PER ann 1 1 0 0 0 0 1 td tr list 11 0
+Steendahl I-PER steendahl 0 1 0 0 0 0 1 td tr list 11 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody list 10 2
+adviser O adviser 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+24 O 24 0 0 0 1 0 0 0 tr tbody list 10 3
+48 O 48 0 0 0 1 0 0 0 tr tbody list 10 3
+03 O 03 0 0 0 1 0 0 0 tr tbody list 10 3
+38 O 38 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Sørensen B-PER sorensen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Nikolaj I-PER nikolaj 0 1 0 0 0 0 1 td tr list 11 0
+Overgaard I-PER overgaard 0 1 0 0 0 0 1 td tr list 11 0
+Teacher O teacher 0 1 0 0 0 0 1 tr tbody list 10 2
+' O ' 0 0 0 0 0 0 0 tr tbody list 10 2
+s O s 0 0 0 0 0 0 0 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Thomasberg B-PER thomasberg 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+John I-PER john 0 1 0 0 0 0 1 td tr list 11 0
+Barzel I-PER barzel 0 1 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Thomsen B-PER thomsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Henrik I-PER henrik 0 1 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Thomsen B-PER thomsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Michael I-PER michael 0 1 0 0 0 0 1 td tr list 11 0
+Kirkedal I-PER kirkedal 0 1 0 0 0 0 1 td tr list 11 0
+Assistant O assistant 0 0 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+36154 O 36154 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Thoresen B-PER thoresen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Freja I-PER freja 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Thorup B-PER thorup 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Mikkel I-PER mikkel 0 1 0 0 0 0 1 td tr list 11 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35710 O 35710 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Thune B-PER thune 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Tobias I-PER tobias 1 1 0 0 0 0 1 td tr list 11 0
+Sommer I-PER sommer 1 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+student O student 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+33468 O 33468 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Tofte B-PER tofte 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Stefan I-PER stefan 0 1 0 0 0 0 1 td tr list 11 0
+Friis I-PER friis 0 1 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Uldall B-PER uldall 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Alexander I-PER alexander 0 1 0 0 0 0 1 td tr list 11 0
+Winther I-PER winther 0 1 0 0 0 0 1 td tr list 11 0
+Teacher O teacher 0 1 0 0 0 0 1 tr tbody list 10 2
+' O ' 0 0 0 0 0 0 0 tr tbody list 10 2
+s O s 0 0 0 0 0 0 0 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Uldall B-PER uldall 0 1 0 0 0 0 1 td tr list 11 0
+- I-PER - 0 0 0 0 0 0 0 td tr list 11 0
+Espersen I-PER espersen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Tobias I-PER tobias 0 1 0 0 0 0 1 td tr list 11 0
+Part O part 0 1 0 0 0 0 1 tr tbody list 10 2
+- O - 0 0 0 0 0 0 0 tr tbody list 10 2
+time O time 0 0 0 0 0 0 0 tr tbody list 10 2
+lecturer O lecturer 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+21389 O 21389 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Vaz B-PER vaz 0 1 0 0 0 0 1 td tr list 11 0
+Salles I-PER salles 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Marcos I-PER marcos 0 1 0 0 0 0 1 td tr list 11 0
+António I-PER antonio 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+23 O 23 0 0 0 1 0 0 0 tr tbody list 10 3
+83 O 83 0 0 0 1 0 0 0 tr tbody list 10 3
+99 O 99 0 0 0 1 0 0 0 tr tbody list 10 3
+58 O 58 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Vej B-PER vej 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jenny I-PER jenny 0 1 0 0 0 0 1 td tr list 11 0
+- I-PER - 0 0 0 0 0 0 0 td tr list 11 0
+Margrethe I-PER margrethe 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+
+Vidø B-PER vido 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Emilie I-PER emilie 0 1 0 0 1 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Waagstein B-PER waagstein 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Jeppe I-PER jeppe 0 1 0 0 0 0 1 td tr list 11 0
+Eimose I-PER eimose 0 0 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+student O student 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+51 O 51 0 0 0 1 0 0 0 tr tbody list 10 3
+53 O 53 0 0 0 1 0 0 0 tr tbody list 10 3
+82 O 82 0 0 0 1 0 0 0 tr tbody list 10 3
+40 O 40 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Wac B-PER wac 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Katarzyna I-PER katarzyna 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+60 O 60 0 0 0 1 0 0 0 tr tbody list 10 3
+42 O 42 0 0 0 1 0 0 0 tr tbody list 10 3
+56 O 56 0 0 0 1 0 0 0 tr tbody list 10 3
+52 O 52 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Wang B-PER wang 1 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Xiaoyi I-PER xiaoyi 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+fellow O fellow 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Winter B-PER winter 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Pawel I-PER pawel 0 1 0 0 0 0 1 td tr list 11 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+23 O 23 0 0 0 1 0 0 0 tr tbody list 10 3
+80 O 80 0 0 0 1 0 0 0 tr tbody list 10 3
+77 O 77 0 0 0 1 0 0 0 tr tbody list 10 3
+99 O 99 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Winther B-PER winther 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Sidsel I-PER sidsel 0 1 0 0 0 0 1 td tr list 11 0
+Borup I-PER borup 0 1 0 0 0 0 1 td tr list 11 0
+Teaching O teaching 0 0 0 0 0 0 1 tr tbody list 10 2
+assistant O assistant 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Wulff B-PER wulff 0 1 0 0 0 0 1 td tr list 11 0
+- I-PER - 0 0 0 0 0 0 0 td tr list 11 0
+Nilsen I-PER nilsen 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Christian I-PER christian 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+35695 O 35695 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Zhou B-PER zhou 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Yongluan I-PER yongluan 0 1 0 0 0 0 1 td tr list 11 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody list 10 2
+professor O professor 0 0 0 0 1 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Zimmert B-PER zimmert 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Julian I-PER julian 0 1 0 0 0 0 1 td tr list 11 0
+Ulf I-PER ulf 0 1 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+student O student 0 0 0 0 0 0 0 tr tbody list 10 2
++45 O +45 0 0 0 1 0 0 0 tr tbody list 10 3
+353 O 353 0 0 0 1 0 0 0 tr tbody list 10 3
+- O - 0 0 0 0 0 0 0 tr tbody list 10 3
+31402 O 31402 0 0 0 1 0 0 0 tr tbody list 10 3
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Zou B-PER zou 0 1 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Eric I-PER eric 0 1 0 0 0 0 1 td tr list 11 0
+Qing I-PER qing 0 1 0 0 0 0 1 td tr list 11 0
+Instructor O instructor 0 0 0 0 0 0 1 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Ørting B-PER orting 0 0 0 0 0 0 1 td tr list 11 0
+, I-PER , 0 0 0 0 0 0 0 td tr list 11 0
+Silas I-PER silas 0 1 0 0 0 0 1 td tr list 11 0
+Nyboe I-PER nyboe 0 0 0 0 0 0 1 td tr list 11 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody list 10 2
+fellow O fellow 0 0 0 0 0 0 0 tr tbody list 10 2
+E O e 0 1 0 0 0 0 1 td tr list 11 0
+- O - 0 0 0 0 0 0 0 td tr list 11 0
+mail O mail 0 0 0 0 0 0 0 td tr list 11 0
+
+Oversigt O oversigt 0 0 0 0 0 0 1 h1 div  7 0
+/ O / 0 0 0 0 0 0 0 div div  6 1
+Site O site 0 1 0 0 0 0 1 h1 div  7 1
+navigation O navigation 0 0 0 0 0 0 0 h1 div  7 1
+
+Department O department 0 0 0 0 0 0 1 h1 div  8 0
+of O of 0 1 0 0 0 0 0 h1 div  8 0
+Computer O computer 0 0 0 0 0 0 1 h1 div  8 0
+Science O science 0 0 0 0 0 0 1 h1 div  8 0
+
+Home O home 0 1 0 0 0 0 1 li ul first 8 0
+
+About O about 0 0 0 0 0 0 1 li ul first 8 0
+DIKU O diku 0 0 0 0 0 0 1 li ul first 8 0
+
+Research O research 0 1 0 0 0 0 1 li ul first 8 0
+
+Study O study 0 1 0 0 0 0 1 li ul first 8 0
+Programmes O programmes 0 0 0 0 0 0 1 li ul first 8 0
+
+DIKU O diku 0 0 0 0 0 0 1 li ul first 8 0
+Business O business 0 0 0 0 0 0 1 li ul first 8 0
+Club O club 0 1 0 0 0 0 1 li ul first 8 0
+
+Press O press 0 1 0 0 0 0 1 li ul first 8 0
+and O and 0 1 0 0 0 0 0 li ul first 8 0
+Dissemination O dissemination 0 0 0 0 0 0 1 li ul first 8 0
+
+Staff O staff 0 1 0 0 0 0 1 li ul valgt 8 0
+
+Administration O administration 0 0 0 0 0 0 1 li ul valgt 10 0
+
+Research O research 0 1 0 0 0 0 1 li ul valgt 10 0
+staff O staff 0 0 0 0 0 0 0 li ul valgt 10 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul first 8 0
+us O us 0 1 0 0 0 0 0 li ul first 8 0
+
+Vacant O vacant 0 0 0 0 0 0 1 li ul  8 0
+positions O positions 0 0 0 0 0 0 0 li ul  8 0
+
+Ekstra O ekstra 0 0 0 0 0 0 1 h1 div hide 7 0
+information O information 0 0 0 0 0 0 0 h1 div hide 7 0
+/ O / 0 0 0 0 0 0 0 div div hide 6 1
+Sidebar O sidebar 0 0 0 0 0 0 1 h1 div hide 7 1
+
+Kolofon O kolofon 0 0 0 0 0 0 1 h1 div  7 0
+/ O / 0 0 0 0 0 0 0 div div  6 1
+Footer O footer 0 1 0 0 0 0 1 h1 div  7 1
+
+Datalogisk O datalogisk 0 0 0 0 0 0 1 address div  8 0
+Institut O institut 0 0 0 0 0 0 1 address div  8 0
+
+University O university 0 1 0 0 0 0 1 address div  8 2
+of O of 0 1 0 0 0 0 0 address div  8 2
+Copenhagen O copenhagen 0 0 0 0 0 0 1 address div  8 2
+
+Universitetsparken O universitetsparken 0 0 0 0 0 0 1 div div  7 0
+1 O 1 0 0 0 1 0 0 0 div div  7 0
+
+2100 O 2100 0 0 0 1 0 0 0 div div  7 0
+København O kobenhavn 0 0 0 0 0 0 1 div div  7 0
+Ø O o 0 0 0 0 0 0 1 div div  7 0
+
+Contact O contact 0 0 0 0 0 0 1 div div  6 13
+: O : 0 0 0 0 0 0 0 div div  6 13
+
+DIKU O diku 0 0 0 0 0 0 1 div div  7 0
+
+info O info 0 0 0 0 0 0 0 address div  8 1
+@ O @ 0 1 0 0 0 0 0 address div  8 1
+di O di 0 1 0 0 0 0 0 address div  8 1
+. O . 0 1 0 0 0 0 0 address div  8 1
+ku O ku 0 0 0 0 0 0 0 address div  8 1
+. O . 0 1 0 0 0 0 0 address div  8 1
+dk O dk 0 0 0 0 0 0 0 address div  8 1
+
+Tel. O tel. 0 0 0 0 0 0 1 div div  7 0
++45 O +45 0 0 0 1 0 0 0 div div  7 0
+35 O 35 0 0 0 1 0 0 0 div div  7 0
+32 O 32 0 0 0 1 0 0 0 div div  7 0
+14 O 14 0 0 0 1 0 0 0 div div  7 0
+00 O 00 0 0 0 1 0 0 0 div div  7 0
+
+Cookies O cookies 0 0 0 0 0 0 1 a div english 7 0
+and O and 0 1 0 0 0 0 0 a div english 7 0
+privacy O privacy 0 0 0 0 0 0 0 a div english 7 0
+policy O policy 0 0 0 0 0 0 0 a div english 7 0
+
+University O university 0 1 0 0 0 0 1 div div visible-desktop 7 0
+of O of 0 1 0 0 0 0 0 div div visible-desktop 7 0
+Copenhagen O copenhagen 0 0 0 0 0 0 1 div div visible-desktop 7 0
+
+Organization O organization 0 0 0 0 0 0 1 div div visible-mobile 7 1
+
+Management O management 0 1 0 0 0 0 1 li ul footerlinks 9 0
+
+Administration O administration 0 0 0 0 0 0 1 li ul footerlinks 9 0
+
+Faculties O faculties 0 0 0 0 0 0 1 li ul footerlinks 9 0
+
+Departments O departments 0 0 0 0 0 0 1 li ul footerlinks 9 0
+
+Research O research 0 1 0 0 0 0 1 li ul footerlinks 9 0
+Centres O centres 0 0 0 0 0 0 1 li ul footerlinks 9 0
+
+Animal O animal 0 0 0 0 0 0 1 li ul footerlinks 9 0
+hospitals O hospitals 0 0 0 0 0 0 0 li ul footerlinks 9 0
+
+School O school 0 1 0 0 0 0 1 li ul footerlinks 9 0
+of O of 0 1 0 0 0 0 0 li ul footerlinks 9 0
+Dentistry O dentistry 0 0 0 0 0 0 1 li ul footerlinks 9 0
+
+Libraries O libraries 0 0 0 0 0 0 1 li ul footerlinks 9 0
+
+Museums O museums 0 0 0 0 1 0 1 li ul footerlinks 9 0
+
+Contact O contact 0 0 0 0 0 0 1 div div footer-heading 7 0
+
+Map O map 0 0 0 0 0 0 1 li ul footerlinks 9 0
+
+Find O find 0 1 0 0 0 0 1 li ul footerlinks 9 0
+an O an 0 1 0 0 0 0 0 li ul footerlinks 9 0
+employee O employee 0 0 0 0 1 0 0 li ul footerlinks 9 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul footerlinks 9 0
+UCPH O ucph 0 0 0 0 0 0 1 li ul footerlinks 9 0
+
+Services O services 0 0 0 0 0 0 1 div div footer-heading 7 8
+
+Press O press 0 1 0 0 0 0 1 li ul footerlinks 9 0
+and O and 0 1 0 0 0 0 0 li ul footerlinks 9 0
+media O media 0 0 0 0 0 0 0 li ul footerlinks 9 0
+service O service 0 0 0 0 0 0 0 li ul footerlinks 9 0
+
+Merchandise O merchandise 0 0 0 0 0 0 1 li ul footerlinks 9 0
+
+UCPH O ucph 0 0 0 0 0 0 1 li ul footerlinks 9 0
+apps O apps 0 0 0 0 0 0 0 li ul footerlinks 9 0
+
+IT O it 0 0 0 0 0 0 1 li ul footerlinks 9 0
+- O - 0 0 0 0 0 0 0 li ul footerlinks 9 0
+support O support 0 0 0 0 0 0 0 li ul footerlinks 9 0
+
+For O for 0 1 0 0 0 0 1 div div footer-heading 7 0
+students O students 0 0 0 0 0 0 0 div div footer-heading 7 0
+and O and 0 1 0 0 0 0 0 div div footer-heading 7 0
+employees O employees 0 0 0 0 1 0 0 div div footer-heading 7 0
+
+KUnet O kunet 0 0 0 0 0 0 1 li ul padlock 9 0
+
+Job O job 0 1 0 0 0 0 1 div div footer-heading 7 5
+and O and 0 1 0 0 0 0 0 div div footer-heading 7 5
+career O career 0 0 0 0 0 0 0 div div footer-heading 7 5
+
+Job O job 0 1 0 0 0 0 1 li ul footerlinks 9 0
+portal O portal 0 0 0 0 0 0 0 li ul footerlinks 9 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul footerlinks 9 0
+
+Emergencies O emergencies 0 0 0 0 1 0 1 div div footer-heading 7 11
+
+Emergency O emergency 0 0 0 0 1 0 1 li ul footerlinks 9 0
+response O response 0 0 0 0 0 0 0 li ul footerlinks 9 0
+
+Web O web 0 1 0 0 0 0 1 div div footer-heading 7 0
+
+Cookies O cookies 0 0 0 0 0 0 1 li ul footerlinks 9 0
+and O and 0 1 0 0 0 0 0 li ul footerlinks 9 0
+privacy O privacy 0 0 0 0 0 0 0 li ul footerlinks 9 0
+policy O policy 0 0 0 0 0 0 0 li ul footerlinks 9 0
+
+Information O information 0 1 0 0 0 0 1 li ul footerlinks 9 0
+Security O security 0 0 0 0 0 0 1 li ul footerlinks 9 0
+
+Connect O connect 0 0 0 0 0 0 1 div div footer-heading 8 0
+with O with 0 0 0 0 0 0 0 div div footer-heading 8 0
+UCPH O ucph 0 0 0 0 0 0 1 div div footer-heading 8 0

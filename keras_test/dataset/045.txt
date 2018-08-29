@@ -1,815 +1,833 @@
-ï»¿ O 0 0   none 1 0
+ï»¿ O i»¿ 0 0 0 0 0 0 0   none 1 0
 
-Faculty O 0 0 head html none 4 0
-Blogs-Xi'an O 0 0 head html none 4 0
-Jiaotong O 0 0 head html none 4 0
-University O 0 1 head html none 4 0
+Faculty O faculty 0 0 0 0 0 0 1 head html none 4 0
+Blogs O blogs 0 0 0 0 0 0 1 head html none 4 0
+- O - 0 0 0 0 0 0 0 head html none 4 0
+Xi O xi 0 1 0 0 0 0 1 head html none 4 0
+' O ' 0 0 0 0 0 0 0 head html none 4 0
+an O an 0 1 0 0 0 0 0 head html none 4 0
+Jiaotong O jiaotong 0 0 0 0 0 0 1 head html none 4 0
+University O university 0 1 0 0 0 0 1 head html none 4 0
 
-Contacts O 0 0 li ul top-links.fr 9 0
+Contacts O contacts 0 0 0 0 0 0 1 li ul fr 9 0
 
-Map O 0 0 li ul top-links.fr 9 0
+Map O map 0 0 0 0 0 0 1 li ul fr 9 0
 
-News O 0 0 li ul top-links.fr 9 0
+News O news 0 0 0 0 0 0 1 li ul fr 9 0
 
-ä¸­æç O 0 0 li ul top-links.fr 9 0
+ä¸­æç O a¸­ec 0 0 0 0 0 0 0 li ul fr 9 0
 
-International O 0 0 li ul search-top.fr 10 0
-Students O 0 0 li ul search-top.fr 10 0
+International O international 0 0 0 0 0 0 1 li ul fr 10 0
+Students O students 0 0 0 0 0 0 1 li ul fr 10 0
 
-Faculty O 0 0 li ul search-top.fr 10 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul fr 10 0
 
-Alumni O 0 0 li ul search-top.fr 10 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul fr 10 0
 
-Home O 0 1 li ul nav 8 0
+Home O home 0 1 0 0 0 0 1 li ul nav 8 0
 
-XJTU O 0 0 li ul nav 8 0
-Introduction O 0 0 li ul nav 8 0
+XJTU O xjtu 0 0 0 0 0 0 1 li ul nav 8 0
+Introduction O introduction 0 0 0 0 0 0 1 li ul nav 8 0
 
-Presidentâs O 0 0 li ul nav 10 0
-Message O 0 1 li ul nav 10 0
+Presidentâs O presidentas 0 0 0 0 0 0 1 li ul nav 10 0
+Message O message 0 1 0 0 1 0 1 li ul nav 10 0
 
-Introduction O 0 0 li ul nav 10 0
+Introduction O introduction 0 0 0 0 0 0 1 li ul nav 10 0
 
-Current O 0 1 li ul nav 10 0
-Leadership O 0 0 li ul nav 10 0
+Current O current 0 1 0 0 0 0 1 li ul nav 10 0
+Leadership O leadership 0 0 0 0 0 0 1 li ul nav 10 0
 
-Past O 0 0 li ul nav 10 0
-Leadership O 0 0 li ul nav 10 0
+Past O past 0 0 0 0 0 0 1 li ul nav 10 0
+Leadership O leadership 0 0 0 0 0 0 1 li ul nav 10 0
 
-History O 0 0 li ul nav 10 0
+History O history 0 0 0 0 0 0 1 li ul nav 10 0
 
-Administrative O 0 0 li ul nav 10 0
-Organization O 0 0 li ul nav 10 0
+Administrative O administrative 0 0 0 0 0 0 1 li ul nav 10 0
+Organization O organization 0 0 0 0 0 0 1 li ul nav 10 0
 
-XJTU O 0 0 li ul nav 8 0
-News O 0 0 li ul nav 8 0
+XJTU O xjtu 0 0 0 0 0 0 1 li ul nav 8 0
+News O news 0 0 0 0 0 0 1 li ul nav 8 0
 
-News O 0 0 li ul nav 10 0
+News O news 0 0 0 0 0 0 1 li ul nav 10 0
 
-Academics O 0 0 li ul nav 10 0
+Academics O academics 0 0 0 0 0 0 1 li ul nav 10 0
 
-Events O 0 0 li ul nav 10 0
+Events O events 0 0 0 0 0 0 1 li ul nav 10 0
 
-Teaching O 0 0 li ul nav 10 0
-and O 0 1 li ul nav 10 0
-learning O 0 0 li ul nav 10 0
+Teaching O teaching 0 0 0 0 0 0 1 li ul nav 10 0
+and O and 0 1 0 0 0 0 0 li ul nav 10 0
+learning O learning 0 0 0 0 0 0 0 li ul nav 10 0
 
-Schools O 0 0 li ul nav 8 0
-and O 0 1 li ul nav 8 0
-Colleges O 0 0 li ul nav 8 0
+Schools O schools 0 0 0 0 0 0 1 li ul nav 8 0
+and O and 0 1 0 0 0 0 0 li ul nav 8 0
+Colleges O colleges 0 0 0 0 0 0 1 li ul nav 8 0
 
-Faculty O 0 0 li ul nav 8 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul nav 8 0
 
-CAS O 0 0 li ul nav 10 0
-Members O 0 0 li ul nav 10 0
+CAS O cas 0 0 0 0 0 0 1 li ul nav 10 0
+Members O members 0 0 0 0 0 0 1 li ul nav 10 0
 
-CAE O 0 0 li ul nav 10 0
-Members O 0 0 li ul nav 10 0
+CAE O cae 0 0 0 0 0 0 1 li ul nav 10 0
+Members O members 0 0 0 0 0 0 1 li ul nav 10 0
 
-Faculty O 0 0 li ul nav 10 0
-Blogs O 0 0 li ul nav 10 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul nav 10 0
+Blogs O blogs 0 0 0 0 0 0 1 li ul nav 10 0
 
-Faculty O 0 0 li ul nav 10 0
-Employment O 0 0 li ul nav 10 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul nav 10 0
+Employment O employment 0 0 0 0 1 0 1 li ul nav 10 0
 
-Education O 0 0 li ul nav 8 0
+Education O education 0 0 0 0 0 0 1 li ul nav 8 0
 
-Undergraduate O 0 0 li ul nav 10 0
-Education O 0 0 li ul nav 10 0
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul nav 10 0
+Education O education 0 0 0 0 0 0 1 li ul nav 10 0
 
-Graduate O 1 1 li ul nav 10 0
-Education O 0 0 li ul nav 10 0
+Graduate O graduate 1 1 0 0 0 0 1 li ul nav 10 0
+Education O education 0 0 0 0 0 0 1 li ul nav 10 0
 
-International O 0 0 li ul nav 10 0
-Education O 0 0 li ul nav 10 0
+International O international 0 0 0 0 0 0 1 li ul nav 10 0
+Education O education 0 0 0 0 0 0 1 li ul nav 10 0
 
-Continuing O 0 0 li ul nav 10 0
-Education O 0 0 li ul nav 10 0
+Continuing O continuing 0 0 0 0 0 0 1 li ul nav 10 0
+Education O education 0 0 0 0 0 0 1 li ul nav 10 0
 
-International O 0 0 li ul nav 10 0
-Affairs O 0 0 li ul nav 10 0
+International O international 0 0 0 0 0 0 1 li ul nav 10 0
+Affairs O affairs 0 0 0 0 0 0 1 li ul nav 10 0
 
-International O 0 0 li ul nav 10 0
-Students O 0 0 li ul nav 10 0
+International O international 0 0 0 0 0 0 1 li ul nav 10 0
+Students O students 0 0 0 0 0 0 1 li ul nav 10 0
 
-Alumni O 0 0 li ul nav 10 0
-Affairs O 0 0 li ul nav 10 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul nav 10 0
+Affairs O affairs 0 0 0 0 0 0 1 li ul nav 10 0
 
-Scientific O 0 0 li ul nav 8 0
-Researches O 0 0 li ul nav 8 0
+Scientific O scientific 0 0 0 0 0 0 1 li ul nav 8 0
+Researches O researches 0 0 0 0 0 0 1 li ul nav 8 0
 
-Department O 0 0 li ul nav 10 0
-of O 0 1 li ul nav 10 0
-Science O 0 0 li ul nav 10 0
-and O 0 1 li ul nav 10 0
-Technology O 0 0 li ul nav 10 0
+Department O department 0 0 0 0 0 0 1 li ul nav 10 0
+of O of 0 1 0 0 0 0 0 li ul nav 10 0
+Science O science 0 0 0 0 0 0 1 li ul nav 10 0
+and O and 0 1 0 0 0 0 0 li ul nav 10 0
+Technology O technology 0 0 0 0 0 0 1 li ul nav 10 0
 
-Research O 0 1 li ul nav 10 0
-Centers O 0 0 li ul nav 10 0
+Research O research 0 1 0 0 0 0 1 li ul nav 10 0
+Centers O centers 0 0 0 0 0 0 1 li ul nav 10 0
 
-Library O 0 0 li ul nav 10 0
+Library O library 0 0 0 0 0 0 1 li ul nav 10 0
 
-XJTU O 0 0 li ul nav 10 0
-Museum O 0 0 li ul nav 10 0
+XJTU O xjtu 0 0 0 0 0 0 1 li ul nav 10 0
+Museum O museum 0 0 0 0 1 0 1 li ul nav 10 0
 
-Campus O 0 1 li ul nav 8 0
-Life O 0 1 li ul nav 8 0
+Campus O campus 0 1 0 0 0 0 1 li ul nav 8 0
+Life O life 0 1 0 0 0 0 1 li ul nav 8 0
 
-Life O 0 1 li ul nav 10 0
-at O 0 0 li ul nav 10 0
-XJTU O 0 0 li ul nav 10 0
+Life O life 0 1 0 0 0 0 1 li ul nav 10 0
+at O at 0 0 0 0 0 0 0 li ul nav 10 0
+XJTU O xjtu 0 0 0 0 0 0 1 li ul nav 10 0
 
-XJTU O 0 0 li ul nav 10 0
-Videos O 0 0 li ul nav 10 0
+XJTU O xjtu 0 0 0 0 0 0 1 li ul nav 10 0
+Videos O videos 0 0 0 0 0 0 1 li ul nav 10 0
 
-Student O 0 1 li ul nav 10 0
-Bodies O 0 0 li ul nav 10 0
+Student O student 0 1 0 0 0 0 1 li ul nav 10 0
+Bodies O bodies 0 0 0 0 0 0 1 li ul nav 10 0
 
-Campus O 0 1 li ul nav 10 0
-Scenes O 0 0 li ul nav 10 0
+Campus O campus 0 1 0 0 0 0 1 li ul nav 10 0
+Scenes O scenes 0 0 0 0 0 0 1 li ul nav 10 0
 
-Campus O 0 1 li ul nav 10 0
-Maps O 0 0 li ul nav 10 0
+Campus O campus 0 1 0 0 0 0 1 li ul nav 10 0
+Maps O maps 0 0 0 0 0 0 1 li ul nav 10 0
 
-Campus O 0 1 li ul nav 10 0
-Internet O 0 0 li ul nav 10 0
+Campus O campus 0 1 0 0 0 0 1 li ul nav 10 0
+Internet O internet 0 0 0 0 0 0 1 li ul nav 10 0
 
-Local O 0 1 li ul nav 10 0
-Culture O 0 0 li ul nav 10 0
+Local O local 0 1 0 0 0 0 1 li ul nav 10 0
+Culture O culture 0 0 0 0 0 0 1 li ul nav 10 0
 
-Faculty O 0 0 div div title 9 0
+Faculty O faculty 0 0 0 0 0 0 1 div div title 9 0
 
--CAS O 0 0 li ul list 11 0
-Members O 0 0 li ul list 11 0
+- O - 0 0 0 0 0 0 0 li ul list 11 0
+CAS O cas 0 0 0 0 0 0 1 li ul list 11 0
+Members O members 0 0 0 0 0 0 1 li ul list 11 0
 
--CAE O 0 0 li ul list 11 0
-Members O 0 0 li ul list 11 0
+- O - 0 0 0 0 0 0 0 li ul list 11 0
+CAE O cae 0 0 0 0 0 0 1 li ul list 11 0
+Members O members 0 0 0 0 0 0 1 li ul list 11 0
 
--Faculty O 0 0 li ul list 11 0
-Blogs O 0 0 li ul list 11 0
+- O - 0 0 0 0 0 0 0 li ul list 11 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul list 11 0
+Blogs O blogs 0 0 0 0 0 0 1 li ul list 11 0
 
--Faculty O 0 0 li ul list 11 0
-Employment O 0 0 li ul list 11 0
+- O - 0 0 0 0 0 0 0 li ul list 11 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul list 11 0
+Employment O employment 0 0 0 0 1 0 1 li ul list 11 0
 
-Faculty O 0 0 div div title 9 0
-Blogs O 0 0 div div title 9 0
+Faculty O faculty 0 0 0 0 0 0 1 div div title 9 0
+Blogs O blogs 0 0 0 0 0 0 1 div div title 9 0
 
-Faculty O 0 0 td tr titlestyle65349 13 0
-Blogs O 0 0 td tr titlestyle65349 13 0
+Faculty O faculty 0 0 0 0 0 0 1 td tr titlestyle65349 13 0
+Blogs O blogs 0 0 0 0 0 0 1 td tr titlestyle65349 13 0
 
-B O 0 1 b p MsoNormal 23 0
+B O b 0 1 0 0 0 0 1 b p MsoNormal 23 0
 
-Bofeng B-NAME 0 1 a span MsoNormal 24 0
-BAI I-NAME 0 0 a span MsoNormal 24 0
+Bofeng B-PER bofeng 0 1 0 0 0 0 1 a span MsoNormal 24 0
+BAI I-PER bai 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Xiaodong B-NAME 0 1 a span MsoNormal 24 0
-BAI I-NAME 0 0 a span MsoNormal 24 0
+Xiaodong B-PER xiaodong 0 1 0 0 0 0 1 a span MsoNormal 24 0
+BAI I-PER bai 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Yongquan B-NAME 0 1 a span MsoNormal 24 0
-BAI I-NAME 0 0 a span MsoNormal 24 0
+Yongquan B-PER yongquan 0 1 0 0 0 0 1 a span MsoNormal 24 0
+BAI I-PER bai 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Hongyan B-NAME 0 1 a span MsoNormal 24 0
-BI I-NAME 0 0 a span MsoNormal 24 0
+Hongyan B-PER hongyan 0 1 0 0 1 0 1 a span MsoNormal 24 0
+BI I-PER bi 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-C O 0 1 b p MsoNormal 23 0
+C O c 0 1 0 0 0 0 1 b p MsoNormal 23 0
 
-Yongxiao B-NAME 0 1 a span MsoNormal 24 0
-CAO I-NAME 0 0 a span MsoNormal 24 0
+Yongxiao B-PER yongxiao 0 1 0 0 0 0 1 a span MsoNormal 24 0
+CAO I-PER cao 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Defu B-NAME 0 1 a span MsoNormal 24 0
-CHE I-NAME 0 0 a span MsoNormal 24 0
+Defu B-PER defu 0 1 0 0 0 0 1 a span MsoNormal 24 0
+CHE I-PER che 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Badong B-NAME 0 1 a span MsoNormal 24 0
-CHEN I-NAME 0 0 a span MsoNormal 24 0
+Badong B-PER badong 0 1 0 0 0 0 1 a span MsoNormal 24 0
+CHEN I-PER chen 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Bin B-NAME 0 1 a span MsoNormal 24 0
-CHEN I-NAME 0 0 a span MsoNormal 24 0
+Bin B-PER bin 0 1 0 0 0 0 1 a span MsoNormal 24 0
+CHEN I-PER chen 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Dadi B-NAME 0 1 a span MsoNormal 24 0
-CHEN I-NAME 0 0 a span MsoNormal 24 0
+Dadi B-PER dadi 0 1 0 0 0 0 1 a span MsoNormal 24 0
+CHEN I-PER chen 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Guangde B-NAME 0 1 a span MsoNormal 24 0
-CHEN I-NAME 0 0 a span MsoNormal 24 0
+Guangde B-PER guangde 0 1 0 0 0 0 1 a span MsoNormal 24 0
+CHEN I-PER chen 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Hualing B-NAME 0 1 a span MsoNormal 24 0
-CHEN I-NAME 0 0 a span MsoNormal 24 0
+Hualing B-PER hualing 0 1 0 0 0 0 1 a span MsoNormal 24 0
+CHEN I-PER chen 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Xiangjing B-NAME 0 1 a span MsoNormal 24 0
-CHEN I-NAME 0 0 a span MsoNormal 24 0
+Xiangjing B-PER xiangjing 0 1 0 0 0 0 1 a span MsoNormal 24 0
+CHEN I-PER chen 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Xuekai B-NAME 0 0 a span MsoNormal 24 0
-CHEN I-NAME 0 0 a span MsoNormal 24 0
+Xuekai B-PER xuekai 0 0 0 0 0 0 1 a span MsoNormal 24 0
+CHEN I-PER chen 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zhenmao B-NAME 0 1 a span MsoNormal 24 0
-CHEN I-NAME 0 0 a span MsoNormal 24 0
+Zhenmao B-PER zhenmao 0 1 0 0 0 0 1 a span MsoNormal 24 0
+CHEN I-PER chen 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zhipin B-NAME 0 1 a span MsoNormal 24 0
-CHEN I-NAME 0 0 a span MsoNormal 24 0
+Zhipin B-PER zhipin 0 1 0 0 0 0 1 a span MsoNormal 24 0
+CHEN I-PER chen 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-D O 0 1 b p MsoNormal 23 0
+D O d 0 1 0 0 0 0 1 b p MsoNormal 23 0
 
-Yiping B-NAME 0 1 a span MsoNormal 24 0
-DAI I-NAME 0 0 a span MsoNormal 24 0
+Yiping B-PER yiping 0 1 0 0 0 0 1 a span MsoNormal 24 0
+DAI I-PER dai 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Dongfeng B-NAME 0 1 a span MsoNormal 24 0
-DIAO I-NAME 0 0 a span MsoNormal 24 0
+Dongfeng B-PER dongfeng 0 1 0 0 0 0 1 a span MsoNormal 24 0
+DIAO I-PER diao 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Xiangdong B-NAME 0 1 a span MsoNormal 24 0
-DING I-NAME 0 0 a span MsoNormal 24 0
+Xiangdong B-PER xiangdong 0 1 0 0 0 0 1 a span MsoNormal 24 0
+DING I-PER ding 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Xiaohui B-NAME 0 1 a span MsoNormal 24 0
-DONG I-NAME 0 0 a span MsoNormal 24 0
+Xiaohui B-PER xiaohui 0 1 0 0 0 0 1 a span MsoNormal 24 0
+DONG I-PER dong 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-F O 0 0 b p MsoNormal 23 0
+F O f 0 0 0 0 0 0 1 b p MsoNormal 23 0
 
-Tao B-NAME 0 1 a span MsoNormal 24 0
-FANG I-NAME 0 0 a span MsoNormal 24 0
+Tao B-PER tao 0 1 0 0 0 0 1 a span MsoNormal 24 0
+FANG I-PER fang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Qiang B-NAME 0 1 a span MsoNormal 24 0
-FU I-NAME 0 0 a span MsoNormal 24 0
+Qiang B-PER qiang 0 1 0 0 0 0 1 a span MsoNormal 24 0
+FU I-PER fu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-G O 0 1 b p MsoNormal 23 0
+G O g 0 1 0 0 0 0 1 b p MsoNormal 23 0
 
-Chuanbo B-NAME 0 1 a span MsoNormal 24 0
-GAO I-NAME 0 0 a span MsoNormal 24 0
+Chuanbo B-PER chuanbo 0 1 0 0 0 0 1 a span MsoNormal 24 0
+GAO I-PER gao 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Shanxing B-NAME 0 1 a span MsoNormal 24 0
-GAO I-NAME 0 0 a span MsoNormal 24 0
+Shanxing B-PER shanxing 0 1 0 0 0 0 1 a span MsoNormal 24 0
+GAO I-PER gao 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Yanjie B-NAME 0 1 a span MsoNormal 24 0
-GAO I-NAME 0 0 a span MsoNormal 24 0
+Yanjie B-PER yanjie 0 1 0 0 0 0 1 a span MsoNormal 24 0
+GAO I-PER gao 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Gaoyang B-NAME 0 1 a span MsoNormal 24 0
-GOU I-NAME 0 0 a span MsoNormal 24 0
+Gaoyang B-PER gaoyang 0 1 0 0 0 0 1 a span MsoNormal 24 0
+GOU I-PER gou 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Xiaolin B-NAME 0 1 a span MsoNormal 24 0
-GUI I-NAME 0 0 a span MsoNormal 24 0
+Xiaolin B-PER xiaolin 0 1 0 0 0 0 1 a span MsoNormal 24 0
+GUI I-PER gui 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-H O 0 1 b p MsoNormal 23 0
+H O h 0 1 0 0 0 0 1 b p MsoNormal 23 0
 
-Chaohui B-NAME 0 1 a span MsoNormal 24 0
-HE I-NAME 0 0 a span MsoNormal 24 0
+Chaohui B-PER chaohui 0 1 0 0 0 0 1 a span MsoNormal 24 0
+HE I-PER he 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Maogang B-NAME 0 1 a span MsoNormal 24 0
-HE I-NAME 0 0 a span MsoNormal 24 0
+Maogang B-PER maogang 0 1 0 0 0 0 1 a span MsoNormal 24 0
+HE I-PER he 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Yaling B-NAME 0 1 a span MsoNormal 24 0
-HE I-NAME 0 0 a span MsoNormal 24 0
+Yaling B-PER yaling 0 1 0 0 0 0 1 a span MsoNormal 24 0
+HE I-PER he 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zhengwen B-NAME 0 1 a span MsoNormal 24 0
-HE I-NAME 0 0 a span MsoNormal 24 0
+Zhengwen B-PER zhengwen 0 1 0 0 0 0 1 a span MsoNormal 24 0
+HE I-PER he 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Peng B-NAME 0 1 a span MsoNormal 24 0
-HOU I-NAME 0 0 a span MsoNormal 24 0
+Peng B-PER peng 0 1 0 0 0 0 1 a span MsoNormal 24 0
+HOU I-PER hou 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Yanren B-NAME 0 1 a span MsoNormal 24 0
-HOU I-NAME 0 0 a span MsoNormal 24 0
+Yanren B-PER yanren 0 1 0 0 0 0 1 a span MsoNormal 24 0
+HOU I-PER hou 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Huasi B-NAME 0 0 a span MsoNormal 24 0
-HUANG I-NAME 0 0 a span MsoNormal 24 0
+Huasi B-PER huasi 0 0 0 0 0 0 1 a span MsoNormal 24 0
+HUANG I-PER huang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zuohua B-NAME 0 1 a span MsoNormal 24 0
-HUANG I-NAME 0 0 a span MsoNormal 24 0
+Zuohua B-PER zuohua 0 1 0 0 0 0 1 a span MsoNormal 24 0
+HUANG I-PER huang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Shifu B-NAME 0 1 a span MsoNormal 24 0
-HUO I-NAME 0 0 a span MsoNormal 24 0
+Shifu B-PER shifu 0 1 0 0 0 0 1 a span MsoNormal 24 0
+HUO I-PER huo 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-J O 0 1 b p MsoNormal 23 0
+J O j 0 1 0 0 0 0 1 b p MsoNormal 23 0
 
-Zhuofei B-NAME 0 1 a span MsoNormal 24 0
-JIA I-NAME 0 0 a span MsoNormal 24 0
+Zhuofei B-PER zhuofei 0 1 0 0 0 0 1 a span MsoNormal 24 0
+JIA I-PER jia 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Feng B-NAME 0 1 a span MsoNormal 24 0
-JIANG I-NAME 0 0 a span MsoNormal 24 0
+Feng B-PER feng 0 1 0 0 0 0 1 a span MsoNormal 24 0
+JIANG I-PER jiang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Xu B-NAME 0 1 a span MsoNormal 24 0
-JIANG I-NAME 0 0 a span MsoNormal 24 0
+Xu B-PER xu 0 1 0 0 0 0 1 a span MsoNormal 24 0
+JIANG I-PER jiang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Yao B-NAME 0 1 a span MsoNormal 24 0
-JIANG I-NAME 0 0 a span MsoNormal 24 0
+Yao B-PER yao 0 1 0 0 0 0 1 a span MsoNormal 24 0
+JIANG I-PER jiang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Yaolin B-NAME 0 1 a span MsoNormal 24 0
-JIANG I-NAME 0 0 a span MsoNormal 24 0
+Yaolin B-PER yaolin 0 1 0 0 0 0 1 a span MsoNormal 24 0
+JIANG I-PER jiang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zhuangde B-NAME 0 1 a span MsoNormal 24 0
-JIANG I-NAME 0 0 a span MsoNormal 24 0
+Zhuangde B-PER zhuangde 0 1 0 0 0 0 1 a span MsoNormal 24 0
+JIANG I-PER jiang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Yuansheng B-NAME 0 1 a span MsoNormal 24 0
-JIAO I-NAME 0 0 a span MsoNormal 24 0
+Yuansheng B-PER yuansheng 0 1 0 0 0 0 1 a span MsoNormal 24 0
+JIAO I-PER jiao 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Shangming B-NAME 0 1 a span MsoNormal 24 0
-JIN I-NAME 0 0 a span MsoNormal 24 0
+Shangming B-PER shangming 0 1 0 0 0 0 1 a span MsoNormal 24 0
+JIN I-PER jin 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zhong B-NAME 0 1 a span MsoNormal 24 0
-JIN I-NAME 0 0 a span MsoNormal 24 0
+Zhong B-PER zhong 0 1 0 0 0 0 1 a span MsoNormal 24 0
+JIN I-PER jin 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Minqing B-NAME 0 1 a span MsoNormal 24 0
-JING I-NAME 0 0 a span MsoNormal 24 0
+Minqing B-PER minqing 0 1 0 0 0 0 1 a span MsoNormal 24 0
+JING I-PER jing 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-L O 0 1 b p MsoNormal 23 0
+L O l 0 1 0 0 0 0 1 b p MsoNormal 23 0
 
-Bo B-NAME 0 1 a span MsoNormal 24 0
-LEI I-NAME 0 0 a span MsoNormal 24 0
+Bo B-PER bo 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LEI I-PER lei 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Yaguo B-NAME 0 1 a span MsoNormal 24 0
-LEI I-NAME 0 0 a span MsoNormal 24 0
+Yaguo B-PER yaguo 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LEI I-PER lei 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Dichen B-NAME 0 1 a span MsoNormal 24 0
-LI I-NAME 0 1 a span MsoNormal 24 0
+Dichen B-PER dichen 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LI I-PER li 0 1 0 0 0 0 1 a span MsoNormal 24 0
 
-Hongrong B-NAME 0 1 a span MsoNormal 24 0
-LI I-NAME 0 1 a span MsoNormal 24 0
+Hongrong B-PER hongrong 0 1 0 0 1 0 1 a span MsoNormal 24 0
+LI I-PER li 0 1 0 0 0 0 1 a span MsoNormal 24 0
 
-Jianqun B-NAME 0 1 a span MsoNormal 24 0
-LI I-NAME 0 1 a span MsoNormal 24 0
+Jianqun B-PER jianqun 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LI I-PER li 0 1 0 0 0 0 1 a span MsoNormal 24 0
 
-Jun B-NAME 0 1 a span MsoNormal 24 0
-LI I-NAME 0 1 a span MsoNormal 24 0
+Jun B-PER jun 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LI I-PER li 0 1 0 0 0 0 1 a span MsoNormal 24 0
 
-Luxian B-NAME 0 1 a span MsoNormal 24 0
-LI I-NAME 0 1 a span MsoNormal 24 0
+Luxian B-PER luxian 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LI I-PER li 0 1 0 0 0 0 1 a span MsoNormal 24 0
 
-Peng B-NAME 0 1 a span MsoNormal 24 0
-LI I-NAME 0 1 a span MsoNormal 24 0
+Peng B-PER peng 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LI I-PER li 0 1 0 0 0 0 1 a span MsoNormal 24 0
 
-Shengtao B-NAME 0 1 a span MsoNormal 24 0
-LI I-NAME 0 1 a span MsoNormal 24 0
+Shengtao B-PER shengtao 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LI I-PER li 0 1 0 0 0 0 1 a span MsoNormal 24 0
 
-Xiaomei B-NAME 0 1 a span MsoNormal 24 0
-LI I-NAME 0 1 a span MsoNormal 24 0
+Xiaomei B-PER xiaomei 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LI I-PER li 0 1 0 0 0 0 1 a span MsoNormal 24 0
 
-Yang B-NAME 0 1 a span MsoNormal 24 0
-LI I-NAME 0 1 a span MsoNormal 24 0
+Yang B-PER yang 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LI I-PER li 0 1 0 0 0 0 1 a span MsoNormal 24 0
 
-Jin B-NAME 0 1 a span MsoNormal 24 0
-LIANG I-NAME 0 0 a span MsoNormal 24 0
+Jin B-PER jin 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LIANG I-PER liang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Hongjian B-NAME 0 1 a span MsoNormal 24 0
-LIAO I-NAME 0 0 a span MsoNormal 24 0
+Hongjian B-PER hongjian 0 1 0 0 1 0 1 a span MsoNormal 24 0
+LIAO I-PER liao 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Rong B-NAME 0 1 a span MsoNormal 24 0
-LIN I-NAME 0 0 a span MsoNormal 24 0
+Rong B-PER rong 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LIN I-PER lin 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Chang B-NAME 0 1 a span MsoNormal 24 0
-LIU I-NAME 0 0 a span MsoNormal 24 0
+Chang B-PER chang 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LIU I-PER liu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Guilian B-NAME 0 1 a span MsoNormal 24 0
-LIU I-NAME 0 0 a span MsoNormal 24 0
+Guilian B-PER guilian 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LIU I-PER liu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Heng B-NAME 0 1 a span MsoNormal 24 0
-LIU I-NAME 0 0 a span MsoNormal 24 0
+Heng B-PER heng 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LIU I-PER liu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Jinjun B-NAME 0 1 a span MsoNormal 24 0
-LIU I-NAME 0 0 a span MsoNormal 24 0
+Jinjun B-PER jinjun 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LIU I-PER liu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Jun B-NAME 0 1 a span MsoNormal 24 0
-LIU I-NAME 0 0 a span MsoNormal 24 0
+Jun B-PER jun 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LIU I-PER liu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Lijun B-NAME 0 1 a span MsoNormal 24 0
-LIU I-NAME 0 0 a span MsoNormal 24 0
+Lijun B-PER lijun 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LIU I-PER liu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Ming B-NAME 0 1 a span MsoNormal 24 0
-LIU I-NAME 0 0 a span MsoNormal 24 0
+Ming B-PER ming 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LIU I-PER liu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Yanhua B-NAME 0 1 a span MsoNormal 24 0
-LIU I-NAME 0 0 a span MsoNormal 24 0
+Yanhua B-PER yanhua 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LIU I-PER liu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zhiyuan B-NAME 0 1 a span MsoNormal 24 0
-LIU I-NAME 0 0 a span MsoNormal 24 0
+Zhiyuan B-PER zhiyuan 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LIU I-PER liu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Jiangang B-NAME 0 1 a span MsoNormal 24 0
-LONG I-NAME 0 0 a span MsoNormal 24 0
+Jiangang B-PER jiangang 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LONG I-PER long 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Genshu B-NAME 0 0 a span MsoNormal 24 0
-LU I-NAME 0 0 a span MsoNormal 24 0
+Genshu B-PER genshu 0 0 0 0 0 0 1 a span MsoNormal 24 0
+LU I-PER lu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Guanghao B-NAME 0 1 a span MsoNormal 24 0
-LU I-NAME 0 0 a span MsoNormal 24 0
+Guanghao B-PER guanghao 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LU I-PER lu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Tianjian B-NAME 0 1 a span MsoNormal 24 0
-LU I-NAME 0 0 a span MsoNormal 24 0
+Tianjian B-PER tianjian 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LU I-PER lu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Weiming B-NAME 0 1 a span MsoNormal 24 0
-LU I-NAME 0 0 a span MsoNormal 24 0
+Weiming B-PER weiming 0 1 0 0 0 0 1 a span MsoNormal 24 0
+LU I-PER lu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-M O 0 1 b p MsoNormal 23 0
+M O m 0 1 0 0 0 0 1 b p MsoNormal 23 0
 
-Xiaomei B-NAME 0 1 a span MsoNormal 24 0
-MA I-NAME 0 0 a span MsoNormal 24 0
+Xiaomei B-PER xiaomei 0 1 0 0 0 0 1 a span MsoNormal 24 0
+MA I-PER ma 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Liquan B-NAME 0 1 a span MsoNormal 24 0
-MEI I-NAME 0 0 a span MsoNormal 24 0
+Liquan B-PER liquan 0 1 0 0 0 0 1 a span MsoNormal 24 0
+MEI I-PER mei 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Xuesong B-NAME 0 1 a span MsoNormal 24 0
-MEI I-NAME 0 0 a span MsoNormal 24 0
+Xuesong B-PER xuesong 0 1 0 0 0 0 1 a span MsoNormal 24 0
+MEI I-PER mei 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Lingjie B-NAME 0 1 a span MsoNormal 24 0
-MENG I-NAME 0 0 a span MsoNormal 24 0
+Lingjie B-PER lingjie 0 1 0 0 0 0 1 a span MsoNormal 24 0
+MENG I-PER meng 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Qingfeng B-NAME 0 1 a span MsoNormal 24 0
-MENG I-NAME 0 0 a span MsoNormal 24 0
+Qingfeng B-PER qingfeng 0 1 0 0 0 0 1 a span MsoNormal 24 0
+MENG I-PER meng 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Xuanqin B-NAME 0 1 a span MsoNormal 24 0
-MOU I-NAME 0 0 a span MsoNormal 24 0
+Xuanqin B-PER xuanqin 0 1 0 0 0 0 1 a span MsoNormal 24 0
+MOU I-PER mou 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-P O 0 1 b p MsoNormal 23 0
+P O p 0 1 0 0 0 0 1 b p MsoNormal 23 0
 
-Jigen B-NAME 0 1 a span MsoNormal 24 0
-PENG I-NAME 0 0 a span MsoNormal 24 0
+Jigen B-PER jigen 0 1 0 0 0 0 1 a span MsoNormal 24 0
+PENG I-PER peng 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Q O 0 1 b p MsoNormal 23 0
+Q O q 0 1 0 0 0 0 1 b p MsoNormal 23 0
 
-Yong B-NAME 0 1 a span MsoNormal 24 0
-QI I-NAME 0 0 a span MsoNormal 24 0
+Yong B-PER yong 0 1 0 0 0 0 1 a span MsoNormal 24 0
+QI I-PER qi 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Guanjun B-NAME 0 1 a span MsoNormal 24 0
-QIAO I-NAME 0 0 a span MsoNormal 24 0
+Guanjun B-PER guanjun 0 1 0 0 0 0 1 a span MsoNormal 24 0
+QIAO I-PER qiao 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zhanming B-NAME 0 1 a span MsoNormal 24 0
-QIN I-NAME 0 0 a span MsoNormal 24 0
+Zhanming B-PER zhanming 0 1 0 0 0 0 1 a span MsoNormal 24 0
+QIN I-PER qin 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Aici B-NAME 0 0 a span MsoNormal 24 0
-QIU I-NAME 0 0 a span MsoNormal 24 0
+Aici B-PER aici 0 0 0 0 0 0 1 a span MsoNormal 24 0
+QIU I-PER qiu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Yongquan B-NAME 0 1 a span MsoNormal 24 0
-QU I-NAME 0 0 a span MsoNormal 24 0
+Yongquan B-PER yongquan 0 1 0 0 0 0 1 a span MsoNormal 24 0
+QU I-PER qu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-R O 0 1 b p MsoNormal 23 0
+R O r 0 1 0 0 0 0 1 b p MsoNormal 23 0
 
-Mingzhe B-NAME 0 1 a span MsoNormal 24 0
-RONG I-NAME 0 0 a span MsoNormal 24 0
+Mingzhe B-PER mingzhe 0 1 0 0 0 0 1 a span MsoNormal 24 0
+RONG I-PER rong 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-S O 0 1 b p MsoNormal 23 0
+S O s 0 1 0 0 0 0 1 b p MsoNormal 23 0
 
-Fulin B-NAME 0 1 a span MsoNormal 24 0
-SHANG I-NAME 0 0 a span MsoNormal 24 0
+Fulin B-PER fulin 0 1 0 0 0 0 1 a span MsoNormal 24 0
+SHANG I-PER shang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Shengping B-NAME 0 1 a span MsoNormal 24 0
-SHEN I-NAME 0 0 a span MsoNormal 24 0
+Shengping B-PER shengping 0 1 0 0 0 0 1 a span MsoNormal 24 0
+SHEN I-PER shen 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zhenxing B-NAME 0 1 a span MsoNormal 24 0
-SHEN I-NAME 0 0 a span MsoNormal 24 0
+Zhenxing B-PER zhenxing 0 1 0 0 0 0 1 a span MsoNormal 24 0
+SHEN I-PER shen 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Lin B-NAME 1 1 a span MsoNormal 24 0
-SONG I-NAME 0 0 a span MsoNormal 24 0
+Lin B-PER lin 1 1 0 0 0 0 1 a span MsoNormal 24 0
+SONG I-PER song 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Qinbao B-NAME 0 1 a span MsoNormal 24 0
-SONG I-NAME 0 0 a span MsoNormal 24 0
+Qinbao B-PER qinbao 0 1 0 0 0 0 1 a span MsoNormal 24 0
+SONG I-PER song 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Guanghui B-NAME 0 1 a span MsoNormal 24 0
-SU I-NAME 0 0 a span MsoNormal 24 0
+Guanghui B-PER guanghui 0 1 0 0 0 0 1 a span MsoNormal 24 0
+SU I-PER su 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zhanbo B-NAME 0 1 a span MsoNormal 24 0
-SUN I-NAME 0 0 a span MsoNormal 24 0
+Zhanbo B-PER zhanbo 0 1 0 0 0 0 1 a span MsoNormal 24 0
+SUN I-PER sun 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-T O 0 1 b p MsoNormal 23 0
+T O t 0 1 0 0 0 0 1 b p MsoNormal 23 0
 
-Houzhang B-NAME 0 1 a span MsoNormal 24 0
-TAN I-NAME 0 0 a span MsoNormal 24 0
+Houzhang B-PER houzhang 0 1 0 0 0 0 1 a span MsoNormal 24 0
+TAN I-PER tan 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Guihua B-NAME 0 1 a span MsoNormal 24 0
-TANG I-NAME 0 0 a span MsoNormal 24 0
+Guihua B-PER guihua 0 1 0 0 0 0 1 a span MsoNormal 24 0
+TANG I-PER tang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Yuhai B-NAME 0 1 a span MsoNormal 24 0
-TANG I-NAME 0 0 a span MsoNormal 24 0
+Yuhai B-PER yuhai 0 1 0 0 0 0 1 a span MsoNormal 24 0
+TANG I-PER tang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zhongmin B-NAME 0 1 a span MsoNormal 24 0
-TIAN I-NAME 0 0 a span MsoNormal 24 0
+Zhongmin B-PER zhongmin 0 1 0 0 0 0 1 a span MsoNormal 24 0
+TIAN I-PER tian 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-W O 0 1 b p MsoNormal 23 0
+W O w 0 1 0 0 0 0 1 b p MsoNormal 23 0
 
-Baomin B-NAME 0 1 a span MsoNormal 24 0
-WANG I-NAME 0 0 a span MsoNormal 24 0
+Baomin B-PER baomin 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WANG I-PER wang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Gangfeng B-NAME 0 1 a span MsoNormal 24 0
-WANG I-NAME 0 0 a span MsoNormal 24 0
+Gangfeng B-PER gangfeng 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WANG I-PER wang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Hong B-NAME 0 1 a span MsoNormal 24 0
-WANG I-NAME 0 0 a span MsoNormal 24 0
+Hong B-PER hong 0 1 0 0 1 0 1 a span MsoNormal 24 0
+WANG I-PER wang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Jing B-NAME 0 1 a span MsoNormal 24 0
-WANG I-NAME 0 0 a span MsoNormal 24 0
+Jing B-PER jing 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WANG I-PER wang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Jue B-NAME 0 1 a span MsoNormal 24 0
-WANG I-NAME 0 0 a span MsoNormal 24 0
+Jue B-PER jue 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WANG I-PER wang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Qiuwang B-NAME 0 0 a span MsoNormal 24 0
-WANG I-NAME 0 0 a span MsoNormal 24 0
+Qiuwang B-PER qiuwang 0 0 0 0 0 0 1 a span MsoNormal 24 0
+WANG I-PER wang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Shuzhong B-NAME 0 1 a span MsoNormal 24 0
-WANG I-NAME 0 0 a span MsoNormal 24 0
+Shuzhong B-PER shuzhong 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WANG I-PER wang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Sicen B-NAME 0 1 a span MsoNormal 24 0
-WANG I-NAME 0 0 a span MsoNormal 24 0
+Sicen B-PER sicen 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WANG I-PER wang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Tiejun B-NAME 0 1 a span MsoNormal 24 0
-WANG I-NAME 0 0 a span MsoNormal 24 0
+Tiejun B-PER tiejun 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WANG I-PER wang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Wei B-NAME 0 1 a span MsoNormal 24 0
-WANG I-NAME 0 0 a span MsoNormal 24 0
+Wei B-PER wei 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WANG I-PER wang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Xiaoli B-NAME 0 1 a span MsoNormal 24 0
-WANG I-NAME 0 0 a span MsoNormal 24 0
+Xiaoli B-PER xiaoli 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WANG I-PER wang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Xifan B-NAME 0 1 a span MsoNormal 24 0
-WANG I-NAME 0 0 a span MsoNormal 24 0
+Xifan B-PER xifan 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WANG I-PER wang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Yunhai B-NAME 0 1 a span MsoNormal 24 0
-WANG I-NAME 0 0 a span MsoNormal 24 0
+Yunhai B-PER yunhai 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WANG I-PER wang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zhao B-NAME 0 1 a span MsoNormal 24 0
-WANG I-NAME 0 0 a span MsoNormal 24 0
+Zhao B-PER zhao 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WANG I-PER wang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Jinjia B-NAME 0 1 a span MsoNormal 24 0
-WEI I-NAME 0 0 a span MsoNormal 24 0
+Jinjia B-PER jinjia 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WEI I-PER wei 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Wei B-NAME 0 1 a span MsoNormal 24 0
-WEI I-NAME 0 0 a span MsoNormal 24 0
+Wei B-PER wei 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WEI I-PER wei 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Xiaoyong B-NAME 0 1 a span MsoNormal 24 0
-WEI I-NAME 0 0 a span MsoNormal 24 0
+Xiaoyong B-PER xiaoyong 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WEI I-PER wei 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zhengying B-NAME 0 1 a span MsoNormal 24 0
-WEI I-NAME 0 0 a span MsoNormal 24 0
+Zhengying B-PER zhengying 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WEI I-PER wei 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Chao B-NAME 0 1 a span MsoNormal 24 0
-WU I-NAME 0 0 a span MsoNormal 24 0
+Chao B-PER chao 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WU I-PER wu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Chengjun B-NAME 0 1 a span MsoNormal 24 0
-WU I-NAME 0 0 a span MsoNormal 24 0
+Chengjun B-PER chengjun 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WU I-PER wu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Daocheng B-NAME 0 1 a span MsoNormal 24 0
-WU I-NAME 0 0 a span MsoNormal 24 0
+Daocheng B-PER daocheng 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WU I-PER wu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Hongcai B-NAME 0 1 a span MsoNormal 24 0
-WU I-NAME 0 0 a span MsoNormal 24 0
+Hongcai B-PER hongcai 0 1 0 0 1 0 1 a span MsoNormal 24 0
+WU I-PER wu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Jiangtao B-NAME 0 1 a span MsoNormal 24 0
-WU I-NAME 0 0 a span MsoNormal 24 0
+Jiangtao B-PER jiangtao 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WU I-PER wu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zhaoxin B-NAME 0 1 a span MsoNormal 24 0
-WU I-NAME 0 0 a span MsoNormal 24 0
+Zhaoxin B-PER zhaoxin 0 1 0 0 0 0 1 a span MsoNormal 24 0
+WU I-PER wu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-X O 0 0 b p MsoNormal 23 0
+X O x 0 0 0 0 0 0 1 b p MsoNormal 23 0
 
-Yanni B-NAME 0 1 a span MsoNormal 24 0
-XIAO I-NAME 0 0 a span MsoNormal 24 0
+Yanni B-PER yanni 0 1 0 0 0 0 1 a span MsoNormal 24 0
+XIAO I-PER xiao 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Guanghua B-NAME 0 1 a span MsoNormal 24 0
-XU I-NAME 0 0 a span MsoNormal 24 0
+Guanghua B-PER guanghua 0 1 0 0 0 0 1 a span MsoNormal 24 0
+XU I-PER xu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Jiru B-NAME 0 1 a span MsoNormal 24 0
-XU I-NAME 0 0 a span MsoNormal 24 0
+Jiru B-PER jiru 0 1 0 0 0 0 1 a span MsoNormal 24 0
+XU I-PER xu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zili B-NAME 0 1 a span MsoNormal 24 0
-XU I-NAME 0 0 a span MsoNormal 24 0
+Zili B-PER zili 0 1 0 0 0 0 1 a span MsoNormal 24 0
+XU I-PER xu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zongben B-NAME 0 1 a span MsoNormal 24 0
-XU I-NAME 0 0 a span MsoNormal 24 0
+Zongben B-PER zongben 0 1 0 0 0 0 1 a span MsoNormal 24 0
+XU I-PER xu 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Jianru B-NAME 0 1 a span MsoNormal 24 0
-XUE I-NAME 0 0 a span MsoNormal 24 0
+Jianru B-PER jianru 0 1 0 0 0 0 1 a span MsoNormal 24 0
+XUE I-PER xue 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Y O 0 1 b p MsoNormal 23 0
+Y O y 0 1 0 0 0 0 1 b p MsoNormal 23 0
 
-Wei B-NAME 0 1 a span MsoNormal 24 0
-YAN I-NAME 0 0 a span MsoNormal 24 0
+Wei B-PER wei 0 1 0 0 0 0 1 a span MsoNormal 24 0
+YAN I-PER yan 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Bolun B-NAME 0 1 a span MsoNormal 24 0
-YANG I-NAME 0 0 a span MsoNormal 24 0
+Bolun B-PER bolun 0 1 0 0 0 0 1 a span MsoNormal 24 0
+YANG I-PER yang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Lin B-NAME 1 1 a span MsoNormal 24 0
-YANG I-NAME 0 0 a span MsoNormal 24 0
+Lin B-PER lin 1 1 0 0 0 0 1 a span MsoNormal 24 0
+YANG I-PER yang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Ruiying B-NAME 0 1 a span MsoNormal 24 0
-YANG I-NAME 0 0 a span MsoNormal 24 0
+Ruiying B-PER ruiying 0 1 0 0 0 0 1 a span MsoNormal 24 0
+YANG I-PER yang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Xueyan B-NAME 0 1 a span MsoNormal 24 0
-YANG I-NAME 0 0 a span MsoNormal 24 0
+Xueyan B-PER xueyan 0 1 0 0 0 0 1 a span MsoNormal 24 0
+YANG I-PER yang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Yaodong B-NAME 0 1 a span MsoNormal 24 0
-YANG I-NAME 0 0 a span MsoNormal 24 0
+Yaodong B-PER yaodong 0 1 0 0 0 0 1 a span MsoNormal 24 0
+YANG I-PER yang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zhimao B-NAME 0 1 a span MsoNormal 24 0
-YANG I-NAME 0 0 a span MsoNormal 24 0
+Zhimao B-PER zhimao 0 1 0 0 0 0 1 a span MsoNormal 24 0
+YANG I-PER yang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Z O 0 1 b p MsoNormal 23 0
+Z O z 0 1 0 0 0 0 1 b p MsoNormal 23 0
 
-WeiJin B-NAME 0 0 a span MsoNormal 24 0
-ZANG I-NAME 0 0 a span MsoNormal 24 0
+WeiJin B-PER weijin 0 0 0 0 0 0 1 a span MsoNormal 24 0
+ZANG I-PER zang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Min B-NAME 1 1 a span MsoNormal 24 0
-ZENG I-NAME 0 0 a span MsoNormal 24 0
+Min B-PER min 1 1 0 0 0 0 1 a span MsoNormal 24 0
+ZENG I-PER zeng 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Xiaoming B-NAME 0 1 a span MsoNormal 24 0
-ZENG I-NAME 0 0 a span MsoNormal 24 0
+Xiaoming B-PER xiaoming 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZENG I-PER zeng 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Baohui B-NAME 0 1 a span MsoNormal 24 0
-ZHANG I-NAME 0 0 a span MsoNormal 24 0
+Baohui B-PER baohui 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHANG I-PER zhang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Chuhua B-NAME 0 1 a span MsoNormal 24 0
-ZHANG I-NAME 0 0 a span MsoNormal 24 0
+Chuhua B-PER chuhua 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHANG I-PER zhang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Guanjun B-NAME 0 1 a span MsoNormal 24 0
-ZHANG I-NAME 0 0 a span MsoNormal 24 0
+Guanjun B-PER guanjun 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHANG I-PER zhang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Jiangshe B-NAME 0 1 a span MsoNormal 24 0
-ZHANG I-NAME 0 0 a span MsoNormal 24 0
+Jiangshe B-PER jiangshe 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHANG I-PER zhang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Jiazhong B-NAME 0 1 a span MsoNormal 24 0
-ZHANG I-NAME 0 0 a span MsoNormal 24 0
+Jiazhong B-PER jiazhong 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHANG I-PER zhang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Jianxun B-NAME 0 1 a span MsoNormal 24 0
-ZHANG I-NAME 0 0 a span MsoNormal 24 0
+Jianxun B-PER jianxun 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHANG I-PER zhang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Qianxiao B-NAME 0 0 a span MsoNormal 24 0
-ZHANG I-NAME 0 0 a span MsoNormal 24 0
+Qianxiao B-PER qianxiao 0 0 0 0 0 0 1 a span MsoNormal 24 0
+ZHANG I-PER zhang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Rong B-NAME 0 1 a span MsoNormal 24 0
-ZHANG I-NAME 0 0 a span MsoNormal 24 0
+Rong B-PER rong 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHANG I-PER zhang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Xiaodong B-NAME 0 1 a span MsoNormal 24 0
-ZHANG I-NAME 0 0 a span MsoNormal 24 0
+Xiaodong B-PER xiaodong 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHANG I-PER zhang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Yong B-NAME 0 1 a span MsoNormal 24 0
-ZHANG I-NAME 0 0 a span MsoNormal 24 0
+Yong B-PER yong 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHANG I-PER zhang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zaoxiao B-NAME 0 1 a span MsoNormal 24 0
-ZHANG I-NAME 0 0 a span MsoNormal 24 0
+Zaoxiao B-PER zaoxiao 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHANG I-PER zhang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zemei B-NAME 0 1 a span MsoNormal 24 0
-ZHANG I-NAME 0 0 a span MsoNormal 24 0
+Zemei B-PER zemei 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHANG I-PER zhang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zhengce B-NAME 0 0 a span MsoNormal 24 0
-ZHANG I-NAME 0 0 a span MsoNormal 24 0
+Zhengce B-PER zhengce 0 0 0 0 0 0 1 a span MsoNormal 24 0
+ZHANG I-PER zhang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zhicheng B-NAME 0 1 a span MsoNormal 24 0
-ZHANG I-NAME 0 0 a span MsoNormal 24 0
+Zhicheng B-PER zhicheng 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHANG I-PER zhang 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Chunxia B-NAME 0 1 a span MsoNormal 24 0
-ZHAO I-NAME 0 0 a span MsoNormal 24 0
+Chunxia B-PER chunxia 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHAO I-PER zhao 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Gang B-NAME 0 1 a span MsoNormal 24 0
-ZHAO I-NAME 0 0 a span MsoNormal 24 0
+Gang B-PER gang 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHAO I-PER zhao 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Guiping B-NAME 0 1 a span MsoNormal 24 0
-ZHAO I-NAME 0 0 a span MsoNormal 24 0
+Guiping B-PER guiping 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHAO I-PER zhao 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Hong B-NAME 0 1 a span MsoNormal 24 0
-ZHAO I-NAME 0 0 a span MsoNormal 24 0
+Hong B-PER hong 0 1 0 0 1 0 1 a span MsoNormal 24 0
+ZHAO I-PER zhao 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Jinglian B-NAME 0 1 a span MsoNormal 24 0
-ZHAO I-NAME 0 0 a span MsoNormal 24 0
+Jinglian B-PER jinglian 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHAO I-PER zhao 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Mingshu B-NAME 0 1 a span MsoNormal 24 0
-ZHAO I-NAME 0 0 a span MsoNormal 24 0
+Mingshu B-PER mingshu 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHAO I-PER zhao 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Xinhan B-NAME 0 1 a span MsoNormal 24 0
-ZHAO I-NAME 0 0 a span MsoNormal 24 0
+Xinhan B-PER xinhan 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHAO I-PER zhao 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Yan B-NAME 0 1 a span MsoNormal 24 0
-ZHAO I-NAME 0 0 a span MsoNormal 24 0
+Yan B-PER yan 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHAO I-PER zhao 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Hongyan B-NAME 0 1 a span MsoNormal 24 0
-ZHE I-NAME 0 0 a span MsoNormal 24 0
+Hongyan B-PER hongyan 0 1 0 0 1 0 1 a span MsoNormal 24 0
+ZHE I-PER zhe 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Qinghua B-NAME 0 1 a span MsoNormal 24 0
-ZHENG I-NAME 0 0 a span MsoNormal 24 0
+Qinghua B-PER qinghua 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHENG I-PER zheng 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-Zhili B-NAME 0 1 a span MsoNormal 24 0
-ZHOU I-NAME 0 0 a span MsoNormal 24 0
+Zhili B-PER zhili 0 1 0 0 0 0 1 a span MsoNormal 24 0
+ZHOU I-PER zhou 0 0 0 0 0 0 1 a span MsoNormal 24 0
 
-CONTACT O 0 0 ul div first 7 0
-US O 0 0 ul div first 7 0
+CONTACT O contact 0 0 0 0 0 0 1 ul div first 7 0
+US O us 0 0 0 0 0 0 1 ul div first 7 0
 
-XJTU O 0 0 div div title 9 0
-Introduction O 0 0 div div title 9 0
+XJTU O xjtu 0 0 0 0 0 0 1 div div title 9 0
+Introduction O introduction 0 0 0 0 0 0 1 div div title 9 0
 
-Presidentâs O 0 0 li ul col 10 0
-Message O 0 1 li ul col 10 0
+Presidentâs O presidentas 0 0 0 0 0 0 1 li ul col 10 0
+Message O message 0 1 0 0 1 0 1 li ul col 10 0
 
-Introduction O 0 0 li ul col 10 0
+Introduction O introduction 0 0 0 0 0 0 1 li ul col 10 0
 
-Current O 0 1 li ul col 10 0
-Leadership O 0 0 li ul col 10 0
+Current O current 0 1 0 0 0 0 1 li ul col 10 0
+Leadership O leadership 0 0 0 0 0 0 1 li ul col 10 0
 
-Past O 0 0 li ul col 10 0
-Leadership O 0 0 li ul col 10 0
+Past O past 0 0 0 0 0 0 1 li ul col 10 0
+Leadership O leadership 0 0 0 0 0 0 1 li ul col 10 0
 
-History O 0 0 li ul col 10 0
+History O history 0 0 0 0 0 0 1 li ul col 10 0
 
-Administrative O 0 0 li ul col 10 0
-Organization O 0 0 li ul col 10 0
+Administrative O administrative 0 0 0 0 0 0 1 li ul col 10 0
+Organization O organization 0 0 0 0 0 0 1 li ul col 10 0
 
-XJTU O 0 0 div div title 9 0
-News O 0 0 div div title 9 0
+XJTU O xjtu 0 0 0 0 0 0 1 div div title 9 0
+News O news 0 0 0 0 0 0 1 div div title 9 0
 
-News O 0 0 li ul col 10 0
+News O news 0 0 0 0 0 0 1 li ul col 10 0
 
-Academics O 0 0 li ul col 10 0
+Academics O academics 0 0 0 0 0 0 1 li ul col 10 0
 
-Events O 0 0 li ul col 10 0
+Events O events 0 0 0 0 0 0 1 li ul col 10 0
 
-Teaching O 0 0 li ul col 10 0
-and O 0 1 li ul col 10 0
-learning O 0 0 li ul col 10 0
+Teaching O teaching 0 0 0 0 0 0 1 li ul col 10 0
+and O and 0 1 0 0 0 0 0 li ul col 10 0
+learning O learning 0 0 0 0 0 0 0 li ul col 10 0
 
-Schools O 0 0 div div title 9 0
-and O 0 1 div div title 9 0
-Colleges O 0 0 div div title 9 0
+Schools O schools 0 0 0 0 0 0 1 div div title 9 0
+and O and 0 1 0 0 0 0 0 div div title 9 0
+Colleges O colleges 0 0 0 0 0 0 1 div div title 9 0
 
-Faculty O 0 0 div div title 9 0
+Faculty O faculty 0 0 0 0 0 0 1 div div title 9 0
 
-CAS O 0 0 li ul col 10 0
-Members O 0 0 li ul col 10 0
+CAS O cas 0 0 0 0 0 0 1 li ul col 10 0
+Members O members 0 0 0 0 0 0 1 li ul col 10 0
 
-CAE O 0 0 li ul col 10 0
-Members O 0 0 li ul col 10 0
+CAE O cae 0 0 0 0 0 0 1 li ul col 10 0
+Members O members 0 0 0 0 0 0 1 li ul col 10 0
 
-Faculty O 0 0 li ul col 10 0
-Blogs O 0 0 li ul col 10 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul col 10 0
+Blogs O blogs 0 0 0 0 0 0 1 li ul col 10 0
 
-Faculty O 0 0 li ul col 10 0
-Employment O 0 0 li ul col 10 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul col 10 0
+Employment O employment 0 0 0 0 1 0 1 li ul col 10 0
 
-Education O 0 0 div div title 9 0
+Education O education 0 0 0 0 0 0 1 div div title 9 0
 
-Undergraduate O 0 0 li ul col 10 0
-Education O 0 0 li ul col 10 0
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul col 10 0
+Education O education 0 0 0 0 0 0 1 li ul col 10 0
 
-Graduate O 1 1 li ul col 10 0
-Education O 0 0 li ul col 10 0
+Graduate O graduate 1 1 0 0 0 0 1 li ul col 10 0
+Education O education 0 0 0 0 0 0 1 li ul col 10 0
 
-International O 0 0 li ul col 10 0
-Education O 0 0 li ul col 10 0
+International O international 0 0 0 0 0 0 1 li ul col 10 0
+Education O education 0 0 0 0 0 0 1 li ul col 10 0
 
-Continuing O 0 0 li ul col 10 0
-Education O 0 0 li ul col 10 0
+Continuing O continuing 0 0 0 0 0 0 1 li ul col 10 0
+Education O education 0 0 0 0 0 0 1 li ul col 10 0
 
-International O 0 0 li ul col 10 0
-Affairs O 0 0 li ul col 10 0
+International O international 0 0 0 0 0 0 1 li ul col 10 0
+Affairs O affairs 0 0 0 0 0 0 1 li ul col 10 0
 
-International O 0 0 li ul col 10 0
-Students O 0 0 li ul col 10 0
+International O international 0 0 0 0 0 0 1 li ul col 10 0
+Students O students 0 0 0 0 0 0 1 li ul col 10 0
 
-Alumni O 0 0 li ul col 10 0
-Affairs O 0 0 li ul col 10 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul col 10 0
+Affairs O affairs 0 0 0 0 0 0 1 li ul col 10 0
 
-Scientific O 0 0 div div title 9 0
-Researches O 0 0 div div title 9 0
+Scientific O scientific 0 0 0 0 0 0 1 div div title 9 0
+Researches O researches 0 0 0 0 0 0 1 div div title 9 0
 
-Department O 0 0 li ul col 10 0
-of O 0 1 li ul col 10 0
-Science O 0 0 li ul col 10 0
-and O 0 1 li ul col 10 0
-Technology O 0 0 li ul col 10 0
+Department O department 0 0 0 0 0 0 1 li ul col 10 0
+of O of 0 1 0 0 0 0 0 li ul col 10 0
+Science O science 0 0 0 0 0 0 1 li ul col 10 0
+and O and 0 1 0 0 0 0 0 li ul col 10 0
+Technology O technology 0 0 0 0 0 0 1 li ul col 10 0
 
-Research O 0 1 li ul col 10 0
-Centers O 0 0 li ul col 10 0
+Research O research 0 1 0 0 0 0 1 li ul col 10 0
+Centers O centers 0 0 0 0 0 0 1 li ul col 10 0
 
-Library O 0 0 li ul col 10 0
+Library O library 0 0 0 0 0 0 1 li ul col 10 0
 
-XJTU O 0 0 li ul col 10 0
-Museum O 0 0 li ul col 10 0
+XJTU O xjtu 0 0 0 0 0 0 1 li ul col 10 0
+Museum O museum 0 0 0 0 1 0 1 li ul col 10 0
 
-Campus O 0 1 div div title 9 0
-Life O 0 1 div div title 9 0
+Campus O campus 0 1 0 0 0 0 1 div div title 9 0
+Life O life 0 1 0 0 0 0 1 div div title 9 0
 
-Life O 0 1 li ul col 10 0
-at O 0 0 li ul col 10 0
-XJTU O 0 0 li ul col 10 0
+Life O life 0 1 0 0 0 0 1 li ul col 10 0
+at O at 0 0 0 0 0 0 0 li ul col 10 0
+XJTU O xjtu 0 0 0 0 0 0 1 li ul col 10 0
 
-XJTU O 0 0 li ul col 10 0
-Videos O 0 0 li ul col 10 0
+XJTU O xjtu 0 0 0 0 0 0 1 li ul col 10 0
+Videos O videos 0 0 0 0 0 0 1 li ul col 10 0
 
-Student O 0 1 li ul col 10 0
-Bodies O 0 0 li ul col 10 0
+Student O student 0 1 0 0 0 0 1 li ul col 10 0
+Bodies O bodies 0 0 0 0 0 0 1 li ul col 10 0
 
-Campus O 0 1 li ul col 10 0
-Scenes O 0 0 li ul col 10 0
+Campus O campus 0 1 0 0 0 0 1 li ul col 10 0
+Scenes O scenes 0 0 0 0 0 0 1 li ul col 10 0
 
-Campus O 0 1 li ul col 10 0
-Maps O 0 0 li ul col 10 0
+Campus O campus 0 1 0 0 0 0 1 li ul col 10 0
+Maps O maps 0 0 0 0 0 0 1 li ul col 10 0
 
-Campus O 0 1 li ul col 10 0
-Internet O 0 0 li ul col 10 0
+Campus O campus 0 1 0 0 0 0 1 li ul col 10 0
+Internet O internet 0 0 0 0 0 0 1 li ul col 10 0
 
-Local O 0 1 li ul col 10 0
-Culture O 0 0 li ul col 10 0
+Local O local 0 1 0 0 0 0 1 li ul col 10 0
+Culture O culture 0 0 0 0 0 0 1 li ul col 10 0
 
-Â© O 0 0 div div copyright.continer 6 0
-Xi'an O 0 1 div div copyright.continer 6 0
-Jiaotong O 0 0 div div copyright.continer 6 0
-University. O 0 0 div div copyright.continer 6 0
-2014 O 0 0 div div copyright.continer 6 0
-Email: O 0 0 div div copyright.continer 6 0
-ic@mail.xjtu.edu.cn O 0 0 div div copyright.continer 6 0
-No.28, O 0 0 div div copyright.continer 6 0
-Xianning O 0 1 div div copyright.continer 6 0
-West O 0 1 div div copyright.continer 6 0
-Road, O 0 0 div div copyright.continer 6 0
-Xi'an, O 0 0 div div copyright.continer 6 0
-Shaanxi, O 0 0 div div copyright.continer 6 0
-710049, O 0 0 div div copyright.continer 6 0
-P.R. O 0 0 div div copyright.continer 6 0
-China O 0 1 div div copyright.continer 6 0
+Â© O a© 0 0 0 0 0 0 1 div div continer 6 0
+Xi O xi 0 1 0 0 0 0 1 div div continer 6 0
+' O ' 0 0 0 0 0 0 0 div div continer 6 0
+an O an 0 1 0 0 0 0 0 div div continer 6 0
+Jiaotong O jiaotong 0 0 0 0 0 0 1 div div continer 6 0
+University. O university. 0 0 0 0 0 0 1 div div continer 6 0
+2014 O 2014 0 0 0 1 0 0 0 div div continer 6 0
+Email O email 0 0 0 0 1 0 1 div div continer 6 0
+: O : 0 0 0 0 0 0 0 div div continer 6 0
+ic@mail.xjtu.edu.cn O ic@mail.xjtu.edu.cn 0 0 1 0 0 0 0 div div continer 6 0
+No.28 O no.28 0 0 0 1 0 0 1 div div continer 6 0
+, O , 0 0 0 0 0 0 0 div div continer 6 0
+Xianning O xianning 0 1 0 0 0 0 1 div div continer 6 0
+West O west 0 1 0 0 0 0 1 div div continer 6 0
+Road O road 0 0 0 0 0 0 1 div div continer 6 0
+, O , 0 0 0 0 0 0 0 div div continer 6 0
+Xi O xi 0 1 0 0 0 0 1 div div continer 6 0
+' O ' 0 0 0 0 0 0 0 div div continer 6 0
+an O an 0 1 0 0 0 0 0 div div continer 6 0
+, O , 0 0 0 0 0 0 0 div div continer 6 0
+Shaanxi O shaanxi 0 0 0 0 0 0 1 div div continer 6 0
+, O , 0 0 0 0 0 0 0 div div continer 6 0
+710049 O 710049 0 0 0 1 0 0 0 div div continer 6 0
+, O , 0 0 0 0 0 0 0 div div continer 6 0
+P.R. O p.r. 0 0 0 0 0 0 1 div div continer 6 0
+China O china 0 1 0 0 0 0 1 div div continer 6 0

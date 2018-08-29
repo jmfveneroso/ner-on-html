@@ -1,137 +1,139 @@
-Personal O 0 1 head html none 4 0
-Home O 0 1 head html none 4 0
-Pages. O 0 0 head html none 4 0
-Mathematics O 0 0 head html none 4 0
-& O 0 0 head html none 4 0
-Mechanics O 0 0 head html none 4 0
-Faculty. O 0 0 head html none 4 0
-St.Petersburg O 0 0 head html none 4 0
-University. O 0 0 head html none 4 0
+Personal O personal 0 1 0 0 0 0 1 head html none 4 0
+Home O home 0 1 0 0 0 0 1 head html none 4 0
+Pages. O pages. 0 0 0 0 0 0 1 head html none 4 0
+Mathematics O mathematics 0 0 0 0 0 0 1 head html none 4 0
+& O & 0 0 0 0 0 0 0 head html none 4 0
+Mechanics O mechanics 0 0 0 0 0 0 1 head html none 4 0
+Faculty. O faculty. 0 0 0 0 0 0 1 head html none 4 0
+St.Petersburg O st.petersburg 0 0 0 0 0 0 1 head html none 4 0
+University. O university. 0 0 0 0 0 0 1 head html none 4 0
 
-Start O 0 1 th tr banner 8 0
-Page O 0 1 th tr banner 8 0
+Start O start 0 1 0 0 0 0 1 th tr banner 8 0
+Page O page 0 1 0 0 0 0 1 th tr banner 8 0
 
-General O 0 1 th tr banner 8 0
-Info O 0 0 th tr banner 8 0
+General O general 0 1 0 0 0 0 1 th tr banner 8 0
+Info O info 0 0 0 0 0 0 1 th tr banner 8 0
 
-Our O 0 0 th tr banner 8 0
-Faculty O 0 0 th tr banner 8 0
+Our O our 0 0 0 0 0 0 1 th tr banner 8 0
+Faculty O faculty 0 0 0 0 0 0 1 th tr banner 8 0
 
-Departments O 0 0 th tr banner 8 0
+Departments O departments 0 0 0 0 0 0 1 th tr banner 8 0
 
-Our O 0 0 th tr banner 8 0
-Geography O 0 0 th tr banner 8 0
+Our O our 0 0 0 0 0 0 1 th tr banner 8 0
+Geography O geography 0 0 0 0 0 0 1 th tr banner 8 0
 
-RCD O 0 0 th tr banner 8 0
+RCD O rcd 0 0 0 0 0 0 1 th tr banner 8 0
 
-Contact O 0 0 th tr banner 8 0
+Contact O contact 0 0 0 0 0 0 1 th tr banner 8 0
 
-Russian O 0 1 th tr banner 8 0
-Version O 0 0 th tr banner 8 0
+Russian O russian 0 1 0 0 0 0 1 th tr banner 8 0
+Version O version 0 0 0 0 0 0 1 th tr banner 8 0
 
-Personal O 0 1 body html none 4 19
-Pages O 0 1 body html none 4 19
+Personal O personal 0 1 0 0 0 0 1 body html none 4 19
+Pages O pages 0 1 0 0 0 0 1 body html none 4 19
 
-In O 0 1 nobr div none 6 0
-the O 0 1 nobr div none 6 0
-memory O 0 0 nobr div none 6 0
-of O 0 1 nobr div none 6 0
-prof. O 0 0 nobr div none 6 0
+In O in 0 1 0 0 0 0 1 nobr div none 6 0
+the O the 0 1 0 0 0 0 0 nobr div none 6 0
+memory O memory 0 0 0 0 0 0 0 nobr div none 6 0
+of O of 0 1 0 0 0 0 0 nobr div none 6 0
+prof. O prof. 0 0 0 0 1 0 0 nobr div none 6 0
 
-Leonid O 1 1 nobr div none 6 1
-V. O 1 1 nobr div none 6 1
-Kantorovich O 1 1 nobr div none 6 1
+Leonid O leonid 1 1 0 0 0 0 1 nobr div none 6 1
+V. O v. 1 1 0 0 0 0 1 nobr div none 6 1
+Kantorovich O kantorovich 1 1 0 0 0 0 1 nobr div none 6 1
 
-Professors O 0 0 body html none 4 30
+Professors O professors 0 0 0 0 1 0 1 body html none 4 30
 
-Gennady B-NAME 1 1 li ul none 6 0
-A. I-NAME 1 1 li ul none 6 0
-Leonov I-NAME 1 1 li ul none 6 0
-, O 0 0 ul body none 5 0
+Gennady B-PER gennady 1 1 0 0 0 0 1 li ul none 6 0
+A. I-PER a. 1 1 0 0 0 0 1 li ul none 6 0
+Leonov I-PER leonov 1 1 0 0 0 0 1 li ul none 6 0
+, O , 0 0 0 0 0 0 0 ul body none 5 0
 
-dean O 0 0 li ul none 6 1
-of O 0 1 li ul none 6 1
-the O 0 1 li ul none 6 1
-faculty O 0 0 li ul none 6 1
+dean O dean 0 0 0 0 0 0 0 li ul none 6 1
+of O of 0 1 0 0 0 0 0 li ul none 6 1
+the O the 0 1 0 0 0 0 0 li ul none 6 1
+faculty O faculty 0 0 0 0 0 0 0 li ul none 6 1
 
-Gelig B-NAME 0 0 li li none 7 0
-A.Kh. I-NAME 0 0 li li none 7 0
+Gelig B-PER gelig 0 0 0 0 0 0 1 li li none 7 0
+A.Kh. I-PER a.kh. 0 0 0 0 0 0 1 li li none 7 0
 
-Granichin B-NAME 0 1 li li none 8 0
-Oleg I-NAME 0 1 li li none 8 0
-N. I-NAME 0 1 li li none 8 0
+Granichin B-PER granichin 0 1 0 0 0 0 1 li li none 8 0
+Oleg I-PER oleg 0 1 0 0 0 0 1 li li none 8 0
+N. I-PER n. 0 1 0 0 0 0 1 li li none 8 0
 
-Kossovski B-NAME 0 1 li li none 9 0
-Nikolai I-NAME 1 1 li li none 9 0
-K. I-NAME 1 1 li li none 9 0
+Kossovski B-PER kossovski 0 1 0 0 0 0 1 li li none 9 0
+Nikolai I-PER nikolai 1 1 0 0 0 0 1 li li none 9 0
+K. I-PER k. 1 1 0 0 0 0 1 li li none 9 0
 
-Krivulin B-NAME 1 1 li li none 10 0
-Nikolai I-NAME 0 1 li li none 10 0
-K. I-NAME 0 1 li li none 10 0
+Krivulin B-PER krivulin 1 1 0 0 0 0 1 li li none 10 0
+Nikolai I-PER nikolai 0 1 0 0 0 0 1 li li none 10 0
+K. I-PER k. 0 1 0 0 0 0 1 li li none 10 0
 
-Lifshits B-NAME 0 1 li li none 11 0
-Mikhail I-NAME 0 1 li li none 11 0
+Lifshits B-PER lifshits 0 1 0 0 0 0 1 li li none 11 0
+Mikhail I-PER mikhail 0 1 0 0 0 0 1 li li none 11 0
 
-Malozemov B-NAME 0 1 li li none 12 0
-Vassili I-NAME 0 1 li li none 12 0
-N. I-NAME 0 1 li li none 12 0
+Malozemov B-PER malozemov 0 1 0 0 0 0 1 li li none 12 0
+Vassili I-PER vassili 0 1 0 0 0 0 1 li li none 12 0
+N. I-PER n. 0 1 0 0 0 0 1 li li none 12 0
 
-Morozov B-NAME 0 1 li li none 13 0
-Nikita I-NAME 0 1 li li none 13 0
-F. I-NAME 0 1 li li none 13 0
+Morozov B-PER morozov 0 1 0 0 0 0 1 li li none 13 0
+Nikita I-PER nikita 0 1 0 0 0 0 1 li li none 13 0
+F. I-PER f. 0 1 0 0 0 0 1 li li none 13 0
 
-Nikitin B-NAME 0 1 li li none 14 0
-Yakov I-NAME 0 1 li li none 14 0
+Nikitin B-PER nikitin 0 1 0 0 0 0 1 li li none 14 0
+Yakov I-PER yakov 0 1 0 0 0 0 1 li li none 14 0
 
-Petrov B-NAME 0 1 li li none 15 0
-Yuri I-NAME 0 1 li li none 15 0
-V. I-NAME 0 1 li li none 15 0
+Petrov B-PER petrov 0 1 0 0 0 0 1 li li none 15 0
+Yuri I-PER yuri 0 1 0 0 0 0 1 li li none 15 0
+V. I-PER v. 0 1 0 0 0 0 1 li li none 15 0
 
-Pilyugin B-NAME 0 1 li li none 16 0
-Sergei I-NAME 0 1 li li none 16 0
-Yu. I-NAME 0 1 li li none 16 0
+Pilyugin B-PER pilyugin 0 1 0 0 0 0 1 li li none 16 0
+Sergei I-PER sergei 0 1 0 0 0 0 1 li li none 16 0
+Yu. I-PER yu. 0 1 0 0 0 0 1 li li none 16 0
 
-Suchkov B-NAME 0 1 li li none 17 0
-Yuri I-NAME 0 1 li li none 17 0
-A. I-NAME 0 1 li li none 17 0
+Suchkov B-PER suchkov 0 1 0 0 0 0 1 li li none 17 0
+Yuri I-PER yuri 0 1 0 0 0 0 1 li li none 17 0
+A. I-PER a. 0 1 0 0 0 0 1 li li none 17 0
 
-Tseytin B-NAME 0 1 li li none 18 0
-Gregory I-NAME 0 1 li li none 18 0
-S. I-NAME 0 1 li li none 18 0
+Tseytin B-PER tseytin 0 1 0 0 0 0 1 li li none 18 0
+Gregory I-PER gregory 0 1 0 0 0 0 1 li li none 18 0
+S. I-PER s. 0 1 0 0 0 0 1 li li none 18 0
 
-Lecturers O 0 0 body html none 4 58
-& O 0 0 body html none 4 58
-Scientists O 0 0 body html none 4 58
+Lecturers O lecturers 0 0 0 0 0 0 1 body html none 4 58
+& O & 0 0 0 0 0 0 0 body html none 4 58
+Scientists O scientists 0 0 0 0 0 0 1 body html none 4 58
 
-Fedorovsky B-NAME 0 1 li ul none 6 0
-George I-NAME 0 1 li ul none 6 0
+Fedorovsky B-PER fedorovsky 0 1 0 0 0 0 1 li ul none 6 0
+George I-PER george 0 1 0 0 0 0 1 li ul none 6 0
 
-Gusev B-NAME 0 1 li li none 7 0
-Sergei I-NAME 0 1 li li none 7 0
-V. I-NAME 0 1 li li none 7 0
+Gusev B-PER gusev 0 1 0 0 0 0 1 li li none 7 0
+Sergei I-PER sergei 0 1 0 0 0 0 1 li li none 7 0
+V. I-PER v. 0 1 0 0 0 0 1 li li none 7 0
 
-Khrabrov B-NAME 0 1 li li none 8 0
-Alexander I-NAME 0 1 li li none 8 0
-I. I-NAME 1 1 li li none 8 0
+Khrabrov B-PER khrabrov 0 1 0 0 0 0 1 li li none 8 0
+Alexander I-PER alexander 0 1 0 0 0 0 1 li li none 8 0
+I. I-PER i. 1 1 0 0 0 0 1 li li none 8 0
 
-Kuznetsov B-NAME 1 1 li li none 9 0
-Nikolay I-NAME 0 1 li li none 9 0
-V. I-NAME 0 1 li li none 9 0
+Kuznetsov B-PER kuznetsov 1 1 0 0 0 0 1 li li none 9 0
+Nikolay I-PER nikolay 0 1 0 0 0 0 1 li li none 9 0
+V. I-PER v. 0 1 0 0 0 0 1 li li none 9 0
 
-Masharsky B-NAME 0 0 li li none 10 0
-Sergey I-NAME 0 1 li li none 10 0
+Masharsky B-PER masharsky 0 0 0 0 1 0 1 li li none 10 0
+Sergey I-PER sergey 0 1 0 0 0 0 1 li li none 10 0
 
-Semenov B-NAME 0 1 li li none 11 0
-Boris I-NAME 0 1 li li none 11 0
-N. I-NAME 0 1 li li none 11 0
+Semenov B-PER semenov 0 1 0 0 0 0 1 li li none 11 0
+Boris I-PER boris 0 1 0 0 0 0 1 li li none 11 0
+N. I-PER n. 0 1 0 0 0 0 1 li li none 11 0
 
-Soloviev B-NAME 0 1 li li none 12 0
-Igor I-NAME 0 1 li li none 12 0
+Soloviev B-PER soloviev 0 1 0 0 0 0 1 li li none 12 0
+Igor I-PER igor 0 1 0 0 0 0 1 li li none 12 0
 
-Sud'enkov B-NAME 0 0 li li none 13 0
-Juri I-NAME 0 1 li li none 13 0
-V. I-NAME 0 1 li li none 13 0
+Sud B-PER sud 0 1 0 0 0 0 1 li li none 13 0
+' I-PER ' 0 0 0 0 0 0 0 li li none 13 0
+enkov I-PER enkov 0 0 0 0 0 0 0 li li none 13 0
+Juri I-PER juri 0 1 0 0 0 0 1 li li none 13 0
+V. I-PER v. 0 1 0 0 0 0 1 li li none 13 0
 
-Utkin B-NAME 0 1 li li none 14 0
-Alexander I-NAME 0 1 li li none 14 0
-A. I-NAME 0 1 li li none 14 0
+Utkin B-PER utkin 0 1 0 0 0 0 1 li li none 14 0
+Alexander I-PER alexander 0 1 0 0 0 0 1 li li none 14 0
+A. I-PER a. 0 1 0 0 0 0 1 li li none 14 0

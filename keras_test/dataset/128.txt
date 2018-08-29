@@ -1,389 +1,448 @@
-Professors O 0 0 head html none 4 3
+Professors O professors 0 0 0 0 1 0 1 head html none 4 3
 
-English O 0 1 strong li s4-notdlg 17 0
+English O english 0 1 0 0 0 0 1 strong li s4-notdlg 17 0
 
-ورود O 0 0 li ul s4-notdlg 16 2
-اعضاء O 0 0 li ul s4-notdlg 16 2
+ورود O ورود 0 0 0 0 0 0 0 li ul s4-notdlg 16 2
+اعضاء O اعضاء 0 0 0 0 0 0 0 li ul s4-notdlg 16 2
 
-| O 0 0 div div s4-notdlg 14 5
+| O | 0 0 0 0 0 0 0 div div s4-notdlg 14 5
 
-نقشه O 0 0 li ul s4-notdlg 16 2
-سایت O 0 0 li ul s4-notdlg 16 2
+نقشه O نقشه 0 0 0 0 0 0 0 li ul s4-notdlg 16 2
+سایت O سایت 0 0 0 0 0 0 0 li ul s4-notdlg 16 2
 
-| O 0 0 div div s4-notdlg 14 5
+| O | 0 0 0 0 0 0 0 div div s4-notdlg 14 5
 
-خبرخوان O 0 0 li ul s4-notdlg 16 2
-- O 0 0 li ul s4-notdlg 16 2
-RSS O 0 0 li ul s4-notdlg 16 2
+خبرخوان O خبرخوان 0 0 0 0 0 0 0 li ul s4-notdlg 16 2
+- O - 0 0 0 0 0 0 0 li ul s4-notdlg 16 2
+RSS O rss 0 0 0 0 0 0 1 li ul s4-notdlg 16 2
 
-Home O 0 1 td tr MenuBarItem_Root 20 0
+Home O home 0 1 0 0 0 0 1 td tr MenuBarItem_Root 20 0
 
-About O 0 0 td tr MenuBarItem_Root 20 0
+About O about 0 0 0 0 0 0 1 td tr MenuBarItem_Root 20 0
 
-Admission O 0 0 td tr MenuBarItem_Root 20 0
+Admission O admission 0 0 0 0 0 0 1 td tr MenuBarItem_Root 20 0
 
-Academics O 0 0 td tr MenuBarItem_Root 20 0
+Academics O academics 0 0 0 0 0 0 1 td tr MenuBarItem_Root 20 0
 
-Research O 0 1 td tr MenuBarItem_Root 20 0
+Research O research 0 1 0 0 0 0 1 td tr MenuBarItem_Root 20 0
 
-Faculty O 0 0 td tr MenuBarItem_Root 20 0
-Members O 0 0 td tr MenuBarItem_Root 20 0
+Faculty O faculty 0 0 0 0 0 0 1 td tr MenuBarItem_Root 20 0
+Members O members 0 0 0 0 0 0 1 td tr MenuBarItem_Root 20 0
 
-Campus O 0 1 td tr MenuBarItem_Root 20 0
-Life O 0 1 td tr MenuBarItem_Root 20 0
+Campus O campus 0 1 0 0 0 0 1 td tr MenuBarItem_Root 20 0
+Life O life 0 1 0 0 0 0 1 td tr MenuBarItem_Root 20 0
 
-Today O 0 1 div div EDSearchBox 16 0
-Login O 0 0 div div EDSearchBox 17 0
-Farsi O 0 1 div div EDSearchBox 17 1
+Today O today 0 1 0 0 0 0 1 div div EDSearchBox 16 0
+Login O login 0 0 0 0 0 0 1 div div EDSearchBox 17 0
+Farsi O farsi 0 1 0 0 0 0 1 div div EDSearchBox 17 1
 
-Professors O 0 0 div div s4-notdlg 16 0
+Professors O professors 0 0 0 0 1 0 1 div div s4-notdlg 16 0
 
-Page O 0 1 div div splash-image 19 0
-Image O 0 0 div div splash-image 19 0
+Page O page 0 1 0 0 0 0 1 div div splash-image 19 0
+Image O image 0 0 0 0 0 0 1 div div splash-image 19 0
 
-Institute O 0 0 div div profile-WPHeader 31 0
-for O 0 1 div div profile-WPHeader 31 0
-Cognitive O 0 0 div div profile-WPHeader 31 0
-and O 0 1 div div profile-WPHeader 31 0
-Brain O 0 1 div div profile-WPHeader 31 0
-Sciences O 0 0 div div profile-WPHeader 31 0
-Faculty O 0 0 div div profile-WPHeader 30 0
-Members O 0 0 div div profile-WPHeader 30 0
+Institute O institute 0 0 0 0 0 0 1 div div profile-WPHeader 31 0
+for O for 0 1 0 0 0 0 0 div div profile-WPHeader 31 0
+Cognitive O cognitive 0 0 0 0 0 0 1 div div profile-WPHeader 31 0
+and O and 0 1 0 0 0 0 0 div div profile-WPHeader 31 0
+Brain O brain 0 1 0 0 0 0 1 div div profile-WPHeader 31 0
+Sciences O sciences 0 0 0 0 0 0 1 div div profile-WPHeader 31 0
+Faculty O faculty 0 0 0 0 0 0 1 div div profile-WPHeader 30 0
+Members O members 0 0 0 0 0 0 1 div div profile-WPHeader 30 0
 
-Filter O 0 1 tr table auto-style2 34 0
-by: O 0 0 tr table auto-style2 34 0
+Filter O filter 0 1 0 0 0 0 1 tr table auto-style2 34 0
+by O by 0 1 0 0 0 0 0 tr table auto-style2 34 0
+: O : 0 0 0 0 0 0 0 tr table auto-style2 34 0
 
-A O 0 1 select td auto-style9 36 1
+A O a 0 1 0 0 0 0 1 select td auto-style9 36 1
 
-B O 0 1 select td auto-style9 36 2
+B O b 0 1 0 0 0 0 1 select td auto-style9 36 2
 
-C O 0 1 select td auto-style9 36 3
+C O c 0 1 0 0 0 0 1 select td auto-style9 36 3
 
-D O 0 1 select td auto-style9 36 4
+D O d 0 1 0 0 0 0 1 select td auto-style9 36 4
 
-E O 0 1 select td auto-style9 36 5
+E O e 0 1 0 0 0 0 1 select td auto-style9 36 5
 
-F O 0 0 select td auto-style9 36 6
+F O f 0 0 0 0 0 0 1 select td auto-style9 36 6
 
-G O 0 1 select td auto-style9 36 7
+G O g 0 1 0 0 0 0 1 select td auto-style9 36 7
 
-H O 0 1 select td auto-style9 36 8
+H O h 0 1 0 0 0 0 1 select td auto-style9 36 8
 
-I O 0 1 select td auto-style9 36 9
+I O i 0 1 0 0 0 0 1 select td auto-style9 36 9
 
-J O 0 1 select td auto-style9 36 10
+J O j 0 1 0 0 0 0 1 select td auto-style9 36 10
 
-K O 0 1 select td auto-style9 36 11
+K O k 0 1 0 0 0 0 1 select td auto-style9 36 11
 
-L O 0 1 select td auto-style9 36 12
+L O l 0 1 0 0 0 0 1 select td auto-style9 36 12
 
-M O 0 1 select td auto-style9 36 13
+M O m 0 1 0 0 0 0 1 select td auto-style9 36 13
 
-N O 0 1 select td auto-style9 36 14
+N O n 0 1 0 0 0 0 1 select td auto-style9 36 14
 
-O O 0 1 select td auto-style9 36 15
+O O o 0 1 0 0 0 0 1 select td auto-style9 36 15
 
-P O 0 1 select td auto-style9 36 16
+P O p 0 1 0 0 0 0 1 select td auto-style9 36 16
 
-Q O 0 1 select td auto-style9 36 17
+Q O q 0 1 0 0 0 0 1 select td auto-style9 36 17
 
-R O 0 1 select td auto-style9 36 18
+R O r 0 1 0 0 0 0 1 select td auto-style9 36 18
 
-S O 0 1 select td auto-style9 36 19
+S O s 0 1 0 0 0 0 1 select td auto-style9 36 19
 
-T O 0 1 select td auto-style9 36 20
+T O t 0 1 0 0 0 0 1 select td auto-style9 36 20
 
-U O 0 1 select td auto-style9 36 21
+U O u 0 1 0 0 0 0 1 select td auto-style9 36 21
 
-V O 0 1 select td auto-style9 36 22
+V O v 0 1 0 0 0 0 1 select td auto-style9 36 22
 
-W O 0 1 select td auto-style9 36 23
+W O w 0 1 0 0 0 0 1 select td auto-style9 36 23
+
+X O x 0 0 0 0 0 0 1 select td auto-style9 36 24
+
+Y O y 0 1 0 0 0 0 1 select td auto-style9 36 25
+
+Z O z 0 1 0 0 0 0 1 select td auto-style9 36 26
 
-X O 0 0 select td auto-style9 36 24
+Assistant O assistant 0 0 0 0 0 0 1 select td auto-style11 36 1
+professor O professor 0 0 0 0 1 0 0 select td auto-style11 36 1
 
-Y O 0 1 select td auto-style9 36 25
+Associate O associate 0 1 0 0 0 0 1 select td auto-style11 36 2
+professor O professor 0 0 0 0 1 0 0 select td auto-style11 36 2
 
-Z O 0 1 select td auto-style9 36 26
+Cognitive O cognitive 0 0 0 0 0 0 1 select td auto-style1 36 1
+Modeling O modeling 0 0 0 0 0 0 1 select td auto-style1 36 1
+and O and 0 1 0 0 0 0 0 select td auto-style1 36 1
+Cognitive O cognitive 0 0 0 0 0 0 1 select td auto-style1 36 1
+Rehabilitation O rehabilitation 0 0 0 0 0 0 1 select td auto-style1 36 1
 
-Assistant O 0 0 select td auto-style11 36 1
-professor O 0 0 select td auto-style11 36 1
+Cognitive O cognitive 0 0 0 0 0 0 1 select td auto-style1 36 2
+Psychology O psychology 0 0 0 0 0 0 1 select td auto-style1 36 2
 
-Associate O 0 1 select td auto-style11 36 2
-professor O 0 0 select td auto-style11 36 2
+Ascending O ascending 0 0 0 0 0 0 1 select td auto-style1 36 0
 
-Cognitive O 0 0 select td auto-style1 36 1
-Modeling O 0 0 select td auto-style1 36 1
-and O 0 1 select td auto-style1 36 1
-Cognitive O 0 0 select td auto-style1 36 1
-Rehabilitation O 0 0 select td auto-style1 36 1
+Descending O descending 0 0 0 0 0 0 1 select td auto-style1 36 1
 
-Cognitive O 0 0 select td auto-style1 36 2
-Psychology O 0 0 select td auto-style1 36 2
+Last O last 0 1 0 0 0 0 1 tr table auto-style10 34 1
+Name O name 0 1 0 0 0 0 1 tr table auto-style10 34 1
+Academic O academic 0 0 0 0 0 0 1 tr table auto-style3 34 2
+Rank O rank 0 1 0 0 0 0 1 tr table auto-style3 34 2
+Department O department 0 0 0 0 0 0 1 tr table profile-WPHeader 34 3
+Order O order 0 0 0 0 0 0 1 tr table profile-WPHeader 34 4
 
-Ascending O 0 0 select td auto-style1 36 0
+Note O note 0 1 0 0 0 0 1 b span profile-WPHeader 35 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 35 0
+This O this 0 1 0 0 0 0 1 b span profile-WPHeader 35 0
+faculty O faculty 0 0 0 0 0 0 0 b span profile-WPHeader 35 0
+has O has 0 0 0 0 0 0 0 b span profile-WPHeader 35 0
+19 O 19 0 0 0 1 0 0 0 b span profile-WPHeader 35 0
+faculty O faculty 0 0 0 0 0 0 0 b span profile-WPHeader 35 0
+member O member 0 0 0 0 0 0 0 b span profile-WPHeader 35 0
+( O ( 0 0 0 0 0 0 0 b span profile-WPHeader 35 0
+s O s 0 0 0 0 0 0 0 b span profile-WPHeader 35 0
+) O ) 0 0 0 0 0 0 0 b span profile-WPHeader 35 0
+. O . 0 1 0 0 0 0 0 b span profile-WPHeader 35 0
 
-Descending O 0 0 select td auto-style1 36 1
+Pages O pages 0 1 0 0 0 0 1 div div profile-WPHeader 32 4
+: O : 0 0 0 0 0 0 0 div div profile-WPHeader 32 4
+Previous O previous 0 0 0 0 0 0 1 span div profile-WPHeader 34 0
+1 O 1 0 0 0 1 0 0 0 span div profile-WPHeader 34 1
+2 O 2 0 0 0 1 0 0 0 span div profile-WPHeader 34 2
+3 O 3 0 0 0 1 0 0 0 span div profile-WPHeader 34 3
+4 O 4 0 0 0 1 0 0 0 span div profile-WPHeader 34 4
+Next O next 0 0 0 0 0 0 1 span div profile-WPHeader 34 5
 
-Last O 0 1 tr table auto-style10 34 1
-Name O 0 1 tr table auto-style10 34 1
-Academic O 0 0 tr table auto-style3 34 2
-Rank O 0 1 tr table auto-style3 34 2
-Department O 0 0 tr table profile-WPHeader 34 3
-Order O 0 0 tr table profile-WPHeader 34 4
+Fatemeh B-PER fatemeh 1 1 0 0 0 0 1 b span profile-WPHeader 41 0
 
-Note: O 0 0 b span profile-WPHeader 35 0
-This O 0 1 b span profile-WPHeader 35 0
-faculty O 0 0 b span profile-WPHeader 35 0
-has O 0 0 b span profile-WPHeader 35 0
-19 O 0 0 b span profile-WPHeader 35 0
-faculty O 0 0 b span profile-WPHeader 35 0
-member(s). O 0 0 b span profile-WPHeader 35 0
+Bakouie I-PER bakouie 1 1 0 0 0 0 1 b span profile-WPHeader 41 0
 
-Pages: O 0 0 div div profile-WPHeader 32 4
-Previous O 0 0 span div profile-WPHeader 34 0
-1 O 0 0 span div profile-WPHeader 34 1
-2 O 0 0 span div profile-WPHeader 34 2
-3 O 0 0 span div profile-WPHeader 34 3
-4 O 0 0 span div profile-WPHeader 34 4
-Next O 0 0 span div profile-WPHeader 34 5
+Assistant O assistant 0 0 0 0 0 0 1 div td profile-WPHeader 39 7
+professor O professor 0 0 0 0 1 0 0 div td profile-WPHeader 39 7
 
-Fatemeh B-NAME 1 1 b span profile-WPHeader 41 0
+Faculty O faculty 0 0 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Bakouie I-NAME 1 1 b span profile-WPHeader 41 0
+Institute O institute 0 0 0 0 0 0 1 div td profile-WPHeader 39 14
+for O for 0 1 0 0 0 0 0 div td profile-WPHeader 39 14
+Cognitive O cognitive 0 0 0 0 0 0 1 div td profile-WPHeader 39 14
+and O and 0 1 0 0 0 0 0 div td profile-WPHeader 39 14
+Brain O brain 0 1 0 0 0 0 1 div td profile-WPHeader 39 14
+Sciences O sciences 0 0 0 0 0 0 1 div td profile-WPHeader 39 14
 
-Assistant O 0 0 div td profile-WPHeader 39 7
-professor O 0 0 div td profile-WPHeader 39 7
+Department O department 0 0 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Faculty: O 0 0 b span profile-WPHeader 41 0
+Cognitive O cognitive 0 0 0 0 0 0 1 div td profile-WPHeader 39 19
+Modeling O modeling 0 0 0 0 0 0 1 div td profile-WPHeader 39 19
+and O and 0 1 0 0 0 0 0 div td profile-WPHeader 39 19
+Cognitive O cognitive 0 0 0 0 0 0 1 div td profile-WPHeader 39 19
+Rehabilitation O rehabilitation 0 0 0 0 0 0 1 div td profile-WPHeader 39 19
 
-Institute O 0 0 div td profile-WPHeader 39 14
-for O 0 1 div td profile-WPHeader 39 14
-Cognitive O 0 0 div td profile-WPHeader 39 14
-and O 0 1 div td profile-WPHeader 39 14
-Brain O 0 1 div td profile-WPHeader 39 14
-Sciences O 0 0 div td profile-WPHeader 39 14
+Phone O phone 0 1 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Department: O 0 0 b span profile-WPHeader 41 0
++98 O +98 0 0 0 1 0 0 0 div td profile-WPHeader 39 24
+( O ( 0 0 0 0 0 0 0 div td profile-WPHeader 39 24
+21 O 21 0 0 0 1 0 0 0 div td profile-WPHeader 39 24
+) O ) 0 0 0 0 0 0 0 div td profile-WPHeader 39 24
+29905405 O 29905405 0 0 0 1 0 0 0 div td profile-WPHeader 39 24
 
-Cognitive O 0 0 div td profile-WPHeader 39 19
-Modeling O 0 0 div td profile-WPHeader 39 19
-and O 0 1 div td profile-WPHeader 39 19
-Cognitive O 0 0 div td profile-WPHeader 39 19
-Rehabilitation O 0 0 div td profile-WPHeader 39 19
+Email O email 0 0 0 0 1 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Phone: O 0 0 b span profile-WPHeader 41 0
+fatemeh.bakouie@gmail.com O fatemeh.bakouie@gmail.com 0 0 1 0 0 0 0 div td profile-WPHeader 39 29
 
-+98 O 0 0 div td profile-WPHeader 39 24
-(21) O 0 0 div td profile-WPHeader 39 24
-29905405 O 0 0 div td profile-WPHeader 39 24
+Personal O personal 0 1 0 0 0 0 1 b span profile-WPHeader 41 0
+website O website 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Email: O 0 0 b span profile-WPHeader 41 0
+http O http 0 0 0 0 0 0 0 a div profile-WPHeader 40 0
+: O : 0 0 0 0 0 0 0 a div profile-WPHeader 40 0
+//facultymembers.sbu.ac.ir/bakouie/ O //facultymembers.sbu.ac.ir/bakouie/ 0 0 0 0 0 0 0 a div profile-WPHeader 40 0
 
-fatemeh.bakouie@gmail.com O 0 0 div td profile-WPHeader 39 29
+Full O full 0 1 0 0 0 0 1 div td profile-WPHeader 39 37
+Profile O profile 0 0 0 0 1 0 1 div td profile-WPHeader 39 37
 
-Personal O 0 1 b span profile-WPHeader 41 0
-website: O 0 0 b span profile-WPHeader 41 0
+Mohammad B-PER mohammad 1 1 0 0 0 0 1 b span profile-WPHeader 41 0
+reza I-PER reza 0 1 0 0 0 0 0 b span profile-WPHeader 41 0
 
-http://facultymembers.sbu.ac.ir/bakouie/ O 0 0 a div profile-WPHeader 40 0
+Bigdeli I-PER bigdeli 0 1 0 0 0 0 1 b span profile-WPHeader 41 0
 
-Full O 0 1 div td profile-WPHeader 39 37
-Profile O 0 0 div td profile-WPHeader 39 37
+Associate O associate 0 1 0 0 0 0 1 div td profile-WPHeader 39 7
+professor O professor 0 0 0 0 1 0 0 div td profile-WPHeader 39 7
 
-Mohammad B-NAME 1 1 b span profile-WPHeader 41 0
-reza I-NAME 0 1 b span profile-WPHeader 41 0
+Faculty O faculty 0 0 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Bigdeli I-NAME 0 1 b span profile-WPHeader 41 0
+Biological O biological 0 0 0 0 0 0 1 div td profile-WPHeader 39 14
+Sciences O sciences 0 0 0 0 0 0 1 div td profile-WPHeader 39 14
 
-Associate O 0 1 div td profile-WPHeader 39 7
-professor O 0 0 div td profile-WPHeader 39 7
+Department O department 0 0 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Faculty: O 0 0 b span profile-WPHeader 41 0
+Zoology O zoology 0 0 0 0 0 0 1 div td profile-WPHeader 39 19
 
-Biological O 0 0 div td profile-WPHeader 39 14
-Sciences O 0 0 div td profile-WPHeader 39 14
+Phone O phone 0 1 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Department: O 0 0 b span profile-WPHeader 41 0
++98 O +98 0 0 0 1 0 0 0 div td profile-WPHeader 39 24
+( O ( 0 0 0 0 0 0 0 div td profile-WPHeader 39 24
+21 O 21 0 0 0 1 0 0 0 div td profile-WPHeader 39 24
+) O ) 0 0 0 0 0 0 0 div td profile-WPHeader 39 24
 
-Zoology O 0 0 div td profile-WPHeader 39 19
+Email O email 0 0 0 0 1 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Phone: O 0 0 b span profile-WPHeader 41 0
+Personal O personal 0 1 0 0 0 0 1 b span profile-WPHeader 41 0
+website O website 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-+98 O 0 0 div td profile-WPHeader 39 24
-(21) O 0 0 div td profile-WPHeader 39 24
+http O http 0 0 0 0 0 0 0 a div profile-WPHeader 40 0
+: O : 0 0 0 0 0 0 0 a div profile-WPHeader 40 0
+//facultymembers.sbu.ac.ir/bigdeli/ O //facultymembers.sbu.ac.ir/bigdeli/ 0 0 0 0 0 0 0 a div profile-WPHeader 40 0
 
-Email: O 0 0 b span profile-WPHeader 41 0
+Full O full 0 1 0 0 0 0 1 div td profile-WPHeader 39 37
+Profile O profile 0 0 0 0 1 0 1 div td profile-WPHeader 39 37
 
-Personal O 0 1 b span profile-WPHeader 41 0
-website: O 0 0 b span profile-WPHeader 41 0
+Mohsen B-PER mohsen 0 1 0 0 0 0 1 b span profile-WPHeader 41 0
 
-http://facultymembers.sbu.ac.ir/bigdeli/ O 0 0 a div profile-WPHeader 40 0
+Dehghani I-PER dehghani 0 1 0 0 0 0 1 b span profile-WPHeader 41 0
 
-Full O 0 1 div td profile-WPHeader 39 37
-Profile O 0 0 div td profile-WPHeader 39 37
+Associate O associate 0 1 0 0 0 0 1 div td profile-WPHeader 39 7
+professor O professor 0 0 0 0 1 0 0 div td profile-WPHeader 39 7
 
-Mohsen B-NAME 0 1 b span profile-WPHeader 41 0
+Faculty O faculty 0 0 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Dehghani I-NAME 0 1 b span profile-WPHeader 41 0
+Education O education 0 0 0 0 0 0 1 div td profile-WPHeader 39 14
+and O and 0 1 0 0 0 0 0 div td profile-WPHeader 39 14
+Psychology O psychology 0 0 0 0 0 0 1 div td profile-WPHeader 39 14
 
-Associate O 0 1 div td profile-WPHeader 39 7
-professor O 0 0 div td profile-WPHeader 39 7
+Department O department 0 0 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Faculty: O 0 0 b span profile-WPHeader 41 0
+Phone O phone 0 1 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Education O 0 0 div td profile-WPHeader 39 14
-and O 0 1 div td profile-WPHeader 39 14
-Psychology O 0 0 div td profile-WPHeader 39 14
++98 O +98 0 0 0 1 0 0 0 div td profile-WPHeader 39 24
+( O ( 0 0 0 0 0 0 0 div td profile-WPHeader 39 24
+21 O 21 0 0 0 1 0 0 0 div td profile-WPHeader 39 24
+) O ) 0 0 0 0 0 0 0 div td profile-WPHeader 39 24
+29905376 O 29905376 0 0 0 1 0 0 0 div td profile-WPHeader 39 24
 
-Department: O 0 0 b span profile-WPHeader 41 0
+Email O email 0 0 0 0 1 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Phone: O 0 0 b span profile-WPHeader 41 0
+m.dehghani@sbu.ac.ir O m.dehghani@sbu.ac.ir 0 0 1 0 0 0 0 div td profile-WPHeader 39 29
 
-+98 O 0 0 div td profile-WPHeader 39 24
-(21) O 0 0 div td profile-WPHeader 39 24
-29905376 O 0 0 div td profile-WPHeader 39 24
+Personal O personal 0 1 0 0 0 0 1 b span profile-WPHeader 41 0
+website O website 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Email: O 0 0 b span profile-WPHeader 41 0
+Full O full 0 1 0 0 0 0 1 div td profile-WPHeader 39 37
+Profile O profile 0 0 0 0 1 0 1 div td profile-WPHeader 39 37
 
-m.dehghani@sbu.ac.ir O 0 0 div td profile-WPHeader 39 29
+Changiz B-PER changiz 1 1 0 0 0 0 1 b span profile-WPHeader 41 0
 
-Personal O 0 1 b span profile-WPHeader 41 0
-website: O 0 0 b span profile-WPHeader 41 0
+Eslahchi I-PER eslahchi 1 1 0 0 0 0 1 b span profile-WPHeader 41 0
 
-Full O 0 1 div td profile-WPHeader 39 37
-Profile O 0 0 div td profile-WPHeader 39 37
+Professor O professor 0 0 0 0 1 0 1 div td profile-WPHeader 39 7
 
-Changiz B-NAME 1 1 b span profile-WPHeader 41 0
+Faculty O faculty 0 0 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Eslahchi I-NAME 1 1 b span profile-WPHeader 41 0
+Mathematical O mathematical 0 0 0 0 0 0 1 div td profile-WPHeader 39 14
+Sciences O sciences 0 0 0 0 0 0 1 div td profile-WPHeader 39 14
 
-Professor O 0 0 div td profile-WPHeader 39 7
+Department O department 0 0 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Faculty: O 0 0 b span profile-WPHeader 41 0
+Computer O computer 0 0 0 0 0 0 1 div td profile-WPHeader 39 19
+Sciences O sciences 0 0 0 0 0 0 1 div td profile-WPHeader 39 19
 
-Mathematical O 0 0 div td profile-WPHeader 39 14
-Sciences O 0 0 div td profile-WPHeader 39 14
+Phone O phone 0 1 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Department: O 0 0 b span profile-WPHeader 41 0
++98 O +98 0 0 0 1 0 0 0 div td profile-WPHeader 39 24
+( O ( 0 0 0 0 0 0 0 div td profile-WPHeader 39 24
+21 O 21 0 0 0 1 0 0 0 div td profile-WPHeader 39 24
+) O ) 0 0 0 0 0 0 0 div td profile-WPHeader 39 24
+22431653 O 22431653 0 0 0 1 0 0 0 div td profile-WPHeader 39 24
 
-Computer O 0 0 div td profile-WPHeader 39 19
-Sciences O 0 0 div td profile-WPHeader 39 19
+Email O email 0 0 0 0 1 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Phone: O 0 0 b span profile-WPHeader 41 0
+Ch O ch 0 1 0 0 0 0 1 div td profile-WPHeader 39 29
+- O - 0 0 0 0 0 0 0 div td profile-WPHeader 39 29
+Eslahchi@sbu.ac.ir O eslahchi@sbu.ac.ir 0 0 1 0 0 0 1 div td profile-WPHeader 39 29
 
-+98 O 0 0 div td profile-WPHeader 39 24
-(21) O 0 0 div td profile-WPHeader 39 24
-22431653 O 0 0 div td profile-WPHeader 39 24
+Personal O personal 0 1 0 0 0 0 1 b span profile-WPHeader 41 0
+website O website 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Email: O 0 0 b span profile-WPHeader 41 0
+http O http 0 0 0 0 0 0 0 a div profile-WPHeader 40 0
+: O : 0 0 0 0 0 0 0 a div profile-WPHeader 40 0
+//facultymembers.sbu.ac.ir/eslahchi/en/home/ O //facultymembers.sbu.ac.ir/eslahchi/en/home/ 0 0 0 0 0 0 0 a div profile-WPHeader 40 0
 
-Ch-Eslahchi@sbu.ac.ir O 0 0 div td profile-WPHeader 39 29
+Full O full 0 1 0 0 0 0 1 div td profile-WPHeader 39 37
+Profile O profile 0 0 0 0 1 0 1 div td profile-WPHeader 39 37
 
-Personal O 0 1 b span profile-WPHeader 41 0
-website: O 0 0 b span profile-WPHeader 41 0
+Shahriar B-PER shahriar 1 1 0 0 0 0 1 b span profile-WPHeader 41 0
 
-http://facultymembers.sbu.ac.ir/eslahchi/en/home/ O 0 0 a div profile-WPHeader 40 0
+Gharibzadeh I-PER gharibzadeh 1 1 0 0 0 0 1 b span profile-WPHeader 41 0
 
-Full O 0 1 div td profile-WPHeader 39 37
-Profile O 0 0 div td profile-WPHeader 39 37
+Associate O associate 0 1 0 0 0 0 1 div td profile-WPHeader 39 7
+professor O professor 0 0 0 0 1 0 0 div td profile-WPHeader 39 7
 
-Shahriar B-NAME 1 1 b span profile-WPHeader 41 0
+Faculty O faculty 0 0 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Gharibzadeh I-NAME 1 1 b span profile-WPHeader 41 0
+Institute O institute 0 0 0 0 0 0 1 div td profile-WPHeader 39 14
+for O for 0 1 0 0 0 0 0 div td profile-WPHeader 39 14
+Cognitive O cognitive 0 0 0 0 0 0 1 div td profile-WPHeader 39 14
+and O and 0 1 0 0 0 0 0 div td profile-WPHeader 39 14
+Brain O brain 0 1 0 0 0 0 1 div td profile-WPHeader 39 14
+Sciences O sciences 0 0 0 0 0 0 1 div td profile-WPHeader 39 14
 
-Associate O 0 1 div td profile-WPHeader 39 7
-professor O 0 0 div td profile-WPHeader 39 7
+Department O department 0 0 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Faculty: O 0 0 b span profile-WPHeader 41 0
+Cognitive O cognitive 0 0 0 0 0 0 1 div td profile-WPHeader 39 19
+Modeling O modeling 0 0 0 0 0 0 1 div td profile-WPHeader 39 19
+and O and 0 1 0 0 0 0 0 div td profile-WPHeader 39 19
+Cognitive O cognitive 0 0 0 0 0 0 1 div td profile-WPHeader 39 19
+Rehabilitation O rehabilitation 0 0 0 0 0 0 1 div td profile-WPHeader 39 19
 
-Institute O 0 0 div td profile-WPHeader 39 14
-for O 0 1 div td profile-WPHeader 39 14
-Cognitive O 0 0 div td profile-WPHeader 39 14
-and O 0 1 div td profile-WPHeader 39 14
-Brain O 0 1 div td profile-WPHeader 39 14
-Sciences O 0 0 div td profile-WPHeader 39 14
+Phone O phone 0 1 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Department: O 0 0 b span profile-WPHeader 41 0
++98 O +98 0 0 0 1 0 0 0 div td profile-WPHeader 39 24
+( O ( 0 0 0 0 0 0 0 div td profile-WPHeader 39 24
+21 O 21 0 0 0 1 0 0 0 div td profile-WPHeader 39 24
+) O ) 0 0 0 0 0 0 0 div td profile-WPHeader 39 24
 
-Cognitive O 0 0 div td profile-WPHeader 39 19
-Modeling O 0 0 div td profile-WPHeader 39 19
-and O 0 1 div td profile-WPHeader 39 19
-Cognitive O 0 0 div td profile-WPHeader 39 19
-Rehabilitation O 0 0 div td profile-WPHeader 39 19
+Email O email 0 0 0 0 1 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Phone: O 0 0 b span profile-WPHeader 41 0
+Personal O personal 0 1 0 0 0 0 1 b span profile-WPHeader 41 0
+website O website 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-+98 O 0 0 div td profile-WPHeader 39 24
-(21) O 0 0 div td profile-WPHeader 39 24
+Full O full 0 1 0 0 0 0 1 div td profile-WPHeader 39 37
+Profile O profile 0 0 0 0 1 0 1 div td profile-WPHeader 39 37
 
-Email: O 0 0 b span profile-WPHeader 41 0
+Mona B-PER mona 1 1 0 0 0 0 1 b span profile-WPHeader 41 0
 
-Personal O 0 1 b span profile-WPHeader 41 0
-website: O 0 0 b span profile-WPHeader 41 0
+Ghasemian I-PER ghasemian 0 1 0 0 0 0 1 b span profile-WPHeader 41 0
 
-Full O 0 1 div td profile-WPHeader 39 37
-Profile O 0 0 div td profile-WPHeader 39 37
+Assistant O assistant 0 0 0 0 0 0 1 div td profile-WPHeader 39 7
+professor O professor 0 0 0 0 1 0 0 div td profile-WPHeader 39 7
 
-Mona B-NAME 1 1 b span profile-WPHeader 41 0
+Faculty O faculty 0 0 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Ghasemian I-NAME 0 1 b span profile-WPHeader 41 0
+Computer O computer 0 0 0 0 0 0 1 div td profile-WPHeader 39 14
+Engineering O engineering 0 0 0 0 0 0 1 div td profile-WPHeader 39 14
+and O and 0 1 0 0 0 0 0 div td profile-WPHeader 39 14
+Science O science 0 0 0 0 0 0 1 div td profile-WPHeader 39 14
 
-Assistant O 0 0 div td profile-WPHeader 39 7
-professor O 0 0 div td profile-WPHeader 39 7
+Department O department 0 0 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Faculty: O 0 0 b span profile-WPHeader 41 0
+Phone O phone 0 1 0 0 0 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Computer O 0 0 div td profile-WPHeader 39 14
-Engineering O 0 0 div td profile-WPHeader 39 14
-and O 0 1 div td profile-WPHeader 39 14
-Science O 0 0 div td profile-WPHeader 39 14
++98 O +98 0 0 0 1 0 0 0 div td profile-WPHeader 39 24
+( O ( 0 0 0 0 0 0 0 div td profile-WPHeader 39 24
+21 O 21 0 0 0 1 0 0 0 div td profile-WPHeader 39 24
+) O ) 0 0 0 0 0 0 0 div td profile-WPHeader 39 24
 
-Department: O 0 0 b span profile-WPHeader 41 0
+Email O email 0 0 0 0 1 0 1 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-Phone: O 0 0 b span profile-WPHeader 41 0
+Personal O personal 0 1 0 0 0 0 1 b span profile-WPHeader 41 0
+website O website 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
+: O : 0 0 0 0 0 0 0 b span profile-WPHeader 41 0
 
-+98 O 0 0 div td profile-WPHeader 39 24
-(21) O 0 0 div td profile-WPHeader 39 24
+Full O full 0 1 0 0 0 0 1 div td profile-WPHeader 39 37
+Profile O profile 0 0 0 0 1 0 1 div td profile-WPHeader 39 37
 
-Email: O 0 0 b span profile-WPHeader 41 0
+Pages O pages 0 1 0 0 0 0 1 div div profile-WPHeader 32 268
+: O : 0 0 0 0 0 0 0 div div profile-WPHeader 32 268
+Previous O previous 0 0 0 0 0 0 1 span div profile-WPHeader 34 0
+1 O 1 0 0 0 1 0 0 0 span div profile-WPHeader 34 1
+2 O 2 0 0 0 1 0 0 0 span div profile-WPHeader 34 2
+3 O 3 0 0 0 1 0 0 0 span div profile-WPHeader 34 3
+4 O 4 0 0 0 1 0 0 0 span div profile-WPHeader 34 4
+Next O next 0 0 0 0 0 0 1 span div profile-WPHeader 34 5
 
-Personal O 0 1 b span profile-WPHeader 41 0
-website: O 0 0 b span profile-WPHeader 41 0
+Make O make 0 1 0 0 0 0 1 span div footer-1 14 0
+this O this 0 0 0 0 0 0 0 span div footer-1 14 0
+site O site 0 0 0 0 0 0 0 span div footer-1 14 0
+your O your 0 0 0 0 0 0 0 span div footer-1 14 0
+HomePage O homepage 0 0 0 0 0 0 1 span div footer-1 14 0
+en.sbu.ac.ir O en.sbu.ac.ir 0 0 0 0 0 0 0 span div footer-1 14 0
 
-Full O 0 1 div td profile-WPHeader 39 37
-Profile O 0 0 div td profile-WPHeader 39 37
+Site O site 0 1 0 0 0 0 1 strong a footer-1 16 0
+Map O map 0 0 0 0 0 0 1 strong a footer-1 16 0
 
-Pages: O 0 0 div div profile-WPHeader 32 268
-Previous O 0 0 span div profile-WPHeader 34 0
-1 O 0 0 span div profile-WPHeader 34 1
-2 O 0 0 span div profile-WPHeader 34 2
-3 O 0 0 span div profile-WPHeader 34 3
-4 O 0 0 span div profile-WPHeader 34 4
-Next O 0 0 span div profile-WPHeader 34 5
+Copyright O copyright 0 0 0 0 0 0 1 div div footer-1 13 4
+2013 O 2013 0 0 0 1 0 0 0 div div footer-1 13 4
+, O , 0 0 0 0 0 0 0 div div footer-1 13 4
+All O all 0 1 0 0 0 0 1 div div footer-1 13 4
+right O right 0 0 0 0 0 0 0 div div footer-1 13 4
+reserved. O reserved. 0 0 0 0 0 0 0 div div footer-1 13 4
+Shahid O shahid 0 1 0 0 0 0 1 div div footer-1 13 4
+Beheshti O beheshti 0 1 0 0 0 0 1 div div footer-1 13 4
+University O university 0 1 0 0 0 0 1 div div footer-1 13 4
+© O © 0 0 0 0 0 0 0 span div footer-1 14 3
 
-Make O 0 1 span div footer-1 14 0
-this O 0 0 span div footer-1 14 0
-site O 0 0 span div footer-1 14 0
-your O 0 0 span div footer-1 14 0
-HomePage O 0 0 span div footer-1 14 0
-en.sbu.ac.ir O 0 0 span div footer-1 14 0
+Shahid O shahid 0 1 0 0 0 0 1 body html none 4 545
+Beheshti O beheshti 0 1 0 0 0 0 1 body html none 4 545
+University O university 0 1 0 0 0 0 1 body html none 4 545
 
-Site O 0 1 strong a footer-1 16 0
-Map O 0 0 strong a footer-1 16 0
-
-Copyright O 0 0 div div footer-1 13 4
-2013, O 0 0 div div footer-1 13 4
-All O 0 1 div div footer-1 13 4
-right O 0 0 div div footer-1 13 4
-reserved. O 0 0 div div footer-1 13 4
-Shahid O 0 1 div div footer-1 13 4
-Beheshti O 0 1 div div footer-1 13 4
-University O 0 1 div div footer-1 13 4
-© O 0 0 span div footer-1 14 3
-
-Shahid O 0 1 body html none 4 545
-Beheshti O 0 1 body html none 4 545
-University O 0 1 body html none 4 545
-
-Shahid O 0 1 body html none 4 546
-Beheshti O 0 1 body html none 4 546
-University O 0 1 body html none 4 546
+Shahid O shahid 0 1 0 0 0 0 1 body html none 4 546
+Beheshti O beheshti 0 1 0 0 0 0 1 body html none 4 546
+University O university 0 1 0 0 0 0 1 body html none 4 546

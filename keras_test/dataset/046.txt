@@ -1,790 +1,836 @@
-Staff O 0 1 meta head no-js 5 0
-| O 0 0 meta head no-js 5 0
-Computer O 0 0 meta head no-js 5 0
-Science O 0 0 meta head no-js 5 0
-and O 0 1 meta head no-js 5 0
-Software O 0 1 meta head no-js 5 0
-Engineering O 0 0 meta head no-js 5 0
-| O 0 0 meta head no-js 5 0
-Xi'an O 0 1 meta head no-js 5 0
-Jiaotong-Liverpool O 0 0 meta head no-js 5 0
-University O 0 1 meta head no-js 5 0
-(XJTLU) O 0 0 meta head no-js 5 0
+Staff O staff 0 1 0 0 0 0 1 meta head no-js 5 0
+| O | 0 0 0 0 0 0 0 meta head no-js 5 0
+Computer O computer 0 0 0 0 0 0 1 meta head no-js 5 0
+Science O science 0 0 0 0 0 0 1 meta head no-js 5 0
+and O and 0 1 0 0 0 0 0 meta head no-js 5 0
+Software O software 0 1 0 0 0 0 1 meta head no-js 5 0
+Engineering O engineering 0 0 0 0 0 0 1 meta head no-js 5 0
+| O | 0 0 0 0 0 0 0 meta head no-js 5 0
+Xi O xi 0 1 0 0 0 0 1 meta head no-js 5 0
+' O ' 0 0 0 0 0 0 0 meta head no-js 5 0
+an O an 0 1 0 0 0 0 0 meta head no-js 5 0
+Jiaotong O jiaotong 0 0 0 0 0 0 1 meta head no-js 5 0
+- O - 0 0 0 0 0 0 0 meta head no-js 5 0
+Liverpool O liverpool 0 1 0 0 0 0 1 meta head no-js 5 0
+University O university 0 1 0 0 0 0 1 meta head no-js 5 0
+( O ( 0 0 0 0 0 0 0 meta head no-js 5 0
+XJTLU O xjtlu 0 0 0 0 0 0 1 meta head no-js 5 0
+) O ) 0 0 0 0 0 0 0 meta head no-js 5 0
+
+Xi O xi 0 1 0 0 0 0 1 div div logo 7 0
+' O ' 0 0 0 0 0 0 0 div div logo 7 0
+an O an 0 1 0 0 0 0 0 div div logo 7 0
+Jiaotong O jiaotong 0 0 0 0 0 0 1 div div logo 7 0
+- O - 0 0 0 0 0 0 0 div div logo 7 0
+Liverpool O liverpool 0 1 0 0 0 0 1 div div logo 7 0
+University O university 0 1 0 0 0 0 1 div div logo 7 0
+( O ( 0 0 0 0 0 0 0 div div logo 7 0
+XJTLU O xjtlu 0 0 0 0 0 0 1 div div logo 7 0
+) O ) 0 0 0 0 0 0 0 div div logo 7 0
+
+En O en 0 1 0 0 0 0 1 li ul active 10 0
+glish O glish 0 0 0 0 0 0 0 a li hide-mobile 11 0
+
+中文 O 中文 0 0 0 0 0 0 0 li ul zh 10 0
+
+Search O search 0 0 0 0 0 0 1 fieldset form site-search 10 0
+the O the 0 1 0 0 0 0 0 fieldset form site-search 10 0
+site O site 0 0 0 0 0 0 0 fieldset form site-search 10 0
+
+Search O search 0 0 0 0 0 0 1 div fieldset site-search 11 0
+terms O terms 0 0 0 0 0 0 0 div fieldset site-search 11 0
+
+Search O search 0 0 0 0 0 0 1 input input site-search-go 13 0
+
+Toggle O toggle 0 0 0 0 0 0 1 div div contain 7 16
+mobile O mobile 0 0 0 0 0 0 0 div div contain 7 16
+menu O menu 0 0 0 0 0 0 0 div div contain 7 16
+
+Toggle O toggle 0 0 0 0 0 0 1 div div contain 7 17
+search O search 0 0 0 0 0 0 0 div div contain 7 17
+form O form 0 0 0 0 0 0 0 div div contain 7 17
+
+Find O find 0 1 0 0 0 0 1 li ul first 9 0
+a O a 0 1 0 0 0 0 0 li ul first 9 0
+programme O programme 0 0 0 0 0 0 0 li ul first 9 0
+
+Study O study 0 1 0 0 0 0 1 li ul mobile-nav 9 0
+with O with 0 0 0 0 0 0 0 li ul mobile-nav 9 0
+us O us 0 1 0 0 0 0 0 li ul mobile-nav 9 0
 
-Xi'an O 0 1 div div logo 7 0
-Jiaotong-Liverpool O 0 0 div div logo 7 0
-University O 0 1 div div logo 7 0
-(XJTLU) O 0 0 div div logo 7 0
-
-En O 0 1 li ul language.en.active 10 0
-glish O 0 0 a li hide-mobile 11 0
+Departments O departments 0 0 0 0 0 0 1 li ul active 9 0
 
-中文 O 0 0 li ul language.zh 10 0
-
-Search O 0 0 fieldset form site-search 10 0
-the O 0 1 fieldset form site-search 10 0
-site O 0 0 fieldset form site-search 10 0
+Research O research 0 1 0 0 0 0 1 li ul has-children 9 0
 
-Search O 0 0 div fieldset site-search 11 0
-terms O 0 0 div fieldset site-search 11 0
+Research O research 0 1 0 0 0 0 1 li ul  11 0
 
-Search O 0 0 input input site-search-go 13 0
+Research O research 0 1 0 0 0 0 1 li ul first 11 0
+priorities O priorities 0 0 0 0 0 0 0 li ul first 11 0
+and O and 0 1 0 0 0 0 0 li ul first 11 0
+strategy O strategy 0 0 0 0 0 0 0 li ul first 11 0
 
-Toggle O 0 0 div div contain 7 16
-mobile O 0 0 div div contain 7 16
-menu O 0 0 div div contain 7 16
+Research O research 0 1 0 0 0 0 1 li ul has-children 11 0
+ethics O ethics 0 0 0 0 0 0 0 li ul has-children 11 0
 
-Toggle O 0 0 div div contain 7 17
-search O 0 0 div div contain 7 17
-form O 0 0 div div contain 7 17
+Business O business 0 0 0 0 0 0 1 li ul has-children 11 0
+and O and 0 1 0 0 0 0 0 li ul has-children 11 0
+industry O industry 0 0 0 0 0 0 0 li ul has-children 11 0
 
-Find O 0 1 li ul first 9 0
-a O 0 1 li ul first 9 0
-programme O 0 0 li ul first 9 0
+Innovation O innovation 0 0 0 0 0 0 1 li ul has-children 11 0
+and O and 0 1 0 0 0 0 0 li ul has-children 11 0
+impact O impact 0 0 0 0 0 0 0 li ul has-children 11 0
 
-Study O 0 1 li ul mobile-nav 9 0
-with O 0 0 li ul mobile-nav 9 0
-us O 0 1 li ul mobile-nav 9 0
+Research O research 0 1 0 0 0 0 1 li ul has-children 11 0
+centres O centres 0 0 0 0 0 0 0 li ul has-children 11 0
+, O , 0 0 0 0 0 0 0 li ul has-children 11 0
+institutes O institutes 0 0 0 0 0 0 0 li ul has-children 11 0
+and O and 0 1 0 0 0 0 0 li ul has-children 11 0
+areas O areas 0 0 0 0 0 0 0 li ul has-children 11 0
 
-Departments O 0 0 li ul active 9 0
+Summer O summer 0 1 0 0 0 0 1 li ul last 11 0
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul last 11 0
+Research O research 0 1 0 0 0 0 1 li ul last 11 0
+Fellowships O fellowships 0 0 0 0 0 0 1 li ul last 11 0
 
-Research O 0 1 li ul has-children 9 0
+Life O life 0 1 0 0 0 0 1 li ul has-children 9 0
+at O at 0 0 0 0 0 0 0 li ul has-children 9 0
+XJTLU O xjtlu 0 0 0 0 0 0 1 li ul has-children 9 0
 
-Research O 0 1 li ul  11 0
+Life O life 0 1 0 0 0 0 1 li ul  11 0
+at O at 0 0 0 0 0 0 0 li ul  11 0
+XJTLU O xjtlu 0 0 0 0 0 0 1 li ul  11 0
 
-Research O 0 1 li ul first 11 0
-priorities O 0 0 li ul first 11 0
-and O 0 1 li ul first 11 0
-strategy O 0 0 li ul first 11 0
+Suzhou O suzhou 0 1 0 0 0 0 1 li ul first 11 0
+life O life 0 0 0 0 0 0 0 li ul first 11 0
 
-Research O 0 1 li ul has-children 11 0
-ethics O 0 0 li ul has-children 11 0
+Cost O cost 0 1 0 0 0 0 1 li ul has-children 11 0
+of O of 0 1 0 0 0 0 0 li ul has-children 11 0
+living O living 0 0 0 0 0 0 0 li ul has-children 11 0
 
-Business O 0 0 li ul has-children 11 0
-and O 0 1 li ul has-children 11 0
-industry O 0 0 li ul has-children 11 0
+Our O our 0 0 0 0 0 0 1 li ul has-children 11 0
+campus O campus 0 0 0 0 0 0 0 li ul has-children 11 0
 
-Innovation O 0 0 li ul has-children 11 0
-and O 0 1 li ul has-children 11 0
-impact O 0 0 li ul has-children 11 0
+Clubs O clubs 0 0 0 0 0 0 1 li ul has-children 11 0
+and O and 0 1 0 0 0 0 0 li ul has-children 11 0
+organisations O organisations 0 0 0 0 0 0 0 li ul has-children 11 0
 
-Research O 0 1 li ul has-children 11 0
-centres, O 0 0 li ul has-children 11 0
-institutes O 0 0 li ul has-children 11 0
-and O 0 1 li ul has-children 11 0
-areas O 0 0 li ul has-children 11 0
+Sports O sports 0 0 0 0 0 0 1 li ul has-children 11 0
+at O at 0 0 0 0 0 0 0 li ul has-children 11 0
+XJTLU O xjtlu 0 0 0 0 0 0 1 li ul has-children 11 0
 
-Summer O 0 1 li ul last 11 0
-Undergraduate O 0 0 li ul last 11 0
-Research O 0 1 li ul last 11 0
-Fellowships O 0 0 li ul last 11 0
+Shopping O shopping 0 0 0 0 0 0 1 li ul has-children 11 0
+and O and 0 1 0 0 0 0 0 li ul has-children 11 0
+recreation O recreation 0 0 0 0 0 0 0 li ul has-children 11 0
 
-Life O 0 1 li ul has-children 9 0
-at O 0 0 li ul has-children 9 0
-XJTLU O 0 0 li ul has-children 9 0
+Museums O museums 0 0 0 0 1 0 1 li ul has-children 11 0
+and O and 0 1 0 0 0 0 0 li ul has-children 11 0
+culture O culture 0 0 0 0 0 0 0 li ul has-children 11 0
 
-Life O 0 1 li ul  11 0
-at O 0 0 li ul  11 0
-XJTLU O 0 0 li ul  11 0
+Scenery O scenery 0 0 0 0 0 0 1 li ul has-children 11 0
+and O and 0 1 0 0 0 0 0 li ul has-children 11 0
+outdoors O outdoors 0 0 0 0 0 0 0 li ul has-children 11 0
 
-Suzhou O 0 1 li ul first 11 0
-life O 0 0 li ul first 11 0
+Dining O dining 0 0 0 0 0 0 1 li ul has-children 11 0
+and O and 0 1 0 0 0 0 0 li ul has-children 11 0
+nightlife O nightlife 0 0 0 0 0 0 0 li ul has-children 11 0
 
-Cost O 0 1 li ul has-children 11 0
-of O 0 1 li ul has-children 11 0
-living O 0 0 li ul has-children 11 0
+Accommodation O accommodation 0 0 0 0 0 0 1 li ul has-children 11 0
 
-Our O 0 0 li ul has-children 11 0
-campus O 0 0 li ul has-children 11 0
+Getting O getting 0 0 0 0 0 0 1 li ul last 11 0
+around O around 0 0 0 0 0 0 0 li ul last 11 0
 
-Clubs O 0 0 li ul has-children 11 0
-and O 0 1 li ul has-children 11 0
-organisations O 0 0 li ul has-children 11 0
+About O about 0 0 0 0 0 0 1 li ul has-children 9 0
 
-Sports O 0 0 li ul has-children 11 0
-at O 0 0 li ul has-children 11 0
-XJTLU O 0 0 li ul has-children 11 0
+About O about 0 0 0 0 0 0 1 li ul  11 0
 
-Shopping O 0 0 li ul has-children 11 0
-and O 0 1 li ul has-children 11 0
-recreation O 0 0 li ul has-children 11 0
+Vision O vision 0 1 0 0 0 0 1 li ul first 11 0
+and O and 0 1 0 0 0 0 0 li ul first 11 0
+mission O mission 0 0 0 0 1 0 0 li ul first 11 0
 
-Museums O 0 0 li ul has-children 11 0
-and O 0 1 li ul has-children 11 0
-culture O 0 0 li ul has-children 11 0
+History O history 0 0 0 0 0 0 1 li ul has-children 11 0
 
-Scenery O 0 0 li ul has-children 11 0
-and O 0 1 li ul has-children 11 0
-outdoors O 0 0 li ul has-children 11 0
+Partnerships O partnerships 0 0 0 0 0 0 1 li ul has-children 11 0
 
-Dining O 0 0 li ul has-children 11 0
-and O 0 1 li ul has-children 11 0
-nightlife O 0 0 li ul has-children 11 0
+Visit O visit 0 1 0 0 0 0 1 li ul has-children 11 0
+us O us 0 1 0 0 0 0 0 li ul has-children 11 0
 
-Accommodation O 0 0 li ul has-children 11 0
+Leadership O leadership 0 0 0 0 0 0 1 li ul has-children 11 0
 
-Getting O 0 0 li ul last 11 0
-around O 0 0 li ul last 11 0
+Deans O deans 0 1 0 0 0 0 1 li ul has-children 11 0
 
-About O 0 0 li ul has-children 9 0
+Professional O professional 0 0 0 0 1 0 1 li ul has-children 11 0
+services O services 0 0 0 0 0 0 0 li ul has-children 11 0
 
-About O 0 0 li ul  11 0
+Higher O higher 0 0 0 0 0 0 1 li ul has-children 11 0
+education O education 0 0 0 0 0 0 0 li ul has-children 11 0
+in O in 0 1 0 0 0 0 0 li ul has-children 11 0
+China O china 0 1 0 0 0 0 1 li ul has-children 11 0
 
-Vision O 0 1 li ul first 11 0
-and O 0 1 li ul first 11 0
-mission O 0 0 li ul first 11 0
+Test O test 0 1 0 0 0 0 1 li ul has-children 11 0
+centres O centres 0 0 0 0 0 0 0 li ul has-children 11 0
 
-History O 0 0 li ul has-children 11 0
+Jobs O jobs 0 1 0 0 0 0 1 li ul has-children 11 0
 
-Partnerships O 0 0 li ul has-children 11 0
+Policies O policies 0 0 0 0 0 0 1 li ul has-children 11 0
+and O and 0 1 0 0 0 0 0 li ul has-children 11 0
+regulations O regulations 0 0 0 0 0 0 0 li ul has-children 11 0
 
-Visit O 0 1 li ul has-children 11 0
-us O 0 1 li ul has-children 11 0
+Facilities O facilities 0 0 0 0 0 0 1 li ul last 11 0
 
-Leadership O 0 0 li ul has-children 11 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul has-children 9 0
 
-Deans O 0 1 li ul has-children 11 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul  11 0
 
-Professional O 0 0 li ul has-children 11 0
-services O 0 0 li ul has-children 11 0
+Services O services 0 0 0 0 0 0 1 li ul first 11 0
+and O and 0 1 0 0 0 0 0 li ul first 11 0
+benefits O benefits 0 0 0 0 0 0 0 li ul first 11 0
 
-Higher O 0 0 li ul has-children 11 0
-education O 0 0 li ul has-children 11 0
-in O 0 1 li ul has-children 11 0
-China O 0 1 li ul has-children 11 0
+Global O global 0 1 0 0 0 0 1 li ul has-children 11 0
+community O community 0 0 0 0 0 0 0 li ul has-children 11 0
 
-Test O 0 1 li ul has-children 11 0
-centres O 0 0 li ul has-children 11 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul has-children 11 0
+stories O stories 0 0 0 0 0 0 0 li ul has-children 11 0
 
-Jobs O 0 1 li ul has-children 11 0
+Donate O donate 0 1 0 0 0 0 1 li ul last 11 0
 
-Policies O 0 0 li ul has-children 11 0
-and O 0 1 li ul has-children 11 0
-regulations O 0 0 li ul has-children 11 0
+News O news 0 0 0 0 0 0 1 li ul mobile-nav 9 0
 
-Facilities O 0 0 li ul last 11 0
+Events O events 0 0 0 0 0 0 1 li ul last 9 0
 
-Alumni O 0 0 li ul has-children 9 0
+Xi O xi 0 1 0 0 0 0 1 div div logo 8 0
+' O ' 0 0 0 0 0 0 0 div div logo 8 0
+an O an 0 1 0 0 0 0 0 div div logo 8 0
+Jiaotong O jiaotong 0 0 0 0 0 0 1 div div logo 8 0
+- O - 0 0 0 0 0 0 0 div div logo 8 0
+Liverpool O liverpool 0 1 0 0 0 0 1 div div logo 8 0
+University O university 0 1 0 0 0 0 1 div div logo 8 0
+( O ( 0 0 0 0 0 0 0 div div logo 8 0
+XJTLU O xjtlu 0 0 0 0 0 0 1 div div logo 8 0
+) O ) 0 0 0 0 0 0 0 div div logo 8 0
 
-Alumni O 0 0 li ul  11 0
+Find O find 0 1 0 0 0 0 1 li ul first 10 0
+a O a 0 1 0 0 0 0 0 li ul first 10 0
+programme O programme 0 0 0 0 0 0 0 li ul first 10 0
 
-Services O 0 0 li ul first 11 0
-and O 0 1 li ul first 11 0
-benefits O 0 0 li ul first 11 0
+Study O study 0 1 0 0 0 0 1 li ul contain 10 0
+with O with 0 0 0 0 0 0 0 li ul contain 10 0
+us O us 0 1 0 0 0 0 0 li ul contain 10 0
 
-Global O 0 1 li ul has-children 11 0
-community O 0 0 li ul has-children 11 0
+Departments O departments 0 0 0 0 0 0 1 li ul active 10 0
 
-Alumni O 0 0 li ul has-children 11 0
-stories O 0 0 li ul has-children 11 0
+Research O research 0 1 0 0 0 0 1 li ul contain 10 0
 
-Donate O 0 1 li ul last 11 0
+Life O life 0 1 0 0 0 0 1 li ul contain 10 0
+at O at 0 0 0 0 0 0 0 li ul contain 10 0
+XJTLU O xjtlu 0 0 0 0 0 0 1 li ul contain 10 0
 
-News O 0 0 li ul mobile-nav 9 0
+About O about 0 0 0 0 0 0 1 li ul contain 10 0
 
-Events O 0 0 li ul last 9 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul contain 10 0
 
-Xi'an O 0 1 div div logo 8 0
-Jiaotong-Liverpool O 0 0 div div logo 8 0
-University O 0 1 div div logo 8 0
-(XJTLU) O 0 0 div div logo 8 0
+News O news 0 0 0 0 0 0 1 li ul contain 10 0
 
-Find O 0 1 li ul first 10 0
-a O 0 1 li ul first 10 0
-programme O 0 0 li ul first 10 0
+Events O events 0 0 0 0 0 0 1 li ul last 10 0
 
-Study O 0 1 li ul contain 10 0
-with O 0 0 li ul contain 10 0
-us O 0 1 li ul contain 10 0
+Find O find 0 1 0 0 0 0 1 div div nav-section-heading 8 0
+a O a 0 1 0 0 0 0 0 div div nav-section-heading 8 0
+programme O programme 0 0 0 0 0 0 0 div div nav-section-heading 8 0
 
-Departments O 0 0 li ul active 10 0
+By O by 0 1 0 0 0 0 1 div div department 10 0
+department O department 0 0 0 0 0 0 0 div div department 10 0
+or O or 0 0 0 0 0 0 0 div div department 10 0
+school O school 0 0 0 0 0 0 0 div div department 10 0
 
-Research O 0 1 li ul contain 10 0
+Architecture O architecture 0 0 0 0 0 0 1 li ul department 12 0
 
-Life O 0 1 li ul contain 10 0
-at O 0 0 li ul contain 10 0
-XJTLU O 0 0 li ul contain 10 0
+Biological O biological 0 0 0 0 0 0 1 li ul department 12 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul department 12 0
 
-About O 0 0 li ul contain 10 0
+Chemistry O chemistry 0 0 0 0 0 0 1 li ul department 12 0
 
-Alumni O 0 0 li ul contain 10 0
+China O china 0 1 0 0 0 0 1 li ul department 12 0
+Studies O studies 0 0 0 0 0 0 1 li ul department 12 0
 
-News O 0 0 li ul contain 10 0
+Civil O civil 0 1 0 0 0 0 1 li ul department 12 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul department 12 0
 
-Events O 0 0 li ul last 10 0
+Computer O computer 0 0 0 0 0 0 1 li ul department 12 0
+Science O science 0 0 0 0 0 0 1 li ul department 12 0
+and O and 0 1 0 0 0 0 0 li ul department 12 0
+Software O software 0 1 0 0 0 0 1 li ul department 12 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul department 12 0
 
-Find O 0 1 div div nav-section-heading 8 0
-a O 0 1 div div nav-section-heading 8 0
-programme O 0 0 div div nav-section-heading 8 0
+Electrical O electrical 0 0 0 0 0 0 1 li ul department 12 0
+and O and 0 1 0 0 0 0 0 li ul department 12 0
+Electronic O electronic 0 0 0 0 0 0 1 li ul department 12 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul department 12 0
 
-By O 0 1 div div filters.department 10 0
-department O 0 0 div div filters.department 10 0
-or O 0 0 div div filters.department 10 0
-school O 0 0 div div filters.department 10 0
+English O english 0 1 0 0 0 0 1 li ul department 12 0
 
-Architecture O 0 0 li ul filters.department 12 0
+Environmental O environmental 0 0 0 0 0 0 1 li ul department 12 0
+Science O science 0 0 0 0 0 0 1 li ul department 12 0
 
-Biological O 0 0 li ul filters.department 12 0
-Sciences O 0 0 li ul filters.department 12 0
+Industrial O industrial 0 0 0 0 0 0 1 li ul department 12 0
+Design O design 0 0 0 0 0 0 1 li ul department 12 0
 
-Chemistry O 0 0 li ul filters.department 12 0
+International O international 0 0 0 0 0 0 1 li ul department 12 0
+Business O business 0 0 0 0 0 0 1 li ul department 12 0
+School O school 0 1 0 0 0 0 1 li ul department 12 0
+Suzhou O suzhou 0 1 0 0 0 0 1 li ul department 12 0
 
-China O 0 1 li ul filters.department 12 0
-Studies O 0 0 li ul filters.department 12 0
+International O international 0 0 0 0 0 0 1 li ul department 12 0
+Relations O relations 0 0 0 0 0 0 1 li ul department 12 0
 
-Civil O 0 1 li ul filters.department 12 0
-Engineering O 0 0 li ul filters.department 12 0
+Mathematical O mathematical 0 0 0 0 0 0 1 li ul department 12 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul department 12 0
 
-Computer O 0 0 li ul filters.department 12 0
-Science O 0 0 li ul filters.department 12 0
-and O 0 1 li ul filters.department 12 0
-Software O 0 1 li ul filters.department 12 0
-Engineering O 0 0 li ul filters.department 12 0
+Public O public 0 0 0 0 0 0 1 li ul department 12 0
+Health O health 0 1 0 0 0 0 1 li ul department 12 0
 
-Electrical O 0 0 li ul filters.department 12 0
-and O 0 1 li ul filters.department 12 0
-Electronic O 0 0 li ul filters.department 12 0
-Engineering O 0 0 li ul filters.department 12 0
+School O school 0 1 0 0 0 0 1 li ul department 12 0
+of O of 0 1 0 0 0 0 0 li ul department 12 0
+Film O film 0 0 0 0 0 0 1 li ul department 12 0
+and O and 0 1 0 0 0 0 0 li ul department 12 0
+TV O tv 0 1 0 0 0 0 1 li ul department 12 0
+Arts O arts 0 1 0 0 0 0 1 li ul department 12 0
 
-English O 0 1 li ul filters.department 12 0
+Urban O urban 0 1 0 0 0 0 1 li ul department 12 0
+Planning O planning 0 0 0 0 0 0 1 li ul department 12 0
+and O and 0 1 0 0 0 0 0 li ul department 12 0
+Design O design 0 0 0 0 0 0 1 li ul department 12 0
 
-Environmental O 0 0 li ul filters.department 12 0
-Science O 0 0 li ul filters.department 12 0
+By O by 0 1 0 0 0 0 1 div div level 10 0
+level O level 0 0 0 0 0 0 0 div div level 10 0
 
-Industrial O 0 0 li ul filters.department 12 0
-Design O 0 0 li ul filters.department 12 0
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul level 12 0
 
-International O 0 0 li ul filters.department 12 0
-Business O 0 0 li ul filters.department 12 0
-School O 0 1 li ul filters.department 12 0
-Suzhou O 0 1 li ul filters.department 12 0
+Masters O masters 0 1 0 0 1 0 1 li ul level 12 0
 
-International O 0 0 li ul filters.department 12 0
-Relations O 0 0 li ul filters.department 12 0
+PhD O phd 0 0 0 0 0 0 1 li ul level 12 0
 
-Mathematical O 0 0 li ul filters.department 12 0
-Sciences O 0 0 li ul filters.department 12 0
+Executive O executive 0 0 0 0 0 0 1 li ul level 12 0
+education O education 0 0 0 0 0 0 0 li ul level 12 0
+and O and 0 1 0 0 0 0 0 li ul level 12 0
+professional O professional 0 0 0 0 1 0 0 li ul level 12 0
+development O development 0 0 0 0 0 0 0 li ul level 12 0
 
-Public O 0 0 li ul filters.department 12 0
-Health O 0 1 li ul filters.department 12 0
+Short O short 0 1 0 0 0 0 1 li ul level 12 0
+, O , 0 0 0 0 0 0 0 li ul level 12 0
+summer O summer 0 0 0 0 0 0 0 li ul level 12 0
+and O and 0 1 0 0 0 0 0 li ul level 12 0
+language O language 0 0 0 0 0 0 0 li ul level 12 0
+courses O courses 0 0 0 0 0 0 0 li ul level 12 0
 
-School O 0 1 li ul filters.department 12 0
-of O 0 1 li ul filters.department 12 0
-Film O 0 0 li ul filters.department 12 0
-and O 0 1 li ul filters.department 12 0
-TV O 0 1 li ul filters.department 12 0
-Arts O 0 1 li ul filters.department 12 0
+Entry O entry 0 0 0 0 0 0 1 div div nav-section-heading 8 0
+requirements O requirements 0 0 0 0 0 0 0 div div nav-section-heading 8 0
 
-Urban O 0 1 li ul filters.department 12 0
-Planning O 0 0 li ul filters.department 12 0
-and O 0 1 li ul filters.department 12 0
-Design O 0 0 li ul filters.department 12 0
+History O history 0 0 0 0 0 0 1 div div nav-section-heading 8 0
 
-By O 0 1 div div filters.level 10 0
-level O 0 0 div div filters.level 10 0
+Study O study 0 1 0 0 0 0 1 div div nav-section-heading 8 0
+with O with 0 0 0 0 0 0 0 div div nav-section-heading 8 0
+us O us 0 1 0 0 0 0 0 div div nav-section-heading 8 0
 
-Undergraduate O 0 0 li ul filters.level 12 0
+Why O why 0 1 0 0 0 0 1 div div why-xjtlu 10 0
+XJTLU? O xjtlu? 0 0 0 0 0 0 1 div div why-xjtlu 10 0
 
-Masters O 0 1 li ul filters.level 12 0
+Why O why 0 1 0 0 0 0 1 li ul first 12 0
+study O study 0 0 0 0 0 0 0 li ul first 12 0
+at O at 0 0 0 0 0 0 0 li ul first 12 0
+XJTLU? O xjtlu? 0 0 0 0 0 0 1 li ul first 12 0
 
-PhD O 0 0 li ul filters.level 12 0
+Our O our 0 0 0 0 0 0 1 li ul why-xjtlu 12 0
+academic O academic 0 0 0 0 0 0 0 li ul why-xjtlu 12 0
+reputation O reputation 0 0 0 0 0 0 0 li ul why-xjtlu 12 0
 
-Executive O 0 0 li ul filters.level 12 0
-education O 0 0 li ul filters.level 12 0
-and O 0 1 li ul filters.level 12 0
-professional O 0 0 li ul filters.level 12 0
-development O 0 0 li ul filters.level 12 0
+Learning O learning 0 1 0 0 0 0 1 li ul why-xjtlu 12 0
+and O and 0 1 0 0 0 0 0 li ul why-xjtlu 12 0
+teaching O teaching 0 0 0 0 0 0 0 li ul why-xjtlu 12 0
 
-Short, O 0 0 li ul filters.level 12 0
-summer O 0 0 li ul filters.level 12 0
-and O 0 1 li ul filters.level 12 0
-language O 0 0 li ul filters.level 12 0
-courses O 0 0 li ul filters.level 12 0
+Graduate O graduate 1 1 0 0 0 0 1 li ul why-xjtlu 12 0
+destinations O destinations 0 0 0 0 0 0 0 li ul why-xjtlu 12 0
 
-Entry O 0 0 div div nav-section-heading 8 0
-requirements O 0 0 div div nav-section-heading 8 0
+Study O study 0 1 0 0 0 0 1 li ul why-xjtlu 12 0
+resources O resources 0 0 0 0 0 0 0 li ul why-xjtlu 12 0
 
-History O 0 0 div div nav-section-heading 8 0
+Library O library 0 0 0 0 0 0 1 li ul why-xjtlu 12 0
 
-Study O 0 1 div div nav-section-heading 8 0
-with O 0 0 div div nav-section-heading 8 0
-us O 0 1 div div nav-section-heading 8 0
+Support O support 0 0 0 0 0 0 1 li ul why-xjtlu 12 0
+and O and 0 1 0 0 0 0 0 li ul why-xjtlu 12 0
+advice O advice 0 0 0 0 0 0 0 li ul why-xjtlu 12 0
 
-Why O 0 1 div div study-with-us.why-xjtlu 10 0
-XJTLU? O 0 0 div div study-with-us.why-xjtlu 10 0
+International O international 0 0 0 0 0 0 1 li ul why-xjtlu 12 0
+mobility O mobility 0 0 0 0 0 0 0 li ul why-xjtlu 12 0
 
-Why O 0 1 li ul first 12 0
-study O 0 0 li ul first 12 0
-at O 0 0 li ul first 12 0
-XJTLU? O 0 0 li ul first 12 0
+Additional O additional 0 0 0 0 1 0 1 li ul why-xjtlu 12 0
+Learning O learning 0 1 0 0 0 0 1 li ul why-xjtlu 12 0
+Activities O activities 0 0 0 0 0 0 1 li ul why-xjtlu 12 0
 
-Our O 0 0 li ul study-with-us.why-xjtlu 12 0
-academic O 0 0 li ul study-with-us.why-xjtlu 12 0
-reputation O 0 0 li ul study-with-us.why-xjtlu 12 0
+Year O year 0 1 0 0 0 0 1 li ul why-xjtlu 12 0
+One O one 0 1 0 0 0 0 1 li ul why-xjtlu 12 0
 
-Learning O 0 1 li ul study-with-us.why-xjtlu 12 0
-and O 0 1 li ul study-with-us.why-xjtlu 12 0
-teaching O 0 0 li ul study-with-us.why-xjtlu 12 0
+Degree O degree 0 0 0 0 0 0 1 li ul last 12 0
+types O types 0 0 0 0 0 0 0 li ul last 12 0
 
-Graduate O 1 1 li ul study-with-us.why-xjtlu 12 0
-destinations O 0 0 li ul study-with-us.why-xjtlu 12 0
+Admissions O admissions 0 0 0 0 0 0 1 div div admissions 10 0
 
-Study O 0 1 li ul study-with-us.why-xjtlu 12 0
-resources O 0 0 li ul study-with-us.why-xjtlu 12 0
+How O how 0 1 0 0 0 0 1 li ul first 12 0
+to O to 0 0 0 0 0 0 0 li ul first 12 0
+apply O apply 0 0 0 0 0 0 0 li ul first 12 0
 
-Library O 0 0 li ul study-with-us.why-xjtlu 12 0
+Entry O entry 0 0 0 0 0 0 1 li ul admissions 12 0
+requirements O requirements 0 0 0 0 0 0 0 li ul admissions 12 0
 
-Support O 0 0 li ul study-with-us.why-xjtlu 12 0
-and O 0 1 li ul study-with-us.why-xjtlu 12 0
-advice O 0 0 li ul study-with-us.why-xjtlu 12 0
+Fees O fees 0 0 0 0 0 0 1 li ul admissions 12 0
 
-International O 0 0 li ul study-with-us.why-xjtlu 12 0
-mobility O 0 0 li ul study-with-us.why-xjtlu 12 0
+Scholarships O scholarships 0 0 0 0 0 0 1 li ul admissions 12 0
 
-Additional O 0 0 li ul study-with-us.why-xjtlu 12 0
-Learning O 0 1 li ul study-with-us.why-xjtlu 12 0
-Activities O 0 0 li ul study-with-us.why-xjtlu 12 0
+Visas O visas 0 0 0 0 0 0 1 li ul admissions 12 0
+and O and 0 1 0 0 0 0 0 li ul admissions 12 0
+arrival O arrival 0 0 0 0 0 0 0 li ul admissions 12 0
 
-Year O 0 1 li ul study-with-us.why-xjtlu 12 0
-One O 0 1 li ul study-with-us.why-xjtlu 12 0
+Meet O meet 0 0 0 0 0 0 1 li ul last 12 0
+us O us 0 1 0 0 0 0 0 li ul last 12 0
 
-Degree O 0 0 li ul last 12 0
-types O 0 0 li ul last 12 0
+Departments O departments 0 0 0 0 0 0 1 div div nav-section-heading 8 0
+, O , 0 0 0 0 0 0 0 div div nav-section-heading 8 0
+schools O schools 0 0 0 0 0 0 0 div div nav-section-heading 8 0
+and O and 0 1 0 0 0 0 0 div div nav-section-heading 8 0
+centres O centres 0 0 0 0 0 0 0 div div nav-section-heading 8 0
 
-Admissions O 0 0 div div study-with-us.admissions 10 0
+Departments O departments 0 0 0 0 0 0 1 div div department 10 0
+and O and 0 1 0 0 0 0 0 div div department 10 0
+schools O schools 0 0 0 0 0 0 0 div div department 10 0
 
-How O 0 1 li ul first 12 0
-to O 0 0 li ul first 12 0
-apply O 0 0 li ul first 12 0
+Architecture O architecture 0 0 0 0 0 0 1 li ul first 12 0
 
-Entry O 0 0 li ul study-with-us.admissions 12 0
-requirements O 0 0 li ul study-with-us.admissions 12 0
+Biological O biological 0 0 0 0 0 0 1 li ul department 12 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul department 12 0
 
-Fees O 0 0 li ul study-with-us.admissions 12 0
+Chemistry O chemistry 0 0 0 0 0 0 1 li ul department 12 0
 
-Scholarships O 0 0 li ul study-with-us.admissions 12 0
+China O china 0 1 0 0 0 0 1 li ul department 12 0
+Studies O studies 0 0 0 0 0 0 1 li ul department 12 0
 
-Visas O 0 0 li ul study-with-us.admissions 12 0
-and O 0 1 li ul study-with-us.admissions 12 0
-arrival O 0 0 li ul study-with-us.admissions 12 0
+Civil O civil 0 1 0 0 0 0 1 li ul department 12 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul department 12 0
 
-Meet O 0 0 li ul last 12 0
-us O 0 1 li ul last 12 0
+Computer O computer 0 0 0 0 0 0 1 li ul active 12 0
+Science O science 0 0 0 0 0 0 1 li ul active 12 0
+and O and 0 1 0 0 0 0 0 li ul active 12 0
+Software O software 0 1 0 0 0 0 1 li ul active 12 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul active 12 0
 
-Departments, O 0 0 div div nav-section-heading 8 0
-schools O 0 0 div div nav-section-heading 8 0
-and O 0 1 div div nav-section-heading 8 0
-centres O 0 0 div div nav-section-heading 8 0
+Electrical O electrical 0 0 0 0 0 0 1 li ul department 12 0
+and O and 0 1 0 0 0 0 0 li ul department 12 0
+Electronic O electronic 0 0 0 0 0 0 1 li ul department 12 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul department 12 0
 
-Departments O 0 0 div div departments.department 10 0
-and O 0 1 div div departments.department 10 0
-schools O 0 0 div div departments.department 10 0
+English O english 0 1 0 0 0 0 1 li ul department 12 0
 
-Architecture O 0 0 li ul first 12 0
+Environmental O environmental 0 0 0 0 0 0 1 li ul department 12 0
+Science O science 0 0 0 0 0 0 1 li ul department 12 0
 
-Biological O 0 0 li ul departments.department 12 0
-Sciences O 0 0 li ul departments.department 12 0
+Industrial O industrial 0 0 0 0 0 0 1 li ul department 12 0
+Design O design 0 0 0 0 0 0 1 li ul department 12 0
 
-Chemistry O 0 0 li ul departments.department 12 0
+International O international 0 0 0 0 0 0 1 li ul department 12 0
+Business O business 0 0 0 0 0 0 1 li ul department 12 0
+School O school 0 1 0 0 0 0 1 li ul department 12 0
+Suzhou O suzhou 0 1 0 0 0 0 1 li ul department 12 0
 
-China O 0 1 li ul departments.department 12 0
-Studies O 0 0 li ul departments.department 12 0
+International O international 0 0 0 0 0 0 1 li ul department 12 0
+Relations O relations 0 0 0 0 0 0 1 li ul department 12 0
 
-Civil O 0 1 li ul departments.department 12 0
-Engineering O 0 0 li ul departments.department 12 0
+Mathematical O mathematical 0 0 0 0 0 0 1 li ul department 12 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul department 12 0
 
-Computer O 0 0 li ul active 12 0
-Science O 0 0 li ul active 12 0
-and O 0 1 li ul active 12 0
-Software O 0 1 li ul active 12 0
-Engineering O 0 0 li ul active 12 0
+Public O public 0 0 0 0 0 0 1 li ul department 12 0
+Health O health 0 1 0 0 0 0 1 li ul department 12 0
 
-Electrical O 0 0 li ul departments.department 12 0
-and O 0 1 li ul departments.department 12 0
-Electronic O 0 0 li ul departments.department 12 0
-Engineering O 0 0 li ul departments.department 12 0
+School O school 0 1 0 0 0 0 1 li ul department 12 0
+of O of 0 1 0 0 0 0 0 li ul department 12 0
+Film O film 0 0 0 0 0 0 1 li ul department 12 0
+and O and 0 1 0 0 0 0 0 li ul department 12 0
+TV O tv 0 1 0 0 0 0 1 li ul department 12 0
+Arts O arts 0 1 0 0 0 0 1 li ul department 12 0
 
-English O 0 1 li ul departments.department 12 0
+Urban O urban 0 1 0 0 0 0 1 li ul last 12 0
+Planning O planning 0 0 0 0 0 0 1 li ul last 12 0
+and O and 0 1 0 0 0 0 0 li ul last 12 0
+Design O design 0 0 0 0 0 0 1 li ul last 12 0
 
-Environmental O 0 0 li ul departments.department 12 0
-Science O 0 0 li ul departments.department 12 0
+Centres O centres 0 0 0 0 0 0 1 div div centres 10 0
 
-Industrial O 0 0 li ul departments.department 12 0
-Design O 0 0 li ul departments.department 12 0
+Academic O academic 0 0 0 0 0 0 1 li ul first 12 0
+Enhancement O enhancement 0 0 0 0 0 0 1 li ul first 12 0
+Centre O centre 0 1 0 0 0 0 1 li ul first 12 0
 
-International O 0 0 li ul departments.department 12 0
-Business O 0 0 li ul departments.department 12 0
-School O 0 1 li ul departments.department 12 0
-Suzhou O 0 1 li ul departments.department 12 0
+Chinese O chinese 0 0 0 0 0 0 1 li ul centres 12 0
+Cultural O cultural 0 0 0 0 0 0 1 li ul centres 12 0
+Teaching O teaching 0 0 0 0 0 0 1 li ul centres 12 0
+Centre O centre 0 1 0 0 0 0 1 li ul centres 12 0
 
-International O 0 0 li ul departments.department 12 0
-Relations O 0 0 li ul departments.department 12 0
+Language O language 0 0 0 0 0 0 1 li ul centres 12 0
+Centre O centre 0 1 0 0 0 0 1 li ul centres 12 0
 
-Mathematical O 0 0 li ul departments.department 12 0
-Sciences O 0 0 li ul departments.department 12 0
+Physical O physical 0 0 0 0 0 0 1 li ul last 12 0
+Education O education 0 0 0 0 0 0 1 li ul last 12 0
+Centre O centre 0 1 0 0 0 0 1 li ul last 12 0
 
-Public O 0 0 li ul departments.department 12 0
-Health O 0 1 li ul departments.department 12 0
+Meet O meet 0 0 0 0 0 0 1 div div nav-section-heading 8 0
+us O us 0 1 0 0 0 0 0 div div nav-section-heading 8 0
 
-School O 0 1 li ul departments.department 12 0
-of O 0 1 li ul departments.department 12 0
-Film O 0 0 li ul departments.department 12 0
-and O 0 1 li ul departments.department 12 0
-TV O 0 1 li ul departments.department 12 0
-Arts O 0 1 li ul departments.department 12 0
+Research O research 0 1 0 0 0 0 1 div div nav-section-heading 8 0
 
-Urban O 0 1 li ul last 12 0
-Planning O 0 0 li ul last 12 0
-and O 0 1 li ul last 12 0
-Design O 0 0 li ul last 12 0
+Research O research 0 1 0 0 0 0 1 li ul first 11 0
+priorities O priorities 0 0 0 0 0 0 0 li ul first 11 0
+and O and 0 1 0 0 0 0 0 li ul first 11 0
+strategy O strategy 0 0 0 0 0 0 0 li ul first 11 0
 
-Centres O 0 0 div div departments.centres 10 0
+Research O research 0 1 0 0 0 0 1 li ul nav-section-content 11 0
+ethics O ethics 0 0 0 0 0 0 0 li ul nav-section-content 11 0
 
-Academic O 0 0 li ul first 12 0
-Enhancement O 0 0 li ul first 12 0
-Centre O 0 1 li ul first 12 0
+Business O business 0 0 0 0 0 0 1 li ul nav-section-content 11 0
+and O and 0 1 0 0 0 0 0 li ul nav-section-content 11 0
+industry O industry 0 0 0 0 0 0 0 li ul nav-section-content 11 0
 
-Chinese O 0 0 li ul departments.centres 12 0
-Cultural O 0 0 li ul departments.centres 12 0
-Teaching O 0 0 li ul departments.centres 12 0
-Centre O 0 1 li ul departments.centres 12 0
+Innovation O innovation 0 0 0 0 0 0 1 li ul nav-section-content 11 0
+and O and 0 1 0 0 0 0 0 li ul nav-section-content 11 0
+impact O impact 0 0 0 0 0 0 0 li ul nav-section-content 11 0
 
-Language O 0 0 li ul departments.centres 12 0
-Centre O 0 1 li ul departments.centres 12 0
+Research O research 0 1 0 0 0 0 1 li ul nav-section-content 11 0
+centres O centres 0 0 0 0 0 0 0 li ul nav-section-content 11 0
+, O , 0 0 0 0 0 0 0 li ul nav-section-content 11 0
+institutes O institutes 0 0 0 0 0 0 0 li ul nav-section-content 11 0
+and O and 0 1 0 0 0 0 0 li ul nav-section-content 11 0
+areas O areas 0 0 0 0 0 0 0 li ul nav-section-content 11 0
 
-Physical O 0 0 li ul last 12 0
-Education O 0 0 li ul last 12 0
-Centre O 0 1 li ul last 12 0
+Summer O summer 0 1 0 0 0 0 1 li ul last 11 0
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul last 11 0
+Research O research 0 1 0 0 0 0 1 li ul last 11 0
+Fellowships O fellowships 0 0 0 0 0 0 1 li ul last 11 0
 
-Meet O 0 0 div div nav-section-heading 8 0
-us O 0 1 div div nav-section-heading 8 0
+Life O life 0 1 0 0 0 0 1 div div nav-section-heading 8 0
+at O at 0 0 0 0 0 0 0 div div nav-section-heading 8 0
+XJTLU O xjtlu 0 0 0 0 0 0 1 div div nav-section-heading 8 0
 
-Research O 0 1 div div nav-section-heading 8 0
+Suzhou O suzhou 0 1 0 0 0 0 1 li ul first 11 0
+life O life 0 0 0 0 0 0 0 li ul first 11 0
 
-Research O 0 1 li ul first 11 0
-priorities O 0 0 li ul first 11 0
-and O 0 1 li ul first 11 0
-strategy O 0 0 li ul first 11 0
+Cost O cost 0 1 0 0 0 0 1 li ul nav-section-content 11 0
+of O of 0 1 0 0 0 0 0 li ul nav-section-content 11 0
+living O living 0 0 0 0 0 0 0 li ul nav-section-content 11 0
 
-Research O 0 1 li ul nav-section-content 11 0
-ethics O 0 0 li ul nav-section-content 11 0
+Our O our 0 0 0 0 0 0 1 li ul nav-section-content 11 0
+campus O campus 0 0 0 0 0 0 0 li ul nav-section-content 11 0
 
-Business O 0 0 li ul nav-section-content 11 0
-and O 0 1 li ul nav-section-content 11 0
-industry O 0 0 li ul nav-section-content 11 0
+Clubs O clubs 0 0 0 0 0 0 1 li ul nav-section-content 11 0
+and O and 0 1 0 0 0 0 0 li ul nav-section-content 11 0
+organisations O organisations 0 0 0 0 0 0 0 li ul nav-section-content 11 0
 
-Innovation O 0 0 li ul nav-section-content 11 0
-and O 0 1 li ul nav-section-content 11 0
-impact O 0 0 li ul nav-section-content 11 0
+Sports O sports 0 0 0 0 0 0 1 li ul nav-section-content 11 0
+at O at 0 0 0 0 0 0 0 li ul nav-section-content 11 0
+XJTLU O xjtlu 0 0 0 0 0 0 1 li ul nav-section-content 11 0
 
-Research O 0 1 li ul nav-section-content 11 0
-centres, O 0 0 li ul nav-section-content 11 0
-institutes O 0 0 li ul nav-section-content 11 0
-and O 0 1 li ul nav-section-content 11 0
-areas O 0 0 li ul nav-section-content 11 0
+Shopping O shopping 0 0 0 0 0 0 1 li ul nav-section-content 11 0
+and O and 0 1 0 0 0 0 0 li ul nav-section-content 11 0
+recreation O recreation 0 0 0 0 0 0 0 li ul nav-section-content 11 0
 
-Summer O 0 1 li ul last 11 0
-Undergraduate O 0 0 li ul last 11 0
-Research O 0 1 li ul last 11 0
-Fellowships O 0 0 li ul last 11 0
+Museums O museums 0 0 0 0 1 0 1 li ul nav-section-content 11 0
+and O and 0 1 0 0 0 0 0 li ul nav-section-content 11 0
+culture O culture 0 0 0 0 0 0 0 li ul nav-section-content 11 0
 
-Life O 0 1 div div nav-section-heading 8 0
-at O 0 0 div div nav-section-heading 8 0
-XJTLU O 0 0 div div nav-section-heading 8 0
+Scenery O scenery 0 0 0 0 0 0 1 li ul nav-section-content 11 0
+and O and 0 1 0 0 0 0 0 li ul nav-section-content 11 0
+outdoors O outdoors 0 0 0 0 0 0 0 li ul nav-section-content 11 0
 
-Suzhou O 0 1 li ul first 11 0
-life O 0 0 li ul first 11 0
+Dining O dining 0 0 0 0 0 0 1 li ul nav-section-content 11 0
+and O and 0 1 0 0 0 0 0 li ul nav-section-content 11 0
+nightlife O nightlife 0 0 0 0 0 0 0 li ul nav-section-content 11 0
 
-Cost O 0 1 li ul nav-section-content 11 0
-of O 0 1 li ul nav-section-content 11 0
-living O 0 0 li ul nav-section-content 11 0
+Accommodation O accommodation 0 0 0 0 0 0 1 li ul nav-section-content 11 0
 
-Our O 0 0 li ul nav-section-content 11 0
-campus O 0 0 li ul nav-section-content 11 0
+Getting O getting 0 0 0 0 0 0 1 li ul last 11 0
+around O around 0 0 0 0 0 0 0 li ul last 11 0
 
-Clubs O 0 0 li ul nav-section-content 11 0
-and O 0 1 li ul nav-section-content 11 0
-organisations O 0 0 li ul nav-section-content 11 0
+About O about 0 0 0 0 0 0 1 div div nav-section-heading 8 0
 
-Sports O 0 0 li ul nav-section-content 11 0
-at O 0 0 li ul nav-section-content 11 0
-XJTLU O 0 0 li ul nav-section-content 11 0
+Vision O vision 0 1 0 0 0 0 1 li ul first 11 0
+and O and 0 1 0 0 0 0 0 li ul first 11 0
+mission O mission 0 0 0 0 1 0 0 li ul first 11 0
 
-Shopping O 0 0 li ul nav-section-content 11 0
-and O 0 1 li ul nav-section-content 11 0
-recreation O 0 0 li ul nav-section-content 11 0
+History O history 0 0 0 0 0 0 1 li ul nav-section-content 11 0
 
-Museums O 0 0 li ul nav-section-content 11 0
-and O 0 1 li ul nav-section-content 11 0
-culture O 0 0 li ul nav-section-content 11 0
+Partnerships O partnerships 0 0 0 0 0 0 1 li ul nav-section-content 11 0
 
-Scenery O 0 0 li ul nav-section-content 11 0
-and O 0 1 li ul nav-section-content 11 0
-outdoors O 0 0 li ul nav-section-content 11 0
+Visit O visit 0 1 0 0 0 0 1 li ul nav-section-content 11 0
+us O us 0 1 0 0 0 0 0 li ul nav-section-content 11 0
 
-Dining O 0 0 li ul nav-section-content 11 0
-and O 0 1 li ul nav-section-content 11 0
-nightlife O 0 0 li ul nav-section-content 11 0
+Leadership O leadership 0 0 0 0 0 0 1 li ul nav-section-content 11 0
 
-Accommodation O 0 0 li ul nav-section-content 11 0
+Deans O deans 0 1 0 0 0 0 1 li ul nav-section-content 11 0
 
-Getting O 0 0 li ul last 11 0
-around O 0 0 li ul last 11 0
+Professional O professional 0 0 0 0 1 0 1 li ul nav-section-content 11 0
+services O services 0 0 0 0 0 0 0 li ul nav-section-content 11 0
 
-About O 0 0 div div nav-section-heading 8 0
+Higher O higher 0 0 0 0 0 0 1 li ul nav-section-content 11 0
+education O education 0 0 0 0 0 0 0 li ul nav-section-content 11 0
+in O in 0 1 0 0 0 0 0 li ul nav-section-content 11 0
+China O china 0 1 0 0 0 0 1 li ul nav-section-content 11 0
 
-Vision O 0 1 li ul first 11 0
-and O 0 1 li ul first 11 0
-mission O 0 0 li ul first 11 0
+Test O test 0 1 0 0 0 0 1 li ul nav-section-content 11 0
+centres O centres 0 0 0 0 0 0 0 li ul nav-section-content 11 0
 
-History O 0 0 li ul nav-section-content 11 0
+Jobs O jobs 0 1 0 0 0 0 1 li ul nav-section-content 11 0
 
-Partnerships O 0 0 li ul nav-section-content 11 0
+Policies O policies 0 0 0 0 0 0 1 li ul nav-section-content 11 0
+and O and 0 1 0 0 0 0 0 li ul nav-section-content 11 0
+regulations O regulations 0 0 0 0 0 0 0 li ul nav-section-content 11 0
 
-Visit O 0 1 li ul nav-section-content 11 0
-us O 0 1 li ul nav-section-content 11 0
+Facilities O facilities 0 0 0 0 0 0 1 li ul last 11 0
 
-Leadership O 0 0 li ul nav-section-content 11 0
+Alumni O alumni 0 0 0 0 0 0 1 div div nav-section-heading 8 0
 
-Deans O 0 1 li ul nav-section-content 11 0
+Services O services 0 0 0 0 0 0 1 li ul first 11 0
+and O and 0 1 0 0 0 0 0 li ul first 11 0
+benefits O benefits 0 0 0 0 0 0 0 li ul first 11 0
 
-Professional O 0 0 li ul nav-section-content 11 0
-services O 0 0 li ul nav-section-content 11 0
+Global O global 0 1 0 0 0 0 1 li ul nav-section-content 11 0
+community O community 0 0 0 0 0 0 0 li ul nav-section-content 11 0
 
-Higher O 0 0 li ul nav-section-content 11 0
-education O 0 0 li ul nav-section-content 11 0
-in O 0 1 li ul nav-section-content 11 0
-China O 0 1 li ul nav-section-content 11 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul nav-section-content 11 0
+stories O stories 0 0 0 0 0 0 0 li ul nav-section-content 11 0
 
-Test O 0 1 li ul nav-section-content 11 0
-centres O 0 0 li ul nav-section-content 11 0
+Donate O donate 0 1 0 0 0 0 1 li ul last 11 0
 
-Jobs O 0 1 li ul nav-section-content 11 0
+International O international 0 0 0 0 0 0 1 div div nav-section-heading 8 0
+mobility O mobility 0 0 0 0 0 0 0 div div nav-section-heading 8 0
 
-Policies O 0 0 li ul nav-section-content 11 0
-and O 0 1 li ul nav-section-content 11 0
-regulations O 0 0 li ul nav-section-content 11 0
+Jobs O jobs 0 1 0 0 0 0 1 div div nav-section-heading 8 0
 
-Facilities O 0 0 li ul last 11 0
+Facilities O facilities 0 0 0 0 0 0 1 div div nav-section-heading 8 0
 
-Alumni O 0 0 div div nav-section-heading 8 0
+Staff O staff 0 1 0 0 0 0 1 div header page-intro 6 0
 
-Services O 0 0 li ul first 11 0
-and O 0 1 li ul first 11 0
-benefits O 0 0 li ul first 11 0
+Computer O computer 0 0 0 0 0 0 1 div header back-to 6 1
+Science O science 0 0 0 0 0 0 1 div header back-to 6 1
+and O and 0 1 0 0 0 0 0 div header back-to 6 1
+Software O software 0 1 0 0 0 0 1 div header back-to 6 1
+Engineering O engineering 0 0 0 0 0 0 1 div header back-to 6 1
 
-Global O 0 1 li ul nav-section-content 11 0
-community O 0 0 li ul nav-section-content 11 0
+Andrew B-PER andrew 1 1 0 0 1 0 1 a li name 9 2
+Abel I-PER abel 1 1 0 0 0 0 1 a li name 9 2
 
-Alumni O 0 0 li ul nav-section-content 11 0
-stories O 0 0 li ul nav-section-content 11 0
+Muhammad B-PER muhammad 1 1 0 0 0 0 1 a li name 9 2
+Alam I-PER alam 1 1 0 0 0 0 1 a li name 9 2
 
-Donate O 0 1 li ul last 11 0
+Ting B-PER ting 1 1 0 0 0 0 1 a li name 9 2
+Cao I-PER cao 1 1 0 0 0 0 1 a li name 9 2
 
-International O 0 0 div div nav-section-heading 8 0
-mobility O 0 0 div div nav-section-heading 8 0
+Paul B-PER paul 1 1 0 0 0 0 1 a li name 9 2
+Craig I-PER craig 1 1 0 0 0 0 1 a li name 9 2
 
-Jobs O 0 1 div div nav-section-heading 8 0
+Charles B-PER charles 1 1 0 0 0 0 1 a li name 9 2
+Fleming I-PER fleming 1 1 0 0 0 0 1 a li name 9 2
 
-Facilities O 0 0 div div nav-section-heading 8 0
+Steven B-PER steven 1 1 0 0 0 0 1 a li name 9 2
+Guan I-PER guan 1 1 0 0 0 0 1 a li name 9 2
 
-Staff O 0 1 div header contain.page-intro 6 0
+Xin B-PER xin 1 1 0 0 0 0 1 a li name 9 2
+Huang I-PER huang 1 1 0 0 0 0 1 a li name 9 2
 
-Computer O 0 0 div header back-to 6 1
-Science O 0 0 div header back-to 6 1
-and O 0 1 div header back-to 6 1
-Software O 0 1 div header back-to 6 1
-Engineering O 0 0 div header back-to 6 1
+Joseph B-PER joseph 1 1 0 0 0 0 1 a li name 9 2
+Lewis I-PER lewis 1 1 0 0 0 0 1 a li name 9 2
 
-Andrew B-NAME 1 1 a li name 9 2
-Abel I-NAME 1 1 a li name 9 2
+Gangmin B-PER gangmin 1 1 0 0 0 0 1 a li name 9 2
+Li I-PER li 1 1 0 0 0 0 1 a li name 9 2
 
-Muhammad B-NAME 1 1 a li name 9 2
-Alam I-NAME 1 1 a li name 9 2
+Hai B-PER hai 1 1 0 0 0 0 1 a li name 9 2
+Ning I-PER ning 1 1 0 0 0 0 1 a li name 9 2
+Liang I-PER liang 1 1 0 0 0 0 1 a li name 9 2
 
-Ting B-NAME 1 1 a li name 9 2
-Cao I-NAME 1 1 a li name 9 2
+Dawei B-PER dawei 1 1 0 0 0 0 1 a li name 9 2
+Liu I-PER liu 1 1 0 0 0 0 1 a li name 9 2
 
-Paul B-NAME 1 1 a li name 9 2
-Craig I-NAME 1 1 a li name 9 2
+Wenjin B-PER wenjin 1 1 0 0 0 0 1 a li name 9 2
+Lv I-PER lv 1 1 0 0 0 0 1 a li name 9 2
 
-Charles B-NAME 1 1 a li name 9 2
-Fleming I-NAME 1 1 a li name 9 2
+Jieming B-PER jieming 1 1 0 0 0 0 1 a li name 9 2
+Ma I-PER ma 1 1 0 0 0 0 1 a li name 9 2
 
-Steven B-NAME 1 1 a li name 9 2
-Guan I-NAME 1 1 a li name 9 2
+Ka B-PER ka 1 1 0 0 0 0 1 a li name 9 2
+Lok I-PER lok 1 1 0 0 0 0 1 a li name 9 2
+Man I-PER man 1 1 0 0 0 0 1 a li name 9 2
 
-Xin B-NAME 1 1 a li name 9 2
-Huang I-NAME 1 1 a li name 9 2
+Konstantinos B-PER konstantinos 1 1 0 0 0 0 1 a li name 9 2
+Papangelis I-PER papangelis 1 1 0 0 0 0 1 a li name 9 2
 
-Joseph B-NAME 1 1 a li name 9 2
-Lewis I-NAME 1 1 a li name 9 2
+Paul B-PER paul 0 1 0 0 0 0 1 a li name 9 2
+Ross I-PER ross 0 1 0 0 0 0 1 a li name 9 2
 
-Gangmin B-NAME 1 1 a li name 9 2
-Li I-NAME 1 1 a li name 9 2
+Kok B-PER kok 0 1 0 0 0 0 1 a li name 9 2
+Hoe I-PER hoe 0 1 0 0 0 0 1 a li name 9 2
+WONG I-PER wong 0 0 0 0 0 0 1 a li name 9 2
 
-Hai B-NAME 1 1 a li name 9 2
-Ning I-NAME 1 1 a li name 9 2
-Liang I-NAME 1 1 a li name 9 2
+Kaiyu B-PER kaiyu 1 1 0 0 0 0 1 a li name 9 2
+Wan I-PER wan 1 1 0 0 0 0 1 a li name 9 2
 
-Dawei B-NAME 1 1 a li name 9 2
-Liu I-NAME 1 1 a li name 9 2
+Wei B-PER wei 1 1 0 0 0 0 1 a li name 9 2
+Wang I-PER wang 1 1 0 0 0 0 1 a li name 9 2
 
-Wenjin B-NAME 1 1 a li name 9 2
-Lv I-NAME 1 1 a li name 9 2
+Yong B-PER yong 1 1 0 0 0 0 1 a li name 9 2
+Yue I-PER yue 1 1 0 0 0 0 1 a li name 9 2
 
-Jieming B-NAME 1 1 a li name 9 2
-Ma I-NAME 1 1 a li name 9 2
+Bailing B-PER bailing 1 1 0 0 0 0 1 a li name 9 2
+Zhang I-PER zhang 1 1 0 0 0 0 1 a li name 9 2
 
-Ka B-NAME 1 1 a li name 9 2
-Lok I-NAME 1 1 a li name 9 2
-Man I-NAME 1 1 a li name 9 2
+Xi O xi 0 1 0 0 0 0 1 div footer logo 6 0
+' O ' 0 0 0 0 0 0 0 div footer logo 6 0
+an O an 0 1 0 0 0 0 0 div footer logo 6 0
+Jiaotong O jiaotong 0 0 0 0 0 0 1 div footer logo 6 0
+- O - 0 0 0 0 0 0 0 div footer logo 6 0
+Liverpool O liverpool 0 1 0 0 0 0 1 div footer logo 6 0
+University O university 0 1 0 0 0 0 1 div footer logo 6 0
+( O ( 0 0 0 0 0 0 0 div footer logo 6 0
+XJTLU O xjtlu 0 0 0 0 0 0 1 div footer logo 6 0
+) O ) 0 0 0 0 0 0 0 div footer logo 6 0
 
-Konstantinos B-NAME 1 1 a li name 9 2
-Papangelis I-NAME 1 1 a li name 9 2
+Follow O follow 0 0 0 0 0 0 1 li ul social-twitter 8 0
+us O us 0 1 0 0 0 0 0 li ul social-twitter 8 0
+on O on 0 0 0 0 0 0 0 li ul social-twitter 8 0
+Twitter O twitter 0 0 0 0 0 0 1 li ul social-twitter 8 0
+( O ( 0 0 0 0 0 0 0 li ul social-twitter 8 0
+This O this 0 1 0 0 0 0 1 li ul social-twitter 8 0
+link O link 0 0 0 0 0 0 0 li ul social-twitter 8 0
+opens O opens 0 0 0 0 0 0 0 li ul social-twitter 8 0
+in O in 0 1 0 0 0 0 0 li ul social-twitter 8 0
+a O a 0 1 0 0 0 0 0 li ul social-twitter 8 0
+new O new 0 0 0 0 0 0 0 li ul social-twitter 8 0
+window O window 0 0 0 0 0 0 0 li ul social-twitter 8 0
+) O ) 0 0 0 0 0 0 0 li ul social-twitter 8 0
 
-Paul B-NAME 0 1 a li name 9 2
-Ross I-NAME 0 1 a li name 9 2
+Follow O follow 0 0 0 0 0 0 1 li ul social-instagram 8 0
+us O us 0 1 0 0 0 0 0 li ul social-instagram 8 0
+on O on 0 0 0 0 0 0 0 li ul social-instagram 8 0
+Instagram O instagram 0 0 0 0 0 0 1 li ul social-instagram 8 0
+( O ( 0 0 0 0 0 0 0 li ul social-instagram 8 0
+This O this 0 1 0 0 0 0 1 li ul social-instagram 8 0
+link O link 0 0 0 0 0 0 0 li ul social-instagram 8 0
+opens O opens 0 0 0 0 0 0 0 li ul social-instagram 8 0
+in O in 0 1 0 0 0 0 0 li ul social-instagram 8 0
+a O a 0 1 0 0 0 0 0 li ul social-instagram 8 0
+new O new 0 0 0 0 0 0 0 li ul social-instagram 8 0
+window O window 0 0 0 0 0 0 0 li ul social-instagram 8 0
+) O ) 0 0 0 0 0 0 0 li ul social-instagram 8 0
 
-Kok B-NAME 0 1 a li name 9 2
-Hoe I-NAME 0 1 a li name 9 2
-WONG I-NAME 0 0 a li name 9 2
+Like O like 0 1 0 0 0 0 1 li ul social-facebook 8 0
+us O us 0 1 0 0 0 0 0 li ul social-facebook 8 0
+on O on 0 0 0 0 0 0 0 li ul social-facebook 8 0
+Facebook O facebook 0 0 0 0 0 0 1 li ul social-facebook 8 0
+( O ( 0 0 0 0 0 0 0 li ul social-facebook 8 0
+This O this 0 1 0 0 0 0 1 li ul social-facebook 8 0
+link O link 0 0 0 0 0 0 0 li ul social-facebook 8 0
+opens O opens 0 0 0 0 0 0 0 li ul social-facebook 8 0
+in O in 0 1 0 0 0 0 0 li ul social-facebook 8 0
+a O a 0 1 0 0 0 0 0 li ul social-facebook 8 0
+new O new 0 0 0 0 0 0 0 li ul social-facebook 8 0
+window O window 0 0 0 0 0 0 0 li ul social-facebook 8 0
+) O ) 0 0 0 0 0 0 0 li ul social-facebook 8 0
 
-Kaiyu B-NAME 1 1 a li name 9 2
-Wan I-NAME 1 1 a li name 9 2
+Follow O follow 0 0 0 0 0 0 1 li ul social-linkedin 8 0
+us O us 0 1 0 0 0 0 0 li ul social-linkedin 8 0
+on O on 0 0 0 0 0 0 0 li ul social-linkedin 8 0
+LinkedIn O linkedin 0 0 0 0 0 0 1 li ul social-linkedin 8 0
+( O ( 0 0 0 0 0 0 0 li ul social-linkedin 8 0
+This O this 0 1 0 0 0 0 1 li ul social-linkedin 8 0
+link O link 0 0 0 0 0 0 0 li ul social-linkedin 8 0
+opens O opens 0 0 0 0 0 0 0 li ul social-linkedin 8 0
+in O in 0 1 0 0 0 0 0 li ul social-linkedin 8 0
+a O a 0 1 0 0 0 0 0 li ul social-linkedin 8 0
+new O new 0 0 0 0 0 0 0 li ul social-linkedin 8 0
+window O window 0 0 0 0 0 0 0 li ul social-linkedin 8 0
+) O ) 0 0 0 0 0 0 0 li ul social-linkedin 8 0
 
-Wei B-NAME 1 1 a li name 9 2
-Wang I-NAME 1 1 a li name 9 2
+Follow O follow 0 0 0 0 0 0 1 li ul social-weibo 8 0
+us O us 0 1 0 0 0 0 0 li ul social-weibo 8 0
+on O on 0 0 0 0 0 0 0 li ul social-weibo 8 0
+Weibo O weibo 0 1 0 0 0 0 1 li ul social-weibo 8 0
+( O ( 0 0 0 0 0 0 0 li ul social-weibo 8 0
+This O this 0 1 0 0 0 0 1 li ul social-weibo 8 0
+link O link 0 0 0 0 0 0 0 li ul social-weibo 8 0
+opens O opens 0 0 0 0 0 0 0 li ul social-weibo 8 0
+in O in 0 1 0 0 0 0 0 li ul social-weibo 8 0
+a O a 0 1 0 0 0 0 0 li ul social-weibo 8 0
+new O new 0 0 0 0 0 0 0 li ul social-weibo 8 0
+window O window 0 0 0 0 0 0 0 li ul social-weibo 8 0
+) O ) 0 0 0 0 0 0 0 li ul social-weibo 8 0
 
-Yong B-NAME 1 1 a li name 9 2
-Yue I-NAME 1 1 a li name 9 2
+Login O login 0 0 0 0 0 0 1 li ul nav-additional 9 0
+( O ( 0 0 0 0 0 0 0 a li visuallyhidden 10 0
+This O this 0 1 0 0 0 0 1 a li visuallyhidden 10 0
+link O link 0 0 0 0 0 0 0 a li visuallyhidden 10 0
+opens O opens 0 0 0 0 0 0 0 a li visuallyhidden 10 0
+in O in 0 1 0 0 0 0 0 a li visuallyhidden 10 0
+a O a 0 1 0 0 0 0 0 a li visuallyhidden 10 0
+new O new 0 0 0 0 0 0 0 a li visuallyhidden 10 0
+window O window 0 0 0 0 0 0 0 a li visuallyhidden 10 0
+) O ) 0 0 0 0 0 0 0 a li visuallyhidden 10 0
 
-Bailing B-NAME 1 1 a li name 9 2
-Zhang I-NAME 1 1 a li name 9 2
+Jobs O jobs 0 1 0 0 0 0 1 li ul nav-additional 9 0
 
-Xi'an O 0 1 div footer logo 6 0
-Jiaotong-Liverpool O 0 0 div footer logo 6 0
-University O 0 1 div footer logo 6 0
-(XJTLU) O 0 0 div footer logo 6 0
+Contact O contact 0 0 0 0 0 0 1 li ul nav-additional 9 0
 
-Follow O 0 0 li ul social-twitter 8 0
-us O 0 1 li ul social-twitter 8 0
-on O 0 0 li ul social-twitter 8 0
-Twitter O 0 0 li ul social-twitter 8 0
-(This O 0 0 li ul social-twitter 8 0
-link O 0 0 li ul social-twitter 8 0
-opens O 0 0 li ul social-twitter 8 0
-in O 0 1 li ul social-twitter 8 0
-a O 0 1 li ul social-twitter 8 0
-new O 0 0 li ul social-twitter 8 0
-window) O 0 0 li ul social-twitter 8 0
+Accessibility O accessibility 0 0 0 0 0 0 1 li ul nav-additional 9 0
 
-Follow O 0 0 li ul social-instagram 8 0
-us O 0 1 li ul social-instagram 8 0
-on O 0 0 li ul social-instagram 8 0
-Instagram O 0 0 li ul social-instagram 8 0
-(This O 0 0 li ul social-instagram 8 0
-link O 0 0 li ul social-instagram 8 0
-opens O 0 0 li ul social-instagram 8 0
-in O 0 1 li ul social-instagram 8 0
-a O 0 1 li ul social-instagram 8 0
-new O 0 0 li ul social-instagram 8 0
-window) O 0 0 li ul social-instagram 8 0
+Privacy O privacy 0 0 0 0 0 0 1 li ul nav-additional 9 0
 
-Like O 0 1 li ul social-facebook 8 0
-us O 0 1 li ul social-facebook 8 0
-on O 0 0 li ul social-facebook 8 0
-Facebook O 0 0 li ul social-facebook 8 0
-(This O 0 0 li ul social-facebook 8 0
-link O 0 0 li ul social-facebook 8 0
-opens O 0 0 li ul social-facebook 8 0
-in O 0 1 li ul social-facebook 8 0
-a O 0 1 li ul social-facebook 8 0
-new O 0 0 li ul social-facebook 8 0
-window) O 0 0 li ul social-facebook 8 0
+Copyright O copyright 0 0 0 0 0 0 1 div div copyrights 7 0
+© O © 0 0 0 0 0 0 0 div div copyrights 7 0
+2006 O 2006 0 0 0 1 0 0 0 div div copyrights 7 0
+- O - 0 0 0 0 0 0 0 div div copyrights 7 0
+2017 O 2017 0 0 0 1 0 0 0 div div copyrights 7 0
+苏ICP备07016150号 O 苏icp备07016150号 0 0 0 1 0 0 0 span div copyrights 8 0
+- O - 0 0 0 0 0 0 0 span div copyrights 8 0
+1 O 1 0 0 0 1 0 0 0 span div copyrights 8 0
+( O ( 0 0 0 0 0 0 0 a span visuallyhidden 9 0
+This O this 0 1 0 0 0 0 1 a span visuallyhidden 9 0
+link O link 0 0 0 0 0 0 0 a span visuallyhidden 9 0
+opens O opens 0 0 0 0 0 0 0 a span visuallyhidden 9 0
+in O in 0 1 0 0 0 0 0 a span visuallyhidden 9 0
+a O a 0 1 0 0 0 0 0 a span visuallyhidden 9 0
+new O new 0 0 0 0 0 0 0 a span visuallyhidden 9 0
+window O window 0 0 0 0 0 0 0 a span visuallyhidden 9 0
+) O ) 0 0 0 0 0 0 0 a span visuallyhidden 9 0
+京公网安备 O 京公网安备 0 0 0 0 0 0 0 span div copyrights 8 0
+11010102002019号 O 11010102002019号 0 0 0 1 0 0 0 span div copyrights 8 0
+( O ( 0 0 0 0 0 0 0 a span visuallyhidden 9 0
+This O this 0 1 0 0 0 0 1 a span visuallyhidden 9 0
+link O link 0 0 0 0 0 0 0 a span visuallyhidden 9 0
+opens O opens 0 0 0 0 0 0 0 a span visuallyhidden 9 0
+in O in 0 1 0 0 0 0 0 a span visuallyhidden 9 0
+a O a 0 1 0 0 0 0 0 a span visuallyhidden 9 0
+new O new 0 0 0 0 0 0 0 a span visuallyhidden 9 0
+window O window 0 0 0 0 0 0 0 a span visuallyhidden 9 0
+) O ) 0 0 0 0 0 0 0 a span visuallyhidden 9 0
 
-Follow O 0 0 li ul social-linkedin 8 0
-us O 0 1 li ul social-linkedin 8 0
-on O 0 0 li ul social-linkedin 8 0
-LinkedIn O 0 0 li ul social-linkedin 8 0
-(This O 0 0 li ul social-linkedin 8 0
-link O 0 0 li ul social-linkedin 8 0
-opens O 0 0 li ul social-linkedin 8 0
-in O 0 1 li ul social-linkedin 8 0
-a O 0 1 li ul social-linkedin 8 0
-new O 0 0 li ul social-linkedin 8 0
-window) O 0 0 li ul social-linkedin 8 0
-
-Follow O 0 0 li ul social-weibo 8 0
-us O 0 1 li ul social-weibo 8 0
-on O 0 0 li ul social-weibo 8 0
-Weibo O 0 1 li ul social-weibo 8 0
-(This O 0 0 li ul social-weibo 8 0
-link O 0 0 li ul social-weibo 8 0
-opens O 0 0 li ul social-weibo 8 0
-in O 0 1 li ul social-weibo 8 0
-a O 0 1 li ul social-weibo 8 0
-new O 0 0 li ul social-weibo 8 0
-window) O 0 0 li ul social-weibo 8 0
-
-Login O 0 0 li ul nav-additional 9 0
-(This O 0 0 a li visuallyhidden 10 0
-link O 0 0 a li visuallyhidden 10 0
-opens O 0 0 a li visuallyhidden 10 0
-in O 0 1 a li visuallyhidden 10 0
-a O 0 1 a li visuallyhidden 10 0
-new O 0 0 a li visuallyhidden 10 0
-window) O 0 0 a li visuallyhidden 10 0
-
-Jobs O 0 1 li ul nav-additional 9 0
-
-Contact O 0 0 li ul nav-additional 9 0
-
-Accessibility O 0 0 li ul nav-additional 9 0
-
-Privacy O 0 0 li ul nav-additional 9 0
-
-Copyright O 0 0 div div copyrights 7 0
-© O 0 0 div div copyrights 7 0
-2006 O 0 0 div div copyrights 7 0
-- O 0 0 div div copyrights 7 0
-2017 O 0 0 div div copyrights 7 0
-苏ICP备07016150号-1 O 0 0 span div copyrights 8 0
-(This O 0 0 a span visuallyhidden 9 0
-link O 0 0 a span visuallyhidden 9 0
-opens O 0 0 a span visuallyhidden 9 0
-in O 0 1 a span visuallyhidden 9 0
-a O 0 1 a span visuallyhidden 9 0
-new O 0 0 a span visuallyhidden 9 0
-window) O 0 0 a span visuallyhidden 9 0
-京公网安备 O 0 0 span div copyrights 8 0
-11010102002019号 O 0 0 span div copyrights 8 0
-(This O 0 0 a span visuallyhidden 9 0
-link O 0 0 a span visuallyhidden 9 0
-opens O 0 0 a span visuallyhidden 9 0
-in O 0 1 a span visuallyhidden 9 0
-a O 0 1 a span visuallyhidden 9 0
-new O 0 0 a span visuallyhidden 9 0
-window) O 0 0 a span visuallyhidden 9 0
-
-You O 0 1 noscript body departments.department-staff.en 5 0
-have O 0 0 noscript body departments.department-staff.en 5 0
-Javascript O 0 0 noscript body departments.department-staff.en 5 0
-disabled. O 0 0 noscript body departments.department-staff.en 5 0
-Some O 0 1 noscript body departments.department-staff.en 5 0
-features O 0 0 noscript body departments.department-staff.en 5 0
-of O 0 1 noscript body departments.department-staff.en 5 0
-this O 0 0 noscript body departments.department-staff.en 5 0
-site O 0 0 noscript body departments.department-staff.en 5 0
-will O 0 0 noscript body departments.department-staff.en 5 0
-not O 0 0 noscript body departments.department-staff.en 5 0
-work O 0 0 noscript body departments.department-staff.en 5 0
-for O 0 1 noscript body departments.department-staff.en 5 0
-you. O 0 0 noscript body departments.department-staff.en 5 0
-Please O 0 1 noscript body departments.department-staff.en 5 0
-enable O 0 0 noscript body departments.department-staff.en 5 0
-Javascript O 0 0 noscript body departments.department-staff.en 5 0
-for O 0 1 noscript body departments.department-staff.en 5 0
-a O 0 1 noscript body departments.department-staff.en 5 0
-better O 0 0 noscript body departments.department-staff.en 5 0
-experience. O 0 0 noscript body departments.department-staff.en 5 0
+You O you 0 1 0 0 0 0 1 noscript body en 5 0
+have O have 0 0 0 0 0 0 0 noscript body en 5 0
+Javascript O javascript 0 0 0 0 0 0 1 noscript body en 5 0
+disabled. O disabled. 0 0 0 0 0 0 0 noscript body en 5 0
+Some O some 0 1 0 0 0 0 1 noscript body en 5 0
+features O features 0 0 0 0 0 0 0 noscript body en 5 0
+of O of 0 1 0 0 0 0 0 noscript body en 5 0
+this O this 0 0 0 0 0 0 0 noscript body en 5 0
+site O site 0 0 0 0 0 0 0 noscript body en 5 0
+will O will 0 0 0 0 0 0 0 noscript body en 5 0
+not O not 0 0 0 0 0 0 0 noscript body en 5 0
+work O work 0 0 0 0 0 0 0 noscript body en 5 0
+for O for 0 1 0 0 0 0 0 noscript body en 5 0
+you. O you. 0 0 0 0 0 0 0 noscript body en 5 0
+Please O please 0 1 0 0 0 0 1 noscript body en 5 0
+enable O enable 0 0 0 0 0 0 0 noscript body en 5 0
+Javascript O javascript 0 0 0 0 0 0 1 noscript body en 5 0
+for O for 0 1 0 0 0 0 0 noscript body en 5 0
+a O a 0 1 0 0 0 0 0 noscript body en 5 0
+better O better 0 0 0 0 0 0 0 noscript body en 5 0
+experience. O experience. 0 0 0 0 0 0 0 noscript body en 5 0

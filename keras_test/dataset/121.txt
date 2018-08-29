@@ -1,1393 +1,1768 @@
-Department O 0 0 head html no-js 4 26
-of O 0 1 head html no-js 4 26
-Information O 0 1 head html no-js 4 26
-Technology O 0 0 head html no-js 4 26
-- O 0 0 head html no-js 4 26
-Uppsala O 0 0 head html no-js 4 26
-University, O 0 0 head html no-js 4 26
-Sweden O 0 1 head html no-js 4 26
+Department O department 0 0 0 0 0 0 1 head html no-js 4 26
+of O of 0 1 0 0 0 0 0 head html no-js 4 26
+Information O information 0 1 0 0 0 0 1 head html no-js 4 26
+Technology O technology 0 0 0 0 0 0 1 head html no-js 4 26
+- O - 0 0 0 0 0 0 0 head html no-js 4 26
+Uppsala O uppsala 0 0 0 0 0 0 1 head html no-js 4 26
+University O university 0 1 0 0 0 0 1 head html no-js 4 26
+, O , 0 0 0 0 0 0 0 head html no-js 4 26
+Sweden O sweden 0 1 0 0 0 0 1 head html no-js 4 26
 
-Log O 0 1 div nav login 9 0
-in O 0 1 div nav login 9 0
+Log O log 0 1 0 0 0 0 1 div nav login 9 0
+in O in 0 1 0 0 0 0 0 div nav login 9 0
 
-Student O 0 1 li ul dropdown 11 0
-portal O 0 0 li ul dropdown 11 0
+Student O student 0 1 0 0 0 0 1 li ul dropdown 11 0
+portal O portal 0 0 0 0 0 0 0 li ul dropdown 11 0
 
-Employee O 0 0 li ul dropdown 11 0
-portal O 0 0 li ul dropdown 11 0
+Employee O employee 0 0 0 0 1 0 1 li ul dropdown 11 0
+portal O portal 0 0 0 0 0 0 0 li ul dropdown 11 0
 
-Alumni O 0 0 li ul dropdown 11 0
-network O 0 0 li ul dropdown 11 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul dropdown 11 0
+network O network 0 0 0 0 0 0 0 li ul dropdown 11 0
 
-Svensk O 0 0 nav div changerLink 8 9
-startsida O 0 0 nav div changerLink 8 9
+Svensk O svensk 0 0 0 0 0 0 1 nav div changerLink 8 9
+startsida O startsida 0 0 0 0 0 0 0 nav div changerLink 8 9
 
-Search O 0 0 div form is-visually-hidden 13 0
+Search O search 0 0 0 0 0 0 1 div form is-visually-hidden 13 0
 
-Uppsala O 0 0 div nav is-berling.top-nav-uu-link 13 0
-University O 0 1 div nav is-berling.top-nav-uu-link 13 0
+Uppsala O uppsala 0 0 0 0 0 0 1 div nav top-nav-uu-link 13 0
+University O university 0 1 0 0 0 0 1 div nav top-nav-uu-link 13 0
 
-Students O 0 0 li ul first 14 0
+Students O students 0 0 0 0 0 0 1 li ul first 14 0
 
-Alumni O 0 0 li ul  14 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul  14 0
 
-Library O 0 0 li ul top-nav.second-level.clearfix 14 0
+Library O library 0 0 0 0 0 0 1 li ul clearfix 14 0
 
-Admissions O 0 0 li ul first. 14 0
+Admissions O admissions 0 0 0 0 0 0 1 li ul  14 0
 
-Research O 0 1 li ul  14 0
+Research O research 0 1 0 0 0 0 1 li ul  14 0
 
-Collaboration O 0 1 li ul  14 0
+Collaboration O collaboration 0 1 0 0 0 0 1 li ul  14 0
 
-The O 0 1 li ul  14 0
-University O 0 1 li ul  14 0
+The O the 0 1 0 0 0 0 1 li ul  14 0
+University O university 0 1 0 0 0 0 1 li ul  14 0
 
-Search O 0 0 div form is-visually-hidden 9 0
+Search O search 0 0 0 0 0 0 1 div form is-visually-hidden 9 0
 
-Organisation O 0 0 div header current-page.is-berling 7 2
-and O 0 1 div header current-page.is-berling 7 2
-staff O 0 0 div header current-page.is-berling 7 2
+Organisation O organisation 0 0 0 0 0 0 1 div header is-berling 7 2
+and O and 0 1 0 0 0 0 0 div header is-berling 7 2
+staff O staff 0 0 0 0 0 0 0 div header is-berling 7 2
 
-Map O 0 0 li ul menuLevel0 9 0
-of O 0 1 li ul menuLevel0 9 0
-Uppsala O 0 0 li ul menuLevel0 9 0
-University O 0 1 li ul menuLevel0 9 0
+Map O map 0 0 0 0 0 0 1 li ul menuLevel0 9 0
+of O of 0 1 0 0 0 0 0 li ul menuLevel0 9 0
+Uppsala O uppsala 0 0 0 0 0 0 1 li ul menuLevel0 9 0
+University O university 0 1 0 0 0 0 1 li ul menuLevel0 9 0
 
-alumni O 0 0 li ul menuLevel0 9 0
+alumni O alumni 0 0 0 0 0 0 0 li ul menuLevel0 9 0
 
-research O 0 0 li ul menuLevel0 9 0
+research O research 0 0 0 0 0 0 0 li ul menuLevel0 9 0
 
-collaboration O 0 0 li ul menuLevel0 9 0
+collaboration O collaboration 0 0 0 0 0 0 0 li ul menuLevel0 9 0
 
-Students O 0 0 li ul menuLevel0 9 0
+Students O students 0 0 0 0 0 0 1 li ul menuLevel0 9 0
 
-The O 0 1 li ul menuLevel0 9 0
-University O 0 1 li ul menuLevel0 9 0
+The O the 0 1 0 0 0 0 1 li ul menuLevel0 9 0
+University O university 0 1 0 0 0 0 1 li ul menuLevel0 9 0
 
-admissions O 0 0 li ul menuLevel0 9 0
+admissions O admissions 0 0 0 0 0 0 0 li ul menuLevel0 9 0
 
-Search O 0 0 li ul menuLevel0 9 0
+Search O search 0 0 0 0 0 0 1 li ul menuLevel0 9 0
 
-sitemap O 0 0 li ul menuLevel0 9 0
+sitemap O sitemap 0 0 0 0 0 0 0 li ul menuLevel0 9 0
 
-Map O 0 0 li ul menuLevel0 11 0
-of O 0 1 li ul menuLevel0 11 0
-Uppsala O 0 0 li ul menuLevel0 11 0
-University O 0 1 li ul menuLevel0 11 0
+Map O map 0 0 0 0 0 0 1 li ul menuLevel0 11 0
+of O of 0 1 0 0 0 0 0 li ul menuLevel0 11 0
+Uppsala O uppsala 0 0 0 0 0 0 1 li ul menuLevel0 11 0
+University O university 0 1 0 0 0 0 1 li ul menuLevel0 11 0
 
-alumni O 0 0 li ul menuLevel0 11 0
+alumni O alumni 0 0 0 0 0 0 0 li ul menuLevel0 11 0
 
-research O 0 0 li ul menuLevel0 11 0
+research O research 0 0 0 0 0 0 0 li ul menuLevel0 11 0
 
-collaboration O 0 0 li ul menuLevel0 11 0
+collaboration O collaboration 0 0 0 0 0 0 0 li ul menuLevel0 11 0
 
-Students O 0 0 li ul menuLevel0 11 0
+Students O students 0 0 0 0 0 0 1 li ul menuLevel0 11 0
 
-The O 0 1 li ul menuLevel0 11 0
-University O 0 1 li ul menuLevel0 11 0
+The O the 0 1 0 0 0 0 1 li ul menuLevel0 11 0
+University O university 0 1 0 0 0 0 1 li ul menuLevel0 11 0
 
-admissions O 0 0 li ul menuLevel0 11 0
+admissions O admissions 0 0 0 0 0 0 0 li ul menuLevel0 11 0
 
-Search O 0 0 li ul menuLevel0 11 0
+Search O search 0 0 0 0 0 0 1 li ul menuLevel0 11 0
 
-sitemap O 0 0 li ul menuLevel0 11 0
+sitemap O sitemap 0 0 0 0 0 0 0 li ul menuLevel0 11 0
 
-Listen O 0 0 span div no-google-analytics 11 0
+Listen O listen 0 0 0 0 0 0 1 span div no-google-analytics 11 0
 
-Denna O 0 1 a div not-capitalized 11 0
-sida O 0 0 a div not-capitalized 11 0
-på O 0 0 a div not-capitalized 11 0
-svenska O 0 0 a div language-text 11 1
-
-Uppsala O 0 0 div div breadcrumb-uu-link 9 0
-University O 0 1 div div breadcrumb-uu-link 9 0
-Organisation O 0 0 div div breadcrumbs.no-print 9 1
-and O 0 1 div div breadcrumbs.no-print 9 1
-staff O 0 0 div div breadcrumbs.no-print 9 1
-Organisation O 0 0 div div breadcrumbs.no-print 9 2
-
-31.1 O 0 0 div div main-content 11 0
-Department O 0 0 div div main-content 11 0
-of O 0 1 div div main-content 11 0
-Information O 0 1 div div main-content 11 0
-Technology O 0 0 div div main-content 11 0
-
-31.1.1 O 0 0 ul div is-unstyled 14 0
-Division O 0 0 li ul is-unstyled 15 0
-of O 0 1 li ul is-unstyled 15 0
-Scientific O 0 0 li ul is-unstyled 15 0
-Computing O 0 0 li ul is-unstyled 15 0
-
-31.1.2 O 0 0 ul div is-unstyled 14 2
-Centre O 0 1 li ul is-unstyled 15 0
-for O 0 1 li ul is-unstyled 15 0
-Image O 0 0 li ul is-unstyled 15 0
-Analysis O 0 0 li ul is-unstyled 15 0
-
-31.1.3 O 0 0 ul div is-unstyled 14 4
-Division O 0 0 li ul is-unstyled 15 0
-of O 0 1 li ul is-unstyled 15 0
-Computing O 0 0 li ul is-unstyled 15 0
-Science O 0 0 li ul is-unstyled 15 0
-
-31.1.4 O 0 0 ul div is-unstyled 14 6
-Division O 0 0 li ul is-unstyled 15 0
-of O 0 1 li ul is-unstyled 15 0
-Computer O 0 0 li ul is-unstyled 15 0
-Systems O 0 0 li ul is-unstyled 15 0
-
-31.1.5 O 0 0 ul div is-unstyled 14 8
-Division O 0 0 li ul is-unstyled 15 0
-of O 0 1 li ul is-unstyled 15 0
-Systems O 0 0 li ul is-unstyled 15 0
-and O 0 1 li ul is-unstyled 15 0
-Control O 0 0 li ul is-unstyled 15 0
-
-31.1.6 O 0 0 ul div is-unstyled 14 10
-Division O 0 0 li ul is-unstyled 15 0
-of O 0 1 li ul is-unstyled 15 0
-Visual O 0 0 li ul is-unstyled 15 0
-Information O 0 1 li ul is-unstyled 15 0
-and O 0 1 li ul is-unstyled 15 0
-Interaction O 0 0 li ul is-unstyled 15 0
-
-31.1.7 O 0 0 ul div is-unstyled 14 12
-Program O 0 0 li ul is-unstyled 15 0
-Office O 0 0 li ul is-unstyled 15 0
-Internet O 0 0 li ul is-unstyled 15 0
-of O 0 1 li ul is-unstyled 15 0
-Things O 0 0 li ul is-unstyled 15 0
-
-31.1.8 O 0 0 ul div is-unstyled 14 14
-SNIC, O 0 0 li ul is-unstyled 15 0
-Swedish O 0 1 li ul is-unstyled 15 0
-National O 0 0 li ul is-unstyled 15 0
-Infrastructure O 0 0 li ul is-unstyled 15 0
-for O 0 1 li ul is-unstyled 15 0
-Computing O 0 0 li ul is-unstyled 15 0
-
-31.1.9 O 0 0 ul div is-unstyled 14 16
-UPMARC, O 0 0 li ul is-unstyled 15 0
-Uppsala O 0 0 li ul is-unstyled 15 0
-Programming O 0 1 li ul is-unstyled 15 0
-for O 0 1 li ul is-unstyled 15 0
-Multicore O 0 0 li ul is-unstyled 15 0
-Architecture O 0 0 li ul is-unstyled 15 0
-Research O 0 1 li ul is-unstyled 15 0
-Centre O 0 1 li ul is-unstyled 15 0
-
-31.1.10 O 0 0 ul div is-unstyled 14 18
-Uppsala O 0 0 li ul is-unstyled 15 0
-Multidisciplinary O 0 0 li ul is-unstyled 15 0
-Centre O 0 1 li ul is-unstyled 15 0
-for O 0 1 li ul is-unstyled 15 0
-Advanced O 0 0 li ul is-unstyled 15 0
-Computational O 0 0 li ul is-unstyled 15 0
-Science O 0 0 li ul is-unstyled 15 0
-
-31.1.11 O 0 0 ul div is-unstyled 14 20
-WISENET, O 0 0 li ul is-unstyled 15 0
-Uppsala O 0 0 li ul is-unstyled 15 0
-VINN O 0 0 li ul is-unstyled 15 0
-Excellence O 0 0 li ul is-unstyled 15 0
-Centre O 0 1 li ul is-unstyled 15 0
-for O 0 1 li ul is-unstyled 15 0
-Wireless O 0 0 li ul is-unstyled 15 0
-Sensor O 0 0 li ul is-unstyled 15 0
-Networks O 0 0 li ul is-unstyled 15 0
-
-31.1.12 O 0 0 ul div is-unstyled 14 22
-Teaching O 0 0 li ul is-unstyled 15 0
-Assistant O 0 0 li ul is-unstyled 15 0
-& O 0 0 li ul is-unstyled 15 0
-Project O 0 1 li ul is-unstyled 15 0
-Assistant O 0 0 li ul is-unstyled 15 0
-
-31.1.13 O 0 0 ul div is-unstyled 14 24
-Degree O 0 0 li ul is-unstyled 15 0
-Project O 0 1 li ul is-unstyled 15 0
-Worker O 0 0 li ul is-unstyled 15 0
-
-Contact O 0 0 div div size2of3.unit 12 29
-information O 0 0 div div size2of3.unit 12 29
-
-Visiting O 0 0 dl div contact-list 14 0
-address: O 0 0 dl div contact-list 14 0
-
-ITC, O 0 0 dl div contact-list 14 1
-hus O 0 0 dl div contact-list 14 1
-1,2,4 O 0 0 dl div contact-list 14 1
-Lägerhyddsv. O 0 0 dl div contact-list 14 1
-2 O 0 0 dl div contact-list 14 1
-
-Postal O 0 1 dl div contact-list 14 2
-address: O 0 0 dl div contact-list 14 2
-
-Box O 0 1 dl div contact-list 14 3
-337, O 0 0 dl div contact-list 14 3
-751 O 0 0 dl div contact-list 14 3
-05 O 0 0 dl div contact-list 14 3
-UPPSALA O 0 0 dl div contact-list 14 3
-
-Fax: O 0 0 dl div contact-list 14 4
-
-018-511925 O 0 0 dl div contact-list 14 5
-
-E-mail: O 0 0 dl div contact-list 14 6
-
-info O 0 0 dd dl obEmail 15 0
-it.uu.se O 0 0 dd dl obEmail 15 0
-
-Web O 0 1 dl div contact-list 14 10
-page: O 0 0 dl div contact-list 14 10
-
-http://www.it.uu.se/ O 0 0 dd dl contact-list 15 0
-
-Head O 0 1 dl div contact-list 15 0
-of O 0 1 dl div contact-list 15 0
-department: O 0 0 dl div contact-list 15 0
-
-Michael B-NAME 1 1 dd dl contact-list 16 0
-Thuné I-NAME 1 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-2981 O 0 0 dd dl contact-list 16 1
-
-Deputy O 0 0 dl div contact-list 15 4
-head O 0 0 dl div contact-list 15 4
-of O 0 1 dl div contact-list 15 4
-department: O 0 0 dl div contact-list 15 4
-
-Arnold B-NAME 1 1 dd dl contact-list 16 0
-Neville I-NAME 1 1 dd dl contact-list 16 0
-Pears I-NAME 1 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-1066 O 0 0 dd dl contact-list 16 1
-
-Director O 0 1 dl div contact-list 15 8
-of O 0 1 dl div contact-list 15 8
-studies: O 0 0 dl div contact-list 15 8
-
-Mats B-NAME 1 1 dd dl contact-list 16 0
-Daniels I-NAME 1 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-3160 O 0 0 dd dl contact-list 16 1
-
-Mikael B-NAME 1 1 dd dl contact-list 16 0
-Laaksoharju I-NAME 1 1 dd dl contact-list 16 0
-
-Aletta B-NAME 1 1 dd dl contact-list 16 0
-Nylén I-NAME 1 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-7122 O 0 0 dd dl contact-list 16 1
-
-Stefan B-NAME 0 1 dd dl contact-list 16 0
-Pålsson I-NAME 0 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-2970 O 0 0 dd dl contact-list 16 1
-
-Hans B-NAME 0 1 dd dl contact-list 16 0
-Rosth I-NAME 0 0 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-3070 O 0 0 dd dl contact-list 16 1
-
-Study O 0 1 dl div contact-list 15 23
-counsellor: O 0 0 dl div contact-list 15 23
-
-Torsten B-NAME 0 1 dd dl contact-list 16 0
-Andersson I-NAME 0 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-5707 O 0 0 dd dl contact-list 16 1
-
-Liselott B-NAME 0 1 dd dl contact-list 16 0
-Dominicus I-NAME 0 1 dd dl contact-list 16 0
-van I-NAME 0 1 dd dl contact-list 16 0
-den I-NAME 0 1 dd dl contact-list 16 0
-Bussche I-NAME 0 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-6887 O 0 0 dd dl contact-list 16 1
-
-Anna B-NAME 1 1 dd dl contact-list 16 0
-Eckerdal I-NAME 1 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-7894 O 0 0 dd dl contact-list 16 1
-, O 0 0 dl div contact-list 15 30
-018-471 O 0 0 dd dl contact-list 16 2
-2983 O 0 0 dd dl contact-list 16 2
-
-Aletta B-NAME 1 1 dd dl contact-list 16 0
-Nylén I-NAME 1 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-7122 O 0 0 dd dl contact-list 16 1
-
-University O 0 1 dl div contact-list 15 37
-directory O 0 0 dl div contact-list 15 37
-administration: O 0 0 dl div contact-list 15 37
-
-Ulrika B-NAME 0 1 dd dl contact-list 16 0
-Andersson I-NAME 0 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-3021 O 0 0 dd dl contact-list 16 1
-
-Anna-Lena B-NAME 0 1 dd dl contact-list 16 0
-Forsberg I-NAME 0 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-2589 O 0 0 dd dl contact-list 16 1
-
-Human O 0 1 dl div contact-list 15 44
-resource O 0 0 dl div contact-list 15 44
-administration: O 0 0 dl div contact-list 15 44
-
-Ulrika B-NAME 0 1 dd dl contact-list 16 0
-Andersson I-NAME 0 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-3021 O 0 0 dd dl contact-list 16 1
-
-Anna-Lena B-NAME 0 1 dd dl contact-list 16 0
-Forsberg I-NAME 0 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-2589 O 0 0 dd dl contact-list 16 1
-
-Lena B-NAME 0 1 dd dl contact-list 16 0
-Nordström I-NAME 0 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-3460 O 0 0 dd dl contact-list 16 1
-
-IT O 0 0 dl div contact-list 15 54
-management: O 0 0 dl div contact-list 15 54
-
-Anders B-NAME 1 1 dd dl contact-list 16 0
-Andersson I-NAME 1 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-3170 O 0 0 dd dl contact-list 16 1
-
-Joel B-NAME 0 1 dd dl contact-list 16 0
-Fredrikson I-NAME 0 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-2907 O 0 0 dd dl contact-list 16 1
-
-Henrik B-NAME 0 1 dd dl contact-list 16 0
-Hedlund I-NAME 0 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-2767 O 0 0 dd dl contact-list 16 1
-
-Jukka B-NAME 0 1 dd dl contact-list 16 0
-Komminaho I-NAME 0 0 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-1024 O 0 0 dd dl contact-list 16 1
-
-Björn B-NAME 0 1 dd dl contact-list 16 0
-Lindén I-NAME 0 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-1050 O 0 0 dd dl contact-list 16 1
-
-Mats B-NAME 1 1 dd dl contact-list 16 0
-Lundin I-NAME 1 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-3175 O 0 0 dd dl contact-list 16 1
-
-Karolina B-NAME 0 1 dd dl contact-list 16 0
-Malm I-NAME 0 1 dd dl contact-list 16 0
-Holmgren I-NAME 0 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-6888 O 0 0 dd dl contact-list 16 1
-
-Tord B-NAME 0 1 dd dl contact-list 16 0
-Nordling I-NAME 0 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-1021 O 0 0 dd dl contact-list 16 1
-
-Astrid B-NAME 0 1 dd dl contact-list 16 0
-Raidl I-NAME 0 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-2986 O 0 0 dd dl contact-list 16 1
-
-Joakim B-NAME 0 1 dd dl contact-list 16 0
-Sjöåker I-NAME 0 0 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-1081 O 0 0 dd dl contact-list 16 1
-
-Thomas B-NAME 0 1 dd dl contact-list 16 0
-Sundell I-NAME 0 1 dd dl contact-list 16 0
-018-471 O 0 0 dd dl contact-list 16 1
-2988 O 0 0 dd dl contact-list 16 1
-
-Webmaster: O 0 0 dl div contact-list 15 88
-
-Anneli B-NAME 0 1 dd dt contact-list 18 0
-Folkesson I-NAME 0 1 dd dt contact-list 18 0
-018-471 O 0 0 dd dt contact-list 18 1
-5759 O 0 0 dd dt contact-list 18 1
-
-Mikael B-NAME 1 1 dd dt contact-list 18 0
-Laaksoharju I-NAME 1 1 dd dt contact-list 18 0
-
-Find O 0 1 div div size2of3.unit 12 142
-us O 0 1 div div size2of3.unit 12 142
-
-ITC, O 0 0 div div is-smaller-text.unit-contact-map-caption 12 144
-hus O 0 0 div div is-smaller-text.unit-contact-map-caption 12 144
-1,2,4 O 0 0 div div is-smaller-text.unit-contact-map-caption 12 144
-Lägerhyddsv. O 0 0 div div is-smaller-text.unit-contact-map-caption 12 144
-2 O 0 0 div div is-smaller-text.unit-contact-map-caption 12 144
-
-Employees O 0 0 div div empList.a-z-filter-container 14 0
-(faculty, O 0 0 div div empList.a-z-filter-container 14 0
-staff O 0 0 div div empList.a-z-filter-container 14 0
-and O 0 1 div div empList.a-z-filter-container 14 0
-other O 0 0 div div empList.a-z-filter-container 14 0
-members) O 0 0 div div empList.a-z-filter-container 14 0
-
-Agback, B-NAME 0 0 div li emp-name 17 0
-Martin I-NAME 0 1 div li emp-name 17 0
-
-senior O 0 0 div li emp-title 17 2
-research O 0 0 div li emp-title 17 2
-engineer O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4712758 O 0 0 span div emp-phone 18 0
-martin.agback O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Andersson, B-NAME 0 0 div li emp-name 17 0
-Anders I-NAME 0 1 div li emp-name 17 0
-
-senior O 0 0 div li emp-title 17 2
-research O 0 0 div li emp-title 17 2
-engineer O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4713170 O 0 0 span div emp-phone 18 0
-
-Andersson, B-NAME 0 0 div li emp-name 17 0
-Ulrika I-NAME 0 1 div li emp-name 17 0
-
-personnel O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4713021 O 0 0 span div emp-phone 18 0
-ulrika.andersson O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Ankerstål, B-NAME 0 0 div li emp-name 17 0
-Peter I-NAME 0 1 div li emp-name 17 0
-
-technical O 0 0 div li emp-title 17 2
-system O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4716286 O 0 0 span div emp-phone 18 0
-peter.ankerstal O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Arvidson, B-NAME 0 0 div li emp-name 17 0
-Allan I-NAME 0 1 div li emp-name 17 0
-
-systems O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4714089 O 0 0 span div emp-phone 18 0
-allan.arvidsson O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Ashraf, B-NAME 0 0 div li emp-name 17 0
-Pouya I-NAME 0 1 div li emp-name 17 0
-
-teaching O 0 0 div li emp-title 17 2
-assistant O 0 0 div li emp-title 17 2
-pouya.ashraf O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Berglund, B-NAME 0 0 div li emp-name 17 0
-Anneli I-NAME 0 1 div li emp-name 17 0
-
-course O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4716109 O 0 0 span div emp-phone 18 0
-anneli.berglund O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Brandhammar, B-NAME 0 0 div li emp-name 17 0
-Anna-Helena I-NAME 0 0 div li emp-name 17 0
-
-financial O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4717345 O 0 0 span div emp-phone 18 0
-anna-helena.brandhammar O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Brännvall, B-NAME 0 0 div li emp-name 17 0
-Mathias I-NAME 0 1 div li emp-name 17 0
-
-administrative O 0 0 div li emp-title 17 2
-coordinator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4717601 O 0 0 span div emp-phone 18 0
-
-Carlsson, B-NAME 0 0 div li emp-name 17 0
-Mats I-NAME 0 1 div li emp-name 17 0
-
-visiting O 0 0 div li emp-title 17 2
-researcher O 0 0 div li emp-title 17 2
-
-Claesson, B-NAME 0 0 div li emp-name 17 0
-Mona I-NAME 1 1 div li emp-name 17 0
-
-systems O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-mona.claesson O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Dahlö, B-NAME 0 0 div li emp-name 17 0
-Martin I-NAME 0 1 div li emp-name 17 0
-
-bioinformatician O 0 0 div li emp-title 17 2
-martin.dahlo O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Elfström, B-NAME 0 0 div li emp-name 17 0
-Dick I-NAME 0 1 div li emp-name 17 0
-
-computer O 0 0 div li emp-title 17 2
-technician O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4716285 O 0 0 span div emp-phone 18 0
-dick.elfstrom O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Feiff, B-NAME 0 0 div li emp-name 17 0
-Johanna I-NAME 0 1 div li emp-name 17 0
-
-financial O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4713462 O 0 0 span div emp-phone 18 0
-johanna.feiff O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Fernando, B-NAME 0 0 div li emp-name 17 0
-Nelly I-NAME 0 1 div li emp-name 17 0
-
-financial O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4717606 O 0 0 span div emp-phone 18 0
-nelly.fernando O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Fernquist, B-NAME 0 0 div li emp-name 17 0
-Johan I-NAME 0 1 div li emp-name 17 0
-
-administrative O 0 0 div li emp-title 17 2
-coordinator O 0 0 div li emp-title 17 2
-johan.fernquist O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Folkesson, B-NAME 0 0 div li emp-name 17 0
-Anneli I-NAME 0 1 div li emp-name 17 0
-
-web O 0 0 div li emp-title 17 2
-editor O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4715759 O 0 0 span div emp-phone 18 0
-anneli.folkesson O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Forsberg, B-NAME 0 0 div li emp-name 17 0
-Anna-Lena I-NAME 0 1 div li emp-name 17 0
-
-personnel O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4712589 O 0 0 span div emp-phone 18 0
-anna-lena.forsberg O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Fredrikson, B-NAME 0 0 div li emp-name 17 0
-Joel I-NAME 0 1 div li emp-name 17 0
-
-technical O 0 0 div li emp-title 17 2
-system O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4712907 O 0 0 span div emp-phone 18 0
-joel.fredrikson O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Freyhult, B-NAME 0 0 div li emp-name 17 0
-Pontus I-NAME 0 1 div li emp-name 17 0
-
-systems O 0 0 div li emp-title 17 2
-developer O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4711060 O 0 0 span div emp-phone 18 0
-pontus.freyhult O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Fängström, B-NAME 0 0 div li emp-name 17 0
-Torbjörn I-NAME 0 1 div li emp-name 17 0
-
-director O 0 0 div li emp-title 17 2
-
-Grundström, B-NAME 0 0 div li emp-name 17 0
-Billy I-NAME 0 1 div li emp-name 17 0
-
-teaching O 0 0 div li emp-title 17 2
-assistant O 0 0 div li emp-title 17 2
-billy.grundstrom O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Gustavsson, B-NAME 0 0 div li emp-name 17 0
-Sara I-NAME 0 1 div li emp-name 17 0
-
-teaching O 0 0 div li emp-title 17 2
-assistant O 0 0 div li emp-title 17 2
-sara.gustavsson O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Gölander, B-NAME 0 0 div li emp-name 17 0
-Filip I-NAME 0 1 div li emp-name 17 0
-
-teaching O 0 0 div li emp-title 17 2
-assistant O 0 0 div li emp-title 17 2
-filip.golander O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Hammargren, B-NAME 0 0 div li emp-name 17 0
-Per-Olov I-NAME 0 1 div li emp-name 17 0
-
-administrative O 0 0 div li emp-title 17 2
-coordinator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4715701 O 0 0 span div emp-phone 18 0
-per-olov.hammargren O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Hansen, B-NAME 0 0 div li emp-name 17 0
-Nike I-NAME 0 1 div li emp-name 17 0
-
-coordinator O 0 0 div li emp-title 17 2
-nike.hansen O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Hedlund, B-NAME 0 0 div li emp-name 17 0
-Henrik I-NAME 0 1 div li emp-name 17 0
-
-Technical O 0 0 div li emp-title 17 2
-Coordinator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4712767 O 0 0 span div emp-phone 18 0
-henrik.hedlund O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Holm, B-NAME 0 0 div li emp-name 17 0
-Marcus I-NAME 0 1 div li emp-name 17 0
-
-coordinator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4716201 O 0 0 span div emp-phone 18 0
-marcus.holm O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Hortlund, B-NAME 0 0 div li emp-name 17 0
-Agneta I-NAME 0 1 div li emp-name 17 0
-
-financial O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4711058 O 0 0 span div emp-phone 18 0
-agneta.hortlund O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Jalstrand, B-NAME 0 0 div li emp-name 17 0
-Anne-Marie I-NAME 0 1 div li emp-name 17 0
-
-financial O 0 0 div li emp-title 17 2
-assistant O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4717343 O 0 0 span div emp-phone 18 0
-anne-marie.jalstrand O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Jaresund, B-NAME 0 0 div li emp-name 17 0
-Ulrika I-NAME 0 1 div li emp-name 17 0
-
-samordnare O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4712969 O 0 0 span div emp-phone 18 0
-ulrika.jaresund O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Jonasson, B-NAME 0 0 div li emp-name 17 0
-Jeff I-NAME 0 1 div li emp-name 17 0
-
-teaching O 0 0 div li emp-title 17 2
-assistant O 0 0 div li emp-title 17 2
-jeff.jonasson O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Karlsson, B-NAME 0 0 div li emp-name 17 0
-Lennart I-NAME 0 1 div li emp-name 17 0
-
-technical O 0 0 div li emp-title 17 2
-system O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4712657 O 0 0 span div emp-phone 18 0
-lennart.karlsson O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Komminaho, B-NAME 0 0 div li emp-name 17 0
-Jukka I-NAME 0 1 div li emp-name 17 0
-
-Technical O 0 0 div li emp-title 17 2
-Coordinator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4711024 O 0 0 span div emp-phone 18 0
-jukka.komminaho O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Kulawiak, B-NAME 0 0 div li emp-name 17 0
-Daniel I-NAME 0 1 div li emp-name 17 0
-Krzysztof I-NAME 0 1 div li emp-name 17 0
-
-systems O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4711026 O 0 0 span div emp-phone 18 0
-daniel.kulawiak O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Lind, B-NAME 0 0 div li emp-name 17 0
-Eva I-NAME 0 1 div li emp-name 17 0
-
-senior O 0 0 div li emp-title 17 2
-adviser O 0 0 div li emp-title 17 2
-eva.lind O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Lindgren, B-NAME 0 0 div li emp-name 17 0
-Carina I-NAME 0 1 div li emp-name 17 0
-
-financial O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-(LOA) O 0 0 div li emp-title 17 2
-carina.lindgren O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Lindqvist, B-NAME 0 0 div li emp-name 17 0
-Elisabeth I-NAME 0 1 div li emp-name 17 0
-
-project O 0 0 div li emp-title 17 2
-coordinator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4716339 O 0 0 span div emp-phone 18 0
-elisabeth.lindqvist O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Lindroth, B-NAME 0 0 div li emp-name 17 0
-Katarina I-NAME 0 1 div li emp-name 17 0
-
-financial O 0 0 div li emp-title 17 2
-coordinator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4717607 O 0 0 span div emp-phone 18 0
-katarina.lindroth O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Lindén, B-NAME 0 0 div li emp-name 17 0
-Björn I-NAME 0 1 div li emp-name 17 0
-
-systems O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4711050 O 0 0 span div emp-phone 18 0
-bjorn.linden O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Lundell, B-NAME 0 0 div li emp-name 17 0
-Lotta I-NAME 0 1 div li emp-name 17 0
-
-administrative O 0 0 div li emp-title 17 2
-manager O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4711013 O 0 0 span div emp-phone 18 0
-lotta.lundell O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Lundeqvist, B-NAME 0 0 div li emp-name 17 0
-Elias I-NAME 0 1 div li emp-name 17 0
-
-teaching O 0 0 div li emp-title 17 2
-assistant O 0 0 div li emp-title 17 2
-elias.lundeqvist O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Lundin, B-NAME 0 0 div li emp-name 17 0
-Mats I-NAME 0 1 div li emp-name 17 0
-
-computer O 0 0 div li emp-title 17 2
-technician O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4713175 O 0 0 span div emp-phone 18 0
-mats.lundin O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Lundström, B-NAME 0 0 div li emp-name 17 0
-Cecilia I-NAME 0 1 div li emp-name 17 0
-
-teaching O 0 0 div li emp-title 17 2
-assistant O 0 0 div li emp-title 17 2
-cecilia.lundstrom O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Malm B-NAME 0 1 div li emp-name 17 0
-Holmgren, I-NAME 0 0 div li emp-name 17 0
-Karolina I-NAME 0 1 div li emp-name 17 0
-
-senior O 0 0 div li emp-title 17 2
-research O 0 0 div li emp-title 17 2
-engineer O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4716888 O 0 0 span div emp-phone 18 0
-karolina.malm-holmgren O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Mildner, B-NAME 0 0 div li emp-name 17 0
-Per I-NAME 0 1 div li emp-name 17 0
-
-visiting O 0 0 div li emp-title 17 2
-researcher O 0 0 div li emp-title 17 2
-
-Nettelblad, B-NAME 0 0 div li emp-name 17 0
-Jessica I-NAME 0 1 div li emp-name 17 0
-
-systems O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4712964 O 0 0 span div emp-phone 18 0
-jessica.nettelblad O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Nilsson, B-NAME 0 0 div li emp-name 17 0
-Linus I-NAME 0 1 div li emp-name 17 0
-
-systems O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4714089 O 0 0 span div emp-phone 18 0
-linus.nilsson O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Nordholm, B-NAME 0 0 div li emp-name 17 0
-Marina I-NAME 0 1 div li emp-name 17 0
-
-department O 0 0 div li emp-title 17 2
-technician O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4715703 O 0 0 span div emp-phone 18 0
-marina.nordholm O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Nordling, B-NAME 0 0 div li emp-name 17 0
-Tord I-NAME 0 1 div li emp-name 17 0
-
-systems O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4711021 O 0 0 span div emp-phone 18 0
-tord.nordling O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Nordstedt, B-NAME 0 0 div li emp-name 17 0
-Michael I-NAME 0 1 div li emp-name 17 0
-
-systems O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4711370 O 0 0 span div emp-phone 18 0
-michael.nordstedt O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Okonski, B-NAME 0 0 div li emp-name 17 0
-Aleksander I-NAME 0 1 div li emp-name 17 0
-
-systems O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-aleksander.okonski O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Raidl, B-NAME 0 0 div li emp-name 17 0
-Astrid I-NAME 0 1 div li emp-name 17 0
-
-systems O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4712986 O 0 0 span div emp-phone 18 0
-astrid.raidl O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Rick, B-NAME 0 0 div li emp-name 17 0
-Elsa I-NAME 0 1 div li emp-name 17 0
-
-teaching O 0 0 div li emp-title 17 2
-assistant O 0 0 div li emp-title 17 2
-elsa.rick O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Schreiber, B-NAME 0 0 div li emp-name 17 0
-Alexander I-NAME 0 1 div li emp-name 17 0
-
-degree O 0 0 div li emp-title 17 2
-project O 0 0 div li emp-title 17 2
-worker O 0 0 div li emp-title 17 2
-
-Siretskiy, B-NAME 0 0 div li emp-name 17 0
-Alexey I-NAME 0 1 div li emp-name 17 0
-
-post O 0 0 div li emp-title 17 2
-doctoral O 0 0 div li emp-title 17 2
-alexey.siretskiy O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Sjölander, B-NAME 0 0 div li emp-name 17 0
-Anders I-NAME 0 1 div li emp-name 17 0
-
-bioinformatician O 0 0 div li emp-title 17 2
-anders.sjolander O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Sjöåker, B-NAME 0 0 div li emp-name 17 0
-Joakim I-NAME 0 1 div li emp-name 17 0
-
-technical O 0 0 div li emp-title 17 2
-system O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4711081 O 0 0 span div emp-phone 18 0
-joakim.sjoaker O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Skoknic, B-NAME 0 0 div li emp-name 17 0
-Loreto I-NAME 0 1 div li emp-name 17 0
-
-course O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4716225 O 0 0 span div emp-phone 18 0
-loreto.skoknic O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Sonnhammer, B-NAME 0 0 div li emp-name 17 0
-Ann-Charlotte I-NAME 0 1 div li emp-name 17 0
-
-Technical O 0 0 div li emp-title 17 2
-Coordinator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4713177 O 0 0 span div emp-phone 18 0
-ann-charlotte.sonnhammer O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Starbäck, B-NAME 0 0 div li emp-name 17 0
-Erik I-NAME 0 1 div li emp-name 17 0
-
-technical O 0 0 div li emp-title 17 2
-system O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4717828 O 0 0 span div emp-phone 18 0
-erik.starback O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Sundell, B-NAME 0 0 div li emp-name 17 0
-Thomas I-NAME 0 1 div li emp-name 17 0
-
-technical O 0 0 div li emp-title 17 2
-system O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4712988 O 0 0 span div emp-phone 18 0
-thomas.sundell O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Söderholm, B-NAME 0 0 div li emp-name 17 0
-Robin I-NAME 0 1 div li emp-name 17 0
-
-teaching O 0 0 div li emp-title 17 2
-assistant O 0 0 div li emp-title 17 2
-robin.soderholm O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Thorburn, B-NAME 0 0 div li emp-name 17 0
-Mats I-NAME 0 1 div li emp-name 17 0
-
-information O 0 0 div li emp-title 17 2
-officer O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4716458 O 0 0 span div emp-phone 18 0
-mats.thorburn O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Trossvik, B-NAME 0 0 div li emp-name 17 0
-Emmaline I-NAME 0 1 div li emp-name 17 0
-
-course O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4715728 O 0 0 span div emp-phone 18 0
-emmaline.trossvik O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Vallin, B-NAME 0 0 div li emp-name 17 0
-Andreas I-NAME 0 1 div li emp-name 17 0
-
-systems O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-andreas.vallin O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Vincent, B-NAME 0 0 div li emp-name 17 0
-Jonathan I-NAME 0 1 div li emp-name 17 0
-
-project O 0 0 div li emp-title 17 2
-manager O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4713177 O 0 0 span div emp-phone 18 0
-jonathan.vincent O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Viring, B-NAME 0 0 div li emp-name 17 0
-Solveig I-NAME 0 1 div li emp-name 17 0
-
-senior O 0 0 div li emp-title 17 2
-adviser O 0 0 div li emp-title 17 2
-solveig.viring O 0 0 div li obEmail.emp-email 17 4
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 4
-
-Waites, B-NAME 0 0 div li emp-name 17 0
-Peter I-NAME 0 1 div li emp-name 17 0
-
-web O 0 0 div li emp-title 17 2
-editor O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4715759 O 0 0 span div emp-phone 18 0
-peter.waites O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Wass, B-NAME 0 0 div li emp-name 17 0
-Ingegerd I-NAME 0 1 div li emp-name 17 0
-
-course O 0 0 div li emp-title 17 2
-administrator O 0 0 div li emp-title 17 2
-+46 O 0 0 span div emp-phone 18 0
-18 O 0 0 span div emp-phone 18 0
-4713074 O 0 0 span div emp-phone 18 0
-ingegerd.wass O 0 0 div li obEmail.emp-email 17 5
-[AT-sign] O 0 0 a div rplcAt 18 0
-it.uu.se O 0 0 div li obEmail.emp-email 17 5
-
-Registratorer:Loreto O 0 0 div div unitInfo 13 0
-Skoknic, O 0 0 div div unitInfo 13 0
-Lena O 0 1 div div unitInfo 13 0
-Nordström, O 0 0 div div unitInfo 13 0
-Ulrika O 0 1 div div unitInfo 13 0
-Andersson, O 0 0 div div unitInfo 13 0
-registrator@it.uu.se O 0 0 div div unitInfo 13 0
-
-IT-kansli O 0 0 div div unitInfo 13 0
-(grundutbildningsfrågor): O 0 0 div div unitInfo 13 0
-7604; O 0 0 div div unitInfo 13 0
-fax: O 0 0 div div unitInfo 13 0
-471 O 0 0 div div unitInfo 13 0
-6289; O 0 0 div div unitInfo 13 0
-IT-kansli@it.uu.se O 0 0 div div unitInfo 13 0
-
-Forskningsprefekt: O 0 0 div div unitInfo 13 0
-Gunilla O 1 1 div div unitInfo 13 0
-Kreiss O 1 1 div div unitInfo 13 0
-professor, O 0 0 div div unitInfo 13 0
-2968 O 0 0 div div unitInfo 13 0
-
-Utbildningsprefekt: O 0 0 div div unitInfo 13 0
-Arnold O 1 1 div div unitInfo 13 0
-Pears O 1 1 div div unitInfo 13 0
-univ.lektor, O 0 0 div div unitInfo 13 0
-1066 O 0 0 div div unitInfo 13 0
-
-Studierektor O 0 0 div div unitInfo 13 0
-för O 0 0 div div unitInfo 13 0
-forskarutbildningen: O 0 0 div div unitInfo 13 0
-Wang O 1 1 div div unitInfo 13 0
-Yi, O 0 0 div div unitInfo 13 0
-3110 O 0 0 div div unitInfo 13 0
-
-Exjobbssamordnare: O 0 0 div div unitInfo 13 0
-exjobb@it.uu.se O 0 0 div div unitInfo 13 0
-
-Chefsadministratör: O 0 0 div div unitInfo 13 0
-Lotta O 0 1 div div unitInfo 13 0
-Lundell, O 0 0 div div unitInfo 13 0
-1013 O 0 0 div div unitInfo 13 0
-
-Lokalbokning: O 0 0 div div unitInfo 13 0
-Ulrika O 0 1 div div unitInfo 13 0
-Jaresund, O 0 0 div div unitInfo 13 0
-2969 O 0 0 div div unitInfo 13 0
-
-LäsIT: O 0 0 div div unitInfo 13 0
-Lotta O 0 1 div div unitInfo 13 0
-Lundell, O 0 0 div div unitInfo 13 0
-1013, O 0 0 div div unitInfo 13 0
-Roland O 0 1 div div unitInfo 13 0
-Grönroos, O 0 0 div div unitInfo 13 0
-6847 O 0 0 div div unitInfo 13 0
-
-Programsamordnare/Program O 0 0 div div unitInfo 13 0
-Coordinators O 0 0 div div unitInfo 13 0
-
-Kandidatprogrammet O 0 0 div div unitInfo 13 0
-i O 0 1 div div unitInfo 13 0
-datavetenskap: O 0 0 div div unitInfo 13 0
-
-Olle O 0 1 div div unitInfo 13 0
-Gällmo O 0 0 div div unitInfo 13 0
-univ.adjunkt, O 0 0 div div unitInfo 13 0
-1009 O 0 0 div div unitInfo 13 0
-
-Civilingenjörsprogrammet O 0 0 div div unitInfo 13 0
-i O 0 1 div div unitInfo 13 0
-informationsteknologi: O 0 0 div div unitInfo 13 0
-
-Lars-Åke O 0 1 div div unitInfo 13 0
-Nordén, O 0 0 div div unitInfo 13 0
-univ.lektor, O 0 0 div div unitInfo 13 0
-2781 O 0 0 div div unitInfo 13 0
-
-Search O 0 0 a div cta-button-text 13 0
-for O 0 1 a div cta-button-text 13 0
-organisation O 0 0 a div cta-button-text 13 0
-or O 0 0 a div cta-button-text 13 0
-staff O 0 0 a div cta-button-text 13 0
-
-Print O 0 1 div div page-tool.js-print-page.print 12 0
-
-Contact O 0 0 div div unit.size1of3. 8 0
-us O 0 1 div div unit.size1of3. 8 0
-
-Tel.: O 0 0 div div footer-content 9 0
-+46 O 0 0 div div footer-content 9 0
-(0)18-471 O 0 0 div div footer-content 9 0
-00 O 0 0 div div footer-content 9 0
-00 O 0 0 div div footer-content 9 0
-
-More O 0 1 p div footer-content 10 1
-contact O 0 0 p div footer-content 10 1
-details O 0 0 p div footer-content 10 1
-
-University O 0 1 p div footer-content 10 3
-Directory O 0 0 p div footer-content 10 3
-
-You O 0 1 div div footer-content 9 5
-can O 0 0 div div footer-content 9 5
-also O 0 0 div div footer-content 9 5
-find O 0 0 div div footer-content 9 5
-us O 0 1 div div footer-content 9 5
-on: O 0 0 div div footer-content 9 5
-
-Visit O 0 1 div div unit.size1of3. 8 0
-us O 0 1 div div unit.size1of3. 8 0
-
-Faculties, O 0 0 p div footer-content 10 0
-Departments O 0 0 p div footer-content 10 0
-& O 0 0 p div footer-content 10 0
-Staff O 0 1 p div footer-content 10 0
-
-Campus O 0 1 p div footer-content 10 2
-Areas O 0 0 p div footer-content 10 2
-
-Museums O 0 0 p div footer-content 10 4
-& O 0 0 p div footer-content 10 4
-Gardens O 0 0 p div footer-content 10 4
-
-Map O 0 0 p div footer-content 10 6
-of O 0 1 p div footer-content 10 6
-Uppsala O 0 0 p div footer-content 10 6
-University O 0 1 p div footer-content 10 6
-
-Shortcuts O 0 0 div div unit.size1of3.last 8 0
-
-News O 0 0 p div footer-content 10 0
-and O 0 1 p div footer-content 10 0
-Media O 0 1 p div footer-content 10 0
-Service O 0 1 p div footer-content 10 0
-
-Library O 0 0 p div footer-content 10 2
-
-Jobs O 0 1 p div footer-content 10 4
-& O 0 0 p div footer-content 10 4
-Vacancies O 0 0 p div footer-content 10 4
-
-The O 0 1 p div footer-content 10 6
-Vice-Chancellor’s O 0 0 p div footer-content 10 6
-Blog O 0 0 p div footer-content 10 6
-
-University O 0 1 p div footer-content 10 8
-Management O 0 1 p div footer-content 10 8
-
-Support O 0 0 p div footer-content 10 10
-Uppsala O 0 0 p div footer-content 10 10
-University O 0 1 p div footer-content 10 10
-
-International O 0 0 p div footer-content 10 12
-Faculty O 0 0 p div footer-content 10 12
-and O 0 1 p div footer-content 10 12
-Staff O 0 1 p div footer-content 10 12
-Services O 0 0 p div footer-content 10 12
-
-Medarbetarportalen O 0 0 p div footer-content 10 14
-– O 0 0 p div footer-content 10 14
-Employee O 0 0 p div footer-content 10 14
-portal O 0 0 p div footer-content 10 14
-
-Student O 0 1 p div footer-content 10 16
-portal O 0 0 p div footer-content 10 16
-
-© O 0 0 div div footer-site-entry 8 0
-Uppsala O 0 0 div div footer-site-entry 8 0
-University O 0 1 div div footer-site-entry 8 0
-Tel.: O 0 0 div div footer-site-entry 8 2
-+46 O 0 0 span div tel 9 0
-18 O 0 0 span div tel 9 0
-471 O 0 0 span div tel 9 0
-00 O 0 0 span div tel 9 0
-00 O 0 0 span div tel 9 0
-P.O. O 0 0 div div footer-site-entry 8 5
-Box O 0 1 div div footer-site-entry 8 5
-256, O 0 0 div div footer-site-entry 8 5
-SE-751 O 0 0 div div footer-site-entry 8 5
-05 O 0 0 div div footer-site-entry 8 5
-Uppsala, O 0 0 div div footer-site-entry 8 5
-Sweden O 0 1 div div footer-site-entry 8 5
-
-Registration O 0 0 div div footer-site-entry 8 0
-number: O 0 0 div div footer-site-entry 8 0
-202100-2932 O 0 0 div div footer-site-entry 8 0
-VAT O 0 0 div div footer-site-entry 8 2
-number: O 0 0 div div footer-site-entry 8 2
-SE202100293201 O 0 0 div div footer-site-entry 8 2
-Registrar O 0 0 span div footer-site-entry 9 0
-About O 0 0 span div footer-site-entry 9 0
-this O 0 0 span div footer-site-entry 9 0
-website O 0 0 span div footer-site-entry 9 0
-
-Go O 0 1 a footer has-up-arrow 7 0
-to O 0 0 a footer has-up-arrow 7 0
-top O 0 0 a footer has-up-arrow 7 0
+Denna O denna 0 1 0 0 0 0 1 a div not-capitalized 11 0
+sida O sida 0 0 0 0 0 0 0 a div not-capitalized 11 0
+på O pa 0 0 0 0 0 0 0 a div not-capitalized 11 0
+svenska O svenska 0 0 0 0 0 0 0 a div language-text 11 1
+
+Uppsala O uppsala 0 0 0 0 0 0 1 div div breadcrumb-uu-link 9 0
+University O university 0 1 0 0 0 0 1 div div breadcrumb-uu-link 9 0
+Organisation O organisation 0 0 0 0 0 0 1 div div no-print 9 1
+and O and 0 1 0 0 0 0 0 div div no-print 9 1
+staff O staff 0 0 0 0 0 0 0 div div no-print 9 1
+Organisation O organisation 0 0 0 0 0 0 1 div div no-print 9 2
+
+31.1 O 31.1 0 0 0 1 0 0 0 div div main-content 11 0
+Department O department 0 0 0 0 0 0 1 div div main-content 11 0
+of O of 0 1 0 0 0 0 0 div div main-content 11 0
+Information O information 0 1 0 0 0 0 1 div div main-content 11 0
+Technology O technology 0 0 0 0 0 0 1 div div main-content 11 0
+
+31.1.1 O 31.1.1 0 0 0 1 0 0 0 ul div is-unstyled 14 0
+Division O division 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+of O of 0 1 0 0 0 0 0 li ul is-unstyled 15 0
+Scientific O scientific 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Computing O computing 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+
+31.1.2 O 31.1.2 0 0 0 1 0 0 0 ul div is-unstyled 14 2
+Centre O centre 0 1 0 0 0 0 1 li ul is-unstyled 15 0
+for O for 0 1 0 0 0 0 0 li ul is-unstyled 15 0
+Image O image 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Analysis O analysis 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+
+31.1.3 O 31.1.3 0 0 0 1 0 0 0 ul div is-unstyled 14 4
+Division O division 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+of O of 0 1 0 0 0 0 0 li ul is-unstyled 15 0
+Computing O computing 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Science O science 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+
+31.1.4 O 31.1.4 0 0 0 1 0 0 0 ul div is-unstyled 14 6
+Division O division 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+of O of 0 1 0 0 0 0 0 li ul is-unstyled 15 0
+Computer O computer 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Systems O systems 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+
+31.1.5 O 31.1.5 0 0 0 1 0 0 0 ul div is-unstyled 14 8
+Division O division 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+of O of 0 1 0 0 0 0 0 li ul is-unstyled 15 0
+Systems O systems 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+and O and 0 1 0 0 0 0 0 li ul is-unstyled 15 0
+Control O control 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+
+31.1.6 O 31.1.6 0 0 0 1 0 0 0 ul div is-unstyled 14 10
+Division O division 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+of O of 0 1 0 0 0 0 0 li ul is-unstyled 15 0
+Visual O visual 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Information O information 0 1 0 0 0 0 1 li ul is-unstyled 15 0
+and O and 0 1 0 0 0 0 0 li ul is-unstyled 15 0
+Interaction O interaction 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+
+31.1.7 O 31.1.7 0 0 0 1 0 0 0 ul div is-unstyled 14 12
+Program O program 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Office O office 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Internet O internet 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+of O of 0 1 0 0 0 0 0 li ul is-unstyled 15 0
+Things O things 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+
+31.1.8 O 31.1.8 0 0 0 1 0 0 0 ul div is-unstyled 14 14
+SNIC O snic 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+, O , 0 0 0 0 0 0 0 li ul is-unstyled 15 0
+Swedish O swedish 0 1 0 0 0 0 1 li ul is-unstyled 15 0
+National O national 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Infrastructure O infrastructure 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+for O for 0 1 0 0 0 0 0 li ul is-unstyled 15 0
+Computing O computing 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+
+31.1.9 O 31.1.9 0 0 0 1 0 0 0 ul div is-unstyled 14 16
+UPMARC O upmarc 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+, O , 0 0 0 0 0 0 0 li ul is-unstyled 15 0
+Uppsala O uppsala 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Programming O programming 0 1 0 0 0 0 1 li ul is-unstyled 15 0
+for O for 0 1 0 0 0 0 0 li ul is-unstyled 15 0
+Multicore O multicore 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Architecture O architecture 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Research O research 0 1 0 0 0 0 1 li ul is-unstyled 15 0
+Centre O centre 0 1 0 0 0 0 1 li ul is-unstyled 15 0
+
+31.1.10 O 31.1.10 0 0 0 1 0 0 0 ul div is-unstyled 14 18
+Uppsala O uppsala 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Multidisciplinary O multidisciplinary 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Centre O centre 0 1 0 0 0 0 1 li ul is-unstyled 15 0
+for O for 0 1 0 0 0 0 0 li ul is-unstyled 15 0
+Advanced O advanced 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Computational O computational 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Science O science 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+
+31.1.11 O 31.1.11 0 0 0 1 0 0 0 ul div is-unstyled 14 20
+WISENET O wisenet 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+, O , 0 0 0 0 0 0 0 li ul is-unstyled 15 0
+Uppsala O uppsala 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+VINN O vinn 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Excellence O excellence 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Centre O centre 0 1 0 0 0 0 1 li ul is-unstyled 15 0
+for O for 0 1 0 0 0 0 0 li ul is-unstyled 15 0
+Wireless O wireless 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Sensor O sensor 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Networks O networks 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+
+31.1.12 O 31.1.12 0 0 0 1 0 0 0 ul div is-unstyled 14 22
+Teaching O teaching 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Assistant O assistant 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+& O & 0 0 0 0 0 0 0 li ul is-unstyled 15 0
+Project O project 0 1 0 0 0 0 1 li ul is-unstyled 15 0
+Assistant O assistant 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+
+31.1.13 O 31.1.13 0 0 0 1 0 0 0 ul div is-unstyled 14 24
+Degree O degree 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+Project O project 0 1 0 0 0 0 1 li ul is-unstyled 15 0
+Worker O worker 0 0 0 0 0 0 1 li ul is-unstyled 15 0
+
+Contact O contact 0 0 0 0 0 0 1 div div unit 12 29
+information O information 0 0 0 0 0 0 0 div div unit 12 29
+
+Visiting O visiting 0 0 0 0 0 0 1 dl div contact-list 14 0
+address O address 0 0 0 0 1 0 0 dl div contact-list 14 0
+: O : 0 0 0 0 0 0 0 dl div contact-list 14 0
+
+ITC O itc 0 0 0 0 0 0 1 dl div contact-list 14 1
+, O , 0 0 0 0 0 0 0 dl div contact-list 14 1
+hus O hus 0 0 0 0 0 0 0 dl div contact-list 14 1
+1 O 1 0 0 0 1 0 0 0 dl div contact-list 14 1
+, O , 0 0 0 0 0 0 0 dl div contact-list 14 1
+2 O 2 0 0 0 1 0 0 0 dl div contact-list 14 1
+, O , 0 0 0 0 0 0 0 dl div contact-list 14 1
+4 O 4 0 0 0 1 0 0 0 dl div contact-list 14 1
+Lägerhyddsv. O lagerhyddsv. 0 0 0 0 0 0 1 dl div contact-list 14 1
+2 O 2 0 0 0 1 0 0 0 dl div contact-list 14 1
+
+Postal O postal 0 1 0 0 0 0 1 dl div contact-list 14 2
+address O address 0 0 0 0 1 0 0 dl div contact-list 14 2
+: O : 0 0 0 0 0 0 0 dl div contact-list 14 2
+
+Box O box 0 1 0 0 0 0 1 dl div contact-list 14 3
+337 O 337 0 0 0 1 0 0 0 dl div contact-list 14 3
+, O , 0 0 0 0 0 0 0 dl div contact-list 14 3
+751 O 751 0 0 0 1 0 0 0 dl div contact-list 14 3
+05 O 05 0 0 0 1 0 0 0 dl div contact-list 14 3
+UPPSALA O uppsala 0 0 0 0 0 0 1 dl div contact-list 14 3
+
+Fax O fax 0 1 0 0 0 0 1 dl div contact-list 14 4
+: O : 0 0 0 0 0 0 0 dl div contact-list 14 4
+
+018 O 018 0 0 0 1 0 0 0 dl div contact-list 14 5
+- O - 0 0 0 0 0 0 0 dl div contact-list 14 5
+511925 O 511925 0 0 0 1 0 0 0 dl div contact-list 14 5
+
+E O e 0 1 0 0 0 0 1 dl div contact-list 14 6
+- O - 0 0 0 0 0 0 0 dl div contact-list 14 6
+mail O mail 0 0 0 0 0 0 0 dl div contact-list 14 6
+: O : 0 0 0 0 0 0 0 dl div contact-list 14 6
+
+info O info 0 0 0 0 0 0 0 dd dl obEmail 15 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 dd dl obEmail 15 0
+
+Web O web 0 1 0 0 0 0 1 dl div contact-list 14 10
+page O page 0 0 0 0 0 0 0 dl div contact-list 14 10
+: O : 0 0 0 0 0 0 0 dl div contact-list 14 10
+
+http O http 0 0 0 0 0 0 0 dd dl contact-list 15 0
+: O : 0 0 0 0 0 0 0 dd dl contact-list 15 0
+//www.it.uu.se/ O //www.it.uu.se/ 0 0 0 0 0 0 0 dd dl contact-list 15 0
+
+Head O head 0 1 0 0 0 0 1 dl div contact-list 15 0
+of O of 0 1 0 0 0 0 0 dl div contact-list 15 0
+department O department 0 0 0 0 0 0 0 dl div contact-list 15 0
+: O : 0 0 0 0 0 0 0 dl div contact-list 15 0
+
+Michael B-PER michael 1 1 0 0 0 0 1 dd dl contact-list 16 0
+Thuné I-PER thune 1 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+2981 O 2981 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Deputy O deputy 0 0 0 0 0 0 1 dl div contact-list 15 4
+head O head 0 0 0 0 0 0 0 dl div contact-list 15 4
+of O of 0 1 0 0 0 0 0 dl div contact-list 15 4
+department O department 0 0 0 0 0 0 0 dl div contact-list 15 4
+: O : 0 0 0 0 0 0 0 dl div contact-list 15 4
+
+Arnold B-PER arnold 1 1 0 0 0 0 1 dd dl contact-list 16 0
+Neville I-PER neville 1 1 0 0 0 0 1 dd dl contact-list 16 0
+Pears I-PER pears 1 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+1066 O 1066 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Director O director 0 1 0 0 0 0 1 dl div contact-list 15 8
+of O of 0 1 0 0 0 0 0 dl div contact-list 15 8
+studies O studies 0 0 0 0 0 0 0 dl div contact-list 15 8
+: O : 0 0 0 0 0 0 0 dl div contact-list 15 8
+
+Mats B-PER mats 1 1 0 0 0 0 1 dd dl contact-list 16 0
+Daniels I-PER daniels 1 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+3160 O 3160 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Mikael B-PER mikael 1 1 0 0 0 0 1 dd dl contact-list 16 0
+Laaksoharju I-PER laaksoharju 1 1 0 0 0 0 1 dd dl contact-list 16 0
+
+Aletta B-PER aletta 1 1 0 0 0 0 1 dd dl contact-list 16 0
+Nylén I-PER nylen 1 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+7122 O 7122 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Stefan B-PER stefan 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Pålsson I-PER palsson 0 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+2970 O 2970 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Hans B-PER hans 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Rosth I-PER rosth 0 0 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+3070 O 3070 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Study O study 0 1 0 0 0 0 1 dl div contact-list 15 23
+counsellor O counsellor 0 0 0 0 0 0 0 dl div contact-list 15 23
+: O : 0 0 0 0 0 0 0 dl div contact-list 15 23
+
+Torsten B-PER torsten 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Andersson I-PER andersson 0 1 0 0 1 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+5707 O 5707 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Liselott B-PER liselott 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Dominicus I-PER dominicus 0 1 0 0 0 0 1 dd dl contact-list 16 0
+van I-PER van 0 1 0 0 0 0 0 dd dl contact-list 16 0
+den I-PER den 0 1 0 0 0 0 0 dd dl contact-list 16 0
+Bussche I-PER bussche 0 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+6887 O 6887 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Anna B-PER anna 1 1 0 0 0 0 1 dd dl contact-list 16 0
+Eckerdal I-PER eckerdal 1 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+7894 O 7894 0 0 0 1 0 0 0 dd dl contact-list 16 1
+, O , 0 0 0 0 0 0 0 dl div contact-list 15 30
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 2
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 2
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 2
+2983 O 2983 0 0 0 1 0 0 0 dd dl contact-list 16 2
+
+Aletta B-PER aletta 1 1 0 0 0 0 1 dd dl contact-list 16 0
+Nylén I-PER nylen 1 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+7122 O 7122 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+University O university 0 1 0 0 0 0 1 dl div contact-list 15 37
+directory O directory 0 0 0 0 0 0 0 dl div contact-list 15 37
+administration O administration 0 0 0 0 0 0 0 dl div contact-list 15 37
+: O : 0 0 0 0 0 0 0 dl div contact-list 15 37
+
+Ulrika B-PER ulrika 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Andersson I-PER andersson 0 1 0 0 1 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+3021 O 3021 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Anna B-PER anna 0 1 0 0 0 0 1 dd dl contact-list 16 0
+- I-PER - 0 0 0 0 0 0 0 dd dl contact-list 16 0
+Lena I-PER lena 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Forsberg I-PER forsberg 0 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+2589 O 2589 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Human O human 0 1 0 0 0 0 1 dl div contact-list 15 44
+resource O resource 0 0 0 0 0 0 0 dl div contact-list 15 44
+administration O administration 0 0 0 0 0 0 0 dl div contact-list 15 44
+: O : 0 0 0 0 0 0 0 dl div contact-list 15 44
+
+Ulrika B-PER ulrika 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Andersson I-PER andersson 0 1 0 0 1 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+3021 O 3021 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Anna B-PER anna 0 1 0 0 0 0 1 dd dl contact-list 16 0
+- I-PER - 0 0 0 0 0 0 0 dd dl contact-list 16 0
+Lena I-PER lena 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Forsberg I-PER forsberg 0 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+2589 O 2589 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Lena B-PER lena 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Nordström I-PER nordstrom 0 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+3460 O 3460 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+IT O it 0 0 0 0 0 0 1 dl div contact-list 15 54
+management O management 0 0 0 0 0 0 0 dl div contact-list 15 54
+: O : 0 0 0 0 0 0 0 dl div contact-list 15 54
+
+Anders B-PER anders 1 1 0 0 1 0 1 dd dl contact-list 16 0
+Andersson I-PER andersson 1 1 0 0 1 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+3170 O 3170 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Joel B-PER joel 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Fredrikson I-PER fredrikson 0 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+2907 O 2907 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Henrik B-PER henrik 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Hedlund I-PER hedlund 0 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+2767 O 2767 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Jukka B-PER jukka 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Komminaho I-PER komminaho 0 0 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+1024 O 1024 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Björn B-PER bjorn 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Lindén I-PER linden 0 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+1050 O 1050 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Mats B-PER mats 1 1 0 0 0 0 1 dd dl contact-list 16 0
+Lundin I-PER lundin 1 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+3175 O 3175 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Karolina B-PER karolina 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Malm I-PER malm 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Holmgren I-PER holmgren 0 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+6888 O 6888 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Tord B-PER tord 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Nordling I-PER nordling 0 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+1021 O 1021 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Astrid B-PER astrid 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Raidl I-PER raidl 0 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+2986 O 2986 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Joakim B-PER joakim 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Sjöåker I-PER sjoaker 0 0 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+1081 O 1081 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Thomas B-PER thomas 0 1 0 0 0 0 1 dd dl contact-list 16 0
+Sundell I-PER sundell 0 1 0 0 0 0 1 dd dl contact-list 16 0
+018 O 018 0 0 0 1 0 0 0 dd dl contact-list 16 1
+- O - 0 0 0 0 0 0 0 dd dl contact-list 16 1
+471 O 471 0 0 0 1 0 0 0 dd dl contact-list 16 1
+2988 O 2988 0 0 0 1 0 0 0 dd dl contact-list 16 1
+
+Webmaster O webmaster 0 0 0 0 0 0 1 dl div contact-list 15 88
+: O : 0 0 0 0 0 0 0 dl div contact-list 15 88
+
+Anneli B-PER anneli 0 1 0 0 0 0 1 dd dt contact-list 18 0
+Folkesson I-PER folkesson 0 1 0 0 0 0 1 dd dt contact-list 18 0
+018 O 018 0 0 0 1 0 0 0 dd dt contact-list 18 1
+- O - 0 0 0 0 0 0 0 dd dt contact-list 18 1
+471 O 471 0 0 0 1 0 0 0 dd dt contact-list 18 1
+5759 O 5759 0 0 0 1 0 0 0 dd dt contact-list 18 1
+
+Mikael B-PER mikael 1 1 0 0 0 0 1 dd dt contact-list 18 0
+Laaksoharju I-PER laaksoharju 1 1 0 0 0 0 1 dd dt contact-list 18 0
+
+Find O find 0 1 0 0 0 0 1 div div unit 12 142
+us O us 0 1 0 0 0 0 0 div div unit 12 142
+
+ITC O itc 0 0 0 0 0 0 1 div div unit-contact-map-caption 12 144
+, O , 0 0 0 0 0 0 0 div div unit-contact-map-caption 12 144
+hus O hus 0 0 0 0 0 0 0 div div unit-contact-map-caption 12 144
+1 O 1 0 0 0 1 0 0 0 div div unit-contact-map-caption 12 144
+, O , 0 0 0 0 0 0 0 div div unit-contact-map-caption 12 144
+2 O 2 0 0 0 1 0 0 0 div div unit-contact-map-caption 12 144
+, O , 0 0 0 0 0 0 0 div div unit-contact-map-caption 12 144
+4 O 4 0 0 0 1 0 0 0 div div unit-contact-map-caption 12 144
+Lägerhyddsv. O lagerhyddsv. 0 0 0 0 0 0 1 div div unit-contact-map-caption 12 144
+2 O 2 0 0 0 1 0 0 0 div div unit-contact-map-caption 12 144
+
+Employees O employees 0 0 0 0 1 0 1 div div a-z-filter-container 14 0
+( O ( 0 0 0 0 0 0 0 div div a-z-filter-container 14 0
+faculty O faculty 0 0 0 0 0 0 0 div div a-z-filter-container 14 0
+, O , 0 0 0 0 0 0 0 div div a-z-filter-container 14 0
+staff O staff 0 0 0 0 0 0 0 div div a-z-filter-container 14 0
+and O and 0 1 0 0 0 0 0 div div a-z-filter-container 14 0
+other O other 0 0 0 0 0 0 0 div div a-z-filter-container 14 0
+members O members 0 0 0 0 0 0 0 div div a-z-filter-container 14 0
+) O ) 0 0 0 0 0 0 0 div div a-z-filter-container 14 0
+
+Agback B-PER agback 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Martin I-PER martin 0 1 0 0 0 0 1 div li emp-name 17 0
+
+senior O senior 0 0 0 0 0 0 0 div li emp-title 17 2
+research O research 0 0 0 0 0 0 0 div li emp-title 17 2
+engineer O engineer 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4712758 O 4712758 0 0 0 1 0 0 0 span div emp-phone 18 0
+martin.agback O martin.agback 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Andersson B-PER andersson 0 1 0 0 1 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Anders I-PER anders 0 1 0 0 1 0 1 div li emp-name 17 0
+
+senior O senior 0 0 0 0 0 0 0 div li emp-title 17 2
+research O research 0 0 0 0 0 0 0 div li emp-title 17 2
+engineer O engineer 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4713170 O 4713170 0 0 0 1 0 0 0 span div emp-phone 18 0
+
+Andersson B-PER andersson 0 1 0 0 1 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Ulrika I-PER ulrika 0 1 0 0 0 0 1 div li emp-name 17 0
+
+personnel O personnel 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4713021 O 4713021 0 0 0 1 0 0 0 span div emp-phone 18 0
+ulrika.andersson O ulrika.andersson 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Ankerstål B-PER ankerstal 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Peter I-PER peter 0 1 0 0 0 0 1 div li emp-name 17 0
+
+technical O technical 0 0 0 0 0 0 0 div li emp-title 17 2
+system O system 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4716286 O 4716286 0 0 0 1 0 0 0 span div emp-phone 18 0
+peter.ankerstal O peter.ankerstal 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Arvidson B-PER arvidson 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Allan I-PER allan 0 1 0 0 0 0 1 div li emp-name 17 0
+
+systems O systems 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4714089 O 4714089 0 0 0 1 0 0 0 span div emp-phone 18 0
+allan.arvidsson O allan.arvidsson 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Ashraf B-PER ashraf 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Pouya I-PER pouya 0 1 0 0 0 0 1 div li emp-name 17 0
+
+teaching O teaching 0 0 0 0 0 0 0 div li emp-title 17 2
+assistant O assistant 0 0 0 0 0 0 0 div li emp-title 17 2
+pouya.ashraf O pouya.ashraf 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Berglund B-PER berglund 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Anneli I-PER anneli 0 1 0 0 0 0 1 div li emp-name 17 0
+
+course O course 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4716109 O 4716109 0 0 0 1 0 0 0 span div emp-phone 18 0
+anneli.berglund O anneli.berglund 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Brandhammar B-PER brandhammar 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Anna I-PER anna 0 1 0 0 0 0 1 div li emp-name 17 0
+- I-PER - 0 0 0 0 0 0 0 div li emp-name 17 0
+Helena I-PER helena 0 1 0 0 0 0 1 div li emp-name 17 0
+
+financial O financial 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4717345 O 4717345 0 0 0 1 0 0 0 span div emp-phone 18 0
+anna O anna 0 0 0 0 0 0 0 div li emp-email 17 5
+- O - 0 0 0 0 0 0 0 div li emp-email 17 5
+helena.brandhammar O helena.brandhammar 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Brännvall B-PER brannvall 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Mathias I-PER mathias 0 1 0 0 0 0 1 div li emp-name 17 0
+
+administrative O administrative 0 0 0 0 0 0 0 div li emp-title 17 2
+coordinator O coordinator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4717601 O 4717601 0 0 0 1 0 0 0 span div emp-phone 18 0
+
+Carlsson B-PER carlsson 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Mats I-PER mats 0 1 0 0 0 0 1 div li emp-name 17 0
+
+visiting O visiting 0 0 0 0 0 0 0 div li emp-title 17 2
+researcher O researcher 0 0 0 0 0 0 0 div li emp-title 17 2
+
+Claesson B-PER claesson 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Mona I-PER mona 1 1 0 0 0 0 1 div li emp-name 17 0
+
+systems O systems 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
+mona.claesson O mona.claesson 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Dahlö B-PER dahlo 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Martin I-PER martin 0 1 0 0 0 0 1 div li emp-name 17 0
+
+bioinformatician O bioinformatician 0 0 0 0 0 0 0 div li emp-title 17 2
+martin.dahlo O martin.dahlo 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Elfström B-PER elfstrom 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Dick I-PER dick 0 1 0 0 0 0 1 div li emp-name 17 0
+
+computer O computer 0 0 0 0 0 0 0 div li emp-title 17 2
+technician O technician 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4716285 O 4716285 0 0 0 1 0 0 0 span div emp-phone 18 0
+dick.elfstrom O dick.elfstrom 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Feiff B-PER feiff 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Johanna I-PER johanna 0 1 0 0 0 0 1 div li emp-name 17 0
+
+financial O financial 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4713462 O 4713462 0 0 0 1 0 0 0 span div emp-phone 18 0
+johanna.feiff O johanna.feiff 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Fernando B-PER fernando 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Nelly I-PER nelly 0 1 0 0 0 0 1 div li emp-name 17 0
+
+financial O financial 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4717606 O 4717606 0 0 0 1 0 0 0 span div emp-phone 18 0
+nelly.fernando O nelly.fernando 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Fernquist B-PER fernquist 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Johan I-PER johan 0 1 0 0 0 0 1 div li emp-name 17 0
+
+administrative O administrative 0 0 0 0 0 0 0 div li emp-title 17 2
+coordinator O coordinator 0 0 0 0 0 0 0 div li emp-title 17 2
+johan.fernquist O johan.fernquist 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Folkesson B-PER folkesson 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Anneli I-PER anneli 0 1 0 0 0 0 1 div li emp-name 17 0
+
+web O web 0 0 0 0 0 0 0 div li emp-title 17 2
+editor O editor 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4715759 O 4715759 0 0 0 1 0 0 0 span div emp-phone 18 0
+anneli.folkesson O anneli.folkesson 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Forsberg B-PER forsberg 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Anna I-PER anna 0 1 0 0 0 0 1 div li emp-name 17 0
+- I-PER - 0 0 0 0 0 0 0 div li emp-name 17 0
+Lena I-PER lena 0 1 0 0 0 0 1 div li emp-name 17 0
+
+personnel O personnel 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4712589 O 4712589 0 0 0 1 0 0 0 span div emp-phone 18 0
+anna O anna 0 0 0 0 0 0 0 div li emp-email 17 5
+- O - 0 0 0 0 0 0 0 div li emp-email 17 5
+lena.forsberg O lena.forsberg 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Fredrikson B-PER fredrikson 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Joel I-PER joel 0 1 0 0 0 0 1 div li emp-name 17 0
+
+technical O technical 0 0 0 0 0 0 0 div li emp-title 17 2
+system O system 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4712907 O 4712907 0 0 0 1 0 0 0 span div emp-phone 18 0
+joel.fredrikson O joel.fredrikson 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Freyhult B-PER freyhult 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Pontus I-PER pontus 0 1 0 0 0 0 1 div li emp-name 17 0
+
+systems O systems 0 0 0 0 0 0 0 div li emp-title 17 2
+developer O developer 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4711060 O 4711060 0 0 0 1 0 0 0 span div emp-phone 18 0
+pontus.freyhult O pontus.freyhult 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Fängström B-PER fangstrom 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Torbjörn I-PER torbjorn 0 1 0 0 0 0 1 div li emp-name 17 0
+
+director O director 0 0 0 0 0 0 0 div li emp-title 17 2
+
+Grundström B-PER grundstrom 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Billy I-PER billy 0 1 0 0 0 0 1 div li emp-name 17 0
+
+teaching O teaching 0 0 0 0 0 0 0 div li emp-title 17 2
+assistant O assistant 0 0 0 0 0 0 0 div li emp-title 17 2
+billy.grundstrom O billy.grundstrom 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Gustavsson B-PER gustavsson 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Sara I-PER sara 0 1 0 0 0 0 1 div li emp-name 17 0
+
+teaching O teaching 0 0 0 0 0 0 0 div li emp-title 17 2
+assistant O assistant 0 0 0 0 0 0 0 div li emp-title 17 2
+sara.gustavsson O sara.gustavsson 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Gölander B-PER golander 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Filip I-PER filip 0 1 0 0 0 0 1 div li emp-name 17 0
+
+teaching O teaching 0 0 0 0 0 0 0 div li emp-title 17 2
+assistant O assistant 0 0 0 0 0 0 0 div li emp-title 17 2
+filip.golander O filip.golander 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Hammargren B-PER hammargren 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Per I-PER per 0 1 0 0 0 0 1 div li emp-name 17 0
+- I-PER - 0 0 0 0 0 0 0 div li emp-name 17 0
+Olov I-PER olov 0 1 0 0 0 0 1 div li emp-name 17 0
+
+administrative O administrative 0 0 0 0 0 0 0 div li emp-title 17 2
+coordinator O coordinator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4715701 O 4715701 0 0 0 1 0 0 0 span div emp-phone 18 0
+per O per 0 0 0 0 0 0 0 div li emp-email 17 5
+- O - 0 0 0 0 0 0 0 div li emp-email 17 5
+olov.hammargren O olov.hammargren 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Hansen B-PER hansen 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Nike I-PER nike 0 1 0 0 0 0 1 div li emp-name 17 0
+
+coordinator O coordinator 0 0 0 0 0 0 0 div li emp-title 17 2
+nike.hansen O nike.hansen 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Hedlund B-PER hedlund 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Henrik I-PER henrik 0 1 0 0 0 0 1 div li emp-name 17 0
+
+Technical O technical 0 0 0 0 0 0 1 div li emp-title 17 2
+Coordinator O coordinator 0 0 0 0 0 0 1 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4712767 O 4712767 0 0 0 1 0 0 0 span div emp-phone 18 0
+henrik.hedlund O henrik.hedlund 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Holm B-PER holm 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Marcus I-PER marcus 0 1 0 0 0 0 1 div li emp-name 17 0
+
+coordinator O coordinator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4716201 O 4716201 0 0 0 1 0 0 0 span div emp-phone 18 0
+marcus.holm O marcus.holm 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Hortlund B-PER hortlund 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Agneta I-PER agneta 0 1 0 0 0 0 1 div li emp-name 17 0
+
+financial O financial 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4711058 O 4711058 0 0 0 1 0 0 0 span div emp-phone 18 0
+agneta.hortlund O agneta.hortlund 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Jalstrand B-PER jalstrand 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Anne I-PER anne 0 1 0 0 0 0 1 div li emp-name 17 0
+- I-PER - 0 0 0 0 0 0 0 div li emp-name 17 0
+Marie I-PER marie 0 1 0 0 0 0 1 div li emp-name 17 0
+
+financial O financial 0 0 0 0 0 0 0 div li emp-title 17 2
+assistant O assistant 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4717343 O 4717343 0 0 0 1 0 0 0 span div emp-phone 18 0
+anne O anne 0 0 0 0 0 0 0 div li emp-email 17 5
+- O - 0 0 0 0 0 0 0 div li emp-email 17 5
+marie.jalstrand O marie.jalstrand 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Jaresund B-PER jaresund 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Ulrika I-PER ulrika 0 1 0 0 0 0 1 div li emp-name 17 0
+
+samordnare O samordnare 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4712969 O 4712969 0 0 0 1 0 0 0 span div emp-phone 18 0
+ulrika.jaresund O ulrika.jaresund 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Jonasson B-PER jonasson 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Jeff I-PER jeff 0 1 0 0 0 0 1 div li emp-name 17 0
+
+teaching O teaching 0 0 0 0 0 0 0 div li emp-title 17 2
+assistant O assistant 0 0 0 0 0 0 0 div li emp-title 17 2
+jeff.jonasson O jeff.jonasson 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Karlsson B-PER karlsson 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Lennart I-PER lennart 0 1 0 0 0 0 1 div li emp-name 17 0
+
+technical O technical 0 0 0 0 0 0 0 div li emp-title 17 2
+system O system 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4712657 O 4712657 0 0 0 1 0 0 0 span div emp-phone 18 0
+lennart.karlsson O lennart.karlsson 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Komminaho B-PER komminaho 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Jukka I-PER jukka 0 1 0 0 0 0 1 div li emp-name 17 0
+
+Technical O technical 0 0 0 0 0 0 1 div li emp-title 17 2
+Coordinator O coordinator 0 0 0 0 0 0 1 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4711024 O 4711024 0 0 0 1 0 0 0 span div emp-phone 18 0
+jukka.komminaho O jukka.komminaho 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Kulawiak B-PER kulawiak 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Daniel I-PER daniel 0 1 0 0 0 0 1 div li emp-name 17 0
+Krzysztof I-PER krzysztof 0 1 0 0 0 0 1 div li emp-name 17 0
+
+systems O systems 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4711026 O 4711026 0 0 0 1 0 0 0 span div emp-phone 18 0
+daniel.kulawiak O daniel.kulawiak 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Lind B-PER lind 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Eva I-PER eva 0 1 0 0 0 0 1 div li emp-name 17 0
+
+senior O senior 0 0 0 0 0 0 0 div li emp-title 17 2
+adviser O adviser 0 0 0 0 0 0 0 div li emp-title 17 2
+eva.lind O eva.lind 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Lindgren B-PER lindgren 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Carina I-PER carina 0 1 0 0 0 0 1 div li emp-name 17 0
+
+financial O financial 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
+( O ( 0 0 0 0 0 0 0 div li emp-title 17 2
+LOA O loa 0 0 0 0 0 0 1 div li emp-title 17 2
+) O ) 0 0 0 0 0 0 0 div li emp-title 17 2
+carina.lindgren O carina.lindgren 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Lindqvist B-PER lindqvist 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Elisabeth I-PER elisabeth 0 1 0 0 0 0 1 div li emp-name 17 0
+
+project O project 0 0 0 0 0 0 0 div li emp-title 17 2
+coordinator O coordinator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4716339 O 4716339 0 0 0 1 0 0 0 span div emp-phone 18 0
+elisabeth.lindqvist O elisabeth.lindqvist 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Lindroth B-PER lindroth 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Katarina I-PER katarina 0 1 0 0 0 0 1 div li emp-name 17 0
+
+financial O financial 0 0 0 0 0 0 0 div li emp-title 17 2
+coordinator O coordinator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4717607 O 4717607 0 0 0 1 0 0 0 span div emp-phone 18 0
+katarina.lindroth O katarina.lindroth 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Lindén B-PER linden 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Björn I-PER bjorn 0 1 0 0 0 0 1 div li emp-name 17 0
+
+systems O systems 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4711050 O 4711050 0 0 0 1 0 0 0 span div emp-phone 18 0
+bjorn.linden O bjorn.linden 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Lundell B-PER lundell 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Lotta I-PER lotta 0 1 0 0 0 0 1 div li emp-name 17 0
+
+administrative O administrative 0 0 0 0 0 0 0 div li emp-title 17 2
+manager O manager 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4711013 O 4711013 0 0 0 1 0 0 0 span div emp-phone 18 0
+lotta.lundell O lotta.lundell 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Lundeqvist B-PER lundeqvist 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Elias I-PER elias 0 1 0 0 0 0 1 div li emp-name 17 0
+
+teaching O teaching 0 0 0 0 0 0 0 div li emp-title 17 2
+assistant O assistant 0 0 0 0 0 0 0 div li emp-title 17 2
+elias.lundeqvist O elias.lundeqvist 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Lundin B-PER lundin 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Mats I-PER mats 0 1 0 0 0 0 1 div li emp-name 17 0
+
+computer O computer 0 0 0 0 0 0 0 div li emp-title 17 2
+technician O technician 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4713175 O 4713175 0 0 0 1 0 0 0 span div emp-phone 18 0
+mats.lundin O mats.lundin 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Lundström B-PER lundstrom 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Cecilia I-PER cecilia 0 1 0 0 0 0 1 div li emp-name 17 0
+
+teaching O teaching 0 0 0 0 0 0 0 div li emp-title 17 2
+assistant O assistant 0 0 0 0 0 0 0 div li emp-title 17 2
+cecilia.lundstrom O cecilia.lundstrom 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Malm B-PER malm 0 1 0 0 0 0 1 div li emp-name 17 0
+Holmgren I-PER holmgren 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Karolina I-PER karolina 0 1 0 0 0 0 1 div li emp-name 17 0
+
+senior O senior 0 0 0 0 0 0 0 div li emp-title 17 2
+research O research 0 0 0 0 0 0 0 div li emp-title 17 2
+engineer O engineer 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4716888 O 4716888 0 0 0 1 0 0 0 span div emp-phone 18 0
+karolina.malm O karolina.malm 0 0 0 0 0 0 0 div li emp-email 17 5
+- O - 0 0 0 0 0 0 0 div li emp-email 17 5
+holmgren O holmgren 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Mildner B-PER mildner 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Per I-PER per 0 1 0 0 0 0 1 div li emp-name 17 0
+
+visiting O visiting 0 0 0 0 0 0 0 div li emp-title 17 2
+researcher O researcher 0 0 0 0 0 0 0 div li emp-title 17 2
+
+Nettelblad B-PER nettelblad 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Jessica I-PER jessica 0 1 0 0 0 0 1 div li emp-name 17 0
+
+systems O systems 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4712964 O 4712964 0 0 0 1 0 0 0 span div emp-phone 18 0
+jessica.nettelblad O jessica.nettelblad 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Nilsson B-PER nilsson 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Linus I-PER linus 0 1 0 0 0 0 1 div li emp-name 17 0
+
+systems O systems 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4714089 O 4714089 0 0 0 1 0 0 0 span div emp-phone 18 0
+linus.nilsson O linus.nilsson 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Nordholm B-PER nordholm 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Marina I-PER marina 0 1 0 0 0 0 1 div li emp-name 17 0
+
+department O department 0 0 0 0 0 0 0 div li emp-title 17 2
+technician O technician 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4715703 O 4715703 0 0 0 1 0 0 0 span div emp-phone 18 0
+marina.nordholm O marina.nordholm 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Nordling B-PER nordling 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Tord I-PER tord 0 1 0 0 0 0 1 div li emp-name 17 0
+
+systems O systems 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4711021 O 4711021 0 0 0 1 0 0 0 span div emp-phone 18 0
+tord.nordling O tord.nordling 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Nordstedt B-PER nordstedt 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Michael I-PER michael 0 1 0 0 0 0 1 div li emp-name 17 0
+
+systems O systems 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4711370 O 4711370 0 0 0 1 0 0 0 span div emp-phone 18 0
+michael.nordstedt O michael.nordstedt 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Okonski B-PER okonski 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Aleksander I-PER aleksander 0 1 0 0 0 0 1 div li emp-name 17 0
+
+systems O systems 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
+aleksander.okonski O aleksander.okonski 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Raidl B-PER raidl 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Astrid I-PER astrid 0 1 0 0 0 0 1 div li emp-name 17 0
+
+systems O systems 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4712986 O 4712986 0 0 0 1 0 0 0 span div emp-phone 18 0
+astrid.raidl O astrid.raidl 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Rick B-PER rick 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Elsa I-PER elsa 0 1 0 0 0 0 1 div li emp-name 17 0
+
+teaching O teaching 0 0 0 0 0 0 0 div li emp-title 17 2
+assistant O assistant 0 0 0 0 0 0 0 div li emp-title 17 2
+elsa.rick O elsa.rick 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Schreiber B-PER schreiber 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Alexander I-PER alexander 0 1 0 0 0 0 1 div li emp-name 17 0
+
+degree O degree 0 0 0 0 0 0 0 div li emp-title 17 2
+project O project 0 0 0 0 0 0 0 div li emp-title 17 2
+worker O worker 0 0 0 0 0 0 0 div li emp-title 17 2
+
+Siretskiy B-PER siretskiy 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Alexey I-PER alexey 0 1 0 0 0 0 1 div li emp-name 17 0
+
+post O post 0 0 0 0 0 0 0 div li emp-title 17 2
+doctoral O doctoral 0 0 0 0 0 0 0 div li emp-title 17 2
+alexey.siretskiy O alexey.siretskiy 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Sjölander B-PER sjolander 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Anders I-PER anders 0 1 0 0 1 0 1 div li emp-name 17 0
+
+bioinformatician O bioinformatician 0 0 0 0 0 0 0 div li emp-title 17 2
+anders.sjolander O anders.sjolander 0 0 0 0 1 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Sjöåker B-PER sjoaker 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Joakim I-PER joakim 0 1 0 0 0 0 1 div li emp-name 17 0
+
+technical O technical 0 0 0 0 0 0 0 div li emp-title 17 2
+system O system 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4711081 O 4711081 0 0 0 1 0 0 0 span div emp-phone 18 0
+joakim.sjoaker O joakim.sjoaker 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Skoknic B-PER skoknic 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Loreto I-PER loreto 0 1 0 0 0 0 1 div li emp-name 17 0
+
+course O course 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4716225 O 4716225 0 0 0 1 0 0 0 span div emp-phone 18 0
+loreto.skoknic O loreto.skoknic 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Sonnhammer B-PER sonnhammer 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Ann I-PER ann 1 1 0 0 0 0 1 div li emp-name 17 0
+- I-PER - 0 0 0 0 0 0 0 div li emp-name 17 0
+Charlotte I-PER charlotte 0 1 0 0 0 0 1 div li emp-name 17 0
+
+Technical O technical 0 0 0 0 0 0 1 div li emp-title 17 2
+Coordinator O coordinator 0 0 0 0 0 0 1 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4713177 O 4713177 0 0 0 1 0 0 0 span div emp-phone 18 0
+ann O ann 0 0 0 0 0 0 0 div li emp-email 17 5
+- O - 0 0 0 0 0 0 0 div li emp-email 17 5
+charlotte.sonnhammer O charlotte.sonnhammer 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Starbäck B-PER starback 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Erik I-PER erik 0 1 0 0 0 0 1 div li emp-name 17 0
+
+technical O technical 0 0 0 0 0 0 0 div li emp-title 17 2
+system O system 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4717828 O 4717828 0 0 0 1 0 0 0 span div emp-phone 18 0
+erik.starback O erik.starback 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Sundell B-PER sundell 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Thomas I-PER thomas 0 1 0 0 0 0 1 div li emp-name 17 0
+
+technical O technical 0 0 0 0 0 0 0 div li emp-title 17 2
+system O system 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4712988 O 4712988 0 0 0 1 0 0 0 span div emp-phone 18 0
+thomas.sundell O thomas.sundell 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Söderholm B-PER soderholm 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Robin I-PER robin 0 1 0 0 0 0 1 div li emp-name 17 0
+
+teaching O teaching 0 0 0 0 0 0 0 div li emp-title 17 2
+assistant O assistant 0 0 0 0 0 0 0 div li emp-title 17 2
+robin.soderholm O robin.soderholm 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Thorburn B-PER thorburn 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Mats I-PER mats 0 1 0 0 0 0 1 div li emp-name 17 0
+
+information O information 0 0 0 0 0 0 0 div li emp-title 17 2
+officer O officer 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4716458 O 4716458 0 0 0 1 0 0 0 span div emp-phone 18 0
+mats.thorburn O mats.thorburn 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Trossvik B-PER trossvik 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Emmaline I-PER emmaline 0 1 0 0 1 0 1 div li emp-name 17 0
+
+course O course 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4715728 O 4715728 0 0 0 1 0 0 0 span div emp-phone 18 0
+emmaline.trossvik O emmaline.trossvik 0 0 0 0 1 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Vallin B-PER vallin 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Andreas I-PER andreas 0 1 0 0 1 0 1 div li emp-name 17 0
+
+systems O systems 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
+andreas.vallin O andreas.vallin 0 0 0 0 1 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Vincent B-PER vincent 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Jonathan I-PER jonathan 0 1 0 0 0 0 1 div li emp-name 17 0
+
+project O project 0 0 0 0 0 0 0 div li emp-title 17 2
+manager O manager 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4713177 O 4713177 0 0 0 1 0 0 0 span div emp-phone 18 0
+jonathan.vincent O jonathan.vincent 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Viring B-PER viring 0 0 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Solveig I-PER solveig 0 1 0 0 0 0 1 div li emp-name 17 0
+
+senior O senior 0 0 0 0 0 0 0 div li emp-title 17 2
+adviser O adviser 0 0 0 0 0 0 0 div li emp-title 17 2
+solveig.viring O solveig.viring 0 0 0 0 0 0 0 div li emp-email 17 4
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 4
+
+Waites B-PER waites 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Peter I-PER peter 0 1 0 0 0 0 1 div li emp-name 17 0
+
+web O web 0 0 0 0 0 0 0 div li emp-title 17 2
+editor O editor 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4715759 O 4715759 0 0 0 1 0 0 0 span div emp-phone 18 0
+peter.waites O peter.waites 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Wass B-PER wass 0 1 0 0 0 0 1 div li emp-name 17 0
+, I-PER , 0 0 0 0 0 0 0 div li emp-name 17 0
+Ingegerd I-PER ingegerd 0 1 0 0 0 0 1 div li emp-name 17 0
+
+course O course 0 0 0 0 0 0 0 div li emp-title 17 2
+administrator O administrator 0 0 0 0 0 0 0 div li emp-title 17 2
++46 O +46 0 0 0 1 0 0 0 span div emp-phone 18 0
+18 O 18 0 0 0 1 0 0 0 span div emp-phone 18 0
+4713074 O 4713074 0 0 0 1 0 0 0 span div emp-phone 18 0
+ingegerd.wass O ingegerd.wass 0 0 0 0 0 0 0 div li emp-email 17 5
+[AT O [at 0 0 0 0 0 0 0 a div rplcAt 18 0
+- O - 0 0 0 0 0 0 0 a div rplcAt 18 0
+sign] O sign] 0 0 0 0 0 0 0 a div rplcAt 18 0
+it.uu.se O it.uu.se 0 0 0 0 0 0 0 div li emp-email 17 5
+
+Registratorer O registratorer 0 0 0 0 0 0 1 div div unitInfo 13 0
+: O : 0 0 0 0 0 0 0 div div unitInfo 13 0
+Loreto O loreto 0 1 0 0 0 0 1 div div unitInfo 13 0
+Skoknic O skoknic 0 0 0 0 0 0 1 div div unitInfo 13 0
+, O , 0 0 0 0 0 0 0 div div unitInfo 13 0
+Lena B-PER lena 0 1 0 0 0 0 1 div div unitInfo 13 0
+Nordström I-PER nordstrom 0 1 0 0 0 0 1 div div unitInfo 13 0
+, O , 0 0 0 0 0 0 0 div div unitInfo 13 0
+Ulrika B-PER ulrika 0 1 0 0 0 0 1 div div unitInfo 13 0
+Andersson I-PER andersson 0 1 0 0 1 0 1 div div unitInfo 13 0
+, O , 0 0 0 0 0 0 0 div div unitInfo 13 0
+registrator@it.uu.se O registrator@it.uu.se 0 0 1 0 0 0 0 div div unitInfo 13 0
+
+IT O it 0 0 0 0 0 0 1 div div unitInfo 13 0
+- O - 0 0 0 0 0 0 0 div div unitInfo 13 0
+kansli O kansli 0 0 0 0 0 0 0 div div unitInfo 13 0
+( O ( 0 0 0 0 0 0 0 div div unitInfo 13 0
+grundutbildningsfrågor O grundutbildningsfragor 0 0 0 0 0 0 0 div div unitInfo 13 0
+) O ) 0 0 0 0 0 0 0 div div unitInfo 13 0
+: O : 0 0 0 0 0 0 0 div div unitInfo 13 0
+7604 O 7604 0 0 0 1 0 0 0 div div unitInfo 13 0
+; O ; 0 0 0 0 0 0 0 div div unitInfo 13 0
+fax O fax 0 0 0 0 0 0 0 div div unitInfo 13 0
+: O : 0 0 0 0 0 0 0 div div unitInfo 13 0
+471 O 471 0 0 0 1 0 0 0 div div unitInfo 13 0
+6289 O 6289 0 0 0 1 0 0 0 div div unitInfo 13 0
+; O ; 0 0 0 0 0 0 0 div div unitInfo 13 0
+IT O it 0 0 0 0 0 0 1 div div unitInfo 13 0
+- O - 0 0 0 0 0 0 0 div div unitInfo 13 0
+kansli@it.uu.se O kansli@it.uu.se 0 0 1 0 0 0 0 div div unitInfo 13 0
+
+Forskningsprefekt O forskningsprefekt 0 0 0 0 0 0 1 div div unitInfo 13 0
+: O : 0 0 0 0 0 0 0 div div unitInfo 13 0
+Gunilla O gunilla 1 1 0 0 0 0 1 div div unitInfo 13 0
+Kreiss O kreiss 1 1 0 0 0 0 1 div div unitInfo 13 0
+professor O professor 0 0 0 0 1 0 0 div div unitInfo 13 0
+, O , 0 0 0 0 0 0 0 div div unitInfo 13 0
+2968 O 2968 0 0 0 1 0 0 0 div div unitInfo 13 0
+
+Utbildningsprefekt O utbildningsprefekt 0 0 0 0 0 0 1 div div unitInfo 13 0
+: O : 0 0 0 0 0 0 0 div div unitInfo 13 0
+Arnold O arnold 1 1 0 0 0 0 1 div div unitInfo 13 0
+Pears O pears 1 1 0 0 0 0 1 div div unitInfo 13 0
+univ.lektor O univ.lektor 0 0 0 0 0 0 0 div div unitInfo 13 0
+, O , 0 0 0 0 0 0 0 div div unitInfo 13 0
+1066 O 1066 0 0 0 1 0 0 0 div div unitInfo 13 0
+
+Studierektor O studierektor 0 0 0 0 0 0 1 div div unitInfo 13 0
+för O for 0 0 0 0 0 0 0 div div unitInfo 13 0
+forskarutbildningen O forskarutbildningen 0 0 0 0 0 0 0 div div unitInfo 13 0
+: O : 0 0 0 0 0 0 0 div div unitInfo 13 0
+Wang O wang 1 1 0 0 0 0 1 div div unitInfo 13 0
+Yi O yi 0 1 0 0 0 0 1 div div unitInfo 13 0
+, O , 0 0 0 0 0 0 0 div div unitInfo 13 0
+3110 O 3110 0 0 0 1 0 0 0 div div unitInfo 13 0
+
+Exjobbssamordnare O exjobbssamordnare 0 0 0 0 0 0 1 div div unitInfo 13 0
+: O : 0 0 0 0 0 0 0 div div unitInfo 13 0
+exjobb@it.uu.se O exjobb@it.uu.se 0 0 1 0 0 0 0 div div unitInfo 13 0
+
+Chefsadministratör O chefsadministrator 0 0 0 0 0 0 1 div div unitInfo 13 0
+: O : 0 0 0 0 0 0 0 div div unitInfo 13 0
+Lotta O lotta 0 1 0 0 0 0 1 div div unitInfo 13 0
+Lundell O lundell 0 1 0 0 0 0 1 div div unitInfo 13 0
+, O , 0 0 0 0 0 0 0 div div unitInfo 13 0
+1013 O 1013 0 0 0 1 0 0 0 div div unitInfo 13 0
+
+Lokalbokning O lokalbokning 0 0 0 0 0 0 1 div div unitInfo 13 0
+: O : 0 0 0 0 0 0 0 div div unitInfo 13 0
+Ulrika O ulrika 0 1 0 0 0 0 1 div div unitInfo 13 0
+Jaresund O jaresund 0 0 0 0 0 0 1 div div unitInfo 13 0
+, O , 0 0 0 0 0 0 0 div div unitInfo 13 0
+2969 O 2969 0 0 0 1 0 0 0 div div unitInfo 13 0
+
+LäsIT O lasit 0 0 0 0 0 0 1 div div unitInfo 13 0
+: O : 0 0 0 0 0 0 0 div div unitInfo 13 0
+Lotta O lotta 0 1 0 0 0 0 1 div div unitInfo 13 0
+Lundell O lundell 0 1 0 0 0 0 1 div div unitInfo 13 0
+, O , 0 0 0 0 0 0 0 div div unitInfo 13 0
+1013 O 1013 0 0 0 1 0 0 0 div div unitInfo 13 0
+, O , 0 0 0 0 0 0 0 div div unitInfo 13 0
+Roland O roland 0 1 0 0 0 0 1 div div unitInfo 13 0
+Grönroos O gronroos 0 1 0 0 0 0 1 div div unitInfo 13 0
+, O , 0 0 0 0 0 0 0 div div unitInfo 13 0
+6847 O 6847 0 0 0 1 0 0 0 div div unitInfo 13 0
+
+Programsamordnare/Program O programsamordnare/program 0 0 0 0 0 0 1 div div unitInfo 13 0
+Coordinators O coordinators 0 0 0 0 0 0 1 div div unitInfo 13 0
+
+Kandidatprogrammet O kandidatprogrammet 0 0 0 0 0 0 1 div div unitInfo 13 0
+i O i 0 1 0 0 0 0 0 div div unitInfo 13 0
+datavetenskap O datavetenskap 0 0 0 0 0 0 0 div div unitInfo 13 0
+: O : 0 0 0 0 0 0 0 div div unitInfo 13 0
+
+Olle O olle 0 1 0 0 0 0 1 div div unitInfo 13 0
+Gällmo O gallmo 0 0 0 0 0 0 1 div div unitInfo 13 0
+univ.adjunkt O univ.adjunkt 0 0 0 0 0 0 0 div div unitInfo 13 0
+, O , 0 0 0 0 0 0 0 div div unitInfo 13 0
+1009 O 1009 0 0 0 1 0 0 0 div div unitInfo 13 0
+
+Civilingenjörsprogrammet O civilingenjorsprogrammet 0 0 0 0 0 0 1 div div unitInfo 13 0
+i O i 0 1 0 0 0 0 0 div div unitInfo 13 0
+informationsteknologi O informationsteknologi 0 0 0 0 0 0 0 div div unitInfo 13 0
+: O : 0 0 0 0 0 0 0 div div unitInfo 13 0
+
+Lars O lars 0 1 0 0 0 0 1 div div unitInfo 13 0
+- O - 0 0 0 0 0 0 0 div div unitInfo 13 0
+Åke O ake 0 1 0 0 0 0 1 div div unitInfo 13 0
+Nordén O norden 0 1 0 0 0 0 1 div div unitInfo 13 0
+, O , 0 0 0 0 0 0 0 div div unitInfo 13 0
+univ.lektor O univ.lektor 0 0 0 0 0 0 0 div div unitInfo 13 0
+, O , 0 0 0 0 0 0 0 div div unitInfo 13 0
+2781 O 2781 0 0 0 1 0 0 0 div div unitInfo 13 0
+
+Search O search 0 0 0 0 0 0 1 a div cta-button-text 13 0
+for O for 0 1 0 0 0 0 0 a div cta-button-text 13 0
+organisation O organisation 0 0 0 0 0 0 0 a div cta-button-text 13 0
+or O or 0 0 0 0 0 0 0 a div cta-button-text 13 0
+staff O staff 0 0 0 0 0 0 0 a div cta-button-text 13 0
+
+Print O print 0 1 0 0 0 0 1 div div print 12 0
+
+Contact O contact 0 0 0 0 0 0 1 div div  8 0
+us O us 0 1 0 0 0 0 0 div div  8 0
+
+Tel. O tel. 0 0 0 0 0 0 1 div div footer-content 9 0
+: O : 0 0 0 0 0 0 0 div div footer-content 9 0
++46 O +46 0 0 0 1 0 0 0 div div footer-content 9 0
+( O ( 0 0 0 0 0 0 0 div div footer-content 9 0
+0 O 0 0 0 0 1 0 0 0 div div footer-content 9 0
+) O ) 0 0 0 0 0 0 0 div div footer-content 9 0
+18 O 18 0 0 0 1 0 0 0 div div footer-content 9 0
+- O - 0 0 0 0 0 0 0 div div footer-content 9 0
+471 O 471 0 0 0 1 0 0 0 div div footer-content 9 0
+00 O 00 0 0 0 1 0 0 0 div div footer-content 9 0
+00 O 00 0 0 0 1 0 0 0 div div footer-content 9 0
+
+More O more 0 1 0 0 0 0 1 p div footer-content 10 1
+contact O contact 0 0 0 0 0 0 0 p div footer-content 10 1
+details O details 0 0 0 0 0 0 0 p div footer-content 10 1
+
+University O university 0 1 0 0 0 0 1 p div footer-content 10 3
+Directory O directory 0 0 0 0 0 0 1 p div footer-content 10 3
+
+You O you 0 1 0 0 0 0 1 div div footer-content 9 5
+can O can 0 0 0 0 0 0 0 div div footer-content 9 5
+also O also 0 0 0 0 0 0 0 div div footer-content 9 5
+find O find 0 0 0 0 0 0 0 div div footer-content 9 5
+us O us 0 1 0 0 0 0 0 div div footer-content 9 5
+on O on 0 0 0 0 0 0 0 div div footer-content 9 5
+: O : 0 0 0 0 0 0 0 div div footer-content 9 5
+
+Visit O visit 0 1 0 0 0 0 1 div div  8 0
+us O us 0 1 0 0 0 0 0 div div  8 0
+
+Faculties O faculties 0 0 0 0 0 0 1 p div footer-content 10 0
+, O , 0 0 0 0 0 0 0 p div footer-content 10 0
+Departments O departments 0 0 0 0 0 0 1 p div footer-content 10 0
+& O & 0 0 0 0 0 0 0 p div footer-content 10 0
+Staff O staff 0 1 0 0 0 0 1 p div footer-content 10 0
+
+Campus O campus 0 1 0 0 0 0 1 p div footer-content 10 2
+Areas O areas 0 0 0 0 0 0 1 p div footer-content 10 2
+
+Museums O museums 0 0 0 0 1 0 1 p div footer-content 10 4
+& O & 0 0 0 0 0 0 0 p div footer-content 10 4
+Gardens O gardens 0 0 0 0 0 0 1 p div footer-content 10 4
+
+Map O map 0 0 0 0 0 0 1 p div footer-content 10 6
+of O of 0 1 0 0 0 0 0 p div footer-content 10 6
+Uppsala O uppsala 0 0 0 0 0 0 1 p div footer-content 10 6
+University O university 0 1 0 0 0 0 1 p div footer-content 10 6
+
+Shortcuts O shortcuts 0 0 0 0 0 0 1 div div last 8 0
+
+News O news 0 0 0 0 0 0 1 p div footer-content 10 0
+and O and 0 1 0 0 0 0 0 p div footer-content 10 0
+Media O media 0 1 0 0 0 0 1 p div footer-content 10 0
+Service O service 0 1 0 0 0 0 1 p div footer-content 10 0
+
+Library O library 0 0 0 0 0 0 1 p div footer-content 10 2
+
+Jobs O jobs 0 1 0 0 0 0 1 p div footer-content 10 4
+& O & 0 0 0 0 0 0 0 p div footer-content 10 4
+Vacancies O vacancies 0 0 0 0 0 0 1 p div footer-content 10 4
+
+The O the 0 1 0 0 0 0 1 p div footer-content 10 6
+Vice O vice 0 1 0 0 0 0 1 p div footer-content 10 6
+- O - 0 0 0 0 0 0 0 p div footer-content 10 6
+Chancellor’s O chancellor’s 0 0 0 0 0 0 1 p div footer-content 10 6
+Blog O blog 0 0 0 0 0 0 1 p div footer-content 10 6
+
+University O university 0 1 0 0 0 0 1 p div footer-content 10 8
+Management O management 0 1 0 0 0 0 1 p div footer-content 10 8
+
+Support O support 0 0 0 0 0 0 1 p div footer-content 10 10
+Uppsala O uppsala 0 0 0 0 0 0 1 p div footer-content 10 10
+University O university 0 1 0 0 0 0 1 p div footer-content 10 10
+
+International O international 0 0 0 0 0 0 1 p div footer-content 10 12
+Faculty O faculty 0 0 0 0 0 0 1 p div footer-content 10 12
+and O and 0 1 0 0 0 0 0 p div footer-content 10 12
+Staff O staff 0 1 0 0 0 0 1 p div footer-content 10 12
+Services O services 0 0 0 0 0 0 1 p div footer-content 10 12
+
+Medarbetarportalen O medarbetarportalen 0 0 0 0 0 0 1 p div footer-content 10 14
+– O – 0 0 0 0 0 0 0 p div footer-content 10 14
+Employee O employee 0 0 0 0 1 0 1 p div footer-content 10 14
+portal O portal 0 0 0 0 0 0 0 p div footer-content 10 14
+
+Student O student 0 1 0 0 0 0 1 p div footer-content 10 16
+portal O portal 0 0 0 0 0 0 0 p div footer-content 10 16
+
+© O © 0 0 0 0 0 0 0 div div footer-site-entry 8 0
+Uppsala O uppsala 0 0 0 0 0 0 1 div div footer-site-entry 8 0
+University O university 0 1 0 0 0 0 1 div div footer-site-entry 8 0
+Tel. O tel. 0 0 0 0 0 0 1 div div footer-site-entry 8 2
+: O : 0 0 0 0 0 0 0 div div footer-site-entry 8 2
++46 O +46 0 0 0 1 0 0 0 span div tel 9 0
+18 O 18 0 0 0 1 0 0 0 span div tel 9 0
+471 O 471 0 0 0 1 0 0 0 span div tel 9 0
+00 O 00 0 0 0 1 0 0 0 span div tel 9 0
+00 O 00 0 0 0 1 0 0 0 span div tel 9 0
+P.O. O p.o. 0 0 0 0 0 0 1 div div footer-site-entry 8 5
+Box O box 0 1 0 0 0 0 1 div div footer-site-entry 8 5
+256 O 256 0 0 0 1 0 0 0 div div footer-site-entry 8 5
+, O , 0 0 0 0 0 0 0 div div footer-site-entry 8 5
+SE O se 0 0 0 0 0 0 1 div div footer-site-entry 8 5
+- O - 0 0 0 0 0 0 0 div div footer-site-entry 8 5
+751 O 751 0 0 0 1 0 0 0 div div footer-site-entry 8 5
+05 O 05 0 0 0 1 0 0 0 div div footer-site-entry 8 5
+Uppsala O uppsala 0 0 0 0 0 0 1 div div footer-site-entry 8 5
+, O , 0 0 0 0 0 0 0 div div footer-site-entry 8 5
+Sweden O sweden 0 1 0 0 0 0 1 div div footer-site-entry 8 5
+
+Registration O registration 0 0 0 0 0 0 1 div div footer-site-entry 8 0
+number O number 0 0 0 0 0 0 0 div div footer-site-entry 8 0
+: O : 0 0 0 0 0 0 0 div div footer-site-entry 8 0
+202100 O 202100 0 0 0 1 0 0 0 div div footer-site-entry 8 0
+- O - 0 0 0 0 0 0 0 div div footer-site-entry 8 0
+2932 O 2932 0 0 0 1 0 0 0 div div footer-site-entry 8 0
+VAT O vat 0 0 0 0 0 0 1 div div footer-site-entry 8 2
+number O number 0 0 0 0 0 0 0 div div footer-site-entry 8 2
+: O : 0 0 0 0 0 0 0 div div footer-site-entry 8 2
+SE202100293201 O se202100293201 0 0 0 1 0 0 1 div div footer-site-entry 8 2
+Registrar O registrar 0 0 0 0 0 0 1 span div footer-site-entry 9 0
+About O about 0 0 0 0 0 0 1 span div footer-site-entry 9 0
+this O this 0 0 0 0 0 0 0 span div footer-site-entry 9 0
+website O website 0 0 0 0 0 0 0 span div footer-site-entry 9 0
+
+Go O go 0 1 0 0 0 0 1 a footer has-up-arrow 7 0
+to O to 0 0 0 0 0 0 0 a footer has-up-arrow 7 0
+top O top 0 0 0 0 0 0 0 a footer has-up-arrow 7 0

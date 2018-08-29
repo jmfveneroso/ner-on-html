@@ -1,804 +1,946 @@
-People: O 0 0 head html none 4 0
-Academic O 0 0 head html none 4 0
-Staff O 0 1 head html none 4 0
+People O people 0 1 0 0 0 0 1 head html none 4 0
+: O : 0 0 0 0 0 0 0 head html none 4 0
+Academic O academic 0 0 0 0 0 0 1 head html none 4 0
+Staff O staff 0 1 0 0 0 0 1 head html none 4 0
 
-Home O 0 1 li ul home 9 0
+Home O home 0 1 0 0 0 0 1 li ul home 9 0
 
-About O 0 0 li ul none 9 0
-Us O 0 1 li ul none 9 0
+About O about 0 0 0 0 0 0 1 li ul none 9 0
+Us O us 0 1 0 0 0 0 1 li ul none 9 0
 
-People O 0 1 li ul none 9 0
+People O people 0 1 0 0 0 0 1 li ul none 9 0
 
-Programmes O 0 0 li ul wide 9 0
+Programmes O programmes 0 0 0 0 0 0 1 li ul wide 9 0
 
-Activities O 0 0 li ul none 9 0
+Activities O activities 0 0 0 0 0 0 1 li ul none 9 0
 
-Close O 0 1 div div none 8 0
+Close O close 0 1 0 0 0 0 1 div div none 8 0
 
-Department O 0 0 li ul none 10 0
+Department O department 0 0 0 0 0 0 1 li ul none 10 0
 
-Mission O 0 1 li ul none 10 0
+Mission O mission 0 1 0 0 1 0 1 li ul none 10 0
 
-Job O 0 1 li ul none 10 0
-Vacancies O 0 0 li ul none 10 0
+Job O job 0 1 0 0 0 0 1 li ul none 10 0
+Vacancies O vacancies 0 0 0 0 0 0 1 li ul none 10 0
 
-Leaflet O 0 0 li ul none 10 0
-& O 0 0 li ul none 10 0
-Apps O 0 1 li ul none 10 0
+Leaflet O leaflet 0 0 0 0 0 0 1 li ul none 10 0
+& O & 0 0 0 0 0 0 0 li ul none 10 0
+Apps O apps 0 1 0 0 0 0 1 li ul none 10 0
 
-Academic O 0 0 li ul none 10 0
-Staff O 0 1 li ul none 10 0
+Academic O academic 0 0 0 0 0 0 1 li ul none 10 0
+Staff O staff 0 1 0 0 0 0 1 li ul none 10 0
 
-Administrative O 0 0 li ul none 10 0
-Staff O 0 1 li ul none 10 0
+Administrative O administrative 0 0 0 0 0 0 1 li ul none 10 0
+Staff O staff 0 1 0 0 0 0 1 li ul none 10 0
 
-Technical O 0 0 li ul none 10 0
-Staff O 0 1 li ul none 10 0
+Technical O technical 0 0 0 0 0 0 1 li ul none 10 0
+Staff O staff 0 1 0 0 0 0 1 li ul none 10 0
+
+BEng O beng 0 0 0 0 0 0 1 li ul wide 10 0
+in O in 0 1 0 0 0 0 0 li ul wide 10 0
+CE O ce 0 0 0 0 0 0 1 li ul wide 10 0
 
-BEng O 0 0 li ul wide 10 0
-in O 0 1 li ul wide 10 0
-CE O 0 0 li ul wide 10 0
+BSc O bsc 0 0 0 0 0 0 1 li ul wide 10 0
+in O in 0 1 0 0 0 0 0 li ul wide 10 0
+CS O cs 0 0 0 0 0 0 1 li ul wide 10 0
 
-BSc O 0 0 li ul wide 10 0
-in O 0 1 li ul wide 10 0
-CS O 0 0 li ul wide 10 0
-
-Minor O 0 1 li ul wide 10 0
-in O 0 1 li ul wide 10 0
-CS O 0 0 li ul wide 10 0
-
-Minor O 0 1 li ul wide 10 0
-in O 0 1 li ul wide 10 0
-Web O 0 1 li ul wide 10 0
-& O 0 0 li ul wide 10 0
-Cloud O 0 1 li ul wide 10 0
-Computing O 0 0 li ul wide 10 0
-
-MSc O 0 0 li ul wide 10 0
-in O 0 1 li ul wide 10 0
-CS O 0 0 li ul wide 10 0
-
-MPhil-PhD O 0 0 li ul wide 10 0
-in O 0 1 li ul wide 10 0
-CS&E; O 0 0 li ul wide 10 0
-
-Teaching O 0 0 li ul none 10 0
-Schedule O 0 0 li ul none 10 0
-
-Enrichment O 0 0 li ul none 10 0
-Activities O 0 0 li ul none 10 0
-
-Alumni O 0 0 li ul none 10 0
-Corner O 0 1 li ul none 10 0
-
-Seminar O 0 1 li ul none 10 0
-Archive O 0 0 li ul none 10 0
-
-The O 0 1 div div none 7 52
-Chinese O 0 0 div div none 7 52
-University O 0 1 div div none 7 52
-of O 0 1 div div none 7 52
-Hong O 0 1 div div none 7 52
-Kong O 0 1 div div none 7 52
-B5 O 0 0 div div none 7 53
-GB O 0 0 div div none 7 54
-
-People O 0 1 div div section_hd 9 0
-
-Academic O 0 0 a div sidemenu_head 12 0
-Staff O 0 1 a div sidemenu_head 12 0
-
-Administrative O 0 0 a div sidemenu_head 12 0
-Staff O 0 1 a div sidemenu_head 12 0
-
-Technical O 0 0 a div sidemenu_head 12 0
-Staff O 0 1 a div sidemenu_head 12 0
-
-Academic O 0 0 div div page_hd_1 9 0
-Staff O 0 1 div div page_hd_1 9 0
-
-Emeritus O 0 1 tr table page_hd_3 12 0
-Professors O 0 0 tr table page_hd_3 12 0
-
-CHEN B-NAME 0 0 td tr odd_tr 13 0
-Tien I-NAME 0 1 td tr odd_tr 13 0
-Chi I-NAME 0 1 td tr odd_tr 13 0
-é³å¤©æ© O 0 0 tr table odd_tr 12 2
-Emeritus O 0 1 tr table odd_tr 12 3
-Professor O 0 0 tr table odd_tr 12 3
-
-WONG B-NAME 0 0 td tr wide_tb 13 0
-Chak I-NAME 0 1 td tr wide_tb 13 0
-Kuen I-NAME 0 1 td tr wide_tb 13 0
-é»æ¾¤æ¬ O 0 0 tr table wide_tb 12 2
-Emeritus O 0 1 tr table wide_tb 12 3
-Professor O 0 0 tr table wide_tb 12 3
-
-Distinguished O 0 0 tr table page_hd_3 12 0
-Professor-at-Large O 0 0 tr table page_hd_3 12 0
-
-YAO B-NAME 0 0 td tr odd_tr 13 0
-Chi I-NAME 0 1 td tr odd_tr 13 0
-Chih I-NAME 0 1 td tr odd_tr 13 0
-Andrew I-NAME 0 1 td tr odd_tr 13 0
-å§ææº O 0 0 tr table odd_tr 12 2
-Distinguished O 0 0 tr table odd_tr 12 3
-Professor-at-Large O 0 0 tr table odd_tr 12 3
-
-Chairman O 0 0 tr table page_hd_3 12 0
-
-Research O 0 1 tr table para_hd 12 3
-Areas O 0 0 tr table para_hd 12 3
-
-LYU B-NAME 0 0 td tr odd_tr 13 0
-Rung I-NAME 0 1 td tr odd_tr 13 0
-Tsong I-NAME 0 1 td tr odd_tr 13 0
-Michael I-NAME 0 1 td tr odd_tr 13 0
-åæ¦®è° O 0 0 tr table odd_tr 12 2
-Chairman O 0 0 tr table odd_tr 12 3
-and O 0 1 tr table odd_tr 12 3
-Professor O 0 0 tr table odd_tr 12 3
-software O 0 0 tr table odd_tr 12 4
-engineering, O 0 0 tr table odd_tr 12 4
-dependable O 0 0 tr table odd_tr 12 4
-computing, O 0 0 tr table odd_tr 12 4
-distributed O 0 0 tr table odd_tr 12 4
-systems, O 0 0 tr table odd_tr 12 4
-mobile O 0 0 tr table odd_tr 12 4
-networking, O 0 0 tr table odd_tr 12 4
-big O 0 0 tr table odd_tr 12 4
-data, O 0 0 tr table odd_tr 12 4
-cloud O 0 0 tr table odd_tr 12 4
-computing, O 0 0 tr table odd_tr 12 4
-machine O 0 0 tr table odd_tr 12 4
-learning O 0 0 tr table odd_tr 12 4
-
-Teachers O 0 0 tr table page_hd_3 12 0
-
-Research O 0 1 tr table para_hd 12 3
-Areas O 0 0 tr table para_hd 12 3
-
-BOGDANOV B-NAME 0 0 td tr odd_tr 13 0
-Andrej I-NAME 0 1 td tr odd_tr 13 0
-Associate O 0 1 tr table odd_tr 12 3
-Professor O 0 0 tr table odd_tr 12 3
-computational O 0 0 tr table odd_tr 12 4
-complexity, O 0 0 tr table odd_tr 12 4
-foundations O 0 0 tr table odd_tr 12 4
-of O 0 1 tr table odd_tr 12 4
-cryptography O 0 0 tr table odd_tr 12 4
-
-CAI B-NAME 0 0 td tr wide_tb 13 0
-Leizhen I-NAME 0 1 td tr wide_tb 13 0
-è¡é·é O 0 0 tr table wide_tb 12 2
-Professor O 0 0 tr table wide_tb 12 3
-graph O 0 0 tr table wide_tb 12 4
-algorithms, O 0 0 tr table wide_tb 12 4
-parameterized O 0 0 tr table wide_tb 12 4
-complexity, O 0 0 tr table wide_tb 12 4
-& O 0 0 tr table wide_tb 12 4
-graph O 0 0 tr table wide_tb 12 4
-theory O 0 0 tr table wide_tb 12 4
-
-CHAN B-NAME 0 0 td tr odd_tr 13 0
-Lai I-NAME 0 1 td tr odd_tr 13 0
-Wan I-NAME 0 1 td tr odd_tr 13 0
-é³éºé² O 0 0 tr table odd_tr 12 2
-Professor O 0 0 tr table odd_tr 12 3
-data O 0 0 tr table odd_tr 12 4
-mining, O 0 0 tr table odd_tr 12 4
-financial O 0 0 tr table odd_tr 12 4
-engineering, O 0 0 tr table odd_tr 12 4
-bioinformatics, O 0 0 tr table odd_tr 12 4
-neural O 0 0 tr table odd_tr 12 4
-networks, O 0 0 tr table odd_tr 12 4
-computational O 0 0 tr table odd_tr 12 4
-intelligence O 0 0 tr table odd_tr 12 4
-
-CHAN B-NAME 0 0 td tr wide_tb 13 0
-Siu I-NAME 0 1 td tr wide_tb 13 0
-On I-NAME 0 1 td tr wide_tb 13 0
-é³å O 0 0 tr table wide_tb 12 2
-å® O 0 0 tr table wide_tb 12 2
-Assistant O 0 0 tr table wide_tb 12 3
-Professor O 0 0 tr table wide_tb 12 3
-Optimization, O 0 0 tr table wide_tb 12 4
-Approximation O 0 0 tr table wide_tb 12 4
-Algorithms, O 0 0 tr table wide_tb 12 4
-Computational O 0 0 tr table wide_tb 12 4
-Complexity, O 0 0 tr table wide_tb 12 4
-Random O 0 0 tr table wide_tb 12 4
-Graphs, O 0 0 tr table wide_tb 12 4
-Learning O 0 1 tr table wide_tb 12 4
-and O 0 1 tr table wide_tb 12 4
-Testing O 0 0 tr table wide_tb 12 4
-
-CHENG B-NAME 0 0 td tr odd_tr 13 0
-James I-NAME 0 1 td tr odd_tr 13 0
-é­å°ç­ O 0 0 tr table odd_tr 12 2
-Assistant O 0 0 tr table odd_tr 12 3
-Professor O 0 0 tr table odd_tr 12 3
-Distributed O 0 0 tr table odd_tr 12 4
-systems, O 0 0 tr table odd_tr 12 4
-distributed O 0 0 tr table odd_tr 12 4
-machine O 0 0 tr table odd_tr 12 4
-learning, O 0 0 tr table odd_tr 12 4
-cloud O 0 0 tr table odd_tr 12 4
-computing, O 0 0 tr table odd_tr 12 4
-big O 0 0 tr table odd_tr 12 4
-data, O 0 0 tr table odd_tr 12 4
-data O 0 0 tr table odd_tr 12 4
-mining, O 0 0 tr table odd_tr 12 4
-graph/network O 0 0 tr table odd_tr 12 4
-analysis O 0 0 tr table odd_tr 12 4
-
-CHEONG B-NAME 0 0 td tr wide_tb 13 0
-Chi I-NAME 0 1 td tr wide_tb 13 0
-Hong I-NAME 0 1 td tr wide_tb 13 0
-å¼µå¿èª O 0 0 tr table wide_tb 12 2
-Lecturer O 0 0 tr table wide_tb 12 3
-
-CHUI B-NAME 0 0 td tr odd_tr 13 0
-Yim I-NAME 0 1 td tr odd_tr 13 0
-Pan I-NAME 0 1 td tr odd_tr 13 0
-å¾å´æ¿± O 0 0 tr table odd_tr 12 2
-Lecturer O 0 0 tr table odd_tr 12 3
-
-FU B-NAME 0 0 td tr wide_tb 13 0
-Chi I-NAME 0 1 td tr wide_tb 13 0
-Wing I-NAME 0 1 td tr wide_tb 13 0
-Philip I-NAME 0 1 td tr wide_tb 13 0
-å O 0 0 tr table wide_tb 12 2
-å¿æ¦® O 0 0 tr table wide_tb 12 2
-Associate O 0 1 tr table wide_tb 12 3
-Professor O 0 0 tr table wide_tb 12 3
-Computer O 0 0 tr table wide_tb 12 4
-Graphics, O 0 0 tr table wide_tb 12 4
-Visualization, O 0 0 tr table wide_tb 12 4
-and O 0 1 tr table wide_tb 12 4
-Human O 0 1 tr table wide_tb 12 4
-Computer O 0 0 tr table wide_tb 12 4
-Interaction O 0 0 tr table wide_tb 12 4
-
-FU B-NAME 0 0 td tr odd_tr 13 0
-Wai I-NAME 0 1 td tr odd_tr 13 0
-Chee I-NAME 0 1 td tr odd_tr 13 0
-Ada I-NAME 0 1 td tr odd_tr 13 0
-å O 0 0 tr table odd_tr 12 2
-æ O 0 0 tr table odd_tr 12 2
-°æ O 0 0 tr table odd_tr 12 2
- O 0 0 tr table odd_tr 12 2
-Associate O 0 1 tr table odd_tr 12 3
-Professor O 0 0 tr table odd_tr 12 3
-Database, O 0 0 tr table odd_tr 12 4
-Data O 0 1 tr table odd_tr 12 4
-Mining, O 0 0 tr table odd_tr 12 4
-Big O 0 0 tr table odd_tr 12 4
-Data, O 0 0 tr table odd_tr 12 4
-Massive O 0 0 tr table odd_tr 12 4
-Graph O 0 0 tr table odd_tr 12 4
-Analysis O 0 0 tr table odd_tr 12 4
-
-FUNG B-NAME 0 0 td tr wide_tb 13 0
-Ping I-NAME 1 1 td tr wide_tb 13 0
-Fu I-NAME 1 1 td tr wide_tb 13 0
-é¦®ç³å¯ O 0 0 tr table wide_tb 12 2
-Senior O 0 1 tr table wide_tb 12 3
-Lecturer O 0 0 tr table wide_tb 12 3
-
-HENG B-NAME 0 0 td tr odd_tr 13 0
-Pheng I-NAME 0 1 td tr odd_tr 13 0
-Ann I-NAME 1 1 td tr odd_tr 13 0
-çå¹³å® O 0 0 tr table odd_tr 12 2
-Professor O 0 0 tr table odd_tr 12 3
-AI O 0 0 tr table odd_tr 12 4
-and O 0 1 tr table odd_tr 12 4
-VR O 0 0 tr table odd_tr 12 4
-for O 0 1 tr table odd_tr 12 4
-medical O 0 0 tr table odd_tr 12 4
-applications, O 0 0 tr table odd_tr 12 4
-surgical O 0 0 tr table odd_tr 12 4
-simulation, O 0 0 tr table odd_tr 12 4
-visualisation, O 0 0 tr table odd_tr 12 4
-graphics O 0 0 tr table odd_tr 12 4
-and O 0 1 tr table odd_tr 12 4
-human-computer O 0 0 tr table odd_tr 12 4
-interaction O 0 0 tr table odd_tr 12 4
-
-JIA B-NAME 0 0 td tr wide_tb 13 0
-Jiaya I-NAME 0 1 td tr wide_tb 13 0
-è³ä½³äº O 0 0 tr table wide_tb 12 2
-Professor O 0 0 tr table wide_tb 12 3
-computer O 0 0 tr table wide_tb 12 4
-vision, O 0 0 tr table wide_tb 12 4
-graphics O 0 0 tr table wide_tb 12 4
-& O 0 0 tr table wide_tb 12 4
-machine O 0 0 tr table wide_tb 12 4
-learning O 0 0 tr table wide_tb 12 4
-
-KING B-NAME 0 0 td tr odd_tr 13 0
-Kuo I-NAME 0 1 td tr odd_tr 13 0
-Chin I-NAME 0 1 td tr odd_tr 13 0
-Irwin I-NAME 0 1 td tr odd_tr 13 0
-éåæ O 0 0 tr table odd_tr 12 2
-¶ O 0 0 tr table odd_tr 12 2
-Professor O 0 0 tr table odd_tr 12 3
-social O 0 0 tr table odd_tr 12 4
-computing, O 0 0 tr table odd_tr 12 4
-machine O 0 0 tr table odd_tr 12 4
-learning, O 0 0 tr table odd_tr 12 4
-data O 0 0 tr table odd_tr 12 4
-and O 0 1 tr table odd_tr 12 4
-web O 0 0 tr table odd_tr 12 4
-mining, O 0 0 tr table odd_tr 12 4
-information O 0 0 tr table odd_tr 12 4
-retrieval, O 0 0 tr table odd_tr 12 4
-multimedia O 0 0 tr table odd_tr 12 4
-processing O 0 0 tr table odd_tr 12 4
-
-LAM O 0 0 tr table wide_tb 12 0
-Tak O 0 1 tr table wide_tb 12 0
-Kei O 0 1 tr table wide_tb 12 0
-æå¾·åº O 0 0 tr table wide_tb 12 1
-Lecturer O 0 0 tr table wide_tb 12 2
-
-LAW B-NAME 0 0 td tr odd_tr 13 0
-Yat I-NAME 0 1 td tr odd_tr 13 0
-Chiu I-NAME 0 1 td tr odd_tr 13 0
-ç¾ O 0 0 tr table odd_tr 12 2
-æ¥æ­ O 0 0 tr table odd_tr 12 2
-Lecturer O 0 0 tr table odd_tr 12 3
-
-LEE B-NAME 0 0 td tr wide_tb 13 0
-Ho I-NAME 0 1 td tr wide_tb 13 0
-Man I-NAME 0 1 td tr wide_tb 13 0
-Jimmy I-NAME 1 1 td tr wide_tb 13 0
-ææµ©æ O 0 0 tr table wide_tb 12 2
-Professor O 0 0 tr table wide_tb 12 3
-constraint O 0 0 tr table wide_tb 12 4
-satisfaction O 0 0 tr table wide_tb 12 4
-& O 0 0 tr table wide_tb 12 4
-optimization, O 0 0 tr table wide_tb 12 4
-satisfiability, O 0 0 tr table wide_tb 12 4
-search, O 0 0 tr table wide_tb 12 4
-IT O 0 0 tr table wide_tb 12 4
-in O 0 1 tr table wide_tb 12 4
-Education O 0 0 tr table wide_tb 12 4
-
-LEE B-NAME 0 0 td tr odd_tr 13 0
-Pak I-NAME 0 1 td tr odd_tr 13 0
-Ching I-NAME 0 1 td tr odd_tr 13 0
-Patrick I-NAME 0 1 td tr odd_tr 13 0
-æææ´ O 0 0 tr table odd_tr 12 2
-Associate O 0 1 tr table odd_tr 12 3
-Professor O 0 0 tr table odd_tr 12 3
-storage O 0 0 tr table odd_tr 12 4
-systems, O 0 0 tr table odd_tr 12 4
-distributed O 0 0 tr table odd_tr 12 4
-systems O 0 0 tr table odd_tr 12 4
-and O 0 1 tr table odd_tr 12 4
-networks, O 0 0 tr table odd_tr 12 4
-operating O 0 0 tr table odd_tr 12 4
-systems, O 0 0 tr table odd_tr 12 4
-dependability, O 0 0 tr table odd_tr 12 4
-and O 0 1 tr table odd_tr 12 4
-security O 0 0 tr table odd_tr 12 4
-
-LEUNG B-NAME 0 0 td tr wide_tb 13 0
-Ho I-NAME 0 1 td tr wide_tb 13 0
-Fung I-NAME 0 1 td tr wide_tb 13 0
-æ¢æµ©é O 0 0 tr table wide_tb 12 2
-Professor O 0 0 tr table wide_tb 12 3
-Multi-Agent O 0 0 tr table wide_tb 12 4
-Systems, O 0 0 tr table wide_tb 12 4
-Game O 0 1 tr table wide_tb 12 4
-Theory, O 0 0 tr table wide_tb 12 4
-Web O 0 1 tr table wide_tb 12 4
-Intelligence, O 0 0 tr table wide_tb 12 4
-and O 0 1 tr table wide_tb 12 4
-Evolutionary O 0 0 tr table wide_tb 12 4
-Computing O 0 0 tr table wide_tb 12 4
-
-LEUNG B-NAME 0 0 td tr odd_tr 13 0
-Kwong I-NAME 0 1 td tr odd_tr 13 0
-Sak I-NAME 0 1 td tr odd_tr 13 0
-æ¢å»£é« O 0 0 tr table odd_tr 12 2
-Professor O 0 0 tr table odd_tr 12 3
-of O 0 1 tr table odd_tr 12 3
-CS O 0 0 tr table odd_tr 12 3
-& O 0 0 tr table odd_tr 12 3
-E O 0 1 tr table odd_tr 12 3
-knowledge O 0 0 tr table odd_tr 12 4
-engineering, O 0 0 tr table odd_tr 12 4
-bioinformatics O 0 0 tr table odd_tr 12 4
-& O 0 0 tr table odd_tr 12 4
-data O 0 0 tr table odd_tr 12 4
-mining, O 0 0 tr table odd_tr 12 4
-machine O 0 0 tr table odd_tr 12 4
-learning, O 0 0 tr table odd_tr 12 4
-fuzzy O 0 0 tr table odd_tr 12 4
-logic O 0 0 tr table odd_tr 12 4
-applications, O 0 0 tr table odd_tr 12 4
-genetic O 0 0 tr table odd_tr 12 4
-algorithms O 0 0 tr table odd_tr 12 4
-& O 0 0 tr table odd_tr 12 4
-programming, O 0 0 tr table odd_tr 12 4
-AI O 0 0 tr table odd_tr 12 4
-architecture O 0 0 tr table odd_tr 12 4
-
-LO B-NAME 0 0 td tr wide_tb 13 0
-Eric I-NAME 0 1 td tr wide_tb 13 0
-ç§è³å O 0 0 tr table wide_tb 12 2
-Associate O 0 1 tr table wide_tb 12 3
-Professor O 0 0 tr table wide_tb 12 3
-Big O 0 0 tr table wide_tb 12 4
-Data, O 0 0 tr table wide_tb 12 4
-Supercomputing, O 0 0 tr table wide_tb 12 4
-Database, O 0 0 tr table wide_tb 12 4
-Cloud O 0 1 tr table wide_tb 12 4
-Computing, O 0 0 tr table wide_tb 12 4
-Data O 0 1 tr table wide_tb 12 4
-Mining, O 0 0 tr table wide_tb 12 4
-Distributed O 0 0 tr table wide_tb 12 4
-Systems, O 0 0 tr table wide_tb 12 4
-Operating O 0 0 tr table wide_tb 12 4
-Systems, O 0 0 tr table wide_tb 12 4
-Distributed O 0 0 tr table wide_tb 12 4
-Machine O 0 1 tr table wide_tb 12 4
-Learning, O 0 0 tr table wide_tb 12 4
-Compiler, O 0 0 tr table wide_tb 12 4
-Software O 0 1 tr table wide_tb 12 4
-Engineering O 0 0 tr table wide_tb 12 4
-
-LUI B-NAME 0 0 td tr odd_tr 13 0
-Chi I-NAME 0 1 td tr odd_tr 13 0
-Shing I-NAME 0 1 td tr odd_tr 13 0
-John I-NAME 0 1 td tr odd_tr 13 0
-åèªæ O 0 0 tr table odd_tr 12 2
-Choh-Ming O 0 0 tr table odd_tr 12 3
-Li O 0 1 tr table odd_tr 12 3
-Professor O 0 0 tr table odd_tr 12 3
-of O 0 1 tr table odd_tr 12 3
-CSE O 0 0 tr table odd_tr 12 3
-network O 0 0 tr table odd_tr 12 4
-sciences, O 0 0 tr table odd_tr 12 4
-network O 0 0 tr table odd_tr 12 4
-economics, O 0 0 tr table odd_tr 12 4
-applied O 0 0 tr table odd_tr 12 4
-machine O 0 0 tr table odd_tr 12 4
-learning O 0 0 tr table odd_tr 12 4
-in O 0 1 tr table odd_tr 12 4
-networks O 0 0 tr table odd_tr 12 4
-& O 0 0 tr table odd_tr 12 4
-distributed O 0 0 tr table odd_tr 12 4
-systems, O 0 0 tr table odd_tr 12 4
-system O 0 0 tr table odd_tr 12 4
-security O 0 0 tr table odd_tr 12 4
-in O 0 1 tr table odd_tr 12 4
-mobile O 0 0 tr table odd_tr 12 4
-& O 0 0 tr table odd_tr 12 4
-cloud O 0 0 tr table odd_tr 12 4
-computing O 0 0 tr table odd_tr 12 4
-
-MENG B-NAME 0 0 td tr wide_tb 13 0
-Wei I-NAME 0 1 td tr wide_tb 13 0
-å­ç O 0 0 tr table wide_tb 12 2
-Assistant O 0 0 tr table wide_tb 12 3
-Professor O 0 0 tr table wide_tb 12 3
-Computer O 0 0 tr table wide_tb 12 4
-Security O 0 0 tr table wide_tb 12 4
-and O 0 1 tr table wide_tb 12 4
-Privacy O 0 0 tr table wide_tb 12 4
-
-OR B-NAME 0 0 td tr odd_tr 13 0
-Siu I-NAME 0 1 td tr odd_tr 13 0
-Hang I-NAME 0 1 td tr odd_tr 13 0
-æ¯å O 0 0 tr table odd_tr 12 2
-æ O 0 0 tr table odd_tr 12 2
-Lecturer O 0 0 tr table odd_tr 12 3
-computer O 0 0 tr table odd_tr 12 4
-vision O 0 0 tr table odd_tr 12 4
-& O 0 0 tr table odd_tr 12 4
-graphics, O 0 0 tr table odd_tr 12 4
-entertainment O 0 0 tr table odd_tr 12 4
-computing O 0 0 tr table odd_tr 12 4
-
-SUM B-NAME 0 0 td tr wide_tb 13 0
-Kwok I-NAME 0 1 td tr wide_tb 13 0
-Wing I-NAME 0 1 td tr wide_tb 13 0
-Anthony I-NAME 0 1 td tr wide_tb 13 0
-å²åæ¦® O 0 0 tr table wide_tb 12 2
-Lecturer O 0 0 tr table wide_tb 12 3
-
-SUN B-NAME 0 0 td tr odd_tr 13 0
-Hanqiu I-NAME 0 1 td tr odd_tr 13 0
-å­«æ¼¢ç§ O 0 0 tr table odd_tr 12 2
-Associate O 0 1 tr table odd_tr 12 3
-Professor O 0 0 tr table odd_tr 12 3
-Virtual O 0 0 tr table odd_tr 12 4
-Reality, O 0 0 tr table odd_tr 12 4
-Interactive O 0 0 tr table odd_tr 12 4
-Modeling/Rendering, O 0 0 tr table odd_tr 12 4
-Real-time O 0 0 tr table odd_tr 12 4
-Hypermedia, O 0 0 tr table odd_tr 12 4
-Computer-assisted O 0 0 tr table odd_tr 12 4
-Surgery, O 0 0 tr table odd_tr 12 4
-Mobile O 0 0 tr table odd_tr 12 4
-Image/Video O 0 0 tr table odd_tr 12 4
-Processing, O 0 0 tr table odd_tr 12 4
-Touch-enabled O 0 0 tr table odd_tr 12 4
-Simulations O 0 0 tr table odd_tr 12 4
-
-TAO B-NAME 0 0 td tr wide_tb 13 0
-Yufei I-NAME 0 1 td tr wide_tb 13 0
-é¶å®é£ O 0 0 tr table wide_tb 12 2
-Professor O 0 0 tr table wide_tb 12 3
-Database O 0 1 tr table wide_tb 12 4
-Systems O 0 0 tr table wide_tb 12 4
-and O 0 1 tr table wide_tb 12 4
-Theory O 0 0 tr table wide_tb 12 4
-
-WAH B-NAME 0 0 td tr odd_tr 13 0
-Wan I-NAME 0 1 td tr odd_tr 13 0
-Sang I-NAME 0 1 td tr odd_tr 13 0
-Benjamin I-NAME 0 1 td tr odd_tr 13 0
-è¯é²ç O 0 0 tr table odd_tr 12 2
-Provost, O 0 0 tr table odd_tr 12 3
-Wei O 0 1 tr table odd_tr 12 3
-Lun O 0 1 tr table odd_tr 12 3
-Professor O 0 0 tr table odd_tr 12 3
-of O 0 1 tr table odd_tr 12 3
-CS O 0 0 tr table odd_tr 12 3
-& O 0 0 tr table odd_tr 12 3
-E O 0 1 tr table odd_tr 12 3
-Nonlinear O 0 0 tr table odd_tr 12 4
-programming, O 0 0 tr table odd_tr 12 4
-with O 0 0 tr table odd_tr 12 4
-applications O 0 0 tr table odd_tr 12 4
-in O 0 1 tr table odd_tr 12 4
-financial O 0 0 tr table odd_tr 12 4
-engineering; O 0 0 tr table odd_tr 12 4
-Multimedia O 0 0 tr table odd_tr 12 4
-signal O 0 0 tr table odd_tr 12 4
-processing, O 0 0 tr table odd_tr 12 4
-voice-over-IP, O 0 0 tr table odd_tr 12 4
-and O 0 1 tr table odd_tr 12 4
-computer O 0 0 tr table odd_tr 12 4
-networks; O 0 0 tr table odd_tr 12 4
-Artificial O 0 0 tr table odd_tr 12 4
-Intelligence, O 0 0 tr table odd_tr 12 4
-planning O 0 0 tr table odd_tr 12 4
-and O 0 1 tr table odd_tr 12 4
-scheduling, O 0 0 tr table odd_tr 12 4
-and O 0 1 tr table odd_tr 12 4
-satisfiability. O 0 0 tr table odd_tr 12 4
-
-WONG B-NAME 0 0 td tr wide_tb 13 0
-Kin I-NAME 0 1 td tr wide_tb 13 0
-Hong I-NAME 0 1 td tr wide_tb 13 0
-é»å¥åº· O 0 0 tr table wide_tb 12 2
-Associate O 0 1 tr table wide_tb 12 3
-Professor O 0 0 tr table wide_tb 12 3
-3-D O 0 0 tr table wide_tb 12 4
-computer O 0 0 tr table wide_tb 12 4
-vision, O 0 0 tr table wide_tb 12 4
-visual O 0 0 tr table wide_tb 12 4
-and O 0 1 tr table wide_tb 12 4
-audio O 0 0 tr table wide_tb 12 4
-signal O 0 0 tr table wide_tb 12 4
-processing, O 0 0 tr table wide_tb 12 4
-computer O 0 0 tr table wide_tb 12 4
-music, O 0 0 tr table wide_tb 12 4
-embedded O 0 0 tr table wide_tb 12 4
-systems O 0 0 tr table wide_tb 12 4
-
-WONG B-NAME 0 0 td tr odd_tr 13 0
-Man I-NAME 0 1 td tr odd_tr 13 0
-Hon I-NAME 0 1 td tr odd_tr 13 0
-çææ¼¢ O 0 0 tr table odd_tr 12 2
-Associate O 0 1 tr table odd_tr 12 3
-Professor O 0 0 tr table odd_tr 12 3
-distributed O 0 0 tr table odd_tr 12 4
-algorithms, O 0 0 tr table odd_tr 12 4
-databases, O 0 0 tr table odd_tr 12 4
-computer O 0 0 tr table odd_tr 12 4
-security O 0 0 tr table odd_tr 12 4
-
-WONG B-NAME 0 0 td tr wide_tb 13 0
-Tien I-NAME 0 1 td tr wide_tb 13 0
-Tsin I-NAME 0 1 td tr wide_tb 13 0
-é»ç°æ´¥ O 0 0 tr table wide_tb 12 2
-Professor O 0 0 tr table wide_tb 12 3
-graphics, O 0 0 tr table wide_tb 12 4
-vision, O 0 0 tr table wide_tb 12 4
-& O 0 0 tr table wide_tb 12 4
-multimedia O 0 0 tr table wide_tb 12 4
-
-XU B-NAME 0 0 td tr odd_tr 13 0
-Lei I-NAME 0 1 td tr odd_tr 13 0
-å¾ãé· O 0 0 tr table odd_tr 12 2
-Professor O 0 0 tr table odd_tr 12 3
-of O 0 1 tr table odd_tr 12 3
-CS O 0 0 tr table odd_tr 12 3
-& O 0 0 tr table odd_tr 12 3
-E O 0 1 tr table odd_tr 12 3
-statistical O 0 0 tr table odd_tr 12 4
-theory O 0 0 tr table odd_tr 12 4
-& O 0 0 tr table odd_tr 12 4
-algorithms O 0 0 tr table odd_tr 12 4
-for O 0 1 tr table odd_tr 12 4
-machine O 0 0 tr table odd_tr 12 4
-learning, O 0 0 tr table odd_tr 12 4
-pattern O 0 0 tr table odd_tr 12 4
-recognition, O 0 0 tr table odd_tr 12 4
-computational O 0 0 tr table odd_tr 12 4
-finance O 0 0 tr table odd_tr 12 4
-
-XU B-NAME 0 0 td tr wide_tb 13 0
-Qiang I-NAME 0 1 td tr wide_tb 13 0
-å¾ãå¼· O 0 0 tr table wide_tb 12 2
-Associate O 0 1 tr table wide_tb 12 3
-Professor O 0 0 tr table wide_tb 12 3
-Fault-tolerant O 0 0 tr table wide_tb 12 4
-computing, O 0 0 tr table wide_tb 12 4
-Multi-core O 0 0 tr table wide_tb 12 4
-system, O 0 0 tr table wide_tb 12 4
-VLSI O 0 0 tr table wide_tb 12 4
-test O 0 0 tr table wide_tb 12 4
-and O 0 1 tr table wide_tb 12 4
-debug O 0 0 tr table wide_tb 12 4
-
-YANG B-NAME 0 0 td tr odd_tr 13 0
-Ming I-NAME 1 1 td tr odd_tr 13 0
-Chang I-NAME 1 1 td tr odd_tr 13 0
-æ¥ææ O 0 0 tr table odd_tr 12 2
-Assistant O 0 0 tr table odd_tr 12 3
-Professor O 0 0 tr table odd_tr 12 3
-Emerging O 0 0 tr table odd_tr 12 4
-Non-Volatile O 0 0 tr table odd_tr 12 4
-Memory O 0 1 tr table odd_tr 12 4
-and O 0 1 tr table odd_tr 12 4
-Storage O 0 0 tr table odd_tr 12 4
-Technologies, O 0 0 tr table odd_tr 12 4
-Next-Generation O 0 0 tr table odd_tr 12 4
-Memory/Storage O 0 0 tr table odd_tr 12 4
-Systems O 0 0 tr table odd_tr 12 4
-and O 0 1 tr table odd_tr 12 4
-Their O 0 0 tr table odd_tr 12 4
-Applications, O 0 0 tr table odd_tr 12 4
-Embedded O 0 0 tr table odd_tr 12 4
-Systems O 0 0 tr table odd_tr 12 4
-and O 0 1 tr table odd_tr 12 4
-Their O 0 0 tr table odd_tr 12 4
-OS O 0 0 tr table odd_tr 12 4
-Designs O 0 0 tr table odd_tr 12 4
-
-YIP B-NAME 0 0 td tr wide_tb 13 0
-Yuk I-NAME 0 1 td tr wide_tb 13 0
-Lap I-NAME 0 1 td tr wide_tb 13 0
-Kevin I-NAME 0 1 td tr wide_tb 13 0
-èæ­ç« O 0 0 tr table wide_tb 12 2
-Associate O 0 1 tr table wide_tb 12 3
-Professor O 0 0 tr table wide_tb 12 3
-Bioinformatics, O 0 0 tr table wide_tb 12 4
-computational O 0 0 tr table wide_tb 12 4
-biology, O 0 0 tr table wide_tb 12 4
-data O 0 0 tr table wide_tb 12 4
-mining O 0 0 tr table wide_tb 12 4
-
-YOUNG B-NAME 0 0 td tr odd_tr 13 0
-Fung I-NAME 0 1 td tr odd_tr 13 0
-Yu I-NAME 0 1 td tr odd_tr 13 0
-æ¥é³³å¦ O 0 0 tr table odd_tr 12 2
-Professor O 0 0 tr table odd_tr 12 3
-VLSI O 0 0 tr table odd_tr 12 4
-CAD O 0 0 tr table odd_tr 12 4
-
-YU B-NAME 0 0 td tr wide_tb 13 0
-Bei I-NAME 0 1 td tr wide_tb 13 0
-ä½ãå O 0 0 tr table wide_tb 12 2
-Assistant O 0 0 tr table wide_tb 12 3
-Professor O 0 0 tr table wide_tb 12 3
-VLSI O 0 0 tr table wide_tb 12 4
-CAD, O 0 0 tr table wide_tb 12 4
-Cyber-physical O 0 0 tr table wide_tb 12 4
-systems, O 0 0 tr table wide_tb 12 4
-combinatorial O 0 0 tr table wide_tb 12 4
-algorithm, O 0 0 tr table wide_tb 12 4
-machine O 0 0 tr table wide_tb 12 4
-learning O 0 0 tr table wide_tb 12 4
-
-YU B-NAME 0 0 td tr odd_tr 13 0
-Xu I-NAME 0 1 td tr odd_tr 13 0
-Jeffrey I-NAME 0 1 td tr odd_tr 13 0
-äºãæ­ O 0 0 tr table odd_tr 12 2
-Professor O 0 0 tr table odd_tr 12 3
-(by O 0 0 tr table odd_tr 12 3
-courtesy) O 0 0 tr table odd_tr 12 3
-Database, O 0 0 tr table odd_tr 12 4
-data O 0 0 tr table odd_tr 12 4
-mining O 0 0 tr table odd_tr 12 4
-
-YUAN B-NAME 0 0 td tr wide_tb 13 0
-Cheng I-NAME 0 1 td tr wide_tb 13 0
-Jiun I-NAME 0 1 td tr wide_tb 13 0
-é®å¾è» O 0 0 tr table wide_tb 12 2
-Lecturer O 0 0 tr table wide_tb 12 3
-
-ZHANG B-NAME 0 0 td tr odd_tr 13 0
-Sheng I-NAME 1 1 td tr odd_tr 13 0
-Yu I-NAME 1 1 td tr odd_tr 13 0
-å¼µåè­½ O 0 0 tr table odd_tr 12 2
-Associate O 0 1 tr table odd_tr 12 3
-Professor O 0 0 tr table odd_tr 12 3
-quantum O 0 0 tr table odd_tr 12 4
-computing, O 0 0 tr table odd_tr 12 4
-algorithms O 0 0 tr table odd_tr 12 4
-design O 0 0 tr table odd_tr 12 4
-and O 0 1 tr table odd_tr 12 4
-analysis, O 0 0 tr table odd_tr 12 4
-computational O 0 0 tr table odd_tr 12 4
-complexity O 0 0 tr table odd_tr 12 4
-
-Adjunct O 0 0 tr table page_hd_3 12 0
-Professor O 0 0 tr table page_hd_3 12 0
-
-LAU B-NAME 0 0 td tr odd_tr 13 0
-Lap I-NAME 0 1 td tr odd_tr 13 0
-Chi I-NAME 0 1 td tr odd_tr 13 0
-åç«å¿ O 0 0 tr table odd_tr 12 2
-Adjunct O 0 0 tr table odd_tr 12 3
-Associate O 0 1 tr table odd_tr 12 3
-Professor O 0 0 tr table odd_tr 12 3
-combinatorial O 0 0 tr table odd_tr 12 4
-optimization, O 0 0 tr table odd_tr 12 4
-approximation O 0 0 tr table odd_tr 12 4
-algorithms, O 0 0 tr table odd_tr 12 4
-& O 0 0 tr table odd_tr 12 4
-graph O 0 0 tr table odd_tr 12 4
-theory O 0 0 tr table odd_tr 12 4
-
-CUHK O 0 0 li ul row 11 0
-| O 0 0 ul div row 10 0
-
-Engineering O 0 0 li ul row 11 0
-Faculty O 0 0 li ul row 11 0
-| O 0 0 ul div row 10 2
-
-CSE O 0 0 li ul row 11 0
-Webmail O 0 0 li ul row 11 0
-| O 0 0 ul div row 10 4
-
-Intranet O 0 0 li ul row 11 0
-| O 0 0 ul div row 10 6
-
-Sitemap O 0 0 li ul row 11 0
-| O 0 0 ul div row 10 8
-
-Privacy O 0 0 li ul row 11 0
-| O 0 0 ul div row 10 10
-
-Disclaimer O 0 0 li ul row 11 0
-| O 0 0 ul div row 10 12
-
-Contact O 0 0 li ul row 11 0
-Us O 0 1 li ul row 11 0
-
-Copyright O 0 0 div div row 9 17
-© O 0 0 div div row 9 17
-2017 O 0 0 div div row 9 17
-Department O 0 0 div div row 9 17
-of O 0 1 div div row 9 17
-Computer O 0 0 div div row 9 17
-Science O 0 0 div div row 9 17
-and O 0 1 div div row 9 17
-Engineering, O 0 0 div div row 9 17
-The O 0 1 div div row 9 17
-Chinese O 0 0 div div row 9 17
-University O 0 1 div div row 9 17
-of O 0 1 div div row 9 17
-Hong O 0 1 div div row 9 17
-Kong. O 0 0 div div row 9 17
-All O 0 1 div div row 9 17
-rights O 0 0 div div row 9 17
-reserved. O 0 0 div div row 9 17
+Minor O minor 0 1 0 0 0 0 1 li ul wide 10 0
+in O in 0 1 0 0 0 0 0 li ul wide 10 0
+CS O cs 0 0 0 0 0 0 1 li ul wide 10 0
+
+Minor O minor 0 1 0 0 0 0 1 li ul wide 10 0
+in O in 0 1 0 0 0 0 0 li ul wide 10 0
+Web O web 0 1 0 0 0 0 1 li ul wide 10 0
+& O & 0 0 0 0 0 0 0 li ul wide 10 0
+Cloud O cloud 0 1 0 0 0 0 1 li ul wide 10 0
+Computing O computing 0 0 0 0 0 0 1 li ul wide 10 0
+
+MSc O msc 0 0 0 0 0 0 1 li ul wide 10 0
+in O in 0 1 0 0 0 0 0 li ul wide 10 0
+CS O cs 0 0 0 0 0 0 1 li ul wide 10 0
+
+MPhil O mphil 0 0 0 0 0 0 1 li ul wide 10 0
+- O - 0 0 0 0 0 0 0 li ul wide 10 0
+PhD O phd 0 0 0 0 0 0 1 li ul wide 10 0
+in O in 0 1 0 0 0 0 0 li ul wide 10 0
+CS&E O cs&e 0 0 0 0 0 0 1 li ul wide 10 0
+; O ; 0 0 0 0 0 0 0 li ul wide 10 0
+
+Teaching O teaching 0 0 0 0 0 0 1 li ul none 10 0
+Schedule O schedule 0 0 0 0 0 0 1 li ul none 10 0
+
+Enrichment O enrichment 0 0 0 0 0 0 1 li ul none 10 0
+Activities O activities 0 0 0 0 0 0 1 li ul none 10 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul none 10 0
+Corner O corner 0 1 0 0 0 0 1 li ul none 10 0
+
+Seminar O seminar 0 1 0 0 0 0 1 li ul none 10 0
+Archive O archive 0 0 0 0 0 0 1 li ul none 10 0
+
+The O the 0 1 0 0 0 0 1 div div none 7 52
+Chinese O chinese 0 0 0 0 0 0 1 div div none 7 52
+University O university 0 1 0 0 0 0 1 div div none 7 52
+of O of 0 1 0 0 0 0 0 div div none 7 52
+Hong O hong 0 1 0 0 1 0 1 div div none 7 52
+Kong O kong 0 1 0 0 0 0 1 div div none 7 52
+B5 O b5 0 0 0 1 0 0 1 div div none 7 53
+GB O gb 0 0 0 0 0 0 1 div div none 7 54
+
+People O people 0 1 0 0 0 0 1 div div section_hd 9 0
+
+Academic O academic 0 0 0 0 0 0 1 a div sidemenu_head 12 0
+Staff O staff 0 1 0 0 0 0 1 a div sidemenu_head 12 0
+
+Administrative O administrative 0 0 0 0 0 0 1 a div sidemenu_head 12 0
+Staff O staff 0 1 0 0 0 0 1 a div sidemenu_head 12 0
+
+Technical O technical 0 0 0 0 0 0 1 a div sidemenu_head 12 0
+Staff O staff 0 1 0 0 0 0 1 a div sidemenu_head 12 0
+
+Academic O academic 0 0 0 0 0 0 1 div div page_hd_1 9 0
+Staff O staff 0 1 0 0 0 0 1 div div page_hd_1 9 0
+
+Emeritus O emeritus 0 1 0 0 1 0 1 tr table page_hd_3 12 0
+Professors O professors 0 0 0 0 1 0 1 tr table page_hd_3 12 0
+
+CHEN B-PER chen 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Tien I-PER tien 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Chi I-PER chi 0 1 0 0 0 0 1 td tr odd_tr 13 0
+é³å¤©æ© O e³a¤©e© 0 0 0 1 0 0 0 tr table odd_tr 12 2
+Emeritus O emeritus 0 1 0 0 1 0 1 tr table odd_tr 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+
+WONG B-PER wong 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Chak I-PER chak 0 1 0 0 0 0 1 td tr wide_tb 13 0
+Kuen I-PER kuen 0 1 0 0 0 0 1 td tr wide_tb 13 0
+é»æ¾¤æ¬ O e»e¾¤e¬ 0 0 0 0 0 0 0 tr table wide_tb 12 2
+Emeritus O emeritus 0 1 0 0 1 0 1 tr table wide_tb 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table wide_tb 12 3
+
+Distinguished O distinguished 0 0 0 0 0 0 1 tr table page_hd_3 12 0
+Professor O professor 0 0 0 0 1 0 1 tr table page_hd_3 12 0
+- O - 0 0 0 0 0 0 0 tr table page_hd_3 12 0
+at O at 0 0 0 0 0 0 0 tr table page_hd_3 12 0
+- O - 0 0 0 0 0 0 0 tr table page_hd_3 12 0
+Large O large 0 1 0 0 0 0 1 tr table page_hd_3 12 0
+
+YAO B-PER yao 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Chi I-PER chi 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Chih I-PER chih 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Andrew I-PER andrew 0 1 0 0 1 0 1 td tr odd_tr 13 0
+å§ææº O a§eeº 0 0 0 0 0 0 0 tr table odd_tr 12 2
+Distinguished O distinguished 0 0 0 0 0 0 1 tr table odd_tr 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+- O - 0 0 0 0 0 0 0 tr table odd_tr 12 3
+at O at 0 0 0 0 0 0 0 tr table odd_tr 12 3
+- O - 0 0 0 0 0 0 0 tr table odd_tr 12 3
+Large O large 0 1 0 0 0 0 1 tr table odd_tr 12 3
+
+Chairman O chairman 0 0 0 0 0 0 1 tr table page_hd_3 12 0
+
+Research O research 0 1 0 0 0 0 1 tr table para_hd 12 3
+Areas O areas 0 0 0 0 0 0 1 tr table para_hd 12 3
+
+LYU B-PER lyu 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Rung I-PER rung 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Tsong I-PER tsong 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Michael I-PER michael 0 1 0 0 0 0 1 td tr odd_tr 13 0
+åæ¦®è° O ae¦®e° 0 0 0 0 0 0 0 tr table odd_tr 12 2
+Chairman O chairman 0 0 0 0 0 0 1 tr table odd_tr 12 3
+and O and 0 1 0 0 0 0 0 tr table odd_tr 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+software O software 0 0 0 0 0 0 0 tr table odd_tr 12 4
+engineering O engineering 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+dependable O dependable 0 0 0 0 0 0 0 tr table odd_tr 12 4
+computing O computing 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+distributed O distributed 0 0 0 0 0 0 0 tr table odd_tr 12 4
+systems O systems 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+mobile O mobile 0 0 0 0 0 0 0 tr table odd_tr 12 4
+networking O networking 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+big O big 0 0 0 0 0 0 0 tr table odd_tr 12 4
+data O data 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+cloud O cloud 0 0 0 0 0 0 0 tr table odd_tr 12 4
+computing O computing 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+machine O machine 0 0 0 0 0 0 0 tr table odd_tr 12 4
+learning O learning 0 0 0 0 0 0 0 tr table odd_tr 12 4
+
+Teachers O teachers 0 0 0 0 0 0 1 tr table page_hd_3 12 0
+
+Research O research 0 1 0 0 0 0 1 tr table para_hd 12 3
+Areas O areas 0 0 0 0 0 0 1 tr table para_hd 12 3
+
+BOGDANOV B-PER bogdanov 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Andrej I-PER andrej 0 1 0 0 1 0 1 td tr odd_tr 13 0
+Associate O associate 0 1 0 0 0 0 1 tr table odd_tr 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+computational O computational 0 0 0 0 0 0 0 tr table odd_tr 12 4
+complexity O complexity 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+foundations O foundations 0 0 0 0 0 0 0 tr table odd_tr 12 4
+of O of 0 1 0 0 0 0 0 tr table odd_tr 12 4
+cryptography O cryptography 0 0 0 0 0 0 0 tr table odd_tr 12 4
+
+CAI B-PER cai 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Leizhen I-PER leizhen 0 1 0 0 0 0 1 td tr wide_tb 13 0
+è¡é·é O e¡e·e 0 0 0 0 0 0 0 tr table wide_tb 12 2
+Professor O professor 0 0 0 0 1 0 1 tr table wide_tb 12 3
+graph O graph 0 0 0 0 0 0 0 tr table wide_tb 12 4
+algorithms O algorithms 0 0 0 0 0 0 0 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+parameterized O parameterized 0 0 0 0 0 0 0 tr table wide_tb 12 4
+complexity O complexity 0 0 0 0 0 0 0 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+& O & 0 0 0 0 0 0 0 tr table wide_tb 12 4
+graph O graph 0 0 0 0 0 0 0 tr table wide_tb 12 4
+theory O theory 0 0 0 0 0 0 0 tr table wide_tb 12 4
+
+CHAN B-PER chan 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Lai I-PER lai 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Wan I-PER wan 0 1 0 0 0 0 1 td tr odd_tr 13 0
+é³éºé² O e³eºe² 0 0 0 1 0 0 0 tr table odd_tr 12 2
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+data O data 0 0 0 0 0 0 0 tr table odd_tr 12 4
+mining O mining 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+financial O financial 0 0 0 0 0 0 0 tr table odd_tr 12 4
+engineering O engineering 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+bioinformatics O bioinformatics 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+neural O neural 0 0 0 0 0 0 0 tr table odd_tr 12 4
+networks O networks 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+computational O computational 0 0 0 0 0 0 0 tr table odd_tr 12 4
+intelligence O intelligence 0 0 0 0 0 0 0 tr table odd_tr 12 4
+
+CHAN B-PER chan 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Siu I-PER siu 0 1 0 0 0 0 1 td tr wide_tb 13 0
+On I-PER on 0 1 0 0 0 0 1 td tr wide_tb 13 0
+é³å O e³a 0 0 0 1 0 0 0 tr table wide_tb 12 2
+å® O a® 0 0 0 0 0 0 0 tr table wide_tb 12 2
+Assistant O assistant 0 0 0 0 0 0 1 tr table wide_tb 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table wide_tb 12 3
+Optimization O optimization 0 0 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Approximation O approximation 0 0 0 0 0 0 1 tr table wide_tb 12 4
+Algorithms O algorithms 0 0 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Computational O computational 0 0 0 0 0 0 1 tr table wide_tb 12 4
+Complexity O complexity 0 0 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Random O random 0 0 0 0 0 0 1 tr table wide_tb 12 4
+Graphs O graphs 0 0 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Learning O learning 0 1 0 0 0 0 1 tr table wide_tb 12 4
+and O and 0 1 0 0 0 0 0 tr table wide_tb 12 4
+Testing O testing 0 0 0 0 0 0 1 tr table wide_tb 12 4
+
+CHENG B-PER cheng 0 0 0 0 0 0 1 td tr odd_tr 13 0
+James I-PER james 0 1 0 0 0 0 1 td tr odd_tr 13 0
+é­å°ç­ O e­a°c­ 0 0 0 0 0 0 0 tr table odd_tr 12 2
+Assistant O assistant 0 0 0 0 0 0 1 tr table odd_tr 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+Distributed O distributed 0 0 0 0 0 0 1 tr table odd_tr 12 4
+systems O systems 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+distributed O distributed 0 0 0 0 0 0 0 tr table odd_tr 12 4
+machine O machine 0 0 0 0 0 0 0 tr table odd_tr 12 4
+learning O learning 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+cloud O cloud 0 0 0 0 0 0 0 tr table odd_tr 12 4
+computing O computing 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+big O big 0 0 0 0 0 0 0 tr table odd_tr 12 4
+data O data 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+data O data 0 0 0 0 0 0 0 tr table odd_tr 12 4
+mining O mining 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+graph/network O graph/network 0 0 0 0 0 0 0 tr table odd_tr 12 4
+analysis O analysis 0 0 0 0 0 0 0 tr table odd_tr 12 4
+
+CHEONG B-PER cheong 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Chi I-PER chi 0 1 0 0 0 0 1 td tr wide_tb 13 0
+Hong I-PER hong 0 1 0 0 1 0 1 td tr wide_tb 13 0
+å¼µå¿èª O a¼µa¿eª 0 0 0 0 0 0 0 tr table wide_tb 12 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr table wide_tb 12 3
+
+CHUI B-PER chui 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Yim I-PER yim 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Pan I-PER pan 0 1 0 0 0 0 1 td tr odd_tr 13 0
+å¾å´æ¿± O a¾a´e¿± 0 0 0 0 0 0 0 tr table odd_tr 12 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr table odd_tr 12 3
+
+FU B-PER fu 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Chi I-PER chi 0 1 0 0 0 0 1 td tr wide_tb 13 0
+Wing I-PER wing 0 1 0 0 0 0 1 td tr wide_tb 13 0
+Philip I-PER philip 0 1 0 0 0 0 1 td tr wide_tb 13 0
+å O a 0 0 0 0 0 0 0 tr table wide_tb 12 2
+å¿æ¦® O a¿e¦® 0 0 0 0 0 0 0 tr table wide_tb 12 2
+Associate O associate 0 1 0 0 0 0 1 tr table wide_tb 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table wide_tb 12 3
+Computer O computer 0 0 0 0 0 0 1 tr table wide_tb 12 4
+Graphics O graphics 0 0 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Visualization O visualization 0 0 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+and O and 0 1 0 0 0 0 0 tr table wide_tb 12 4
+Human O human 0 1 0 0 0 0 1 tr table wide_tb 12 4
+Computer O computer 0 0 0 0 0 0 1 tr table wide_tb 12 4
+Interaction O interaction 0 0 0 0 0 0 1 tr table wide_tb 12 4
+
+FU B-PER fu 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Wai I-PER wai 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Chee I-PER chee 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Ada I-PER ada 0 1 0 0 0 0 1 td tr odd_tr 13 0
+å O a 0 0 0 0 0 0 0 tr table odd_tr 12 2
+æ O e 0 0 0 0 0 0 0 tr table odd_tr 12 2
+°æ O °e 0 0 0 0 0 0 0 tr table odd_tr 12 2
+ O  0 0 0 0 0 0 0 tr table odd_tr 12 2
+Associate O associate 0 1 0 0 0 0 1 tr table odd_tr 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+Database O database 0 1 0 0 0 0 1 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+Data O data 0 1 0 0 0 0 1 tr table odd_tr 12 4
+Mining O mining 0 0 0 0 0 0 1 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+Big O big 0 0 0 0 0 0 1 tr table odd_tr 12 4
+Data O data 0 1 0 0 0 0 1 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+Massive O massive 0 0 0 0 1 0 1 tr table odd_tr 12 4
+Graph O graph 0 0 0 0 0 0 1 tr table odd_tr 12 4
+Analysis O analysis 0 0 0 0 0 0 1 tr table odd_tr 12 4
+
+FUNG B-PER fung 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Ping I-PER ping 1 1 0 0 0 0 1 td tr wide_tb 13 0
+Fu I-PER fu 1 1 0 0 0 0 1 td tr wide_tb 13 0
+é¦®ç³å¯ O e¦®c³a¯ 0 0 0 1 0 0 0 tr table wide_tb 12 2
+Senior O senior 0 1 0 0 0 0 1 tr table wide_tb 12 3
+Lecturer O lecturer 0 0 0 0 0 0 1 tr table wide_tb 12 3
+
+HENG B-PER heng 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Pheng I-PER pheng 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Ann I-PER ann 1 1 0 0 0 0 1 td tr odd_tr 13 0
+çå¹³å® O ca¹³a® 0 0 0 1 0 0 0 tr table odd_tr 12 2
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+AI O ai 0 0 0 0 0 0 1 tr table odd_tr 12 4
+and O and 0 1 0 0 0 0 0 tr table odd_tr 12 4
+VR O vr 0 0 0 0 0 0 1 tr table odd_tr 12 4
+for O for 0 1 0 0 0 0 0 tr table odd_tr 12 4
+medical O medical 0 0 0 0 0 0 0 tr table odd_tr 12 4
+applications O applications 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+surgical O surgical 0 0 0 0 0 0 0 tr table odd_tr 12 4
+simulation O simulation 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+visualisation O visualisation 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+graphics O graphics 0 0 0 0 0 0 0 tr table odd_tr 12 4
+and O and 0 1 0 0 0 0 0 tr table odd_tr 12 4
+human O human 0 0 0 0 0 0 0 tr table odd_tr 12 4
+- O - 0 0 0 0 0 0 0 tr table odd_tr 12 4
+computer O computer 0 0 0 0 0 0 0 tr table odd_tr 12 4
+interaction O interaction 0 0 0 0 0 0 0 tr table odd_tr 12 4
+
+JIA B-PER jia 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Jiaya I-PER jiaya 0 1 0 0 0 0 1 td tr wide_tb 13 0
+è³ä½³äº O e³a½³aº 0 0 0 1 0 0 0 tr table wide_tb 12 2
+Professor O professor 0 0 0 0 1 0 1 tr table wide_tb 12 3
+computer O computer 0 0 0 0 0 0 0 tr table wide_tb 12 4
+vision O vision 0 0 0 0 0 0 0 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+graphics O graphics 0 0 0 0 0 0 0 tr table wide_tb 12 4
+& O & 0 0 0 0 0 0 0 tr table wide_tb 12 4
+machine O machine 0 0 0 0 0 0 0 tr table wide_tb 12 4
+learning O learning 0 0 0 0 0 0 0 tr table wide_tb 12 4
+
+KING B-PER king 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Kuo I-PER kuo 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Chin I-PER chin 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Irwin I-PER irwin 0 1 0 0 0 0 1 td tr odd_tr 13 0
+éåæ O eae 0 0 0 0 0 0 0 tr table odd_tr 12 2
+¶ O ¶ 0 0 0 0 0 0 0 tr table odd_tr 12 2
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+social O social 0 0 0 0 0 0 0 tr table odd_tr 12 4
+computing O computing 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+machine O machine 0 0 0 0 0 0 0 tr table odd_tr 12 4
+learning O learning 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+data O data 0 0 0 0 0 0 0 tr table odd_tr 12 4
+and O and 0 1 0 0 0 0 0 tr table odd_tr 12 4
+web O web 0 0 0 0 0 0 0 tr table odd_tr 12 4
+mining O mining 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+information O information 0 0 0 0 0 0 0 tr table odd_tr 12 4
+retrieval O retrieval 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+multimedia O multimedia 0 0 0 0 0 0 0 tr table odd_tr 12 4
+processing O processing 0 0 0 0 0 0 0 tr table odd_tr 12 4
+
+LAM O lam 0 0 0 0 0 0 1 tr table wide_tb 12 0
+Tak O tak 0 1 0 0 0 0 1 tr table wide_tb 12 0
+Kei O kei 0 1 0 0 0 0 1 tr table wide_tb 12 0
+æå¾·åº O ea¾·aº 0 0 0 0 0 0 0 tr table wide_tb 12 1
+Lecturer O lecturer 0 0 0 0 0 0 1 tr table wide_tb 12 2
+
+LAW B-PER law 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Yat I-PER yat 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Chiu I-PER chiu 0 1 0 0 0 0 1 td tr odd_tr 13 0
+ç¾ O c¾ 0 0 0 0 0 0 0 tr table odd_tr 12 2
+æ¥æ­ O e¥e­ 0 0 0 0 0 0 0 tr table odd_tr 12 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr table odd_tr 12 3
+
+LEE B-PER lee 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Ho I-PER ho 0 1 0 0 0 0 1 td tr wide_tb 13 0
+Man I-PER man 0 1 0 0 0 0 1 td tr wide_tb 13 0
+Jimmy I-PER jimmy 1 1 0 0 0 0 1 td tr wide_tb 13 0
+ææµ©æ O eeµ©e 0 0 0 0 0 0 0 tr table wide_tb 12 2
+Professor O professor 0 0 0 0 1 0 1 tr table wide_tb 12 3
+constraint O constraint 0 0 0 0 0 0 0 tr table wide_tb 12 4
+satisfaction O satisfaction 0 0 0 0 0 0 0 tr table wide_tb 12 4
+& O & 0 0 0 0 0 0 0 tr table wide_tb 12 4
+optimization O optimization 0 0 0 0 0 0 0 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+satisfiability O satisfiability 0 0 0 0 0 0 0 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+search O search 0 0 0 0 0 0 0 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+IT O it 0 0 0 0 0 0 1 tr table wide_tb 12 4
+in O in 0 1 0 0 0 0 0 tr table wide_tb 12 4
+Education O education 0 0 0 0 0 0 1 tr table wide_tb 12 4
+
+LEE B-PER lee 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Pak I-PER pak 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Ching I-PER ching 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Patrick I-PER patrick 0 1 0 0 0 0 1 td tr odd_tr 13 0
+æææ´ O eee´ 0 0 0 0 0 0 0 tr table odd_tr 12 2
+Associate O associate 0 1 0 0 0 0 1 tr table odd_tr 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+storage O storage 0 0 0 0 0 0 0 tr table odd_tr 12 4
+systems O systems 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+distributed O distributed 0 0 0 0 0 0 0 tr table odd_tr 12 4
+systems O systems 0 0 0 0 0 0 0 tr table odd_tr 12 4
+and O and 0 1 0 0 0 0 0 tr table odd_tr 12 4
+networks O networks 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+operating O operating 0 0 0 0 0 0 0 tr table odd_tr 12 4
+systems O systems 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+dependability O dependability 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+and O and 0 1 0 0 0 0 0 tr table odd_tr 12 4
+security O security 0 0 0 0 0 0 0 tr table odd_tr 12 4
+
+LEUNG B-PER leung 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Ho I-PER ho 0 1 0 0 0 0 1 td tr wide_tb 13 0
+Fung I-PER fung 0 1 0 0 0 0 1 td tr wide_tb 13 0
+æ¢æµ©é O e¢eµ©e 0 0 0 0 0 0 0 tr table wide_tb 12 2
+Professor O professor 0 0 0 0 1 0 1 tr table wide_tb 12 3
+Multi O multi 0 0 0 0 0 0 1 tr table wide_tb 12 4
+- O - 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Agent O agent 0 0 0 0 0 0 1 tr table wide_tb 12 4
+Systems O systems 0 0 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Game O game 0 1 0 0 0 0 1 tr table wide_tb 12 4
+Theory O theory 0 0 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Web O web 0 1 0 0 0 0 1 tr table wide_tb 12 4
+Intelligence O intelligence 0 0 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+and O and 0 1 0 0 0 0 0 tr table wide_tb 12 4
+Evolutionary O evolutionary 0 0 0 0 0 0 1 tr table wide_tb 12 4
+Computing O computing 0 0 0 0 0 0 1 tr table wide_tb 12 4
+
+LEUNG B-PER leung 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Kwong I-PER kwong 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Sak I-PER sak 0 1 0 0 0 0 1 td tr odd_tr 13 0
+æ¢å»£é« O e¢a»£e« 0 0 0 0 0 0 0 tr table odd_tr 12 2
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+of O of 0 1 0 0 0 0 0 tr table odd_tr 12 3
+CS O cs 0 0 0 0 0 0 1 tr table odd_tr 12 3
+& O & 0 0 0 0 0 0 0 tr table odd_tr 12 3
+E O e 0 1 0 0 0 0 1 tr table odd_tr 12 3
+knowledge O knowledge 0 0 0 0 0 0 0 tr table odd_tr 12 4
+engineering O engineering 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+bioinformatics O bioinformatics 0 0 0 0 0 0 0 tr table odd_tr 12 4
+& O & 0 0 0 0 0 0 0 tr table odd_tr 12 4
+data O data 0 0 0 0 0 0 0 tr table odd_tr 12 4
+mining O mining 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+machine O machine 0 0 0 0 0 0 0 tr table odd_tr 12 4
+learning O learning 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+fuzzy O fuzzy 0 0 0 0 0 0 0 tr table odd_tr 12 4
+logic O logic 0 0 0 0 0 0 0 tr table odd_tr 12 4
+applications O applications 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+genetic O genetic 0 0 0 0 0 0 0 tr table odd_tr 12 4
+algorithms O algorithms 0 0 0 0 0 0 0 tr table odd_tr 12 4
+& O & 0 0 0 0 0 0 0 tr table odd_tr 12 4
+programming O programming 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+AI O ai 0 0 0 0 0 0 1 tr table odd_tr 12 4
+architecture O architecture 0 0 0 0 0 0 0 tr table odd_tr 12 4
+
+LO B-PER lo 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Eric I-PER eric 0 1 0 0 0 0 1 td tr wide_tb 13 0
+ç§è³å O c§e³a 0 0 0 1 0 0 0 tr table wide_tb 12 2
+Associate O associate 0 1 0 0 0 0 1 tr table wide_tb 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table wide_tb 12 3
+Big O big 0 0 0 0 0 0 1 tr table wide_tb 12 4
+Data O data 0 1 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Supercomputing O supercomputing 0 0 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Database O database 0 1 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Cloud O cloud 0 1 0 0 0 0 1 tr table wide_tb 12 4
+Computing O computing 0 0 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Data O data 0 1 0 0 0 0 1 tr table wide_tb 12 4
+Mining O mining 0 0 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Distributed O distributed 0 0 0 0 0 0 1 tr table wide_tb 12 4
+Systems O systems 0 0 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Operating O operating 0 0 0 0 0 0 1 tr table wide_tb 12 4
+Systems O systems 0 0 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Distributed O distributed 0 0 0 0 0 0 1 tr table wide_tb 12 4
+Machine O machine 0 1 0 0 0 0 1 tr table wide_tb 12 4
+Learning O learning 0 1 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Compiler O compiler 0 0 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Software O software 0 1 0 0 0 0 1 tr table wide_tb 12 4
+Engineering O engineering 0 0 0 0 0 0 1 tr table wide_tb 12 4
+
+LUI B-PER lui 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Chi I-PER chi 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Shing I-PER shing 0 1 0 0 0 0 1 td tr odd_tr 13 0
+John I-PER john 0 1 0 0 0 0 1 td tr odd_tr 13 0
+åèªæ O aeªe 0 0 0 0 0 0 0 tr table odd_tr 12 2
+Choh O choh 0 1 0 0 0 0 1 tr table odd_tr 12 3
+- O - 0 0 0 0 0 0 0 tr table odd_tr 12 3
+Ming O ming 1 1 0 0 0 0 1 tr table odd_tr 12 3
+Li O li 1 1 0 0 0 0 1 tr table odd_tr 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+of O of 0 1 0 0 0 0 0 tr table odd_tr 12 3
+CSE O cse 0 0 0 0 0 0 1 tr table odd_tr 12 3
+network O network 0 0 0 0 0 0 0 tr table odd_tr 12 4
+sciences O sciences 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+network O network 0 0 0 0 0 0 0 tr table odd_tr 12 4
+economics O economics 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+applied O applied 0 0 0 0 0 0 0 tr table odd_tr 12 4
+machine O machine 0 0 0 0 0 0 0 tr table odd_tr 12 4
+learning O learning 0 0 0 0 0 0 0 tr table odd_tr 12 4
+in O in 0 1 0 0 0 0 0 tr table odd_tr 12 4
+networks O networks 0 0 0 0 0 0 0 tr table odd_tr 12 4
+& O & 0 0 0 0 0 0 0 tr table odd_tr 12 4
+distributed O distributed 0 0 0 0 0 0 0 tr table odd_tr 12 4
+systems O systems 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+system O system 0 0 0 0 0 0 0 tr table odd_tr 12 4
+security O security 0 0 0 0 0 0 0 tr table odd_tr 12 4
+in O in 0 1 0 0 0 0 0 tr table odd_tr 12 4
+mobile O mobile 0 0 0 0 0 0 0 tr table odd_tr 12 4
+& O & 0 0 0 0 0 0 0 tr table odd_tr 12 4
+cloud O cloud 0 0 0 0 0 0 0 tr table odd_tr 12 4
+computing O computing 0 0 0 0 0 0 0 tr table odd_tr 12 4
+
+MENG B-PER meng 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Wei I-PER wei 0 1 0 0 0 0 1 td tr wide_tb 13 0
+å­ç O a­c 0 0 0 0 0 0 0 tr table wide_tb 12 2
+Assistant O assistant 0 0 0 0 0 0 1 tr table wide_tb 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table wide_tb 12 3
+Computer O computer 0 0 0 0 0 0 1 tr table wide_tb 12 4
+Security O security 0 0 0 0 0 0 1 tr table wide_tb 12 4
+and O and 0 1 0 0 0 0 0 tr table wide_tb 12 4
+Privacy O privacy 0 0 0 0 0 0 1 tr table wide_tb 12 4
+
+OR B-PER or 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Siu I-PER siu 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Hang I-PER hang 0 1 0 0 0 0 1 td tr odd_tr 13 0
+æ¯å O e¯a 0 0 0 0 0 0 0 tr table odd_tr 12 2
+æ O e 0 0 0 0 0 0 0 tr table odd_tr 12 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr table odd_tr 12 3
+computer O computer 0 0 0 0 0 0 0 tr table odd_tr 12 4
+vision O vision 0 0 0 0 0 0 0 tr table odd_tr 12 4
+& O & 0 0 0 0 0 0 0 tr table odd_tr 12 4
+graphics O graphics 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+entertainment O entertainment 0 0 0 0 0 0 0 tr table odd_tr 12 4
+computing O computing 0 0 0 0 0 0 0 tr table odd_tr 12 4
+
+SUM B-PER sum 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Kwok I-PER kwok 0 1 0 0 0 0 1 td tr wide_tb 13 0
+Wing I-PER wing 0 1 0 0 0 0 1 td tr wide_tb 13 0
+Anthony I-PER anthony 0 1 0 0 0 0 1 td tr wide_tb 13 0
+å²åæ¦® O a²ae¦® 0 0 0 1 0 0 0 tr table wide_tb 12 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr table wide_tb 12 3
+
+SUN B-PER sun 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Hanqiu I-PER hanqiu 0 1 0 0 0 0 1 td tr odd_tr 13 0
+å­«æ¼¢ç§ O a­«e¼¢c§ 0 0 0 0 0 0 0 tr table odd_tr 12 2
+Associate O associate 0 1 0 0 0 0 1 tr table odd_tr 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+Virtual O virtual 0 0 0 0 0 0 1 tr table odd_tr 12 4
+Reality O reality 0 0 0 0 0 0 1 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+Interactive O interactive 0 0 0 0 0 0 1 tr table odd_tr 12 4
+Modeling/Rendering O modeling/rendering 0 0 0 0 0 0 1 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+Real O real 0 1 0 0 0 0 1 tr table odd_tr 12 4
+- O - 0 0 0 0 0 0 0 tr table odd_tr 12 4
+time O time 0 0 0 0 0 0 0 tr table odd_tr 12 4
+Hypermedia O hypermedia 0 0 0 0 0 0 1 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+Computer O computer 0 0 0 0 0 0 1 tr table odd_tr 12 4
+- O - 0 0 0 0 0 0 0 tr table odd_tr 12 4
+assisted O assisted 0 0 0 0 0 0 0 tr table odd_tr 12 4
+Surgery O surgery 0 0 0 0 0 0 1 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+Mobile O mobile 0 0 0 0 0 0 1 tr table odd_tr 12 4
+Image/Video O image/video 0 0 0 0 0 0 1 tr table odd_tr 12 4
+Processing O processing 0 0 0 0 0 0 1 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+Touch O touch 0 1 0 0 0 0 1 tr table odd_tr 12 4
+- O - 0 0 0 0 0 0 0 tr table odd_tr 12 4
+enabled O enabled 0 0 0 0 0 0 0 tr table odd_tr 12 4
+Simulations O simulations 0 0 0 0 0 0 1 tr table odd_tr 12 4
+
+TAO B-PER tao 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Yufei I-PER yufei 0 1 0 0 0 0 1 td tr wide_tb 13 0
+é¶å®é£ O e¶a®e£ 0 0 0 0 0 0 0 tr table wide_tb 12 2
+Professor O professor 0 0 0 0 1 0 1 tr table wide_tb 12 3
+Database O database 0 1 0 0 0 0 1 tr table wide_tb 12 4
+Systems O systems 0 0 0 0 0 0 1 tr table wide_tb 12 4
+and O and 0 1 0 0 0 0 0 tr table wide_tb 12 4
+Theory O theory 0 0 0 0 0 0 1 tr table wide_tb 12 4
+
+WAH B-PER wah 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Wan I-PER wan 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Sang I-PER sang 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Benjamin I-PER benjamin 0 1 0 0 0 0 1 td tr odd_tr 13 0
+è¯é²ç O e¯e²c 0 0 0 1 0 0 0 tr table odd_tr 12 2
+Provost O provost 0 1 0 0 0 0 1 tr table odd_tr 12 3
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 3
+Wei O wei 0 1 0 0 0 0 1 tr table odd_tr 12 3
+Lun O lun 0 1 0 0 0 0 1 tr table odd_tr 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+of O of 0 1 0 0 0 0 0 tr table odd_tr 12 3
+CS O cs 0 0 0 0 0 0 1 tr table odd_tr 12 3
+& O & 0 0 0 0 0 0 0 tr table odd_tr 12 3
+E O e 0 1 0 0 0 0 1 tr table odd_tr 12 3
+Nonlinear O nonlinear 0 0 0 0 0 0 1 tr table odd_tr 12 4
+programming O programming 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+with O with 0 0 0 0 0 0 0 tr table odd_tr 12 4
+applications O applications 0 0 0 0 0 0 0 tr table odd_tr 12 4
+in O in 0 1 0 0 0 0 0 tr table odd_tr 12 4
+financial O financial 0 0 0 0 0 0 0 tr table odd_tr 12 4
+engineering O engineering 0 0 0 0 0 0 0 tr table odd_tr 12 4
+; O ; 0 0 0 0 0 0 0 tr table odd_tr 12 4
+Multimedia O multimedia 0 0 0 0 0 0 1 tr table odd_tr 12 4
+signal O signal 0 0 0 0 0 0 0 tr table odd_tr 12 4
+processing O processing 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+voice O voice 0 0 0 0 0 0 0 tr table odd_tr 12 4
+- O - 0 0 0 0 0 0 0 tr table odd_tr 12 4
+over O over 0 0 0 0 0 0 0 tr table odd_tr 12 4
+- O - 0 0 0 0 0 0 0 tr table odd_tr 12 4
+IP O ip 0 0 0 0 0 0 1 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+and O and 0 1 0 0 0 0 0 tr table odd_tr 12 4
+computer O computer 0 0 0 0 0 0 0 tr table odd_tr 12 4
+networks O networks 0 0 0 0 0 0 0 tr table odd_tr 12 4
+; O ; 0 0 0 0 0 0 0 tr table odd_tr 12 4
+Artificial O artificial 0 0 0 0 0 0 1 tr table odd_tr 12 4
+Intelligence O intelligence 0 0 0 0 0 0 1 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+planning O planning 0 0 0 0 0 0 0 tr table odd_tr 12 4
+and O and 0 1 0 0 0 0 0 tr table odd_tr 12 4
+scheduling O scheduling 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+and O and 0 1 0 0 0 0 0 tr table odd_tr 12 4
+satisfiability. O satisfiability. 0 0 0 0 0 0 0 tr table odd_tr 12 4
+
+WONG B-PER wong 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Kin I-PER kin 0 1 0 0 0 0 1 td tr wide_tb 13 0
+Hong I-PER hong 0 1 0 0 1 0 1 td tr wide_tb 13 0
+é»å¥åº· O e»a¥aº· 0 0 0 0 0 0 0 tr table wide_tb 12 2
+Associate O associate 0 1 0 0 0 0 1 tr table wide_tb 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table wide_tb 12 3
+3 O 3 0 0 0 1 0 0 0 tr table wide_tb 12 4
+- O - 0 0 0 0 0 0 0 tr table wide_tb 12 4
+D O d 0 1 0 0 0 0 1 tr table wide_tb 12 4
+computer O computer 0 0 0 0 0 0 0 tr table wide_tb 12 4
+vision O vision 0 0 0 0 0 0 0 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+visual O visual 0 0 0 0 0 0 0 tr table wide_tb 12 4
+and O and 0 1 0 0 0 0 0 tr table wide_tb 12 4
+audio O audio 0 0 0 0 1 0 0 tr table wide_tb 12 4
+signal O signal 0 0 0 0 0 0 0 tr table wide_tb 12 4
+processing O processing 0 0 0 0 0 0 0 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+computer O computer 0 0 0 0 0 0 0 tr table wide_tb 12 4
+music O music 0 0 0 0 1 0 0 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+embedded O embedded 0 0 0 0 1 0 0 tr table wide_tb 12 4
+systems O systems 0 0 0 0 0 0 0 tr table wide_tb 12 4
+
+WONG B-PER wong 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Man I-PER man 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Hon I-PER hon 0 1 0 0 0 0 1 td tr odd_tr 13 0
+çææ¼¢ O cee¼¢ 0 0 0 0 0 0 0 tr table odd_tr 12 2
+Associate O associate 0 1 0 0 0 0 1 tr table odd_tr 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+distributed O distributed 0 0 0 0 0 0 0 tr table odd_tr 12 4
+algorithms O algorithms 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+databases O databases 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+computer O computer 0 0 0 0 0 0 0 tr table odd_tr 12 4
+security O security 0 0 0 0 0 0 0 tr table odd_tr 12 4
+
+WONG B-PER wong 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Tien I-PER tien 0 1 0 0 0 0 1 td tr wide_tb 13 0
+Tsin I-PER tsin 0 1 0 0 0 0 1 td tr wide_tb 13 0
+é»ç°æ´¥ O e»c°e´¥ 0 0 0 0 0 0 0 tr table wide_tb 12 2
+Professor O professor 0 0 0 0 1 0 1 tr table wide_tb 12 3
+graphics O graphics 0 0 0 0 0 0 0 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+vision O vision 0 0 0 0 0 0 0 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+& O & 0 0 0 0 0 0 0 tr table wide_tb 12 4
+multimedia O multimedia 0 0 0 0 0 0 0 tr table wide_tb 12 4
+
+XU B-PER xu 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Lei I-PER lei 0 1 0 0 0 0 1 td tr odd_tr 13 0
+å¾ãé· O a¾ae· 0 0 0 0 0 0 0 tr table odd_tr 12 2
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+of O of 0 1 0 0 0 0 0 tr table odd_tr 12 3
+CS O cs 0 0 0 0 0 0 1 tr table odd_tr 12 3
+& O & 0 0 0 0 0 0 0 tr table odd_tr 12 3
+E O e 0 1 0 0 0 0 1 tr table odd_tr 12 3
+statistical O statistical 0 0 0 0 0 0 0 tr table odd_tr 12 4
+theory O theory 0 0 0 0 0 0 0 tr table odd_tr 12 4
+& O & 0 0 0 0 0 0 0 tr table odd_tr 12 4
+algorithms O algorithms 0 0 0 0 0 0 0 tr table odd_tr 12 4
+for O for 0 1 0 0 0 0 0 tr table odd_tr 12 4
+machine O machine 0 0 0 0 0 0 0 tr table odd_tr 12 4
+learning O learning 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+pattern O pattern 0 0 0 0 0 0 0 tr table odd_tr 12 4
+recognition O recognition 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+computational O computational 0 0 0 0 0 0 0 tr table odd_tr 12 4
+finance O finance 0 0 0 0 0 0 0 tr table odd_tr 12 4
+
+XU B-PER xu 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Qiang I-PER qiang 0 1 0 0 0 0 1 td tr wide_tb 13 0
+å¾ãå¼· O a¾aa¼· 0 0 0 0 0 0 0 tr table wide_tb 12 2
+Associate O associate 0 1 0 0 0 0 1 tr table wide_tb 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table wide_tb 12 3
+Fault O fault 0 0 0 0 0 0 1 tr table wide_tb 12 4
+- O - 0 0 0 0 0 0 0 tr table wide_tb 12 4
+tolerant O tolerant 0 0 0 0 0 0 0 tr table wide_tb 12 4
+computing O computing 0 0 0 0 0 0 0 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Multi O multi 0 0 0 0 0 0 1 tr table wide_tb 12 4
+- O - 0 0 0 0 0 0 0 tr table wide_tb 12 4
+core O core 0 0 0 0 0 0 0 tr table wide_tb 12 4
+system O system 0 0 0 0 0 0 0 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+VLSI O vlsi 0 0 0 0 0 0 1 tr table wide_tb 12 4
+test O test 0 0 0 0 0 0 0 tr table wide_tb 12 4
+and O and 0 1 0 0 0 0 0 tr table wide_tb 12 4
+debug O debug 0 0 0 0 0 0 0 tr table wide_tb 12 4
+
+YANG B-PER yang 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Ming I-PER ming 1 1 0 0 0 0 1 td tr odd_tr 13 0
+Chang I-PER chang 1 1 0 0 0 0 1 td tr odd_tr 13 0
+æ¥ææ O e¥ee 0 0 0 0 0 0 0 tr table odd_tr 12 2
+Assistant O assistant 0 0 0 0 0 0 1 tr table odd_tr 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+Emerging O emerging 0 0 0 0 1 0 1 tr table odd_tr 12 4
+Non O non 0 1 0 0 0 0 1 tr table odd_tr 12 4
+- O - 0 0 0 0 0 0 0 tr table odd_tr 12 4
+Volatile O volatile 0 0 0 0 0 0 1 tr table odd_tr 12 4
+Memory O memory 0 1 0 0 0 0 1 tr table odd_tr 12 4
+and O and 0 1 0 0 0 0 0 tr table odd_tr 12 4
+Storage O storage 0 0 0 0 0 0 1 tr table odd_tr 12 4
+Technologies O technologies 0 0 0 0 0 0 1 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+Next O next 0 0 0 0 0 0 1 tr table odd_tr 12 4
+- O - 0 0 0 0 0 0 0 tr table odd_tr 12 4
+Generation O generation 0 0 0 0 0 0 1 tr table odd_tr 12 4
+Memory/Storage O memory/storage 0 0 0 0 0 0 1 tr table odd_tr 12 4
+Systems O systems 0 0 0 0 0 0 1 tr table odd_tr 12 4
+and O and 0 1 0 0 0 0 0 tr table odd_tr 12 4
+Their O their 0 0 0 0 0 0 1 tr table odd_tr 12 4
+Applications O applications 0 0 0 0 0 0 1 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+Embedded O embedded 0 0 0 0 1 0 1 tr table odd_tr 12 4
+Systems O systems 0 0 0 0 0 0 1 tr table odd_tr 12 4
+and O and 0 1 0 0 0 0 0 tr table odd_tr 12 4
+Their O their 0 0 0 0 0 0 1 tr table odd_tr 12 4
+OS O os 0 0 0 0 0 0 1 tr table odd_tr 12 4
+Designs O designs 0 0 0 0 0 0 1 tr table odd_tr 12 4
+
+YIP B-PER yip 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Yuk I-PER yuk 0 1 0 0 0 0 1 td tr wide_tb 13 0
+Lap I-PER lap 0 1 0 0 0 0 1 td tr wide_tb 13 0
+Kevin I-PER kevin 0 1 0 0 0 0 1 td tr wide_tb 13 0
+èæ­ç« O ee­c« 0 0 0 0 0 0 0 tr table wide_tb 12 2
+Associate O associate 0 1 0 0 0 0 1 tr table wide_tb 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table wide_tb 12 3
+Bioinformatics O bioinformatics 0 0 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+computational O computational 0 0 0 0 0 0 0 tr table wide_tb 12 4
+biology O biology 0 0 0 0 0 0 0 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+data O data 0 0 0 0 0 0 0 tr table wide_tb 12 4
+mining O mining 0 0 0 0 0 0 0 tr table wide_tb 12 4
+
+YOUNG B-PER young 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Fung I-PER fung 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Yu I-PER yu 0 1 0 0 0 0 1 td tr odd_tr 13 0
+æ¥é³³å¦ O e¥e³³a¦ 0 0 0 1 0 0 0 tr table odd_tr 12 2
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+VLSI O vlsi 0 0 0 0 0 0 1 tr table odd_tr 12 4
+CAD O cad 0 0 0 0 0 0 1 tr table odd_tr 12 4
+
+YU B-PER yu 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Bei I-PER bei 0 1 0 0 0 0 1 td tr wide_tb 13 0
+ä½ãå O a½aa 0 0 0 0 0 0 0 tr table wide_tb 12 2
+Assistant O assistant 0 0 0 0 0 0 1 tr table wide_tb 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table wide_tb 12 3
+VLSI O vlsi 0 0 0 0 0 0 1 tr table wide_tb 12 4
+CAD O cad 0 0 0 0 0 0 1 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+Cyber O cyber 0 0 0 0 0 0 1 tr table wide_tb 12 4
+- O - 0 0 0 0 0 0 0 tr table wide_tb 12 4
+physical O physical 0 0 0 0 0 0 0 tr table wide_tb 12 4
+systems O systems 0 0 0 0 0 0 0 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+combinatorial O combinatorial 0 0 0 0 0 0 0 tr table wide_tb 12 4
+algorithm O algorithm 0 0 0 0 0 0 0 tr table wide_tb 12 4
+, O , 0 0 0 0 0 0 0 tr table wide_tb 12 4
+machine O machine 0 0 0 0 0 0 0 tr table wide_tb 12 4
+learning O learning 0 0 0 0 0 0 0 tr table wide_tb 12 4
+
+YU B-PER yu 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Xu I-PER xu 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Jeffrey I-PER jeffrey 0 1 0 0 0 0 1 td tr odd_tr 13 0
+äºãæ­ O aºae­ 0 0 0 0 0 0 0 tr table odd_tr 12 2
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+( O ( 0 0 0 0 0 0 0 tr table odd_tr 12 3
+by O by 0 1 0 0 0 0 0 tr table odd_tr 12 3
+courtesy O courtesy 0 0 0 0 0 0 0 tr table odd_tr 12 3
+) O ) 0 0 0 0 0 0 0 tr table odd_tr 12 3
+Database O database 0 1 0 0 0 0 1 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+data O data 0 0 0 0 0 0 0 tr table odd_tr 12 4
+mining O mining 0 0 0 0 0 0 0 tr table odd_tr 12 4
+
+YUAN B-PER yuan 0 0 0 0 0 0 1 td tr wide_tb 13 0
+Cheng I-PER cheng 0 1 0 0 0 0 1 td tr wide_tb 13 0
+Jiun I-PER jiun 0 1 0 0 0 0 1 td tr wide_tb 13 0
+é®å¾è» O e®a¾e» 0 0 0 0 0 0 0 tr table wide_tb 12 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr table wide_tb 12 3
+
+ZHANG B-PER zhang 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Sheng I-PER sheng 1 1 0 0 0 0 1 td tr odd_tr 13 0
+Yu I-PER yu 1 1 0 0 0 0 1 td tr odd_tr 13 0
+å¼µåè­½ O a¼µae­½ 0 0 0 0 0 0 0 tr table odd_tr 12 2
+Associate O associate 0 1 0 0 0 0 1 tr table odd_tr 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+quantum O quantum 0 0 0 0 0 0 0 tr table odd_tr 12 4
+computing O computing 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+algorithms O algorithms 0 0 0 0 0 0 0 tr table odd_tr 12 4
+design O design 0 0 0 0 0 0 0 tr table odd_tr 12 4
+and O and 0 1 0 0 0 0 0 tr table odd_tr 12 4
+analysis O analysis 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+computational O computational 0 0 0 0 0 0 0 tr table odd_tr 12 4
+complexity O complexity 0 0 0 0 0 0 0 tr table odd_tr 12 4
+
+Adjunct O adjunct 0 0 0 0 0 0 1 tr table page_hd_3 12 0
+Professor O professor 0 0 0 0 1 0 1 tr table page_hd_3 12 0
+
+LAU B-PER lau 0 0 0 0 0 0 1 td tr odd_tr 13 0
+Lap I-PER lap 0 1 0 0 0 0 1 td tr odd_tr 13 0
+Chi I-PER chi 0 1 0 0 0 0 1 td tr odd_tr 13 0
+åç«å¿ O ac«a¿ 0 0 0 0 0 0 0 tr table odd_tr 12 2
+Adjunct O adjunct 0 0 0 0 0 0 1 tr table odd_tr 12 3
+Associate O associate 0 1 0 0 0 0 1 tr table odd_tr 12 3
+Professor O professor 0 0 0 0 1 0 1 tr table odd_tr 12 3
+combinatorial O combinatorial 0 0 0 0 0 0 0 tr table odd_tr 12 4
+optimization O optimization 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+approximation O approximation 0 0 0 0 0 0 0 tr table odd_tr 12 4
+algorithms O algorithms 0 0 0 0 0 0 0 tr table odd_tr 12 4
+, O , 0 0 0 0 0 0 0 tr table odd_tr 12 4
+& O & 0 0 0 0 0 0 0 tr table odd_tr 12 4
+graph O graph 0 0 0 0 0 0 0 tr table odd_tr 12 4
+theory O theory 0 0 0 0 0 0 0 tr table odd_tr 12 4
+
+CUHK O cuhk 0 0 0 0 0 0 1 li ul row 11 0
+| O | 0 0 0 0 0 0 0 ul div row 10 0
+
+Engineering O engineering 0 0 0 0 0 0 1 li ul row 11 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul row 11 0
+| O | 0 0 0 0 0 0 0 ul div row 10 2
+
+CSE O cse 0 0 0 0 0 0 1 li ul row 11 0
+Webmail O webmail 0 0 0 0 0 0 1 li ul row 11 0
+| O | 0 0 0 0 0 0 0 ul div row 10 4
+
+Intranet O intranet 0 0 0 0 0 0 1 li ul row 11 0
+| O | 0 0 0 0 0 0 0 ul div row 10 6
+
+Sitemap O sitemap 0 0 0 0 0 0 1 li ul row 11 0
+| O | 0 0 0 0 0 0 0 ul div row 10 8
+
+Privacy O privacy 0 0 0 0 0 0 1 li ul row 11 0
+| O | 0 0 0 0 0 0 0 ul div row 10 10
+
+Disclaimer O disclaimer 0 0 0 0 0 0 1 li ul row 11 0
+| O | 0 0 0 0 0 0 0 ul div row 10 12
+
+Contact O contact 0 0 0 0 0 0 1 li ul row 11 0
+Us O us 0 1 0 0 0 0 1 li ul row 11 0
+
+Copyright O copyright 0 0 0 0 0 0 1 div div row 9 17
+© O © 0 0 0 0 0 0 0 div div row 9 17
+2017 O 2017 0 0 0 1 0 0 0 div div row 9 17
+Department O department 0 0 0 0 0 0 1 div div row 9 17
+of O of 0 1 0 0 0 0 0 div div row 9 17
+Computer O computer 0 0 0 0 0 0 1 div div row 9 17
+Science O science 0 0 0 0 0 0 1 div div row 9 17
+and O and 0 1 0 0 0 0 0 div div row 9 17
+Engineering O engineering 0 0 0 0 0 0 1 div div row 9 17
+, O , 0 0 0 0 0 0 0 div div row 9 17
+The O the 0 1 0 0 0 0 1 div div row 9 17
+Chinese O chinese 0 0 0 0 0 0 1 div div row 9 17
+University O university 0 1 0 0 0 0 1 div div row 9 17
+of O of 0 1 0 0 0 0 0 div div row 9 17
+Hong O hong 0 1 0 0 1 0 1 div div row 9 17
+Kong. O kong. 0 0 0 0 0 0 1 div div row 9 17
+All O all 0 1 0 0 0 0 1 div div row 9 17
+rights O rights 0 0 0 0 0 0 0 div div row 9 17
+reserved. O reserved. 0 0 0 0 0 0 0 div div row 9 17

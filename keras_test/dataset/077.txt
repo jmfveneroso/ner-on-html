@@ -1,308 +1,329 @@
-Department O 0 0 head html none 4 5
-of O 0 1 head html none 4 5
-Information O 0 1 head html none 4 5
-Science O 0 0 head html none 4 5
-(UG) O 0 0 head html none 4 5
-- O 0 0 head html none 4 5
-School O 0 1 head html none 4 5
-of O 0 1 head html none 4 5
-Science, O 0 0 head html none 4 5
-the O 0 1 head html none 4 5
-University O 0 1 head html none 4 5
-of O 0 1 head html none 4 5
-Tokyo O 0 0 head html none 4 5
+Department O department 0 0 0 0 0 0 1 head html none 4 5
+of O of 0 1 0 0 0 0 0 head html none 4 5
+Information O information 0 1 0 0 0 0 1 head html none 4 5
+Science O science 0 0 0 0 0 0 1 head html none 4 5
+( O ( 0 0 0 0 0 0 0 head html none 4 5
+UG O ug 0 0 0 0 0 0 1 head html none 4 5
+) O ) 0 0 0 0 0 0 0 head html none 4 5
+- O - 0 0 0 0 0 0 0 head html none 4 5
+School O school 0 1 0 0 0 0 1 head html none 4 5
+of O of 0 1 0 0 0 0 0 head html none 4 5
+Science O science 0 0 0 0 0 0 1 head html none 4 5
+, O , 0 0 0 0 0 0 0 head html none 4 5
+the O the 0 1 0 0 0 0 0 head html none 4 5
+University O university 0 1 0 0 0 0 1 head html none 4 5
+of O of 0 1 0 0 0 0 0 head html none 4 5
+Tokyo O tokyo 0 0 0 0 0 0 1 head html none 4 5
 
-Japanese O 0 0 li ul bd_r_none.p_right0 11 0
+Japanese O japanese 0 0 0 0 0 0 1 li ul p_right0 11 0
 
-Access O 0 1 li ul clears 11 0
+Access O access 0 1 0 0 0 0 1 li ul clears 11 0
 
-Contact O 0 0 li ul clears 11 0
-Us O 0 1 li ul clears 11 0
+Contact O contact 0 0 0 0 0 0 1 li ul clears 11 0
+Us O us 0 1 0 0 0 0 1 li ul clears 11 0
 
-FAQ O 0 0 li ul clears 11 0
+FAQ O faq 0 0 0 0 0 0 1 li ul clears 11 0
 
-Sitemap O 0 0 li ul clears 11 0
+Sitemap O sitemap 0 0 0 0 0 0 1 li ul clears 11 0
 
-Home O 0 1 li ul clears 11 0
+Home O home 0 1 0 0 0 0 1 li ul clears 11 0
 
-About O 0 0 li ul navi_link 11 0
-Us O 0 1 li ul navi_link 11 0
+About O about 0 0 0 0 0 0 1 li ul navi_link 11 0
+Us O us 0 1 0 0 0 0 1 li ul navi_link 11 0
 
-Overview O 0 0 li ul clears 13 0
+Overview O overview 0 0 0 0 0 0 1 li ul clears 13 0
 
-A O 0 1 li ul clears 13 0
-Message O 0 1 li ul clears 13 0
-from O 0 0 li ul clears 13 0
-the O 0 1 li ul clears 13 0
-Dean O 0 1 li ul clears 13 0
+A O a 0 1 0 0 0 0 1 li ul clears 13 0
+Message O message 0 1 0 0 1 0 1 li ul clears 13 0
+from O from 0 0 0 0 0 0 0 li ul clears 13 0
+the O the 0 1 0 0 0 0 0 li ul clears 13 0
+Dean O dean 0 1 0 0 0 0 1 li ul clears 13 0
 
-Charter O 0 1 li ul clears 13 0
+Charter O charter 0 1 0 0 0 0 1 li ul clears 13 0
 
-Organization O 0 0 li ul clears 13 0
-Chart O 0 1 li ul clears 13 0
+Organization O organization 0 0 0 0 0 0 1 li ul clears 13 0
+Chart O chart 0 1 0 0 0 0 1 li ul clears 13 0
 
-Leadership O 0 0 li ul clears 13 0
+Leadership O leadership 0 0 0 0 0 0 1 li ul clears 13 0
 
-History O 0 0 li ul clears 13 0
+History O history 0 0 0 0 0 0 1 li ul clears 13 0
 
-Former O 0 0 li ul clears 13 0
-Deans O 0 1 li ul clears 13 0
+Former O former 0 0 0 0 0 0 1 li ul clears 13 0
+Deans O deans 0 1 0 0 0 0 1 li ul clears 13 0
 
-Faculty O 0 0 li ul clears 13 0
-Members O 0 0 li ul clears 13 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul clears 13 0
+Members O members 0 0 0 0 0 0 1 li ul clears 13 0
 
-Enactment O 0 0 li ul clears 13 0
+Enactment O enactment 0 0 0 0 0 0 1 li ul clears 13 0
 
-Code O 0 1 li ul clears 13 0
-of O 0 1 li ul clears 13 0
-Research O 0 1 li ul clears 13 0
-Ethics O 0 0 li ul clears 13 0
+Code O code 0 1 0 0 0 0 1 li ul clears 13 0
+of O of 0 1 0 0 0 0 0 li ul clears 13 0
+Research O research 0 1 0 0 0 0 1 li ul clears 13 0
+Ethics O ethics 0 0 0 0 0 0 1 li ul clears 13 0
 
-Logo O 0 0 li ul clears 13 0
+Logo O logo 0 0 0 0 0 0 1 li ul clears 13 0
 
-brochures O 0 0 li ul clears 13 0
+brochures O brochures 0 0 0 0 0 0 0 li ul clears 13 0
 
-YouTube O 0 0 li ul clears 13 0
-channel O 0 0 li ul clears 13 0
+YouTube O youtube 0 0 0 0 0 0 1 li ul clears 13 0
+channel O channel 0 0 0 0 0 0 0 li ul clears 13 0
 
-Education O 0 0 li ul navi_link 11 0
+Education O education 0 0 0 0 0 0 1 li ul navi_link 11 0
 
-Academics O 0 0 li ul clears 13 0
+Academics O academics 0 0 0 0 0 0 1 li ul clears 13 0
 
-Affiliated O 0 0 li ul clears 13 0
-Facilities O 0 0 li ul clears 13 0
+Affiliated O affiliated 0 0 0 0 0 0 1 li ul clears 13 0
+Facilities O facilities 0 0 0 0 0 0 1 li ul clears 13 0
 
-International O 0 0 li ul clears 13 0
-Exchange O 0 0 li ul clears 13 0
-Programs O 0 0 li ul clears 13 0
+International O international 0 0 0 0 0 0 1 li ul clears 13 0
+Exchange O exchange 0 0 0 0 0 0 1 li ul clears 13 0
+Programs O programs 0 0 0 0 0 0 1 li ul clears 13 0
 
-Research O 0 1 li ul navi_link 11 0
+Research O research 0 1 0 0 0 0 1 li ul navi_link 11 0
 
-Featured O 0 0 li ul clears 13 0
-Articles O 0 0 li ul clears 13 0
+Featured O featured 0 0 0 0 0 0 1 li ul clears 13 0
+Articles O articles 0 0 0 0 0 0 1 li ul clears 13 0
 
-Press O 0 1 li ul clears 13 0
-Release O 0 0 li ul clears 13 0
+Press O press 0 1 0 0 0 0 1 li ul clears 13 0
+Release O release 0 0 0 0 0 0 1 li ul clears 13 0
 
-All O 0 1 li ul clears 13 0
-News O 0 0 li ul clears 13 0
+All O all 0 1 0 0 0 0 1 li ul clears 13 0
+News O news 0 0 0 0 0 0 1 li ul clears 13 0
 
-Center O 0 1 li ul clears 13 0
-of O 0 1 li ul clears 13 0
-Excellence O 0 0 li ul clears 13 0
-Programs O 0 0 li ul clears 13 0
+Center O center 0 1 0 0 0 0 1 li ul clears 13 0
+of O of 0 1 0 0 0 0 0 li ul clears 13 0
+Excellence O excellence 0 0 0 0 0 0 1 li ul clears 13 0
+Programs O programs 0 0 0 0 0 0 1 li ul clears 13 0
 
-Related O 0 0 li ul clears 13 0
-External O 0 0 li ul clears 13 0
-Institutes O 0 0 li ul clears 13 0
+Related O related 0 0 0 0 0 0 1 li ul clears 13 0
+External O external 0 0 0 0 0 0 1 li ul clears 13 0
+Institutes O institutes 0 0 0 0 0 0 1 li ul clears 13 0
 
-Notable O 0 0 li ul clears 13 0
-Alumni O 0 0 li ul clears 13 0
+Notable O notable 0 0 0 0 0 0 1 li ul clears 13 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul clears 13 0
 
-Prizes O 0 0 li ul clears 13 0
-& O 0 0 li ul clears 13 0
-Awards O 0 0 li ul clears 13 0
+Prizes O prizes 0 0 0 0 0 0 1 li ul clears 13 0
+& O & 0 0 0 0 0 0 0 li ul clears 13 0
+Awards O awards 0 0 0 0 0 0 1 li ul clears 13 0
 
-Prospective O 0 0 li ul navi_link 11 0
-Students O 0 0 li ul navi_link 11 0
+Prospective O prospective 0 0 0 0 0 0 1 li ul navi_link 11 0
+Students O students 0 0 0 0 0 0 1 li ul navi_link 11 0
 
-Graduate O 1 1 li ul clears 13 0
-Programs O 0 0 li ul clears 13 0
+Graduate O graduate 1 1 0 0 0 0 1 li ul clears 13 0
+Programs O programs 0 0 0 0 0 0 1 li ul clears 13 0
 
-How O 0 1 li ul clears 13 0
-to O 0 0 li ul clears 13 0
-Apply O 0 0 li ul clears 13 0
+How O how 0 1 0 0 0 0 1 li ul clears 13 0
+to O to 0 0 0 0 0 0 0 li ul clears 13 0
+Apply O apply 0 0 0 0 0 0 1 li ul clears 13 0
 
-Scholarships O 0 0 li ul clears 13 0
+Scholarships O scholarships 0 0 0 0 0 0 1 li ul clears 13 0
 
-Visa O 0 1 li ul clears 13 0
+Visa O visa 0 1 0 0 0 0 1 li ul clears 13 0
 
-Housing O 0 0 li ul clears 13 0
+Housing O housing 0 0 0 0 0 0 1 li ul clears 13 0
 
-Academic O 0 0 li ul clears 13 0
-Calendar O 0 0 li ul clears 13 0
+Academic O academic 0 0 0 0 0 0 1 li ul clears 13 0
+Calendar O calendar 0 0 0 0 0 0 1 li ul clears 13 0
 
-Offices O 0 0 li ul clears 13 0
+Offices O offices 0 0 0 0 0 0 1 li ul clears 13 0
 
-University-Wide O 0 0 li ul clears 13 0
-Support O 0 0 li ul clears 13 0
+University O university 0 1 0 0 0 0 1 li ul clears 13 0
+- O - 0 0 0 0 0 0 0 li ul clears 13 0
+Wide O wide 0 1 0 0 0 0 1 li ul clears 13 0
+Support O support 0 0 0 0 0 0 1 li ul clears 13 0
 
-Current O 0 1 li ul navi_link 11 0
-Students O 0 0 li ul navi_link 11 0
+Current O current 0 1 0 0 0 0 1 li ul navi_link 11 0
+Students O students 0 0 0 0 0 0 1 li ul navi_link 11 0
 
-Scholarships O 0 0 li ul clears 13 0
+Scholarships O scholarships 0 0 0 0 0 0 1 li ul clears 13 0
 
-Visa O 0 1 li ul clears 13 0
+Visa O visa 0 1 0 0 0 0 1 li ul clears 13 0
 
-Housing O 0 0 li ul clears 13 0
+Housing O housing 0 0 0 0 0 0 1 li ul clears 13 0
 
-Academic O 0 0 li ul clears 13 0
-Calendar O 0 0 li ul clears 13 0
+Academic O academic 0 0 0 0 0 0 1 li ul clears 13 0
+Calendar O calendar 0 0 0 0 0 0 1 li ul clears 13 0
 
-Lecture O 0 0 li ul clears 13 0
-cancellation O 0 0 li ul clears 13 0
-in O 0 1 li ul clears 13 0
-case O 0 0 li ul clears 13 0
-of O 0 1 li ul clears 13 0
-emergency O 0 0 li ul clears 13 0
+Lecture O lecture 0 0 0 0 0 0 1 li ul clears 13 0
+cancellation O cancellation 0 0 0 0 0 0 0 li ul clears 13 0
+in O in 0 1 0 0 0 0 0 li ul clears 13 0
+case O case 0 0 0 0 0 0 0 li ul clears 13 0
+of O of 0 1 0 0 0 0 0 li ul clears 13 0
+emergency O emergency 0 0 0 0 1 0 0 li ul clears 13 0
 
-Syllabus O 0 0 li ul clears 13 0
+Syllabus O syllabus 0 0 0 0 0 0 1 li ul clears 13 0
 
-UTAS O 0 0 li ul clears 13 0
+UTAS O utas 0 0 0 0 0 0 1 li ul clears 13 0
 
-Notification O 0 0 li ul clears 13 0
-Forms O 0 0 li ul clears 13 0
+Notification O notification 0 0 0 0 0 0 1 li ul clears 13 0
+Forms O forms 0 0 0 0 0 0 1 li ul clears 13 0
 
-Guidelines O 0 0 li ul clears 13 0
-for O 0 1 li ul clears 13 0
-Doctoral O 0 0 li ul clears 13 0
-Dissertations O 0 0 li ul clears 13 0
+Guidelines O guidelines 0 0 0 0 0 0 1 li ul clears 13 0
+for O for 0 1 0 0 0 0 0 li ul clears 13 0
+Doctoral O doctoral 0 0 0 0 0 0 1 li ul clears 13 0
+Dissertations O dissertations 0 0 0 0 0 0 1 li ul clears 13 0
 
-Safety O 0 0 li ul clears 13 0
-Manual O 0 1 li ul clears 13 0
+Safety O safety 0 0 0 0 0 0 1 li ul clears 13 0
+Manual O manual 0 1 0 0 0 0 1 li ul clears 13 0
 
-Offices O 0 0 li ul clears 13 0
+Offices O offices 0 0 0 0 0 0 1 li ul clears 13 0
 
-University-Wide O 0 0 li ul clears 13 0
-Support O 0 0 li ul clears 13 0
+University O university 0 1 0 0 0 0 1 li ul clears 13 0
+- O - 0 0 0 0 0 0 0 li ul clears 13 0
+Wide O wide 0 1 0 0 0 0 1 li ul clears 13 0
+Support O support 0 0 0 0 0 0 1 li ul clears 13 0
 
-Researchers O 0 0 li ul navi_link 11 0
-/ O 0 0 li ul navi_link 11 0
-Faculty O 0 0 li ul navi_link 11 0
+Researchers O researchers 0 0 0 0 0 0 1 li ul navi_link 11 0
+/ O / 0 0 0 0 0 0 0 li ul navi_link 11 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul navi_link 11 0
 
-Information O 0 1 li ul clears 13 0
-for O 0 1 li ul clears 13 0
-International O 0 0 li ul clears 13 0
-Researchers O 0 0 li ul clears 13 0
+Information O information 0 1 0 0 0 0 1 li ul clears 13 0
+for O for 0 1 0 0 0 0 0 li ul clears 13 0
+International O international 0 0 0 0 0 0 1 li ul clears 13 0
+Researchers O researchers 0 0 0 0 0 0 1 li ul clears 13 0
 
-Research O 0 1 li ul clears 13 0
-Grants O 0 0 li ul clears 13 0
+Research O research 0 1 0 0 0 0 1 li ul clears 13 0
+Grants O grants 0 0 0 0 0 0 1 li ul clears 13 0
 
-Safety O 0 0 li ul clears 13 0
-Manual O 0 1 li ul clears 13 0
+Safety O safety 0 0 0 0 0 0 1 li ul clears 13 0
+Manual O manual 0 1 0 0 0 0 1 li ul clears 13 0
 
-Alumni O 0 0 li ul navi_link 11 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul navi_link 11 0
 
-UTokyo O 0 0 li ul clears 13 0
-Alumni O 0 0 li ul clears 13 0
+UTokyo O utokyo 0 0 0 0 0 0 1 li ul clears 13 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul clears 13 0
 
-Certificates O 0 0 li ul clears 13 0
+Certificates O certificates 0 0 0 0 0 0 1 li ul clears 13 0
 
-Donations O 0 0 li ul clears 13 0
+Donations O donations 0 0 0 0 0 0 1 li ul clears 13 0
 
-æ¥æ¬èª O 0 0 p div link_btn 10 0
+æ¥æ¬èª O e¥e¬eª 0 0 0 0 0 0 0 p div link_btn 10 0
 
-Menu O 0 1 div div link_area01 10 0
+Menu O menu 0 1 0 0 0 0 1 div div link_area01 10 0
 
-Faculty O 0 0 li ul link_area01 12 0
-Members O 0 0 li ul link_area01 12 0
-main O 0 0 li ul link_area01 12 0
-page O 0 0 li ul link_area01 12 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul link_area01 12 0
+Members O members 0 0 0 0 0 0 1 li ul link_area01 12 0
+main O main 0 0 0 0 0 0 0 li ul link_area01 12 0
+page O page 0 0 0 0 0 0 0 li ul link_area01 12 0
 
-By O 0 1 li ul link_area01 12 0
-name O 0 0 li ul link_area01 12 0
+By O by 0 1 0 0 0 0 1 li ul link_area01 12 0
+name O name 0 0 0 0 0 0 0 li ul link_area01 12 0
 
-Undergraduate O 0 0 li ul link_area01 12 0
-Departments O 0 0 li ul link_area01 12 0
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul link_area01 12 0
+Departments O departments 0 0 0 0 0 0 1 li ul link_area01 12 0
 
-Graduate O 1 1 li ul link_area01 12 0
-Departments O 0 0 li ul link_area01 12 0
+Graduate O graduate 1 1 0 0 0 0 1 li ul link_area01 12 0
+Departments O departments 0 0 0 0 0 0 1 li ul link_area01 12 0
 
-For O 0 1 div div link_area01 10 0
-Faculty O 0 0 div div link_area01 10 0
-Members O 0 0 div div link_area01 10 0
+For O for 0 1 0 0 0 0 1 div div link_area01 10 0
+Faculty O faculty 0 0 0 0 0 0 1 div div link_area01 10 0
+Members O members 0 0 0 0 0 0 1 div div link_area01 10 0
 
-Edit O 0 1 li ul li_link_out 12 0
+Edit O edit 0 1 0 0 0 0 1 li ul li_link_out 12 0
 
-How O 0 1 li ul li_link_out 12 0
-to O 0 0 li ul li_link_out 12 0
-edit O 0 0 li ul li_link_out 12 0
+How O how 0 1 0 0 0 0 1 li ul li_link_out 12 0
+to O to 0 0 0 0 0 0 0 li ul li_link_out 12 0
+edit O edit 0 0 0 0 0 0 0 li ul li_link_out 12 0
 
-Department O 0 0 div div image 9 0
-of O 0 1 div div image 9 0
-Information O 0 1 div div image 9 0
-Science O 0 0 div div image 9 0
-(UG) O 0 0 div div image 9 0
+Department O department 0 0 0 0 0 0 1 div div image 9 0
+of O of 0 1 0 0 0 0 0 div div image 9 0
+Information O information 0 1 0 0 0 0 1 div div image 9 0
+Science O science 0 0 0 0 0 0 1 div div image 9 0
+( O ( 0 0 0 0 0 0 0 div div image 9 0
+UG O ug 0 0 0 0 0 0 1 div div image 9 0
+) O ) 0 0 0 0 0 0 0 div div image 9 0
 
-H O 0 1 h2 td mw-headline 13 0
+H O h 0 1 0 0 0 0 1 h2 td mw-headline 13 0
 
-HAGIYA B-NAME 0 0 li ul grid_F 14 0
-Masami I-NAME 0 1 li ul grid_F 14 0
+HAGIYA B-PER hagiya 0 0 0 0 0 0 1 li ul grid_F 14 0
+Masami I-PER masami 0 1 0 0 1 0 1 li ul grid_F 14 0
 
-HIRAISHI B-NAME 0 0 li ul grid_F 14 0
-Hidefumi I-NAME 0 1 li ul grid_F 14 0
+HIRAISHI B-PER hiraishi 0 0 0 0 0 0 1 li ul grid_F 14 0
+Hidefumi I-PER hidefumi 0 1 0 0 0 0 1 li ul grid_F 14 0
 
-HONDA B-NAME 0 0 li ul grid_F 14 0
-Junya I-NAME 0 1 li ul grid_F 14 0
+HONDA B-PER honda 0 0 0 0 1 0 1 li ul grid_F 14 0
+Junya I-PER junya 0 1 0 0 0 0 1 li ul grid_F 14 0
 
-I O 0 1 h2 td mw-headline 13 0
+I O i 0 1 0 0 0 0 1 h2 td mw-headline 13 0
 
-IGARASHI B-NAME 0 0 li ul grid_F 14 0
-Takeo I-NAME 0 1 li ul grid_F 14 0
+IGARASHI B-PER igarashi 0 0 0 0 0 0 1 li ul grid_F 14 0
+Takeo I-PER takeo 0 1 0 0 0 0 1 li ul grid_F 14 0
 
-IMAI B-NAME 0 0 li ul grid_F 14 0
-Hiroshi I-NAME 0 1 li ul grid_F 14 0
+IMAI B-PER imai 0 0 0 0 0 0 1 li ul grid_F 14 0
+Hiroshi I-PER hiroshi 0 1 0 0 0 0 1 li ul grid_F 14 0
 
-INABA B-NAME 0 0 li ul grid_F 14 0
-Mary I-NAME 0 1 li ul grid_F 14 0
+INABA B-PER inaba 0 0 0 0 0 0 1 li ul grid_F 14 0
+Mary I-PER mary 0 1 0 0 0 0 1 li ul grid_F 14 0
 
-K O 0 1 h2 td mw-headline 13 0
+K O k 0 1 0 0 0 0 1 h2 td mw-headline 13 0
 
-KATO B-NAME 0 0 li ul grid_F 14 0
-Shinpei I-NAME 0 1 li ul grid_F 14 0
+KATO B-PER kato 0 0 0 0 0 0 1 li ul grid_F 14 0
+Shinpei I-PER shinpei 0 1 0 0 0 0 1 li ul grid_F 14 0
 
-KOBAYASHI B-NAME 0 0 li ul grid_F 14 0
-Naoki I-NAME 0 1 li ul grid_F 14 0
+KOBAYASHI B-PER kobayashi 0 0 0 0 0 0 1 li ul grid_F 14 0
+Naoki I-PER naoki 0 1 0 0 0 0 1 li ul grid_F 14 0
 
-M O 0 1 h2 td mw-headline 13 0
+M O m 0 1 0 0 0 0 1 h2 td mw-headline 13 0
 
-MATSUMOTO B-NAME 0 0 li ul grid_F 14 0
-Masaharu I-NAME 0 1 li ul grid_F 14 0
+MATSUMOTO B-PER matsumoto 0 0 0 0 0 0 1 li ul grid_F 14 0
+Masaharu I-PER masaharu 0 1 0 0 1 0 1 li ul grid_F 14 0
 
-S O 0 1 h2 td mw-headline 13 0
+S O s 0 1 0 0 0 0 1 h2 td mw-headline 13 0
 
-SATO B-NAME 0 0 li ul grid_F 14 0
-Issei I-NAME 0 1 li ul grid_F 14 0
+SATO B-PER sato 0 0 0 0 0 0 1 li ul grid_F 14 0
+Issei I-PER issei 0 1 0 0 0 0 1 li ul grid_F 14 0
 
-SUDA B-NAME 0 0 li ul grid_F 14 0
-Reiji I-NAME 0 1 li ul grid_F 14 0
+SUDA B-PER suda 0 0 0 0 0 0 1 li ul grid_F 14 0
+Reiji I-PER reiji 0 1 0 0 0 0 1 li ul grid_F 14 0
 
-SUGIYAMA B-NAME 0 0 li ul grid_F 14 0
-Masashi I-NAME 0 1 li ul grid_F 14 0
+SUGIYAMA B-PER sugiyama 0 0 0 0 0 0 1 li ul grid_F 14 0
+Masashi I-PER masashi 0 1 0 0 1 0 1 li ul grid_F 14 0
 
-SUPPAKITPAISARN B-NAME 0 0 li ul grid_F 14 0
-Vorapong I-NAME 0 1 li ul grid_F 14 0
+SUPPAKITPAISARN B-PER suppakitpaisarn 0 0 0 0 0 0 1 li ul grid_F 14 0
+Vorapong I-PER vorapong 0 1 0 0 0 0 1 li ul grid_F 14 0
 
-T O 0 1 h2 td mw-headline 13 0
+T O t 0 1 0 0 0 0 1 h2 td mw-headline 13 0
 
-TSUKADA B-NAME 0 0 li ul grid_F 14 0
-Takeshi I-NAME 0 1 li ul grid_F 14 0
+TSUKADA B-PER tsukada 0 0 0 0 0 0 1 li ul grid_F 14 0
+Takeshi I-PER takeshi 0 1 0 0 0 0 1 li ul grid_F 14 0
 
-Y O 0 1 h2 td mw-headline 13 0
+Y O y 0 1 0 0 0 0 1 h2 td mw-headline 13 0
 
-YOSHIMOTO B-NAME 0 0 li ul grid_F 14 0
-Yoshihide I-NAME 0 1 li ul grid_F 14 0
+YOSHIMOTO B-PER yoshimoto 0 0 0 0 0 0 1 li ul grid_F 14 0
+Yoshihide I-PER yoshihide 0 1 0 0 0 0 1 li ul grid_F 14 0
 
-Open O 0 0 li ul p_left0 10 0
-Positions O 0 0 li ul p_left0 10 0
+Open O open 0 0 0 0 0 0 1 li ul p_left0 10 0
+Positions O positions 0 0 0 0 0 0 1 li ul p_left0 10 0
 
-Privacy O 0 0 li ul clears 10 0
-Policy O 0 0 li ul clears 10 0
+Privacy O privacy 0 0 0 0 0 0 1 li ul clears 10 0
+Policy O policy 0 0 0 0 0 0 1 li ul clears 10 0
 
-Site O 0 1 li ul bd_r_none.p_right0 10 0
-Policy O 0 0 li ul bd_r_none.p_right0 10 0
+Site O site 0 1 0 0 0 0 1 li ul p_right0 10 0
+Policy O policy 0 0 0 0 0 0 1 li ul p_right0 10 0
 
-© O 0 0 div div copy 8 7
-School O 0 1 div div copy 8 7
-of O 0 1 div div copy 8 7
-Science, O 0 0 div div copy 8 7
-The O 0 1 div div copy 8 7
-University O 0 1 div div copy 8 7
-of O 0 1 div div copy 8 7
-Tokyo O 0 0 div div copy 8 7
-7-3-1 O 0 0 div div copy 8 7
-Hongo, O 0 0 div div copy 8 7
-Bunkyo-ku, O 0 0 div div copy 8 7
-Tokyo O 0 0 div div copy 8 7
-113-0033, O 0 0 div div copy 8 7
-JAPAN O 0 0 div div copy 8 7
+© O © 0 0 0 0 0 0 0 div div copy 8 7
+School O school 0 1 0 0 0 0 1 div div copy 8 7
+of O of 0 1 0 0 0 0 0 div div copy 8 7
+Science O science 0 0 0 0 0 0 1 div div copy 8 7
+, O , 0 0 0 0 0 0 0 div div copy 8 7
+The O the 0 1 0 0 0 0 1 div div copy 8 7
+University O university 0 1 0 0 0 0 1 div div copy 8 7
+of O of 0 1 0 0 0 0 0 div div copy 8 7
+Tokyo O tokyo 0 0 0 0 0 0 1 div div copy 8 7
+7 O 7 0 0 0 1 0 0 0 div div copy 8 7
+- O - 0 0 0 0 0 0 0 div div copy 8 7
+3 O 3 0 0 0 1 0 0 0 div div copy 8 7
+- O - 0 0 0 0 0 0 0 div div copy 8 7
+1 O 1 0 0 0 1 0 0 0 div div copy 8 7
+Hongo O hongo 0 1 0 0 1 0 1 div div copy 8 7
+, O , 0 0 0 0 0 0 0 div div copy 8 7
+Bunkyo O bunkyo 0 0 0 0 0 0 1 div div copy 8 7
+- O - 0 0 0 0 0 0 0 div div copy 8 7
+ku O ku 0 0 0 0 0 0 0 div div copy 8 7
+, O , 0 0 0 0 0 0 0 div div copy 8 7
+Tokyo O tokyo 0 0 0 0 0 0 1 div div copy 8 7
+113 O 113 0 0 0 1 0 0 0 div div copy 8 7
+- O - 0 0 0 0 0 0 0 div div copy 8 7
+0033 O 0033 0 1 0 1 0 0 0 div div copy 8 7
+, O , 0 0 0 0 0 0 0 div div copy 8 7
+JAPAN O japan 0 0 0 0 0 0 1 div div copy 8 7

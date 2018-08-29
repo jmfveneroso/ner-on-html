@@ -1,1278 +1,1494 @@
-Academic O 0 0 head html none 4 1
-Staff O 0 1 head html none 4 1
-- O 0 0 head html none 4 1
-Academic O 0 0 head html none 4 1
-Staff O 0 1 head html none 4 1
-- O 0 0 head html none 4 1
-People O 0 1 head html none 4 1
-- O 0 0 head html none 4 1
-Computer O 0 0 head html none 4 1
-Science O 0 0 head html none 4 1
-- O 0 0 head html none 4 1
-The O 0 1 head html none 4 1
-University O 0 1 head html none 4 1
-of O 0 1 head html none 4 1
-Sheffield O 0 1 head html none 4 1
+Academic O academic 0 0 0 0 0 0 1 head html none 4 1
+Staff O staff 0 1 0 0 0 0 1 head html none 4 1
+- O - 0 0 0 0 0 0 0 head html none 4 1
+Academic O academic 0 0 0 0 0 0 1 head html none 4 1
+Staff O staff 0 1 0 0 0 0 1 head html none 4 1
+- O - 0 0 0 0 0 0 0 head html none 4 1
+People O people 0 1 0 0 0 0 1 head html none 4 1
+- O - 0 0 0 0 0 0 0 head html none 4 1
+Computer O computer 0 0 0 0 0 0 1 head html none 4 1
+Science O science 0 0 0 0 0 0 1 head html none 4 1
+- O - 0 0 0 0 0 0 0 head html none 4 1
+The O the 0 1 0 0 0 0 1 head html none 4 1
+University O university 0 1 0 0 0 0 1 head html none 4 1
+of O of 0 1 0 0 0 0 0 head html none 4 1
+Sheffield O sheffield 0 1 0 0 0 0 1 head html none 4 1
 
-Home O 0 1 li ul icon.icon__home 12 0
+Home O home 0 1 0 0 0 0 1 li ul icon__home 12 0
 
-University O 0 1 div div header__crest 8 0
-of O 0 1 div div header__crest 8 0
-Sheffield O 0 1 div div header__crest 8 0
-crest O 0 0 div div header__crest 8 0
+University O university 0 1 0 0 0 0 1 div div header__crest 8 0
+of O of 0 1 0 0 0 0 0 div div header__crest 8 0
+Sheffield O sheffield 0 1 0 0 0 0 1 div div header__crest 8 0
+crest O crest 0 0 0 0 0 0 0 div div header__crest 8 0
 
-Department O 0 0 div div header__title 8 0
-of O 0 1 div div header__title 8 0
-Computer O 0 0 div div header__title 8 0
-Science O 0 0 div div header__title 8 0
+Department O department 0 0 0 0 0 0 1 div div header__title 8 0
+of O of 0 1 0 0 0 0 0 div div header__title 8 0
+Computer O computer 0 0 0 0 0 0 1 div div header__title 8 0
+Science O science 0 0 0 0 0 0 1 div div header__title 8 0
 
-Home O 0 1 p div header__breadcrumbs 9 0
-> O 0 0 div div header__breadcrumbs 8 1
-Computer O 0 0 p div header__breadcrumbs 9 1
-Science O 0 0 p div header__breadcrumbs 9 1
-> O 0 0 div div header__breadcrumbs 8 1
-People O 0 1 p div header__breadcrumbs 9 2
-> O 0 0 div div header__breadcrumbs 8 1
-Academic O 0 0 p div header__breadcrumbs 9 3
-Staff O 0 1 p div header__breadcrumbs 9 3
+Home O home 0 1 0 0 0 0 1 p div header__breadcrumbs 9 0
+> O > 0 0 0 0 0 0 0 div div header__breadcrumbs 8 1
+Computer O computer 0 0 0 0 0 0 1 p div header__breadcrumbs 9 1
+Science O science 0 0 0 0 0 0 1 p div header__breadcrumbs 9 1
+> O > 0 0 0 0 0 0 0 div div header__breadcrumbs 8 1
+People O people 0 1 0 0 0 0 1 p div header__breadcrumbs 9 2
+> O > 0 0 0 0 0 0 0 div div header__breadcrumbs 8 1
+Academic O academic 0 0 0 0 0 0 1 p div header__breadcrumbs 9 3
+Staff O staff 0 1 0 0 0 0 1 p div header__breadcrumbs 9 3
 
-Main O 0 1 li ul icon.icon__nav 12 0
-menu O 0 0 li ul icon.icon__nav 12 0
+Main O main 0 1 0 0 0 0 1 li ul icon__nav 12 0
+menu O menu 0 0 0 0 0 0 0 li ul icon__nav 12 0
 
-Home O 0 1 li ul nav.nav-main__sub 14 0
+Home O home 0 1 0 0 0 0 1 li ul nav-main__sub 14 0
 
-Study O 0 1 li ul nav.nav-main__sub 14 0
-with O 0 0 li ul nav.nav-main__sub 14 0
-us O 0 1 li ul nav.nav-main__sub 14 0
+Study O study 0 1 0 0 0 0 1 li ul nav-main__sub 14 0
+with O with 0 0 0 0 0 0 0 li ul nav-main__sub 14 0
+us O us 0 1 0 0 0 0 0 li ul nav-main__sub 14 0
 
-Our O 0 0 li ul nav.nav-main__sub 14 0
-research O 0 0 li ul nav.nav-main__sub 14 0
+Our O our 0 0 0 0 0 0 1 li ul nav-main__sub 14 0
+research O research 0 0 0 0 0 0 0 li ul nav-main__sub 14 0
 
-For O 0 1 li ul nav.nav-main__sub 14 0
-business O 0 0 li ul nav.nav-main__sub 14 0
+For O for 0 1 0 0 0 0 1 li ul nav-main__sub 14 0
+business O business 0 0 0 0 0 0 0 li ul nav-main__sub 14 0
 
-Alumni O 0 0 li ul nav.nav-main__sub 14 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul nav-main__sub 14 0
 
-A O 0 1 li ul nav.nav-main__sub 14 0
-global O 0 0 li ul nav.nav-main__sub 14 0
-university O 0 0 li ul nav.nav-main__sub 14 0
+A O a 0 1 0 0 0 0 1 li ul nav-main__sub 14 0
+global O global 0 0 0 0 0 0 0 li ul nav-main__sub 14 0
+university O university 0 0 0 0 0 0 0 li ul nav-main__sub 14 0
 
-About O 0 0 li ul nav.nav-main__sub 14 0
-us O 0 1 li ul nav.nav-main__sub 14 0
+About O about 0 0 0 0 0 0 1 li ul nav-main__sub 14 0
+us O us 0 1 0 0 0 0 0 li ul nav-main__sub 14 0
 
-Departments O 0 0 li ul nav.nav-main__sub 14 0
-and O 0 1 li ul nav.nav-main__sub 14 0
-services O 0 0 li ul nav.nav-main__sub 14 0
+Departments O departments 0 0 0 0 0 0 1 li ul nav-main__sub 14 0
+and O and 0 1 0 0 0 0 0 li ul nav-main__sub 14 0
+services O services 0 0 0 0 0 0 0 li ul nav-main__sub 14 0
 
-Computer O 0 0 li ul nav.nav-local 12 0
-Science O 0 0 li ul nav.nav-local 12 0
-Home O 0 1 li ul nav.nav-local 12 0
+Computer O computer 0 0 0 0 0 0 1 li ul nav-local 12 0
+Science O science 0 0 0 0 0 0 1 li ul nav-local 12 0
+Home O home 0 1 0 0 0 0 1 li ul nav-local 12 0
 
-Undergraduate O 0 0 li ul nav.nav-local 12 0
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul nav-local 12 0
 
-Postgraduate O 0 0 li ul nav.nav-local 12 0
-Taught O 0 0 li ul nav.nav-local 12 0
+Postgraduate O postgraduate 0 0 0 0 0 0 1 li ul nav-local 12 0
+Taught O taught 0 0 0 0 0 0 1 li ul nav-local 12 0
 
-Postgraduate O 0 0 li ul nav.nav-local 12 0
-Research O 0 1 li ul nav.nav-local 12 0
+Postgraduate O postgraduate 0 0 0 0 0 0 1 li ul nav-local 12 0
+Research O research 0 1 0 0 0 0 1 li ul nav-local 12 0
 
-Research O 0 1 li ul nav.nav-local 12 0
+Research O research 0 1 0 0 0 0 1 li ul nav-local 12 0
 
-International O 0 0 li ul nav.nav-local 12 0
-Students O 0 0 li ul nav.nav-local 12 0
+International O international 0 0 0 0 0 0 1 li ul nav-local 12 0
+Students O students 0 0 0 0 0 0 1 li ul nav-local 12 0
 
-Latest O 0 0 li ul nav.nav-local 12 0
-News O 0 0 li ul nav.nav-local 12 0
+Latest O latest 0 0 0 0 0 0 1 li ul nav-local 12 0
+News O news 0 0 0 0 0 0 1 li ul nav-local 12 0
 
-Events O 0 0 li ul nav.nav-local 12 0
+Events O events 0 0 0 0 0 0 1 li ul nav-local 12 0
 
-Scholarships O 0 0 li ul nav.nav-local 12 0
+Scholarships O scholarships 0 0 0 0 0 0 1 li ul nav-local 12 0
 
-Genesys O 0 0 li ul nav.nav-local 12 0
-Solutions O 0 0 li ul nav.nav-local 12 0
+Genesys O genesys 0 0 0 0 0 0 1 li ul nav-local 12 0
+Solutions O solutions 0 0 0 0 0 0 1 li ul nav-local 12 0
 
-People O 0 1 li ul nav.nav-local 12 0
+People O people 0 1 0 0 0 0 1 li ul nav-local 12 0
 
-About O 0 0 li ul nav.nav-local 12 0
-the O 0 1 li ul nav.nav-local 12 0
-Department O 0 0 li ul nav.nav-local 12 0
+About O about 0 0 0 0 0 0 1 li ul nav-local 12 0
+the O the 0 1 0 0 0 0 0 li ul nav-local 12 0
+Department O department 0 0 0 0 0 0 1 li ul nav-local 12 0
 
-Intranet O 0 0 li ul nav.nav-local 12 0
+Intranet O intranet 0 0 0 0 0 0 1 li ul nav-local 12 0
 
-Travel O 0 0 li ul nav.nav-local 12 0
-Information O 0 1 li ul nav.nav-local 12 0
+Travel O travel 0 0 0 0 0 0 1 li ul nav-local 12 0
+Information O information 0 1 0 0 0 0 1 li ul nav-local 12 0
 
-Contact O 0 0 li ul nav.nav-local 12 0
-Us O 0 1 li ul nav.nav-local 12 0
+Contact O contact 0 0 0 0 0 0 1 li ul nav-local 12 0
+Us O us 0 1 0 0 0 0 1 li ul nav-local 12 0
 
-Menu O 0 1 li ul icon.icon__nav 12 0
-icon O 0 0 li ul icon.icon__nav 12 0
+Menu O menu 0 1 0 0 0 0 1 li ul icon__nav 12 0
+icon O icon 0 0 0 0 0 0 0 li ul icon__nav 12 0
 
-Main O 0 1 li ul nav-mobile--menu 12 1
-menu O 0 0 li ul nav-mobile--menu 12 1
+Main O main 0 1 0 0 0 0 1 li ul nav-mobile--menu 12 1
+menu O menu 0 0 0 0 0 0 0 li ul nav-mobile--menu 12 1
 
-arrow O 0 0 li ul icon-mobile.icon-mobile__nav--close 14 0
+arrow O arrow 0 0 0 0 0 0 0 li ul icon-mobile__nav--close 14 0
 
-The O 0 1 li ul nav-mobile__sub.nav-mobile__sub__global 14 1
-University O 0 1 li ul nav-mobile__sub.nav-mobile__sub__global 14 1
-of O 0 1 li ul nav-mobile__sub.nav-mobile__sub__global 14 1
-Sheffield O 0 1 li ul nav-mobile__sub.nav-mobile__sub__global 14 1
+The O the 0 1 0 0 0 0 1 li ul nav-mobile__sub__global 14 1
+University O university 0 1 0 0 0 0 1 li ul nav-mobile__sub__global 14 1
+of O of 0 1 0 0 0 0 0 li ul nav-mobile__sub__global 14 1
+Sheffield O sheffield 0 1 0 0 0 0 1 li ul nav-mobile__sub__global 14 1
 
-Home O 0 1 li ul nav-mobile__sub.nav-mobile__sub__global 16 0
+Home O home 0 1 0 0 0 0 1 li ul nav-mobile__sub__global 16 0
 
-Study O 0 1 li ul nav-mobile__sub.nav-mobile__sub__global 16 0
-with O 0 0 li ul nav-mobile__sub.nav-mobile__sub__global 16 0
-us O 0 1 li ul nav-mobile__sub.nav-mobile__sub__global 16 0
+Study O study 0 1 0 0 0 0 1 li ul nav-mobile__sub__global 16 0
+with O with 0 0 0 0 0 0 0 li ul nav-mobile__sub__global 16 0
+us O us 0 1 0 0 0 0 0 li ul nav-mobile__sub__global 16 0
 
-Our O 0 0 li ul nav-mobile__sub.nav-mobile__sub__global 16 0
-research O 0 0 li ul nav-mobile__sub.nav-mobile__sub__global 16 0
+Our O our 0 0 0 0 0 0 1 li ul nav-mobile__sub__global 16 0
+research O research 0 0 0 0 0 0 0 li ul nav-mobile__sub__global 16 0
 
-For O 0 1 li ul nav-mobile__sub.nav-mobile__sub__global 16 0
-business O 0 0 li ul nav-mobile__sub.nav-mobile__sub__global 16 0
+For O for 0 1 0 0 0 0 1 li ul nav-mobile__sub__global 16 0
+business O business 0 0 0 0 0 0 0 li ul nav-mobile__sub__global 16 0
 
-Alumni O 0 0 li ul nav-mobile__sub.nav-mobile__sub__global 16 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul nav-mobile__sub__global 16 0
 
-A O 0 1 li ul nav-mobile__sub.nav-mobile__sub__global 16 0
-global O 0 0 li ul nav-mobile__sub.nav-mobile__sub__global 16 0
-university O 0 0 li ul nav-mobile__sub.nav-mobile__sub__global 16 0
+A O a 0 1 0 0 0 0 1 li ul nav-mobile__sub__global 16 0
+global O global 0 0 0 0 0 0 0 li ul nav-mobile__sub__global 16 0
+university O university 0 0 0 0 0 0 0 li ul nav-mobile__sub__global 16 0
 
-About O 0 0 li ul nav-mobile__sub.nav-mobile__sub__global 16 0
-us O 0 1 li ul nav-mobile__sub.nav-mobile__sub__global 16 0
+About O about 0 0 0 0 0 0 1 li ul nav-mobile__sub__global 16 0
+us O us 0 1 0 0 0 0 0 li ul nav-mobile__sub__global 16 0
 
-Departments O 0 0 li ul nav-mobile__sub.nav-mobile__sub__global 16 0
-and O 0 1 li ul nav-mobile__sub.nav-mobile__sub__global 16 0
-services O 0 0 li ul nav-mobile__sub.nav-mobile__sub__global 16 0
+Departments O departments 0 0 0 0 0 0 1 li ul nav-mobile__sub__global 16 0
+and O and 0 1 0 0 0 0 0 li ul nav-mobile__sub__global 16 0
+services O services 0 0 0 0 0 0 0 li ul nav-mobile__sub__global 16 0
 
-arrow O 0 0 li ul icon-mobile.icon-mobile__nav--open 14 0
+arrow O arrow 0 0 0 0 0 0 0 li ul icon-mobile__nav--open 14 0
 
-Department O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 14 1
-of O 0 1 li ul nav-mobile__sub.nav-mobile__sub__local 14 1
-Computer O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 14 1
-Science O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 14 1
+Department O department 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 14 1
+of O of 0 1 0 0 0 0 0 li ul nav-mobile__sub__local 14 1
+Computer O computer 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 14 1
+Science O science 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 14 1
 
-Computer O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
-Science O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
-Home O 0 1 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
+Computer O computer 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
+Science O science 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
+Home O home 0 1 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
 
-Undergraduate O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
 
-Postgraduate O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
-Taught O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
+Postgraduate O postgraduate 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
+Taught O taught 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
 
-Postgraduate O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
-Research O 0 1 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
+Postgraduate O postgraduate 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
+Research O research 0 1 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
 
-Research O 0 1 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
+Research O research 0 1 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
 
-International O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
-Students O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
+International O international 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
+Students O students 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
 
-Latest O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
-News O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
+Latest O latest 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
+News O news 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
 
-Events O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
+Events O events 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
 
-Scholarships O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
+Scholarships O scholarships 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
 
-Genesys O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
-Solutions O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
+Genesys O genesys 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
+Solutions O solutions 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
 
-People O 0 1 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
+People O people 0 1 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
 
-About O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
-the O 0 1 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
-Department O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
+About O about 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
+the O the 0 1 0 0 0 0 0 li ul nav-mobile__sub__local 16 0
+Department O department 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
 
-Intranet O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
+Intranet O intranet 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
 
-Travel O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
-Information O 0 1 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
+Travel O travel 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
+Information O information 0 1 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
 
-Contact O 0 0 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
-Us O 0 1 li ul nav-mobile__sub.nav-mobile__sub__local 16 0
+Contact O contact 0 0 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
+Us O us 0 1 0 0 0 0 1 li ul nav-mobile__sub__local 16 0
 
-Academic O 0 0 main div main.content 8 0
-Staff O 0 1 main div main.content 8 0
+Academic O academic 0 0 0 0 0 0 1 main div content 8 0
+Staff O staff 0 1 0 0 0 0 1 main div content 8 0
 
-Emeritus O 0 1 a p main.content 10 0
-and O 0 1 a p main.content 10 0
-Honorary O 0 0 a p main.content 10 0
-Academics O 0 0 a p main.content 10 0
+Emeritus O emeritus 0 1 0 0 1 0 1 a p content 10 0
+and O and 0 1 0 0 0 0 0 a p content 10 0
+Honorary O honorary 0 0 0 0 1 0 1 a p content 10 0
+Academics O academics 0 0 0 0 0 0 1 a p content 10 0
 
-Department O 0 0 td tr w50 12 0
-of O 0 1 td tr w50 12 0
-Computer O 0 0 td tr w50 12 0
-Science O 0 0 td tr w50 12 0
+Department O department 0 0 0 0 0 0 1 td tr w50 12 0
+of O of 0 1 0 0 0 0 0 td tr w50 12 0
+Computer O computer 0 0 0 0 0 0 1 td tr w50 12 0
+Science O science 0 0 0 0 0 0 1 td tr w50 12 0
 
-University O 0 1 td tr w50 12 1
-of O 0 1 td tr w50 12 1
-Sheffield O 0 1 td tr w50 12 1
+University O university 0 1 0 0 0 0 1 td tr w50 12 1
+of O of 0 1 0 0 0 0 0 td tr w50 12 1
+Sheffield O sheffield 0 1 0 0 0 0 1 td tr w50 12 1
 
-Regent O 0 1 td tr w50 12 1
-Court O 0 1 td tr w50 12 1
+Regent O regent 0 1 0 0 0 0 1 td tr w50 12 1
+Court O court 0 1 0 0 0 0 1 td tr w50 12 1
 
-211 O 0 0 td tr w50 12 1
-Portobello O 0 0 td tr w50 12 1
+211 O 211 0 0 0 1 0 0 0 td tr w50 12 1
+Portobello O portobello 0 0 0 0 0 0 1 td tr w50 12 1
 
-Sheffield O 0 1 td tr w50 12 1
+Sheffield O sheffield 0 1 0 0 0 0 1 td tr w50 12 1
 
-S1 O 0 0 td tr w50 12 1
-4DP O 0 0 td tr w50 12 1
+S1 O s1 0 0 0 1 0 0 1 td tr w50 12 1
+4DP O 4dp 0 0 0 1 0 0 0 td tr w50 12 1
 
-T: O 0 0 td tr w50 12 6
-+44 O 0 0 td tr w50 12 6
-(0) O 0 0 td tr w50 12 6
-114 O 0 0 td tr w50 12 6
-222 O 0 0 td tr w50 12 6
-1800 O 0 0 td tr w50 12 6
+T O t 0 1 0 0 0 0 1 td tr w50 12 6
+: O : 0 0 0 0 0 0 0 td tr w50 12 6
++44 O +44 0 0 0 1 0 0 0 td tr w50 12 6
+( O ( 0 0 0 0 0 0 0 td tr w50 12 6
+0 O 0 0 0 0 1 0 0 0 td tr w50 12 6
+) O ) 0 0 0 0 0 0 0 td tr w50 12 6
+114 O 114 0 0 0 1 0 0 0 td tr w50 12 6
+222 O 222 0 0 0 1 0 0 0 td tr w50 12 6
+1800 O 1800 0 0 0 1 0 0 0 td tr w50 12 6
+
+F O f 0 0 0 0 0 0 1 td tr w50 12 6
+: O : 0 0 0 0 0 0 0 td tr w50 12 6
++44 O +44 0 0 0 1 0 0 0 td tr w50 12 6
+( O ( 0 0 0 0 0 0 0 td tr w50 12 6
+0 O 0 0 0 0 1 0 0 0 td tr w50 12 6
+) O ) 0 0 0 0 0 0 0 td tr w50 12 6
+114 O 114 0 0 0 1 0 0 0 td tr w50 12 6
+222 O 222 0 0 0 1 0 0 0 td tr w50 12 6
+1810 O 1810 0 0 0 1 0 0 0 td tr w50 12 6
+
+E O e 0 1 0 0 0 0 1 td tr w50 12 6
+: O : 0 0 0 0 0 0 0 td tr w50 12 6
+dcs@sheffield.ac.uk O dcs@sheffield.ac.uk 0 0 1 0 0 0 0 p td w50 13 2
 
-F: O 0 0 td tr w50 12 6
-+44 O 0 0 td tr w50 12 6
-(0) O 0 0 td tr w50 12 6
-114 O 0 0 td tr w50 12 6
-222 O 0 0 td tr w50 12 6
-1810 O 0 0 td tr w50 12 6
-
-E: O 0 0 td tr w50 12 6
-dcs@sheffield.ac.uk O 0 0 p td w50 13 2
-
-Professor O 0 0 h2 div feature 14 0
-Guy B-NAME 1 1 h2 div feature 14 0
-Brown I-NAME 1 1 h2 div feature 14 0
-
-Head O 0 1 div td feature 13 4
-of O 0 1 div td feature 13 4
-Department O 0 0 div td feature 13 4
-
-Professor O 0 0 div td feature 13 5
-of O 0 1 div td feature 13 5
-Computer O 0 0 div td feature 13 5
-Science O 0 0 div td feature 13 5
-
-PA: O 0 0 div td feature 13 7
-Joanna O 0 1 div td feature 13 7
-Heery O 0 1 div td feature 13 7
-
-T: O 0 0 div td feature 13 7
-+44 O 0 0 div td feature 13 7
-(0) O 0 0 div td feature 13 7
-114 O 0 0 div td feature 13 7
-2221825 O 0 0 div td feature 13 7
-
-E: O 0 0 div td feature 13 7
-j.l.heery@sheffield.ac.uk O 0 0 p div feature 14 2
-
-T: O 0 0 div td feature 13 11
-+44 O 0 0 div td feature 13 11
-(0) O 0 0 div td feature 13 11
-114 O 0 0 div td feature 13 11
-222 O 0 0 div td feature 13 11
-1825 O 0 0 div td feature 13 11
-
-E: O 0 0 div td feature 13 11
-g.j.brown@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Mauricio B-NAME 0 1 h2 div feature 14 1
-Álvarez I-NAME 0 1 h2 div feature 14 1
-
-Lecturer O 0 0 div td feature 13 3
-in O 0 1 div td feature 13 3
-Machine O 0 1 div td feature 13 3
-Learning O 0 1 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1902 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-mauricio.alvarez@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 0
-Jon B-NAME 1 1 h2 div feature 14 0
-Barker I-NAME 1 1 h2 div feature 14 0
-
-Reader O 0 1 div td feature 13 3
-in O 0 1 div td feature 13 3
-Computer O 0 0 div td feature 13 3
-Science O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1824 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-j.p.barker@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Kirill B-NAME 1 1 h2 div feature 14 1
-Bogdanov I-NAME 1 1 h2 div feature 14 1
-
-Lecturer O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1847 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-k.e.bogdanov@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Professor O 0 0 h2 div feature 14 1
-Kalina B-NAME 1 1 h2 div feature 14 1
-Bontcheva I-NAME 1 1 h2 div feature 14 1
-
-Professor O 0 0 div td feature 13 3
-of O 0 1 div td feature 13 3
-Text O 0 0 div td feature 13 3
-Analysis O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1930 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-k.bontcheva@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Achim B-NAME 0 1 h2 div feature 14 1
-Brucker I-NAME 0 1 h2 div feature 14 1
-
-Senior O 0 1 div td feature 13 3
-Lecturer O 0 0 div td feature 13 3
-in O 0 1 div td feature 13 3
-Computer O 0 0 div td feature 13 3
-Science O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1806 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-a.brucker@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Heidi B-NAME 1 1 h2 div feature 14 1
-Christensen I-NAME 1 1 h2 div feature 14 1
-
-Lecturer O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1950 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-heidi.christensen@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Professor O 0 0 h2 div feature 14 1
-Fabio B-NAME 1 1 h2 div feature 14 1
-Ciravegna I-NAME 1 1 h2 div feature 14 1
-
-Professor O 0 0 div td feature 13 3
-of O 0 1 div td feature 13 3
-Language O 0 0 div td feature 13 3
-and O 0 1 div td feature 13 3
-Knowledge O 0 1 div td feature 13 3
-Technology O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1940 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-f.ciravegna@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Professor O 0 0 h2 div feature 14 1
-John B-NAME 1 1 h2 div feature 14 1
-Clark I-NAME 1 1 h2 div feature 14 1
-
-Professor O 0 0 div td feature 13 3
-of O 0 1 div td feature 13 3
-Cybersecurity O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1802 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-john.clark@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Professor O 0 0 h2 div feature 14 1
-Richard B-NAME 1 1 h2 div feature 14 1
-Clayton I-NAME 1 1 h2 div feature 14 1
-
-Deputy O 0 0 div td feature 13 3
-Head O 0 1 div td feature 13 3
-of O 0 1 div td feature 13 3
-Department O 0 0 div td feature 13 3
-
-Professor O 0 0 div td feature 13 3
-of O 0 1 div td feature 13 3
-Computational O 0 0 div td feature 13 3
-Physiology O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 5
-+ O 0 0 div td feature 13 5
-44 O 0 0 div td feature 13 5
-(0) O 0 0 div td feature 13 5
-114 O 0 0 div td feature 13 5
-222 O 0 0 div td feature 13 5
-1845 O 0 0 div td feature 13 5
-
-E: O 0 0 div td feature 13 5
-r.h.clayton@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Professor O 0 0 h2 div feature 14 1
-Hamish B-NAME 1 1 h2 div feature 14 1
-Cunningham I-NAME 1 1 h2 div feature 14 1
-
-Professor O 0 0 div td feature 13 3
-of O 0 1 div td feature 13 3
-Internet O 0 0 div td feature 13 3
-Computing O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1891 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-h.cunningham@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Professor O 0 0 h2 div feature 14 1
-John B-NAME 1 1 h2 div feature 14 1
-Derrick I-NAME 1 1 h2 div feature 14 1
-
-Professor O 0 0 div td feature 13 3
-of O 0 1 div td feature 13 3
-Computer O 0 0 div td feature 13 3
-Science O 0 0 div td feature 13 3
-and O 0 1 div td feature 13 3
-Deputy O 0 0 div td feature 13 3
-PVC O 0 0 div td feature 13 3
-for O 0 1 div td feature 13 3
-Research O 0 1 div td feature 13 3
-and O 0 1 div td feature 13 3
-Innovation O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1849 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-j.derrick@sheffield.ac.uk O 0 0 p div feature 14 1
-
-PA: O 0 0 div td feature 13 8
-Alice O 0 1 div td feature 13 8
-Tucker O 0 1 div td feature 13 8
-
-T: O 0 0 div td feature 13 8
-+44 O 0 0 div td feature 13 8
-(0) O 0 0 div td feature 13 8
-114 O 0 0 div td feature 13 8
-222 O 0 0 div td feature 13 8
-1815 O 0 0 div td feature 13 8
-
-E: O 0 0 div td feature 13 8
-alice.tucker@sheffield.ac.uk O 0 0 p div feature 14 2
-
-Dr O 0 1 h2 div feature 14 1
-Gordon B-NAME 1 1 h2 div feature 14 1
-Fraser I-NAME 1 1 h2 div feature 14 1
-
-Senior O 0 1 div td feature 13 3
-Lecturer O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1844 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-gordon.fraser@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Professor O 0 0 h2 div feature 14 1
-Rob B-NAME 0 1 h2 div feature 14 1
-Gaizauskas I-NAME 0 1 h2 div feature 14 1
-
-Personal O 0 1 div td feature 13 3
-Chair O 0 1 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1827 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-r.gaizauskas@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Yoshi B-NAME 0 1 h2 div feature 14 1
-Gotoh I-NAME 0 1 h2 div feature 14 1
-
-Lecturer O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1908 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-y.gotoh@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Professor O 0 0 h2 div feature 14 1
-Thomas B-NAME 1 1 h2 div feature 14 1
-Hain I-NAME 1 1 h2 div feature 14 1
-
-Professor O 0 0 div td feature 13 3
-of O 0 1 div td feature 13 3
-Speech O 0 0 div td feature 13 3
-and O 0 1 div td feature 13 3
-Audio O 0 0 div td feature 13 3
-Technology O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1836 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-t.hain@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Mark B-NAME 1 1 h2 div feature 14 1
-Hepple I-NAME 1 1 h2 div feature 14 1
-
-Reader O 0 1 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1829 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-m.hepple@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Professor O 0 0 h2 div feature 14 1
-Winston B-NAME 1 1 h2 div feature 14 1
-Hide I-NAME 1 1 h2 div feature 14 1
-
-Professor O 0 0 div td feature 13 3
-of O 0 1 div td feature 13 3
-Computational O 0 0 div td feature 13 3
-Biology O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-2233 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-winhide@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 0
-Vitaveska B-NAME 1 1 h2 div feature 14 0
-Lanfranchi I-NAME 1 1 h2 div feature 14 0
-
-Senior O 0 1 div td feature 13 2
-Lecturer O 0 0 div td feature 13 2
-
-T: O 0 0 div td feature 13 3
-+44 O 0 0 div td feature 13 3
-(0) O 0 0 div td feature 13 3
-114 O 0 0 div td feature 13 3
-222 O 0 0 div td feature 13 3
-1945 O 0 0 div td feature 13 3
-
-E: O 0 0 div td feature 13 3
-v.lanfranchi@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Professor O 0 0 h2 div feature 14 1
-Neil B-NAME 0 1 h2 div feature 14 1
-Lawrence I-NAME 0 1 h2 div feature 14 1
-
-Chair O 0 1 div td feature 13 3
-in O 0 1 div td feature 13 3
-Neuro O 0 0 div td feature 13 3
-and O 0 1 div td feature 13 3
-Computer O 0 0 div td feature 13 3
-Science O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1904 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-n.lawrence@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Haiping B-NAME 1 1 h2 div feature 14 1
-Lu I-NAME 1 1 h2 div feature 14 1
-
-Lecturer O 0 0 div td feature 13 3
-in O 0 1 div td feature 13 3
-Machine O 0 1 div td feature 13 3
-Learning O 0 1 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-0114 O 0 0 div td feature 13 4
-2221853 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-h.lu@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Steve B-NAME 1 1 h2 div feature 14 1
-Maddock I-NAME 1 1 h2 div feature 14 1
-
-Senior O 0 1 div td feature 13 3
-Lecturer O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1830 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-s.maddock@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Professor O 0 0 h2 div feature 14 1
-James B-NAME 1 1 h2 div feature 14 1
-Marshall I-NAME 1 1 h2 div feature 14 1
-
-Professor O 0 0 div td feature 13 3
-of O 0 1 div td feature 13 3
-Theoretical O 0 0 div td feature 13 3
-and O 0 1 div td feature 13 3
-Computational O 0 0 div td feature 13 3
-Biology O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1832 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-james.marshall@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Phil B-NAME 1 1 h2 div feature 14 1
-McMinn I-NAME 1 1 h2 div feature 14 1
-
-Reader O 0 1 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1826 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-p.mcminn@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Professor O 0 0 h2 div feature 14 1
-Roger B-NAME 1 1 h2 div feature 14 1
-Moore I-NAME 1 1 h2 div feature 14 1
-
-Professor O 0 0 div td feature 13 3
-of O 0 1 div td feature 13 3
-Spoken O 0 0 div td feature 13 3
-Language O 0 0 div td feature 13 3
-Processing O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1807 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-r.k.moore@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Siobhan B-NAME 0 1 h2 div feature 14 1
-North I-NAME 0 1 h2 div feature 14 1
-
-Senior O 0 1 div td feature 13 3
-Lecturer O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1835 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-s.north@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Pietro B-NAME 0 1 h2 div feature 14 1
-Oliveto I-NAME 0 1 h2 div feature 14 1
-
-Senior O 0 1 div td feature 13 3
-Lecturer O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1812 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-p.oliveto@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Prof. O 0 1 h2 div feature 14 1
-Tony B-NAME 1 1 h2 div feature 14 1
-Prescott I-NAME 0 1 h2 div feature 14 1
-
-Professor O 0 0 div td feature 13 3
-of O 0 1 div td feature 13 3
-Cognitive O 0 0 div td feature 13 3
-Neuroscience O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-6547 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-T.J.Prescott@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Paul B-NAME 1 1 h2 div feature 14 1
-Richmond I-NAME 1 1 h2 div feature 14 1
-
-Senior O 0 1 div td feature 13 3
-Lecturer O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1936 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-p.richmond@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Amanda B-NAME 0 1 h2 div feature 14 1
-Sharkey I-NAME 0 1 h2 div feature 14 1
-
-Senior O 0 1 div td feature 13 3
-Lecturer O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1837 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-a.sharkey@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Anthony B-NAME 0 1 h2 div feature 14 1
-Simons I-NAME 0 1 h2 div feature 14 1
-
-Senior O 0 1 div td feature 13 3
-Lecturer O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1838 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-a.j.simons@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Professor O 0 0 h2 div feature 14 1
-Lucia B-NAME 1 1 h2 div feature 14 1
-Specia I-NAME 1 1 h2 div feature 14 1
-
-Professor O 0 0 div td feature 13 3
-of O 0 1 div td feature 13 3
-Language O 0 0 div td feature 13 3
-Engineering O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1831 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-l.specia@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Mike B-NAME 1 1 h2 div feature 14 1
-Stannett I-NAME 1 1 h2 div feature 14 1
-
-Senior O 0 1 div td feature 13 3
-Lecturer O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1841 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-m.stannett@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Mark B-NAME 1 1 h2 div feature 14 1
-Stevenson I-NAME 1 1 h2 div feature 14 1
-
-Senior O 0 1 div td feature 13 3
-Lecturer O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1921 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-mark.stevenson@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Professor O 0 0 h2 div feature 14 1
-Georg B-NAME 1 1 h2 div feature 14 1
-Struth I-NAME 1 1 h2 div feature 14 1
-
-Professor O 0 0 div td feature 13 3
-of O 0 1 div td feature 13 3
-Theoretical O 0 0 div td feature 13 3
-Computer O 0 0 div td feature 13 3
-Science O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1846 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-g.struth@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Dirk B-NAME 1 1 h2 div feature 14 1
-Sudholt I-NAME 1 1 h2 div feature 14 1
-
-Senior O 0 1 div td feature 13 3
-Lecturer O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1848 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-d.sudholt@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Ramsay B-NAME 1 1 h2 div feature 14 1
-Taylor I-NAME 1 1 h2 div feature 14 1
-
-University O 0 1 div td feature 13 3
-Teacher O 0 1 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1843 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-r.g.taylor@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Professor O 0 0 h2 div feature 14 1
-Eleni B-NAME 1 1 h2 div feature 14 1
-Vasilaki I-NAME 1 1 h2 div feature 14 1
-
-Professor O 0 0 div td feature 13 3
-of O 0 1 div td feature 13 3
-Computational O 0 0 div td feature 13 3
-Neuroscience O 0 0 div td feature 13 3
-& O 0 0 div td feature 13 3
-Neural O 0 0 div td feature 13 3
-Engineering O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1822 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-e.vasilaki@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Maria-Cruz B-NAME 1 1 h2 div feature 14 1
-Villa-Uriol I-NAME 1 1 h2 div feature 14 1
-
-Lecturer O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1870 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-m.villa-uriol@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Andreas B-NAME 1 1 h2 div feature 14 1
-Vlachos I-NAME 1 1 h2 div feature 14 1
-
-Lecturer O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1960 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-a.vlachos@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Dawn B-NAME 1 1 h2 div feature 14 1
-Walker I-NAME 1 1 h2 div feature 14 1
-
-Senior O 0 1 div td feature 13 3
-Lecturer O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1914 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-d.c.walker@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Paul B-NAME 0 1 h2 div feature 14 1
-Watton I-NAME 0 1 h2 div feature 14 1
-
-Lecturer O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-6076 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-p.watton@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Dr O 0 1 h2 div feature 14 1
-Joab B-NAME 1 1 h2 div feature 14 1
-Winkler I-NAME 1 1 h2 div feature 14 1
-
-Reader O 0 1 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1834 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-j.r.winkler@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Emeritus O 0 1 main div main.content 8 442
-and O 0 1 main div main.content 8 442
-Honorary O 0 0 main div main.content 8 442
-Academics O 0 0 main div main.content 8 442
-
-Dr O 0 1 h2 div feature 14 1
-Tony B-NAME 1 1 h2 div feature 14 1
-Cowling I-NAME 1 1 h2 div feature 14 1
-
-Honorary O 0 0 div td feature 13 3
-Academic O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-0114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1823 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-a.j.cowling@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Emeritus O 0 1 h2 div feature 14 1
-Professor O 0 0 h2 div feature 14 1
-Philip B-NAME 0 1 h2 div feature 14 1
-Green I-NAME 0 1 h2 div feature 14 1
-
-Professor O 0 0 div td feature 13 3
-Emeritus O 0 1 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-0114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1828 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-p.green@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Emeritus O 0 1 h2 div feature 14 1
-Professor O 0 0 h2 div feature 14 1
-Mike B-NAME 1 1 h2 div feature 14 1
-Holcombe I-NAME 1 1 h2 div feature 14 1
-
-Emeritus O 0 1 div td feature 13 3
-Professor O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1800 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-m.holcombe@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Mr O 0 0 div td feature 13 0
-Chris B-NAME 1 1 div td feature 13 0
-Murray I-NAME 1 1 div td feature 13 0
-
-Honorary O 0 0 div td feature 13 2
-Academic O 0 0 div td feature 13 2
-
-T: O 0 0 div td feature 13 3
-+ O 0 0 div td feature 13 3
-44 O 0 0 div td feature 13 3
-(0) O 0 0 div td feature 13 3
-114 O 0 0 div td feature 13 3
-222 O 0 0 div td feature 13 3
-1800 O 0 0 div td feature 13 3
-
-E: O 0 0 div td feature 13 3
-chris.murray@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Emeritus O 0 1 h2 div feature 14 1
-Professor O 0 0 h2 div feature 14 1
-Noel B-NAME 0 1 h2 div feature 14 1
-Sharkey I-NAME 0 1 h2 div feature 14 1
-
-Professor O 0 0 div td feature 13 3
-Emeritus O 0 1 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1803 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-n.sharkey@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Emeritus O 0 1 h2 div feature 14 1
-Professor O 0 0 h2 div feature 14 1
-Rodney B-NAME 0 1 h2 div feature 14 1
-Smallwood I-NAME 0 1 h2 div feature 14 1
-
-Honorary O 0 0 div td feature 13 3
-Academic O 0 0 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1800 O 0 0 div td feature 13 4
-
-Emeritus O 0 1 h2 div feature 14 1
-Professor O 0 0 h2 div feature 14 1
-Yorick B-NAME 1 1 h2 div feature 14 1
-Wilks I-NAME 1 1 h2 div feature 14 1
-
-Professor O 0 0 div td feature 13 3
-Emeritus O 0 1 div td feature 13 3
-
-T: O 0 0 div td feature 13 4
-+ O 0 0 div td feature 13 4
-44 O 0 0 div td feature 13 4
-(0) O 0 0 div td feature 13 4
-114 O 0 0 div td feature 13 4
-222 O 0 0 div td feature 13 4
-1800 O 0 0 div td feature 13 4
-
-E: O 0 0 div td feature 13 4
-y.wilks@sheffield.ac.uk O 0 0 p div feature 14 1
-
-Contact O 0 0 li ul nav.nav-footer 13 0
-us O 0 1 li ul nav.nav-footer 13 0
-
-Information O 0 1 li ul nav.nav-footer 13 0
-for O 0 1 li ul nav.nav-footer 13 0
-visitors O 0 0 li ul nav.nav-footer 13 0
-
-Jobs O 0 1 li ul nav.nav-footer 13 0
-
-Support O 0 0 li ul nav.nav-footer 13 0
-us O 0 1 li ul nav.nav-footer 13 0
-
-Students' O 0 0 li ul nav.nav-footer 13 0
-Union O 0 0 li ul nav.nav-footer 13 0
-
-Current O 0 1 li ul nav.nav-footer 13 0
-students O 0 0 li ul nav.nav-footer 13 0
-
-Staff O 0 1 li ul nav.nav-footer 13 0
-
-Connect O 0 0 ul nav nav-footer-social__title 12 0
-
-Facebook O 0 0 li ul icon-social.icon-social__facebook 13 0
-
-Twitter O 0 0 li ul icon-social.icon-social__twitter 13 0
-
-Snapchat O 0 0 li ul icon-social.icon-social__snapchat 13 0
-
-YouTube O 0 0 li ul icon-social.icon-social__youtube 13 0
-
-Instagram O 0 0 li ul icon-social.icon-social__instagram 13 0
-
-LinkedIn O 0 0 li ul icon-social.icon-social__linkedin 13 0
-
-Weibo O 0 1 li ul icon-social.icon-social__weibo 13 0
-
-The O 0 1 div div contact-details__address 11 0
-University O 0 1 div div contact-details__address 11 0
-of O 0 1 div div contact-details__address 11 0
-Sheffield O 0 1 div div contact-details__address 11 0
-
-Western O 0 1 div div contact-details__address 11 0
-Bank O 0 1 div div contact-details__address 11 0
-
-Sheffield, O 0 0 div div contact-details__address 11 0
-S10 O 0 0 div div contact-details__address 11 0
-2TN O 0 0 div div contact-details__address 11 0
-
-UK O 0 0 div div contact-details__address 11 0
-
-Feedback O 0 0 li ul nav.nav-footer-sub 13 0
-
-Privacy O 0 0 li ul nav.nav-footer-sub 13 0
-
-FOI O 0 0 li ul nav.nav-footer-sub 13 0
-
-© O 0 0 div div copyright 10 0
-2017 O 0 0 div div copyright 10 0
-The O 0 1 div div copyright 10 0
-University O 0 1 div div copyright 10 0
-of O 0 1 div div copyright 10 0
-Sheffield O 0 1 div div copyright 10 0
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 0
+Guy B-PER guy 1 1 0 0 0 0 1 h2 div feature 14 0
+Brown I-PER brown 1 1 0 0 0 0 1 h2 div feature 14 0
+
+Head O head 0 1 0 0 0 0 1 div td feature 13 4
+of O of 0 1 0 0 0 0 0 div td feature 13 4
+Department O department 0 0 0 0 0 0 1 div td feature 13 4
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 5
+of O of 0 1 0 0 0 0 0 div td feature 13 5
+Computer O computer 0 0 0 0 0 0 1 div td feature 13 5
+Science O science 0 0 0 0 0 0 1 div td feature 13 5
+
+PA O pa 0 0 0 0 0 0 1 div td feature 13 7
+: O : 0 0 0 0 0 0 0 div td feature 13 7
+Joanna O joanna 0 1 0 0 0 0 1 div td feature 13 7
+Heery O heery 0 1 0 0 0 0 1 div td feature 13 7
+
+T O t 0 1 0 0 0 0 1 div td feature 13 7
+: O : 0 0 0 0 0 0 0 div td feature 13 7
++44 O +44 0 0 0 1 0 0 0 div td feature 13 7
+( O ( 0 0 0 0 0 0 0 div td feature 13 7
+0 O 0 0 0 0 1 0 0 0 div td feature 13 7
+) O ) 0 0 0 0 0 0 0 div td feature 13 7
+114 O 114 0 0 0 1 0 0 0 div td feature 13 7
+2221825 O 2221825 0 0 0 1 0 0 0 div td feature 13 7
+
+E O e 0 1 0 0 0 0 1 div td feature 13 7
+: O : 0 0 0 0 0 0 0 div td feature 13 7
+j.l.heery@sheffield.ac.uk O j.l.heery@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 2
+
+T O t 0 1 0 0 0 0 1 div td feature 13 11
+: O : 0 0 0 0 0 0 0 div td feature 13 11
++44 O +44 0 0 0 1 0 0 0 div td feature 13 11
+( O ( 0 0 0 0 0 0 0 div td feature 13 11
+0 O 0 0 0 0 1 0 0 0 div td feature 13 11
+) O ) 0 0 0 0 0 0 0 div td feature 13 11
+114 O 114 0 0 0 1 0 0 0 div td feature 13 11
+222 O 222 0 0 0 1 0 0 0 div td feature 13 11
+1825 O 1825 0 0 0 1 0 0 0 div td feature 13 11
+
+E O e 0 1 0 0 0 0 1 div td feature 13 11
+: O : 0 0 0 0 0 0 0 div td feature 13 11
+g.j.brown@sheffield.ac.uk O g.j.brown@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Mauricio B-PER mauricio 0 1 0 0 0 0 1 h2 div feature 14 1
+Álvarez I-PER alvarez 0 1 0 0 0 0 1 h2 div feature 14 1
+
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+in O in 0 1 0 0 0 0 0 div td feature 13 3
+Machine O machine 0 1 0 0 0 0 1 div td feature 13 3
+Learning O learning 0 1 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1902 O 1902 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+mauricio.alvarez@sheffield.ac.uk O mauricio.alvarez@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 0
+Jon B-PER jon 1 1 0 0 0 0 1 h2 div feature 14 0
+Barker I-PER barker 1 1 0 0 0 0 1 h2 div feature 14 0
+
+Reader O reader 0 1 0 0 0 0 1 div td feature 13 3
+in O in 0 1 0 0 0 0 0 div td feature 13 3
+Computer O computer 0 0 0 0 0 0 1 div td feature 13 3
+Science O science 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1824 O 1824 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+j.p.barker@sheffield.ac.uk O j.p.barker@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Kirill B-PER kirill 1 1 0 0 0 0 1 h2 div feature 14 1
+Bogdanov I-PER bogdanov 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1847 O 1847 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+k.e.bogdanov@sheffield.ac.uk O k.e.bogdanov@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+Kalina B-PER kalina 1 1 0 0 0 0 1 h2 div feature 14 1
+Bontcheva I-PER bontcheva 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+of O of 0 1 0 0 0 0 0 div td feature 13 3
+Text O text 0 0 0 0 0 0 1 div td feature 13 3
+Analysis O analysis 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1930 O 1930 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+k.bontcheva@sheffield.ac.uk O k.bontcheva@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Achim B-PER achim 0 1 0 0 0 0 1 h2 div feature 14 1
+Brucker I-PER brucker 0 1 0 0 0 0 1 h2 div feature 14 1
+
+Senior O senior 0 1 0 0 0 0 1 div td feature 13 3
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+in O in 0 1 0 0 0 0 0 div td feature 13 3
+Computer O computer 0 0 0 0 0 0 1 div td feature 13 3
+Science O science 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1806 O 1806 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+a.brucker@sheffield.ac.uk O a.brucker@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Heidi B-PER heidi 1 1 0 0 0 0 1 h2 div feature 14 1
+Christensen I-PER christensen 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1950 O 1950 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+heidi.christensen@sheffield.ac.uk O heidi.christensen@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+Fabio B-PER fabio 1 1 0 0 0 0 1 h2 div feature 14 1
+Ciravegna I-PER ciravegna 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+of O of 0 1 0 0 0 0 0 div td feature 13 3
+Language O language 0 0 0 0 0 0 1 div td feature 13 3
+and O and 0 1 0 0 0 0 0 div td feature 13 3
+Knowledge O knowledge 0 1 0 0 0 0 1 div td feature 13 3
+Technology O technology 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1940 O 1940 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+f.ciravegna@sheffield.ac.uk O f.ciravegna@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+John B-PER john 1 1 0 0 0 0 1 h2 div feature 14 1
+Clark I-PER clark 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+of O of 0 1 0 0 0 0 0 div td feature 13 3
+Cybersecurity O cybersecurity 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1802 O 1802 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+john.clark@sheffield.ac.uk O john.clark@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+Richard B-PER richard 1 1 0 0 0 0 1 h2 div feature 14 1
+Clayton I-PER clayton 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Deputy O deputy 0 0 0 0 0 0 1 div td feature 13 3
+Head O head 0 1 0 0 0 0 1 div td feature 13 3
+of O of 0 1 0 0 0 0 0 div td feature 13 3
+Department O department 0 0 0 0 0 0 1 div td feature 13 3
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+of O of 0 1 0 0 0 0 0 div td feature 13 3
+Computational O computational 0 0 0 0 0 0 1 div td feature 13 3
+Physiology O physiology 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 5
+: O : 0 0 0 0 0 0 0 div td feature 13 5
++ O + 0 0 0 0 0 0 0 div td feature 13 5
+44 O 44 0 0 0 1 0 0 0 div td feature 13 5
+( O ( 0 0 0 0 0 0 0 div td feature 13 5
+0 O 0 0 0 0 1 0 0 0 div td feature 13 5
+) O ) 0 0 0 0 0 0 0 div td feature 13 5
+114 O 114 0 0 0 1 0 0 0 div td feature 13 5
+222 O 222 0 0 0 1 0 0 0 div td feature 13 5
+1845 O 1845 0 0 0 1 0 0 0 div td feature 13 5
+
+E O e 0 1 0 0 0 0 1 div td feature 13 5
+: O : 0 0 0 0 0 0 0 div td feature 13 5
+r.h.clayton@sheffield.ac.uk O r.h.clayton@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+Hamish B-PER hamish 1 1 0 0 0 0 1 h2 div feature 14 1
+Cunningham I-PER cunningham 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+of O of 0 1 0 0 0 0 0 div td feature 13 3
+Internet O internet 0 0 0 0 0 0 1 div td feature 13 3
+Computing O computing 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1891 O 1891 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+h.cunningham@sheffield.ac.uk O h.cunningham@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+John B-PER john 1 1 0 0 0 0 1 h2 div feature 14 1
+Derrick I-PER derrick 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+of O of 0 1 0 0 0 0 0 div td feature 13 3
+Computer O computer 0 0 0 0 0 0 1 div td feature 13 3
+Science O science 0 0 0 0 0 0 1 div td feature 13 3
+and O and 0 1 0 0 0 0 0 div td feature 13 3
+Deputy O deputy 0 0 0 0 0 0 1 div td feature 13 3
+PVC O pvc 0 0 0 0 0 0 1 div td feature 13 3
+for O for 0 1 0 0 0 0 0 div td feature 13 3
+Research O research 0 1 0 0 0 0 1 div td feature 13 3
+and O and 0 1 0 0 0 0 0 div td feature 13 3
+Innovation O innovation 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1849 O 1849 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+j.derrick@sheffield.ac.uk O j.derrick@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+PA O pa 0 0 0 0 0 0 1 div td feature 13 8
+: O : 0 0 0 0 0 0 0 div td feature 13 8
+Alice O alice 0 1 0 0 0 0 1 div td feature 13 8
+Tucker O tucker 0 1 0 0 0 0 1 div td feature 13 8
+
+T O t 0 1 0 0 0 0 1 div td feature 13 8
+: O : 0 0 0 0 0 0 0 div td feature 13 8
++44 O +44 0 0 0 1 0 0 0 div td feature 13 8
+( O ( 0 0 0 0 0 0 0 div td feature 13 8
+0 O 0 0 0 0 1 0 0 0 div td feature 13 8
+) O ) 0 0 0 0 0 0 0 div td feature 13 8
+114 O 114 0 0 0 1 0 0 0 div td feature 13 8
+222 O 222 0 0 0 1 0 0 0 div td feature 13 8
+1815 O 1815 0 0 0 1 0 0 0 div td feature 13 8
+
+E O e 0 1 0 0 0 0 1 div td feature 13 8
+: O : 0 0 0 0 0 0 0 div td feature 13 8
+alice.tucker@sheffield.ac.uk O alice.tucker@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 2
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Gordon B-PER gordon 1 1 0 0 0 0 1 h2 div feature 14 1
+Fraser I-PER fraser 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Senior O senior 0 1 0 0 0 0 1 div td feature 13 3
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1844 O 1844 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+gordon.fraser@sheffield.ac.uk O gordon.fraser@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+Rob B-PER rob 0 1 0 0 0 0 1 h2 div feature 14 1
+Gaizauskas I-PER gaizauskas 0 1 0 0 0 0 1 h2 div feature 14 1
+
+Personal O personal 0 1 0 0 0 0 1 div td feature 13 3
+Chair O chair 0 1 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1827 O 1827 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+r.gaizauskas@sheffield.ac.uk O r.gaizauskas@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Yoshi B-PER yoshi 0 1 0 0 0 0 1 h2 div feature 14 1
+Gotoh I-PER gotoh 0 1 0 0 0 0 1 h2 div feature 14 1
+
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1908 O 1908 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+y.gotoh@sheffield.ac.uk O y.gotoh@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+Thomas B-PER thomas 1 1 0 0 0 0 1 h2 div feature 14 1
+Hain I-PER hain 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+of O of 0 1 0 0 0 0 0 div td feature 13 3
+Speech O speech 0 0 0 0 0 0 1 div td feature 13 3
+and O and 0 1 0 0 0 0 0 div td feature 13 3
+Audio O audio 0 0 0 0 1 0 1 div td feature 13 3
+Technology O technology 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1836 O 1836 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+t.hain@sheffield.ac.uk O t.hain@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Mark B-PER mark 1 1 0 0 0 0 1 h2 div feature 14 1
+Hepple I-PER hepple 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Reader O reader 0 1 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1829 O 1829 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+m.hepple@sheffield.ac.uk O m.hepple@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+Winston B-PER winston 1 1 0 0 0 0 1 h2 div feature 14 1
+Hide I-PER hide 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+of O of 0 1 0 0 0 0 0 div td feature 13 3
+Computational O computational 0 0 0 0 0 0 1 div td feature 13 3
+Biology O biology 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+2233 O 2233 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+winhide@sheffield.ac.uk O winhide@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 0
+Vitaveska B-PER vitaveska 1 1 0 0 0 0 1 h2 div feature 14 0
+Lanfranchi I-PER lanfranchi 1 1 0 0 0 0 1 h2 div feature 14 0
+
+Senior O senior 0 1 0 0 0 0 1 div td feature 13 2
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 2
+
+T O t 0 1 0 0 0 0 1 div td feature 13 3
+: O : 0 0 0 0 0 0 0 div td feature 13 3
++44 O +44 0 0 0 1 0 0 0 div td feature 13 3
+( O ( 0 0 0 0 0 0 0 div td feature 13 3
+0 O 0 0 0 0 1 0 0 0 div td feature 13 3
+) O ) 0 0 0 0 0 0 0 div td feature 13 3
+114 O 114 0 0 0 1 0 0 0 div td feature 13 3
+222 O 222 0 0 0 1 0 0 0 div td feature 13 3
+1945 O 1945 0 0 0 1 0 0 0 div td feature 13 3
+
+E O e 0 1 0 0 0 0 1 div td feature 13 3
+: O : 0 0 0 0 0 0 0 div td feature 13 3
+v.lanfranchi@sheffield.ac.uk O v.lanfranchi@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+Neil B-PER neil 0 1 0 0 0 0 1 h2 div feature 14 1
+Lawrence I-PER lawrence 0 1 0 0 0 0 1 h2 div feature 14 1
+
+Chair O chair 0 1 0 0 0 0 1 div td feature 13 3
+in O in 0 1 0 0 0 0 0 div td feature 13 3
+Neuro O neuro 0 0 0 0 0 0 1 div td feature 13 3
+and O and 0 1 0 0 0 0 0 div td feature 13 3
+Computer O computer 0 0 0 0 0 0 1 div td feature 13 3
+Science O science 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1904 O 1904 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+n.lawrence@sheffield.ac.uk O n.lawrence@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Haiping B-PER haiping 1 1 0 0 0 0 1 h2 div feature 14 1
+Lu I-PER lu 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+in O in 0 1 0 0 0 0 0 div td feature 13 3
+Machine O machine 0 1 0 0 0 0 1 div td feature 13 3
+Learning O learning 0 1 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+0114 O 0114 0 0 0 1 0 0 0 div td feature 13 4
+2221853 O 2221853 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+h.lu@sheffield.ac.uk O h.lu@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Steve B-PER steve 1 1 0 0 0 0 1 h2 div feature 14 1
+Maddock I-PER maddock 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Senior O senior 0 1 0 0 0 0 1 div td feature 13 3
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1830 O 1830 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+s.maddock@sheffield.ac.uk O s.maddock@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+James B-PER james 1 1 0 0 0 0 1 h2 div feature 14 1
+Marshall I-PER marshall 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+of O of 0 1 0 0 0 0 0 div td feature 13 3
+Theoretical O theoretical 0 0 0 0 0 0 1 div td feature 13 3
+and O and 0 1 0 0 0 0 0 div td feature 13 3
+Computational O computational 0 0 0 0 0 0 1 div td feature 13 3
+Biology O biology 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1832 O 1832 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+james.marshall@sheffield.ac.uk O james.marshall@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Phil B-PER phil 1 1 0 0 0 0 1 h2 div feature 14 1
+McMinn I-PER mcminn 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Reader O reader 0 1 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1826 O 1826 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+p.mcminn@sheffield.ac.uk O p.mcminn@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+Roger B-PER roger 1 1 0 0 0 0 1 h2 div feature 14 1
+Moore I-PER moore 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+of O of 0 1 0 0 0 0 0 div td feature 13 3
+Spoken O spoken 0 0 0 0 0 0 1 div td feature 13 3
+Language O language 0 0 0 0 0 0 1 div td feature 13 3
+Processing O processing 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1807 O 1807 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+r.k.moore@sheffield.ac.uk O r.k.moore@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Siobhan B-PER siobhan 0 1 0 0 0 0 1 h2 div feature 14 1
+North I-PER north 0 1 0 0 0 0 1 h2 div feature 14 1
+
+Senior O senior 0 1 0 0 0 0 1 div td feature 13 3
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1835 O 1835 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+s.north@sheffield.ac.uk O s.north@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Pietro B-PER pietro 0 1 0 0 0 0 1 h2 div feature 14 1
+Oliveto I-PER oliveto 0 1 0 0 0 0 1 h2 div feature 14 1
+
+Senior O senior 0 1 0 0 0 0 1 div td feature 13 3
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++44 O +44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1812 O 1812 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+p.oliveto@sheffield.ac.uk O p.oliveto@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Prof. O prof. 0 1 0 0 1 0 1 h2 div feature 14 1
+Tony B-PER tony 1 1 0 0 0 0 1 h2 div feature 14 1
+Prescott I-PER prescott 0 1 0 0 0 0 1 h2 div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+of O of 0 1 0 0 0 0 0 div td feature 13 3
+Cognitive O cognitive 0 0 0 0 0 0 1 div td feature 13 3
+Neuroscience O neuroscience 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++44 O +44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+6547 O 6547 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+T.J.Prescott@sheffield.ac.uk O t.j.prescott@sheffield.ac.uk 0 0 1 0 0 0 1 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Paul B-PER paul 1 1 0 0 0 0 1 h2 div feature 14 1
+Richmond I-PER richmond 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Senior O senior 0 1 0 0 0 0 1 div td feature 13 3
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1936 O 1936 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+p.richmond@sheffield.ac.uk O p.richmond@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Amanda B-PER amanda 0 1 0 0 0 0 1 h2 div feature 14 1
+Sharkey I-PER sharkey 0 1 0 0 0 0 1 h2 div feature 14 1
+
+Senior O senior 0 1 0 0 0 0 1 div td feature 13 3
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1837 O 1837 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+a.sharkey@sheffield.ac.uk O a.sharkey@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Anthony B-PER anthony 0 1 0 0 0 0 1 h2 div feature 14 1
+Simons I-PER simons 0 1 0 0 0 0 1 h2 div feature 14 1
+
+Senior O senior 0 1 0 0 0 0 1 div td feature 13 3
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1838 O 1838 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+a.j.simons@sheffield.ac.uk O a.j.simons@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+Lucia B-PER lucia 1 1 0 0 0 0 1 h2 div feature 14 1
+Specia I-PER specia 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+of O of 0 1 0 0 0 0 0 div td feature 13 3
+Language O language 0 0 0 0 0 0 1 div td feature 13 3
+Engineering O engineering 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1831 O 1831 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+l.specia@sheffield.ac.uk O l.specia@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Mike B-PER mike 1 1 0 0 0 0 1 h2 div feature 14 1
+Stannett I-PER stannett 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Senior O senior 0 1 0 0 0 0 1 div td feature 13 3
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1841 O 1841 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+m.stannett@sheffield.ac.uk O m.stannett@sheffield.ac.uk 0 0 1 0 1 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Mark B-PER mark 1 1 0 0 0 0 1 h2 div feature 14 1
+Stevenson I-PER stevenson 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Senior O senior 0 1 0 0 0 0 1 div td feature 13 3
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1921 O 1921 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+mark.stevenson@sheffield.ac.uk O mark.stevenson@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+Georg B-PER georg 1 1 0 0 0 0 1 h2 div feature 14 1
+Struth I-PER struth 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+of O of 0 1 0 0 0 0 0 div td feature 13 3
+Theoretical O theoretical 0 0 0 0 0 0 1 div td feature 13 3
+Computer O computer 0 0 0 0 0 0 1 div td feature 13 3
+Science O science 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1846 O 1846 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+g.struth@sheffield.ac.uk O g.struth@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Dirk B-PER dirk 1 1 0 0 0 0 1 h2 div feature 14 1
+Sudholt I-PER sudholt 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Senior O senior 0 1 0 0 0 0 1 div td feature 13 3
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1848 O 1848 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+d.sudholt@sheffield.ac.uk O d.sudholt@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Ramsay B-PER ramsay 1 1 0 0 0 0 1 h2 div feature 14 1
+Taylor I-PER taylor 1 1 0 0 0 0 1 h2 div feature 14 1
+
+University O university 0 1 0 0 0 0 1 div td feature 13 3
+Teacher O teacher 0 1 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1843 O 1843 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+r.g.taylor@sheffield.ac.uk O r.g.taylor@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+Eleni B-PER eleni 1 1 0 0 0 0 1 h2 div feature 14 1
+Vasilaki I-PER vasilaki 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+of O of 0 1 0 0 0 0 0 div td feature 13 3
+Computational O computational 0 0 0 0 0 0 1 div td feature 13 3
+Neuroscience O neuroscience 0 0 0 0 0 0 1 div td feature 13 3
+& O & 0 0 0 0 0 0 0 div td feature 13 3
+Neural O neural 0 0 0 0 0 0 1 div td feature 13 3
+Engineering O engineering 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1822 O 1822 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+e.vasilaki@sheffield.ac.uk O e.vasilaki@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Maria B-PER maria 0 1 0 0 0 0 1 h2 div feature 14 1
+- I-PER - 0 0 0 0 0 0 0 h2 div feature 14 1
+Cruz I-PER cruz 0 1 0 0 0 0 1 h2 div feature 14 1
+Villa I-PER villa 0 1 0 0 0 0 1 h2 div feature 14 1
+- I-PER - 0 0 0 0 0 0 0 h2 div feature 14 1
+Uriol I-PER uriol 0 1 0 0 0 0 1 h2 div feature 14 1
+
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1870 O 1870 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+m.villa O m.villa 0 0 0 0 0 0 0 p div feature 14 1
+- O - 0 0 0 0 0 0 0 p div feature 14 1
+uriol@sheffield.ac.uk O uriol@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Andreas B-PER andreas 1 1 0 0 1 0 1 h2 div feature 14 1
+Vlachos I-PER vlachos 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1960 O 1960 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+a.vlachos@sheffield.ac.uk O a.vlachos@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Dawn B-PER dawn 1 1 0 0 0 0 1 h2 div feature 14 1
+Walker I-PER walker 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Senior O senior 0 1 0 0 0 0 1 div td feature 13 3
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1914 O 1914 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+d.c.walker@sheffield.ac.uk O d.c.walker@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Paul B-PER paul 0 1 0 0 0 0 1 h2 div feature 14 1
+Watton I-PER watton 0 1 0 0 0 0 1 h2 div feature 14 1
+
+Lecturer O lecturer 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+6076 O 6076 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+p.watton@sheffield.ac.uk O p.watton@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Joab B-PER joab 1 1 0 0 0 0 1 h2 div feature 14 1
+Winkler I-PER winkler 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Reader O reader 0 1 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1834 O 1834 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+j.r.winkler@sheffield.ac.uk O j.r.winkler@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Emeritus O emeritus 0 1 0 0 1 0 1 main div content 8 442
+and O and 0 1 0 0 0 0 0 main div content 8 442
+Honorary O honorary 0 0 0 0 1 0 1 main div content 8 442
+Academics O academics 0 0 0 0 0 0 1 main div content 8 442
+
+Dr O dr 0 1 0 0 0 0 1 h2 div feature 14 1
+Tony B-PER tony 1 1 0 0 0 0 1 h2 div feature 14 1
+Cowling I-PER cowling 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Honorary O honorary 0 0 0 0 1 0 1 div td feature 13 3
+Academic O academic 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+0114 O 0114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1823 O 1823 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+a.j.cowling@sheffield.ac.uk O a.j.cowling@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Emeritus O emeritus 0 1 0 0 1 0 1 h2 div feature 14 1
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+Philip B-PER philip 0 1 0 0 0 0 1 h2 div feature 14 1
+Green I-PER green 0 1 0 0 0 0 1 h2 div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+Emeritus O emeritus 0 1 0 0 1 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+0114 O 0114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1828 O 1828 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+p.green@sheffield.ac.uk O p.green@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Emeritus O emeritus 0 1 0 0 1 0 1 h2 div feature 14 1
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+Mike B-PER mike 1 1 0 0 0 0 1 h2 div feature 14 1
+Holcombe I-PER holcombe 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Emeritus O emeritus 0 1 0 0 1 0 1 div td feature 13 3
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1800 O 1800 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+m.holcombe@sheffield.ac.uk O m.holcombe@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Mr O mr 0 0 0 0 0 0 1 div td feature 13 0
+Chris B-PER chris 1 1 0 0 0 0 1 div td feature 13 0
+Murray I-PER murray 1 1 0 0 0 0 1 div td feature 13 0
+
+Honorary O honorary 0 0 0 0 1 0 1 div td feature 13 2
+Academic O academic 0 0 0 0 0 0 1 div td feature 13 2
+
+T O t 0 1 0 0 0 0 1 div td feature 13 3
+: O : 0 0 0 0 0 0 0 div td feature 13 3
++ O + 0 0 0 0 0 0 0 div td feature 13 3
+44 O 44 0 0 0 1 0 0 0 div td feature 13 3
+( O ( 0 0 0 0 0 0 0 div td feature 13 3
+0 O 0 0 0 0 1 0 0 0 div td feature 13 3
+) O ) 0 0 0 0 0 0 0 div td feature 13 3
+114 O 114 0 0 0 1 0 0 0 div td feature 13 3
+222 O 222 0 0 0 1 0 0 0 div td feature 13 3
+1800 O 1800 0 0 0 1 0 0 0 div td feature 13 3
+
+E O e 0 1 0 0 0 0 1 div td feature 13 3
+: O : 0 0 0 0 0 0 0 div td feature 13 3
+chris.murray@sheffield.ac.uk O chris.murray@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Emeritus O emeritus 0 1 0 0 1 0 1 h2 div feature 14 1
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+Noel B-PER noel 0 1 0 0 0 0 1 h2 div feature 14 1
+Sharkey I-PER sharkey 0 1 0 0 0 0 1 h2 div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+Emeritus O emeritus 0 1 0 0 1 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1803 O 1803 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+n.sharkey@sheffield.ac.uk O n.sharkey@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Emeritus O emeritus 0 1 0 0 1 0 1 h2 div feature 14 1
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+Rodney B-PER rodney 0 1 0 0 0 0 1 h2 div feature 14 1
+Smallwood I-PER smallwood 0 1 0 0 0 0 1 h2 div feature 14 1
+
+Honorary O honorary 0 0 0 0 1 0 1 div td feature 13 3
+Academic O academic 0 0 0 0 0 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1800 O 1800 0 0 0 1 0 0 0 div td feature 13 4
+
+Emeritus O emeritus 0 1 0 0 1 0 1 h2 div feature 14 1
+Professor O professor 0 0 0 0 1 0 1 h2 div feature 14 1
+Yorick B-PER yorick 1 1 0 0 0 0 1 h2 div feature 14 1
+Wilks I-PER wilks 1 1 0 0 0 0 1 h2 div feature 14 1
+
+Professor O professor 0 0 0 0 1 0 1 div td feature 13 3
+Emeritus O emeritus 0 1 0 0 1 0 1 div td feature 13 3
+
+T O t 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
++ O + 0 0 0 0 0 0 0 div td feature 13 4
+44 O 44 0 0 0 1 0 0 0 div td feature 13 4
+( O ( 0 0 0 0 0 0 0 div td feature 13 4
+0 O 0 0 0 0 1 0 0 0 div td feature 13 4
+) O ) 0 0 0 0 0 0 0 div td feature 13 4
+114 O 114 0 0 0 1 0 0 0 div td feature 13 4
+222 O 222 0 0 0 1 0 0 0 div td feature 13 4
+1800 O 1800 0 0 0 1 0 0 0 div td feature 13 4
+
+E O e 0 1 0 0 0 0 1 div td feature 13 4
+: O : 0 0 0 0 0 0 0 div td feature 13 4
+y.wilks@sheffield.ac.uk O y.wilks@sheffield.ac.uk 0 0 1 0 0 0 0 p div feature 14 1
+
+Contact O contact 0 0 0 0 0 0 1 li ul nav-footer 13 0
+us O us 0 1 0 0 0 0 0 li ul nav-footer 13 0
+
+Information O information 0 1 0 0 0 0 1 li ul nav-footer 13 0
+for O for 0 1 0 0 0 0 0 li ul nav-footer 13 0
+visitors O visitors 0 0 0 0 0 0 0 li ul nav-footer 13 0
+
+Jobs O jobs 0 1 0 0 0 0 1 li ul nav-footer 13 0
+
+Support O support 0 0 0 0 0 0 1 li ul nav-footer 13 0
+us O us 0 1 0 0 0 0 0 li ul nav-footer 13 0
+
+Students O students 0 0 0 0 0 0 1 li ul nav-footer 13 0
+' O ' 0 0 0 0 0 0 0 li ul nav-footer 13 0
+Union O union 0 0 0 0 0 0 1 li ul nav-footer 13 0
+
+Current O current 0 1 0 0 0 0 1 li ul nav-footer 13 0
+students O students 0 0 0 0 0 0 0 li ul nav-footer 13 0
+
+Staff O staff 0 1 0 0 0 0 1 li ul nav-footer 13 0
+
+Connect O connect 0 0 0 0 0 0 1 ul nav nav-footer-social__title 12 0
+
+Facebook O facebook 0 0 0 0 0 0 1 li ul icon-social__facebook 13 0
+
+Twitter O twitter 0 0 0 0 0 0 1 li ul icon-social__twitter 13 0
+
+Snapchat O snapchat 0 0 0 0 0 0 1 li ul icon-social__snapchat 13 0
+
+YouTube O youtube 0 0 0 0 0 0 1 li ul icon-social__youtube 13 0
+
+Instagram O instagram 0 0 0 0 0 0 1 li ul icon-social__instagram 13 0
+
+LinkedIn O linkedin 0 0 0 0 0 0 1 li ul icon-social__linkedin 13 0
+
+Weibo O weibo 0 1 0 0 0 0 1 li ul icon-social__weibo 13 0
+
+The O the 0 1 0 0 0 0 1 div div contact-details__address 11 0
+University O university 0 1 0 0 0 0 1 div div contact-details__address 11 0
+of O of 0 1 0 0 0 0 0 div div contact-details__address 11 0
+Sheffield O sheffield 0 1 0 0 0 0 1 div div contact-details__address 11 0
+
+Western O western 0 1 0 0 0 0 1 div div contact-details__address 11 0
+Bank O bank 0 1 0 0 0 0 1 div div contact-details__address 11 0
+
+Sheffield O sheffield 0 1 0 0 0 0 1 div div contact-details__address 11 0
+, O , 0 0 0 0 0 0 0 div div contact-details__address 11 0
+S10 O s10 0 0 0 1 0 0 1 div div contact-details__address 11 0
+2TN O 2tn 0 0 0 1 0 0 0 div div contact-details__address 11 0
+
+UK O uk 0 0 0 0 0 0 1 div div contact-details__address 11 0
+
+Feedback O feedback 0 0 0 0 0 0 1 li ul nav-footer-sub 13 0
+
+Privacy O privacy 0 0 0 0 0 0 1 li ul nav-footer-sub 13 0
+
+FOI O foi 0 0 0 0 0 0 1 li ul nav-footer-sub 13 0
+
+© O © 0 0 0 0 0 0 0 div div copyright 10 0
+2017 O 2017 0 0 0 1 0 0 0 div div copyright 10 0
+The O the 0 1 0 0 0 0 1 div div copyright 10 0
+University O university 0 1 0 0 0 0 1 div div copyright 10 0
+of O of 0 1 0 0 0 0 0 div div copyright 10 0
+Sheffield O sheffield 0 1 0 0 0 0 1 div div copyright 10 0

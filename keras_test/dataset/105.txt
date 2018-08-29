@@ -1,898 +1,952 @@
-CSE O 0 0 head html none 4 0
-Staff O 0 1 head html none 4 0
-- O 0 0 head html none 4 0
-myCSE O 0 0 head html none 4 0
-
-Engineering O 0 0 div div faculty 8 2
-
-You O 0 1 div div col-md-4 8 0
-are O 0 0 div div col-md-4 8 0
-not O 0 0 div div col-md-4 8 0
-logged O 0 0 div div col-md-4 8 0
-in O 0 1 div div col-md-4 8 0
-to O 0 0 div div col-md-4 8 0
-myCSE O 0 0 div div col-md-4 8 0
-[Login] O 0 0 div div col-md-4 9 1
-
-Computer O 0 0 div header school-logo 7 0
-Science O 0 0 div header school-logo 7 0
-and O 0 1 div header school-logo 7 0
-Engineering O 0 0 div header school-logo 7 0
-
-Toggle O 0 0 button div sr-only 9 0
-navigation O 0 0 button div sr-only 9 0
-
-News O 0 0 li ul dropdown 10 0
-
-Events O 0 0 li ul dropdown 10 0
-
-About O 0 0 li ul dropdown 10 0
-us O 0 1 li ul dropdown 10 0
-
-Courses O 0 0 li ul dropdown 10 0
-& O 0 0 li ul dropdown 10 0
-programs O 0 0 li ul dropdown 10 0
-
-Research O 0 1 li ul dropdown 10 0
-
-Alumni O 0 0 li ul dropdown 10 0
-& O 0 0 li ul dropdown 10 0
-industry O 0 0 li ul dropdown 10 0
-
-Videos O 0 0 li ul dropdown 10 0
-
-Help O 0 0 li ul dropdown 10 0
-& O 0 0 li ul dropdown 10 0
-resources O 0 0 li ul dropdown 10 0
-
-Contact O 0 0 li ul dropdown 10 0
-us O 0 1 li ul dropdown 10 0
-
-Academic O 0 0 div body container 5 31
-Staff O 0 1 div body container 5 31
-
-Search O 0 0 form div container 6 0
-for O 0 1 form div container 6 0
-a O 0 1 form div container 6 0
-CSE O 0 0 form div container 6 0
-staff O 0 0 form div container 6 0
-member: O 0 0 form div container 6 0
-
-By O 0 1 div body container 5 36
-Group: O 0 0 div body container 5 36
-Artificial O 0 0 p div container 6 0
-Intelligence O 0 0 p div container 6 0
-| O 0 0 div body container 5 36
-Databases O 0 0 p div container 6 1
-| O 0 0 div body container 5 36
-Embedded O 0 0 p div container 6 2
-and O 0 1 p div container 6 2
-Operating O 0 0 p div container 6 2
-Systems O 0 0 p div container 6 2
-| O 0 0 div body container 5 36
-Networked O 0 0 p div container 6 3
-Systems O 0 0 p div container 6 3
-and O 0 1 p div container 6 3
-Security O 0 0 p div container 6 3
-| O 0 0 div body container 5 36
-Programming O 0 1 p div container 6 4
-Languages O 0 0 p div container 6 4
-| O 0 0 div body container 5 36
-Service O 0 1 p div container 6 5
-Oriented O 0 0 p div container 6 5
-Computing O 0 0 p div container 6 5
-| O 0 0 div body container 5 36
-Software O 0 1 p div container 6 6
-Engineering O 0 0 p div container 6 6
-and O 0 1 p div container 6 6
-Theory O 0 0 p div container 6 6
-| O 0 0 div body container 5 36
-Theoretical O 0 0 p div container 6 7
-Computer O 0 0 p div container 6 7
-Science O 0 0 p div container 6 7
-| O 0 0 div body container 5 36
-Trustworthy O 0 0 p div container 6 8
-Systems O 0 0 p div container 6 8
-
-By O 0 1 div body container 5 48
-role: O 0 0 div body container 5 48
-All O 0 1 p div container 6 0
-People O 0 1 p div container 6 0
-| O 0 0 div body container 5 48
-Academic O 0 0 p div container 6 1
-Staff O 0 1 p div container 6 1
-| O 0 0 div body container 5 48
-Conjoint O 0 0 p div container 6 2
-Staff O 0 1 p div container 6 2
-| O 0 0 div body container 5 48
-Professional O 0 0 p div container 6 3
-Staff O 0 1 p div container 6 3
-| O 0 0 div body container 5 48
-IT O 0 0 p div container 6 4
-Staff O 0 1 p div container 6 4
-| O 0 0 div body container 5 48
-Visiting O 0 0 p div container 6 5
-Staff O 0 1 p div container 6 5
-| O 0 0 div body container 5 48
-Research O 0 1 p div container 6 6
-Students O 0 0 p div container 6 6
-
-(Phone: O 0 0 div body container 5 56
-+61 O 0 0 div body container 5 56
-2 O 0 0 div body container 5 56
-938 O 0 0 div body container 5 56
-+ O 0 0 div body container 5 56
-Extension) O 0 0 div body container 5 56
-
-Name O 0 1 th tr table 9 0
-
-Role O 0 1 th tr table 9 0
-
-Office O 0 0 th tr table 9 0
-
-Extension O 0 0 th tr table 9 0
-
-Mike B-NAME 1 1 td tr table 9 0
-Bain I-NAME 1 1 td tr table 9 0
-Senior O 0 1 tr tbody table 8 2
-Lecturer O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-401H O 0 0 tr tbody table 8 3
-56935 O 0 0 tr tbody table 8 4
-
-Seyed-Mehdi-Reza B-NAME 1 1 td tr table 9 0
-Beheshti I-NAME 1 1 td tr table 9 0
-Senior O 0 1 tr tbody table 8 2
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-217G O 0 0 tr tbody table 8 3
-54034 O 0 0 tr tbody table 8 4
-
-Boualem B-NAME 1 1 td tr table 9 0
-Benatallah I-NAME 1 1 td tr table 9 0
-Scientia O 0 0 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-407 O 0 0 tr tbody table 8 3
-54767 O 0 0 tr tbody table 8 4
-
-Alan B-NAME 1 1 td tr table 9 0
-Blair I-NAME 1 1 td tr table 9 0
-Senior O 0 1 tr tbody table 8 2
-Lecturer O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Program O 0 0 tr tbody table 8 2
-Director O 0 1 tr tbody table 8 2
-- O 0 0 tr tbody table 8 2
-Computer O 0 0 tr tbody table 8 2
-Science O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-412C O 0 0 tr tbody table 8 3
-57131 O 0 0 tr tbody table 8 4
-
-Edwin B-NAME 0 1 td tr table 9 0
-Bonilla I-NAME 0 1 td tr table 9 0
-Senior O 0 1 tr tbody table 8 2
-Lecturer O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-412B O 0 0 tr tbody table 8 3
-56255 O 0 0 tr tbody table 8 4
-
-Richard B-NAME 1 1 td tr table 9 0
-Buckland I-NAME 1 1 td tr table 9 0
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-210 O 0 0 tr tbody table 8 3
-54063 O 0 0 tr tbody table 8 4
-
-Xiongcai B-NAME 1 1 td tr table 9 0
-Cai I-NAME 1 1 td tr table 9 0
-Adjunct O 0 0 tr tbody table 8 2
-Senior O 0 1 tr tbody table 8 2
-Lecturer O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-217-10 O 0 0 tr tbody table 8 3
-58858 O 0 0 tr tbody table 8 4
-
-Xin B-NAME 1 1 td tr table 9 0
-Cao I-NAME 1 1 td tr table 9 0
-Lecturer O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-201D O 0 0 tr tbody table 8 3
-55317 O 0 0 tr tbody table 8 4
-
-Manuel B-NAME 0 1 td tr table 9 0
-Chakravarty I-NAME 0 1 td tr table 9 0
-Associate O 0 1 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-510C O 0 0 tr tbody table 8 3
-54495 O 0 0 tr tbody table 8 4
-
-Chun B-NAME 1 1 td tr table 9 0
-Tung I-NAME 1 1 td tr table 9 0
-Chou I-NAME 1 1 td tr table 9 0
-Associate O 0 1 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-608 O 0 0 tr tbody table 8 3
-57203 O 0 0 tr tbody table 8 4
-
-Peng B-NAME 1 1 td tr table 9 0
-Di I-NAME 1 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-501J O 0 0 tr tbody table 8 3
-56588 O 0 0 tr tbody table 8 4
-
-Oliver B-NAME 1 1 td tr table 9 0
-Diessel I-NAME 1 1 td tr table 9 0
-Associate O 0 1 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-501B O 0 0 tr tbody table 8 3
-57384 O 0 0 tr tbody table 8 4
-
-Kevin B-NAME 1 1 td tr table 9 0
-Elphinstone I-NAME 1 1 td tr table 9 0
-Associate O 0 1 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-301 O 0 0 tr tbody table 8 3
-
-Kai B-NAME 1 1 td tr table 9 0
-Engelhardt I-NAME 1 1 td tr table 9 0
-Senior O 0 1 tr tbody table 8 2
-Lecturer O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-217C O 0 0 tr tbody table 8 3
-54497 O 0 0 tr tbody table 8 4
-
-Angela B-NAME 1 1 td tr table 9 0
-Finlayson I-NAME 1 1 td tr table 9 0
-Lecturer O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-201C O 0 0 tr tbody table 8 3
-54025 O 0 0 tr tbody table 8 4
-
-Bruno B-NAME 0 1 td tr table 9 0
-Gaeta I-NAME 0 1 td tr table 9 0
-Senior O 0 1 tr tbody table 8 2
-Lecturer O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Program O 0 0 tr tbody table 8 2
-Director O 0 1 tr tbody table 8 2
-- O 0 0 tr tbody table 8 2
-Bioinformatics O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-401C O 0 0 tr tbody table 8 3
-57213 O 0 0 tr tbody table 8 4
-
-Serge B-NAME 1 1 td tr table 9 0
-Gaspers I-NAME 1 1 td tr table 9 0
-ARC O 0 0 tr tbody table 8 2
-Future O 0 0 tr tbody table 8 2
-Fellow O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-506 O 0 0 tr tbody table 8 3
-56934 O 0 0 tr tbody table 8 4
-
-Lingkan B-NAME 1 1 td tr table 9 0
-Gong I-NAME 1 1 td tr table 9 0
-Post-Doc O 0 0 tr tbody table 8 2
-Fellow O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-217D O 0 0 tr tbody table 8 3
-57738 O 0 0 tr tbody table 8 4
-
-Michael B-NAME 1 1 td tr table 9 0
-James I-NAME 1 1 td tr table 9 0
-Gratton I-NAME 1 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-
-(currently O 0 0 font td table 10 0
-on O 0 0 font td table 10 0
-leave) O 0 0 font td table 10 0
-
-J17 O 0 0 tr tbody table 8 5
-510J-02 O 0 0 tr tbody table 8 5
-56898 O 0 0 tr tbody table 8 6
-
-Hui B-NAME 0 1 td tr table 9 0
-Annie I-NAME 0 1 td tr table 9 0
-Guo I-NAME 0 1 td tr table 9 0
-Senior O 0 1 tr tbody table 8 2
-Lecturer O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Program O 0 0 tr tbody table 8 2
-Director O 0 1 tr tbody table 8 2
-- O 0 0 tr tbody table 8 2
-Computer O 0 0 tr tbody table 8 2
-Engineering O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-501F O 0 0 tr tbody table 8 3
-57136 O 0 0 tr tbody table 8 4
-
-Mahbub B-NAME 1 1 td tr table 9 0
-Hassan I-NAME 1 1 td tr table 9 0
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-607 O 0 0 tr tbody table 8 3
-56198 O 0 0 tr tbody table 8 4
-
-Bradford B-NAME 1 1 td tr table 9 0
-Heap I-NAME 1 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-401D O 0 0 tr tbody table 8 3
-56929 O 0 0 tr tbody table 8 4
-
-Gernot B-NAME 1 1 td tr table 9 0
-Heiser I-NAME 1 1 td tr table 9 0
-Scientia O 0 0 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-John O 1 1 tr tbody table 8 2
-Lions O 1 1 tr tbody table 8 2
-Chair O 0 1 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-ACM O 0 0 tr tbody table 8 2
-Fellow O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-Level O 0 1 tr tbody table 8 3
-3 O 0 0 tr tbody table 8 3
-94905850 O 0 0 tr tbody table 8 4
-
-Bernhard B-NAME 1 1 td tr table 9 0
-Hengst I-NAME 1 1 td tr table 9 0
-Senior O 0 1 tr tbody table 8 2
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-(Level O 0 0 tr tbody table 8 2
-B) O 0 0 tr tbody table 8 2
-J17 O 0 0 tr tbody table 8 3
-510K-01 O 0 0 tr tbody table 8 3
-56929 O 0 0 tr tbody table 8 4
-
-Wen B-NAME 1 1 td tr table 9 0
-Hu I-NAME 1 1 td tr table 9 0
-Senior O 0 1 tr tbody table 8 2
-Lecturer O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-606 O 0 0 tr tbody table 8 3
-57679 O 0 0 tr tbody table 8 4
-
-Aleksandar B-NAME 1 1 td tr table 9 0
-Ignjatovic I-NAME 1 1 td tr table 9 0
-Associate O 0 1 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-504 O 0 0 tr tbody table 8 3
-56659 O 0 0 tr tbody table 8 4
-
-Jayasinghe B-NAME 0 1 td tr table 9 0
-Arachchige I-NAME 0 1 td tr table 9 0
-Darshana I-NAME 0 1 td tr table 9 0
-Nayanajith I-NAME 0 1 td tr table 9 0
-Jayasinghe I-NAME 0 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-PhD O 0 0 tr tbody table 8 2
-Student O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-510-04 O 0 0 tr tbody table 8 3
-
-Sanjay B-NAME 1 1 td tr table 9 0
-Jha I-NAME 1 1 td tr table 9 0
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-501A O 0 0 tr tbody table 8 3
-56471 O 0 0 tr tbody table 8 4
-
-Salil B-NAME 1 1 td tr table 9 0
-Kanhere I-NAME 1 1 td tr table 9 0
-Associate O 0 1 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Postgraduate O 0 0 tr tbody table 8 2
-Research O 0 1 tr tbody table 8 2
-and O 0 1 tr tbody table 8 2
-Scholarship O 0 0 tr tbody table 8 2
-Co-ordinator O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-612 O 0 0 tr tbody table 8 3
-56927 O 0 0 tr tbody table 8 4
-
-Gabriele B-NAME 1 1 td tr table 9 0
-Keller I-NAME 1 1 td tr table 9 0
-Associate O 0 1 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Grievance O 0 0 tr tbody table 8 2
-Officer O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-CSEâs O 0 0 tr tbody table 8 2
-Equity O 0 0 tr tbody table 8 2
-and O 0 1 tr tbody table 8 2
-DiversityÂ O 0 0 tr tbody table 8 2
-Coordinator O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-501I O 0 0 tr tbody table 8 3
-56032 O 0 0 tr tbody table 8 4
-
-Alfred B-NAME 1 1 td tr table 9 0
-Krzywicki I-NAME 1 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Fellow O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-401E O 0 0 tr tbody table 8 3
-56993 O 0 0 tr tbody table 8 4
-
-Longbin B-NAME 1 1 td tr table 9 0
-Lai I-NAME 1 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-201E O 0 0 tr tbody table 8 3
-56012 O 0 0 tr tbody table 8 4
-
-Tuo B-NAME 1 1 td tr table 9 0
-Li I-NAME 1 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-501H O 0 0 tr tbody table 8 3
-57386 O 0 0 tr tbody table 8 4
-
-Xuemin B-NAME 1 1 td tr table 9 0
-Lin I-NAME 1 1 td tr table 9 0
-Scientia O 0 0 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-503 O 0 0 tr tbody table 8 3
-56493 O 0 0 tr tbody table 8 4
-
-Haojun B-NAME 0 1 td tr table 9 0
-Ma I-NAME 0 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-208 O 0 0 tr tbody table 8 3
-54334 O 0 0 tr tbody table 8 4
-
-Nadine B-NAME 1 1 td tr table 9 0
-Marcus I-NAME 1 1 td tr table 9 0
-Senior O 0 1 tr tbody table 8 2
-Lecturer O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-401B O 0 0 tr tbody table 8 3
-55173 O 0 0 tr tbody table 8 4
-
-Eric B-NAME 1 1 td tr table 9 0
-Martin I-NAME 1 1 td tr table 9 0
-Senior O 0 1 tr tbody table 8 2
-Lecturer O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Postgrad O 0 0 tr tbody table 8 2
-Coursework O 0 0 tr tbody table 8 2
-Academic O 0 0 tr tbody table 8 2
-Advisor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-409 O 0 0 tr tbody table 8 3
-56936 O 0 0 tr tbody table 8 4
-
-Trevor B-NAME 0 1 td tr table 9 0
-Lee I-NAME 1 1 td tr table 9 0
-Mcdonell I-NAME 0 0 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-301 O 0 0 tr tbody table 8 3
-
-Carroll B-NAME 1 1 td tr table 9 0
-Morgan I-NAME 1 1 td tr table 9 0
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-301 O 0 0 tr tbody table 8 3
-
-David B-NAME 0 1 td tr table 9 0
-Muchlinski I-NAME 0 0 td tr table 9 0
-Post O 0 1 tr tbody table 8 2
-Doctoral O 0 0 tr tbody table 8 2
-Research O 0 1 tr tbody table 8 2
-Fellow O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-412-02 O 0 0 tr tbody table 8 3
-
-Daniel B-NAME 1 1 td tr table 9 0
-Murphy I-NAME 1 1 td tr table 9 0
-Casual O 0 0 tr tbody table 8 2
-Academic O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Student O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-510-01 O 0 0 tr tbody table 8 3
-
-Maurice B-NAME 1 1 td tr table 9 0
-Pagnucco I-NAME 1 1 td tr table 9 0
-Professor O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Head O 0 1 tr tbody table 8 2
-of O 0 1 tr tbody table 8 2
-School O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-104A O 0 0 tr tbody table 8 3
-55518 O 0 0 tr tbody table 8 4
-
-Helen B-NAME 0 1 td tr table 9 0
-Hye-Young I-NAME 1 1 td tr table 9 0
-Paik I-NAME 1 1 td tr table 9 0
-UG O 0 0 tr tbody table 8 2
-Thesis O 0 0 tr tbody table 8 2
-Coordinator O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Senior O 0 1 tr tbody table 8 2
-Lecturer O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-401A O 0 0 tr tbody table 8 3
-54095 O 0 0 tr tbody table 8 4
-
-Sri B-NAME 1 1 td tr table 9 0
-Parameswaran I-NAME 1 1 td tr table 9 0
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-510D O 0 0 tr tbody table 8 3
-57223 O 0 0 tr tbody table 8 4
-
-Jorgen B-NAME 1 1 td tr table 9 0
-Peddersen I-NAME 1 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-501E O 0 0 tr tbody table 8 3
-57229 O 0 0 tr tbody table 8 4
-
-Marcosiris B-NAME 0 1 td tr table 9 0
-Pessoa I-NAME 0 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-Visitor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-201-30 O 0 0 tr tbody table 8 3
-57161 O 0 0 tr tbody table 8 4
-
-Jianbin B-NAME 1 1 td tr table 9 0
-Qin I-NAME 1 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-217E O 0 0 tr tbody table 8 3
-57738 O 0 0 tr tbody table 8 4
-
-Fethi B-NAME 1 1 td tr table 9 0
-Rabhi I-NAME 1 1 td tr table 9 0
-Professor O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Program O 0 0 tr tbody table 8 2
-Director O 0 1 tr tbody table 8 2
-- O 0 0 tr tbody table 8 2
-Software O 0 1 tr tbody table 8 2
-Engineering O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-406 O 0 0 tr tbody table 8 3
-54179 O 0 0 tr tbody table 8 4
-
-David B-NAME 1 1 td tr table 9 0
-Rajaratnam I-NAME 1 1 td tr table 9 0
-Senior O 0 1 tr tbody table 8 2
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-J17 O 0 0 tr tbody table 8 3
-510K-02 O 0 0 tr tbody table 8 3
-
-Carlos B-NAME 1 1 td tr table 9 0
-Rodriguez I-NAME 1 1 td tr table 9 0
-Senior O 0 1 tr tbody table 8 2
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-216 O 0 0 tr tbody table 8 3
-54535 O 0 0 tr tbody table 8 4
-
-Stefan B-NAME 0 1 td tr table 9 0
-Rummele I-NAME 0 0 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-501G O 0 0 tr tbody table 8 3
-56926 O 0 0 tr tbody table 8 4
-
-Abdallah B-NAME 1 1 td tr table 9 0
-Saffidine I-NAME 1 1 td tr table 9 0
-ARC O 0 0 tr tbody table 8 2
-DECRA O 0 0 tr tbody table 8 2
-Fellow O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-510B O 0 0 tr tbody table 8 3
-56496 O 0 0 tr tbody table 8 4
-
-Claude B-NAME 1 1 td tr table 9 0
-Sammut I-NAME 1 1 td tr table 9 0
-Professor O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Research O 0 1 tr tbody table 8 2
-Committee O 0 0 tr tbody table 8 2
-Chair O 0 1 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Deputy O 0 0 tr tbody table 8 2
-Head O 0 1 tr tbody table 8 2
-of O 0 1 tr tbody table 8 2
-School O 0 1 tr tbody table 8 2
-(Research) O 0 0 tr tbody table 8 2
-J17 O 0 0 tr tbody table 8 3
-510A O 0 0 tr tbody table 8 3
-56932 O 0 0 tr tbody table 8 4
-
-Michael B-NAME 0 1 td tr table 9 0
-Schofield I-NAME 0 1 td tr table 9 0
-PhD O 0 0 tr tbody table 8 2
-Student O 0 1 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Adjunct O 0 0 tr tbody table 8 2
-Lecturer O 0 0 tr tbody table 8 2
-J17 O 0 0 tr tbody table 8 3
-510-31 O 0 0 tr tbody table 8 3
-
-Christoph B-NAME 1 1 td tr table 9 0
-Schwering I-NAME 1 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-J17 O 0 0 tr tbody table 8 3
-510J-01 O 0 0 tr tbody table 8 3
-56898 O 0 0 tr tbody table 8 4
-
-John B-NAME 1 1 td tr table 9 0
-Shepherd I-NAME 1 1 td tr table 9 0
-Senior O 0 1 tr tbody table 8 2
-Lecturer O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Education O 0 0 tr tbody table 8 2
-Committee O 0 0 tr tbody table 8 2
-Chair O 0 1 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Deputy O 0 0 tr tbody table 8 2
-Head O 0 1 tr tbody table 8 2
-of O 0 1 tr tbody table 8 2
-School O 0 1 tr tbody table 8 2
-(Education) O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-410 O 0 0 tr tbody table 8 3
-56494 O 0 0 tr tbody table 8 4
-
-Arcot B-NAME 1 1 td tr table 9 0
-Sowmya I-NAME 1 1 td tr table 9 0
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-412E O 0 0 tr tbody table 8 3
-56933 O 0 0 tr tbody table 8 4
-
-Yulei B-NAME 1 1 td tr table 9 0
-Sui I-NAME 1 1 td tr table 9 0
-ARC O 0 0 tr tbody table 8 2
-DECRA O 0 0 tr tbody table 8 2
-Fellow O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-501K O 0 0 tr tbody table 8 3
-57369 O 0 0 tr tbody table 8 4
-
-Yifang B-NAME 1 1 td tr table 9 0
-Sun I-NAME 1 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-208 O 0 0 tr tbody table 8 3
-54334 O 0 0 tr tbody table 8 4
-
-Andrew B-NAME 1 1 td tr table 9 0
-Taylor I-NAME 1 1 td tr table 9 0
-Senior O 0 1 tr tbody table 8 2
-Lecturer O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-CSEâsÂ O 0 0 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-Head O 0 1 tr tbody table 8 2
-of O 0 1 tr tbody table 8 2
-School O 0 1 tr tbody table 8 2
-(Education) O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-401G O 0 0 tr tbody table 8 3
-55525 O 0 0 tr tbody table 8 4
-
-Michael B-NAME 1 1 td tr table 9 0
-Thielscher I-NAME 1 1 td tr table 9 0
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-401J O 0 0 tr tbody table 8 3
-57129 O 0 0 tr tbody table 8 4
-
-Ron B-NAME 0 1 td tr table 9 0
-Van I-NAME 0 1 td tr table 9 0
-Der I-NAME 0 1 td tr table 9 0
-Meyden I-NAME 0 1 td tr table 9 0
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-217F O 0 0 tr tbody table 8 3
-56922 O 0 0 tr tbody table 8 4
-
-Toby B-NAME 1 1 td tr table 9 0
-Walsh I-NAME 1 1 td tr table 9 0
-Data61 O 0 0 tr tbody table 8 2
-Chair O 0 1 tr tbody table 8 2
-in O 0 1 tr tbody table 8 2
-Artificial O 0 0 tr tbody table 8 2
-Intelligence O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-311 O 0 0 tr tbody table 8 3
-
-Wei B-NAME 1 1 td tr table 9 0
-Wang I-NAME 1 1 td tr table 9 0
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-507 O 0 0 tr tbody table 8 3
-57162 O 0 0 tr tbody table 8 4
-
-Timothy B-NAME 1 1 td tr table 9 0
-Wiley I-NAME 1 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Post-Doc O 0 0 tr tbody table 8 2
-Fellow O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-PhD O 0 0 tr tbody table 8 2
-Student O 0 1 tr tbody table 8 2
-J17 O 0 0 tr tbody table 8 3
-510L-01 O 0 0 tr tbody table 8 3
-51607 O 0 0 tr tbody table 8 4
-
-Wayne B-NAME 1 1 td tr table 9 0
-Wobcke I-NAME 1 1 td tr table 9 0
-Associate O 0 1 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-401F O 0 0 tr tbody table 8 3
-56475 O 0 0 tr tbody table 8 4
-
-Raymond B-NAME 1 1 td tr table 9 0
-Wong I-NAME 1 1 td tr table 9 0
-Associate O 0 1 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-213 O 0 0 tr tbody table 8 3
-55932 O 0 0 tr tbody table 8 4
-
-Hui B-NAME 1 1 td tr table 9 0
-Wu I-NAME 1 1 td tr table 9 0
-Lecturer O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-501D O 0 0 tr tbody table 8 3
-56572 O 0 0 tr tbody table 8 4
-
-Xinwei B-NAME 1 1 td tr table 9 0
-Xie I-NAME 1 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-501C O 0 0 tr tbody table 8 3
-55930 O 0 0 tr tbody table 8 4
-
-Weitao B-NAME 1 1 td tr table 9 0
-Xu I-NAME 1 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-Exchange O 0 0 tr tbody table 8 2
-Student O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-401-09 O 0 0 tr tbody table 8 3
-56908 O 0 0 tr tbody table 8 4
-
-Jingling B-NAME 1 1 td tr table 9 0
-Xue I-NAME 1 1 td tr table 9 0
-Scientia O 0 0 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-501L O 0 0 tr tbody table 8 3
-54889 O 0 0 tr tbody table 8 4
-
-Lina B-NAME 1 1 td tr table 9 0
-Yao I-NAME 1 1 td tr table 9 0
-Lecturer O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-ARC O 0 0 tr tbody table 8 2
-DECRA O 0 0 tr tbody table 8 2
-Fellow O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-401I O 0 0 tr tbody table 8 3
-56556 O 0 0 tr tbody table 8 4
-
-Ding B-NAME 1 1 td tr table 9 0
-Ye I-NAME 1 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-501C O 0 0 tr tbody table 8 3
-55930 O 0 0 tr tbody table 8 4
-
-Long B-NAME 1 1 td tr table 9 0
-Yuan I-NAME 1 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-201E O 0 0 tr tbody table 8 3
-56012 O 0 0 tr tbody table 8 4
-
-Wenjie B-NAME 1 1 td tr table 9 0
-Zhang I-NAME 1 1 td tr table 9 0
-Associate O 0 1 tr tbody table 8 2
-Professor O 0 0 tr tbody table 8 2
-& O 0 0 tr tbody table 8 2
-CSEâs O 0 0 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-Head O 0 1 tr tbody table 8 2
-of O 0 1 tr tbody table 8 2
-SchoolÂ O 0 0 tr tbody table 8 2
-(Research) O 0 0 tr tbody table 8 2
-K17 O 0 0 tr tbody table 8 3
-502 O 0 0 tr tbody table 8 3
-57799 O 0 0 tr tbody table 8 4
-
-Xiaoling B-NAME 1 1 td tr table 9 0
-Zhou I-NAME 1 1 td tr table 9 0
-Research O 0 1 tr tbody table 8 2
-Associate O 0 1 tr tbody table 8 2
-217E O 0 0 tr tbody table 8 3
-57738 O 0 0 tr tbody table 8 4
-
-76 O 0 0 tbody table table 7 458
-records O 0 0 tbody table table 7 458
-found O 0 0 tbody table table 7 458
-
-SCHOOL O 0 0 div footer text-muted 6 0
-OF O 0 0 div footer text-muted 6 0
-COMPUTER O 0 0 div footer text-muted 6 0
-SCIENCE O 0 0 div footer text-muted 6 0
-AND O 0 0 div footer text-muted 6 0
-ENGINEERING O 0 0 div footer text-muted 6 0
-
-UNSW O 0 0 div footer text-muted 6 0
-SYDNEY O 0 0 div footer text-muted 6 0
-NSW O 0 0 div footer text-muted 6 0
-2052 O 0 0 div footer text-muted 6 0
-AUSTRALIA O 0 0 div footer text-muted 6 0
-
-TELEPHONE O 0 0 div footer text-muted 6 0
-+61 O 0 0 div footer text-muted 6 0
-2 O 0 0 div footer text-muted 6 0
-9385 O 0 0 div footer text-muted 6 0
-4329 O 0 0 div footer text-muted 6 0
-
-CRICOS O 0 0 div footer text-muted 6 0
-PROVIDER O 0 0 div footer text-muted 6 0
-CODE O 0 0 div footer text-muted 6 0
-00098G O 0 0 div footer text-muted 6 0
-ABN O 0 0 div footer text-muted 6 0
-57 O 0 0 div footer text-muted 6 0
-195 O 0 0 div footer text-muted 6 0
-873 O 0 0 div footer text-muted 6 0
-179 O 0 0 div footer text-muted 6 0
+CSE O cse 0 0 0 0 0 0 1 head html none 4 0
+Staff O staff 0 1 0 0 0 0 1 head html none 4 0
+- O - 0 0 0 0 0 0 0 head html none 4 0
+myCSE O mycse 0 0 0 0 0 0 0 head html none 4 0
+
+Engineering O engineering 0 0 0 0 0 0 1 div div faculty 8 2
+
+You O you 0 1 0 0 0 0 1 div div col-md-4 8 0
+are O are 0 0 0 0 0 0 0 div div col-md-4 8 0
+not O not 0 0 0 0 0 0 0 div div col-md-4 8 0
+logged O logged 0 0 0 0 0 0 0 div div col-md-4 8 0
+in O in 0 1 0 0 0 0 0 div div col-md-4 8 0
+to O to 0 0 0 0 0 0 0 div div col-md-4 8 0
+myCSE O mycse 0 0 0 0 0 0 0 div div col-md-4 8 0
+[Login] O [login] 0 0 0 0 0 0 0 div div col-md-4 9 1
+
+Computer O computer 0 0 0 0 0 0 1 div header school-logo 7 0
+Science O science 0 0 0 0 0 0 1 div header school-logo 7 0
+and O and 0 1 0 0 0 0 0 div header school-logo 7 0
+Engineering O engineering 0 0 0 0 0 0 1 div header school-logo 7 0
+
+Toggle O toggle 0 0 0 0 0 0 1 button div sr-only 9 0
+navigation O navigation 0 0 0 0 0 0 0 button div sr-only 9 0
+
+News O news 0 0 0 0 0 0 1 li ul dropdown 10 0
+
+Events O events 0 0 0 0 0 0 1 li ul dropdown 10 0
+
+About O about 0 0 0 0 0 0 1 li ul dropdown 10 0
+us O us 0 1 0 0 0 0 0 li ul dropdown 10 0
+
+Courses O courses 0 0 0 0 0 0 1 li ul dropdown 10 0
+& O & 0 0 0 0 0 0 0 li ul dropdown 10 0
+programs O programs 0 0 0 0 0 0 0 li ul dropdown 10 0
+
+Research O research 0 1 0 0 0 0 1 li ul dropdown 10 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul dropdown 10 0
+& O & 0 0 0 0 0 0 0 li ul dropdown 10 0
+industry O industry 0 0 0 0 0 0 0 li ul dropdown 10 0
+
+Videos O videos 0 0 0 0 0 0 1 li ul dropdown 10 0
+
+Help O help 0 0 0 0 0 0 1 li ul dropdown 10 0
+& O & 0 0 0 0 0 0 0 li ul dropdown 10 0
+resources O resources 0 0 0 0 0 0 0 li ul dropdown 10 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul dropdown 10 0
+us O us 0 1 0 0 0 0 0 li ul dropdown 10 0
+
+Academic O academic 0 0 0 0 0 0 1 div body container 5 31
+Staff O staff 0 1 0 0 0 0 1 div body container 5 31
+
+Search O search 0 0 0 0 0 0 1 form div container 6 0
+for O for 0 1 0 0 0 0 0 form div container 6 0
+a O a 0 1 0 0 0 0 0 form div container 6 0
+CSE O cse 0 0 0 0 0 0 1 form div container 6 0
+staff O staff 0 0 0 0 0 0 0 form div container 6 0
+member O member 0 0 0 0 0 0 0 form div container 6 0
+: O : 0 0 0 0 0 0 0 form div container 6 0
+
+By O by 0 1 0 0 0 0 1 div body container 5 36
+Group O group 0 1 0 0 0 0 1 div body container 5 36
+: O : 0 0 0 0 0 0 0 div body container 5 36
+Artificial O artificial 0 0 0 0 0 0 1 p div container 6 0
+Intelligence O intelligence 0 0 0 0 0 0 1 p div container 6 0
+| O | 0 0 0 0 0 0 0 div body container 5 36
+Databases O databases 0 0 0 0 0 0 1 p div container 6 1
+| O | 0 0 0 0 0 0 0 div body container 5 36
+Embedded O embedded 0 0 0 0 1 0 1 p div container 6 2
+and O and 0 1 0 0 0 0 0 p div container 6 2
+Operating O operating 0 0 0 0 0 0 1 p div container 6 2
+Systems O systems 0 0 0 0 0 0 1 p div container 6 2
+| O | 0 0 0 0 0 0 0 div body container 5 36
+Networked O networked 0 0 0 0 0 0 1 p div container 6 3
+Systems O systems 0 0 0 0 0 0 1 p div container 6 3
+and O and 0 1 0 0 0 0 0 p div container 6 3
+Security O security 0 0 0 0 0 0 1 p div container 6 3
+| O | 0 0 0 0 0 0 0 div body container 5 36
+Programming O programming 0 1 0 0 0 0 1 p div container 6 4
+Languages O languages 0 0 0 0 0 0 1 p div container 6 4
+| O | 0 0 0 0 0 0 0 div body container 5 36
+Service O service 0 1 0 0 0 0 1 p div container 6 5
+Oriented O oriented 0 0 0 0 0 0 1 p div container 6 5
+Computing O computing 0 0 0 0 0 0 1 p div container 6 5
+| O | 0 0 0 0 0 0 0 div body container 5 36
+Software O software 0 1 0 0 0 0 1 p div container 6 6
+Engineering O engineering 0 0 0 0 0 0 1 p div container 6 6
+and O and 0 1 0 0 0 0 0 p div container 6 6
+Theory O theory 0 0 0 0 0 0 1 p div container 6 6
+| O | 0 0 0 0 0 0 0 div body container 5 36
+Theoretical O theoretical 0 0 0 0 0 0 1 p div container 6 7
+Computer O computer 0 0 0 0 0 0 1 p div container 6 7
+Science O science 0 0 0 0 0 0 1 p div container 6 7
+| O | 0 0 0 0 0 0 0 div body container 5 36
+Trustworthy O trustworthy 0 0 0 0 0 0 1 p div container 6 8
+Systems O systems 0 0 0 0 0 0 1 p div container 6 8
+
+By O by 0 1 0 0 0 0 1 div body container 5 48
+role O role 0 0 0 0 0 0 0 div body container 5 48
+: O : 0 0 0 0 0 0 0 div body container 5 48
+All O all 0 1 0 0 0 0 1 p div container 6 0
+People O people 0 1 0 0 0 0 1 p div container 6 0
+| O | 0 0 0 0 0 0 0 div body container 5 48
+Academic O academic 0 0 0 0 0 0 1 p div container 6 1
+Staff O staff 0 1 0 0 0 0 1 p div container 6 1
+| O | 0 0 0 0 0 0 0 div body container 5 48
+Conjoint O conjoint 0 0 0 0 0 0 1 p div container 6 2
+Staff O staff 0 1 0 0 0 0 1 p div container 6 2
+| O | 0 0 0 0 0 0 0 div body container 5 48
+Professional O professional 0 0 0 0 1 0 1 p div container 6 3
+Staff O staff 0 1 0 0 0 0 1 p div container 6 3
+| O | 0 0 0 0 0 0 0 div body container 5 48
+IT O it 0 0 0 0 0 0 1 p div container 6 4
+Staff O staff 0 1 0 0 0 0 1 p div container 6 4
+| O | 0 0 0 0 0 0 0 div body container 5 48
+Visiting O visiting 0 0 0 0 0 0 1 p div container 6 5
+Staff O staff 0 1 0 0 0 0 1 p div container 6 5
+| O | 0 0 0 0 0 0 0 div body container 5 48
+Research O research 0 1 0 0 0 0 1 p div container 6 6
+Students O students 0 0 0 0 0 0 1 p div container 6 6
+
+( O ( 0 0 0 0 0 0 0 div body container 5 56
+Phone O phone 0 1 0 0 0 0 1 div body container 5 56
+: O : 0 0 0 0 0 0 0 div body container 5 56
++61 O +61 0 0 0 1 0 0 0 div body container 5 56
+2 O 2 0 0 0 1 0 0 0 div body container 5 56
+938 O 938 0 0 0 1 0 0 0 div body container 5 56
++ O + 0 0 0 0 0 0 0 div body container 5 56
+Extension O extension 0 0 0 0 0 0 1 div body container 5 56
+) O ) 0 0 0 0 0 0 0 div body container 5 56
+
+Name O name 0 1 0 0 0 0 1 th tr table 9 0
+
+Role O role 0 1 0 0 0 0 1 th tr table 9 0
+
+Office O office 0 0 0 0 0 0 1 th tr table 9 0
+
+Extension O extension 0 0 0 0 0 0 1 th tr table 9 0
+
+Mike B-PER mike 1 1 0 0 0 0 1 td tr table 9 0
+Bain I-PER bain 1 1 0 0 0 0 1 td tr table 9 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody table 8 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+401H O 401h 0 0 0 1 0 0 0 tr tbody table 8 3
+56935 O 56935 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Seyed B-PER seyed 0 1 0 0 0 0 1 td tr table 9 0
+- I-PER - 0 0 0 0 0 0 0 td tr table 9 0
+Mehdi I-PER mehdi 0 1 0 0 0 0 1 td tr table 9 0
+- I-PER - 0 0 0 0 0 0 0 td tr table 9 0
+Reza I-PER reza 0 1 0 0 0 0 1 td tr table 9 0
+Beheshti I-PER beheshti 0 1 0 0 0 0 1 td tr table 9 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody table 8 2
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+217G O 217g 0 0 0 1 0 0 0 tr tbody table 8 3
+54034 O 54034 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Boualem B-PER boualem 1 1 0 0 0 0 1 td tr table 9 0
+Benatallah I-PER benatallah 1 1 0 0 0 0 1 td tr table 9 0
+Scientia O scientia 0 0 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+407 O 407 0 0 0 1 0 0 0 tr tbody table 8 3
+54767 O 54767 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Alan B-PER alan 1 1 0 0 0 0 1 td tr table 9 0
+Blair I-PER blair 1 1 0 0 0 0 1 td tr table 9 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody table 8 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Program O program 0 0 0 0 0 0 1 tr tbody table 8 2
+Director O director 0 1 0 0 0 0 1 tr tbody table 8 2
+- O - 0 0 0 0 0 0 0 tr tbody table 8 2
+Computer O computer 0 0 0 0 0 0 1 tr tbody table 8 2
+Science O science 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+412C O 412c 0 0 0 1 0 0 0 tr tbody table 8 3
+57131 O 57131 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Edwin B-PER edwin 0 1 0 0 0 0 1 td tr table 9 0
+Bonilla I-PER bonilla 0 1 0 0 0 0 1 td tr table 9 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody table 8 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+412B O 412b 0 0 0 1 0 0 0 tr tbody table 8 3
+56255 O 56255 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Richard B-PER richard 1 1 0 0 0 0 1 td tr table 9 0
+Buckland I-PER buckland 1 1 0 0 0 0 1 td tr table 9 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+210 O 210 0 0 0 1 0 0 0 tr tbody table 8 3
+54063 O 54063 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Xiongcai B-PER xiongcai 1 1 0 0 0 0 1 td tr table 9 0
+Cai I-PER cai 1 1 0 0 0 0 1 td tr table 9 0
+Adjunct O adjunct 0 0 0 0 0 0 1 tr tbody table 8 2
+Senior O senior 0 1 0 0 0 0 1 tr tbody table 8 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+217 O 217 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+10 O 10 0 0 0 1 0 0 0 tr tbody table 8 3
+58858 O 58858 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Xin B-PER xin 1 1 0 0 0 0 1 td tr table 9 0
+Cao I-PER cao 1 1 0 0 0 0 1 td tr table 9 0
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+201D O 201d 0 0 0 1 0 0 0 tr tbody table 8 3
+55317 O 55317 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Manuel B-PER manuel 0 1 0 0 0 0 1 td tr table 9 0
+Chakravarty I-PER chakravarty 0 1 0 0 0 0 1 td tr table 9 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+510C O 510c 0 0 0 1 0 0 0 tr tbody table 8 3
+54495 O 54495 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Chun B-PER chun 1 1 0 0 0 0 1 td tr table 9 0
+Tung I-PER tung 1 1 0 0 0 0 1 td tr table 9 0
+Chou I-PER chou 1 1 0 0 0 0 1 td tr table 9 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+608 O 608 0 0 0 1 0 0 0 tr tbody table 8 3
+57203 O 57203 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Peng B-PER peng 1 1 0 0 0 0 1 td tr table 9 0
+Di I-PER di 1 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+501J O 501j 0 0 0 1 0 0 0 tr tbody table 8 3
+56588 O 56588 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Oliver B-PER oliver 1 1 0 0 0 0 1 td tr table 9 0
+Diessel I-PER diessel 1 1 0 0 0 0 1 td tr table 9 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+501B O 501b 0 0 0 1 0 0 0 tr tbody table 8 3
+57384 O 57384 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Kevin B-PER kevin 1 1 0 0 0 0 1 td tr table 9 0
+Elphinstone I-PER elphinstone 1 1 0 0 0 0 1 td tr table 9 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+301 O 301 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Kai B-PER kai 1 1 0 0 0 0 1 td tr table 9 0
+Engelhardt I-PER engelhardt 1 1 0 0 0 0 1 td tr table 9 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody table 8 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+217C O 217c 0 0 0 1 0 0 0 tr tbody table 8 3
+54497 O 54497 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Angela B-PER angela 1 1 0 0 0 0 1 td tr table 9 0
+Finlayson I-PER finlayson 1 1 0 0 0 0 1 td tr table 9 0
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+201C O 201c 0 0 0 1 0 0 0 tr tbody table 8 3
+54025 O 54025 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Bruno B-PER bruno 0 1 0 0 0 0 1 td tr table 9 0
+Gaeta I-PER gaeta 0 1 0 0 0 0 1 td tr table 9 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody table 8 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Program O program 0 0 0 0 0 0 1 tr tbody table 8 2
+Director O director 0 1 0 0 0 0 1 tr tbody table 8 2
+- O - 0 0 0 0 0 0 0 tr tbody table 8 2
+Bioinformatics O bioinformatics 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+401C O 401c 0 0 0 1 0 0 0 tr tbody table 8 3
+57213 O 57213 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Serge B-PER serge 1 1 0 0 0 0 1 td tr table 9 0
+Gaspers I-PER gaspers 1 1 0 0 0 0 1 td tr table 9 0
+ARC O arc 0 0 0 0 0 0 1 tr tbody table 8 2
+Future O future 0 0 0 0 0 0 1 tr tbody table 8 2
+Fellow O fellow 0 0 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+506 O 506 0 0 0 1 0 0 0 tr tbody table 8 3
+56934 O 56934 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Lingkan B-PER lingkan 1 1 0 0 0 0 1 td tr table 9 0
+Gong I-PER gong 1 1 0 0 0 0 1 td tr table 9 0
+Post O post 0 1 0 0 0 0 1 tr tbody table 8 2
+- O - 0 0 0 0 0 0 0 tr tbody table 8 2
+Doc O doc 0 1 0 0 0 0 1 tr tbody table 8 2
+Fellow O fellow 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+217D O 217d 0 0 0 1 0 0 0 tr tbody table 8 3
+57738 O 57738 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Michael B-PER michael 1 1 0 0 0 0 1 td tr table 9 0
+James I-PER james 1 1 0 0 0 0 1 td tr table 9 0
+Gratton I-PER gratton 1 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+
+( O ( 0 0 0 0 0 0 0 font td table 10 0
+currently O currently 0 0 0 0 0 0 0 font td table 10 0
+on O on 0 0 0 0 0 0 0 font td table 10 0
+leave O leave 0 0 0 0 0 0 0 font td table 10 0
+) O ) 0 0 0 0 0 0 0 font td table 10 0
+
+J17 O j17 0 0 0 1 0 0 1 tr tbody table 8 5
+510J O 510j 0 0 0 1 0 0 0 tr tbody table 8 5
+- O - 0 0 0 0 0 0 0 tr tbody table 8 5
+02 O 02 0 0 0 1 0 0 0 tr tbody table 8 5
+56898 O 56898 0 0 0 1 0 0 0 tr tbody table 8 6
+
+Hui B-PER hui 0 1 0 0 0 0 1 td tr table 9 0
+Annie I-PER annie 0 1 0 0 0 0 1 td tr table 9 0
+Guo I-PER guo 0 1 0 0 0 0 1 td tr table 9 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody table 8 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Program O program 0 0 0 0 0 0 1 tr tbody table 8 2
+Director O director 0 1 0 0 0 0 1 tr tbody table 8 2
+- O - 0 0 0 0 0 0 0 tr tbody table 8 2
+Computer O computer 0 0 0 0 0 0 1 tr tbody table 8 2
+Engineering O engineering 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+501F O 501f 0 0 0 1 0 0 0 tr tbody table 8 3
+57136 O 57136 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Mahbub B-PER mahbub 1 1 0 0 0 0 1 td tr table 9 0
+Hassan I-PER hassan 1 1 0 0 0 0 1 td tr table 9 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+607 O 607 0 0 0 1 0 0 0 tr tbody table 8 3
+56198 O 56198 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Bradford B-PER bradford 1 1 0 0 0 0 1 td tr table 9 0
+Heap I-PER heap 1 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+401D O 401d 0 0 0 1 0 0 0 tr tbody table 8 3
+56929 O 56929 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Gernot B-PER gernot 1 1 0 0 0 0 1 td tr table 9 0
+Heiser I-PER heiser 1 1 0 0 0 0 1 td tr table 9 0
+Scientia O scientia 0 0 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+John O john 1 1 0 0 0 0 1 tr tbody table 8 2
+Lions O lions 1 1 0 0 0 0 1 tr tbody table 8 2
+Chair O chair 0 1 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+ACM O acm 0 0 0 0 0 0 1 tr tbody table 8 2
+Fellow O fellow 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+Level O level 0 1 0 0 0 0 1 tr tbody table 8 3
+3 O 3 0 0 0 1 0 0 0 tr tbody table 8 3
+94905850 O 94905850 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Bernhard B-PER bernhard 1 1 0 0 0 0 1 td tr table 9 0
+Hengst I-PER hengst 1 1 0 0 0 0 1 td tr table 9 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody table 8 2
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+( O ( 0 0 0 0 0 0 0 tr tbody table 8 2
+Level O level 0 1 0 0 0 0 1 tr tbody table 8 2
+B O b 0 1 0 0 0 0 1 tr tbody table 8 2
+) O ) 0 0 0 0 0 0 0 tr tbody table 8 2
+J17 O j17 0 0 0 1 0 0 1 tr tbody table 8 3
+510K O 510k 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+01 O 01 0 0 0 1 0 0 0 tr tbody table 8 3
+56929 O 56929 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Wen B-PER wen 1 1 0 0 0 0 1 td tr table 9 0
+Hu I-PER hu 1 1 0 0 0 0 1 td tr table 9 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody table 8 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+606 O 606 0 0 0 1 0 0 0 tr tbody table 8 3
+57679 O 57679 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Aleksandar B-PER aleksandar 1 1 0 0 0 0 1 td tr table 9 0
+Ignjatovic I-PER ignjatovic 1 1 0 0 0 0 1 td tr table 9 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+504 O 504 0 0 0 1 0 0 0 tr tbody table 8 3
+56659 O 56659 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Jayasinghe B-PER jayasinghe 0 1 0 0 0 0 1 td tr table 9 0
+Arachchige I-PER arachchige 0 1 0 0 0 0 1 td tr table 9 0
+Darshana I-PER darshana 0 1 0 0 0 0 1 td tr table 9 0
+Nayanajith I-PER nayanajith 0 1 0 0 0 0 1 td tr table 9 0
+Jayasinghe I-PER jayasinghe 0 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+PhD O phd 0 0 0 0 0 0 1 tr tbody table 8 2
+Student O student 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+510 O 510 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+04 O 04 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Sanjay B-PER sanjay 1 1 0 0 0 0 1 td tr table 9 0
+Jha I-PER jha 1 1 0 0 0 0 1 td tr table 9 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+501A O 501a 0 0 0 1 0 0 0 tr tbody table 8 3
+56471 O 56471 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Salil B-PER salil 1 1 0 0 0 0 1 td tr table 9 0
+Kanhere I-PER kanhere 1 1 0 0 0 0 1 td tr table 9 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Postgraduate O postgraduate 0 0 0 0 0 0 1 tr tbody table 8 2
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+and O and 0 1 0 0 0 0 0 tr tbody table 8 2
+Scholarship O scholarship 0 0 0 0 0 0 1 tr tbody table 8 2
+Co O co 0 1 0 0 0 0 1 tr tbody table 8 2
+- O - 0 0 0 0 0 0 0 tr tbody table 8 2
+ordinator O ordinator 0 0 0 0 0 0 0 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+612 O 612 0 0 0 1 0 0 0 tr tbody table 8 3
+56927 O 56927 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Gabriele B-PER gabriele 1 1 0 0 0 0 1 td tr table 9 0
+Keller I-PER keller 1 1 0 0 0 0 1 td tr table 9 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Grievance O grievance 0 0 0 0 0 0 1 tr tbody table 8 2
+Officer O officer 0 0 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+CSEâs O cseas 0 0 0 0 0 0 1 tr tbody table 8 2
+Equity O equity 0 0 0 0 0 0 1 tr tbody table 8 2
+and O and 0 1 0 0 0 0 0 tr tbody table 8 2
+DiversityÂ O diversitya 0 0 0 0 0 0 1 tr tbody table 8 2
+Coordinator O coordinator 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+501I O 501i 0 0 0 1 0 0 0 tr tbody table 8 3
+56032 O 56032 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Alfred B-PER alfred 1 1 0 0 0 0 1 td tr table 9 0
+Krzywicki I-PER krzywicki 1 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Fellow O fellow 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+401E O 401e 0 0 0 1 0 0 0 tr tbody table 8 3
+56993 O 56993 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Longbin B-PER longbin 1 1 0 0 0 0 1 td tr table 9 0
+Lai I-PER lai 1 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+201E O 201e 0 0 0 1 0 0 0 tr tbody table 8 3
+56012 O 56012 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Tuo B-PER tuo 1 1 0 0 0 0 1 td tr table 9 0
+Li I-PER li 1 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+501H O 501h 0 0 0 1 0 0 0 tr tbody table 8 3
+57386 O 57386 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Xuemin B-PER xuemin 1 1 0 0 0 0 1 td tr table 9 0
+Lin I-PER lin 1 1 0 0 0 0 1 td tr table 9 0
+Scientia O scientia 0 0 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+503 O 503 0 0 0 1 0 0 0 tr tbody table 8 3
+56493 O 56493 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Haojun B-PER haojun 0 1 0 0 0 0 1 td tr table 9 0
+Ma I-PER ma 0 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+208 O 208 0 0 0 1 0 0 0 tr tbody table 8 3
+54334 O 54334 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Nadine B-PER nadine 1 1 0 0 0 0 1 td tr table 9 0
+Marcus I-PER marcus 1 1 0 0 0 0 1 td tr table 9 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody table 8 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+401B O 401b 0 0 0 1 0 0 0 tr tbody table 8 3
+55173 O 55173 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Eric B-PER eric 1 1 0 0 0 0 1 td tr table 9 0
+Martin I-PER martin 1 1 0 0 0 0 1 td tr table 9 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody table 8 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Postgrad O postgrad 0 0 0 0 0 0 1 tr tbody table 8 2
+Coursework O coursework 0 0 0 0 0 0 1 tr tbody table 8 2
+Academic O academic 0 0 0 0 0 0 1 tr tbody table 8 2
+Advisor O advisor 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+409 O 409 0 0 0 1 0 0 0 tr tbody table 8 3
+56936 O 56936 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Trevor B-PER trevor 0 1 0 0 0 0 1 td tr table 9 0
+Lee I-PER lee 1 1 0 0 0 0 1 td tr table 9 0
+Mcdonell I-PER mcdonell 0 0 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+301 O 301 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Carroll B-PER carroll 1 1 0 0 0 0 1 td tr table 9 0
+Morgan I-PER morgan 1 1 0 0 0 0 1 td tr table 9 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+301 O 301 0 0 0 1 0 0 0 tr tbody table 8 3
+
+David B-PER david 0 1 0 0 0 0 1 td tr table 9 0
+Muchlinski I-PER muchlinski 0 0 0 0 0 0 1 td tr table 9 0
+Post O post 0 1 0 0 0 0 1 tr tbody table 8 2
+Doctoral O doctoral 0 0 0 0 0 0 1 tr tbody table 8 2
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Fellow O fellow 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+412 O 412 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+02 O 02 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Daniel B-PER daniel 1 1 0 0 0 0 1 td tr table 9 0
+Murphy I-PER murphy 1 1 0 0 0 0 1 td tr table 9 0
+Casual O casual 0 0 0 0 0 0 1 tr tbody table 8 2
+Academic O academic 0 0 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Student O student 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+510 O 510 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+01 O 01 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Maurice B-PER maurice 1 1 0 0 0 0 1 td tr table 9 0
+Pagnucco I-PER pagnucco 1 1 0 0 0 0 1 td tr table 9 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Head O head 0 1 0 0 0 0 1 tr tbody table 8 2
+of O of 0 1 0 0 0 0 0 tr tbody table 8 2
+School O school 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+104A O 104a 0 0 0 1 0 0 0 tr tbody table 8 3
+55518 O 55518 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Helen B-PER helen 0 1 0 0 0 0 1 td tr table 9 0
+Hye I-PER hye 0 1 0 0 0 0 1 td tr table 9 0
+- I-PER - 0 0 0 0 0 0 0 td tr table 9 0
+Young I-PER young 0 1 0 0 0 0 1 td tr table 9 0
+Paik I-PER paik 0 1 0 0 0 0 1 td tr table 9 0
+UG O ug 0 0 0 0 0 0 1 tr tbody table 8 2
+Thesis O thesis 0 0 0 0 0 0 1 tr tbody table 8 2
+Coordinator O coordinator 0 0 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Senior O senior 0 1 0 0 0 0 1 tr tbody table 8 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+401A O 401a 0 0 0 1 0 0 0 tr tbody table 8 3
+54095 O 54095 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Sri B-PER sri 1 1 0 0 0 0 1 td tr table 9 0
+Parameswaran I-PER parameswaran 1 1 0 0 0 0 1 td tr table 9 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+510D O 510d 0 0 0 1 0 0 0 tr tbody table 8 3
+57223 O 57223 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Jorgen B-PER jorgen 1 1 0 0 0 0 1 td tr table 9 0
+Peddersen I-PER peddersen 1 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+501E O 501e 0 0 0 1 0 0 0 tr tbody table 8 3
+57229 O 57229 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Marcosiris B-PER marcosiris 0 1 0 0 0 0 1 td tr table 9 0
+Pessoa I-PER pessoa 0 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+Visitor O visitor 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+201 O 201 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+30 O 30 0 0 0 1 0 0 0 tr tbody table 8 3
+57161 O 57161 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Jianbin B-PER jianbin 1 1 0 0 0 0 1 td tr table 9 0
+Qin I-PER qin 1 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+217E O 217e 0 0 0 1 0 0 0 tr tbody table 8 3
+57738 O 57738 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Fethi B-PER fethi 1 1 0 0 0 0 1 td tr table 9 0
+Rabhi I-PER rabhi 1 1 0 0 0 0 1 td tr table 9 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Program O program 0 0 0 0 0 0 1 tr tbody table 8 2
+Director O director 0 1 0 0 0 0 1 tr tbody table 8 2
+- O - 0 0 0 0 0 0 0 tr tbody table 8 2
+Software O software 0 1 0 0 0 0 1 tr tbody table 8 2
+Engineering O engineering 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+406 O 406 0 0 0 1 0 0 0 tr tbody table 8 3
+54179 O 54179 0 0 0 1 0 0 0 tr tbody table 8 4
+
+David B-PER david 1 1 0 0 0 0 1 td tr table 9 0
+Rajaratnam I-PER rajaratnam 1 1 0 0 0 0 1 td tr table 9 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody table 8 2
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+J17 O j17 0 0 0 1 0 0 1 tr tbody table 8 3
+510K O 510k 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+02 O 02 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Carlos B-PER carlos 1 1 0 0 0 0 1 td tr table 9 0
+Rodriguez I-PER rodriguez 1 1 0 0 0 0 1 td tr table 9 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody table 8 2
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+216 O 216 0 0 0 1 0 0 0 tr tbody table 8 3
+54535 O 54535 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Stefan B-PER stefan 0 1 0 0 0 0 1 td tr table 9 0
+Rummele I-PER rummele 0 0 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+501G O 501g 0 0 0 1 0 0 0 tr tbody table 8 3
+56926 O 56926 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Abdallah B-PER abdallah 1 1 0 0 1 0 1 td tr table 9 0
+Saffidine I-PER saffidine 1 1 0 0 0 0 1 td tr table 9 0
+ARC O arc 0 0 0 0 0 0 1 tr tbody table 8 2
+DECRA O decra 0 0 0 0 0 0 1 tr tbody table 8 2
+Fellow O fellow 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+510B O 510b 0 0 0 1 0 0 0 tr tbody table 8 3
+56496 O 56496 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Claude B-PER claude 1 1 0 0 0 0 1 td tr table 9 0
+Sammut I-PER sammut 1 1 0 0 0 0 1 td tr table 9 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Committee O committee 0 0 0 0 0 0 1 tr tbody table 8 2
+Chair O chair 0 1 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Deputy O deputy 0 0 0 0 0 0 1 tr tbody table 8 2
+Head O head 0 1 0 0 0 0 1 tr tbody table 8 2
+of O of 0 1 0 0 0 0 0 tr tbody table 8 2
+School O school 0 1 0 0 0 0 1 tr tbody table 8 2
+( O ( 0 0 0 0 0 0 0 tr tbody table 8 2
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+) O ) 0 0 0 0 0 0 0 tr tbody table 8 2
+J17 O j17 0 0 0 1 0 0 1 tr tbody table 8 3
+510A O 510a 0 0 0 1 0 0 0 tr tbody table 8 3
+56932 O 56932 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Michael B-PER michael 0 1 0 0 0 0 1 td tr table 9 0
+Schofield I-PER schofield 0 1 0 0 0 0 1 td tr table 9 0
+PhD O phd 0 0 0 0 0 0 1 tr tbody table 8 2
+Student O student 0 1 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Adjunct O adjunct 0 0 0 0 0 0 1 tr tbody table 8 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+J17 O j17 0 0 0 1 0 0 1 tr tbody table 8 3
+510 O 510 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+31 O 31 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Christoph B-PER christoph 1 1 0 0 0 0 1 td tr table 9 0
+Schwering I-PER schwering 1 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+J17 O j17 0 0 0 1 0 0 1 tr tbody table 8 3
+510J O 510j 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+01 O 01 0 0 0 1 0 0 0 tr tbody table 8 3
+56898 O 56898 0 0 0 1 0 0 0 tr tbody table 8 4
+
+John B-PER john 1 1 0 0 0 0 1 td tr table 9 0
+Shepherd I-PER shepherd 1 1 0 0 0 0 1 td tr table 9 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody table 8 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Education O education 0 0 0 0 0 0 1 tr tbody table 8 2
+Committee O committee 0 0 0 0 0 0 1 tr tbody table 8 2
+Chair O chair 0 1 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Deputy O deputy 0 0 0 0 0 0 1 tr tbody table 8 2
+Head O head 0 1 0 0 0 0 1 tr tbody table 8 2
+of O of 0 1 0 0 0 0 0 tr tbody table 8 2
+School O school 0 1 0 0 0 0 1 tr tbody table 8 2
+( O ( 0 0 0 0 0 0 0 tr tbody table 8 2
+Education O education 0 0 0 0 0 0 1 tr tbody table 8 2
+) O ) 0 0 0 0 0 0 0 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+410 O 410 0 0 0 1 0 0 0 tr tbody table 8 3
+56494 O 56494 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Arcot B-PER arcot 1 1 0 0 0 0 1 td tr table 9 0
+Sowmya I-PER sowmya 1 1 0 0 0 0 1 td tr table 9 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+412E O 412e 0 0 0 1 0 0 0 tr tbody table 8 3
+56933 O 56933 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Yulei B-PER yulei 1 1 0 0 0 0 1 td tr table 9 0
+Sui I-PER sui 1 1 0 0 0 0 1 td tr table 9 0
+ARC O arc 0 0 0 0 0 0 1 tr tbody table 8 2
+DECRA O decra 0 0 0 0 0 0 1 tr tbody table 8 2
+Fellow O fellow 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+501K O 501k 0 0 0 1 0 0 0 tr tbody table 8 3
+57369 O 57369 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Yifang B-PER yifang 1 1 0 0 0 0 1 td tr table 9 0
+Sun I-PER sun 1 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+208 O 208 0 0 0 1 0 0 0 tr tbody table 8 3
+54334 O 54334 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Andrew B-PER andrew 1 1 0 0 1 0 1 td tr table 9 0
+Taylor I-PER taylor 1 1 0 0 0 0 1 td tr table 9 0
+Senior O senior 0 1 0 0 0 0 1 tr tbody table 8 2
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+CSEâsÂ O cseasa 0 0 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+Head O head 0 1 0 0 0 0 1 tr tbody table 8 2
+of O of 0 1 0 0 0 0 0 tr tbody table 8 2
+School O school 0 1 0 0 0 0 1 tr tbody table 8 2
+( O ( 0 0 0 0 0 0 0 tr tbody table 8 2
+Education O education 0 0 0 0 0 0 1 tr tbody table 8 2
+) O ) 0 0 0 0 0 0 0 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+401G O 401g 0 0 0 1 0 0 0 tr tbody table 8 3
+55525 O 55525 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Michael B-PER michael 1 1 0 0 0 0 1 td tr table 9 0
+Thielscher I-PER thielscher 1 1 0 0 0 0 1 td tr table 9 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+401J O 401j 0 0 0 1 0 0 0 tr tbody table 8 3
+57129 O 57129 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Ron B-PER ron 0 1 0 0 0 0 1 td tr table 9 0
+Van I-PER van 0 1 0 0 0 0 1 td tr table 9 0
+Der I-PER der 0 1 0 0 0 0 1 td tr table 9 0
+Meyden I-PER meyden 0 1 0 0 0 0 1 td tr table 9 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+217F O 217f 0 0 0 1 0 0 0 tr tbody table 8 3
+56922 O 56922 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Toby B-PER toby 1 1 0 0 0 0 1 td tr table 9 0
+Walsh I-PER walsh 1 1 0 0 0 0 1 td tr table 9 0
+Data61 O data61 0 0 0 1 0 0 1 tr tbody table 8 2
+Chair O chair 0 1 0 0 0 0 1 tr tbody table 8 2
+in O in 0 1 0 0 0 0 0 tr tbody table 8 2
+Artificial O artificial 0 0 0 0 0 0 1 tr tbody table 8 2
+Intelligence O intelligence 0 0 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+311 O 311 0 0 0 1 0 0 0 tr tbody table 8 3
+
+Wei B-PER wei 1 1 0 0 0 0 1 td tr table 9 0
+Wang I-PER wang 1 1 0 0 0 0 1 td tr table 9 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+507 O 507 0 0 0 1 0 0 0 tr tbody table 8 3
+57162 O 57162 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Timothy B-PER timothy 1 1 0 0 0 0 1 td tr table 9 0
+Wiley I-PER wiley 1 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Post O post 0 1 0 0 0 0 1 tr tbody table 8 2
+- O - 0 0 0 0 0 0 0 tr tbody table 8 2
+Doc O doc 0 1 0 0 0 0 1 tr tbody table 8 2
+Fellow O fellow 0 0 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+PhD O phd 0 0 0 0 0 0 1 tr tbody table 8 2
+Student O student 0 1 0 0 0 0 1 tr tbody table 8 2
+J17 O j17 0 0 0 1 0 0 1 tr tbody table 8 3
+510L O 510l 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+01 O 01 0 0 0 1 0 0 0 tr tbody table 8 3
+51607 O 51607 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Wayne B-PER wayne 1 1 0 0 0 0 1 td tr table 9 0
+Wobcke I-PER wobcke 1 1 0 0 0 0 1 td tr table 9 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+401F O 401f 0 0 0 1 0 0 0 tr tbody table 8 3
+56475 O 56475 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Raymond B-PER raymond 1 1 0 0 0 0 1 td tr table 9 0
+Wong I-PER wong 1 1 0 0 0 0 1 td tr table 9 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+213 O 213 0 0 0 1 0 0 0 tr tbody table 8 3
+55932 O 55932 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Hui B-PER hui 1 1 0 0 0 0 1 td tr table 9 0
+Wu I-PER wu 1 1 0 0 0 0 1 td tr table 9 0
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+501D O 501d 0 0 0 1 0 0 0 tr tbody table 8 3
+56572 O 56572 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Xinwei B-PER xinwei 1 1 0 0 0 0 1 td tr table 9 0
+Xie I-PER xie 1 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+501C O 501c 0 0 0 1 0 0 0 tr tbody table 8 3
+55930 O 55930 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Weitao B-PER weitao 1 1 0 0 0 0 1 td tr table 9 0
+Xu I-PER xu 1 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+Exchange O exchange 0 0 0 0 0 0 1 tr tbody table 8 2
+Student O student 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+401 O 401 0 0 0 1 0 0 0 tr tbody table 8 3
+- O - 0 0 0 0 0 0 0 tr tbody table 8 3
+09 O 09 0 0 0 1 0 0 0 tr tbody table 8 3
+56908 O 56908 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Jingling B-PER jingling 1 1 0 0 0 0 1 td tr table 9 0
+Xue I-PER xue 1 1 0 0 0 0 1 td tr table 9 0
+Scientia O scientia 0 0 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+501L O 501l 0 0 0 1 0 0 0 tr tbody table 8 3
+54889 O 54889 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Lina B-PER lina 1 1 0 0 0 0 1 td tr table 9 0
+Yao I-PER yao 1 1 0 0 0 0 1 td tr table 9 0
+Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+ARC O arc 0 0 0 0 0 0 1 tr tbody table 8 2
+DECRA O decra 0 0 0 0 0 0 1 tr tbody table 8 2
+Fellow O fellow 0 0 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+401I O 401i 0 0 0 1 0 0 0 tr tbody table 8 3
+56556 O 56556 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Ding B-PER ding 1 1 0 0 0 0 1 td tr table 9 0
+Ye I-PER ye 1 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+501C O 501c 0 0 0 1 0 0 0 tr tbody table 8 3
+55930 O 55930 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Long B-PER long 1 1 0 0 0 0 1 td tr table 9 0
+Yuan I-PER yuan 1 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+201E O 201e 0 0 0 1 0 0 0 tr tbody table 8 3
+56012 O 56012 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Wenjie B-PER wenjie 1 1 0 0 0 0 1 td tr table 9 0
+Zhang I-PER zhang 1 1 0 0 0 0 1 td tr table 9 0
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+Professor O professor 0 0 0 0 1 0 1 tr tbody table 8 2
+& O & 0 0 0 0 0 0 0 tr tbody table 8 2
+CSEâs O cseas 0 0 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+Head O head 0 1 0 0 0 0 1 tr tbody table 8 2
+of O of 0 1 0 0 0 0 0 tr tbody table 8 2
+SchoolÂ O schoola 0 0 0 0 0 0 1 tr tbody table 8 2
+( O ( 0 0 0 0 0 0 0 tr tbody table 8 2
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+) O ) 0 0 0 0 0 0 0 tr tbody table 8 2
+K17 O k17 0 0 0 1 0 0 1 tr tbody table 8 3
+502 O 502 0 0 0 1 0 0 0 tr tbody table 8 3
+57799 O 57799 0 0 0 1 0 0 0 tr tbody table 8 4
+
+Xiaoling B-PER xiaoling 1 1 0 0 0 0 1 td tr table 9 0
+Zhou I-PER zhou 1 1 0 0 0 0 1 td tr table 9 0
+Research O research 0 1 0 0 0 0 1 tr tbody table 8 2
+Associate O associate 0 1 0 0 0 0 1 tr tbody table 8 2
+217E O 217e 0 0 0 1 0 0 0 tr tbody table 8 3
+57738 O 57738 0 0 0 1 0 0 0 tr tbody table 8 4
+
+76 O 76 0 0 0 1 0 0 0 tbody table table 7 458
+records O records 0 0 0 0 0 0 0 tbody table table 7 458
+found O found 0 0 0 0 0 0 0 tbody table table 7 458
+
+SCHOOL O school 0 0 0 0 0 0 1 div footer text-muted 6 0
+OF O of 0 0 0 0 0 0 1 div footer text-muted 6 0
+COMPUTER O computer 0 0 0 0 0 0 1 div footer text-muted 6 0
+SCIENCE O science 0 0 0 0 0 0 1 div footer text-muted 6 0
+AND O and 0 0 0 0 0 0 1 div footer text-muted 6 0
+ENGINEERING O engineering 0 0 0 0 0 0 1 div footer text-muted 6 0
+
+UNSW O unsw 0 0 0 0 0 0 1 div footer text-muted 6 0
+SYDNEY O sydney 0 0 0 0 0 0 1 div footer text-muted 6 0
+NSW O nsw 0 0 0 0 0 0 1 div footer text-muted 6 0
+2052 O 2052 0 0 0 1 0 0 0 div footer text-muted 6 0
+AUSTRALIA O australia 0 0 0 0 0 0 1 div footer text-muted 6 0
+
+TELEPHONE O telephone 0 0 0 0 0 0 1 div footer text-muted 6 0
++61 O +61 0 0 0 1 0 0 0 div footer text-muted 6 0
+2 O 2 0 0 0 1 0 0 0 div footer text-muted 6 0
+9385 O 9385 0 0 0 1 0 0 0 div footer text-muted 6 0
+4329 O 4329 0 0 0 1 0 0 0 div footer text-muted 6 0
+
+CRICOS O cricos 0 0 0 0 0 0 1 div footer text-muted 6 0
+PROVIDER O provider 0 0 0 0 0 0 1 div footer text-muted 6 0
+CODE O code 0 0 0 0 0 0 1 div footer text-muted 6 0
+00098G O 00098g 0 0 0 1 0 0 0 div footer text-muted 6 0
+ABN O abn 0 0 0 0 0 0 1 div footer text-muted 6 0
+57 O 57 0 0 0 1 0 0 0 div footer text-muted 6 0
+195 O 195 0 0 0 1 0 0 0 div footer text-muted 6 0
+873 O 873 0 0 0 1 0 0 0 div footer text-muted 6 0
+179 O 179 0 0 0 1 0 0 0 div footer text-muted 6 0

@@ -1,359 +1,423 @@
-Profesores O 0 0 head html none 4 8
-— O 0 0 head html none 4 8
-Departamento O 0 0 head html none 4 8
-de O 0 1 head html none 4 8
-Computación O 0 0 head html none 4 8
-
-Cambiar O 0 0 p div hiddenStructure 8 0
-a O 0 1 p div hiddenStructure 8 0
-contenido. O 0 0 p div hiddenStructure 8 0
-| O 0 0 div div hiddenStructure 7 0
-Saltar O 0 0 p div hiddenStructure 8 1
-a O 0 1 p div hiddenStructure 8 1
-navegación O 0 0 p div hiddenStructure 8 1
-
-Secciones O 0 0 div div hiddenStructure 7 16
-
-El O 0 1 div div dropdown-content 10 0
-Departamento O 0 0 div div dropdown-content 10 0
-Autoridades O 0 0 div div dropdown-content 10 1
-Nuestros O 0 0 div div dropdown-content 10 2
-Profesores O 0 0 div div dropdown-content 10 2
-Programa O 0 0 div div dropdown-content 10 3
-de O 0 1 div div dropdown-content 10 3
-Igualdad O 0 0 div div dropdown-content 10 3
-de O 0 1 div div dropdown-content 10 3
-Género O 0 0 div div dropdown-content 10 3
-Contacto O 0 0 div div dropdown-content 10 4
-
-Licenciatura O 0 0 div div dropdown-content 10 0
-en O 0 0 div div dropdown-content 10 0
-Ciencias O 0 1 div div dropdown-content 10 0
-de O 0 1 div div dropdown-content 10 0
-la O 0 1 div div dropdown-content 10 0
-Computación O 0 0 div div dropdown-content 10 0
-Profesorado O 0 0 div div dropdown-content 10 1
-en O 0 0 div div dropdown-content 10 1
-Ciencias O 0 1 div div dropdown-content 10 1
-de O 0 1 div div dropdown-content 10 1
-la O 0 1 div div dropdown-content 10 1
-Computación O 0 0 div div dropdown-content 10 1
-Maestría O 0 0 div div dropdown-content 10 2
-en O 0 0 div div dropdown-content 10 2
-Data O 0 1 div div dropdown-content 10 2
-Mining O 0 0 div div dropdown-content 10 2
-Doctorado O 0 0 div div dropdown-content 10 3
-en O 0 0 div div dropdown-content 10 3
-Ciencias O 0 1 div div dropdown-content 10 3
-de O 0 1 div div dropdown-content 10 3
-la O 0 1 div div dropdown-content 10 3
-Computación O 0 0 div div dropdown-content 10 3
-
-Instituto O 0 0 div div dropdown-content 10 0
-UBA/CONICET O 0 0 div div dropdown-content 10 0
-de O 0 1 div div dropdown-content 10 0
-Ciencias O 0 1 div div dropdown-content 10 0
-de O 0 1 div div dropdown-content 10 0
-la O 0 1 div div dropdown-content 10 0
-Computación O 0 0 div div dropdown-content 10 0
-Áreas O 0 0 div div dropdown-content 10 1
-de O 0 1 div div dropdown-content 10 1
-Investigación O 0 0 div div dropdown-content 10 1
-Investigadores O 0 0 div div dropdown-content 10 2
-Publicaciones O 0 0 div div dropdown-content 10 3
-Vinculación O 0 0 div div dropdown-content 10 4
-
-Semana O 0 0 div div dropdown-content 10 0
-de O 0 1 div div dropdown-content 10 0
-la O 0 1 div div dropdown-content 10 0
-Computación O 0 0 div div dropdown-content 10 0
-Talleres O 0 0 div div dropdown-content 10 1
-y O 0 1 div div dropdown-content 10 1
-cursos O 0 0 div div dropdown-content 10 1
-
-Herramientas O 0 0 div div hiddenStructure 7 0
-Personales O 0 0 div div hiddenStructure 7 0
-
-Usted O 0 0 div div template-document_view.portaltype-document.site-Plone.section-inst 7 0
-está O 0 0 div div template-document_view.portaltype-document.site-Plone.section-inst 7 0
-aquí: O 0 0 div div template-document_view.portaltype-document.site-Plone.section-inst 7 0
-Inicio O 0 0 span div template-document_view.portaltype-document.site-Plone.section-inst 8 0
-/ O 0 0 span div breadcrumbSeparator 8 1
-Institucional O 0 0 span div template-document_view.portaltype-document.site-Plone.section-inst 8 0
-/ O 0 0 span div breadcrumbSeparator 8 1
-Profesores O 0 0 span div template-document_view.portaltype-document.site-Plone.section-inst 8 0
-
-¿Cómo O 0 0 a div portletHeader 16 0
-llegar? O 0 0 a div portletHeader 16 0
-
-Contacto O 0 0 a div portletHeader 16 0
-
-Premios O 0 0 dt dl tile 16 1
-[Ver O 0 0 dt dl tile 16 1
-+] O 0 0 dt dl tile 16 1
-
-2017 O 0 0 span a portletItemDetails 18 0
-
-- O 0 0 dd dl tile 16 0
-Premio O 0 0 dd dl tile 16 0
-Google O 0 0 dd dl tile 16 0
-a O 0 1 dd dl tile 16 0
-Docente O 0 0 dd dl tile 16 0
-y O 0 1 dd dl tile 16 0
-Estudiante O 0 0 dd dl tile 16 0
-
-2017 O 0 0 span a portletItemDetails 18 0
-
-- O 0 0 dd dl tile 16 0
-Premio O 0 0 dd dl tile 16 0
-a O 0 1 dd dl tile 16 0
-nuestros O 0 0 dd dl tile 16 0
-doctorandos O 0 0 dd dl tile 16 0
-
-2017 O 0 0 span a portletItemDetails 18 0
-
-- O 0 0 dd dl tile 16 0
-Premio O 0 0 dd dl tile 16 0
-Paul O 0 1 dd dl tile 16 0
-Ehrenfest O 0 0 dd dl tile 16 0
-a O 0 1 dd dl tile 16 0
-nuestros O 0 0 dd dl tile 16 0
-investigadores O 0 0 dd dl tile 16 0
-
-Info O 0 0 dl div portalMessage.info 11 0
-
-Profesores O 0 0 div div documentFirstHeading 11 0
-
-Baader, B-NAME 0 0 li ol  15 0
-Rodolfo I-NAME 0 1 li ol  15 0
-
-Becher, B-NAME 0 0 li ol  15 0
-Verónica I-NAME 0 1 li ol  15 0
-
-Bonomo, B-NAME 0 0 li ol  15 0
-Flavia I-NAME 0 1 li ol  15 0
-
-Braberman, B-NAME 0 0 li ol  15 0
-Victor I-NAME 1 1 li ol  15 0
-
-Castro, B-NAME 0 0 li ol external-link 15 0
-Rodrigo I-NAME 0 1 li ol external-link 15 0
-
-Ceria, B-NAME 0 0 li ol  15 0
-Santiago I-NAME 0 1 li ol  15 0
-
-De B-NAME 0 1 li ol  15 0
-Cristóforis, I-NAME 0 0 li ol  15 0
-Pablo I-NAME 0 1 li ol  15 0
-
-D'Ippolito, B-NAME 0 0 li ol  15 0
-Nicolas I-NAME 0 1 li ol  15 0
-
-Fernández B-NAME 0 1 li ol  15 0
-Slezak, I-NAME 0 0 li ol  15 0
-Diego I-NAME 0 1 li ol  15 0
-
-Feuerstein, B-NAME 0 0 li ol  15 0
-Esteban I-NAME 0 1 li ol  15 0
-
-Figueira, B-NAME 0 0 li ol  15 0
-Santiago I-NAME 0 1 li ol  15 0
-
-Furfaro, B-NAME 0 0 li ol  15 0
-Alejandro I-NAME 0 1 li ol  15 0
-Julio I-NAME 0 1 li ol  15 0
-
-Galeotti, B-NAME 0 0 li ol  15 0
-Juan I-NAME 0 1 li ol  15 0
-Pablo I-NAME 0 1 li ol  15 0
-
-Garbervetsky, B-NAME 0 0 li ol  15 0
-Diego I-NAME 0 1 li ol  15 0
-
-Gravano, B-NAME 0 0 li ol  15 0
-Agustín I-NAME 0 1 li ol  15 0
-
-Jacobo B-NAME 0 1 li ol  15 0
-Berlles, I-NAME 0 0 li ol  15 0
-Julio I-NAME 0 1 li ol  15 0
-
-Lin, B-NAME 0 0 li ol  15 0
-Min I-NAME 1 1 li ol  15 0
-Chih I-NAME 0 1 li ol  15 0
-
-Loiseau, B-NAME 0 0 li ol  15 0
-Irene I-NAME 0 1 li ol  15 0
-
-López B-NAME 0 1 li ol  15 0
-Pombo, I-NAME 0 0 li ol  15 0
-Carlos I-NAME 0 1 li ol  15 0
-
-Marenco, B-NAME 0 0 li ol  15 0
-Javier I-NAME 1 1 li ol  15 0
-
-Mejail, B-NAME 0 0 li ol  15 0
-Marta I-NAME 0 1 li ol  15 0
-Estela I-NAME 0 1 li ol  15 0
-
-Melgratti, B-NAME 0 0 li ol  15 0
-Hernán I-NAME 0 1 li ol  15 0
-
-Mendez B-NAME 0 1 li ol  15 0
-Diaz, I-NAME 0 0 li ol  15 0
-Isabel I-NAME 0 1 li ol  15 0
-
-Mocskos, B-NAME 0 0 li ol  15 0
-Esteban I-NAME 0 1 li ol  15 0
-Eduardo I-NAME 0 1 li ol  15 0
-
-Righetti, B-NAME 0 0 li ol  15 0
-Claudio I-NAME 0 1 li ol  15 0
-Enrique I-NAME 0 1 li ol  15 0
-
-Rios, B-NAME 0 0 li ol  15 0
-Alejandro I-NAME 0 1 li ol  15 0
-
-Risk, B-NAME 0 0 li ol  15 0
-Marcelo I-NAME 0 1 li ol  15 0
-
-Rodriguez, B-NAME 0 0 li ol  15 0
-Ricardo I-NAME 0 1 li ol  15 0
-
-Ruz, B-NAME 0 0 li ol  15 0
-Cecilia I-NAME 0 1 li ol  15 0
-
-Schapachnik, B-NAME 0 0 li ol  15 0
-Fernando I-NAME 0 1 li ol  15 0
-Pablo I-NAME 0 1 li ol  15 0
-
-Segura, B-NAME 0 0 li ol  15 0
-Enrique I-NAME 0 1 li ol  15 0
-Carlos I-NAME 0 1 li ol  15 0
-
-Soulignac, B-NAME 0 0 li ol  15 0
-Francisco I-NAME 0 1 li ol  15 0
-
-Turjanski, B-NAME 0 0 li ol  15 0
-Pablo I-NAME 0 1 li ol  15 0
-
-Urtasun, B-NAME 0 0 li ol  15 0
-Martin I-NAME 0 1 li ol  15 0
-
-Wilkinson, B-NAME 0 0 li ol  15 0
-Hernán I-NAME 0 1 li ol  15 0
-
-Yovine, B-NAME 0 0 li ol external-link 15 0
-Sergio I-NAME 0 1 li ol external-link 15 0
-
-Zabala, B-NAME 0 0 li ol  15 0
-Paula I-NAME 0 1 li ol  15 0
-
-Profesores O 0 0 h2 div  14 0
-Eméritos O 0 0 h2 div  14 0
-
-Heintz, B-NAME 0 0 li ul  16 0
-Joos I-NAME 0 1 li ul  16 0
-
-Jacovkis, B-NAME 0 0 li ul  16 0
-Pablo I-NAME 0 1 li ul  16 0
-
-Profesores O 0 0 h2 div  14 0
-Consultos O 0 0 h2 div  14 0
-
-Marshall, B-NAME 0 0 li ul  16 0
-Guillermo I-NAME 0 1 li ul  16 0
-
-Scolnik, B-NAME 0 0 li ul  16 0
-Hugo I-NAME 0 1 li ul  16 0
-
-Agenda O 0 0 dt dl tile 15 1
-[Ver O 0 0 dt dl tile 15 1
-+] O 0 0 dt dl tile 15 1
-
-Workshop O 0 0 dd dl tile 15 0
-INFINIS O 0 0 dd dl tile 15 0
-
-19/10/2017 O 0 0 span dd portletItemDetails 16 0
-9:30 O 0 0 span dd portletItemDetails 16 0
-
-Defensa O 0 0 dd dl tile 15 0
-Tesis O 0 0 dd dl tile 15 0
-Licenciatura O 0 0 dd dl tile 15 0
-Pablo O 0 1 dd dl tile 15 0
-Antonio O 0 1 dd dl tile 15 0
-
-11/10/2017 O 0 0 span dd portletItemDetails 16 0
-16:00 O 0 0 span dd portletItemDetails 16 0
-
-— O 0 0 dd dl portletItemDetails 15 1
-Laboratorio O 0 0 dd dl portletItemDetails 15 1
-5 O 0 0 dd dl portletItemDetails 15 1
-
-Noticias O 0 0 dt dl tile 15 1
-[Ver O 0 0 dt dl tile 15 1
-+] O 0 0 dt dl tile 15 1
-
-Alumno O 0 0 dd dl external-link 15 0
-del O 0 1 dd dl external-link 15 0
-DC O 0 0 dd dl external-link 15 0
-obtiene O 0 0 dd dl external-link 15 0
-beca O 0 0 dd dl external-link 15 0
-para O 0 0 dd dl external-link 15 0
-trabajar O 0 0 dd dl external-link 15 0
-en O 0 0 dd dl external-link 15 0
-Canadá O 0 0 dd dl external-link 15 0
-
-25/09/2017 O 0 0 span dd portletItemDetails 16 0
-
-Aventuras O 0 0 dd dl external-link 15 0
-computacionales O 0 0 dd dl external-link 15 0
-
-22/09/2017 O 0 0 span dd portletItemDetails 16 0
-
-Estudiantes O 0 0 dd dl external-link 15 0
-de O 0 1 dd dl external-link 15 0
-la O 0 1 dd dl external-link 15 0
-Carrera O 0 1 dd dl external-link 15 0
-ganadores O 0 0 dd dl external-link 15 0
-de O 0 1 dd dl external-link 15 0
-una O 0 0 dd dl external-link 15 0
-competencia O 0 0 dd dl external-link 15 0
-de O 0 1 dd dl external-link 15 0
-seguridad O 0 0 dd dl external-link 15 0
-informática O 0 0 dd dl external-link 15 0
-
-20/09/2017 O 0 0 span dd portletItemDetails 16 0
-
-Departamento O 0 0 div div template-document_view.portaltype-document.site-Plone.section-inst 6 0
-de O 0 1 div div template-document_view.portaltype-document.site-Plone.section-inst 6 0
-Computación, O 0 0 div div template-document_view.portaltype-document.site-Plone.section-inst 6 0
-Pabellón O 0 0 div div template-document_view.portaltype-document.site-Plone.section-inst 6 0
-I, O 0 0 div div template-document_view.portaltype-document.site-Plone.section-inst 6 0
-Ciudad O 0 1 div div template-document_view.portaltype-document.site-Plone.section-inst 6 0
-Universitaria, O 0 0 div div template-document_view.portaltype-document.site-Plone.section-inst 6 0
-C1428EGA, O 0 0 div div template-document_view.portaltype-document.site-Plone.section-inst 6 0
-CABA O 0 0 div div template-document_view.portaltype-document.site-Plone.section-inst 6 0
-
-(54.11) O 0 0 div div template-document_view.portaltype-document.site-Plone.section-inst 6 0
-4576-⁠3359, O 0 0 div div template-document_view.portaltype-document.site-Plone.section-inst 6 0
-4576-⁠3390/⁠96 O 0 0 div div template-document_view.portaltype-document.site-Plone.section-inst 6 0
-int O 0 0 div div template-document_view.portaltype-document.site-Plone.section-inst 6 0
-701, O 0 0 div div template-document_view.portaltype-document.site-Plone.section-inst 6 0
-secretaria(a)dc.uba.ar O 0 0 div div template-document_view.portaltype-document.site-Plone.section-inst 6 0
-
-Powered O 0 0 li ul colophonWrapper 9 0
-by O 0 1 li ul colophonWrapper 9 0
-Plone O 0 0 li ul colophonWrapper 9 0
-& O 0 0 li ul colophonWrapper 9 0
-Python O 0 1 li ul colophonWrapper 9 0
-
-Valid O 0 1 li ul colophonWrapper 9 0
-XHTML O 0 0 li ul colophonWrapper 9 0
-
-Valid O 0 1 li ul colophonWrapper 9 0
-CSS O 0 0 li ul colophonWrapper 9 0
-
-Section O 0 1 li ul colophonWrapper 9 0
-508 O 0 0 li ul colophonWrapper 9 0
-
-WCAG O 0 0 li ul colophonWrapper 9 0
+Profesores O profesores 0 0 0 0 1 0 1 head html none 4 8
+— O — 0 0 0 0 0 0 0 head html none 4 8
+Departamento O departamento 0 0 0 0 0 0 1 head html none 4 8
+de O de 0 1 0 0 0 0 0 head html none 4 8
+Computación O computacion 0 0 0 0 0 0 1 head html none 4 8
+
+Cambiar O cambiar 0 0 0 0 0 0 1 p div hiddenStructure 8 0
+a O a 0 1 0 0 0 0 0 p div hiddenStructure 8 0
+contenido. O contenido. 0 0 0 0 0 0 0 p div hiddenStructure 8 0
+| O | 0 0 0 0 0 0 0 div div hiddenStructure 7 0
+Saltar O saltar 0 0 0 0 0 0 1 p div hiddenStructure 8 1
+a O a 0 1 0 0 0 0 0 p div hiddenStructure 8 1
+navegación O navegacion 0 0 0 0 0 0 0 p div hiddenStructure 8 1
+
+Secciones O secciones 0 0 0 0 0 0 1 div div hiddenStructure 7 16
+
+El O el 0 1 0 0 0 0 1 div div dropdown-content 10 0
+Departamento O departamento 0 0 0 0 0 0 1 div div dropdown-content 10 0
+Autoridades O autoridades 0 0 0 0 0 0 1 div div dropdown-content 10 1
+Nuestros O nuestros 0 0 0 0 0 0 1 div div dropdown-content 10 2
+Profesores O profesores 0 0 0 0 1 0 1 div div dropdown-content 10 2
+Programa O programa 0 0 0 0 0 0 1 div div dropdown-content 10 3
+de O de 0 1 0 0 0 0 0 div div dropdown-content 10 3
+Igualdad O igualdad 0 0 0 0 0 0 1 div div dropdown-content 10 3
+de O de 0 1 0 0 0 0 0 div div dropdown-content 10 3
+Género O genero 0 0 0 0 0 0 1 div div dropdown-content 10 3
+Contacto O contacto 0 0 0 0 0 0 1 div div dropdown-content 10 4
+
+Licenciatura O licenciatura 0 0 0 0 0 0 1 div div dropdown-content 10 0
+en O en 0 0 0 0 0 0 0 div div dropdown-content 10 0
+Ciencias O ciencias 0 1 0 0 0 0 1 div div dropdown-content 10 0
+de O de 0 1 0 0 0 0 0 div div dropdown-content 10 0
+la O la 0 1 0 0 0 0 0 div div dropdown-content 10 0
+Computación O computacion 0 0 0 0 0 0 1 div div dropdown-content 10 0
+Profesorado O profesorado 0 0 0 0 1 0 1 div div dropdown-content 10 1
+en O en 0 0 0 0 0 0 0 div div dropdown-content 10 1
+Ciencias O ciencias 0 1 0 0 0 0 1 div div dropdown-content 10 1
+de O de 0 1 0 0 0 0 0 div div dropdown-content 10 1
+la O la 0 1 0 0 0 0 0 div div dropdown-content 10 1
+Computación O computacion 0 0 0 0 0 0 1 div div dropdown-content 10 1
+Maestría O maestria 0 0 0 0 0 0 1 div div dropdown-content 10 2
+en O en 0 0 0 0 0 0 0 div div dropdown-content 10 2
+Data O data 0 1 0 0 0 0 1 div div dropdown-content 10 2
+Mining O mining 0 0 0 0 0 0 1 div div dropdown-content 10 2
+Doctorado O doctorado 0 0 0 0 0 0 1 div div dropdown-content 10 3
+en O en 0 0 0 0 0 0 0 div div dropdown-content 10 3
+Ciencias O ciencias 0 1 0 0 0 0 1 div div dropdown-content 10 3
+de O de 0 1 0 0 0 0 0 div div dropdown-content 10 3
+la O la 0 1 0 0 0 0 0 div div dropdown-content 10 3
+Computación O computacion 0 0 0 0 0 0 1 div div dropdown-content 10 3
+
+Instituto O instituto 0 0 0 0 0 0 1 div div dropdown-content 10 0
+UBA/CONICET O uba/conicet 0 0 0 0 0 0 1 div div dropdown-content 10 0
+de O de 0 1 0 0 0 0 0 div div dropdown-content 10 0
+Ciencias O ciencias 0 1 0 0 0 0 1 div div dropdown-content 10 0
+de O de 0 1 0 0 0 0 0 div div dropdown-content 10 0
+la O la 0 1 0 0 0 0 0 div div dropdown-content 10 0
+Computación O computacion 0 0 0 0 0 0 1 div div dropdown-content 10 0
+Áreas O areas 0 0 0 0 0 0 1 div div dropdown-content 10 1
+de O de 0 1 0 0 0 0 0 div div dropdown-content 10 1
+Investigación O investigacion 0 0 0 0 0 0 1 div div dropdown-content 10 1
+Investigadores O investigadores 0 0 0 0 0 0 1 div div dropdown-content 10 2
+Publicaciones O publicaciones 0 0 0 0 0 0 1 div div dropdown-content 10 3
+Vinculación O vinculacion 0 0 0 0 0 0 1 div div dropdown-content 10 4
+
+Semana O semana 0 0 0 0 0 0 1 div div dropdown-content 10 0
+de O de 0 1 0 0 0 0 0 div div dropdown-content 10 0
+la O la 0 1 0 0 0 0 0 div div dropdown-content 10 0
+Computación O computacion 0 0 0 0 0 0 1 div div dropdown-content 10 0
+Talleres O talleres 0 0 0 0 0 0 1 div div dropdown-content 10 1
+y O y 0 1 0 0 0 0 0 div div dropdown-content 10 1
+cursos O cursos 0 0 0 0 0 0 0 div div dropdown-content 10 1
+
+Herramientas O herramientas 0 0 0 0 0 0 1 div div hiddenStructure 7 0
+Personales O personales 0 0 0 0 0 0 1 div div hiddenStructure 7 0
+
+Usted O usted 0 0 0 0 0 0 1 div div section-inst 7 0
+está O esta 0 0 0 0 0 0 0 div div section-inst 7 0
+aquí O aqui 0 0 0 0 0 0 0 div div section-inst 7 0
+: O : 0 0 0 0 0 0 0 div div section-inst 7 0
+Inicio O inicio 0 0 0 0 0 0 1 span div section-inst 8 0
+/ O / 0 0 0 0 0 0 0 span div breadcrumbSeparator 8 1
+Institucional O institucional 0 0 0 0 0 0 1 span div section-inst 8 0
+/ O / 0 0 0 0 0 0 0 span div breadcrumbSeparator 8 1
+Profesores O profesores 0 0 0 0 1 0 1 span div section-inst 8 0
+
+¿Cómo O ¿como 0 0 0 0 0 0 0 a div portletHeader 16 0
+llegar? O llegar? 0 0 0 0 0 0 0 a div portletHeader 16 0
+
+Contacto O contacto 0 0 0 0 0 0 1 a div portletHeader 16 0
+
+Premios O premios 0 0 0 0 0 0 1 dt dl tile 16 1
+[Ver O [ver 0 0 0 0 0 0 0 dt dl tile 16 1
++] O +] 0 0 0 0 0 0 0 dt dl tile 16 1
+
+2017 O 2017 0 0 0 1 0 0 0 span a portletItemDetails 18 0
+
+- O - 0 0 0 0 0 0 0 dd dl tile 16 0
+Premio O premio 0 0 0 0 0 0 1 dd dl tile 16 0
+Google O google 0 0 0 0 0 0 1 dd dl tile 16 0
+a O a 0 1 0 0 0 0 0 dd dl tile 16 0
+Docente O docente 0 0 0 0 0 0 1 dd dl tile 16 0
+y O y 0 1 0 0 0 0 0 dd dl tile 16 0
+Estudiante O estudiante 0 0 0 0 0 0 1 dd dl tile 16 0
+
+2017 O 2017 0 0 0 1 0 0 0 span a portletItemDetails 18 0
+
+- O - 0 0 0 0 0 0 0 dd dl tile 16 0
+Premio O premio 0 0 0 0 0 0 1 dd dl tile 16 0
+a O a 0 1 0 0 0 0 0 dd dl tile 16 0
+nuestros O nuestros 0 0 0 0 0 0 0 dd dl tile 16 0
+doctorandos O doctorandos 0 0 0 0 0 0 0 dd dl tile 16 0
+
+2017 O 2017 0 0 0 1 0 0 0 span a portletItemDetails 18 0
+
+- O - 0 0 0 0 0 0 0 dd dl tile 16 0
+Premio O premio 0 0 0 0 0 0 1 dd dl tile 16 0
+Paul O paul 0 1 0 0 0 0 1 dd dl tile 16 0
+Ehrenfest O ehrenfest 0 0 0 0 0 0 1 dd dl tile 16 0
+a O a 0 1 0 0 0 0 0 dd dl tile 16 0
+nuestros O nuestros 0 0 0 0 0 0 0 dd dl tile 16 0
+investigadores O investigadores 0 0 0 0 0 0 0 dd dl tile 16 0
+
+Info O info 0 0 0 0 0 0 1 dl div info 11 0
+
+Profesores O profesores 0 0 0 0 1 0 1 div div documentFirstHeading 11 0
+
+Baader B-PER baader 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Rodolfo I-PER rodolfo 0 1 0 0 0 0 1 li ol  15 0
+
+Becher B-PER becher 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Verónica I-PER veronica 0 1 0 0 0 0 1 li ol  15 0
+
+Bonomo B-PER bonomo 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Flavia I-PER flavia 0 1 0 0 0 0 1 li ol  15 0
+
+Braberman B-PER braberman 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Victor I-PER victor 1 1 0 0 0 0 1 li ol  15 0
+
+Castro B-PER castro 1 1 0 0 0 0 1 li ol external-link 15 0
+, I-PER , 0 0 0 0 0 0 0 li ol external-link 15 0
+Rodrigo I-PER rodrigo 0 1 0 0 0 0 1 li ol external-link 15 0
+
+Ceria B-PER ceria 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Santiago I-PER santiago 0 1 0 0 0 0 1 li ol  15 0
+
+De B-PER de 0 1 0 0 0 0 1 li ol  15 0
+Cristóforis I-PER cristoforis 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Pablo I-PER pablo 0 1 0 0 0 0 1 li ol  15 0
+
+D B-PER d 0 1 0 0 0 0 1 li ol  15 0
+' I-PER ' 0 0 0 0 0 0 0 li ol  15 0
+Ippolito I-PER ippolito 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Nicolas I-PER nicolas 0 1 0 0 0 0 1 li ol  15 0
+
+Fernández B-PER fernandez 0 1 0 0 0 0 1 li ol  15 0
+Slezak I-PER slezak 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Diego I-PER diego 0 1 0 0 0 0 1 li ol  15 0
+
+Feuerstein B-PER feuerstein 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Esteban I-PER esteban 0 1 0 0 0 0 1 li ol  15 0
+
+Figueira B-PER figueira 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Santiago I-PER santiago 0 1 0 0 0 0 1 li ol  15 0
+
+Furfaro B-PER furfaro 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Alejandro I-PER alejandro 0 1 0 0 0 0 1 li ol  15 0
+Julio I-PER julio 0 1 0 0 0 0 1 li ol  15 0
+
+Galeotti B-PER galeotti 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Juan I-PER juan 0 1 0 0 0 0 1 li ol  15 0
+Pablo I-PER pablo 0 1 0 0 0 0 1 li ol  15 0
+
+Garbervetsky B-PER garbervetsky 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Diego I-PER diego 0 1 0 0 0 0 1 li ol  15 0
+
+Gravano B-PER gravano 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Agustín I-PER agustin 0 1 0 0 0 0 1 li ol  15 0
+
+Jacobo B-PER jacobo 0 1 0 0 0 0 1 li ol  15 0
+Berlles I-PER berlles 0 0 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Julio I-PER julio 0 1 0 0 0 0 1 li ol  15 0
+
+Lin B-PER lin 1 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Min I-PER min 1 1 0 0 0 0 1 li ol  15 0
+Chih I-PER chih 0 1 0 0 0 0 1 li ol  15 0
+
+Loiseau B-PER loiseau 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Irene I-PER irene 0 1 0 0 0 0 1 li ol  15 0
+
+López B-PER lopez 0 1 0 0 0 0 1 li ol  15 0
+Pombo I-PER pombo 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Carlos I-PER carlos 0 1 0 0 0 0 1 li ol  15 0
+
+Marenco B-PER marenco 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Javier I-PER javier 1 1 0 0 0 0 1 li ol  15 0
+
+Mejail B-PER mejail 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Marta I-PER marta 0 1 0 0 0 0 1 li ol  15 0
+Estela I-PER estela 0 1 0 0 0 0 1 li ol  15 0
+
+Melgratti B-PER melgratti 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Hernán I-PER hernan 0 1 0 0 0 0 1 li ol  15 0
+
+Mendez B-PER mendez 0 1 0 0 0 0 1 li ol  15 0
+Diaz I-PER diaz 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Isabel I-PER isabel 0 1 0 0 0 0 1 li ol  15 0
+
+Mocskos B-PER mocskos 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Esteban I-PER esteban 0 1 0 0 0 0 1 li ol  15 0
+Eduardo I-PER eduardo 0 1 0 0 0 0 1 li ol  15 0
+
+Righetti B-PER righetti 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Claudio I-PER claudio 0 1 0 0 0 0 1 li ol  15 0
+Enrique I-PER enrique 0 1 0 0 0 0 1 li ol  15 0
+
+Rios B-PER rios 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Alejandro I-PER alejandro 0 1 0 0 0 0 1 li ol  15 0
+
+Risk B-PER risk 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Marcelo I-PER marcelo 0 1 0 0 0 0 1 li ol  15 0
+
+Rodriguez B-PER rodriguez 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Ricardo I-PER ricardo 0 1 0 0 0 0 1 li ol  15 0
+
+Ruz B-PER ruz 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Cecilia I-PER cecilia 0 1 0 0 0 0 1 li ol  15 0
+
+Schapachnik B-PER schapachnik 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Fernando I-PER fernando 0 1 0 0 0 0 1 li ol  15 0
+Pablo I-PER pablo 0 1 0 0 0 0 1 li ol  15 0
+
+Segura B-PER segura 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Enrique I-PER enrique 0 1 0 0 0 0 1 li ol  15 0
+Carlos I-PER carlos 0 1 0 0 0 0 1 li ol  15 0
+
+Soulignac B-PER soulignac 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Francisco I-PER francisco 0 1 0 0 0 0 1 li ol  15 0
+
+Turjanski B-PER turjanski 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Pablo I-PER pablo 0 1 0 0 0 0 1 li ol  15 0
+
+Urtasun B-PER urtasun 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Martin I-PER martin 0 1 0 0 0 0 1 li ol  15 0
+
+Wilkinson B-PER wilkinson 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Hernán I-PER hernan 0 1 0 0 0 0 1 li ol  15 0
+
+Yovine B-PER yovine 0 1 0 0 0 0 1 li ol external-link 15 0
+, I-PER , 0 0 0 0 0 0 0 li ol external-link 15 0
+Sergio I-PER sergio 0 1 0 0 0 0 1 li ol external-link 15 0
+
+Zabala B-PER zabala 0 1 0 0 0 0 1 li ol  15 0
+, I-PER , 0 0 0 0 0 0 0 li ol  15 0
+Paula I-PER paula 0 1 0 0 0 0 1 li ol  15 0
+
+Profesores O profesores 0 0 0 0 1 0 1 h2 div  14 0
+Eméritos O emeritos 0 0 0 0 1 0 1 h2 div  14 0
+
+Heintz B-PER heintz 0 1 0 0 0 0 1 li ul  16 0
+, I-PER , 0 0 0 0 0 0 0 li ul  16 0
+Joos I-PER joos 0 1 0 0 0 0 1 li ul  16 0
+
+Jacovkis B-PER jacovkis 0 1 0 0 0 0 1 li ul  16 0
+, I-PER , 0 0 0 0 0 0 0 li ul  16 0
+Pablo I-PER pablo 0 1 0 0 0 0 1 li ul  16 0
+
+Profesores O profesores 0 0 0 0 1 0 1 h2 div  14 0
+Consultos O consultos 0 0 0 0 0 0 1 h2 div  14 0
+
+Marshall B-PER marshall 0 1 0 0 0 0 1 li ul  16 0
+, I-PER , 0 0 0 0 0 0 0 li ul  16 0
+Guillermo I-PER guillermo 0 1 0 0 0 0 1 li ul  16 0
+
+Scolnik B-PER scolnik 0 1 0 0 0 0 1 li ul  16 0
+, I-PER , 0 0 0 0 0 0 0 li ul  16 0
+Hugo I-PER hugo 0 1 0 0 0 0 1 li ul  16 0
+
+Agenda O agenda 0 0 0 0 0 0 1 dt dl tile 15 1
+[Ver O [ver 0 0 0 0 0 0 0 dt dl tile 15 1
++] O +] 0 0 0 0 0 0 0 dt dl tile 15 1
+
+Workshop O workshop 0 0 0 0 0 0 1 dd dl tile 15 0
+INFINIS O infinis 0 0 0 0 0 0 1 dd dl tile 15 0
+
+19/10/2017 O 19/10/2017 0 0 0 1 0 0 0 span dd portletItemDetails 16 0
+9 O 9 0 0 0 1 0 0 0 span dd portletItemDetails 16 0
+: O : 0 0 0 0 0 0 0 span dd portletItemDetails 16 0
+30 O 30 0 0 0 1 0 0 0 span dd portletItemDetails 16 0
+
+Defensa O defensa 0 0 0 0 0 0 1 dd dl tile 15 0
+Tesis O tesis 0 0 0 0 0 0 1 dd dl tile 15 0
+Licenciatura O licenciatura 0 0 0 0 0 0 1 dd dl tile 15 0
+Pablo O pablo 0 1 0 0 0 0 1 dd dl tile 15 0
+Antonio O antonio 0 1 0 0 0 0 1 dd dl tile 15 0
+
+11/10/2017 O 11/10/2017 0 0 0 1 0 0 0 span dd portletItemDetails 16 0
+16 O 16 0 0 0 1 0 0 0 span dd portletItemDetails 16 0
+: O : 0 0 0 0 0 0 0 span dd portletItemDetails 16 0
+00 O 00 0 0 0 1 0 0 0 span dd portletItemDetails 16 0
+
+— O — 0 0 0 0 0 0 0 dd dl portletItemDetails 15 1
+Laboratorio O laboratorio 0 0 0 0 0 0 1 dd dl portletItemDetails 15 1
+5 O 5 0 0 0 1 0 0 0 dd dl portletItemDetails 15 1
+
+Noticias O noticias 0 0 0 0 0 0 1 dt dl tile 15 1
+[Ver O [ver 0 0 0 0 0 0 0 dt dl tile 15 1
++] O +] 0 0 0 0 0 0 0 dt dl tile 15 1
+
+Alumno O alumno 0 0 0 0 0 0 1 dd dl external-link 15 0
+del O del 0 1 0 0 0 0 0 dd dl external-link 15 0
+DC O dc 0 0 0 0 0 0 1 dd dl external-link 15 0
+obtiene O obtiene 0 0 0 0 0 0 0 dd dl external-link 15 0
+beca O beca 0 0 0 0 0 0 0 dd dl external-link 15 0
+para O para 0 0 0 0 0 0 0 dd dl external-link 15 0
+trabajar O trabajar 0 0 0 0 0 0 0 dd dl external-link 15 0
+en O en 0 0 0 0 0 0 0 dd dl external-link 15 0
+Canadá O canada 0 0 0 0 0 0 1 dd dl external-link 15 0
+
+25/09/2017 O 25/09/2017 0 0 0 1 0 0 0 span dd portletItemDetails 16 0
+
+Aventuras O aventuras 0 0 0 0 0 0 1 dd dl external-link 15 0
+computacionales O computacionales 0 0 0 0 0 0 0 dd dl external-link 15 0
+
+22/09/2017 O 22/09/2017 0 0 0 1 0 0 0 span dd portletItemDetails 16 0
+
+Estudiantes O estudiantes 0 0 0 0 0 0 1 dd dl external-link 15 0
+de O de 0 1 0 0 0 0 0 dd dl external-link 15 0
+la O la 0 1 0 0 0 0 0 dd dl external-link 15 0
+Carrera O carrera 0 1 0 0 0 0 1 dd dl external-link 15 0
+ganadores O ganadores 0 0 0 0 0 0 0 dd dl external-link 15 0
+de O de 0 1 0 0 0 0 0 dd dl external-link 15 0
+una O una 0 0 0 0 0 0 0 dd dl external-link 15 0
+competencia O competencia 0 0 0 0 0 0 0 dd dl external-link 15 0
+de O de 0 1 0 0 0 0 0 dd dl external-link 15 0
+seguridad O seguridad 0 0 0 0 0 0 0 dd dl external-link 15 0
+informática O informatica 0 0 0 0 0 0 0 dd dl external-link 15 0
+
+20/09/2017 O 20/09/2017 0 0 0 1 0 0 0 span dd portletItemDetails 16 0
+
+Departamento O departamento 0 0 0 0 0 0 1 div div section-inst 6 0
+de O de 0 1 0 0 0 0 0 div div section-inst 6 0
+Computación O computacion 0 0 0 0 0 0 1 div div section-inst 6 0
+, O , 0 0 0 0 0 0 0 div div section-inst 6 0
+Pabellón O pabellon 0 0 0 0 0 0 1 div div section-inst 6 0
+I O i 0 1 0 0 0 0 1 div div section-inst 6 0
+, O , 0 0 0 0 0 0 0 div div section-inst 6 0
+Ciudad O ciudad 0 1 0 0 0 0 1 div div section-inst 6 0
+Universitaria O universitaria 0 0 0 0 0 0 1 div div section-inst 6 0
+, O , 0 0 0 0 0 0 0 div div section-inst 6 0
+C1428EGA O c1428ega 0 0 0 1 0 0 1 div div section-inst 6 0
+, O , 0 0 0 0 0 0 0 div div section-inst 6 0
+CABA O caba 0 0 0 0 0 0 1 div div section-inst 6 0
+
+( O ( 0 0 0 0 0 0 0 div div section-inst 6 0
+54.11 O 54.11 0 0 0 1 0 0 0 div div section-inst 6 0
+) O ) 0 0 0 0 0 0 0 div div section-inst 6 0
+4576 O 4576 0 0 0 1 0 0 0 div div section-inst 6 0
+- O - 0 0 0 0 0 0 0 div div section-inst 6 0
+⁠3359 O ⁠3359 0 0 0 1 0 0 0 div div section-inst 6 0
+, O , 0 0 0 0 0 0 0 div div section-inst 6 0
+4576 O 4576 0 0 0 1 0 0 0 div div section-inst 6 0
+- O - 0 0 0 0 0 0 0 div div section-inst 6 0
+⁠3390/⁠96 O ⁠3390/⁠96 0 0 0 1 0 0 0 div div section-inst 6 0
+int O int 0 0 0 0 0 0 0 div div section-inst 6 0
+701 O 701 0 0 0 1 0 0 0 div div section-inst 6 0
+, O , 0 0 0 0 0 0 0 div div section-inst 6 0
+secretaria O secretaria 0 0 0 0 0 0 0 div div section-inst 6 0
+( O ( 0 0 0 0 0 0 0 div div section-inst 6 0
+a O a 0 1 0 0 0 0 0 div div section-inst 6 0
+) O ) 0 0 0 0 0 0 0 div div section-inst 6 0
+dc.uba.ar O dc.uba.ar 0 0 0 0 0 0 0 div div section-inst 6 0
+
+Powered O powered 0 0 0 0 0 0 1 li ul colophonWrapper 9 0
+by O by 0 1 0 0 0 0 0 li ul colophonWrapper 9 0
+Plone O plone 0 0 0 0 0 0 1 li ul colophonWrapper 9 0
+& O & 0 0 0 0 0 0 0 li ul colophonWrapper 9 0
+Python O python 0 1 0 0 0 0 1 li ul colophonWrapper 9 0
+
+Valid O valid 0 1 0 0 0 0 1 li ul colophonWrapper 9 0
+XHTML O xhtml 0 0 0 0 0 0 1 li ul colophonWrapper 9 0
+
+Valid O valid 0 1 0 0 0 0 1 li ul colophonWrapper 9 0
+CSS O css 0 0 0 0 0 0 1 li ul colophonWrapper 9 0
+
+Section O section 0 1 0 0 0 0 1 li ul colophonWrapper 9 0
+508 O 508 0 0 0 1 0 0 0 li ul colophonWrapper 9 0
+
+WCAG O wcag 0 0 0 0 0 0 1 li ul colophonWrapper 9 0
