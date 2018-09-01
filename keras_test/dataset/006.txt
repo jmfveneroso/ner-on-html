@@ -1,865 +1,859 @@
-Faculty O faculty 0 0 0 0 0 0 1 head html no-js 4 3
-& O & 0 0 0 0 0 0 0 head html no-js 4 3
-Staff O staff 0 1 0 0 0 0 1 head html no-js 4 3
-: O : 0 0 0 0 0 0 0 head html no-js 4 3
-Computer O computer 0 0 0 0 0 0 1 head html no-js 4 3
-Science O science 0 0 0 0 0 0 1 head html no-js 4 3
-: O : 0 0 0 0 0 0 0 head html no-js 4 3
-UNCW O uncw 0 0 0 0 0 0 1 head html no-js 4 3
+Faculty O faculty 0 0 0 0 0 0 1 0 7 head html no-js 4 3
+& O & 0 0 0 0 0 0 0 0 0 head html no-js 4 3
+Staff O staff 0 1 0 0 0 0 1 2 7 head html no-js 4 3
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 head html no-js 4 3
+Computer O computer 0 0 0 0 0 0 1 0 7 head html no-js 4 3
+Science O science 0 0 0 0 0 0 1 0 7 head html no-js 4 3
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 head html no-js 4 3
+UNCW O uncw 0 0 0 0 0 0 1 0 0 head html no-js 4 3
 
-Skip O skip 0 1 0 0 0 0 1 div li show-for-sr 10 0
-UNCW O uncw 0 0 0 0 0 0 1 div li show-for-sr 10 0
-Quicklinks O quicklinks 0 0 0 0 0 0 1 div li show-for-sr 10 0
+Skip O skip 0 1 0 0 0 0 1 3 4 div li show-for-sr 10 0
+UNCW O uncw 0 0 0 0 0 0 1 0 0 div li show-for-sr 10 0
+Quicklinks O quicklinks 0 0 0 0 0 0 1 0 2 div li show-for-sr 10 0
 
-Email O email 0 0 0 0 1 0 1 li ul right 10 0
+Email O email 0 0 0 0 1 0 1 0 6 li ul right 10 0
 
-Directory O directory 0 0 0 0 0 0 1 li ul right 10 0
+Directory O directory 0 0 0 0 0 0 1 0 6 li ul right 10 0
 
-mySeaport O myseaport 0 0 0 0 1 0 0 li ul right 10 0
+mySeaport O myseaport 0 0 0 0 1 0 0 0 0 li ul right 10 0
 
-Quicklinks O quicklinks 0 0 0 0 0 0 1 li ul has-dropdown 10 0
+Quicklinks O quicklinks 0 0 0 0 0 0 1 0 2 li ul has-dropdown 10 0
 
-Blackboard O blackboard 0 0 0 0 0 0 1 li ul dropdown 12 0
-Learn O learn 0 1 0 0 0 0 1 li ul dropdown 12 0
+Blackboard O blackboard 0 0 0 0 0 0 1 0 4 li ul dropdown 12 0
+Learn O learn 0 1 0 0 0 0 1 1 6 li ul dropdown 12 0
 
-Board O board 0 1 0 0 0 0 1 li ul dropdown 12 0
-of O of 0 1 0 0 0 0 0 li ul dropdown 12 0
-Trustees O trustees 0 0 0 0 0 0 1 li ul dropdown 12 0
+Board O board 0 1 0 0 0 0 1 2 6 li ul dropdown 12 0
+of O of 0 1 0 0 0 0 0 2 10 li ul dropdown 12 0
+Trustees O trustees 0 0 0 0 0 0 1 0 4 li ul dropdown 12 0
 
-Campus O campus 0 1 0 0 0 0 1 li ul dropdown 12 0
-Police O police 0 0 0 0 0 0 1 li ul dropdown 12 0
+Campus O campus 0 1 0 0 0 0 1 1 8 li ul dropdown 12 0
+Police O police 0 0 0 0 0 0 1 0 6 li ul dropdown 12 0
 
-Career O career 0 0 0 0 0 0 1 li ul dropdown 12 0
-Center O center 0 1 0 0 0 0 1 li ul dropdown 12 0
+Career O career 0 0 0 0 0 0 1 0 8 li ul dropdown 12 0
+Center O center 0 1 0 0 0 0 1 1 7 li ul dropdown 12 0
 
-Chancellor O chancellor 0 1 0 0 0 0 1 li ul dropdown 12 0
-' O ' 0 0 0 0 0 0 0 li ul dropdown 12 0
-s O s 0 0 0 0 0 0 0 li ul dropdown 12 0
-Office O office 0 0 0 0 0 0 1 li ul dropdown 12 0
+Chancellor's O chancellor's 0 0 0 0 0 0 1 0 0 li ul dropdown 12 0
+Office O office 0 0 0 0 0 0 1 0 7 li ul dropdown 12 0
 
-Consumer O consumer 0 0 0 0 0 0 1 li ul dropdown 12 0
-Information O information 0 1 0 0 0 0 1 li ul dropdown 12 0
+Consumer O consumer 0 0 0 0 0 0 1 0 3 li ul dropdown 12 0
+Information O information 0 1 0 0 0 0 1 0 8 li ul dropdown 12 0
 
-Diversity O diversity 0 0 0 0 0 0 1 li ul dropdown 12 0
+Diversity O diversity 0 0 0 0 0 0 1 0 4 li ul dropdown 12 0
 
-Distance O distance 0 0 0 0 0 0 1 li ul dropdown 12 0
-Education O education 0 0 0 0 0 0 1 li ul dropdown 12 0
+Distance O distance 0 0 0 0 0 0 1 0 5 li ul dropdown 12 0
+Education O education 0 0 0 0 0 0 1 0 8 li ul dropdown 12 0
 
-Financial O financial 0 0 0 0 0 0 1 li ul dropdown 12 0
-Aid O aid 0 1 0 0 0 0 1 li ul dropdown 12 0
+Financial O financial 0 0 0 0 0 0 1 0 7 li ul dropdown 12 0
+Aid O aid 0 1 0 0 0 0 1 1 7 li ul dropdown 12 0
 
-Forms O forms 0 0 0 0 0 0 1 li ul dropdown 12 0
+Forms O forms 0 0 0 0 0 0 1 0 6 li ul dropdown 12 0
 
-Health O health 0 1 0 0 0 0 1 li ul dropdown 12 0
-Services O services 0 0 0 0 0 0 1 li ul dropdown 12 0
+Health O health 0 1 0 0 0 0 1 0 7 li ul dropdown 12 0
+Services O services 0 0 0 0 0 0 1 0 8 li ul dropdown 12 0
 
-Housing O housing 0 0 0 0 0 0 1 li ul dropdown 12 0
+Housing O housing 0 0 0 0 0 0 1 0 5 li ul dropdown 12 0
 
-Information O information 0 1 0 0 0 0 1 li ul dropdown 12 0
-Technology O technology 0 0 0 0 0 0 1 li ul dropdown 12 0
+Information O information 0 1 0 0 0 0 1 0 8 li ul dropdown 12 0
+Technology O technology 0 0 0 0 0 0 1 0 7 li ul dropdown 12 0
 
-Jobs O jobs 0 1 0 0 0 0 1 li ul dropdown 12 0
+Jobs O jobs 0 1 0 0 0 0 1 0 4 li ul dropdown 12 0
 
-Leave O leave 0 0 0 0 0 0 1 li ul dropdown 12 0
-Keeping O keeping 0 1 0 0 0 0 1 li ul dropdown 12 0
+Leave O leave 0 0 0 0 0 0 1 0 5 li ul dropdown 12 0
+Keeping O keeping 0 1 0 0 0 0 1 1 3 li ul dropdown 12 0
 
-Policies O policies 0 0 0 0 0 0 1 li ul dropdown 12 0
-& O & 0 0 0 0 0 0 0 li ul dropdown 12 0
-Procedures O procedures 0 0 0 0 0 0 1 li ul dropdown 12 0
+Policies O policies 0 0 0 0 0 0 1 0 6 li ul dropdown 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul dropdown 12 0
+Procedures O procedures 0 0 0 0 0 0 1 0 5 li ul dropdown 12 0
 
-Registrar O registrar 0 0 0 0 0 0 1 li ul dropdown 12 0
+Registrar O registrar 0 0 0 0 0 0 1 0 3 li ul dropdown 12 0
 
-SeaNet O seanet 0 0 0 0 0 0 1 li ul dropdown 12 0
+SeaNet O seanet 0 0 0 0 0 0 1 0 0 li ul dropdown 12 0
 
-Swoop O swoop 0 0 0 0 0 0 1 li ul dropdown 12 0
+Swoop O swoop 0 0 0 0 0 0 1 0 0 li ul dropdown 12 0
 
-Tuition O tuition 0 0 0 0 0 0 1 li ul dropdown 12 0
-& O & 0 0 0 0 0 0 0 li ul dropdown 12 0
-Fees O fees 0 0 0 0 0 0 1 li ul dropdown 12 0
+Tuition O tuition 0 0 0 0 0 0 1 0 6 li ul dropdown 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul dropdown 12 0
+Fees O fees 0 0 0 0 0 0 1 0 6 li ul dropdown 12 0
 
-Go O go 0 1 0 0 0 0 1 div div radius 13 0
+Go O go 0 1 0 0 0 0 1 5 6 div div radius 13 0
 
-Computer O computer 0 0 0 0 0 0 1 h1 div row 7 0
-Science O science 0 0 0 0 0 0 1 h1 div row 7 0
+Computer O computer 0 0 0 0 0 0 1 0 7 h1 div row 7 0
+Science O science 0 0 0 0 0 0 1 0 7 h1 div row 7 0
 
-Page O page 0 1 0 0 0 0 1 div div show-for-small-only 7 0
-Menu O menu 0 1 0 0 0 0 1 div div show-for-small-only 7 0
+Page O page 0 1 0 0 0 0 1 5 9 div div show-for-small-only 7 0
+Menu O menu 0 1 0 0 0 0 1 2 8 div div show-for-small-only 7 0
 
-About O about 0 0 0 0 0 0 1 li ul text-left 10 0
-Us O us 0 1 0 0 0 0 1 li ul text-left 10 0
+About O about 0 0 0 0 0 0 1 0 8 li ul text-left 10 0
+Us O us 0 1 0 0 0 0 1 1 8 li ul text-left 10 0
 
-Computing O computing 0 0 0 0 0 0 1 li ul text-left 12 0
-Facilities O facilities 0 0 0 0 0 0 1 li ul text-left 12 0
+Computing O computing 0 0 0 0 0 0 1 0 6 li ul text-left 12 0
+Facilities O facilities 0 0 0 0 0 0 1 0 5 li ul text-left 12 0
 
-Faculty O faculty 0 0 0 0 0 0 1 li ul text-left 12 0
-and O and 0 1 0 0 0 0 0 li ul text-left 12 0
-Staff O staff 0 1 0 0 0 0 1 li ul text-left 12 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul text-left 12 0
+and O and 0 1 0 0 0 0 0 0 10 li ul text-left 12 0
+Staff O staff 0 1 0 0 0 0 1 2 7 li ul text-left 12 0
 
-Mission O mission 0 1 0 0 1 0 1 li ul text-left 12 0
+Mission O mission 0 1 0 0 1 0 1 1 7 li ul text-left 12 0
 
-News O news 0 0 0 0 0 0 1 li ul text-left 12 0
+News O news 0 0 0 0 0 0 1 0 7 li ul text-left 12 0
 
-Option O option 0 0 0 0 0 0 1 li ul text-left 12 0
-1 O 1 0 0 0 1 0 0 0 li ul text-left 12 0
-( O ( 0 0 0 0 0 0 0 li ul text-left 12 0
-Systems O systems 0 0 0 0 0 0 1 li ul text-left 12 0
-) O ) 0 0 0 0 0 0 0 li ul text-left 12 0
+Option O option 0 0 0 0 0 0 1 0 5 li ul text-left 12 0
+1 O 1 0 0 0 1 0 0 0 0 0 li ul text-left 12 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul text-left 12 0
+Systems O systems 0 0 0 0 0 0 1 0 6 li ul text-left 12 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul text-left 12 0
 
-Option O option 0 0 0 0 0 0 1 li ul text-left 12 0
-2 O 2 0 0 0 1 0 0 0 li ul text-left 12 0
+Option O option 0 0 0 0 0 0 1 0 5 li ul text-left 12 0
+2 O 2 0 0 0 1 0 0 0 0 0 li ul text-left 12 0
 
-Policies O policies 0 0 0 0 0 0 1 li ul text-left 12 0
-& O & 0 0 0 0 0 0 0 li ul text-left 12 0
-Procedures O procedures 0 0 0 0 0 0 1 li ul text-left 12 0
+Policies O policies 0 0 0 0 0 0 1 0 6 li ul text-left 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul text-left 12 0
+Procedures O procedures 0 0 0 0 0 0 1 0 5 li ul text-left 12 0
 
-Program O program 0 0 0 0 0 0 1 li ul text-left 12 0
-Education O education 0 0 0 0 0 0 1 li ul text-left 12 0
-Objectives O objectives 0 0 0 0 0 0 1 li ul text-left 12 0
+Program O program 0 0 0 0 0 0 1 0 7 li ul text-left 12 0
+Education O education 0 0 0 0 0 0 1 0 8 li ul text-left 12 0
+Objectives O objectives 0 0 0 0 0 0 1 0 4 li ul text-left 12 0
 
-Student O student 0 1 0 0 0 0 1 li ul text-left 12 0
-Outcomes O outcomes 0 0 0 0 0 0 1 li ul text-left 12 0
+Student O student 0 1 0 0 0 0 1 1 8 li ul text-left 12 0
+Outcomes O outcomes 0 0 0 0 0 0 1 0 3 li ul text-left 12 0
 
-Prospective O prospective 0 0 0 0 0 0 1 li ul text-left 10 0
-Students O students 0 0 0 0 0 0 1 li ul text-left 10 0
+Prospective O prospective 0 0 0 0 0 0 1 0 4 li ul text-left 10 0
+Students O students 0 0 0 0 0 0 1 0 8 li ul text-left 10 0
 
-Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul text-left 10 0
-Students O students 0 0 0 0 0 0 1 li ul text-left 10 0
+Undergraduate O undergraduate 0 0 0 0 0 0 1 0 5 li ul text-left 10 0
+Students O students 0 0 0 0 0 0 1 0 8 li ul text-left 10 0
 
-Graduate O graduate 1 1 0 0 0 0 1 li ul text-left 10 0
-Students O students 0 0 0 0 0 0 1 li ul text-left 10 0
+Graduate O graduate 0 1 0 0 0 0 1 0 6 li ul text-left 10 0
+Students O students 0 0 0 0 0 0 1 0 8 li ul text-left 10 0
 
-Research O research 0 1 0 0 0 0 1 li ul text-left 10 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul text-left 10 0
 
-College O college 0 0 0 0 0 0 1 li ul text-left 10 0
-of O of 0 1 0 0 0 0 0 li ul text-left 10 0
-Arts O arts 0 1 0 0 0 0 1 li ul text-left 10 0
-and O and 0 1 0 0 0 0 0 li ul text-left 10 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul text-left 10 0
+College O college 0 0 0 0 0 0 1 0 8 li ul text-left 10 0
+of O of 0 1 0 0 0 0 0 2 10 li ul text-left 10 0
+Arts O arts 0 1 0 0 0 0 1 3 7 li ul text-left 10 0
+and O and 0 1 0 0 0 0 0 0 10 li ul text-left 10 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul text-left 10 0
 
-Department O department 0 0 0 0 0 0 1 div div columns 8 0
-Address O address 0 0 0 0 1 0 1 div div columns 8 0
+Department O department 0 0 0 0 0 0 1 0 7 div div columns 8 0
+Address O address 0 0 0 0 1 0 1 0 6 div div columns 8 0
 
-Department O department 0 0 0 0 0 0 1 tr tbody columns 11 0
-of O of 0 1 0 0 0 0 0 tr tbody columns 11 0
-Computer O computer 0 0 0 0 0 0 1 tr tbody columns 11 0
-Science O science 0 0 0 0 0 0 1 tr tbody columns 11 0
+Department O department 0 0 0 0 0 0 1 0 7 tr tbody columns 11 0
+of O of 0 1 0 0 0 0 0 2 10 tr tbody columns 11 0
+Computer O computer 0 0 0 0 0 0 1 0 7 tr tbody columns 11 0
+Science O science 0 0 0 0 0 0 1 0 7 tr tbody columns 11 0
 
-University O university 0 1 0 0 0 0 1 tr tbody columns 11 0
-of O of 0 1 0 0 0 0 0 tr tbody columns 11 0
-North O north 0 1 0 0 0 0 1 tr tbody columns 11 0
-Carolina O carolina 0 1 0 0 0 0 1 tr tbody columns 11 0
-Wilmington O wilmington 0 1 0 0 0 0 1 tr tbody columns 11 0
+University O university 0 1 0 0 0 0 1 1 8 tr tbody columns 11 0
+of O of 0 1 0 0 0 0 0 2 10 tr tbody columns 11 0
+North O north 0 1 0 0 0 0 1 4 5 tr tbody columns 11 0
+Carolina O carolina 0 1 0 0 0 0 1 6 3 tr tbody columns 11 0
+Wilmington O wilmington 0 1 0 0 0 0 1 0 1 tr tbody columns 11 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 0
-Building O building 0 0 0 0 0 0 1 tr tbody columns 11 0
-, O , 0 0 0 0 0 0 0 tr tbody columns 11 0
-Room O room 0 1 0 0 0 0 1 tr tbody columns 11 0
-2010 O 2010 0 0 0 1 0 0 0 tr tbody columns 11 0
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 0
+Building O building 0 0 0 0 0 0 1 0 5 tr tbody columns 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 tr tbody columns 11 0
+Room O room 0 1 0 0 0 0 1 1 6 tr tbody columns 11 0
+2010 O 2010 0 0 0 1 0 0 0 0 0 tr tbody columns 11 0
 
-601 O 601 0 0 0 1 0 0 0 tr tbody columns 11 0
-South O south 0 1 0 0 0 0 1 tr tbody columns 11 0
-College O college 0 0 0 0 0 0 1 tr tbody columns 11 0
-Road O road 0 0 0 0 0 0 1 tr tbody columns 11 0
+601 O 601 0 0 0 1 0 0 0 0 0 tr tbody columns 11 0
+South O south 0 1 0 0 0 0 1 3 5 tr tbody columns 11 0
+College O college 0 0 0 0 0 0 1 0 8 tr tbody columns 11 0
+Road O road 0 0 0 0 0 0 1 0 5 tr tbody columns 11 0
 
-Wilmington O wilmington 0 1 0 0 0 0 1 tr tbody columns 11 0
-, O , 0 0 0 0 0 0 0 tr tbody columns 11 0
-NC O nc 0 0 0 0 0 0 1 tr tbody columns 11 0
-28403 O 28403 0 0 0 1 0 0 0 tr tbody columns 11 0
-Phone O phone 0 1 0 0 0 0 1 tr tbody columns 11 5
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 5
-910.962.7182 O 910.962.7182 0 0 0 1 0 0 0 tr tbody columns 11 5
+Wilmington O wilmington 0 1 0 0 0 0 1 0 1 tr tbody columns 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 tr tbody columns 11 0
+NC O nc 0 0 0 0 0 0 1 0 5 tr tbody columns 11 0
+28403 O 28403 0 0 0 1 0 0 0 0 0 tr tbody columns 11 0
+Phone O phone 0 1 0 0 0 0 1 1 5 tr tbody columns 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 5
+910.962.7182 O 910.962.7182 0 0 0 1 0 0 0 0 0 tr tbody columns 11 5
 
-Fax O fax 0 1 0 0 0 0 1 tr tbody columns 11 5
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 5
-910.962.7457 O 910.962.7457 0 0 0 1 0 0 0 tr tbody columns 11 5
+Fax O fax 0 1 0 0 0 0 1 0 4 tr tbody columns 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 5
+910.962.7457 O 910.962.7457 0 0 0 1 0 0 0 0 0 tr tbody columns 11 5
 
-Email O email 0 0 0 0 1 0 1 td tr columns 12 2
-Us O us 0 1 0 0 0 0 1 td tr columns 12 2
+Email O email 0 0 0 0 1 0 1 0 6 td tr columns 12 2
+Us O us 0 1 0 0 0 0 1 1 8 td tr columns 12 2
 
-Current O current 0 1 0 0 0 0 1 div div columns 8 16
-Faculty O faculty 0 0 0 0 0 0 1 div div columns 8 16
-and O and 0 1 0 0 0 0 0 div div columns 8 16
-Staff O staff 0 1 0 0 0 0 1 div div columns 8 16
+Current O current 0 1 0 0 0 0 1 1 6 div div columns 8 16
+Faculty O faculty 0 0 0 0 0 0 1 0 7 div div columns 8 16
+and O and 0 1 0 0 0 0 0 0 10 div div columns 8 16
+Staff O staff 0 1 0 0 0 0 1 2 7 div div columns 8 16
 
-Dr. O dr. 0 1 0 0 1 0 1 p td columns 13 0
-Curry B-PER curry 1 1 0 0 0 0 1 p td columns 13 0
-Guinn I-PER guinn 1 1 0 0 0 0 1 p td columns 13 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 p td columns 13 0
+Curry B-PER curry 1 1 0 0 0 0 1 4 2 p td columns 13 0
+Guinn I-PER guinn 1 1 0 0 0 0 1 2 0 p td columns 13 0
 
-Department O department 0 0 0 0 0 0 1 p td columns 13 2
-Chair O chair 0 1 0 0 0 0 1 p td columns 13 2
+Department O department 0 0 0 0 0 0 1 0 7 p td columns 13 2
+Chair O chair 0 1 0 0 0 0 1 1 5 p td columns 13 2
 
-Professor O professor 0 0 0 0 1 0 1 p td columns 13 4
+Professor O professor 0 0 0 0 1 0 1 0 7 p td columns 13 4
 
-CIS O cis 0 0 0 0 0 0 1 td tr columns 12 0
-2015 O 2015 0 0 0 1 0 0 0 td tr columns 12 0
+CIS O cis 0 0 0 0 0 0 1 0 3 td tr columns 12 0
+2015 O 2015 0 0 0 1 0 0 0 0 0 td tr columns 12 0
 
-910.962.3937 O 910.962.3937 0 0 0 1 0 0 0 td tr columns 12 0
+910.962.3937 O 910.962.3937 0 0 0 1 0 0 0 0 0 td tr columns 12 0
 
-Email O email 0 0 0 0 1 0 1 td tr columns 12 9
-: O : 0 0 0 0 0 0 0 td tr columns 12 9
+Email O email 0 0 0 0 1 0 1 0 6 td tr columns 12 9
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 td tr columns 12 9
 
-Web O web 0 1 0 0 0 0 1 p td columns 13 3
-Site O site 0 1 0 0 0 0 1 p td columns 13 3
+Web O web 0 1 0 0 0 0 1 0 7 p td columns 13 3
+Site O site 0 1 0 0 0 0 1 0 8 p td columns 13 3
 
-Emma B-PER emma 0 1 0 0 1 0 1 td tr columns 12 0
-Kay I-PER kay 0 1 0 0 0 0 1 td tr columns 12 0
-Thornton I-PER thornton 0 1 0 0 0 0 1 td tr columns 12 0
+Emma B-PER emma 0 1 0 0 1 0 1 6 4 td tr columns 12 0
+Kay I-PER kay 0 1 0 0 0 0 1 6 4 td tr columns 12 0
+Thornton I-PER thornton 0 1 0 0 0 0 1 5 2 td tr columns 12 0
 
-Administrative O administrative 0 0 0 0 0 0 1 td tr columns 12 0
-Assistant O assistant 0 0 0 0 0 0 1 td tr columns 12 0
+Administrative O administrative 0 0 0 0 0 0 1 0 6 td tr columns 12 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 p td columns 13 0
-2010 O 2010 0 0 0 1 0 0 0 p td columns 13 0
+CIS O cis 0 0 0 0 0 0 1 0 3 p td columns 13 0
+2010 O 2010 0 0 0 1 0 0 0 0 0 p td columns 13 0
 
-910.962.7182 O 910.962.7182 0 0 0 1 0 0 0 p td columns 13 0
+910.962.7182 O 910.962.7182 0 0 0 1 0 0 0 0 0 p td columns 13 0
 
-Email O email 0 0 0 0 1 0 1 p td columns 13 0
-: O : 0 0 0 0 0 0 0 p td columns 13 0
+Email O email 0 0 0 0 1 0 1 0 6 p td columns 13 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p td columns 13 0
 
-Dr. O dr. 0 1 0 0 1 0 1 td tr columns 12 0
-Gur B-PER gur 1 1 0 0 0 0 1 td tr columns 12 0
-Saran I-PER saran 1 1 0 0 0 0 1 td tr columns 12 0
-Adhar I-PER adhar 1 1 0 0 0 0 1 td tr columns 12 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Gur B-PER gur 1 1 0 0 0 0 1 3 2 td tr columns 12 0
+Saran I-PER saran 1 1 0 0 0 0 1 3 0 td tr columns 12 0
+Adhar I-PER adhar 1 1 0 0 0 0 1 0 0 td tr columns 12 0
 
-Professor O professor 0 0 0 0 1 0 1 td tr columns 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 2
-2037 O 2037 0 0 0 1 0 0 0 tr tbody columns 11 2
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 2
+2037 O 2037 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-910.962.3820 O 910.962.3820 0 0 0 1 0 0 0 tr tbody columns 11 2
+910.962.3820 O 910.962.3820 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 2
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 2
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 2
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 2
 
-Web O web 0 1 0 0 0 0 1 td tr columns 12 9
-Site O site 0 1 0 0 0 0 1 td tr columns 12 9
+Web O web 0 1 0 0 0 0 1 0 7 td tr columns 12 9
+Site O site 0 1 0 0 0 0 1 0 8 td tr columns 12 9
 
-Mr. O mr. 0 1 0 0 1 0 1 td tr columns 12 0
-Ralph B-PER ralph 0 1 0 0 0 0 1 td tr columns 12 0
-Bradley I-PER bradley 0 1 0 0 0 0 1 td tr columns 12 0
+Mr. O mr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Ralph B-PER ralph 0 1 0 0 0 0 1 7 4 td tr columns 12 0
+Bradley I-PER bradley 0 1 0 0 0 0 1 6 4 td tr columns 12 0
 
-Assistant O assistant 0 0 0 0 0 0 1 td tr columns 12 2
-Chair O chair 0 1 0 0 0 0 1 td tr columns 12 2
+Assistant O assistant 0 0 0 0 0 0 1 0 6 td tr columns 12 2
+Chair O chair 0 1 0 0 0 0 1 1 5 td tr columns 12 2
 
-and O and 0 1 0 0 0 0 0 td tr columns 12 3
+and O and 0 1 0 0 0 0 0 0 10 td tr columns 12 3
 
-Lecturer O lecturer 0 0 0 0 0 0 1 td tr columns 12 3
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 td tr columns 12 3
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 15
-2033 O 2033 0 0 0 1 0 0 0 tr tbody columns 11 15
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 15
+2033 O 2033 0 0 0 1 0 0 0 0 0 tr tbody columns 11 15
 
-910.962.4260 O 910.962.4260 0 0 0 1 0 0 0 tr tbody columns 11 15
+910.962.4260 O 910.962.4260 0 0 0 1 0 0 0 0 0 tr tbody columns 11 15
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 15
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 15
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 15
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 15
 
-Web O web 0 1 0 0 0 0 1 td tr columns 12 12
-Site O site 0 1 0 0 0 0 1 td tr columns 12 12
+Web O web 0 1 0 0 0 0 1 0 7 td tr columns 12 12
+Site O site 0 1 0 0 0 0 1 0 8 td tr columns 12 12
 
-Mr. O mr. 0 1 0 0 1 0 1 td tr columns 12 0
-Eddie B-PER eddie 0 1 0 0 0 0 1 td tr columns 12 0
-Dunn I-PER dunn 0 1 0 0 0 0 1 td tr columns 12 0
+Mr. O mr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Eddie B-PER eddie 0 1 0 0 0 0 1 5 3 td tr columns 12 0
+Dunn I-PER dunn 0 1 0 0 0 0 1 5 2 td tr columns 12 0
 
-Systems O systems 0 0 0 0 0 0 1 td tr columns 12 0
-Administrator O administrator 0 0 0 0 0 0 1 td tr columns 12 0
+Systems O systems 0 0 0 0 0 0 1 0 6 td tr columns 12 0
+Administrator O administrator 0 0 0 0 0 0 1 0 4 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 2
-2048 O 2048 0 0 0 1 0 0 0 tr tbody columns 11 2
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 2
+2048 O 2048 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-910.962.3668 O 910.962.3668 0 0 0 1 0 0 0 tr tbody columns 11 2
+910.962.3668 O 910.962.3668 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 2
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 2
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 2
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 2
 
-Ms. O ms. 0 1 0 0 0 0 1 td tr columns 12 0
-Elham B-PER elham 1 1 0 0 0 0 1 td tr columns 12 0
-Ebrahimi I-PER ebrahimi 1 1 0 0 0 0 1 td tr columns 12 0
+Ms. O ms. 0 1 0 0 0 0 1 2 0 td tr columns 12 0
+Elham B-PER elham 1 1 0 0 0 0 1 5 0 td tr columns 12 0
+Ebrahimi I-PER ebrahimi 1 1 0 0 0 0 1 5 0 td tr columns 12 0
 
-Assistant O assistant 0 0 0 0 0 0 1 td tr columns 12 0
-Professor O professor 0 0 0 0 1 0 1 td tr columns 12 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 td tr columns 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 12
-2037 O 2037 0 0 0 1 0 0 0 tr tbody columns 11 12
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 12
+2037 O 2037 0 0 0 1 0 0 0 0 0 tr tbody columns 11 12
 
-910.962. O 910.962. 0 0 0 1 0 0 0 tr tbody columns 11 12
-- O - 0 0 0 0 0 0 0 tr tbody columns 11 12
-- O - 0 0 0 0 0 0 0 tr tbody columns 11 12
-- O - 0 0 0 0 0 0 0 tr tbody columns 11 12
+910.962. O 910.962. 0 0 0 1 0 0 0 0 0 tr tbody columns 11 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tbody columns 11 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tbody columns 11 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tbody columns 11 12
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 12
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 12
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 12
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 12
 
-Web O web 0 1 0 0 0 0 1 tr tbody columns 11 12
-Site O site 0 1 0 0 0 0 1 tr tbody columns 11 12
+Web O web 0 1 0 0 0 0 1 0 7 tr tbody columns 11 12
+Site O site 0 1 0 0 0 0 1 0 8 tr tbody columns 11 12
 
-Dr. O dr. 0 1 0 0 1 0 1 td tr columns 12 0
-Clayton B-PER clayton 1 1 0 0 0 0 1 td tr columns 12 0
-Ferner I-PER ferner 1 1 0 0 0 0 1 td tr columns 12 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Clayton B-PER clayton 1 1 0 0 0 0 1 5 3 td tr columns 12 0
+Ferner I-PER ferner 1 1 0 0 0 0 1 2 0 td tr columns 12 0
 
-Director O director 0 1 0 0 0 0 1 td tr columns 12 2
-, O , 0 0 0 0 0 0 0 td tr columns 12 2
-MS O ms 0 1 0 0 0 0 1 td tr columns 12 2
-CSIS O csis 0 0 0 0 0 0 1 td tr columns 12 2
-Program O program 0 0 0 0 0 0 1 td tr columns 12 2
+Director O director 0 1 0 0 0 0 1 0 7 td tr columns 12 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 td tr columns 12 2
+MS O ms 0 1 0 0 0 0 1 0 6 td tr columns 12 2
+CSIS O csis 0 0 0 0 0 0 1 0 0 td tr columns 12 2
+Program O program 0 0 0 0 0 0 1 0 7 td tr columns 12 2
 
-Professor O professor 0 0 0 0 1 0 1 td tr columns 12 4
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr columns 12 4
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 2
-2036 O 2036 0 0 0 1 0 0 0 tr tbody columns 11 2
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 2
+2036 O 2036 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-910.962.7129 O 910.962.7129 0 0 0 1 0 0 0 tr tbody columns 11 2
+910.962.7129 O 910.962.7129 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 2
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 2
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 2
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 2
 
-Web O web 0 1 0 0 0 0 1 td tr columns 12 12
-Site O site 0 1 0 0 0 0 1 td tr columns 12 12
+Web O web 0 1 0 0 0 0 1 0 7 td tr columns 12 12
+Site O site 0 1 0 0 0 0 1 0 8 td tr columns 12 12
 
-Ms. O ms. 0 1 0 0 0 0 1 td tr columns 12 0
-Marni B-PER marni 0 1 0 0 0 0 1 td tr columns 12 0
-Ferner I-PER ferner 0 1 0 0 0 0 1 td tr columns 12 0
+Ms. O ms. 0 1 0 0 0 0 1 2 0 td tr columns 12 0
+Marni B-PER marni 0 1 0 0 0 0 1 2 0 td tr columns 12 0
+Ferner I-PER ferner 0 1 0 0 0 0 1 2 0 td tr columns 12 0
 
-Senior O senior 0 1 0 0 0 0 1 td tr columns 12 0
-Lecturer O lecturer 0 0 0 0 0 0 1 td tr columns 12 0
+Senior O senior 0 1 0 0 0 0 1 2 5 td tr columns 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 18
-2032 O 2032 0 0 0 1 0 0 0 tr tbody columns 11 18
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 18
+2032 O 2032 0 0 0 1 0 0 0 0 0 tr tbody columns 11 18
 
-910.962.7567 O 910.962.7567 0 0 0 1 0 0 0 tr tbody columns 11 18
+910.962.7567 O 910.962.7567 0 0 0 1 0 0 0 0 0 tr tbody columns 11 18
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 18
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 18
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 18
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 18
 
-Web O web 0 1 0 0 0 0 1 td tr columns 12 9
-Site O site 0 1 0 0 0 0 1 td tr columns 12 9
+Web O web 0 1 0 0 0 0 1 0 7 td tr columns 12 9
+Site O site 0 1 0 0 0 0 1 0 8 td tr columns 12 9
 
-Dr. O dr. 0 1 0 0 1 0 1 td tr columns 12 0
-HyunBum B-PER hyunbum 0 0 0 0 0 0 1 td tr columns 12 0
-Kim I-PER kim 0 1 0 0 0 0 1 td tr columns 12 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+HyunBum B-PER hyunbum 0 0 0 0 0 0 1 0 0 td tr columns 12 0
+Kim I-PER kim 0 1 0 0 0 0 1 9 5 td tr columns 12 0
 
-Assistant O assistant 0 0 0 0 0 0 1 td tr columns 12 0
-Professor O professor 0 0 0 0 1 0 1 td tr columns 12 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 td tr columns 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 2
-2044 O 2044 0 0 0 1 0 0 0 tr tbody columns 11 2
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 2
+2044 O 2044 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-910.962.2160 O 910.962.2160 0 0 0 1 0 0 0 tr tbody columns 11 2
+910.962.2160 O 910.962.2160 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 2
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 2
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 2
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 2
 
-Web O web 0 1 0 0 0 0 1 td tr columns 12 9
-Site O site 0 1 0 0 0 0 1 td tr columns 12 9
+Web O web 0 1 0 0 0 0 1 0 7 td tr columns 12 9
+Site O site 0 1 0 0 0 0 1 0 8 td tr columns 12 9
 
-Dr. O dr. 0 1 0 0 1 0 1 td tr columns 12 0
-Lucas B-PER lucas 1 1 0 0 0 0 1 td tr columns 12 0
-Layman I-PER layman 1 1 0 0 0 0 1 td tr columns 12 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Lucas B-PER lucas 1 1 0 0 0 0 1 6 4 td tr columns 12 0
+Layman I-PER layman 1 1 0 0 0 0 1 2 0 td tr columns 12 0
 
-Assistant O assistant 0 0 0 0 0 0 1 td tr columns 12 0
-Professor O professor 0 0 0 0 1 0 1 td tr columns 12 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 td tr columns 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 15
-2045 O 2045 0 0 0 1 0 0 0 tr tbody columns 11 15
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 15
+2045 O 2045 0 0 0 1 0 0 0 0 0 tr tbody columns 11 15
 
-910.962. O 910.962. 0 0 0 1 0 0 0 tr tbody columns 11 15
-- O - 0 0 0 0 0 0 0 tr tbody columns 11 15
-- O - 0 0 0 0 0 0 0 tr tbody columns 11 15
-- O - 0 0 0 0 0 0 0 tr tbody columns 11 15
+910.962. O 910.962. 0 0 0 1 0 0 0 0 0 tr tbody columns 11 15
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tbody columns 11 15
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tbody columns 11 15
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tbody columns 11 15
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 15
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 15
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 15
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 15
 
-Web O web 0 1 0 0 0 0 1 td tr columns 12 9
-Site O site 0 1 0 0 0 0 1 td tr columns 12 9
+Web O web 0 1 0 0 0 0 1 0 7 td tr columns 12 9
+Site O site 0 1 0 0 0 0 1 0 8 td tr columns 12 9
 
-Dr. O dr. 0 1 0 0 1 0 1 td tr columns 12 0
-Brittany B-PER brittany 1 1 0 0 0 0 1 td tr columns 12 0
-Morago I-PER morago 1 1 0 0 0 0 1 td tr columns 12 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Brittany B-PER brittany 1 1 0 0 0 0 1 4 5 td tr columns 12 0
+Morago I-PER morago 1 1 0 0 0 0 1 1 0 td tr columns 12 0
 
-Assistant O assistant 0 0 0 0 0 0 1 td tr columns 12 0
-Professor O professor 0 0 0 0 1 0 1 td tr columns 12 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 td tr columns 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 2
-2040 O 2040 0 0 0 1 0 0 0 tr tbody columns 11 2
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 2
+2040 O 2040 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-910.962. O 910.962. 0 0 0 1 0 0 0 tr tbody columns 11 2
+910.962. O 910.962. 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 2
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 2
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 2
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 2
 
-Web O web 0 1 0 0 0 0 1 td tr columns 12 9
-Site O site 0 1 0 0 0 0 1 td tr columns 12 9
+Web O web 0 1 0 0 0 0 1 0 7 td tr columns 12 9
+Site O site 0 1 0 0 0 0 1 0 8 td tr columns 12 9
 
-Dr. O dr. 0 1 0 0 1 0 1 td tr columns 12 0
-Sridhar B-PER sridhar 1 1 0 0 0 0 1 td tr columns 12 0
-Narayan I-PER narayan 1 1 0 0 0 0 1 td tr columns 12 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Sridhar B-PER sridhar 1 1 0 0 0 0 1 6 0 td tr columns 12 0
+Narayan I-PER narayan 1 1 0 0 0 0 1 5 0 td tr columns 12 0
 
-Professor O professor 0 0 0 0 1 0 1 td tr columns 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 15
-2039 O 2039 0 0 0 1 0 0 0 tr tbody columns 11 15
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 15
+2039 O 2039 0 0 0 1 0 0 0 0 0 tr tbody columns 11 15
 
-910.962.3695 O 910.962.3695 0 0 0 1 0 0 0 tr tbody columns 11 15
+910.962.3695 O 910.962.3695 0 0 0 1 0 0 0 0 0 tr tbody columns 11 15
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 15
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 15
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 15
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 15
 
-Web O web 0 1 0 0 0 0 1 td tr columns 12 9
-Site O site 0 1 0 0 0 0 1 td tr columns 12 9
+Web O web 0 1 0 0 0 0 1 0 7 td tr columns 12 9
+Site O site 0 1 0 0 0 0 1 0 8 td tr columns 12 9
 
-Dr. O dr. 0 1 0 0 1 0 1 td tr columns 12 0
-Laurie B-PER laurie 1 1 0 0 0 0 1 td tr columns 12 0
-Patterson I-PER patterson 1 1 0 0 0 0 1 td tr columns 12 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Laurie B-PER laurie 1 1 0 0 0 0 1 5 2 td tr columns 12 0
+Patterson I-PER patterson 1 1 0 0 0 0 1 5 2 td tr columns 12 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr columns 12 0
-Professor O professor 0 0 0 0 1 0 1 td tr columns 12 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr columns 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr columns 12 0
 
-OS O os 0 0 0 0 0 0 1 tr tbody columns 11 2
-2016E O 2016e 0 0 0 1 0 0 0 tr tbody columns 11 2
+OS O os 0 0 0 0 0 0 1 0 6 tr tbody columns 11 2
+2016E O 2016e 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-910.962.3906 O 910.962.3906 0 0 0 1 0 0 0 tr tbody columns 11 2
+910.962.3906 O 910.962.3906 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 2
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 2
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 2
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 2
 
-Web O web 0 1 0 0 0 0 1 td tr columns 12 9
-Site O site 0 1 0 0 0 0 1 td tr columns 12 9
+Web O web 0 1 0 0 0 0 1 0 7 td tr columns 12 9
+Site O site 0 1 0 0 0 0 1 0 8 td tr columns 12 9
 
-Dr. O dr. 0 1 0 0 1 0 1 td tr columns 12 0
-Toni B-PER toni 1 1 0 0 0 0 1 td tr columns 12 0
-Pence I-PER pence 0 1 0 0 0 0 1 td tr columns 12 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Toni B-PER toni 0 1 0 0 0 0 1 5 1 td tr columns 12 0
+Pence I-PER pence 0 1 0 0 0 0 1 3 1 td tr columns 12 0
 
-Assistant O assistant 0 0 0 0 0 0 1 td tr columns 12 0
-Professor O professor 0 0 0 0 1 0 1 td tr columns 12 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 td tr columns 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 15
-2041 O 2041 0 0 0 1 0 0 0 tr tbody columns 11 15
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 15
+2041 O 2041 0 0 0 1 0 0 0 0 0 tr tbody columns 11 15
 
-910.962.3886 O 910.962.3886 0 0 0 1 0 0 0 tr tbody columns 11 15
+910.962.3886 O 910.962.3886 0 0 0 1 0 0 0 0 0 tr tbody columns 11 15
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 15
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 15
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 15
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 15
 
-Web O web 0 1 0 0 0 0 1 td tr columns 12 9
-Site O site 0 1 0 0 0 0 1 td tr columns 12 9
+Web O web 0 1 0 0 0 0 1 0 7 td tr columns 12 9
+Site O site 0 1 0 0 0 0 1 0 8 td tr columns 12 9
 
-Dr. O dr. 0 1 0 0 1 0 1 td tr columns 12 0
-Karl B-PER karl 1 1 0 0 0 0 1 td tr columns 12 0
-Ricanek I-PER ricanek 1 1 0 0 0 0 1 td tr columns 12 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Karl B-PER karl 1 1 0 0 0 0 1 7 5 td tr columns 12 0
+Ricanek I-PER ricanek 1 1 0 0 0 0 1 1 0 td tr columns 12 0
 
-Professor O professor 0 0 0 0 1 0 1 td tr columns 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 2
-2042 O 2042 0 0 0 1 0 0 0 tr tbody columns 11 2
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 2
+2042 O 2042 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-910.962.4261 O 910.962.4261 0 0 0 1 0 0 0 tr tbody columns 11 2
+910.962.4261 O 910.962.4261 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 2
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 2
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 2
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 2
 
-Web O web 0 1 0 0 0 0 1 td tr columns 12 9
-Site O site 0 1 0 0 0 0 1 td tr columns 12 9
+Web O web 0 1 0 0 0 0 1 0 7 td tr columns 12 9
+Site O site 0 1 0 0 0 0 1 0 8 td tr columns 12 9
 
-Dr. O dr. 0 1 0 0 1 0 1 td tr columns 12 0
-Devon B-PER devon 1 1 0 0 0 0 1 td tr columns 12 0
-Simmonds I-PER simmonds 1 1 0 0 0 0 1 td tr columns 12 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Devon B-PER devon 1 1 0 0 0 0 1 3 2 td tr columns 12 0
+Simmonds I-PER simmonds 1 1 0 0 0 0 1 3 0 td tr columns 12 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr columns 12 0
-Professor O professor 0 0 0 0 1 0 1 td tr columns 12 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr columns 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 15
-2046 O 2046 0 0 0 1 0 0 0 tr tbody columns 11 15
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 15
+2046 O 2046 0 0 0 1 0 0 0 0 0 tr tbody columns 11 15
 
-910.962.3819 O 910.962.3819 0 0 0 1 0 0 0 tr tbody columns 11 15
+910.962.3819 O 910.962.3819 0 0 0 1 0 0 0 0 0 tr tbody columns 11 15
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 15
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 15
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 15
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 15
 
-Web O web 0 1 0 0 0 0 1 td tr columns 12 9
-Site O site 0 1 0 0 0 0 1 td tr columns 12 9
+Web O web 0 1 0 0 0 0 1 0 7 td tr columns 12 9
+Site O site 0 1 0 0 0 0 1 0 8 td tr columns 12 9
 
-Mr. O mr. 0 1 0 0 1 0 1 td tr columns 12 0
-Yang B-PER yang 1 1 0 0 0 0 1 td tr columns 12 0
-Song I-PER song 1 1 0 0 0 0 1 td tr columns 12 0
+Mr. O mr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Yang B-PER yang 1 1 0 0 0 0 1 9 5 td tr columns 12 0
+Song I-PER song 1 1 0 0 0 0 1 8 4 td tr columns 12 0
 
-Assistant O assistant 0 0 0 0 0 0 1 td tr columns 12 0
-Professor O professor 0 0 0 0 1 0 1 td tr columns 12 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 td tr columns 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 2
-2031 O 2031 0 0 0 1 0 0 0 tr tbody columns 11 2
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 2
+2031 O 2031 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-910.962. O 910.962. 0 0 0 1 0 0 0 tr tbody columns 11 2
-- O - 0 0 0 0 0 0 0 tr tbody columns 11 2
-- O - 0 0 0 0 0 0 0 tr tbody columns 11 2
-- O - 0 0 0 0 0 0 0 tr tbody columns 11 2
-- O - 0 0 0 0 0 0 0 tr tbody columns 11 2
+910.962. O 910.962. 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tbody columns 11 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tbody columns 11 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tbody columns 11 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tbody columns 11 2
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 2
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 2
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 2
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 2
 
-Web O web 0 1 0 0 0 0 1 tr tbody columns 11 2
-Site O site 0 1 0 0 0 0 1 tr tbody columns 11 2
+Web O web 0 1 0 0 0 0 1 0 7 tr tbody columns 11 2
+Site O site 0 1 0 0 0 0 1 0 8 tr tbody columns 11 2
 
-Dr. O dr. 0 1 0 0 1 0 1 td tr columns 12 0
-Gene B-PER gene 0 1 0 0 0 0 1 td tr columns 12 0
-Tagliarini I-PER tagliarini 0 1 0 0 0 0 1 td tr columns 12 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Gene B-PER gene 0 1 0 0 0 0 1 5 3 td tr columns 12 0
+Tagliarini I-PER tagliarini 0 1 0 0 0 0 1 0 0 td tr columns 12 0
 
-Professor O professor 0 0 0 0 1 0 1 td tr columns 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 14
-2038 O 2038 0 0 0 1 0 0 0 tr tbody columns 11 14
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 14
+2038 O 2038 0 0 0 1 0 0 0 0 0 tr tbody columns 11 14
 
-910.962.7572 O 910.962.7572 0 0 0 1 0 0 0 tr tbody columns 11 14
+910.962.7572 O 910.962.7572 0 0 0 1 0 0 0 0 0 tr tbody columns 11 14
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 14
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 14
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 14
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 14
 
-Web O web 0 1 0 0 0 0 1 td tr columns 12 9
-Site O site 0 1 0 0 0 0 1 td tr columns 12 9
+Web O web 0 1 0 0 0 0 1 0 7 td tr columns 12 9
+Site O site 0 1 0 0 0 0 1 0 8 td tr columns 12 9
 
-Mr. O mr. 0 1 0 0 1 0 1 td tr columns 12 0
-Jack B-PER jack 1 1 0 0 0 0 1 td tr columns 12 0
-Tompkins I-PER tompkins 1 1 0 0 0 0 1 td tr columns 12 0
+Mr. O mr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Jack B-PER jack 1 1 0 0 0 0 1 7 5 td tr columns 12 0
+Tompkins I-PER tompkins 1 1 0 0 0 0 1 3 1 td tr columns 12 0
 
-Lecturer O lecturer 0 0 0 0 0 0 1 td tr columns 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 2
-2034 O 2034 0 0 0 1 0 0 0 tr tbody columns 11 2
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 2
+2034 O 2034 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-910.962.7013 O 910.962.7013 0 0 0 1 0 0 0 tr tbody columns 11 2
+910.962.7013 O 910.962.7013 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 2
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 2
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 2
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 2
 
-Web O web 0 1 0 0 0 0 1 td tr columns 12 9
-Site O site 0 1 0 0 0 0 1 td tr columns 12 9
+Web O web 0 1 0 0 0 0 1 0 7 td tr columns 12 9
+Site O site 0 1 0 0 0 0 1 0 8 td tr columns 12 9
 
-Dr. O dr. 0 1 0 0 1 0 1 td tr columns 12 0
-Ron B-PER ron 1 1 0 0 0 0 1 td tr columns 12 0
-Vetter I-PER vetter 1 1 0 0 0 0 1 td tr columns 12 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Ron B-PER ron 1 1 0 0 0 0 1 6 4 td tr columns 12 0
+Vetter I-PER vetter 1 1 0 0 0 0 1 4 1 td tr columns 12 0
 
-Professor O professor 0 0 0 0 1 0 1 td tr columns 12 2
-and O and 0 1 0 0 0 0 0 td tr columns 12 2
-Associate O associate 0 1 0 0 0 0 1 td tr columns 12 2
-Provost O provost 0 1 0 0 0 0 1 td tr columns 12 2
-for O for 0 1 0 0 0 0 0 td tr columns 12 2
-Research O research 0 1 0 0 0 0 1 td tr columns 12 2
-and O and 0 1 0 0 0 0 0 td tr columns 12 2
-Dean O dean 0 1 0 0 0 0 1 td tr columns 12 2
-, O , 0 0 0 0 0 0 0 td tr columns 12 2
-Graduate O graduate 1 1 0 0 0 0 1 td tr columns 12 2
-School O school 0 1 0 0 0 0 1 td tr columns 12 2
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr columns 12 2
+and O and 0 1 0 0 0 0 0 0 10 td tr columns 12 2
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr columns 12 2
+Provost O provost 0 1 0 0 0 0 1 3 3 td tr columns 12 2
+for O for 0 1 0 0 0 0 0 1 9 td tr columns 12 2
+Research O research 0 1 0 0 0 0 1 0 7 td tr columns 12 2
+and O and 0 1 0 0 0 0 0 0 10 td tr columns 12 2
+Dean O dean 0 1 0 0 0 0 1 6 5 td tr columns 12 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 td tr columns 12 2
+Graduate O graduate 0 1 0 0 0 0 1 0 6 td tr columns 12 2
+School O school 0 1 0 0 0 0 1 0 7 td tr columns 12 2
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 15
-2044 O 2044 0 0 0 1 0 0 0 tr tbody columns 11 15
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 15
+2044 O 2044 0 0 0 1 0 0 0 0 0 tr tbody columns 11 15
 
-910.9623224 O 910.9623224 0 0 0 1 0 0 0 tr tbody columns 11 15
+910.9623224 O 910.9623224 0 0 0 1 0 0 0 0 0 tr tbody columns 11 15
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 15
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 15
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 15
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 15
 
-Web O web 0 1 0 0 0 0 1 td tr columns 12 10
-Site O site 0 1 0 0 0 0 1 td tr columns 12 10
+Web O web 0 1 0 0 0 0 1 0 7 td tr columns 12 10
+Site O site 0 1 0 0 0 0 1 0 8 td tr columns 12 10
 
-Mr. O mr. 0 1 0 0 1 0 1 td tr columns 12 0
-Kyle B-PER kyle 0 1 0 0 0 0 1 td tr columns 12 0
-Bowman I-PER bowman 0 1 0 0 0 0 1 td tr columns 12 0
+Mr. O mr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Kyle B-PER kyle 0 1 0 0 0 0 1 6 2 td tr columns 12 0
+Bowman I-PER bowman 0 1 0 0 0 0 1 5 2 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 1
-2025 O 2025 0 0 0 1 0 0 0 tr tbody columns 11 1
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 1
+2025 O 2025 0 0 0 1 0 0 0 0 0 tr tbody columns 11 1
 
-910.962.3348 O 910.962.3348 0 0 0 1 0 0 0 tr tbody columns 11 1
+910.962.3348 O 910.962.3348 0 0 0 1 0 0 0 0 0 tr tbody columns 11 1
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 1
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 1
-bowmank O bowmank 0 0 0 0 0 0 0 tr tbody columns 11 1
-at O at 0 0 0 0 0 0 0 tr tbody columns 11 1
-uncw.edu O uncw.edu 0 0 0 0 0 0 0 tr tbody columns 11 1
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 1
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 1
+bowmank O bowmank 0 0 0 0 0 0 0 0 0 tr tbody columns 11 1
+at O at 0 1 0 0 0 0 0 0 8 tr tbody columns 11 1
+uncw.edu O uncw.edu 0 0 0 0 0 0 0 0 0 tr tbody columns 11 1
 
-Mr. O mr. 0 1 0 0 1 0 1 td tr columns 12 0
-Bradford B-PER bradford 0 1 0 0 0 0 1 td tr columns 12 0
-Brown I-PER brown 0 1 0 0 0 0 1 td tr columns 12 0
+Mr. O mr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Bradford B-PER bradford 0 1 0 0 0 0 1 5 2 td tr columns 12 0
+Brown I-PER brown 0 1 0 0 0 0 1 7 5 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 9
-2025 O 2025 0 0 0 1 0 0 0 tr tbody columns 11 9
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 9
+2025 O 2025 0 0 0 1 0 0 0 0 0 tr tbody columns 11 9
 
-910.962.3348 O 910.962.3348 0 0 0 1 0 0 0 tr tbody columns 11 9
+910.962.3348 O 910.962.3348 0 0 0 1 0 0 0 0 0 tr tbody columns 11 9
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 9
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 9
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 9
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 9
 
-Web O web 0 1 0 0 0 0 1 tr tbody columns 11 9
-Site O site 0 1 0 0 0 0 1 tr tbody columns 11 9
+Web O web 0 1 0 0 0 0 1 0 7 tr tbody columns 11 9
+Site O site 0 1 0 0 0 0 1 0 8 tr tbody columns 11 9
 
-Mr. O mr. 0 1 0 0 1 0 1 td tr columns 12 0
-Kevin B-PER kevin 0 1 0 0 0 0 1 td tr columns 12 0
-Carlin I-PER carlin 0 1 0 0 0 0 1 td tr columns 12 0
+Mr. O mr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Kevin B-PER kevin 0 1 0 0 0 0 1 8 4 td tr columns 12 0
+Carlin I-PER carlin 0 1 0 0 0 0 1 3 0 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 1
-2025 O 2025 0 0 0 1 0 0 0 tr tbody columns 11 1
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 1
+2025 O 2025 0 0 0 1 0 0 0 0 0 tr tbody columns 11 1
 
-910.962.3348 O 910.962.3348 0 0 0 1 0 0 0 tr tbody columns 11 1
+910.962.3348 O 910.962.3348 0 0 0 1 0 0 0 0 0 tr tbody columns 11 1
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 1
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 1
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 1
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 1
 
-Web O web 0 1 0 0 0 0 1 tr tbody columns 11 1
-Site O site 0 1 0 0 0 0 1 tr tbody columns 11 1
+Web O web 0 1 0 0 0 0 1 0 7 tr tbody columns 11 1
+Site O site 0 1 0 0 0 0 1 0 8 tr tbody columns 11 1
 
-Ms. O ms. 0 1 0 0 0 0 1 td tr columns 12 0
-Amrutha B-PER amrutha 1 1 0 0 0 0 1 td tr columns 12 0
-Sethuram I-PER sethuram 1 1 0 0 0 0 1 td tr columns 12 0
+Ms. O ms. 0 1 0 0 0 0 1 2 0 td tr columns 12 0
+Amrutha B-PER amrutha 1 1 0 0 0 0 1 2 0 td tr columns 12 0
+Sethuram I-PER sethuram 1 1 0 0 0 0 1 1 0 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 td tr columns 12 3
-2025 O 2025 0 0 0 1 0 0 0 td tr columns 12 3
+CIS O cis 0 0 0 0 0 0 1 0 3 td tr columns 12 3
+2025 O 2025 0 0 0 1 0 0 0 0 0 td tr columns 12 3
 
-910.962.3348 O 910.962.3348 0 0 0 1 0 0 0 td tr columns 12 5
+910.962.3348 O 910.962.3348 0 0 0 1 0 0 0 0 0 td tr columns 12 5
 
-Email O email 0 0 0 0 1 0 1 td tr columns 12 7
-: O : 0 0 0 0 0 0 0 td tr columns 12 7
+Email O email 0 0 0 0 1 0 1 0 6 td tr columns 12 7
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 td tr columns 12 7
 
-Web O web 0 1 0 0 0 0 1 td tr columns 12 11
-Site O site 0 1 0 0 0 0 1 td tr columns 12 11
+Web O web 0 1 0 0 0 0 1 0 7 td tr columns 12 11
+Site O site 0 1 0 0 0 0 1 0 8 td tr columns 12 11
 
-Mr. O mr. 0 1 0 0 1 0 1 td tr columns 12 0
-Bill B-PER bill 1 1 0 0 0 0 1 td tr columns 12 0
-Shipman I-PER shipman 1 1 0 0 0 0 1 td tr columns 12 0
+Mr. O mr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Bill B-PER bill 1 1 0 0 0 0 1 7 5 td tr columns 12 0
+Shipman I-PER shipman 1 1 0 0 0 0 1 3 0 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 td tr columns 12 3
-2025 O 2025 0 0 0 1 0 0 0 td tr columns 12 3
+CIS O cis 0 0 0 0 0 0 1 0 3 td tr columns 12 3
+2025 O 2025 0 0 0 1 0 0 0 0 0 td tr columns 12 3
 
-910.962.3348 O 910.962.3348 0 0 0 1 0 0 0 td tr columns 12 5
+910.962.3348 O 910.962.3348 0 0 0 1 0 0 0 0 0 td tr columns 12 5
 
-Email O email 0 0 0 0 1 0 1 td tr columns 12 7
-: O : 0 0 0 0 0 0 0 td tr columns 12 7
-shipmanw O shipmanw 0 0 0 0 0 0 0 td tr columns 12 7
-at O at 0 0 0 0 0 0 0 td tr columns 12 7
-uncw.edu O uncw.edu 0 0 0 0 0 0 0 td tr columns 12 7
+Email O email 0 0 0 0 1 0 1 0 6 td tr columns 12 7
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 td tr columns 12 7
+shipmanw O shipmanw 0 0 0 0 0 0 0 0 0 td tr columns 12 7
+at O at 0 1 0 0 0 0 0 0 8 td tr columns 12 7
+uncw.edu O uncw.edu 0 0 0 0 0 0 0 0 0 td tr columns 12 7
 
-Dr. O dr. 0 1 0 0 1 0 1 td tr columns 12 0
-Geoff B-PER geoff 1 1 0 0 0 0 1 td tr columns 12 0
-Stoker I-PER stoker 1 1 0 0 0 0 1 td tr columns 12 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Geoff B-PER geoff 1 1 0 0 0 0 1 5 3 td tr columns 12 0
+Stoker I-PER stoker 1 1 0 0 0 0 1 2 0 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 td tr columns 12 3
-2025 O 2025 0 0 0 1 0 0 0 td tr columns 12 3
+CIS O cis 0 0 0 0 0 0 1 0 3 td tr columns 12 3
+2025 O 2025 0 0 0 1 0 0 0 0 0 td tr columns 12 3
 
-910.962.3348 O 910.962.3348 0 0 0 1 0 0 0 td tr columns 12 5
+910.962.3348 O 910.962.3348 0 0 0 1 0 0 0 0 0 td tr columns 12 5
 
-Email O email 0 0 0 0 1 0 1 td tr columns 12 7
-: O : 0 0 0 0 0 0 0 td tr columns 12 7
-stokerg O stokerg 0 0 0 0 0 0 0 td tr columns 12 7
-at O at 0 0 0 0 0 0 0 td tr columns 12 7
-uncw.edu O uncw.edu 0 0 0 0 0 0 0 td tr columns 12 7
+Email O email 0 0 0 0 1 0 1 0 6 td tr columns 12 7
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 td tr columns 12 7
+stokerg O stokerg 0 0 0 0 0 0 0 0 0 td tr columns 12 7
+at O at 0 1 0 0 0 0 0 0 8 td tr columns 12 7
+uncw.edu O uncw.edu 0 0 0 0 0 0 0 0 0 td tr columns 12 7
 
-Mr. O mr. 0 1 0 0 1 0 1 td tr columns 12 0
-Sohail B-PER sohail 0 1 0 0 0 0 1 td tr columns 12 0
-Sukhera I-PER sukhera 0 0 0 0 0 0 1 td tr columns 12 0
+Mr. O mr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Sohail B-PER sohail 0 1 0 0 0 0 1 4 0 td tr columns 12 0
+Sukhera I-PER sukhera 0 0 0 0 0 0 1 0 0 td tr columns 12 0
 
-CIS O cis 0 0 0 0 0 0 1 tr tbody columns 11 2
-2025 O 2025 0 0 0 1 0 0 0 tr tbody columns 11 2
+CIS O cis 0 0 0 0 0 0 1 0 3 tr tbody columns 11 2
+2025 O 2025 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-910.962.3348 O 910.962.3348 0 0 0 1 0 0 0 tr tbody columns 11 2
+910.962.3348 O 910.962.3348 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
 
-Email O email 0 0 0 0 1 0 1 tr tbody columns 11 2
-: O : 0 0 0 0 0 0 0 tr tbody columns 11 2
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody columns 11 2
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr tbody columns 11 2
 
-Web O web 0 1 0 0 0 0 1 tr tbody columns 11 2
-Site O site 0 1 0 0 0 0 1 tr tbody columns 11 2
+Web O web 0 1 0 0 0 0 1 0 7 tr tbody columns 11 2
+Site O site 0 1 0 0 0 0 1 0 8 tr tbody columns 11 2
 
-Retired O retired 0 0 0 0 0 0 1 div div columns 8 388
-Faculty O faculty 0 0 0 0 0 0 1 div div columns 8 388
+Retired O retired 0 0 0 0 0 0 1 0 1 div div columns 8 388
+Faculty O faculty 0 0 0 0 0 0 1 0 7 div div columns 8 388
 
-Dr. O dr. 0 1 0 0 1 0 1 td tr columns 12 0
-David B-PER david 1 1 0 0 0 0 1 td tr columns 12 0
-Berman I-PER berman 1 1 0 0 0 0 1 td tr columns 12 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+David B-PER david 1 1 0 0 0 0 1 10 6 td tr columns 12 0
+Berman I-PER berman 1 1 0 0 0 0 1 5 1 td tr columns 12 0
 
-Professor O professor 0 0 0 0 1 0 1 td tr columns 12 0
-Emeritus O emeritus 0 1 0 0 1 0 1 td tr columns 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr columns 12 0
+Emeritus O emeritus 0 1 0 0 1 0 1 1 3 td tr columns 12 0
 
-Dr. O dr. 0 1 0 0 1 0 1 td tr columns 12 0
-Fletcher B-PER fletcher 0 1 0 0 0 0 1 td tr columns 12 0
-Norris I-PER norris 0 1 0 0 0 0 1 td tr columns 12 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Fletcher B-PER fletcher 0 1 0 0 0 0 1 5 3 td tr columns 12 0
+Norris I-PER norris 0 1 0 0 0 0 1 5 2 td tr columns 12 0
 
-Professor O professor 0 0 0 0 1 0 1 td tr columns 12 0
-Emeritus O emeritus 0 1 0 0 1 0 1 td tr columns 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr columns 12 0
+Emeritus O emeritus 0 1 0 0 1 0 1 1 3 td tr columns 12 0
 
-Dr. O dr. 0 1 0 0 1 0 1 td tr columns 12 0
-Harry B-PER harry 1 1 0 0 0 0 1 td tr columns 12 0
-Smith I-PER smith 1 1 0 0 0 0 1 td tr columns 12 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Harry B-PER harry 1 1 0 0 0 0 1 6 4 td tr columns 12 0
+Smith I-PER smith 1 1 0 0 0 0 1 8 5 td tr columns 12 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr columns 12 0
-Professor O professor 0 0 0 0 1 0 1 td tr columns 12 0
-Emeritus O emeritus 0 1 0 0 1 0 1 td tr columns 12 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr columns 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr columns 12 0
+Emeritus O emeritus 0 1 0 0 1 0 1 1 3 td tr columns 12 0
 
-We O we 0 1 0 0 0 0 1 tr tbody columns 11 2
-mourn O mourn 0 0 0 0 0 0 0 tr tbody columns 11 2
-the O the 0 1 0 0 0 0 0 tr tbody columns 11 2
-passing O passing 0 0 0 0 0 0 0 tr tbody columns 11 2
-of O of 0 1 0 0 0 0 0 tr tbody columns 11 2
-a O a 0 1 0 0 0 0 0 tr tbody columns 11 2
-friend O friend 0 0 0 0 0 0 0 tr tbody columns 11 2
-and O and 0 1 0 0 0 0 0 tr tbody columns 11 2
-colleague. O colleague. 0 0 0 0 0 0 0 tr tbody columns 11 2
+We O we 0 1 0 0 0 0 1 3 8 tr tbody columns 11 2
+mourn O mourn 0 0 0 0 0 0 0 0 0 tr tbody columns 11 2
+the O the 0 1 0 0 0 0 0 0 10 tr tbody columns 11 2
+passing O passing 0 0 0 0 0 0 0 0 1 tr tbody columns 11 2
+of O of 0 1 0 0 0 0 0 2 10 tr tbody columns 11 2
+a O a 0 1 0 0 0 0 0 3 11 tr tbody columns 11 2
+friend O friend 0 0 0 0 0 0 0 0 3 tr tbody columns 11 2
+and O and 0 1 0 0 0 0 0 0 10 tr tbody columns 11 2
+colleague. O colleague. 0 0 0 0 0 0 0 0 0 tr tbody columns 11 2
 
-Read O read 0 1 0 0 0 0 1 tr tbody columns 11 2
-Dr. O dr. 0 1 0 0 1 0 1 tr tbody columns 11 2
-Smith O smith 0 1 0 0 0 0 1 tr tbody columns 11 2
-' O ' 0 0 0 0 0 0 0 tr tbody columns 11 2
-s O s 0 0 0 0 0 0 0 tr tbody columns 11 2
-2004 O 2004 0 0 0 1 0 0 0 tr tbody columns 11 2
-Interview O interview 0 0 0 0 0 0 1 td tr columns 12 4
-. O . 0 1 0 0 0 0 0 tr tbody columns 11 2
+Read O read 0 1 0 0 0 0 1 5 6 tr tbody columns 11 2
+Dr. O dr. 0 1 0 0 1 0 1 2 0 tr tbody columns 11 2
+Smith's O smith's 0 0 0 0 0 0 1 0 0 tr tbody columns 11 2
+2004 O 2004 0 0 0 1 0 0 0 0 0 tr tbody columns 11 2
+Interview O interview 0 0 0 0 0 0 1 0 4 td tr columns 12 4
+. O . 0 1 0 0 0 0 0 1 0 tr tbody columns 11 2
 
-Dr. O dr. 0 1 0 0 1 0 1 p td columns 13 0
-Barbara B-PER barbara 0 1 0 0 0 0 1 p td columns 13 0
-A. I-PER a. 0 1 0 0 0 0 1 p td columns 13 0
-Greim I-PER greim 0 1 0 0 0 0 1 p td columns 13 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 p td columns 13 0
+Barbara B-PER barbara 0 1 0 0 0 0 1 7 5 p td columns 13 0
+A. I-PER a. 0 1 0 0 0 0 1 11 0 p td columns 13 0
+Greim I-PER greim 0 1 0 0 0 0 1 1 0 p td columns 13 0
 
-We O we 0 1 0 0 0 0 1 td tr columns 12 0
-mourn O mourn 0 0 0 0 0 0 0 td tr columns 12 0
-the O the 0 1 0 0 0 0 0 td tr columns 12 0
-passing O passing 0 0 0 0 0 0 0 td tr columns 12 0
-of O of 0 1 0 0 0 0 0 td tr columns 12 0
-a O a 0 1 0 0 0 0 0 td tr columns 12 0
-friend O friend 0 0 0 0 0 0 0 td tr columns 12 0
-, O , 0 0 0 0 0 0 0 td tr columns 12 0
-colleague O colleague 0 0 0 0 0 0 0 td tr columns 12 0
-, O , 0 0 0 0 0 0 0 td tr columns 12 0
-and O and 0 1 0 0 0 0 0 td tr columns 12 0
-our O our 0 0 0 0 0 0 0 td tr columns 12 0
-first O first 0 0 0 0 0 0 0 td tr columns 12 0
-department O department 0 0 0 0 0 0 0 td tr columns 12 0
-chair. O chair. 0 0 0 0 0 0 0 td tr columns 12 0
+We O we 0 1 0 0 0 0 1 3 8 td tr columns 12 0
+mourn O mourn 0 0 0 0 0 0 0 0 0 td tr columns 12 0
+the O the 0 1 0 0 0 0 0 0 10 td tr columns 12 0
+passing O passing 0 0 0 0 0 0 0 0 1 td tr columns 12 0
+of O of 0 1 0 0 0 0 0 2 10 td tr columns 12 0
+a O a 0 1 0 0 0 0 0 3 11 td tr columns 12 0
+friend O friend 0 0 0 0 0 0 0 0 3 td tr columns 12 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 td tr columns 12 0
+colleague O colleague 0 0 0 0 0 0 0 0 0 td tr columns 12 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 td tr columns 12 0
+and O and 0 1 0 0 0 0 0 0 10 td tr columns 12 0
+our O our 0 0 0 0 0 0 0 0 8 td tr columns 12 0
+first O first 0 0 0 0 0 0 0 0 7 td tr columns 12 0
+department O department 0 0 0 0 0 0 0 0 7 td tr columns 12 0
+chair. O chair. 0 0 0 0 0 0 0 0 0 td tr columns 12 0
 
-Dr. O dr. 0 1 0 0 1 0 1 td tr columns 12 0
-Greim O greim 0 1 0 0 0 0 1 td tr columns 12 0
-' O ' 0 0 0 0 0 0 0 td tr columns 12 0
-s O s 0 0 0 0 0 0 0 td tr columns 12 0
-obituary O obituary 0 0 0 0 0 0 0 p td columns 13 3
-. O . 0 1 0 0 0 0 0 td tr columns 12 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr columns 12 0
+Greim's O greim's 0 0 0 0 0 0 1 0 0 td tr columns 12 0
+obituary O obituary 0 0 0 0 0 0 0 0 1 p td columns 13 3
+. O . 0 1 0 0 0 0 0 1 0 td tr columns 12 0
 
-Department O department 0 0 0 0 0 0 1 p div columns 9 0
-of O of 0 1 0 0 0 0 0 p div columns 9 0
-Computer O computer 0 0 0 0 0 0 1 p div columns 9 0
-Science O science 0 0 0 0 0 0 1 p div columns 9 0
-Organizational O organizational 0 0 0 0 0 0 1 p div columns 9 0
-Chart O chart 0 1 0 0 0 0 1 p div columns 9 0
+Department O department 0 0 0 0 0 0 1 0 7 p div columns 9 0
+of O of 0 1 0 0 0 0 0 2 10 p div columns 9 0
+Computer O computer 0 0 0 0 0 0 1 0 7 p div columns 9 0
+Science O science 0 0 0 0 0 0 1 0 7 p div columns 9 0
+Organizational O organizational 0 0 0 0 0 0 1 0 3 p div columns 9 0
+Chart O chart 0 1 0 0 0 0 1 1 4 p div columns 9 0
 
-The O the 0 1 0 0 0 0 1 h4 div columns 8 0
-University O university 0 1 0 0 0 0 1 h4 div columns 8 0
+The O the 0 1 0 0 0 0 1 5 10 h4 div columns 8 0
+University O university 0 1 0 0 0 0 1 1 8 h4 div columns 8 0
 
-Academics O academics 0 0 0 0 0 0 1 li ul no-bullet 9 0
+Academics O academics 0 0 0 0 0 0 1 0 5 li ul no-bullet 9 0
 
-Admissions O admissions 0 0 0 0 0 0 1 li ul no-bullet 9 0
+Admissions O admissions 0 0 0 0 0 0 1 0 7 li ul no-bullet 9 0
 
-Arts O arts 0 1 0 0 0 0 1 li ul no-bullet 9 0
+Arts O arts 0 1 0 0 0 0 1 3 7 li ul no-bullet 9 0
 
-Athletics O athletics 0 0 0 0 0 0 1 li ul no-bullet 9 0
+Athletics O athletics 0 0 0 0 0 0 1 0 6 li ul no-bullet 9 0
 
-Financial O financial 0 0 0 0 0 0 1 li ul no-bullet 9 0
-Aid O aid 0 1 0 0 0 0 1 li ul no-bullet 9 0
+Financial O financial 0 0 0 0 0 0 1 0 7 li ul no-bullet 9 0
+Aid O aid 0 1 0 0 0 0 1 1 7 li ul no-bullet 9 0
 
-Giving O giving 0 0 0 0 0 0 1 li ul no-bullet 9 0
+Giving O giving 0 0 0 0 0 0 1 0 4 li ul no-bullet 9 0
 
-International O international 0 0 0 0 0 0 1 li ul no-bullet 9 0
+International O international 0 0 0 0 0 0 1 0 8 li ul no-bullet 9 0
 
-Library O library 0 0 0 0 0 0 1 li ul no-bullet 9 0
+Library O library 0 0 0 0 0 0 1 0 7 li ul no-bullet 9 0
 
-Offices O offices 0 0 0 0 0 0 1 li ul no-bullet 9 0
-& O & 0 0 0 0 0 0 0 li ul no-bullet 9 0
-Services O services 0 0 0 0 0 0 1 li ul no-bullet 9 0
+Offices O offices 0 0 0 0 0 0 1 0 4 li ul no-bullet 9 0
+& O & 0 0 0 0 0 0 0 0 0 li ul no-bullet 9 0
+Services O services 0 0 0 0 0 0 1 0 8 li ul no-bullet 9 0
 
-Research O research 0 1 0 0 0 0 1 li ul no-bullet 9 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul no-bullet 9 0
 
-Academic O academic 0 0 0 0 0 0 1 h4 div columns 8 0
-Units O units 0 0 0 0 0 0 1 h4 div columns 8 0
+Academic O academic 0 0 0 0 0 0 1 0 8 h4 div columns 8 0
+Units O units 0 0 0 0 0 0 1 0 4 h4 div columns 8 0
 
-Graduate O graduate 1 1 0 0 0 0 1 li ul no-bullet 9 0
-School O school 0 1 0 0 0 0 1 li ul no-bullet 9 0
+Graduate O graduate 0 1 0 0 0 0 1 0 6 li ul no-bullet 9 0
+School O school 0 1 0 0 0 0 1 0 7 li ul no-bullet 9 0
 
-Cameron O cameron 0 1 0 0 0 0 1 li ul no-bullet 9 0
-School O school 0 1 0 0 0 0 1 li ul no-bullet 9 0
-of O of 0 1 0 0 0 0 0 li ul no-bullet 9 0
-Business O business 0 0 0 0 0 0 1 li ul no-bullet 9 0
+Cameron O cameron 0 1 0 0 0 0 1 6 3 li ul no-bullet 9 0
+School O school 0 1 0 0 0 0 1 0 7 li ul no-bullet 9 0
+of O of 0 1 0 0 0 0 0 2 10 li ul no-bullet 9 0
+Business O business 0 0 0 0 0 0 1 0 7 li ul no-bullet 9 0
 
-Watson O watson 0 1 0 0 0 0 1 li ul no-bullet 9 0
-College O college 0 0 0 0 0 0 1 li ul no-bullet 9 0
-of O of 0 1 0 0 0 0 0 li ul no-bullet 9 0
-Education O education 0 0 0 0 0 0 1 li ul no-bullet 9 0
+Watson O watson 0 1 0 0 0 0 1 6 4 li ul no-bullet 9 0
+College O college 0 0 0 0 0 0 1 0 8 li ul no-bullet 9 0
+of O of 0 1 0 0 0 0 0 2 10 li ul no-bullet 9 0
+Education O education 0 0 0 0 0 0 1 0 8 li ul no-bullet 9 0
 
-College O college 0 0 0 0 0 0 1 li ul no-bullet 9 0
-of O of 0 1 0 0 0 0 0 li ul no-bullet 9 0
-Arts O arts 0 1 0 0 0 0 1 li ul no-bullet 9 0
-& O & 0 0 0 0 0 0 0 li ul no-bullet 9 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul no-bullet 9 0
+College O college 0 0 0 0 0 0 1 0 8 li ul no-bullet 9 0
+of O of 0 1 0 0 0 0 0 2 10 li ul no-bullet 9 0
+Arts O arts 0 1 0 0 0 0 1 3 7 li ul no-bullet 9 0
+& O & 0 0 0 0 0 0 0 0 0 li ul no-bullet 9 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul no-bullet 9 0
 
-College O college 0 0 0 0 0 0 1 li ul no-bullet 9 0
-of O of 0 1 0 0 0 0 0 li ul no-bullet 9 0
-Health O health 0 1 0 0 0 0 1 li ul no-bullet 9 0
-& O & 0 0 0 0 0 0 0 li ul no-bullet 9 0
-Human O human 0 1 0 0 0 0 1 li ul no-bullet 9 0
-Services O services 0 0 0 0 0 0 1 li ul no-bullet 9 0
+College O college 0 0 0 0 0 0 1 0 8 li ul no-bullet 9 0
+of O of 0 1 0 0 0 0 0 2 10 li ul no-bullet 9 0
+Health O health 0 1 0 0 0 0 1 0 7 li ul no-bullet 9 0
+& O & 0 0 0 0 0 0 0 0 0 li ul no-bullet 9 0
+Human O human 0 1 0 0 0 0 1 2 5 li ul no-bullet 9 0
+Services O services 0 0 0 0 0 0 1 0 8 li ul no-bullet 9 0
 
-Center O center 0 1 0 0 0 0 1 li ul no-bullet 9 0
-for O for 0 1 0 0 0 0 0 li ul no-bullet 9 0
-Marine O marine 0 1 0 0 0 0 1 li ul no-bullet 9 0
-Science O science 0 0 0 0 0 0 1 li ul no-bullet 9 0
+Center O center 0 1 0 0 0 0 1 1 7 li ul no-bullet 9 0
+for O for 0 1 0 0 0 0 0 1 9 li ul no-bullet 9 0
+Marine O marine 0 1 0 0 0 0 1 4 5 li ul no-bullet 9 0
+Science O science 0 0 0 0 0 0 1 0 7 li ul no-bullet 9 0
 
-Helpful O helpful 0 0 0 0 0 0 1 h4 div columns 8 0
-Links O links 0 1 0 0 0 0 1 h4 div columns 8 0
+Helpful O helpful 0 0 0 0 0 0 1 0 3 h4 div columns 8 0
+Links O links 0 1 0 0 0 0 1 2 7 h4 div columns 8 0
 
-Accessibility O accessibility 0 0 0 0 0 0 1 li ul no-bullet 9 0
+Accessibility O accessibility 0 0 0 0 0 0 1 0 6 li ul no-bullet 9 0
 
-Alumni O alumni 0 0 0 0 0 0 1 li ul no-bullet 9 0
+Alumni O alumni 0 0 0 0 0 0 1 0 7 li ul no-bullet 9 0
 
-Calendar O calendar 0 0 0 0 0 0 1 li ul no-bullet 9 0
+Calendar O calendar 0 0 0 0 0 0 1 0 6 li ul no-bullet 9 0
 
-Current O current 0 1 0 0 0 0 1 li ul no-bullet 9 0
-Students O students 0 0 0 0 0 0 1 li ul no-bullet 9 0
+Current O current 0 1 0 0 0 0 1 1 6 li ul no-bullet 9 0
+Students O students 0 0 0 0 0 0 1 0 8 li ul no-bullet 9 0
 
-Diversity O diversity 0 0 0 0 0 0 1 li ul no-bullet 9 0
+Diversity O diversity 0 0 0 0 0 0 1 0 4 li ul no-bullet 9 0
 
-Emergency O emergency 0 0 0 0 1 0 1 li ul no-bullet 9 0
-& O & 0 0 0 0 0 0 0 li ul no-bullet 9 0
-Safety O safety 0 0 0 0 0 0 1 li ul no-bullet 9 0
+Emergency O emergency 0 0 0 0 1 0 1 0 6 li ul no-bullet 9 0
+& O & 0 0 0 0 0 0 0 0 0 li ul no-bullet 9 0
+Safety O safety 0 0 0 0 0 0 1 0 6 li ul no-bullet 9 0
 
-Jobs O jobs 0 1 0 0 0 0 1 li ul no-bullet 9 0
+Jobs O jobs 0 1 0 0 0 0 1 0 4 li ul no-bullet 9 0
 
-News O news 0 0 0 0 0 0 1 li ul no-bullet 9 0
+News O news 0 0 0 0 0 0 1 0 7 li ul no-bullet 9 0
 
-Title O title 0 1 0 0 0 0 1 li ul no-bullet 9 0
-IX O ix 0 1 0 0 0 0 1 li ul no-bullet 9 0
+Title O title 0 1 0 0 0 0 1 0 8 li ul no-bullet 9 0
+IX O ix 0 1 0 0 0 0 1 0 5 li ul no-bullet 9 0
 
-Virtual O virtual 0 0 0 0 0 0 1 li ul no-bullet 9 0
-Tour O tour 0 1 0 0 0 0 1 li ul no-bullet 9 0
+Virtual O virtual 0 0 0 0 0 0 1 0 6 li ul no-bullet 9 0
+Tour O tour 0 1 0 0 0 0 1 1 7 li ul no-bullet 9 0
 
-Visit O visit 0 1 0 0 0 0 1 li ul no-bullet 9 0
+Visit O visit 0 1 0 0 0 0 1 1 6 li ul no-bullet 9 0
 
-UNC O unc 0 0 0 0 0 0 1 body html no-js 4 617
-Wilmington O wilmington 0 1 0 0 0 0 1 body html no-js 4 617
-| O | 0 0 0 0 0 0 0 body html no-js 4 617
-601 O 601 0 0 0 1 0 0 0 body html no-js 4 617
-S. O s. 0 1 0 0 0 0 1 body html no-js 4 617
-College O college 0 0 0 0 0 0 1 body html no-js 4 617
-Road O road 0 0 0 0 0 0 1 body html no-js 4 617
-, O , 0 0 0 0 0 0 0 body html no-js 4 617
-Wilmington O wilmington 0 1 0 0 0 0 1 body html no-js 4 617
-NC O nc 0 0 0 0 0 0 1 body html no-js 4 617
-28403 O 28403 0 0 0 1 0 0 0 body html no-js 4 617
-| O | 0 0 0 0 0 0 0 body html no-js 4 617
-910.962.3000 O 910.962.3000 0 0 0 1 0 0 0 body html no-js 4 617
-| O | 0 0 0 0 0 0 0 body html no-js 4 617
-About O about 0 0 0 0 0 0 1 footer body no-js 5 0
-this O this 0 0 0 0 0 0 0 footer body no-js 5 0
-Site O site 0 1 0 0 0 0 1 footer body no-js 5 0
-| O | 0 0 0 0 0 0 0 body html no-js 4 617
-Copyright O copyright 0 0 0 0 0 0 1 footer body no-js 5 1
-Notice O notice 0 0 0 0 0 0 1 footer body no-js 5 1
-| O | 0 0 0 0 0 0 0 body html no-js 4 617
-Feedback O feedback 0 0 0 0 0 0 1 footer body no-js 5 2
-| O | 0 0 0 0 0 0 0 body html no-js 4 617
-Page O page 0 1 0 0 0 0 1 body html no-js 4 617
-maintained O maintained 0 0 0 0 0 0 0 body html no-js 4 617
-by O by 0 1 0 0 0 0 0 body html no-js 4 617
-C. O c. 0 1 0 0 0 0 1 footer body no-js 5 3
-Guinn O guinn 0 1 0 0 0 0 1 footer body no-js 5 3
+UNC O unc 0 0 0 0 0 0 1 0 1 body html no-js 4 617
+Wilmington O wilmington 0 1 0 0 0 0 1 0 1 body html no-js 4 617
+| O | 0 0 0 0 0 0 0 0 0 body html no-js 4 617
+601 O 601 0 0 0 1 0 0 0 0 0 body html no-js 4 617
+S. O s. 0 1 0 0 0 0 1 10 0 body html no-js 4 617
+College O college 0 0 0 0 0 0 1 0 8 body html no-js 4 617
+Road O road 0 0 0 0 0 0 1 0 5 body html no-js 4 617
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 body html no-js 4 617
+Wilmington O wilmington 0 1 0 0 0 0 1 0 1 body html no-js 4 617
+NC O nc 0 0 0 0 0 0 1 0 5 body html no-js 4 617
+28403 O 28403 0 0 0 1 0 0 0 0 0 body html no-js 4 617
+| O | 0 0 0 0 0 0 0 0 0 body html no-js 4 617
+910.962.3000 O 910.962.3000 0 0 0 1 0 0 0 0 0 body html no-js 4 617
+| O | 0 0 0 0 0 0 0 0 0 body html no-js 4 617
+About O about 0 0 0 0 0 0 1 0 8 footer body no-js 5 0
+this O this 0 0 0 0 0 0 0 0 8 footer body no-js 5 0
+Site O site 0 1 0 0 0 0 1 0 8 footer body no-js 5 0
+| O | 0 0 0 0 0 0 0 0 0 body html no-js 4 617
+Copyright O copyright 0 0 0 0 0 0 1 0 6 footer body no-js 5 1
+Notice O notice 0 0 0 0 0 0 1 0 6 footer body no-js 5 1
+| O | 0 0 0 0 0 0 0 0 0 body html no-js 4 617
+Feedback O feedback 0 0 0 0 0 0 1 0 6 footer body no-js 5 2
+| O | 0 0 0 0 0 0 0 0 0 body html no-js 4 617
+Page O page 0 1 0 0 0 0 1 5 9 body html no-js 4 617
+maintained O maintained 0 0 0 0 0 0 0 0 3 body html no-js 4 617
+by O by 0 1 0 0 0 0 0 0 8 body html no-js 4 617
+C. O c. 0 1 0 0 0 0 1 10 0 footer body no-js 5 3
+Guinn O guinn 0 1 0 0 0 0 1 2 0 footer body no-js 5 3

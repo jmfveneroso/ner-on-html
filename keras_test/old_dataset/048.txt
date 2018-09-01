@@ -1,0 +1,1372 @@
+XIAMEN O xiamen 0 0 0 0 0 0 1 meta meta none 6 0
+UNIVERSITY O university 0 0 0 0 0 0 1 meta meta none 6 0
+
+XIAMEN O xiamen 0 0 0 0 0 0 1 div body top 5 1
+UNIVERSITY O university 0 0 0 0 0 0 1 div body top 5 1
+
+SCHOOL O school 0 0 0 0 0 0 1 div body top 5 1
+OF O of 0 0 0 0 0 0 1 div body top 5 1
+INFORMATION O information 0 0 0 0 0 0 1 div body top 5 1
+SCIENCE O science 0 0 0 0 0 0 1 div body top 5 1
+AND O and 0 0 0 0 0 0 1 div body top 5 1
+ENGINEERING O engineering 0 0 0 0 0 0 1 div body top 5 1
+
+Home O home 0 1 0 0 0 0 1 li ul nav_ul 7 0
+
+About O about 0 0 0 0 0 0 1 li ul nav_ul 7 0
+
+School O school 0 1 0 0 0 0 1 li ul nav_ul 9 0
+of O of 0 1 0 0 0 0 0 li ul nav_ul 9 0
+Informatio... O informatio... 0 0 0 0 0 0 1 li ul nav_ul 9 0
+
+Xiamen O xiamen 0 1 0 0 0 0 1 li ul nav_ul 9 0
+University O university 0 1 0 0 0 0 1 li ul nav_ul 9 0
+
+History O history 0 0 0 0 0 0 1 li ul nav_ul 9 0
+
+Facts&Figures O facts&figures 0 0 0 0 0 0 1 li ul nav_ul 9 0
+; O ; 0 0 0 0 0 0 0 li ul nav_ul 9 0
+
+Annual O annual 0 0 0 0 0 0 1 li ul nav_ul 9 0
+Report O report 0 0 0 0 0 0 1 li ul nav_ul 9 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul nav_ul 9 0
+Us O us 0 1 0 0 0 0 1 li ul nav_ul 9 0
+
+Programs O programs 0 0 0 0 0 0 1 li ul nav_ul 7 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul nav_ul 9 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul nav_ul 9 0
+
+Admission O admission 0 0 0 0 0 0 1 li ul nav_ul 9 0
+
+Professional O professional 0 0 0 0 1 0 1 li ul nav_ul 9 0
+Students O students 0 0 0 0 0 0 1 li ul nav_ul 9 0
+
+Center O center 0 1 0 0 0 0 1 li ul nav_ul 9 0
+of O of 0 1 0 0 0 0 0 li ul nav_ul 9 0
+Collaborative O collaborative 0 0 0 0 0 0 1 li ul nav_ul 9 0
+
+People O people 0 1 0 0 0 0 1 li ul nav_ul 7 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul nav_ul 9 0
+
+Staff O staff 0 1 0 0 0 0 1 li ul nav_ul 9 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul nav_ul 9 0
+
+Work O work 0 1 0 0 0 0 1 li ul nav_ul 9 0
+Opportunity O opportunity 0 0 0 0 0 0 1 li ul nav_ul 9 0
+
+Departments O departments 0 0 0 0 0 0 1 li ul nav_ul 7 0
+
+Department O department 0 0 0 0 0 0 1 li ul nav_ul 9 0
+of O of 0 1 0 0 0 0 0 li ul nav_ul 9 0
+Comput... O comput... 0 0 0 0 0 0 1 li ul nav_ul 9 0
+
+Department O department 0 0 0 0 0 0 1 li ul nav_ul 9 0
+of O of 0 1 0 0 0 0 0 li ul nav_ul 9 0
+Commun... O commun... 0 0 0 0 0 0 1 li ul nav_ul 9 0
+
+Department O department 0 0 0 0 0 0 1 li ul nav_ul 9 0
+of O of 0 1 0 0 0 0 0 li ul nav_ul 9 0
+Electr... O electr... 0 0 0 0 0 0 1 li ul nav_ul 9 0
+
+Department O department 0 0 0 0 0 0 1 li ul nav_ul 9 0
+of O of 0 1 0 0 0 0 0 li ul nav_ul 9 0
+Cognit... O cognit... 0 0 0 0 0 0 1 li ul nav_ul 9 0
+
+Research O research 0 1 0 0 0 0 1 li ul nav_ul 7 0
+
+Key O key 0 1 0 0 0 0 1 li ul nav_ul 9 0
+Labs O labs 0 1 0 0 0 0 1 li ul nav_ul 9 0
+
+Research O research 0 1 0 0 0 0 1 li ul nav_ul 9 0
+Institutes O institutes 0 0 0 0 0 0 1 li ul nav_ul 9 0
+
+Research O research 0 1 0 0 0 0 1 li ul nav_ul 9 0
+Centers O centers 0 0 0 0 0 0 1 li ul nav_ul 9 0
+
+Home O home 0 1 0 0 0 0 1 div body pos 5 0
+> O > 0 0 0 0 0 0 0 body html pos 4 72
+People O people 0 1 0 0 0 0 1 div body pos 5 1
+
+People O people 0 1 0 0 0 0 1 div div pl10 6 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul ln_li 8 0
+
+Professor O professor 0 0 0 0 1 0 1 li ul sub_ul 10 0
+
+Associate O associate 0 1 0 0 0 0 1 li ul sub_ul 10 0
+Professor O professor 0 0 0 0 1 0 1 li ul sub_ul 10 0
+
+Assistant O assistant 0 0 0 0 0 0 1 li ul sub_ul 10 0
+Professor O professor 0 0 0 0 1 0 1 li ul sub_ul 10 0
+
+Adjunct O adjunct 0 0 0 0 0 0 1 li ul sub_ul 10 0
+Professor O professor 0 0 0 0 1 0 1 li ul sub_ul 10 0
+
+Honorary O honorary 0 0 0 0 1 0 1 li ul sub_ul 10 0
+Professor O professor 0 0 0 0 1 0 1 li ul sub_ul 10 0
+
+Distinguished O distinguished 0 0 0 0 0 0 1 li ul sub_ul 10 0
+Professor O professor 0 0 0 0 1 0 1 li ul sub_ul 10 0
+
+Staff O staff 0 1 0 0 0 0 1 li ul ln_li 8 0
+
+Department O department 0 0 0 0 0 0 1 li ul sub_ul 10 0
+of O of 0 1 0 0 0 0 0 li ul sub_ul 10 0
+Computer O computer 0 0 0 0 0 0 1 li ul sub_ul 10 0
+Science O science 0 0 0 0 0 0 1 li ul sub_ul 10 0
+
+Department O department 0 0 0 0 0 0 1 li ul sub_ul 10 0
+of O of 0 1 0 0 0 0 0 li ul sub_ul 10 0
+Electronic O electronic 0 0 0 0 0 0 1 li ul sub_ul 10 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul sub_ul 10 0
+
+Department O department 0 0 0 0 0 0 1 li ul sub_ul 10 0
+of O of 0 1 0 0 0 0 0 li ul sub_ul 10 0
+Communication O communication 0 0 0 0 0 0 1 li ul sub_ul 10 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul sub_ul 10 0
+
+Department O department 0 0 0 0 0 0 1 li ul sub_ul 10 0
+of O of 0 1 0 0 0 0 0 li ul sub_ul 10 0
+Cognitive O cognitive 0 0 0 0 0 0 1 li ul sub_ul 10 0
+Science O science 0 0 0 0 0 0 1 li ul sub_ul 10 0
+and O and 0 1 0 0 0 0 0 li ul sub_ul 10 0
+Technology O technology 0 0 0 0 0 0 1 li ul sub_ul 10 0
+
+Alumni O alumni 0 0 0 0 0 0 1 p li ln_li 9 0
+
+Work O work 0 1 0 0 0 0 1 p li ln_li 9 0
+Opportunity O opportunity 0 0 0 0 0 0 1 p li ln_li 9 0
+
+Faculty O faculty 0 0 0 0 0 0 1 div div mb30 6 0
+
+Weihua B-PER weihua 1 1 0 0 0 0 1 b p pr15 11 0
+Zhuang I-PER zhuang 1 1 0 0 0 0 1 b p pr15 11 0
+: O : 0 0 0 0 0 0 0 b p pr15 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div pr15 10 2
+D. O d. 0 1 0 0 0 0 1 p div pr15 10 2
+of O of 0 1 0 0 0 0 0 p div pr15 10 2
+University O university 0 1 0 0 0 0 1 p div pr15 10 2
+of O of 0 1 0 0 0 0 0 p div pr15 10 2
+New O new 0 1 0 0 0 0 1 p div pr15 10 2
+Brunswick O brunswick 0 1 0 0 0 0 1 p div pr15 10 2
+, O , 0 0 0 0 0 0 0 p div pr15 10 2
+Fellow O fellow 0 0 0 0 0 0 1 p div pr15 10 2
+of O of 0 1 0 0 0 0 0 p div pr15 10 2
+the O the 0 1 0 0 0 0 0 p div pr15 10 2
+Canadian O canadian 0 0 0 0 0 0 1 p div pr15 10 2
+Academy O academy 0 0 0 0 0 0 1 p div pr15 10 2
+of O of 0 1 0 0 0 0 0 p div pr15 10 2
+Engineering O engineering 0 0 0 0 0 0 1 p div pr15 10 2
+, O , 0 0 0 0 0 0 0 p div pr15 10 2
+IEEE O ieee 0 0 0 0 0 0 1 p div pr15 10 2
+Fellow O fellow 0 0 0 0 0 0 1 p div pr15 10 2
+, O , 0 0 0 0 0 0 0 p div pr15 10 2
+National O national 0 0 0 0 0 0 1 p div pr15 10 2
+“ O “ 0 0 0 0 0 0 0 p div pr15 10 2
+1000 O 1000 0 0 0 1 0 0 0 p div pr15 10 2
+Talent O talent 0 1 0 0 0 0 1 p div pr15 10 2
+Plan O plan 0 1 0 0 0 0 1 p div pr15 10 2
+” O ” 0 0 0 0 0 0 0 p div pr15 10 2
+Lecture O lecture 0 0 0 0 0 0 1 p div pr15 10 2
+Professor O professor 0 0 0 0 1 0 1 p div pr15 10 2
+, O , 0 0 0 0 0 0 0 p div pr15 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div pr15 10 2
+“ O “ 0 0 0 0 0 0 0 p div pr15 10 2
+100 O 100 0 0 0 1 0 0 0 p div pr15 10 2
+Talent O talent 0 1 0 0 0 0 1 p div pr15 10 2
+Plan O plan 0 1 0 0 0 0 1 p div pr15 10 2
+” O ” 0 0 0 0 0 0 0 p div pr15 10 2
+Professor O professor 0 0 0 0 1 0 1 p div pr15 10 2
+
+Jun B-PER jun 1 1 0 0 0 0 1 b p MsoNormal 11 0
+Li I-PER li 1 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D. O d. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Cape O cape 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Town O town 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 2
+“ O “ 0 0 0 0 0 0 0 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Leadership O leadership 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Talent O talent 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Program O program 0 0 0 0 0 0 1 p div MsoNormal 10 2
+” O ” 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Professor O professor 0 0 0 0 1 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Tianjin O tianjin 0 1 0 0 0 0 1 p div MsoNormal 10 2
+“ O “ 0 0 0 0 0 0 0 p div MsoNormal 10 2
+1000 O 1000 0 0 0 1 0 0 0 p div MsoNormal 10 2
+Talent O talent 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Plan O plan 0 1 0 0 0 0 1 p div MsoNormal 10 2
+” O ” 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Lecture O lecture 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Professor O professor 0 0 0 0 1 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+IEEE O ieee 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Senior O senior 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Member O member 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 2
+“ O “ 0 0 0 0 0 0 0 p div MsoNormal 10 2
+100 O 100 0 0 0 1 0 0 0 p div MsoNormal 10 2
+Talent O talent 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Plan O plan 0 1 0 0 0 0 1 p div MsoNormal 10 2
+” O ” 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Professor O professor 0 0 0 0 1 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Xiamen O xiamen 0 1 0 0 0 0 1 p div MsoNormal 10 2
+“ O “ 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Double O double 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Hundred O hundred 0 0 0 0 0 0 1 p div MsoNormal 10 2
+” O ” 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Talent O talent 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Professor O professor 0 0 0 0 1 0 1 p div MsoNormal 10 2
+
+Xiaojiang B-PER xiaojiang 1 1 0 0 0 0 1 b p MsoNormal 11 0
+Du I-PER du 1 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+National O national 0 0 0 0 0 0 1 p div MsoNormal 10 2
+“ O “ 0 0 0 0 0 0 0 p div MsoNormal 10 2
+1000 O 1000 0 0 0 1 0 0 0 p div MsoNormal 10 2
+Young O young 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Talent O talent 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Plan O plan 0 1 0 0 0 0 1 p div MsoNormal 10 2
+” O ” 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Professor O professor 0 0 0 0 1 0 1 p div MsoNormal 10 2
+
+Jun B-PER jun 1 1 0 0 0 0 1 b p MsoNormal 11 0
+Dong I-PER dong 1 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D. O d. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Chinese O chinese 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Academy O academy 0 0 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Sciences O sciences 0 0 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+National O national 0 0 0 0 0 0 1 p div MsoNormal 10 2
+New O new 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Century O century 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Talents O talents 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Plan O plan 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Professor O professor 0 0 0 0 1 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+The O the 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Ministry O ministry 0 0 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Education O education 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Program O program 0 0 0 0 0 0 1 p div MsoNormal 10 2
+for O for 0 1 0 0 0 0 0 p div MsoNormal 10 2
+New O new 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Century O century 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Excellent O excellent 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Talents O talents 0 0 0 0 0 0 1 p div MsoNormal 10 2
+
+Baoping B-PER baoping 1 1 0 0 0 0 1 b p MsoNormal 11 0
+Zhang I-PER zhang 1 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D. O d. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+The O the 0 1 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Tokyo O tokyo 0 0 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 2
+“ O “ 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Minjiang O minjiang 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Scholar O scholar 0 0 0 0 0 0 1 p div MsoNormal 10 2
+” O ” 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Distinguished O distinguished 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Professor O professor 0 0 0 0 1 0 1 p div MsoNormal 10 2
+
+Zhimin B-PER zhimin 0 1 0 0 0 0 1 b p MsoNormal 11 0
+Lin I-PER lin 1 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D. O d. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Taiwan O taiwan 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Chiao O chiao 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Tung O tung 0 1 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Dean O dean 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+College O college 0 0 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Electrical O electrical 0 0 0 0 0 0 1 p div MsoNormal 10 2
+and O and 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Communication O communication 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Engineering O engineering 0 0 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Yuan O yuan 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Ze O ze 0 1 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Taiwan. O taiwan. 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 2
+“ O “ 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Changjiang O changjiang 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Scholar O scholar 0 0 0 0 0 0 1 p div MsoNormal 10 2
+” O ” 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Lecture O lecture 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Professor O professor 0 0 0 0 1 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 2
+“ O “ 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Minjiang O minjiang 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Scholar O scholar 0 0 0 0 0 0 1 p div MsoNormal 10 2
+” O ” 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Lecture O lecture 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Professor O professor 0 0 0 0 1 0 1 p div MsoNormal 10 2
+
+Rongrong B-PER rongrong 1 1 0 0 0 0 1 b p MsoNormal 11 0
+Ji I-PER ji 1 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D. O d. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Harbin O harbin 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Institute O institute 0 0 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Technology O technology 0 0 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Post O post 0 1 0 0 0 0 1 p div MsoNormal 10 2
+- O - 0 0 0 0 0 0 0 p div MsoNormal 10 2
+doc O doc 0 0 0 0 0 0 0 p div MsoNormal 10 2
+fellow O fellow 0 0 0 0 0 0 0 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Columbia O columbia 0 0 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Winner O winner 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+the O the 0 1 0 0 0 0 0 p div MsoNormal 10 2
+National O national 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Fund O fund 0 1 0 0 0 0 1 p div MsoNormal 10 2
+for O for 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Outstanding O outstanding 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Youth O youth 0 0 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 2
+“ O “ 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Minjiang O minjiang 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Scholar O scholar 0 0 0 0 0 0 1 p div MsoNormal 10 2
+” O ” 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Distinguished O distinguished 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Professor O professor 0 0 0 0 1 0 1 p div MsoNormal 10 2
+
+Xiaoping B-PER xiaoping 1 1 0 0 0 0 1 b p MsoNormal 11 0
+Zhang I-PER zhang 1 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D O d 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Tsinghua O tsinghua 0 0 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+MBA O mba 0 0 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Chicago O chicago 0 0 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 2
+“ O “ 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Minjiang O minjiang 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Scholar O scholar 0 0 0 0 0 0 1 p div MsoNormal 10 2
+” O ” 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Lecture O lecture 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Professor O professor 0 0 0 0 1 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Xiamen O xiamen 0 1 0 0 0 0 1 p div MsoNormal 10 2
+“ O “ 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Double O double 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Hundred O hundred 0 0 0 0 0 0 1 p div MsoNormal 10 2
+” O ” 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Talent O talent 0 1 0 0 0 0 1 p div MsoNormal 10 2
+
+Hanzi B-PER hanzi 1 1 0 0 0 0 1 b p MsoNormal 11 0
+Wang I-PER wang 1 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D. O d. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Monash O monash 0 0 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 2
+“ O “ 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Minjiang O minjiang 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Scholar O scholar 0 0 0 0 0 0 1 p div MsoNormal 10 2
+” O ” 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Distinguished O distinguished 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Professor O professor 0 0 0 0 1 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+IEEE O ieee 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Senior O senior 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Member O member 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 2
+“ O “ 0 0 0 0 0 0 0 p div MsoNormal 10 2
+100 O 100 0 0 0 1 0 0 0 p div MsoNormal 10 2
+Talent O talent 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Plan O plan 0 1 0 0 0 0 1 p div MsoNormal 10 2
+” O ” 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Professor O professor 0 0 0 0 1 0 1 p div MsoNormal 10 2
+
+Haozhong B-PER haozhong 0 1 0 0 0 0 1 b p MsoNormal 11 0
+Guo I-PER guo 0 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D. O d. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+UIUC O uiuc 0 0 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Distinguished O distinguished 0 0 0 0 0 0 1 p div MsoNormal 10 2
+professor O professor 0 0 0 0 1 0 0 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Taiwan O taiwan 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Chiao O chiao 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Tung O tung 0 1 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+“ O “ 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Minjiang O minjiang 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Scholar O scholar 0 0 0 0 0 0 1 p div MsoNormal 10 2
+” O ” 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Distinguished O distinguished 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Professor O professor 0 0 0 0 1 0 1 p div MsoNormal 10 2
+
+Lin B-PER lin 1 1 0 0 0 0 1 b p MsoNormal 11 0
+Wang I-PER wang 1 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D. O d. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Electronic O electronic 0 0 0 0 0 0 1 p div MsoNormal 10 2
+and O and 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Technology O technology 0 0 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+China O china 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+The O the 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Ministry O ministry 0 0 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Education O education 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Program O program 0 0 0 0 0 0 1 p div MsoNormal 10 2
+for O for 0 1 0 0 0 0 0 p div MsoNormal 10 2
+New O new 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Century O century 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Excellent O excellent 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Talents O talents 0 0 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Xiamen O xiamen 0 1 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Distinguished O distinguished 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Professor O professor 0 0 0 0 1 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+IEEE O ieee 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Senior O senior 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Member O member 0 1 0 0 0 0 1 p div MsoNormal 10 2
+
+Donghui B-PER donghui 1 1 0 0 0 0 1 b p MsoNormal 11 0
+Guo I-PER guo 1 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D. O d. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Xiamen O xiamen 0 1 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+The O the 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Ministry O ministry 0 0 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Education O education 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Program O program 0 0 0 0 0 0 1 p div MsoNormal 10 2
+for O for 0 1 0 0 0 0 0 p div MsoNormal 10 2
+New O new 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Century O century 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Excellent O excellent 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Talents O talents 0 0 0 0 0 0 1 p div MsoNormal 10 2
+
+Changle B-PER changle 1 1 0 0 0 0 1 b p MsoNormal 11 0
+Zhou I-PER zhou 1 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D. O d. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Peking O peking 0 0 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 2
+New O new 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Century O century 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Talents O talents 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Plan O plan 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Professor O professor 0 0 0 0 1 0 1 p div MsoNormal 10 2
+
+Jianhong B-PER jianhong 1 1 0 0 0 0 1 b p MsoNormal 11 0
+Shi I-PER shi 1 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D O d 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Xiamen O xiamen 0 1 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Nice O nice 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 2
+“ O “ 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Double O double 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Hundred O hundred 0 0 0 0 0 0 1 p div MsoNormal 10 2
+” O ” 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Talent O talent 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Scholar O scholar 0 0 0 0 0 0 1 p div MsoNormal 10 2
+
+Zhiping B-PER zhiping 1 1 0 0 0 0 1 b p MsoNormal 11 0
+Cai I-PER cai 1 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D O d 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Nice O nice 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 2
+New O new 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Century O century 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Talents O talents 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Plan O plan 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Professor O professor 0 0 0 0 1 0 1 p div MsoNormal 10 2
+
+Wencai B-PER wencai 0 1 0 0 0 0 1 b p MsoNormal 11 0
+Huang I-PER huang 0 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D. O d. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Science O science 0 0 0 0 0 0 1 p div MsoNormal 10 2
+and O and 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Technology O technology 0 0 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+China O china 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Program O program 0 0 0 0 0 0 1 p div MsoNormal 10 2
+for O for 0 1 0 0 0 0 0 p div MsoNormal 10 2
+New O new 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Century O century 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Excellent O excellent 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Talents O talents 0 0 0 0 0 0 1 p div MsoNormal 10 2
+
+Xinghao B-PER xinghao 1 1 0 0 0 0 1 b p MsoNormal 11 0
+Ding I-PER ding 1 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D. O d. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+HeFei O hefei 0 0 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Technology O technology 0 0 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Program O program 0 0 0 0 0 0 1 p div MsoNormal 10 2
+for O for 0 1 0 0 0 0 0 p div MsoNormal 10 2
+New O new 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Century O century 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Excellent O excellent 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Talents O talents 0 0 0 0 0 0 1 p div MsoNormal 10 2
+
+Cheng B-PER cheng 1 1 0 0 0 0 1 b p MsoNormal 11 0
+Wang I-PER wang 1 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D O d 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+National O national 0 0 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Defense O defense 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Technology O technology 0 0 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Program O program 0 0 0 0 0 0 1 p div MsoNormal 10 2
+for O for 0 1 0 0 0 0 0 p div MsoNormal 10 2
+New O new 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Century O century 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Excellent O excellent 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Talents O talents 0 0 0 0 0 0 1 p div MsoNormal 10 2
+
+Yunfeng B-PER yunfeng 1 1 0 0 0 0 1 b p MsoNormal 11 0
+Wu I-PER wu 1 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D. O d. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Posts O posts 0 0 0 0 0 0 1 p div MsoNormal 10 2
+and O and 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Telecommunications O telecommunications 0 0 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Postdoctoral O postdoctoral 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Researcher O researcher 0 0 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Ryerson O ryerson 0 1 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Program O program 0 0 0 0 0 0 1 p div MsoNormal 10 2
+for O for 0 1 0 0 0 0 0 p div MsoNormal 10 2
+New O new 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Century O century 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Excellent O excellent 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Talents O talents 0 0 0 0 0 0 1 p div MsoNormal 10 2
+
+Liang B-PER liang 1 1 0 0 0 0 1 b p MsoNormal 11 0
+Xiao I-PER xiao 1 1 0 0 0 0 1 b p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 b p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+D. O d. 0 1 0 0 0 0 1 p div MsoNormal 10 2
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 2
+Rutgers O rutgers 0 1 0 0 0 0 1 p div MsoNormal 10 2
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 2
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 2
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Program O program 0 0 0 0 0 0 1 p div MsoNormal 10 2
+for O for 0 1 0 0 0 0 0 p div MsoNormal 10 2
+New O new 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Century O century 0 1 0 0 0 0 1 p div MsoNormal 10 2
+Excellent O excellent 0 0 0 0 0 0 1 p div MsoNormal 10 2
+Talents O talents 0 0 0 0 0 0 1 p div MsoNormal 10 2
+
+Jianping B-PER jianping 1 1 0 0 0 0 1 span p MsoNormal 11 0
+Zeng I-PER zeng 1 1 0 0 0 0 1 span p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 span p MsoNormal 11 0
+
+Ph. O ph. 0 1 0 0 0 0 1 p div MsoNormal 10 0
+D O d 0 1 0 0 0 0 1 p div MsoNormal 10 0
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 0
+Beihang O beihang 0 1 0 0 0 0 1 p div MsoNormal 10 0
+University O university 0 1 0 0 0 0 1 p div MsoNormal 10 0
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 0
+Fujian O fujian 0 1 0 0 0 0 1 p div MsoNormal 10 0
+Program O program 0 0 0 0 0 0 1 p div MsoNormal 10 0
+for O for 0 1 0 0 0 0 0 p div MsoNormal 10 0
+New O new 0 1 0 0 0 0 1 p div MsoNormal 10 0
+Century O century 0 1 0 0 0 0 1 p div MsoNormal 10 0
+Excellent O excellent 0 0 0 0 0 0 1 p div MsoNormal 10 0
+Talents O talents 0 0 0 0 0 0 1 p div MsoNormal 10 0
+
+Clarence B-PER clarence 0 1 0 0 0 0 1 div li pr15 9 0
+de I-PER de 0 1 0 0 0 0 0 div li pr15 9 0
+Silva I-PER silva 0 1 0 0 0 0 1 div li pr15 9 0
+, O , 0 0 0 0 0 0 0 div li pr15 9 0
+Xiamen O xiamen 0 1 0 0 0 0 1 div li pr15 9 0
+University O university 0 1 0 0 0 0 1 div li pr15 9 0
+Honorary O honorary 0 0 0 0 1 0 1 div li pr15 9 0
+Professor O professor 0 0 0 0 1 0 1 div li pr15 9 0
+/ O / 0 0 0 0 0 0 0 div li pr15 9 0
+Professor O professor 0 0 0 0 1 0 1 div li pr15 9 0
+, O , 0 0 0 0 0 0 0 div li pr15 9 0
+University O university 0 1 0 0 0 0 1 div li pr15 9 0
+of O of 0 1 0 0 0 0 0 div li pr15 9 0
+British O british 0 0 0 0 0 0 1 div li pr15 9 0
+Columbia O columbia 0 0 0 0 0 0 1 div li pr15 9 0
+, O , 0 0 0 0 0 0 0 div li pr15 9 0
+academician O academician 0 0 0 0 0 0 0 div li pr15 9 0
+of O of 0 1 0 0 0 0 0 div li pr15 9 0
+the O the 0 1 0 0 0 0 0 div li pr15 9 0
+Canadian O canadian 0 0 0 0 0 0 1 div li pr15 9 0
+Academy O academy 0 0 0 0 0 0 1 div li pr15 9 0
+of O of 0 1 0 0 0 0 0 div li pr15 9 0
+Engineering O engineering 0 0 0 0 0 0 1 div li pr15 9 0
+
+Research O research 0 1 0 0 0 0 1 p div MsoNormal 10 0
+Interests O interests 0 0 0 0 0 0 1 p div MsoNormal 10 0
+: O : 0 0 0 0 0 0 0 p div MsoNormal 10 0
+intelligent O intelligent 0 0 0 0 0 0 0 p div MsoNormal 10 0
+control O control 0 0 0 0 0 0 0 p div MsoNormal 10 0
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 0
+robotics O robotics 0 0 0 0 0 0 0 p div MsoNormal 10 0
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 0
+process O process 0 0 0 0 0 0 0 p div MsoNormal 10 0
+automation O automation 0 0 0 0 0 0 0 p div MsoNormal 10 0
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 0
+mechatronics O mechatronics 0 0 0 0 0 0 0 p div MsoNormal 10 0
+
+Chen B-PER chen 0 1 0 0 0 0 1 div li pr15 9 0
+Baoquan I-PER baoquan 0 1 0 0 0 0 1 div li pr15 9 0
+, O , 0 0 0 0 0 0 0 div li pr15 9 0
+Xiamen O xiamen 0 1 0 0 0 0 1 div li pr15 9 0
+University O university 0 1 0 0 0 0 1 div li pr15 9 0
+Adjunct O adjunct 0 0 0 0 0 0 1 div li pr15 9 0
+Professor O professor 0 0 0 0 1 0 1 div li pr15 9 0
+, O , 0 0 0 0 0 0 0 div li pr15 9 0
+Department O department 0 0 0 0 0 0 1 div li pr15 9 0
+of O of 0 1 0 0 0 0 0 div li pr15 9 0
+Computer O computer 0 0 0 0 0 0 1 div li pr15 9 0
+Science O science 0 0 0 0 0 0 1 div li pr15 9 0
+
+Research O research 0 1 0 0 0 0 1 div li pr15 9 0
+Interests O interests 0 0 0 0 0 0 1 div li pr15 9 0
+: O : 0 0 0 0 0 0 0 div li pr15 9 0
+large O large 0 0 0 0 0 0 0 div li pr15 9 0
+- O - 0 0 0 0 0 0 0 div li pr15 9 0
+scale O scale 0 0 0 0 0 0 0 div li pr15 9 0
+scene O scene 0 0 0 0 0 0 0 div li pr15 9 0
+data O data 0 0 0 0 0 0 0 div li pr15 9 0
+acquisition O acquisition 0 0 0 0 0 0 0 div li pr15 9 0
+, O , 0 0 0 0 0 0 0 div li pr15 9 0
+high O high 0 0 0 0 0 0 0 div li pr15 9 0
+- O - 0 0 0 0 0 0 0 div li pr15 9 0
+precision O precision 0 0 0 0 0 0 0 div li pr15 9 0
+physical O physical 0 0 0 0 0 0 0 div li pr15 9 0
+reconstruction O reconstruction 0 0 0 0 0 0 0 div li pr15 9 0
+, O , 0 0 0 0 0 0 0 div li pr15 9 0
+complex O complex 0 0 0 0 0 0 0 div li pr15 9 0
+spatial O spatial 0 0 0 0 0 0 0 div li pr15 9 0
+information O information 0 0 0 0 0 0 0 div li pr15 9 0
+visualization O visualization 0 0 0 0 0 0 0 div li pr15 9 0
+
+Dr. O dr. 0 1 0 0 1 0 1 span div pr15 10 0
+Cao B-PER cao 0 1 0 0 0 0 1 span div pr15 10 0
+Donglin I-PER donglin 0 1 0 0 0 0 1 span div pr15 10 0
+, O , 0 0 0 0 0 0 0 span div pr15 10 0
+Assistant O assistant 0 0 0 0 0 0 1 span div pr15 10 0
+Professor O professor 0 0 0 0 1 0 1 span div pr15 10 0
+
+Research O research 0 1 0 0 0 0 1 span p MsoNormal 11 0
+Interests O interests 0 0 0 0 0 0 1 span p MsoNormal 11 0
+: O : 0 0 0 0 0 0 0 span p MsoNormal 11 0
+
+natural O natural 0 0 0 0 0 0 0 p div MsoNormal 10 0
+language O language 0 0 0 0 0 0 0 p div MsoNormal 10 0
+processing O processing 0 0 0 0 0 0 0 p div MsoNormal 10 0
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 0
+information O information 0 0 0 0 0 0 0 p div MsoNormal 10 0
+retrieval O retrieval 0 0 0 0 0 0 0 p div MsoNormal 10 0
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 0
+computer O computer 0 0 0 0 0 0 0 p div MsoNormal 10 0
+vision O vision 0 0 0 0 0 0 0 p div MsoNormal 10 0
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 0
+pattern O pattern 0 0 0 0 0 0 0 p div MsoNormal 10 0
+recognition O recognition 0 0 0 0 0 0 0 p div MsoNormal 10 0
+
+Email O email 0 0 0 0 1 0 1 p div MsoNormal 10 0
+
+: O : 0 0 0 0 0 0 0 div li MsoNormal 9 5
+another O another 0 0 0 0 0 0 0 div li MsoNormal 9 5
+( O ( 0 0 0 0 0 0 0 div li MsoNormal 9 5
+AT O at 0 0 0 0 0 0 1 div li MsoNormal 9 5
+) O ) 0 0 0 0 0 0 0 div li MsoNormal 9 5
+xmu.edu.cn O xmu.edu.cn 0 0 0 0 0 0 0 div li MsoNormal 9 5
+
+Tel O tel 0 1 0 0 0 0 1 p div MsoNormal 10 0
+
+: O : 0 0 0 0 0 0 0 div li MsoNormal 9 7
++86 O +86 0 0 0 1 0 0 0 div li MsoNormal 9 7
+- O - 0 0 0 0 0 0 0 div li MsoNormal 9 7
+592 O 592 0 0 0 1 0 0 0 div li MsoNormal 9 7
+- O - 0 0 0 0 0 0 0 div li MsoNormal 9 7
+258 O 258 0 0 0 1 0 0 0 div li MsoNormal 9 7
+- O - 0 0 0 0 0 0 0 div li MsoNormal 9 7
+0168 O 0168 0 0 0 1 0 0 0 div li MsoNormal 9 7
+
+Link O link 0 1 0 0 0 0 1 p div MsoNormal 10 0
+to O to 0 0 0 0 0 0 0 p div MsoNormal 10 0
+Profile O profile 0 0 0 0 1 0 1 p div MsoNormal 10 0
+
+: O : 0 0 0 0 0 0 0 div li MsoNormal 9 9
+http O http 0 0 0 0 0 0 0 div li MsoNormal 9 9
+: O : 0 0 0 0 0 0 0 div li MsoNormal 9 9
+//information.xmu.edu.cn/portal/node/86 O //information.xmu.edu.cn/portal/node/86 0 0 0 1 0 0 0 div li MsoNormal 9 9
+
+Selected O selected 0 0 0 0 0 0 1 strong p MsoNormal 11 0
+Publications O publications 0 0 0 0 0 0 1 strong p MsoNormal 11 0
+
+[1] O [1] 0 0 0 1 0 0 0 div li 15 9 16
+Zhang O zhang 0 1 0 0 0 0 1 div li 15 9 16
+H O h 0 1 0 0 0 0 1 div li 15 9 16
+, O , 0 0 0 0 0 0 0 div li 15 9 16
+*Li O *li 0 0 0 0 0 0 0 div li 15 9 16
+S O s 0 1 0 0 0 0 1 div li 15 9 16
+, O , 0 0 0 0 0 0 0 div li 15 9 16
+Chen O chen 0 1 0 0 0 0 1 div li 15 9 16
+S O s 0 1 0 0 0 0 1 div li 15 9 16
+, O , 0 0 0 0 0 0 0 div li 15 9 16
+Su O su 0 1 0 0 0 0 1 div li 15 9 16
+S O s 0 1 0 0 0 0 1 div li 15 9 16
+, O , 0 0 0 0 0 0 0 div li 15 9 16
+Lin O lin 1 1 0 0 0 0 1 div li 15 9 16
+X O x 0 0 0 0 0 0 1 div li 15 9 16
+, O , 0 0 0 0 0 0 0 div li 15 9 16
+
+Cao O cao 0 1 0 0 0 0 1 p div 15 10 0
+D O d 0 1 0 0 0 0 1 p div 15 10 0
+
+, O , 0 0 0 0 0 0 0 div li 15 9 16
+2015. O 2015. 0 0 0 1 0 0 0 div li 15 9 16
+Locating O locating 0 0 0 0 0 0 1 div li 15 9 16
+and O and 0 1 0 0 0 0 0 div li 15 9 16
+recognizing O recognizing 0 0 0 0 0 0 0 div li 15 9 16
+multiple O multiple 0 0 0 0 0 0 0 div li 15 9 16
+human O human 0 0 0 0 0 0 0 div li 15 9 16
+actions O actions 0 0 0 0 0 0 0 div li 15 9 16
+by O by 0 1 0 0 0 0 0 div li 15 9 16
+searching O searching 0 0 0 0 0 0 0 div li 15 9 16
+for O for 0 1 0 0 0 0 0 div li 15 9 16
+maximum O maximum 0 0 0 0 0 0 0 div li 15 9 16
+score O score 0 0 0 0 0 0 0 div li 15 9 16
+subsequences O subsequences 0 0 0 0 0 0 0 div li 15 9 16
+, O , 0 0 0 0 0 0 0 div li 15 9 16
+
+Signal O signal 0 1 0 0 0 0 1 p div 15 10 1
+, O , 0 0 0 0 0 0 0 p div 15 10 1
+Image O image 0 0 0 0 0 0 1 p div 15 10 1
+and O and 0 1 0 0 0 0 0 p div 15 10 1
+Video O video 0 0 0 0 0 0 1 p div 15 10 1
+Processing O processing 0 0 0 0 0 0 1 p div 15 10 1
+
+, O , 0 0 0 0 0 0 0 div li 15 9 16
+9 O 9 0 0 0 1 0 0 0 div li 15 9 16
+( O ( 0 0 0 0 0 0 0 div li 15 9 16
+3 O 3 0 0 0 1 0 0 0 div li 15 9 16
+) O ) 0 0 0 0 0 0 0 div li 15 9 16
+: O : 0 0 0 0 0 0 0 div li 15 9 16
+705 O 705 0 0 0 1 0 0 0 div li 15 9 16
+- O - 0 0 0 0 0 0 0 div li 15 9 16
+714 O 714 0 0 0 1 0 0 0 div li 15 9 16
+( O ( 0 0 0 0 0 0 0 div li 15 9 16
+Springer O springer 0 1 0 0 0 0 1 div li 15 9 16
+: O : 0 0 0 0 0 0 0 div li 15 9 16
+SCI/EI O sci/ei 0 0 0 0 0 0 1 div li 15 9 16
+) O ) 0 0 0 0 0 0 0 div li 15 9 16
+. O . 0 1 0 0 0 0 0 div li 15 9 16
+
+[2] O [2] 0 0 0 1 0 0 0 p div pr15 10 0
+*Cai O *cai 0 0 0 0 0 0 0 p div pr15 10 0
+Z O z 0 1 0 0 0 0 1 p div pr15 10 0
+, O , 0 0 0 0 0 0 0 p div pr15 10 0
+
+Cao O cao 0 1 0 0 0 0 1 span p pr15 11 0
+D O d 0 1 0 0 0 0 1 span p pr15 11 0
+
+, O , 0 0 0 0 0 0 0 p div pr15 10 0
+Ji O ji 0 1 0 0 0 0 1 p div pr15 10 0
+R O r 0 1 0 0 0 0 1 p div pr15 10 0
+, O , 0 0 0 0 0 0 0 p div pr15 10 0
+2015. O 2015. 0 0 0 1 0 0 0 p div pr15 10 0
+Video O video 0 0 0 0 0 0 1 p div pr15 10 0
+( O ( 0 0 0 0 0 0 0 p div pr15 10 0
+GIF O gif 0 0 0 0 0 0 1 p div pr15 10 0
+) O ) 0 0 0 0 0 0 0 p div pr15 10 0
+sentiment O sentiment 0 0 0 0 0 0 0 p div pr15 10 0
+analysis O analysis 0 0 0 0 0 0 0 p div pr15 10 0
+using O using 0 0 0 0 0 0 0 p div pr15 10 0
+large O large 0 0 0 0 0 0 0 p div pr15 10 0
+- O - 0 0 0 0 0 0 0 p div pr15 10 0
+scale O scale 0 0 0 0 0 0 0 p div pr15 10 0
+mid O mid 0 1 0 0 0 0 0 p div pr15 10 0
+- O - 0 0 0 0 0 0 0 p div pr15 10 0
+level O level 0 0 0 0 0 0 0 p div pr15 10 0
+ontology O ontology 0 0 0 0 0 0 0 p div pr15 10 0
+, O , 0 0 0 0 0 0 0 p div pr15 10 0
+
+CoRR O corr 0 0 0 0 0 0 1 p div pr15 10 2
+abs/1506.00765 O abs/1506.00765 0 0 0 1 0 0 0 p div pr15 10 2
+
+. O . 0 1 0 0 0 0 0 p div pr15 10 3
+
+[3] O [3] 0 0 0 1 0 0 0 div li 15 9 26
+
+Cao O cao 0 1 0 0 0 0 1 p div 15 10 0
+D O d 0 1 0 0 0 0 1 p div 15 10 0
+
+, O , 0 0 0 0 0 0 0 div li 15 9 26
+*Ji O *ji 0 0 0 0 0 0 0 div li 15 9 26
+R O r 0 1 0 0 0 0 1 div li 15 9 26
+, O , 0 0 0 0 0 0 0 div li 15 9 26
+Lin O lin 1 1 0 0 0 0 1 div li 15 9 26
+D O d 0 1 0 0 0 0 1 div li 15 9 26
+, O , 0 0 0 0 0 0 0 div li 15 9 26
+Li O li 0 1 0 0 0 0 1 div li 15 9 26
+S O s 0 1 0 0 0 0 1 div li 15 9 26
+, O , 0 0 0 0 0 0 0 div li 15 9 26
+2015. O 2015. 0 0 0 1 0 0 0 div li 15 9 26
+Visual O visual 0 0 0 0 0 0 1 div li 15 9 26
+sentiment O sentiment 0 0 0 0 0 0 0 div li 15 9 26
+topic O topic 0 0 0 0 0 0 0 div li 15 9 26
+model O model 0 0 0 0 0 0 0 div li 15 9 26
+based O based 0 0 0 0 0 0 0 div li 15 9 26
+microblog O microblog 0 0 0 0 0 0 0 div li 15 9 26
+image O image 0 0 0 0 0 0 0 div li 15 9 26
+sentiment O sentiment 0 0 0 0 0 0 0 div li 15 9 26
+analysis O analysis 0 0 0 0 0 0 0 div li 15 9 26
+, O , 0 0 0 0 0 0 0 div li 15 9 26
+Multimedia O multimedia 0 0 0 0 0 0 1 div li 15 9 26
+Tools O tools 0 0 0 0 0 0 1 div li 15 9 26
+and O and 0 1 0 0 0 0 0 div li 15 9 26
+Applications O applications 0 0 0 0 0 0 1 div li 15 9 26
+, O , 0 0 0 0 0 0 0 div li 15 9 26
+DOI O doi 0 0 0 0 0 0 1 div li 15 9 26
+: O : 0 0 0 0 0 0 0 div li 15 9 26
+10.1007/s11042 O 10.1007/s11042 0 0 0 1 0 0 0 div li 15 9 26
+- O - 0 0 0 0 0 0 0 div li 15 9 26
+014 O 014 0 0 0 1 0 0 0 div li 15 9 26
+- O - 0 0 0 0 0 0 0 div li 15 9 26
+2337 O 2337 0 0 0 1 0 0 0 div li 15 9 26
+- O - 0 0 0 0 0 0 0 div li 15 9 26
+z O z 0 0 0 0 0 0 0 div li 15 9 26
+( O ( 0 0 0 0 0 0 0 div li 15 9 26
+Springer O springer 0 1 0 0 0 0 1 div li 15 9 26
+: O : 0 0 0 0 0 0 0 div li 15 9 26
+SCI/EI O sci/ei 0 0 0 0 0 0 1 div li 15 9 26
+) O ) 0 0 0 0 0 0 0 div li 15 9 26
+. O . 0 1 0 0 0 0 0 div li 15 9 26
+
+[4] O [4] 0 0 0 1 0 0 0 span div pr15 10 0
+
+Cao O cao 0 1 0 0 0 0 1 strong span pr15 11 0
+D O d 0 1 0 0 0 0 1 strong span pr15 11 0
+
+, O , 0 0 0 0 0 0 0 span div pr15 10 3
+*Ji O *ji 0 0 0 0 0 0 0 span div pr15 10 3
+R O r 0 1 0 0 0 0 1 span div pr15 10 3
+, O , 0 0 0 0 0 0 0 span div pr15 10 3
+Lin O lin 1 1 0 0 0 0 1 span div pr15 10 3
+D O d 0 1 0 0 0 0 1 span div pr15 10 3
+, O , 0 0 0 0 0 0 0 span div pr15 10 3
+Li O li 0 1 0 0 0 0 1 span div pr15 10 3
+S O s 0 1 0 0 0 0 1 span div pr15 10 3
+, O , 0 0 0 0 0 0 0 span div pr15 10 3
+2015. O 2015. 0 0 0 1 0 0 0 span div pr15 10 3
+A O a 0 1 0 0 0 0 1 span div pr15 10 3
+cross O cross 0 0 0 0 0 0 0 span div pr15 10 3
+- O - 0 0 0 0 0 0 0 span div pr15 10 3
+media O media 0 0 0 0 0 0 0 span div pr15 10 3
+public O public 0 0 0 0 0 0 0 span div pr15 10 3
+sentiment O sentiment 0 0 0 0 0 0 0 span div pr15 10 3
+analysis O analysis 0 0 0 0 0 0 0 span div pr15 10 3
+system O system 0 0 0 0 0 0 0 span div pr15 10 3
+for O for 0 1 0 0 0 0 0 span div pr15 10 3
+microblog. O microblog. 0 0 0 0 0 0 0 span div pr15 10 3
+Multimedia O multimedia 0 0 0 0 0 0 1 span div pr15 10 3
+Systems O systems 0 0 0 0 0 0 1 span div pr15 10 3
+, O , 0 0 0 0 0 0 0 span div pr15 10 3
+DOI O doi 0 0 0 0 0 0 1 span div pr15 10 3
+: O : 0 0 0 0 0 0 0 span div pr15 10 3
+10.1007/s00530 O 10.1007/s00530 0 0 0 1 0 0 0 span div pr15 10 3
+- O - 0 0 0 0 0 0 0 span div pr15 10 3
+014 O 014 0 0 0 1 0 0 0 span div pr15 10 3
+- O - 0 0 0 0 0 0 0 span div pr15 10 3
+0407 O 0407 0 0 0 1 0 0 0 span div pr15 10 3
+- O - 0 0 0 0 0 0 0 span div pr15 10 3
+8 O 8 0 0 0 1 0 0 0 span div pr15 10 3
+( O ( 0 0 0 0 0 0 0 span div pr15 10 3
+Springer O springer 0 1 0 0 0 0 1 span div pr15 10 3
+: O : 0 0 0 0 0 0 0 span div pr15 10 3
+SCI/EI O sci/ei 0 0 0 0 0 0 1 span div pr15 10 3
+) O ) 0 0 0 0 0 0 0 span div pr15 10 3
+. O . 0 1 0 0 0 0 0 span div pr15 10 3
+
+[5] O [5] 0 0 0 1 0 0 0 p span 15 11 0
+*Chen O *chen 0 0 0 0 0 0 0 p span 15 11 0
+C O c 0 1 0 0 0 0 1 p span 15 11 0
+, O , 0 0 0 0 0 0 0 p span 15 11 0
+Chen O chen 0 1 0 0 0 0 1 p span 15 11 0
+F O f 0 0 0 0 0 0 1 p span 15 11 0
+, O , 0 0 0 0 0 0 0 p span 15 11 0
+
+Cao O cao 0 1 0 0 0 0 1 strong p 15 12 0
+D O d 0 1 0 0 0 0 1 strong p 15 12 0
+
+, O , 0 0 0 0 0 0 0 p span 15 11 3
+Ji O ji 0 1 0 0 0 0 1 p span 15 11 3
+R O r 0 1 0 0 0 0 1 p span 15 11 3
+, O , 0 0 0 0 0 0 0 p span 15 11 3
+2015. O 2015. 0 0 0 1 0 0 0 p span 15 11 3
+A O a 0 1 0 0 0 0 1 p span 15 11 3
+cross O cross 0 0 0 0 0 0 0 p span 15 11 3
+- O - 0 0 0 0 0 0 0 p span 15 11 3
+media O media 0 0 0 0 0 0 0 p span 15 11 3
+sentiment O sentiment 0 0 0 0 0 0 0 p span 15 11 3
+analytics O analytics 0 0 0 0 0 0 0 p span 15 11 3
+platform O platform 0 0 0 0 0 0 0 p span 15 11 3
+for O for 0 1 0 0 0 0 0 p span 15 11 3
+microblog O microblog 0 0 0 0 0 0 0 p span 15 11 3
+, O , 0 0 0 0 0 0 0 p span 15 11 3
+
+ACM O acm 0 0 0 0 0 0 1 i p 15 12 0
+Multimedia O multimedia 0 0 0 0 0 0 1 i p 15 12 0
+
+, O , 0 0 0 0 0 0 0 p span 15 11 6
+2015 O 2015 0 0 0 1 0 0 0 p span 15 11 6
+: O : 0 0 0 0 0 0 0 p span 15 11 6
+767 O 767 0 0 0 1 0 0 0 p span 15 11 6
+- O - 0 0 0 0 0 0 0 p span 15 11 6
+769. O 769. 0 0 0 1 0 0 0 p span 15 11 6
+DOI O doi 0 0 0 0 0 0 1 p span 15 11 6
+: O : 0 0 0 0 0 0 0 p span 15 11 6
+http O http 0 0 0 0 0 0 0 p span 15 11 7
+: O : 0 0 0 0 0 0 0 p span 15 11 7
+//dx.doi.org/10.1145/2733373.2807398 O //dx.doi.org/10.1145/2733373.2807398 0 0 0 1 0 0 0 p span 15 11 7
+( O ( 0 0 0 0 0 0 0 p span 15 11 8
+ACM O acm 0 0 0 0 0 0 1 p span 15 11 8
+: O : 0 0 0 0 0 0 0 p span 15 11 8
+EI O ei 0 0 0 0 0 0 1 p span 15 11 8
+) O ) 0 0 0 0 0 0 0 p span 15 11 8
+. O . 0 1 0 0 0 0 0 p span 15 11 8
+
+[6] O [6] 0 0 0 1 0 0 0 span div pr15 10 0
+*Chen O *chen 0 0 0 0 0 0 0 span div pr15 10 0
+F O f 0 0 0 0 0 0 1 span div pr15 10 0
+, O , 0 0 0 0 0 0 0 span div pr15 10 0
+Gao O gao 0 1 0 0 0 0 1 span div pr15 10 0
+Y O y 0 1 0 0 0 0 1 span div pr15 10 0
+, O , 0 0 0 0 0 0 0 span div pr15 10 0
+
+Cao O cao 0 1 0 0 0 0 1 strong span pr15 11 0
+D O d 0 1 0 0 0 0 1 strong span pr15 11 0
+
+, O , 0 0 0 0 0 0 0 span div pr15 10 3
+Ji O ji 0 1 0 0 0 0 1 span div pr15 10 3
+R O r 0 1 0 0 0 0 1 span div pr15 10 3
+, O , 0 0 0 0 0 0 0 span div pr15 10 3
+2015. O 2015. 0 0 0 1 0 0 0 span div pr15 10 3
+Multimodal O multimodal 0 0 0 0 0 0 1 span div pr15 10 3
+hypergraph O hypergraph 0 0 0 0 0 0 0 span div pr15 10 3
+learning O learning 0 0 0 0 0 0 0 span div pr15 10 3
+for O for 0 1 0 0 0 0 0 span div pr15 10 3
+microblog O microblog 0 0 0 0 0 0 0 span div pr15 10 3
+sentiment O sentiment 0 0 0 0 0 0 0 span div pr15 10 3
+prediction O prediction 0 0 0 0 0 0 0 span div pr15 10 3
+, O , 0 0 0 0 0 0 0 span div pr15 10 3
+
+ICME O icme 0 0 0 0 0 0 1 i div pr15 10 0
+
+, O , 0 0 0 0 0 0 0 div li pr15 9 53
+2015 O 2015 0 0 0 1 0 0 0 div li pr15 9 53
+: O : 0 0 0 0 0 0 0 div li pr15 9 53
+1 O 1 0 0 0 1 0 0 0 div li pr15 9 53
+- O - 0 0 0 0 0 0 0 div li pr15 9 53
+6 O 6 0 0 0 1 0 0 0 div li pr15 9 53
+( O ( 0 0 0 0 0 0 0 div li pr15 9 53
+IEEE O ieee 0 0 0 0 0 0 1 div li pr15 9 53
+: O : 0 0 0 0 0 0 0 div li pr15 9 53
+EI O ei 0 0 0 0 0 0 1 div li pr15 9 53
+) O ) 0 0 0 0 0 0 0 div li pr15 9 53
+. O . 0 1 0 0 0 0 0 div li pr15 9 53
+
+[7] O [7] 0 0 0 1 0 0 0 p span 15 11 0
+Ji O ji 0 1 0 0 0 0 1 p span 15 11 0
+R O r 0 1 0 0 0 0 1 p span 15 11 0
+, O , 0 0 0 0 0 0 0 p span 15 11 0
+* O * 0 0 0 0 0 0 0 p span 15 11 0
+
+Cao O cao 0 1 0 0 0 0 1 strong p 15 12 0
+D O d 0 1 0 0 0 0 1 strong p 15 12 0
+
+, O , 0 0 0 0 0 0 0 p span 15 11 3
+Lin O lin 1 1 0 0 0 0 1 p span 15 11 3
+D O d 0 1 0 0 0 0 1 p span 15 11 3
+, O , 0 0 0 0 0 0 0 p span 15 11 3
+2015. O 2015. 0 0 0 1 0 0 0 p span 15 11 3
+Cross O cross 0 1 0 0 0 0 1 p span 15 11 3
+- O - 0 0 0 0 0 0 0 p span 15 11 3
+Modality O modality 0 0 0 0 0 0 1 p span 15 11 3
+sentiment O sentiment 0 0 0 0 0 0 0 p span 15 11 3
+analysis O analysis 0 0 0 0 0 0 0 p span 15 11 3
+for O for 0 1 0 0 0 0 0 p span 15 11 3
+social O social 0 0 0 0 0 0 0 p span 15 11 3
+multimedia O multimedia 0 0 0 0 0 0 0 p span 15 11 3
+, O , 0 0 0 0 0 0 0 p span 15 11 3
+
+BigMM O bigmm 0 0 0 0 0 0 1 i p 15 12 0
+
+, O , 0 0 0 0 0 0 0 p span 15 11 6
+2015 O 2015 0 0 0 1 0 0 0 p span 15 11 6
+: O : 0 0 0 0 0 0 0 p span 15 11 6
+28 O 28 0 0 0 1 0 0 0 p span 15 11 6
+- O - 0 0 0 0 0 0 0 p span 15 11 6
+31 O 31 0 0 0 1 0 0 0 p span 15 11 6
+( O ( 0 0 0 0 0 0 0 p span 15 11 6
+IEEE O ieee 0 0 0 0 0 0 1 p span 15 11 6
+: O : 0 0 0 0 0 0 0 p span 15 11 6
+EI O ei 0 0 0 0 0 0 1 p span 15 11 6
+) O ) 0 0 0 0 0 0 0 p span 15 11 6
+. O . 0 1 0 0 0 0 0 p span 15 11 6
+
+[8] O [8] 0 0 0 1 0 0 0 p span MsoNormal 11 0
+[8] O [8] 0 0 0 1 0 0 0 p span MsoNormal 11 0
+*Lin O *lin 0 0 0 0 0 0 0 p span MsoNormal 11 0
+D O d 0 1 0 0 0 0 1 p span MsoNormal 11 0
+, O , 0 0 0 0 0 0 0 p span MsoNormal 11 0
+Lv O lv 0 1 0 0 0 0 1 p span MsoNormal 11 0
+Y O y 0 1 0 0 0 0 1 p span MsoNormal 11 0
+, O , 0 0 0 0 0 0 0 p span MsoNormal 11 0
+
+Cao O cao 0 1 0 0 0 0 1 span p MsoNormal 12 0
+D O d 0 1 0 0 0 0 1 span p MsoNormal 12 0
+
+, O , 0 0 0 0 0 0 0 p span MsoNormal 11 0
+2015. O 2015. 0 0 0 1 0 0 0 p span MsoNormal 11 0
+Rumor O rumor 0 0 0 0 0 0 1 p span MsoNormal 11 0
+diffusion O diffusion 0 0 0 0 0 0 0 p span MsoNormal 11 0
+purpose O purpose 0 0 0 0 0 0 0 p span MsoNormal 11 0
+analysis O analysis 0 0 0 0 0 0 0 p span MsoNormal 11 0
+from O from 0 0 0 0 0 0 0 p span MsoNormal 11 0
+social O social 0 0 0 0 0 0 0 p span MsoNormal 11 0
+attribute O attribute 0 0 0 0 0 0 0 p span MsoNormal 11 0
+to O to 0 0 0 0 0 0 0 p span MsoNormal 11 0
+social O social 0 0 0 0 0 0 0 p span MsoNormal 11 0
+content O content 0 0 0 0 0 0 0 p span MsoNormal 11 0
+, O , 0 0 0 0 0 0 0 p span MsoNormal 11 0
+Proceeding O proceeding 0 0 0 0 0 0 1 p span MsoNormal 11 2
+of O of 0 1 0 0 0 0 0 p span MsoNormal 11 2
+19 O 19 0 0 0 1 0 0 0 p span MsoNormal 11 2
+
+th O th 0 0 0 0 0 0 0 sup p MsoNormal 12 0
+
+International O international 0 0 0 0 0 0 1 p span MsoNormal 11 5
+Conference O conference 0 1 0 0 0 0 1 p span MsoNormal 11 5
+on O on 0 0 0 0 0 0 0 p span MsoNormal 11 5
+Asian O asian 0 1 0 0 0 0 1 p span MsoNormal 11 5
+Language O language 0 0 0 0 0 0 1 p span MsoNormal 11 5
+( O ( 0 0 0 0 0 0 0 p span MsoNormal 11 6
+IEEE O ieee 0 0 0 0 0 0 1 p span MsoNormal 11 6
+: O : 0 0 0 0 0 0 0 p span MsoNormal 11 6
+EI O ei 0 0 0 0 0 0 1 p span MsoNormal 11 6
+) O ) 0 0 0 0 0 0 0 p span MsoNormal 11 6
+. O . 0 1 0 0 0 0 0 p span MsoNormal 11 6
+
+[9] O [9] 0 0 0 1 0 0 0 p span MsoNormal 11 0
+[9] O [9] 0 0 0 1 0 0 0 p span MsoNormal 11 0
+Lv O lv 0 1 0 0 0 0 1 p span MsoNormal 11 0
+Y O y 0 1 0 0 0 0 1 p span MsoNormal 11 0
+, O , 0 0 0 0 0 0 0 p span MsoNormal 11 0
+Xiao O xiao 0 1 0 0 0 0 1 p span MsoNormal 11 0
+X O x 0 0 0 0 0 0 1 p span MsoNormal 11 0
+, O , 0 0 0 0 0 0 0 p span MsoNormal 11 0
+*Lin O *lin 0 0 0 0 0 0 0 p span MsoNormal 11 0
+D O d 0 1 0 0 0 0 1 p span MsoNormal 11 0
+, O , 0 0 0 0 0 0 0 p span MsoNormal 11 0
+
+Cao O cao 0 1 0 0 0 0 1 span p MsoNormal 12 0
+D O d 0 1 0 0 0 0 1 span p MsoNormal 12 0
+
+, O , 0 0 0 0 0 0 0 p span MsoNormal 11 0
+2015. O 2015. 0 0 0 1 0 0 0 p span MsoNormal 11 0
+Public O public 0 0 0 0 0 0 1 p span MsoNormal 11 0
+opinion O opinion 0 0 0 0 0 0 0 p span MsoNormal 11 0
+analysis O analysis 0 0 0 0 0 0 0 p span MsoNormal 11 0
+based O based 0 0 0 0 0 0 0 p span MsoNormal 11 0
+on O on 0 0 0 0 0 0 0 p span MsoNormal 11 0
+geographical O geographical 0 0 0 0 0 0 0 p span MsoNormal 11 0
+location O location 0 0 0 0 0 0 0 p span MsoNormal 11 0
+, O , 0 0 0 0 0 0 0 p span MsoNormal 11 0
+Proceeding O proceeding 0 0 0 0 0 0 1 p span MsoNormal 11 0
+of O of 0 1 0 0 0 0 0 p span MsoNormal 11 0
+7 O 7 0 0 0 1 0 0 0 p span MsoNormal 11 0
+
+th O th 0 0 0 0 0 0 0 sup p MsoNormal 12 0
+
+International O international 0 0 0 0 0 0 1 p span MsoNormal 11 4
+Congress O congress 0 0 0 0 0 0 1 p span MsoNormal 11 4
+on O on 0 0 0 0 0 0 0 p span MsoNormal 11 4
+Image O image 0 0 0 0 0 0 1 p span MsoNormal 11 4
+and O and 0 1 0 0 0 0 0 p span MsoNormal 11 4
+Signal O signal 0 1 0 0 0 0 1 p span MsoNormal 11 4
+Processing O processing 0 0 0 0 0 0 1 p span MsoNormal 11 4
+( O ( 0 0 0 0 0 0 0 p span MsoNormal 11 4
+IEEE O ieee 0 0 0 0 0 0 1 p span MsoNormal 11 4
+: O : 0 0 0 0 0 0 0 p span MsoNormal 11 4
+EI O ei 0 0 0 0 0 0 1 p span MsoNormal 11 4
+) O ) 0 0 0 0 0 0 0 p span MsoNormal 11 4
+. O . 0 1 0 0 0 0 0 p span MsoNormal 11 4
+
+[10] O [10] 0 0 0 1 0 0 0 p span MsoNormal 11 0
+[10] O [10] 0 0 0 1 0 0 0 p span MsoNormal 11 0
+
+Cao O cao 0 1 0 0 0 0 1 span p MsoNormal 12 0
+D O d 0 1 0 0 0 0 1 span p MsoNormal 12 0
+
+, O , 0 0 0 0 0 0 0 p span MsoNormal 11 0
+Lv O lv 0 1 0 0 0 0 1 p span MsoNormal 11 0
+Y O y 0 1 0 0 0 0 1 p span MsoNormal 11 0
+, O , 0 0 0 0 0 0 0 p span MsoNormal 11 0
+*Lin O *lin 0 0 0 0 0 0 0 p span MsoNormal 11 0
+D O d 0 1 0 0 0 0 1 p span MsoNormal 11 0
+, O , 0 0 0 0 0 0 0 p span MsoNormal 11 0
+2015. O 2015. 0 0 0 1 0 0 0 p span MsoNormal 11 0
+Minimum O minimum 0 0 0 0 0 0 1 p span MsoNormal 11 0
+information O information 0 0 0 0 0 0 0 p span MsoNormal 11 0
+quantity O quantity 0 0 0 0 0 0 0 p span MsoNormal 11 0
+partition O partition 0 0 0 0 0 0 0 p span MsoNormal 11 0
+based O based 0 0 0 0 0 0 0 p span MsoNormal 11 0
+fast O fast 0 0 0 0 0 0 0 p span MsoNormal 11 0
+semantic O semantic 0 0 0 0 0 0 0 p span MsoNormal 11 0
+feature O feature 0 0 0 0 0 0 0 p span MsoNormal 11 0
+subset O subset 0 0 0 0 0 0 0 p span MsoNormal 11 0
+selection O selection 0 0 0 0 0 0 0 p span MsoNormal 11 0
+, O , 0 0 0 0 0 0 0 p span MsoNormal 11 0
+Proceeding O proceeding 0 0 0 0 0 0 1 p span MsoNormal 11 2
+of O of 0 1 0 0 0 0 0 p span MsoNormal 11 2
+12 O 12 0 0 0 1 0 0 0 p span MsoNormal 11 2
+
+th O th 0 0 0 0 0 0 0 sup p MsoNormal 12 0
+
+International O international 0 0 0 0 0 0 1 p span MsoNormal 11 5
+Conference O conference 0 1 0 0 0 0 1 p span MsoNormal 11 5
+on O on 0 0 0 0 0 0 0 p span MsoNormal 11 5
+Fuzzy O fuzzy 0 0 0 0 0 0 1 p span MsoNormal 11 5
+Systems O systems 0 0 0 0 0 0 1 p span MsoNormal 11 5
+and O and 0 1 0 0 0 0 0 p span MsoNormal 11 5
+Knowledge O knowledge 0 1 0 0 0 0 1 p span MsoNormal 11 5
+Discovery O discovery 0 0 0 0 0 0 1 p span MsoNormal 11 5
+( O ( 0 0 0 0 0 0 0 p span MsoNormal 11 6
+IEEE O ieee 0 0 0 0 0 0 1 p span MsoNormal 11 6
+: O : 0 0 0 0 0 0 0 p span MsoNormal 11 6
+EI O ei 0 0 0 0 0 0 1 p span MsoNormal 11 6
+) O ) 0 0 0 0 0 0 0 p span MsoNormal 11 6
+. O . 0 1 0 0 0 0 0 p span MsoNormal 11 6
+
+Dr. O dr. 0 1 0 0 1 0 1 span div pr15 10 0
+Bu B-PER bu 0 1 0 0 0 0 1 span div pr15 10 0
+Yikun I-PER yikun 0 1 0 0 0 0 1 span div pr15 10 0
+, O , 0 0 0 0 0 0 0 span div pr15 10 0
+Associate O associate 0 1 0 0 0 0 1 span div pr15 10 0
+Professor O professor 0 0 0 0 1 0 1 span div pr15 10 0
+
+Research O research 0 1 0 0 0 0 1 span p MsoNormal 11 0
+Interests O interests 0 0 0 0 0 0 1 span p MsoNormal 11 0
+
+: O : 0 0 0 0 0 0 0 p div MsoNormal 10 0
+design O design 0 0 0 0 0 0 0 p div MsoNormal 10 0
+and O and 0 1 0 0 0 0 0 p div MsoNormal 10 0
+fabrication O fabrication 0 0 0 0 0 0 0 p div MsoNormal 10 0
+of O of 0 1 0 0 0 0 0 p div MsoNormal 10 0
+optical O optical 0 0 0 0 0 0 0 p div MsoNormal 10 0
+thin O thin 0 0 0 0 0 0 0 p div MsoNormal 10 0
+film O film 0 0 0 0 0 0 0 p div MsoNormal 10 0
+, O , 0 0 0 0 0 0 0 p div MsoNormal 10 0
+laser O laser 0 0 0 0 0 0 0 p div MsoNormal 10 0
+film O film 0 0 0 0 0 0 0 p div MsoNormal 10 0
+technology O technology 0 0 0 0 0 0 0 p div MsoNormal 10 0
+
+E O e 0 1 0 0 0 0 1 p div MsoNormal 10 0
+- O - 0 0 0 0 0 0 0 p div MsoNormal 10 0
+mail O mail 0 0 0 0 0 0 0 p div MsoNormal 10 0
+: O : 0 0 0 0 0 0 0 p div MsoNormal 10 0
+
+buyikun0522 O buyikun0522 0 0 0 1 0 0 0 div li MsoNormal 9 5
+( O ( 0 0 0 0 0 0 0 div li MsoNormal 9 5
+AT O at 0 0 0 0 0 0 1 div li MsoNormal 9 5
+) O ) 0 0 0 0 0 0 0 div li MsoNormal 9 5
+xmu.edu.cn O xmu.edu.cn 0 0 0 0 0 0 0 div li MsoNormal 9 5
+
+Tel O tel 0 1 0 0 0 0 1 p div MsoNormal 10 0
+: O : 0 0 0 0 0 0 0 p div MsoNormal 10 0
+
++86 O +86 0 0 0 1 0 0 0 div li MsoNormal 9 7
+- O - 0 0 0 0 0 0 0 div li MsoNormal 9 7
+592 O 592 0 0 0 1 0 0 0 div li MsoNormal 9 7
+- O - 0 0 0 0 0 0 0 div li MsoNormal 9 7
+258 O 258 0 0 0 1 0 0 0 div li MsoNormal 9 7
+- O - 0 0 0 0 0 0 0 div li MsoNormal 9 7
+0141 O 0141 0 0 0 1 0 0 0 div li MsoNormal 9 7
+
+Link O link 0 1 0 0 0 0 1 p div MsoNormal 10 0
+to O to 0 0 0 0 0 0 0 p div MsoNormal 10 0
+Profile O profile 0 0 0 0 1 0 1 p div MsoNormal 10 0
+: O : 0 0 0 0 0 0 0 p div MsoNormal 10 0
+
+http O http 0 0 0 0 0 0 0 div li MsoNormal 9 9
+: O : 0 0 0 0 0 0 0 div li MsoNormal 9 9
+//information.xmu.edu.cn/portal/node/130 O //information.xmu.edu.cn/portal/node/130 0 0 0 1 0 0 0 div li MsoNormal 9 9
+
+Page O page 0 1 0 0 0 0 1 li ul pageinfo 9 0
+: O : 0 0 0 0 0 0 0 li ul pageinfo 9 0
+35/174 O 35/174 0 0 0 1 0 0 0 li ul pageinfo 9 0
+
+Home O home 0 1 0 0 0 0 1 li ul page 9 0
+
+Prev O prev 0 0 0 0 0 0 1 li ul page 9 0
+
+1 O 1 0 0 0 1 0 0 0 li ul current 9 0
+
+2 O 2 0 0 0 1 0 0 0 li ul page 9 0
+
+3 O 3 0 0 0 1 0 0 0 li ul page 9 0
+
+4 O 4 0 0 0 1 0 0 0 li ul page 9 0
+
+5 O 5 0 0 0 1 0 0 0 li ul page 9 0
+
+6 O 6 0 0 0 1 0 0 0 li ul page 9 0
+
+7 O 7 0 0 0 1 0 0 0 li ul page 9 0
+
+8 O 8 0 0 0 1 0 0 0 li ul page 9 0
+
+9 O 9 0 0 0 1 0 0 0 li ul page 9 0
+
+10 O 10 0 0 0 1 0 0 0 li ul page 9 0
+
+Next O next 0 0 0 0 0 0 1 li ul page 9 0
+
+Last O last 0 1 0 0 0 0 1 li ul page 9 0
+
+Home O home 0 1 0 0 0 0 1 div body footer 5 0
+| O | 0 0 0 0 0 0 0 body html footer 4 406
+Site O site 0 1 0 0 0 0 1 div body footer 5 1
+Map O map 0 0 0 0 0 0 1 div body footer 5 1
+| O | 0 0 0 0 0 0 0 body html footer 4 406
+Donate O donate 0 1 0 0 0 0 1 div body footer 5 2
+
+Content O content 0 1 0 0 0 0 1 body html footer 4 406
+copyright O copyright 0 0 0 0 0 0 0 body html footer 4 406
+© O © 0 0 0 0 0 0 0 body html footer 4 406
+school O school 0 0 0 0 0 0 0 body html footer 4 406
+of O of 0 1 0 0 0 0 0 body html footer 4 406
+information O information 0 0 0 0 0 0 0 body html footer 4 406
+science O science 0 0 0 0 0 0 0 body html footer 4 406
+and O and 0 1 0 0 0 0 0 body html footer 4 406
+engineering O engineering 0 0 0 0 0 0 0 body html footer 4 406

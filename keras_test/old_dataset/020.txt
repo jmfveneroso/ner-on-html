@@ -1,0 +1,915 @@
+Faculty O faculty 0 0 0 0 0 0 1 meta meta none 7 0
+Directory O directory 0 0 0 0 0 0 1 meta meta none 7 0
+- O - 0 0 0 0 0 0 0 meta meta none 7 0
+Leavey O leavey 0 1 0 0 0 0 1 meta meta none 7 0
+School O school 0 1 0 0 0 0 1 meta meta none 7 0
+of O of 0 1 0 0 0 0 0 meta meta none 7 0
+Business O business 0 0 0 0 0 0 1 meta meta none 7 0
+- O - 0 0 0 0 0 0 0 meta meta none 7 0
+Santa O santa 0 1 0 0 0 0 1 meta meta none 7 0
+Clara O clara 0 1 0 0 0 0 1 meta meta none 7 0
+University O university 0 1 0 0 0 0 1 meta meta none 7 0
+
+Skip O skip 0 1 0 0 0 0 1 body html sr-only-focusable 4 2
+to O to 0 0 0 0 0 0 0 body html sr-only-focusable 4 2
+main O main 0 0 0 0 0 0 0 body html sr-only-focusable 4 2
+content O content 0 0 0 0 0 0 0 body html sr-only-focusable 4 2
+
+Santa O santa 0 1 0 0 0 0 1 a div sr-only 10 1
+Clara O clara 0 1 0 0 0 0 1 a div sr-only 10 1
+University O university 0 1 0 0 0 0 1 a div sr-only 10 1
+Homepage O homepage 0 0 0 0 0 0 1 a div sr-only 10 1
+
+Santa O santa 0 1 0 0 0 0 1 div div title-small 10 0
+Clara O clara 0 1 0 0 0 0 1 div div title-small 10 0
+University O university 0 1 0 0 0 0 1 div div title-small 10 0
+Leavey O leavey 0 1 0 0 0 0 1 div div title-large 10 1
+School O school 0 1 0 0 0 0 1 div div title-large 10 1
+of O of 0 1 0 0 0 0 0 div div title-large 10 1
+Business O business 0 0 0 0 0 0 1 div div title-large 10 1
+
+Toggle O toggle 0 0 0 0 0 0 1 span button sr-only 11 0
+navigation O navigation 0 0 0 0 0 0 0 span button sr-only 11 0
+Menu O menu 0 1 0 0 0 0 1 button div menu-label 10 1
+
+Toggle O toggle 0 0 0 0 0 0 1 span button sr-only 11 0
+navigation O navigation 0 0 0 0 0 0 0 span button sr-only 11 0
+Gateways O gateways 0 0 0 0 0 0 1 button div text-hide 10 0
+
+Search O search 0 0 0 0 0 0 1 div form sr-only 11 0
+
+About O about 0 0 0 0 0 0 1 li ul dropdown 9 0
+LSB O lsb 0 0 0 0 0 0 1 li ul dropdown 9 0
+
+View O view 0 0 0 0 0 0 1 span a sr-only 12 0
+subcategory O subcategory 0 0 0 0 0 0 0 span a sr-only 12 0
+links O links 0 0 0 0 0 0 0 span a sr-only 12 0
+
+About O about 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+LSB O lsb 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Leadership O leadership 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Lucas O lucas 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+Hall O hall 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Staff O staff 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+Directory O directory 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Governance O governance 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Us O us 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Undergraduates O undergraduates 0 0 0 0 0 0 1 li ul dropdown 9 0
+
+View O view 0 0 0 0 0 0 1 span a sr-only 12 0
+subcategory O subcategory 0 0 0 0 0 0 0 span a sr-only 12 0
+links O links 0 0 0 0 0 0 0 span a sr-only 12 0
+
+Undergraduates O undergraduates 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Academics O academics 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Community O community 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+& O & 0 0 0 0 0 0 0 li ul dropdown-menu 11 0
+Campus O campus 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+Involvement O involvement 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Advising O advising 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Calendar O calendar 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Business O business 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul dropdown 9 0
+
+View O view 0 0 0 0 0 0 1 span a sr-only 12 0
+subcategory O subcategory 0 0 0 0 0 0 0 span a sr-only 12 0
+links O links 0 0 0 0 0 0 0 span a sr-only 12 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul dropdown-menu 11 0
+
+MBA O mba 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Degrees O degrees 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+MS O ms 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+Degrees O degrees 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Current O current 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+Students O students 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Academics O academics 0 0 0 0 0 0 1 li ul dropdown 9 0
+
+View O view 0 0 0 0 0 0 1 span a sr-only 12 0
+subcategory O subcategory 0 0 0 0 0 0 0 span a sr-only 12 0
+links O links 0 0 0 0 0 0 0 span a sr-only 12 0
+
+Academics O academics 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Departments O departments 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Majors O majors 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-menu 11 0
+Minors O minors 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul dropdown-menu 11 0
+Degrees O degrees 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Directory O directory 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Research O research 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Executive O executive 0 0 0 0 0 0 1 li ul dropdown 9 0
+Education O education 0 0 0 0 0 0 1 li ul dropdown 9 0
+
+View O view 0 0 0 0 0 0 1 span a sr-only 12 0
+subcategory O subcategory 0 0 0 0 0 0 0 span a sr-only 12 0
+links O links 0 0 0 0 0 0 0 span a sr-only 12 0
+
+Executive O executive 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Education O education 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+About O about 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Us O us 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Custom O custom 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+University O university 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+Partnerships O partnerships 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Custom O custom 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Corporate O corporate 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Learning O learning 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+Solutions O solutions 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Certificate O certificate 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+of O of 0 1 0 0 0 0 0 li ul dropdown-menu 11 0
+Advanced O advanced 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Accounting O accounting 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Proficiency O proficiency 0 0 0 0 1 0 1 li ul dropdown-menu 11 0
+
+Certified O certified 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Equity O equity 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Professional O professional 0 0 0 0 1 0 1 li ul dropdown-menu 11 0
+Program O program 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+( O ( 0 0 0 0 0 0 0 li ul dropdown-menu 11 0
+CEP O cep 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+) O ) 0 0 0 0 0 0 0 li ul dropdown-menu 11 0
+
+Productizing O productizing 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Innovation O innovation 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Certificate O certificate 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Program O program 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Certified O certified 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Financial O financial 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Planner O planner 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+Program O program 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+( O ( 0 0 0 0 0 0 0 li ul dropdown-menu 11 0
+CFP O cfp 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+) O ) 0 0 0 0 0 0 0 li ul dropdown-menu 11 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Us O us 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Institutes O institutes 0 0 0 0 0 0 1 li ul dropdown 9 0
+
+View O view 0 0 0 0 0 0 1 span a sr-only 12 0
+subcategory O subcategory 0 0 0 0 0 0 0 span a sr-only 12 0
+links O links 0 0 0 0 0 0 0 span a sr-only 12 0
+
+Institutes O institutes 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Center O center 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+for O for 0 1 0 0 0 0 0 li ul dropdown-menu 11 0
+Innovation O innovation 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-menu 11 0
+Entrepreneurship O entrepreneurship 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+( O ( 0 0 0 0 0 0 0 li ul dropdown-menu 11 0
+CIE O cie 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+) O ) 0 0 0 0 0 0 0 li ul dropdown-menu 11 0
+
+Food O food 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+& O & 0 0 0 0 0 0 0 li ul dropdown-menu 11 0
+Agribusiness O agribusiness 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Institute O institute 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+My O my 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+Own O own 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+Business O business 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Institute O institute 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Retail O retail 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Management O management 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+Institute O institute 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+News O news 0 0 0 0 0 0 1 li ul dropdown 9 0
+& O & 0 0 0 0 0 0 0 li ul dropdown 9 0
+Events O events 0 0 0 0 0 0 1 li ul dropdown 9 0
+
+View O view 0 0 0 0 0 0 1 span a sr-only 12 0
+subcategory O subcategory 0 0 0 0 0 0 0 span a sr-only 12 0
+links O links 0 0 0 0 0 0 0 span a sr-only 12 0
+
+News O news 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+& O & 0 0 0 0 0 0 0 li ul dropdown-menu 11 0
+Events O events 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Featured O featured 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+Events O events 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Top O top 0 1 0 0 0 0 1 li ul dropdown-menu 11 0
+Stories O stories 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Calendar O calendar 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Newsmakers O newsmakers 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+LSB O lsb 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+on O on 0 0 0 0 0 0 0 li ul dropdown-menu 11 0
+Social O social 0 0 0 0 0 0 1 li ul dropdown-menu 11 0
+
+Main O main 0 1 0 0 0 0 1 a li mission 10 0
+Navigation O navigation 0 0 0 0 0 0 1 a li mission 10 0
+for O for 0 1 0 0 0 0 0 a li mission 10 0
+SCU.EDU O scu.edu 0 0 0 0 0 0 1 a li hidden-sm 10 1
+SCU O scu 0 0 0 0 0 0 1 a li hidden-lg 10 2
+
+Home O home 0 1 0 0 0 0 1 li ul nav-pills 13 0
+
+About O about 0 0 0 0 0 0 1 li ul nav-pills 13 0
+SCU O scu 0 0 0 0 0 0 1 li ul nav-pills 13 0
+
+Academics O academics 0 0 0 0 0 0 1 li ul nav-pills 13 0
+
+Admission O admission 0 0 0 0 0 0 1 li ul nav-pills 13 0
+
+Campus O campus 0 1 0 0 0 0 1 li ul nav-pills 13 0
+Life O life 0 1 0 0 0 0 1 li ul nav-pills 13 0
+
+Athletics O athletics 0 0 0 0 0 0 1 li ul nav-pills 13 0
+
+Global O global 0 1 0 0 0 0 1 li ul nav-pills 13 0
+
+Giving O giving 0 0 0 0 0 0 1 li ul nav-pills 13 0
+
+News O news 0 0 0 0 0 0 1 li ul nav-pills 13 0
+& O & 0 0 0 0 0 0 0 li ul nav-pills 13 0
+Events O events 0 0 0 0 0 0 1 li ul nav-pills 13 0
+
+People O people 0 1 0 0 0 0 1 li ul people-gateways 9 0
+Gateways O gateways 0 0 0 0 0 0 1 li ul people-gateways 9 0
+
+Students O students 0 0 0 0 0 0 1 li ul navbar-right 13 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul navbar-right 13 0
+& O & 0 0 0 0 0 0 0 li ul navbar-right 13 0
+Staff O staff 0 1 0 0 0 0 1 li ul navbar-right 13 0
+
+Families O families 0 0 0 0 0 0 1 li ul navbar-right 13 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul navbar-right 13 0
+
+Visitors O visitors 0 0 0 0 0 0 1 li ul navbar-right 13 0
+
+Offices O offices 0 0 0 0 0 0 1 a li gateway-dropdown 10 0
+& O & 0 0 0 0 0 0 0 a li gateway-dropdown 10 0
+Services O services 0 0 0 0 0 0 1 a li gateway-dropdown 10 0
+
+Offices O offices 0 0 0 0 0 0 1 div div col-sm-12 13 0
+and O and 0 1 0 0 0 0 0 div div col-sm-12 13 0
+Services O services 0 0 0 0 0 0 1 div div col-sm-12 13 0
+at O at 0 0 0 0 0 0 0 div div col-sm-12 13 0
+Santa O santa 0 1 0 0 0 0 1 div div col-sm-12 13 0
+Clara O clara 0 1 0 0 0 0 1 div div col-sm-12 13 0
+University O university 0 1 0 0 0 0 1 div div col-sm-12 13 0
+
+Campus O campus 0 1 0 0 0 0 1 li ul col-sm-3 15 0
+Safety O safety 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Enrollment O enrollment 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+Services O services 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Campus O campus 0 1 0 0 0 0 1 li ul col-sm-3 15 0
+Ministry O ministry 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Facilities O facilities 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Diversity O diversity 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+and O and 0 1 0 0 0 0 0 li ul col-sm-3 15 0
+Inclusion O inclusion 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Technology O technology 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+at O at 0 0 0 0 0 0 0 li ul col-sm-3 15 0
+SCU O scu 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Recreation O recreation 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Sustainability O sustainability 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Arts O arts 0 1 0 0 0 0 1 li ul col-sm-3 15 0
+at O at 0 0 0 0 0 0 0 li ul col-sm-3 15 0
+SCU O scu 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Bookstore O bookstore 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Career O career 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+Center O center 0 1 0 0 0 0 1 li ul col-sm-3 15 0
+
+Human O human 0 1 0 0 0 0 1 li ul col-sm-3 15 0
+Resources O resources 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+University O university 0 1 0 0 0 0 1 li ul col-sm-3 15 0
+Library O library 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Mission O mission 0 1 0 0 1 0 1 li ul col-sm-3 15 0
+Church O church 0 1 0 0 0 0 1 li ul col-sm-3 15 0
+
+SCU O scu 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+Login O login 0 0 0 0 0 0 1 li ul col-sm-3 15 0
+
+Offices O offices 0 0 0 0 0 0 1 div div more-link 13 7
+and O and 0 1 0 0 0 0 0 div div more-link 13 7
+Services O services 0 0 0 0 0 0 1 div div more-link 13 7
+» O » 0 0 0 0 0 0 0 div div more-link 13 7
+
+Schools O schools 0 0 0 0 0 0 1 a li gateway-dropdown 10 0
+& O & 0 0 0 0 0 0 0 a li gateway-dropdown 10 0
+Centers O centers 0 0 0 0 0 0 1 a li gateway-dropdown 10 0
+
+Schools O schools 0 0 0 0 0 0 1 div div col-sm-7 13 0
+and O and 0 1 0 0 0 0 0 div div col-sm-7 13 0
+Colleges O colleges 0 0 0 0 0 0 1 div div col-sm-7 13 0
+
+College O college 0 0 0 0 0 0 1 li ul col-sm-6 17 0
+of O of 0 1 0 0 0 0 0 li ul col-sm-6 17 0
+Arts O arts 0 1 0 0 0 0 1 li ul col-sm-6 17 0
+and O and 0 1 0 0 0 0 0 li ul col-sm-6 17 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul col-sm-6 17 0
+
+Education O education 0 0 0 0 0 0 1 li ul col-sm-6 17 0
+and O and 0 1 0 0 0 0 0 li ul col-sm-6 17 0
+Counseling O counseling 0 0 0 0 0 0 1 li ul col-sm-6 17 0
+Psychology O psychology 0 0 0 0 0 0 1 li ul col-sm-6 17 0
+
+Leavey O leavey 0 1 0 0 0 0 1 li ul col-sm-6 17 0
+School O school 0 1 0 0 0 0 1 li ul col-sm-6 17 0
+of O of 0 1 0 0 0 0 0 li ul col-sm-6 17 0
+Business O business 0 0 0 0 0 0 1 li ul col-sm-6 17 0
+
+School O school 0 1 0 0 0 0 1 li ul col-sm-6 17 0
+of O of 0 1 0 0 0 0 0 li ul col-sm-6 17 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul col-sm-6 17 0
+
+Jesuit O jesuit 0 0 0 0 0 0 1 li ul col-sm-6 17 0
+School O school 0 1 0 0 0 0 1 li ul col-sm-6 17 0
+of O of 0 1 0 0 0 0 0 li ul col-sm-6 17 0
+Theology O theology 0 0 0 0 0 0 1 li ul col-sm-6 17 0
+
+School O school 0 1 0 0 0 0 1 li ul col-sm-6 17 0
+of O of 0 1 0 0 0 0 0 li ul col-sm-6 17 0
+Law O law 0 1 0 0 0 0 1 li ul col-sm-6 17 0
+
+Centers O centers 0 0 0 0 0 0 1 div div col-sm-5 13 0
+of O of 0 1 0 0 0 0 0 div div col-sm-5 13 0
+Distinction O distinction 0 0 0 0 0 0 1 div div col-sm-5 13 0
+
+Miller O miller 0 1 0 0 0 0 1 li ul col-sm-12 17 0
+Center O center 0 1 0 0 0 0 1 li ul col-sm-12 17 0
+for O for 0 1 0 0 0 0 0 li ul col-sm-12 17 0
+Social O social 0 0 0 0 0 0 1 li ul col-sm-12 17 0
+Entrepreneurship O entrepreneurship 0 0 0 0 0 0 1 li ul col-sm-12 17 0
+
+Ignatian O ignatian 0 0 0 0 0 0 1 li ul col-sm-12 17 0
+Center O center 0 1 0 0 0 0 1 li ul col-sm-12 17 0
+for O for 0 1 0 0 0 0 0 li ul col-sm-12 17 0
+Jesuit O jesuit 0 0 0 0 0 0 1 li ul col-sm-12 17 0
+Education O education 0 0 0 0 0 0 1 li ul col-sm-12 17 0
+
+Markkula O markkula 0 1 0 0 0 0 1 li ul col-sm-12 17 0
+Center O center 0 1 0 0 0 0 1 li ul col-sm-12 17 0
+for O for 0 1 0 0 0 0 0 li ul col-sm-12 17 0
+Applied O applied 0 0 0 0 0 0 1 li ul col-sm-12 17 0
+Ethics O ethics 0 0 0 0 0 0 1 li ul col-sm-12 17 0
+
+Centers O centers 0 0 0 0 0 0 1 div div more-link 15 7
+and O and 0 1 0 0 0 0 0 div div more-link 15 7
+Institutes O institutes 0 0 0 0 0 0 1 div div more-link 15 7
+» O » 0 0 0 0 0 0 0 div div more-link 15 7
+
+Open O open 0 0 0 0 0 0 1 a li sr-only 10 0
+Search O search 0 0 0 0 0 0 1 a li sr-only 10 0
+Form O form 0 1 0 0 0 0 1 a li sr-only 10 0
+
+Search O search 0 0 0 0 0 0 1 div form sr-only 12 0
+
+Search O search 0 0 0 0 0 0 1 label div radio 13 0
+the O the 0 1 0 0 0 0 0 label div radio 13 0
+Leavey O leavey 0 1 0 0 0 0 1 label div radio 13 0
+School O school 0 1 0 0 0 0 1 label div radio 13 0
+of O of 0 1 0 0 0 0 0 label div radio 13 0
+Business O business 0 0 0 0 0 0 1 label div radio 13 0
+site O site 0 0 0 0 0 0 0 label div radio 13 0
+
+Search O search 0 0 0 0 0 0 1 label div radio 13 0
+the O the 0 1 0 0 0 0 0 label div radio 13 0
+full O full 0 0 0 0 0 0 0 label div radio 13 0
+SCU O scu 0 0 0 0 0 0 1 label div radio 13 0
+site O site 0 0 0 0 0 0 0 label div radio 13 0
+
+Faculty O faculty 0 0 0 0 0 0 1 div div page-title 7 0
+Directory O directory 0 0 0 0 0 0 1 div div page-title 7 0
+
+Home O home 0 1 0 0 0 0 1 li ol breadcrumb-item 9 0
+
+Leavey O leavey 0 1 0 0 0 0 1 li ol breadcrumb-item 9 0
+School O school 0 1 0 0 0 0 1 li ol breadcrumb-item 9 0
+of O of 0 1 0 0 0 0 0 li ol breadcrumb-item 9 0
+Business O business 0 0 0 0 0 0 1 li ol breadcrumb-item 9 0
+
+Academics O academics 0 0 0 0 0 0 1 li ol breadcrumb-item 9 0
+
+Faculty O faculty 0 0 0 0 0 0 1 ol div breadcrumb-item 8 6
+Directory O directory 0 0 0 0 0 0 1 ol div breadcrumb-item 8 6
+
+Accounting O accounting 0 0 0 0 0 0 1 div div col-sm-8 8 0
+Faculty O faculty 0 0 0 0 0 0 1 div div col-sm-8 8 0
+» O » 0 0 0 0 0 0 0 div div col-sm-8 8 0
+
+Amanda B-PER amanda 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+Badger I-PER badger 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+
+Michael B-PER michael 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+Calegari I-PER calegari 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+
+Wendy B-PER wendy 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+Donohoe I-PER donohoe 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+
+Michael B-PER michael 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+" I-PER " 0 0 0 0 0 0 0 li ul pagedrows-282539 9 0
+Lucky I-PER lucky 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+" I-PER " 0 0 0 0 0 0 0 li ul pagedrows-282539 9 0
+Eames I-PER eames 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+
+Yongtae B-PER yongtae 1 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+Kim I-PER kim 1 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+
+Haidan B-PER haidan 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+Li I-PER li 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+
+Siqi B-PER siqi 1 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+Li I-PER li 1 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+
+Suzanne B-PER suzanne 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+Luttman I-PER luttman 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+
+Brian B-PER brian 1 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+Nelson I-PER nelson 1 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+
+Jane B-PER jane 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+Ou I-PER ou 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+
+Chris B-PER chris 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+Paisley I-PER paisley 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+
+Hyungshin B-PER hyungshin 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+Park I-PER park 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+
+Susan B-PER susan 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+Parker I-PER parker 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+
+James B-PER james 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+Sepe I-PER sepe 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+
+Frank B-PER frank 1 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+Teruel I-PER teruel 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+
+Neal B-PER neal 0 1 0 0 0 0 1 li ul pagedrows-282539 9 0
+Ushman I-PER ushman 0 0 0 0 0 0 1 li ul pagedrows-282539 9 0
+
+Economics O economics 0 0 0 0 0 0 1 div div col-sm-8 8 0
+Faculty O faculty 0 0 0 0 0 0 1 div div col-sm-8 8 0
+» O » 0 0 0 0 0 0 0 div div col-sm-8 8 0
+
+James B-PER james 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Airola I-PER airola 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+Shireen B-PER shireen 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Al I-PER al 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+- I-PER - 0 0 0 0 0 0 0 li ul pagedrows-282540 9 0
+Azzawi I-PER azzawi 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+Adina B-PER adina 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Ardelean I-PER ardelean 0 1 0 0 1 0 1 li ul pagedrows-282540 9 0
+
+Mario B-PER mario 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+L. I-PER l. 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Belotti I-PER belotti 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+Alexander B-PER alexander 1 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+J. I-PER j. 1 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Field I-PER field 1 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+John B-PER john 1 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+M. I-PER m. 1 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Heineke I-PER heineke 1 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+Christian B-PER christian 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Helmers I-PER helmers 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+John B-PER john 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Ifcher I-PER ifcher 0 0 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+Linda B-PER linda 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Kamas I-PER kamas 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+Michael B-PER michael 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Kevane I-PER kevane 0 0 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+Sofia B-PER sofia 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Kotsiri I-PER kotsiri 0 0 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+Serguei B-PER serguei 1 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Maliar I-PER maliar 1 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+Kris B-PER kris 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+James I-PER james 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Mitchener I-PER mitchener 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+Thuy B-PER thuy 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Lan I-PER lan 1 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Nguyen I-PER nguyen 1 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+Damian B-PER damian 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Park I-PER park 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+Gonçalo B-PER goncalo 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Pina I-PER pina 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+Helen B-PER helen 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Popper I-PER popper 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+Teny B-PER teny 0 0 0 0 0 0 1 li ul pagedrows-282540 9 0
+Maghakian I-PER maghakian 0 0 0 0 0 0 1 li ul pagedrows-282540 9 0
+Shapiro I-PER shapiro 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+Dongsoo B-PER dongsoo 1 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Shin I-PER shin 1 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+William B-PER william 1 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+A. I-PER a. 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+Sundstrom I-PER sundstrom 0 1 0 0 0 0 1 li ul pagedrows-282540 9 0
+
+Finance O finance 0 1 0 0 0 0 1 div div col-sm-8 8 0
+Faculty O faculty 0 0 0 0 0 0 1 div div col-sm-8 8 0
+» O » 0 0 0 0 0 0 0 div div col-sm-8 8 0
+
+Ye B-PER ye 1 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+Cai I-PER cai 1 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+
+George B-PER george 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+Chacko I-PER chacko 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+
+Mike B-PER mike 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+Dana I-PER dana 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+
+Sanjiv B-PER sanjiv 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+Das I-PER das 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+
+Donald B-PER donald 1 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+Davis I-PER davis 1 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+
+Robert B-PER robert 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+Hendershott I-PER hendershott 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+
+Hoje B-PER hoje 0 0 0 0 0 0 1 li ul pagedrows-282547 9 0
+Jo I-PER jo 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+
+Seoyoung B-PER seoyoung 1 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+Kim I-PER kim 1 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+
+Wenyao B-PER wenyao 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+( I-PER ( 0 0 0 0 0 0 0 li ul pagedrows-282547 9 0
+Wendy I-PER wendy 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+) I-PER ) 0 0 0 0 0 0 0 li ul pagedrows-282547 9 0
+Ku I-PER ku 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+
+Sam B-PER sam 1 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+Lee I-PER lee 1 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+
+Carrie B-PER carrie 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+Pan I-PER pan 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+
+Atulya B-PER atulya 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+Sarin I-PER sarin 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+
+Hersh B-PER hersh 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+Shefrin I-PER shefrin 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+
+Meir B-PER meir 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+Statman I-PER statman 0 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+
+Steve B-PER steve 1 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+Wade I-PER wade 1 1 0 0 0 0 1 li ul pagedrows-282547 9 0
+
+Management O management 0 1 0 0 0 0 1 div div col-sm-8 8 0
+Faculty O faculty 0 0 0 0 0 0 1 div div col-sm-8 8 0
+» O » 0 0 0 0 0 0 0 div div col-sm-8 8 0
+
+Greg B-PER greg 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+A. I-PER a. 1 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Baker I-PER baker 1 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Tanya B-PER tanya 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Bunger I-PER bunger 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Jack B-PER jack 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Caffey I-PER caffey 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+David B-PER david 1 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Caldwell I-PER caldwell 1 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Robert B-PER robert 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Eberhart I-PER eberhart 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Robert B-PER robert 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Eberhart I-PER eberhart 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Francine B-PER francine 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Gordon I-PER gordon 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Terri B-PER terri 1 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Griffith I-PER griffith 1 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Laura B-PER laura 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Jacobus I-PER jacobus 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Fiona B-PER fiona 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Ji I-PER ji 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Keyvan B-PER keyvan 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Kashkooli I-PER kashkooli 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+James B-PER james 1 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+L. I-PER l. 1 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Koch I-PER koch 1 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Long B-PER long 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+S. I-PER s. 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Le I-PER le 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Nydia B-PER nydia 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+MacGregor I-PER macgregor 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Tammy B-PER tammy 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Madsen I-PER madsen 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Darrel B-PER darrel 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+A. I-PER a. 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Mank I-PER mank 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Kelly B-PER kelly 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Patterson I-PER patterson 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Sandy B-PER sandy 1 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Piderit I-PER piderit 1 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Barry B-PER barry 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Z. I-PER z. 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Posner I-PER posner 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Jo B-PER jo 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+- I-PER - 0 0 0 0 0 0 0 li ul pagedrows-282549 9 0
+Ellen I-PER ellen 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Pozner I-PER pozner 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Michael B-PER michael 1 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Santoro I-PER santoro 1 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Manuel B-PER manuel 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Velasquez I-PER velasquez 0 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Jennifer B-PER jennifer 1 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+L. I-PER l. 1 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+Woolley I-PER woolley 1 1 0 0 0 0 1 li ul pagedrows-282549 9 0
+
+Marketing O marketing 0 0 0 0 0 0 1 div div col-sm-8 8 0
+Faculty O faculty 0 0 0 0 0 0 1 div div col-sm-8 8 0
+» O » 0 0 0 0 0 0 0 div div col-sm-8 8 0
+
+Dale B-PER dale 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+Achabal I-PER achabal 0 0 0 0 0 0 1 li ul pagedrows-282548 9 0
+
+Albert B-PER albert 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+Bruno I-PER bruno 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+
+Charles B-PER charles 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+Byers I-PER byers 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+
+Xiaojing B-PER xiaojing 1 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+Dong I-PER dong 1 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+
+Kirthi B-PER kirthi 1 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+Kalyanam I-PER kalyanam 1 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+
+Gail B-PER gail 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+Kirby I-PER kirby 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+
+Desmond B-PER desmond 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+( I-PER ( 0 0 0 0 0 0 0 li ul pagedrows-282548 9 0
+Ho I-PER ho 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+- I-PER - 0 0 0 0 0 0 0 li ul pagedrows-282548 9 0
+Fu I-PER fu 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+) I-PER ) 0 0 0 0 0 0 0 li ul pagedrows-282548 9 0
+Lo I-PER lo 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+
+Shelby B-PER shelby 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+McIntyre I-PER mcintyre 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+
+Juan B-PER juan 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+P. I-PER p. 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+Montermoso I-PER montermoso 0 0 0 0 0 0 1 li ul pagedrows-282548 9 0
+
+J. B-PER j. 1 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+Michael I-PER michael 1 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+Munson I-PER munson 1 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+
+Sean B-PER sean 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+O I-PER o 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+' I-PER ' 0 0 0 0 0 0 0 li ul pagedrows-282548 9 0
+Keefe I-PER keefe 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+
+Kumar B-PER kumar 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+R. I-PER r. 0 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+Sarangee I-PER sarangee 0 0 0 0 0 0 1 li ul pagedrows-282548 9 0
+
+Savannah B-PER savannah 1 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+Wei I-PER wei 1 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+Shi I-PER shi 1 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+
+Michael B-PER michael 1 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+Thomas I-PER thomas 1 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+
+Mark B-PER mark 1 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+Weiner I-PER weiner 1 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+
+Yuchi B-PER yuchi 1 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+Zhang I-PER zhang 1 1 0 0 0 0 1 li ul pagedrows-282548 9 0
+
+OMIS O omis 0 0 0 0 0 0 1 div div col-sm-8 8 0
+Faculty O faculty 0 0 0 0 0 0 1 div div col-sm-8 8 0
+» O » 0 0 0 0 0 0 0 div div col-sm-8 8 0
+
+Naren B-PER naren 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Agrawal I-PER agrawal 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Ram B-PER ram 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Bala I-PER bala 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+George B-PER george 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+( I-PER ( 0 0 0 0 0 0 0 li ul pagedrows-282550 9 0
+Gangshu I-PER gangshu 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+) I-PER ) 0 0 0 0 0 0 0 li ul pagedrows-282550 9 0
+Cai I-PER cai 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Karla B-PER karla 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Callahan I-PER callahan 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Yasin B-PER yasin 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Ceran I-PER ceran 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Necati B-PER necati 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Ertekin I-PER ertekin 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Manoochehr B-PER manoochehr 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Ghiassi I-PER ghiassi 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Vasu B-PER vasu 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Kadambi I-PER kadambi 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Tao B-PER tao 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Li I-PER li 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Haibing B-PER haibing 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Lu I-PER lu 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Steven B-PER steven 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Nahmias I-PER nahmias 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Sami B-PER sami 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Najafi I-PER najafi 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Michele B-PER michele 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Samorani I-PER samorani 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Rick B-PER rick 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Schaffzin I-PER schaffzin 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Michael B-PER michael 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Schermann I-PER schermann 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Stephen B-PER stephen 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+A. I-PER a. 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Smith I-PER smith 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+S. B-PER s. 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Andrew I-PER andrew 0 1 0 0 1 0 1 li ul pagedrows-282550 9 0
+Starbird I-PER starbird 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Sumana B-PER sumana 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Sur I-PER sur 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Andy B-PER andy 0 1 0 0 1 0 1 li ul pagedrows-282550 9 0
+Tsay I-PER tsay 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Graeme B-PER graeme 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Warren I-PER warren 0 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+David B-PER david 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+Zimbra I-PER zimbra 1 1 0 0 0 0 1 li ul pagedrows-282550 9 0
+
+Academics O academics 0 0 0 0 0 0 1 nav div side-navigation-header 8 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul match-page-title 10 0
+Departments O departments 0 0 0 0 0 0 1 li ul match-page-title 10 0
+
+Majors O majors 0 1 0 0 0 0 1 li ul match-page-title 10 0
+and O and 0 1 0 0 0 0 0 li ul match-page-title 10 0
+Minors O minors 0 1 0 0 0 0 1 li ul match-page-title 10 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul match-page-title 10 0
+Degrees O degrees 0 0 0 0 0 0 1 li ul match-page-title 10 0
+
+Faculty O faculty 0 0 0 0 0 0 1 span li currentbranch0 11 0
+Directory O directory 0 0 0 0 0 0 1 span li currentbranch0 11 0
+
+Accounting O accounting 0 0 0 0 0 0 1 li ul multilevel-linkul-0 12 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul multilevel-linkul-0 12 0
+
+Economics O economics 0 0 0 0 0 0 1 li ul multilevel-linkul-0 12 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul multilevel-linkul-0 12 0
+
+Finance O finance 0 1 0 0 0 0 1 li ul multilevel-linkul-0 12 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul multilevel-linkul-0 12 0
+
+Management O management 0 1 0 0 0 0 1 li ul multilevel-linkul-0 12 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul multilevel-linkul-0 12 0
+
+Marketing O marketing 0 0 0 0 0 0 1 li ul multilevel-linkul-0 12 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul multilevel-linkul-0 12 0
+
+OMIS O omis 0 0 0 0 0 0 1 li ul multilevel-linkul-0 12 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul multilevel-linkul-0 12 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul match-page-title 10 0
+Research O research 0 1 0 0 0 0 1 li ul match-page-title 10 0
+
+500 O 500 0 0 0 1 0 0 0 p div street-address 13 0
+El O el 0 1 0 0 0 0 1 p div street-address 13 0
+Camino O camino 0 1 0 0 0 0 1 p div street-address 13 0
+Real O real 0 1 0 0 0 0 1 p div street-address 13 0
+, O , 0 0 0 0 0 0 0 div div adr 12 0
+
+Contact O contact 0 0 0 0 0 0 1 p nav text-right 12 0
+Us O us 0 1 0 0 0 0 1 p nav text-right 12 0
+
+Emergency O emergency 0 0 0 0 1 0 1 p nav col-xs-5 12 0
+Info O info 0 0 0 0 0 0 1 p nav col-xs-5 12 0
+
+Follow O follow 0 0 0 0 0 0 1 a span sr-only 14 1
+us O us 0 1 0 0 0 0 0 a span sr-only 14 1
+on O on 0 0 0 0 0 0 0 a span sr-only 14 1
+Facebook O facebook 0 0 0 0 0 0 1 a span sr-only 14 1
+Follow O follow 0 0 0 0 0 0 1 a span sr-only 14 1
+us O us 0 1 0 0 0 0 0 a span sr-only 14 1
+on O on 0 0 0 0 0 0 0 a span sr-only 14 1
+Twitter O twitter 0 0 0 0 0 0 1 a span sr-only 14 1
+Join O join 0 1 0 0 0 0 1 a span sr-only 14 1
+us O us 0 1 0 0 0 0 0 a span sr-only 14 1
+on O on 0 0 0 0 0 0 0 a span sr-only 14 1
+LinkedIn O linkedin 0 0 0 0 0 0 1 a span sr-only 14 1
+Follow O follow 0 0 0 0 0 0 1 a span sr-only 14 1
+us O us 0 1 0 0 0 0 0 a span sr-only 14 1
+on O on 0 0 0 0 0 0 0 a span sr-only 14 1
+Pinterest O pinterest 0 0 0 0 0 0 1 a span sr-only 14 1
+Follow O follow 0 0 0 0 0 0 1 a span sr-only 14 1
+us O us 0 1 0 0 0 0 0 a span sr-only 14 1
+on O on 0 0 0 0 0 0 0 a span sr-only 14 1
+Instagram O instagram 0 0 0 0 0 0 1 a span sr-only 14 1
+
+Social O social 0 0 0 0 0 0 1 p nav text-right 12 0
+Media O media 0 1 0 0 0 0 1 p nav text-right 12 0
+
+© O © 0 0 0 0 0 0 0 p div t4Edit-page 7 0
+2017 O 2017 0 0 0 1 0 0 0 div footer text-center 6 0
+SCU O scu 0 0 0 0 0 0 1 div footer text-center 6 0

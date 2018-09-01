@@ -1,708 +1,702 @@
-Scientific O scientific 0 0 0 0 0 0 1 meta meta none 15 1
-staff O staff 0 0 0 0 0 0 0 meta meta none 15 1
-- O - 0 0 0 0 0 0 0 meta meta none 15 1
-High O high 0 1 0 0 0 0 1 meta meta none 15 1
-Performance O performance 0 1 0 0 0 0 1 meta meta none 15 1
-Distributed O distributed 0 0 0 0 0 0 1 meta meta none 15 1
-Computing O computing 0 0 0 0 0 0 1 meta meta none 15 1
-- O - 0 0 0 0 0 0 0 meta meta none 15 1
-Department O department 0 0 0 0 0 0 1 meta meta none 15 1
-of O of 0 1 0 0 0 0 0 meta meta none 15 1
-Computer O computer 0 0 0 0 0 0 1 meta meta none 15 1
-Science O science 0 0 0 0 0 0 1 meta meta none 15 1
-, O , 0 0 0 0 0 0 0 meta meta none 15 1
-Faculty O faculty 0 0 0 0 0 0 1 meta meta none 15 1
-of O of 0 1 0 0 0 0 0 meta meta none 15 1
-Sciences O sciences 0 0 0 0 0 0 1 meta meta none 15 1
-, O , 0 0 0 0 0 0 0 meta meta none 15 1
-Vrije O vrije 0 0 0 0 0 0 1 meta meta none 15 1
-Universiteit O universiteit 0 0 0 0 0 0 1 meta meta none 15 1
-Amsterdam O amsterdam 0 1 0 0 0 0 1 meta meta none 15 1
+Scientific O scientific 0 0 0 0 0 0 1 0 4 meta meta none 15 1
+staff O staff 0 0 0 0 0 0 0 0 7 meta meta none 15 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 meta meta none 15 1
+High O high 0 1 0 0 0 0 1 3 6 meta meta none 15 1
+Performance O performance 0 1 0 0 0 0 1 0 6 meta meta none 15 1
+Distributed O distributed 0 0 0 0 0 0 1 0 4 meta meta none 15 1
+Computing O computing 0 0 0 0 0 0 1 0 6 meta meta none 15 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 meta meta none 15 1
+Department O department 0 0 0 0 0 0 1 0 7 meta meta none 15 1
+of O of 0 1 0 0 0 0 0 2 10 meta meta none 15 1
+Computer O computer 0 0 0 0 0 0 1 0 7 meta meta none 15 1
+Science O science 0 0 0 0 0 0 1 0 7 meta meta none 15 1
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 meta meta none 15 1
+Faculty O faculty 0 0 0 0 0 0 1 0 7 meta meta none 15 1
+of O of 0 1 0 0 0 0 0 2 10 meta meta none 15 1
+Sciences O sciences 0 0 0 0 0 0 1 0 7 meta meta none 15 1
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 meta meta none 15 1
+Vrije O vrije 0 0 0 0 0 0 1 0 4 meta meta none 15 1
+Universiteit O universiteit 0 0 0 0 0 0 1 0 3 meta meta none 15 1
+Amsterdam O amsterdam 0 1 0 0 0 0 1 1 5 meta meta none 15 1
 
-Toggle O toggle 0 0 0 0 0 0 1 button li sr-only 9 0
-navigation O navigation 0 0 0 0 0 0 0 button li sr-only 9 0
-MENU O menu 0 0 0 0 0 0 1 button li hidden-xs 9 1
+Toggle O toggle 0 0 0 0 0 0 1 0 5 button li sr-only 9 0
+navigation O navigation 0 0 0 0 0 0 0 0 8 button li sr-only 9 0
+MENU O menu 0 0 0 0 0 0 1 0 8 button li hidden-xs 9 1
 
-Home O home 0 1 0 0 0 0 1 li ul  13 0
+Home O home 0 1 0 0 0 0 1 2 6 li ul  13 0
 
-About O about 0 0 0 0 0 0 1 li ul active-submenu 13 0
-the O the 0 1 0 0 0 0 0 li ul active-submenu 13 0
-Department O department 0 0 0 0 0 0 1 li ul active-submenu 13 0
+About O about 0 0 0 0 0 0 1 0 8 li ul active-submenu 13 0
+the O the 0 1 0 0 0 0 0 0 10 li ul active-submenu 13 0
+Department O department 0 0 0 0 0 0 1 0 7 li ul active-submenu 13 0
 
-Contact O contact 0 0 0 0 0 0 1 li ul active-submenu 15 0
+Contact O contact 0 0 0 0 0 0 1 0 8 li ul active-submenu 15 0
 
-Route O route 0 1 0 0 0 0 1 li ul active-submenu 17 0
-description O description 0 0 0 0 0 0 0 li ul active-submenu 17 0
+Route O route 0 1 0 0 0 0 1 1 6 li ul active-submenu 17 0
+description O description 0 0 0 0 0 0 0 0 6 li ul active-submenu 17 0
 
-Organogram O organogram 0 0 0 0 0 0 1 li ul active-submenu 15 0
+Organogram O organogram 0 0 0 0 0 0 1 0 0 li ul active-submenu 15 0
 
-People O people 0 1 0 0 0 0 1 li ul active-submenu 15 0
+People O people 0 1 0 0 0 0 1 0 7 li ul active-submenu 15 0
 
-Network O network 0 0 0 0 0 0 1 li ul active-submenu 15 0
-institute O institute 0 0 0 0 0 0 0 li ul active-submenu 15 0
+Network O network 0 0 0 0 0 0 1 0 6 li ul active-submenu 15 0
+institute O institute 0 0 0 0 0 0 0 0 6 li ul active-submenu 15 0
 
-Vacancies O vacancies 0 0 0 0 0 0 1 li ul active-submenu 15 0
+Vacancies O vacancies 0 0 0 0 0 0 1 0 1 li ul active-submenu 15 0
 
-Research O research 0 1 0 0 0 0 1 li ul active-submenu 13 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul active-submenu 13 0
 
-Artificial O artificial 0 0 0 0 0 0 1 li ul active-submenu 15 0
-Intelligence O intelligence 0 0 0 0 0 0 1 li ul active-submenu 15 0
+Artificial O artificial 0 0 0 0 0 0 1 0 5 li ul active-submenu 15 0
+Intelligence O intelligence 0 0 0 0 0 0 1 0 5 li ul active-submenu 15 0
 
-Behavioural O behavioural 0 0 0 0 0 0 1 li ul active-submenu 17 0
-Informatics O informatics 0 0 0 0 0 0 1 li ul active-submenu 17 0
-group O group 0 0 0 0 0 0 0 li ul active-submenu 17 0
+Behavioural O behavioural 0 0 0 0 0 0 1 0 0 li ul active-submenu 17 0
+Informatics O informatics 0 0 0 0 0 0 1 0 4 li ul active-submenu 17 0
+group O group 0 0 0 0 0 0 0 0 6 li ul active-submenu 17 0
 
-Research O research 0 1 0 0 0 0 1 li ul active-submenu 19 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul active-submenu 19 0
 
-People O people 0 1 0 0 0 0 1 li ul active-submenu 19 0
+People O people 0 1 0 0 0 0 1 0 7 li ul active-submenu 19 0
 
-Publications O publications 0 0 0 0 0 0 1 li ul active-submenu 19 0
+Publications O publications 0 0 0 0 0 0 1 0 6 li ul active-submenu 19 0
 
-Computational O computational 0 0 0 0 0 0 1 li ul active-submenu 17 0
-Intelligence O intelligence 0 0 0 0 0 0 1 li ul active-submenu 17 0
-Group O group 0 1 0 0 0 0 1 li ul active-submenu 17 0
+Computational O computational 0 0 0 0 0 0 1 0 5 li ul active-submenu 17 0
+Intelligence O intelligence 0 0 0 0 0 0 1 0 5 li ul active-submenu 17 0
+Group O group 0 1 0 0 0 0 1 1 6 li ul active-submenu 17 0
 
-Research O research 0 1 0 0 0 0 1 li ul active-submenu 19 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul active-submenu 19 0
 
-People O people 0 1 0 0 0 0 1 li ul active-submenu 19 0
+People O people 0 1 0 0 0 0 1 0 7 li ul active-submenu 19 0
 
-Publications O publications 0 0 0 0 0 0 1 li ul active-submenu 19 0
+Publications O publications 0 0 0 0 0 0 1 0 6 li ul active-submenu 19 0
 
-Knowledge O knowledge 0 1 0 0 0 0 1 li ul active-submenu 17 0
-Representation O representation 0 0 0 0 0 0 1 li ul active-submenu 17 0
-& O & 0 0 0 0 0 0 0 li ul active-submenu 17 0
-Reasoning O reasoning 0 0 0 0 0 0 1 li ul active-submenu 17 0
-Group O group 0 1 0 0 0 0 1 li ul active-submenu 17 0
+Knowledge O knowledge 0 1 0 0 0 0 1 0 5 li ul active-submenu 17 0
+Representation O representation 0 0 0 0 0 0 1 0 5 li ul active-submenu 17 0
+& O & 0 0 0 0 0 0 0 0 0 li ul active-submenu 17 0
+Reasoning O reasoning 0 0 0 0 0 0 1 0 2 li ul active-submenu 17 0
+Group O group 0 1 0 0 0 0 1 1 6 li ul active-submenu 17 0
 
-Research O research 0 1 0 0 0 0 1 li ul active-submenu 19 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul active-submenu 19 0
 
-People O people 0 1 0 0 0 0 1 li ul active-submenu 19 0
+People O people 0 1 0 0 0 0 1 0 7 li ul active-submenu 19 0
 
-Publications O publications 0 0 0 0 0 0 1 li ul active-submenu 19 0
+Publications O publications 0 0 0 0 0 0 1 0 6 li ul active-submenu 19 0
 
-Research O research 0 1 0 0 0 0 1 li ul active-submenu 17 0
-projects O projects 0 0 0 0 0 0 0 li ul active-submenu 17 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul active-submenu 17 0
+projects O projects 0 0 0 0 0 0 0 0 6 li ul active-submenu 17 0
 
-Term O term 0 0 0 0 0 0 1 li ul active-submenu 17 0
-projects O projects 0 0 0 0 0 0 0 li ul active-submenu 17 0
+Term O term 0 0 0 0 0 0 1 0 4 li ul active-submenu 17 0
+projects O projects 0 0 0 0 0 0 0 0 6 li ul active-submenu 17 0
 
-Contact O contact 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Contact O contact 0 0 0 0 0 0 1 0 8 li ul active-submenu 17 0
 
-Bioinformatics O bioinformatics 0 0 0 0 0 0 1 li ul active-submenu 15 0
+Bioinformatics O bioinformatics 0 0 0 0 0 0 1 0 3 li ul active-submenu 15 0
 
-Research O research 0 1 0 0 0 0 1 li ul active-submenu 17 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul active-submenu 17 0
 
-People O people 0 1 0 0 0 0 1 li ul active-submenu 17 0
+People O people 0 1 0 0 0 0 1 0 7 li ul active-submenu 17 0
 
-Publications O publications 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Publications O publications 0 0 0 0 0 0 1 0 6 li ul active-submenu 17 0
 
-Term O term 0 0 0 0 0 0 1 li ul active-submenu 17 0
-projects O projects 0 0 0 0 0 0 0 li ul active-submenu 17 0
+Term O term 0 0 0 0 0 0 1 0 4 li ul active-submenu 17 0
+projects O projects 0 0 0 0 0 0 0 0 6 li ul active-submenu 17 0
 
-Links O links 0 1 0 0 0 0 1 li ul active-submenu 17 0
+Links O links 0 1 0 0 0 0 1 2 7 li ul active-submenu 17 0
 
-Contact O contact 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Contact O contact 0 0 0 0 0 0 1 0 8 li ul active-submenu 17 0
 
-User O user 0 1 0 0 0 0 1 li ul active-submenu 15 0
-Centric O centric 0 0 0 0 0 0 1 li ul active-submenu 15 0
-Data O data 0 1 0 0 0 0 1 li ul active-submenu 15 0
-Science O science 0 0 0 0 0 0 1 li ul active-submenu 15 0
+User O user 0 1 0 0 0 0 1 0 6 li ul active-submenu 15 0
+Centric O centric 0 0 0 0 0 0 1 0 0 li ul active-submenu 15 0
+Data O data 0 1 0 0 0 0 1 1 7 li ul active-submenu 15 0
+Science O science 0 0 0 0 0 0 1 0 7 li ul active-submenu 15 0
 
-Research O research 0 1 0 0 0 0 1 li ul active-submenu 17 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul active-submenu 17 0
 
-Previous O previous 0 0 0 0 0 0 1 li ul active-submenu 19 0
-research O research 0 0 0 0 0 0 0 li ul active-submenu 19 0
-projects O projects 0 0 0 0 0 0 0 li ul active-submenu 19 0
+Previous O previous 0 0 0 0 0 0 1 0 4 li ul active-submenu 19 0
+research O research 0 0 0 0 0 0 0 0 7 li ul active-submenu 19 0
+projects O projects 0 0 0 0 0 0 0 0 6 li ul active-submenu 19 0
 
-People O people 0 1 0 0 0 0 1 li ul active-submenu 17 0
+People O people 0 1 0 0 0 0 1 0 7 li ul active-submenu 17 0
 
-Publications O publications 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Publications O publications 0 0 0 0 0 0 1 0 6 li ul active-submenu 17 0
 
-Term O term 0 0 0 0 0 0 1 li ul active-submenu 17 0
-projects O projects 0 0 0 0 0 0 0 li ul active-submenu 17 0
+Term O term 0 0 0 0 0 0 1 0 4 li ul active-submenu 17 0
+projects O projects 0 0 0 0 0 0 0 0 6 li ul active-submenu 17 0
 
-Links O links 0 1 0 0 0 0 1 li ul active-submenu 17 0
+Links O links 0 1 0 0 0 0 1 2 7 li ul active-submenu 17 0
 
-Contact O contact 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Contact O contact 0 0 0 0 0 0 1 0 8 li ul active-submenu 17 0
 
-Computer O computer 0 0 0 0 0 0 1 li ul active-submenu 15 0
-Systems O systems 0 0 0 0 0 0 1 li ul active-submenu 15 0
+Computer O computer 0 0 0 0 0 0 1 0 7 li ul active-submenu 15 0
+Systems O systems 0 0 0 0 0 0 1 0 6 li ul active-submenu 15 0
 
-High O high 0 1 0 0 0 0 1 li ul active-submenu 17 0
-Performance O performance 0 1 0 0 0 0 1 li ul active-submenu 17 0
-Distributed O distributed 0 0 0 0 0 0 1 li ul active-submenu 17 0
-Computing O computing 0 0 0 0 0 0 1 li ul active-submenu 17 0
+High O high 0 1 0 0 0 0 1 3 6 li ul active-submenu 17 0
+Performance O performance 0 1 0 0 0 0 1 0 6 li ul active-submenu 17 0
+Distributed O distributed 0 0 0 0 0 0 1 0 4 li ul active-submenu 17 0
+Computing O computing 0 0 0 0 0 0 1 0 6 li ul active-submenu 17 0
 
-Research O research 0 1 0 0 0 0 1 li ul active-submenu 19 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul active-submenu 19 0
 
-Previous O previous 0 0 0 0 0 0 1 li ul active-submenu 21 0
-Research O research 0 1 0 0 0 0 1 li ul active-submenu 21 0
-Projects O projects 0 0 0 0 0 0 1 li ul active-submenu 21 0
+Previous O previous 0 0 0 0 0 0 1 0 4 li ul active-submenu 21 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul active-submenu 21 0
+Projects O projects 0 0 0 0 0 0 1 0 6 li ul active-submenu 21 0
 
-People O people 0 1 0 0 0 0 1 li ul active-submenu 19 0
+People O people 0 1 0 0 0 0 1 0 7 li ul active-submenu 19 0
 
-Publications O publications 0 0 0 0 0 0 1 li ul active-submenu 19 0
+Publications O publications 0 0 0 0 0 0 1 0 6 li ul active-submenu 19 0
 
-Large O large 0 1 0 0 0 0 1 li ul active-submenu 17 0
-- O - 0 0 0 0 0 0 0 li ul active-submenu 17 0
-scale O scale 0 0 0 0 0 0 0 li ul active-submenu 17 0
-Distributed O distributed 0 0 0 0 0 0 1 li ul active-submenu 17 0
-Systems O systems 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Large O large 0 1 0 0 0 0 1 2 6 li ul active-submenu 17 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul active-submenu 17 0
+scale O scale 0 0 0 0 0 0 0 0 4 li ul active-submenu 17 0
+Distributed O distributed 0 0 0 0 0 0 1 0 4 li ul active-submenu 17 0
+Systems O systems 0 0 0 0 0 0 1 0 6 li ul active-submenu 17 0
 
-Research O research 0 1 0 0 0 0 1 li ul active-submenu 19 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul active-submenu 19 0
 
-Previous O previous 0 0 0 0 0 0 1 li ul active-submenu 21 0
-Research O research 0 1 0 0 0 0 1 li ul active-submenu 21 0
-Projects O projects 0 0 0 0 0 0 1 li ul active-submenu 21 0
+Previous O previous 0 0 0 0 0 0 1 0 4 li ul active-submenu 21 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul active-submenu 21 0
+Projects O projects 0 0 0 0 0 0 1 0 6 li ul active-submenu 21 0
 
-People O people 0 1 0 0 0 0 1 li ul active-submenu 19 0
+People O people 0 1 0 0 0 0 1 0 7 li ul active-submenu 19 0
 
-Publications O publications 0 0 0 0 0 0 1 li ul active-submenu 19 0
+Publications O publications 0 0 0 0 0 0 1 0 6 li ul active-submenu 19 0
 
-Systems O systems 0 0 0 0 0 0 1 li ul active-submenu 17 0
-& O & 0 0 0 0 0 0 0 li ul active-submenu 17 0
-Security O security 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Systems O systems 0 0 0 0 0 0 1 0 6 li ul active-submenu 17 0
+& O & 0 0 0 0 0 0 0 0 0 li ul active-submenu 17 0
+Security O security 0 0 0 0 0 0 1 0 6 li ul active-submenu 17 0
 
-Research O research 0 1 0 0 0 0 1 li ul active-submenu 19 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul active-submenu 19 0
 
-Previous O previous 0 0 0 0 0 0 1 li ul active-submenu 21 0
-Research O research 0 1 0 0 0 0 1 li ul active-submenu 21 0
-Projects O projects 0 0 0 0 0 0 1 li ul active-submenu 21 0
+Previous O previous 0 0 0 0 0 0 1 0 4 li ul active-submenu 21 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul active-submenu 21 0
+Projects O projects 0 0 0 0 0 0 1 0 6 li ul active-submenu 21 0
 
-Publications O publications 0 0 0 0 0 0 1 li ul active-submenu 19 0
+Publications O publications 0 0 0 0 0 0 1 0 6 li ul active-submenu 19 0
 
-Systems O systems 0 0 0 0 0 0 1 li ul active-submenu 17 0
-and O and 0 1 0 0 0 0 0 li ul active-submenu 17 0
-Network O network 0 0 0 0 0 0 1 li ul active-submenu 17 0
-Security O security 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Systems O systems 0 0 0 0 0 0 1 0 6 li ul active-submenu 17 0
+and O and 0 1 0 0 0 0 0 0 10 li ul active-submenu 17 0
+Network O network 0 0 0 0 0 0 1 0 6 li ul active-submenu 17 0
+Security O security 0 0 0 0 0 0 1 0 6 li ul active-submenu 17 0
 
-Massivizing O massivizing 0 0 0 0 1 0 1 li ul active-submenu 17 0
-Computer O computer 0 0 0 0 0 0 1 li ul active-submenu 17 0
-Systems O systems 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Massivizing O massivizing 0 0 0 0 1 0 1 0 0 li ul active-submenu 17 0
+Computer O computer 0 0 0 0 0 0 1 0 7 li ul active-submenu 17 0
+Systems O systems 0 0 0 0 0 0 1 0 6 li ul active-submenu 17 0
 
-People O people 0 1 0 0 0 0 1 li ul active-submenu 19 0
+People O people 0 1 0 0 0 0 1 0 7 li ul active-submenu 19 0
 
-Calendar O calendar 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Calendar O calendar 0 0 0 0 0 0 1 0 6 li ul active-submenu 17 0
 
-Term O term 0 0 0 0 0 0 1 li ul active-submenu 17 0
-projects O projects 0 0 0 0 0 0 0 li ul active-submenu 17 0
+Term O term 0 0 0 0 0 0 1 0 4 li ul active-submenu 17 0
+projects O projects 0 0 0 0 0 0 0 0 6 li ul active-submenu 17 0
 
-Contact O contact 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Contact O contact 0 0 0 0 0 0 1 0 8 li ul active-submenu 17 0
 
-Information O information 0 1 0 0 0 0 1 li ul active-submenu 15 0
-Management O management 0 1 0 0 0 0 1 li ul active-submenu 15 0
-& O & 0 0 0 0 0 0 0 li ul active-submenu 15 0
-Software O software 0 1 0 0 0 0 1 li ul active-submenu 15 0
-Engineering O engineering 0 0 0 0 0 0 1 li ul active-submenu 15 0
+Information O information 0 1 0 0 0 0 1 0 8 li ul active-submenu 15 0
+Management O management 0 1 0 0 0 0 1 0 6 li ul active-submenu 15 0
+& O & 0 0 0 0 0 0 0 0 0 li ul active-submenu 15 0
+Software O software 0 1 0 0 0 0 1 0 6 li ul active-submenu 15 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 li ul active-submenu 15 0
 
-Software O software 0 1 0 0 0 0 1 li ul active-submenu 17 0
-and O and 0 1 0 0 0 0 0 li ul active-submenu 17 0
-Services O services 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Software O software 0 1 0 0 0 0 1 0 6 li ul active-submenu 17 0
+and O and 0 1 0 0 0 0 0 0 10 li ul active-submenu 17 0
+Services O services 0 0 0 0 0 0 1 0 8 li ul active-submenu 17 0
 
-Research O research 0 1 0 0 0 0 1 li ul active-submenu 19 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul active-submenu 19 0
 
-People O people 0 1 0 0 0 0 1 li ul active-submenu 19 0
+People O people 0 1 0 0 0 0 1 0 7 li ul active-submenu 19 0
 
-Publications O publications 0 0 0 0 0 0 1 li ul active-submenu 19 0
+Publications O publications 0 0 0 0 0 0 1 0 6 li ul active-submenu 19 0
 
-Business O business 0 0 0 0 0 0 1 li ul active-submenu 17 0
-Informatics O informatics 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Business O business 0 0 0 0 0 0 1 0 7 li ul active-submenu 17 0
+Informatics O informatics 0 0 0 0 0 0 1 0 4 li ul active-submenu 17 0
 
-Research O research 0 1 0 0 0 0 1 li ul active-submenu 19 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul active-submenu 19 0
 
-People O people 0 1 0 0 0 0 1 li ul active-submenu 19 0
+People O people 0 1 0 0 0 0 1 0 7 li ul active-submenu 19 0
 
-Publications O publications 0 0 0 0 0 0 1 li ul active-submenu 19 0
+Publications O publications 0 0 0 0 0 0 1 0 6 li ul active-submenu 19 0
 
-Publications O publications 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Publications O publications 0 0 0 0 0 0 1 0 6 li ul active-submenu 17 0
 
-Term O term 0 0 0 0 0 0 1 li ul active-submenu 17 0
-projects O projects 0 0 0 0 0 0 0 li ul active-submenu 17 0
+Term O term 0 0 0 0 0 0 1 0 4 li ul active-submenu 17 0
+projects O projects 0 0 0 0 0 0 0 0 6 li ul active-submenu 17 0
 
-Contact O contact 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Contact O contact 0 0 0 0 0 0 1 0 8 li ul active-submenu 17 0
 
-Theoretical O theoretical 0 0 0 0 0 0 1 li ul active-submenu 15 0
-Computer O computer 0 0 0 0 0 0 1 li ul active-submenu 15 0
-Science O science 0 0 0 0 0 0 1 li ul active-submenu 15 0
+Theoretical O theoretical 0 0 0 0 0 0 1 0 3 li ul active-submenu 15 0
+Computer O computer 0 0 0 0 0 0 1 0 7 li ul active-submenu 15 0
+Science O science 0 0 0 0 0 0 1 0 7 li ul active-submenu 15 0
 
-Publications O publications 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Publications O publications 0 0 0 0 0 0 1 0 6 li ul active-submenu 17 0
 
-Research O research 0 1 0 0 0 0 1 li ul active-submenu 17 0
-projects O projects 0 0 0 0 0 0 0 li ul active-submenu 17 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul active-submenu 17 0
+projects O projects 0 0 0 0 0 0 0 0 6 li ul active-submenu 17 0
 
-Term O term 0 0 0 0 0 0 1 li ul active-submenu 17 0
-projects O projects 0 0 0 0 0 0 0 li ul active-submenu 17 0
+Term O term 0 0 0 0 0 0 1 0 4 li ul active-submenu 17 0
+projects O projects 0 0 0 0 0 0 0 0 6 li ul active-submenu 17 0
 
-Contact O contact 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Contact O contact 0 0 0 0 0 0 1 0 8 li ul active-submenu 17 0
 
-Vacancies O vacancies 0 0 0 0 0 0 1 li ul active-submenu 15 0
-for O for 0 1 0 0 0 0 0 li ul active-submenu 15 0
-PhD O phd 0 0 0 0 0 0 1 li ul active-submenu 15 0
-' O ' 0 0 0 0 0 0 0 li ul active-submenu 15 0
-s O s 0 0 0 0 0 0 0 li ul active-submenu 15 0
+Vacancies O vacancies 0 0 0 0 0 0 1 0 1 li ul active-submenu 15 0
+for O for 0 1 0 0 0 0 0 1 9 li ul active-submenu 15 0
+PhD's O phd's 0 0 0 0 0 0 1 0 0 li ul active-submenu 15 0
 
-Dissertations O dissertations 0 0 0 0 0 0 1 li ul active-submenu 15 0
-1985 O 1985 0 0 0 1 0 0 0 li ul active-submenu 15 0
-- O - 0 0 0 0 0 0 0 li ul active-submenu 15 0
-now O now 0 0 0 0 0 0 0 li ul active-submenu 15 0
+Dissertations O dissertations 0 0 0 0 0 0 1 0 0 li ul active-submenu 15 0
+1985 O 1985 0 0 0 1 0 0 0 0 0 li ul active-submenu 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul active-submenu 15 0
+now O now 0 0 0 0 0 0 0 0 7 li ul active-submenu 15 0
 
-Dissertations O dissertations 0 0 0 0 0 0 1 li ul active-submenu 17 0
-2014 O 2014 0 0 0 1 0 0 0 li ul active-submenu 17 0
-- O - 0 0 0 0 0 0 0 li ul active-submenu 17 0
+Dissertations O dissertations 0 0 0 0 0 0 1 0 0 li ul active-submenu 17 0
+2014 O 2014 0 0 0 1 0 0 0 0 0 li ul active-submenu 17 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul active-submenu 17 0
 
-Dissertations O dissertations 0 0 0 0 0 0 1 li ul active-submenu 17 0
-2011 O 2011 0 0 0 1 0 0 0 li ul active-submenu 17 0
-- O - 0 0 0 0 0 0 0 li ul active-submenu 17 0
-2013 O 2013 0 0 0 1 0 0 0 li ul active-submenu 17 0
+Dissertations O dissertations 0 0 0 0 0 0 1 0 0 li ul active-submenu 17 0
+2011 O 2011 0 0 0 1 0 0 0 0 0 li ul active-submenu 17 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul active-submenu 17 0
+2013 O 2013 0 0 0 1 0 0 0 0 0 li ul active-submenu 17 0
 
-Dissertations O dissertations 0 0 0 0 0 0 1 li ul active-submenu 17 0
-1985 O 1985 0 0 0 1 0 0 0 li ul active-submenu 17 0
-- O - 0 0 0 0 0 0 0 li ul active-submenu 17 0
-2011 O 2011 0 0 0 1 0 0 0 li ul active-submenu 17 0
+Dissertations O dissertations 0 0 0 0 0 0 1 0 0 li ul active-submenu 17 0
+1985 O 1985 0 0 0 1 0 0 0 0 0 li ul active-submenu 17 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul active-submenu 17 0
+2011 O 2011 0 0 0 1 0 0 0 0 0 li ul active-submenu 17 0
 
-Institutes O institutes 0 0 0 0 0 0 1 li ul active-submenu 15 0
+Institutes O institutes 0 0 0 0 0 0 1 0 5 li ul active-submenu 15 0
 
-Education O education 0 0 0 0 0 0 1 li ul active-submenu 13 0
+Education O education 0 0 0 0 0 0 1 0 8 li ul active-submenu 13 0
 
-Bachelor O bachelor 0 1 0 0 0 0 1 li ul active-submenu 15 0
-programmes O programmes 0 0 0 0 0 0 0 li ul active-submenu 15 0
+Bachelor O bachelor 0 1 0 0 0 0 1 1 5 li ul active-submenu 15 0
+programmes O programmes 0 0 0 0 0 0 0 0 6 li ul active-submenu 15 0
 
-Master O master 0 1 0 0 1 0 1 li ul active-submenu 15 0
-programmes O programmes 0 0 0 0 0 0 0 li ul active-submenu 15 0
+Master O master 0 1 0 0 1 0 1 3 6 li ul active-submenu 15 0
+programmes O programmes 0 0 0 0 0 0 0 0 6 li ul active-submenu 15 0
 
-Studievereniging O studievereniging 0 0 0 0 0 0 1 li ul active-submenu 15 0
+Studievereniging O studievereniging 0 0 0 0 0 0 1 0 0 li ul active-submenu 15 0
 
-Prospective O prospective 0 0 0 0 0 0 1 li ul active-submenu 13 0
-students O students 0 0 0 0 0 0 0 li ul active-submenu 13 0
+Prospective O prospective 0 0 0 0 0 0 1 0 4 li ul active-submenu 13 0
+students O students 0 0 0 0 0 0 0 0 8 li ul active-submenu 13 0
 
-Docenten O docenten 0 0 0 0 0 0 1 li ul active-submenu 15 0
+Docenten O docenten 0 0 0 0 0 0 1 0 0 li ul active-submenu 15 0
 
-Nascholing O nascholing 0 0 0 0 0 0 1 li ul active-submenu 17 0
-Informatica O informatica 0 0 0 0 0 0 1 li ul active-submenu 17 0
-Docenten O docenten 0 0 0 0 0 0 1 li ul active-submenu 17 0
+Nascholing O nascholing 0 0 0 0 0 0 1 0 0 li ul active-submenu 17 0
+Informatica O informatica 0 0 0 0 0 0 1 0 2 li ul active-submenu 17 0
+Docenten O docenten 0 0 0 0 0 0 1 0 0 li ul active-submenu 17 0
 
-Scholieren O scholieren 0 0 0 0 0 0 1 li ul active-submenu 15 0
+Scholieren O scholieren 0 0 0 0 0 0 1 0 0 li ul active-submenu 15 0
 
-Profielkeuze O profielkeuze 0 0 0 0 1 0 1 li ul active-submenu 17 0
+Profielkeuze O profielkeuze 0 0 0 0 1 0 1 0 0 li ul active-submenu 17 0
 
-Profielwerkstukken O profielwerkstukken 0 0 0 0 1 0 1 li ul active-submenu 17 0
+Profielwerkstukken O profielwerkstukken 0 0 0 0 1 0 1 0 0 li ul active-submenu 17 0
 
-Contact O contact 0 0 0 0 0 0 1 li ul active-submenu 15 0
+Contact O contact 0 0 0 0 0 0 1 0 8 li ul active-submenu 15 0
 
-News O news 0 0 0 0 0 0 1 li ul active-submenu 13 0
-& O & 0 0 0 0 0 0 0 li ul active-submenu 13 0
-Agenda O agenda 0 0 0 0 0 0 1 li ul active-submenu 13 0
+News O news 0 0 0 0 0 0 1 0 7 li ul active-submenu 13 0
+& O & 0 0 0 0 0 0 0 0 0 li ul active-submenu 13 0
+Agenda O agenda 0 0 0 0 0 0 1 0 4 li ul active-submenu 13 0
 
-Calendar O calendar 0 0 0 0 0 0 1 li ul active-submenu 15 0
+Calendar O calendar 0 0 0 0 0 0 1 0 6 li ul active-submenu 15 0
 
-Recent O recent 0 0 0 0 0 0 1 li ul active-submenu 15 0
-news O news 0 0 0 0 0 0 0 li ul active-submenu 15 0
+Recent O recent 0 0 0 0 0 0 1 0 6 li ul active-submenu 15 0
+news O news 0 0 0 0 0 0 0 0 7 li ul active-submenu 15 0
 
-News O news 0 0 0 0 0 0 1 li ul active-submenu 15 0
-archive O archive 0 0 0 0 0 0 0 li ul active-submenu 15 0
+News O news 0 0 0 0 0 0 1 0 7 li ul active-submenu 15 0
+archive O archive 0 0 0 0 0 0 0 0 6 li ul active-submenu 15 0
 
-ADI O adi 0 0 0 0 0 0 1 li ul active-submenu 15 0
-newsletter O newsletter 0 0 0 0 0 0 0 li ul active-submenu 15 0
+ADI O adi 0 0 0 0 0 0 1 0 1 li ul active-submenu 15 0
+newsletter O newsletter 0 0 0 0 0 0 0 0 5 li ul active-submenu 15 0
 
-Department O department 0 0 0 0 0 0 1 nav body visible-xs 5 252
-of O of 0 1 0 0 0 0 0 nav body visible-xs 5 252
-Computer O computer 0 0 0 0 0 0 1 nav body visible-xs 5 252
-Science O science 0 0 0 0 0 0 1 nav body visible-xs 5 252
-, O , 0 0 0 0 0 0 0 nav body visible-xs 5 252
-Faculty O faculty 0 0 0 0 0 0 1 nav body visible-xs 5 252
-of O of 0 1 0 0 0 0 0 nav body visible-xs 5 252
-Sciences O sciences 0 0 0 0 0 0 1 nav body visible-xs 5 252
-, O , 0 0 0 0 0 0 0 nav body visible-xs 5 252
-Vrije O vrije 0 0 0 0 0 0 1 nav body visible-xs 5 252
-Universiteit O universiteit 0 0 0 0 0 0 1 nav body visible-xs 5 252
-Amsterdam O amsterdam 0 1 0 0 0 0 1 nav body visible-xs 5 252
+Department O department 0 0 0 0 0 0 1 0 7 nav body visible-xs 5 252
+of O of 0 1 0 0 0 0 0 2 10 nav body visible-xs 5 252
+Computer O computer 0 0 0 0 0 0 1 0 7 nav body visible-xs 5 252
+Science O science 0 0 0 0 0 0 1 0 7 nav body visible-xs 5 252
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 nav body visible-xs 5 252
+Faculty O faculty 0 0 0 0 0 0 1 0 7 nav body visible-xs 5 252
+of O of 0 1 0 0 0 0 0 2 10 nav body visible-xs 5 252
+Sciences O sciences 0 0 0 0 0 0 1 0 7 nav body visible-xs 5 252
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 nav body visible-xs 5 252
+Vrije O vrije 0 0 0 0 0 0 1 0 4 nav body visible-xs 5 252
+Universiteit O universiteit 0 0 0 0 0 0 1 0 3 nav body visible-xs 5 252
+Amsterdam O amsterdam 0 1 0 0 0 0 1 1 5 nav body visible-xs 5 252
 
-Home O home 0 1 0 0 0 0 1 div div  9 0
+Home O home 0 1 0 0 0 0 1 2 6 div div  9 0
 
-| O | 0 0 0 0 0 0 0 div div col-xs-12 9 1
+| O | 0 0 0 0 0 0 0 0 0 div div col-xs-12 9 1
 
-Research O research 0 1 0 0 0 0 1 div div  9 2
+Research O research 0 1 0 0 0 0 1 0 7 div div  9 2
 
-| O | 0 0 0 0 0 0 0 div div col-xs-12 9 1
+| O | 0 0 0 0 0 0 0 0 0 div div col-xs-12 9 1
 
-Computer O computer 0 0 0 0 0 0 1 div div  9 4
-Systems O systems 0 0 0 0 0 0 1 div div  9 4
+Computer O computer 0 0 0 0 0 0 1 0 7 div div  9 4
+Systems O systems 0 0 0 0 0 0 1 0 6 div div  9 4
 
-| O | 0 0 0 0 0 0 0 div div col-xs-12 9 1
+| O | 0 0 0 0 0 0 0 0 0 div div col-xs-12 9 1
 
-High O high 0 1 0 0 0 0 1 div div  9 6
-Performance O performance 0 1 0 0 0 0 1 div div  9 6
-Distributed O distributed 0 0 0 0 0 0 1 div div  9 6
-Computing O computing 0 0 0 0 0 0 1 div div  9 6
+High O high 0 1 0 0 0 0 1 3 6 div div  9 6
+Performance O performance 0 1 0 0 0 0 1 0 6 div div  9 6
+Distributed O distributed 0 0 0 0 0 0 1 0 4 div div  9 6
+Computing O computing 0 0 0 0 0 0 1 0 6 div div  9 6
 
-| O | 0 0 0 0 0 0 0 div div col-xs-12 9 1
+| O | 0 0 0 0 0 0 0 0 0 div div col-xs-12 9 1
 
-People O people 0 1 0 0 0 0 1 div div last-breadcrumb 9 8
+People O people 0 1 0 0 0 0 1 0 7 div div last-breadcrumb 9 8
 
-| O | 0 0 0 0 0 0 0 div div col-xs-12 9 1
+| O | 0 0 0 0 0 0 0 0 0 div div col-xs-12 9 1
 
-Staff O staff 0 1 0 0 0 0 1 p p text-item 15 0
-- O - 0 0 0 0 0 0 0 p div text-item 14 1
-PhDs O phds 0 0 0 0 0 0 1 p p text-item 15 1
-- O - 0 0 0 0 0 0 0 p div text-item 14 1
-Scientific O scientific 0 0 0 0 0 0 1 p p text-item 15 2
-Programmers O programmers 0 0 0 0 0 0 1 p p text-item 15 2
+Staff O staff 0 1 0 0 0 0 1 2 7 p p text-item 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 p div text-item 14 1
+PhDs O phds 0 0 0 0 0 0 1 0 0 p p text-item 15 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 p div text-item 14 1
+Scientific O scientific 0 0 0 0 0 0 1 0 4 p p text-item 15 2
+Programmers O programmers 0 0 0 0 0 0 1 0 1 p p text-item 15 2
 
-staff O staff 0 0 0 0 0 0 0 p p text-item 15 0
+staff O staff 0 0 0 0 0 0 0 0 7 p p text-item 15 0
 
-prof.dr.ir. O prof.dr.ir. 0 0 0 0 1 0 0 td tr styled 18 2
-Henri B-PER henri 0 1 0 0 0 0 1 td tr styled 18 2
-Bal I-PER bal 0 1 0 0 0 0 1 td tr styled 18 2
-( O ( 0 0 0 0 0 0 0 td tr styled 18 3
-VU O vu 0 0 0 0 0 0 1 td tr styled 18 3
-) O ) 0 0 0 0 0 0 0 td tr styled 18 3
+prof.dr.ir. O prof.dr.ir. 0 0 0 0 1 0 0 0 0 td tr styled 18 2
+Henri B-PER henri 0 1 0 0 0 0 1 6 7 td tr styled 18 2
+Bal I-PER bal 0 1 0 0 0 0 1 4 4 td tr styled 18 2
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr styled 18 3
+VU O vu 0 0 0 0 0 0 1 0 5 td tr styled 18 3
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr styled 18 3
 
-dr. O dr. 0 0 0 0 1 0 0 td tr styled 18 2
-Jacopo B-PER jacopo 1 1 0 0 0 0 1 td tr styled 18 2
-Urbani I-PER urbani 1 1 0 0 0 0 1 td tr styled 18 2
-( O ( 0 0 0 0 0 0 0 tr tbody styled 17 6
-VU O vu 0 0 0 0 0 0 1 tr tbody styled 17 6
-) O ) 0 0 0 0 0 0 0 tr tbody styled 17 6
+dr. O dr. 0 0 0 0 1 0 0 0 0 td tr styled 18 2
+Jacopo B-PER jacopo 1 1 0 0 0 0 1 4 1 td tr styled 18 2
+Urbani I-PER urbani 1 1 0 0 0 0 1 2 0 td tr styled 18 2
+( O-PUNCT ( 1 1 0 0 0 0 0 6 0 tr tbody styled 17 6
+VU O vu 0 0 0 0 0 0 1 0 5 tr tbody styled 17 6
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody styled 17 6
 
-ir. O ir. 0 0 0 0 0 0 0 td tr styled 18 2
-Marc B-PER marc 1 1 0 0 0 0 1 td tr styled 18 2
-X. I-PER x. 1 1 0 0 0 0 1 td tr styled 18 2
-Makkes I-PER makkes 1 1 0 0 0 0 1 td tr styled 18 2
-( O ( 0 0 0 0 0 0 0 tr tbody styled 17 11
-VU O vu 0 0 0 0 0 0 1 td tr styled 18 3
-) O ) 0 0 0 0 0 0 0 tr tbody styled 17 11
+ir. O ir. 0 0 0 0 0 0 0 0 0 td tr styled 18 2
+Marc B-PER marc 1 1 0 0 0 0 1 8 6 td tr styled 18 2
+X. I-PER x. 1 1 0 0 0 0 1 7 0 td tr styled 18 2
+Makkes I-PER makkes 1 1 0 0 0 0 1 0 0 td tr styled 18 2
+( O-PUNCT ( 1 1 0 0 0 0 0 6 0 tr tbody styled 17 11
+VU O vu 0 0 0 0 0 0 1 0 5 td tr styled 18 3
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody styled 17 11
 
-Andrei B-PER andrei 1 1 0 0 1 0 1 td tr styled 18 2
-Agapi I-PER agapi 1 1 0 0 0 0 1 td tr styled 18 2
-( O ( 0 0 0 0 0 0 0 td tr styled 18 3
-VU O vu 0 0 0 0 0 0 1 td tr styled 18 3
-) O ) 0 0 0 0 0 0 0 td tr styled 18 3
+Andrei B-PER andrei 1 1 0 0 1 0 1 6 3 td tr styled 18 2
+Agapi I-PER agapi 1 1 0 0 0 0 1 1 0 td tr styled 18 2
+( O-PUNCT ( 1 1 0 0 0 0 0 6 0 td tr styled 18 3
+VU O vu 0 0 0 0 0 0 1 0 5 td tr styled 18 3
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr styled 18 3
 
-Hamid B-PER hamid 0 1 0 0 0 0 1 td tr styled 18 0
-Bazoubandi I-PER bazoubandi 0 1 0 0 0 0 1 td tr styled 18 0
+Hamid B-PER hamid 0 1 0 0 0 0 1 7 3 td tr styled 18 0
+Bazoubandi I-PER bazoubandi 0 1 0 0 0 0 1 0 0 td tr styled 18 0
 
-Vladimir B-PER vladimir 0 1 0 0 0 0 1 td tr styled 18 0
-Bozdog I-PER bozdog 0 1 0 0 0 0 1 td tr styled 18 0
+Vladimir B-PER vladimir 0 1 0 0 0 0 1 7 4 td tr styled 18 0
+Bozdog I-PER bozdog 0 1 0 0 0 0 1 0 0 td tr styled 18 0
 
-Chris B-PER chris 0 1 0 0 0 0 1 td tr styled 18 0
-Broekema I-PER broekema 0 1 0 0 0 0 1 td tr styled 18 0
+Chris B-PER chris 0 1 0 0 0 0 1 8 5 td tr styled 18 0
+Broekema I-PER broekema 0 1 0 0 0 0 1 1 0 td tr styled 18 0
 
-Ismail B-PER ismail 0 1 0 0 0 0 1 td tr styled 18 0
-Elhelw I-PER elhelw 0 0 0 0 0 0 1 td tr styled 18 0
+Ismail B-PER ismail 0 1 0 0 0 0 1 6 3 td tr styled 18 0
+Elhelw I-PER elhelw 0 0 0 0 0 0 1 0 0 td tr styled 18 0
 
-Roshan B-PER roshan 0 1 0 0 0 0 1 td tr styled 18 3
-Bharath I-PER bharath 0 1 0 0 0 0 1 td tr styled 18 3
-Das I-PER das 0 1 0 0 0 0 1 td tr styled 18 3
-( O ( 0 0 0 0 0 0 0 td tr styled 18 4
-VU O vu 0 0 0 0 0 0 1 td tr styled 18 5
-) O ) 0 0 0 0 0 0 0 tr tbody styled 17 10
+Roshan B-PER roshan 0 1 0 0 0 0 1 4 0 td tr styled 18 3
+Bharath I-PER bharath 0 1 0 0 0 0 1 5 0 td tr styled 18 3
+Das I-PER das 0 1 0 0 0 0 1 7 6 td tr styled 18 3
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr styled 18 4
+VU O vu 0 0 0 0 0 0 1 0 5 td tr styled 18 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody styled 17 10
 
-Unmesh B-PER unmesh 0 1 0 0 0 0 1 td tr styled 18 2
-Joshi I-PER joshi 0 1 0 0 0 0 1 td tr styled 18 2
+Unmesh B-PER unmesh 0 1 0 0 0 0 1 2 0 td tr styled 18 2
+Joshi I-PER joshi 0 1 0 0 0 0 1 6 0 td tr styled 18 2
 
-Alexandru B-PER alexandru 1 1 0 0 0 0 1 td tr styled 18 0
-Uta I-PER uta 1 1 0 0 0 0 1 td tr styled 18 0
+Alexandru B-PER alexandru 1 1 0 0 0 0 1 6 2 td tr styled 18 0
+Uta I-PER uta 1 1 0 0 0 0 1 4 1 td tr styled 18 0
 
-Stefan B-PER stefan 1 1 0 0 0 0 1 td tr styled 18 0
-Vijzelaar I-PER vijzelaar 1 1 0 0 0 0 1 td tr styled 18 0
+Stefan B-PER stefan 1 1 0 0 0 0 1 8 4 td tr styled 18 0
+Vijzelaar I-PER vijzelaar 1 1 0 0 0 0 1 0 0 td tr styled 18 0
 
-Bojan B-PER bojan 0 1 0 0 0 0 1 p td styled 19 0
-Simoski I-PER simoski 0 0 0 0 0 0 1 p td styled 19 0
+Bojan B-PER bojan 0 1 0 0 0 0 1 5 0 p td styled 19 0
+Simoski I-PER simoski 0 0 0 0 0 0 1 0 0 p td styled 19 0
 
-staff O staff 0 0 0 0 0 0 0 p p text-item 15 0
+staff O staff 0 0 0 0 0 0 0 0 7 p p text-item 15 0
 
-programmers O programmers 0 0 0 0 0 0 0 p div text-item 14 115
+programmers O programmers 0 0 0 0 0 0 0 0 1 p div text-item 14 115
 
-dr. O dr. 0 0 0 0 1 0 0 td tr styled 18 2
-Rutger B-PER rutger 0 1 0 0 0 0 1 td tr styled 18 2
-Hofman I-PER hofman 0 1 0 0 0 0 1 td tr styled 18 2
-( O ( 0 0 0 0 0 0 0 td tr styled 18 3
-VU O vu 0 0 0 0 0 0 1 td tr styled 18 3
-) O ) 0 0 0 0 0 0 0 td tr styled 18 3
+dr. O dr. 0 0 0 0 1 0 0 0 0 td tr styled 18 2
+Rutger B-PER rutger 0 1 0 0 0 0 1 3 0 td tr styled 18 2
+Hofman I-PER hofman 0 1 0 0 0 0 1 4 0 td tr styled 18 2
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr styled 18 3
+VU O vu 0 0 0 0 0 0 1 0 5 td tr styled 18 3
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr styled 18 3
 
-drs. O drs. 0 0 0 0 1 0 0 td tr styled 18 2
-Ceriel B-PER ceriel 1 1 0 0 0 0 1 td tr styled 18 2
-Jacobs I-PER jacobs 1 1 0 0 0 0 1 td tr styled 18 2
-( O ( 0 0 0 0 0 0 0 td tr styled 18 3
-VU O vu 0 0 0 0 0 0 1 td tr styled 18 3
-) O ) 0 0 0 0 0 0 0 td tr styled 18 3
+drs. O drs. 0 0 0 0 1 0 0 0 0 td tr styled 18 2
+Ceriel B-PER ceriel 1 1 0 0 0 0 1 1 0 td tr styled 18 2
+Jacobs I-PER jacobs 1 1 0 0 0 0 1 6 1 td tr styled 18 2
+( O-PUNCT ( 1 1 0 0 0 0 0 6 0 td tr styled 18 3
+VU O vu 0 0 0 0 0 0 1 0 5 td tr styled 18 3
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr styled 18 3
 
-drs. O drs. 0 0 0 0 1 0 0 td tr styled 18 2
-Kees B-PER kees 1 1 0 0 0 0 1 td tr styled 18 2
-Verstoep I-PER verstoep 1 1 0 0 0 0 1 td tr styled 18 2
-( O ( 0 0 0 0 0 0 0 td tr styled 18 3
-VU O vu 0 0 0 0 0 0 1 td tr styled 18 3
-) O ) 0 0 0 0 0 0 0 td tr styled 18 3
+drs. O drs. 0 0 0 0 1 0 0 0 0 td tr styled 18 2
+Kees B-PER kees 1 1 0 0 0 0 1 5 1 td tr styled 18 2
+Verstoep I-PER verstoep 1 1 0 0 0 0 1 1 0 td tr styled 18 2
+( O-PUNCT ( 1 1 0 0 0 0 0 6 0 td tr styled 18 3
+VU O vu 0 0 0 0 0 0 1 0 5 td tr styled 18 3
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr styled 18 3
 
-Faculties O faculties 0 0 0 0 0 0 1 div div col-sm-3 9 0
+Faculties O faculties 0 0 0 0 0 0 1 0 4 div div col-sm-3 9 0
 
-Research O research 0 1 0 0 0 0 1 div div col-sm-3 9 0
-Institutes O institutes 0 0 0 0 0 0 1 div div col-sm-3 9 0
+Research O research 0 1 0 0 0 0 1 0 7 div div col-sm-3 9 0
+Institutes O institutes 0 0 0 0 0 0 1 0 5 div div col-sm-3 9 0
 
-Research O research 0 1 0 0 0 0 1 div div col-sm-3 9 0
-Centres O centres 0 0 0 0 0 0 1 div div col-sm-3 9 0
+Research O research 0 1 0 0 0 0 1 0 7 div div col-sm-3 9 0
+Centres O centres 0 0 0 0 0 0 1 0 5 div div col-sm-3 9 0
 
-Other O other 0 1 0 0 0 0 1 div div col-sm-3 9 0
-sites O sites 0 0 0 0 0 0 0 div div col-sm-3 9 0
+Other O other 0 1 0 0 0 0 1 0 7 div div col-sm-3 9 0
+sites O sites 0 0 0 0 0 0 0 0 6 div div col-sm-3 9 0
 
-Faculties O faculties 0 0 0 0 0 0 1 div div modal-title 9 1
+Faculties O faculties 0 0 0 0 0 0 1 0 4 div div modal-title 9 1
 
-Faculty O faculty 0 0 0 0 0 0 1 li ul list-triangle 11 0
-of O of 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Behavioural O behavioural 0 0 0 0 0 0 1 li ul list-triangle 11 0
-and O and 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Movement O movement 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul list-triangle 11 0
+Behavioural O behavioural 0 0 0 0 0 0 1 0 0 li ul list-triangle 11 0
+and O and 0 1 0 0 0 0 0 0 10 li ul list-triangle 11 0
+Movement O movement 0 0 0 0 0 0 1 0 5 li ul list-triangle 11 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
 
-Faculty O faculty 0 0 0 0 0 0 1 li ul list-triangle 11 0
-of O of 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Dentistry O dentistry 0 0 0 0 0 0 1 li ul list-triangle 11 0
-( O ( 0 0 0 0 0 0 0 li ul list-triangle 11 0
-ACTA O acta 0 0 0 0 0 0 1 li ul list-triangle 11 0
-) O ) 0 0 0 0 0 0 0 li ul list-triangle 11 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul list-triangle 11 0
+Dentistry O dentistry 0 0 0 0 0 0 1 0 2 li ul list-triangle 11 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul list-triangle 11 0
+ACTA O acta 0 0 0 0 0 0 1 0 2 li ul list-triangle 11 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul list-triangle 11 0
 
-Faculty O faculty 0 0 0 0 0 0 1 li ul list-triangle 11 0
-of O of 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Science O science 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul list-triangle 11 0
+Science O science 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
 
-School O school 0 1 0 0 0 0 1 li ul list-triangle 11 0
-of O of 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Business O business 0 0 0 0 0 0 1 li ul list-triangle 11 0
-and O and 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Economics O economics 0 0 0 0 0 0 1 li ul list-triangle 11 0
+School O school 0 1 0 0 0 0 1 0 7 li ul list-triangle 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul list-triangle 11 0
+Business O business 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
+and O and 0 1 0 0 0 0 0 0 10 li ul list-triangle 11 0
+Economics O economics 0 0 0 0 0 0 1 0 5 li ul list-triangle 11 0
 
-Faculty O faculty 0 0 0 0 0 0 1 li ul list-triangle 11 0
-of O of 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Humanities O humanities 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul list-triangle 11 0
+Humanities O humanities 0 0 0 0 0 0 1 0 5 li ul list-triangle 11 0
 
-Faculty O faculty 0 0 0 0 0 0 1 li ul list-triangle 11 0
-of O of 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Law O law 0 1 0 0 0 0 1 li ul list-triangle 11 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul list-triangle 11 0
+Law O law 0 1 0 0 0 0 1 5 7 li ul list-triangle 11 0
 
-Faculty O faculty 0 0 0 0 0 0 1 li ul list-triangle 11 0
-of O of 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Social O social 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul list-triangle 11 0
+Social O social 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
 
-Faculty O faculty 0 0 0 0 0 0 1 li ul list-triangle 11 0
-of O of 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Theology O theology 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul list-triangle 11 0
+Theology O theology 0 0 0 0 0 0 1 0 1 li ul list-triangle 11 0
 
-VUmc O vumc 0 0 0 0 0 0 1 li ul list-triangle 11 0
-School O school 0 1 0 0 0 0 1 li ul list-triangle 11 0
-of O of 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Medical O medical 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul list-triangle 11 0
+VUmc O vumc 0 0 0 0 0 0 1 0 0 li ul list-triangle 11 0
+School O school 0 1 0 0 0 0 1 0 7 li ul list-triangle 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul list-triangle 11 0
+Medical O medical 0 0 0 0 0 0 1 0 5 li ul list-triangle 11 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
 
-Research O research 0 1 0 0 0 0 1 div div modal-title 9 1
-Institutes O institutes 0 0 0 0 0 0 1 div div modal-title 9 1
+Research O research 0 1 0 0 0 0 1 0 7 div div modal-title 9 1
+Institutes O institutes 0 0 0 0 0 0 1 0 5 div div modal-title 9 1
 
-Amsterdam O amsterdam 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Global O global 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Change O change 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Institute O institute 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Amsterdam O amsterdam 0 1 0 0 0 0 1 1 5 li ul list-triangle 11 0
+Global O global 0 1 0 0 0 0 1 0 6 li ul list-triangle 11 0
+Change O change 0 1 0 0 0 0 1 2 6 li ul list-triangle 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
 
-Amsterdam O amsterdam 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Institute O institute 0 0 0 0 0 0 1 li ul list-triangle 11 0
-for O for 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Molecules O molecules 0 0 0 0 0 0 1 li ul list-triangle 11 0
-, O , 0 0 0 0 0 0 0 li ul list-triangle 11 0
-Medicines O medicines 0 0 0 0 0 0 1 li ul list-triangle 11 0
-and O and 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Systems O systems 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Amsterdam O amsterdam 0 1 0 0 0 0 1 1 5 li ul list-triangle 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
+for O for 0 1 0 0 0 0 0 1 9 li ul list-triangle 11 0
+Molecules O molecules 0 0 0 0 0 0 1 0 3 li ul list-triangle 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul list-triangle 11 0
+Medicines O medicines 0 0 0 0 0 0 1 0 0 li ul list-triangle 11 0
+and O and 0 1 0 0 0 0 0 0 10 li ul list-triangle 11 0
+Systems O systems 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
 
-A O a 0 1 0 0 0 0 1 li ul list-triangle 11 0
-- O - 0 0 0 0 0 0 0 li ul list-triangle 11 0
-LAB O lab 0 0 0 0 0 0 1 li ul list-triangle 11 0
+A O a 0 1 0 0 0 0 1 4 11 li ul list-triangle 11 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul list-triangle 11 0
+LAB O lab 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
 
-CLUE+ O clue+ 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Research O research 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Institute O institute 0 0 0 0 0 0 1 li ul list-triangle 11 0
-for O for 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Culture O culture 0 0 0 0 0 0 1 li ul list-triangle 11 0
-, O , 0 0 0 0 0 0 0 li ul list-triangle 11 0
-History O history 0 0 0 0 0 0 1 li ul list-triangle 11 0
-and O and 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Heritage O heritage 0 1 0 0 0 0 1 li ul list-triangle 11 0
+CLUE+ O clue+ 0 0 0 0 0 0 1 0 0 li ul list-triangle 11 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul list-triangle 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
+for O for 0 1 0 0 0 0 0 1 9 li ul list-triangle 11 0
+Culture O culture 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul list-triangle 11 0
+History O history 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
+and O and 0 1 0 0 0 0 0 0 10 li ul list-triangle 11 0
+Heritage O heritage 0 1 0 0 0 0 1 2 5 li ul list-triangle 11 0
 
-EMGO+ O emgo+ 0 0 0 0 1 0 1 li ul list-triangle 11 0
-Institute O institute 0 0 0 0 0 0 1 li ul list-triangle 11 0
-for O for 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Health O health 0 1 0 0 0 0 1 li ul list-triangle 11 0
-and O and 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Care O care 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Research O research 0 1 0 0 0 0 1 li ul list-triangle 11 0
+EMGO+ O emgo+ 0 0 0 0 1 0 1 0 0 li ul list-triangle 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
+for O for 0 1 0 0 0 0 0 1 9 li ul list-triangle 11 0
+Health O health 0 1 0 0 0 0 1 0 7 li ul list-triangle 11 0
+and O and 0 1 0 0 0 0 0 0 10 li ul list-triangle 11 0
+Care O care 0 1 0 0 0 0 1 2 6 li ul list-triangle 11 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul list-triangle 11 0
 
-Institute O institute 0 0 0 0 0 0 1 li ul list-triangle 11 0
-for O for 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Cardiovascular O cardiovascular 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Research O research 0 1 0 0 0 0 1 li ul list-triangle 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
+for O for 0 1 0 0 0 0 0 1 9 li ul list-triangle 11 0
+Cardiovascular O cardiovascular 0 0 0 0 0 0 1 0 2 li ul list-triangle 11 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul list-triangle 11 0
 
-Institute O institute 0 0 0 0 0 0 1 li ul list-triangle 11 0
-for O for 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Societal O societal 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Resilience O resilience 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
+for O for 0 1 0 0 0 0 0 1 9 li ul list-triangle 11 0
+Societal O societal 0 0 0 0 0 0 1 0 2 li ul list-triangle 11 0
+Resilience O resilience 0 0 0 0 0 0 1 0 1 li ul list-triangle 11 0
 
-Kooijmans O kooijmans 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Institute O institute 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Kooijmans O kooijmans 0 1 0 0 0 0 1 0 0 li ul list-triangle 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
 
-LaserLaB O laserlab 0 0 0 0 0 0 1 li ul list-triangle 11 0
+LaserLaB O laserlab 0 0 0 0 0 0 1 0 0 li ul list-triangle 11 0
 
-Amsterdam O amsterdam 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Movement O movement 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Amsterdam O amsterdam 0 1 0 0 0 0 1 1 5 li ul list-triangle 11 0
+Movement O movement 0 0 0 0 0 0 1 0 5 li ul list-triangle 11 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
 
-Amsterdam O amsterdam 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Neuroscience O neuroscience 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Amsterdam O amsterdam 0 1 0 0 0 0 1 1 5 li ul list-triangle 11 0
+Neuroscience O neuroscience 0 0 0 0 0 0 1 0 2 li ul list-triangle 11 0
 
-The O the 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Network O network 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Institute O institute 0 0 0 0 0 0 1 li ul list-triangle 11 0
+The O the 0 1 0 0 0 0 1 5 10 li ul list-triangle 11 0
+Network O network 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
 
-VUmc O vumc 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Cancer O cancer 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Center O center 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Amsterdam O amsterdam 0 1 0 0 0 0 1 li ul list-triangle 11 0
-( O ( 0 0 0 0 0 0 0 li ul list-triangle 11 0
-NL O nl 0 0 0 0 0 0 1 li ul list-triangle 11 0
-) O ) 0 0 0 0 0 0 0 li ul list-triangle 11 0
+VUmc O vumc 0 0 0 0 0 0 1 0 0 li ul list-triangle 11 0
+Cancer O cancer 0 1 0 0 0 0 1 1 6 li ul list-triangle 11 0
+Center O center 0 1 0 0 0 0 1 1 7 li ul list-triangle 11 0
+Amsterdam O amsterdam 0 1 0 0 0 0 1 1 5 li ul list-triangle 11 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul list-triangle 11 0
+NL O nl 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul list-triangle 11 0
 
-Research O research 0 1 0 0 0 0 1 div div modal-title 9 1
-Centres O centres 0 0 0 0 0 0 1 div div modal-title 9 1
+Research O research 0 1 0 0 0 0 1 0 7 div div modal-title 9 1
+Centres O centres 0 0 0 0 0 0 1 0 5 div div modal-title 9 1
 
-Abraham O abraham 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Kuyper O kuyper 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Center O center 0 1 0 0 0 0 1 li ul list-triangle 11 0
+Abraham O abraham 0 1 0 0 0 0 1 6 4 li ul list-triangle 11 0
+Kuyper O kuyper 0 1 0 0 0 0 1 2 0 li ul list-triangle 11 0
+Center O center 0 1 0 0 0 0 1 1 7 li ul list-triangle 11 0
 
-Amsterdam O amsterdam 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Business O business 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Research O research 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Institute O institute 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Amsterdam O amsterdam 0 1 0 0 0 0 1 1 5 li ul list-triangle 11 0
+Business O business 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul list-triangle 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
 
-Amsterdam O amsterdam 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Center O center 0 1 0 0 0 0 1 li ul list-triangle 11 0
-for O for 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Career O career 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Research O research 0 1 0 0 0 0 1 li ul list-triangle 11 0
+Amsterdam O amsterdam 0 1 0 0 0 0 1 1 5 li ul list-triangle 11 0
+Center O center 0 1 0 0 0 0 1 1 7 li ul list-triangle 11 0
+for O for 0 1 0 0 0 0 0 1 9 li ul list-triangle 11 0
+Career O career 0 0 0 0 0 0 1 0 8 li ul list-triangle 11 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul list-triangle 11 0
 
-Amsterdam O amsterdam 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Center O center 0 1 0 0 0 0 1 li ul list-triangle 11 0
-for O for 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Entrepreneurship O entrepreneurship 0 0 0 0 0 0 1 li ul list-triangle 11 0
-at O at 0 0 0 0 0 0 0 li ul list-triangle 11 0
-VU O vu 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Amsterdam O amsterdam 0 1 0 0 0 0 1 1 5 li ul list-triangle 11 0
+Center O center 0 1 0 0 0 0 1 1 7 li ul list-triangle 11 0
+for O for 0 1 0 0 0 0 0 1 9 li ul list-triangle 11 0
+Entrepreneurship O entrepreneurship 0 0 0 0 0 0 1 0 2 li ul list-triangle 11 0
+at O at 0 1 0 0 0 0 0 0 8 li ul list-triangle 11 0
+VU O vu 0 0 0 0 0 0 1 0 5 li ul list-triangle 11 0
 
-Amsterdam O amsterdam 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Centre O centre 0 1 0 0 0 0 1 li ul list-triangle 11 0
-for O for 0 1 0 0 0 0 0 li ul list-triangle 11 0
-World O world 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Food O food 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Studies O studies 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Amsterdam O amsterdam 0 1 0 0 0 0 1 1 5 li ul list-triangle 11 0
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul list-triangle 11 0
+for O for 0 1 0 0 0 0 0 1 9 li ul list-triangle 11 0
+World O world 0 1 0 0 0 0 1 0 7 li ul list-triangle 11 0
+Food O food 0 0 0 0 0 0 1 0 5 li ul list-triangle 11 0
+Studies O studies 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
 
-CVO O cvo 0 0 0 0 0 0 1 li ul list-triangle 11 0
+CVO O cvo 0 0 0 0 0 0 1 0 0 li ul list-triangle 11 0
 
-HDC O hdc 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Historical O historical 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Documentation O documentation 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Centre O centre 0 1 0 0 0 0 1 li ul list-triangle 11 0
+HDC O hdc 0 0 0 0 0 0 1 0 0 li ul list-triangle 11 0
+Historical O historical 0 0 0 0 0 0 1 0 5 li ul list-triangle 11 0
+Documentation O documentation 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul list-triangle 11 0
 
-Metaphor O metaphor 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Lab O lab 0 1 0 0 0 0 1 li ul list-triangle 11 0
+Metaphor O metaphor 0 0 0 0 0 0 1 0 1 li ul list-triangle 11 0
+Lab O lab 0 1 0 0 0 0 1 0 6 li ul list-triangle 11 0
 
-Migration O migration 0 0 0 0 0 0 1 li ul list-triangle 11 0
-and O and 0 1 0 0 0 0 0 li ul list-triangle 11 0
-Diversity O diversity 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Centre O centre 0 1 0 0 0 0 1 li ul list-triangle 11 0
+Migration O migration 0 0 0 0 0 0 1 0 3 li ul list-triangle 11 0
+and O and 0 1 0 0 0 0 0 0 10 li ul list-triangle 11 0
+Diversity O diversity 0 0 0 0 0 0 1 0 4 li ul list-triangle 11 0
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul list-triangle 11 0
 
-Radionuclide O radionuclide 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Center O center 0 1 0 0 0 0 1 li ul list-triangle 11 0
+Radionuclide O radionuclide 0 0 0 0 0 0 1 0 0 li ul list-triangle 11 0
+Center O center 0 1 0 0 0 0 1 1 7 li ul list-triangle 11 0
 
-The O the 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Zijlstra O zijlstra 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Center O center 0 1 0 0 0 0 1 li ul list-triangle 11 0
+The O the 0 1 0 0 0 0 1 5 10 li ul list-triangle 11 0
+Zijlstra O zijlstra 0 1 0 0 0 0 1 2 0 li ul list-triangle 11 0
+Center O center 0 1 0 0 0 0 1 1 7 li ul list-triangle 11 0
 
-Other O other 0 1 0 0 0 0 1 div div modal-title 9 1
-sites O sites 0 0 0 0 0 0 0 div div modal-title 9 1
+Other O other 0 1 0 0 0 0 1 0 7 div div modal-title 9 1
+sites O sites 0 0 0 0 0 0 0 0 6 div div modal-title 9 1
 
-Bachelor O bachelor 0 1 0 0 0 0 1 li ul list-triangle 11 0
-' O ' 0 0 0 0 0 0 0 li ul list-triangle 11 0
-s O s 0 0 0 0 0 0 0 li ul list-triangle 11 0
-degree O degree 0 0 0 0 0 0 0 li ul list-triangle 11 0
-programmes O programmes 0 0 0 0 0 0 0 li ul list-triangle 11 0
-( O ( 0 0 0 0 0 0 0 li ul list-triangle 11 0
-international O international 0 0 0 0 0 0 0 li ul list-triangle 11 0
-) O ) 0 0 0 0 0 0 0 li ul list-triangle 11 0
+Bachelor's O bachelor's 0 0 0 0 0 0 1 0 0 li ul list-triangle 11 0
+degree O degree 0 0 0 0 0 0 0 0 6 li ul list-triangle 11 0
+programmes O programmes 0 0 0 0 0 0 0 0 6 li ul list-triangle 11 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul list-triangle 11 0
+international O international 0 0 0 0 0 0 0 0 8 li ul list-triangle 11 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul list-triangle 11 0
 
-Master O master 0 1 0 0 1 0 1 li ul list-triangle 11 0
-' O ' 0 0 0 0 0 0 0 li ul list-triangle 11 0
-s O s 0 0 0 0 0 0 0 li ul list-triangle 11 0
-degree O degree 0 0 0 0 0 0 0 li ul list-triangle 11 0
-programmes O programmes 0 0 0 0 0 0 0 li ul list-triangle 11 0
+Master's O master's 0 0 0 0 1 0 1 0 0 li ul list-triangle 11 0
+degree O degree 0 0 0 0 0 0 0 0 6 li ul list-triangle 11 0
+programmes O programmes 0 0 0 0 0 0 0 0 6 li ul list-triangle 11 0
 
-Centre O centre 0 1 0 0 0 0 1 li ul list-triangle 11 0
-for O for 0 1 0 0 0 0 0 li ul list-triangle 11 0
-International O international 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Cooperation O cooperation 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul list-triangle 11 0
+for O for 0 1 0 0 0 0 0 1 9 li ul list-triangle 11 0
+International O international 0 0 0 0 0 0 1 0 8 li ul list-triangle 11 0
+Cooperation O cooperation 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
 
-Innovation O innovation 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Exchange O exchange 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Amsterdam O amsterdam 0 1 0 0 0 0 1 li ul list-triangle 11 0
-( O ( 0 0 0 0 0 0 0 li ul list-triangle 11 0
-IXA O ixa 0 0 0 0 0 0 1 li ul list-triangle 11 0
-) O ) 0 0 0 0 0 0 0 li ul list-triangle 11 0
+Innovation O innovation 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
+Exchange O exchange 0 0 0 0 0 0 1 0 5 li ul list-triangle 11 0
+Amsterdam O amsterdam 0 1 0 0 0 0 1 1 5 li ul list-triangle 11 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul list-triangle 11 0
+IXA O ixa 0 0 0 0 0 0 1 0 0 li ul list-triangle 11 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul list-triangle 11 0
 
-Sports O sports 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Centre O centre 0 1 0 0 0 0 1 li ul list-triangle 11 0
-VU O vu 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Sports O sports 0 0 0 0 0 0 1 0 6 li ul list-triangle 11 0
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul list-triangle 11 0
+VU O vu 0 0 0 0 0 0 1 0 5 li ul list-triangle 11 0
 
-University O university 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Library O library 0 0 0 0 0 0 1 li ul list-triangle 11 0
-( O ( 0 0 0 0 0 0 0 li ul list-triangle 11 0
-UBVU O ubvu 0 0 0 0 0 0 1 li ul list-triangle 11 0
-) O ) 0 0 0 0 0 0 0 li ul list-triangle 11 0
+University O university 0 1 0 0 0 0 1 1 8 li ul list-triangle 11 0
+Library O library 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul list-triangle 11 0
+UBVU O ubvu 0 0 0 0 0 0 1 0 0 li ul list-triangle 11 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul list-triangle 11 0
 
-VU O vu 0 0 0 0 0 0 1 li ul list-triangle 11 0
-University O university 0 1 0 0 0 0 1 li ul list-triangle 11 0
-Medical O medical 0 0 0 0 0 0 1 li ul list-triangle 11 0
-Center O center 0 1 0 0 0 0 1 li ul list-triangle 11 0
-( O ( 0 0 0 0 0 0 0 li ul list-triangle 11 0
-VUmc O vumc 0 0 0 0 0 0 1 li ul list-triangle 11 0
-) O ) 0 0 0 0 0 0 0 li ul list-triangle 11 0
+VU O vu 0 0 0 0 0 0 1 0 5 li ul list-triangle 11 0
+University O university 0 1 0 0 0 0 1 1 8 li ul list-triangle 11 0
+Medical O medical 0 0 0 0 0 0 1 0 5 li ul list-triangle 11 0
+Center O center 0 1 0 0 0 0 1 1 7 li ul list-triangle 11 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul list-triangle 11 0
+VUmc O vumc 0 0 0 0 0 0 1 0 0 li ul list-triangle 11 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul list-triangle 11 0
 
-VU O vu 0 0 0 0 0 0 1 li ul list-triangle 11 0
-- O - 0 0 0 0 0 0 0 li ul list-triangle 11 0
-NT2 O nt2 0 0 0 1 0 0 1 li ul list-triangle 11 0
+VU O vu 0 0 0 0 0 0 1 0 5 li ul list-triangle 11 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul list-triangle 11 0
+NT2 O nt2 0 0 0 1 0 0 1 0 0 li ul list-triangle 11 0
 
-Windesheim O windesheim 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Windesheim O windesheim 0 0 0 0 0 0 1 0 0 li ul list-triangle 11 0
 
-Social O social 0 0 0 0 0 0 1 div div social 9 0
-media O media 0 0 0 0 0 0 0 div div social 9 0
+Social O social 0 0 0 0 0 0 1 0 6 div div social 9 0
+media O media 0 0 0 0 0 0 0 0 7 div div social 9 0
 
-Contact O contact 0 0 0 0 0 0 1 li ul list-triangle 11 0
+Contact O contact 0 0 0 0 0 0 1 0 8 li ul list-triangle 11 0
 
-People O people 0 1 0 0 0 0 1 li ul list-triangle 11 0
-search O search 0 0 0 0 0 0 0 li ul list-triangle 11 0
+People O people 0 1 0 0 0 0 1 0 7 li ul list-triangle 11 0
+search O search 0 0 0 0 0 0 0 0 7 li ul list-triangle 11 0
 
-VUnet O vunet 0 0 0 0 0 0 1 li ul list-triangle 11 0
-students O students 0 0 0 0 0 0 0 li ul list-triangle 11 0
-and O and 0 1 0 0 0 0 0 li ul list-triangle 11 0
-staff O staff 0 0 0 0 0 0 0 li ul list-triangle 11 0
+VUnet O vunet 0 0 0 0 0 0 1 0 0 li ul list-triangle 11 0
+students O students 0 0 0 0 0 0 0 0 8 li ul list-triangle 11 0
+and O and 0 1 0 0 0 0 0 0 10 li ul list-triangle 11 0
+staff O staff 0 0 0 0 0 0 0 0 7 li ul list-triangle 11 0
 
-Faculty O faculty 0 0 0 0 0 0 1 li ul list-triangle 11 0
-site O site 0 0 0 0 0 0 0 li ul list-triangle 11 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul list-triangle 11 0
+site O site 0 0 0 0 0 0 0 0 8 li ul list-triangle 11 0
 
-Copyright O copyright 0 0 0 0 0 0 1 div div copyright-text 10 0
-© O © 0 0 0 0 0 0 0 div div copyright-text 10 0
-2017 O 2017 0 0 0 1 0 0 0 div div copyright-text 10 0
-- O - 0 0 0 0 0 0 0 div div copyright-text 10 0
-Department O department 0 0 0 0 0 0 1 div div copyright-text 10 0
-of O of 0 1 0 0 0 0 0 div div copyright-text 10 0
-Computer O computer 0 0 0 0 0 0 1 div div copyright-text 10 0
-Sciences O sciences 0 0 0 0 0 0 1 div div copyright-text 10 0
+Copyright O copyright 0 0 0 0 0 0 1 0 6 div div copyright-text 10 0
+© O © 0 0 0 0 0 0 0 0 0 div div copyright-text 10 0
+2017 O 2017 0 0 0 1 0 0 0 0 0 div div copyright-text 10 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div copyright-text 10 0
+Department O department 0 0 0 0 0 0 1 0 7 div div copyright-text 10 0
+of O of 0 1 0 0 0 0 0 2 10 div div copyright-text 10 0
+Computer O computer 0 0 0 0 0 0 1 0 7 div div copyright-text 10 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 div div copyright-text 10 0
 
-Disclaimer O disclaimer 0 0 0 0 0 0 1 li ul list-inline 12 0
+Disclaimer O disclaimer 0 0 0 0 0 0 1 0 4 li ul list-inline 12 0
 
-Sitemap O sitemap 0 0 0 0 0 0 1 li ul list-inline 12 0
+Sitemap O sitemap 0 0 0 0 0 0 1 0 5 li ul list-inline 12 0
 
-Privacy O privacy 0 0 0 0 0 0 1 li ul list-inline 12 0
-statement O statement 0 0 0 0 0 0 0 li ul list-inline 12 0
+Privacy O privacy 0 0 0 0 0 0 1 0 6 li ul list-inline 12 0
+statement O statement 0 0 0 0 0 0 0 0 6 li ul list-inline 12 0

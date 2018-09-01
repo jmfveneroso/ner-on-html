@@ -1,0 +1,258 @@
+Computer O computer 0 0 0 0 0 0 1 head html no-js 4 13
+Science O science 0 0 0 0 0 0 1 head html no-js 4 13
+| O | 0 0 0 0 0 0 0 head html no-js 4 13
+Union O union 0 0 0 0 0 0 1 head html no-js 4 13
+College O college 0 0 0 0 0 0 1 head html no-js 4 13
+Web O web 0 1 0 0 0 0 1 head html no-js 4 13
+Applications O applications 0 0 0 0 0 0 1 head html no-js 4 13
+
+Skip O skip 0 1 0 0 0 0 1 body html element-focusable 4 0
+to O to 0 0 0 0 0 0 0 body html element-focusable 4 0
+main O main 0 0 0 0 0 0 0 body html element-focusable 4 0
+content O content 0 0 0 0 0 0 0 body html element-focusable 4 0
+
+Course O course 0 1 0 0 0 0 1 li ul  11 0
+Schedules O schedules 0 0 0 0 0 0 1 li ul  11 0
+& O & 0 0 0 0 0 0 0 li ul  11 0
+Rosters O rosters 0 0 0 0 0 0 1 li ul  11 0
+
+Course O course 0 1 0 0 0 0 1 li ul  13 0
+Rosters O rosters 0 0 0 0 0 0 1 li ul  13 0
+Archive O archive 0 0 0 0 0 0 1 li ul  13 0
+
+Course O course 0 1 0 0 0 0 1 li ul last 13 0
+Link O link 0 1 0 0 0 0 1 li ul last 13 0
+Submission O submission 0 0 0 0 0 0 1 li ul last 13 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul  11 0
+& O & 0 0 0 0 0 0 0 li ul  11 0
+Staff O staff 0 1 0 0 0 0 1 li ul  11 0
+Directory O directory 0 0 0 0 0 0 1 li ul  11 0
+
+Common O common 0 1 0 0 0 0 1 li ul  11 0
+Curriculum O curriculum 0 0 0 0 0 0 1 li ul  11 0
+Apps O apps 0 1 0 0 0 0 1 li ul  11 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul  11 0
+
+My O my 0 1 0 0 0 0 1 li ul last 11 0
+Account O account 0 0 0 0 0 0 1 li ul last 11 0
+
+Computer O computer 0 0 0 0 0 0 1 div div page_title 6 0
+Science O science 0 0 0 0 0 0 1 div div page_title 6 0
+
+Locations O locations 0 0 0 0 0 0 1 div div element-invisible 12 0
+
+Location O location 0 0 0 0 0 0 1 legend fieldset fieldset-legend 15 0
+1 O 1 0 0 0 1 0 0 0 legend fieldset fieldset-legend 15 0
+
+Steinmetz O steinmetz 0 1 0 0 0 0 1 div fieldset field--label-hidden 15 1
+Hall O hall 0 1 0 0 0 0 1 div fieldset field--label-hidden 15 1
+
+Phone O phone 0 1 0 0 0 0 1 div fieldset field-label 15 2
+: O : 0 0 0 0 0 0 0 div fieldset field-label 15 2
+
+6270 O 6270 0 0 0 1 0 0 0 div fieldset field--label-inline 15 3
+
+Fax O fax 0 1 0 0 0 0 1 div fieldset field-label 15 4
+: O : 0 0 0 0 0 0 0 div fieldset field-label 15 4
+
+6789 O 6789 0 0 0 1 0 0 0 div fieldset field--label-inline 15 5
+
+Anderson O anderson 0 1 0 0 1 0 1 h2 div employee_name 15 0
+, O , 0 0 0 0 0 0 0 h2 div employee_name 15 0
+Matthew O matthew 0 1 0 0 0 0 1 h2 div employee_name 15 0
+W O w 0 1 0 0 0 0 1 h2 div employee_name 15 0
+
+Visiting O visiting 0 0 0 0 0 0 1 li ul employee 13 3
+Assistant O assistant 0 0 0 0 0 0 1 li ul employee 13 3
+Professor O professor 0 0 0 0 1 0 1 li ul employee 13 3
+
+Computer O computer 0 0 0 0 0 0 1 span div active 15 0
+Science O science 0 0 0 0 0 0 1 span div active 15 0
+
+Steinmetz O steinmetz 0 1 0 0 0 0 1 li ul employee 13 7
+Hall O hall 0 1 0 0 0 0 1 li ul employee 13 7
+
+Extension O extension 0 0 0 0 0 0 1 div li employee 14 0
+: O : 0 0 0 0 0 0 0 div li employee 14 0
+6848 O 6848 0 0 0 1 0 0 0 div li employee 14 1
+
+Additional O additional 0 0 0 0 1 0 1 div div button 15 0
+Details O details 0 0 0 0 0 0 1 div div button 15 0
+
+Cass O cass 0 1 0 0 0 0 1 h2 div employee_name 15 0
+, O , 0 0 0 0 0 0 0 h2 div employee_name 15 0
+Aaron O aaron 0 1 0 0 0 0 1 h2 div employee_name 15 0
+G O g 0 1 0 0 0 0 1 h2 div employee_name 15 0
+
+Associate O associate 0 1 0 0 0 0 1 li ul employee 13 3
+Professor/Chair/Co O professor/chair/co 0 0 0 0 1 0 1 li ul employee 13 3
+- O - 0 0 0 0 0 0 0 li ul employee 13 3
+Director O director 0 1 0 0 0 0 1 li ul employee 13 3
+of O of 0 1 0 0 0 0 0 li ul employee 13 3
+Digital O digital 0 1 0 0 0 0 1 li ul employee 13 3
+Media O media 0 1 0 0 0 0 1 li ul employee 13 3
+
+Computer O computer 0 0 0 0 0 0 1 span div active 15 0
+Science O science 0 0 0 0 0 0 1 span div active 15 0
+
+Steinmetz O steinmetz 0 1 0 0 0 0 1 li ul employee 13 7
+Hall O hall 0 1 0 0 0 0 1 li ul employee 13 7
+
+Extension O extension 0 0 0 0 0 0 1 div li employee 14 0
+: O : 0 0 0 0 0 0 0 div li employee 14 0
+8051 O 8051 0 0 0 1 0 0 0 div li employee 14 1
+
+Additional O additional 0 0 0 0 1 0 1 div div button 15 0
+Details O details 0 0 0 0 0 0 1 div div button 15 0
+
+Fernandes O fernandes 0 1 0 0 0 0 1 h2 div employee_name 15 0
+, O , 0 0 0 0 0 0 0 h2 div employee_name 15 0
+Chris O chris 0 1 0 0 0 0 1 h2 div employee_name 15 0
+
+Associate O associate 0 1 0 0 0 0 1 li ul employee 13 3
+Professor O professor 0 0 0 0 1 0 1 li ul employee 13 3
+
+Computer O computer 0 0 0 0 0 0 1 span div active 15 0
+Science O science 0 0 0 0 0 0 1 span div active 15 0
+
+Steinmetz O steinmetz 0 1 0 0 0 0 1 li ul employee 13 7
+Hall O hall 0 1 0 0 0 0 1 li ul employee 13 7
+
+Extension O extension 0 0 0 0 0 0 1 div li employee 14 0
+: O : 0 0 0 0 0 0 0 div li employee 14 0
+6401 O 6401 0 0 0 1 0 0 0 div li employee 14 1
+
+Additional O additional 0 0 0 0 1 0 1 div div button 15 0
+Details O details 0 0 0 0 0 0 1 div div button 15 0
+
+Frey O frey 0 1 0 0 0 0 1 h2 div employee_name 15 0
+, O , 0 0 0 0 0 0 0 h2 div employee_name 15 0
+David O david 0 1 0 0 0 0 1 h2 div employee_name 15 0
+E O e 0 1 0 0 0 0 1 h2 div employee_name 15 0
+
+System O system 0 0 0 0 0 0 1 li ul employee 13 3
+Administrator/Manager O administrator/manager 0 0 0 0 0 0 1 li ul employee 13 3
+of O of 0 1 0 0 0 0 0 li ul employee 13 3
+Research O research 0 1 0 0 0 0 1 li ul employee 13 3
+Computing O computing 0 0 0 0 0 0 1 li ul employee 13 3
+
+Computer O computer 0 0 0 0 0 0 1 span div active 15 0
+Science O science 0 0 0 0 0 0 1 span div active 15 0
+
+Steinmetz O steinmetz 0 1 0 0 0 0 1 li ul employee 13 7
+Hall O hall 0 1 0 0 0 0 1 li ul employee 13 7
+
+Extension O extension 0 0 0 0 0 0 1 div li employee 14 0
+: O : 0 0 0 0 0 0 0 div li employee 14 0
+6822 O 6822 0 0 0 1 0 0 0 div li employee 14 1
+
+Additional O additional 0 0 0 0 1 0 1 div div button 15 0
+Details O details 0 0 0 0 0 0 1 div div button 15 0
+
+Galeo O galeo 0 0 0 0 0 0 1 h2 div employee_name 15 0
+, O , 0 0 0 0 0 0 0 h2 div employee_name 15 0
+Lisa O lisa 0 1 0 0 0 0 1 h2 div employee_name 15 0
+A O a 0 1 0 0 0 0 1 h2 div employee_name 15 0
+
+Administrative O administrative 0 0 0 0 0 0 1 li ul employee 13 3
+Assistant O assistant 0 0 0 0 0 0 1 li ul employee 13 3
+
+Electrical O electrical 0 0 0 0 0 0 1 span div employee 15 0
+& O & 0 0 0 0 0 0 0 span div employee 15 0
+Computer O computer 0 0 0 0 0 0 1 span div employee 15 0
+Engineer O engineer 0 1 0 0 0 0 1 span div employee 15 0
+, O , 0 0 0 0 0 0 0 div li employee 14 0
+Computer O computer 0 0 0 0 0 0 1 span div active 15 1
+Science O science 0 0 0 0 0 0 1 span div active 15 1
+
+Steinmetz O steinmetz 0 1 0 0 0 0 1 li ul employee 13 8
+Hall O hall 0 1 0 0 0 0 1 li ul employee 13 8
+
+Extension O extension 0 0 0 0 0 0 1 div li employee 14 0
+: O : 0 0 0 0 0 0 0 div li employee 14 0
+6270 O 6270 0 0 0 1 0 0 0 div li employee 14 1
+
+Additional O additional 0 0 0 0 1 0 1 div div button 15 0
+Details O details 0 0 0 0 0 0 1 div div button 15 0
+
+Rieffel O rieffel 0 1 0 0 0 0 1 h2 div employee_name 15 0
+, O , 0 0 0 0 0 0 0 h2 div employee_name 15 0
+John O john 0 1 0 0 0 0 1 h2 div employee_name 15 0
+
+Associate O associate 0 1 0 0 0 0 1 li ul employee 13 3
+Professor O professor 0 0 0 0 1 0 1 li ul employee 13 3
+
+Computer O computer 0 0 0 0 0 0 1 span div active 15 0
+Science O science 0 0 0 0 0 0 1 span div active 15 0
+
+Steinmetz O steinmetz 0 1 0 0 0 0 1 li ul employee 13 7
+Hall O hall 0 1 0 0 0 0 1 li ul employee 13 7
+
+Extension O extension 0 0 0 0 0 0 1 div li employee 14 0
+: O : 0 0 0 0 0 0 0 div li employee 14 0
+6062 O 6062 0 0 0 1 0 0 0 div li employee 14 1
+
+Additional O additional 0 0 0 0 1 0 1 div div button 15 0
+Details O details 0 0 0 0 0 0 1 div div button 15 0
+
+Striegnitz O striegnitz 0 1 0 0 0 0 1 h2 div employee_name 15 0
+, O , 0 0 0 0 0 0 0 h2 div employee_name 15 0
+Kristina O kristina 0 1 0 0 0 0 1 h2 div employee_name 15 0
+I O i 0 1 0 0 0 0 1 h2 div employee_name 15 0
+
+Associate O associate 0 1 0 0 0 0 1 li ul employee 13 3
+Professor O professor 0 0 0 0 1 0 1 li ul employee 13 3
+
+Computer O computer 0 0 0 0 0 0 1 span div active 15 0
+Science O science 0 0 0 0 0 0 1 span div active 15 0
+
+Steinmetz O steinmetz 0 1 0 0 0 0 1 li ul employee 13 7
+Hall O hall 0 1 0 0 0 0 1 li ul employee 13 7
+
+Extension O extension 0 0 0 0 0 0 1 div li employee 14 0
+: O : 0 0 0 0 0 0 0 div li employee 14 0
+6554 O 6554 0 0 0 1 0 0 0 div li employee 14 1
+
+Additional O additional 0 0 0 0 1 0 1 div div button 15 0
+Details O details 0 0 0 0 0 0 1 div div button 15 0
+
+Webb O webb 0 1 0 0 0 0 1 h2 div employee_name 15 0
+, O , 0 0 0 0 0 0 0 h2 div employee_name 15 0
+Nicholas O nicholas 0 1 0 0 0 0 1 h2 div employee_name 15 0
+J O j 0 1 0 0 0 0 1 h2 div employee_name 15 0
+
+Assistant O assistant 0 0 0 0 0 0 1 li ul employee 13 3
+Professor O professor 0 0 0 0 1 0 1 li ul employee 13 3
+
+Computer O computer 0 0 0 0 0 0 1 span div active 15 0
+Science O science 0 0 0 0 0 0 1 span div active 15 0
+
+Steinmetz O steinmetz 0 1 0 0 0 0 1 li ul employee 13 7
+Hall O hall 0 1 0 0 0 0 1 li ul employee 13 7
+
+Extension O extension 0 0 0 0 0 0 1 div li employee 14 0
+: O : 0 0 0 0 0 0 0 div li employee 14 0
+6374 O 6374 0 0 0 1 0 0 0 div li employee 14 1
+
+Additional O additional 0 0 0 0 1 0 1 div div button 15 0
+Details O details 0 0 0 0 0 0 1 div div button 15 0
+
+Displaying O displaying 0 0 0 0 0 0 1 div div view-footer 9 124
+1 O 1 0 0 0 1 0 0 0 div div view-footer 9 124
+- O - 0 0 0 0 0 0 0 div div view-footer 9 124
+8 O 8 0 0 0 1 0 0 0 div div view-footer 9 124
+of O of 0 1 0 0 0 0 0 div div view-footer 9 124
+8 O 8 0 0 0 1 0 0 0 div div view-footer 9 124
+
+© O © 0 0 0 0 0 0 0 div div block__content 9 0
+2012 O 2012 0 0 0 1 0 0 0 div div block__content 9 0
+- O - 0 0 0 0 0 0 0 div div block__content 9 0
+2017 O 2017 0 0 0 1 0 0 0 div div block__content 9 0
+Union O union 0 0 0 0 0 0 1 p div block__content 10 0
+College O college 0 0 0 0 0 0 1 p div block__content 10 0
+, O , 0 0 0 0 0 0 0 div div block__content 9 0
+All O all 0 1 0 0 0 0 1 div div block__content 9 0
+Rights O rights 0 0 0 0 0 0 1 div div block__content 9 0
+Reserved O reserved 0 0 0 0 0 0 1 div div block__content 9 0

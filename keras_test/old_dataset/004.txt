@@ -1,0 +1,2390 @@
+Faculty O faculty 0 0 0 0 0 0 1 head link no-js 5 4
+Directory O directory 0 0 0 0 0 0 1 head link no-js 5 4
+| O | 0 0 0 0 0 0 0 head link no-js 5 4
+Electrical O electrical 0 0 0 0 0 0 1 head link no-js 5 4
+Engineering O engineering 0 0 0 0 0 0 1 head link no-js 5 4
+- O - 0 0 0 0 0 0 0 head link no-js 5 4
+Princeton O princeton 0 1 0 0 0 0 1 head link no-js 5 4
+University O university 0 1 0 0 0 0 1 head link no-js 5 4
+
+Skip O skip 0 1 0 0 0 0 1 div body element-focusable 6 0
+to O to 0 0 0 0 0 0 0 div body element-focusable 6 0
+main O main 0 0 0 0 0 0 0 div body element-focusable 6 0
+content O content 0 0 0 0 0 0 0 div body element-focusable 6 0
+
+Princeton O princeton 0 1 0 0 0 0 1 h1 div princeton-university-logo-main 8 0
+University O university 0 1 0 0 0 0 1 h1 div princeton-university-logo-main 8 0
+
+School O school 0 1 0 0 0 0 1 h1 div princeton-engineering-logo 8 0
+of O of 0 1 0 0 0 0 0 h1 div princeton-engineering-logo 8 0
+Engineering O engineering 0 0 0 0 0 0 1 h1 div princeton-engineering-logo 8 0
+& O & 0 0 0 0 0 0 0 h1 div princeton-engineering-logo 8 0
+Applied O applied 0 0 0 0 0 0 1 h1 div princeton-engineering-logo 8 0
+Science O science 0 0 0 0 0 0 1 h1 div princeton-engineering-logo 8 0
+
+Princeton O princeton 0 1 0 0 0 0 1 li ul princeton-shield 10 0
+University O university 0 1 0 0 0 0 1 li ul princeton-shield 10 0
+
+Electrical O electrical 0 0 0 0 0 0 1 li ul brand 10 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul brand 10 0
+
+About O about 0 0 0 0 0 0 1 li ul dropdown-toggle 10 0
+
+About O about 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Electrical O electrical 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Message O message 0 1 0 0 1 0 1 li ul dropdown-menu 12 0
+from O from 0 0 0 0 0 0 0 li ul dropdown-menu 12 0
+the O the 0 1 0 0 0 0 0 li ul dropdown-menu 12 0
+Department O department 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Chair O chair 0 1 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Advisory O advisory 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Council O council 0 1 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Visiting O visiting 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Us O us 0 1 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Careers O careers 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Departmental O departmental 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Procedures O procedures 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Emergency O emergency 0 0 0 0 1 0 1 li ul dropdown-menu 12 0
+Action O action 0 1 0 0 0 0 1 li ul dropdown-menu 12 0
+Plan O plan 0 1 0 0 0 0 1 li ul dropdown-menu 12 0
+
+People O people 0 1 0 0 0 0 1 li ul dropdown-toggle 10 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Administrative O administrative 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Technical O technical 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul dropdown-menu 12 0
+Students O students 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Research O research 0 1 0 0 0 0 1 li ul dropdown-menu 12 0
+Staff O staff 0 1 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Courses O courses 0 0 0 0 0 0 1 li ul dropdown-toggle 10 0
+
+Course O course 0 1 0 0 0 0 1 li ul dropdown-menu 12 0
+List O list 0 1 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Course O course 0 1 0 0 0 0 1 li ul dropdown-menu 12 0
+Catalog O catalog 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul dropdown-toggle 10 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Program O program 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Prospective O prospective 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Majors O majors 0 1 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Why O why 0 1 0 0 0 0 1 li ul dropdown-menu 12 0
+Study O study 0 1 0 0 0 0 1 li ul dropdown-menu 12 0
+Electrical O electrical 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Engineering? O engineering? 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Curriculum O curriculum 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Independent O independent 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Research O research 0 1 0 0 0 0 1 li ul dropdown-menu 12 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-menu 12 0
+Thesis O thesis 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+ABET O abet 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Accreditation O accreditation 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Handbook O handbook 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+( O ( 0 0 0 0 0 0 0 li ul dropdown-menu 12 0
+PDF O pdf 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+) O ) 0 0 0 0 0 0 0 li ul dropdown-menu 12 0
+
+Prospective O prospective 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Student O student 0 1 0 0 0 0 1 li ul dropdown-menu 12 0
+Handbook O handbook 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+( O ( 0 0 0 0 0 0 0 li ul dropdown-menu 12 0
+PDF O pdf 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+) O ) 0 0 0 0 0 0 0 li ul dropdown-menu 12 0
+
+Highlights O highlights 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Showcase O showcase 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul dropdown-toggle 10 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul dropdown-menu 12 0
+Program O program 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul dropdown-menu 12 0
+Admissions O admissions 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Handbook O handbook 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+( O ( 0 0 0 0 0 0 0 li ul dropdown-menu 12 0
+PDF O pdf 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+) O ) 0 0 0 0 0 0 0 li ul dropdown-menu 12 0
+
+Highlights O highlights 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Showcase O showcase 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Research O research 0 1 0 0 0 0 1 li ul active 10 0
+
+Research O research 0 1 0 0 0 0 1 li ul dropdown-menu 12 0
+in O in 0 1 0 0 0 0 0 li ul dropdown-menu 12 0
+Electrical O electrical 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Interdisciplinary O interdisciplinary 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Research O research 0 1 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Highlights O highlights 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+Recognition O recognition 0 0 0 0 0 0 1 li ul dropdown-menu 12 0
+
+Login O login 0 0 0 0 0 0 1 li ul actual-nav 10 0
+
+Search O search 0 0 0 0 0 0 1 li ul search-button 10 0
+
+Core O core 0 1 0 0 0 0 1 li ul core-areas 16 0
+Areas O areas 0 0 0 0 0 0 1 li ul core-areas 16 0
+
+Applied O applied 0 0 0 0 0 0 1 li ul nav-list 16 0
+Physics O physics 0 0 0 0 0 0 1 li ul nav-list 16 0
+
+Computing O computing 0 0 0 0 0 0 1 li ul nav-list 16 0
+& O & 0 0 0 0 0 0 0 li ul nav-list 16 0
+Networking O networking 0 0 0 0 0 0 1 li ul nav-list 16 0
+
+Information O information 0 1 0 0 0 0 1 li ul nav-list 16 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul nav-list 16 0
+& O & 0 0 0 0 0 0 0 li ul nav-list 16 0
+Systems O systems 0 0 0 0 0 0 1 li ul nav-list 16 0
+
+Integrated O integrated 0 0 0 0 0 0 1 li ul nav-list 16 0
+Electronic O electronic 0 0 0 0 0 0 1 li ul nav-list 16 0
+Systems O systems 0 0 0 0 0 0 1 li ul nav-list 16 0
+
+Materials O materials 0 0 0 0 0 0 1 li ul nav-list 16 0
+& O & 0 0 0 0 0 0 0 li ul nav-list 16 0
+Devices O devices 0 0 0 0 0 0 1 li ul nav-list 16 0
+
+Photonics O photonics 0 0 0 0 0 0 1 li ul nav-list 16 0
+
+Application O application 0 0 0 0 0 0 1 li ul application-thrusts 16 0
+Thrusts O thrusts 0 0 0 0 0 0 1 li ul application-thrusts 16 0
+
+Biological O biological 0 0 0 0 0 0 1 li ul nav-list 16 0
+& O & 0 0 0 0 0 0 0 li ul nav-list 16 0
+Biomedical O biomedical 0 0 0 0 0 0 1 li ul nav-list 16 0
+
+Energy O energy 0 0 0 0 0 0 1 li ul nav-list 16 0
+& O & 0 0 0 0 0 0 0 li ul nav-list 16 0
+Environment O environment 0 0 0 0 0 0 1 li ul nav-list 16 0
+
+High O high 0 1 0 0 0 0 1 li ul nav-list 16 0
+- O - 0 0 0 0 0 0 0 li ul nav-list 16 0
+Performance O performance 0 1 0 0 0 0 1 li ul nav-list 16 0
+Computing O computing 0 0 0 0 0 0 1 li ul nav-list 16 0
+
+Nanotechnologies O nanotechnologies 0 0 0 0 0 0 1 li ul nav-list 16 0
+
+Quantum O quantum 0 0 0 0 0 0 1 li ul nav-list 16 0
+Information O information 0 1 0 0 0 0 1 li ul nav-list 16 0
+
+Security O security 0 0 0 0 0 0 1 li ul nav-list 16 0
+
+News O news 0 0 0 0 0 0 1 span li news 17 0
+
+Neuromorphic O neuromorphic 0 0 0 0 0 0 1 li ul nav-list 16 0
+Photonics O photonics 0 0 0 0 0 0 1 li ul nav-list 16 0
+co O co 0 0 0 0 0 0 0 li ul nav-list 16 0
+- O - 0 0 0 0 0 0 0 li ul nav-list 16 0
+authored O authored 0 0 0 0 0 0 0 li ul nav-list 16 0
+by... O by... 0 0 0 0 0 0 0 li ul nav-list 16 0
+
+ELE O ele 0 0 0 0 0 0 1 li ul nav-list 16 0
+297 O 297 0 0 0 1 0 0 0 li ul nav-list 16 0
+Project O project 0 1 0 0 0 0 1 li ul nav-list 16 0
+receives O receives 0 0 0 0 0 0 0 li ul nav-list 16 0
+Best... O best... 0 0 0 0 0 0 1 li ul nav-list 16 0
+
+EE O ee 0 0 0 0 0 0 1 li ul nav-list 16 0
+& O & 0 0 0 0 0 0 0 li ul nav-list 16 0
+CS O cs 0 0 0 0 0 0 1 li ul nav-list 16 0
+Alum O alum 0 0 0 0 0 0 1 li ul nav-list 16 0
+Jeff O jeff 0 1 0 0 0 0 1 li ul nav-list 16 0
+Bezos O bezos 0 1 0 0 0 0 1 li ul nav-list 16 0
+' O ' 0 0 0 0 0 0 0 li ul nav-list 16 0
+86... O 86... 0 0 0 1 0 0 0 li ul nav-list 16 0
+
+Rand O rand 0 1 0 0 0 0 1 li ul nav-list 16 0
+contributes O contributes 0 0 0 0 0 0 0 li ul nav-list 16 0
+to O to 0 0 0 0 0 0 0 li ul nav-list 16 0
+Andlinger O andlinger 0 1 0 0 1 0 1 li ul nav-list 16 0
+Center... O center... 0 0 0 0 0 0 1 li ul nav-list 16 0
+
+Chen O chen 0 1 0 0 0 0 1 li ul nav-list 16 0
+developing O developing 0 0 0 0 0 0 0 li ul nav-list 16 0
+systems O systems 0 0 0 0 0 0 0 li ul nav-list 16 0
+for O for 0 1 0 0 0 0 0 li ul nav-list 16 0
+drones O drones 0 0 0 0 1 0 0 li ul nav-list 16 0
+to... O to... 0 0 0 0 0 0 0 li ul nav-list 16 0
+
+Events O events 0 0 0 0 0 0 1 span li events 17 0
+
+Passivating O passivating 0 0 0 0 0 0 1 li ul nav-list 16 0
+contacts O contacts 0 0 0 0 0 0 0 li ul nav-list 16 0
+– O – 0 0 0 0 0 0 0 li ul nav-list 16 0
+a O a 0 1 0 0 0 0 0 li ul nav-list 16 0
+key O key 0 0 0 0 0 0 0 li ul nav-list 16 0
+to O to 0 0 0 0 0 0 0 li ul nav-list 16 0
+high... O high... 0 0 0 0 0 0 0 li ul nav-list 16 0
+
+Integrated O integrated 0 0 0 0 0 0 1 li ul nav-list 16 0
+Frequency O frequency 0 0 0 0 0 0 1 li ul nav-list 16 0
+Conversion O conversion 0 0 0 0 0 0 1 li ul nav-list 16 0
+for... O for... 0 0 0 0 0 0 0 li ul nav-list 16 0
+
+Towards O towards 0 0 0 0 0 0 1 li ul nav-list 16 0
+clinically O clinically 0 0 0 0 0 0 0 li ul nav-list 16 0
+viable O viable 0 0 0 0 0 0 0 li ul nav-list 16 0
+brain O brain 0 0 0 0 0 0 0 li ul nav-list 16 0
+- O - 0 0 0 0 0 0 0 li ul nav-list 16 0
+machine... O machine... 0 0 0 0 0 0 0 li ul nav-list 16 0
+
+Translating O translating 0 0 0 0 0 0 1 li ul nav-list 16 0
+science O science 0 0 0 0 0 0 0 li ul nav-list 16 0
+to O to 0 0 0 0 0 0 0 li ul nav-list 16 0
+public O public 0 0 0 0 0 0 0 li ul nav-list 16 0
+policy O policy 0 0 0 0 0 0 0 li ul nav-list 16 0
+: O : 0 0 0 0 0 0 0 li ul nav-list 16 0
+... O ... 0 0 0 0 0 0 0 li ul nav-list 16 0
+
+Towards O towards 0 0 0 0 0 0 1 li ul nav-list 16 0
+Microwave O microwave 0 0 0 0 0 0 1 li ul nav-list 16 0
+to O to 0 0 0 0 0 0 0 li ul nav-list 16 0
+Telecom O telecom 0 0 0 0 0 0 1 li ul nav-list 16 0
+Wavelength... O wavelength... 0 0 0 0 0 0 1 li ul nav-list 16 0
+
+Nano O nano 0 1 0 0 0 0 1 li ul nav-list 16 0
+- O - 0 0 0 0 0 0 0 li ul nav-list 16 0
+photonic O photonic 0 0 0 0 0 0 0 li ul nav-list 16 0
+quantum O quantum 0 0 0 0 0 0 0 li ul nav-list 16 0
+light O light 0 0 0 0 0 0 0 li ul nav-list 16 0
+- O - 0 0 0 0 0 0 0 li ul nav-list 16 0
+matter... O matter... 0 0 0 0 0 0 0 li ul nav-list 16 0
+
+Quickest O quickest 0 0 0 0 0 0 1 li ul nav-list 16 0
+Change O change 0 1 0 0 0 0 1 li ul nav-list 16 0
+Detection O detection 0 0 0 0 0 0 1 li ul nav-list 16 0
+under... O under... 0 0 0 0 0 0 0 li ul nav-list 16 0
+
+Research O research 0 1 0 0 0 0 1 select div form-inline 15 0
+Area O area 0 1 0 0 0 0 1 select div form-inline 15 0
+
+Applied O applied 0 0 0 0 0 0 1 select div form-inline 15 1
+Physics O physics 0 0 0 0 0 0 1 select div form-inline 15 1
+
+Biological O biological 0 0 0 0 0 0 1 select div form-inline 15 2
+& O & 0 0 0 0 0 0 0 select div form-inline 15 2
+Biomedical O biomedical 0 0 0 0 0 0 1 select div form-inline 15 2
+
+Computing O computing 0 0 0 0 0 0 1 select div form-inline 15 3
+& O & 0 0 0 0 0 0 0 select div form-inline 15 3
+Networking O networking 0 0 0 0 0 0 1 select div form-inline 15 3
+
+Energy O energy 0 0 0 0 0 0 1 select div form-inline 15 4
+& O & 0 0 0 0 0 0 0 select div form-inline 15 4
+Environment O environment 0 0 0 0 0 0 1 select div form-inline 15 4
+
+High O high 0 1 0 0 0 0 1 select div form-inline 15 5
+- O - 0 0 0 0 0 0 0 select div form-inline 15 5
+Performance O performance 0 1 0 0 0 0 1 select div form-inline 15 5
+Computing O computing 0 0 0 0 0 0 1 select div form-inline 15 5
+
+Information O information 0 1 0 0 0 0 1 select div form-inline 15 6
+Sciences O sciences 0 0 0 0 0 0 1 select div form-inline 15 6
+& O & 0 0 0 0 0 0 0 select div form-inline 15 6
+Systems O systems 0 0 0 0 0 0 1 select div form-inline 15 6
+
+Integrated O integrated 0 0 0 0 0 0 1 select div form-inline 15 7
+Electronic O electronic 0 0 0 0 0 0 1 select div form-inline 15 7
+Systems O systems 0 0 0 0 0 0 1 select div form-inline 15 7
+
+Materials O materials 0 0 0 0 0 0 1 select div form-inline 15 8
+& O & 0 0 0 0 0 0 0 select div form-inline 15 8
+Devices O devices 0 0 0 0 0 0 1 select div form-inline 15 8
+
+Nanotechnologies O nanotechnologies 0 0 0 0 0 0 1 select div form-inline 15 9
+
+Quantum O quantum 0 0 0 0 0 0 1 select div form-inline 15 10
+Information O information 0 1 0 0 0 0 1 select div form-inline 15 10
+
+Photonics O photonics 0 0 0 0 0 0 1 select div form-inline 15 11
+
+Security O security 0 0 0 0 0 0 1 select div form-inline 15 12
+
+Submit O submit 0 0 0 0 0 0 1 div form faculty-search 14 15
+
+Faculty O faculty 0 0 0 0 0 0 1 div div view-header 13 0
+Directory O directory 0 0 0 0 0 0 1 div div view-header 13 0
+
+Emmanuel B-PER emmanuel 1 1 0 0 1 0 1 span div field-content 16 0
+Abbe I-PER abbe 1 1 0 0 0 0 1 span div field-content 16 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+Program O program 0 0 0 0 0 0 1 div div field-content 15 0
+in O in 0 1 0 0 0 0 0 div div field-content 15 0
+Applied O applied 0 0 0 0 0 0 1 div div field-content 15 0
+and O and 0 1 0 0 0 0 0 div div field-content 15 0
+Computational O computational 0 0 0 0 0 0 1 div div field-content 15 0
+Mathematics O mathematics 0 0 0 0 0 0 1 div div field-content 15 0
+
+Associated O associated 0 0 0 0 0 0 1 div div field-content 15 0
+Faculty O faculty 0 0 0 0 0 0 1 div div field-content 15 0
+in O in 0 1 0 0 0 0 0 div div field-content 15 0
+Mathematics O mathematics 0 0 0 0 0 0 1 div div field-content 15 0
+
+B322 O b322 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+, O , 0 0 0 0 0 0 0 div div field-content 15 0
+212 O 212 0 0 0 1 0 0 0 div div field-content 15 0
+Fine O fine 0 1 0 0 0 0 1 div div field-content 15 0
+Hall O hall 0 1 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+4692 O 4692 0 0 0 1 0 0 0 div div field-content 15 0
+
+eabbe@princeton.edu O eabbe@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Information O information 0 1 0 0 0 0 1 li ul first 19 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul first 19 0
+& O & 0 0 0 0 0 0 0 li ul first 19 0
+Systems O systems 0 0 0 0 0 0 1 li ul first 19 0
+
+Security O security 0 0 0 0 0 0 1 li ul last 19 0
+
+Ravindra B-PER ravindra 0 1 0 0 0 0 1 span div field-content 16 0
+N. I-PER n. 0 1 0 0 0 0 1 span div field-content 16 0
+Bhatt I-PER bhatt 0 1 0 0 0 0 1 span div field-content 16 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B430 O b430 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+1819 O 1819 0 0 0 1 0 0 0 div div field-content 15 0
+
+ravin@princeton.edu O ravin@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Applied O applied 0 0 0 0 0 0 1 li ul last 19 0
+Physics O physics 0 0 0 0 0 0 1 li ul last 19 0
+
+Minjie B-PER minjie 1 1 0 0 0 0 1 span div field-content 16 0
+Chen I-PER chen 1 1 0 0 0 0 1 span div field-content 16 0
+
+Assistant O assistant 0 0 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+& O & 0 0 0 0 0 0 0 div div field-content 15 0
+Andlinger O andlinger 0 1 0 0 1 0 1 div div field-content 15 0
+Center O center 0 1 0 0 0 0 1 div div field-content 15 0
+for O for 0 1 0 0 0 0 0 div div field-content 15 0
+Energy O energy 0 0 0 0 0 0 1 div div field-content 15 0
+and O and 0 1 0 0 0 0 0 div div field-content 15 0
+the O the 0 1 0 0 0 0 0 div div field-content 15 0
+Environment O environment 0 0 0 0 0 0 1 div div field-content 15 0
+
+217 O 217 0 0 0 1 0 0 0 div div field-content 15 0
+Andlinger O andlinger 0 1 0 0 1 0 1 div div field-content 15 0
+Center O center 0 1 0 0 0 0 1 div div field-content 15 0
+for O for 0 1 0 0 0 0 0 div div field-content 15 0
+Energy O energy 0 0 0 0 0 0 1 div div field-content 15 0
+and O and 0 1 0 0 0 0 0 div div field-content 15 0
+the O the 0 1 0 0 0 0 0 div div field-content 15 0
+Environment O environment 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+7656 O 7656 0 0 0 1 0 0 0 div div field-content 15 0
+
+minjie@princeton.edu O minjie@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Applied O applied 0 0 0 0 0 0 1 li ul first 19 0
+Physics O physics 0 0 0 0 0 0 1 li ul first 19 0
+
+Energy O energy 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Environment O environment 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Integrated O integrated 0 0 0 0 0 0 1 li ul item-list 19 0
+Electronic O electronic 0 0 0 0 0 0 1 li ul item-list 19 0
+Systems O systems 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Materials O materials 0 0 0 0 0 0 1 li ul last 19 0
+& O & 0 0 0 0 0 0 0 li ul last 19 0
+Devices O devices 0 0 0 0 0 0 1 li ul last 19 0
+
+Yuxin B-PER yuxin 1 1 0 0 0 0 1 span div field-content 16 0
+Chen I-PER chen 1 1 0 0 0 0 1 span div field-content 16 0
+
+Assistant O assistant 0 0 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+C330 O c330 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+1693 O 1693 0 0 0 1 0 0 0 div div field-content 15 0
+
+yuxin.chen@princeton.edu O yuxin.chen@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Information O information 0 1 0 0 0 0 1 li ul last 19 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul last 19 0
+& O & 0 0 0 0 0 0 0 li ul last 19 0
+Systems O systems 0 0 0 0 0 0 1 li ul last 19 0
+
+Stephen B-PER stephen 1 1 0 0 0 0 1 span div field-content 16 0
+Chou I-PER chou 1 1 0 0 0 0 1 span div field-content 16 0
+
+Joseph O joseph 0 1 0 0 0 0 1 div div field-content 15 0
+C. O c. 0 1 0 0 0 0 1 div div field-content 15 0
+Elgin O elgin 0 1 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B412 O b412 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+4416 O 4416 0 0 0 1 0 0 0 div div field-content 15 0
+
+chou@princeton.edu O chou@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Biological O biological 0 0 0 0 0 0 1 li ul first 19 0
+& O & 0 0 0 0 0 0 0 li ul first 19 0
+Biomedical O biomedical 0 0 0 0 0 0 1 li ul first 19 0
+
+Materials O materials 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Devices O devices 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Nanotechnologies O nanotechnologies 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Photonics O photonics 0 0 0 0 0 0 1 li ul last 19 0
+
+Nathalie B-PER nathalie 0 1 0 0 0 0 1 span div field-content 16 0
+de I-PER de 0 1 0 0 0 0 0 span div field-content 16 0
+Leon I-PER leon 0 1 0 0 0 0 1 span div field-content 16 0
+
+Assistant O assistant 0 0 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B320 O b320 0 0 0 1 0 0 1 div div field-content 15 0
+, O , 0 0 0 0 0 0 0 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+5694 O 5694 0 0 0 1 0 0 0 div div field-content 15 0
+
+npdeleon@princeton.edu O npdeleon@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Applied O applied 0 0 0 0 0 0 1 li ul first 19 0
+Physics O physics 0 0 0 0 0 0 1 li ul first 19 0
+
+Materials O materials 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Devices O devices 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Nanotechnologies O nanotechnologies 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Photonics O photonics 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Quantum O quantum 0 0 0 0 0 0 1 li ul last 19 0
+Information O information 0 1 0 0 0 0 1 li ul last 19 0
+
+Jason B-PER jason 0 1 0 0 0 0 1 span div field-content 16 0
+W. I-PER w. 0 1 0 0 0 0 1 span div field-content 16 0
+Fleischer I-PER fleischer 0 1 0 0 0 0 1 span div field-content 16 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+318 O 318 0 0 0 1 0 0 0 div div field-content 15 0
+87 O 87 0 0 0 1 0 0 0 div div field-content 15 0
+Prospect O prospect 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+8963 O 8963 0 0 0 1 0 0 0 div div field-content 15 0
+
+jasonf@princeton.edu O jasonf@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Applied O applied 0 0 0 0 0 0 1 li ul first 19 0
+Physics O physics 0 0 0 0 0 0 1 li ul first 19 0
+
+Biological O biological 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Biomedical O biomedical 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Photonics O photonics 0 0 0 0 0 0 1 li ul last 19 0
+
+Claire B-PER claire 1 1 0 0 0 0 1 span div field-content 16 0
+Gmachl I-PER gmachl 1 1 0 0 0 0 1 span div field-content 16 0
+
+Eugene O eugene 0 1 0 0 0 0 1 div div field-content 15 0
+Higgins O higgins 0 1 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+Director O director 0 1 0 0 0 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+MIRTHE O mirthe 0 0 0 0 0 0 1 div div field-content 15 0
+( O ( 0 0 0 0 0 0 0 div div field-content 15 0
+NSF O nsf 0 0 0 0 0 0 1 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+ERC O erc 0 0 0 0 0 0 1 div div field-content 15 0
+) O ) 0 0 0 0 0 0 0 div div field-content 15 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 15 0
+Chair O chair 0 1 0 0 0 0 1 div div field-content 15 0
+, O , 0 0 0 0 0 0 0 div div field-content 15 0
+Department O department 0 0 0 0 0 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B227A O b227a 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+7489 O 7489 0 0 0 1 0 0 0 div div field-content 15 0
+
+cgmachl@princeton.edu O cgmachl@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Applied O applied 0 0 0 0 0 0 1 li ul first 19 0
+Physics O physics 0 0 0 0 0 0 1 li ul first 19 0
+
+Materials O materials 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Devices O devices 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Photonics O photonics 0 0 0 0 0 0 1 li ul last 19 0
+
+Andrew B-PER andrew 0 1 0 0 1 0 1 span div field-content 16 0
+Houck I-PER houck 0 1 0 0 0 0 1 span div field-content 16 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B424 O b424 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+2571 O 2571 0 0 0 1 0 0 0 div div field-content 15 0
+
+aahouck@princeton.edu O aahouck@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Applied O applied 0 0 0 0 0 0 1 li ul first 19 0
+Physics O physics 0 0 0 0 0 0 1 li ul first 19 0
+
+Photonics O photonics 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Quantum O quantum 0 0 0 0 0 0 1 li ul last 19 0
+Information O information 0 1 0 0 0 0 1 li ul last 19 0
+
+Niraj B-PER niraj 1 1 0 0 0 0 1 span div field-content 16 0
+Jha I-PER jha 1 1 0 0 0 0 1 span div field-content 16 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B220 O b220 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+4754 O 4754 0 0 0 1 0 0 0 div div field-content 15 0
+
+jha@princeton.edu O jha@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Biological O biological 0 0 0 0 0 0 1 li ul first 19 0
+& O & 0 0 0 0 0 0 0 li ul first 19 0
+Biomedical O biomedical 0 0 0 0 0 0 1 li ul first 19 0
+
+Computing O computing 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Networking O networking 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Energy O energy 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Environment O environment 0 0 0 0 0 0 1 li ul item-list 19 0
+
+High O high 0 1 0 0 0 0 1 li ul item-list 19 0
+- O - 0 0 0 0 0 0 0 li ul item-list 19 0
+Performance O performance 0 1 0 0 0 0 1 li ul item-list 19 0
+Computing O computing 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Integrated O integrated 0 0 0 0 0 0 1 li ul item-list 19 0
+Electronic O electronic 0 0 0 0 0 0 1 li ul item-list 19 0
+Systems O systems 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Nanotechnologies O nanotechnologies 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Quantum O quantum 0 0 0 0 0 0 1 li ul item-list 19 0
+Information O information 0 1 0 0 0 0 1 li ul item-list 19 0
+
+Security O security 0 0 0 0 0 0 1 li ul last 19 0
+
+Antoine B-PER antoine 0 1 0 0 0 0 1 span div field-content 16 0
+Kahn I-PER kahn 0 1 0 0 0 0 1 span div field-content 16 0
+
+Stephen O stephen 0 1 0 0 0 0 1 div div field-content 15 0
+C. O c. 0 1 0 0 0 0 1 div div field-content 15 0
+Macaleer O macaleer 0 0 0 0 0 0 1 div div field-content 15 0
+' O ' 0 0 0 0 0 0 0 div div field-content 15 0
+63 O 63 0 0 0 1 0 0 0 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+in O in 0 1 0 0 0 0 0 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+and O and 0 1 0 0 0 0 0 div div field-content 15 0
+Applied O applied 0 0 0 0 0 0 1 div div field-content 15 0
+Science O science 0 0 0 0 0 0 1 div div field-content 15 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+Vice O vice 0 1 0 0 0 0 1 div div field-content 15 0
+Dean O dean 0 1 0 0 0 0 1 div div field-content 15 0
+, O , 0 0 0 0 0 0 0 div div field-content 15 0
+School O school 0 1 0 0 0 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+and O and 0 1 0 0 0 0 0 div div field-content 15 0
+Applied O applied 0 0 0 0 0 0 1 div div field-content 15 0
+Sciences O sciences 0 0 0 0 0 0 1 div div field-content 15 0
+
+B420 O b420 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+4642 O 4642 0 0 0 1 0 0 0 div div field-content 15 0
+
+kahn@princeton.edu O kahn@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Energy O energy 0 0 0 0 0 0 1 li ul first 19 0
+& O & 0 0 0 0 0 0 0 li ul first 19 0
+Environment O environment 0 0 0 0 0 0 1 li ul first 19 0
+
+Materials O materials 0 0 0 0 0 0 1 li ul last 19 0
+& O & 0 0 0 0 0 0 0 li ul last 19 0
+Devices O devices 0 0 0 0 0 0 1 li ul last 19 0
+
+Sanjeev B-PER sanjeev 1 1 0 0 0 0 1 span div field-content 16 0
+R. I-PER r. 1 1 0 0 0 0 1 span div field-content 16 0
+Kulkarni I-PER kulkarni 1 1 0 0 0 0 1 span div field-content 16 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+Dean O dean 0 1 0 0 0 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+the O the 0 1 0 0 0 0 0 div div field-content 15 0
+Faculty O faculty 0 0 0 0 0 0 1 div div field-content 15 0
+
+B310 O b310 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+6727 O 6727 0 0 0 1 0 0 0 div div field-content 15 0
+
+kulkarni@princeton.edu O kulkarni@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Information O information 0 1 0 0 0 0 1 li ul last 19 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul last 19 0
+& O & 0 0 0 0 0 0 0 li ul last 19 0
+Systems O systems 0 0 0 0 0 0 1 li ul last 19 0
+
+Sun B-PER sun 0 1 0 0 0 0 1 span div field-content 16 0
+- I-PER - 0 0 0 0 0 0 0 span div field-content 16 0
+Yuan I-PER yuan 0 1 0 0 0 0 1 span div field-content 16 0
+Kung I-PER kung 0 1 0 0 0 0 1 span div field-content 16 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B230 O b230 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+3780 O 3780 0 0 0 1 0 0 0 div div field-content 15 0
+
+kung@princeton.edu O kung@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Biological O biological 0 0 0 0 0 0 1 li ul first 19 0
+& O & 0 0 0 0 0 0 0 li ul first 19 0
+Biomedical O biomedical 0 0 0 0 0 0 1 li ul first 19 0
+
+Computing O computing 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Networking O networking 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Information O information 0 1 0 0 0 0 1 li ul last 19 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul last 19 0
+& O & 0 0 0 0 0 0 0 li ul last 19 0
+Systems O systems 0 0 0 0 0 0 1 li ul last 19 0
+
+Ruby B-PER ruby 1 1 0 0 0 0 1 span div field-content 16 0
+Lee I-PER lee 1 1 0 0 0 0 1 span div field-content 16 0
+
+Forrest O forrest 0 1 0 0 0 0 1 div div field-content 15 0
+G. O g. 0 1 0 0 0 0 1 div div field-content 15 0
+Hamrick O hamrick 0 1 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+in O in 0 1 0 0 0 0 0 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B218 O b218 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+1426 O 1426 0 0 0 1 0 0 0 div div field-content 15 0
+
+rblee@princeton.edu O rblee@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Computing O computing 0 0 0 0 0 0 1 li ul first 19 0
+& O & 0 0 0 0 0 0 0 li ul first 19 0
+Networking O networking 0 0 0 0 0 0 1 li ul first 19 0
+
+High O high 0 1 0 0 0 0 1 li ul item-list 19 0
+- O - 0 0 0 0 0 0 0 li ul item-list 19 0
+Performance O performance 0 1 0 0 0 0 1 li ul item-list 19 0
+Computing O computing 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Security O security 0 0 0 0 0 0 1 li ul last 19 0
+
+Stephen B-PER stephen 1 1 0 0 0 0 1 span div field-content 16 0
+A. I-PER a. 1 1 0 0 0 0 1 span div field-content 16 0
+Lyon I-PER lyon 1 1 0 0 0 0 1 span div field-content 16 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B428 O b428 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+4635 O 4635 0 0 0 1 0 0 0 div div field-content 15 0
+
+lyon@princeton.edu O lyon@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Applied O applied 0 0 0 0 0 0 1 li ul first 19 0
+Physics O physics 0 0 0 0 0 0 1 li ul first 19 0
+
+Photonics O photonics 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Quantum O quantum 0 0 0 0 0 0 1 li ul last 19 0
+Information O information 0 1 0 0 0 0 1 li ul last 19 0
+
+Sharad B-PER sharad 1 1 0 0 0 0 1 span div field-content 16 0
+Malik I-PER malik 1 1 0 0 0 0 1 span div field-content 16 0
+
+George O george 0 1 0 0 0 0 1 div div field-content 15 0
+Van O van 0 1 0 0 0 0 1 div div field-content 15 0
+Ness O ness 0 1 0 0 0 0 1 div div field-content 15 0
+Lothrop O lothrop 0 1 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+in O in 0 1 0 0 0 0 0 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+Chair O chair 0 1 0 0 0 0 1 div div field-content 15 0
+, O , 0 0 0 0 0 0 0 div div field-content 15 0
+Department O department 0 0 0 0 0 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B212 O b212 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+4625 O 4625 0 0 0 1 0 0 0 div div field-content 15 0
+
+sharad@princeton.edu O sharad@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Computing O computing 0 0 0 0 0 0 1 li ul first 19 0
+& O & 0 0 0 0 0 0 0 li ul first 19 0
+Networking O networking 0 0 0 0 0 0 1 li ul first 19 0
+
+High O high 0 1 0 0 0 0 1 li ul item-list 19 0
+- O - 0 0 0 0 0 0 0 li ul item-list 19 0
+Performance O performance 0 1 0 0 0 0 1 li ul item-list 19 0
+Computing O computing 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Integrated O integrated 0 0 0 0 0 0 1 li ul item-list 19 0
+Electronic O electronic 0 0 0 0 0 0 1 li ul item-list 19 0
+Systems O systems 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Security O security 0 0 0 0 0 0 1 li ul last 19 0
+
+Prateek B-PER prateek 1 1 0 0 0 0 1 span div field-content 16 0
+Mittal I-PER mittal 1 1 0 0 0 0 1 span div field-content 16 0
+
+Assistant O assistant 0 0 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B326 O b326 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+0814 O 0814 0 0 0 1 0 0 0 div div field-content 15 0
+
+pmittal@princeton.edu O pmittal@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Computing O computing 0 0 0 0 0 0 1 li ul first 19 0
+& O & 0 0 0 0 0 0 0 li ul first 19 0
+Networking O networking 0 0 0 0 0 0 1 li ul first 19 0
+
+High O high 0 1 0 0 0 0 1 li ul item-list 19 0
+- O - 0 0 0 0 0 0 0 li ul item-list 19 0
+Performance O performance 0 1 0 0 0 0 1 li ul item-list 19 0
+Computing O computing 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Information O information 0 1 0 0 0 0 1 li ul item-list 19 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Systems O systems 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Security O security 0 0 0 0 0 0 1 li ul last 19 0
+
+H. B-PER h. 1 1 0 0 0 0 1 span div field-content 16 0
+Vincent I-PER vincent 1 1 0 0 0 0 1 span div field-content 16 0
+Poor I-PER poor 1 1 0 0 0 0 1 span div field-content 16 0
+
+Michael O michael 1 1 0 0 0 0 1 div div field-content 15 0
+Henry O henry 1 1 0 0 0 0 1 div div field-content 15 0
+Strater O strater 0 1 0 0 0 0 1 div div field-content 15 0
+University O university 0 1 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B330 O b330 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+1816 O 1816 0 0 0 1 0 0 0 div div field-content 15 0
+
+poor@princeton.edu O poor@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Computing O computing 0 0 0 0 0 0 1 li ul first 19 0
+& O & 0 0 0 0 0 0 0 li ul first 19 0
+Networking O networking 0 0 0 0 0 0 1 li ul first 19 0
+
+Energy O energy 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Environment O environment 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Information O information 0 1 0 0 0 0 1 li ul item-list 19 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Systems O systems 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Security O security 0 0 0 0 0 0 1 li ul last 19 0
+
+Paul B-PER paul 0 1 0 0 0 0 1 span div field-content 16 0
+Prucnal I-PER prucnal 0 1 0 0 0 0 1 span div field-content 16 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B314 O b314 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+5549 O 5549 0 0 0 1 0 0 0 div div field-content 15 0
+
+prucnal@princeton.edu O prucnal@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Applied O applied 0 0 0 0 0 0 1 li ul first 19 0
+Physics O physics 0 0 0 0 0 0 1 li ul first 19 0
+
+Materials O materials 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Devices O devices 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Photonics O photonics 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Security O security 0 0 0 0 0 0 1 li ul last 19 0
+
+Peter B-PER peter 0 1 0 0 0 0 1 span div field-content 16 0
+J I-PER j 0 1 0 0 0 0 1 span div field-content 16 0
+Ramadge I-PER ramadge 0 1 0 0 0 0 1 span div field-content 16 0
+
+Gordon O gordon 0 1 0 0 0 0 1 div div field-content 15 0
+Y.S. O y.s. 0 0 0 0 0 0 1 div div field-content 15 0
+Wu O wu 0 1 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+Director O director 0 1 0 0 0 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+the O the 0 1 0 0 0 0 0 div div field-content 15 0
+Center O center 0 1 0 0 0 0 1 div div field-content 15 0
+for O for 0 1 0 0 0 0 0 div div field-content 15 0
+Statistics O statistics 0 0 0 0 0 0 1 div div field-content 15 0
+and O and 0 1 0 0 0 0 0 div div field-content 15 0
+Machine O machine 0 1 0 0 0 0 1 div div field-content 15 0
+Learning O learning 0 1 0 0 0 0 1 div div field-content 15 0
+
+B222 O b222 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+4645 O 4645 0 0 0 1 0 0 0 div div field-content 15 0
+
+ramadge@princeton.edu O ramadge@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Biological O biological 0 0 0 0 0 0 1 li ul first 19 0
+& O & 0 0 0 0 0 0 0 li ul first 19 0
+Biomedical O biomedical 0 0 0 0 0 0 1 li ul first 19 0
+
+Information O information 0 1 0 0 0 0 1 li ul last 19 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul last 19 0
+& O & 0 0 0 0 0 0 0 li ul last 19 0
+Systems O systems 0 0 0 0 0 0 1 li ul last 19 0
+
+Barry B-PER barry 0 1 0 0 0 0 1 span div field-content 16 0
+P. I-PER p. 0 1 0 0 0 0 1 span div field-content 16 0
+Rand I-PER rand 0 1 0 0 0 0 1 span div field-content 16 0
+
+Assistant O assistant 0 0 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+& O & 0 0 0 0 0 0 0 div div field-content 15 0
+
+Andlinger O andlinger 0 1 0 0 1 0 1 div div field-content 15 0
+Center O center 0 1 0 0 0 0 1 div div field-content 15 0
+for O for 0 1 0 0 0 0 0 div div field-content 15 0
+Energy O energy 0 0 0 0 0 0 1 div div field-content 15 0
+and O and 0 1 0 0 0 0 0 div div field-content 15 0
+the O the 0 1 0 0 0 0 0 div div field-content 15 0
+Environment O environment 0 0 0 0 0 0 1 div div field-content 15 0
+
+B414 O b414 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
++1 O +1 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+7692 O 7692 0 0 0 1 0 0 0 div div field-content 15 0
+
+brand@princeton.edu O brand@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Applied O applied 0 0 0 0 0 0 1 li ul first 19 0
+Physics O physics 0 0 0 0 0 0 1 li ul first 19 0
+
+Energy O energy 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Environment O environment 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Materials O materials 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Devices O devices 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Nanotechnologies O nanotechnologies 0 0 0 0 0 0 1 li ul last 19 0
+
+Alejandro B-PER alejandro 0 1 0 0 0 0 1 span div field-content 16 0
+Rodriguez I-PER rodriguez 0 1 0 0 0 0 1 span div field-content 16 0
+
+Assistant O assistant 0 0 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B318 O b318 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+8962 O 8962 0 0 0 1 0 0 0 div div field-content 15 0
+
+arod@princeton.edu O arod@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Applied O applied 0 0 0 0 0 0 1 li ul first 19 0
+Physics O physics 0 0 0 0 0 0 1 li ul first 19 0
+
+Materials O materials 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Devices O devices 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Photonics O photonics 0 0 0 0 0 0 1 li ul last 19 0
+
+Kaushik B-PER kaushik 1 1 0 0 0 0 1 span div field-content 16 0
+Sengupta I-PER sengupta 1 1 0 0 0 0 1 span div field-content 16 0
+
+Assistant O assistant 0 0 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B216 O b216 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+5250 O 5250 0 0 0 1 0 0 0 div div field-content 15 0
+
+kaushiks@princeton.edu O kaushiks@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Biological O biological 0 0 0 0 0 0 1 li ul first 19 0
+& O & 0 0 0 0 0 0 0 li ul first 19 0
+Biomedical O biomedical 0 0 0 0 0 0 1 li ul first 19 0
+
+Integrated O integrated 0 0 0 0 0 0 1 li ul last 19 0
+Electronic O electronic 0 0 0 0 0 0 1 li ul last 19 0
+Systems O systems 0 0 0 0 0 0 1 li ul last 19 0
+
+Mansour B-PER mansour 0 1 0 0 0 0 1 span div field-content 16 0
+Shayegan I-PER shayegan 0 1 0 0 0 0 1 span div field-content 16 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B408 O b408 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+4639 O 4639 0 0 0 1 0 0 0 div div field-content 15 0
+
+shayegan@princeton.edu O shayegan@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Applied O applied 0 0 0 0 0 0 1 li ul first 19 0
+Physics O physics 0 0 0 0 0 0 1 li ul first 19 0
+
+Materials O materials 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Devices O devices 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Quantum O quantum 0 0 0 0 0 0 1 li ul last 19 0
+Information O information 0 1 0 0 0 0 1 li ul last 19 0
+
+James B-PER james 0 1 0 0 0 0 1 span div field-content 16 0
+Sturm I-PER sturm 0 1 0 0 0 0 1 span div field-content 16 0
+
+Stephen O stephen 1 1 0 0 0 0 1 div div field-content 15 0
+R. O r. 1 1 0 0 0 0 1 div div field-content 15 0
+Forrest O forrest 1 1 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 div div field-content 15 0
+Department O department 0 0 0 0 0 0 1 div div field-content 15 0
+Representative O representative 0 0 0 0 0 0 1 div div field-content 15 0
+
+B410 O b410 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+5610 O 5610 0 0 0 1 0 0 0 div div field-content 15 0
+
+sturm@princeton.edu O sturm@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Biological O biological 0 0 0 0 0 0 1 li ul first 19 0
+& O & 0 0 0 0 0 0 0 li ul first 19 0
+Biomedical O biomedical 0 0 0 0 0 0 1 li ul first 19 0
+
+Energy O energy 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Environment O environment 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Materials O materials 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Devices O devices 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Nanotechnologies O nanotechnologies 0 0 0 0 0 0 1 li ul last 19 0
+
+Jeff B-PER jeff 1 1 0 0 0 0 1 span div field-content 16 0
+Thompson I-PER thompson 1 1 0 0 0 0 1 span div field-content 16 0
+
+Assistant O assistant 0 0 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B303 O b303 0 0 0 1 0 0 1 div div field-content 15 0
+, O , 0 0 0 0 0 0 0 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+6124 O 6124 0 0 0 1 0 0 0 div div field-content 15 0
+
+jdthompson@princeton.edu O jdthompson@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Applied O applied 0 0 0 0 0 0 1 li ul first 19 0
+Physics O physics 0 0 0 0 0 0 1 li ul first 19 0
+
+Photonics O photonics 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Quantum O quantum 0 0 0 0 0 0 1 li ul last 19 0
+Information O information 0 1 0 0 0 0 1 li ul last 19 0
+
+Hakan B-PER hakan 0 1 0 0 0 0 1 span div field-content 16 0
+Türeci I-PER tureci 0 1 0 0 0 0 1 span div field-content 16 0
+
+Assistant O assistant 0 0 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B312 O b312 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+1993 O 1993 0 0 0 1 0 0 0 div div field-content 15 0
+
+tureci@princeton.edu O tureci@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Applied O applied 0 0 0 0 0 0 1 li ul first 19 0
+Physics O physics 0 0 0 0 0 0 1 li ul first 19 0
+
+Photonics O photonics 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Quantum O quantum 0 0 0 0 0 0 1 li ul last 19 0
+Information O information 0 1 0 0 0 0 1 li ul last 19 0
+
+Sergio B-PER sergio 1 1 0 0 0 0 1 span div field-content 16 0
+Verdú I-PER verdu 1 1 0 0 0 0 1 span div field-content 16 0
+
+Eugene O eugene 0 1 0 0 0 0 1 div div field-content 15 0
+Higgins O higgins 0 1 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B308 O b308 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+5315 O 5315 0 0 0 1 0 0 0 div div field-content 15 0
+
+verdu@princeton.edu O verdu@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Information O information 0 1 0 0 0 0 1 li ul last 19 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul last 19 0
+& O & 0 0 0 0 0 0 0 li ul last 19 0
+Systems O systems 0 0 0 0 0 0 1 li ul last 19 0
+
+Naveen B-PER naveen 1 1 0 0 0 0 1 span div field-content 16 0
+Verma I-PER verma 1 1 0 0 0 0 1 span div field-content 16 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+Director O director 0 1 0 0 0 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Graduate O graduate 1 1 0 0 0 0 1 div div field-content 15 0
+Studies O studies 0 0 0 0 0 0 1 div div field-content 15 0
+
+B226 O b226 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+1424 O 1424 0 0 0 1 0 0 0 div div field-content 15 0
+
+nverma@princeton.edu O nverma@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Biological O biological 0 0 0 0 0 0 1 li ul first 19 0
+& O & 0 0 0 0 0 0 0 li ul first 19 0
+Biomedical O biomedical 0 0 0 0 0 0 1 li ul first 19 0
+
+Computing O computing 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Networking O networking 0 0 0 0 0 0 1 li ul item-list 19 0
+
+High O high 0 1 0 0 0 0 1 li ul item-list 19 0
+- O - 0 0 0 0 0 0 0 li ul item-list 19 0
+Performance O performance 0 1 0 0 0 0 1 li ul item-list 19 0
+Computing O computing 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Integrated O integrated 0 0 0 0 0 0 1 li ul last 19 0
+Electronic O electronic 0 0 0 0 0 0 1 li ul last 19 0
+Systems O systems 0 0 0 0 0 0 1 li ul last 19 0
+
+David B-PER david 1 1 0 0 0 0 1 span div field-content 16 0
+Wentzlaff I-PER wentzlaff 1 1 0 0 0 0 1 span div field-content 16 0
+
+Assistant O assistant 0 0 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B228 O b228 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+7781 O 7781 0 0 0 1 0 0 0 div div field-content 15 0
+
+wentzlaf@princeton.edu O wentzlaf@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Computing O computing 0 0 0 0 0 0 1 li ul first 19 0
+& O & 0 0 0 0 0 0 0 li ul first 19 0
+Networking O networking 0 0 0 0 0 0 1 li ul first 19 0
+
+Energy O energy 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Environment O environment 0 0 0 0 0 0 1 li ul item-list 19 0
+
+High O high 0 1 0 0 0 0 1 li ul last 19 0
+- O - 0 0 0 0 0 0 0 li ul last 19 0
+Performance O performance 0 1 0 0 0 0 1 li ul last 19 0
+Computing O computing 0 0 0 0 0 0 1 li ul last 19 0
+
+Gerard B-PER gerard 1 1 0 0 0 0 1 span div field-content 16 0
+Wysocki I-PER wysocki 1 1 0 0 0 0 1 span div field-content 16 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 15 0
+of O of 0 1 0 0 0 0 0 div div field-content 15 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+
+B324 O b324 0 0 0 1 0 0 1 div div field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 15 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 15 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 15 0
+- O - 0 0 0 0 0 0 0 div div field-content 15 0
+8187 O 8187 0 0 0 1 0 0 0 div div field-content 15 0
+
+gwysocki@princeton.edu O gwysocki@princeton.edu 0 0 1 0 0 0 0 div div field-content 16 0
+
+Research O research 0 1 0 0 0 0 1 div div views-label-field-application-areas 15 0
+Interests O interests 0 0 0 0 0 0 1 div div views-label-field-application-areas 15 0
+
+Applied O applied 0 0 0 0 0 0 1 li ul first 19 0
+Physics O physics 0 0 0 0 0 0 1 li ul first 19 0
+
+Biological O biological 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Biomedical O biomedical 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Energy O energy 0 0 0 0 0 0 1 li ul item-list 19 0
+& O & 0 0 0 0 0 0 0 li ul item-list 19 0
+Environment O environment 0 0 0 0 0 0 1 li ul item-list 19 0
+
+Photonics O photonics 0 0 0 0 0 0 1 li ul last 19 0
+
+Senior O senior 0 1 0 0 0 0 1 div div view-header 15 0
+Research O research 0 1 0 0 0 0 1 div div view-header 15 0
+Scholar O scholar 0 0 0 0 0 0 1 div div view-header 15 0
+
+Loren B-PER loren 0 1 0 0 0 0 1 span div field-content 18 0
+Pfeiffer I-PER pfeiffer 0 1 0 0 0 0 1 span div field-content 18 0
+
+Senior O senior 0 1 0 0 0 0 1 div div field-content 17 0
+Research O research 0 1 0 0 0 0 1 div div field-content 17 0
+Scholar O scholar 0 0 0 0 0 0 1 div div field-content 17 0
+, O , 0 0 0 0 0 0 0 div div field-content 17 0
+Electrical O electrical 0 0 0 0 0 0 1 div div field-content 17 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 17 0
+
+B404 O b404 0 0 0 1 0 0 1 div div field-content 17 0
+Engineering O engineering 0 0 0 0 0 0 1 div div field-content 17 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div field-content 17 0
+
+609 O 609 0 0 0 1 0 0 0 div div field-content 17 0
+- O - 0 0 0 0 0 0 0 div div field-content 17 0
+258 O 258 0 0 0 1 0 0 0 div div field-content 17 0
+- O - 0 0 0 0 0 0 0 div div field-content 17 0
+2590 O 2590 0 0 0 1 0 0 0 div div field-content 17 0
+
+loren@princeton.edu O loren@princeton.edu 0 0 1 0 0 0 0 div div field-content 18 0
+
+Associated O associated 0 0 0 0 0 0 1 div div view-header 15 0
+Faculty O faculty 0 0 0 0 0 0 1 div div view-header 15 0
+
+Craig B-PER craig 0 1 0 0 0 0 1 h2 div clearfix 18 0
+Arnold I-PER arnold 0 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Professor O professor 0 0 0 0 1 0 1 div div even 20 0
+of O of 0 1 0 0 0 0 0 div div even 20 0
+Mechanical O mechanical 0 0 0 0 0 0 1 div div even 20 0
+and O and 0 1 0 0 0 0 0 div div even 20 0
+Aerospace O aerospace 0 0 0 0 0 0 1 div div even 20 0
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+
+Director O director 0 1 0 0 0 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+Princenton O princenton 0 0 0 0 0 0 1 div div odd 20 1
+Institute O institute 0 0 0 0 0 0 1 div div odd 20 1
+for O for 0 1 0 0 0 0 0 div div odd 20 1
+the O the 0 1 0 0 0 0 0 div div odd 20 1
+Science O science 0 0 0 0 0 0 1 div div odd 20 1
+and O and 0 1 0 0 0 0 0 div div odd 20 1
+Technology O technology 0 0 0 0 0 0 1 div div odd 20 1
+of O of 0 1 0 0 0 0 0 div div odd 20 1
+Materials O materials 0 0 0 0 0 0 1 div div odd 20 1
+
+D410 O d410 0 0 0 1 0 0 1 div div even 20 0
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div even 20 0
+
+609 O 609 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+258 O 258 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+0250 O 0250 0 0 0 1 0 0 0 div div even 20 0
+
+cbarnold@princeton.edu O cbarnold@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+David B-PER david 0 1 0 0 0 0 1 h2 div clearfix 18 0
+August I-PER august 0 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Professor O professor 0 0 0 0 1 0 1 div div even 20 0
+of O of 0 1 0 0 0 0 0 div div even 20 0
+Computer O computer 0 0 0 0 0 0 1 div div even 20 0
+Science O science 0 0 0 0 0 0 1 div div even 20 0
+
+209 O 209 0 0 0 1 0 0 0 div div even 20 0
+Computer O computer 0 0 0 0 0 0 1 div div even 20 0
+Science O science 0 0 0 0 0 0 1 div div even 20 0
+Building O building 0 0 0 0 0 0 1 div div even 20 0
+
+609 O 609 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+258 O 258 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+2084 O 2084 0 0 0 1 0 0 0 div div even 20 0
+
+august@princeton.edu O august@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Kai B-PER kai 1 1 0 0 0 0 1 h2 div clearfix 18 0
+Li I-PER li 1 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Paul O paul 0 1 0 0 0 0 1 div div even 20 0
+M. O m. 0 1 0 0 0 0 1 div div even 20 0
+and O and 0 1 0 0 0 0 0 div div even 20 0
+Marcia O marcia 0 1 0 0 0 0 1 div div even 20 0
+R. O r. 0 1 0 0 0 0 1 div div even 20 0
+Wythes O wythes 0 0 0 0 0 0 1 div div even 20 0
+Professor O professor 0 0 0 0 1 0 1 div div even 20 0
+in O in 0 1 0 0 0 0 0 div div even 20 0
+Computer O computer 0 0 0 0 0 0 1 div div even 20 0
+Science O science 0 0 0 0 0 0 1 div div even 20 0
+
+321 O 321 0 0 0 1 0 0 0 div div even 20 0
+Computer O computer 0 0 0 0 0 0 1 div div even 20 0
+Science O science 0 0 0 0 0 0 1 div div even 20 0
+Building O building 0 0 0 0 0 0 1 div div even 20 0
+
+609 O 609 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+258 O 258 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+4637 O 4637 0 0 0 1 0 0 0 div div even 20 0
+
+li@princeton.edu O li@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Lynn B-PER lynn 0 1 0 0 0 0 1 h2 div clearfix 18 0
+Loo I-PER loo 0 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Theodora O theodora 0 1 0 0 0 0 1 div div even 20 0
+D. O d. 0 1 0 0 0 0 1 div div even 20 0
+' O ' 0 0 0 0 0 0 0 div div even 20 0
+78 O 78 0 0 0 1 0 0 0 div div even 20 0
+and O and 0 1 0 0 0 0 0 div div even 20 0
+William O william 1 1 0 0 0 0 1 div div even 20 0
+H. O h. 0 1 0 0 0 0 1 div div even 20 0
+Walton O walton 0 1 0 0 0 0 1 div div even 20 0
+III O iii 0 1 0 0 0 0 1 div div even 20 0
+' O ' 0 0 0 0 0 0 0 div div even 20 0
+74 O 74 0 0 0 1 0 0 0 div div even 20 0
+Professor O professor 0 0 0 0 1 0 1 div div even 20 0
+in O in 0 1 0 0 0 0 0 div div even 20 0
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+
+Professor O professor 0 0 0 0 1 0 1 div div odd 20 1
+of O of 0 1 0 0 0 0 0 div div odd 20 1
+Chemical O chemical 0 0 0 0 0 0 1 div div odd 20 1
+and O and 0 1 0 0 0 0 0 div div odd 20 1
+Biological O biological 0 0 0 0 0 0 1 div div odd 20 1
+Engineering O engineering 0 0 0 0 0 0 1 div div odd 20 1
+
+Director O director 0 1 0 0 0 0 1 div div even 20 2
+, O , 0 0 0 0 0 0 0 div div even 20 2
+Andlinger O andlinger 0 1 0 0 1 0 1 div div even 20 2
+Center O center 0 1 0 0 0 0 1 div div even 20 2
+for O for 0 1 0 0 0 0 0 div div even 20 2
+Energy O energy 0 0 0 0 0 0 1 div div even 20 2
+and O and 0 1 0 0 0 0 0 div div even 20 2
+the O the 0 1 0 0 0 0 0 div div even 20 2
+Environment O environment 0 0 0 0 0 0 1 div div even 20 2
+
+A323 O a323 0 0 0 1 0 0 1 div div even 20 0
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div even 20 0
+
+609 O 609 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+258 O 258 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+9091 O 9091 0 0 0 1 0 0 0 div div even 20 0
+
+lloo@princeton.edu O lloo@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Margaret B-PER margaret 0 1 0 0 0 0 1 h2 div clearfix 18 0
+R. I-PER r. 0 1 0 0 0 0 1 h2 div clearfix 18 0
+Martonosi I-PER martonosi 0 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Hugh O hugh 0 1 0 0 0 0 1 div div even 20 0
+Trumbull O trumbull 0 1 0 0 0 0 1 div div even 20 0
+Adams O adams 0 1 0 0 0 0 1 div div even 20 0
+' O ' 0 0 0 0 0 0 0 div div even 20 0
+35 O 35 0 0 0 1 0 0 0 div div even 20 0
+Professor O professor 0 0 0 0 1 0 1 div div even 20 0
+of O of 0 1 0 0 0 0 0 div div even 20 0
+Computer O computer 0 0 0 0 0 0 1 div div even 20 0
+Science O science 0 0 0 0 0 0 1 div div even 20 0
+
+Professor O professor 0 0 0 0 1 0 1 div div odd 20 1
+of O of 0 1 0 0 0 0 0 div div odd 20 1
+Computer O computer 0 0 0 0 0 0 1 div div odd 20 1
+Science O science 0 0 0 0 0 0 1 div div odd 20 1
+
+204 O 204 0 0 0 1 0 0 0 div div even 20 0
+Computer O computer 0 0 0 0 0 0 1 div div even 20 0
+Science O science 0 0 0 0 0 0 1 div div even 20 0
+Building O building 0 0 0 0 0 0 1 div div even 20 0
+
+609 O 609 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+258 O 258 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+1912 O 1912 0 0 0 1 0 0 0 div div even 20 0
+
+mrm@princeton.edu O mrm@princeton.edu 0 0 1 0 1 0 0 div div even 21 0
+
+Jason B-PER jason 0 1 0 0 0 0 1 h2 div clearfix 18 0
+Petta I-PER petta 0 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Professor O professor 0 0 0 0 1 0 1 div div even 20 0
+of O of 0 1 0 0 0 0 0 div div even 20 0
+Physics O physics 0 0 0 0 0 0 1 div div even 20 0
+
+305 O 305 0 0 0 1 0 0 0 div div even 20 0
+Jadwin O jadwin 0 0 0 0 0 0 1 div div even 20 0
+Hall O hall 0 1 0 0 0 0 1 div div even 20 0
+
+609 O 609 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+258 O 258 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+1173 O 1173 0 0 0 1 0 0 0 div div even 20 0
+
+petta@princeton.edu O petta@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Warren B-PER warren 1 1 0 0 0 0 1 h2 div clearfix 18 0
+Powell I-PER powell 1 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Professor O professor 0 0 0 0 1 0 1 div div even 20 0
+of O of 0 1 0 0 0 0 0 div div even 20 0
+Operations O operations 0 0 0 0 0 0 1 div div even 20 0
+Research O research 0 1 0 0 0 0 1 div div even 20 0
+and O and 0 1 0 0 0 0 0 div div even 20 0
+Financial O financial 0 0 0 0 0 0 1 div div even 20 0
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+
+Director O director 0 1 0 0 0 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+Program O program 0 0 0 0 0 0 1 div div odd 20 1
+in O in 0 1 0 0 0 0 0 div div odd 20 1
+Engineering O engineering 0 0 0 0 0 0 1 div div odd 20 1
+and O and 0 1 0 0 0 0 0 div div odd 20 1
+Management O management 0 1 0 0 0 0 1 div div odd 20 1
+Systems O systems 0 0 0 0 0 0 1 div div odd 20 1
+
+230 O 230 0 0 0 1 0 0 0 div div even 20 0
+Sherrerd O sherrerd 0 0 0 0 0 0 1 div div even 20 0
+Hall O hall 0 1 0 0 0 0 1 div div even 20 0
+
+609 O 609 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+258 O 258 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+5373 O 5373 0 0 0 1 0 0 0 div div even 20 0
+
+powell@princeton.edu O powell@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Jennifer B-PER jennifer 1 1 0 0 0 0 1 h2 div clearfix 18 0
+Rexford I-PER rexford 1 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Gordon O gordon 0 1 0 0 0 0 1 div div even 20 0
+Y.S. O y.s. 0 0 0 0 0 0 1 div div even 20 0
+Wu O wu 0 1 0 0 0 0 1 div div even 20 0
+Professor O professor 0 0 0 0 1 0 1 div div even 20 0
+of O of 0 1 0 0 0 0 0 div div even 20 0
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+
+Professor O professor 0 0 0 0 1 0 1 div div odd 20 1
+of O of 0 1 0 0 0 0 0 div div odd 20 1
+Computer O computer 0 0 0 0 0 0 1 div div odd 20 1
+Science O science 0 0 0 0 0 0 1 div div odd 20 1
+
+Chair O chair 0 1 0 0 0 0 1 div div even 20 2
+, O , 0 0 0 0 0 0 0 div div even 20 2
+Computer O computer 0 0 0 0 0 0 1 div div even 20 2
+Science O science 0 0 0 0 0 0 1 div div even 20 2
+Department O department 0 0 0 0 0 0 1 div div even 20 2
+
+306 O 306 0 0 0 1 0 0 0 div div even 20 0
+Computer O computer 0 0 0 0 0 0 1 div div even 20 0
+Science O science 0 0 0 0 0 0 1 div div even 20 0
+Building O building 0 0 0 0 0 0 1 div div even 20 0
+
+609 O 609 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+258 O 258 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+5182 O 5182 0 0 0 1 0 0 0 div div even 20 0
+
+jrex@princeton.edu O jrex@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div div view-header 15 0
+Faculty O faculty 0 0 0 0 0 0 1 div div view-header 15 0
+
+Gayan B-PER gayan 0 1 0 0 0 0 1 h2 div clearfix 18 0
+Aruma I-PER aruma 0 1 0 0 0 0 1 h2 div clearfix 18 0
+Baduge I-PER baduge 0 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div div even 20 0
+Research O research 0 1 0 0 0 0 1 div div even 20 0
+Collaborator O collaborator 0 0 0 0 0 0 1 div div even 20 0
+
+Assistant O assistant 0 0 0 0 0 0 1 div div odd 20 1
+Professor O professor 0 0 0 0 1 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+Southern O southern 0 1 0 0 0 0 1 div div odd 20 1
+Illinois O illinois 0 1 0 0 0 0 1 div div odd 20 1
+University O university 0 1 0 0 0 0 1 div div odd 20 1
+
+gbaduge@princeton.edu O gbaduge@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Mung B-PER mung 1 1 0 0 0 0 1 h2 div clearfix 18 0
+Chiang I-PER chiang 1 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div div even 20 0
+Research O research 0 1 0 0 0 0 1 div div even 20 0
+Scholar O scholar 0 0 0 0 0 0 1 div div even 20 0
+
+Dean O dean 0 1 0 0 0 0 1 div div odd 20 1
+of O of 0 1 0 0 0 0 0 div div odd 20 1
+Engineering O engineering 0 0 0 0 0 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+Purdue O purdue 0 1 0 0 0 0 1 div div odd 20 1
+University O university 0 1 0 0 0 0 1 div div odd 20 1
+
+chiangm@princeton.edu O chiangm@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Zhiguo B-PER zhiguo 1 1 0 0 0 0 1 h2 div clearfix 18 0
+Ding I-PER ding 1 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div div even 20 0
+Research O research 0 1 0 0 0 0 1 div div even 20 0
+Collaborator O collaborator 0 0 0 0 0 0 1 div div even 20 0
+
+Associate O associate 0 1 0 0 0 0 1 div div odd 20 1
+Professor O professor 0 0 0 0 1 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+Newcastle O newcastle 0 0 0 0 0 0 1 div div odd 20 1
+University O university 0 1 0 0 0 0 1 div div odd 20 1
+
+zding@princeton.edu O zding@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Tariq B-PER tariq 0 1 0 0 0 0 1 h2 div clearfix 18 0
+Durrani I-PER durrani 0 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div div even 20 0
+Research O research 0 1 0 0 0 0 1 div div even 20 0
+Collaborator O collaborator 0 0 0 0 0 0 1 div div even 20 0
+
+Research O research 0 1 0 0 0 0 1 div div odd 20 1
+Professor O professor 0 0 0 0 1 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+Center O center 0 1 0 0 0 0 1 div div odd 20 1
+for O for 0 1 0 0 0 0 0 div div odd 20 1
+excellence O excellence 0 0 0 0 0 0 0 div div odd 20 1
+for O for 0 1 0 0 0 0 0 div div odd 20 1
+Signal O signal 0 1 0 0 0 0 1 div div odd 20 1
+Processing O processing 0 0 0 0 0 0 1 div div odd 20 1
+
+durrani@princeton.edu O durrani@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Jose B-PER jose 0 1 0 0 0 0 1 h2 div clearfix 18 0
+( I-PER ( 0 0 0 0 0 0 0 h2 div clearfix 18 0
+Inaki I-PER inaki 0 1 0 0 0 0 1 h2 div clearfix 18 0
+) I-PER ) 0 0 0 0 0 0 0 h2 div clearfix 18 0
+Esnaola I-PER esnaola 0 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div div even 20 0
+Research O research 0 1 0 0 0 0 1 div div even 20 0
+Collaborator O collaborator 0 0 0 0 0 0 1 div div even 20 0
+
+Lecturer O lecturer 0 0 0 0 0 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+University O university 0 1 0 0 0 0 1 div div odd 20 1
+of O of 0 1 0 0 0 0 0 div div odd 20 1
+Sheffield O sheffield 0 1 0 0 0 0 1 div div odd 20 1
+
+jesnaola@princeton.edu O jesnaola@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Sriram B-PER sriram 0 1 0 0 0 0 1 h2 div clearfix 18 0
+Ganeshan I-PER ganeshan 0 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div div even 20 0
+Research O research 0 1 0 0 0 0 1 div div even 20 0
+Collaborator O collaborator 0 0 0 0 0 0 1 div div even 20 0
+
+Research O research 0 1 0 0 0 0 1 div div odd 20 1
+Assistant O assistant 0 0 0 0 0 0 1 div div odd 20 1
+Professor O professor 0 0 0 0 1 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+Simons O simons 0 1 0 0 0 0 1 div div odd 20 1
+Center O center 0 1 0 0 0 0 1 div div odd 20 1
+of O of 0 1 0 0 0 0 0 div div odd 20 1
+Geometry O geometry 0 0 0 0 0 0 1 div div odd 20 1
+and O and 0 1 0 0 0 0 0 div div odd 20 1
+Physics O physics 0 0 0 0 0 0 1 div div odd 20 1
+
+C319G O c319g 0 0 0 1 0 0 1 div div even 20 0
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div even 20 0
+
+ganeshan@princeton.edu O ganeshan@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Visa B-PER visa 1 1 0 0 0 0 1 h2 div clearfix 18 0
+Koivunen I-PER koivunen 1 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div div even 20 0
+Research O research 0 1 0 0 0 0 1 div div even 20 0
+Collaborator O collaborator 0 0 0 0 0 0 1 div div even 20 0
+
+Academy O academy 0 0 0 0 0 0 1 div div odd 20 1
+Professor O professor 0 0 0 0 1 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+Aalto O aalto 0 1 0 0 0 0 1 div div odd 20 1
+University O university 0 1 0 0 0 0 1 div div odd 20 1
+
+koivunen@princeton.edu O koivunen@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Mehul B-PER mehul 1 1 0 0 0 0 1 h2 div clearfix 18 0
+Motani I-PER motani 1 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div div even 20 0
+Research O research 0 1 0 0 0 0 1 div div even 20 0
+Collaborator O collaborator 0 0 0 0 0 0 1 div div even 20 0
+
+Associate O associate 0 1 0 0 0 0 1 div div odd 20 1
+Professor O professor 0 0 0 0 1 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+National O national 0 0 0 0 0 0 1 div div odd 20 1
+University O university 0 1 0 0 0 0 1 div div odd 20 1
+of O of 0 1 0 0 0 0 0 div div odd 20 1
+Singapore O singapore 0 0 0 0 0 0 1 div div odd 20 1
+
+mmotani@princeton.edu O mmotani@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Erdal B-PER erdal 1 1 0 0 0 0 1 h2 div clearfix 18 0
+Panayirci I-PER panayirci 1 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div div even 20 0
+Research O research 0 1 0 0 0 0 1 div div even 20 0
+Scholar O scholar 0 0 0 0 0 0 1 div div even 20 0
+
+Professor O professor 0 0 0 0 1 0 1 div div odd 20 1
+and O and 0 1 0 0 0 0 0 div div odd 20 1
+Department O department 0 0 0 0 0 0 1 div div odd 20 1
+Head O head 0 1 0 0 0 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+Kadir O kadir 0 1 0 0 0 0 1 div div odd 20 1
+Has O has 0 1 0 0 0 0 1 div div odd 20 1
+University O university 0 1 0 0 0 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+Turkey O turkey 0 1 0 0 0 0 1 div div odd 20 1
+
+B307 O b307 0 0 0 1 0 0 1 div div even 20 0
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div even 20 0
+
+609 O 609 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+258 O 258 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+3582 O 3582 0 0 0 1 0 0 0 div div even 20 0
+
+eepanay@princeton.edu O eepanay@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Athina B-PER athina 0 1 0 0 0 0 1 h2 div clearfix 18 0
+Petropulu I-PER petropulu 0 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div div even 20 0
+Research O research 0 1 0 0 0 0 1 div div even 20 0
+Collaborator O collaborator 0 0 0 0 0 0 1 div div even 20 0
+
+Professor O professor 0 0 0 0 1 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+Electrical O electrical 0 0 0 0 0 0 1 div div odd 20 1
+& O & 0 0 0 0 0 0 0 div div odd 20 1
+Computer O computer 0 0 0 0 0 0 1 div div odd 20 1
+Engineering O engineering 0 0 0 0 0 0 1 div div odd 20 1
+Department O department 0 0 0 0 0 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+Rutgers O rutgers 0 1 0 0 0 0 1 div div odd 20 1
+
+apetropu@princeton.edu O apetropu@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Rafael B-PER rafael 1 1 0 0 0 0 1 h2 div clearfix 18 0
+Schaefer I-PER schaefer 0 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div div even 20 0
+Research O research 0 1 0 0 0 0 1 div div even 20 0
+Collaborator O collaborator 0 0 0 0 0 0 1 div div even 20 0
+
+Junior O junior 0 1 0 0 0 0 1 div div odd 20 1
+Professor O professor 0 0 0 0 1 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+Technische O technische 0 0 0 0 0 0 1 div div odd 20 1
+Universitat O universitat 0 0 0 0 0 0 1 div div odd 20 1
+Berlin O berlin 0 1 0 0 0 0 1 div div odd 20 1
+
+rafaelfs@princeton.edu O rafaelfs@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Shlomo B-PER shlomo 1 1 0 0 0 0 1 h2 div clearfix 18 0
+Shamai I-PER shamai 1 1 0 0 0 0 1 h2 div clearfix 18 0
+( I-PER ( 0 0 0 0 0 0 0 h2 div clearfix 18 0
+Shitz I-PER shitz 0 1 0 0 0 0 1 h2 div clearfix 18 0
+) I-PER ) 0 0 0 0 0 0 0 h2 div clearfix 18 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div div even 20 0
+Research O research 0 1 0 0 0 0 1 div div even 20 0
+Collaborator O collaborator 0 0 0 0 0 0 1 div div even 20 0
+
+William O william 1 1 0 0 0 0 1 div div odd 20 1
+Fondiller O fondiller 0 0 0 0 0 0 1 div div odd 20 1
+Chair O chair 0 1 0 0 0 0 1 div div odd 20 1
+in O in 0 1 0 0 0 0 0 div div odd 20 1
+Telecommunications O telecommunications 0 0 0 0 0 0 1 div div odd 20 1
+Department O department 0 0 0 0 0 0 1 div div odd 20 1
+of O of 0 1 0 0 0 0 0 div div odd 20 1
+Electrical O electrical 0 0 0 0 0 0 1 div div odd 20 1
+Engineering O engineering 0 0 0 0 0 0 1 div div odd 20 1
+Technion O technion 0 0 0 0 0 0 1 div div odd 20 1
+Israel O israel 0 1 0 0 0 0 1 div div odd 20 1
+Institute O institute 0 0 0 0 0 0 1 div div odd 20 1
+of O of 0 1 0 0 0 0 0 div div odd 20 1
+Technology O technology 0 0 0 0 0 0 1 div div odd 20 1
+
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div even 20 0
+
+shamai@princeton.edu O shamai@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Takao B-PER takao 1 1 0 0 0 0 1 h2 div clearfix 18 0
+Someya I-PER someya 1 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div div even 20 0
+Research O research 0 1 0 0 0 0 1 div div even 20 0
+Scholar O scholar 0 0 0 0 0 0 1 div div even 20 0
+
+Professor O professor 0 0 0 0 1 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+Department O department 0 0 0 0 0 0 1 div div odd 20 1
+of O of 0 1 0 0 0 0 0 div div odd 20 1
+Eelctrical O eelctrical 0 0 0 0 0 0 1 div div odd 20 1
+and O and 0 1 0 0 0 0 0 div div odd 20 1
+Electronic O electronic 0 0 0 0 0 0 1 div div odd 20 1
+Engineering O engineering 0 0 0 0 0 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+Schoool O schoool 0 0 0 0 0 0 1 div div odd 20 1
+of O of 0 1 0 0 0 0 0 div div odd 20 1
+Engineering O engineering 0 0 0 0 0 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+University O university 0 1 0 0 0 0 1 div div odd 20 1
+of O of 0 1 0 0 0 0 0 div div odd 20 1
+Tokyo O tokyo 0 0 0 0 0 0 1 div div odd 20 1
+
+tsomeya@princeton.edu O tsomeya@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Sander B-PER sander 1 1 0 0 0 0 1 h2 div clearfix 18 0
+Wahls I-PER wahls 1 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div div even 20 0
+Research O research 0 1 0 0 0 0 1 div div even 20 0
+Collaborator O collaborator 0 0 0 0 0 0 1 div div even 20 0
+
+Assistant O assistant 0 0 0 0 0 0 1 div div odd 20 1
+Professor O professor 0 0 0 0 1 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+Technische O technische 0 0 0 0 0 0 1 div div odd 20 1
+Universiteit O universiteit 0 0 0 0 0 0 1 div div odd 20 1
+Delft O delft 0 1 0 0 0 0 1 div div odd 20 1
+
+wahls@princeton.edu O wahls@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Yue B-PER yue 1 1 0 0 0 0 1 h2 div clearfix 18 0
+Zhao I-PER zhao 1 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div div even 20 0
+Research O research 0 1 0 0 0 0 1 div div even 20 0
+Collaborator O collaborator 0 0 0 0 0 0 1 div div even 20 0
+
+Assistant O assistant 0 0 0 0 0 0 1 div div odd 20 1
+Professor O professor 0 0 0 0 1 0 1 div div odd 20 1
+, O , 0 0 0 0 0 0 0 div div odd 20 1
+Stony O stony 1 1 0 0 0 0 1 div div odd 20 1
+Brook O brook 1 1 0 0 0 0 1 div div odd 20 1
+University O university 0 1 0 0 0 0 1 div div odd 20 1
+
+yuez@princeton.edu O yuez@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Emeritus O emeritus 0 1 0 0 1 0 1 div div view-header 15 0
+Faculty O faculty 0 0 0 0 0 0 1 div div view-header 15 0
+
+Stephen B-PER stephen 1 1 0 0 0 0 1 h2 div clearfix 18 0
+Forrest I-PER forrest 1 1 0 0 0 0 1 h2 div clearfix 18 0
+
+James O james 0 1 0 0 0 0 1 div div even 20 0
+S. O s. 1 1 0 0 0 0 1 div div even 20 0
+McDonnell O mcdonnell 1 1 0 0 0 0 1 div div even 20 0
+Distinguished O distinguished 0 0 0 0 0 0 1 div div even 20 0
+University O university 0 1 0 0 0 0 1 div div even 20 0
+Professor O professor 0 0 0 0 1 0 1 div div even 20 0
+of O of 0 1 0 0 0 0 0 div div even 20 0
+Electrical O electrical 0 0 0 0 0 0 1 div div even 20 0
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+, O , 0 0 0 0 0 0 0 div div even 20 0
+Emeritus O emeritus 0 1 0 0 1 0 1 div div even 20 0
+
+forrest@princeton.edu O forrest@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Hisashi B-PER hisashi 1 1 0 0 0 0 1 h2 div clearfix 18 0
+Kobayashi I-PER kobayashi 1 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Sherman O sherman 0 1 0 0 0 0 1 div div even 20 0
+Fairchild O fairchild 0 1 0 0 0 0 1 div div even 20 0
+University O university 0 1 0 0 0 0 1 div div even 20 0
+Professor O professor 0 0 0 0 1 0 1 div div even 20 0
+of O of 0 1 0 0 0 0 0 div div even 20 0
+Electrical O electrical 0 0 0 0 0 0 1 div div even 20 0
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+and O and 0 1 0 0 0 0 0 div div even 20 0
+Computer O computer 0 0 0 0 0 0 1 div div even 20 0
+Science O science 0 0 0 0 0 0 1 div div even 20 0
+, O , 0 0 0 0 0 0 0 div div even 20 0
+Emeritus O emeritus 0 1 0 0 1 0 1 div div even 20 0
+
+B323B O b323b 0 0 0 1 0 0 1 div div even 20 0
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div even 20 0
+
+609 O 609 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+258 O 258 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+1984 O 1984 0 0 0 1 0 0 0 div div even 20 0
+
+hisashi@princeton.edu O hisashi@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Bede B-PER bede 1 1 0 0 0 0 1 h2 div clearfix 18 0
+Liu I-PER liu 1 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Professor O professor 0 0 0 0 1 0 1 div div even 20 0
+, O , 0 0 0 0 0 0 0 div div even 20 0
+Electrical O electrical 0 0 0 0 0 0 1 div div even 20 0
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+, O , 0 0 0 0 0 0 0 div div even 20 0
+Emeritus O emeritus 0 1 0 0 1 0 1 div div even 20 0
+
+B330 O b330 0 0 0 1 0 0 1 div div even 20 0
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div even 20 0
+
+609 O 609 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+258 O 258 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+4628 O 4628 0 0 0 1 0 0 0 div div even 20 0
+
+liu@princeton.edu O liu@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Daniel B-PER daniel 0 1 0 0 0 0 1 h2 div clearfix 18 0
+Tsui I-PER tsui 0 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Arthur O arthur 0 1 0 0 0 0 1 div div even 20 0
+Legrand O legrand 0 1 0 0 0 0 1 div div even 20 0
+Doty O doty 0 1 0 0 0 0 1 div div even 20 0
+Professor O professor 0 0 0 0 1 0 1 div div even 20 0
+of O of 0 1 0 0 0 0 0 div div even 20 0
+Electrical O electrical 0 0 0 0 0 0 1 div div even 20 0
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+, O , 0 0 0 0 0 0 0 div div even 20 0
+Emeritus O emeritus 0 1 0 0 1 0 1 div div even 20 0
+
+Senior O senior 0 1 0 0 0 0 1 div div odd 20 1
+Scholar O scholar 0 0 0 0 0 0 1 div div odd 20 1
+
+B426 O b426 0 0 0 1 0 0 1 div div even 20 0
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div even 20 0
+
+609 O 609 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+258 O 258 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+4621 O 4621 0 0 0 1 0 0 0 div div even 20 0
+
+tsui@princeton.edu O tsui@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Sigurd B-PER sigurd 1 1 0 0 0 0 1 h2 div clearfix 18 0
+Wagner I-PER wagner 1 1 0 0 0 0 1 h2 div clearfix 18 0
+
+Professor O professor 0 0 0 0 1 0 1 div div even 20 0
+, O , 0 0 0 0 0 0 0 div div even 20 0
+Electrical O electrical 0 0 0 0 0 0 1 div div even 20 0
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+, O , 0 0 0 0 0 0 0 div div even 20 0
+Emeritus O emeritus 0 1 0 0 1 0 1 div div even 20 0
+
+Senior O senior 0 1 0 0 0 0 1 div div odd 20 1
+Scholar O scholar 0 0 0 0 0 0 1 div div odd 20 1
+
+B422 O b422 0 0 0 1 0 0 1 div div even 20 0
+Engineering O engineering 0 0 0 0 0 0 1 div div even 20 0
+Quadrangle O quadrangle 0 0 0 0 0 0 1 div div even 20 0
+
+609 O 609 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+258 O 258 0 0 0 1 0 0 0 div div even 20 0
+- O - 0 0 0 0 0 0 0 div div even 20 0
+4631 O 4631 0 0 0 1 0 0 0 div div even 20 0
+
+wagner@princeton.edu O wagner@princeton.edu 0 0 1 0 0 0 0 div div even 21 0
+
+Sitemap O sitemap 0 0 0 0 0 0 1 h2 div sitemap 10 0
+
+About O about 0 0 0 0 0 0 1 li ul span3 11 0
+
+Message O message 0 1 0 0 1 0 1 li ul span3 13 0
+from O from 0 0 0 0 0 0 0 li ul span3 13 0
+the O the 0 1 0 0 0 0 0 li ul span3 13 0
+Department O department 0 0 0 0 0 0 1 li ul span3 13 0
+Chair O chair 0 1 0 0 0 0 1 li ul span3 13 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul span3 13 0
+
+Advisory O advisory 0 0 0 0 0 0 1 li ul span3 13 0
+Council O council 0 1 0 0 0 0 1 li ul span3 13 0
+
+Visiting O visiting 0 0 0 0 0 0 1 li ul span3 13 0
+Us O us 0 1 0 0 0 0 1 li ul span3 13 0
+
+Careers O careers 0 0 0 0 0 0 1 li ul span3 13 0
+
+Departmental O departmental 0 0 0 0 0 0 1 li ul span3 13 0
+Procedures O procedures 0 0 0 0 0 0 1 li ul span3 13 0
+
+Emergency O emergency 0 0 0 0 1 0 1 li ul span3 13 0
+Action O action 0 1 0 0 0 0 1 li ul span3 13 0
+Plan O plan 0 1 0 0 0 0 1 li ul span3 13 0
+
+People O people 0 1 0 0 0 0 1 li ul span3 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul span3 13 0
+
+Administrative O administrative 0 0 0 0 0 0 1 li ul span3 13 0
+
+Technical O technical 0 0 0 0 0 0 1 li ul span3 13 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul span3 13 0
+Students O students 0 0 0 0 0 0 1 li ul span3 13 0
+
+Research O research 0 1 0 0 0 0 1 li ul span3 13 0
+Staff O staff 0 1 0 0 0 0 1 li ul span3 13 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul span3 11 0
+
+Prospective O prospective 0 0 0 0 0 0 1 li ul span3 13 0
+Majors O majors 0 1 0 0 0 0 1 li ul span3 13 0
+
+Why O why 0 1 0 0 0 0 1 li ul span3 13 0
+Study O study 0 1 0 0 0 0 1 li ul span3 13 0
+Electrical O electrical 0 0 0 0 0 0 1 li ul span3 13 0
+Engineering? O engineering? 0 0 0 0 0 0 1 li ul span3 13 0
+
+Curriculum O curriculum 0 0 0 0 0 0 1 li ul span3 13 0
+
+Independent O independent 0 0 0 0 0 0 1 li ul span3 15 0
+Research O research 0 1 0 0 0 0 1 li ul span3 15 0
+and O and 0 1 0 0 0 0 0 li ul span3 15 0
+Thesis O thesis 0 0 0 0 0 0 1 li ul span3 15 0
+
+ABET O abet 0 0 0 0 0 0 1 li ul span3 13 0
+Accreditation O accreditation 0 0 0 0 0 0 1 li ul span3 13 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul span3 13 0
+Handbook O handbook 0 0 0 0 0 0 1 li ul span3 13 0
+( O ( 0 0 0 0 0 0 0 li ul span3 13 0
+PDF O pdf 0 0 0 0 0 0 1 li ul span3 13 0
+) O ) 0 0 0 0 0 0 0 li ul span3 13 0
+
+Prospective O prospective 0 0 0 0 0 0 1 li ul span3 13 0
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul span3 13 0
+Handbook O handbook 0 0 0 0 0 0 1 li ul span3 13 0
+( O ( 0 0 0 0 0 0 0 li ul span3 13 0
+PDF O pdf 0 0 0 0 0 0 1 li ul span3 13 0
+) O ) 0 0 0 0 0 0 0 li ul span3 13 0
+
+Highlights O highlights 0 0 0 0 0 0 1 li ul span3 13 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul span3 13 0
+Showcase O showcase 0 0 0 0 0 0 1 li ul span3 13 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul span3 11 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul span3 13 0
+Admissions O admissions 0 0 0 0 0 0 1 li ul span3 13 0
+
+Handbook O handbook 0 0 0 0 0 0 1 li ul span3 13 0
+( O ( 0 0 0 0 0 0 0 li ul span3 13 0
+PDF O pdf 0 0 0 0 0 0 1 li ul span3 13 0
+) O ) 0 0 0 0 0 0 0 li ul span3 13 0
+
+Highlights O highlights 0 0 0 0 0 0 1 li ul span3 13 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul span3 13 0
+Showcase O showcase 0 0 0 0 0 0 1 li ul span3 13 0
+
+Courses O courses 0 0 0 0 0 0 1 li ul span3 11 0
+
+Course O course 0 1 0 0 0 0 1 li ul span3 13 0
+Catalog O catalog 0 0 0 0 0 0 1 li ul span3 13 0
+
+Research O research 0 1 0 0 0 0 1 li ul span3 11 0
+
+Interdisciplinary O interdisciplinary 0 0 0 0 0 0 1 li ul span3 13 0
+Research O research 0 1 0 0 0 0 1 li ul span3 13 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul span3 13 0
+Highlights O highlights 0 0 0 0 0 0 1 li ul span3 13 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul span3 13 0
+Recognition O recognition 0 0 0 0 0 0 1 li ul span3 13 0
+
+Login O login 0 0 0 0 0 0 1 p div pull-right 8 0
+
+© O © 0 0 0 0 0 0 0 div footer container 7 2
+2013 O 2013 0 0 0 1 0 0 0 div footer container 7 2
+The O the 0 1 0 0 0 0 1 div footer container 7 2
+Trustees O trustees 0 0 0 0 0 0 1 div footer container 7 2
+of O of 0 1 0 0 0 0 0 div footer container 7 2
+Princeton O princeton 0 1 0 0 0 0 1 div footer container 7 2
+University O university 0 1 0 0 0 0 1 div footer container 7 2

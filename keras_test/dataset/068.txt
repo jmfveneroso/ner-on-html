@@ -1,670 +1,670 @@
-TUD O tud 0 0 0 0 0 0 1 head html none 4 1
-- O - 0 0 0 0 0 0 0 head html none 4 1
-Faculty O faculty 0 0 0 0 0 0 1 head html none 4 1
-of O of 0 1 0 0 0 0 0 head html none 4 1
-Computer O computer 0 0 0 0 0 0 1 head html none 4 1
-Science O science 0 0 0 0 0 0 1 head html none 4 1
-- O - 0 0 0 0 0 0 0 head html none 4 1
-Professors O professors 0 0 0 0 1 0 1 head html none 4 1
-
-TUD O tud 0 0 0 0 0 0 1 h1 div none 7 0
-
-Deutsch O deutsch 0 1 0 0 0 0 1 div div none 9 0
-
-TUD O tud 0 0 0 0 0 0 1 div div none 6 0
-Home O home 0 1 0 0 0 0 1 div div none 6 0
-» O » 0 0 0 0 0 0 0 div div breadcrumbSeparator 6 1
-... O ... 0 0 0 0 0 0 0 div div none 6 2
-» O » 0 0 0 0 0 0 0 div div breadcrumbSeparator 6 1
-Faculty O faculty 0 0 0 0 0 0 1 div div none 6 4
-of O of 0 1 0 0 0 0 0 div div none 6 4
-Computer O computer 0 0 0 0 0 0 1 div div none 6 4
-Science O science 0 0 0 0 0 0 1 div div none 6 4
-» O » 0 0 0 0 0 0 0 div div breadcrumbSeparator 6 1
-People O people 0 1 0 0 0 0 1 div div none 6 6
-» O » 0 0 0 0 0 0 0 div div breadcrumbSeparator 6 1
-Professors O professors 0 0 0 0 1 0 1 div body none 5 13
-
-Faculty O faculty 0 0 0 0 0 0 1 a h2 none 8 0
-of O of 0 1 0 0 0 0 0 a h2 none 8 0
-Computer O computer 0 0 0 0 0 0 1 a h2 none 8 0
-Science O science 0 0 0 0 0 0 1 a h2 none 8 0
-
-Home O home 0 1 0 0 0 0 1 div div selected 8 0
-
-Business O business 0 0 0 0 0 0 1 div div plain 8 0
-and O and 0 1 0 0 0 0 0 div div plain 8 0
-Industry O industry 0 0 0 0 0 0 1 div div plain 8 0
-
-Faculty O faculty 0 0 0 0 0 0 1 div div padding 12 0
-of O of 0 1 0 0 0 0 0 div div padding 12 0
-Computer O computer 0 0 0 0 0 0 1 div div padding 12 0
-Science O science 0 0 0 0 0 0 1 div div padding 12 0
-
-About O about 0 0 0 0 0 0 1 li ul ebene1 13 0
-
-Our O our 0 0 0 0 0 0 1 li ul ebene1 13 0
-History O history 0 0 0 0 0 0 1 li ul ebene1 13 0
-
-People O people 0 1 0 0 0 0 1 li ul ebene1node 13 0
-
-Professors O professors 0 0 0 0 1 0 1 li ul ebene2 15 0
-
-Staff O staff 0 1 0 0 0 0 1 li ul ebene2 15 0
-directory O directory 0 0 0 0 0 0 0 li ul ebene2 15 0
-
-Committees O committees 0 0 0 0 0 0 1 li ul ebene1node 13 0
-and O and 0 1 0 0 0 0 0 li ul ebene1node 13 0
-Regulations O regulations 0 0 0 0 0 0 1 li ul ebene1node 13 0
-
-How O how 0 1 0 0 0 0 1 li ul ebene1 13 0
-to O to 0 0 0 0 0 0 0 li ul ebene1 13 0
-Find O find 0 1 0 0 0 0 1 li ul ebene1 13 0
-Us O us 0 1 0 0 0 0 1 li ul ebene1 13 0
-
-Resources O resources 0 0 0 0 0 0 1 li ul ebene1node 13 0
-
-Alumni O alumni 0 0 0 0 0 0 1 li ul ebene1 13 0
-
-Infos O infos 0 0 0 0 0 0 1 li ul ebene1 13 0
-from O from 0 0 0 0 0 0 0 li ul ebene1 13 0
-the O the 0 1 0 0 0 0 0 li ul ebene1 13 0
-ZIH O zih 0 0 0 0 0 0 1 li ul ebene1 13 0
-for O for 0 1 0 0 0 0 0 li ul ebene1 13 0
-the O the 0 1 0 0 0 0 0 li ul ebene1 13 0
-Faculty O faculty 0 0 0 0 0 0 1 li ul ebene1 13 0
-( O ( 0 0 0 0 0 0 0 li ul ebene1 13 0
-ex. O ex. 0 0 0 0 0 0 0 li ul ebene1 13 0
-FRZ O frz 0 0 0 0 0 0 1 li ul ebene1 13 0
-) O ) 0 0 0 0 0 0 0 li ul ebene1 13 0
-
-OPAL O opal 0 0 0 0 0 0 1 li ul ebene1 13 0
-
-Fakultätentag O fakultatentag 0 0 0 0 0 0 1 li ul ebene1 13 0
-Informatik O informatik 0 0 0 0 0 0 1 li ul ebene1 13 0
-
-4ING O 4ing 0 0 0 1 0 0 0 li ul ebene1 13 0
-Fakultätentage O fakultatentage 0 0 0 0 0 0 1 li ul ebene1 13 0
-
-Jobportal O jobportal 0 0 0 0 0 0 1 li ul ebene1 13 0
-
-tutors O tutors 0 0 0 0 0 0 0 li ul ebene1 13 0
-and O and 0 1 0 0 0 0 0 li ul ebene1 13 0
-student O student 0 0 0 0 0 0 0 li ul ebene1 13 0
-job O job 0 0 0 0 0 0 0 li ul ebene1 13 0
-offers O offers 0 0 0 0 0 0 0 li ul ebene1 13 0
-
-School O school 0 1 0 0 0 0 1 li ul ebene1 13 0
-of O of 0 1 0 0 0 0 0 li ul ebene1 13 0
-Engineering O engineering 0 0 0 0 0 0 1 li ul ebene1 13 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul ebene1 13 0
-
-Professors O professors 0 0 0 0 1 0 1 div td documentFirstHeading 10 1
-and O and 0 1 0 0 0 0 0 div td documentFirstHeading 10 1
-Assistant O assistant 0 0 0 0 0 0 1 div td documentFirstHeading 10 1
-Professors O professors 0 0 0 0 1 0 1 div td documentFirstHeading 10 1
-
-Table O table 0 0 0 0 0 0 1 div div plain 11 0
-of O of 0 1 0 0 0 0 0 div div plain 11 0
-Contents O contents 0 0 0 0 0 0 1 div div plain 11 0
-
-[1. O [1. 0 0 0 1 0 0 0 p div plain 12 0
-Institute O institute 0 0 0 0 0 0 1 p div plain 12 0
-for O for 0 1 0 0 0 0 0 p div plain 12 0
-Applied O applied 0 0 0 0 0 0 1 p div plain 12 0
-Computer O computer 0 0 0 0 0 0 1 p div plain 12 0
-Science] O science] 0 0 0 0 0 0 1 p div plain 12 0
-
-[2. O [2. 0 0 0 1 0 0 0 p div plain 12 2
-Institute O institute 0 0 0 0 0 0 1 p div plain 12 2
-for O for 0 1 0 0 0 0 0 p div plain 12 2
-Artificial O artificial 0 0 0 0 0 0 1 p div plain 12 2
-Intelligence] O intelligence] 0 0 0 0 0 0 1 p div plain 12 2
-
-[3. O [3. 0 0 0 1 0 0 0 p div plain 12 4
-Institute O institute 0 0 0 0 0 0 1 p div plain 12 4
-for O for 0 1 0 0 0 0 0 p div plain 12 4
-Software O software 0 1 0 0 0 0 1 p div plain 12 4
-- O - 0 0 0 0 0 0 0 p div plain 12 4
-and O and 0 1 0 0 0 0 0 p div plain 12 4
-Multimedia O multimedia 0 0 0 0 0 0 1 p div plain 12 4
-- O - 0 0 0 0 0 0 0 p div plain 12 4
-Technology] O technology] 0 0 0 0 0 0 1 p div plain 12 4
-
-[4. O [4. 0 0 0 1 0 0 0 p div plain 12 6
-Institute O institute 0 0 0 0 0 0 1 p div plain 12 6
-for O for 0 1 0 0 0 0 0 p div plain 12 6
-System O system 0 0 0 0 0 0 1 p div plain 12 6
-Architecture] O architecture] 0 0 0 0 0 0 1 p div plain 12 6
-
-[5. O [5. 0 0 0 1 0 0 0 p div plain 12 8
-Institute O institute 0 0 0 0 0 0 1 p div plain 12 8
-for O for 0 1 0 0 0 0 0 p div plain 12 8
-Computer O computer 0 0 0 0 0 0 1 p div plain 12 8
-Engineering] O engineering] 0 0 0 0 0 0 1 p div plain 12 8
-
-[6. O [6. 0 0 0 1 0 0 0 p div plain 12 10
-Institute O institute 0 0 0 0 0 0 1 p div plain 12 10
-for O for 0 1 0 0 0 0 0 p div plain 12 10
-Theoretical O theoretical 0 0 0 0 0 0 1 p div plain 12 10
-Computer O computer 0 0 0 0 0 0 1 p div plain 12 10
-Science] O science] 0 0 0 0 0 0 1 p div plain 12 10
-
-[7. O [7. 0 0 0 1 0 0 0 p div plain 12 12
-Co O co 0 1 0 0 0 0 1 p div plain 12 12
-- O - 0 0 0 0 0 0 0 p div plain 12 12
-Memberships O memberships 0 0 0 0 0 0 1 p div plain 12 12
-of O of 0 1 0 0 0 0 0 p div plain 12 12
-professors O professors 0 0 0 0 1 0 0 p div plain 12 12
-from O from 0 0 0 0 0 0 0 p div plain 12 12
-other O other 0 0 0 0 0 0 0 p div plain 12 12
-departments] O departments] 0 0 0 0 0 0 0 p div plain 12 12
-
-[8. O [8. 0 0 0 1 0 0 0 p div plain 12 14
-Adjunct O adjunct 0 0 0 0 0 0 1 p div plain 12 14
-professors] O professors] 0 0 0 0 1 0 0 p div plain 12 14
-
-1. O 1. 0 0 0 1 0 0 0 div div plain 11 20
-Institute O institute 0 0 0 0 0 0 1 div div plain 11 20
-for O for 0 1 0 0 0 0 0 div div plain 11 20
-Applied O applied 0 0 0 0 0 0 1 div div plain 11 20
-Computer O computer 0 0 0 0 0 0 1 div div plain 11 20
-Science O science 0 0 0 0 0 0 1 div div plain 11 20
-
-Man O man 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-- O - 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Computer O computer 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Interaction O interaction 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Gerhard B-PER gerhard 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Weber I-PER weber 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Industrial O industrial 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Communications O communications 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Martin B-PER martin 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Wollschlaeger I-PER wollschlaeger 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Information O information 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Management O management 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Systems O systems 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Klaus B-PER klaus 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Kabitzsch I-PER kabitzsch 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-2. O 2. 0 0 0 1 0 0 0 div div plain 11 37
-Institute O institute 0 0 0 0 0 0 1 div div plain 11 37
-for O for 0 1 0 0 0 0 0 div div plain 11 37
-Artificial O artificial 0 0 0 0 0 0 1 div div plain 11 37
-Intelligence O intelligence 0 0 0 0 0 0 1 div div plain 11 37
-
-Computer O computer 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Vision O vision 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Carsten B-PER carsten 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Rother I-PER rother 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Computational O computational 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Logic O logic 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Sebsastian B-PER sebsastian 0 0 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Rudolph I-PER rudolph 0 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Knowlege O knowlege 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Representation O representation 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-and O and 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Reasoning O reasoning 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Steffen B-PER steffen 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Hölldobler I-PER holldobler 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Scientific O scientific 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Computing O computing 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-for O for 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Systems O systems 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Biology O biology 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Ivo B-PER ivo 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-F. I-PER f. 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Sbalzarini I-PER sbalzarini 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Workgroup O workgroup 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Applied O applied 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Knowledge O knowledge 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Representation O representation 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-and O and 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Reasoning O reasoning 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Doz. O doz. 0 0 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Uwe B-PER uwe 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Petersohn I-PER petersohn 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Senior O senior 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Professorship O professorship 0 0 0 0 1 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 tr table BodyTableInvisible 13 1
-Dr. O dr. 0 1 0 0 1 0 1 tr table BodyTableInvisible 13 1
-Horst B-PER horst 1 1 0 0 0 0 1 tr table BodyTableInvisible 13 1
-Reichel I-PER reichel 1 1 0 0 0 0 1 tr table BodyTableInvisible 13 1
-
-3. O 3. 0 0 0 1 0 0 0 div div plain 11 65
-Institute O institute 0 0 0 0 0 0 1 div div plain 11 65
-for O for 0 1 0 0 0 0 0 div div plain 11 65
-Software O software 0 1 0 0 0 0 1 div div plain 11 65
-- O - 0 0 0 0 0 0 0 div div plain 11 65
-and O and 0 1 0 0 0 0 0 div div plain 11 65
-Multimedia O multimedia 0 0 0 0 0 0 1 div div plain 11 65
-- O - 0 0 0 0 0 0 0 div div plain 11 65
-Technology O technology 0 0 0 0 0 0 1 div div plain 11 65
-
-Computer O computer 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Graphics O graphics 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-and O and 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Visualization O visualization 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Stefan B-PER stefan 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Gumhold I-PER gumhold 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Media O media 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Design O design 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Rainer B-PER rainer 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Groh I-PER groh 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Multimedia O multimedia 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Technology O technology 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Raimund B-PER raimund 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Dachselt I-PER dachselt 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Software O software 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Technology O technology 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Uwe B-PER uwe 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Aßmann I-PER asmann 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Software O software 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Engineering O engineering 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-of O of 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Ubiquitous O ubiquitous 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Systems O systems 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-N.N. O n.n. 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 1
-
-Workgroup O workgroup 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Didactics O didactics 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-of O of 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Computer O computer 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Science O science 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-apl. O apl. 0 0 0 0 1 0 0 td tr BodyTableInvisible 14 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Steffen B-PER steffen 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Friedrich I-PER friedrich 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Senior O senior 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Professorship O professorship 0 0 0 0 1 0 1 tr table BodyTableInvisible 13 0
-Multimedia O multimedia 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Technology O technology 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Klaus B-PER klaus 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Meißner I-PER meisner 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-4. O 4. 0 0 0 1 0 0 0 div div plain 11 97
-Institute O institute 0 0 0 0 0 0 1 div div plain 11 97
-for O for 0 1 0 0 0 0 0 div div plain 11 97
-System O system 0 0 0 0 0 0 1 div div plain 11 97
-Architecture O architecture 0 0 0 0 0 0 1 div div plain 11 97
-
-Operating O operating 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Systems O systems 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Hermann B-PER hermann 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Härtig I-PER hartig 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Databases O databases 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Wolfgang B-PER wolfgang 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Lehner I-PER lehner 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Privacy O privacy 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-and O and 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Security O security 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Thorsten B-PER thorsten 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Strufe I-PER strufe 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Computer O computer 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Networks O networks 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Alexander B-PER alexander 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Schill I-PER schill 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Systems O systems 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Engineering O engineering 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-( O ( 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Heinz O heinz 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-- O - 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Nixdorf O nixdorf 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-- O - 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Endowment O endowment 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-) O ) 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Cristof B-PER cristof 0 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Fetzer I-PER fetzer 0 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Workgroup O workgroup 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Computer O computer 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Science O science 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-in O in 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Developing O developing 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Countries O countries 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-PD O pd 0 0 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Horst B-PER horst 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Lazarek I-PER lazarek 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-5. O 5. 0 0 0 1 0 0 0 div div plain 11 126
-Institute O institute 0 0 0 0 0 0 1 div div plain 11 126
-for O for 0 1 0 0 0 0 0 div div plain 11 126
-Computer O computer 0 0 0 0 0 0 1 div div plain 11 126
-Engineering O engineering 0 0 0 0 0 0 1 div div plain 11 126
-
-Compiler O compiler 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Construction O construction 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Jerónimo B-PER jeronimo 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Castrillón I-PER castrillon 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-- I-PER - 0 0 0 0 0 0 0 td tr BodyTableInvisible 14 0
-Mazo I-PER mazo 0 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Embedded O embedded 0 0 0 0 1 0 1 tr table BodyTableInvisible 13 0
-Systems O systems 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Mrs. O mrs. 0 1 0 0 1 0 1 tr table BodyTableInvisible 13 1
-Prof. O prof. 0 1 0 0 1 0 1 tr table BodyTableInvisible 13 1
-Dr. O dr. 0 1 0 0 1 0 1 tr table BodyTableInvisible 13 1
-Silvia B-PER silvia 1 1 0 0 0 0 1 tr table BodyTableInvisible 13 1
-Santini I-PER santini 1 1 0 0 0 0 1 tr table BodyTableInvisible 13 1
-
-Processor O processor 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Design O design 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Akash B-PER akash 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Kumar I-PER kumar 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Computer O computer 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Architecture O architecture 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Wolfgang B-PER wolfgang 0 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Nagel I-PER nagel 0 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-VLSI O vlsi 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Design O design 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-, O , 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Testability O testability 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-and O and 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Architecture O architecture 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Rainer B-PER rainer 0 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Spallek I-PER spallek 0 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-6. O 6. 0 0 0 1 0 0 0 div div plain 11 150
-Institute O institute 0 0 0 0 0 0 1 div div plain 11 150
-for O for 0 1 0 0 0 0 0 div div plain 11 150
-Theoretical O theoretical 0 0 0 0 0 0 1 div div plain 11 150
-Computer O computer 0 0 0 0 0 0 1 div div plain 11 150
-Science O science 0 0 0 0 0 0 1 div div plain 11 150
-
-Algebraic O algebraic 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-and O and 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Logical O logical 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Foundations O foundations 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-of O of 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Computer O computer 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Science O science 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Mrs. O mrs. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Christel B-PER christel 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Baier I-PER baier 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Automata O automata 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Theory O theory 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Franz B-PER franz 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Baader I-PER baader 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Foundations O foundations 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-of O of 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Programming O programming 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Heiko B-PER heiko 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Vogler I-PER vogler 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Knowledge O knowledge 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-- O - 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Based O based 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Systems O systems 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Markus B-PER markus 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Krötzsch I-PER krotzsch 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-7. O 7. 0 0 0 1 0 0 0 div div plain 11 171
-Co O co 0 1 0 0 0 0 1 div div plain 11 171
-- O - 0 0 0 0 0 0 0 div div plain 11 171
-Memberships O memberships 0 0 0 0 0 0 1 div div plain 11 171
-of O of 0 1 0 0 0 0 0 div div plain 11 171
-professors O professors 0 0 0 0 1 0 0 div div plain 11 171
-from O from 0 0 0 0 0 0 0 div div plain 11 171
-other O other 0 0 0 0 0 0 0 div div plain 11 171
-departments O departments 0 0 0 0 0 0 0 div div plain 11 171
-
-Biotechnology O biotechnology 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Center O center 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-TU O tu 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Dresden O dresden 0 1 0 0 1 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Michael B-PER michael 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Schroeder I-PER schroeder 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Faculty O faculty 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-of O of 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Electrical O electrical 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Engineering O engineering 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-and O and 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Information O information 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Technology O technology 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 tr table BodyTableInvisible 13 1
-Dr. O dr. 0 1 0 0 1 0 1 tr table BodyTableInvisible 13 1
-- O - 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 1
-Ing. O ing. 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 1
-Gerhard B-PER gerhard 1 1 0 0 0 0 1 tr table BodyTableInvisible 13 1
-Fettweis I-PER fettweis 1 1 0 0 0 0 1 tr table BodyTableInvisible 13 1
-
-Faculty O faculty 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-of O of 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Electrical O electrical 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Engineering O engineering 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-and O and 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Information O information 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Technology O technology 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-- O - 0 0 0 0 0 0 0 td tr BodyTableInvisible 14 0
-Ing. O ing. 0 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Ralf B-PER ralf 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Lehnert I-PER lehnert 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Faculty O faculty 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-of O of 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Mathematics O mathematics 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-and O and 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Natural O natural 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Sciences O sciences 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Ulrike B-PER ulrike 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Baumann I-PER baumann 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Faculty O faculty 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-of O of 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Mathematics O mathematics 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-and O and 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Natural O natural 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Sciences O sciences 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Bernhard B-PER bernhard 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Ganter I-PER ganter 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Faculty O faculty 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-of O of 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Mechanical O mechanical 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Engineering O engineering 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Ralph B-PER ralph 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Stelzer I-PER stelzer 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-Faculty O faculty 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-of O of 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Business O business 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Management O management 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-and O and 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Economics O economics 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Dr. O dr. 0 1 0 0 1 0 1 td tr BodyTableInvisible 14 0
-Susanne B-PER susanne 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-Strahringer I-PER strahringer 1 1 0 0 0 0 1 td tr BodyTableInvisible 14 0
-
-8. O 8. 0 0 0 1 0 0 0 div div plain 11 203
-Adjunct O adjunct 0 0 0 0 0 0 1 div div plain 11 203
-professors O professors 0 0 0 0 1 0 0 div div plain 11 203
-
-Adjunct O adjunct 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-professor O professor 0 0 0 0 1 0 0 tr table BodyTableInvisible 13 0
-for O for 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Automotive O automotive 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Software O software 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Engineering O engineering 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 tr table BodyTableInvisible 13 1
-Dr. O dr. 0 1 0 0 1 0 1 tr table BodyTableInvisible 13 1
-rer. O rer. 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 1
-nat. O nat. 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 1
-Bernhard B-PER bernhard 1 1 0 0 0 0 1 tr table BodyTableInvisible 13 1
-Hohlfeld I-PER hohlfeld 1 1 0 0 0 0 1 tr table BodyTableInvisible 13 1
-
-Adjunct O adjunct 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-professor O professor 0 0 0 0 1 0 0 tr table BodyTableInvisible 13 0
-for O for 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Computational O computational 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Molecular O molecular 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Biology O biology 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 tr table BodyTableInvisible 13 1
-Eugene B-PER eugene 1 1 0 0 0 0 1 tr table BodyTableInvisible 13 1
-W. I-PER w. 1 1 0 0 0 0 1 tr table BodyTableInvisible 13 1
-Myers I-PER myers 1 1 0 0 0 0 1 tr table BodyTableInvisible 13 1
-, O , 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 1
-Ph.D. O ph.d. 0 0 0 0 1 0 1 tr table BodyTableInvisible 13 1
-
-Adjunct O adjunct 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-professor O professor 0 0 0 0 1 0 0 tr table BodyTableInvisible 13 0
-for O for 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Enterprise O enterprise 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Software O software 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 tr table BodyTableInvisible 13 1
-Dr. O dr. 0 1 0 0 1 0 1 tr table BodyTableInvisible 13 1
-rer. O rer. 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 1
-nat. O nat. 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 1
-Uwe B-PER uwe 1 1 0 0 0 0 1 tr table BodyTableInvisible 13 1
-Kubach I-PER kubach 1 1 0 0 0 0 1 tr table BodyTableInvisible 13 1
-
-Adjunct O adjunct 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-professor O professor 0 0 0 0 1 0 0 tr table BodyTableInvisible 13 0
-for O for 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Software O software 0 1 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Architecture O architecture 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-of O of 0 1 0 0 0 0 0 tr table BodyTableInvisible 13 0
-Complex O complex 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Systems O systems 0 0 0 0 0 0 1 tr table BodyTableInvisible 13 0
-Prof. O prof. 0 1 0 0 1 0 1 tr table BodyTableInvisible 13 1
-Dr. O dr. 0 1 0 0 1 0 1 tr table BodyTableInvisible 13 1
-Frank B-PER frank 1 1 0 0 0 0 1 tr table BodyTableInvisible 13 1
-J. I-PER j. 1 1 0 0 0 0 1 tr table BodyTableInvisible 13 1
-Furrer I-PER furrer 1 1 0 0 0 0 1 tr table BodyTableInvisible 13 1
-
-Last O last 0 1 0 0 0 0 1 div td documentByLine 10 0
-modified O modified 0 0 0 0 0 0 0 div td documentByLine 10 0
-: O : 0 0 0 0 0 0 0 div td documentByLine 10 0
-21st O 21st 0 0 0 1 0 0 0 div td documentByLine 10 0
-Jul O jul 0 1 0 0 0 0 1 div td documentByLine 10 0
-2016 O 2016 0 0 0 1 0 0 0 div td documentByLine 10 0
-, O , 0 0 0 0 0 0 0 div td documentByLine 10 0
-9.17 O 9.17 0 0 0 1 0 0 0 div td documentByLine 10 0
-AM O am 0 0 0 0 0 0 1 div td documentByLine 10 0
-
-Author O author 0 0 0 0 0 0 1 div td documentByLine 10 0
-: O : 0 0 0 0 0 0 0 div td documentByLine 10 0
-Webmaster O webmaster 0 0 0 0 0 0 1 div div documentByLine 11 1
-
-Print O print 0 1 0 0 0 0 1 a li documentActions 14 1
-
-Contact O contact 0 0 0 0 0 0 1 div div padding 12 0
-
-Christine O christine 0 1 0 0 0 0 1 span div portletContent 15 0
-Leonhardi O leonhardi 0 1 0 0 0 0 1 span div portletContent 15 0
-
-Phone O phone 0 1 0 0 0 0 1 div div portletContent 14 0
-: O : 0 0 0 0 0 0 0 div div portletContent 14 0
-+49 O +49 0 0 0 1 0 0 0 div div portletContent 14 0
-( O ( 0 0 0 0 0 0 0 div div portletContent 14 0
-0 O 0 0 0 0 1 0 0 0 div div portletContent 14 0
-) O ) 0 0 0 0 0 0 0 div div portletContent 14 0
-351 O 351 0 0 0 1 0 0 0 div div portletContent 14 0
-463 O 463 0 0 0 1 0 0 0 div div portletContent 14 0
-- O - 0 0 0 0 0 0 0 div div portletContent 14 0
-38215 O 38215 0 0 0 1 0 0 0 div div portletContent 14 0
-
-Fax O fax 0 1 0 0 0 0 1 div div portletContent 14 0
-: O : 0 0 0 0 0 0 0 div div portletContent 14 0
-+49 O +49 0 0 0 1 0 0 0 div div portletContent 14 0
-( O ( 0 0 0 0 0 0 0 div div portletContent 14 0
-0 O 0 0 0 0 1 0 0 0 div div portletContent 14 0
-) O ) 0 0 0 0 0 0 0 div div portletContent 14 0
-351 O 351 0 0 0 1 0 0 0 div div portletContent 14 0
-463 O 463 0 0 0 1 0 0 0 div div portletContent 14 0
-- O - 0 0 0 0 0 0 0 div div portletContent 14 0
-38221 O 38221 0 0 0 1 0 0 0 div div portletContent 14 0
-
-e O e 0 1 0 0 0 0 0 span div portletContent 15 6
-- O - 0 0 0 0 0 0 0 span div portletContent 15 6
-mail O mail 0 0 0 0 0 0 0 span div portletContent 15 6
-contact O contact 0 0 0 0 0 0 0 span div portletContent 15 6
-form O form 0 0 0 0 0 0 0 span div portletContent 15 6
-
-Webmaster O webmaster 0 0 0 0 0 0 1 span div copyright 9 0
-
-Imprint O imprint 0 0 0 0 0 0 1 span div copyright 9 0
+TUD O tud 0 0 0 0 0 0 1 0 0 head html none 4 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 head html none 4 1
+Faculty O faculty 0 0 0 0 0 0 1 0 7 head html none 4 1
+of O of 0 1 0 0 0 0 0 2 10 head html none 4 1
+Computer O computer 0 0 0 0 0 0 1 0 7 head html none 4 1
+Science O science 0 0 0 0 0 0 1 0 7 head html none 4 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 head html none 4 1
+Professors O professors 0 0 0 0 1 0 1 0 4 head html none 4 1
+
+TUD O tud 0 0 0 0 0 0 1 0 0 h1 div none 7 0
+
+Deutsch O deutsch 0 1 0 0 0 0 1 4 7 div div none 9 0
+
+TUD O tud 0 0 0 0 0 0 1 0 0 div div none 6 0
+Home O home 0 1 0 0 0 0 1 2 6 div div none 6 0
+» O » 0 0 0 0 0 0 0 0 0 div div breadcrumbSeparator 6 1
+... O ... 0 0 0 0 0 0 0 0 0 div div none 6 2
+» O » 0 0 0 0 0 0 0 0 0 div div breadcrumbSeparator 6 1
+Faculty O faculty 0 0 0 0 0 0 1 0 7 div div none 6 4
+of O of 0 1 0 0 0 0 0 2 10 div div none 6 4
+Computer O computer 0 0 0 0 0 0 1 0 7 div div none 6 4
+Science O science 0 0 0 0 0 0 1 0 7 div div none 6 4
+» O » 0 0 0 0 0 0 0 0 0 div div breadcrumbSeparator 6 1
+People O people 0 1 0 0 0 0 1 0 7 div div none 6 6
+» O » 0 0 0 0 0 0 0 0 0 div div breadcrumbSeparator 6 1
+Professors O professors 0 0 0 0 1 0 1 0 4 div body none 5 13
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 a h2 none 8 0
+of O of 0 1 0 0 0 0 0 2 10 a h2 none 8 0
+Computer O computer 0 0 0 0 0 0 1 0 7 a h2 none 8 0
+Science O science 0 0 0 0 0 0 1 0 7 a h2 none 8 0
+
+Home O home 0 1 0 0 0 0 1 2 6 div div selected 8 0
+
+Business O business 0 0 0 0 0 0 1 0 7 div div plain 8 0
+and O and 0 1 0 0 0 0 0 0 10 div div plain 8 0
+Industry O industry 0 0 0 0 0 0 1 0 5 div div plain 8 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 div div padding 12 0
+of O of 0 1 0 0 0 0 0 2 10 div div padding 12 0
+Computer O computer 0 0 0 0 0 0 1 0 7 div div padding 12 0
+Science O science 0 0 0 0 0 0 1 0 7 div div padding 12 0
+
+About O about 0 0 0 0 0 0 1 0 8 li ul ebene1 13 0
+
+Our O our 0 0 0 0 0 0 1 0 8 li ul ebene1 13 0
+History O history 0 0 0 0 0 0 1 0 7 li ul ebene1 13 0
+
+People O people 0 1 0 0 0 0 1 0 7 li ul ebene1node 13 0
+
+Professors O professors 0 0 0 0 1 0 1 0 4 li ul ebene2 15 0
+
+Staff O staff 0 1 0 0 0 0 1 2 7 li ul ebene2 15 0
+directory O directory 0 0 0 0 0 0 0 0 6 li ul ebene2 15 0
+
+Committees O committees 0 0 0 0 0 0 1 0 4 li ul ebene1node 13 0
+and O and 0 1 0 0 0 0 0 0 10 li ul ebene1node 13 0
+Regulations O regulations 0 0 0 0 0 0 1 0 4 li ul ebene1node 13 0
+
+How O how 0 1 0 0 0 0 1 4 7 li ul ebene1 13 0
+to O to 0 1 0 0 0 0 0 0 10 li ul ebene1 13 0
+Find O find 0 1 0 0 0 0 1 1 6 li ul ebene1 13 0
+Us O us 0 1 0 0 0 0 1 1 8 li ul ebene1 13 0
+
+Resources O resources 0 0 0 0 0 0 1 0 7 li ul ebene1node 13 0
+
+Alumni O alumni 0 0 0 0 0 0 1 0 7 li ul ebene1 13 0
+
+Infos O infos 0 0 0 0 0 0 1 0 4 li ul ebene1 13 0
+from O from 0 0 0 0 0 0 0 0 8 li ul ebene1 13 0
+the O the 0 1 0 0 0 0 0 0 10 li ul ebene1 13 0
+ZIH O zih 0 0 0 0 0 0 1 0 0 li ul ebene1 13 0
+for O for 0 1 0 0 0 0 0 1 9 li ul ebene1 13 0
+the O the 0 1 0 0 0 0 0 0 10 li ul ebene1 13 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul ebene1 13 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul ebene1 13 0
+ex. O ex. 0 0 0 0 0 0 0 0 0 li ul ebene1 13 0
+FRZ O frz 0 0 0 0 0 0 1 0 0 li ul ebene1 13 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul ebene1 13 0
+
+OPAL O opal 0 0 0 0 0 0 1 0 0 li ul ebene1 13 0
+
+Fakultätentag O fakultatentag 0 0 0 0 0 0 1 0 0 li ul ebene1 13 0
+Informatik O informatik 0 0 0 0 0 0 1 0 6 li ul ebene1 13 0
+
+4ING O 4ing 0 0 0 1 0 0 0 0 0 li ul ebene1 13 0
+Fakultätentage O fakultatentage 0 0 0 0 0 0 1 0 0 li ul ebene1 13 0
+
+Jobportal O jobportal 0 0 0 0 0 0 1 0 0 li ul ebene1 13 0
+
+tutors O tutors 0 0 0 0 0 0 0 0 0 li ul ebene1 13 0
+and O and 0 1 0 0 0 0 0 0 10 li ul ebene1 13 0
+student O student 0 0 0 0 0 0 0 0 8 li ul ebene1 13 0
+job O job 0 0 0 0 0 0 0 0 5 li ul ebene1 13 0
+offers O offers 0 0 0 0 0 0 0 0 4 li ul ebene1 13 0
+
+School O school 0 1 0 0 0 0 1 0 7 li ul ebene1 13 0
+of O of 0 1 0 0 0 0 0 2 10 li ul ebene1 13 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 li ul ebene1 13 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul ebene1 13 0
+
+Professors O professors 0 0 0 0 1 0 1 0 4 div td documentFirstHeading 10 1
+and O and 0 1 0 0 0 0 0 0 10 div td documentFirstHeading 10 1
+Assistant O assistant 0 0 0 0 0 0 1 0 6 div td documentFirstHeading 10 1
+Professors O professors 0 0 0 0 1 0 1 0 4 div td documentFirstHeading 10 1
+
+Table O table 0 0 0 0 0 0 1 0 6 div div plain 11 0
+of O of 0 1 0 0 0 0 0 2 10 div div plain 11 0
+Contents O contents 0 0 0 0 0 0 1 0 5 div div plain 11 0
+
+[1. O [1. 0 0 0 1 0 0 0 0 0 p div plain 12 0
+Institute O institute 0 0 0 0 0 0 1 0 6 p div plain 12 0
+for O for 0 1 0 0 0 0 0 1 9 p div plain 12 0
+Applied O applied 0 0 0 0 0 0 1 0 5 p div plain 12 0
+Computer O computer 0 0 0 0 0 0 1 0 7 p div plain 12 0
+Science] O science] 0 0 0 0 0 0 1 0 0 p div plain 12 0
+
+[2. O [2. 0 0 0 1 0 0 0 0 0 p div plain 12 2
+Institute O institute 0 0 0 0 0 0 1 0 6 p div plain 12 2
+for O for 0 1 0 0 0 0 0 1 9 p div plain 12 2
+Artificial O artificial 0 0 0 0 0 0 1 0 5 p div plain 12 2
+Intelligence] O intelligence] 0 0 0 0 0 0 1 0 0 p div plain 12 2
+
+[3. O [3. 0 0 0 1 0 0 0 0 0 p div plain 12 4
+Institute O institute 0 0 0 0 0 0 1 0 6 p div plain 12 4
+for O for 0 1 0 0 0 0 0 1 9 p div plain 12 4
+Software O software 0 1 0 0 0 0 1 0 6 p div plain 12 4
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 p div plain 12 4
+and O and 0 1 0 0 0 0 0 0 10 p div plain 12 4
+Multimedia O multimedia 0 0 0 0 0 0 1 0 5 p div plain 12 4
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 p div plain 12 4
+Technology] O technology] 0 0 0 0 0 0 1 0 0 p div plain 12 4
+
+[4. O [4. 0 0 0 1 0 0 0 0 0 p div plain 12 6
+Institute O institute 0 0 0 0 0 0 1 0 6 p div plain 12 6
+for O for 0 1 0 0 0 0 0 1 9 p div plain 12 6
+System O system 0 0 0 0 0 0 1 0 6 p div plain 12 6
+Architecture] O architecture] 0 0 0 0 0 0 1 0 0 p div plain 12 6
+
+[5. O [5. 0 0 0 1 0 0 0 0 0 p div plain 12 8
+Institute O institute 0 0 0 0 0 0 1 0 6 p div plain 12 8
+for O for 0 1 0 0 0 0 0 1 9 p div plain 12 8
+Computer O computer 0 0 0 0 0 0 1 0 7 p div plain 12 8
+Engineering] O engineering] 0 0 0 0 0 0 1 0 0 p div plain 12 8
+
+[6. O [6. 0 0 0 1 0 0 0 0 0 p div plain 12 10
+Institute O institute 0 0 0 0 0 0 1 0 6 p div plain 12 10
+for O for 0 1 0 0 0 0 0 1 9 p div plain 12 10
+Theoretical O theoretical 0 0 0 0 0 0 1 0 3 p div plain 12 10
+Computer O computer 0 0 0 0 0 0 1 0 7 p div plain 12 10
+Science] O science] 0 0 0 0 0 0 1 0 0 p div plain 12 10
+
+[7. O [7. 0 0 0 1 0 0 0 0 0 p div plain 12 12
+Co O co 0 1 0 0 0 0 1 3 7 p div plain 12 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 p div plain 12 12
+Memberships O memberships 0 0 0 0 0 0 1 0 0 p div plain 12 12
+of O of 0 1 0 0 0 0 0 2 10 p div plain 12 12
+professors O professors 0 0 0 0 1 0 0 0 4 p div plain 12 12
+from O from 0 0 0 0 0 0 0 0 8 p div plain 12 12
+other O other 0 0 0 0 0 0 0 0 7 p div plain 12 12
+departments] O departments] 0 0 0 0 0 0 0 0 0 p div plain 12 12
+
+[8. O [8. 0 0 0 1 0 0 0 0 0 p div plain 12 14
+Adjunct O adjunct 0 0 0 0 0 0 1 0 4 p div plain 12 14
+professors] O professors] 0 0 0 0 1 0 0 0 0 p div plain 12 14
+
+1. O 1. 0 0 0 1 0 0 0 0 0 div div plain 11 20
+Institute O institute 0 0 0 0 0 0 1 0 6 div div plain 11 20
+for O for 0 1 0 0 0 0 0 1 9 div div plain 11 20
+Applied O applied 0 0 0 0 0 0 1 0 5 div div plain 11 20
+Computer O computer 0 0 0 0 0 0 1 0 7 div div plain 11 20
+Science O science 0 0 0 0 0 0 1 0 7 div div plain 11 20
+
+Man O man 0 1 0 0 0 0 1 7 6 tr table BodyTableInvisible 13 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table BodyTableInvisible 13 0
+Computer O computer 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Interaction O interaction 0 0 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Gerhard B-PER gerhard 1 1 0 0 0 0 1 7 3 td tr BodyTableInvisible 14 0
+Weber I-PER weber 1 1 0 0 0 0 1 6 4 td tr BodyTableInvisible 14 0
+
+Industrial O industrial 0 0 0 0 0 0 1 0 4 tr table BodyTableInvisible 13 0
+Communications O communications 0 0 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Martin B-PER martin 1 1 0 0 0 0 1 9 7 td tr BodyTableInvisible 14 0
+Wollschlaeger I-PER wollschlaeger 1 1 0 0 0 0 1 1 0 td tr BodyTableInvisible 14 0
+
+Information O information 0 1 0 0 0 0 1 0 8 tr table BodyTableInvisible 13 0
+Management O management 0 1 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Systems O systems 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Klaus B-PER klaus 1 1 0 0 0 0 1 7 3 td tr BodyTableInvisible 14 0
+Kabitzsch I-PER kabitzsch 1 1 0 0 0 0 1 0 0 td tr BodyTableInvisible 14 0
+
+2. O 2. 0 0 0 1 0 0 0 0 0 div div plain 11 37
+Institute O institute 0 0 0 0 0 0 1 0 6 div div plain 11 37
+for O for 0 1 0 0 0 0 0 1 9 div div plain 11 37
+Artificial O artificial 0 0 0 0 0 0 1 0 5 div div plain 11 37
+Intelligence O intelligence 0 0 0 0 0 0 1 0 5 div div plain 11 37
+
+Computer O computer 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Vision O vision 0 1 0 0 0 0 1 1 5 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Carsten B-PER carsten 1 1 0 0 0 0 1 6 1 td tr BodyTableInvisible 14 0
+Rother I-PER rother 1 1 0 0 0 0 1 3 0 td tr BodyTableInvisible 14 0
+
+Computational O computational 0 0 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+Logic O logic 0 1 0 0 0 0 1 1 4 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Sebsastian B-PER sebsastian 0 0 0 0 0 0 1 0 0 td tr BodyTableInvisible 14 0
+Rudolph I-PER rudolph 0 1 0 0 0 0 1 5 2 td tr BodyTableInvisible 14 0
+
+Knowlege O knowlege 0 0 0 0 0 0 1 0 0 tr table BodyTableInvisible 13 0
+Representation O representation 0 0 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+and O and 0 1 0 0 0 0 0 0 10 tr table BodyTableInvisible 13 0
+Reasoning O reasoning 0 0 0 0 0 0 1 0 2 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Steffen B-PER steffen 1 1 0 0 0 0 1 6 1 td tr BodyTableInvisible 14 0
+Hölldobler I-PER holldobler 1 1 0 0 0 0 1 1 0 td tr BodyTableInvisible 14 0
+
+Scientific O scientific 0 0 0 0 0 0 1 0 4 tr table BodyTableInvisible 13 0
+Computing O computing 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+for O for 0 1 0 0 0 0 0 1 9 tr table BodyTableInvisible 13 0
+Systems O systems 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Biology O biology 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Ivo B-PER ivo 1 1 0 0 0 0 1 6 3 td tr BodyTableInvisible 14 0
+F. I-PER f. 1 1 0 0 0 0 1 10 0 td tr BodyTableInvisible 14 0
+Sbalzarini I-PER sbalzarini 1 1 0 0 0 0 1 0 0 td tr BodyTableInvisible 14 0
+
+Workgroup O workgroup 0 0 0 0 0 0 1 0 2 tr table BodyTableInvisible 13 0
+Applied O applied 0 0 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+Knowledge O knowledge 0 1 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+Representation O representation 0 0 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+and O and 0 1 0 0 0 0 0 0 10 tr table BodyTableInvisible 13 0
+Reasoning O reasoning 0 0 0 0 0 0 1 0 2 tr table BodyTableInvisible 13 0
+Doz. O doz. 0 0 0 0 0 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Uwe B-PER uwe 1 1 0 0 0 0 1 7 3 td tr BodyTableInvisible 14 0
+Petersohn I-PER petersohn 1 1 0 0 0 0 1 2 0 td tr BodyTableInvisible 14 0
+
+Senior O senior 0 1 0 0 0 0 1 2 5 tr table BodyTableInvisible 13 0
+Professorship O professorship 0 0 0 0 1 0 1 0 0 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 tr table BodyTableInvisible 13 1
+Dr. O dr. 0 1 0 0 1 0 1 2 0 tr table BodyTableInvisible 13 1
+Horst B-PER horst 1 1 0 0 0 0 1 6 4 tr table BodyTableInvisible 13 1
+Reichel I-PER reichel 1 1 0 0 0 0 1 4 2 tr table BodyTableInvisible 13 1
+
+3. O 3. 0 0 0 1 0 0 0 0 0 div div plain 11 65
+Institute O institute 0 0 0 0 0 0 1 0 6 div div plain 11 65
+for O for 0 1 0 0 0 0 0 1 9 div div plain 11 65
+Software O software 0 1 0 0 0 0 1 0 6 div div plain 11 65
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div plain 11 65
+and O and 0 1 0 0 0 0 0 0 10 div div plain 11 65
+Multimedia O multimedia 0 0 0 0 0 0 1 0 5 div div plain 11 65
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div plain 11 65
+Technology O technology 0 0 0 0 0 0 1 0 7 div div plain 11 65
+
+Computer O computer 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Graphics O graphics 0 0 0 0 0 0 1 0 4 tr table BodyTableInvisible 13 0
+and O and 0 1 0 0 0 0 0 0 10 tr table BodyTableInvisible 13 0
+Visualization O visualization 0 0 0 0 0 0 1 0 3 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Stefan B-PER stefan 1 1 0 0 0 0 1 8 4 td tr BodyTableInvisible 14 0
+Gumhold I-PER gumhold 1 1 0 0 0 0 1 0 0 td tr BodyTableInvisible 14 0
+
+Media O media 0 1 0 0 0 0 1 1 7 tr table BodyTableInvisible 13 0
+Design O design 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Rainer B-PER rainer 1 1 0 0 0 0 1 7 3 td tr BodyTableInvisible 14 0
+Groh I-PER groh 1 1 0 0 0 0 1 3 0 td tr BodyTableInvisible 14 0
+
+Multimedia O multimedia 0 0 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+Technology O technology 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Raimund B-PER raimund 1 1 0 0 0 0 1 4 0 td tr BodyTableInvisible 14 0
+Dachselt I-PER dachselt 1 1 0 0 0 0 1 1 0 td tr BodyTableInvisible 14 0
+
+Software O software 0 1 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Technology O technology 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Uwe B-PER uwe 1 1 0 0 0 0 1 7 3 td tr BodyTableInvisible 14 0
+Aßmann I-PER asmann 1 1 0 0 0 0 1 2 0 td tr BodyTableInvisible 14 0
+
+Software O software 0 1 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+of O of 0 1 0 0 0 0 0 2 10 tr table BodyTableInvisible 13 0
+Ubiquitous O ubiquitous 0 0 0 0 0 0 1 0 2 tr table BodyTableInvisible 13 0
+Systems O systems 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+N.N. O n.n. 0 0 0 0 0 0 1 0 0 tr table BodyTableInvisible 13 1
+
+Workgroup O workgroup 0 0 0 0 0 0 1 0 2 tr table BodyTableInvisible 13 0
+Didactics O didactics 0 0 0 0 0 0 1 0 0 tr table BodyTableInvisible 13 0
+of O of 0 1 0 0 0 0 0 2 10 tr table BodyTableInvisible 13 0
+Computer O computer 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Science O science 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+apl. O apl. 0 0 0 0 1 0 0 0 0 td tr BodyTableInvisible 14 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Steffen B-PER steffen 1 1 0 0 0 0 1 6 1 td tr BodyTableInvisible 14 0
+Friedrich I-PER friedrich 1 1 0 0 0 0 1 6 4 td tr BodyTableInvisible 14 0
+
+Senior O senior 0 1 0 0 0 0 1 2 5 tr table BodyTableInvisible 13 0
+Professorship O professorship 0 0 0 0 1 0 1 0 0 tr table BodyTableInvisible 13 0
+Multimedia O multimedia 0 0 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+Technology O technology 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Klaus B-PER klaus 1 1 0 0 0 0 1 7 3 td tr BodyTableInvisible 14 0
+Meißner I-PER meisner 1 1 0 0 0 0 1 3 0 td tr BodyTableInvisible 14 0
+
+4. O 4. 0 0 0 1 0 0 0 0 0 div div plain 11 97
+Institute O institute 0 0 0 0 0 0 1 0 6 div div plain 11 97
+for O for 0 1 0 0 0 0 0 1 9 div div plain 11 97
+System O system 0 0 0 0 0 0 1 0 6 div div plain 11 97
+Architecture O architecture 0 0 0 0 0 0 1 0 6 div div plain 11 97
+
+Operating O operating 0 0 0 0 0 0 1 0 4 tr table BodyTableInvisible 13 0
+Systems O systems 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Hermann B-PER hermann 1 1 0 0 0 0 1 6 4 td tr BodyTableInvisible 14 0
+Härtig I-PER hartig 1 1 0 0 0 0 1 2 1 td tr BodyTableInvisible 14 0
+
+Databases O databases 0 0 0 0 0 0 1 0 4 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Wolfgang B-PER wolfgang 1 1 0 0 0 0 1 7 5 td tr BodyTableInvisible 14 0
+Lehner I-PER lehner 1 1 0 0 0 0 1 4 0 td tr BodyTableInvisible 14 0
+
+Privacy O privacy 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+and O and 0 1 0 0 0 0 0 0 10 tr table BodyTableInvisible 13 0
+Security O security 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Thorsten B-PER thorsten 1 1 0 0 0 0 1 6 0 td tr BodyTableInvisible 14 0
+Strufe I-PER strufe 1 1 0 0 0 0 1 0 0 td tr BodyTableInvisible 14 0
+
+Computer O computer 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Networks O networks 0 0 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Alexander B-PER alexander 1 1 0 0 0 0 1 8 5 td tr BodyTableInvisible 14 0
+Schill I-PER schill 1 1 0 0 0 0 1 3 0 td tr BodyTableInvisible 14 0
+
+Systems O systems 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+( O-PUNCT ( 1 1 0 0 0 0 0 6 0 tr table BodyTableInvisible 13 0
+Heinz O heinz 1 1 0 0 0 0 1 6 3 tr table BodyTableInvisible 13 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 tr table BodyTableInvisible 13 0
+Nixdorf O nixdorf 1 1 0 0 0 0 1 2 0 tr table BodyTableInvisible 13 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 tr table BodyTableInvisible 13 0
+Endowment O endowment 0 0 0 0 0 0 1 0 1 tr table BodyTableInvisible 13 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Cristof B-PER cristof 0 1 0 0 0 0 1 0 0 td tr BodyTableInvisible 14 0
+Fetzer I-PER fetzer 0 1 0 0 0 0 1 2 0 td tr BodyTableInvisible 14 0
+
+Workgroup O workgroup 0 0 0 0 0 0 1 0 2 tr table BodyTableInvisible 13 0
+Computer O computer 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Science O science 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+in O in 0 1 0 0 0 0 0 3 10 tr table BodyTableInvisible 13 0
+Developing O developing 0 0 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+Countries O countries 0 0 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+PD O pd 0 0 0 0 0 0 1 0 4 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Horst B-PER horst 1 1 0 0 0 0 1 6 4 td tr BodyTableInvisible 14 0
+Lazarek I-PER lazarek 1 1 0 0 0 0 1 0 0 td tr BodyTableInvisible 14 0
+
+5. O 5. 0 0 0 1 0 0 0 0 0 div div plain 11 126
+Institute O institute 0 0 0 0 0 0 1 0 6 div div plain 11 126
+for O for 0 1 0 0 0 0 0 1 9 div div plain 11 126
+Computer O computer 0 0 0 0 0 0 1 0 7 div div plain 11 126
+Engineering O engineering 0 0 0 0 0 0 1 0 7 div div plain 11 126
+
+Compiler O compiler 0 0 0 0 0 0 1 0 3 tr table BodyTableInvisible 13 0
+Construction O construction 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Jerónimo B-PER jeronimo 1 1 0 0 0 0 1 3 1 td tr BodyTableInvisible 14 0
+Castrillón I-PER castrillon 1 1 0 0 0 0 1 2 0 td tr BodyTableInvisible 14 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 td tr BodyTableInvisible 14 0
+Mazo I-PER mazo 0 1 0 0 0 0 1 3 0 td tr BodyTableInvisible 14 0
+
+Embedded O embedded 0 0 0 0 1 0 1 0 4 tr table BodyTableInvisible 13 0
+Systems O systems 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Mrs. O mrs. 0 1 0 0 1 0 1 0 0 tr table BodyTableInvisible 13 1
+Prof. O prof. 0 1 0 0 1 0 1 0 0 tr table BodyTableInvisible 13 1
+Dr. O dr. 0 1 0 0 1 0 1 2 0 tr table BodyTableInvisible 13 1
+Silvia B-PER silvia 1 1 0 0 0 0 1 7 2 tr table BodyTableInvisible 13 1
+Santini I-PER santini 1 1 0 0 0 0 1 4 1 tr table BodyTableInvisible 13 1
+
+Processor O processor 0 0 0 0 0 0 1 0 3 tr table BodyTableInvisible 13 0
+Design O design 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Akash B-PER akash 1 1 0 0 0 0 1 4 0 td tr BodyTableInvisible 14 0
+Kumar I-PER kumar 1 1 0 0 0 0 1 8 3 td tr BodyTableInvisible 14 0
+
+Computer O computer 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Architecture O architecture 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Wolfgang B-PER wolfgang 0 1 0 0 0 0 1 7 5 td tr BodyTableInvisible 14 0
+Nagel I-PER nagel 0 1 0 0 0 0 1 5 2 td tr BodyTableInvisible 14 0
+
+VLSI O vlsi 0 0 0 0 0 0 1 0 2 tr table BodyTableInvisible 13 0
+Design O design 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 0
+Testability O testability 0 0 0 0 0 0 1 0 0 tr table BodyTableInvisible 13 0
+and O and 0 1 0 0 0 0 0 0 10 tr table BodyTableInvisible 13 0
+Architecture O architecture 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Rainer B-PER rainer 0 1 0 0 0 0 1 7 3 td tr BodyTableInvisible 14 0
+Spallek I-PER spallek 0 1 0 0 0 0 1 1 0 td tr BodyTableInvisible 14 0
+
+6. O 6. 0 0 0 1 0 0 0 0 0 div div plain 11 150
+Institute O institute 0 0 0 0 0 0 1 0 6 div div plain 11 150
+for O for 0 1 0 0 0 0 0 1 9 div div plain 11 150
+Theoretical O theoretical 0 0 0 0 0 0 1 0 3 div div plain 11 150
+Computer O computer 0 0 0 0 0 0 1 0 7 div div plain 11 150
+Science O science 0 0 0 0 0 0 1 0 7 div div plain 11 150
+
+Algebraic O algebraic 0 0 0 0 0 0 1 0 1 tr table BodyTableInvisible 13 0
+and O and 0 1 0 0 0 0 0 0 10 tr table BodyTableInvisible 13 0
+Logical O logical 0 0 0 0 0 0 1 0 3 tr table BodyTableInvisible 13 0
+Foundations O foundations 0 0 0 0 0 0 1 0 4 tr table BodyTableInvisible 13 0
+of O of 0 1 0 0 0 0 0 2 10 tr table BodyTableInvisible 13 0
+Computer O computer 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Science O science 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Mrs. O mrs. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Christel B-PER christel 1 1 0 0 0 0 1 4 2 td tr BodyTableInvisible 14 0
+Baier I-PER baier 1 1 0 0 0 0 1 4 1 td tr BodyTableInvisible 14 0
+
+Automata O automata 0 0 0 0 0 0 1 0 3 tr table BodyTableInvisible 13 0
+Theory O theory 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Franz B-PER franz 1 1 0 0 0 0 1 6 4 td tr BodyTableInvisible 14 0
+Baader I-PER baader 1 1 0 0 0 0 1 2 2 td tr BodyTableInvisible 14 0
+
+Foundations O foundations 0 0 0 0 0 0 1 0 4 tr table BodyTableInvisible 13 0
+of O of 0 1 0 0 0 0 0 2 10 tr table BodyTableInvisible 13 0
+Programming O programming 0 1 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Heiko B-PER heiko 1 1 0 0 0 0 1 6 0 td tr BodyTableInvisible 14 0
+Vogler I-PER vogler 1 1 0 0 0 0 1 3 1 td tr BodyTableInvisible 14 0
+
+Knowledge O knowledge 0 1 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table BodyTableInvisible 13 0
+Based O based 0 1 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Systems O systems 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Markus B-PER markus 1 1 0 0 0 0 1 8 3 td tr BodyTableInvisible 14 0
+Krötzsch I-PER krotzsch 1 1 0 0 0 0 1 1 0 td tr BodyTableInvisible 14 0
+
+7. O 7. 0 0 0 1 0 0 0 0 0 div div plain 11 171
+Co O co 0 1 0 0 0 0 1 3 7 div div plain 11 171
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div plain 11 171
+Memberships O memberships 0 0 0 0 0 0 1 0 0 div div plain 11 171
+of O of 0 1 0 0 0 0 0 2 10 div div plain 11 171
+professors O professors 0 0 0 0 1 0 0 0 4 div div plain 11 171
+from O from 0 0 0 0 0 0 0 0 8 div div plain 11 171
+other O other 0 0 0 0 0 0 0 0 7 div div plain 11 171
+departments O departments 0 0 0 0 0 0 0 0 5 div div plain 11 171
+
+Biotechnology O biotechnology 0 0 0 0 0 0 1 0 2 tr table BodyTableInvisible 13 0
+Center O center 0 1 0 0 0 0 1 1 7 tr table BodyTableInvisible 13 0
+TU O tu 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Dresden O dresden 0 1 0 0 1 0 1 1 0 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Michael B-PER michael 1 1 0 0 0 0 1 9 6 td tr BodyTableInvisible 14 0
+Schroeder I-PER schroeder 1 1 0 0 0 0 1 5 0 td tr BodyTableInvisible 14 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+of O of 0 1 0 0 0 0 0 2 10 tr table BodyTableInvisible 13 0
+Electrical O electrical 0 0 0 0 0 0 1 0 4 tr table BodyTableInvisible 13 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+and O and 0 1 0 0 0 0 0 0 10 tr table BodyTableInvisible 13 0
+Information O information 0 1 0 0 0 0 1 0 8 tr table BodyTableInvisible 13 0
+Technology O technology 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 tr table BodyTableInvisible 13 1
+Dr. O dr. 0 1 0 0 1 0 1 2 0 tr table BodyTableInvisible 13 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table BodyTableInvisible 13 1
+Ing. O ing. 0 1 0 0 0 0 1 1 0 tr table BodyTableInvisible 13 1
+Gerhard B-PER gerhard 1 1 0 0 0 0 1 7 3 tr table BodyTableInvisible 13 1
+Fettweis I-PER fettweis 1 1 0 0 0 0 1 1 0 tr table BodyTableInvisible 13 1
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+of O of 0 1 0 0 0 0 0 2 10 tr table BodyTableInvisible 13 0
+Electrical O electrical 0 0 0 0 0 0 1 0 4 tr table BodyTableInvisible 13 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+and O and 0 1 0 0 0 0 0 0 10 tr table BodyTableInvisible 13 0
+Information O information 0 1 0 0 0 0 1 0 8 tr table BodyTableInvisible 13 0
+Technology O technology 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr BodyTableInvisible 14 0
+Ing. O ing. 0 1 0 0 0 0 1 1 0 td tr BodyTableInvisible 14 0
+Ralf B-PER ralf 1 1 0 0 0 0 1 7 2 td tr BodyTableInvisible 14 0
+Lehnert I-PER lehnert 1 1 0 0 0 0 1 3 0 td tr BodyTableInvisible 14 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+of O of 0 1 0 0 0 0 0 2 10 tr table BodyTableInvisible 13 0
+Mathematics O mathematics 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+and O and 0 1 0 0 0 0 0 0 10 tr table BodyTableInvisible 13 0
+Natural O natural 0 0 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Ulrike B-PER ulrike 1 1 0 0 0 0 1 6 1 td tr BodyTableInvisible 14 0
+Baumann I-PER baumann 1 1 0 0 0 0 1 5 2 td tr BodyTableInvisible 14 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+of O of 0 1 0 0 0 0 0 2 10 tr table BodyTableInvisible 13 0
+Mathematics O mathematics 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+and O and 0 1 0 0 0 0 0 0 10 tr table BodyTableInvisible 13 0
+Natural O natural 0 0 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Bernhard B-PER bernhard 1 1 0 0 0 0 1 7 3 td tr BodyTableInvisible 14 0
+Ganter I-PER ganter 1 1 0 0 0 0 1 2 0 td tr BodyTableInvisible 14 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+of O of 0 1 0 0 0 0 0 2 10 tr table BodyTableInvisible 13 0
+Mechanical O mechanical 0 0 0 0 0 0 1 0 3 tr table BodyTableInvisible 13 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Ralph B-PER ralph 1 1 0 0 0 0 1 7 4 td tr BodyTableInvisible 14 0
+Stelzer I-PER stelzer 1 1 0 0 0 0 1 3 0 td tr BodyTableInvisible 14 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+of O of 0 1 0 0 0 0 0 2 10 tr table BodyTableInvisible 13 0
+Business O business 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Management O management 0 1 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+and O and 0 1 0 0 0 0 0 0 10 tr table BodyTableInvisible 13 0
+Economics O economics 0 0 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 td tr BodyTableInvisible 14 0
+Dr. O dr. 0 1 0 0 1 0 1 2 0 td tr BodyTableInvisible 14 0
+Susanne B-PER susanne 1 1 0 0 0 0 1 6 0 td tr BodyTableInvisible 14 0
+Strahringer I-PER strahringer 1 1 0 0 0 0 1 1 0 td tr BodyTableInvisible 14 0
+
+8. O 8. 0 0 0 1 0 0 0 0 0 div div plain 11 203
+Adjunct O adjunct 0 0 0 0 0 0 1 0 4 div div plain 11 203
+professors O professors 0 0 0 0 1 0 0 0 4 div div plain 11 203
+
+Adjunct O adjunct 0 0 0 0 0 0 1 0 4 tr table BodyTableInvisible 13 0
+professor O professor 0 0 0 0 1 0 0 0 7 tr table BodyTableInvisible 13 0
+for O for 0 1 0 0 0 0 0 1 9 tr table BodyTableInvisible 13 0
+Automotive O automotive 0 0 0 0 0 0 1 0 3 tr table BodyTableInvisible 13 0
+Software O software 0 1 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 tr table BodyTableInvisible 13 1
+Dr. O dr. 0 1 0 0 1 0 1 2 0 tr table BodyTableInvisible 13 1
+rer. O rer. 0 0 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 1
+nat. O nat. 0 0 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 1
+Bernhard B-PER bernhard 1 1 0 0 0 0 1 7 3 tr table BodyTableInvisible 13 1
+Hohlfeld I-PER hohlfeld 1 1 0 0 0 0 1 2 0 tr table BodyTableInvisible 13 1
+
+Adjunct O adjunct 0 0 0 0 0 0 1 0 4 tr table BodyTableInvisible 13 0
+professor O professor 0 0 0 0 1 0 0 0 7 tr table BodyTableInvisible 13 0
+for O for 0 1 0 0 0 0 0 1 9 tr table BodyTableInvisible 13 0
+Computational O computational 0 0 0 0 0 0 1 0 5 tr table BodyTableInvisible 13 0
+Molecular O molecular 0 0 0 0 0 0 1 0 3 tr table BodyTableInvisible 13 0
+Biology O biology 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 tr table BodyTableInvisible 13 1
+Eugene B-PER eugene 1 1 0 0 0 0 1 6 5 tr table BodyTableInvisible 13 1
+W. I-PER w. 1 1 0 0 0 0 1 10 0 tr table BodyTableInvisible 13 1
+Myers I-PER myers 1 1 0 0 0 0 1 5 1 tr table BodyTableInvisible 13 1
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 1
+Ph.D. O ph.d. 0 0 0 0 1 0 1 0 0 tr table BodyTableInvisible 13 1
+
+Adjunct O adjunct 0 0 0 0 0 0 1 0 4 tr table BodyTableInvisible 13 0
+professor O professor 0 0 0 0 1 0 0 0 7 tr table BodyTableInvisible 13 0
+for O for 0 1 0 0 0 0 0 1 9 tr table BodyTableInvisible 13 0
+Enterprise O enterprise 0 0 0 0 0 0 1 0 4 tr table BodyTableInvisible 13 0
+Software O software 0 1 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 tr table BodyTableInvisible 13 1
+Dr. O dr. 0 1 0 0 1 0 1 2 0 tr table BodyTableInvisible 13 1
+rer. O rer. 0 0 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 1
+nat. O nat. 0 0 0 0 0 0 0 0 0 tr table BodyTableInvisible 13 1
+Uwe B-PER uwe 1 1 0 0 0 0 1 7 3 tr table BodyTableInvisible 13 1
+Kubach I-PER kubach 1 1 0 0 0 0 1 1 0 tr table BodyTableInvisible 13 1
+
+Adjunct O adjunct 0 0 0 0 0 0 1 0 4 tr table BodyTableInvisible 13 0
+professor O professor 0 0 0 0 1 0 0 0 7 tr table BodyTableInvisible 13 0
+for O for 0 1 0 0 0 0 0 1 9 tr table BodyTableInvisible 13 0
+Software O software 0 1 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Architecture O architecture 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+of O of 0 1 0 0 0 0 0 2 10 tr table BodyTableInvisible 13 0
+Complex O complex 0 0 0 0 0 0 1 0 4 tr table BodyTableInvisible 13 0
+Systems O systems 0 0 0 0 0 0 1 0 6 tr table BodyTableInvisible 13 0
+Prof. O prof. 0 1 0 0 1 0 1 0 0 tr table BodyTableInvisible 13 1
+Dr. O dr. 0 1 0 0 1 0 1 2 0 tr table BodyTableInvisible 13 1
+Frank B-PER frank 1 1 0 0 0 0 1 8 5 tr table BodyTableInvisible 13 1
+J. I-PER j. 1 1 0 0 0 0 1 11 0 tr table BodyTableInvisible 13 1
+Furrer I-PER furrer 1 1 0 0 0 0 1 2 0 tr table BodyTableInvisible 13 1
+
+Last O last 0 1 0 0 0 0 1 3 7 div td documentByLine 10 0
+modified O modified 0 0 0 0 0 0 0 0 3 div td documentByLine 10 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div td documentByLine 10 0
+21st O 21st 0 0 0 1 0 0 0 0 0 div td documentByLine 10 0
+Jul O jul 0 1 0 0 0 0 1 2 5 div td documentByLine 10 0
+2016 O 2016 0 0 0 1 0 0 0 0 0 div td documentByLine 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div td documentByLine 10 0
+9.17 O 9.17 0 0 0 1 0 0 0 0 0 div td documentByLine 10 0
+AM O am 0 0 0 0 0 0 1 0 6 div td documentByLine 10 0
+
+Author O author 0 0 0 0 0 0 1 0 5 div td documentByLine 10 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div td documentByLine 10 0
+Webmaster O webmaster 0 0 0 0 0 0 1 0 5 div div documentByLine 11 1
+
+Print O print 0 1 0 0 0 0 1 1 5 a li documentActions 14 1
+
+Contact O contact 0 0 0 0 0 0 1 0 8 div div padding 12 0
+
+Christine O christine 0 1 0 0 0 0 1 7 5 span div portletContent 15 0
+Leonhardi O leonhardi 0 1 0 0 0 0 1 1 0 span div portletContent 15 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div portletContent 14 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div portletContent 14 0
++49 O +49 0 0 0 1 0 0 0 0 0 div div portletContent 14 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div portletContent 14 0
+0 O 0 0 0 0 1 0 0 0 0 0 div div portletContent 14 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div portletContent 14 0
+351 O 351 0 0 0 1 0 0 0 0 0 div div portletContent 14 0
+463 O 463 0 0 0 1 0 0 0 0 0 div div portletContent 14 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div portletContent 14 0
+38215 O 38215 0 0 0 1 0 0 0 0 0 div div portletContent 14 0
+
+Fax O fax 0 1 0 0 0 0 1 0 4 div div portletContent 14 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div portletContent 14 0
++49 O +49 0 0 0 1 0 0 0 0 0 div div portletContent 14 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div portletContent 14 0
+0 O 0 0 0 0 1 0 0 0 0 0 div div portletContent 14 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div portletContent 14 0
+351 O 351 0 0 0 1 0 0 0 0 0 div div portletContent 14 0
+463 O 463 0 0 0 1 0 0 0 0 0 div div portletContent 14 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div portletContent 14 0
+38221 O 38221 0 0 0 1 0 0 0 0 0 div div portletContent 14 0
+
+e O e 0 1 0 0 0 0 0 5 10 span div portletContent 15 6
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 span div portletContent 15 6
+mail O mail 0 0 0 0 0 0 0 0 6 span div portletContent 15 6
+contact O contact 0 0 0 0 0 0 0 0 8 span div portletContent 15 6
+form O form 0 0 0 0 0 0 0 0 6 span div portletContent 15 6
+
+Webmaster O webmaster 0 0 0 0 0 0 1 0 5 span div copyright 9 0
+
+Imprint O imprint 0 0 0 0 0 0 1 0 0 span div copyright 9 0

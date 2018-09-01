@@ -1,1992 +1,1955 @@
-King O king 0 1 0 0 0 0 1 meta head none 5 0
-' O ' 0 0 0 0 0 0 0 meta head none 5 0
-s O s 0 0 0 0 0 0 0 meta head none 5 0
-College O college 0 0 0 0 0 0 1 meta head none 5 0
-London O london 0 1 0 0 0 0 1 meta head none 5 0
-- O - 0 0 0 0 0 0 0 meta head none 5 0
-Academic O academic 0 0 0 0 0 0 1 meta head none 5 0
-Staff O staff 0 1 0 0 0 0 1 meta head none 5 0
-
-Browser O browser 0 0 0 0 0 0 1 noscript form none 6 0
-does O does 0 0 0 0 0 0 0 noscript form none 6 0
-not O not 0 0 0 0 0 0 0 noscript form none 6 0
-support O support 0 0 0 0 0 0 0 noscript form none 6 0
-script. O script. 0 0 0 0 0 0 0 noscript form none 6 0
-Browser O browser 0 0 0 0 0 0 1 noscript form none 6 0
-does O does 0 0 0 0 0 0 0 noscript form none 6 0
-not O not 0 0 0 0 0 0 0 noscript form none 6 0
-support O support 0 0 0 0 0 0 0 noscript form none 6 0
-script. O script. 0 0 0 0 0 0 0 noscript form none 6 0
-Browser O browser 0 0 0 0 0 0 1 noscript form none 6 0
-does O does 0 0 0 0 0 0 0 noscript form none 6 0
-not O not 0 0 0 0 0 0 0 noscript form none 6 0
-support O support 0 0 0 0 0 0 0 noscript form none 6 0
-script. O script. 0 0 0 0 0 0 0 noscript form none 6 0
-Browser O browser 0 0 0 0 0 0 1 noscript form none 6 0
-does O does 0 0 0 0 0 0 0 noscript form none 6 0
-not O not 0 0 0 0 0 0 0 noscript form none 6 0
-support O support 0 0 0 0 0 0 0 noscript form none 6 0
-script. O script. 0 0 0 0 0 0 0 noscript form none 6 0
-Browser O browser 0 0 0 0 0 0 1 noscript form none 6 0
-does O does 0 0 0 0 0 0 0 noscript form none 6 0
-not O not 0 0 0 0 0 0 0 noscript form none 6 0
-support O support 0 0 0 0 0 0 0 noscript form none 6 0
-script. O script. 0 0 0 0 0 0 0 noscript form none 6 0
-
-King O king 0 1 0 0 0 0 1 h1 div sys_t0 8 0
-' O ' 0 0 0 0 0 0 0 h1 div sys_t0 8 0
-s O s 0 0 0 0 0 0 0 h1 div sys_t0 8 0
-College O college 0 0 0 0 0 0 1 h1 div sys_t0 8 0
-London O london 0 1 0 0 0 0 1 h1 div sys_t0 8 0
-- O - 0 0 0 0 0 0 0 h1 div sys_t0 8 0
-Homepage O homepage 0 0 0 0 0 0 1 h1 div sys_t0 8 0
-
-Internal O internal 0 0 0 0 0 0 1 li ul sys_16 10 0
-
-Search O search 0 0 0 0 0 0 1 div div sys_textBoxWithRedirect 9 0
-
-Browser O browser 0 0 0 0 0 0 1 noscript div none 9 0
-does O does 0 0 0 0 0 0 0 noscript div none 9 0
-not O not 0 0 0 0 0 0 0 noscript div none 9 0
-support O support 0 0 0 0 0 0 0 noscript div none 9 0
-script. O script. 0 0 0 0 0 0 0 noscript div none 9 0
-
-Prospective O prospective 0 0 0 0 0 0 1 li ul sys_16 10 0
-Students O students 0 0 0 0 0 0 1 li ul sys_16 10 0
-
-Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul sys_16 12 0
-
-Postgraduate O postgraduate 0 0 0 0 0 0 1 li ul sys_16 12 0
-
-International O international 0 0 0 0 0 0 1 li ul sys_16 12 0
-Students O students 0 0 0 0 0 0 1 li ul sys_16 12 0
-
-Study O study 0 1 0 0 0 0 1 li ul sys_16 12 0
-abroad O abroad 0 0 0 0 0 0 0 li ul sys_16 12 0
-
-Summer O summer 0 1 0 0 0 0 1 li ul sys_16 12 0
-programmes O programmes 0 0 0 0 0 0 0 li ul sys_16 12 0
-
-Executive O executive 0 0 0 0 0 0 1 li ul sys_16 12 0
-Education O education 0 0 0 0 0 0 1 li ul sys_16 12 0
-
-Short O short 0 1 0 0 0 0 1 li ul sys_16 12 0
-courses O courses 0 0 0 0 0 0 0 li ul sys_16 12 0
-
-Academic O academic 0 0 0 0 0 0 1 li ul sys_16 12 0
-Preparation O preparation 0 0 0 0 0 0 1 li ul sys_16 12 0
-Courses O courses 0 0 0 0 0 0 1 li ul sys_16 12 0
-
-Accommodation O accommodation 0 0 0 0 0 0 1 li ul sys_16 12 0
-
-Visit O visit 0 1 0 0 0 0 1 li ul sys_16 12 0
-King O king 0 1 0 0 0 0 1 li ul sys_16 12 0
-' O ' 0 0 0 0 0 0 0 li ul sys_16 12 0
-s O s 0 0 0 0 0 0 0 li ul sys_16 12 0
-
-Student O student 0 1 0 0 0 0 1 li ul sys_16 10 0
-
-Services O services 0 0 0 0 0 0 1 li ul sys_16 10 0
-
-Learning O learning 0 1 0 0 0 0 1 li ul sys_16 12 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 12 0
-teaching O teaching 0 0 0 0 0 0 0 li ul sys_16 12 0
-
-Modern O modern 0 1 0 0 0 0 1 li ul sys_16 12 0
-Language O language 0 0 0 0 0 0 1 li ul sys_16 12 0
-Centre O centre 0 1 0 0 0 0 1 li ul sys_16 12 0
-
-Support O support 0 0 0 0 0 0 1 li ul sys_16 12 0
-and O and 0 1 0 0 0 0 0 li ul sys_16 12 0
-Advice O advice 0 0 0 0 0 0 1 li ul sys_16 12 0
+King's O king's 0 0 0 0 0 0 1 0 0 meta head none 5 0
+College O college 0 0 0 0 0 0 1 0 8 meta head none 5 0
+London O london 0 1 0 0 0 0 1 4 5 meta head none 5 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 meta head none 5 0
+Academic O academic 0 0 0 0 0 0 1 0 8 meta head none 5 0
+Staff O staff 0 1 0 0 0 0 1 2 7 meta head none 5 0
+
+Browser O browser 0 0 0 0 0 0 1 0 4 noscript form none 6 0
+does O does 0 0 0 0 0 0 0 0 5 noscript form none 6 0
+not O not 0 0 0 0 0 0 0 0 7 noscript form none 6 0
+support O support 0 0 0 0 0 0 0 0 7 noscript form none 6 0
+script. O script. 0 0 0 0 0 0 0 0 0 noscript form none 6 0
+Browser O browser 0 0 0 0 0 0 1 0 4 noscript form none 6 0
+does O does 0 0 0 0 0 0 0 0 5 noscript form none 6 0
+not O not 0 0 0 0 0 0 0 0 7 noscript form none 6 0
+support O support 0 0 0 0 0 0 0 0 7 noscript form none 6 0
+script. O script. 0 0 0 0 0 0 0 0 0 noscript form none 6 0
+Browser O browser 0 0 0 0 0 0 1 0 4 noscript form none 6 0
+does O does 0 0 0 0 0 0 0 0 5 noscript form none 6 0
+not O not 0 0 0 0 0 0 0 0 7 noscript form none 6 0
+support O support 0 0 0 0 0 0 0 0 7 noscript form none 6 0
+script. O script. 0 0 0 0 0 0 0 0 0 noscript form none 6 0
+Browser O browser 0 0 0 0 0 0 1 0 4 noscript form none 6 0
+does O does 0 0 0 0 0 0 0 0 5 noscript form none 6 0
+not O not 0 0 0 0 0 0 0 0 7 noscript form none 6 0
+support O support 0 0 0 0 0 0 0 0 7 noscript form none 6 0
+script. O script. 0 0 0 0 0 0 0 0 0 noscript form none 6 0
+Browser O browser 0 0 0 0 0 0 1 0 4 noscript form none 6 0
+does O does 0 0 0 0 0 0 0 0 5 noscript form none 6 0
+not O not 0 0 0 0 0 0 0 0 7 noscript form none 6 0
+support O support 0 0 0 0 0 0 0 0 7 noscript form none 6 0
+script. O script. 0 0 0 0 0 0 0 0 0 noscript form none 6 0
 
-Library O library 0 0 0 0 0 0 1 li ul sys_16 12 0
-services O services 0 0 0 0 0 0 0 li ul sys_16 12 0
+King's O king's 0 0 0 0 0 0 1 0 0 h1 div sys_t0 8 0
+College O college 0 0 0 0 0 0 1 0 8 h1 div sys_t0 8 0
+London O london 0 1 0 0 0 0 1 4 5 h1 div sys_t0 8 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 h1 div sys_t0 8 0
+Homepage O homepage 0 0 0 0 0 0 1 0 5 h1 div sys_t0 8 0
 
-Student O student 0 1 0 0 0 0 1 li ul sys_16 12 0
-news O news 0 0 0 0 0 0 0 li ul sys_16 12 0
+Internal O internal 0 0 0 0 0 0 1 0 4 li ul sys_16 10 0
 
-Student O student 0 1 0 0 0 0 1 li ul sys_16 12 0
-opportunities O opportunities 0 0 0 0 0 0 0 li ul sys_16 12 0
+Search O search 0 0 0 0 0 0 1 0 7 div div sys_textBoxWithRedirect 9 0
 
-Careers O careers 0 0 0 0 0 0 1 li ul sys_16 12 0
+Browser O browser 0 0 0 0 0 0 1 0 4 noscript div none 9 0
+does O does 0 0 0 0 0 0 0 0 5 noscript div none 9 0
+not O not 0 0 0 0 0 0 0 0 7 noscript div none 9 0
+support O support 0 0 0 0 0 0 0 0 7 noscript div none 9 0
+script. O script. 0 0 0 0 0 0 0 0 0 noscript div none 9 0
 
-King O king 0 1 0 0 0 0 1 li ul sys_16 12 0
-' O ' 0 0 0 0 0 0 0 li ul sys_16 12 0
-s O s 0 0 0 0 0 0 0 li ul sys_16 12 0
-Venues O venues 0 0 0 0 0 0 1 li ul sys_16 12 0
+Prospective O prospective 0 0 0 0 0 0 1 0 4 li ul sys_16 10 0
+Students O students 0 0 0 0 0 0 1 0 8 li ul sys_16 10 0
 
-Students O students 0 0 0 0 0 0 1 li ul sys_16 12 0
-' O ' 0 0 0 0 0 0 0 li ul sys_16 12 0
-Union O union 0 0 0 0 0 0 1 li ul sys_16 12 0
+Undergraduate O undergraduate 0 0 0 0 0 0 1 0 5 li ul sys_16 12 0
 
-IT O it 0 0 0 0 0 0 1 li ul sys_16 12 0
+Postgraduate O postgraduate 0 0 0 0 0 0 1 0 4 li ul sys_16 12 0
 
-Academic O academic 0 0 0 0 0 0 1 li ul sys_16 12 0
-calendar O calendar 0 0 0 0 0 0 0 li ul sys_16 12 0
+International O international 0 0 0 0 0 0 1 0 8 li ul sys_16 12 0
+Students O students 0 0 0 0 0 0 1 0 8 li ul sys_16 12 0
 
-Research O research 0 1 0 0 0 0 1 li ul sys_16 10 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 10 0
+Study O study 0 1 0 0 0 0 1 0 6 li ul sys_16 12 0
+abroad O abroad 0 0 0 0 0 0 0 0 5 li ul sys_16 12 0
 
-Innovation O innovation 0 0 0 0 0 0 1 li ul sys_16 10 0
+Summer O summer 0 1 0 0 0 0 1 3 4 li ul sys_16 12 0
+programmes O programmes 0 0 0 0 0 0 0 0 6 li ul sys_16 12 0
 
-Research O research 0 1 0 0 0 0 1 li ul sys_16 12 0
-at O at 0 0 0 0 0 0 0 li ul sys_16 12 0
-King O king 0 1 0 0 0 0 1 li ul sys_16 12 0
-' O ' 0 0 0 0 0 0 0 li ul sys_16 12 0
-s O s 0 0 0 0 0 0 0 li ul sys_16 12 0
+Executive O executive 0 0 0 0 0 0 1 0 5 li ul sys_16 12 0
+Education O education 0 0 0 0 0 0 1 0 8 li ul sys_16 12 0
 
-Innovation O innovation 0 0 0 0 0 0 1 li ul sys_16 12 0
+Short O short 0 1 0 0 0 0 1 4 5 li ul sys_16 12 0
+courses O courses 0 0 0 0 0 0 0 0 6 li ul sys_16 12 0
 
-Collaborate O collaborate 0 0 0 0 0 0 1 li ul sys_16 12 0
-with O with 0 0 0 0 0 0 0 li ul sys_16 12 0
-King O king 0 1 0 0 0 0 1 li ul sys_16 12 0
-' O ' 0 0 0 0 0 0 0 li ul sys_16 12 0
-s O s 0 0 0 0 0 0 0 li ul sys_16 12 0
+Academic O academic 0 0 0 0 0 0 1 0 8 li ul sys_16 12 0
+Preparation O preparation 0 0 0 0 0 0 1 0 4 li ul sys_16 12 0
+Courses O courses 0 0 0 0 0 0 1 0 6 li ul sys_16 12 0
 
-King O king 0 1 0 0 0 0 1 li ul sys_16 12 0
-' O ' 0 0 0 0 0 0 0 li ul sys_16 12 0
-s O s 0 0 0 0 0 0 0 li ul sys_16 12 0
-Health O health 0 1 0 0 0 0 1 li ul sys_16 12 0
-Partners O partners 0 1 0 0 0 0 1 li ul sys_16 12 0
+Accommodation O accommodation 0 0 0 0 0 0 1 0 4 li ul sys_16 12 0
 
-Cultural O cultural 0 0 0 0 0 0 1 li ul sys_16 12 0
-King O king 0 1 0 0 0 0 1 li ul sys_16 12 0
-' O ' 0 0 0 0 0 0 0 li ul sys_16 12 0
-s O s 0 0 0 0 0 0 0 li ul sys_16 12 0
+Visit O visit 0 1 0 0 0 0 1 1 6 li ul sys_16 12 0
+King's O king's 0 0 0 0 0 0 1 0 0 li ul sys_16 12 0
 
-Faculties O faculties 0 0 0 0 0 0 1 li ul sys_16 10 0
+Student O student 0 1 0 0 0 0 1 1 8 li ul sys_16 10 0
 
-Arts O arts 0 1 0 0 0 0 1 li ul sys_16 12 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 12 0
-Humanities O humanities 0 0 0 0 0 0 1 li ul sys_16 12 0
+Services O services 0 0 0 0 0 0 1 0 8 li ul sys_16 10 0
 
-Business O business 0 0 0 0 0 0 1 li ul sys_16 12 0
+Learning O learning 0 1 0 0 0 0 1 0 7 li ul sys_16 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+teaching O teaching 0 0 0 0 0 0 0 0 6 li ul sys_16 12 0
 
-Dental O dental 0 0 0 0 0 0 1 li ul sys_16 12 0
-Institute O institute 0 0 0 0 0 0 1 li ul sys_16 12 0
+Modern O modern 0 1 0 0 0 0 1 0 5 li ul sys_16 12 0
+Language O language 0 0 0 0 0 0 1 0 6 li ul sys_16 12 0
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul sys_16 12 0
 
-Law O law 0 1 0 0 0 0 1 li ul sys_16 12 0
+Support O support 0 0 0 0 0 0 1 0 7 li ul sys_16 12 0
+and O and 0 1 0 0 0 0 0 0 10 li ul sys_16 12 0
+Advice O advice 0 0 0 0 0 0 1 0 4 li ul sys_16 12 0
 
-Life O life 0 1 0 0 0 0 1 li ul sys_16 12 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul sys_16 12 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 12 0
-Medicine O medicine 0 0 0 0 0 0 1 li ul sys_16 12 0
+Library O library 0 0 0 0 0 0 1 0 7 li ul sys_16 12 0
+services O services 0 0 0 0 0 0 0 0 8 li ul sys_16 12 0
 
-Natural O natural 0 0 0 0 0 0 1 li ul sys_16 12 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 12 0
-Mathematical O mathematical 0 0 0 0 0 0 1 li ul sys_16 12 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul sys_16 12 0
+Student O student 0 1 0 0 0 0 1 1 8 li ul sys_16 12 0
+news O news 0 0 0 0 0 0 0 0 7 li ul sys_16 12 0
 
-Nursing O nursing 0 1 0 0 0 0 1 li ul sys_16 12 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 12 0
-Midwifery O midwifery 0 0 0 0 0 0 1 li ul sys_16 12 0
+Student O student 0 1 0 0 0 0 1 1 8 li ul sys_16 12 0
+opportunities O opportunities 0 0 0 0 0 0 0 0 6 li ul sys_16 12 0
 
-Psychiatry O psychiatry 0 0 0 0 0 0 1 li ul sys_16 12 0
-, O , 0 0 0 0 0 0 0 li ul sys_16 12 0
-Psychology O psychology 0 0 0 0 0 0 1 li ul sys_16 12 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 12 0
-Neuroscience O neuroscience 0 0 0 0 0 0 1 li ul sys_16 12 0
+Careers O careers 0 0 0 0 0 0 1 0 5 li ul sys_16 12 0
 
-Social O social 0 0 0 0 0 0 1 li ul sys_16 12 0
-Science O science 0 0 0 0 0 0 1 li ul sys_16 12 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 12 0
-Public O public 0 0 0 0 0 0 1 li ul sys_16 12 0
-Policy O policy 0 0 0 0 0 0 1 li ul sys_16 12 0
+King's O king's 0 0 0 0 0 0 1 0 0 li ul sys_16 12 0
+Venues O venues 0 0 0 0 0 0 1 0 3 li ul sys_16 12 0
 
-Giving O giving 0 0 0 0 0 0 1 li ul sys_16 10 0
+Students' O students' 0 0 0 0 0 0 1 0 0 li ul sys_16 12 0
+Union O union 0 0 0 0 0 0 1 0 7 li ul sys_16 12 0
 
-to O to 0 0 0 0 0 0 0 li ul sys_16 10 0
-King O king 0 1 0 0 0 0 1 li ul sys_16 10 0
-' O ' 0 0 0 0 0 0 0 li ul sys_16 10 0
-s O s 0 0 0 0 0 0 0 li ul sys_16 10 0
+IT O it 0 0 0 0 0 0 1 0 8 li ul sys_16 12 0
 
-World O world 0 1 0 0 0 0 1 li ul sys_16 12 0
-questions|King O questions|king 0 0 0 0 0 0 0 li ul sys_16 12 0
-' O ' 0 0 0 0 0 0 0 li ul sys_16 12 0
-s O s 0 0 0 0 0 0 0 li ul sys_16 12 0
-answers O answers 0 0 0 0 0 0 0 li ul sys_16 12 0
+Academic O academic 0 0 0 0 0 0 1 0 8 li ul sys_16 12 0
+calendar O calendar 0 0 0 0 0 0 0 0 6 li ul sys_16 12 0
 
-What O what 0 1 0 0 0 0 1 li ul sys_16 12 0
-have O have 0 0 0 0 0 0 0 li ul sys_16 12 0
-we O we 0 0 0 0 0 0 0 li ul sys_16 12 0
-achieved? O achieved? 0 0 0 0 0 0 0 li ul sys_16 12 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul sys_16 10 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 10 0
 
-Donate O donate 0 1 0 0 0 0 1 li ul sys_16 12 0
-now O now 0 0 0 0 0 0 0 li ul sys_16 12 0
+Innovation O innovation 0 0 0 0 0 0 1 0 6 li ul sys_16 10 0
 
-Alumni O alumni 0 0 0 0 0 0 1 li ul sys_nav_last 10 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul sys_16 12 0
+at O at 0 1 0 0 0 0 0 0 8 li ul sys_16 12 0
+King's O king's 0 0 0 0 0 0 1 0 0 li ul sys_16 12 0
 
-Community O community 0 1 0 0 0 0 1 li ul sys_nav_last 10 0
+Innovation O innovation 0 0 0 0 0 0 1 0 6 li ul sys_16 12 0
 
-Alumni O alumni 0 0 0 0 0 0 1 li ul sys_16 12 0
-Community O community 0 1 0 0 0 0 1 li ul sys_16 12 0
+Collaborate O collaborate 0 0 0 0 0 0 1 0 2 li ul sys_16 12 0
+with O with 0 0 0 0 0 0 0 0 8 li ul sys_16 12 0
+King's O king's 0 0 0 0 0 0 1 0 0 li ul sys_16 12 0
 
-Alumni O alumni 0 0 0 0 0 0 1 li ul sys_16 12 0
-benefits O benefits 0 0 0 0 0 0 0 li ul sys_16 12 0
-
-Give O give 0 0 0 0 0 0 1 li ul sys_16 12 0
-back O back 0 0 0 0 0 0 0 li ul sys_16 12 0
-
-Events O events 0 0 0 0 0 0 1 li ul sys_16 12 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 12 0
-reunions O reunions 0 0 0 0 0 0 0 li ul sys_16 12 0
-
-News O news 0 0 0 0 0 0 1 li ul sys_16 12 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 12 0
-features O features 0 0 0 0 0 0 0 li ul sys_16 12 0
-
-About O about 0 0 0 0 0 0 1 li ul sys_16 10 0
-
-King O king 0 1 0 0 0 0 1 li ul sys_16 10 0
-' O ' 0 0 0 0 0 0 0 li ul sys_16 10 0
-s O s 0 0 0 0 0 0 0 li ul sys_16 10 0
-
-Mission O mission 0 1 0 0 1 0 1 li ul sys_16 12 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 12 0
-strategy O strategy 0 0 0 0 0 0 0 li ul sys_16 12 0
-
-History O history 0 0 0 0 0 0 1 li ul sys_16 12 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 12 0
-today O today 0 0 0 0 0 0 0 li ul sys_16 12 0
-
-King O king 0 1 0 0 0 0 1 li ul sys_16 12 0
-' O ' 0 0 0 0 0 0 0 li ul sys_16 12 0
-s O s 0 0 0 0 0 0 0 li ul sys_16 12 0
-Worldwide O worldwide 0 0 0 0 0 0 1 li ul sys_16 12 0
-
-International O international 0 0 0 0 0 0 1 li ul sys_16 12 0
-strategy O strategy 0 0 0 0 0 0 0 li ul sys_16 12 0
-
-Governance O governance 0 0 0 0 0 0 1 li ul sys_16 12 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 12 0
-Legal O legal 0 1 0 0 0 0 1 li ul sys_16 12 0
-
-President O president 0 1 0 0 0 0 1 li ul sys_16 12 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 12 0
-Principal O principal 0 0 0 0 0 0 1 li ul sys_16 12 0
-
-Organisational O organisational 0 0 0 0 0 0 1 li ul sys_16 12 0
-structure O structure 0 0 0 0 0 0 0 li ul sys_16 12 0
-
-Quality O quality 0 0 0 0 0 0 1 li ul sys_16 12 0
-management O management 0 0 0 0 0 0 0 li ul sys_16 12 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 12 0
-policy O policy 0 0 0 0 0 0 0 li ul sys_16 12 0
-
-Job O job 0 1 0 0 0 0 1 li ul sys_16 12 0
-opportunities O opportunities 0 0 0 0 0 0 0 li ul sys_16 12 0
-
-Diversity O diversity 0 0 0 0 0 0 1 li ul sys_16 12 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 12 0
-Inclusion O inclusion 0 0 0 0 0 0 1 li ul sys_16 12 0
-
-Financial O financial 0 0 0 0 0 0 1 li ul sys_16 12 0
-information O information 0 0 0 0 0 0 0 li ul sys_16 12 0
-
-Show/hide O show/hide 0 0 0 0 0 0 1 div form show-menu-mobile 6 152
-main O main 0 0 0 0 0 0 0 div form show-menu-mobile 6 152
-menu O menu 0 0 0 0 0 0 0 div form show-menu-mobile 6 152
-
-Home O home 0 1 0 0 0 0 1 div div sys_t31 9 0
-| O | 0 0 0 0 0 0 0 div div none 8 0
-Faculty O faculty 0 0 0 0 0 0 1 div div sys_t1034 9 1
-of O of 0 1 0 0 0 0 0 div div sys_t1034 9 1
-Natural O natural 0 0 0 0 0 0 1 div div sys_t1034 9 1
-& O & 0 0 0 0 0 0 0 div div sys_t1034 9 1
-Mathematical O mathematical 0 0 0 0 0 0 1 div div sys_t1034 9 1
-Sciences O sciences 0 0 0 0 0 0 1 div div sys_t1034 9 1
-| O | 0 0 0 0 0 0 0 div div none 8 0
-Department O department 0 0 0 0 0 0 1 div div sys_t1034 9 2
-of O of 0 1 0 0 0 0 0 div div sys_t1034 9 2
-Informatics O informatics 0 0 0 0 0 0 1 div div sys_t1034 9 2
-| O | 0 0 0 0 0 0 0 div div none 8 0
-People O people 0 1 0 0 0 0 1 div div none 9 3
-
-People O people 0 1 0 0 0 0 1 div div page_title 7 6
-
-Academic O academic 0 0 0 0 0 0 1 div div none 8 0
-Staff O staff 0 1 0 0 0 0 1 div div none 8 0
-
-This O this 0 1 0 0 0 0 1 div div none 8 1
-page O page 0 0 0 0 0 0 0 div div none 8 1
-lists O lists 0 0 0 0 0 0 0 div div none 8 1
-the O the 0 1 0 0 0 0 0 div div none 8 1
-academic O academic 0 0 0 0 0 0 0 div div none 8 1
-staff O staff 0 0 0 0 0 0 0 div div none 8 1
-of O of 0 1 0 0 0 0 0 div div none 8 1
-the O the 0 1 0 0 0 0 0 div div none 8 1
-Department O department 0 0 0 0 0 0 1 div div none 8 1
-of O of 0 1 0 0 0 0 0 div div none 8 1
-Informatics. O informatics. 0 0 0 0 0 0 1 div div none 8 1
-
-To O to 0 1 0 0 0 0 1 div div none 8 2
-call O call 0 0 0 0 0 0 0 div div none 8 2
-an O an 0 1 0 0 0 0 0 div div none 8 2
-extension O extension 0 0 0 0 0 0 0 div div none 8 2
-, O , 0 0 0 0 0 0 0 div div none 8 2
-dial O dial 0 0 0 0 0 0 0 div div none 8 2
-
-+44 O +44 0 0 0 1 0 0 0 p div none 9 0
-( O ( 0 0 0 0 0 0 0 p div none 9 0
-0 O 0 0 0 0 1 0 0 0 p div none 9 0
-) O ) 0 0 0 0 0 0 0 p div none 9 0
-20 O 20 0 0 0 1 0 0 0 p div none 9 0
-7848 O 7848 0 0 0 1 0 0 0 p div none 9 0
-
-and O and 0 1 0 0 0 0 0 div div none 8 2
-add O add 0 0 0 0 0 0 0 div div none 8 2
-the O the 0 1 0 0 0 0 0 div div none 8 2
-four O four 0 0 0 0 0 0 0 div div none 8 2
-digit O digit 0 0 0 0 0 0 0 div div none 8 2
-extension O extension 0 0 0 0 0 0 0 div div none 8 2
-number. O number. 0 0 0 0 0 0 0 div div none 8 2
-
-To O to 0 1 0 0 0 0 1 div div none 8 4
-email O email 0 0 0 0 1 0 0 div div none 8 4
-add O add 0 0 0 0 0 0 0 div div none 8 4
-
-@kcl.ac.uk O @kcl.ac.uk 0 0 0 0 0 0 0 p div none 9 0
-
-unless O unless 0 0 0 0 0 0 0 div div none 8 4
-otherwise O otherwise 0 0 0 0 0 0 0 div div none 8 4
-indicated. O indicated. 0 0 0 0 0 0 0 div div none 8 4
-
-To O to 0 1 0 0 0 0 1 div div none 8 4
-see O see 0 0 0 0 0 0 0 div div none 8 4
-a O a 0 1 0 0 0 0 0 div div none 8 4
-lecturer O lecturer 0 0 0 0 0 0 0 div div none 8 4
-without O without 0 0 0 0 0 0 0 div div none 8 4
-an O an 0 1 0 0 0 0 0 div div none 8 4
-appointment O appointment 0 0 0 0 0 0 0 div div none 8 4
-, O , 0 0 0 0 0 0 0 div div none 8 4
-current O current 0 0 0 0 0 0 0 div div none 8 4
-students O students 0 0 0 0 0 0 0 div div none 8 4
-should O should 0 0 0 0 0 0 0 div div none 8 4
-refer O refer 0 0 0 0 0 0 0 div div none 8 4
-to O to 0 0 0 0 0 0 0 div div none 8 4
-academic O academic 0 0 0 0 0 0 0 p div sys_16 9 3
-office O office 0 0 0 0 0 0 0 p div sys_16 9 3
-hours O hours 0 0 0 0 0 0 0 p div sys_16 9 3
-. O . 0 1 0 0 0 0 0 div div none 8 4
-
-Name O name 0 1 0 0 0 0 1 tr tbody none 11 0
-
-Role O role 0 1 0 0 0 0 1 tr tbody none 11 1
-
-Group O group 0 1 0 0 0 0 1 tr tbody none 11 2
-
-Email O email 0 0 0 0 1 0 1 tr tbody none 11 3
-
-Tel O tel 0 1 0 0 0 0 1 th tr none 12 0
-
-Room O room 0 1 0 0 0 0 1 th tr none 12 0
-
-Professor O professor 0 0 0 0 1 0 1 td tr sys_t552396 12 0
-Luc B-PER luc 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Moreau I-PER moreau 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 2
-and O and 0 1 0 0 0 0 0 tr tbody none 11 2
-Head O head 0 1 0 0 0 0 1 tr tbody none 11 2
-of O of 0 1 0 0 0 0 0 tr tbody none 11 2
-Department O department 0 0 0 0 0 0 1 tr tbody none 11 2
-luc.moreau O luc.moreau 0 0 0 0 0 0 0 tr tbody none 11 4
-6808 O 6808 0 0 0 1 0 0 0 tr tbody none 11 5
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 6
-N O n 0 1 0 0 0 0 1 tr tbody none 11 6
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 6
-6.10 O 6.10 0 0 0 1 0 0 0 tr tbody none 11 6
-
-Professor O professor 0 0 0 0 1 0 1 td tr sys_t552396 12 0
-Hamid B-PER hamid 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Aghvami I-PER aghvami 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 2
-CTR O ctr 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-hamid.aghvami O hamid.aghvami 0 0 0 0 0 0 0 tr tbody none 11 5
-2898 O 2898 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-S O s 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.13 O 5.13 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 a td sys_t552396 13 0
-Asad B-PER asad 1 1 0 0 0 0 1 a td sys_t552396 13 0
-Ali I-PER ali 1 1 0 0 0 0 1 a td sys_t552396 13 0
-Teaching O teaching 0 0 0 0 0 0 1 tr tbody none 11 3
-Fellow O fellow 0 0 0 0 0 0 1 tr tbody none 11 3
-SMAL O smal 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-asad.ali O asad.ali 0 0 0 0 0 0 0 tr tbody none 11 6
-1916 O 1916 0 0 0 1 0 0 0 tr tbody none 11 7
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 8
-N O n 0 1 0 0 0 0 1 tr tbody none 11 8
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 8
-7.02 O 7.02 0 0 0 1 0 0 0 tr tbody none 11 8
-
-Dr O dr 0 1 0 0 0 0 1 span td sys_t552396 13 0
-Jamie B-PER jamie 0 1 0 0 0 0 1 span td sys_t552396 13 0
-Barras I-PER barras 0 1 0 0 0 0 1 span td sys_t552396 13 0
-
-Teaching O teaching 0 0 0 0 0 0 1 tr tbody none 11 5
-Fellow O fellow 0 0 0 0 0 0 1 tr tbody none 11 5
-CORE O core 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-jamie.barras O jamie.barras 0 0 0 0 0 0 0 tr tbody none 11 8
-- O - 0 0 0 0 0 0 0 tr tbody none 11 9
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 10
-N O n 0 1 0 0 0 0 1 tr tbody none 11 10
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 10
-5.07 O 5.07 0 0 0 1 0 0 0 tr tbody none 11 10
-
-Dr O dr 0 1 0 0 0 0 1 span td sys_t552396 13 0
-Elizabeth B-PER elizabeth 1 1 0 0 0 0 1 span td sys_t552396 13 0
-Black I-PER black 1 1 0 0 0 0 1 span td sys_t552396 13 0
-Senior O senior 0 1 0 0 0 0 1 tr tbody none 11 3
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 3
-AIS O ais 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-elizabeth.black O elizabeth.black 0 0 0 0 0 0 0 tr tbody none 11 6
-2694 O 2694 0 0 0 1 0 0 0 tr tbody none 11 7
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 8
-N O n 0 1 0 0 0 0 1 tr tbody none 11 8
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 8
-7.03 O 7.03 0 0 0 1 0 0 0 tr tbody none 11 8
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Rita B-PER rita 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Borgo I-PER borgo 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Senior O senior 0 1 0 0 0 0 1 tr tbody none 11 2
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-AIS O ais 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-rita.borgo O rita.borgo 0 0 0 0 0 0 0 tr tbody none 11 5
-2419 O 2419 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.01 O 5.01 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Hana B-PER hana 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Chockler I-PER chockler 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Senior O senior 0 1 0 0 0 0 1 tr tbody none 11 2
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-SMAL O smal 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-hana.chockler O hana.chockler 0 0 0 0 0 0 0 tr tbody none 11 5
-2928 O 2928 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-7.07 O 7.07 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_16 12 0
-Amanda O amanda 0 1 0 0 0 0 1 td tr sys_16 12 0
-Coles O coles 0 1 0 0 0 0 1 td tr sys_16 12 0
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-Planning O planning 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-amanda.coles O amanda.coles 0 0 0 0 0 0 0 tr tbody none 11 5
-7155 O 7155 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-7.03 O 7.03 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Andrew B-PER andrew 1 1 0 0 1 0 1 td tr sys_t552396 12 0
-Coles I-PER coles 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-Planning O planning 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-andrew.coles O andrew.coles 0 0 0 0 1 0 0 tr tbody none 11 5
-1511 O 1511 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-7.04 O 7.04 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Professor O professor 0 0 0 0 1 0 1 td tr sys_t552396 12 0
-Colin B-PER colin 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Cooper I-PER cooper 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 2
-AB O ab 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-colin.cooper O colin.cooper 0 0 0 0 0 0 0 tr tbody none 11 5
-2002 O 2002 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.14 O 5.14 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Natalia B-PER natalia 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Criado I-PER criado 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-AIS O ais 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-natalia.criado O natalia.criado 0 0 0 0 0 0 0 tr tbody none 11 5
-8496 O 8496 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.13 O 5.13 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_16 12 0
-Vasa O vasa 1 1 0 0 0 0 1 td tr sys_16 12 0
-Curcin O curcin 1 1 0 0 0 0 1 td tr sys_16 12 0
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-AIS O ais 0 0 0 0 0 0 1 td tr sys_16 12 0
-vasa.curcin O vasa.curcin 0 0 0 0 0 0 0 tr tbody none 11 5
-1579 O 1579 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-7.05 O 7.05 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Professor O professor 0 0 0 0 1 0 1 td tr sys_t552396 12 0
-Zoran B-PER zoran 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Cvetkovic I-PER cvetkovic 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 2
-CTR O ctr 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-zoran.cvetkovic O zoran.cvetkovic 0 0 0 0 0 0 0 tr tbody none 11 5
-1073 O 1073 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-S O s 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.02 O 5.02 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Yansha B-PER yansha 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Deng I-PER deng 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-CTR O ctr 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-yansha.deng O yansha.deng 0 0 0 0 0 0 0 tr tbody none 11 5
-8671 O 8671 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-S O s 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.07 O 5.07 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Professor O professor 0 0 0 0 1 0 1 td tr sys_t552396 12 0
-Jian B-PER jian 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-S. I-PER s. 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Dai I-PER dai 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 2
-CORE O core 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-jian.dai O jian.dai 0 0 0 0 0 0 0 tr tbody none 11 5
-2321 O 2321 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.12 O 5.12 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Professor O professor 0 0 0 0 1 0 1 td tr sys_t552396 12 0
-Mischa B-PER mischa 1 1 0 0 1 0 1 td tr sys_t552396 12 0
-Dohler I-PER dohler 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 2
-CTR O ctr 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-mischa.dohler O mischa.dohler 0 0 0 0 1 0 0 tr tbody none 11 5
-1259 O 1259 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-S O s 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.02 O 5.02 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Professor O professor 0 0 0 0 1 0 1 td tr sys_t552396 12 0
-Stefan B-PER stefan 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Edelkamp I-PER edelkamp 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 2
-Planning O planning 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-stefan.edelkamp O stefan.edelkamp 0 0 0 0 0 0 0 tr tbody none 11 5
-8806 O 8806 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-S O s 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.11 O 5.11 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Professor O professor 0 0 0 0 1 0 1 td tr sys_t552396 12 0
-Maribel B-PER maribel 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Fernandez I-PER fernandez 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 2
-SMAL O smal 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-maribel.fernandez O maribel.fernandez 0 0 0 0 0 0 0 tr tbody none 11 5
-2499 O 2499 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-7.19 O 7.19 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Professor O professor 0 0 0 0 1 0 1 td tr sys_16 12 0
-Maria O maria 1 1 0 0 0 0 1 td tr sys_16 12 0
-Fox O fox 1 1 0 0 0 0 1 td tr sys_16 12 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 2
-Planning O planning 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-maria.fox O maria.fox 0 0 0 0 0 0 0 tr tbody none 11 5
-8713 O 8713 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-7.20 O 7.20 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Vasilis B-PER vasilis 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Friderikos I-PER friderikos 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Reader O reader 0 1 0 0 0 0 1 tr tbody none 11 2
-CTR O ctr 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-vasilis.friderikos O vasilis.friderikos 0 0 0 0 0 0 0 tr tbody none 11 5
-1877 O 1877 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-S O s 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.10 O 5.10 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Christopher B-PER christopher 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Hampson I-PER hampson 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Teaching O teaching 0 0 0 0 0 0 1 tr tbody none 11 2
-Fellow O fellow 0 0 0 0 0 0 1 tr tbody none 11 2
-SMAL O smal 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-christopher.hampson O christopher.hampson 0 0 0 0 0 0 0 tr tbody none 11 5
-8712 O 8712 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-7.02 O 7.02 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Matthew B-PER matthew 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Howard I-PER howard 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Senior O senior 0 1 0 0 0 0 1 tr tbody none 11 2
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-CORE O core 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-matthew.j.howard O matthew.j.howard 0 0 0 0 0 0 0 tr tbody none 11 5
-7578 O 7578 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.07 O 5.07 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Professor O professor 0 0 0 0 1 0 1 td tr sys_t552396 12 0
-Costas B-PER costas 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Iliopoulos I-PER iliopoulos 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 2
-AB O ab 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-c.iliopoulos O c.iliopoulos 0 0 0 0 0 0 0 tr tbody none 11 5
-2809 O 2809 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.09 O 5.09 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 tr tbody none 11 0
-Ernest O ernest 0 1 0 0 0 0 1 tr tbody none 11 0
-Kamavuako O kamavuako 0 1 0 0 0 0 1 tr tbody none 11 0
-Senior O senior 0 1 0 0 0 0 1 tr tbody none 11 1
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 1
-CORE O core 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-ernest.kamavuako O ernest.kamavuako 0 0 0 0 0 0 0 tr tbody none 11 4
-8666 O 8666 0 0 0 1 0 0 0 tr tbody none 11 5
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 6
-N O n 0 1 0 0 0 0 1 tr tbody none 11 6
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 6
-5.03 O 5.03 0 0 0 1 0 0 0 tr tbody none 11 6
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Jeroen B-PER jeroen 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Keppens I-PER keppens 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-AIS O ais 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-jeroen.keppens O jeroen.keppens 0 0 0 0 0 0 0 tr tbody none 11 5
-1591 O 1591 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-7.17 O 7.17 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Professor O professor 0 0 0 0 1 0 1 td tr sys_t552396 12 0
-Michael B-PER michael 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Kölling I-PER kolling 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 2
-and O and 0 1 0 0 0 0 0 tr tbody none 11 2
-Vice O vice 0 1 0 0 0 0 1 tr tbody none 11 2
-Dean O dean 0 1 0 0 0 0 1 tr tbody none 11 2
-of O of 0 1 0 0 0 0 0 tr tbody none 11 2
-Faculty O faculty 0 0 0 0 0 0 1 tr tbody none 11 2
-SMAL O smal 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-michael.kolling O michael.kolling 0 0 0 0 0 0 0 td tr sys_16 12 0
-1216 O 1216 0 0 0 1 0 0 0 tr tbody none 11 7
-S3.23 O s3.23 0 0 0 1 0 0 1 tr tbody none 11 8
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Panos B-PER panos 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Kosmas I-PER kosmas 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Senior O senior 0 1 0 0 0 0 1 tr tbody none 11 2
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-CTR O ctr 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-panagiotis.kosmas O panagiotis.kosmas 0 0 0 0 0 0 0 tr tbody none 11 5
-1874 O 1874 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-S O s 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.12 O 5.12 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Agi B-PER agi 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Kurucz I-PER kurucz 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Reader O reader 0 1 0 0 0 0 1 tr tbody none 11 2
-SMAL O smal 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-agi.kurucz O agi.kurucz 0 0 0 0 0 0 0 tr tbody none 11 5
-2900 O 2900 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-7.01 O 7.01 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Hak B-PER hak 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-- I-PER - 0 0 0 0 0 0 0 td tr sys_t552396 12 0
-Keung I-PER keung 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Lam I-PER lam 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-
-Reader O reader 0 1 0 0 0 0 1 tr tbody none 11 3
-CORE O core 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-hak O hak 0 0 0 0 0 0 0 tr tbody none 11 6
-- O - 0 0 0 0 0 0 0 tr tbody none 11 6
-keung.lam O keung.lam 0 0 0 0 0 0 0 tr tbody none 11 6
-1240 O 1240 0 0 0 1 0 0 0 tr tbody none 11 7
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 8
-N O n 0 1 0 0 0 0 1 tr tbody none 11 8
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 8
-5.05 O 5.05 0 0 0 1 0 0 0 tr tbody none 11 8
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Kevin B-PER kevin 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Lano I-PER lano 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Reader O reader 0 1 0 0 0 0 1 tr tbody none 11 2
-SMAL O smal 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-kevin.lano O kevin.lano 0 0 0 0 0 0 0 tr tbody none 11 5
-2832 O 2832 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-6.01 O 6.01 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Hongbin B-PER hongbin 1 1 0 0 1 0 1 td tr sys_t552396 12 0
-Liu I-PER liu 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Senior O senior 0 1 0 0 0 0 1 tr tbody none 11 2
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-CORE O core 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-hongbin.liu O hongbin.liu 0 0 0 0 1 0 0 tr tbody none 11 5
-2725 O 2725 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.05 O 5.05 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Professor O professor 0 0 0 0 1 0 1 td tr sys_t552396 12 0
-Derek B-PER derek 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Long I-PER long 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 2
-Planning O planning 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-derek.long O derek.long 0 0 0 0 0 0 0 tr tbody none 11 5
-8713 O 8713 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-7.20 O 7.20 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Grigorios B-PER grigorios 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Loukides I-PER loukides 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-AB O ab 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-grigorios.loukides O grigorios.loukides 0 0 0 0 0 0 0 tr tbody none 11 5
-0553 O 0553 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.13 O 5.13 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Professor O professor 0 0 0 0 1 0 1 td tr sys_t552396 12 0
-Michael B-PER michael 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Luck I-PER luck 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 2
-and O and 0 1 0 0 0 0 0 tr tbody none 11 2
-Dean O dean 0 1 0 0 0 0 1 tr tbody none 11 2
-of O of 0 1 0 0 0 0 0 tr tbody none 11 2
-Faculty O faculty 0 0 0 0 0 0 1 tr tbody none 11 2
-AIS O ais 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-michael.luck O michael.luck 0 0 0 0 0 0 0 tr tbody none 11 5
-2371 O 2371 0 0 0 1 0 0 0 tr tbody none 11 6
-S3.38 O s3.38 0 0 0 1 0 0 1 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_16 12 0
-Daniele O daniele 1 1 0 0 0 0 1 td tr sys_16 12 0
-Magazzeni O magazzeni 1 1 0 0 0 0 1 td tr sys_16 12 0
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-Planning O planning 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-daniele.magazzeni O daniele.magazzeni 0 0 0 0 0 0 0 tr tbody none 11 5
-1587 O 1587 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-7.20 O 7.20 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Toktam B-PER toktam 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Mahmoodi I-PER mahmoodi 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Senior O senior 0 1 0 0 0 0 1 tr tbody none 11 2
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-CTR O ctr 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-toktam.mahmoodi O toktam.mahmoodi 0 0 0 0 0 0 0 tr tbody none 11 5
-
-2897 O 2897 0 0 0 1 0 0 0 td tr none 12 0
-
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 8
-S O s 0 1 0 0 0 0 1 tr tbody none 11 8
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 8
-5.09 O 5.09 0 0 0 1 0 0 0 tr tbody none 11 8
-
-Professor O professor 0 0 0 0 1 0 1 td tr sys_t552396 12 0
-Peter B-PER peter 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-McBurney I-PER mcburney 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-
-on O on 0 0 0 0 0 0 0 td tr none 12 1
-study O study 0 0 0 0 0 0 0 td tr none 12 1
-leave O leave 0 0 0 0 0 0 0 td tr none 12 1
-until O until 0 0 0 0 0 0 0 td tr none 12 1
-Sept O sept 0 1 0 0 0 0 1 td tr none 12 1
-2018 O 2018 0 0 0 1 0 0 0 td tr none 12 1
-
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 4
-AIS O ais 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-peter.mcburney O peter.mcburney 0 0 0 0 0 0 0 tr tbody none 11 7
-1253 O 1253 0 0 0 1 0 0 0 tr tbody none 11 8
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 9
-N O n 0 1 0 0 0 0 1 tr tbody none 11 9
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 9
-7.15 O 7.15 0 0 0 1 0 0 0 tr tbody none 11 9
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Simon B-PER simon 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Miles I-PER miles 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Reader O reader 0 1 0 0 0 0 1 tr tbody none 11 2
-AIS O ais 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-simon.miles O simon.miles 0 0 0 0 0 0 0 tr tbody none 11 5
-1166 O 1166 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-S O s 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.22 O 5.22 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Sanjay B-PER sanjay 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Modgil I-PER modgil 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Senior O senior 0 1 0 0 0 0 1 tr tbody none 11 2
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-AIS O ais 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-sanjay.modgil O sanjay.modgil 0 0 0 0 0 0 0 tr tbody none 11 5
-2775 O 2775 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-7.08 O 7.08 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Mr O mr 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-Josh B-PER josh 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Murphy I-PER murphy 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Teaching O teaching 0 0 0 0 0 0 1 tr tbody none 11 2
-Fellow O fellow 0 0 0 0 0 0 1 tr tbody none 11 2
-- O - 0 0 0 0 0 0 0 tr tbody none 11 3
-josh.l.murphy O josh.l.murphy 0 0 0 0 0 0 0 tr tbody none 11 4
-- O - 0 0 0 0 0 0 0 tr tbody none 11 3
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 6
-N O n 0 1 0 0 0 0 1 tr tbody none 11 6
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 6
-6.04 O 6.04 0 0 0 1 0 0 0 tr tbody none 11 6
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Mohammad B-PER mohammad 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Reza I-PER reza 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Nakhai I-PER nakhai 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Senior O senior 0 1 0 0 0 0 1 tr tbody none 11 2
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-CTR O ctr 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-reza.nakhai O reza.nakhai 0 0 0 0 0 0 0 tr tbody none 11 5
-2744 O 2744 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-S O s 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.04 O 5.04 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Richard B-PER richard 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Overill I-PER overill 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Senior O senior 0 1 0 0 0 0 1 tr tbody none 11 2
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-SMAL O smal 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-richard.overill O richard.overill 0 0 0 0 0 0 0 tr tbody none 11 5
-2833 O 2833 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-6.06 O 6.06 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Professor O professor 0 0 0 0 1 0 1 td tr sys_t552396 12 0
-Simon B-PER simon 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Parsons I-PER parsons 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 2
-AIS O ais 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-simon.parsons O simon.parsons 0 0 0 0 0 0 0 tr tbody none 11 5
-2041 O 2041 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-7.15 O 7.15 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Steve B-PER steve 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Phelps I-PER phelps 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-AIS O ais 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-steve.phelps O steve.phelps 0 0 0 0 0 0 0 tr tbody none 11 5
-1800 O 1800 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-7.06 O 7.06 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Solon B-PER solon 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Pissis I-PER pissis 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-AB O ab 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-solon.pissis O solon.pissis 0 0 0 0 0 0 0 tr tbody none 11 5
-1807 O 1807 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.16 O 5.16 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Maria B-PER maria 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Polukarov I-PER polukarov 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Senior O senior 0 1 0 0 0 0 1 tr tbody none 11 2
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-AIS O ais 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-maria.polukarov O maria.polukarov 0 0 0 0 0 0 0 tr tbody none 11 5
-1789 O 1789 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.16 O 5.16 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Mr O mr 0 0 0 0 0 0 1 tr tbody none 11 0
-Jeffery O jeffery 1 1 0 0 0 0 1 tr tbody none 11 0
-Raphael O raphael 1 1 0 0 0 0 1 tr tbody none 11 0
-Teaching O teaching 0 0 0 0 0 0 1 tr tbody none 11 1
-Fellow O fellow 0 0 0 0 0 0 1 tr tbody none 11 1
-- O - 0 0 0 0 0 0 0 tr tbody none 11 2
-jeffery.raphael O jeffery.raphael 0 0 0 0 0 0 0 tr tbody none 11 3
-- O - 0 0 0 0 0 0 0 tr tbody none 11 2
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 5
-S O s 0 1 0 0 0 0 1 tr tbody none 11 5
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 5
-5.03 O 5.03 0 0 0 1 0 0 0 tr tbody none 11 5
-
-Prof O prof 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-Tomasz B-PER tomasz 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Radzik I-PER radzik 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-
-on O on 0 0 0 0 0 0 0 td tr none 12 2
-study O study 0 0 0 0 0 0 0 td tr none 12 2
-leave O leave 0 0 0 0 0 0 0 td tr none 12 2
-until O until 0 0 0 0 0 0 0 td tr none 12 2
-Sept O sept 0 1 0 0 0 0 1 td tr none 12 2
-2018 O 2018 0 0 0 1 0 0 0 td tr none 12 2
-
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 4
-AB O ab 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-tomasz.radzik O tomasz.radzik 0 0 0 0 0 0 0 tr tbody none 11 7
-2841 O 2841 0 0 0 1 0 0 0 tr tbody none 11 8
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 9
-N O n 0 1 0 0 0 0 1 tr tbody none 11 9
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 9
-5.14 O 5.14 0 0 0 1 0 0 0 tr tbody none 11 9
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Odinaldo B-PER odinaldo 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Rodrigues I-PER rodrigues 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-
-on O on 0 0 0 0 0 0 0 td tr none 12 1
-study O study 0 0 0 0 0 0 0 td tr none 12 1
-leave O leave 0 0 0 0 0 0 0 td tr none 12 1
-until O until 0 0 0 0 0 0 0 td tr none 12 1
-Sept O sept 0 1 0 0 0 0 1 td tr none 12 1
-2018 O 2018 0 0 0 1 0 0 0 td tr none 12 1
-
-Senior O senior 0 1 0 0 0 0 1 tr tbody none 11 4
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 4
-SMAL O smal 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-odinaldo.rodrigues O odinaldo.rodrigues 0 0 0 0 0 0 0 tr tbody none 11 7
-2087 O 2087 0 0 0 1 0 0 0 tr tbody none 11 8
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 9
-N O n 0 1 0 0 0 0 1 tr tbody none 11 9
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 9
-7.08 O 7.08 0 0 0 1 0 0 0 tr tbody none 11 9
-
-Ms O ms 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-Isabel B-PER isabel 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Sassoon I-PER sassoon 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Teaching O teaching 0 0 0 0 0 0 1 tr tbody none 11 2
-Fellow O fellow 0 0 0 0 0 0 1 tr tbody none 11 2
-AIS O ais 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-isabel.k.sassoon O isabel.k.sassoon 0 0 0 0 0 0 0 tr tbody none 11 5
-2008 O 2008 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-S O s 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.03 O 5.03 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 p td sys_t552396 13 0
-Nishanth B-PER nishanth 1 1 0 0 0 0 1 p td sys_t552396 13 0
-Sastry I-PER sastry 1 1 0 0 0 0 1 p td sys_t552396 13 0
-
-on O on 0 0 0 0 0 0 0 p td none 13 2
-study O study 0 0 0 0 0 0 0 p td none 13 2
-leave O leave 0 0 0 0 0 0 0 p td none 13 2
-until O until 0 0 0 0 0 0 0 p td none 13 2
-Sept O sept 0 1 0 0 0 0 1 p td none 13 2
-2018 O 2018 0 0 0 1 0 0 0 p td none 13 2
-
-Senior O senior 0 1 0 0 0 0 1 tr tbody none 11 5
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 5
-CTR O ctr 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-nishanth.sastry O nishanth.sastry 0 0 0 0 0 0 0 tr tbody none 11 8
-2445 O 2445 0 0 0 1 0 0 0 tr tbody none 11 9
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 10
-S O s 0 1 0 0 0 0 1 tr tbody none 11 10
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 10
-5.07 O 5.07 0 0 0 1 0 0 0 tr tbody none 11 10
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Mohammad B-PER mohammad 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Shikh I-PER shikh 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-- I-PER - 0 0 0 0 0 0 0 td tr sys_t552396 12 0
-Bahaei I-PER bahaei 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Reader O reader 0 1 0 0 0 0 1 tr tbody none 11 2
-CTR O ctr 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-m.sbahaei O m.sbahaei 0 0 0 0 1 0 0 tr tbody none 11 5
-2367 O 2367 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-S O s 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.14 O 5.14 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Professor O professor 0 0 0 0 1 0 1 td tr sys_t552396 12 0
-Osvaldo B-PER osvaldo 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Simeone I-PER simeone 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 2
-CTR O ctr 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-osvaldo.simeone O osvaldo.simeone 0 0 0 0 0 0 0 tr tbody none 11 5
-1341 O 1341 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-S O s 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.09 O 5.09 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_16 12 0
-Elizabeth O elizabeth 1 1 0 0 0 0 1 td tr sys_16 12 0
-Sklar O sklar 1 1 0 0 0 0 1 td tr sys_16 12 0
-Reader O reader 0 1 0 0 0 0 1 tr tbody none 11 2
-CORE O core 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-elizabeth.sklar O elizabeth.sklar 0 0 0 0 0 0 0 tr tbody none 11 5
-2236 O 2236 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.01 O 5.01 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 p td sys_t552396 13 0
-Michael B-PER michael 0 1 0 0 0 0 1 p td sys_t552396 13 0
-Spratling I-PER spratling 0 1 0 0 0 0 1 p td sys_t552396 13 0
-
-Reader O reader 0 1 0 0 0 0 1 tr tbody none 11 3
-CORE O core 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-michael.spratling O michael.spratling 0 0 0 0 0 0 0 tr tbody none 11 6
-2027 O 2027 0 0 0 1 0 0 0 tr tbody none 11 7
-
-( O ( 0 0 0 0 0 0 0 td tr none 12 0
-N O n 0 1 0 0 0 0 1 td tr none 12 0
-) O ) 0 0 0 0 0 0 0 td tr none 12 0
-5.04 O 5.04 0 0 0 1 0 0 0 td tr none 12 0
-
-Dr O dr 0 1 0 0 0 0 1 p td sys_t552396 13 0
-Kathleen B-PER kathleen 0 1 0 0 0 0 1 p td sys_t552396 13 0
-Steinhoefel I-PER steinhoefel 0 0 0 0 0 0 1 p td sys_t552396 13 0
-
-Reader O reader 0 1 0 0 0 0 1 tr tbody none 11 4
-AB O ab 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-kathleen.steinhofel O kathleen.steinhofel 0 0 0 0 0 0 0 tr tbody none 11 7
-1590 O 1590 0 0 0 1 0 0 0 tr tbody none 11 8
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 9
-N O n 0 1 0 0 0 0 1 tr tbody none 11 9
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 9
-5.18 O 5.18 0 0 0 1 0 0 0 tr tbody none 11 9
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Jose B-PER jose 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Such I-PER such 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Senior O senior 0 1 0 0 0 0 1 tr tbody none 11 2
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-SMAL O smal 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-jose.such O jose.such 0 0 0 0 0 0 0 tr tbody none 11 5
-2256 O 2256 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-7.17 O 7.17 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Laurence B-PER laurence 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Tratt I-PER tratt 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Reader O reader 0 1 0 0 0 0 1 tr tbody none 11 2
-SMAL O smal 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-laurence.tratt O laurence.tratt 0 0 0 0 0 0 0 tr tbody none 11 5
-7997 O 7997 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-7.05 O 7.05 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Sophia B-PER sophia 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Tsoka I-PER tsoka 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Senior O senior 0 1 0 0 0 0 1 tr tbody none 11 2
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-AB O ab 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-sophia.tsoka O sophia.tsoka 0 0 0 0 0 0 0 tr tbody none 11 5
-1056 O 1056 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-5.19 O 5.19 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Christian B-PER christian 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Urban I-PER urban 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 2
-SMAL O smal 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-christian.urban O christian.urban 0 0 0 0 0 0 0 tr tbody none 11 5
-2584 O 2584 0 0 0 1 0 0 0 tr tbody none 11 6
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 7
-N O n 0 1 0 0 0 0 1 tr tbody none 11 7
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 7
-7.07 O 7.07 0 0 0 1 0 0 0 tr tbody none 11 7
-
-Professor O professor 0 0 0 0 1 0 1 p td sys_t552396 13 0
-Luca B-PER luca 0 1 0 0 0 0 1 p td sys_t552396 13 0
-Vigan I-PER vigan 0 1 0 0 0 0 1 p td sys_t552396 13 0
-ò O o 0 0 0 0 0 0 0 p td sys_t552396 13 1
-
-Professor O professor 0 0 0 0 1 0 1 tr tbody none 11 4
-SMAL O smal 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-luca.vigano O luca.vigano 0 0 0 0 0 0 0 tr tbody none 11 7
-2078 O 2078 0 0 0 1 0 0 0 tr tbody none 11 8
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 9
-N O n 0 1 0 0 0 0 1 tr tbody none 11 9
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 9
-7.18 O 7.18 0 0 0 1 0 0 0 tr tbody none 11 9
-
-Dr O dr 0 1 0 0 0 0 1 td tr sys_t552396 12 0
-Steffen B-PER steffen 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-Zschaler I-PER zschaler 1 1 0 0 0 0 1 td tr sys_t552396 12 0
-
-on O on 0 0 0 0 0 0 0 td tr none 12 1
-study O study 0 0 0 0 0 0 0 td tr none 12 1
-leave O leave 0 0 0 0 0 0 0 td tr none 12 1
-until O until 0 0 0 0 0 0 0 td tr none 12 1
-Sept O sept 0 1 0 0 0 0 1 td tr none 12 1
-2018 O 2018 0 0 0 1 0 0 0 td tr none 12 1
-
-Senior O senior 0 1 0 0 0 0 1 tr tbody none 11 4
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody none 11 4
-SMAL O smal 0 0 0 0 0 0 1 td tr sys_t552396 12 0
-steffen.zschaler O steffen.zschaler 0 0 0 0 0 0 0 tr tbody none 11 7
-1513 O 1513 0 0 0 1 0 0 0 tr tbody none 11 8
-( O ( 0 0 0 0 0 0 0 tr tbody none 11 9
-N O n 0 1 0 0 0 0 1 tr tbody none 11 9
-) O ) 0 0 0 0 0 0 0 tr tbody none 11 9
-7.01 O 7.01 0 0 0 1 0 0 0 tr tbody none 11 9
-
-About O about 0 0 0 0 0 0 1 li ul sys_first 10 0
-us O us 0 1 0 0 0 0 0 li ul sys_first 10 0
-
-People O people 0 1 0 0 0 0 1 div li sys_currentitem 11 0
-
-Academic O academic 0 0 0 0 0 0 1 li ul sys_first 12 0
-Staff O staff 0 1 0 0 0 0 1 li ul sys_first 12 0
-A O a 0 1 0 0 0 0 1 li ul sys_first 12 0
-- O - 0 0 0 0 0 0 0 li ul sys_first 12 0
-Z O z 0 1 0 0 0 0 1 li ul sys_first 12 0
-
-Academic O academic 0 0 0 0 0 0 1 div li sys_currentitem 13 0
-Staff O staff 0 1 0 0 0 0 1 div li sys_currentitem 13 0
-
-Associate O associate 0 1 0 0 0 0 1 li ul sys_children 12 0
-Academic O academic 0 0 0 0 0 0 1 li ul sys_children 12 0
-Staff O staff 0 1 0 0 0 0 1 li ul sys_children 12 0
-
-Research O research 0 1 0 0 0 0 1 li ul sys_children 12 0
-Staff O staff 0 1 0 0 0 0 1 li ul sys_children 12 0
-
-Visitors O visitors 0 0 0 0 0 0 1 li ul sys_children 12 0
-
-Professional O professional 0 0 0 0 1 0 1 li ul sys_children 12 0
-Services O services 0 0 0 0 0 0 1 li ul sys_children 12 0
-and O and 0 1 0 0 0 0 0 li ul sys_children 12 0
-Systems O systems 0 0 0 0 0 0 1 li ul sys_children 12 0
-Staff O staff 0 1 0 0 0 0 1 li ul sys_children 12 0
-
-PhD O phd 0 0 0 0 0 0 1 li ul sys_children 12 0
-Students O students 0 0 0 0 0 0 1 li ul sys_children 12 0
-
-Vacancies O vacancies 0 0 0 0 0 0 1 li ul sys_last 12 0
-
-Study O study 0 1 0 0 0 0 1 li ul sys_accordianMenu 10 0
-
-Research O research 0 1 0 0 0 0 1 li ul sys_accordianMenu 10 0
-
-Innovation O innovation 0 0 0 0 0 0 1 li ul sys_accordianMenu 10 0
-& O & 0 0 0 0 0 0 0 li ul sys_accordianMenu 10 0
-Enterprise O enterprise 0 0 0 0 0 0 1 li ul sys_accordianMenu 10 0
-
-Women O women 0 0 0 0 0 0 1 li ul sys_accordianMenu 10 0
-in O in 0 1 0 0 0 0 0 li ul sys_accordianMenu 10 0
-Science O science 0 0 0 0 0 0 1 li ul sys_accordianMenu 10 0
-
-News O news 0 0 0 0 0 0 1 li ul sys_accordianMenu 10 0
-& O & 0 0 0 0 0 0 0 li ul sys_accordianMenu 10 0
-Events O events 0 0 0 0 0 0 1 li ul sys_accordianMenu 10 0
-
-Contact O contact 0 0 0 0 0 0 1 li ul sys_last 10 0
-us O us 0 1 0 0 0 0 0 li ul sys_last 10 0
-
-further O further 0 0 0 0 0 0 0 div div sys_nursing 8 0
-information O information 0 0 0 0 0 0 0 div div sys_nursing 8 0
-
-research O research 0 0 0 0 0 0 0 a div sys_puff_title 13 0
-
-student O student 0 0 0 0 0 0 0 a div sys_puff_title 13 0
-handbook O handbook 0 0 0 0 0 0 0 a div sys_puff_title 13 0
-
-how O how 0 0 0 0 0 0 0 a div sys_puff_title 13 0
-to O to 0 0 0 0 0 0 0 a div sys_puff_title 13 0
-find O find 0 0 0 0 0 0 0 a div sys_puff_title 13 0
-us O us 0 1 0 0 0 0 0 a div sys_puff_title 13 0
-
-Facebook O facebook 0 0 0 0 0 0 1 li ul sys_facebook_footer 10 0
-
-Twitter O twitter 0 0 0 0 0 0 1 li ul sys_twitter_footer 10 0
-
-Youtube O youtube 0 0 0 0 0 0 1 li ul sys_youtube_footer 10 0
-
-Add O add 0 0 0 0 0 0 1 li ul sys_favourite_footer 10 0
-to O to 0 0 0 0 0 0 0 li ul sys_favourite_footer 10 0
-Favourites O favourites 0 0 0 0 0 0 1 li ul sys_favourite_footer 10 0
-
-Digg O digg 0 0 0 0 0 0 1 li ul sys_digg_footer 10 0
-
-RSS O rss 0 0 0 0 0 0 1 li ul sys_rss_footer 10 0
-Feed O feed 0 0 0 0 0 0 1 li ul sys_rss_footer 10 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul sys_16 9 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 9 0
-Arts O arts 0 1 0 0 0 0 1 li ul sys_16 9 0
-
-& O & 0 0 0 0 0 0 0 li ul sys_16 9 0
-Humanities O humanities 0 0 0 0 0 0 1 li ul sys_16 9 0
-
-Arts O arts 0 1 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Humanities O humanities 0 0 0 0 0 0 1 li ul sys_16 11 0
-Research O research 0 1 0 0 0 0 1 li ul sys_16 11 0
-Institute O institute 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Classics O classics 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Comparative O comparative 0 0 0 0 0 0 1 li ul sys_16 11 0
-Literature O literature 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Culture O culture 0 0 0 0 0 0 1 li ul sys_16 11 0
-, O , 0 0 0 0 0 0 0 li ul sys_16 11 0
-Media O media 0 1 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Creative O creative 0 0 0 0 0 0 1 li ul sys_16 11 0
-Industries O industries 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Digital O digital 0 1 0 0 0 0 1 li ul sys_16 11 0
-Humanities O humanities 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-English O english 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Film O film 0 0 0 0 0 0 1 li ul sys_16 11 0
-Studies O studies 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-French O french 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-German O german 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-History O history 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-King O king 0 1 0 0 0 0 1 li ul sys_16 11 0
-' O ' 0 0 0 0 0 0 0 li ul sys_16 11 0
-s O s 0 0 0 0 0 0 0 li ul sys_16 11 0
-Digital O digital 0 1 0 0 0 0 1 li ul sys_16 11 0
-Lab O lab 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Liberal O liberal 0 1 0 0 0 0 1 li ul sys_16 11 0
-Arts O arts 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Modern O modern 0 1 0 0 0 0 1 li ul sys_16 11 0
-Language O language 0 0 0 0 0 0 1 li ul sys_16 11 0
-Centre O centre 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Music O music 0 1 0 0 1 0 1 li ul sys_16 11 0
-
-Philosophy O philosophy 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Spanish O spanish 0 0 0 0 0 0 1 li ul sys_16 11 0
-, O , 0 0 0 0 0 0 0 li ul sys_16 11 0
-Portuguese O portuguese 0 1 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Latin O latin 0 1 0 0 0 0 1 li ul sys_16 11 0
-American O american 0 0 0 0 0 0 1 li ul sys_16 11 0
-Studies O studies 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Theology O theology 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Religious O religious 0 0 0 0 0 0 1 li ul sys_16 11 0
-Studies O studies 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Dental O dental 0 0 0 0 0 0 1 li ul sys_16 9 0
-
-Institute O institute 0 0 0 0 0 0 1 li ul sys_16 9 0
-
-Academic O academic 0 0 0 0 0 0 1 li ul sys_16 11 0
-Staff O staff 0 1 0 0 0 0 1 li ul sys_16 11 0
-Profiles O profiles 0 0 0 0 1 0 1 li ul sys_16 11 0
-
-Distance O distance 0 0 0 0 0 0 1 li ul sys_16 11 0
-Learning O learning 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-LonDEC O londec 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Prospective O prospective 0 0 0 0 0 0 1 li ul sys_16 11 0
-Postgraduates O postgraduates 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Prospective O prospective 0 0 0 0 0 0 1 li ul sys_16 11 0
-Undergraduates O undergraduates 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Craniofacial O craniofacial 0 0 0 0 0 0 1 li ul sys_16 11 0
-Development O development 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Stem O stem 0 1 0 0 0 0 1 li ul sys_16 11 0
-Cell O cell 0 1 0 0 0 0 1 li ul sys_16 11 0
-Biology O biology 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Mucosal O mucosal 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Salivary O salivary 0 0 0 0 0 0 1 li ul sys_16 11 0
-Biology O biology 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Population O population 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Patient O patient 0 1 0 0 0 0 1 li ul sys_16 11 0
-Health O health 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Tissue O tissue 0 1 0 0 0 0 1 li ul sys_16 11 0
-Engineering O engineering 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Biophotonics O biophotonics 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Dental O dental 0 0 0 0 0 0 1 li ul sys_16 11 0
-Innovation O innovation 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Translation O translation 0 0 0 0 0 0 1 li ul sys_16 11 0
-Centre O centre 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul footer-lsm 9 0
-of O of 0 1 0 0 0 0 0 li ul footer-lsm 9 0
-
-Life O life 0 1 0 0 0 0 1 li ul footer-lsm 9 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul footer-lsm 9 0
-& O & 0 0 0 0 0 0 0 li ul footer-lsm 9 0
-Medicine O medicine 0 0 0 0 0 0 1 li ul footer-lsm 9 0
-
-School O school 0 1 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Bioscience O bioscience 0 0 0 0 0 0 1 li ul sys_16 11 0
-Education O education 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-GKT O gkt 0 0 0 0 0 0 1 li ul sys_16 11 0
-School O school 0 1 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Medical O medical 0 0 0 0 0 0 1 li ul sys_16 11 0
-Education O education 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Bioscience O bioscience 0 0 0 0 0 0 1 li ul sys_16 11 0
-Education O education 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Analytical O analytical 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Environmental O environmental 0 0 0 0 0 0 1 li ul sys_16 11 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul sys_16 11 0
-Division O division 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Asthma O asthma 0 0 0 0 0 0 1 li ul sys_16 11 0
-, O , 0 0 0 0 0 0 0 li ul sys_16 11 0
-Allergy O allergy 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Lung O lung 0 1 0 0 0 0 1 li ul sys_16 11 0
-Biology O biology 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Cancer O cancer 0 1 0 0 0 0 1 li ul sys_16 11 0
-Studies O studies 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Cardiovascular O cardiovascular 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Centre O centre 0 1 0 0 0 0 1 li ul sys_16 11 0
-for O for 0 1 0 0 0 0 0 li ul sys_16 11 0
-Global O global 0 1 0 0 0 0 1 li ul sys_16 11 0
-Health O health 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Centre O centre 0 1 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Human O human 0 1 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Aerospace O aerospace 0 0 0 0 0 0 1 li ul sys_16 11 0
-Physiological O physiological 0 0 0 0 0 0 1 li ul sys_16 11 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul sys_16 11 0
-( O ( 0 0 0 0 0 0 0 li ul sys_16 11 0
-CHAPS O chaps 0 0 0 0 0 0 1 li ul sys_16 11 0
-) O ) 0 0 0 0 0 0 0 li ul sys_16 11 0
-
-Diabetes O diabetes 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Nutritional O nutritional 0 0 0 0 0 0 1 li ul sys_16 11 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Genetics O genetics 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Molecular O molecular 0 0 0 0 0 0 1 li ul sys_16 11 0
-Medicine O medicine 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Imaging O imaging 0 0 0 0 0 0 1 li ul sys_16 11 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Biomedical O biomedical 0 0 0 0 0 0 1 li ul sys_16 11 0
-Engineering O engineering 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Immunology O immunology 0 0 0 0 0 0 1 li ul sys_16 11 0
-, O , 0 0 0 0 0 0 0 li ul sys_16 11 0
-Infection O infection 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Inflammatory O inflammatory 0 0 0 0 0 0 1 li ul sys_16 11 0
-Disease O disease 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul footer-hide 9 0
-of O of 0 1 0 0 0 0 0 li ul footer-hide 9 0
-
-Life O life 0 1 0 0 0 0 1 li ul footer-hide 9 0
-Science O science 0 0 0 0 0 0 1 li ul footer-hide 9 0
-& O & 0 0 0 0 0 0 0 li ul footer-hide 9 0
-Medicine O medicine 0 0 0 0 0 0 1 li ul footer-hide 9 0
-
-Pharmaceutical O pharmaceutical 0 0 0 0 0 0 1 li ul sys_16 11 0
-Science O science 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Health O health 0 1 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Social O social 0 0 0 0 0 0 1 li ul sys_16 11 0
-Care O care 0 1 0 0 0 0 1 li ul sys_16 11 0
-Research O research 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Transplantation O transplantation 0 0 0 0 0 0 1 li ul sys_16 11 0
-Immunology O immunology 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Mucosal O mucosal 0 0 0 0 0 0 1 li ul sys_16 11 0
-Biology O biology 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Randall O randall 0 1 0 0 0 0 1 li ul sys_16 11 0
-Division O division 0 0 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Cell O cell 0 1 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Molecular O molecular 0 0 0 0 0 0 1 li ul sys_16 11 0
-Biophysics O biophysics 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Women O women 0 0 0 0 0 0 1 li ul sys_16 11 0
-' O ' 0 0 0 0 0 0 0 li ul sys_16 11 0
-s O s 0 0 0 0 0 0 0 li ul sys_16 11 0
-Health O health 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Department O department 0 0 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Anatomy O anatomy 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Department O department 0 0 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Biochemistry O biochemistry 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Department O department 0 0 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Genetics O genetics 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Centre O centre 0 1 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Immunology O immunology 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Department O department 0 0 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Neuroscience O neuroscience 0 0 0 0 0 0 1 li ul sys_16 11 0
-Education O education 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Medical O medical 0 0 0 0 0 0 1 li ul sys_16 11 0
-Education O education 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Department O department 0 0 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Nutrition O nutrition 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Dietetics O dietetics 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Department O department 0 0 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Pharmacology O pharmacology 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Therapeutics O therapeutics 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Department O department 0 0 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Pharmacy O pharmacy 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Forensic O forensic 0 0 0 0 0 0 1 li ul sys_16 11 0
-Science O science 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Department O department 0 0 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Physiology O physiology 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Department O department 0 0 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Physiotherapy O physiotherapy 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Institute O institute 0 0 0 0 0 0 1 li ul sys_16 9 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 9 0
-Psychiatry O psychiatry 0 0 0 0 0 0 1 li ul sys_16 9 0
-, O , 0 0 0 0 0 0 0 li ul sys_16 9 0
-Psychology O psychology 0 0 0 0 0 0 1 li ul sys_16 9 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 9 0
-Neuroscience O neuroscience 0 0 0 0 0 0 1 li ul sys_16 9 0
-
-Addictions O addictions 0 0 0 0 1 0 1 li ul sys_16 11 0
-
-Basic O basic 0 1 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Clinical O clinical 0 0 0 0 0 0 1 li ul sys_16 11 0
-Neuroscience O neuroscience 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Biostatistics O biostatistics 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Child O child 0 1 0 0 0 0 1 li ul sys_16 11 0
-and O and 0 1 0 0 0 0 0 li ul sys_16 11 0
-Adolescent O adolescent 0 0 0 0 0 0 1 li ul sys_16 11 0
-Psychiatry O psychiatry 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Forensic O forensic 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Neurodevelopment O neurodevelopment 0 0 0 0 0 0 1 li ul sys_16 11 0
-Science O science 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Health O health 0 1 0 0 0 0 1 li ul sys_16 11 0
-Service O service 0 1 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Population O population 0 0 0 0 0 0 1 li ul sys_16 11 0
-Research O research 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Neuroimaging O neuroimaging 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Old O old 0 1 0 0 0 0 1 li ul sys_16 11 0
-Age O age 0 1 0 0 0 0 1 li ul sys_16 11 0
-Psychiatry O psychiatry 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Psychological O psychological 0 0 0 0 0 0 1 li ul sys_16 11 0
-Medicine O medicine 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Psychology O psychology 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Psychosis O psychosis 0 0 0 0 0 0 1 li ul sys_16 11 0
-Studies O studies 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Social O social 0 0 0 0 0 0 1 li ul sys_16 11 0
-, O , 0 0 0 0 0 0 0 li ul sys_16 11 0
-Genetic O genetic 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Development O development 0 0 0 0 0 0 1 li ul sys_16 11 0
-Psychiatry O psychiatry 0 0 0 0 0 0 1 li ul sys_16 11 0
-Centre O centre 0 1 0 0 0 0 1 li ul sys_16 11 0
-( O ( 0 0 0 0 0 0 0 li ul sys_16 11 0
-MRC O mrc 0 0 0 0 1 0 1 li ul sys_16 11 0
-) O ) 0 0 0 0 0 0 0 li ul sys_16 11 0
-
-MRC O mrc 0 0 0 0 1 0 1 li ul sys_16 11 0
-Centre O centre 0 1 0 0 0 0 1 li ul sys_16 11 0
-for O for 0 1 0 0 0 0 0 li ul sys_16 11 0
-Developmental O developmental 0 0 0 0 0 0 1 li ul sys_16 11 0
-Neurobiology O neurobiology 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Wolfson O wolfson 0 1 0 0 0 0 1 li ul sys_16 11 0
-Centre O centre 0 1 0 0 0 0 1 li ul sys_16 11 0
-for O for 0 1 0 0 0 0 0 li ul sys_16 11 0
-Age O age 0 1 0 0 0 0 1 li ul sys_16 11 0
-Related O related 0 0 0 0 0 0 1 li ul sys_16 11 0
-Diseases O diseases 0 0 0 0 0 0 1 li ul sys_16 11 0
-( O ( 0 0 0 0 0 0 0 li ul sys_16 11 0
-CARD O card 0 0 0 0 0 0 1 li ul sys_16 11 0
-) O ) 0 0 0 0 0 0 0 li ul sys_16 11 0
-
-The O the 0 1 0 0 0 0 1 li ul sys_16 9 0
-Dickson O dickson 0 1 0 0 0 0 1 li ul sys_16 9 0
-Poon O poon 0 1 0 0 0 0 1 li ul sys_16 9 0
-School O school 0 1 0 0 0 0 1 li ul sys_16 9 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 9 0
-Law O law 0 1 0 0 0 0 1 li ul sys_16 9 0
-
-Research O research 0 1 0 0 0 0 1 li ul sys_16 11 0
-( O ( 0 0 0 0 0 0 0 li ul sys_16 11 0
-PhD/MPhil O phd/mphil 0 0 0 0 0 0 1 li ul sys_16 11 0
-) O ) 0 0 0 0 0 0 0 li ul sys_16 11 0
-
-Centre O centre 0 1 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-British O british 0 0 0 0 0 0 1 li ul sys_16 11 0
-Constitutional O constitutional 0 0 0 0 0 0 1 li ul sys_16 11 0
-Law O law 0 1 0 0 0 0 1 li ul sys_16 11 0
-and O and 0 1 0 0 0 0 0 li ul sys_16 11 0
-History O history 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Centre O centre 0 1 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Construction O construction 0 0 0 0 0 0 1 li ul sys_16 11 0
-Law O law 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Centre O centre 0 1 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-European O european 0 0 0 0 0 0 1 li ul sys_16 11 0
-Law O law 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Centre O centre 0 1 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Medical O medical 0 0 0 0 0 0 1 li ul sys_16 11 0
-Law O law 0 1 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Ethics O ethics 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Centre O centre 0 1 0 0 0 0 1 li ul sys_16 11 0
-for O for 0 1 0 0 0 0 0 li ul sys_16 11 0
-Politics O politics 0 0 0 0 0 0 1 li ul sys_16 11 0
-, O , 0 0 0 0 0 0 0 li ul sys_16 11 0
-Philosophy O philosophy 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Law O law 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Centre O centre 0 1 0 0 0 0 1 li ul sys_16 11 0
-for O for 0 1 0 0 0 0 0 li ul sys_16 11 0
-Technology O technology 0 0 0 0 0 0 1 li ul sys_16 11 0
-, O , 0 0 0 0 0 0 0 li ul sys_16 11 0
-Ethics O ethics 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Law O law 0 1 0 0 0 0 1 li ul sys_16 11 0
-in O in 0 1 0 0 0 0 0 li ul sys_16 11 0
-Society O society 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Climate O climate 0 0 0 0 0 0 1 li ul sys_16 11 0
-Law O law 0 1 0 0 0 0 1 li ul sys_16 11 0
-and O and 0 1 0 0 0 0 0 li ul sys_16 11 0
-Governance O governance 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Competition O competition 0 0 0 0 0 0 1 li ul sys_16 11 0
-Law O law 0 1 0 0 0 0 1 li ul sys_16 11 0
-at O at 0 0 0 0 0 0 0 li ul sys_16 11 0
-King O king 0 1 0 0 0 0 1 li ul sys_16 11 0
-' O ' 0 0 0 0 0 0 0 li ul sys_16 11 0
-s O s 0 0 0 0 0 0 0 li ul sys_16 11 0
-
-Transnational O transnational 0 0 0 0 0 0 1 li ul sys_16 11 0
-Law O law 0 1 0 0 0 0 1 li ul sys_16 11 0
-Institute O institute 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul sys_16 9 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 9 0
-Natural O natural 0 0 0 0 0 0 1 li ul sys_16 9 0
-
-& O & 0 0 0 0 0 0 0 li ul sys_16 9 0
-Mathematical O mathematical 0 0 0 0 0 0 1 li ul sys_16 9 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul sys_16 9 0
-
-Chemistry O chemistry 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Informatics O informatics 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Mathematics O mathematics 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Physics O physics 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Florence O florence 0 1 0 0 0 0 1 li ul sys_16 9 0
-Nightingale O nightingale 0 1 0 0 0 0 1 li ul sys_16 9 0
-Faculty O faculty 0 0 0 0 0 0 1 li ul sys_16 9 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 9 0
-Nursing O nursing 0 1 0 0 0 0 1 li ul sys_16 9 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 9 0
-Midwifery O midwifery 0 0 0 0 0 0 1 li ul sys_16 9 0
-
-Becoming O becoming 0 0 0 0 0 0 1 li ul sys_16 11 0
-a O a 0 1 0 0 0 0 0 li ul sys_16 11 0
-nurse O nurse 0 0 0 0 0 0 0 li ul sys_16 11 0
-
-Becoming O becoming 0 0 0 0 0 0 1 li ul sys_16 11 0
-a O a 0 1 0 0 0 0 0 li ul sys_16 11 0
-midwife O midwife 0 0 0 0 0 0 0 li ul sys_16 11 0
-
-Courses O courses 0 0 0 0 0 0 1 li ul sys_16 11 0
-for O for 0 1 0 0 0 0 0 li ul sys_16 11 0
-qualified O qualified 0 0 0 0 0 0 0 li ul sys_16 11 0
-healthcare O healthcare 0 0 0 0 0 0 0 li ul sys_16 11 0
-professionals O professionals 0 0 0 0 1 0 0 li ul sys_16 11 0
-
-International O international 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Research O research 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Partners O partners 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Applicants O applicants 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Department O department 0 0 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Adult O adult 0 0 0 0 0 0 1 li ul sys_16 11 0
-Nursing O nursing 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Department O department 0 0 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Child O child 0 1 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Family O family 0 1 0 0 0 0 1 li ul sys_16 11 0
-Health O health 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Department O department 0 0 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Mental O mental 0 0 0 0 0 0 1 li ul sys_16 11 0
-Health O health 0 1 0 0 0 0 1 li ul sys_16 11 0
-Nursing O nursing 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Department O department 0 0 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Nursing O nursing 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Cicely O cicely 0 1 0 0 0 0 1 li ul sys_16 11 0
-Saunders O saunders 0 1 0 0 0 0 1 li ul sys_16 11 0
-Institute O institute 0 0 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Palliative O palliative 0 0 0 0 0 0 1 li ul sys_16 11 0
-Care O care 0 1 0 0 0 0 1 li ul sys_16 11 0
-and O and 0 1 0 0 0 0 0 li ul sys_16 11 0
-Rehabilitation O rehabilitation 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul sys_16 9 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 9 0
-Social O social 0 0 0 0 0 0 1 li ul sys_16 9 0
-Science O science 0 0 0 0 0 0 1 li ul sys_16 9 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 9 0
-Public O public 0 0 0 0 0 0 1 li ul sys_16 9 0
-Policy O policy 0 0 0 0 0 0 1 li ul sys_16 9 0
-
-> O > 0 0 0 0 0 0 0 li ul sys_16 11 0
-School O school 0 1 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Global O global 0 1 0 0 0 0 1 li ul sys_16 11 0
-Affairs O affairs 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-African O african 0 0 0 0 0 0 1 li ul sys_16 11 0
-Leadership O leadership 0 0 0 0 0 0 1 li ul sys_16 11 0
-Centre O centre 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Brazil O brazil 0 1 0 0 0 0 1 li ul sys_16 11 0
-Institute O institute 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Geography O geography 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Global O global 0 1 0 0 0 0 1 li ul sys_16 11 0
-Health O health 0 1 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Social O social 0 0 0 0 0 0 1 li ul sys_16 11 0
-Medicine O medicine 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-India O india 0 1 0 0 0 0 1 li ul sys_16 11 0
-Institute O institute 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-International O international 0 0 0 0 0 0 1 li ul sys_16 11 0
-Development O development 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Lau O lau 0 1 0 0 0 0 1 li ul sys_16 11 0
-China O china 0 1 0 0 0 0 1 li ul sys_16 11 0
-Institute O institute 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-> O > 0 0 0 0 0 0 0 li ul sys_16 11 0
-School O school 0 1 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Security O security 0 0 0 0 0 0 1 li ul sys_16 11 0
-Studies O studies 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Defence O defence 0 0 0 0 0 0 1 li ul sys_16 11 0
-Studies O studies 0 0 0 0 0 0 1 li ul sys_16 11 0
-Department O department 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-War O war 0 1 0 0 0 0 1 li ul sys_16 11 0
-Studies O studies 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-War O war 0 1 0 0 0 0 1 li ul sys_16 11 0
-Studies O studies 0 0 0 0 0 0 1 li ul sys_16 11 0
-Online O online 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-> O > 0 0 0 0 0 0 0 li ul sys_16 11 0
-School O school 0 1 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Education O education 0 0 0 0 0 0 1 li ul sys_16 11 0
-, O , 0 0 0 0 0 0 0 li ul sys_16 11 0
-Communication O communication 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Society O society 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-> O > 0 0 0 0 0 0 0 li ul sys_16 11 0
-School O school 0 1 0 0 0 0 1 li ul sys_16 11 0
-of O of 0 1 0 0 0 0 0 li ul sys_16 11 0
-Politics O politics 0 0 0 0 0 0 1 li ul sys_16 11 0
-and O and 0 1 0 0 0 0 0 li ul sys_16 11 0
-Economics O economics 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-European O european 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-International O international 0 0 0 0 0 0 1 li ul sys_16 11 0
-Studies O studies 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Middle O middle 0 0 0 0 0 0 1 li ul sys_16 11 0
-Eastern O eastern 0 0 0 0 0 0 1 li ul sys_16 11 0
-Studies O studies 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Political O political 0 0 0 0 0 0 1 li ul sys_16 11 0
-Economy O economy 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Russia O russia 0 0 0 0 0 0 1 li ul sys_16 11 0
-Institute O institute 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-> O > 0 0 0 0 0 0 0 li ul sys_16 11 0
-Policy O policy 0 0 0 0 0 0 1 li ul sys_16 11 0
-Institute O institute 0 0 0 0 0 0 1 li ul sys_16 11 0
-at O at 0 0 0 0 0 0 0 li ul sys_16 11 0
-King O king 0 1 0 0 0 0 1 li ul sys_16 11 0
-' O ' 0 0 0 0 0 0 0 li ul sys_16 11 0
-s O s 0 0 0 0 0 0 0 li ul sys_16 11 0
-
-Global O global 0 1 0 0 0 0 1 li ul sys_16 9 0
-Affairs O affairs 0 0 0 0 0 0 1 li ul sys_16 9 0
-
-KCL O kcl 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Cultural O cultural 0 0 0 0 0 0 1 li ul sys_16 9 0
-King’s O king’s 0 0 0 0 0 0 1 li ul sys_16 9 0
-
-Cultural O cultural 0 0 0 0 0 0 1 li ul sys_16 11 0
-Programming O programming 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Cultural O cultural 0 0 0 0 0 0 1 li ul sys_16 11 0
-Institute O institute 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Cultural O cultural 0 0 0 0 0 0 1 li ul sys_16 11 0
-Partnerships O partnerships 0 0 0 0 0 0 1 li ul sys_16 11 0
-& O & 0 0 0 0 0 0 0 li ul sys_16 11 0
-Enquiry O enquiry 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-Science O science 0 0 0 0 0 0 1 li ul sys_16 11 0
-Gallery O gallery 0 1 0 0 0 0 1 li ul sys_16 11 0
-London O london 0 1 0 0 0 0 1 li ul sys_16 11 0
-
-Other O other 0 1 0 0 0 0 1 li ul sys_16 9 0
-
-A O a 0 1 0 0 0 0 1 li ul sys_16 11 0
-- O - 0 0 0 0 0 0 0 li ul sys_16 11 0
-Z O z 0 1 0 0 0 0 1 li ul sys_16 11 0
-Central O central 0 0 0 0 0 0 1 li ul sys_16 11 0
-Departments O departments 0 0 0 0 0 0 1 li ul sys_16 11 0
-
-A O a 0 1 0 0 0 0 1 li ul sys_16 11 0
-- O - 0 0 0 0 0 0 0 li ul sys_16 11 0
-Z O z 0 1 0 0 0 0 1 li ul sys_16 11 0
-Research O research 0 1 0 0 0 0 1 li ul sys_16 11 0
-groups O groups 0 0 0 0 0 0 0 li ul sys_16 11 0
-
-King O king 0 1 0 0 0 0 1 div div sys_t0 8 0
-' O ' 0 0 0 0 0 0 0 div div sys_t0 8 0
-s O s 0 0 0 0 0 0 0 div div sys_t0 8 0
-College O college 0 0 0 0 0 0 1 div div sys_t0 8 0
-London O london 0 1 0 0 0 0 1 div div sys_t0 8 0
-- O - 0 0 0 0 0 0 0 div div sys_t0 8 0
-Homepage O homepage 0 0 0 0 0 0 1 div div sys_t0 8 0
-
-Sitemap O sitemap 0 0 0 0 0 0 1 div div sys_16 7 2
-Site O site 0 1 0 0 0 0 1 div div sys_16 7 3
-help O help 0 0 0 0 0 0 0 div div sys_16 7 3
-Terms O terms 0 0 0 0 0 0 1 div div sys_16 7 4
-and O and 0 1 0 0 0 0 0 div div sys_16 7 4
-conditions O conditions 0 0 0 0 0 0 0 div div sys_16 7 4
-Privacy O privacy 0 0 0 0 0 0 1 div div sys_16 7 5
-policy O policy 0 0 0 0 0 0 0 div div sys_16 7 5
-Accessibility O accessibility 0 0 0 0 0 0 1 div div sys_16 7 6
-Modern O modern 0 1 0 0 0 0 1 div div sys_16 7 7
-slavery O slavery 0 0 0 0 0 0 0 div div sys_16 7 7
-statement O statement 0 0 0 0 0 0 0 div div sys_16 7 7
-Contact O contact 0 0 0 0 0 0 1 div div sys_16 7 8
-us O us 0 1 0 0 0 0 0 div div sys_16 7 8
-
-© O © 0 0 0 0 0 0 0 div div none 7 9
-2017 O 2017 0 0 0 1 0 0 0 div div none 7 9
-King O king 0 1 0 0 0 0 1 div div none 7 9
-' O ' 0 0 0 0 0 0 0 div div none 7 9
-s O s 0 0 0 0 0 0 0 div div none 7 9
-College O college 0 0 0 0 0 0 1 div div none 7 9
-London O london 0 1 0 0 0 0 1 div div none 7 9
-| O | 0 0 0 0 0 0 0 div div none 7 9
-Strand O strand 0 1 0 0 0 0 1 div div none 7 9
-| O | 0 0 0 0 0 0 0 div div none 7 9
-London O london 0 1 0 0 0 0 1 div div none 7 9
-WC2R O wc2r 0 0 0 1 0 0 1 div div none 7 9
-2LS O 2ls 0 0 0 1 0 0 0 div div none 7 9
-| O | 0 0 0 0 0 0 0 div div none 7 9
-England O england 0 1 0 0 0 0 1 div div none 7 9
-| O | 0 0 0 0 0 0 0 div div none 7 9
-United O united 0 0 0 0 0 0 1 div div none 7 9
-Kingdom O kingdom 0 1 0 0 0 0 1 div div none 7 9
-| O | 0 0 0 0 0 0 0 div div none 7 9
-Tel O tel 0 1 0 0 0 0 1 div div none 7 9
-+44 O +44 0 0 0 1 0 0 0 div div none 7 9
-( O ( 0 0 0 0 0 0 0 div div none 7 9
-0 O 0 0 0 0 1 0 0 0 div div none 7 9
-) O ) 0 0 0 0 0 0 0 div div none 7 9
-20 O 20 0 0 0 1 0 0 0 div div none 7 9
-7836 O 7836 0 0 0 1 0 0 0 div div none 7 9
-5454 O 5454 0 0 0 1 0 0 0 div div none 7 9
-
-Browser O browser 0 0 0 0 0 0 1 noscript form none 6 0
-does O does 0 0 0 0 0 0 0 noscript form none 6 0
-not O not 0 0 0 0 0 0 0 noscript form none 6 0
-support O support 0 0 0 0 0 0 0 noscript form none 6 0
-script. O script. 0 0 0 0 0 0 0 noscript form none 6 0
-Browser O browser 0 0 0 0 0 0 1 noscript form none 6 0
-does O does 0 0 0 0 0 0 0 noscript form none 6 0
-not O not 0 0 0 0 0 0 0 noscript form none 6 0
-support O support 0 0 0 0 0 0 0 noscript form none 6 0
-script. O script. 0 0 0 0 0 0 0 noscript form none 6 0
+King's O king's 0 0 0 0 0 0 1 0 0 li ul sys_16 12 0
+Health O health 0 1 0 0 0 0 1 0 7 li ul sys_16 12 0
+Partners O partners 0 1 0 0 0 0 1 0 6 li ul sys_16 12 0
+
+Cultural O cultural 0 0 0 0 0 0 1 0 4 li ul sys_16 12 0
+King's O king's 0 0 0 0 0 0 1 0 0 li ul sys_16 12 0
+
+Faculties O faculties 0 0 0 0 0 0 1 0 4 li ul sys_16 10 0
+
+Arts O arts 0 1 0 0 0 0 1 3 7 li ul sys_16 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+Humanities O humanities 0 0 0 0 0 0 1 0 5 li ul sys_16 12 0
+
+Business O business 0 0 0 0 0 0 1 0 7 li ul sys_16 12 0
+
+Dental O dental 0 0 0 0 0 0 1 0 4 li ul sys_16 12 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul sys_16 12 0
+
+Law O law 0 1 0 0 0 0 1 5 7 li ul sys_16 12 0
+
+Life O life 0 1 0 0 0 0 1 1 7 li ul sys_16 12 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul sys_16 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+Medicine O medicine 0 0 0 0 0 0 1 0 4 li ul sys_16 12 0
+
+Natural O natural 0 0 0 0 0 0 1 0 5 li ul sys_16 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+Mathematical O mathematical 0 0 0 0 0 0 1 0 4 li ul sys_16 12 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul sys_16 12 0
+
+Nursing O nursing 0 1 0 0 0 0 1 0 4 li ul sys_16 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+Midwifery O midwifery 0 0 0 0 0 0 1 0 0 li ul sys_16 12 0
+
+Psychiatry O psychiatry 0 0 0 0 0 0 1 0 2 li ul sys_16 12 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+Psychology O psychology 0 0 0 0 0 0 1 0 5 li ul sys_16 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+Neuroscience O neuroscience 0 0 0 0 0 0 1 0 2 li ul sys_16 12 0
+
+Social O social 0 0 0 0 0 0 1 0 6 li ul sys_16 12 0
+Science O science 0 0 0 0 0 0 1 0 7 li ul sys_16 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+Public O public 0 0 0 0 0 0 1 0 7 li ul sys_16 12 0
+Policy O policy 0 0 0 0 0 0 1 0 6 li ul sys_16 12 0
+
+Giving O giving 0 0 0 0 0 0 1 0 4 li ul sys_16 10 0
+
+to O to 0 1 0 0 0 0 0 0 10 li ul sys_16 10 0
+King's O king's 0 0 0 0 0 0 1 0 0 li ul sys_16 10 0
+
+World O world 0 1 0 0 0 0 1 0 7 li ul sys_16 12 0
+questions|King's O questions|king's 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+answers O answers 0 0 0 0 0 0 0 0 2 li ul sys_16 12 0
+
+What O what 0 1 0 0 0 0 1 0 7 li ul sys_16 12 0
+have O have 0 0 0 0 0 0 0 0 7 li ul sys_16 12 0
+we O we 0 0 0 0 0 0 0 0 8 li ul sys_16 12 0
+achieved? O achieved? 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+
+Donate O donate 0 1 0 0 0 0 1 2 5 li ul sys_16 12 0
+now O now 0 0 0 0 0 0 0 0 7 li ul sys_16 12 0
+
+Alumni O alumni 0 0 0 0 0 0 1 0 7 li ul sys_nav_last 10 0
+
+Community O community 0 1 0 0 0 0 1 0 7 li ul sys_nav_last 10 0
+
+Alumni O alumni 0 0 0 0 0 0 1 0 7 li ul sys_16 12 0
+Community O community 0 1 0 0 0 0 1 0 7 li ul sys_16 12 0
+
+Alumni O alumni 0 0 0 0 0 0 1 0 7 li ul sys_16 12 0
+benefits O benefits 0 0 0 0 0 0 0 0 5 li ul sys_16 12 0
+
+Give O give 0 0 0 0 0 0 1 0 5 li ul sys_16 12 0
+back O back 0 0 0 0 0 0 0 0 6 li ul sys_16 12 0
+
+Events O events 0 0 0 0 0 0 1 0 6 li ul sys_16 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+reunions O reunions 0 0 0 0 0 0 0 0 3 li ul sys_16 12 0
+
+News O news 0 0 0 0 0 0 1 0 7 li ul sys_16 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+features O features 0 0 0 0 0 0 0 0 5 li ul sys_16 12 0
+
+About O about 0 0 0 0 0 0 1 0 8 li ul sys_16 10 0
+
+King's O king's 0 0 0 0 0 0 1 0 0 li ul sys_16 10 0
+
+Mission O mission 0 1 0 0 1 0 1 1 7 li ul sys_16 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+strategy O strategy 0 0 0 0 0 0 0 0 6 li ul sys_16 12 0
+
+History O history 0 0 0 0 0 0 1 0 7 li ul sys_16 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+today O today 0 0 0 0 0 0 0 0 6 li ul sys_16 12 0
+
+King's O king's 0 0 0 0 0 0 1 0 0 li ul sys_16 12 0
+Worldwide O worldwide 0 0 0 0 0 0 1 0 3 li ul sys_16 12 0
+
+International O international 0 0 0 0 0 0 1 0 8 li ul sys_16 12 0
+strategy O strategy 0 0 0 0 0 0 0 0 6 li ul sys_16 12 0
+
+Governance O governance 0 0 0 0 0 0 1 0 5 li ul sys_16 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+Legal O legal 0 1 0 0 0 0 1 1 5 li ul sys_16 12 0
+
+President O president 0 1 0 0 0 0 1 1 8 li ul sys_16 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+Principal O principal 0 0 0 0 0 0 1 0 6 li ul sys_16 12 0
+
+Organisational O organisational 0 0 0 0 0 0 1 0 0 li ul sys_16 12 0
+structure O structure 0 0 0 0 0 0 0 0 6 li ul sys_16 12 0
+
+Quality O quality 0 0 0 0 0 0 1 0 5 li ul sys_16 12 0
+management O management 0 0 0 0 0 0 0 0 6 li ul sys_16 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+policy O policy 0 0 0 0 0 0 0 0 6 li ul sys_16 12 0
+
+Job O job 0 1 0 0 0 0 1 4 5 li ul sys_16 12 0
+opportunities O opportunities 0 0 0 0 0 0 0 0 6 li ul sys_16 12 0
+
+Diversity O diversity 0 0 0 0 0 0 1 0 4 li ul sys_16 12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 12 0
+Inclusion O inclusion 0 0 0 0 0 0 1 0 4 li ul sys_16 12 0
+
+Financial O financial 0 0 0 0 0 0 1 0 7 li ul sys_16 12 0
+information O information 0 0 0 0 0 0 0 0 8 li ul sys_16 12 0
+
+Show/hide O show/hide 0 0 0 0 0 0 1 0 0 div form show-menu-mobile 6 152
+main O main 0 0 0 0 0 0 0 0 6 div form show-menu-mobile 6 152
+menu O menu 0 0 0 0 0 0 0 0 8 div form show-menu-mobile 6 152
+
+Home O home 0 1 0 0 0 0 1 2 6 div div sys_t31 9 0
+| O | 0 0 0 0 0 0 0 0 0 div div none 8 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 div div sys_t1034 9 1
+of O of 0 1 0 0 0 0 0 2 10 div div sys_t1034 9 1
+Natural O natural 0 0 0 0 0 0 1 0 5 div div sys_t1034 9 1
+& O & 0 0 0 0 0 0 0 0 0 div div sys_t1034 9 1
+Mathematical O mathematical 0 0 0 0 0 0 1 0 4 div div sys_t1034 9 1
+Sciences O sciences 0 0 0 0 0 0 1 0 7 div div sys_t1034 9 1
+| O | 0 0 0 0 0 0 0 0 0 div div none 8 0
+Department O department 0 0 0 0 0 0 1 0 7 div div sys_t1034 9 2
+of O of 0 1 0 0 0 0 0 2 10 div div sys_t1034 9 2
+Informatics O informatics 0 0 0 0 0 0 1 0 4 div div sys_t1034 9 2
+| O | 0 0 0 0 0 0 0 0 0 div div none 8 0
+People O people 0 1 0 0 0 0 1 0 7 div div none 9 3
+
+People O people 0 1 0 0 0 0 1 0 7 div div page_title 7 6
+
+Academic O academic 0 0 0 0 0 0 1 0 8 div div none 8 0
+Staff O staff 0 1 0 0 0 0 1 2 7 div div none 8 0
+
+This O this 0 1 0 0 0 0 1 1 8 div div none 8 1
+page O page 0 0 0 0 0 0 0 0 9 div div none 8 1
+lists O lists 0 0 0 0 0 0 0 0 5 div div none 8 1
+the O the 0 1 0 0 0 0 0 0 10 div div none 8 1
+academic O academic 0 0 0 0 0 0 0 0 8 div div none 8 1
+staff O staff 0 0 0 0 0 0 0 0 7 div div none 8 1
+of O of 0 1 0 0 0 0 0 2 10 div div none 8 1
+the O the 0 1 0 0 0 0 0 0 10 div div none 8 1
+Department O department 0 0 0 0 0 0 1 0 7 div div none 8 1
+of O of 0 1 0 0 0 0 0 2 10 div div none 8 1
+Informatics. O informatics. 0 0 0 0 0 0 1 0 0 div div none 8 1
+
+To O to 0 1 0 0 0 0 1 5 10 div div none 8 2
+call O call 0 0 0 0 0 0 0 0 5 div div none 8 2
+an O an 0 1 0 0 0 0 0 5 8 div div none 8 2
+extension O extension 0 0 0 0 0 0 0 0 5 div div none 8 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div none 8 2
+dial O dial 0 0 0 0 0 0 0 0 1 div div none 8 2
+
++44 O +44 0 0 0 1 0 0 0 0 0 p div none 9 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 p div none 9 0
+0 O 0 0 0 0 1 0 0 0 0 0 p div none 9 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 p div none 9 0
+20 O 20 0 0 0 1 0 0 0 0 0 p div none 9 0
+7848 O 7848 0 0 0 1 0 0 0 0 0 p div none 9 0
+
+and O and 0 1 0 0 0 0 0 0 10 div div none 8 2
+add O add 0 0 0 0 0 0 0 0 5 div div none 8 2
+the O the 0 1 0 0 0 0 0 0 10 div div none 8 2
+four O four 0 0 0 0 0 0 0 0 5 div div none 8 2
+digit O digit 0 0 0 0 0 0 0 0 0 div div none 8 2
+extension O extension 0 0 0 0 0 0 0 0 5 div div none 8 2
+number. O number. 0 0 0 0 0 0 0 0 0 div div none 8 2
+
+To O to 0 1 0 0 0 0 1 5 10 div div none 8 4
+email O email 0 0 0 0 1 0 0 0 6 div div none 8 4
+add O add 0 0 0 0 0 0 0 0 5 div div none 8 4
+
+@kcl.ac.uk O @kcl.ac.uk 0 0 0 0 0 0 0 0 0 p div none 9 0
+
+unless O unless 0 0 0 0 0 0 0 0 4 div div none 8 4
+otherwise O otherwise 0 0 0 0 0 0 0 0 3 div div none 8 4
+indicated. O indicated. 0 0 0 0 0 0 0 0 0 div div none 8 4
+
+To O to 0 1 0 0 0 0 1 5 10 div div none 8 4
+see O see 0 0 0 0 0 0 0 0 7 div div none 8 4
+a O a 0 1 0 0 0 0 0 3 11 div div none 8 4
+lecturer O lecturer 0 0 0 0 0 0 0 0 5 div div none 8 4
+without O without 0 0 0 0 0 0 0 0 5 div div none 8 4
+an O an 0 1 0 0 0 0 0 5 8 div div none 8 4
+appointment O appointment 0 0 0 0 0 0 0 0 3 div div none 8 4
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div none 8 4
+current O current 0 0 0 0 0 0 0 0 6 div div none 8 4
+students O students 0 0 0 0 0 0 0 0 8 div div none 8 4
+should O should 0 0 0 0 0 0 0 0 5 div div none 8 4
+refer O refer 0 0 0 0 0 0 0 0 3 div div none 8 4
+to O to 0 1 0 0 0 0 0 0 10 div div none 8 4
+academic O academic 0 0 0 0 0 0 0 0 8 p div sys_16 9 3
+office O office 0 0 0 0 0 0 0 0 7 p div sys_16 9 3
+hours O hours 0 0 0 0 0 0 0 0 5 p div sys_16 9 3
+. O . 0 1 0 0 0 0 0 1 0 div div none 8 4
+
+Name O name 0 1 0 0 0 0 1 1 7 tr tbody none 11 0
+
+Role O role 0 1 0 0 0 0 1 1 6 tr tbody none 11 1
+
+Group O group 0 1 0 0 0 0 1 1 6 tr tbody none 11 2
+
+Email O email 0 0 0 0 1 0 1 0 6 tr tbody none 11 3
+
+Tel O tel 0 1 0 0 0 0 1 1 6 th tr none 12 0
+
+Room O room 0 1 0 0 0 0 1 1 6 th tr none 12 0
+
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr sys_t552396 12 0
+Luc B-PER luc 1 1 0 0 0 0 1 6 5 td tr sys_t552396 12 0
+Moreau I-PER moreau 1 1 0 0 0 0 1 4 4 td tr sys_t552396 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 2
+and O and 0 1 0 0 0 0 0 0 10 tr tbody none 11 2
+Head O head 0 1 0 0 0 0 1 4 5 tr tbody none 11 2
+of O of 0 1 0 0 0 0 0 2 10 tr tbody none 11 2
+Department O department 0 0 0 0 0 0 1 0 7 tr tbody none 11 2
+luc.moreau O luc.moreau 0 0 0 0 0 0 0 0 0 tr tbody none 11 4
+6808 O 6808 0 0 0 1 0 0 0 0 0 tr tbody none 11 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 6
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 6
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 6
+6.10 O 6.10 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr sys_t552396 12 0
+Hamid B-PER hamid 1 1 0 0 0 0 1 7 3 td tr sys_t552396 12 0
+Aghvami I-PER aghvami 1 1 0 0 0 0 1 1 0 td tr sys_t552396 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 2
+CTR O ctr 0 0 0 0 0 0 1 0 2 td tr sys_t552396 12 0
+hamid.aghvami O hamid.aghvami 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2898 O 2898 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+S O s 0 1 0 0 0 0 1 4 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.13 O 5.13 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 a td sys_t552396 13 0
+Asad B-PER asad 1 1 0 0 0 0 1 5 0 a td sys_t552396 13 0
+Ali I-PER ali 1 1 0 0 0 0 1 8 5 a td sys_t552396 13 0
+Teaching O teaching 0 0 0 0 0 0 1 0 6 tr tbody none 11 3
+Fellow O fellow 0 0 0 0 0 0 1 0 4 tr tbody none 11 3
+SMAL O smal 0 0 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+asad.ali O asad.ali 0 0 0 0 0 0 0 0 0 tr tbody none 11 6
+1916 O 1916 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 8
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 8
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 8
+7.02 O 7.02 0 0 0 1 0 0 0 0 0 tr tbody none 11 8
+
+Dr O dr 0 1 0 0 0 0 1 0 7 span td sys_t552396 13 0
+Jamie B-PER jamie 0 1 0 0 0 0 1 6 3 span td sys_t552396 13 0
+Barras I-PER barras 0 1 0 0 0 0 1 2 1 span td sys_t552396 13 0
+
+Teaching O teaching 0 0 0 0 0 0 1 0 6 tr tbody none 11 5
+Fellow O fellow 0 0 0 0 0 0 1 0 4 tr tbody none 11 5
+CORE O core 0 0 0 0 0 0 1 0 4 td tr sys_t552396 12 0
+jamie.barras O jamie.barras 0 0 0 0 0 0 0 0 0 tr tbody none 11 8
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tbody none 11 9
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 10
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 10
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 10
+5.07 O 5.07 0 0 0 1 0 0 0 0 0 tr tbody none 11 10
+
+Dr O dr 0 1 0 0 0 0 1 0 7 span td sys_t552396 13 0
+Elizabeth B-PER elizabeth 1 1 0 0 0 0 1 7 5 span td sys_t552396 13 0
+Black I-PER black 1 1 0 0 0 0 1 5 5 span td sys_t552396 13 0
+Senior O senior 0 1 0 0 0 0 1 2 5 tr tbody none 11 3
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 3
+AIS O ais 0 0 0 0 0 0 1 0 3 td tr sys_t552396 12 0
+elizabeth.black O elizabeth.black 0 0 0 0 0 0 0 0 0 tr tbody none 11 6
+2694 O 2694 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 8
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 8
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 8
+7.03 O 7.03 0 0 0 1 0 0 0 0 0 tr tbody none 11 8
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Rita B-PER rita 1 1 0 0 0 0 1 6 3 td tr sys_t552396 12 0
+Borgo I-PER borgo 1 1 0 0 0 0 1 1 2 td tr sys_t552396 12 0
+Senior O senior 0 1 0 0 0 0 1 2 5 tr tbody none 11 2
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+AIS O ais 0 0 0 0 0 0 1 0 3 td tr sys_t552396 12 0
+rita.borgo O rita.borgo 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2419 O 2419 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.01 O 5.01 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Hana B-PER hana 1 1 0 0 0 0 1 5 2 td tr sys_t552396 12 0
+Chockler I-PER chockler 1 1 0 0 0 0 1 1 0 td tr sys_t552396 12 0
+Senior O senior 0 1 0 0 0 0 1 2 5 tr tbody none 11 2
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+SMAL O smal 0 0 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+hana.chockler O hana.chockler 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2928 O 2928 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+7.07 O 7.07 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_16 12 0
+Amanda O amanda 0 1 0 0 0 0 1 6 3 td tr sys_16 12 0
+Coles O coles 0 1 0 0 0 0 1 4 1 td tr sys_16 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+Planning O planning 0 0 0 0 0 0 1 0 6 td tr sys_t552396 12 0
+amanda.coles O amanda.coles 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+7155 O 7155 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+7.03 O 7.03 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Andrew B-PER andrew 1 1 0 0 1 0 1 8 6 td tr sys_t552396 12 0
+Coles I-PER coles 1 1 0 0 0 0 1 4 1 td tr sys_t552396 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+Planning O planning 0 0 0 0 0 0 1 0 6 td tr sys_t552396 12 0
+andrew.coles O andrew.coles 0 0 0 0 1 0 0 0 0 tr tbody none 11 5
+1511 O 1511 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+7.04 O 7.04 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr sys_t552396 12 0
+Colin B-PER colin 1 1 0 0 0 0 1 7 4 td tr sys_t552396 12 0
+Cooper I-PER cooper 1 1 0 0 0 0 1 6 4 td tr sys_t552396 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 2
+AB O ab 0 0 0 0 0 0 1 0 5 td tr sys_t552396 12 0
+colin.cooper O colin.cooper 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2002 O 2002 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.14 O 5.14 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Natalia B-PER natalia 1 1 0 0 0 0 1 6 2 td tr sys_t552396 12 0
+Criado I-PER criado 1 1 0 0 0 0 1 3 0 td tr sys_t552396 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+AIS O ais 0 0 0 0 0 0 1 0 3 td tr sys_t552396 12 0
+natalia.criado O natalia.criado 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+8496 O 8496 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.13 O 5.13 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_16 12 0
+Vasa O vasa 1 1 0 0 0 0 1 2 3 td tr sys_16 12 0
+Curcin O curcin 1 1 0 0 0 0 1 0 0 td tr sys_16 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+AIS O ais 0 0 0 0 0 0 1 0 3 td tr sys_16 12 0
+vasa.curcin O vasa.curcin 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+1579 O 1579 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+7.05 O 7.05 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr sys_t552396 12 0
+Zoran B-PER zoran 1 1 0 0 0 0 1 5 2 td tr sys_t552396 12 0
+Cvetkovic I-PER cvetkovic 1 1 0 0 0 0 1 3 0 td tr sys_t552396 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 2
+CTR O ctr 0 0 0 0 0 0 1 0 2 td tr sys_t552396 12 0
+zoran.cvetkovic O zoran.cvetkovic 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+1073 O 1073 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+S O s 0 1 0 0 0 0 1 4 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.02 O 5.02 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Yansha B-PER yansha 1 1 0 0 0 0 1 1 0 td tr sys_t552396 12 0
+Deng I-PER deng 1 1 0 0 0 0 1 7 2 td tr sys_t552396 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+CTR O ctr 0 0 0 0 0 0 1 0 2 td tr sys_t552396 12 0
+yansha.deng O yansha.deng 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+8671 O 8671 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+S O s 0 1 0 0 0 0 1 4 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.07 O 5.07 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr sys_t552396 12 0
+Jian B-PER jian 1 1 0 0 0 0 1 7 0 td tr sys_t552396 12 0
+S. I-PER s. 1 1 0 0 0 0 1 10 0 td tr sys_t552396 12 0
+Dai I-PER dai 1 1 0 0 0 0 1 7 3 td tr sys_t552396 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 2
+CORE O core 0 0 0 0 0 0 1 0 4 td tr sys_t552396 12 0
+jian.dai O jian.dai 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2321 O 2321 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.12 O 5.12 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr sys_t552396 12 0
+Mischa B-PER mischa 1 1 0 0 1 0 1 3 2 td tr sys_t552396 12 0
+Dohler I-PER dohler 1 1 0 0 0 0 1 1 0 td tr sys_t552396 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 2
+CTR O ctr 0 0 0 0 0 0 1 0 2 td tr sys_t552396 12 0
+mischa.dohler O mischa.dohler 0 0 0 0 1 0 0 0 0 tr tbody none 11 5
+1259 O 1259 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+S O s 0 1 0 0 0 0 1 4 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.02 O 5.02 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr sys_t552396 12 0
+Stefan B-PER stefan 1 1 0 0 0 0 1 8 4 td tr sys_t552396 12 0
+Edelkamp I-PER edelkamp 1 1 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 2
+Planning O planning 0 0 0 0 0 0 1 0 6 td tr sys_t552396 12 0
+stefan.edelkamp O stefan.edelkamp 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+8806 O 8806 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+S O s 0 1 0 0 0 0 1 4 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.11 O 5.11 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr sys_t552396 12 0
+Maribel B-PER maribel 0 1 0 0 0 0 1 4 0 td tr sys_t552396 12 0
+Fernandez I-PER fernandez 0 1 0 0 0 0 1 6 4 td tr sys_t552396 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 2
+SMAL O smal 0 0 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+maribel.fernandez O maribel.fernandez 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2499 O 2499 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+7.19 O 7.19 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr sys_16 12 0
+Maria O maria 1 1 0 0 0 0 1 8 5 td tr sys_16 12 0
+Fox O fox 1 1 0 0 0 0 1 6 5 td tr sys_16 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 2
+Planning O planning 0 0 0 0 0 0 1 0 6 td tr sys_t552396 12 0
+maria.fox O maria.fox 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+8713 O 8713 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+7.20 O 7.20 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Vasilis B-PER vasilis 1 1 0 0 0 0 1 5 0 td tr sys_t552396 12 0
+Friderikos I-PER friderikos 1 1 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+Reader O reader 0 1 0 0 0 0 1 3 3 tr tbody none 11 2
+CTR O ctr 0 0 0 0 0 0 1 0 2 td tr sys_t552396 12 0
+vasilis.friderikos O vasilis.friderikos 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+1877 O 1877 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+S O s 0 1 0 0 0 0 1 4 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.10 O 5.10 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Christopher B-PER christopher 1 1 0 0 0 0 1 8 5 td tr sys_t552396 12 0
+Hampson I-PER hampson 1 1 0 0 0 0 1 3 0 td tr sys_t552396 12 0
+Teaching O teaching 0 0 0 0 0 0 1 0 6 tr tbody none 11 2
+Fellow O fellow 0 0 0 0 0 0 1 0 4 tr tbody none 11 2
+SMAL O smal 0 0 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+christopher.hampson O christopher.hampson 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+8712 O 8712 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+7.02 O 7.02 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Matthew B-PER matthew 1 1 0 0 0 0 1 8 4 td tr sys_t552396 12 0
+Howard I-PER howard 1 1 0 0 0 0 1 7 4 td tr sys_t552396 12 0
+Senior O senior 0 1 0 0 0 0 1 2 5 tr tbody none 11 2
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+CORE O core 0 0 0 0 0 0 1 0 4 td tr sys_t552396 12 0
+matthew.j.howard O matthew.j.howard 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+7578 O 7578 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.07 O 5.07 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr sys_t552396 12 0
+Costas B-PER costas 0 1 0 0 0 0 1 5 2 td tr sys_t552396 12 0
+Iliopoulos I-PER iliopoulos 0 1 0 0 0 0 1 3 0 td tr sys_t552396 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 2
+AB O ab 0 0 0 0 0 0 1 0 5 td tr sys_t552396 12 0
+c.iliopoulos O c.iliopoulos 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2809 O 2809 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.09 O 5.09 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 tr tbody none 11 0
+Ernest O ernest 0 1 0 0 0 0 1 6 5 tr tbody none 11 0
+Kamavuako O kamavuako 0 1 0 0 0 0 1 0 0 tr tbody none 11 0
+Senior O senior 0 1 0 0 0 0 1 2 5 tr tbody none 11 1
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 1
+CORE O core 0 0 0 0 0 0 1 0 4 td tr sys_t552396 12 0
+ernest.kamavuako O ernest.kamavuako 0 0 0 0 0 0 0 0 0 tr tbody none 11 4
+8666 O 8666 0 0 0 1 0 0 0 0 0 tr tbody none 11 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 6
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 6
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 6
+5.03 O 5.03 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Jeroen B-PER jeroen 1 1 0 0 0 0 1 6 0 td tr sys_t552396 12 0
+Keppens I-PER keppens 1 1 0 0 0 0 1 1 0 td tr sys_t552396 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+AIS O ais 0 0 0 0 0 0 1 0 3 td tr sys_t552396 12 0
+jeroen.keppens O jeroen.keppens 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+1591 O 1591 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+7.17 O 7.17 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr sys_t552396 12 0
+Michael B-PER michael 1 1 0 0 0 0 1 9 6 td tr sys_t552396 12 0
+Kölling I-PER kolling 1 1 0 0 0 0 1 1 0 td tr sys_t552396 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 2
+and O and 0 1 0 0 0 0 0 0 10 tr tbody none 11 2
+Vice O vice 0 1 0 0 0 0 1 0 6 tr tbody none 11 2
+Dean O dean 0 1 0 0 0 0 1 6 5 tr tbody none 11 2
+of O of 0 1 0 0 0 0 0 2 10 tr tbody none 11 2
+Faculty O faculty 0 0 0 0 0 0 1 0 7 tr tbody none 11 2
+SMAL O smal 0 0 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+michael.kolling O michael.kolling 0 0 0 0 0 0 0 0 0 td tr sys_16 12 0
+1216 O 1216 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+S3.23 O s3.23 0 0 0 1 0 0 1 0 0 tr tbody none 11 8
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Panos B-PER panos 1 1 0 0 0 0 1 5 1 td tr sys_t552396 12 0
+Kosmas I-PER kosmas 1 1 0 0 0 0 1 3 0 td tr sys_t552396 12 0
+Senior O senior 0 1 0 0 0 0 1 2 5 tr tbody none 11 2
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+CTR O ctr 0 0 0 0 0 0 1 0 2 td tr sys_t552396 12 0
+panagiotis.kosmas O panagiotis.kosmas 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+1874 O 1874 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+S O s 0 1 0 0 0 0 1 4 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.12 O 5.12 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Agi B-PER agi 1 1 0 0 0 0 1 1 3 td tr sys_t552396 12 0
+Kurucz I-PER kurucz 1 1 0 0 0 0 1 2 0 td tr sys_t552396 12 0
+Reader O reader 0 1 0 0 0 0 1 3 3 tr tbody none 11 2
+SMAL O smal 0 0 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+agi.kurucz O agi.kurucz 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2900 O 2900 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+7.01 O 7.01 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Hak B-PER hak 0 1 0 0 0 0 1 5 6 td tr sys_t552396 12 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr sys_t552396 12 0
+Keung I-PER keung 0 1 0 0 0 0 1 5 0 td tr sys_t552396 12 0
+Lam I-PER lam 0 1 0 0 0 0 1 7 6 td tr sys_t552396 12 0
+
+Reader O reader 0 1 0 0 0 0 1 3 3 tr tbody none 11 3
+CORE O core 0 0 0 0 0 0 1 0 4 td tr sys_t552396 12 0
+hak O hak 0 1 0 0 0 0 0 2 6 tr tbody none 11 6
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tbody none 11 6
+keung.lam O keung.lam 0 0 0 0 0 0 0 0 0 tr tbody none 11 6
+1240 O 1240 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 8
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 8
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 8
+5.05 O 5.05 0 0 0 1 0 0 0 0 0 tr tbody none 11 8
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Kevin B-PER kevin 1 1 0 0 0 0 1 8 4 td tr sys_t552396 12 0
+Lano I-PER lano 1 1 0 0 0 0 1 2 0 td tr sys_t552396 12 0
+Reader O reader 0 1 0 0 0 0 1 3 3 tr tbody none 11 2
+SMAL O smal 0 0 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+kevin.lano O kevin.lano 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2832 O 2832 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+6.01 O 6.01 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Hongbin B-PER hongbin 1 1 0 0 1 0 1 4 0 td tr sys_t552396 12 0
+Liu I-PER liu 1 1 0 0 0 0 1 9 6 td tr sys_t552396 12 0
+Senior O senior 0 1 0 0 0 0 1 2 5 tr tbody none 11 2
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+CORE O core 0 0 0 0 0 0 1 0 4 td tr sys_t552396 12 0
+hongbin.liu O hongbin.liu 0 0 0 0 1 0 0 0 0 tr tbody none 11 5
+2725 O 2725 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.05 O 5.05 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr sys_t552396 12 0
+Derek B-PER derek 1 1 0 0 0 0 1 6 2 td tr sys_t552396 12 0
+Long I-PER long 1 1 0 0 0 0 1 7 6 td tr sys_t552396 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 2
+Planning O planning 0 0 0 0 0 0 1 0 6 td tr sys_t552396 12 0
+derek.long O derek.long 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+8713 O 8713 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+7.20 O 7.20 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Grigorios B-PER grigorios 1 1 0 0 0 0 1 4 0 td tr sys_t552396 12 0
+Loukides I-PER loukides 1 1 0 0 0 0 1 1 0 td tr sys_t552396 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+AB O ab 0 0 0 0 0 0 1 0 5 td tr sys_t552396 12 0
+grigorios.loukides O grigorios.loukides 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+0553 O 0553 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.13 O 5.13 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr sys_t552396 12 0
+Michael B-PER michael 1 1 0 0 0 0 1 9 6 td tr sys_t552396 12 0
+Luck I-PER luck 1 1 0 0 0 0 1 3 2 td tr sys_t552396 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 2
+and O and 0 1 0 0 0 0 0 0 10 tr tbody none 11 2
+Dean O dean 0 1 0 0 0 0 1 6 5 tr tbody none 11 2
+of O of 0 1 0 0 0 0 0 2 10 tr tbody none 11 2
+Faculty O faculty 0 0 0 0 0 0 1 0 7 tr tbody none 11 2
+AIS O ais 0 0 0 0 0 0 1 0 3 td tr sys_t552396 12 0
+michael.luck O michael.luck 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2371 O 2371 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+S3.38 O s3.38 0 0 0 1 0 0 1 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_16 12 0
+Daniele O daniele 1 1 0 0 0 0 1 6 4 td tr sys_16 12 0
+Magazzeni O magazzeni 1 1 0 0 0 0 1 0 0 td tr sys_16 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+Planning O planning 0 0 0 0 0 0 1 0 6 td tr sys_t552396 12 0
+daniele.magazzeni O daniele.magazzeni 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+1587 O 1587 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+7.20 O 7.20 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Toktam B-PER toktam 1 1 0 0 0 0 1 2 0 td tr sys_t552396 12 0
+Mahmoodi I-PER mahmoodi 1 1 0 0 0 0 1 3 0 td tr sys_t552396 12 0
+Senior O senior 0 1 0 0 0 0 1 2 5 tr tbody none 11 2
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+CTR O ctr 0 0 0 0 0 0 1 0 2 td tr sys_t552396 12 0
+toktam.mahmoodi O toktam.mahmoodi 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+
+2897 O 2897 0 0 0 1 0 0 0 0 0 td tr none 12 0
+
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 8
+S O s 0 1 0 0 0 0 1 4 10 tr tbody none 11 8
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 8
+5.09 O 5.09 0 0 0 1 0 0 0 0 0 tr tbody none 11 8
+
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr sys_t552396 12 0
+Peter B-PER peter 1 1 0 0 0 0 1 9 6 td tr sys_t552396 12 0
+McBurney I-PER mcburney 1 1 0 0 0 0 1 2 0 td tr sys_t552396 12 0
+
+on O on 0 1 0 0 0 0 0 2 9 td tr none 12 1
+study O study 0 0 0 0 0 0 0 0 6 td tr none 12 1
+leave O leave 0 0 0 0 0 0 0 0 5 td tr none 12 1
+until O until 0 0 0 0 0 0 0 0 5 td tr none 12 1
+Sept O sept 0 1 0 0 0 0 1 0 6 td tr none 12 1
+2018 O 2018 0 0 0 1 0 0 0 0 0 td tr none 12 1
+
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 4
+AIS O ais 0 0 0 0 0 0 1 0 3 td tr sys_t552396 12 0
+peter.mcburney O peter.mcburney 0 0 0 0 0 0 0 0 0 tr tbody none 11 7
+1253 O 1253 0 0 0 1 0 0 0 0 0 tr tbody none 11 8
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 9
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 9
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 9
+7.15 O 7.15 0 0 0 1 0 0 0 0 0 tr tbody none 11 9
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Simon B-PER simon 1 1 0 0 0 0 1 8 5 td tr sys_t552396 12 0
+Miles I-PER miles 1 1 0 0 0 0 1 5 3 td tr sys_t552396 12 0
+Reader O reader 0 1 0 0 0 0 1 3 3 tr tbody none 11 2
+AIS O ais 0 0 0 0 0 0 1 0 3 td tr sys_t552396 12 0
+simon.miles O simon.miles 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+1166 O 1166 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+S O s 0 1 0 0 0 0 1 4 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.22 O 5.22 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Sanjay B-PER sanjay 1 1 0 0 0 0 1 6 0 td tr sys_t552396 12 0
+Modgil I-PER modgil 1 1 0 0 0 0 1 1 0 td tr sys_t552396 12 0
+Senior O senior 0 1 0 0 0 0 1 2 5 tr tbody none 11 2
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+AIS O ais 0 0 0 0 0 0 1 0 3 td tr sys_t552396 12 0
+sanjay.modgil O sanjay.modgil 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2775 O 2775 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+7.08 O 7.08 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Mr O mr 0 0 0 0 0 0 1 0 4 td tr sys_t552396 12 0
+Josh B-PER josh 0 1 0 0 0 0 1 6 2 td tr sys_t552396 12 0
+Murphy I-PER murphy 0 1 0 0 0 0 1 6 4 td tr sys_t552396 12 0
+Teaching O teaching 0 0 0 0 0 0 1 0 6 tr tbody none 11 2
+Fellow O fellow 0 0 0 0 0 0 1 0 4 tr tbody none 11 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tbody none 11 3
+josh.l.murphy O josh.l.murphy 0 0 0 0 0 0 0 0 0 tr tbody none 11 4
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tbody none 11 3
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 6
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 6
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 6
+6.04 O 6.04 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Mohammad B-PER mohammad 1 1 0 0 0 0 1 8 3 td tr sys_t552396 12 0
+Reza I-PER reza 1 1 0 0 0 0 1 7 2 td tr sys_t552396 12 0
+Nakhai I-PER nakhai 1 1 0 0 0 0 1 1 0 td tr sys_t552396 12 0
+Senior O senior 0 1 0 0 0 0 1 2 5 tr tbody none 11 2
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+CTR O ctr 0 0 0 0 0 0 1 0 2 td tr sys_t552396 12 0
+reza.nakhai O reza.nakhai 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2744 O 2744 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+S O s 0 1 0 0 0 0 1 4 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.04 O 5.04 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Richard B-PER richard 0 1 0 0 0 0 1 9 6 td tr sys_t552396 12 0
+Overill I-PER overill 0 1 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+Senior O senior 0 1 0 0 0 0 1 2 5 tr tbody none 11 2
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+SMAL O smal 0 0 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+richard.overill O richard.overill 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2833 O 2833 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+6.06 O 6.06 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr sys_t552396 12 0
+Simon B-PER simon 1 1 0 0 0 0 1 8 5 td tr sys_t552396 12 0
+Parsons I-PER parsons 1 1 0 0 0 0 1 5 1 td tr sys_t552396 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 2
+AIS O ais 0 0 0 0 0 0 1 0 3 td tr sys_t552396 12 0
+simon.parsons O simon.parsons 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2041 O 2041 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+7.15 O 7.15 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Steve B-PER steve 1 1 0 0 0 0 1 7 4 td tr sys_t552396 12 0
+Phelps I-PER phelps 1 1 0 0 0 0 1 4 1 td tr sys_t552396 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+AIS O ais 0 0 0 0 0 0 1 0 3 td tr sys_t552396 12 0
+steve.phelps O steve.phelps 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+1800 O 1800 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+7.06 O 7.06 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Solon B-PER solon 0 1 0 0 0 0 1 3 1 td tr sys_t552396 12 0
+Pissis I-PER pissis 0 1 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+AB O ab 0 0 0 0 0 0 1 0 5 td tr sys_t552396 12 0
+solon.pissis O solon.pissis 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+1807 O 1807 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.16 O 5.16 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Maria B-PER maria 1 1 0 0 0 0 1 8 5 td tr sys_t552396 12 0
+Polukarov I-PER polukarov 1 1 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+Senior O senior 0 1 0 0 0 0 1 2 5 tr tbody none 11 2
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+AIS O ais 0 0 0 0 0 0 1 0 3 td tr sys_t552396 12 0
+maria.polukarov O maria.polukarov 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+1789 O 1789 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.16 O 5.16 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Mr O mr 0 0 0 0 0 0 1 0 4 tr tbody none 11 0
+Jeffery O jeffery 1 1 0 0 0 0 1 5 1 tr tbody none 11 0
+Raphael O raphael 1 1 0 0 0 0 1 6 4 tr tbody none 11 0
+Teaching O teaching 0 0 0 0 0 0 1 0 6 tr tbody none 11 1
+Fellow O fellow 0 0 0 0 0 0 1 0 4 tr tbody none 11 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tbody none 11 2
+jeffery.raphael O jeffery.raphael 0 0 0 0 0 0 0 0 0 tr tbody none 11 3
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tbody none 11 2
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 5
+S O s 0 1 0 0 0 0 1 4 10 tr tbody none 11 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 5
+5.03 O 5.03 0 0 0 1 0 0 0 0 0 tr tbody none 11 5
+
+Prof O prof 0 0 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Tomasz B-PER tomasz 1 1 0 0 0 0 1 6 0 td tr sys_t552396 12 0
+Radzik I-PER radzik 1 1 0 0 0 0 1 1 0 td tr sys_t552396 12 0
+
+on O on 0 1 0 0 0 0 0 2 9 td tr none 12 2
+study O study 0 0 0 0 0 0 0 0 6 td tr none 12 2
+leave O leave 0 0 0 0 0 0 0 0 5 td tr none 12 2
+until O until 0 0 0 0 0 0 0 0 5 td tr none 12 2
+Sept O sept 0 1 0 0 0 0 1 0 6 td tr none 12 2
+2018 O 2018 0 0 0 1 0 0 0 0 0 td tr none 12 2
+
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 4
+AB O ab 0 0 0 0 0 0 1 0 5 td tr sys_t552396 12 0
+tomasz.radzik O tomasz.radzik 0 0 0 0 0 0 0 0 0 tr tbody none 11 7
+2841 O 2841 0 0 0 1 0 0 0 0 0 tr tbody none 11 8
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 9
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 9
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 9
+5.14 O 5.14 0 0 0 1 0 0 0 0 0 tr tbody none 11 9
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Odinaldo B-PER odinaldo 1 1 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+Rodrigues I-PER rodrigues 1 1 0 0 0 0 1 7 2 td tr sys_t552396 12 0
+
+on O on 0 1 0 0 0 0 0 2 9 td tr none 12 1
+study O study 0 0 0 0 0 0 0 0 6 td tr none 12 1
+leave O leave 0 0 0 0 0 0 0 0 5 td tr none 12 1
+until O until 0 0 0 0 0 0 0 0 5 td tr none 12 1
+Sept O sept 0 1 0 0 0 0 1 0 6 td tr none 12 1
+2018 O 2018 0 0 0 1 0 0 0 0 0 td tr none 12 1
+
+Senior O senior 0 1 0 0 0 0 1 2 5 tr tbody none 11 4
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 4
+SMAL O smal 0 0 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+odinaldo.rodrigues O odinaldo.rodrigues 0 0 0 0 0 0 0 0 0 tr tbody none 11 7
+2087 O 2087 0 0 0 1 0 0 0 0 0 tr tbody none 11 8
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 9
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 9
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 9
+7.08 O 7.08 0 0 0 1 0 0 0 0 0 tr tbody none 11 9
+
+Ms O ms 0 0 0 0 0 0 1 0 6 td tr sys_t552396 12 0
+Isabel B-PER isabel 1 1 0 0 0 0 1 6 3 td tr sys_t552396 12 0
+Sassoon I-PER sassoon 1 1 0 0 0 0 1 1 0 td tr sys_t552396 12 0
+Teaching O teaching 0 0 0 0 0 0 1 0 6 tr tbody none 11 2
+Fellow O fellow 0 0 0 0 0 0 1 0 4 tr tbody none 11 2
+AIS O ais 0 0 0 0 0 0 1 0 3 td tr sys_t552396 12 0
+isabel.k.sassoon O isabel.k.sassoon 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2008 O 2008 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+S O s 0 1 0 0 0 0 1 4 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.03 O 5.03 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 p td sys_t552396 13 0
+Nishanth B-PER nishanth 1 1 0 0 0 0 1 3 0 p td sys_t552396 13 0
+Sastry I-PER sastry 1 1 0 0 0 0 1 5 0 p td sys_t552396 13 0
+
+on O on 0 1 0 0 0 0 0 2 9 p td none 13 2
+study O study 0 0 0 0 0 0 0 0 6 p td none 13 2
+leave O leave 0 0 0 0 0 0 0 0 5 p td none 13 2
+until O until 0 0 0 0 0 0 0 0 5 p td none 13 2
+Sept O sept 0 1 0 0 0 0 1 0 6 p td none 13 2
+2018 O 2018 0 0 0 1 0 0 0 0 0 p td none 13 2
+
+Senior O senior 0 1 0 0 0 0 1 2 5 tr tbody none 11 5
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 5
+CTR O ctr 0 0 0 0 0 0 1 0 2 td tr sys_t552396 12 0
+nishanth.sastry O nishanth.sastry 0 0 0 0 0 0 0 0 0 tr tbody none 11 8
+2445 O 2445 0 0 0 1 0 0 0 0 0 tr tbody none 11 9
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 10
+S O s 0 1 0 0 0 0 1 4 10 tr tbody none 11 10
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 10
+5.07 O 5.07 0 0 0 1 0 0 0 0 0 tr tbody none 11 10
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Mohammad B-PER mohammad 0 1 0 0 0 0 1 8 3 td tr sys_t552396 12 0
+Shikh I-PER shikh 0 1 0 0 0 0 1 1 0 td tr sys_t552396 12 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr sys_t552396 12 0
+Bahaei I-PER bahaei 0 1 0 0 0 0 1 1 0 td tr sys_t552396 12 0
+Reader O reader 0 1 0 0 0 0 1 3 3 tr tbody none 11 2
+CTR O ctr 0 0 0 0 0 0 1 0 2 td tr sys_t552396 12 0
+m.sbahaei O m.sbahaei 0 0 0 0 1 0 0 0 0 tr tbody none 11 5
+2367 O 2367 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+S O s 0 1 0 0 0 0 1 4 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.14 O 5.14 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr sys_t552396 12 0
+Osvaldo B-PER osvaldo 1 1 0 0 0 0 1 4 1 td tr sys_t552396 12 0
+Simeone I-PER simeone 1 1 0 0 0 0 1 3 0 td tr sys_t552396 12 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 2
+CTR O ctr 0 0 0 0 0 0 1 0 2 td tr sys_t552396 12 0
+osvaldo.simeone O osvaldo.simeone 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+1341 O 1341 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+S O s 0 1 0 0 0 0 1 4 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.09 O 5.09 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_16 12 0
+Elizabeth O elizabeth 1 1 0 0 0 0 1 7 5 td tr sys_16 12 0
+Sklar O sklar 1 1 0 0 0 0 1 3 0 td tr sys_16 12 0
+Reader O reader 0 1 0 0 0 0 1 3 3 tr tbody none 11 2
+CORE O core 0 0 0 0 0 0 1 0 4 td tr sys_t552396 12 0
+elizabeth.sklar O elizabeth.sklar 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2236 O 2236 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.01 O 5.01 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 p td sys_t552396 13 0
+Michael B-PER michael 0 1 0 0 0 0 1 9 6 p td sys_t552396 13 0
+Spratling I-PER spratling 0 1 0 0 0 0 1 1 0 p td sys_t552396 13 0
+
+Reader O reader 0 1 0 0 0 0 1 3 3 tr tbody none 11 3
+CORE O core 0 0 0 0 0 0 1 0 4 td tr sys_t552396 12 0
+michael.spratling O michael.spratling 0 0 0 0 0 0 0 0 0 tr tbody none 11 6
+2027 O 2027 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr none 12 0
+N O n 0 1 0 0 0 0 1 3 10 td tr none 12 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr none 12 0
+5.04 O 5.04 0 0 0 1 0 0 0 0 0 td tr none 12 0
+
+Dr O dr 0 1 0 0 0 0 1 0 7 p td sys_t552396 13 0
+Kathleen B-PER kathleen 0 1 0 0 0 0 1 6 4 p td sys_t552396 13 0
+Steinhoefel I-PER steinhoefel 0 0 0 0 0 0 1 0 0 p td sys_t552396 13 0
+
+Reader O reader 0 1 0 0 0 0 1 3 3 tr tbody none 11 4
+AB O ab 0 0 0 0 0 0 1 0 5 td tr sys_t552396 12 0
+kathleen.steinhofel O kathleen.steinhofel 0 0 0 0 0 0 0 0 0 tr tbody none 11 7
+1590 O 1590 0 0 0 1 0 0 0 0 0 tr tbody none 11 8
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 9
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 9
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 9
+5.18 O 5.18 0 0 0 1 0 0 0 0 0 tr tbody none 11 9
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Jose B-PER jose 0 1 0 0 0 0 1 7 6 td tr sys_t552396 12 0
+Such I-PER such 0 1 0 0 0 0 1 2 6 td tr sys_t552396 12 0
+Senior O senior 0 1 0 0 0 0 1 2 5 tr tbody none 11 2
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+SMAL O smal 0 0 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+jose.such O jose.such 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2256 O 2256 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+7.17 O 7.17 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Laurence B-PER laurence 1 1 0 0 0 0 1 6 4 td tr sys_t552396 12 0
+Tratt I-PER tratt 1 1 0 0 0 0 1 1 0 td tr sys_t552396 12 0
+Reader O reader 0 1 0 0 0 0 1 3 3 tr tbody none 11 2
+SMAL O smal 0 0 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+laurence.tratt O laurence.tratt 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+7997 O 7997 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+7.05 O 7.05 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Sophia B-PER sophia 1 1 0 0 0 0 1 5 5 td tr sys_t552396 12 0
+Tsoka I-PER tsoka 1 1 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+Senior O senior 0 1 0 0 0 0 1 2 5 tr tbody none 11 2
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+AB O ab 0 0 0 0 0 0 1 0 5 td tr sys_t552396 12 0
+sophia.tsoka O sophia.tsoka 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+1056 O 1056 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+5.19 O 5.19 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Christian B-PER christian 1 1 0 0 0 0 1 8 5 td tr sys_t552396 12 0
+Urban I-PER urban 1 1 0 0 0 0 1 5 4 td tr sys_t552396 12 0
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 2
+SMAL O smal 0 0 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+christian.urban O christian.urban 0 0 0 0 0 0 0 0 0 tr tbody none 11 5
+2584 O 2584 0 0 0 1 0 0 0 0 0 tr tbody none 11 6
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 7
+7.07 O 7.07 0 0 0 1 0 0 0 0 0 tr tbody none 11 7
+
+Professor O professor 0 0 0 0 1 0 1 0 7 p td sys_t552396 13 0
+Luca B-PER luca 0 1 0 0 0 0 1 7 2 p td sys_t552396 13 0
+Vigan I-PER vigan 0 1 0 0 0 0 1 1 1 p td sys_t552396 13 0
+ò O o 0 0 0 0 0 0 0 0 10 p td sys_t552396 13 1
+
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody none 11 4
+SMAL O smal 0 0 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+luca.vigano O luca.vigano 0 0 0 0 0 0 0 0 0 tr tbody none 11 7
+2078 O 2078 0 0 0 1 0 0 0 0 0 tr tbody none 11 8
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 9
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 9
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 9
+7.18 O 7.18 0 0 0 1 0 0 0 0 0 tr tbody none 11 9
+
+Dr O dr 0 1 0 0 0 0 1 0 7 td tr sys_t552396 12 0
+Steffen B-PER steffen 1 1 0 0 0 0 1 6 1 td tr sys_t552396 12 0
+Zschaler I-PER zschaler 1 1 0 0 0 0 1 1 0 td tr sys_t552396 12 0
+
+on O on 0 1 0 0 0 0 0 2 9 td tr none 12 1
+study O study 0 0 0 0 0 0 0 0 6 td tr none 12 1
+leave O leave 0 0 0 0 0 0 0 0 5 td tr none 12 1
+until O until 0 0 0 0 0 0 0 0 5 td tr none 12 1
+Sept O sept 0 1 0 0 0 0 1 0 6 td tr none 12 1
+2018 O 2018 0 0 0 1 0 0 0 0 0 td tr none 12 1
+
+Senior O senior 0 1 0 0 0 0 1 2 5 tr tbody none 11 4
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody none 11 4
+SMAL O smal 0 0 0 0 0 0 1 0 0 td tr sys_t552396 12 0
+steffen.zschaler O steffen.zschaler 0 0 0 0 0 0 0 0 0 tr tbody none 11 7
+1513 O 1513 0 0 0 1 0 0 0 0 0 tr tbody none 11 8
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr tbody none 11 9
+N O n 0 1 0 0 0 0 1 3 10 tr tbody none 11 9
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr tbody none 11 9
+7.01 O 7.01 0 0 0 1 0 0 0 0 0 tr tbody none 11 9
+
+About O about 0 0 0 0 0 0 1 0 8 li ul sys_first 10 0
+us O us 0 1 0 0 0 0 0 1 8 li ul sys_first 10 0
+
+People O people 0 1 0 0 0 0 1 0 7 div li sys_currentitem 11 0
+
+Academic O academic 0 0 0 0 0 0 1 0 8 li ul sys_first 12 0
+Staff O staff 0 1 0 0 0 0 1 2 7 li ul sys_first 12 0
+A O a 0 1 0 0 0 0 1 4 11 li ul sys_first 12 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul sys_first 12 0
+Z O z 0 1 0 0 0 0 1 1 8 li ul sys_first 12 0
+
+Academic O academic 0 0 0 0 0 0 1 0 8 div li sys_currentitem 13 0
+Staff O staff 0 1 0 0 0 0 1 2 7 div li sys_currentitem 13 0
+
+Associate O associate 0 1 0 0 0 0 1 0 6 li ul sys_children 12 0
+Academic O academic 0 0 0 0 0 0 1 0 8 li ul sys_children 12 0
+Staff O staff 0 1 0 0 0 0 1 2 7 li ul sys_children 12 0
+
+Research O research 0 1 0 0 0 0 1 0 7 li ul sys_children 12 0
+Staff O staff 0 1 0 0 0 0 1 2 7 li ul sys_children 12 0
+
+Visitors O visitors 0 0 0 0 0 0 1 0 4 li ul sys_children 12 0
+
+Professional O professional 0 0 0 0 1 0 1 0 5 li ul sys_children 12 0
+Services O services 0 0 0 0 0 0 1 0 8 li ul sys_children 12 0
+and O and 0 1 0 0 0 0 0 0 10 li ul sys_children 12 0
+Systems O systems 0 0 0 0 0 0 1 0 6 li ul sys_children 12 0
+Staff O staff 0 1 0 0 0 0 1 2 7 li ul sys_children 12 0
+
+PhD O phd 0 0 0 0 0 0 1 0 6 li ul sys_children 12 0
+Students O students 0 0 0 0 0 0 1 0 8 li ul sys_children 12 0
+
+Vacancies O vacancies 0 0 0 0 0 0 1 0 1 li ul sys_last 12 0
+
+Study O study 0 1 0 0 0 0 1 0 6 li ul sys_accordianMenu 10 0
+
+Research O research 0 1 0 0 0 0 1 0 7 li ul sys_accordianMenu 10 0
+
+Innovation O innovation 0 0 0 0 0 0 1 0 6 li ul sys_accordianMenu 10 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_accordianMenu 10 0
+Enterprise O enterprise 0 0 0 0 0 0 1 0 4 li ul sys_accordianMenu 10 0
+
+Women O women 0 0 0 0 0 0 1 0 5 li ul sys_accordianMenu 10 0
+in O in 0 1 0 0 0 0 0 3 10 li ul sys_accordianMenu 10 0
+Science O science 0 0 0 0 0 0 1 0 7 li ul sys_accordianMenu 10 0
+
+News O news 0 0 0 0 0 0 1 0 7 li ul sys_accordianMenu 10 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_accordianMenu 10 0
+Events O events 0 0 0 0 0 0 1 0 6 li ul sys_accordianMenu 10 0
+
+Contact O contact 0 0 0 0 0 0 1 0 8 li ul sys_last 10 0
+us O us 0 1 0 0 0 0 0 1 8 li ul sys_last 10 0
+
+further O further 0 0 0 0 0 0 0 0 4 div div sys_nursing 8 0
+information O information 0 0 0 0 0 0 0 0 8 div div sys_nursing 8 0
+
+research O research 0 0 0 0 0 0 0 0 7 a div sys_puff_title 13 0
+
+student O student 0 0 0 0 0 0 0 0 8 a div sys_puff_title 13 0
+handbook O handbook 0 0 0 0 0 0 0 0 5 a div sys_puff_title 13 0
+
+how O how 0 0 0 0 0 0 0 0 7 a div sys_puff_title 13 0
+to O to 0 1 0 0 0 0 0 0 10 a div sys_puff_title 13 0
+find O find 0 0 0 0 0 0 0 0 6 a div sys_puff_title 13 0
+us O us 0 1 0 0 0 0 0 1 8 a div sys_puff_title 13 0
+
+Facebook O facebook 0 0 0 0 0 0 1 0 7 li ul sys_facebook_footer 10 0
+
+Twitter O twitter 0 0 0 0 0 0 1 0 7 li ul sys_twitter_footer 10 0
+
+Youtube O youtube 0 0 0 0 0 0 1 0 5 li ul sys_youtube_footer 10 0
+
+Add O add 0 0 0 0 0 0 1 0 5 li ul sys_favourite_footer 10 0
+to O to 0 1 0 0 0 0 0 0 10 li ul sys_favourite_footer 10 0
+Favourites O favourites 0 0 0 0 0 0 1 0 0 li ul sys_favourite_footer 10 0
+
+Digg O digg 0 0 0 0 0 0 1 0 0 li ul sys_digg_footer 10 0
+
+RSS O rss 0 0 0 0 0 0 1 0 4 li ul sys_rss_footer 10 0
+Feed O feed 0 0 0 0 0 0 1 0 3 li ul sys_rss_footer 10 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul sys_16 9 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 9 0
+Arts O arts 0 1 0 0 0 0 1 3 7 li ul sys_16 9 0
+
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 9 0
+Humanities O humanities 0 0 0 0 0 0 1 0 5 li ul sys_16 9 0
+
+Arts O arts 0 1 0 0 0 0 1 3 7 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Humanities O humanities 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Classics O classics 0 0 0 0 0 0 1 0 1 li ul sys_16 11 0
+
+Comparative O comparative 0 0 0 0 0 0 1 0 3 li ul sys_16 11 0
+Literature O literature 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+
+Culture O culture 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Media O media 0 1 0 0 0 0 1 1 7 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Creative O creative 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+Industries O industries 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+
+Digital O digital 0 1 0 0 0 0 1 0 5 li ul sys_16 11 0
+Humanities O humanities 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+
+English O english 0 1 0 0 0 0 1 4 8 li ul sys_16 11 0
+
+Film O film 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+Studies O studies 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+French O french 0 1 0 0 0 0 1 5 6 li ul sys_16 11 0
+
+German O german 0 1 0 0 0 0 1 5 5 li ul sys_16 11 0
+
+History O history 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+King's O king's 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+Digital O digital 0 1 0 0 0 0 1 0 5 li ul sys_16 11 0
+Lab O lab 0 1 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Liberal O liberal 0 1 0 0 0 0 1 1 5 li ul sys_16 11 0
+Arts O arts 0 1 0 0 0 0 1 3 7 li ul sys_16 11 0
+
+Modern O modern 0 1 0 0 0 0 1 0 5 li ul sys_16 11 0
+Language O language 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Music O music 0 1 0 0 1 0 1 2 8 li ul sys_16 11 0
+
+Philosophy O philosophy 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+
+Spanish O spanish 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Portuguese O portuguese 0 1 0 0 0 0 1 0 3 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Latin O latin 0 1 0 0 0 0 1 1 6 li ul sys_16 11 0
+American O american 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+Studies O studies 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Theology O theology 0 0 0 0 0 0 1 0 1 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Religious O religious 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+Studies O studies 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Dental O dental 0 0 0 0 0 0 1 0 4 li ul sys_16 9 0
+
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul sys_16 9 0
+
+Academic O academic 0 0 0 0 0 0 1 0 8 li ul sys_16 11 0
+Staff O staff 0 1 0 0 0 0 1 2 7 li ul sys_16 11 0
+Profiles O profiles 0 0 0 0 1 0 1 0 3 li ul sys_16 11 0
+
+Distance O distance 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+Learning O learning 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+LonDEC O londec 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+
+Prospective O prospective 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+Postgraduates O postgraduates 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+
+Prospective O prospective 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+Undergraduates O undergraduates 0 0 0 0 0 0 1 0 3 li ul sys_16 11 0
+
+Craniofacial O craniofacial 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+Development O development 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Stem O stem 0 1 0 0 0 0 1 1 2 li ul sys_16 11 0
+Cell O cell 0 1 0 0 0 0 1 0 4 li ul sys_16 11 0
+Biology O biology 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Mucosal O mucosal 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Salivary O salivary 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+Biology O biology 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Population O population 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Patient O patient 0 1 0 0 0 0 1 1 3 li ul sys_16 11 0
+Health O health 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Tissue O tissue 0 1 0 0 0 0 1 1 1 li ul sys_16 11 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Biophotonics O biophotonics 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+
+Dental O dental 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+Innovation O innovation 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Translation O translation 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul footer-lsm 9 0
+of O of 0 1 0 0 0 0 0 2 10 li ul footer-lsm 9 0
+
+Life O life 0 1 0 0 0 0 1 1 7 li ul footer-lsm 9 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul footer-lsm 9 0
+& O & 0 0 0 0 0 0 0 0 0 li ul footer-lsm 9 0
+Medicine O medicine 0 0 0 0 0 0 1 0 4 li ul footer-lsm 9 0
+
+School O school 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Bioscience O bioscience 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+Education O education 0 0 0 0 0 0 1 0 8 li ul sys_16 11 0
+
+GKT O gkt 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+School O school 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Medical O medical 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+Education O education 0 0 0 0 0 0 1 0 8 li ul sys_16 11 0
+
+Bioscience O bioscience 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+Education O education 0 0 0 0 0 0 1 0 8 li ul sys_16 11 0
+
+Analytical O analytical 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Environmental O environmental 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+Division O division 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Asthma O asthma 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Allergy O allergy 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Lung O lung 0 1 0 0 0 0 1 6 2 li ul sys_16 11 0
+Biology O biology 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Cancer O cancer 0 1 0 0 0 0 1 1 6 li ul sys_16 11 0
+Studies O studies 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Cardiovascular O cardiovascular 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+for O for 0 1 0 0 0 0 0 1 9 li ul sys_16 11 0
+Global O global 0 1 0 0 0 0 1 0 6 li ul sys_16 11 0
+Health O health 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Human O human 0 1 0 0 0 0 1 2 5 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Aerospace O aerospace 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+Physiological O physiological 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul sys_16 11 0
+CHAPS O chaps 0 0 0 0 0 0 1 0 1 li ul sys_16 11 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul sys_16 11 0
+
+Diabetes O diabetes 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Nutritional O nutritional 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Genetics O genetics 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Molecular O molecular 0 0 0 0 0 0 1 0 3 li ul sys_16 11 0
+Medicine O medicine 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+
+Imaging O imaging 0 0 0 0 0 0 1 0 3 li ul sys_16 11 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Biomedical O biomedical 0 0 0 0 0 0 1 0 3 li ul sys_16 11 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Immunology O immunology 0 0 0 0 0 0 1 0 1 li ul sys_16 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Infection O infection 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Inflammatory O inflammatory 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+Disease O disease 0 0 0 0 0 0 1 0 3 li ul sys_16 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul footer-hide 9 0
+of O of 0 1 0 0 0 0 0 2 10 li ul footer-hide 9 0
+
+Life O life 0 1 0 0 0 0 1 1 7 li ul footer-hide 9 0
+Science O science 0 0 0 0 0 0 1 0 7 li ul footer-hide 9 0
+& O & 0 0 0 0 0 0 0 0 0 li ul footer-hide 9 0
+Medicine O medicine 0 0 0 0 0 0 1 0 4 li ul footer-hide 9 0
+
+Pharmaceutical O pharmaceutical 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+Science O science 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Health O health 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Social O social 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+Care O care 0 1 0 0 0 0 1 2 6 li ul sys_16 11 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Transplantation O transplantation 0 0 0 0 0 0 1 0 1 li ul sys_16 11 0
+Immunology O immunology 0 0 0 0 0 0 1 0 1 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Mucosal O mucosal 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+Biology O biology 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Randall O randall 0 1 0 0 0 0 1 6 2 li ul sys_16 11 0
+Division O division 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Cell O cell 0 1 0 0 0 0 1 0 4 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Molecular O molecular 0 0 0 0 0 0 1 0 3 li ul sys_16 11 0
+Biophysics O biophysics 0 0 0 0 0 0 1 0 1 li ul sys_16 11 0
+
+Women's O women's 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+Health O health 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Department O department 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Anatomy O anatomy 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+
+Department O department 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Biochemistry O biochemistry 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+
+Department O department 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Genetics O genetics 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Immunology O immunology 0 0 0 0 0 0 1 0 1 li ul sys_16 11 0
+
+Department O department 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Neuroscience O neuroscience 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+Education O education 0 0 0 0 0 0 1 0 8 li ul sys_16 11 0
+
+Medical O medical 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+Education O education 0 0 0 0 0 0 1 0 8 li ul sys_16 11 0
+
+Department O department 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Nutrition O nutrition 0 0 0 0 0 0 1 0 3 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Dietetics O dietetics 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+
+Department O department 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Pharmacology O pharmacology 0 0 0 0 0 0 1 0 1 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Therapeutics O therapeutics 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+
+Department O department 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Pharmacy O pharmacy 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Forensic O forensic 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+Science O science 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Department O department 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Physiology O physiology 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+
+Department O department 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Physiotherapy O physiotherapy 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul sys_16 9 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 9 0
+Psychiatry O psychiatry 0 0 0 0 0 0 1 0 2 li ul sys_16 9 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul sys_16 9 0
+Psychology O psychology 0 0 0 0 0 0 1 0 5 li ul sys_16 9 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 9 0
+Neuroscience O neuroscience 0 0 0 0 0 0 1 0 2 li ul sys_16 9 0
+
+Addictions O addictions 0 0 0 0 1 0 1 0 0 li ul sys_16 11 0
+
+Basic O basic 0 1 0 0 0 0 1 3 5 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Clinical O clinical 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+Neuroscience O neuroscience 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+
+Biostatistics O biostatistics 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+
+Child O child 0 1 0 0 0 0 1 3 6 li ul sys_16 11 0
+and O and 0 1 0 0 0 0 0 0 10 li ul sys_16 11 0
+Adolescent O adolescent 0 0 0 0 0 0 1 0 3 li ul sys_16 11 0
+Psychiatry O psychiatry 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+
+Forensic O forensic 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Neurodevelopment O neurodevelopment 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+Science O science 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Health O health 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+Service O service 0 1 0 0 0 0 1 2 7 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Population O population 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Neuroimaging O neuroimaging 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+
+Old O old 0 1 0 0 0 0 1 1 5 li ul sys_16 11 0
+Age O age 0 1 0 0 0 0 1 1 7 li ul sys_16 11 0
+Psychiatry O psychiatry 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+
+Psychological O psychological 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+Medicine O medicine 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+
+Psychology O psychology 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+
+Psychosis O psychosis 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+Studies O studies 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Social O social 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Genetic O genetic 0 0 0 0 0 0 1 0 3 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Development O development 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+Psychiatry O psychiatry 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul sys_16 11 0
+MRC O mrc 0 0 0 0 1 0 1 0 2 li ul sys_16 11 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul sys_16 11 0
+
+MRC O mrc 0 0 0 0 1 0 1 0 2 li ul sys_16 11 0
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+for O for 0 1 0 0 0 0 0 1 9 li ul sys_16 11 0
+Developmental O developmental 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+Neurobiology O neurobiology 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+
+Wolfson O wolfson 0 1 0 0 0 0 1 3 0 li ul sys_16 11 0
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+for O for 0 1 0 0 0 0 0 1 9 li ul sys_16 11 0
+Age O age 0 1 0 0 0 0 1 1 7 li ul sys_16 11 0
+Related O related 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+Diseases O diseases 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul sys_16 11 0
+CARD O card 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul sys_16 11 0
+
+The O the 0 1 0 0 0 0 1 5 10 li ul sys_16 9 0
+Dickson O dickson 0 1 0 0 0 0 1 4 0 li ul sys_16 9 0
+Poon O poon 0 1 0 0 0 0 1 5 0 li ul sys_16 9 0
+School O school 0 1 0 0 0 0 1 0 7 li ul sys_16 9 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 9 0
+Law O law 0 1 0 0 0 0 1 5 7 li ul sys_16 9 0
+
+Research O research 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul sys_16 11 0
+PhD/MPhil O phd/mphil 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul sys_16 11 0
+
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+British O british 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+Constitutional O constitutional 0 0 0 0 0 0 1 0 3 li ul sys_16 11 0
+Law O law 0 1 0 0 0 0 1 5 7 li ul sys_16 11 0
+and O and 0 1 0 0 0 0 0 0 10 li ul sys_16 11 0
+History O history 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Construction O construction 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+Law O law 0 1 0 0 0 0 1 5 7 li ul sys_16 11 0
+
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+European O european 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+Law O law 0 1 0 0 0 0 1 5 7 li ul sys_16 11 0
+
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Medical O medical 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+Law O law 0 1 0 0 0 0 1 5 7 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Ethics O ethics 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+for O for 0 1 0 0 0 0 0 1 9 li ul sys_16 11 0
+Politics O politics 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Philosophy O philosophy 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Law O law 0 1 0 0 0 0 1 5 7 li ul sys_16 11 0
+
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+for O for 0 1 0 0 0 0 0 1 9 li ul sys_16 11 0
+Technology O technology 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Ethics O ethics 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Law O law 0 1 0 0 0 0 1 5 7 li ul sys_16 11 0
+in O in 0 1 0 0 0 0 0 3 10 li ul sys_16 11 0
+Society O society 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Climate O climate 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+Law O law 0 1 0 0 0 0 1 5 7 li ul sys_16 11 0
+and O and 0 1 0 0 0 0 0 0 10 li ul sys_16 11 0
+Governance O governance 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+
+Competition O competition 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+Law O law 0 1 0 0 0 0 1 5 7 li ul sys_16 11 0
+at O at 0 1 0 0 0 0 0 0 8 li ul sys_16 11 0
+King's O king's 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+
+Transnational O transnational 0 0 0 0 0 0 1 0 1 li ul sys_16 11 0
+Law O law 0 1 0 0 0 0 1 5 7 li ul sys_16 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul sys_16 9 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 9 0
+Natural O natural 0 0 0 0 0 0 1 0 5 li ul sys_16 9 0
+
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 9 0
+Mathematical O mathematical 0 0 0 0 0 0 1 0 4 li ul sys_16 9 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul sys_16 9 0
+
+Chemistry O chemistry 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+
+Informatics O informatics 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Physics O physics 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+
+Florence O florence 0 1 0 0 0 0 1 5 5 li ul sys_16 9 0
+Nightingale O nightingale 0 1 0 0 0 0 1 3 2 li ul sys_16 9 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul sys_16 9 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 9 0
+Nursing O nursing 0 1 0 0 0 0 1 0 4 li ul sys_16 9 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 9 0
+Midwifery O midwifery 0 0 0 0 0 0 1 0 0 li ul sys_16 9 0
+
+Becoming O becoming 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+a O a 0 1 0 0 0 0 0 3 11 li ul sys_16 11 0
+nurse O nurse 0 0 0 0 0 0 0 0 3 li ul sys_16 11 0
+
+Becoming O becoming 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+a O a 0 1 0 0 0 0 0 3 11 li ul sys_16 11 0
+midwife O midwife 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+
+Courses O courses 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+for O for 0 1 0 0 0 0 0 1 9 li ul sys_16 11 0
+qualified O qualified 0 0 0 0 0 0 0 0 2 li ul sys_16 11 0
+healthcare O healthcare 0 0 0 0 0 0 0 0 4 li ul sys_16 11 0
+professionals O professionals 0 0 0 0 1 0 0 0 5 li ul sys_16 11 0
+
+International O international 0 0 0 0 0 0 1 0 8 li ul sys_16 11 0
+
+Research O research 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Partners O partners 0 1 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Applicants O applicants 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+
+Department O department 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Adult O adult 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+Nursing O nursing 0 1 0 0 0 0 1 0 4 li ul sys_16 11 0
+
+Department O department 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Child O child 0 1 0 0 0 0 1 3 6 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Family O family 0 1 0 0 0 0 1 0 6 li ul sys_16 11 0
+Health O health 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Department O department 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Mental O mental 0 0 0 0 0 0 1 0 3 li ul sys_16 11 0
+Health O health 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+Nursing O nursing 0 1 0 0 0 0 1 0 4 li ul sys_16 11 0
+
+Department O department 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Nursing O nursing 0 1 0 0 0 0 1 0 4 li ul sys_16 11 0
+
+Cicely O cicely 0 1 0 0 0 0 1 0 0 li ul sys_16 11 0
+Saunders O saunders 0 1 0 0 0 0 1 5 2 li ul sys_16 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Palliative O palliative 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+Care O care 0 1 0 0 0 0 1 2 6 li ul sys_16 11 0
+and O and 0 1 0 0 0 0 0 0 10 li ul sys_16 11 0
+Rehabilitation O rehabilitation 0 0 0 0 0 0 1 0 3 li ul sys_16 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul sys_16 9 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 9 0
+Social O social 0 0 0 0 0 0 1 0 6 li ul sys_16 9 0
+Science O science 0 0 0 0 0 0 1 0 7 li ul sys_16 9 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 9 0
+Public O public 0 0 0 0 0 0 1 0 7 li ul sys_16 9 0
+Policy O policy 0 0 0 0 0 0 1 0 6 li ul sys_16 9 0
+
+> O > 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+School O school 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Global O global 0 1 0 0 0 0 1 0 6 li ul sys_16 11 0
+Affairs O affairs 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+
+African O african 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+Leadership O leadership 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+Centre O centre 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Brazil O brazil 0 1 0 0 0 0 1 2 4 li ul sys_16 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Geography O geography 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+
+Global O global 0 1 0 0 0 0 1 0 6 li ul sys_16 11 0
+Health O health 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Social O social 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+Medicine O medicine 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+
+India O india 0 1 0 0 0 0 1 0 5 li ul sys_16 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+International O international 0 0 0 0 0 0 1 0 8 li ul sys_16 11 0
+Development O development 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+Lau O lau 0 1 0 0 0 0 1 6 1 li ul sys_16 11 0
+China O china 0 1 0 0 0 0 1 1 6 li ul sys_16 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+> O > 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+School O school 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Security O security 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+Studies O studies 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Defence O defence 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+Studies O studies 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+Department O department 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+War O war 0 1 0 0 0 0 1 1 6 li ul sys_16 11 0
+Studies O studies 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+War O war 0 1 0 0 0 0 1 1 6 li ul sys_16 11 0
+Studies O studies 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+Online O online 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+
+> O > 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+School O school 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Education O education 0 0 0 0 0 0 1 0 8 li ul sys_16 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Communication O communication 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Society O society 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+> O > 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+School O school 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sys_16 11 0
+Politics O politics 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+and O and 0 1 0 0 0 0 0 0 10 li ul sys_16 11 0
+Economics O economics 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+
+European O european 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+International O international 0 0 0 0 0 0 1 0 8 li ul sys_16 11 0
+Studies O studies 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Middle O middle 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+Eastern O eastern 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+Studies O studies 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Political O political 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+Economy O economy 0 1 0 0 0 0 1 0 4 li ul sys_16 11 0
+
+Russia O russia 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+> O > 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Policy O policy 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+at O at 0 1 0 0 0 0 0 0 8 li ul sys_16 11 0
+King's O king's 0 0 0 0 0 0 1 0 0 li ul sys_16 11 0
+
+Global O global 0 1 0 0 0 0 1 0 6 li ul sys_16 9 0
+Affairs O affairs 0 0 0 0 0 0 1 0 5 li ul sys_16 9 0
+
+KCL O kcl 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+
+Cultural O cultural 0 0 0 0 0 0 1 0 4 li ul sys_16 9 0
+King’s O king’s 0 0 0 0 0 0 1 0 0 li ul sys_16 9 0
+
+Cultural O cultural 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+Programming O programming 0 1 0 0 0 0 1 0 5 li ul sys_16 11 0
+
+Cultural O cultural 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul sys_16 11 0
+
+Cultural O cultural 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+Partnerships O partnerships 0 0 0 0 0 0 1 0 4 li ul sys_16 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sys_16 11 0
+Enquiry O enquiry 0 0 0 0 0 0 1 0 2 li ul sys_16 11 0
+
+Science O science 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+Gallery O gallery 0 1 0 0 0 0 1 1 5 li ul sys_16 11 0
+London O london 0 1 0 0 0 0 1 4 5 li ul sys_16 11 0
+
+Other O other 0 1 0 0 0 0 1 0 7 li ul sys_16 9 0
+
+A O a 0 1 0 0 0 0 1 4 11 li ul sys_16 11 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul sys_16 11 0
+Z O z 0 1 0 0 0 0 1 1 8 li ul sys_16 11 0
+Central O central 0 0 0 0 0 0 1 0 7 li ul sys_16 11 0
+Departments O departments 0 0 0 0 0 0 1 0 5 li ul sys_16 11 0
+
+A O a 0 1 0 0 0 0 1 4 11 li ul sys_16 11 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul sys_16 11 0
+Z O z 0 1 0 0 0 0 1 1 8 li ul sys_16 11 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul sys_16 11 0
+groups O groups 0 0 0 0 0 0 0 0 5 li ul sys_16 11 0
+
+King's O king's 0 0 0 0 0 0 1 0 0 div div sys_t0 8 0
+College O college 0 0 0 0 0 0 1 0 8 div div sys_t0 8 0
+London O london 0 1 0 0 0 0 1 4 5 div div sys_t0 8 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div sys_t0 8 0
+Homepage O homepage 0 0 0 0 0 0 1 0 5 div div sys_t0 8 0
+
+Sitemap O sitemap 0 0 0 0 0 0 1 0 5 div div sys_16 7 2
+Site O site 0 1 0 0 0 0 1 0 8 div div sys_16 7 3
+help O help 0 0 0 0 0 0 0 0 7 div div sys_16 7 3
+Terms O terms 0 0 0 0 0 0 1 0 6 div div sys_16 7 4
+and O and 0 1 0 0 0 0 0 0 10 div div sys_16 7 4
+conditions O conditions 0 0 0 0 0 0 0 0 8 div div sys_16 7 4
+Privacy O privacy 0 0 0 0 0 0 1 0 6 div div sys_16 7 5
+policy O policy 0 0 0 0 0 0 0 0 6 div div sys_16 7 5
+Accessibility O accessibility 0 0 0 0 0 0 1 0 6 div div sys_16 7 6
+Modern O modern 0 1 0 0 0 0 1 0 5 div div sys_16 7 7
+slavery O slavery 0 0 0 0 0 0 0 0 3 div div sys_16 7 7
+statement O statement 0 0 0 0 0 0 0 0 6 div div sys_16 7 7
+Contact O contact 0 0 0 0 0 0 1 0 8 div div sys_16 7 8
+us O us 0 1 0 0 0 0 0 1 8 div div sys_16 7 8
+
+© O © 0 0 0 0 0 0 0 0 0 div div none 7 9
+2017 O 2017 0 0 0 1 0 0 0 0 0 div div none 7 9
+King's O king's 0 0 0 0 0 0 1 0 0 div div none 7 9
+College O college 0 0 0 0 0 0 1 0 8 div div none 7 9
+London O london 0 1 0 0 0 0 1 4 5 div div none 7 9
+| O | 0 0 0 0 0 0 0 0 0 div div none 7 9
+Strand O strand 0 1 0 0 0 0 1 4 1 div div none 7 9
+| O | 0 0 0 0 0 0 0 0 0 div div none 7 9
+London O london 0 1 0 0 0 0 1 4 5 div div none 7 9
+WC2R O wc2r 0 0 0 1 0 0 1 0 0 div div none 7 9
+2LS O 2ls 0 0 0 1 0 0 0 0 0 div div none 7 9
+| O | 0 0 0 0 0 0 0 0 0 div div none 7 9
+England O england 0 1 0 0 0 0 1 3 5 div div none 7 9
+| O | 0 0 0 0 0 0 0 0 0 div div none 7 9
+United O united 0 0 0 0 0 0 1 0 6 div div none 7 9
+Kingdom O kingdom 0 1 0 0 0 0 1 1 5 div div none 7 9
+| O | 0 0 0 0 0 0 0 0 0 div div none 7 9
+Tel O tel 0 1 0 0 0 0 1 1 6 div div none 7 9
++44 O +44 0 0 0 1 0 0 0 0 0 div div none 7 9
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div none 7 9
+0 O 0 0 0 0 1 0 0 0 0 0 div div none 7 9
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div none 7 9
+20 O 20 0 0 0 1 0 0 0 0 0 div div none 7 9
+7836 O 7836 0 0 0 1 0 0 0 0 0 div div none 7 9
+5454 O 5454 0 0 0 1 0 0 0 0 0 div div none 7 9
+
+Browser O browser 0 0 0 0 0 0 1 0 4 noscript form none 6 0
+does O does 0 0 0 0 0 0 0 0 5 noscript form none 6 0
+not O not 0 0 0 0 0 0 0 0 7 noscript form none 6 0
+support O support 0 0 0 0 0 0 0 0 7 noscript form none 6 0
+script. O script. 0 0 0 0 0 0 0 0 0 noscript form none 6 0
+Browser O browser 0 0 0 0 0 0 1 0 4 noscript form none 6 0
+does O does 0 0 0 0 0 0 0 0 5 noscript form none 6 0
+not O not 0 0 0 0 0 0 0 0 7 noscript form none 6 0
+support O support 0 0 0 0 0 0 0 0 7 noscript form none 6 0
+script. O script. 0 0 0 0 0 0 0 0 0 noscript form none 6 0

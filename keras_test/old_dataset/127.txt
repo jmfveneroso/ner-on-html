@@ -1,0 +1,513 @@
+People O people 0 1 0 0 0 0 1 head html none 4 0
+- O - 0 0 0 0 0 0 0 head html none 4 0
+Personnel O personnel 0 0 0 0 0 0 1 head html none 4 0
+information O information 0 0 0 0 0 0 0 head html none 4 0
+
+MONTEFIORE O montefiore 0 0 0 0 0 0 1 span div sprite-logoulg 10 0
+INSTITUTE O institute 0 0 0 0 0 0 1 span div sprite-logoulg 10 0
+
+MONTEFIORE O montefiore 0 0 0 0 0 0 1 span div degrade 10 1
+INSTITUTE O institute 0 0 0 0 0 0 1 span div degrade 10 1
+
+Department O department 0 0 0 0 0 0 1 span div degrade 10 2
+of O of 0 1 0 0 0 0 0 span div degrade 10 2
+Electrical O electrical 0 0 0 0 0 0 1 span div degrade 10 2
+
+Engineering O engineering 0 0 0 0 0 0 1 span div degrade 10 2
+and O and 0 1 0 0 0 0 0 span div degrade 10 2
+Computer O computer 0 0 0 0 0 0 1 span div degrade 10 2
+Science O science 0 0 0 0 0 0 1 span div degrade 10 2
+
+University O university 0 1 0 0 0 0 1 a span degrade 11 0
+of O of 0 1 0 0 0 0 0 a span degrade 11 0
+Liège O liege 0 0 0 0 0 0 1 a span degrade 11 0
+ULg O ulg 0 0 0 0 0 0 1 a span degrade 11 1
+Faculty O faculty 0 0 0 0 0 0 1 a span degrade 11 0
+of O of 0 1 0 0 0 0 0 a span degrade 11 0
+Engineering O engineering 0 0 0 0 0 0 1 a span degrade 11 0
+FacSA O facsa 0 0 0 0 0 0 1 a span degrade 11 1
+Library O library 0 0 0 0 0 0 1 span span degrade 11 0
+News O news 0 0 0 0 0 0 1 span div degrade 10 8
+
+Toggle O toggle 0 0 0 0 0 0 1 button div sr-only 11 0
+navigation O navigation 0 0 0 0 0 0 0 button div sr-only 11 0
+
+About O about 0 0 0 0 0 0 1 li ul dropdown-toggle 12 0
+Us O us 0 1 0 0 0 0 1 li ul dropdown-toggle 12 0
+
+Home O home 0 1 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Contacts O contacts 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Location O location 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+People O people 0 1 0 0 0 0 1 li ul dropdown-toggle 12 0
+
+Department O department 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+Chair O chair 0 1 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Research O research 0 1 0 0 0 0 1 li ul dropdown-menu 14 0
+Staff O staff 0 1 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Technical O technical 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+and O and 0 1 0 0 0 0 0 li ul dropdown-menu 14 0
+administrative O administrative 0 0 0 0 0 0 0 li ul dropdown-menu 14 0
+staff O staff 0 0 0 0 0 0 0 li ul dropdown-menu 14 0
+
+Complete O complete 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+List O list 0 1 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Research O research 0 1 0 0 0 0 1 li ul dropdown-toggle 12 0
+
+Research O research 0 1 0 0 0 0 1 li ul dropdown-menu 14 0
+Groups O groups 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Seminars O seminars 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Education O education 0 0 0 0 0 0 1 li ul dropdown-toggle 12 0
+
+Studying O studying 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+Here O here 0 1 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Degree O degree 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+Programmes O programmes 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Master O master 0 1 0 0 1 0 1 li ul dropdown-menu 14 0
+thesis O thesis 0 0 0 0 0 0 0 li ul dropdown-menu 14 0
+subjects O subjects 0 0 0 0 0 0 0 li ul dropdown-menu 14 0
+
+Internships O internships 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Mobility O mobility 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+, O , 0 0 0 0 0 0 0 li ul dropdown-menu 14 0
+Erasmus O erasmus 0 1 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Laboratories O laboratories 0 0 0 0 0 0 1 li ul dropdown-toggle 12 0
+
+CEDIA O cedia 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+MICROSYS O microsys 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+CEM O cem 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+LEP O lep 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Spin O spin 0 1 0 0 0 0 1 li ul dropdown-toggle 12 0
+- O - 0 0 0 0 0 0 0 li ul dropdown-toggle 12 0
+offs O offs 0 0 0 0 0 0 0 li ul dropdown-toggle 12 0
+
+Ampacimon O ampacimon 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Nomics O nomics 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Pepite O pepite 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Phasya O phasya 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+SmartNodes O smartnodes 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Taipro O taipro 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+Local O local 0 1 0 0 0 0 1 li ul dropdown-toggle 12 0
+Information O information 0 1 0 0 0 0 1 li ul dropdown-toggle 12 0
+
+Library O library 0 0 0 0 0 0 1 li ul dropdown-menu 14 0
+
+People O people 0 1 0 0 0 0 1 div div row 11 0
+- O - 0 0 0 0 0 0 0 div div row 11 0
+Research O research 0 1 0 0 0 0 1 div div row 11 0
+Staff O staff 0 1 0 0 0 0 1 div div row 11 0
+
+Aittahar B-PER aittahar 0 0 0 0 0 0 1 p div columns 14 0
+Samy I-PER samy 0 1 0 0 0 0 1 p div columns 14 0
+
+Azrour B-PER azrour 0 1 0 0 0 0 1 p div columns 14 2
+Samir I-PER samir 0 1 0 0 0 0 1 p div columns 14 2
+
+Baijot B-PER baijot 0 1 0 0 0 0 1 p div columns 14 0
+Mathieu I-PER mathieu 0 1 0 0 0 0 1 p div columns 14 0
+
+Bajpai B-PER bajpai 0 1 0 0 0 0 1 p div columns 14 2
+Namrata I-PER namrata 0 1 0 0 0 0 1 p div columns 14 2
+
+Barbette B-PER barbette 0 1 0 0 0 0 1 p div columns 14 4
+Tom I-PER tom 0 1 0 0 0 0 1 p div columns 14 4
+
+Begon B-PER begon 0 1 0 0 0 0 1 p div columns 14 6
+Jean I-PER jean 0 1 0 0 0 0 1 p div columns 14 6
+- I-PER - 0 0 0 0 0 0 0 p div columns 14 6
+Michel I-PER michel 0 1 0 0 0 0 1 p div columns 14 6
+
+Bellier B-PER bellier 0 1 0 0 0 0 1 p div columns 14 8
+Pierre I-PER pierre 0 1 0 0 0 0 1 p div columns 14 8
+
+Berger B-PER berger 0 1 0 0 0 0 1 p div columns 14 10
+Mathias I-PER mathias 0 1 0 0 0 0 1 p div columns 14 10
+
+Bhardwaj B-PER bhardwaj 0 1 0 0 0 0 1 p div columns 14 12
+Archana I-PER archana 0 1 0 0 0 0 1 p div columns 14 12
+
+Boukas B-PER boukas 0 1 0 0 0 0 1 p div columns 14 14
+Ioannis I-PER ioannis 0 1 0 0 0 0 1 p div columns 14 14
+
+Boutaayamou B-PER boutaayamou 0 1 0 0 0 0 1 p div columns 14 16
+Mohamed I-PER mohamed 0 1 0 0 0 0 1 p div columns 14 16
+
+Braham B-PER braham 0 1 0 0 0 0 1 p div columns 14 18
+Marc I-PER marc 0 1 0 0 0 0 1 p div columns 14 18
+
+Burger B-PER burger 0 1 0 0 0 0 1 p div columns 14 21
+Loïc I-PER loic 0 1 0 0 0 0 1 p div columns 14 21
+
+Castronovo B-PER castronovo 0 1 0 0 0 0 1 p div columns 14 0
+Michaël I-PER michael 0 1 0 0 0 0 1 p div columns 14 0
+
+Cauwet B-PER cauwet 0 1 0 0 0 0 1 p div columns 14 2
+Marie I-PER marie 0 1 0 0 0 0 1 p div columns 14 2
+- I-PER - 0 0 0 0 0 0 0 p div columns 14 2
+Liesse I-PER liesse 0 0 0 0 0 0 1 p div columns 14 2
+
+Cerica B-PER cerica 0 0 0 0 0 0 1 p div columns 14 4
+Delphine I-PER delphine 0 1 0 0 0 0 1 p div columns 14 4
+
+Chaichoompu B-PER chaichoompu 0 1 0 0 0 0 1 p div columns 14 7
+Kridsadakorn I-PER kridsadakorn 0 1 0 0 0 0 1 p div columns 14 7
+
+Chaspierre B-PER chaspierre 0 0 0 0 0 0 1 p div columns 14 9
+Gilles I-PER gilles 0 1 0 0 0 0 1 p div columns 14 9
+
+Chen B-PER chen 1 1 0 0 0 0 1 p div columns 14 11
+Wang I-PER wang 1 1 0 0 0 0 1 p div columns 14 11
+
+Cioppa B-PER cioppa 0 1 0 0 0 0 1 p div columns 14 13
+Anthony I-PER anthony 0 1 0 0 0 0 1 p div columns 14 13
+
+Colignon B-PER colignon 0 1 0 0 0 0 1 p div columns 14 15
+David I-PER david 0 1 0 0 0 0 1 p div columns 14 15
+
+Colson B-PER colson 0 1 0 0 0 0 1 p div columns 14 17
+Gérald I-PER gerald 0 1 0 0 0 0 1 p div columns 14 17
+
+Coppieters B-PER coppieters 0 1 0 0 0 0 1 p div columns 14 19
+Dorothee I-PER dorothee 0 1 0 0 0 0 1 p div columns 14 19
+
+Cuvelier B-PER cuvelier 0 1 0 0 0 0 1 p div columns 14 21
+Thibaut I-PER thibaut 0 1 0 0 0 0 1 p div columns 14 21
+
+De B-PER de 0 1 0 0 0 0 1 p div columns 14 0
+Becker I-PER becker 0 1 0 0 0 0 1 p div columns 14 0
+Mathilde I-PER mathilde 0 1 0 0 0 0 1 p div columns 14 0
+
+De B-PER de 0 1 0 0 0 0 1 p div columns 14 2
+Dijcker I-PER dijcker 0 0 0 0 0 0 1 p div columns 14 2
+Sébastien I-PER sebastien 0 1 0 0 0 0 1 p div columns 14 2
+
+Duchesne B-PER duchesne 0 1 0 0 0 0 1 p div columns 14 4
+Laurine I-PER laurine 0 0 0 0 0 0 1 p div columns 14 4
+
+Dupont B-PER dupont 0 1 0 0 0 0 1 p div columns 14 6
+François I-PER francois 0 1 0 0 0 0 1 p div columns 14 6
+
+Duthoit B-PER duthoit 0 1 0 0 0 0 1 p div columns 14 8
+Fabienne I-PER fabienne 0 1 0 0 0 0 1 p div columns 14 8
+
+Ebrahimbabaie B-PER ebrahimbabaie 0 0 0 0 0 0 1 p div columns 14 0
+Varnosfaderani I-PER varnosfaderani 0 0 0 0 0 0 1 p div columns 14 0
+Pouyan I-PER pouyan 0 1 0 0 0 0 1 p div columns 14 0
+
+Edeline B-PER edeline 0 1 0 0 0 0 1 p div columns 14 2
+Korian I-PER korian 0 1 0 0 0 0 1 p div columns 14 2
+
+Fagnard B-PER fagnard 0 1 0 0 0 0 1 p div columns 14 0
+Jean I-PER jean 0 1 0 0 0 0 1 p div columns 14 0
+- I-PER - 0 0 0 0 0 0 0 p div columns 14 0
+François I-PER francois 0 1 0 0 0 0 1 p div columns 14 0
+
+Fentaw B-PER fentaw 1 1 0 0 0 0 1 p div columns 14 2
+Abegaz I-PER abegaz 1 1 0 0 0 0 1 p div columns 14 2
+Yazew I-PER yazew 0 0 0 0 0 0 1 p div columns 14 2
+
+Fonder B-PER fonder 0 1 0 0 0 0 1 p div columns 14 4
+Michaël I-PER michael 0 1 0 0 0 0 1 p div columns 14 4
+
+Fonteneau B-PER fonteneau 0 1 0 0 0 0 1 p div columns 14 6
+Raphaël I-PER raphael 0 1 0 0 0 0 1 p div columns 14 6
+
+Fouladi B-PER fouladi 0 1 0 0 0 0 1 p div columns 14 8
+Ramouna I-PER ramouna 0 1 0 0 0 0 1 p div columns 14 8
+
+François B-PER francois 0 1 0 0 0 0 1 p div columns 14 10
+Clémentine I-PER clementine 0 1 0 0 0 0 1 p div columns 14 10
+
+François B-PER francois 0 1 0 0 0 0 1 p div columns 14 12
+- I-PER - 0 0 0 0 0 0 0 p div columns 14 12
+Lavet I-PER lavet 0 0 0 0 0 0 1 p div columns 14 12
+Vincent I-PER vincent 0 1 0 0 0 0 1 p div columns 14 12
+
+Gemine B-PER gemine 0 1 0 0 0 0 1 p div columns 14 0
+Quentin I-PER quentin 0 1 0 0 0 0 1 p div columns 14 0
+
+Gerard B-PER gerard 0 1 0 0 0 0 1 p div columns 14 2
+Damien I-PER damien 0 1 0 0 0 0 1 p div columns 14 2
+
+Ghorbani B-PER ghorbani 0 1 0 0 0 0 1 p div columns 14 4
+Ali I-PER ali 0 1 0 0 0 0 1 p div columns 14 4
+
+Glavic B-PER glavic 0 1 0 0 0 0 1 p div columns 14 6
+Mevludin I-PER mevludin 0 1 0 0 0 0 1 p div columns 14 6
+
+Grailet B-PER grailet 0 0 0 0 0 0 1 p div columns 14 10
+Jean I-PER jean 0 1 0 0 0 0 1 p div columns 14 10
+- I-PER - 0 0 0 0 0 0 0 p div columns 14 10
+François I-PER francois 0 1 0 0 0 0 1 p div columns 14 10
+
+Grogna B-PER grogna 0 1 0 0 0 0 1 p div columns 14 12
+David I-PER david 0 1 0 0 0 0 1 p div columns 14 12
+
+Halbach B-PER halbach 0 1 0 0 0 0 1 p div columns 14 0
+Alexandre I-PER alexandre 0 1 0 0 0 0 1 p div columns 14 0
+
+Halin B-PER halin 0 1 0 0 0 0 1 p div columns 14 2
+Anaïs I-PER anais 0 1 0 0 0 0 1 p div columns 14 2
+
+Henrotte B-PER henrotte 0 1 0 0 0 0 1 p div columns 14 4
+François I-PER francois 0 1 0 0 0 0 1 p div columns 14 4
+
+Hiard B-PER hiard 0 1 0 0 0 0 1 p div columns 14 6
+Samuel I-PER samuel 0 1 0 0 0 0 1 p div columns 14 6
+
+Hogan B-PER hogan 0 1 0 0 0 0 1 p div columns 14 8
+Kevin I-PER kevin 0 1 0 0 0 0 1 p div columns 14 8
+
+Hoyoux B-PER hoyoux 0 1 0 0 0 0 1 p div columns 14 11
+Renaud I-PER renaud 0 1 0 0 0 0 1 p div columns 14 11
+
+Huynh B-PER huynh 0 1 0 0 0 0 1 p div columns 14 13
+- I-PER - 0 0 0 0 0 0 0 p div columns 14 13
+Thu I-PER thu 0 1 0 0 0 0 1 p div columns 14 13
+Vân I-PER van 0 1 0 0 0 0 1 p div columns 14 13
+Anh I-PER anh 0 1 0 0 0 0 1 p div columns 14 13
+
+Jacques B-PER jacques 0 1 0 0 0 0 1 p div columns 14 0
+Kevin I-PER kevin 0 1 0 0 0 0 1 p div columns 14 0
+
+Jehaes B-PER jehaes 0 1 0 0 0 0 1 p div columns 14 2
+Quentin I-PER quentin 0 1 0 0 0 0 1 p div columns 14 2
+
+Joly B-PER joly 0 1 0 0 0 0 1 p div columns 14 4
+Arnaud I-PER arnaud 0 1 0 0 0 0 1 p div columns 14 4
+
+Joris B-PER joris 0 1 0 0 0 0 1 p div columns 14 6
+Laura I-PER laura 0 1 0 0 0 0 1 p div columns 14 6
+
+Kaiser B-PER kaiser 0 1 0 0 0 0 1 p div columns 14 0
+Xavier I-PER xavier 0 1 0 0 0 0 1 p div columns 14 0
+
+Karangelos B-PER karangelos 0 1 0 0 0 0 1 p div columns 14 2
+Efthymios I-PER efthymios 0 1 0 0 0 0 1 p div columns 14 2
+
+Kuci B-PER kuci 0 0 0 0 0 0 1 p div columns 14 4
+Erin I-PER erin 0 1 0 0 0 0 1 p div columns 14 4
+
+Lallemand B-PER lallemand 0 1 0 0 0 0 1 p div columns 14 0
+Jérôme I-PER jerome 0 1 0 0 0 0 1 p div columns 14 0
+
+Latour B-PER latour 0 1 0 0 0 0 1 p div columns 14 2
+Philippe I-PER philippe 0 1 0 0 0 0 1 p div columns 14 2
+
+Laugraud B-PER laugraud 0 1 0 0 0 0 1 p div columns 14 4
+Benjamin I-PER benjamin 0 1 0 0 0 0 1 p div columns 14 4
+
+Laurent B-PER laurent 1 1 0 0 0 0 1 p div columns 14 6
+Philippe I-PER philippe 1 1 0 0 0 0 1 p div columns 14 6
+
+Lejeune B-PER lejeune 0 1 0 0 0 0 1 p div columns 14 8
+Antoine I-PER antoine 0 1 0 0 0 0 1 p div columns 14 8
+
+Lesoinne B-PER lesoinne 0 1 0 0 0 0 1 p div columns 14 10
+Stéphane I-PER stephane 0 1 0 0 0 0 1 p div columns 14 10
+
+Li B-PER li 0 1 0 0 0 0 1 p div columns 14 12
+Jianwei I-PER jianwei 0 1 0 0 0 0 1 p div columns 14 12
+
+Lienardy B-PER lienardy 0 0 0 0 0 0 1 p div columns 14 14
+Simon I-PER simon 1 1 0 0 0 0 1 p div columns 14 14
+
+Lozano B-PER lozano 0 1 0 0 0 0 1 p div columns 14 16
+Ariel I-PER ariel 0 1 0 0 0 0 1 p div columns 14 16
+
+Maillard B-PER maillard 0 1 0 0 0 0 1 p div columns 14 0
+Alexandre I-PER alexandre 0 1 0 0 0 0 1 p div columns 14 0
+
+Mainz B-PER mainz 0 1 0 0 0 0 1 p div columns 14 2
+Isabelle I-PER isabelle 0 1 0 0 0 0 1 p div columns 14 2
+
+Manuel B-PER manuel 0 1 0 0 0 0 1 p div columns 14 4
+de I-PER de 0 1 0 0 0 0 0 p div columns 14 4
+Villena I-PER villena 0 1 0 0 0 0 1 p div columns 14 4
+Millan I-PER millan 0 1 0 0 0 0 1 p div columns 14 4
+Miguel I-PER miguel 0 1 0 0 0 0 1 p div columns 14 4
+
+Marée B-PER maree 0 1 0 0 0 0 1 p div columns 14 6
+Raphaël I-PER raphael 0 1 0 0 0 0 1 p div columns 14 6
+
+Marin B-PER marin 0 1 0 0 0 0 1 p div columns 14 8
+Manuel I-PER manuel 0 1 0 0 0 0 1 p div columns 14 8
+
+Massoz B-PER massoz 0 0 0 0 1 0 1 p div columns 14 10
+Quentin I-PER quentin 0 1 0 0 0 0 1 p div columns 14 10
+
+Mathieu B-PER mathieu 0 1 0 0 0 0 1 p div columns 14 13
+Sébastien I-PER sebastien 0 1 0 0 0 0 1 p div columns 14 13
+
+Mattesi B-PER mattesi 0 0 0 0 0 0 1 p div columns 14 15
+Vanessa I-PER vanessa 0 1 0 0 0 0 1 p div columns 14 15
+
+Mattheus B-PER mattheus 0 1 0 0 0 0 1 p div columns 14 17
+Benoît I-PER benoit 0 1 0 0 0 0 1 p div columns 14 17
+
+Meyer B-PER meyer 0 1 0 0 0 0 1 p div columns 14 19
+Gilles I-PER gilles 0 1 0 0 0 0 1 p div columns 14 19
+
+Modave B-PER modave 0 1 0 0 0 0 1 p div columns 14 21
+Axel I-PER axel 0 1 0 0 0 0 1 p div columns 14 21
+
+Mormont B-PER mormont 0 0 0 0 0 0 1 p div columns 14 25
+Romain I-PER romain 0 1 0 0 0 0 1 p div columns 14 25
+
+Nemry B-PER nemry 0 0 0 0 0 0 1 p div columns 14 0
+Myriam I-PER myriam 0 1 0 0 0 0 1 p div columns 14 0
+
+Olivier B-PER olivier 0 1 0 0 0 0 1 p div columns 14 0
+Frédéric I-PER frederic 0 1 0 0 0 0 1 p div columns 14 0
+
+Opsomer B-PER opsomer 0 1 0 0 0 0 1 p div columns 14 3
+Benoît I-PER benoit 0 1 0 0 0 0 1 p div columns 14 3
+
+Osmalskyj B-PER osmalskyj 0 1 0 0 0 0 1 p div columns 14 5
+Julien I-PER julien 0 1 0 0 0 0 1 p div columns 14 5
+
+Pachkawade B-PER pachkawade 0 0 0 0 0 0 1 p div columns 14 0
+Vinayak I-PER vinayak 1 1 0 0 0 0 1 p div columns 14 0
+
+Pan B-PER pan 0 1 0 0 0 0 1 p div columns 14 2
+Heng I-PER heng 0 1 0 0 0 0 1 p div columns 14 2
+
+Papangelis B-PER papangelis 0 1 0 0 0 0 1 p div columns 14 4
+Lampros I-PER lampros 0 1 0 0 0 0 1 p div columns 14 4
+
+Paquay B-PER paquay 0 1 0 0 0 0 1 p div columns 14 6
+Yannick I-PER yannick 0 1 0 0 0 0 1 p div columns 14 6
+
+Payen B-PER payen 0 1 0 0 0 0 1 p div columns 14 10
+Aubry I-PER aubry 0 1 0 0 0 0 1 p div columns 14 10
+
+Pierard B-PER pierard 0 1 0 0 0 0 1 p div columns 14 12
+Sébastien I-PER sebastien 0 1 0 0 0 0 1 p div columns 14 12
+
+Psanis B-PER psanis 0 0 0 0 0 0 1 p div columns 14 14
+Emmanouil I-PER emmanouil 0 1 0 0 1 0 1 p div columns 14 14
+
+Qiu B-PER qiu 0 1 0 0 0 0 1 p div columns 14 0
+Zixiao I-PER zixiao 0 1 0 0 0 0 1 p div columns 14 0
+
+Roman B-PER roman 0 1 0 0 0 0 1 p div columns 14 0
+Steven I-PER steven 0 1 0 0 0 0 1 p div columns 14 0
+
+Royer B-PER royer 0 1 0 0 0 0 1 p div columns 14 2
+Anthony I-PER anthony 0 1 0 0 0 0 1 p div columns 14 2
+
+Schmitz B-PER schmitz 0 1 0 0 0 0 1 p div columns 14 0
+Thomas I-PER thomas 0 1 0 0 0 0 1 p div columns 14 0
+
+Soldani B-PER soldani 0 1 0 0 0 0 1 p div columns 14 2
+Cyril I-PER cyril 0 1 0 0 0 0 1 p div columns 14 2
+
+Soleimani B-PER soleimani 0 1 0 0 0 0 1 p div columns 14 4
+Bidgoli I-PER bidgoli 0 1 0 0 0 0 1 p div columns 14 4
+Hamid I-PER hamid 0 1 0 0 0 0 1 p div columns 14 4
+
+Spirlet B-PER spirlet 0 0 0 0 0 0 1 p div columns 14 6
+Maxime I-PER maxime 0 1 0 0 0 0 1 p div columns 14 6
+
+Stoukatch B-PER stoukatch 0 1 0 0 0 0 1 p div columns 14 8
+Serguei I-PER serguei 0 1 0 0 0 0 1 p div columns 14 8
+
+Sutera B-PER sutera 0 1 0 0 0 0 1 p div columns 14 10
+Antonio I-PER antonio 0 1 0 0 0 0 1 p div columns 14 10
+
+Uyttendaele B-PER uyttendaele 0 1 0 0 0 0 1 p div columns 14 0
+Simon I-PER simon 1 1 0 0 0 0 1 p div columns 14 0
+
+Van B-PER van 0 1 0 0 0 0 1 p div columns 14 0
+Lishout I-PER lishout 0 1 0 0 0 0 1 p div columns 14 0
+François I-PER francois 0 1 0 0 0 0 1 p div columns 14 0
+
+Vanaubel B-PER vanaubel 0 1 0 0 0 0 1 p div columns 14 2
+Yves I-PER yves 0 1 0 0 0 0 1 p div columns 14 2
+
+Vandaele B-PER vandaele 0 1 0 0 0 0 1 p div columns 14 4
+Rémy I-PER remy 0 1 0 0 0 0 1 p div columns 14 4
+
+Velasco B-PER velasco 0 1 0 0 0 0 1 p div columns 14 6
+Jonathan I-PER jonathan 0 1 0 0 0 0 1 p div columns 14 6
+
+Verdin B-PER verdin 0 1 0 0 0 0 1 p div columns 14 8
+Jean I-PER jean 0 1 0 0 0 0 1 p div columns 14 8
+- I-PER - 0 0 0 0 0 0 0 p div columns 14 8
+François I-PER francois 0 1 0 0 0 0 1 p div columns 14 8
+
+Wang B-PER wang 1 1 0 0 0 0 1 p div columns 14 0
+Yuan I-PER yuan 1 1 0 0 0 0 1 p div columns 14 0
+
+Weckesser B-PER weckesser 0 1 0 0 0 0 1 p div columns 14 2
+Johannes I-PER johannes 0 1 0 0 0 0 1 p div columns 14 2
+
+Wehenkel B-PER wehenkel 0 1 0 0 0 0 1 p div columns 14 4
+Marie I-PER marie 0 1 0 0 0 0 1 p div columns 14 4
+
+Wera B-PER wera 0 0 0 0 0 0 1 p div columns 14 8
+Laurent I-PER laurent 0 1 0 0 0 0 1 p div columns 14 8
+
+Montefiore O montefiore 0 0 0 0 0 0 1 div div adresse 10 0
+Institute O institute 0 0 0 0 0 0 1 div div adresse 10 0
+
+Quartier O quartier 0 1 0 0 0 0 1 div footer adresse 9 0
+Polytech O polytech 0 0 0 0 0 0 1 div footer adresse 9 0
+1 O 1 0 0 0 1 0 0 0 div footer adresse 9 0
+
+10 O 10 0 0 0 1 0 0 0 div footer adresse 9 0
+, O , 0 0 0 0 0 0 0 div footer adresse 9 0
+Allée O allee 0 1 0 0 0 0 1 div footer adresse 9 0
+de O de 0 1 0 0 0 0 0 div footer adresse 9 0
+la O la 0 1 0 0 0 0 0 div footer adresse 9 0
+découverte O decouverte 0 0 0 0 0 0 0 div footer adresse 9 0
+
+4000 O 4000 0 0 0 1 0 0 0 div footer adresse 9 0
+Liège O liege 0 0 0 0 0 0 1 div footer adresse 9 0
+
+Building O building 0 0 0 0 0 0 1 div footer adresse 9 0
+B28 O b28 0 0 0 1 0 0 1 div footer adresse 9 0
+, O , 0 0 0 0 0 0 0 div footer adresse 9 0
+Carpark O carpark 0 0 0 0 0 0 1 div footer adresse 9 0
+P32 O p32 0 0 0 1 0 0 1 div footer adresse 9 0
+
+[javascript O [javascript 0 0 0 0 0 0 0 div div email 10 0
+protected O protected 0 0 0 0 0 0 0 div div email 10 0
+email O email 0 0 0 0 1 0 0 div div email 10 0
+address] O address] 0 0 0 0 1 0 0 div div email 10 0
+
+Contacts O contacts 0 0 0 0 0 0 1 div div links 10 0
+| O | 0 0 0 0 0 0 0 div footer links 9 8
+Location O location 0 0 0 0 0 0 1 div div links 10 1
+| O | 0 0 0 0 0 0 0 div footer links 9 8
+Montefiore O montefiore 0 0 0 0 0 0 1 div div links 10 2
+- O - 0 0 0 0 0 0 0 div div links 10 2
+News O news 0 0 0 0 0 0 1 div div links 10 2
+| O | 0 0 0 0 0 0 0 div footer links 9 8
+Miscellaneous O miscellaneous 0 0 0 0 1 0 1 div div links 10 3
+Links O links 0 1 0 0 0 0 1 div div links 10 3

@@ -1,9 +1,7 @@
 import keras
 import np
 import re
-from matplotlib import pyplot as plt
 from util import Dataset, WordEmbeddings
-
 from keras.models import Model
 from keras.layers import Input, Dense, Dropout, Activation, Flatten, SimpleRNN, TimeDistributed, GRU, Bidirectional, LSTM, Embedding, concatenate, Conv1D, GlobalMaxPooling1D
 from ChainCRF import ChainCRF
@@ -11,37 +9,28 @@ from keras.datasets import mnist
 from keras.utils import np_utils
 from keras.callbacks import Callback
 from keras import optimizers
-from sklearn.metrics import confusion_matrix, f1_score, precision_score, recall_score
+from metric import evaluate, get_names, one_hot_to_labels
 
 class Metrics(Callback):
   def __init__(self, the_model):
     self.max_f_measure = 0
     self.the_model = the_model
 
-  def on_train_begin(self, logs={}):
-    self.val_f1s = []
-    self.val_recalls = []
-    self.val_precisions = []
-   
   def on_epoch_end(self, epoch, logs={}):
-    val_targ, val_predict = self.the_model.validate()
+    val_predict, val_targ, T = self.the_model.validate()
+    
+    a, p, r, f1, c, i, m = evaluate(val_predict, val_targ, T)
+    
+    print('Accuracy:', a)
+    print('Precision:', p)
+    print('Recall:', r)
+    print('F1:', f1)
+    print('Correct:', c)
+    print('Incorrect:', i)
+    print('Missed:', m)
 
-    # labels = self.the_model.validate_dataset.labels[idx]
-    # precision =
-    # recall = 
-    # f1 = 
-    # for 
-
-    _val_f1 = f1_score(val_targ, val_predict)
-    _val_recall = recall_score(val_targ, val_predict)
-    _val_precision = precision_score(val_targ, val_predict)
-    self.val_f1s.append(_val_f1)
-    self.val_recalls.append(_val_recall)
-    self.val_precisions.append(_val_precision)
-    print(" — f1: %f — precision: %f — recall %f" % (_val_f1, _val_precision, _val_recall))
-
-    if _val_f1 > self.max_f_measure:
-      self.max_f_measure = _val_f1
+    if f1 > self.max_f_measure:
+      self.max_f_measure = f1
       self.the_model.save()
     else:
       print("No improvement")
@@ -51,11 +40,13 @@ class LstmCrf():
     self, 
     name,
     lstm_cells=100, 
+    use_gazetteer=True, 
+    use_features=True, 
     char_embedding_size=30,
     num_cnn_filters=30,
-    num_labels=3,
+    num_labels=4,
     char_lstm_size=25,
-    model_type=['lstm-crf', 'lstm-crf-cnn', 'lstm-crf-lstm'][0],
+    model_type=['lstm-crf', 'lstm-crf-cnn', 'lstm-crf-lstm', 'crf'][0],
     dev_dataset=None,
     validate_dataset=None,
     test_dataset=None,
@@ -69,17 +60,19 @@ class LstmCrf():
     self.dev_dataset = dev_dataset
     self.validate_dataset = validate_dataset
     self.test_dataset = test_dataset
+    self.use_gazetteer = use_gazetteer
+    self.use_features = use_features
 
   def create(self, word_embedding_matrix):
     x1_shape = self.dev_dataset.X1.shape
     x2_shape = self.dev_dataset.X2.shape
     x3_shape = self.dev_dataset.X3.shape
+    x4_shape = self.dev_dataset.X4.shape
 
     char_embedding_matrix = np.random.randn(128, 30)
 
     x = Input(shape=(x1_shape[1], x1_shape[2]), dtype='int32')
-    x2 = Input(shape=(x2_shape[1], x2_shape[2]), dtype='float32')
-    inputs = [x, x2]
+    inputs = [x]
     
     # Word embeddings.
     word_emb = Embedding(
@@ -90,16 +83,21 @@ class LstmCrf():
     )(Flatten()(x))
 
     # Feature embeddings.
-    # feature_emb = Embedding(
-    #   input_dim=x2_shape[2], output_dim=x2_shape[2]
-    # )(x2)
-    feature_emb = x2
+    shared_layer = [word_emb]
 
-    shared_layer = [word_emb, feature_emb]
+    if self.use_gazetteer:
+      x2 = Input(shape=(x2_shape[1], x2_shape[2]), dtype='float32')
+      inputs.append(x2)
+      shared_layer.append(x2)
+
+    if self.use_features:
+      x3 = Input(shape=(x3_shape[1], x3_shape[2]), dtype='float32')
+      inputs.append(x3)
+      shared_layer.append(x3)
 
     # Char embeddings.
     if self.model_type != 'lstm-crf' and self.model_type != 'crf':
-      x = Input(shape=(x3_shape[1], x3_shape[2]), dtype='int32')
+      x = Input(shape=(x4_shape[1], x4_shape[2]), dtype='int32')
       inputs.append(x)
 
       char_emb = TimeDistributed(Embedding(
@@ -132,17 +130,23 @@ class LstmCrf():
       y = crf(y)
     
     self.model = Model(inputs=inputs, outputs=y)
-    # adagrad = keras.optimizers.Adagrad(lr=0.01, epsilon=None, decay=0.0)
     sgd = keras.optimizers.SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
     self.model.compile(loss=crf.loss, optimizer=sgd)
 
-  def fit(self, epochs=20):
-    inputs = [self.dev_dataset.X1, self.dev_dataset.X2, self.dev_dataset.X3]
-    if self.model_type == 'lstm-crf' or self.model_type == 'crf':
-      inputs = [self.dev_dataset.X1, self.dev_dataset.X2]
+  def get_inputs(self, dataset):
+    inputs = [dataset.X1]
+    if self.use_gazetteer:
+      inputs.append(dataset.X2)
+    if self.use_features:
+      inputs.append(dataset.X3)
+    if self.model_type == 'lstm-crf-cnn' or self.model_type == 'lstm-crf-lstm':
+      inputs.append(dataset.X4)
+    return inputs
 
+  def fit(self, epochs=20):
+    inputs = self.get_inputs(self.dev_dataset)
     self.model.fit(
-	      x=inputs, y=self.dev_dataset.Y, epochs=epochs, 
+      x=inputs, y=self.dev_dataset.Y, epochs=epochs, 
       callbacks=[Metrics(self)],
     )
 
@@ -152,134 +156,17 @@ class LstmCrf():
     return arr
 
   def validate(self):
-    inputs = [self.validate_dataset.X1, self.validate_dataset.X2, self.validate_dataset.X3]
-    if self.model_type == 'lstm-crf' or self.model_type == 'crf':
-      inputs = [self.validate_dataset.X1, self.validate_dataset.X2]
-
-    val_predict = self.flatten(self.model.predict(inputs))
-    val_targ = self.flatten(self.validate_dataset.Y)
-    return val_targ, val_predict
+    inputs = self.get_inputs(self.validate_dataset)
+    val_predict = self.model.predict(inputs)
+    val_targ = self.validate_dataset.Y
+    return val_predict, val_targ, self.validate_dataset.T
 
   def test(self):
     self.load()
-    inputs = [self.test_dataset.X1, self.test_dataset.X2, self.test_dataset.X3]
-    if self.model_type == 'lstm-crf' or self.model_type == 'crf':
-      inputs = [self.test_dataset.X1, self.test_dataset.X2]
-
+    inputs = self.get_inputs(self.test_dataset)
     val_predict = self.flatten(self.model.predict(inputs))
     val_targ = self.flatten(self.test_dataset.Y)
     return val_targ, val_predict
-
-  def remove_titles(self, text):
-    text = re.sub('(M\. Sc\.)|(M\.Sc\.)|(MS\. SC\.)|(MS\.SC\.)', '', text)
-    text = re.sub('(M\. Ed\.)|(M\.Ed\.)|(M\. ED\.)|(M\.ED\.)', '', text)
-    text = re.sub('(sc\. nat\.)|(sc\.nat\.)', '', text)
-    text = re.sub('(rer\. nat\.)|(rer\.nat\.)|(rer nat)|(rer\. nat)', '', text)
-    text = re.sub('(i\. R\.)', '', text)
-    text = re.sub('(PD )|( PD )', '', text)
-    text = re.sub('(Sc\. Nat\.)|(Sc\.Nat\.)|(SC\. NAT\.)|(SC\.NAT\.)', '', text)
-    text = re.sub('(Sc\. Nat)|(Sc\.Nat)|(SC\. NAT)|(SC\.NAT)', '', text)
-    text = re.sub('(MD\.)|(Md\.)|(Md )', '', text)
-    text = re.sub('(B\. Sc\.)|(B\.Sc\.)|(BS\. SC\.)|(BS\.SC\.)', '', text)
-    text = re.sub('(B\. Sc)|(B\.Sc)|(BS\. SC)|(BS\.SC)', '', text)
-    text = re.sub('(Ph\. D\.)|(Ph\.D\.)|(PH\. D\.)|(PH\.D\.)', '', text)
-    text = re.sub('(Ph\. D)|(Ph\.D)|(PH\. D)|(PH\.D)', '', text)
-    text = re.sub('(Ed\. D\.)|(Ed\.D\.)|(ED\. D\.)|(ED\.D\.)', '', text)
-    text = re.sub('(Ed\. D)|(Ed\.D)|(ED\. D)|(ED\.D)', '', text)
-    text = re.sub('(M\. S\.)|(M\.S\.)', '', text)
-    text = re.sub('(Hon\.)', '', text)
-    text = re.sub('(a\.D\.)', '', text)
-    text = re.sub('(em\.)', '', text)
-    text = re.sub('(apl\.)|(Apl\.)', '', text)
-    text = re.sub('(apl\.)|(Apl\.)', '', text)
-    text = re.sub('(Prof\.dr\.)', '', text)
-    text = re.sub('(Conf\.dr\.)', '', text)
-    text = re.sub('(Asist\.dr\.)', '', text)
-    return text.strip()
-
-  def print_names(self):
-    self.load()
-    inputs = [self.test_dataset.X1, self.test_dataset.X2, self.test_dataset.X3]
-    if self.model_type == 'lstm-crf' or self.model_type == 'crf':
-      inputs = [self.test_dataset.X1, self.test_dataset.X2]
-
-    tokens = self.test_dataset.T.flatten()
-    val_predict = self.flatten(self.model.predict(inputs))
-    val_targ = self.flatten(self.test_dataset.Y)
-
-    _val_f1 = f1_score(val_targ, val_predict)
-    _val_recall = recall_score(val_targ, val_predict)
-    _val_precision = precision_score(val_targ, val_predict)
-    print(" — f1: %f — precision: %f — recall %f" % (_val_f1, _val_precision, _val_recall))
-        
-    val_predict = self.model.predict(inputs).argmax(axis=-1).flatten()
-
-    names = []
-    name = []
-    for i, t in enumerate(tokens):
-      if val_predict[i] == 1:
-        if len(name) > 0:
-          names.append(' '.join(name))
-          name = []
-        if not t is None:
-          name.append(t[0])
-      elif val_predict[i] == 2:
-        if not t is None:
-          name.append(t[0])
-      elif len(name) > 0:
-        names.append(' '.join(name))
-        name = []
-    if len(name) > 0:
-      names.append(' '.join(name))
-
-    val_predict = self.test_dataset.Y.argmax(axis=-1).flatten()
-    names2 = []
-    name = []
-    for i, t in enumerate(tokens):
-      if val_predict[i] == 1:
-        if len(name) > 0:
-          names2.append(' '.join(name))
-          name = []
-        if not t is None:
-          name.append(t[0])
-      elif val_predict[i] == 2:
-        if not t is None:
-          name.append(t[0])
-      elif len(name) > 0:
-        names2.append(' '.join(name))
-        name = []
-    if len(name) > 0:
-      names2.append(' '.join(name))
-
-    names = list(set([self.remove_titles(n) for n in names]))
-    names2 = list(set(names2))
-
-    correct = []
-    incorrect = []
-    for n in names:    
-      if n in names2:
-        correct.append(n)
-      else:
-        incorrect.append(n)
-
-    missed = []
-    for n in names2:    
-      if not n in names:
-        missed.append(n)
-
-    print('precision:', len(correct) / float(len(names)))
-    print('recall:',    len(correct) / float(len(names2)))
-    print('correct:', len(correct))
-    print('incorrect:', len(incorrect))
-    print('missed:', len(missed))
-
-    for n in missed:
-      print(n)
-
-    print('\n\n\n\n')
-
-    for n in incorrect:
-      print(n)
 
   def save(self):
     self.model.save('models/' + self.name + '.dat', True)

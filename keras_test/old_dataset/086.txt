@@ -1,0 +1,894 @@
+Department O department 0 0 0 0 0 0 1 meta head none 5 0
+Directory O directory 0 0 0 0 0 0 1 meta head none 5 0
+| O | 0 0 0 0 0 0 0 meta head none 5 0
+MSCS O mscs 0 0 0 0 0 0 1 meta head none 5 0
+
+StFX.ca O stfx.ca 0 0 0 0 0 0 1 br div clear-block 11 0
+People O people 0 1 0 0 0 0 1 br div clear-block 11 0
+
+Academic O academic 0 0 0 0 0 0 1 select div clear-block 10 0
+Departments O departments 0 0 0 0 0 0 1 select div clear-block 10 0
+
+Home O home 0 1 0 0 0 0 1 optgroup select clear-block 11 0
+
+Anthropology O anthropology 0 0 0 0 0 0 1 optgroup select clear-block 11 1
+
+Aquatic O aquatic 0 0 0 0 0 0 1 optgroup select clear-block 11 2
+Resources O resources 0 0 0 0 0 0 1 optgroup select clear-block 11 2
+
+Fine O fine 0 1 0 0 0 0 1 optgroup select clear-block 11 3
+Arts O arts 0 1 0 0 0 0 1 optgroup select clear-block 11 3
+
+Canadian O canadian 0 0 0 0 0 0 1 optgroup select clear-block 11 4
+Studies O studies 0 0 0 0 0 0 1 optgroup select clear-block 11 4
+
+Catholic O catholic 0 0 0 0 0 0 1 optgroup select clear-block 11 5
+Studies O studies 0 0 0 0 0 0 1 optgroup select clear-block 11 5
+
+Celtic O celtic 0 1 0 0 0 0 1 optgroup select clear-block 11 6
+Studies O studies 0 0 0 0 0 0 1 optgroup select clear-block 11 6
+
+Classical O classical 0 0 0 0 0 0 1 optgroup select clear-block 11 7
+Studies O studies 0 0 0 0 0 0 1 optgroup select clear-block 11 7
+
+Development O development 0 0 0 0 0 0 1 optgroup select clear-block 11 8
+Studies O studies 0 0 0 0 0 0 1 optgroup select clear-block 11 8
+
+Economics O economics 0 0 0 0 0 0 1 optgroup select clear-block 11 9
+
+English O english 0 1 0 0 0 0 1 optgroup select clear-block 11 10
+
+Health O health 0 1 0 0 0 0 1 optgroup select clear-block 11 11
+
+History O history 0 0 0 0 0 0 1 optgroup select clear-block 11 12
+
+Humanities O humanities 0 0 0 0 0 0 1 optgroup select clear-block 11 13
+Colloquium O colloquium 0 0 0 0 0 0 1 optgroup select clear-block 11 13
+
+Modern O modern 0 1 0 0 0 0 1 optgroup select clear-block 11 14
+Languages O languages 0 0 0 0 0 0 1 optgroup select clear-block 11 14
+
+Music O music 0 1 0 0 1 0 1 optgroup select clear-block 11 15
+
+Philosophy O philosophy 0 0 0 0 0 0 1 optgroup select clear-block 11 16
+
+Political O political 0 0 0 0 0 0 1 optgroup select clear-block 11 17
+Science O science 0 0 0 0 0 0 1 optgroup select clear-block 11 17
+
+Psychology O psychology 0 0 0 0 0 0 1 optgroup select clear-block 11 18
+
+Public O public 0 0 0 0 0 0 1 optgroup select clear-block 11 19
+Policy O policy 0 0 0 0 0 0 1 optgroup select clear-block 11 19
+& O & 0 0 0 0 0 0 0 optgroup select clear-block 11 19
+Governance O governance 0 0 0 0 0 0 1 optgroup select clear-block 11 19
+
+Religious O religious 0 0 0 0 0 0 1 optgroup select clear-block 11 20
+Studies O studies 0 0 0 0 0 0 1 optgroup select clear-block 11 20
+
+Social O social 0 0 0 0 0 0 1 optgroup select clear-block 11 21
+Justice O justice 0 1 0 0 0 0 1 optgroup select clear-block 11 21
+Colloquium O colloquium 0 0 0 0 0 0 1 optgroup select clear-block 11 21
+
+Sociology O sociology 0 0 0 0 0 0 1 optgroup select clear-block 11 22
+
+Women O women 0 0 0 0 0 0 1 optgroup select clear-block 11 23
+' O ' 0 0 0 0 0 0 0 optgroup select clear-block 11 23
+s O s 0 0 0 0 0 0 0 optgroup select clear-block 11 23
+and O and 0 1 0 0 0 0 0 optgroup select clear-block 11 23
+Gender O gender 0 0 0 0 0 0 1 optgroup select clear-block 11 23
+Studies O studies 0 0 0 0 0 0 1 optgroup select clear-block 11 23
+
+Home O home 0 1 0 0 0 0 1 optgroup select clear-block 11 0
+
+Aquatic O aquatic 0 0 0 0 0 0 1 optgroup select clear-block 11 1
+Resources O resources 0 0 0 0 0 0 1 optgroup select clear-block 11 1
+
+Biology O biology 0 0 0 0 0 0 1 optgroup select clear-block 11 2
+
+Chemistry O chemistry 0 0 0 0 0 0 1 optgroup select clear-block 11 3
+
+Computer O computer 0 0 0 0 0 0 1 optgroup select clear-block 11 4
+Science O science 0 0 0 0 0 0 1 optgroup select clear-block 11 4
+
+Earth O earth 0 0 0 0 0 0 1 optgroup select clear-block 11 5
+Sciences O sciences 0 0 0 0 0 0 1 optgroup select clear-block 11 5
+
+Engineering O engineering 0 0 0 0 0 0 1 optgroup select clear-block 11 6
+
+Environmental O environmental 0 0 0 0 0 0 1 optgroup select clear-block 11 7
+Sciences O sciences 0 0 0 0 0 0 1 optgroup select clear-block 11 7
+
+Health O health 0 1 0 0 0 0 1 optgroup select clear-block 11 8
+
+Health O health 0 1 0 0 0 0 1 optgroup select clear-block 11 9
+Studies O studies 0 0 0 0 0 0 1 optgroup select clear-block 11 9
+Colloquium O colloquium 0 0 0 0 0 0 1 optgroup select clear-block 11 9
+
+Human O human 0 1 0 0 0 0 1 optgroup select clear-block 11 10
+Kinetics O kinetics 0 0 0 0 0 0 1 optgroup select clear-block 11 10
+
+Human O human 0 1 0 0 0 0 1 optgroup select clear-block 11 11
+Nutrition O nutrition 0 0 0 0 0 0 1 optgroup select clear-block 11 11
+
+Math O math 0 1 0 0 0 0 1 optgroup select clear-block 11 12
+& O & 0 0 0 0 0 0 0 optgroup select clear-block 11 12
+Statistics O statistics 0 0 0 0 0 0 1 optgroup select clear-block 11 12
+
+Nursing O nursing 0 1 0 0 0 0 1 optgroup select clear-block 11 13
+
+Physics O physics 0 0 0 0 0 0 1 optgroup select clear-block 11 14
+
+Home O home 0 1 0 0 0 0 1 optgroup select clear-block 11 0
+
+Business O business 0 0 0 0 0 0 1 optgroup select clear-block 11 1
+
+Information O information 0 1 0 0 0 0 1 optgroup select clear-block 11 2
+Systems O systems 0 0 0 0 0 0 1 optgroup select clear-block 11 2
+
+Home O home 0 1 0 0 0 0 1 optgroup select clear-block 11 0
+
+Adult O adult 0 0 0 0 0 0 1 optgroup select clear-block 11 1
+Education O education 0 0 0 0 0 0 1 optgroup select clear-block 11 1
+
+Continuing O continuing 0 0 0 0 0 0 1 optgroup select clear-block 11 2
+and O and 0 1 0 0 0 0 0 optgroup select clear-block 11 2
+Distance O distance 0 0 0 0 0 0 1 optgroup select clear-block 11 2
+Education O education 0 0 0 0 0 0 1 optgroup select clear-block 11 2
+
+Education O education 0 0 0 0 0 0 1 optgroup select clear-block 11 3
+
+Masters O masters 0 1 0 0 1 0 1 optgroup select clear-block 11 4
+of O of 0 1 0 0 0 0 0 optgroup select clear-block 11 4
+Education O education 0 0 0 0 0 0 1 optgroup select clear-block 11 4
+
+PhD O phd 0 0 0 0 0 0 1 optgroup select clear-block 11 5
+in O in 0 1 0 0 0 0 0 optgroup select clear-block 11 5
+Education O education 0 0 0 0 0 0 1 optgroup select clear-block 11 5
+
+Diploma O diploma 0 0 0 0 0 0 1 optgroup select clear-block 11 0
+in O in 0 1 0 0 0 0 0 optgroup select clear-block 11 0
+Adult O adult 0 0 0 0 0 0 1 optgroup select clear-block 11 0
+Education O education 0 0 0 0 0 0 1 optgroup select clear-block 11 0
+
+Academics O academics 0 0 0 0 0 0 1 a li clear-block 12 0
+
+Future O future 0 0 0 0 0 0 1 a li clear-block 12 0
+Students O students 0 0 0 0 0 0 1 a li clear-block 12 0
+
+Research O research 0 1 0 0 0 0 1 a li clear-block 12 0
+
+Coady O coady 0 1 0 0 0 0 1 a li clear-block 12 0
+International O international 0 0 0 0 0 0 1 a li clear-block 12 0
+Institute O institute 0 0 0 0 0 0 1 a li clear-block 12 0
+
+Athletics O athletics 0 0 0 0 0 0 1 a li clear-block 12 0
+
+Alumni O alumni 0 0 0 0 0 0 1 a li clear-block 12 0
+
+About O about 0 0 0 0 0 0 1 a li clear-block 12 0
+StFX O stfx 0 0 0 0 0 0 1 a li clear-block 12 0
+
+My O my 0 1 0 0 0 0 1 a li clear-block 12 0
+StFX O stfx 0 0 0 0 0 0 1 a li clear-block 12 0
+
+Apply O apply 0 0 0 0 0 0 1 a li clear-block 12 0
+Now O now 0 1 0 0 0 0 1 a li clear-block 12 0
+
+MSCS O mscs 0 0 0 0 0 0 1 a h3 block-title-link 11 0
+
+New O new 0 1 0 0 0 0 1 li ul jquerymenu 12 0
+Calculus O calculus 0 0 0 0 0 0 1 li ul jquerymenu 12 0
+Streams O streams 0 0 0 0 0 0 1 li ul jquerymenu 12 0
+
+Prospective O prospective 0 0 0 0 0 0 1 li ul closed 12 1
+Students O students 0 0 0 0 0 0 1 li ul closed 12 1
+
+Why O why 0 1 0 0 0 0 1 li ul closed 14 0
+a O a 0 1 0 0 0 0 0 li ul closed 14 0
+degree O degree 0 0 0 0 0 0 0 li ul closed 14 0
+in O in 0 1 0 0 0 0 0 li ul closed 14 0
+Math O math 0 1 0 0 0 0 1 li ul closed 14 0
+or O or 0 0 0 0 0 0 0 li ul closed 14 0
+Stats? O stats? 0 0 0 0 0 0 1 li ul closed 14 0
+
+Why O why 0 1 0 0 0 0 1 li ul closed 14 0
+a O a 0 1 0 0 0 0 0 li ul closed 14 0
+degree O degree 0 0 0 0 0 0 0 li ul closed 14 0
+in O in 0 1 0 0 0 0 0 li ul closed 14 0
+CS O cs 0 0 0 0 0 0 1 li ul closed 14 0
+at O at 0 0 0 0 0 0 0 li ul closed 14 0
+X? O x? 0 0 0 0 0 0 1 li ul closed 14 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul jquerymenu 12 0
+Studies O studies 0 0 0 0 0 0 1 li ul jquerymenu 12 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul closed 12 1
+Studies O studies 0 0 0 0 0 0 1 li ul closed 12 1
+( O ( 0 0 0 0 0 0 0 li ul closed 12 1
+CS O cs 0 0 0 0 0 0 1 li ul closed 12 1
+) O ) 0 0 0 0 0 0 0 li ul closed 12 1
+
+Requirements O requirements 0 0 0 0 0 0 1 li ul closed 14 0
+
+People O people 0 1 0 0 0 0 1 li ul active 12 1
+
+Current O current 0 1 0 0 0 0 1 li ul active 14 0
+Graduate O graduate 1 1 0 0 0 0 1 li ul active 14 0
+Students O students 0 0 0 0 0 0 1 li ul active 14 0
+
+Retired O retired 0 0 0 0 0 0 1 li ul active 14 0
+Professors O professors 0 0 0 0 1 0 1 li ul active 14 0
+
+Class O class 0 1 0 0 0 0 1 li ul active 14 0
+Photos O photos 0 0 0 0 0 0 1 li ul active 14 0
+
+MSCS O mscs 0 0 0 0 0 0 1 li ul jquerymenu 12 0
+Seminars O seminars 0 0 0 0 0 0 1 li ul jquerymenu 12 0
+
+Courses O courses 0 0 0 0 0 0 1 li ul closed 12 1
+
+Mathematics O mathematics 0 0 0 0 0 0 1 li ul closed 14 0
+Courses O courses 0 0 0 0 0 0 1 li ul closed 14 0
+
+Computer O computer 0 0 0 0 0 0 1 li ul closed 14 0
+Science O science 0 0 0 0 0 0 1 li ul closed 14 0
+Courses O courses 0 0 0 0 0 0 1 li ul closed 14 0
+
+Statistics O statistics 0 0 0 0 0 0 1 li ul closed 14 0
+Courses O courses 0 0 0 0 0 0 1 li ul closed 14 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul closed 14 0
+Studies O studies 0 0 0 0 0 0 1 li ul closed 14 0
+Courses O courses 0 0 0 0 0 0 1 li ul closed 14 0
+
+CSci O csci 0 0 0 0 0 0 1 li ul closed 14 0
+Pre O pre 0 1 0 0 0 0 1 li ul closed 14 0
+- O - 0 0 0 0 0 0 0 li ul closed 14 0
+requisite O requisite 0 0 0 0 0 0 0 li ul closed 14 0
+Chart O chart 0 1 0 0 0 0 1 li ul closed 14 0
+
+Math/Stats O math/stats 0 0 0 0 0 0 1 li ul closed 14 0
+Pre O pre 0 1 0 0 0 0 1 li ul closed 14 0
+- O - 0 0 0 0 0 0 0 li ul closed 14 0
+requisite O requisite 0 0 0 0 0 0 0 li ul closed 14 0
+Chart O chart 0 1 0 0 0 0 1 li ul closed 14 0
+
+Actuarial O actuarial 0 0 0 0 0 0 1 li ul closed 12 1
+Science O science 0 0 0 0 0 0 1 li ul closed 12 1
+Concentration O concentration 0 0 0 0 0 0 1 li ul closed 12 1
+
+Employment O employment 0 0 0 0 1 0 1 li ul closed 14 0
+Opportunities O opportunities 0 0 0 0 0 0 1 li ul closed 14 0
+
+Student O student 0 1 0 0 0 0 1 li ul closed 12 1
+Resources O resources 0 0 0 0 0 0 1 li ul closed 12 1
+
+Math O math 0 1 0 0 0 0 1 li ul closed 14 0
+, O , 0 0 0 0 0 0 0 li ul closed 14 0
+Stats O stats 0 0 0 0 0 0 1 li ul closed 14 0
+and O and 0 1 0 0 0 0 0 li ul closed 14 0
+CSCI O csci 0 0 0 0 0 0 1 li ul closed 14 0
+Tutorials O tutorials 0 0 0 0 0 0 1 li ul closed 14 0
+
+The O the 0 1 0 0 0 0 1 li ul closed 14 0
+Math O math 0 1 0 0 0 0 1 li ul closed 14 0
+, O , 0 0 0 0 0 0 0 li ul closed 14 0
+Stats O stats 0 0 0 0 0 0 1 li ul closed 14 0
+and O and 0 1 0 0 0 0 0 li ul closed 14 0
+CSCI O csci 0 0 0 0 0 0 1 li ul closed 14 0
+Learning O learning 0 1 0 0 0 0 1 li ul closed 14 0
+Centre O centre 0 1 0 0 0 0 1 li ul closed 14 0
+
+Math O math 0 1 0 0 0 0 1 li ul closed 14 0
+, O , 0 0 0 0 0 0 0 li ul closed 14 0
+Stats O stats 0 0 0 0 0 0 1 li ul closed 14 0
+and O and 0 1 0 0 0 0 0 li ul closed 14 0
+CSCI O csci 0 0 0 0 0 0 1 li ul closed 14 0
+Tutors O tutors 0 0 0 0 0 0 1 li ul closed 14 0
+
+Thesis/Research O thesis/research 0 0 0 0 0 0 1 li ul closed 14 0
+Papers O papers 0 0 0 0 0 0 1 li ul closed 14 0
+
+Conference/Competitions O conference/competitions 0 0 0 0 0 0 1 li ul closed 14 0
+
+Student O student 0 1 0 0 0 0 1 li ul closed 14 0
+Society O society 0 0 0 0 0 0 1 li ul closed 14 0
+
+Summer O summer 0 1 0 0 0 0 1 li ul closed 14 0
+Research O research 0 1 0 0 0 0 1 li ul closed 14 0
+
+Senior O senior 0 1 0 0 0 0 1 li ul closed 14 0
+Seminars O seminars 0 0 0 0 0 0 1 li ul closed 14 0
+
+Student O student 0 1 0 0 0 0 1 li ul closed 14 0
+Awards O awards 0 0 0 0 0 0 1 li ul closed 14 0
+and O and 0 1 0 0 0 0 0 li ul closed 14 0
+Prizes O prizes 0 0 0 0 0 0 1 li ul closed 14 0
+
+Scholarships O scholarships 0 0 0 0 0 0 1 li ul closed 14 0
+and O and 0 1 0 0 0 0 0 li ul closed 14 0
+Bursaries O bursaries 0 0 0 0 0 0 1 li ul closed 14 0
+
+Thesis O thesis 0 0 0 0 0 0 1 li ul closed 14 0
+templates O templates 0 0 0 0 0 0 0 li ul closed 14 0
+
+Student O student 0 1 0 0 0 0 1 li ul jquerymenu 12 0
+Career O career 0 0 0 0 0 0 1 li ul jquerymenu 12 0
+Center O center 0 1 0 0 0 0 1 li ul jquerymenu 12 0
+- O - 0 0 0 0 0 0 0 li ul jquerymenu 12 0
+JOBS O jobs 0 0 0 0 0 0 1 li ul jquerymenu 12 0
+
+Math O math 0 1 0 0 0 0 1 li ul jquerymenu 12 0
+, O , 0 0 0 0 0 0 0 li ul jquerymenu 12 0
+Stats O stats 0 0 0 0 0 0 1 li ul jquerymenu 12 0
+and O and 0 1 0 0 0 0 0 li ul jquerymenu 12 0
+CS O cs 0 0 0 0 0 0 1 li ul jquerymenu 12 0
+Student O student 0 1 0 0 0 0 1 li ul jquerymenu 12 0
+Jobs O jobs 0 1 0 0 0 0 1 li ul jquerymenu 12 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul closed 12 1
+Resources O resources 0 0 0 0 0 0 1 li ul closed 12 1
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul closed 14 0
+Information O information 0 1 0 0 0 0 1 li ul closed 14 0
+
+James O james 0 1 0 0 0 0 1 li ul closed 14 0
+Chair O chair 0 1 0 0 0 0 1 li ul closed 14 0
+Position O position 0 0 0 0 0 0 1 li ul closed 14 0
+
+Heaps O heaps 0 1 0 0 0 0 1 li ul closed 14 0
+Chair O chair 0 1 0 0 0 0 1 li ul closed 14 0
+Position O position 0 0 0 0 0 0 1 li ul closed 14 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul closed 12 1
+
+Join O join 0 1 0 0 0 0 1 li ul closed 14 0
+the O the 0 1 0 0 0 0 0 li ul closed 14 0
+Alumni O alumni 0 0 0 0 0 0 1 li ul closed 14 0
+Database! O database! 0 0 0 0 0 0 1 li ul closed 14 0
+
+Privacy O privacy 0 0 0 0 0 0 1 li ul closed 14 0
+Policy O policy 0 0 0 0 0 0 1 li ul closed 14 0
+
+Employment O employment 0 0 0 0 1 0 1 li ul jquerymenu 12 0
+Opportunities O opportunities 0 0 0 0 0 0 1 li ul jquerymenu 12 0
+
+CRC O crc 0 0 0 0 0 0 1 li ul jquerymenu 12 0
+
+Co O co 0 1 0 0 0 0 1 li ul jquerymenu 12 0
+- O - 0 0 0 0 0 0 0 li ul jquerymenu 12 0
+op O op 0 1 0 0 0 0 0 li ul jquerymenu 12 0
+Education O education 0 0 0 0 0 0 1 li ul jquerymenu 12 0
+
+Logic O logic 0 1 0 0 0 0 1 li ul jquerymenu 12 0
+and O and 0 1 0 0 0 0 0 li ul jquerymenu 12 0
+Computation O computation 0 0 0 0 0 0 1 li ul jquerymenu 12 0
+Group O group 0 1 0 0 0 0 1 li ul jquerymenu 12 0
+
+Our O our 0 0 0 0 0 0 1 li ul jquerymenu 12 0
+Mission O mission 0 1 0 0 1 0 1 li ul jquerymenu 12 0
+Statement O statement 0 0 0 0 0 0 1 li ul jquerymenu 12 0
+
+Message O message 0 1 0 0 1 0 1 li ul jquerymenu 12 0
+from O from 0 0 0 0 0 0 0 li ul jquerymenu 12 0
+the O the 0 1 0 0 0 0 0 li ul jquerymenu 12 0
+Chair O chair 0 1 0 0 0 0 1 li ul jquerymenu 12 0
+
+News O news 0 0 0 0 0 0 1 li ul jquerymenu 12 0
+
+StFX O stfx 0 0 0 0 0 0 1 li ul closed 12 1
+- O - 0 0 0 0 0 0 0 li ul closed 12 1
+CMS O cms 0 0 0 0 0 0 1 li ul closed 12 1
+Math O math 0 1 0 0 0 0 1 li ul closed 12 1
+Camp O camp 0 1 0 0 0 0 1 li ul closed 12 1
+
+Nominations O nominations 0 0 0 0 0 0 1 li ul closed 14 0
+
+Parents/Guardians O parents/guardians 0 0 0 0 0 0 1 li ul closed 14 0
+
+People O people 0 1 0 0 0 0 1 li ul closed 14 0
+Involved O involved 0 0 0 0 0 0 1 li ul closed 14 0
+
+Schedule O schedule 0 0 0 0 0 0 1 li ul closed 14 0
+2017 O 2017 0 0 0 1 0 0 0 li ul closed 14 0
+
+Math O math 0 1 0 0 0 0 1 li ul closed 14 0
+Camp O camp 0 1 0 0 0 0 1 li ul closed 14 0
+Photos O photos 0 0 0 0 0 0 1 li ul closed 14 0
+
+Contact O contact 0 0 0 0 0 0 1 div div  9 0
+Us O us 0 1 0 0 0 0 1 div div  9 0
+
+The O the 0 1 0 0 0 0 1 div div field-content 14 0
+Department O department 0 0 0 0 0 0 1 div div field-content 14 0
+of O of 0 1 0 0 0 0 0 div div field-content 14 0
+Mathematics O mathematics 0 0 0 0 0 0 1 div div field-content 14 0
+, O , 0 0 0 0 0 0 0 div div field-content 14 0
+Statistics O statistics 0 0 0 0 0 0 1 div div field-content 14 0
+and O and 0 1 0 0 0 0 0 div div field-content 14 0
+Computer O computer 0 0 0 0 0 0 1 div div field-content 14 0
+Science O science 0 0 0 0 0 0 1 div div field-content 14 0
+
+Annex O annex 0 0 0 0 0 0 1 span div field-content 14 0
+103 O 103 0 0 0 1 0 0 0 span div field-content 14 0
+
+Phone O phone 0 1 0 0 0 0 1 div div views-label-field-phone-value 14 0
+: O : 0 0 0 0 0 0 0 div div views-label-field-phone-value 14 0
+
+( O ( 0 0 0 0 0 0 0 div div field-content 14 1
+902 O 902 0 0 0 1 0 0 0 div div field-content 14 1
+) O ) 0 0 0 0 0 0 0 div div field-content 14 1
+867 O 867 0 0 0 1 0 0 0 div div field-content 14 1
+- O - 0 0 0 0 0 0 0 div div field-content 14 1
+3972 O 3972 0 0 0 1 0 0 0 div div field-content 14 1
+
+Fax O fax 0 1 0 0 0 0 1 div div views-label-field-fax-value 14 0
+: O : 0 0 0 0 0 0 0 div div views-label-field-fax-value 14 0
+
+( O ( 0 0 0 0 0 0 0 div div field-content 14 1
+902 O 902 0 0 0 1 0 0 0 div div field-content 14 1
+) O ) 0 0 0 0 0 0 0 div div field-content 14 1
+867 O 867 0 0 0 1 0 0 0 div div field-content 14 1
+- O - 0 0 0 0 0 0 0 div div field-content 14 1
+5189 O 5189 0 0 0 1 0 0 0 div div field-content 14 1
+
+Email O email 0 0 0 0 1 0 1 div div views-label-field-email-email 14 0
+Us O us 0 1 0 0 0 0 1 div div views-label-field-email-email 14 0
+: O : 0 0 0 0 0 0 0 div div views-label-field-email-email 14 0
+
+math@stfx.ca O math@stfx.ca 0 0 1 0 0 0 0 span div field-content 15 0
+
+2323 O 2323 0 0 0 1 0 0 0 div div field-content 15 0
+Notre O notre 0 0 0 0 0 0 1 div div field-content 15 0
+Dame O dame 0 1 0 0 0 0 1 div div field-content 15 0
+Ave O ave 0 1 0 0 0 0 1 div div field-content 15 0
+
+St. O st. 0 1 0 0 0 0 1 div div field-content 15 0
+Francis O francis 0 1 0 0 0 0 1 div div field-content 15 0
+Xavier O xavier 0 1 0 0 0 0 1 div div field-content 15 0
+University O university 0 1 0 0 0 0 1 div div field-content 15 0
+
+Antigonish O antigonish 0 0 0 0 0 0 1 div div field-content 15 0
+, O , 0 0 0 0 0 0 0 div div field-content 15 0
+NS O ns 0 0 0 0 0 0 1 div div field-content 15 0
+
+B2G O b2g 0 0 0 1 0 0 1 div div field-content 15 0
+2W5 O 2w5 0 0 0 1 0 0 0 div div field-content 15 0
+
+Department O department 0 0 0 0 0 0 1 div div clear-block 8 0
+Directory O directory 0 0 0 0 0 0 1 div div clear-block 8 0
+
+Department O department 0 0 0 0 0 0 1 div div  10 0
+Chair O chair 0 1 0 0 0 0 1 div div  10 0
+
+Wendy B-PER wendy 1 1 0 0 0 0 1 span div field-content 19 0
+MacCaull I-PER maccaull 1 1 0 0 0 0 1 span div field-content 19 0
+
+Chair O chair 0 1 0 0 0 0 1 div td field-content 18 0
+and O and 0 1 0 0 0 0 0 div td field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div td field-content 18 0
+
+23 O 23 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+3989 O 3989 0 0 0 1 0 0 0 div td field-content 18 0
+
+wmaccaul@stfx.ca O wmaccaul@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Website O website 0 0 0 0 0 0 1 span div field-content 19 0
+
+Administrative O administrative 0 0 0 0 0 0 1 div div  10 0
+Assistant O assistant 0 0 0 0 0 0 1 div div  10 0
+
+Rhonda B-PER rhonda 0 1 0 0 0 0 1 span div field-content 19 0
+MacDonald I-PER macdonald 0 1 0 0 0 0 1 span div field-content 19 0
+
+Administrative O administrative 0 0 0 0 0 0 1 div td field-content 18 0
+Assistant O assistant 0 0 0 0 0 0 1 div td field-content 18 0
+
+103 O 103 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+3972 O 3972 0 0 0 1 0 0 0 div td field-content 18 0
+
+rtmacdon@stfx.ca O rtmacdon@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Marion B-PER marion 0 1 0 0 0 0 1 span div field-content 19 0
+Stewart I-PER stewart 0 1 0 0 0 0 1 span div field-content 19 0
+- I-PER - 0 0 0 0 0 0 0 span div field-content 19 0
+MacDonald I-PER macdonald 0 1 0 0 0 0 1 span div field-content 19 0
+
+Administrative O administrative 0 0 0 0 0 0 1 div td field-content 18 0
+Assistant O assistant 0 0 0 0 0 0 1 div td field-content 18 0
+
+103 O 103 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+3972 O 3972 0 0 0 1 0 0 0 div td field-content 18 0
+
+mstewart@stfx.ca O mstewart@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Faculty O faculty 0 0 0 0 0 0 1 div div  10 0
+
+Joseph B-PER joseph 1 1 0 0 0 0 1 span div field-content 19 0
+Apaloo I-PER apaloo 1 1 0 0 0 0 1 span div field-content 19 0
+
+Professor O professor 0 0 0 0 1 0 1 div td field-content 18 0
+
+20 O 20 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+5274 O 5274 0 0 0 1 0 0 0 div td field-content 18 0
+
+japaloo@stfx.ca O japaloo@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Website O website 0 0 0 0 0 0 1 span div field-content 19 0
+
+Keith B-PER keith 0 1 0 0 0 0 1 span div field-content 19 0
+De I-PER de 0 1 0 0 0 0 1 span div field-content 19 0
+' I-PER ' 0 0 0 0 0 0 0 span div field-content 19 0
+Bell I-PER bell 0 1 0 0 0 0 1 span div field-content 19 0
+
+Professor O professor 0 0 0 0 1 0 1 div td field-content 18 0
+
+20B O 20b 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+4923 O 4923 0 0 0 1 0 0 0 div td field-content 18 0
+
+kdebell@stfx.ca O kdebell@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Darien B-PER darien 0 1 0 0 0 0 1 span div field-content 19 0
+DeWolf I-PER dewolf 0 1 0 0 0 0 1 span div field-content 19 0
+
+10B O 10b 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+3875 O 3875 0 0 0 1 0 0 0 div td field-content 18 0
+
+ddewolf@stfx.ca O ddewolf@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Website O website 0 0 0 0 0 0 1 span div field-content 19 0
+
+Stephen B-PER stephen 1 1 0 0 0 0 1 span div field-content 19 0
+Finbow I-PER finbow 1 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div td field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div td field-content 18 0
+
+22B O 22b 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+5235 O 5235 0 0 0 1 0 0 0 div td field-content 18 0
+
+sfinbow@stfx.ca O sfinbow@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Website O website 0 0 0 0 0 0 1 span div field-content 19 0
+
+Iker B-PER iker 1 1 0 0 0 0 1 span div field-content 19 0
+Gondra I-PER gondra 1 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div td field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div td field-content 18 0
+
+On O on 0 1 0 0 0 0 1 span td field-content 18 0
+leave O leave 0 0 0 0 0 0 0 span td field-content 18 0
+- O - 0 0 0 0 0 0 0 span td field-content 18 0
+Sept O sept 0 1 0 0 0 0 1 span td field-content 18 0
+2017 O 2017 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+3314 O 3314 0 0 0 1 0 0 0 div td field-content 18 0
+
+igondra@stfx.ca O igondra@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Website O website 0 0 0 0 0 0 1 span div field-content 19 0
+
+Peter B-PER peter 0 1 0 0 0 0 1 span div field-content 19 0
+Keizer I-PER keizer 0 1 0 0 0 0 1 span div field-content 19 0
+
+Senior O senior 0 1 0 0 0 0 1 div td field-content 18 0
+Lab O lab 0 1 0 0 0 0 1 div td field-content 18 0
+Instructor O instructor 0 0 0 0 0 0 1 div td field-content 18 0
+
+21A O 21a 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+2278 O 2278 0 0 0 1 0 0 0 div td field-content 18 0
+
+pkeizer@stfx.ca O pkeizer@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Website O website 0 0 0 0 0 0 1 span div field-content 19 0
+
+Derrick B-PER derrick 0 1 0 0 0 0 1 span div field-content 19 0
+Lee I-PER lee 1 1 0 0 0 0 1 span div field-content 19 0
+
+Assistant O assistant 0 0 0 0 0 0 1 div td field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div td field-content 18 0
+
+22C O 22c 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+5746 O 5746 0 0 0 1 0 0 0 div td field-content 18 0
+
+dlee@stfx.ca O dlee@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Jacob B-PER jacob 1 1 0 0 0 0 1 span div field-content 19 0
+Levman I-PER levman 1 1 0 0 0 0 1 span div field-content 19 0
+
+Canada O canada 0 1 0 0 0 0 1 div td field-content 18 0
+Research O research 0 1 0 0 0 0 1 div td field-content 18 0
+Chair O chair 0 1 0 0 0 0 1 div td field-content 18 0
+
+9a O 9a 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+0000 O 0000 0 1 0 1 0 0 0 div td field-content 18 0
+
+jlevman@stfx.ca O jlevman@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Man B-PER man 1 1 0 0 0 0 1 span div field-content 19 0
+Lin I-PER lin 1 1 0 0 0 0 1 span div field-content 19 0
+
+Professor O professor 0 0 0 0 1 0 1 div td field-content 18 0
+
+10A O 10a 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+5402 O 5402 0 0 0 1 0 0 0 div td field-content 18 0
+
+mlin@stfx.ca O mlin@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Website O website 0 0 0 0 0 0 1 span div field-content 19 0
+
+Ryan B-PER ryan 0 1 0 0 0 0 1 span div field-content 19 0
+Lukeman I-PER lukeman 0 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div td field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div td field-content 18 0
+
+20A O 20a 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+4920 O 4920 0 0 0 1 0 0 0 div td field-content 18 0
+
+rlukeman@stfx.ca O rlukeman@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Website O website 0 0 0 0 0 0 1 span div field-content 19 0
+
+Tharshanna B-PER tharshanna 0 0 0 0 0 0 1 span div field-content 19 0
+Nadarajah I-PER nadarajah 0 1 0 0 0 0 1 span div field-content 19 0
+
+10C O 10c 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+3971 O 3971 0 0 0 1 0 0 0 div td field-content 18 0
+
+tnadaraj@stfx.ca O tnadaraj@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Tara B-PER tara 0 1 0 0 0 0 1 span div field-content 19 0
+Taylor I-PER taylor 0 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div td field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div td field-content 18 0
+
+22A O 22a 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+3395 O 3395 0 0 0 1 0 0 0 div td field-content 18 0
+
+ttaylor@stfx.ca O ttaylor@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Website O website 0 0 0 0 0 0 1 span div field-content 19 0
+
+Martin B-PER martin 0 1 0 0 0 0 1 span div field-content 19 0
+van I-PER van 0 1 0 0 0 0 0 span div field-content 19 0
+Bommel I-PER bommel 0 1 0 0 0 0 1 span div field-content 19 0
+
+Professor O professor 0 0 0 0 1 0 1 div td field-content 18 0
+
+21B O 21b 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+3857 O 3857 0 0 0 1 0 0 0 div td field-content 18 0
+
+mvanbomm@stfx.ca O mvanbomm@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Website O website 0 0 0 0 0 0 1 span div field-content 19 0
+
+Robert B-PER robert 0 1 0 0 0 0 1 span div field-content 19 0
+van I-PER van 0 1 0 0 0 0 0 span div field-content 19 0
+den I-PER den 0 1 0 0 0 0 0 span div field-content 19 0
+Hoogen I-PER hoogen 0 1 0 0 0 0 1 span div field-content 19 0
+
+Professor O professor 0 0 0 0 1 0 1 div td field-content 18 0
+
+113A O 113a 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+3888 O 3888 0 0 0 1 0 0 0 div td field-content 18 0
+
+rvandenh@stfx.ca O rvandenh@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Website O website 0 0 0 0 0 0 1 span div field-content 19 0
+
+Ping B-PER ping 1 1 0 0 0 0 1 span div field-content 19 0
+Wang I-PER wang 1 1 0 0 0 0 1 span div field-content 19 0
+
+Professor O professor 0 0 0 0 1 0 1 div td field-content 18 0
+
+21C O 21c 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+2446 O 2446 0 0 0 1 0 0 0 div td field-content 18 0
+
+pwang@stfx.ca O pwang@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Website O website 0 0 0 0 0 0 1 span div field-content 19 0
+
+Laurence B-PER laurence 1 1 0 0 0 0 1 span div field-content 19 0
+T. I-PER t. 1 1 0 0 0 0 1 span div field-content 19 0
+Yang I-PER yang 1 1 0 0 0 0 1 span div field-content 19 0
+
+Professor O professor 0 0 0 0 1 0 1 div td field-content 18 0
+
+11B O 11b 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+5546 O 5546 0 0 0 1 0 0 0 div td field-content 18 0
+
+lyang@stfx.ca O lyang@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Website O website 0 0 0 0 0 0 1 span div field-content 19 0
+
+Ping B-PER ping 1 1 0 0 0 0 1 span div field-content 19 0
+Zhou I-PER zhou 1 1 0 0 0 0 1 span div field-content 19 0
+
+Professor O professor 0 0 0 0 1 0 1 div td field-content 18 0
+
+Sabbatical O sabbatical 0 0 0 0 0 0 1 span td field-content 18 0
+2017 O 2017 0 0 0 1 0 0 0 span td field-content 18 0
+- O - 0 0 0 0 0 0 0 span td field-content 18 0
+18 O 18 0 0 0 1 0 0 0 span td field-content 18 0
+Annex O annex 0 0 0 0 0 0 1 span td field-content 18 0
+
+( O ( 0 0 0 0 0 0 0 div td field-content 18 0
+902 O 902 0 0 0 1 0 0 0 div td field-content 18 0
+) O ) 0 0 0 0 0 0 0 div td field-content 18 0
+867 O 867 0 0 0 1 0 0 0 div td field-content 18 0
+- O - 0 0 0 0 0 0 0 div td field-content 18 0
+2498 O 2498 0 0 0 1 0 0 0 div td field-content 18 0
+
+pzhou@stfx.ca O pzhou@stfx.ca 0 0 1 0 0 0 0 span div field-content 19 0
+
+Website O website 0 0 0 0 0 0 1 span div field-content 19 0
+
+© O © 0 0 0 0 0 0 0 div div clear-block 7 0
+2017 O 2017 0 0 0 1 0 0 0 div div clear-block 7 0
+St. O st. 0 1 0 0 0 0 1 div div clear-block 7 0
+Francis O francis 0 1 0 0 0 0 1 div div clear-block 7 0
+Xavier O xavier 0 1 0 0 0 0 1 div div clear-block 7 0
+University. O university. 0 0 0 0 0 0 1 div div clear-block 7 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul clear-block 10 0
+Us O us 0 1 0 0 0 0 1 li ul clear-block 10 0
+| O | 0 0 0 0 0 0 0 ul div clear-block 9 0
+
+Tour O tour 0 1 0 0 0 0 1 li ul clear-block 10 0
+Campus O campus 0 1 0 0 0 0 1 li ul clear-block 10 0
+| O | 0 0 0 0 0 0 0 ul div clear-block 9 2
+
+Careers O careers 0 0 0 0 0 0 1 li ul clear-block 10 0
+@ O @ 0 1 0 0 0 0 0 li ul clear-block 10 0
+X O x 0 0 0 0 0 0 1 li ul clear-block 10 0
+| O | 0 0 0 0 0 0 0 ul div clear-block 9 4
+
+Staff O staff 0 1 0 0 0 0 1 li ul clear-block 10 0
+and O and 0 1 0 0 0 0 0 li ul clear-block 10 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul clear-block 10 0
+Directory O directory 0 0 0 0 0 0 1 li ul clear-block 10 0
+| O | 0 0 0 0 0 0 0 ul div clear-block 9 6
+
+myStFX.ca O mystfx.ca 0 0 0 0 1 0 0 li ul clear-block 10 0
+| O | 0 0 0 0 0 0 0 ul div clear-block 9 8
+
+Media O media 0 1 0 0 0 0 1 li ul clear-block 10 0
+Contact O contact 0 0 0 0 0 0 1 li ul clear-block 10 0
+| O | 0 0 0 0 0 0 0 ul div clear-block 9 10
+
+Privacy O privacy 0 0 0 0 0 0 1 li ul clear-block 10 0

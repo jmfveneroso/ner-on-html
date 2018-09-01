@@ -1,557 +1,557 @@
-Business O business 0 0 0 0 0 0 1 head html none 4 22
-& O & 0 0 0 0 0 0 0 head html none 4 22
-Computer O computer 0 0 0 0 0 0 1 head html none 4 22
-Science O science 0 0 0 0 0 0 1 head html none 4 22
-Faculty O faculty 0 0 0 0 0 0 1 head html none 4 22
-& O & 0 0 0 0 0 0 0 head html none 4 22
-Staff O staff 0 1 0 0 0 0 1 head html none 4 22
+Business O business 0 0 0 0 0 0 1 0 7 head html none 4 22
+& O & 0 0 0 0 0 0 0 0 0 head html none 4 22
+Computer O computer 0 0 0 0 0 0 1 0 7 head html none 4 22
+Science O science 0 0 0 0 0 0 1 0 7 head html none 4 22
+Faculty O faculty 0 0 0 0 0 0 1 0 7 head html none 4 22
+& O & 0 0 0 0 0 0 0 0 0 head html none 4 22
+Staff O staff 0 1 0 0 0 0 1 2 7 head html none 4 22
 
-Menu O menu 0 1 0 0 0 0 1 div div menu-butn 7 0
+Menu O menu 0 1 0 0 0 0 1 2 8 div div menu-butn 7 0
 
-Skip O skip 0 1 0 0 0 0 1 div div top-link-container 8 0
-to O to 0 0 0 0 0 0 0 div div top-link-container 8 0
-Main O main 0 1 0 0 0 0 1 div div top-link-container 8 0
-Content O content 0 1 0 0 0 0 1 div div top-link-container 8 0
+Skip O skip 0 1 0 0 0 0 1 3 4 div div top-link-container 8 0
+to O to 0 1 0 0 0 0 0 0 10 div div top-link-container 8 0
+Main O main 0 1 0 0 0 0 1 3 6 div div top-link-container 8 0
+Content O content 0 1 0 0 0 0 1 1 6 div div top-link-container 8 0
 
-Calendar O calendar 0 0 0 0 0 0 1 li ul top-links 9 0
+Calendar O calendar 0 0 0 0 0 0 1 0 6 li ul top-links 9 0
 
-| O | 0 0 0 0 0 0 0 ul div top-links 8 2
+| O | 0 0 0 0 0 0 0 0 0 ul div top-links 8 2
 
-People O people 0 1 0 0 0 0 1 li ul top-links 9 0
-Search O search 0 0 0 0 0 0 1 li ul top-links 9 0
+People O people 0 1 0 0 0 0 1 0 7 li ul top-links 9 0
+Search O search 0 0 0 0 0 0 1 0 7 li ul top-links 9 0
 
-Search O search 0 0 0 0 0 0 1 div form hide 12 0
-Site O site 0 1 0 0 0 0 1 div form hide 12 0
+Search O search 0 0 0 0 0 0 1 0 7 div form hide 12 0
+Site O site 0 1 0 0 0 0 1 0 8 div form hide 12 0
 
-Future O future 0 0 0 0 0 0 1 li ul top-navigation 9 0
-Students O students 0 0 0 0 0 0 1 li ul top-navigation 9 0
+Future O future 0 0 0 0 0 0 1 0 7 li ul top-navigation 9 0
+Students O students 0 0 0 0 0 0 1 0 8 li ul top-navigation 9 0
 
-Current O current 0 1 0 0 0 0 1 li ul top-navigation 9 0
-Students O students 0 0 0 0 0 0 1 li ul top-navigation 9 0
+Current O current 0 1 0 0 0 0 1 1 6 li ul top-navigation 9 0
+Students O students 0 0 0 0 0 0 1 0 8 li ul top-navigation 9 0
 
-Visitors O visitors 0 0 0 0 0 0 1 li ul top-navigation 9 0
+Visitors O visitors 0 0 0 0 0 0 1 0 4 li ul top-navigation 9 0
 
-Faculty O faculty 0 0 0 0 0 0 1 li ul top-navigation 9 0
-& O & 0 0 0 0 0 0 0 li ul top-navigation 9 0
-Staff O staff 0 1 0 0 0 0 1 li ul top-navigation 9 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul top-navigation 9 0
+& O & 0 0 0 0 0 0 0 0 0 li ul top-navigation 9 0
+Staff O staff 0 1 0 0 0 0 1 2 7 li ul top-navigation 9 0
 
-Academics O academics 0 0 0 0 0 0 1 li ul top-navigation 9 0
+Academics O academics 0 0 0 0 0 0 1 0 5 li ul top-navigation 9 0
 
-Athletics O athletics 0 0 0 0 0 0 1 li ul top-navigation 9 0
+Athletics O athletics 0 0 0 0 0 0 1 0 6 li ul top-navigation 9 0
 
-Directory O directory 0 0 0 0 0 0 1 div div band 8 0
-Information O information 0 1 0 0 0 0 1 div div band 8 0
+Directory O directory 0 0 0 0 0 0 1 0 6 div div band 8 0
+Information O information 0 1 0 0 0 0 1 0 8 div div band 8 0
 
-Select O select 0 0 0 0 0 0 1 div div select-a-page 8 0
-A O a 0 1 0 0 0 0 1 div div select-a-page 8 0
-Page O page 0 1 0 0 0 0 1 div div select-a-page 8 0
+Select O select 0 0 0 0 0 0 1 0 5 div div select-a-page 8 0
+A O a 0 1 0 0 0 0 1 4 11 div div select-a-page 8 0
+Page O page 0 1 0 0 0 0 1 5 9 div div select-a-page 8 0
 
-Degree O degree 0 0 0 0 0 0 1 li ul content-left 11 0
-Information O information 0 1 0 0 0 0 1 li ul content-left 11 0
+Degree O degree 0 0 0 0 0 0 1 0 6 li ul content-left 11 0
+Information O information 0 1 0 0 0 0 1 0 8 li ul content-left 11 0
 
-Back O back 0 1 0 0 0 0 1 a div fa-arrow-left 15 0
+Back O back 0 1 0 0 0 0 1 4 6 a div fa-arrow-left 15 0
 
-Degree O degree 0 0 0 0 0 0 1 div div secondLevel 13 4
-Information O information 0 1 0 0 0 0 1 div div secondLevel 13 4
+Degree O degree 0 0 0 0 0 0 1 0 6 div div secondLevel 13 4
+Information O information 0 1 0 0 0 0 1 0 8 div div secondLevel 13 4
 
-B.B.A. O b.b.a. 0 0 0 0 0 0 1 li ul secondLevel 15 0
-Accounting O accounting 0 0 0 0 0 0 1 li ul secondLevel 15 0
+B.B.A. O b.b.a. 0 0 0 0 0 0 1 0 0 li ul secondLevel 15 0
+Accounting O accounting 0 0 0 0 0 0 1 0 5 li ul secondLevel 15 0
 
-B.B.A. O b.b.a. 0 0 0 0 0 0 1 li ul secondLevel 15 0
-Entrepreneurship O entrepreneurship 0 0 0 0 0 0 1 li ul secondLevel 15 0
+B.B.A. O b.b.a. 0 0 0 0 0 0 1 0 0 li ul secondLevel 15 0
+Entrepreneurship O entrepreneurship 0 0 0 0 0 0 1 0 2 li ul secondLevel 15 0
 
-B.B.A. O b.b.a. 0 0 0 0 0 0 1 li ul secondLevel 15 0
-Finance O finance 0 1 0 0 0 0 1 li ul secondLevel 15 0
+B.B.A. O b.b.a. 0 0 0 0 0 0 1 0 0 li ul secondLevel 15 0
+Finance O finance 0 1 0 0 0 0 1 1 5 li ul secondLevel 15 0
 
-B.B.A. O b.b.a. 0 0 0 0 0 0 1 li ul secondLevel 15 0
-Management O management 0 1 0 0 0 0 1 li ul secondLevel 15 0
+B.B.A. O b.b.a. 0 0 0 0 0 0 1 0 0 li ul secondLevel 15 0
+Management O management 0 1 0 0 0 0 1 0 6 li ul secondLevel 15 0
 
-B.B.A. O b.b.a. 0 0 0 0 0 0 1 li ul secondLevel 15 0
-Marketing O marketing 0 0 0 0 0 0 1 li ul secondLevel 15 0
+B.B.A. O b.b.a. 0 0 0 0 0 0 1 0 0 li ul secondLevel 15 0
+Marketing O marketing 0 0 0 0 0 0 1 0 4 li ul secondLevel 15 0
 
-B.S. O b.s. 0 0 0 0 0 0 1 li ul secondLevel 15 0
-Computer O computer 0 0 0 0 0 0 1 li ul secondLevel 15 0
-Science O science 0 0 0 0 0 0 1 li ul secondLevel 15 0
+B.S. O b.s. 0 0 0 0 0 0 1 0 0 li ul secondLevel 15 0
+Computer O computer 0 0 0 0 0 0 1 0 7 li ul secondLevel 15 0
+Science O science 0 0 0 0 0 0 1 0 7 li ul secondLevel 15 0
 
-M.B.A. O m.b.a. 0 0 0 0 0 0 1 li ul secondLevel 15 0
+M.B.A. O m.b.a. 0 0 0 0 0 0 1 0 0 li ul secondLevel 15 0
 
-M.S. O m.s. 0 0 0 0 1 0 1 li ul secondLevel 15 0
-in O in 0 1 0 0 0 0 0 li ul secondLevel 15 0
-Management O management 0 1 0 0 0 0 1 li ul secondLevel 15 0
+M.S. O m.s. 0 0 0 0 1 0 1 0 0 li ul secondLevel 15 0
+in O in 0 1 0 0 0 0 0 3 10 li ul secondLevel 15 0
+Management O management 0 1 0 0 0 0 1 0 6 li ul secondLevel 15 0
 
-Minors O minors 0 1 0 0 0 0 1 li ul secondLevel 15 0
+Minors O minors 0 1 0 0 0 0 1 0 2 li ul secondLevel 15 0
 
-Prospective O prospective 0 0 0 0 0 0 1 li ul content-left 11 0
-Students O students 0 0 0 0 0 0 1 li ul content-left 11 0
+Prospective O prospective 0 0 0 0 0 0 1 0 4 li ul content-left 11 0
+Students O students 0 0 0 0 0 0 1 0 8 li ul content-left 11 0
 
-Back O back 0 1 0 0 0 0 1 a div fa-arrow-left 15 0
+Back O back 0 1 0 0 0 0 1 4 6 a div fa-arrow-left 15 0
 
-Prospective O prospective 0 0 0 0 0 0 1 div div secondLevel 13 4
-Students O students 0 0 0 0 0 0 1 div div secondLevel 13 4
+Prospective O prospective 0 0 0 0 0 0 1 0 4 div div secondLevel 13 4
+Students O students 0 0 0 0 0 0 1 0 8 div div secondLevel 13 4
 
-Admissions O admissions 0 0 0 0 0 0 1 li ul secondLevel 15 0
-& O & 0 0 0 0 0 0 0 li ul secondLevel 15 0
-Recruitment O recruitment 0 0 0 0 0 0 1 li ul secondLevel 15 0
+Admissions O admissions 0 0 0 0 0 0 1 0 7 li ul secondLevel 15 0
+& O & 0 0 0 0 0 0 0 0 0 li ul secondLevel 15 0
+Recruitment O recruitment 0 0 0 0 0 0 1 0 3 li ul secondLevel 15 0
 
-Request O request 0 0 0 0 0 0 1 li ul secondLevel 15 0
-Information O information 0 1 0 0 0 0 1 li ul secondLevel 15 0
+Request O request 0 0 0 0 0 0 1 0 6 li ul secondLevel 15 0
+Information O information 0 1 0 0 0 0 1 0 8 li ul secondLevel 15 0
 
-Take O take 0 1 0 0 0 0 1 li ul secondLevel 15 0
-a O a 0 1 0 0 0 0 0 li ul secondLevel 15 0
-Tour O tour 0 1 0 0 0 0 1 li ul secondLevel 15 0
+Take O take 0 1 0 0 0 0 1 2 6 li ul secondLevel 15 0
+a O a 0 1 0 0 0 0 0 3 11 li ul secondLevel 15 0
+Tour O tour 0 1 0 0 0 0 1 1 7 li ul secondLevel 15 0
 
-Apply O apply 0 0 0 0 0 0 1 li ul secondLevel 15 0
-Now O now 0 1 0 0 0 0 1 li ul secondLevel 15 0
+Apply O apply 0 0 0 0 0 0 1 0 7 li ul secondLevel 15 0
+Now O now 0 1 0 0 0 0 1 0 7 li ul secondLevel 15 0
 
-Faculty O faculty 0 0 0 0 0 0 1 li ul content-left 11 0
-& O & 0 0 0 0 0 0 0 li ul content-left 11 0
-Staff O staff 0 1 0 0 0 0 1 li ul content-left 11 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul content-left 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul content-left 11 0
+Staff O staff 0 1 0 0 0 0 1 2 7 li ul content-left 11 0
 
-Student O student 0 1 0 0 0 0 1 li ul content-left 11 0
-Organizations O organizations 0 0 0 0 0 0 1 li ul content-left 11 0
+Student O student 0 1 0 0 0 0 1 1 8 li ul content-left 11 0
+Organizations O organizations 0 0 0 0 0 0 1 0 5 li ul content-left 11 0
 
-Textbook O textbook 0 0 0 0 0 0 1 li ul content-left 11 0
-Information O information 0 1 0 0 0 0 1 li ul content-left 11 0
+Textbook O textbook 0 0 0 0 0 0 1 0 3 li ul content-left 11 0
+Information O information 0 1 0 0 0 0 1 0 8 li ul content-left 11 0
 
-Back O back 0 1 0 0 0 0 1 a div fa-arrow-left 15 0
+Back O back 0 1 0 0 0 0 1 4 6 a div fa-arrow-left 15 0
 
-Textbook O textbook 0 0 0 0 0 0 1 div div secondLevel 13 4
-Information O information 0 1 0 0 0 0 1 div div secondLevel 13 4
+Textbook O textbook 0 0 0 0 0 0 1 0 3 div div secondLevel 13 4
+Information O information 0 1 0 0 0 0 1 0 8 div div secondLevel 13 4
 
-Spring O spring 0 1 0 0 0 0 1 li ul secondLevel 15 0
-2017 O 2017 0 0 0 1 0 0 0 li ul secondLevel 15 0
+Spring O spring 0 1 0 0 0 0 1 3 5 li ul secondLevel 15 0
+2017 O 2017 0 0 0 1 0 0 0 0 0 li ul secondLevel 15 0
 
-Administrative O administrative 0 0 0 0 0 0 1 li ul content-left 11 0
-Issues O issues 0 0 0 0 0 0 1 li ul content-left 11 0
-Journal O journal 0 0 0 0 0 0 1 li ul content-left 11 0
+Administrative O administrative 0 0 0 0 0 0 1 0 6 li ul content-left 11 0
+Issues O issues 0 0 0 0 0 0 1 0 5 li ul content-left 11 0
+Journal O journal 0 0 0 0 0 0 1 0 7 li ul content-left 11 0
 
-NASA O nasa 0 0 0 0 0 0 1 li ul content-left 11 0
-Space O space 0 1 0 0 0 0 1 li ul content-left 11 0
-Grant O grant 0 1 0 0 0 0 1 li ul content-left 11 0
-Program O program 0 0 0 0 0 0 1 li ul content-left 11 0
+NASA O nasa 0 0 0 0 0 0 1 0 5 li ul content-left 11 0
+Space O space 0 1 0 0 0 0 1 0 6 li ul content-left 11 0
+Grant O grant 0 1 0 0 0 0 1 6 5 li ul content-left 11 0
+Program O program 0 0 0 0 0 0 1 0 7 li ul content-left 11 0
 
-SWOSU O swosu 0 0 0 0 0 0 1 div div breadcrumbs 9 0
-> O > 0 0 0 0 0 0 0 div div breadcrumbs 8 0
-Faculty O faculty 0 0 0 0 0 0 1 div div breadcrumbs 8 0
-& O & 0 0 0 0 0 0 0 div div breadcrumbs 8 0
-Staff O staff 0 1 0 0 0 0 1 div div breadcrumbs 8 0
+SWOSU O swosu 0 0 0 0 0 0 1 0 0 div div breadcrumbs 9 0
+> O > 0 0 0 0 0 0 0 0 0 div div breadcrumbs 8 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 div div breadcrumbs 8 0
+& O & 0 0 0 0 0 0 0 0 0 div div breadcrumbs 8 0
+Staff O staff 0 1 0 0 0 0 1 2 7 div div breadcrumbs 8 0
 
-Business O business 0 0 0 0 0 0 1 div div tan-content-box 8 2
-& O & 0 0 0 0 0 0 0 div div tan-content-box 8 2
-Computer O computer 0 0 0 0 0 0 1 div div tan-content-box 8 2
-Science O science 0 0 0 0 0 0 1 div div tan-content-box 8 2
+Business O business 0 0 0 0 0 0 1 0 7 div div tan-content-box 8 2
+& O & 0 0 0 0 0 0 0 0 0 div div tan-content-box 8 2
+Computer O computer 0 0 0 0 0 0 1 0 7 div div tan-content-box 8 2
+Science O science 0 0 0 0 0 0 1 0 7 div div tan-content-box 8 2
 
-Faculty O faculty 0 0 0 0 0 0 1 div div tan-content-box 8 3
-& O & 0 0 0 0 0 0 0 div div tan-content-box 8 3
-Staff O staff 0 1 0 0 0 0 1 div div tan-content-box 8 3
+Faculty O faculty 0 0 0 0 0 0 1 0 7 div div tan-content-box 8 3
+& O & 0 0 0 0 0 0 0 0 0 div div tan-content-box 8 3
+Staff O staff 0 1 0 0 0 0 1 2 7 div div tan-content-box 8 3
 
-Ashenfelter B-PER ashenfelter 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Melody I-PER melody 0 1 0 0 0 0 1 p div two-column 11 0
+Ashenfelter B-PER ashenfelter 0 1 0 0 0 0 1 1 0 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Melody I-PER melody 0 1 0 0 0 0 1 4 2 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Professor O professor 0 0 0 0 1 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Professor O professor 0 0 0 0 1 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-306 O 306 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.3747 O 580.774.3747 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+306 O 306 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.3747 O 580.774.3747 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-melody.ashenfelter@swosu.edu O melody.ashenfelter@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+melody.ashenfelter@swosu.edu O melody.ashenfelter@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-http O http 0 0 0 0 0 0 0 p div two-column 11 5
-: O : 0 0 0 0 0 0 0 p div two-column 11 5
-//faculty.swosu.edu/melody.ashenfelter/ O //faculty.swosu.edu/melody.ashenfelter/ 0 0 0 0 0 0 0 p div two-column 11 5
+http O http 0 0 0 0 0 0 0 0 8 p div two-column 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div two-column 11 5
+//faculty.swosu.edu/melody.ashenfelter/ O //faculty.swosu.edu/melody.ashenfelter/ 0 0 0 0 0 0 0 0 0 p div two-column 11 5
 
-Baugher B-PER baugher 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Madeline I-PER madeline 0 1 0 0 0 0 1 p div two-column 11 0
+Baugher B-PER baugher 0 1 0 0 0 0 1 1 0 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Madeline I-PER madeline 0 1 0 0 0 0 1 3 1 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Computer O computer 0 0 0 0 0 0 1 div section two-column 10 0
-Science O science 0 0 0 0 0 0 1 div section two-column 10 0
-Program O program 0 0 0 0 0 0 1 div section two-column 10 0
-Director O director 0 1 0 0 0 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Computer O computer 0 0 0 0 0 0 1 0 7 div section two-column 10 0
+Science O science 0 0 0 0 0 0 1 0 7 div section two-column 10 0
+Program O program 0 0 0 0 0 0 1 0 7 div section two-column 10 0
+Director O director 0 1 0 0 0 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-251 O 251 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.3122 O 580.774.3122 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+251 O 251 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.3122 O 580.774.3122 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-madeline.baugher@swosu.edu O madeline.baugher@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+madeline.baugher@swosu.edu O madeline.baugher@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-http O http 0 0 0 0 0 0 0 p div two-column 11 5
-: O : 0 0 0 0 0 0 0 p div two-column 11 5
-//faculty.swosu.edu/madeline.baugher/ O //faculty.swosu.edu/madeline.baugher/ 0 0 0 0 0 0 0 p div two-column 11 5
+http O http 0 0 0 0 0 0 0 0 8 p div two-column 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div two-column 11 5
+//faculty.swosu.edu/madeline.baugher/ O //faculty.swosu.edu/madeline.baugher/ 0 0 0 0 0 0 0 0 0 p div two-column 11 5
 
-Chain B-PER chain 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Raygan I-PER raygan 0 1 0 0 0 0 1 p div two-column 11 0
+Chain B-PER chain 0 1 0 0 0 0 1 3 3 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Raygan I-PER raygan 0 1 0 0 0 0 1 0 0 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Assistant O assistant 0 0 0 0 0 0 1 div section two-column 10 0
-Professor O professor 0 0 0 0 1 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 div section two-column 10 0
+Professor O professor 0 0 0 0 1 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-349 O 349 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.6020 O 580.774.6020 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+349 O 349 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.6020 O 580.774.6020 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-raygan.chain@swosu.edu O raygan.chain@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+raygan.chain@swosu.edu O raygan.chain@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-http O http 0 0 0 0 0 0 0 p div two-column 11 5
-: O : 0 0 0 0 0 0 0 p div two-column 11 5
-//faculty.swosu.edu/raygan.chain/ O //faculty.swosu.edu/raygan.chain/ 0 0 0 0 0 0 0 p div two-column 11 5
+http O http 0 0 0 0 0 0 0 0 8 p div two-column 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div two-column 11 5
+//faculty.swosu.edu/raygan.chain/ O //faculty.swosu.edu/raygan.chain/ 0 0 0 0 0 0 0 0 0 p div two-column 11 5
 
-Evert B-PER evert 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Amanda I-PER amanda 0 1 0 0 0 0 1 p div two-column 11 0
+Evert B-PER evert 0 1 0 0 0 0 1 4 1 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Amanda I-PER amanda 0 1 0 0 0 0 1 6 3 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Assistant O assistant 0 0 0 0 0 0 1 div section two-column 10 0
-Professor O professor 0 0 0 0 1 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 div section two-column 10 0
+Professor O professor 0 0 0 0 1 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-353 O 353 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.3040 O 580.774.3040 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+353 O 353 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.3040 O 580.774.3040 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-amanda.evert@swosu.edu O amanda.evert@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+amanda.evert@swosu.edu O amanda.evert@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-http O http 0 0 0 0 0 0 0 p div two-column 11 5
-: O : 0 0 0 0 0 0 0 p div two-column 11 5
-//faculty.swosu.edu/amanda.evert/ O //faculty.swosu.edu/amanda.evert/ 0 0 0 0 0 0 0 p div two-column 11 5
+http O http 0 0 0 0 0 0 0 0 8 p div two-column 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div two-column 11 5
+//faculty.swosu.edu/amanda.evert/ O //faculty.swosu.edu/amanda.evert/ 0 0 0 0 0 0 0 0 0 p div two-column 11 5
 
-Evert B-PER evert 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Jeremy I-PER jeremy 0 1 0 0 0 0 1 p div two-column 11 0
+Evert B-PER evert 1 1 0 0 0 0 1 4 1 p div two-column 11 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 p div two-column 11 0
+Jeremy I-PER jeremy 1 1 0 0 0 0 1 7 4 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Assistant O assistant 0 0 0 0 0 0 1 div section two-column 10 0
-Professor O professor 0 0 0 0 1 0 1 div section two-column 10 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 div section two-column 10 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 div section two-column 10 0
+Professor O professor 0 0 0 0 1 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-320 O 320 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.7050 O 580.774.7050 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+320 O 320 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.7050 O 580.774.7050 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-jeremy.evert@swosu.edu O jeremy.evert@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+jeremy.evert@swosu.edu O jeremy.evert@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-http O http 0 0 0 0 0 0 0 p div two-column 11 5
-: O : 0 0 0 0 0 0 0 p div two-column 11 5
-//faculty.swosu.edu/jeremy.evert O //faculty.swosu.edu/jeremy.evert 0 0 0 0 0 0 0 p div two-column 11 5
+http O http 0 0 0 0 0 0 0 0 8 p div two-column 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div two-column 11 5
+//faculty.swosu.edu/jeremy.evert O //faculty.swosu.edu/jeremy.evert 0 0 0 0 0 0 0 0 0 p div two-column 11 5
 
-Friesen B-PER friesen 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Lisa I-PER lisa 0 1 0 0 0 0 1 p div two-column 11 0
+Friesen B-PER friesen 0 1 0 0 0 0 1 3 1 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Lisa I-PER lisa 0 1 0 0 0 0 1 7 4 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Instructor O instructor 0 0 0 0 0 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Instructor O instructor 0 0 0 0 0 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-354 O 354 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.6025 O 580.774.6025 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+354 O 354 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.6025 O 580.774.6025 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-lisa.friesen@swosu.edu O lisa.friesen@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+lisa.friesen@swosu.edu O lisa.friesen@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-http O http 0 0 0 0 0 0 0 p div two-column 11 5
-: O : 0 0 0 0 0 0 0 p div two-column 11 5
-//faculty.swosu.edu/lisa.friesen/ O //faculty.swosu.edu/lisa.friesen/ 0 0 0 0 0 0 0 p div two-column 11 5
+http O http 0 0 0 0 0 0 0 0 8 p div two-column 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div two-column 11 5
+//faculty.swosu.edu/lisa.friesen/ O //faculty.swosu.edu/lisa.friesen/ 0 0 0 0 0 0 0 0 0 p div two-column 11 5
 
-Harrington B-PER harrington 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Hayden I-PER hayden 0 1 0 0 0 0 1 p div two-column 11 0
+Harrington B-PER harrington 0 1 0 0 0 0 1 4 2 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Hayden I-PER hayden 0 1 0 0 0 0 1 4 2 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Instructor O instructor 0 0 0 0 0 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Instructor O instructor 0 0 0 0 0 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-309 O 309 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.3751 O 580.774.3751 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+309 O 309 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.3751 O 580.774.3751 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-hayden.harrington@swosu.edu O hayden.harrington@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+hayden.harrington@swosu.edu O hayden.harrington@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-Hays B-PER hays 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Rita I-PER rita 0 1 0 0 0 0 1 p div two-column 11 0
+Hays B-PER hays 0 1 0 0 0 0 1 4 1 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Rita I-PER rita 0 1 0 0 0 0 1 6 3 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Instructor O instructor 0 0 0 0 0 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Instructor O instructor 0 0 0 0 0 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-303 O 303 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.3020 O 580.774.3020 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+303 O 303 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.3020 O 580.774.3020 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-rita.hays@swosu.edu O rita.hays@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+rita.hays@swosu.edu O rita.hays@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-http O http 0 0 0 0 0 0 0 p div two-column 11 5
-: O : 0 0 0 0 0 0 0 p div two-column 11 5
-//faculty.swosu.edu/rita.hays/ O //faculty.swosu.edu/rita.hays/ 0 0 0 0 0 0 0 p div two-column 11 5
+http O http 0 0 0 0 0 0 0 0 8 p div two-column 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div two-column 11 5
+//faculty.swosu.edu/rita.hays/ O //faculty.swosu.edu/rita.hays/ 0 0 0 0 0 0 0 0 0 p div two-column 11 5
 
-Hicks B-PER hicks 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Nate I-PER nate 0 1 0 0 0 0 1 p div two-column 11 0
+Hicks B-PER hicks 0 1 0 0 0 0 1 5 0 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Nate I-PER nate 0 1 0 0 0 0 1 4 2 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Instructor O instructor 0 0 0 0 0 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Instructor O instructor 0 0 0 0 0 0 1 0 7 div section two-column 10 0
 
-580.774.3282 O 580.774.3282 0 0 0 1 0 0 0 div section two-column 10 0
+580.774.3282 O 580.774.3282 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-nate.hicks@swosu.edu O nate.hicks@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+nate.hicks@swosu.edu O nate.hicks@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-Humphrey B-PER humphrey 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Phillip I-PER phillip 0 1 0 0 0 0 1 p div two-column 11 0
+Humphrey B-PER humphrey 0 1 0 0 0 0 1 4 2 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Phillip I-PER phillip 0 1 0 0 0 0 1 6 2 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Assistant O assistant 0 0 0 0 0 0 1 div section two-column 10 0
-Professor O professor 0 0 0 0 1 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 div section two-column 10 0
+Professor O professor 0 0 0 0 1 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-304 O 304 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.7122 O 580.774.7122 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+304 O 304 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.7122 O 580.774.7122 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-phillip.humphrey@swosu.edu O phillip.humphrey@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+phillip.humphrey@swosu.edu O phillip.humphrey@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-http O http 0 0 0 0 0 0 0 p div two-column 11 5
-: O : 0 0 0 0 0 0 0 p div two-column 11 5
-//faculty.swosu.edu/phillip.humphrey O //faculty.swosu.edu/phillip.humphrey 0 0 0 0 0 0 0 p div two-column 11 5
+http O http 0 0 0 0 0 0 0 0 8 p div two-column 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div two-column 11 5
+//faculty.swosu.edu/phillip.humphrey O //faculty.swosu.edu/phillip.humphrey 0 0 0 0 0 0 0 0 0 p div two-column 11 5
 
-King B-PER king 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Sarah I-PER sarah 0 1 0 0 0 0 1 p div two-column 11 0
+King B-PER king 1 1 0 0 0 0 1 7 5 p div two-column 11 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 p div two-column 11 0
+Sarah I-PER sarah 1 1 0 0 0 0 1 7 4 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Instructor O instructor 0 0 0 0 0 0 1 div section two-column 10 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 div section two-column 10 0
+Instructor O instructor 0 0 0 0 0 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-302 O 302 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.7194 O 580.774.7194 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+302 O 302 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.7194 O 580.774.7194 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-sarah.king@swosu.edu O sarah.king@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+sarah.king@swosu.edu O sarah.king@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-http O http 0 0 0 0 0 0 0 p div two-column 11 5
-: O : 0 0 0 0 0 0 0 p div two-column 11 5
-//faculty.swosu.edu/sarah.king/ O //faculty.swosu.edu/sarah.king/ 0 0 0 0 0 0 0 p div two-column 11 5
+http O http 0 0 0 0 0 0 0 0 8 p div two-column 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div two-column 11 5
+//faculty.swosu.edu/sarah.king/ O //faculty.swosu.edu/sarah.king/ 0 0 0 0 0 0 0 0 0 p div two-column 11 5
 
-Leonard B-PER leonard 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Marc I-PER marc 0 1 0 0 0 0 1 p div two-column 11 0
+Leonard B-PER leonard 0 1 0 0 0 0 1 6 4 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Marc I-PER marc 0 1 0 0 0 0 1 8 6 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Instructor O instructor 0 0 0 0 0 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Instructor O instructor 0 0 0 0 0 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-346 O 346 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.3174 O 580.774.3174 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+346 O 346 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.3174 O 580.774.3174 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-marc.leonard@swosu.edu O marc.leonard@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+marc.leonard@swosu.edu O marc.leonard@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-http O http 0 0 0 0 0 0 0 p div two-column 11 5
-: O : 0 0 0 0 0 0 0 p div two-column 11 5
-//faculty.swosu.edu/marc.leonard/ O //faculty.swosu.edu/marc.leonard/ 0 0 0 0 0 0 0 p div two-column 11 5
+http O http 0 0 0 0 0 0 0 0 8 p div two-column 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div two-column 11 5
+//faculty.swosu.edu/marc.leonard/ O //faculty.swosu.edu/marc.leonard/ 0 0 0 0 0 0 0 0 0 p div two-column 11 5
 
-McKee B-PER mckee 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Holly I-PER holly 0 1 0 0 0 0 1 p div two-column 11 0
+McKee B-PER mckee 0 1 0 0 0 0 1 4 2 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Holly I-PER holly 0 1 0 0 0 0 1 5 3 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Assistant O assistant 0 0 0 0 0 0 1 div section two-column 10 0
-Professor O professor 0 0 0 0 1 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 div section two-column 10 0
+Professor O professor 0 0 0 0 1 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-307 O 307 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.3049 O 580.774.3049 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+307 O 307 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.3049 O 580.774.3049 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-holly.mckee@swosu.edu O holly.mckee@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+holly.mckee@swosu.edu O holly.mckee@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-http O http 0 0 0 0 0 0 0 p div two-column 11 5
-: O : 0 0 0 0 0 0 0 p div two-column 11 5
-//faculty.swosu.edu/holly.mckee O //faculty.swosu.edu/holly.mckee 0 0 0 0 0 0 0 p div two-column 11 5
+http O http 0 0 0 0 0 0 0 0 8 p div two-column 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div two-column 11 5
+//faculty.swosu.edu/holly.mckee O //faculty.swosu.edu/holly.mckee 0 0 0 0 0 0 0 0 0 p div two-column 11 5
 
-Myers B-PER myers 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Jonna I-PER jonna 0 1 0 0 0 0 1 p div two-column 11 0
+Myers B-PER myers 0 1 0 0 0 0 1 5 1 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Jonna I-PER jonna 0 1 0 0 0 0 1 3 0 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Instructor O instructor 0 0 0 0 0 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Instructor O instructor 0 0 0 0 0 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-350 O 350 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.7186 O 580.774.7186 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+350 O 350 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.7186 O 580.774.7186 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-jonna.myers@swosu.edu O jonna.myers@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+jonna.myers@swosu.edu O jonna.myers@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-http O http 0 0 0 0 0 0 0 p div two-column 11 5
-: O : 0 0 0 0 0 0 0 p div two-column 11 5
-//faculty.swosu.edu/jonna.myers/ O //faculty.swosu.edu/jonna.myers/ 0 0 0 0 0 0 0 p div two-column 11 5
+http O http 0 0 0 0 0 0 0 0 8 p div two-column 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div two-column 11 5
+//faculty.swosu.edu/jonna.myers/ O //faculty.swosu.edu/jonna.myers/ 0 0 0 0 0 0 0 0 0 p div two-column 11 5
 
-Ramsey B-PER ramsey 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Hank I-PER hank 0 1 0 0 0 0 1 p div two-column 11 0
+Ramsey B-PER ramsey 0 1 0 0 0 0 1 4 2 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Hank I-PER hank 0 1 0 0 0 0 1 4 1 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Associate O associate 0 1 0 0 0 0 1 div section two-column 10 0
-Professor O professor 0 0 0 0 1 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Associate O associate 0 1 0 0 0 0 1 0 6 div section two-column 10 0
+Professor O professor 0 0 0 0 1 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-352 O 352 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.3042 O 580.774.3042 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+352 O 352 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.3042 O 580.774.3042 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-hank.ramsey@swosu.edu O hank.ramsey@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+hank.ramsey@swosu.edu O hank.ramsey@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-http O http 0 0 0 0 0 0 0 p div two-column 11 5
-: O : 0 0 0 0 0 0 0 p div two-column 11 5
-//faculty.swosu.edu/hank.ramsey/ O //faculty.swosu.edu/hank.ramsey/ 0 0 0 0 0 0 0 p div two-column 11 5
+http O http 0 0 0 0 0 0 0 0 8 p div two-column 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div two-column 11 5
+//faculty.swosu.edu/hank.ramsey/ O //faculty.swosu.edu/hank.ramsey/ 0 0 0 0 0 0 0 0 0 p div two-column 11 5
 
-Rickel B-PER rickel 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Brian I-PER brian 0 1 0 0 0 0 1 p div two-column 11 0
+Rickel B-PER rickel 0 1 0 0 0 0 1 0 0 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Brian I-PER brian 0 1 0 0 0 0 1 8 5 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Assistant O assistant 0 0 0 0 0 0 1 div section two-column 10 0
-Professor O professor 0 0 0 0 1 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 div section two-column 10 0
+Professor O professor 0 0 0 0 1 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-310 O 310 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.3116 O 580.774.3116 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+310 O 310 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.3116 O 580.774.3116 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-brian.rickel@swosu.edu O brian.rickel@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+brian.rickel@swosu.edu O brian.rickel@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-http O http 0 0 0 0 0 0 0 p div two-column 11 5
-: O : 0 0 0 0 0 0 0 p div two-column 11 5
-//faculty.swosu.edu/brian.rickel/ O //faculty.swosu.edu/brian.rickel/ 0 0 0 0 0 0 0 p div two-column 11 5
+http O http 0 0 0 0 0 0 0 0 8 p div two-column 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div two-column 11 5
+//faculty.swosu.edu/brian.rickel/ O //faculty.swosu.edu/brian.rickel/ 0 0 0 0 0 0 0 0 0 p div two-column 11 5
 
-Sanders B-PER sanders 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Christi I-PER christi 0 1 0 0 0 0 1 p div two-column 11 0
+Sanders B-PER sanders 0 1 0 0 0 0 1 5 2 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Christi I-PER christi 0 1 0 0 0 0 1 3 1 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Adjunct O adjunct 0 0 0 0 0 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Adjunct O adjunct 0 0 0 0 0 0 1 0 4 div section two-column 10 0
 
-580.774.3282 O 580.774.3282 0 0 0 1 0 0 0 div section two-column 10 0
+580.774.3282 O 580.774.3282 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-christi.sanders@swosu.edu O christi.sanders@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+christi.sanders@swosu.edu O christi.sanders@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-Sweeney B-PER sweeney 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Karen I-PER karen 0 1 0 0 0 0 1 p div two-column 11 0
+Sweeney B-PER sweeney 0 1 0 0 0 0 1 4 2 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Karen I-PER karen 0 1 0 0 0 0 1 7 4 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Assistant O assistant 0 0 0 0 0 0 1 div section two-column 10 0
-Professor O professor 0 0 0 0 1 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 div section two-column 10 0
+Professor O professor 0 0 0 0 1 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-308 O 308 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.3117 O 580.774.3117 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+308 O 308 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.3117 O 580.774.3117 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-karen.sweeney@swosu.edu O karen.sweeney@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+karen.sweeney@swosu.edu O karen.sweeney@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-http O http 0 0 0 0 0 0 0 p div two-column 11 5
-: O : 0 0 0 0 0 0 0 p div two-column 11 5
-//faculty.swosu.edu/karen.sweeney/ O //faculty.swosu.edu/karen.sweeney/ 0 0 0 0 0 0 0 p div two-column 11 5
+http O http 0 0 0 0 0 0 0 0 8 p div two-column 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div two-column 11 5
+//faculty.swosu.edu/karen.sweeney/ O //faculty.swosu.edu/karen.sweeney/ 0 0 0 0 0 0 0 0 0 p div two-column 11 5
 
-Wald B-PER wald 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Trisha I-PER trisha 0 1 0 0 0 0 1 p div two-column 11 0
+Wald B-PER wald 0 1 0 0 0 0 1 3 2 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Trisha I-PER trisha 0 1 0 0 0 0 1 3 0 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Chair O chair 0 1 0 0 0 0 1 div section two-column 10 0
-; O ; 0 0 0 0 0 0 0 div section two-column 10 0
-Associate O associate 0 1 0 0 0 0 1 div section two-column 10 0
-Professor O professor 0 0 0 0 1 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Chair O chair 0 1 0 0 0 0 1 1 5 div section two-column 10 0
+; O-PUNCT ; 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Associate O associate 0 1 0 0 0 0 1 0 6 div section two-column 10 0
+Professor O professor 0 0 0 0 1 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-301 O 301 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.3061 O 580.774.3061 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+301 O 301 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.3061 O 580.774.3061 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-trisha.wald@swosu.edu O trisha.wald@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+trisha.wald@swosu.edu O trisha.wald@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-http O http 0 0 0 0 0 0 0 p div two-column 11 5
-: O : 0 0 0 0 0 0 0 p div two-column 11 5
-//faculty.swosu.edu/trisha.wald/ O //faculty.swosu.edu/trisha.wald/ 0 0 0 0 0 0 0 p div two-column 11 5
+http O http 0 0 0 0 0 0 0 0 8 p div two-column 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div two-column 11 5
+//faculty.swosu.edu/trisha.wald/ O //faculty.swosu.edu/trisha.wald/ 0 0 0 0 0 0 0 0 0 p div two-column 11 5
 
-Wiggen B-PER wiggen 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Todd I-PER todd 0 1 0 0 0 0 1 p div two-column 11 0
+Wiggen B-PER wiggen 0 1 0 0 0 0 1 1 0 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Todd I-PER todd 0 1 0 0 0 0 1 7 3 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Assistant O assistant 0 0 0 0 0 0 1 div section two-column 10 0
-Professor O professor 0 0 0 0 1 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 div section two-column 10 0
+Professor O professor 0 0 0 0 1 0 1 0 7 div section two-column 10 0
 
-STF O stf 0 0 0 0 0 0 1 div section two-column 10 0
-348 O 348 0 0 0 1 0 0 0 div section two-column 10 0
-| O | 0 0 0 0 0 0 0 div section two-column 10 0
-580.774.3052 O 580.774.3052 0 0 0 1 0 0 0 div section two-column 10 0
+STF O stf 0 0 0 0 0 0 1 0 1 div section two-column 10 0
+348 O 348 0 0 0 1 0 0 0 0 0 div section two-column 10 0
+| O | 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+580.774.3052 O 580.774.3052 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-todd.wiggen@swosu.edu O todd.wiggen@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+todd.wiggen@swosu.edu O todd.wiggen@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-http O http 0 0 0 0 0 0 0 p div two-column 11 5
-: O : 0 0 0 0 0 0 0 p div two-column 11 5
-//faculty.swosu.edu/todd.wiggen/ O //faculty.swosu.edu/todd.wiggen/ 0 0 0 0 0 0 0 p div two-column 11 5
+http O http 0 0 0 0 0 0 0 0 8 p div two-column 11 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div two-column 11 5
+//faculty.swosu.edu/todd.wiggen/ O //faculty.swosu.edu/todd.wiggen/ 0 0 0 0 0 0 0 0 0 p div two-column 11 5
 
-Wilcox B-PER wilcox 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Gail I-PER gail 0 1 0 0 0 0 1 p div two-column 11 0
+Wilcox B-PER wilcox 0 1 0 0 0 0 1 5 2 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Gail I-PER gail 0 1 0 0 0 0 1 5 2 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Adjunct O adjunct 0 0 0 0 0 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Adjunct O adjunct 0 0 0 0 0 0 1 0 4 div section two-column 10 0
 
-580.774.3282 O 580.774.3282 0 0 0 1 0 0 0 div section two-column 10 0
+580.774.3282 O 580.774.3282 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-gail.wilcox@swosu.edu O gail.wilcox@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+gail.wilcox@swosu.edu O gail.wilcox@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-Young B-PER young 0 1 0 0 0 0 1 p div two-column 11 0
-, I-PER , 0 0 0 0 0 0 0 p div two-column 11 0
-Kelley I-PER kelley 0 1 0 0 0 0 1 p div two-column 11 0
+Young B-PER young 0 1 0 0 0 0 1 8 5 p div two-column 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div two-column 11 0
+Kelley I-PER kelley 0 1 0 0 0 0 1 5 2 p div two-column 11 0
 
-, O , 0 0 0 0 0 0 0 div section two-column 10 0
-Adjunct O adjunct 0 0 0 0 0 0 1 div section two-column 10 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div section two-column 10 0
+Adjunct O adjunct 0 0 0 0 0 0 1 0 4 div section two-column 10 0
 
-580.774.3282 O 580.774.3282 0 0 0 1 0 0 0 div section two-column 10 0
+580.774.3282 O 580.774.3282 0 0 0 1 0 0 0 0 0 div section two-column 10 0
 
-kelley.young@swosu.edu O kelley.young@swosu.edu 0 0 1 0 0 0 0 p div two-column 11 3
+kelley.young@swosu.edu O kelley.young@swosu.edu 0 0 1 0 0 0 0 0 0 p div two-column 11 3
 
-Facebook O facebook 0 0 0 0 0 0 1 a li hide 10 0
+Facebook O facebook 0 0 0 0 0 0 1 0 7 a li hide 10 0
 
-Twitter O twitter 0 0 0 0 0 0 1 a li hide 10 0
+Twitter O twitter 0 0 0 0 0 0 1 0 7 a li hide 10 0
 
-YouTube O youtube 0 0 0 0 0 0 1 a li hide 10 0
+YouTube O youtube 0 0 0 0 0 0 1 0 5 a li hide 10 0
 
-Instagram O instagram 0 0 0 0 0 0 1 a li hide 10 0
+Instagram O instagram 0 0 0 0 0 0 1 0 6 a li hide 10 0
 
-Title O title 0 1 0 0 0 0 1 li ul mobile-grid-100 9 0
-IX O ix 0 1 0 0 0 0 1 li ul mobile-grid-100 9 0
+Title O title 0 1 0 0 0 0 1 0 8 li ul mobile-grid-100 9 0
+IX O ix 0 1 0 0 0 0 1 0 5 li ul mobile-grid-100 9 0
 
-Accessibility O accessibility 0 0 0 0 0 0 1 li ul mobile-grid-100 9 0
+Accessibility O accessibility 0 0 0 0 0 0 1 0 6 li ul mobile-grid-100 9 0
 
-Terms O terms 0 0 0 0 0 0 1 li ul mobile-grid-100 9 0
-of O of 0 1 0 0 0 0 0 li ul mobile-grid-100 9 0
-Use O use 0 1 0 0 0 0 1 li ul mobile-grid-100 9 0
+Terms O terms 0 0 0 0 0 0 1 0 6 li ul mobile-grid-100 9 0
+of O of 0 1 0 0 0 0 0 2 10 li ul mobile-grid-100 9 0
+Use O use 0 1 0 0 0 0 1 0 7 li ul mobile-grid-100 9 0
 
-Privacy O privacy 0 0 0 0 0 0 1 li ul mobile-grid-100 9 0
-Policy O policy 0 0 0 0 0 0 1 li ul mobile-grid-100 9 0
+Privacy O privacy 0 0 0 0 0 0 1 0 6 li ul mobile-grid-100 9 0
+Policy O policy 0 0 0 0 0 0 1 0 6 li ul mobile-grid-100 9 0
 
-Campus O campus 0 1 0 0 0 0 1 li ul mobile-grid-100 9 0
-Map O map 0 0 0 0 0 0 1 li ul mobile-grid-100 9 0
+Campus O campus 0 1 0 0 0 0 1 1 8 li ul mobile-grid-100 9 0
+Map O map 0 0 0 0 0 0 1 0 6 li ul mobile-grid-100 9 0
 
-© O © 0 0 0 0 0 0 0 div div left-box 6 0
-Copyright O copyright 0 0 0 0 0 0 1 div div left-box 6 0
-2017 O 2017 0 0 0 1 0 0 0 div div left-box 6 0
-SWOSU O swosu 0 0 0 0 0 0 1 div div left-box 6 0
-, O , 0 0 0 0 0 0 0 div div left-box 6 0
-All O all 0 1 0 0 0 0 1 div div left-box 6 0
-Rights O rights 0 0 0 0 0 0 1 div div left-box 6 0
-Reserved. O reserved. 0 0 0 0 0 0 1 div div left-box 6 0
+© O © 0 0 0 0 0 0 0 0 0 div div left-box 6 0
+Copyright O copyright 0 0 0 0 0 0 1 0 6 div div left-box 6 0
+2017 O 2017 0 0 0 1 0 0 0 0 0 div div left-box 6 0
+SWOSU O swosu 0 0 0 0 0 0 1 0 0 div div left-box 6 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div left-box 6 0
+All O all 0 1 0 0 0 0 1 2 7 div div left-box 6 0
+Rights O rights 0 0 0 0 0 0 1 0 5 div div left-box 6 0
+Reserved. O reserved. 0 0 0 0 0 0 1 0 0 div div left-box 6 0

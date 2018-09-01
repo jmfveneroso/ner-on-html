@@ -1,487 +1,486 @@
-Dipartimento O dipartimento 0 0 0 0 0 0 1 head meta none 6 0
-di O di 0 1 0 0 0 0 0 head meta none 6 0
-Informatica O informatica 0 0 0 0 0 0 1 head meta none 6 0
-- O - 0 0 0 0 0 0 0 head meta none 6 0
-Università O universita 0 0 0 0 0 0 1 head meta none 6 0
-degli O degli 0 1 0 0 0 0 0 head meta none 6 0
-Studi O studi 0 0 0 0 0 0 1 head meta none 6 0
-di O di 0 1 0 0 0 0 0 head meta none 6 0
-Torino O torino 0 1 0 0 0 0 1 head meta none 6 0
+Dipartimento O dipartimento 0 0 0 0 0 0 1 0 0 head meta none 6 0
+di O di 0 1 0 0 0 0 0 5 7 head meta none 6 0
+Informatica O informatica 0 0 0 0 0 0 1 0 2 head meta none 6 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 head meta none 6 0
+Università O universita 0 0 0 0 0 0 1 0 3 head meta none 6 0
+degli O degli 0 1 0 0 0 0 0 1 3 head meta none 6 0
+Studi O studi 0 0 0 0 0 0 1 0 2 head meta none 6 0
+di O di 0 1 0 0 0 0 0 5 7 head meta none 6 0
+Torino O torino 0 1 0 0 0 0 1 1 1 head meta none 6 0
 
-D O d 0 1 0 0 0 0 1 b font none 11 0
+D O d 0 1 0 0 0 0 1 3 11 b font none 11 0
 
-IPARTIMENTO O ipartimento 0 0 0 0 0 0 1 font td none 10 0
-DI O di 0 0 0 0 0 0 1 font td none 10 0
+IPARTIMENTO O ipartimento 0 0 0 0 0 0 1 0 0 font td none 10 0
+DI O di 0 0 0 0 0 0 1 0 7 font td none 10 0
 
-I O i 0 1 0 0 0 0 1 b font none 11 1
+I O i 0 1 0 0 0 0 1 6 10 b font none 11 1
 
-NFORMATICA O nformatica 0 0 0 0 0 0 1 font td none 10 0
+NFORMATICA O nformatica 0 0 0 0 0 0 1 0 0 font td none 10 0
 
-Professors O professors 0 0 0 0 1 0 1 center td none 10 0
-& O & 0 0 0 0 0 0 0 center td none 10 0
-Researchers O researchers 0 0 0 0 0 0 1 center td none 10 0
+Professors O professors 0 0 0 0 1 0 1 0 4 center td none 10 0
+& O & 0 0 0 0 0 0 0 0 0 center td none 10 0
+Researchers O researchers 0 0 0 0 0 0 1 0 4 center td none 10 0
 
-Name O name 0 1 0 0 0 0 1 th tr none 9 0
+Name O name 0 1 0 0 0 0 1 1 7 th tr none 9 0
 
-Position O position 0 0 0 0 0 0 1 th tr none 9 0
+Position O position 0 0 0 0 0 0 1 0 6 th tr none 9 0
 
-ALDINUCCI B-PER aldinucci 0 0 0 0 1 0 1 font td none 10 0
-Marco I-PER marco 0 1 0 0 0 0 1 font td none 10 0
+ALDINUCCI B-PER aldinucci 0 0 0 0 1 0 1 0 0 font td none 10 0
+Marco I-PER marco 0 1 0 0 0 0 1 8 4 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-ANSELMA B-PER anselma 0 0 0 0 0 0 1 font td none 10 0
-Luca I-PER luca 0 1 0 0 0 0 1 font td none 10 0
+ANSELMA B-PER anselma 0 0 0 0 0 0 1 0 0 font td none 10 0
+Luca I-PER luca 0 1 0 0 0 0 1 7 2 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-ARDISSONO B-PER ardissono 0 0 0 0 1 0 1 font td none 10 0
-Liliana I-PER liliana 1 1 0 0 0 0 1 font td none 10 0
+ARDISSONO B-PER ardissono 0 0 0 0 1 0 1 0 0 font td none 10 0
+Liliana I-PER liliana 0 1 0 0 0 0 1 5 1 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-ARINGHIERI B-PER aringhieri 0 0 0 0 0 0 1 font td none 10 0
-Roberto I-PER roberto 0 1 0 0 0 0 1 font td none 10 0
+ARINGHIERI B-PER aringhieri 0 0 0 0 0 0 1 0 0 font td none 10 0
+Roberto I-PER roberto 0 1 0 0 0 0 1 7 3 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-BALBO B-PER balbo 0 0 0 0 0 0 1 font td none 10 0
-Gianfranco I-PER gianfranco 0 1 0 0 0 0 1 font td none 10 0
+BALBO B-PER balbo 0 0 0 0 0 0 1 0 0 font td none 10 0
+Gianfranco I-PER gianfranco 0 1 0 0 0 0 1 5 1 font td none 10 0
 
-Retired O retired 0 0 0 0 0 0 1 td tr none 9 0
-Professor O professor 0 0 0 0 1 0 1 td tr none 9 0
+Retired O retired 0 0 0 0 0 0 1 0 1 td tr none 9 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr none 9 0
 
-BALDONI B-PER baldoni 0 0 0 0 0 0 1 font td none 10 0
-Matteo I-PER matteo 0 1 0 0 0 0 1 font td none 10 0
+BALDONI B-PER baldoni 0 0 0 0 0 0 1 0 0 font td none 10 0
+Matteo I-PER matteo 0 1 0 0 0 0 1 6 2 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-BALOSSINO B-PER balossino 0 0 0 0 0 0 1 font td none 10 0
-Nello I-PER nello 0 1 0 0 0 0 1 font td none 10 0
+BALOSSINO B-PER balossino 0 0 0 0 0 0 1 0 0 font td none 10 0
+Nello I-PER nello 0 1 0 0 0 0 1 2 0 font td none 10 0
 
-Retired O retired 0 0 0 0 0 0 1 td tr none 9 0
-Professor O professor 0 0 0 0 1 0 1 td tr none 9 0
+Retired O retired 0 0 0 0 0 0 1 0 1 td tr none 9 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr none 9 0
 
-BAROGLIO B-PER baroglio 0 0 0 0 0 0 1 font td none 10 0
-Cristina I-PER cristina 0 1 0 0 0 0 1 font td none 10 0
+BAROGLIO B-PER baroglio 0 0 0 0 0 0 1 0 0 font td none 10 0
+Cristina I-PER cristina 0 1 0 0 0 0 1 7 3 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-BECCUTI B-PER beccuti 0 0 0 0 0 0 1 font td none 10 0
-Marco I-PER marco 0 1 0 0 0 0 1 font td none 10 0
+BECCUTI B-PER beccuti 0 0 0 0 0 0 1 0 0 font td none 10 0
+Marco I-PER marco 0 1 0 0 0 0 1 8 4 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-BERARDI B-PER berardi 0 0 0 0 0 0 1 font td none 10 0
-Stefano I-PER stefano 0 1 0 0 0 0 1 font td none 10 0
+BERARDI B-PER berardi 0 0 0 0 0 0 1 0 0 font td none 10 0
+Stefano I-PER stefano 0 1 0 0 0 0 1 7 2 font td none 10 0
 
-Full O full 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Full O full 0 1 0 0 0 0 1 0 5 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-BERGADANO B-PER bergadano 0 0 0 0 0 0 1 font td none 10 0
-Francesco I-PER francesco 0 1 0 0 0 0 1 font td none 10 0
+BERGADANO B-PER bergadano 0 0 0 0 0 0 1 0 0 font td none 10 0
+Francesco I-PER francesco 0 1 0 0 0 0 1 7 4 font td none 10 0
 
-Full O full 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Full O full 0 1 0 0 0 0 1 0 5 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-BINI B-PER bini 0 0 0 0 0 0 1 font td none 10 0
-Enrico I-PER enrico 0 1 0 0 0 0 1 font td none 10 0
+BINI B-PER bini 0 0 0 0 0 0 1 0 1 font td none 10 0
+Enrico I-PER enrico 0 1 0 0 0 0 1 6 3 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-BOELLA B-PER boella 0 0 0 0 0 0 1 font td none 10 0
-Guido I-PER guido 0 1 0 0 0 0 1 font td none 10 0
+BOELLA B-PER boella 0 0 0 0 0 0 1 0 0 font td none 10 0
+Guido I-PER guido 0 1 0 0 0 0 1 6 3 font td none 10 0
 
-Full O full 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Full O full 0 1 0 0 0 0 1 0 5 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-BONO B-PER bono 0 0 0 0 0 0 1 font td none 10 0
-Viviana I-PER viviana 0 1 0 0 0 0 1 font td none 10 0
+BONO B-PER bono 0 0 0 0 0 0 1 0 5 font td none 10 0
+Viviana I-PER viviana 0 1 0 0 0 0 1 4 0 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-BOSCO B-PER bosco 0 0 0 0 1 0 1 font td none 10 0
-Cristina I-PER cristina 0 1 0 0 0 0 1 font td none 10 0
+BOSCO B-PER bosco 0 0 0 0 1 0 1 0 1 font td none 10 0
+Cristina I-PER cristina 0 1 0 0 0 0 1 7 3 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-BOTTA B-PER botta 0 0 0 0 0 0 1 font td none 10 0
-Marco I-PER marco 0 1 0 0 0 0 1 font td none 10 0
+BOTTA B-PER botta 0 0 0 0 0 0 1 0 0 font td none 10 0
+Marco I-PER marco 0 1 0 0 0 0 1 8 4 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-CANCELLIERE B-PER cancelliere 0 0 0 0 0 0 1 font td none 10 0
-Rossella I-PER rossella 0 1 0 0 0 0 1 font td none 10 0
+CANCELLIERE B-PER cancelliere 0 0 0 0 0 0 1 0 0 font td none 10 0
+Rossella I-PER rossella 0 1 0 0 0 0 1 4 0 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-CAPECCHI B-PER capecchi 0 0 0 0 0 0 1 font td none 10 0
-Sara I-PER sara 0 1 0 0 0 0 1 font td none 10 0
+CAPECCHI B-PER capecchi 0 0 0 0 0 0 1 0 2 font td none 10 0
+Sara I-PER sara 0 1 0 0 0 0 1 7 3 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-CARDONE B-PER cardone 0 0 0 0 0 0 1 font td none 10 0
-Felice I-PER felice 0 1 0 0 0 0 1 font td none 10 0
+CARDONE B-PER cardone 0 0 0 0 0 0 1 0 0 font td none 10 0
+Felice I-PER felice 0 1 0 0 0 0 1 4 2 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-CAVAGNINO B-PER cavagnino 0 0 0 0 0 0 1 font td none 10 0
-Davide I-PER davide 0 1 0 0 0 0 1 font td none 10 0
+CAVAGNINO B-PER cavagnino 0 0 0 0 0 0 1 0 0 font td none 10 0
+Davide I-PER davide 0 1 0 0 0 0 1 6 1 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-CENA B-PER cena 0 0 0 0 0 0 1 font td none 10 0
-Federica I-PER federica 0 1 0 0 0 0 1 font td none 10 0
+CENA B-PER cena 0 0 0 0 0 0 1 0 2 font td none 10 0
+Federica I-PER federica 0 1 0 0 0 0 1 5 0 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-CONSOLE B-PER console 0 0 0 0 0 0 1 font td none 10 0
-Luca I-PER luca 0 1 0 0 0 0 1 font td none 10 0
+CONSOLE B-PER console 0 0 0 0 0 0 1 0 3 font td none 10 0
+Luca I-PER luca 0 1 0 0 0 0 1 7 2 font td none 10 0
 
-Full O full 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Full O full 0 1 0 0 0 0 1 0 5 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-COPPO B-PER coppo 0 0 0 0 0 0 1 font td none 10 0
-Mario I-PER mario 0 1 0 0 0 0 1 font td none 10 0
+COPPO B-PER coppo 0 0 0 0 0 0 1 0 0 font td none 10 0
+Mario I-PER mario 0 1 0 0 0 0 1 7 4 font td none 10 0
 
-Full O full 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Full O full 0 1 0 0 0 0 1 0 5 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-CORDERO B-PER cordero 0 0 0 0 0 0 1 font td none 10 0
-Francesca I-PER francesca 0 1 0 0 0 0 1 font td none 10 0
+CORDERO B-PER cordero 0 0 0 0 0 0 1 0 0 font td none 10 0
+Francesca I-PER francesca 0 1 0 0 0 0 1 6 2 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-DAMIANI B-PER damiani 0 0 0 0 0 0 1 font td none 10 0
-Ferruccio I-PER ferruccio 0 1 0 0 0 0 1 font td none 10 0
+DAMIANI B-PER damiani 0 0 0 0 0 0 1 0 0 font td none 10 0
+Ferruccio I-PER ferruccio 0 1 0 0 0 0 1 3 1 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-DAMIANO B-PER damiano 0 0 0 0 0 0 1 font td none 10 0
-Rossana I-PER rossana 0 1 0 0 0 0 1 font td none 10 0
+DAMIANO B-PER damiano 0 0 0 0 0 0 1 0 0 font td none 10 0
+Rossana I-PER rossana 0 1 0 0 0 0 1 3 0 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-DE B-PER de 0 0 0 0 0 0 1 font td none 10 0
-PIERRO I-PER pierro 0 0 0 0 0 0 1 font td none 10 0
-Massimiliano I-PER massimiliano 0 1 0 0 1 0 1 font td none 10 0
+DE B-PER de 0 0 0 0 0 0 1 0 12 font td none 10 0
+PIERRO I-PER pierro 0 0 0 0 0 0 1 0 0 font td none 10 0
+Massimiliano I-PER massimiliano 0 1 0 0 1 0 1 5 0 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-de B-PER de 0 1 0 0 0 0 0 font td none 10 0
-' I-PER ' 0 0 0 0 0 0 0 font td none 10 0
-LIGUORO I-PER liguoro 0 0 0 0 0 0 1 font td none 10 0
-Ugo I-PER ugo 0 1 0 0 0 0 1 font td none 10 0
+de' B-PER de' 0 1 0 0 0 0 0 0 0 font td none 10 0
+LIGUORO I-PER liguoro 0 0 0 0 0 0 1 0 0 font td none 10 0
+Ugo I-PER ugo 0 1 0 0 0 0 1 4 3 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-DEMO B-PER demo 0 0 0 0 0 0 1 font td none 10 0
-Barbara I-PER barbara 0 1 0 0 0 0 1 font td none 10 0
+DEMO B-PER demo 0 0 0 0 0 0 1 0 3 font td none 10 0
+Barbara I-PER barbara 0 1 0 0 0 0 1 7 5 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-DEZANI B-PER dezani 0 0 0 0 0 0 1 font td none 10 0
-Mariangiola I-PER mariangiola 0 1 0 0 0 0 1 font td none 10 0
+DEZANI B-PER dezani 0 0 0 0 0 0 1 0 0 font td none 10 0
+Mariangiola I-PER mariangiola 0 1 0 0 0 0 1 1 0 font td none 10 0
 
-Full O full 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Full O full 0 1 0 0 0 0 1 0 5 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-DI B-PER di 0 0 0 0 0 0 1 font td none 10 0
-CARO I-PER caro 0 0 0 0 0 0 1 font td none 10 0
-Luigi I-PER luigi 0 1 0 0 0 0 1 font td none 10 0
+DI B-PER di 0 0 0 0 0 0 1 0 7 font td none 10 0
+CARO I-PER caro 0 0 0 0 0 0 1 0 3 font td none 10 0
+Luigi I-PER luigi 0 1 0 0 0 0 1 6 3 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-DI B-PER di 0 0 0 0 0 0 1 font td none 10 0
-LEVA I-PER leva 0 0 0 0 0 0 1 font td none 10 0
-Antonio I-PER antonio 0 1 0 0 0 0 1 font td none 10 0
+DI B-PER di 0 0 0 0 0 0 1 0 7 font td none 10 0
+LEVA I-PER leva 0 0 0 0 0 0 1 0 2 font td none 10 0
+Antonio I-PER antonio 0 1 0 0 0 0 1 8 5 font td none 10 0
 
-Retired O retired 0 0 0 0 0 0 1 td tr none 9 0
-Professor O professor 0 0 0 0 1 0 1 td tr none 9 0
+Retired O retired 0 0 0 0 0 0 1 0 1 td tr none 9 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr none 9 0
 
-DONATELLI B-PER donatelli 0 0 0 0 0 0 1 font td none 10 0
-Susanna I-PER susanna 0 1 0 0 0 0 1 font td none 10 0
+DONATELLI B-PER donatelli 0 0 0 0 0 0 1 0 0 font td none 10 0
+Susanna I-PER susanna 0 1 0 0 0 0 1 5 1 font td none 10 0
 
-Full O full 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Full O full 0 1 0 0 0 0 1 0 5 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-ESPOSITO B-PER esposito 0 0 0 0 0 0 1 font td none 10 0
-Roberto I-PER roberto 0 1 0 0 0 0 1 font td none 10 0
+ESPOSITO B-PER esposito 0 0 0 0 0 0 1 0 1 font td none 10 0
+Roberto I-PER roberto 0 1 0 0 0 0 1 7 3 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-GAETA B-PER gaeta 0 0 0 0 0 0 1 font td none 10 0
-Rossano I-PER rossano 0 1 0 0 0 0 1 font td none 10 0
+GAETA B-PER gaeta 0 0 0 0 0 0 1 0 0 font td none 10 0
+Rossano I-PER rossano 0 1 0 0 0 0 1 3 1 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-GARETTO B-PER garetto 0 0 0 0 0 0 1 font td none 10 0
-Michele I-PER michele 0 1 0 0 0 0 1 font td none 10 0
+GARETTO B-PER garetto 0 0 0 0 0 0 1 0 0 font td none 10 0
+Michele I-PER michele 0 1 0 0 0 0 1 7 4 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-GENA B-PER gena 0 0 0 0 0 0 1 font td none 10 0
-Cristina I-PER cristina 0 1 0 0 0 0 1 font td none 10 0
+GENA B-PER gena 0 0 0 0 0 0 1 0 1 font td none 10 0
+Cristina I-PER cristina 0 1 0 0 0 0 1 7 3 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-GIORGINO B-PER giorgino 0 0 0 0 0 0 1 font td none 10 0
-Vincenzo I-PER vincenzo 0 1 0 0 0 0 1 font td none 10 0
+GIORGINO B-PER giorgino 0 0 0 0 0 0 1 0 0 font td none 10 0
+Vincenzo I-PER vincenzo 0 1 0 0 0 0 1 6 3 font td none 10 0
 
-researcher O researcher 0 0 0 0 0 0 0 td tr none 9 0
-other O other 0 0 0 0 0 0 0 td tr none 9 0
-dip O dip 0 0 0 0 0 0 0 td tr none 9 0
+researcher O researcher 0 0 0 0 0 0 0 0 3 td tr none 9 0
+other O other 0 0 0 0 0 0 0 0 7 td tr none 9 0
+dip O dip 0 0 0 0 0 0 0 0 1 td tr none 9 0
 
-GLIOZZI B-PER gliozzi 0 0 0 0 0 0 1 font td none 10 0
-Valentina I-PER valentina 0 1 0 0 0 0 1 font td none 10 0
+GLIOZZI B-PER gliozzi 0 0 0 0 0 0 1 0 0 font td none 10 0
+Valentina I-PER valentina 0 1 0 0 0 0 1 6 2 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-GOY B-PER goy 0 0 0 0 0 0 1 font td none 10 0
-Annamaria I-PER annamaria 0 1 0 0 0 0 1 font td none 10 0
+GOY B-PER goy 0 0 0 0 0 0 1 0 0 font td none 10 0
+Annamaria I-PER annamaria 0 1 0 0 0 0 1 4 0 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-GRANGETTO B-PER grangetto 0 0 0 0 0 0 1 font td none 10 0
-Marco I-PER marco 0 1 0 0 0 0 1 font td none 10 0
+GRANGETTO B-PER grangetto 0 0 0 0 0 0 1 0 0 font td none 10 0
+Marco I-PER marco 0 1 0 0 0 0 1 8 4 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-GROSSO B-PER grosso 0 0 0 0 0 0 1 font td none 10 0
-Andrea I-PER andrea 0 1 0 0 1 0 1 font td none 10 0
-Cesare I-PER cesare 0 1 0 0 0 0 1 font td none 10 0
+GROSSO B-PER grosso 0 0 0 0 0 0 1 0 3 font td none 10 0
+Andrea I-PER andrea 0 1 0 0 1 0 1 8 4 font td none 10 0
+Cesare I-PER cesare 0 1 0 0 0 0 1 4 1 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-GUNETTI B-PER gunetti 0 0 0 0 0 0 1 font td none 10 0
-Daniele I-PER daniele 0 1 0 0 0 0 1 font td none 10 0
+GUNETTI B-PER gunetti 0 0 0 0 0 0 1 0 0 font td none 10 0
+Daniele I-PER daniele 0 1 0 0 0 0 1 6 4 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-HORVATH B-PER horvath 0 0 0 0 0 0 1 font td none 10 0
-Andras I-PER andras 0 1 0 0 1 0 1 font td none 10 0
+HORVATH B-PER horvath 0 0 0 0 0 0 1 0 0 font td none 10 0
+Andras I-PER andras 0 1 0 0 1 0 1 4 0 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-LOMBARDO B-PER lombardo 0 0 0 0 0 0 1 font td none 10 0
-Vincenzo I-PER vincenzo 0 1 0 0 0 0 1 font td none 10 0
+LOMBARDO B-PER lombardo 0 0 0 0 0 0 1 0 0 font td none 10 0
+Vincenzo I-PER vincenzo 0 1 0 0 0 0 1 6 3 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-LUCENTEFORTE B-PER lucenteforte 0 0 0 0 0 0 1 font td none 10 0
-Maurizio I-PER maurizio 0 1 0 0 0 0 1 font td none 10 0
+LUCENTEFORTE B-PER lucenteforte 0 0 0 0 0 0 1 0 0 font td none 10 0
+Maurizio I-PER maurizio 0 1 0 0 0 0 1 6 1 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-MAGRO B-PER magro 0 0 0 0 0 0 1 font td none 10 0
-Diego I-PER diego 0 1 0 0 0 0 1 font td none 10 0
+MAGRO B-PER magro 0 0 0 0 0 0 1 0 0 font td none 10 0
+Diego I-PER diego 0 1 0 0 0 0 1 7 4 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-MANINI B-PER manini 0 0 0 0 0 0 1 font td none 10 0
-Daniele I-PER daniele 0 1 0 0 0 0 1 font td none 10 0
+MANINI B-PER manini 0 0 0 0 0 0 1 0 0 font td none 10 0
+Daniele I-PER daniele 0 1 0 0 0 0 1 6 4 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-MARGARIA B-PER margaria 0 0 0 0 0 0 1 font td none 10 0
-Ines I-PER ines 0 1 0 0 0 0 1 font td none 10 0
+MARGARIA B-PER margaria 0 0 0 0 0 0 1 0 0 font td none 10 0
+Ines I-PER ines 0 1 0 0 0 0 1 5 2 font td none 10 0
 
-Retired O retired 0 0 0 0 0 0 1 td tr none 9 0
-Professor O professor 0 0 0 0 1 0 1 td tr none 9 0
+Retired O retired 0 0 0 0 0 0 1 0 1 td tr none 9 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr none 9 0
 
-MARTELLI B-PER martelli 0 0 0 0 0 0 1 font td none 10 0
-ALBERTO I-PER alberto 0 0 0 0 0 0 1 font td none 10 0
+MARTELLI B-PER martelli 0 0 0 0 0 0 1 0 1 font td none 10 0
+ALBERTO I-PER alberto 0 0 0 0 0 0 1 0 3 font td none 10 0
 
-Retired O retired 0 0 0 0 0 0 1 td tr none 9 0
-Professor O professor 0 0 0 0 1 0 1 td tr none 9 0
+Retired O retired 0 0 0 0 0 0 1 0 1 td tr none 9 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr none 9 0
 
-MAZZEI B-PER mazzei 0 0 0 0 0 0 1 font td none 10 0
-Alessandro I-PER alessandro 0 1 0 0 0 0 1 font td none 10 0
+MAZZEI B-PER mazzei 0 0 0 0 0 0 1 0 0 font td none 10 0
+Alessandro I-PER alessandro 0 1 0 0 0 0 1 7 3 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-MEO B-PER meo 0 0 0 0 0 0 1 font td none 10 0
-Rosa I-PER rosa 0 1 0 0 0 0 1 font td none 10 0
+MEO B-PER meo 0 0 0 0 0 0 1 0 2 font td none 10 0
+Rosa I-PER rosa 0 1 0 0 0 0 1 7 4 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-MICALIZIO B-PER micalizio 0 0 0 0 0 0 1 font td none 10 0
-Roberto I-PER roberto 0 1 0 0 0 0 1 font td none 10 0
+MICALIZIO B-PER micalizio 0 0 0 0 0 0 1 0 0 font td none 10 0
+Roberto I-PER roberto 0 1 0 0 0 0 1 7 3 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-PADOVANI B-PER padovani 0 0 0 0 0 0 1 font td none 10 0
-Luca I-PER luca 0 1 0 0 0 0 1 font td none 10 0
+PADOVANI B-PER padovani 0 0 0 0 0 0 1 0 0 font td none 10 0
+Luca I-PER luca 0 1 0 0 0 0 1 7 2 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-PAOLINI B-PER paolini 0 0 0 0 0 0 1 font td none 10 0
-Luca I-PER luca 0 1 0 0 0 0 1 font td none 10 0
+PAOLINI B-PER paolini 0 0 0 0 0 0 1 0 3 font td none 10 0
+Luca I-PER luca 0 1 0 0 0 0 1 7 2 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-PATTI B-PER patti 0 0 0 0 0 0 1 font td none 10 0
-Viviana I-PER viviana 0 1 0 0 0 0 1 font td none 10 0
+PATTI B-PER patti 0 0 0 0 0 0 1 0 1 font td none 10 0
+Viviana I-PER viviana 0 1 0 0 0 0 1 4 0 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-PENSA B-PER pensa 0 0 0 0 0 0 1 font td none 10 0
-Ruggero I-PER ruggero 0 1 0 0 0 0 1 font td none 10 0
-Gaetano I-PER gaetano 0 1 0 0 0 0 1 font td none 10 0
+PENSA B-PER pensa 0 0 0 0 0 0 1 0 0 font td none 10 0
+Ruggero I-PER ruggero 0 1 0 0 0 0 1 4 0 font td none 10 0
+Gaetano I-PER gaetano 0 1 0 0 0 0 1 5 1 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-PETRONE B-PER petrone 0 0 0 0 0 0 1 font td none 10 0
-Giovanna I-PER giovanna 0 1 0 0 0 0 1 font td none 10 0
+PETRONE B-PER petrone 0 0 0 0 0 0 1 0 2 font td none 10 0
+Giovanna I-PER giovanna 0 1 0 0 0 0 1 5 1 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-PICARDI B-PER picardi 0 0 0 0 0 0 1 font td none 10 0
-Claudia I-PER claudia 0 1 0 0 0 0 1 font td none 10 0
+PICARDI B-PER picardi 0 0 0 0 0 0 1 0 0 font td none 10 0
+Claudia I-PER claudia 0 1 0 0 0 0 1 7 3 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-PIRONTI B-PER pironti 0 0 0 0 0 0 1 font td none 10 0
-Marco I-PER marco 0 1 0 0 0 0 1 font td none 10 0
+PIRONTI B-PER pironti 0 0 0 0 0 0 1 0 0 font td none 10 0
+Marco I-PER marco 0 1 0 0 0 0 1 8 4 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-PISANO B-PER pisano 0 0 0 0 0 0 1 font td none 10 0
-Paola I-PER paola 0 1 0 0 0 0 1 font td none 10 0
-Maria I-PER maria 0 1 0 0 0 0 1 font td none 10 0
+PISANO B-PER pisano 0 0 0 0 0 0 1 0 2 font td none 10 0
+Paola I-PER paola 0 1 0 0 0 0 1 6 0 font td none 10 0
+Maria I-PER maria 0 1 0 0 0 0 1 8 5 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-POZZATO B-PER pozzato 0 0 0 0 0 0 1 font td none 10 0
-Gian I-PER gian 0 1 0 0 0 0 1 font td none 10 0
-Luca I-PER luca 0 1 0 0 0 0 1 font td none 10 0
+POZZATO B-PER pozzato 0 0 0 0 0 0 1 0 0 font td none 10 0
+Gian I-PER gian 0 1 0 0 0 0 1 5 4 font td none 10 0
+Luca I-PER luca 0 1 0 0 0 0 1 7 2 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-RADICIONI B-PER radicioni 0 0 0 0 0 0 1 font td none 10 0
-Daniele I-PER daniele 0 1 0 0 0 0 1 font td none 10 0
-Paolo I-PER paolo 0 1 0 0 0 0 1 font td none 10 0
+RADICIONI B-PER radicioni 0 0 0 0 0 0 1 0 0 font td none 10 0
+Daniele I-PER daniele 0 1 0 0 0 0 1 6 4 font td none 10 0
+Paolo I-PER paolo 0 1 0 0 0 0 1 7 3 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-Ronchi B-PER ronchi 0 1 0 0 0 0 1 font td none 10 0
-Della I-PER della 0 1 0 0 0 0 1 font td none 10 0
-Rocca I-PER rocca 0 1 0 0 0 0 1 font td none 10 0
-Simonetta I-PER simonetta 0 1 0 0 0 0 1 font td none 10 0
+Ronchi B-PER ronchi 0 1 0 0 0 0 1 3 0 font td none 10 0
+Della I-PER della 0 1 0 0 0 0 1 5 4 font td none 10 0
+Rocca I-PER rocca 0 1 0 0 0 0 1 4 0 font td none 10 0
+Simonetta I-PER simonetta 0 1 0 0 0 0 1 3 0 font td none 10 0
 
-Full O full 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Full O full 0 1 0 0 0 0 1 0 5 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-ROVERSI B-PER roversi 0 0 0 0 0 0 1 font td none 10 0
-Luca I-PER luca 0 1 0 0 0 0 1 font td none 10 0
+ROVERSI B-PER roversi 0 0 0 0 0 0 1 0 0 font td none 10 0
+Luca I-PER luca 0 1 0 0 0 0 1 7 2 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-RUFFO B-PER ruffo 0 0 0 0 0 0 1 font td none 10 0
-Giancarlo I-PER giancarlo 0 1 0 0 0 0 1 font td none 10 0
+RUFFO B-PER ruffo 0 0 0 0 0 0 1 0 0 font td none 10 0
+Giancarlo I-PER giancarlo 0 1 0 0 0 0 1 5 1 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-SACCO B-PER sacco 0 0 0 0 0 0 1 font td none 10 0
-Giovanni I-PER giovanni 0 1 0 0 0 0 1 font td none 10 0
+SACCO B-PER sacco 0 0 0 0 0 0 1 0 2 font td none 10 0
+Giovanni I-PER giovanni 0 1 0 0 0 0 1 7 4 font td none 10 0
 
-Associate O associate 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Associate O associate 0 1 0 0 0 0 1 0 6 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-SAPINO B-PER sapino 0 0 0 0 0 0 1 font td none 10 0
-Maria I-PER maria 0 1 0 0 0 0 1 font td none 10 0
-Luisa I-PER luisa 0 1 0 0 0 0 1 font td none 10 0
+SAPINO B-PER sapino 0 0 0 0 0 0 1 0 0 font td none 10 0
+Maria I-PER maria 0 1 0 0 0 0 1 8 5 font td none 10 0
+Luisa I-PER luisa 0 1 0 0 0 0 1 6 2 font td none 10 0
 
-Full O full 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Full O full 0 1 0 0 0 0 1 0 5 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-SCHIFANELLA B-PER schifanella 0 0 0 0 0 0 1 font td none 10 0
-Rossano I-PER rossano 0 1 0 0 0 0 1 font td none 10 0
+SCHIFANELLA B-PER schifanella 0 0 0 0 0 0 1 0 0 font td none 10 0
+Rossano I-PER rossano 0 1 0 0 0 0 1 3 1 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-SEGNAN B-PER segnan 0 0 0 0 0 0 1 font td none 10 0
-Marino I-PER marino 0 1 0 0 0 0 1 font td none 10 0
+SEGNAN B-PER segnan 0 0 0 0 0 0 1 0 0 font td none 10 0
+Marino I-PER marino 0 1 0 0 0 0 1 5 4 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-SERENO B-PER sereno 0 0 0 0 0 0 1 font td none 10 0
-Matteo I-PER matteo 0 1 0 0 0 0 1 font td none 10 0
+SERENO B-PER sereno 0 0 0 0 0 0 1 0 0 font td none 10 0
+Matteo I-PER matteo 0 1 0 0 0 0 1 6 2 font td none 10 0
 
-Full O full 0 1 0 0 0 0 1 td tr none 9 0
-professor O professor 0 0 0 0 1 0 0 td tr none 9 0
+Full O full 0 1 0 0 0 0 1 0 5 td tr none 9 0
+professor O professor 0 0 0 0 1 0 0 0 7 td tr none 9 0
 
-SIROVICH B-PER sirovich 0 0 0 0 0 0 1 font td none 10 0
-Franco I-PER franco 0 1 0 0 0 0 1 font td none 10 0
+SIROVICH B-PER sirovich 0 0 0 0 0 0 1 0 0 font td none 10 0
+Franco I-PER franco 0 1 0 0 0 0 1 6 5 font td none 10 0
 
-Retired O retired 0 0 0 0 0 0 1 td tr none 9 0
-Professor O professor 0 0 0 0 1 0 1 td tr none 9 0
+Retired O retired 0 0 0 0 0 0 1 0 1 td tr none 9 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr none 9 0
 
-SPROSTON B-PER sproston 0 0 0 0 0 0 1 font td none 10 0
-Jeremy I-PER jeremy 0 1 0 0 0 0 1 font td none 10 0
+SPROSTON B-PER sproston 0 0 0 0 0 0 1 0 0 font td none 10 0
+Jeremy I-PER jeremy 0 1 0 0 0 0 1 7 4 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-TORTA B-PER torta 0 0 0 0 0 0 1 font td none 10 0
-Gianluca I-PER gianluca 0 1 0 0 0 0 1 font td none 10 0
+TORTA B-PER torta 0 0 0 0 0 0 1 0 1 font td none 10 0
+Gianluca I-PER gianluca 0 1 0 0 0 0 1 6 0 font td none 10 0
 
-Researcher O researcher 0 0 0 0 0 0 1 td tr none 9 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 td tr none 9 0
 
-ZACCHI B-PER zacchi 0 0 0 0 0 0 1 font td none 10 0
-Maddalena I-PER maddalena 0 1 0 0 0 0 1 font td none 10 0
+ZACCHI B-PER zacchi 0 0 0 0 0 0 1 0 0 font td none 10 0
+Maddalena I-PER maddalena 0 1 0 0 0 0 1 4 1 font td none 10 0
 
-Retired O retired 0 0 0 0 0 0 1 td tr none 9 0
-Professor O professor 0 0 0 0 1 0 1 td tr none 9 0
+Retired O retired 0 0 0 0 0 0 1 0 1 td tr none 9 0
+Professor O professor 0 0 0 0 1 0 1 0 7 td tr none 9 0
 
-Per O per 0 1 0 0 0 0 1 center meta none 6 478
-modificare O modificare 0 0 0 0 0 0 0 center meta none 6 478
-i O i 0 1 0 0 0 0 0 center meta none 6 478
-dati O dati 0 0 0 0 0 0 0 center meta none 6 478
-personali O personali 0 0 0 0 0 0 0 center meta none 6 478
-, O , 0 0 0 0 0 0 0 center meta none 6 478
-inviare O inviare 0 0 0 0 0 0 0 center meta none 6 478
-una O una 0 0 0 0 0 0 0 center meta none 6 478
-email O email 0 0 0 0 1 0 0 center meta none 6 478
-a O a 0 1 0 0 0 0 0 center meta none 6 478
-Segreteria[at]di.unito.it O segreteria[at]di.unito.it 0 0 0 0 0 0 1 center meta none 6 478
+Per O per 0 1 0 0 0 0 1 6 7 center meta none 6 478
+modificare O modificare 0 0 0 0 0 0 0 0 5 center meta none 6 478
+i O i 0 1 0 0 0 0 0 5 10 center meta none 6 478
+dati O dati 0 0 0 0 0 0 0 0 3 center meta none 6 478
+personali O personali 0 0 0 0 0 0 0 0 3 center meta none 6 478
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 center meta none 6 478
+inviare O inviare 0 0 0 0 0 0 0 0 0 center meta none 6 478
+una O una 0 0 0 0 0 0 0 0 7 center meta none 6 478
+email O email 0 0 0 0 1 0 0 0 6 center meta none 6 478
+a O a 0 1 0 0 0 0 0 3 11 center meta none 6 478
+Segreteria[at]di.unito.it O segreteria[at]di.unito.it 0 0 0 0 0 0 1 0 0 center meta none 6 478
 
-Administrator O administrator 0 0 0 0 0 0 1 font td none 8 0
-: O : 0 0 0 0 0 0 0 font td none 8 0
+Administrator O administrator 0 0 0 0 0 0 1 0 4 font td none 8 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 font td none 8 0
 
-wwwadm O wwwadm 0 0 0 0 0 0 0 td tr none 7 2
-( O ( 0 0 0 0 0 0 0 td tr none 7 2
-at O at 0 0 0 0 0 0 0 td tr none 7 2
-) O ) 0 0 0 0 0 0 0 td tr none 7 2
-di.unito.it O di.unito.it 0 0 0 0 0 0 0 td tr none 7 2
+wwwadm O wwwadm 0 0 0 0 0 0 0 0 0 td tr none 7 2
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr none 7 2
+at O at 0 1 0 0 0 0 0 0 8 td tr none 7 2
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr none 7 2
+di.unito.it O di.unito.it 0 0 0 0 0 0 0 0 0 td tr none 7 2
 
-Last O last 0 1 0 0 0 0 1 td tr none 7 0
-update O update 0 0 0 0 0 0 0 td tr none 7 0
-: O : 0 0 0 0 0 0 0 td tr none 7 0
-Apr O apr 0 0 0 0 0 0 1 td tr none 7 0
-09 O 09 0 0 0 1 0 0 0 td tr none 7 0
-, O , 0 0 0 0 0 0 0 td tr none 7 0
-2009 O 2009 0 0 0 1 0 0 0 td tr none 7 0
+Last O last 0 1 0 0 0 0 1 3 7 td tr none 7 0
+update O update 0 0 0 0 0 0 0 0 5 td tr none 7 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 td tr none 7 0
+Apr O apr 0 0 0 0 0 0 1 0 4 td tr none 7 0
+09 O 09 0 0 0 1 0 0 0 0 0 td tr none 7 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 td tr none 7 0
+2009 O 2009 0 0 0 1 0 0 0 0 0 td tr none 7 0

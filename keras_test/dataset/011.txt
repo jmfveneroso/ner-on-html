@@ -1,685 +1,681 @@
-Faculty O faculty 0 0 0 0 0 0 1 head html none 4 5
-& O & 0 0 0 0 0 0 0 head html none 4 5
-Staff O staff 0 1 0 0 0 0 1 head html none 4 5
-
-Email O email 0 0 0 0 1 0 1 li ul list-inline 12 0
-
-Banner O banner 0 1 0 0 0 0 1 li ul list-inline 12 0
-
-Blackboard O blackboard 0 0 0 0 0 0 1 li ul list-inline 12 0
-
-Apply O apply 0 0 0 0 0 0 1 li ul list-inline 12 0
-
-Visit O visit 0 1 0 0 0 0 1 li ul list-inline 12 0
-
-Get O get 0 0 0 0 0 0 1 li ul list-inline 12 0
-Involved O involved 0 0 0 0 0 0 1 li ul list-inline 12 0
-
-Give O give 0 0 0 0 0 0 1 li ul list-inline 12 0
-
-Inside O inside 0 0 0 0 0 0 1 li ul list-inline 12 0
-ECSU O ecsu 0 0 0 0 0 0 1 li ul list-inline 12 0
-
-Directory O directory 0 0 0 0 0 0 1 li ul list-inline 12 0
-
-Toggle O toggle 0 0 0 0 0 0 1 button div sr-only 12 0
-navigation O navigation 0 0 0 0 0 0 0 button div sr-only 12 0
-
-About O about 0 0 0 0 0 0 1 li ul yamm-fw 17 0
-ECSU O ecsu 0 0 0 0 0 0 1 li ul yamm-fw 17 0
-View O view 0 0 0 0 0 0 1 span a sr-only 19 0
-sub O sub 0 1 0 0 0 0 0 span a sr-only 19 0
-- O - 0 0 0 0 0 0 0 span a sr-only 19 0
-menu O menu 0 0 0 0 0 0 0 span a sr-only 19 0
-
-Keyword O keyword 0 0 0 0 0 0 1 form div input-group 26 0
-Search O search 0 0 0 0 0 0 1 form div input-group 26 0
-
-Search O search 0 0 0 0 0 0 1 button span sr-only 28 0
-
-Campus O campus 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-Map O map 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Maps O maps 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-and O and 0 1 0 0 0 0 0 li ul list-unstyled 25 0
-Directions O directions 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Become O become 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-a O a 0 1 0 0 0 0 0 li ul list-unstyled 25 0
-Viking! O viking! 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-History O history 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-and O and 0 1 0 0 0 0 0 li ul list-unstyled 25 0
-Traditions O traditions 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Points O points 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-of O of 0 1 0 0 0 0 0 li ul list-unstyled 25 0
-Pride O pride 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-
-By O by 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-the O the 0 1 0 0 0 0 0 li ul list-unstyled 25 0
-Numbers O numbers 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Experience O experience 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-ECSU O ecsu 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Visit O visit 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-
-Governance O governance 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Annual O annual 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-Reports O reports 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-NC O nc 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-PROMISE O promise 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-From O from 0 1 0 0 0 0 1 div div col-ts-12 23 2
-a O a 0 1 0 0 0 0 0 div div col-ts-12 23 2
-normal O normal 0 0 0 0 0 0 0 div div col-ts-12 23 2
-school O school 0 0 0 0 0 0 0 div div col-ts-12 23 2
-of O of 0 1 0 0 0 0 0 div div col-ts-12 23 2
-teachers O teachers 0 0 0 0 0 0 0 div div col-ts-12 23 2
-in O in 0 1 0 0 0 0 0 div div col-ts-12 23 2
-1891 O 1891 0 0 0 1 0 0 0 div div col-ts-12 23 2
-to O to 0 0 0 0 0 0 0 div div col-ts-12 23 2
-joining O joining 0 0 0 0 0 0 0 div div col-ts-12 23 2
-the O the 0 1 0 0 0 0 0 div div col-ts-12 23 2
-University O university 0 1 0 0 0 0 1 div div col-ts-12 23 2
-of O of 0 1 0 0 0 0 0 div div col-ts-12 23 2
-North O north 0 1 0 0 0 0 1 div div col-ts-12 23 2
-Carolina O carolina 0 1 0 0 0 0 1 div div col-ts-12 23 2
-system O system 0 0 0 0 0 0 0 div div col-ts-12 23 2
-in O in 0 1 0 0 0 0 0 div div col-ts-12 23 2
-1971 O 1971 0 0 0 1 0 0 0 div div col-ts-12 23 2
-, O , 0 0 0 0 0 0 0 div div col-ts-12 23 2
-ECSU O ecsu 0 0 0 0 0 0 1 div div col-ts-12 23 2
-is O is 0 0 0 0 0 0 0 div div col-ts-12 23 2
-a O a 0 1 0 0 0 0 0 div div col-ts-12 23 2
-place O place 0 0 0 0 0 0 0 div div col-ts-12 23 2
-where O where 0 0 0 0 0 0 0 div div col-ts-12 23 2
-the O the 0 1 0 0 0 0 0 div div col-ts-12 23 2
-smartest O smartest 0 0 0 0 0 0 0 div div col-ts-12 23 2
-minds O minds 0 0 0 0 0 0 0 div div col-ts-12 23 2
-from O from 0 0 0 0 0 0 0 div div col-ts-12 23 2
-all O all 0 0 0 0 0 0 0 div div col-ts-12 23 2
-over O over 0 0 0 0 0 0 0 div div col-ts-12 23 2
-the O the 0 1 0 0 0 0 0 div div col-ts-12 23 2
-country O country 0 0 0 0 0 0 0 div div col-ts-12 23 2
-come O come 0 0 0 0 0 0 0 div div col-ts-12 23 2
-together O together 0 0 0 0 0 0 0 div div col-ts-12 23 2
-to O to 0 0 0 0 0 0 0 div div col-ts-12 23 2
-discover O discover 0 0 0 0 0 0 0 div div col-ts-12 23 2
-, O , 0 0 0 0 0 0 0 div div col-ts-12 23 2
-learn O learn 0 0 0 0 0 0 0 div div col-ts-12 23 2
-and O and 0 1 0 0 0 0 0 div div col-ts-12 23 2
-cultivate O cultivate 0 0 0 0 0 0 0 div div col-ts-12 23 2
-the O the 0 1 0 0 0 0 0 div div col-ts-12 23 2
-foundations O foundations 0 0 0 0 0 0 0 div div col-ts-12 23 2
-of O of 0 1 0 0 0 0 0 div div col-ts-12 23 2
-their O their 0 0 0 0 0 0 0 div div col-ts-12 23 2
-future. O future. 0 0 0 0 0 0 0 div div col-ts-12 23 2
-
-Academics O academics 0 0 0 0 0 0 1 li ul yamm-fw 17 0
-View O view 0 0 0 0 0 0 1 span a sr-only 19 0
-sub O sub 0 1 0 0 0 0 0 span a sr-only 19 0
-- O - 0 0 0 0 0 0 0 span a sr-only 19 0
-menu O menu 0 0 0 0 0 0 0 span a sr-only 19 0
-
-Keyword O keyword 0 0 0 0 0 0 1 form div input-group 26 0
-Search O search 0 0 0 0 0 0 1 form div input-group 26 0
-
-Search O search 0 0 0 0 0 0 1 button span sr-only 28 0
-
-Campus O campus 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-Map O map 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Maps O maps 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-and O and 0 1 0 0 0 0 0 li ul list-unstyled 25 0
-Directions O directions 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Become O become 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-a O a 0 1 0 0 0 0 0 li ul list-unstyled 25 0
-Viking! O viking! 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Departments O departments 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Graduate O graduate 1 1 0 0 0 0 1 li ul list-unstyled 25 0
-Programs O programs 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Distance O distance 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-Education O education 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Continuing O continuing 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-Education O education 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Summer O summer 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-School O school 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-
-Library O library 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Research O research 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-
-QEP O qep 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-In O in 0 1 0 0 0 0 1 div div col-ts-12 23 2
-ECSU O ecsu 0 0 0 0 0 0 1 div div col-ts-12 23 2
-' O ' 0 0 0 0 0 0 0 div div col-ts-12 23 2
-s O s 0 0 0 0 0 0 0 div div col-ts-12 23 2
-ten O ten 0 1 0 0 0 0 0 div div col-ts-12 23 2
-academic O academic 0 0 0 0 0 0 0 div div col-ts-12 23 2
-departments O departments 0 0 0 0 0 0 0 div div col-ts-12 23 2
-, O , 0 0 0 0 0 0 0 div div col-ts-12 23 2
-we O we 0 0 0 0 0 0 0 div div col-ts-12 23 2
-are O are 0 0 0 0 0 0 0 div div col-ts-12 23 2
-educating O educating 0 0 0 0 0 0 0 div div col-ts-12 23 2
-some O some 0 0 0 0 0 0 0 div div col-ts-12 23 2
-of O of 0 1 0 0 0 0 0 div div col-ts-12 23 2
-the O the 0 1 0 0 0 0 0 div div col-ts-12 23 2
-world O world 0 0 0 0 0 0 0 div div col-ts-12 23 2
-' O ' 0 0 0 0 0 0 0 div div col-ts-12 23 2
-s O s 0 0 0 0 0 0 0 div div col-ts-12 23 2
-most O most 0 0 0 0 1 0 0 div div col-ts-12 23 2
-brilliant O brilliant 0 0 0 0 0 0 0 div div col-ts-12 23 2
-minds. O minds. 0 0 0 0 0 0 0 div div col-ts-12 23 2
-Our O our 0 0 0 0 0 0 1 div div col-ts-12 23 2
-students O students 0 0 0 0 0 0 0 div div col-ts-12 23 2
-are O are 0 0 0 0 0 0 0 div div col-ts-12 23 2
-exposed O exposed 0 0 0 0 0 0 0 div div col-ts-12 23 2
-to O to 0 0 0 0 0 0 0 div div col-ts-12 23 2
-innovative O innovative 0 0 0 0 0 0 0 div div col-ts-12 23 2
-research O research 0 0 0 0 0 0 0 div div col-ts-12 23 2
-opportunities O opportunities 0 0 0 0 0 0 0 div div col-ts-12 23 2
-that O that 0 0 0 0 0 0 0 div div col-ts-12 23 2
-extend O extend 0 0 0 0 0 0 0 div div col-ts-12 23 2
-their O their 0 0 0 0 0 0 0 div div col-ts-12 23 2
-learning O learning 0 0 0 0 0 0 0 div div col-ts-12 23 2
-beyond O beyond 0 0 0 0 0 0 0 div div col-ts-12 23 2
-textbooks O textbooks 0 0 0 0 0 0 0 div div col-ts-12 23 2
-and O and 0 1 0 0 0 0 0 div div col-ts-12 23 2
-classrooms. O classrooms. 0 0 0 0 0 0 0 div div col-ts-12 23 2
-
-Admissions O admissions 0 0 0 0 0 0 1 li ul  17 0
-View O view 0 0 0 0 0 0 1 span a sr-only 19 0
-sub O sub 0 1 0 0 0 0 0 span a sr-only 19 0
-- O - 0 0 0 0 0 0 0 span a sr-only 19 0
-menu O menu 0 0 0 0 0 0 0 span a sr-only 19 0
-
-Keyword O keyword 0 0 0 0 0 0 1 form div input-group 26 0
-Search O search 0 0 0 0 0 0 1 form div input-group 26 0
-
-Search O search 0 0 0 0 0 0 1 button span sr-only 28 0
-
-Campus O campus 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-Map O map 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Maps O maps 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-and O and 0 1 0 0 0 0 0 li ul list-unstyled 25 0
-Directions O directions 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Become O become 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-a O a 0 1 0 0 0 0 0 li ul list-unstyled 25 0
-Viking! O viking! 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Apply O apply 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-to O to 0 0 0 0 0 0 0 li ul list-unstyled 25 0
-ECSU O ecsu 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Schedule O schedule 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-A O a 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-Campus O campus 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-Visit O visit 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-
-Requirements O requirements 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-Admission O admission 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Graduate O graduate 1 1 0 0 0 0 1 li ul list-unstyled 25 0
-Admissions O admissions 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Open O open 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-House O house 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-
-Registrar O registrar 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Transfer O transfer 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-Students O students 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Summer O summer 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-School O school 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-
-International O international 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-New O new 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-Student O student 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-Orientation O orientation 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Admissions O admissions 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-Portal O portal 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-
-NC O nc 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-PROMISE O promise 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-ECSU O ecsu 0 0 0 0 0 0 1 div div col-ts-12 23 2
-is O is 0 0 0 0 0 0 0 div div col-ts-12 23 2
-the O the 0 1 0 0 0 0 0 div div col-ts-12 23 2
-most O most 0 0 0 0 1 0 0 div div col-ts-12 23 2
-affordable O affordable 0 0 0 0 0 0 0 div div col-ts-12 23 2
-academic O academic 0 0 0 0 0 0 0 div div col-ts-12 23 2
-success O success 0 0 0 0 0 0 0 div div col-ts-12 23 2
-university O university 0 0 0 0 0 0 0 div div col-ts-12 23 2
-in O in 0 1 0 0 0 0 0 div div col-ts-12 23 2
-North O north 0 1 0 0 0 0 1 div div col-ts-12 23 2
-Carolina. O carolina. 0 0 0 0 0 0 1 div div col-ts-12 23 2
-Learn O learn 0 1 0 0 0 0 1 div div col-ts-12 23 2
-more O more 0 0 0 0 0 0 0 div div col-ts-12 23 2
-about O about 0 0 0 0 0 0 0 div div col-ts-12 23 2
-the O the 0 1 0 0 0 0 0 div div col-ts-12 23 2
-admissions O admissions 0 0 0 0 0 0 0 div div col-ts-12 23 2
-and O and 0 1 0 0 0 0 0 div div col-ts-12 23 2
-financial O financial 0 0 0 0 0 0 0 div div col-ts-12 23 2
-aid O aid 0 0 0 0 0 0 0 div div col-ts-12 23 2
-process O process 0 0 0 0 0 0 0 div div col-ts-12 23 2
-, O , 0 0 0 0 0 0 0 div div col-ts-12 23 2
-and O and 0 1 0 0 0 0 0 div div col-ts-12 23 2
-how O how 0 0 0 0 0 0 0 div div col-ts-12 23 2
-you O you 0 0 0 0 0 0 0 div div col-ts-12 23 2
-can O can 0 0 0 0 0 0 0 div div col-ts-12 23 2
-begin O begin 0 0 0 0 0 0 0 div div col-ts-12 23 2
-your O your 0 0 0 0 0 0 0 div div col-ts-12 23 2
-exciting O exciting 0 0 0 0 0 0 0 div div col-ts-12 23 2
-journey O journey 0 0 0 0 0 0 0 div div col-ts-12 23 2
-on O on 0 0 0 0 0 0 0 div div col-ts-12 23 2
-our O our 0 0 0 0 0 0 0 div div col-ts-12 23 2
-campus. O campus. 0 0 0 0 0 0 0 div div col-ts-12 23 2
-
-Student O student 0 1 0 0 0 0 1 li ul yamm-fw 17 0
-Life O life 0 1 0 0 0 0 1 li ul yamm-fw 17 0
-View O view 0 0 0 0 0 0 1 span a sr-only 19 0
-sub O sub 0 1 0 0 0 0 0 span a sr-only 19 0
-- O - 0 0 0 0 0 0 0 span a sr-only 19 0
-menu O menu 0 0 0 0 0 0 0 span a sr-only 19 0
-
-Keyword O keyword 0 0 0 0 0 0 1 form div input-group 26 0
-Search O search 0 0 0 0 0 0 1 form div input-group 26 0
-
-Search O search 0 0 0 0 0 0 1 button span sr-only 28 0
-
-Campus O campus 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-Map O map 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Maps O maps 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-and O and 0 1 0 0 0 0 0 li ul list-unstyled 25 0
-Directions O directions 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Become O become 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-a O a 0 1 0 0 0 0 0 li ul list-unstyled 25 0
-Viking! O viking! 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Career O career 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-Services O services 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Clubs O clubs 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-& O & 0 0 0 0 0 0 0 li ul list-unstyled 25 0
-Organizations O organizations 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Counseling O counseling 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-& O & 0 0 0 0 0 0 0 li ul list-unstyled 25 0
-Testing O testing 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Dining O dining 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-Services O services 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-ECSU O ecsu 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-Campus O campus 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-Store O store 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-
-Residence O residence 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-Life O life 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-
-Student O student 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-Affairs O affairs 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Student O student 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-Government O government 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-Association O association 0 0 0 0 0 0 1 li ul list-unstyled 25 0
-
-Student O student 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-Health O health 0 1 0 0 0 0 1 li ul list-unstyled 25 0
-
-Life O life 0 1 0 0 0 0 1 div div col-ts-12 23 2
-at O at 0 0 0 0 0 0 0 div div col-ts-12 23 2
-ECSU O ecsu 0 0 0 0 0 0 1 div div col-ts-12 23 2
-provides O provides 0 0 0 0 0 0 0 div div col-ts-12 23 2
-a O a 0 1 0 0 0 0 0 div div col-ts-12 23 2
-range O range 0 0 0 0 0 0 0 div div col-ts-12 23 2
-of O of 0 1 0 0 0 0 0 div div col-ts-12 23 2
-experiences O experiences 0 0 0 0 0 0 0 div div col-ts-12 23 2
-that O that 0 0 0 0 0 0 0 div div col-ts-12 23 2
-are O are 0 0 0 0 0 0 0 div div col-ts-12 23 2
-invaluable O invaluable 0 0 0 0 0 0 0 div div col-ts-12 23 2
-to O to 0 0 0 0 0 0 0 div div col-ts-12 23 2
-your O your 0 0 0 0 0 0 0 div div col-ts-12 23 2
-academic O academic 0 0 0 0 0 0 0 div div col-ts-12 23 2
-and O and 0 1 0 0 0 0 0 div div col-ts-12 23 2
-personal O personal 0 0 0 0 0 0 0 div div col-ts-12 23 2
-growth. O growth. 0 0 0 0 0 0 0 div div col-ts-12 23 2
-Our O our 0 0 0 0 0 0 1 div div col-ts-12 23 2
-students O students 0 0 0 0 0 0 0 div div col-ts-12 23 2
-come O come 0 0 0 0 0 0 0 div div col-ts-12 23 2
-from O from 0 0 0 0 0 0 0 div div col-ts-12 23 2
-different O different 0 0 0 0 0 0 0 div div col-ts-12 23 2
-places O places 0 0 0 0 0 0 0 div div col-ts-12 23 2
-and O and 0 1 0 0 0 0 0 div div col-ts-12 23 2
-backgrounds O backgrounds 0 0 0 0 0 0 0 div div col-ts-12 23 2
-, O , 0 0 0 0 0 0 0 div div col-ts-12 23 2
-but O but 0 0 0 0 0 0 0 div div col-ts-12 23 2
-together O together 0 0 0 0 0 0 0 div div col-ts-12 23 2
-they O they 0 0 0 0 0 0 0 div div col-ts-12 23 2
-create O create 0 0 0 0 0 0 0 div div col-ts-12 23 2
-a O a 0 1 0 0 0 0 0 div div col-ts-12 23 2
-diverse O diverse 0 0 0 0 0 0 0 div div col-ts-12 23 2
-, O , 0 0 0 0 0 0 0 div div col-ts-12 23 2
-close O close 0 0 0 0 0 0 0 div div col-ts-12 23 2
-- O - 0 0 0 0 0 0 0 div div col-ts-12 23 2
-knit O knit 0 0 0 0 0 0 0 div div col-ts-12 23 2
-community O community 0 0 0 0 0 0 0 div div col-ts-12 23 2
-that O that 0 0 0 0 0 0 0 div div col-ts-12 23 2
-seeks O seeks 0 0 0 0 0 0 0 div div col-ts-12 23 2
-to O to 0 0 0 0 0 0 0 div div col-ts-12 23 2
-create O create 0 0 0 0 0 0 0 div div col-ts-12 23 2
-a O a 0 1 0 0 0 0 0 div div col-ts-12 23 2
-better O better 0 0 0 0 0 0 0 div div col-ts-12 23 2
-world. O world. 0 0 0 0 0 0 0 div div col-ts-12 23 2
-
-Athletics O athletics 0 0 0 0 0 0 1 li ul dropdown-toggle 17 0
-
-Alumni O alumni 0 0 0 0 0 0 1 li ul dropdown-toggle 17 0
-
-Search O search 0 0 0 0 0 0 1 li ul dropdown-toggle 17 0
-
-Keyword O keyword 0 0 0 0 0 0 1 form div input-group 25 0
-Search O search 0 0 0 0 0 0 1 form div input-group 25 0
-
-Search O search 0 0 0 0 0 0 1 button span sr-only 27 0
-
-Mathematics O mathematics 0 0 0 0 0 0 1 li ul subsite-nav 14 0
-Computer O computer 0 0 0 0 0 0 1 li ul subsite-nav 14 0
-Science O science 0 0 0 0 0 0 1 li ul subsite-nav 14 0
-
-Degree O degree 0 0 0 0 0 0 1 li ul subsite-nav 14 0
-Programs O programs 0 0 0 0 0 0 1 li ul subsite-nav 14 0
-
-Forms O forms 0 0 0 0 0 0 1 li ul subsite-nav 14 0
-and O and 0 1 0 0 0 0 0 li ul subsite-nav 14 0
-Documents O documents 0 0 0 0 0 0 1 li ul subsite-nav 14 0
-
-Math O math 0 1 0 0 0 0 1 li ul subsite-nav 14 0
-Contest O contest 0 0 0 0 0 0 1 li ul subsite-nav 14 0
-
-Student O student 0 1 0 0 0 0 1 li ul subsite-nav 14 0
-Opportunities O opportunities 0 0 0 0 0 0 1 li ul subsite-nav 14 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul subsite-nav 14 0
-and O and 0 1 0 0 0 0 0 li ul subsite-nav 14 0
-Staff O staff 0 1 0 0 0 0 1 li ul subsite-nav 14 0
-
-Faculty O faculty 0 0 0 0 0 0 1 main div col-xs-12 9 0
-& O & 0 0 0 0 0 0 0 main div col-xs-12 9 0
-Staff O staff 0 1 0 0 0 0 1 main div col-xs-12 9 0
-
-Name O name 0 1 0 0 0 0 1 tr thead col-xs-12 14 0
-
-Title O title 0 1 0 0 0 0 1 tr thead col-xs-12 14 1
-
-Email O email 0 0 0 0 1 0 1 tr thead col-xs-12 14 2
-
-Phone O phone 0 1 0 0 0 0 1 tr thead col-xs-12 14 3
-
-Chen B-PER chen 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-, I-PER , 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-Lin I-PER lin 1 1 0 0 0 0 1 td tr col-xs-12 15 0
-Assistant O assistant 0 0 0 0 0 0 1 tr tbody col-xs-12 14 2
-Professor O professor 0 0 0 0 1 0 1 tr tbody col-xs-12 14 2
-lchen@ecsu.edu O lchen@ecsu.edu 0 0 1 0 0 0 0 td tr col-xs-12 15 0
-( O ( 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-252 O 252 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-) O ) 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-- O - 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-335 O 335 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-- O - 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-3634 O 3634 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-
-Dcosta B-PER dcosta 0 0 0 0 0 0 1 td tr col-xs-12 15 0
-, I-PER , 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-Malcolm I-PER malcolm 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-Assistant O assistant 0 0 0 0 0 0 1 tr tbody col-xs-12 14 2
-Professor O professor 0 0 0 0 1 0 1 tr tbody col-xs-12 14 2
-mtdcosta@ecsu.edu O mtdcosta@ecsu.edu 0 0 1 0 0 0 0 td tr col-xs-12 15 0
-( O ( 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-252 O 252 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-) O ) 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-335 O 335 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-- O - 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-3533 O 3533 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-
-Hathaway B-PER hathaway 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-, I-PER , 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-Henry I-PER henry 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-J. I-PER j. 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-hjhathaway@ecsu.edu O hjhathaway@ecsu.edu 0 0 1 0 0 0 0 td tr col-xs-12 15 0
-( O ( 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-252 O 252 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-) O ) 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-335 O 335 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-- O - 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-3696 O 3696 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-
-Hayden B-PER hayden 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-, I-PER , 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-Linda I-PER linda 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-Professor/Associate O professor/associate 0 0 0 0 1 0 1 tr tbody col-xs-12 14 2
-Dean O dean 0 1 0 0 0 0 1 tr tbody col-xs-12 14 2
-haydenl@mindspring.com O haydenl@mindspring.com 0 0 1 0 0 0 0 td tr col-xs-12 15 0
-( O ( 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-252 O 252 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-) O ) 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-335 O 335 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-- O - 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-3696 O 3696 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-
-Hinton B-PER hinton 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-, I-PER , 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-Kenya I-PER kenya 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-University O university 0 1 0 0 0 0 1 tr tbody col-xs-12 14 2
-Program O program 0 0 0 0 0 0 1 tr tbody col-xs-12 14 2
-Associate O associate 0 1 0 0 0 0 1 tr tbody col-xs-12 14 2
-knhinton@ecsu.edu O knhinton@ecsu.edu 0 0 1 0 0 0 0 td tr col-xs-12 15 0
-( O ( 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-252 O 252 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-) O ) 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-335 O 335 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-- O - 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-3544 O 3544 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-
-Houston B-PER houston 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-, I-PER , 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-Johnny I-PER johnny 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody col-xs-12 14 2
-Emeritus O emeritus 0 1 0 0 1 0 1 tr tbody col-xs-12 14 2
-jlhouston@ecsu.edu O jlhouston@ecsu.edu 0 0 1 0 0 0 0 td tr col-xs-12 15 0
-( O ( 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-252 O 252 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-) O ) 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-335 O 335 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-- O - 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-3361 O 3361 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-
-Jones B-PER jones 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-, I-PER , 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-Kenneth I-PER kenneth 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody col-xs-12 14 2
-kljones@ecsu.edu O kljones@ecsu.edu 0 0 1 0 0 0 0 td tr col-xs-12 15 0
-( O ( 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-252 O 252 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-) O ) 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-335 O 335 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-- O - 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-3858 O 3858 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-
-Kulkarni B-PER kulkarni 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-, I-PER , 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-Krishna I-PER krishna 1 1 0 0 0 0 1 td tr col-xs-12 15 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody col-xs-12 14 2
-khkulkarni@ecsu.edu O khkulkarni@ecsu.edu 0 0 1 0 0 0 0 td tr col-xs-12 15 0
-( O ( 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-252 O 252 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-) O ) 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-335 O 335 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-- O - 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-3750 O 3750 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-
-Manglik B-PER manglik 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-, I-PER , 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-Vinod I-PER vinod 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody col-xs-12 14 2
-vpmanglik@ecsu.edu O vpmanglik@ecsu.edu 0 0 1 0 0 0 0 td tr col-xs-12 15 0
-( O ( 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-252 O 252 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-) O ) 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-335 O 335 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-- O - 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-3609 O 3609 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-
-Rook B-PER rook 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-, I-PER , 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-Antonio I-PER antonio 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-Lecturer O lecturer 0 0 0 0 0 0 1 tr tbody col-xs-12 14 2
-adrook@ecsu.edu O adrook@ecsu.edu 0 0 1 0 0 0 0 td tr col-xs-12 15 0
-( O ( 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-252 O 252 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-) O ) 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-335 O 335 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-- O - 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-3468 O 3468 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-
-Sengupta B-PER sengupta 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-, I-PER , 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-Dipendra I-PER dipendra 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-C. I-PER c. 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody col-xs-12 14 2
-dcsengupta@ecsu.edu O dcsengupta@ecsu.edu 0 0 1 0 0 0 0 td tr col-xs-12 15 0
-( O ( 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-252 O 252 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-) O ) 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-335 O 335 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-- O - 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-3309 O 3309 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-
-Sengupta B-PER sengupta 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-, I-PER , 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-Jharna I-PER jharna 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody col-xs-12 14 2
-jdsengupta@ecsu.edu O jdsengupta@ecsu.edu 0 0 1 0 0 0 0 td tr col-xs-12 15 0
-( O ( 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-252 O 252 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-) O ) 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-335 O 335 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-- O - 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-3644 O 3644 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-
-Talukder B-PER talukder 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-, I-PER , 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-Mohammed I-PER mohammed 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-H I-PER h 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-Associate O associate 0 1 0 0 0 0 1 tr tbody col-xs-12 14 2
-Professor O professor 0 0 0 0 1 0 1 tr tbody col-xs-12 14 2
-mtalukder@ecsu.edu O mtalukder@ecsu.edu 0 0 1 0 0 0 0 td tr col-xs-12 15 0
-( O ( 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-252 O 252 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-) O ) 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-335 O 335 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-- O - 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-2694 O 2694 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-
-Ward B-PER ward 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-, I-PER , 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-Farrah I-PER farrah 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-Jackson I-PER jackson 0 1 0 0 0 0 1 td tr col-xs-12 15 0
-Professor O professor 0 0 0 0 1 0 1 tr tbody col-xs-12 14 2
-fjward@ecsu.edu O fjward@ecsu.edu 0 0 1 0 0 0 0 td tr col-xs-12 15 0
-( O ( 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-252 O 252 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-) O ) 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-335 O 335 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-- O - 0 0 0 0 0 0 0 td tr col-xs-12 15 0
-8549 O 8549 0 0 0 1 0 0 0 td tr col-xs-12 15 0
-
-A O a 0 1 0 0 0 0 1 div div muted 13 2
-constituent O constituent 0 0 0 0 0 0 0 div div muted 13 2
-institution O institution 0 0 0 0 0 0 0 div div muted 13 2
-of O of 0 1 0 0 0 0 0 div div muted 13 2
-the O the 0 1 0 0 0 0 0 div div muted 13 2
-University O university 0 1 0 0 0 0 1 div div muted 13 2
-of O of 0 1 0 0 0 0 0 div div muted 13 2
-North O north 0 1 0 0 0 0 1 div div muted 13 2
-Carolina O carolina 0 1 0 0 0 0 1 div div muted 13 2
-
-Equal O equal 0 0 0 0 0 0 1 div div muted 13 3
-Opportunity O opportunity 0 0 0 0 0 0 1 div div muted 13 3
-Employer O employer 0 0 0 0 1 0 1 div div muted 13 3
-
-63° O 63° 0 0 0 1 0 0 0 div div clearfix 14 0
-
-Saturday O saturday 0 0 0 0 0 0 1 p div day 15 0
-
-Overcast O overcast 0 0 0 0 0 0 1 p p weather 16 0
-
-1704 O 1704 0 0 0 1 0 0 0 ul address list-inline 14 0
-Weeksville O weeksville 0 0 0 0 0 0 1 ul address list-inline 14 0
-Road O road 0 0 0 0 0 0 1 ul address list-inline 14 0
-
-Elizabeth O elizabeth 0 1 0 0 0 0 1 ul address list-inline 14 1
-City O city 0 0 0 0 0 0 1 ul address list-inline 14 1
-, O , 0 0 0 0 0 0 0 ul address list-inline 14 1
-NC O nc 0 0 0 0 0 0 1 ul address list-inline 14 1
-27909 O 27909 0 0 0 1 0 0 0 ul address list-inline 14 1
-
-252.335.3400 O 252.335.3400 0 0 0 1 0 0 0 li ul list-inline 15 0
-
-Map O map 0 0 0 0 0 0 1 a li red 16 0
-It! O it! 0 0 0 0 0 0 1 a li red 16 0
-
-Powered O powered 0 0 0 0 0 0 1 div div col-ts-12 13 2
-by O by 0 1 0 0 0 0 0 div div col-ts-12 13 2
-Weather O weather 0 0 0 0 0 0 1 div div col-ts-12 13 2
-Underground O underground 0 0 0 0 0 0 1 div div col-ts-12 13 2
-
-Additional O additional 0 0 0 0 1 0 1 li ul col-ts-12 14 0
-Resources O resources 0 0 0 0 0 0 1 li ul col-ts-12 14 0
-
-Calendar O calendar 0 0 0 0 0 0 1 li ul col-xs-6 15 0
-
-Campus O campus 0 1 0 0 0 0 1 li ul col-xs-6 15 0
-Safety O safety 0 0 0 0 0 0 1 li ul col-xs-6 15 0
-
-Contact O contact 0 0 0 0 0 0 1 li ul col-xs-6 15 0
-Us O us 0 1 0 0 0 0 1 li ul col-xs-6 15 0
-
-ECSU O ecsu 0 0 0 0 0 0 1 a li yellow 16 0
-Alert O alert 0 0 0 0 0 0 1 a li yellow 16 0
-
-Jobs O jobs 0 1 0 0 0 0 1 li ul col-xs-6 15 0
-at O at 0 0 0 0 0 0 0 li ul col-xs-6 15 0
-ECSU O ecsu 0 0 0 0 0 0 1 li ul col-xs-6 15 0
-
-UNC O unc 0 0 0 0 0 0 1 li ul col-xs-6 15 0
-Jobs O jobs 0 1 0 0 0 0 1 li ul col-xs-6 15 0
-
-Policy O policy 0 0 0 0 0 0 1 li ul col-xs-6 15 0
-Manual O manual 0 1 0 0 0 0 1 li ul col-xs-6 15 0
-
-QEP O qep 0 0 0 0 0 0 1 li ul col-xs-6 15 0
-
-Online O online 0 0 0 0 0 0 1 li ul col-ts-12 16 0
-Communities O communities 0 0 0 0 0 0 1 li ul col-ts-12 16 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 head html none 4 5
+& O & 0 0 0 0 0 0 0 0 0 head html none 4 5
+Staff O staff 0 1 0 0 0 0 1 2 7 head html none 4 5
+
+Email O email 0 0 0 0 1 0 1 0 6 li ul list-inline 12 0
+
+Banner O banner 0 1 0 0 0 0 1 2 3 li ul list-inline 12 0
+
+Blackboard O blackboard 0 0 0 0 0 0 1 0 4 li ul list-inline 12 0
+
+Apply O apply 0 0 0 0 0 0 1 0 7 li ul list-inline 12 0
+
+Visit O visit 0 1 0 0 0 0 1 1 6 li ul list-inline 12 0
+
+Get O get 0 0 0 0 0 0 1 0 6 li ul list-inline 12 0
+Involved O involved 0 0 0 0 0 0 1 0 4 li ul list-inline 12 0
+
+Give O give 0 0 0 0 0 0 1 0 5 li ul list-inline 12 0
+
+Inside O inside 0 0 0 0 0 0 1 0 4 li ul list-inline 12 0
+ECSU O ecsu 0 0 0 0 0 0 1 0 0 li ul list-inline 12 0
+
+Directory O directory 0 0 0 0 0 0 1 0 6 li ul list-inline 12 0
+
+Toggle O toggle 0 0 0 0 0 0 1 0 5 button div sr-only 12 0
+navigation O navigation 0 0 0 0 0 0 0 0 8 button div sr-only 12 0
+
+About O about 0 0 0 0 0 0 1 0 8 li ul yamm-fw 17 0
+ECSU O ecsu 0 0 0 0 0 0 1 0 0 li ul yamm-fw 17 0
+View O view 0 0 0 0 0 0 1 0 7 span a sr-only 19 0
+sub O sub 0 1 0 0 0 0 0 2 6 span a sr-only 19 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 span a sr-only 19 0
+menu O menu 0 0 0 0 0 0 0 0 8 span a sr-only 19 0
+
+Keyword O keyword 0 0 0 0 0 0 1 0 1 form div input-group 26 0
+Search O search 0 0 0 0 0 0 1 0 7 form div input-group 26 0
+
+Search O search 0 0 0 0 0 0 1 0 7 button span sr-only 28 0
+
+Campus O campus 0 1 0 0 0 0 1 1 8 li ul list-unstyled 25 0
+Map O map 0 0 0 0 0 0 1 0 6 li ul list-unstyled 25 0
+
+Maps O maps 0 0 0 0 0 0 1 0 6 li ul list-unstyled 25 0
+and O and 0 1 0 0 0 0 0 0 10 li ul list-unstyled 25 0
+Directions O directions 0 0 0 0 0 0 1 0 4 li ul list-unstyled 25 0
+
+Become O become 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+a O a 0 1 0 0 0 0 0 3 11 li ul list-unstyled 25 0
+Viking! O viking! 0 0 0 0 0 0 1 0 0 li ul list-unstyled 25 0
+
+History O history 0 0 0 0 0 0 1 0 7 li ul list-unstyled 25 0
+and O and 0 1 0 0 0 0 0 0 10 li ul list-unstyled 25 0
+Traditions O traditions 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+
+Points O points 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+of O of 0 1 0 0 0 0 0 2 10 li ul list-unstyled 25 0
+Pride O pride 0 1 0 0 0 0 1 2 2 li ul list-unstyled 25 0
+
+By O by 0 1 0 0 0 0 1 2 8 li ul list-unstyled 25 0
+the O the 0 1 0 0 0 0 0 0 10 li ul list-unstyled 25 0
+Numbers O numbers 0 0 0 0 0 0 1 0 4 li ul list-unstyled 25 0
+
+Experience O experience 0 0 0 0 0 0 1 0 6 li ul list-unstyled 25 0
+ECSU O ecsu 0 0 0 0 0 0 1 0 0 li ul list-unstyled 25 0
+
+Visit O visit 0 1 0 0 0 0 1 1 6 li ul list-unstyled 25 0
+
+Governance O governance 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+
+Annual O annual 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+Reports O reports 0 0 0 0 0 0 1 0 4 li ul list-unstyled 25 0
+
+NC O nc 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+PROMISE O promise 0 0 0 0 0 0 1 0 2 li ul list-unstyled 25 0
+
+From O from 0 1 0 0 0 0 1 1 8 div div col-ts-12 23 2
+a O a 0 1 0 0 0 0 0 3 11 div div col-ts-12 23 2
+normal O normal 0 0 0 0 0 0 0 0 5 div div col-ts-12 23 2
+school O school 0 0 0 0 0 0 0 0 7 div div col-ts-12 23 2
+of O of 0 1 0 0 0 0 0 2 10 div div col-ts-12 23 2
+teachers O teachers 0 0 0 0 0 0 0 0 5 div div col-ts-12 23 2
+in O in 0 1 0 0 0 0 0 3 10 div div col-ts-12 23 2
+1891 O 1891 0 0 0 1 0 0 0 0 0 div div col-ts-12 23 2
+to O to 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+joining O joining 0 0 0 0 0 0 0 0 5 div div col-ts-12 23 2
+the O the 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+University O university 0 1 0 0 0 0 1 1 8 div div col-ts-12 23 2
+of O of 0 1 0 0 0 0 0 2 10 div div col-ts-12 23 2
+North O north 0 1 0 0 0 0 1 4 5 div div col-ts-12 23 2
+Carolina O carolina 0 1 0 0 0 0 1 6 3 div div col-ts-12 23 2
+system O system 0 0 0 0 0 0 0 0 6 div div col-ts-12 23 2
+in O in 0 1 0 0 0 0 0 3 10 div div col-ts-12 23 2
+1971 O 1971 0 0 0 1 0 0 0 0 0 div div col-ts-12 23 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div col-ts-12 23 2
+ECSU O ecsu 0 0 0 0 0 0 1 0 0 div div col-ts-12 23 2
+is O is 0 0 0 0 0 0 0 0 9 div div col-ts-12 23 2
+a O a 0 1 0 0 0 0 0 3 11 div div col-ts-12 23 2
+place O place 0 0 0 0 0 0 0 0 7 div div col-ts-12 23 2
+where O where 0 0 0 0 0 0 0 0 5 div div col-ts-12 23 2
+the O the 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+smartest O smartest 0 0 0 0 0 0 0 0 1 div div col-ts-12 23 2
+minds O minds 0 0 0 0 0 0 0 0 1 div div col-ts-12 23 2
+from O from 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+all O all 0 0 0 0 0 0 0 0 7 div div col-ts-12 23 2
+over O over 0 0 0 0 0 0 0 0 7 div div col-ts-12 23 2
+the O the 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+country O country 0 0 0 0 0 0 0 0 6 div div col-ts-12 23 2
+come O come 0 0 0 0 0 0 0 0 5 div div col-ts-12 23 2
+together O together 0 0 0 0 0 0 0 0 6 div div col-ts-12 23 2
+to O to 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+discover O discover 0 0 0 0 0 0 0 0 3 div div col-ts-12 23 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div col-ts-12 23 2
+learn O learn 0 0 0 0 0 0 0 0 6 div div col-ts-12 23 2
+and O and 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+cultivate O cultivate 0 0 0 0 0 0 0 0 1 div div col-ts-12 23 2
+the O the 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+foundations O foundations 0 0 0 0 0 0 0 0 4 div div col-ts-12 23 2
+of O of 0 1 0 0 0 0 0 2 10 div div col-ts-12 23 2
+their O their 0 0 0 0 0 0 0 0 7 div div col-ts-12 23 2
+future. O future. 0 0 0 0 0 0 0 0 0 div div col-ts-12 23 2
+
+Academics O academics 0 0 0 0 0 0 1 0 5 li ul yamm-fw 17 0
+View O view 0 0 0 0 0 0 1 0 7 span a sr-only 19 0
+sub O sub 0 1 0 0 0 0 0 2 6 span a sr-only 19 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 span a sr-only 19 0
+menu O menu 0 0 0 0 0 0 0 0 8 span a sr-only 19 0
+
+Keyword O keyword 0 0 0 0 0 0 1 0 1 form div input-group 26 0
+Search O search 0 0 0 0 0 0 1 0 7 form div input-group 26 0
+
+Search O search 0 0 0 0 0 0 1 0 7 button span sr-only 28 0
+
+Campus O campus 0 1 0 0 0 0 1 1 8 li ul list-unstyled 25 0
+Map O map 0 0 0 0 0 0 1 0 6 li ul list-unstyled 25 0
+
+Maps O maps 0 0 0 0 0 0 1 0 6 li ul list-unstyled 25 0
+and O and 0 1 0 0 0 0 0 0 10 li ul list-unstyled 25 0
+Directions O directions 0 0 0 0 0 0 1 0 4 li ul list-unstyled 25 0
+
+Become O become 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+a O a 0 1 0 0 0 0 0 3 11 li ul list-unstyled 25 0
+Viking! O viking! 0 0 0 0 0 0 1 0 0 li ul list-unstyled 25 0
+
+Departments O departments 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+
+Graduate O graduate 0 1 0 0 0 0 1 0 6 li ul list-unstyled 25 0
+Programs O programs 0 0 0 0 0 0 1 0 8 li ul list-unstyled 25 0
+
+Distance O distance 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+Education O education 0 0 0 0 0 0 1 0 8 li ul list-unstyled 25 0
+
+Continuing O continuing 0 0 0 0 0 0 1 0 4 li ul list-unstyled 25 0
+Education O education 0 0 0 0 0 0 1 0 8 li ul list-unstyled 25 0
+
+Summer O summer 0 1 0 0 0 0 1 3 4 li ul list-unstyled 25 0
+School O school 0 1 0 0 0 0 1 0 7 li ul list-unstyled 25 0
+
+Library O library 0 0 0 0 0 0 1 0 7 li ul list-unstyled 25 0
+
+Research O research 0 1 0 0 0 0 1 0 7 li ul list-unstyled 25 0
+
+QEP O qep 0 0 0 0 0 0 1 0 0 li ul list-unstyled 25 0
+
+In O in 0 1 0 0 0 0 1 6 10 div div col-ts-12 23 2
+ECSU's O ecsu's 0 0 0 0 0 0 1 0 0 div div col-ts-12 23 2
+ten O ten 0 1 0 0 0 0 0 4 5 div div col-ts-12 23 2
+academic O academic 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+departments O departments 0 0 0 0 0 0 0 0 5 div div col-ts-12 23 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div col-ts-12 23 2
+we O we 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+are O are 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+educating O educating 0 0 0 0 0 0 0 0 1 div div col-ts-12 23 2
+some O some 0 0 0 0 0 0 0 0 6 div div col-ts-12 23 2
+of O of 0 1 0 0 0 0 0 2 10 div div col-ts-12 23 2
+the O the 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+world's O world's 0 0 0 0 0 0 0 0 0 div div col-ts-12 23 2
+most O most 0 0 0 0 1 0 0 0 5 div div col-ts-12 23 2
+brilliant O brilliant 0 0 0 0 0 0 0 0 0 div div col-ts-12 23 2
+minds. O minds. 0 0 0 0 0 0 0 0 0 div div col-ts-12 23 2
+Our O our 0 0 0 0 0 0 1 0 8 div div col-ts-12 23 2
+students O students 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+are O are 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+exposed O exposed 0 0 0 0 0 0 0 0 1 div div col-ts-12 23 2
+to O to 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+innovative O innovative 0 0 0 0 0 0 0 0 3 div div col-ts-12 23 2
+research O research 0 0 0 0 0 0 0 0 7 div div col-ts-12 23 2
+opportunities O opportunities 0 0 0 0 0 0 0 0 6 div div col-ts-12 23 2
+that O that 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+extend O extend 0 0 0 0 0 0 0 0 2 div div col-ts-12 23 2
+their O their 0 0 0 0 0 0 0 0 7 div div col-ts-12 23 2
+learning O learning 0 0 0 0 0 0 0 0 7 div div col-ts-12 23 2
+beyond O beyond 0 0 0 0 0 0 0 0 5 div div col-ts-12 23 2
+textbooks O textbooks 0 0 0 0 0 0 0 0 3 div div col-ts-12 23 2
+and O and 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+classrooms. O classrooms. 0 0 0 0 0 0 0 0 0 div div col-ts-12 23 2
+
+Admissions O admissions 0 0 0 0 0 0 1 0 7 li ul  17 0
+View O view 0 0 0 0 0 0 1 0 7 span a sr-only 19 0
+sub O sub 0 1 0 0 0 0 0 2 6 span a sr-only 19 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 span a sr-only 19 0
+menu O menu 0 0 0 0 0 0 0 0 8 span a sr-only 19 0
+
+Keyword O keyword 0 0 0 0 0 0 1 0 1 form div input-group 26 0
+Search O search 0 0 0 0 0 0 1 0 7 form div input-group 26 0
+
+Search O search 0 0 0 0 0 0 1 0 7 button span sr-only 28 0
+
+Campus O campus 0 1 0 0 0 0 1 1 8 li ul list-unstyled 25 0
+Map O map 0 0 0 0 0 0 1 0 6 li ul list-unstyled 25 0
+
+Maps O maps 0 0 0 0 0 0 1 0 6 li ul list-unstyled 25 0
+and O and 0 1 0 0 0 0 0 0 10 li ul list-unstyled 25 0
+Directions O directions 0 0 0 0 0 0 1 0 4 li ul list-unstyled 25 0
+
+Become O become 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+a O a 0 1 0 0 0 0 0 3 11 li ul list-unstyled 25 0
+Viking! O viking! 0 0 0 0 0 0 1 0 0 li ul list-unstyled 25 0
+
+Apply O apply 0 0 0 0 0 0 1 0 7 li ul list-unstyled 25 0
+to O to 0 1 0 0 0 0 0 0 10 li ul list-unstyled 25 0
+ECSU O ecsu 0 0 0 0 0 0 1 0 0 li ul list-unstyled 25 0
+
+Schedule O schedule 0 0 0 0 0 0 1 0 6 li ul list-unstyled 25 0
+A O a 0 1 0 0 0 0 1 4 11 li ul list-unstyled 25 0
+Campus O campus 0 1 0 0 0 0 1 1 8 li ul list-unstyled 25 0
+Visit O visit 0 1 0 0 0 0 1 1 6 li ul list-unstyled 25 0
+
+Requirements O requirements 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+Admission O admission 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+
+Graduate O graduate 0 1 0 0 0 0 1 0 6 li ul list-unstyled 25 0
+Admissions O admissions 0 0 0 0 0 0 1 0 7 li ul list-unstyled 25 0
+
+Open O open 0 0 0 0 0 0 1 0 7 li ul list-unstyled 25 0
+House O house 0 1 0 0 0 0 1 4 6 li ul list-unstyled 25 0
+
+Registrar O registrar 0 0 0 0 0 0 1 0 3 li ul list-unstyled 25 0
+
+Transfer O transfer 0 0 0 0 0 0 1 0 7 li ul list-unstyled 25 0
+Students O students 0 0 0 0 0 0 1 0 8 li ul list-unstyled 25 0
+
+Summer O summer 0 1 0 0 0 0 1 3 4 li ul list-unstyled 25 0
+School O school 0 1 0 0 0 0 1 0 7 li ul list-unstyled 25 0
+
+International O international 0 0 0 0 0 0 1 0 8 li ul list-unstyled 25 0
+
+New O new 0 1 0 0 0 0 1 3 8 li ul list-unstyled 25 0
+Student O student 0 1 0 0 0 0 1 1 8 li ul list-unstyled 25 0
+Orientation O orientation 0 0 0 0 0 0 1 0 6 li ul list-unstyled 25 0
+
+Admissions O admissions 0 0 0 0 0 0 1 0 7 li ul list-unstyled 25 0
+Portal O portal 0 1 0 0 0 0 1 2 7 li ul list-unstyled 25 0
+
+NC O nc 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+PROMISE O promise 0 0 0 0 0 0 1 0 2 li ul list-unstyled 25 0
+
+ECSU O ecsu 0 0 0 0 0 0 1 0 0 div div col-ts-12 23 2
+is O is 0 0 0 0 0 0 0 0 9 div div col-ts-12 23 2
+the O the 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+most O most 0 0 0 0 1 0 0 0 5 div div col-ts-12 23 2
+affordable O affordable 0 0 0 0 0 0 0 0 6 div div col-ts-12 23 2
+academic O academic 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+success O success 0 0 0 0 0 0 0 0 6 div div col-ts-12 23 2
+university O university 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+in O in 0 1 0 0 0 0 0 3 10 div div col-ts-12 23 2
+North O north 0 1 0 0 0 0 1 4 5 div div col-ts-12 23 2
+Carolina. O carolina. 0 0 0 0 0 0 1 0 0 div div col-ts-12 23 2
+Learn O learn 0 1 0 0 0 0 1 1 6 div div col-ts-12 23 2
+more O more 0 0 0 0 0 0 0 0 7 div div col-ts-12 23 2
+about O about 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+the O the 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+admissions O admissions 0 0 0 0 0 0 0 0 7 div div col-ts-12 23 2
+and O and 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+financial O financial 0 0 0 0 0 0 0 0 7 div div col-ts-12 23 2
+aid O aid 0 0 0 0 0 0 0 0 7 div div col-ts-12 23 2
+process O process 0 0 0 0 0 0 0 0 6 div div col-ts-12 23 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div col-ts-12 23 2
+and O and 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+how O how 0 0 0 0 0 0 0 0 7 div div col-ts-12 23 2
+you O you 0 1 0 0 0 0 0 3 8 div div col-ts-12 23 2
+can O can 0 1 0 0 0 0 0 1 7 div div col-ts-12 23 2
+begin O begin 0 0 0 0 0 0 0 0 4 div div col-ts-12 23 2
+your O your 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+exciting O exciting 0 0 0 0 0 0 0 0 3 div div col-ts-12 23 2
+journey O journey 0 0 0 0 0 0 0 0 2 div div col-ts-12 23 2
+on O on 0 1 0 0 0 0 0 2 9 div div col-ts-12 23 2
+our O our 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+campus. O campus. 0 0 0 0 0 0 0 0 0 div div col-ts-12 23 2
+
+Student O student 0 1 0 0 0 0 1 1 8 li ul yamm-fw 17 0
+Life O life 0 1 0 0 0 0 1 1 7 li ul yamm-fw 17 0
+View O view 0 0 0 0 0 0 1 0 7 span a sr-only 19 0
+sub O sub 0 1 0 0 0 0 0 2 6 span a sr-only 19 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 span a sr-only 19 0
+menu O menu 0 0 0 0 0 0 0 0 8 span a sr-only 19 0
+
+Keyword O keyword 0 0 0 0 0 0 1 0 1 form div input-group 26 0
+Search O search 0 0 0 0 0 0 1 0 7 form div input-group 26 0
+
+Search O search 0 0 0 0 0 0 1 0 7 button span sr-only 28 0
+
+Campus O campus 0 1 0 0 0 0 1 1 8 li ul list-unstyled 25 0
+Map O map 0 0 0 0 0 0 1 0 6 li ul list-unstyled 25 0
+
+Maps O maps 0 0 0 0 0 0 1 0 6 li ul list-unstyled 25 0
+and O and 0 1 0 0 0 0 0 0 10 li ul list-unstyled 25 0
+Directions O directions 0 0 0 0 0 0 1 0 4 li ul list-unstyled 25 0
+
+Become O become 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+a O a 0 1 0 0 0 0 0 3 11 li ul list-unstyled 25 0
+Viking! O viking! 0 0 0 0 0 0 1 0 0 li ul list-unstyled 25 0
+
+Career O career 0 0 0 0 0 0 1 0 8 li ul list-unstyled 25 0
+Services O services 0 0 0 0 0 0 1 0 8 li ul list-unstyled 25 0
+
+Clubs O clubs 0 0 0 0 0 0 1 0 6 li ul list-unstyled 25 0
+& O & 0 0 0 0 0 0 0 0 0 li ul list-unstyled 25 0
+Organizations O organizations 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+
+Counseling O counseling 0 0 0 0 0 0 1 0 6 li ul list-unstyled 25 0
+& O & 0 0 0 0 0 0 0 0 0 li ul list-unstyled 25 0
+Testing O testing 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+
+Dining O dining 0 0 0 0 0 0 1 0 4 li ul list-unstyled 25 0
+Services O services 0 0 0 0 0 0 1 0 8 li ul list-unstyled 25 0
+
+ECSU O ecsu 0 0 0 0 0 0 1 0 0 li ul list-unstyled 25 0
+Campus O campus 0 1 0 0 0 0 1 1 8 li ul list-unstyled 25 0
+Store O store 0 1 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+
+Residence O residence 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+Life O life 0 1 0 0 0 0 1 1 7 li ul list-unstyled 25 0
+
+Student O student 0 1 0 0 0 0 1 1 8 li ul list-unstyled 25 0
+Affairs O affairs 0 0 0 0 0 0 1 0 5 li ul list-unstyled 25 0
+
+Student O student 0 1 0 0 0 0 1 1 8 li ul list-unstyled 25 0
+Government O government 0 0 0 0 0 0 1 0 6 li ul list-unstyled 25 0
+Association O association 0 0 0 0 0 0 1 0 7 li ul list-unstyled 25 0
+
+Student O student 0 1 0 0 0 0 1 1 8 li ul list-unstyled 25 0
+Health O health 0 1 0 0 0 0 1 0 7 li ul list-unstyled 25 0
+
+Life O life 0 1 0 0 0 0 1 1 7 div div col-ts-12 23 2
+at O at 0 1 0 0 0 0 0 0 8 div div col-ts-12 23 2
+ECSU O ecsu 0 0 0 0 0 0 1 0 0 div div col-ts-12 23 2
+provides O provides 0 0 0 0 0 0 0 0 4 div div col-ts-12 23 2
+a O a 0 1 0 0 0 0 0 3 11 div div col-ts-12 23 2
+range O range 0 0 0 0 0 0 0 0 4 div div col-ts-12 23 2
+of O of 0 1 0 0 0 0 0 2 10 div div col-ts-12 23 2
+experiences O experiences 0 0 0 0 0 0 0 0 6 div div col-ts-12 23 2
+that O that 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+are O are 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+invaluable O invaluable 0 0 0 0 0 0 0 0 1 div div col-ts-12 23 2
+to O to 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+your O your 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+academic O academic 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+and O and 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+personal O personal 0 0 0 0 0 0 0 0 6 div div col-ts-12 23 2
+growth. O growth. 0 0 0 0 0 0 0 0 0 div div col-ts-12 23 2
+Our O our 0 0 0 0 0 0 1 0 8 div div col-ts-12 23 2
+students O students 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+come O come 0 0 0 0 0 0 0 0 5 div div col-ts-12 23 2
+from O from 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+different O different 0 0 0 0 0 0 0 0 5 div div col-ts-12 23 2
+places O places 0 0 0 0 0 0 0 0 5 div div col-ts-12 23 2
+and O and 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+backgrounds O backgrounds 0 0 0 0 0 0 0 0 2 div div col-ts-12 23 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div col-ts-12 23 2
+but O but 0 0 0 0 0 0 0 0 7 div div col-ts-12 23 2
+together O together 0 0 0 0 0 0 0 0 6 div div col-ts-12 23 2
+they O they 0 0 0 0 0 0 0 0 6 div div col-ts-12 23 2
+create O create 0 0 0 0 0 0 0 0 7 div div col-ts-12 23 2
+a O a 0 1 0 0 0 0 0 3 11 div div col-ts-12 23 2
+diverse O diverse 0 0 0 0 0 0 0 0 4 div div col-ts-12 23 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div col-ts-12 23 2
+close O close 0 0 0 0 0 0 0 0 5 div div col-ts-12 23 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div col-ts-12 23 2
+knit O knit 0 0 0 0 0 0 0 0 1 div div col-ts-12 23 2
+community O community 0 0 0 0 0 0 0 0 7 div div col-ts-12 23 2
+that O that 0 0 0 0 0 0 0 0 8 div div col-ts-12 23 2
+seeks O seeks 0 0 0 0 0 0 0 0 3 div div col-ts-12 23 2
+to O to 0 1 0 0 0 0 0 0 10 div div col-ts-12 23 2
+create O create 0 0 0 0 0 0 0 0 7 div div col-ts-12 23 2
+a O a 0 1 0 0 0 0 0 3 11 div div col-ts-12 23 2
+better O better 0 0 0 0 0 0 0 0 5 div div col-ts-12 23 2
+world. O world. 0 0 0 0 0 0 0 0 0 div div col-ts-12 23 2
+
+Athletics O athletics 0 0 0 0 0 0 1 0 6 li ul dropdown-toggle 17 0
+
+Alumni O alumni 0 0 0 0 0 0 1 0 7 li ul dropdown-toggle 17 0
+
+Search O search 0 0 0 0 0 0 1 0 7 li ul dropdown-toggle 17 0
+
+Keyword O keyword 0 0 0 0 0 0 1 0 1 form div input-group 25 0
+Search O search 0 0 0 0 0 0 1 0 7 form div input-group 25 0
+
+Search O search 0 0 0 0 0 0 1 0 7 button span sr-only 27 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 0 6 li ul subsite-nav 14 0
+Computer O computer 0 0 0 0 0 0 1 0 7 li ul subsite-nav 14 0
+Science O science 0 0 0 0 0 0 1 0 7 li ul subsite-nav 14 0
+
+Degree O degree 0 0 0 0 0 0 1 0 6 li ul subsite-nav 14 0
+Programs O programs 0 0 0 0 0 0 1 0 8 li ul subsite-nav 14 0
+
+Forms O forms 0 0 0 0 0 0 1 0 6 li ul subsite-nav 14 0
+and O and 0 1 0 0 0 0 0 0 10 li ul subsite-nav 14 0
+Documents O documents 0 0 0 0 0 0 1 0 6 li ul subsite-nav 14 0
+
+Math O math 0 1 0 0 0 0 1 2 6 li ul subsite-nav 14 0
+Contest O contest 0 0 0 0 0 0 1 0 6 li ul subsite-nav 14 0
+
+Student O student 0 1 0 0 0 0 1 1 8 li ul subsite-nav 14 0
+Opportunities O opportunities 0 0 0 0 0 0 1 0 6 li ul subsite-nav 14 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul subsite-nav 14 0
+and O and 0 1 0 0 0 0 0 0 10 li ul subsite-nav 14 0
+Staff O staff 0 1 0 0 0 0 1 2 7 li ul subsite-nav 14 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 main div col-xs-12 9 0
+& O & 0 0 0 0 0 0 0 0 0 main div col-xs-12 9 0
+Staff O staff 0 1 0 0 0 0 1 2 7 main div col-xs-12 9 0
+
+Name O name 0 1 0 0 0 0 1 1 7 tr thead col-xs-12 14 0
+
+Title O title 0 1 0 0 0 0 1 0 8 tr thead col-xs-12 14 1
+
+Email O email 0 0 0 0 1 0 1 0 6 tr thead col-xs-12 14 2
+
+Phone O phone 0 1 0 0 0 0 1 1 5 tr thead col-xs-12 14 3
+
+Chen B-PER chen 1 1 0 0 0 0 1 9 4 td tr col-xs-12 15 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 td tr col-xs-12 15 0
+Lin I-PER lin 1 1 0 0 0 0 1 9 4 td tr col-xs-12 15 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 tr tbody col-xs-12 14 2
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody col-xs-12 14 2
+lchen@ecsu.edu O lchen@ecsu.edu 0 0 1 0 0 0 0 0 0 td tr col-xs-12 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+252 O 252 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr col-xs-12 15 0
+335 O 335 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr col-xs-12 15 0
+3634 O 3634 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+
+Dcosta B-PER dcosta 0 0 0 0 0 0 1 0 0 td tr col-xs-12 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 td tr col-xs-12 15 0
+Malcolm I-PER malcolm 0 1 0 0 0 0 1 6 3 td tr col-xs-12 15 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 tr tbody col-xs-12 14 2
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody col-xs-12 14 2
+mtdcosta@ecsu.edu O mtdcosta@ecsu.edu 0 0 1 0 0 0 0 0 0 td tr col-xs-12 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+252 O 252 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+335 O 335 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr col-xs-12 15 0
+3533 O 3533 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+
+Hathaway B-PER hathaway 0 1 0 0 0 0 1 2 2 td tr col-xs-12 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 td tr col-xs-12 15 0
+Henry I-PER henry 0 1 0 0 0 0 1 7 6 td tr col-xs-12 15 0
+J. I-PER j. 0 1 0 0 0 0 1 11 0 td tr col-xs-12 15 0
+hjhathaway@ecsu.edu O hjhathaway@ecsu.edu 0 0 1 0 0 0 0 0 0 td tr col-xs-12 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+252 O 252 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+335 O 335 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr col-xs-12 15 0
+3696 O 3696 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+
+Hayden B-PER hayden 1 1 0 0 0 0 1 4 2 td tr col-xs-12 15 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 td tr col-xs-12 15 0
+Linda I-PER linda 1 1 0 0 0 0 1 7 4 td tr col-xs-12 15 0
+Professor/Associate O professor/associate 0 0 0 0 1 0 1 0 0 tr tbody col-xs-12 14 2
+Dean O dean 0 1 0 0 0 0 1 6 5 tr tbody col-xs-12 14 2
+haydenl@mindspring.com O haydenl@mindspring.com 0 0 1 0 0 0 0 0 0 td tr col-xs-12 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+252 O 252 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+335 O 335 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr col-xs-12 15 0
+3696 O 3696 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+
+Hinton B-PER hinton 0 1 0 0 0 0 1 4 1 td tr col-xs-12 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 td tr col-xs-12 15 0
+Kenya I-PER kenya 0 1 0 0 0 0 1 3 3 td tr col-xs-12 15 0
+University O university 0 1 0 0 0 0 1 1 8 tr tbody col-xs-12 14 2
+Program O program 0 0 0 0 0 0 1 0 7 tr tbody col-xs-12 14 2
+Associate O associate 0 1 0 0 0 0 1 0 6 tr tbody col-xs-12 14 2
+knhinton@ecsu.edu O knhinton@ecsu.edu 0 0 1 0 0 0 0 0 0 td tr col-xs-12 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+252 O 252 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+335 O 335 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr col-xs-12 15 0
+3544 O 3544 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+
+Houston B-PER houston 0 1 0 0 0 0 1 4 3 td tr col-xs-12 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 td tr col-xs-12 15 0
+Johnny I-PER johnny 0 1 0 0 0 0 1 5 3 td tr col-xs-12 15 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody col-xs-12 14 2
+Emeritus O emeritus 0 1 0 0 1 0 1 1 3 tr tbody col-xs-12 14 2
+jlhouston@ecsu.edu O jlhouston@ecsu.edu 0 0 1 0 0 0 0 0 0 td tr col-xs-12 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+252 O 252 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+335 O 335 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr col-xs-12 15 0
+3361 O 3361 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+
+Jones B-PER jones 1 1 0 0 0 0 1 7 5 td tr col-xs-12 15 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 td tr col-xs-12 15 0
+Kenneth I-PER kenneth 1 1 0 0 0 0 1 7 4 td tr col-xs-12 15 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody col-xs-12 14 2
+kljones@ecsu.edu O kljones@ecsu.edu 0 0 1 0 0 0 0 0 0 td tr col-xs-12 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+252 O 252 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+335 O 335 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr col-xs-12 15 0
+3858 O 3858 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+
+Kulkarni B-PER kulkarni 0 1 0 0 0 0 1 6 0 td tr col-xs-12 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 td tr col-xs-12 15 0
+Krishna I-PER krishna 0 1 0 0 0 0 1 7 2 td tr col-xs-12 15 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody col-xs-12 14 2
+khkulkarni@ecsu.edu O khkulkarni@ecsu.edu 0 0 1 0 0 0 0 0 0 td tr col-xs-12 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+252 O 252 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+335 O 335 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr col-xs-12 15 0
+3750 O 3750 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+
+Manglik B-PER manglik 0 1 0 0 0 0 1 1 0 td tr col-xs-12 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 td tr col-xs-12 15 0
+Vinod I-PER vinod 0 1 0 0 0 0 1 5 0 td tr col-xs-12 15 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody col-xs-12 14 2
+vpmanglik@ecsu.edu O vpmanglik@ecsu.edu 0 0 1 0 0 0 0 0 0 td tr col-xs-12 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+252 O 252 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+335 O 335 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr col-xs-12 15 0
+3609 O 3609 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+
+Rook B-PER rook 0 1 0 0 0 0 1 2 0 td tr col-xs-12 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 td tr col-xs-12 15 0
+Antonio I-PER antonio 0 1 0 0 0 0 1 8 5 td tr col-xs-12 15 0
+Lecturer O lecturer 0 0 0 0 0 0 1 0 5 tr tbody col-xs-12 14 2
+adrook@ecsu.edu O adrook@ecsu.edu 0 0 1 0 0 0 0 0 0 td tr col-xs-12 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+252 O 252 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+335 O 335 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr col-xs-12 15 0
+3468 O 3468 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+
+Sengupta B-PER sengupta 0 1 0 0 0 0 1 5 0 td tr col-xs-12 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 td tr col-xs-12 15 0
+Dipendra I-PER dipendra 0 1 0 0 0 0 1 1 1 td tr col-xs-12 15 0
+C. I-PER c. 0 1 0 0 0 0 1 10 0 td tr col-xs-12 15 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody col-xs-12 14 2
+dcsengupta@ecsu.edu O dcsengupta@ecsu.edu 0 0 1 0 0 0 0 0 0 td tr col-xs-12 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+252 O 252 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+335 O 335 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr col-xs-12 15 0
+3309 O 3309 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+
+Sengupta B-PER sengupta 0 1 0 0 0 0 1 5 0 td tr col-xs-12 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 td tr col-xs-12 15 0
+Jharna I-PER jharna 0 1 0 0 0 0 1 0 0 td tr col-xs-12 15 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody col-xs-12 14 2
+jdsengupta@ecsu.edu O jdsengupta@ecsu.edu 0 0 1 0 0 0 0 0 0 td tr col-xs-12 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+252 O 252 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+335 O 335 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr col-xs-12 15 0
+3644 O 3644 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+
+Talukder B-PER talukder 0 1 0 0 0 0 1 3 0 td tr col-xs-12 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 td tr col-xs-12 15 0
+Mohammed I-PER mohammed 0 1 0 0 0 0 1 7 4 td tr col-xs-12 15 0
+H I-PER h 0 1 0 0 0 0 1 3 8 td tr col-xs-12 15 0
+Associate O associate 0 1 0 0 0 0 1 0 6 tr tbody col-xs-12 14 2
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody col-xs-12 14 2
+mtalukder@ecsu.edu O mtalukder@ecsu.edu 0 0 1 0 0 0 0 0 0 td tr col-xs-12 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+252 O 252 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+335 O 335 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr col-xs-12 15 0
+2694 O 2694 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+
+Ward B-PER ward 0 1 0 0 0 0 1 6 3 td tr col-xs-12 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 td tr col-xs-12 15 0
+Farrah I-PER farrah 0 1 0 0 0 0 1 2 0 td tr col-xs-12 15 0
+Jackson I-PER jackson 0 1 0 0 0 0 1 6 5 td tr col-xs-12 15 0
+Professor O professor 0 0 0 0 1 0 1 0 7 tr tbody col-xs-12 14 2
+fjward@ecsu.edu O fjward@ecsu.edu 0 0 1 0 0 0 0 0 0 td tr col-xs-12 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+252 O 252 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 td tr col-xs-12 15 0
+335 O 335 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr col-xs-12 15 0
+8549 O 8549 0 0 0 1 0 0 0 0 0 td tr col-xs-12 15 0
+
+A O a 0 1 0 0 0 0 1 4 11 div div muted 13 2
+constituent O constituent 0 0 0 0 0 0 0 0 4 div div muted 13 2
+institution O institution 0 0 0 0 0 0 0 0 5 div div muted 13 2
+of O of 0 1 0 0 0 0 0 2 10 div div muted 13 2
+the O the 0 1 0 0 0 0 0 0 10 div div muted 13 2
+University O university 0 1 0 0 0 0 1 1 8 div div muted 13 2
+of O of 0 1 0 0 0 0 0 2 10 div div muted 13 2
+North O north 0 1 0 0 0 0 1 4 5 div div muted 13 2
+Carolina O carolina 0 1 0 0 0 0 1 6 3 div div muted 13 2
+
+Equal O equal 0 0 0 0 0 0 1 0 4 div div muted 13 3
+Opportunity O opportunity 0 0 0 0 0 0 1 0 5 div div muted 13 3
+Employer O employer 0 0 0 0 1 0 1 0 3 div div muted 13 3
+
+63° O 63° 0 0 0 1 0 0 0 0 0 div div clearfix 14 0
+
+Saturday O saturday 0 0 0 0 0 0 1 0 3 p div day 15 0
+
+Overcast O overcast 0 0 0 0 0 0 1 0 0 p p weather 16 0
+
+1704 O 1704 0 0 0 1 0 0 0 0 0 ul address list-inline 14 0
+Weeksville O weeksville 0 0 0 0 0 0 1 0 0 ul address list-inline 14 0
+Road O road 0 0 0 0 0 0 1 0 5 ul address list-inline 14 0
+
+Elizabeth O elizabeth 0 1 0 0 0 0 1 7 5 ul address list-inline 14 1
+City O city 0 0 0 0 0 0 1 0 6 ul address list-inline 14 1
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 ul address list-inline 14 1
+NC O nc 0 0 0 0 0 0 1 0 5 ul address list-inline 14 1
+27909 O 27909 0 0 0 1 0 0 0 0 0 ul address list-inline 14 1
+
+252.335.3400 O 252.335.3400 0 0 0 1 0 0 0 0 0 li ul list-inline 15 0
+
+Map O map 0 0 0 0 0 0 1 0 6 a li red 16 0
+It! O it! 0 0 0 0 0 0 1 0 0 a li red 16 0
+
+Powered O powered 0 0 0 0 0 0 1 0 4 div div col-ts-12 13 2
+by O by 0 1 0 0 0 0 0 0 8 div div col-ts-12 13 2
+Weather O weather 0 0 0 0 0 0 1 0 4 div div col-ts-12 13 2
+Underground O underground 0 0 0 0 0 0 1 0 2 div div col-ts-12 13 2
+
+Additional O additional 0 0 0 0 1 0 1 0 6 li ul col-ts-12 14 0
+Resources O resources 0 0 0 0 0 0 1 0 7 li ul col-ts-12 14 0
+
+Calendar O calendar 0 0 0 0 0 0 1 0 6 li ul col-xs-6 15 0
+
+Campus O campus 0 1 0 0 0 0 1 1 8 li ul col-xs-6 15 0
+Safety O safety 0 0 0 0 0 0 1 0 6 li ul col-xs-6 15 0
+
+Contact O contact 0 0 0 0 0 0 1 0 8 li ul col-xs-6 15 0
+Us O us 0 1 0 0 0 0 1 1 8 li ul col-xs-6 15 0
+
+ECSU O ecsu 0 0 0 0 0 0 1 0 0 a li yellow 16 0
+Alert O alert 0 0 0 0 0 0 1 0 4 a li yellow 16 0
+
+Jobs O jobs 0 1 0 0 0 0 1 0 4 li ul col-xs-6 15 0
+at O at 0 1 0 0 0 0 0 0 8 li ul col-xs-6 15 0
+ECSU O ecsu 0 0 0 0 0 0 1 0 0 li ul col-xs-6 15 0
+
+UNC O unc 0 0 0 0 0 0 1 0 1 li ul col-xs-6 15 0
+Jobs O jobs 0 1 0 0 0 0 1 0 4 li ul col-xs-6 15 0
+
+Policy O policy 0 0 0 0 0 0 1 0 6 li ul col-xs-6 15 0
+Manual O manual 0 1 0 0 0 0 1 1 4 li ul col-xs-6 15 0
+
+QEP O qep 0 0 0 0 0 0 1 0 0 li ul col-xs-6 15 0
+
+Online O online 0 0 0 0 0 0 1 0 7 li ul col-ts-12 16 0
+Communities O communities 0 0 0 0 0 0 1 0 5 li ul col-ts-12 16 0

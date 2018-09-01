@@ -1,1261 +1,1259 @@
-Faculty O faculty 0 0 0 0 0 0 1 head html no-js 4 1
-| O | 0 0 0 0 0 0 0 head html no-js 4 1
-CalArts O calarts 0 0 0 0 0 0 1 head html no-js 4 1
-Faculty/Staff O faculty/staff 0 0 0 0 0 0 1 head html no-js 4 1
-Directory O directory 0 0 0 0 0 0 1 head html no-js 4 1
-
-Skip O skip 0 1 0 0 0 0 1 form body sr-only 5 10
-to O to 0 0 0 0 0 0 0 form body sr-only 5 10
-Main O main 0 1 0 0 0 0 1 form body sr-only 5 10
-Content O content 0 1 0 0 0 0 1 form body sr-only 5 10
-
-calarts O calarts 0 0 0 0 0 0 0 svg a calarts-logo-svg 11 1
-
-Toggle O toggle 0 0 0 0 0 0 1 div div sr-only 10 0
-Menu O menu 0 1 0 0 0 0 1 div div sr-only 10 0
-
-Search O search 0 0 0 0 0 0 1 div div sr-only 10 1
-
-Academics O academics 0 0 0 0 0 0 1 a li nav-item-wrapper 12 0
-
-Programs O programs 0 0 0 0 0 0 1 a li  14 0
-of O of 0 1 0 0 0 0 0 a li  14 0
-Study O study 0 1 0 0 0 0 1 a li  14 0
-
-CalArts O calarts 0 0 0 0 0 0 1 li ul nav-item-description 15 0
-offers O offers 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-a O a 0 1 0 0 0 0 0 li ul nav-item-description 15 0
-variety O variety 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-of O of 0 1 0 0 0 0 0 li ul nav-item-description 15 0
-unique O unique 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-programs O programs 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-at O at 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-the O the 0 1 0 0 0 0 0 li ul nav-item-description 15 0
-undergraduate O undergraduate 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-and O and 0 1 0 0 0 0 0 li ul nav-item-description 15 0
-graduate O graduate 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-level O level 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-within O within 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-its O its 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-six O six 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-world O world 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-- O - 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-renowned O renowned 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-Schools—Art O schools—art 0 0 0 0 0 0 1 li ul nav-item-description 15 0
-, O , 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-Critical O critical 0 0 0 0 0 0 1 li ul nav-item-description 15 0
-Studies O studies 0 0 0 0 0 0 1 li ul nav-item-description 15 0
-, O , 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-Dance O dance 0 1 0 0 0 0 1 li ul nav-item-description 15 0
-, O , 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-Film/Video O film/video 0 0 0 0 0 0 1 li ul nav-item-description 15 0
-, O , 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-Music O music 0 1 0 0 1 0 1 li ul nav-item-description 15 0
-and O and 0 1 0 0 0 0 0 li ul nav-item-description 15 0
-Theater. O theater. 0 0 0 0 0 0 1 li ul nav-item-description 15 0
-
-BFA O bfa 0 0 0 0 0 0 1 a li  14 0
-General O general 0 1 0 0 0 0 1 a li  14 0
-Education O education 0 0 0 0 0 0 1 a li  14 0
-
-Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul nav-item-description 15 0
-core O core 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-courses O courses 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-are O are 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-the O the 0 1 0 0 0 0 0 li ul nav-item-description 15 0
-foundation O foundation 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-of O of 0 1 0 0 0 0 0 li ul nav-item-description 15 0
-BFA O bfa 0 0 0 0 0 0 1 li ul nav-item-description 15 0
-studies O studies 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-at O at 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-CalArts O calarts 0 0 0 0 0 0 1 li ul nav-item-description 15 0
-, O , 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-providing O providing 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-a O a 0 1 0 0 0 0 0 li ul nav-item-description 15 0
-strong O strong 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-general O general 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-education O education 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-and O and 0 1 0 0 0 0 0 li ul nav-item-description 15 0
-opportunities O opportunities 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-to O to 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-deepen O deepen 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-every O every 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-student O student 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-' O ' 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-s O s 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-artistic O artistic 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-practice. O practice. 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-
-Further O further 0 0 0 0 0 0 1 a li is-parent 14 0
-Study O study 0 1 0 0 0 0 1 a li is-parent 14 0
-
-Overview O overview 0 0 0 0 0 0 1 li ul hidden-lg 15 0
-
-Interdisciplinary O interdisciplinary 0 0 0 0 0 0 1 li ul  15 0
-
-Study O study 0 1 0 0 0 0 1 li ul  15 0
-Abroad O abroad 0 1 0 0 0 0 1 li ul  15 0
-
-Open O open 0 0 0 0 0 0 1 li ul  15 0
-Learning O learning 0 1 0 0 0 0 1 li ul  15 0
-
-Library O library 0 0 0 0 0 0 1 a li  14 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 head html no-js 4 1
+| O | 0 0 0 0 0 0 0 0 0 head html no-js 4 1
+CalArts O calarts 0 0 0 0 0 0 1 0 0 head html no-js 4 1
+Faculty/Staff O faculty/staff 0 0 0 0 0 0 1 0 0 head html no-js 4 1
+Directory O directory 0 0 0 0 0 0 1 0 6 head html no-js 4 1
+
+Skip O skip 0 1 0 0 0 0 1 3 4 form body sr-only 5 10
+to O to 0 1 0 0 0 0 0 0 10 form body sr-only 5 10
+Main O main 0 1 0 0 0 0 1 3 6 form body sr-only 5 10
+Content O content 0 1 0 0 0 0 1 1 6 form body sr-only 5 10
+
+calarts O calarts 0 0 0 0 0 0 0 0 0 svg a calarts-logo-svg 11 1
+
+Toggle O toggle 0 0 0 0 0 0 1 0 5 div div sr-only 10 0
+Menu O menu 0 1 0 0 0 0 1 2 8 div div sr-only 10 0
+
+Search O search 0 0 0 0 0 0 1 0 7 div div sr-only 10 1
+
+Academics O academics 0 0 0 0 0 0 1 0 5 a li nav-item-wrapper 12 0
+
+Programs O programs 0 0 0 0 0 0 1 0 8 a li  14 0
+of O of 0 1 0 0 0 0 0 2 10 a li  14 0
+Study O study 0 1 0 0 0 0 1 0 6 a li  14 0
+
+CalArts O calarts 0 0 0 0 0 0 1 0 0 li ul nav-item-description 15 0
+offers O offers 0 0 0 0 0 0 0 0 4 li ul nav-item-description 15 0
+a O a 0 1 0 0 0 0 0 3 11 li ul nav-item-description 15 0
+variety O variety 0 0 0 0 0 0 0 0 4 li ul nav-item-description 15 0
+of O of 0 1 0 0 0 0 0 2 10 li ul nav-item-description 15 0
+unique O unique 0 0 0 0 0 0 0 0 6 li ul nav-item-description 15 0
+programs O programs 0 0 0 0 0 0 0 0 8 li ul nav-item-description 15 0
+at O at 0 1 0 0 0 0 0 0 8 li ul nav-item-description 15 0
+the O the 0 1 0 0 0 0 0 0 10 li ul nav-item-description 15 0
+undergraduate O undergraduate 0 0 0 0 0 0 0 0 5 li ul nav-item-description 15 0
+and O and 0 1 0 0 0 0 0 0 10 li ul nav-item-description 15 0
+graduate O graduate 0 0 0 0 0 0 0 0 6 li ul nav-item-description 15 0
+level O level 0 0 0 0 0 0 0 0 5 li ul nav-item-description 15 0
+within O within 0 0 0 0 0 0 0 0 5 li ul nav-item-description 15 0
+its O its 0 0 0 0 0 0 0 0 7 li ul nav-item-description 15 0
+six O six 0 0 0 0 0 0 0 0 6 li ul nav-item-description 15 0
+world O world 0 0 0 0 0 0 0 0 7 li ul nav-item-description 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul nav-item-description 15 0
+renowned O renowned 0 0 0 0 0 0 0 0 0 li ul nav-item-description 15 0
+Schools—Art O schools—art 0 0 0 0 0 0 1 0 0 li ul nav-item-description 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul nav-item-description 15 0
+Critical O critical 0 0 0 0 0 0 1 0 3 li ul nav-item-description 15 0
+Studies O studies 0 0 0 0 0 0 1 0 6 li ul nav-item-description 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul nav-item-description 15 0
+Dance O dance 0 1 0 0 0 0 1 2 6 li ul nav-item-description 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul nav-item-description 15 0
+Film/Video O film/video 0 0 0 0 0 0 1 0 0 li ul nav-item-description 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul nav-item-description 15 0
+Music O music 0 1 0 0 1 0 1 2 8 li ul nav-item-description 15 0
+and O and 0 1 0 0 0 0 0 0 10 li ul nav-item-description 15 0
+Theater. O theater. 0 0 0 0 0 0 1 0 0 li ul nav-item-description 15 0
+
+BFA O bfa 0 0 0 0 0 0 1 0 3 a li  14 0
+General O general 0 1 0 0 0 0 1 1 7 a li  14 0
+Education O education 0 0 0 0 0 0 1 0 8 a li  14 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 0 5 li ul nav-item-description 15 0
+core O core 0 0 0 0 0 0 0 0 4 li ul nav-item-description 15 0
+courses O courses 0 0 0 0 0 0 0 0 6 li ul nav-item-description 15 0
+are O are 0 0 0 0 0 0 0 0 8 li ul nav-item-description 15 0
+the O the 0 1 0 0 0 0 0 0 10 li ul nav-item-description 15 0
+foundation O foundation 0 0 0 0 0 0 0 0 7 li ul nav-item-description 15 0
+of O of 0 1 0 0 0 0 0 2 10 li ul nav-item-description 15 0
+BFA O bfa 0 0 0 0 0 0 1 0 3 li ul nav-item-description 15 0
+studies O studies 0 0 0 0 0 0 0 0 6 li ul nav-item-description 15 0
+at O at 0 1 0 0 0 0 0 0 8 li ul nav-item-description 15 0
+CalArts O calarts 0 0 0 0 0 0 1 0 0 li ul nav-item-description 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul nav-item-description 15 0
+providing O providing 0 0 0 0 0 0 0 0 4 li ul nav-item-description 15 0
+a O a 0 1 0 0 0 0 0 3 11 li ul nav-item-description 15 0
+strong O strong 0 0 0 0 0 0 0 0 4 li ul nav-item-description 15 0
+general O general 0 0 0 0 0 0 0 0 7 li ul nav-item-description 15 0
+education O education 0 0 0 0 0 0 0 0 8 li ul nav-item-description 15 0
+and O and 0 1 0 0 0 0 0 0 10 li ul nav-item-description 15 0
+opportunities O opportunities 0 0 0 0 0 0 0 0 6 li ul nav-item-description 15 0
+to O to 0 1 0 0 0 0 0 0 10 li ul nav-item-description 15 0
+deepen O deepen 0 0 0 0 0 0 0 0 0 li ul nav-item-description 15 0
+every O every 0 0 0 0 0 0 0 0 5 li ul nav-item-description 15 0
+student's O student's 0 0 0 0 0 0 0 0 0 li ul nav-item-description 15 0
+artistic O artistic 0 0 0 0 0 0 0 0 2 li ul nav-item-description 15 0
+practice. O practice. 0 0 0 0 0 0 0 0 0 li ul nav-item-description 15 0
+
+Further O further 0 0 0 0 0 0 1 0 4 a li is-parent 14 0
+Study O study 0 1 0 0 0 0 1 0 6 a li is-parent 14 0
+
+Overview O overview 0 0 0 0 0 0 1 0 5 li ul hidden-lg 15 0
+
+Interdisciplinary O interdisciplinary 0 0 0 0 0 0 1 0 5 li ul  15 0
+
+Study O study 0 1 0 0 0 0 1 0 6 li ul  15 0
+Abroad O abroad 0 1 0 0 0 0 1 0 5 li ul  15 0
+
+Open O open 0 0 0 0 0 0 1 0 7 li ul  15 0
+Learning O learning 0 1 0 0 0 0 1 0 7 li ul  15 0
+
+Library O library 0 0 0 0 0 0 1 0 7 a li  14 0
+
+The O the 0 1 0 0 0 0 1 5 10 li ul nav-item-description 15 0
+CalArts O calarts 0 0 0 0 0 0 1 0 0 li ul nav-item-description 15 0
+Library O library 0 0 0 0 0 0 1 0 7 li ul nav-item-description 15 0
+enables O enables 0 0 0 0 0 0 0 0 2 li ul nav-item-description 15 0
+students O students 0 0 0 0 0 0 0 0 8 li ul nav-item-description 15 0
+and O and 0 1 0 0 0 0 0 0 10 li ul nav-item-description 15 0
+faculty O faculty 0 0 0 0 0 0 0 0 7 li ul nav-item-description 15 0
+to O to 0 1 0 0 0 0 0 0 10 li ul nav-item-description 15 0
+develop O develop 0 0 0 0 0 0 0 0 4 li ul nav-item-description 15 0
+the O the 0 1 0 0 0 0 0 0 10 li ul nav-item-description 15 0
+skills O skills 0 0 0 0 0 0 0 0 5 li ul nav-item-description 15 0
+necessary O necessary 0 0 0 0 0 0 0 0 4 li ul nav-item-description 15 0
+for O for 0 1 0 0 0 0 0 1 9 li ul nav-item-description 15 0
+creative O creative 0 0 0 0 0 0 0 0 7 li ul nav-item-description 15 0
+exploration O exploration 0 0 0 0 0 0 0 0 4 li ul nav-item-description 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul nav-item-description 15 0
+critical O critical 0 0 0 0 0 0 0 0 3 li ul nav-item-description 15 0
+reflection O reflection 0 0 0 0 0 0 0 0 2 li ul nav-item-description 15 0
+and O and 0 1 0 0 0 0 0 0 10 li ul nav-item-description 15 0
+lifelong O lifelong 0 0 0 0 0 0 0 0 1 li ul nav-item-description 15 0
+learning. O learning. 0 0 0 0 0 0 0 0 0 li ul nav-item-description 15 0
 
-The O the 0 1 0 0 0 0 1 li ul nav-item-description 15 0
-CalArts O calarts 0 0 0 0 0 0 1 li ul nav-item-description 15 0
-Library O library 0 0 0 0 0 0 1 li ul nav-item-description 15 0
-enables O enables 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-students O students 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-and O and 0 1 0 0 0 0 0 li ul nav-item-description 15 0
-faculty O faculty 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-to O to 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-develop O develop 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-the O the 0 1 0 0 0 0 0 li ul nav-item-description 15 0
-skills O skills 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-necessary O necessary 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-for O for 0 1 0 0 0 0 0 li ul nav-item-description 15 0
-creative O creative 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-exploration O exploration 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-, O , 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-critical O critical 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-reflection O reflection 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-and O and 0 1 0 0 0 0 0 li ul nav-item-description 15 0
-lifelong O lifelong 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-learning. O learning. 0 0 0 0 0 0 0 li ul nav-item-description 15 0
+Shortcuts O shortcuts 0 0 0 0 0 0 1 0 3 a li is-parent 14 0
 
-Shortcuts O shortcuts 0 0 0 0 0 0 1 a li is-parent 14 0
+Academic O academic 0 0 0 0 0 0 1 0 8 a li level-3-item 16 0
+Calendar O calendar 0 0 0 0 0 0 1 0 6 a li level-3-item 16 0
 
-Academic O academic 0 0 0 0 0 0 1 a li level-3-item 16 0
-Calendar O calendar 0 0 0 0 0 0 1 a li level-3-item 16 0
+Provost O provost 0 1 0 0 0 0 1 3 3 a li level-3-item 16 0
 
-Provost O provost 0 1 0 0 0 0 1 a li level-3-item 16 0
+Registrar O registrar 0 0 0 0 0 0 1 0 3 a li level-3-item 16 0
 
-Registrar O registrar 0 0 0 0 0 0 1 a li level-3-item 16 0
+Course O course 0 1 0 0 0 0 1 0 6 a li level-3-item 16 0
+Catalog O catalog 0 0 0 0 0 0 1 0 6 a li level-3-item 16 0
 
-Course O course 0 1 0 0 0 0 1 a li level-3-item 16 0
-Catalog O catalog 0 0 0 0 0 0 1 a li level-3-item 16 0
+Admissions O admissions 0 0 0 0 0 0 1 0 7 a li nav-item-wrapper 12 0
 
-Admissions O admissions 0 0 0 0 0 0 1 a li nav-item-wrapper 12 0
+Apply O apply 0 0 0 0 0 0 1 0 7 a li is-parent 14 0
 
-Apply O apply 0 0 0 0 0 0 1 a li is-parent 14 0
+Application O application 0 0 0 0 0 0 1 0 6 li ul section-landing 15 0
+Process O process 0 0 0 0 0 0 1 0 6 li ul section-landing 15 0
 
-Application O application 0 0 0 0 0 0 1 li ul section-landing 15 0
-Process O process 0 0 0 0 0 0 1 li ul section-landing 15 0
+Application O application 0 0 0 0 0 0 1 0 6 li ul  15 0
+Deadlines O deadlines 0 0 0 0 0 0 1 0 0 li ul  15 0
 
-Application O application 0 0 0 0 0 0 1 li ul  15 0
-Deadlines O deadlines 0 0 0 0 0 0 1 li ul  15 0
+International O international 0 0 0 0 0 0 1 0 8 li ul  15 0
+Applicants O applicants 0 0 0 0 0 0 1 0 2 li ul  15 0
 
-International O international 0 0 0 0 0 0 1 li ul  15 0
-Applicants O applicants 0 0 0 0 0 0 1 li ul  15 0
+Transfer O transfer 0 0 0 0 0 0 1 0 7 li ul  15 0
+Applicants O applicants 0 0 0 0 0 0 1 0 2 li ul  15 0
 
-Transfer O transfer 0 0 0 0 0 0 1 li ul  15 0
-Applicants O applicants 0 0 0 0 0 0 1 li ul  15 0
+Veterans O veterans 0 0 0 0 0 0 1 0 6 li ul  15 0
 
-Veterans O veterans 0 0 0 0 0 0 1 li ul  15 0
+Portfolio/Audition O portfolio/audition 0 0 0 0 0 0 1 0 0 a li is-parent 14 0
+Requirements O requirements 0 0 0 0 0 0 1 0 5 a li is-parent 14 0
 
-Portfolio/Audition O portfolio/audition 0 0 0 0 0 0 1 a li is-parent 14 0
-Requirements O requirements 0 0 0 0 0 0 1 a li is-parent 14 0
+Overview O overview 0 0 0 0 0 0 1 0 5 li ul hidden-lg 15 0
 
-Overview O overview 0 0 0 0 0 0 1 li ul hidden-lg 15 0
+Art O art 0 1 0 0 0 0 1 4 7 li ul  15 0
 
-Art O art 0 1 0 0 0 0 1 li ul  15 0
+Critical O critical 0 0 0 0 0 0 1 0 3 li ul  15 0
+Studies O studies 0 0 0 0 0 0 1 0 6 li ul  15 0
 
-Critical O critical 0 0 0 0 0 0 1 li ul  15 0
-Studies O studies 0 0 0 0 0 0 1 li ul  15 0
+Dance O dance 0 1 0 0 0 0 1 2 6 li ul  15 0
 
-Dance O dance 0 1 0 0 0 0 1 li ul  15 0
+Film/Video O film/video 0 0 0 0 0 0 1 0 0 li ul  15 0
 
-Film/Video O film/video 0 0 0 0 0 0 1 li ul  15 0
+Music O music 0 1 0 0 1 0 1 2 8 li ul  15 0
 
-Music O music 0 1 0 0 1 0 1 li ul  15 0
+Theater O theater 0 0 0 0 0 0 1 0 5 li ul  15 0
 
-Theater O theater 0 0 0 0 0 0 1 li ul  15 0
+Integrated O integrated 0 0 0 0 0 0 1 0 4 li ul  15 0
+Media O media 0 1 0 0 0 0 1 1 7 li ul  15 0
 
-Integrated O integrated 0 0 0 0 0 0 1 li ul  15 0
-Media O media 0 1 0 0 0 0 1 li ul  15 0
+Tours O tours 0 0 0 0 0 0 1 0 6 a li is-parent 14 0
+and O and 0 1 0 0 0 0 0 0 10 a li is-parent 14 0
+Admissions O admissions 0 0 0 0 0 0 1 0 7 a li is-parent 14 0
+Events O events 0 0 0 0 0 0 1 0 6 a li is-parent 14 0
 
-Tours O tours 0 0 0 0 0 0 1 a li is-parent 14 0
-and O and 0 1 0 0 0 0 0 a li is-parent 14 0
-Admissions O admissions 0 0 0 0 0 0 1 a li is-parent 14 0
-Events O events 0 0 0 0 0 0 1 a li is-parent 14 0
+Overview O overview 0 0 0 0 0 0 1 0 5 li ul hidden-lg 15 0
 
-Overview O overview 0 0 0 0 0 0 1 li ul hidden-lg 15 0
+Campus O campus 0 1 0 0 0 0 1 1 8 li ul  15 0
+Tours O tours 0 0 0 0 0 0 1 0 6 li ul  15 0
+and O and 0 1 0 0 0 0 0 0 10 li ul  15 0
+Information O information 0 1 0 0 0 0 1 0 8 li ul  15 0
+Sessions O sessions 0 1 0 0 0 0 1 2 4 li ul  15 0
 
-Campus O campus 0 1 0 0 0 0 1 li ul  15 0
-Tours O tours 0 0 0 0 0 0 1 li ul  15 0
-and O and 0 1 0 0 0 0 0 li ul  15 0
-Information O information 0 1 0 0 0 0 1 li ul  15 0
-Sessions O sessions 0 1 0 0 0 0 1 li ul  15 0
+Open O open 0 0 0 0 0 0 1 0 7 li ul  15 0
+Houses O houses 0 0 0 0 0 0 1 0 3 li ul  15 0
 
-Open O open 0 0 0 0 0 0 1 li ul  15 0
-Houses O houses 0 0 0 0 0 0 1 li ul  15 0
+U.S. O u.s. 0 0 0 0 0 0 1 0 0 li ul  15 0
+Events O events 0 0 0 0 0 0 1 0 6 li ul  15 0
 
-U.S. O u.s. 0 0 0 0 0 0 1 li ul  15 0
-Events O events 0 0 0 0 0 0 1 li ul  15 0
+International O international 0 0 0 0 0 0 1 0 8 li ul  15 0
+Events O events 0 0 0 0 0 0 1 0 6 li ul  15 0
 
-International O international 0 0 0 0 0 0 1 li ul  15 0
-Events O events 0 0 0 0 0 0 1 li ul  15 0
+LA O la 0 0 0 0 0 0 1 0 11 li ul  15 0
+National O national 0 0 0 0 0 0 1 0 7 li ul  15 0
+Portfolio O portfolio 0 0 0 0 0 0 1 0 4 li ul  15 0
+Day O day 0 1 0 0 0 0 1 5 6 li ul  15 0
+2017 O 2017 0 0 0 1 0 0 0 0 0 li ul  15 0
 
-LA O la 0 0 0 0 0 0 1 li ul  15 0
-National O national 0 0 0 0 0 0 1 li ul  15 0
-Portfolio O portfolio 0 0 0 0 0 0 1 li ul  15 0
-Day O day 0 1 0 0 0 0 1 li ul  15 0
-2017 O 2017 0 0 0 1 0 0 0 li ul  15 0
+Shortcuts O shortcuts 0 0 0 0 0 0 1 0 3 a li is-parent 14 0
 
-Shortcuts O shortcuts 0 0 0 0 0 0 1 a li is-parent 14 0
+Admissions O admissions 0 0 0 0 0 0 1 0 7 a li level-3-item 16 0
+FAQ O faq 0 0 0 0 0 0 1 0 5 a li level-3-item 16 0
 
-Admissions O admissions 0 0 0 0 0 0 1 a li level-3-item 16 0
-FAQ O faq 0 0 0 0 0 0 1 a li level-3-item 16 0
+VIP O vip 0 0 0 0 0 0 1 0 2 a li level-3-item 16 0
+Page O page 0 1 0 0 0 0 1 5 9 a li level-3-item 16 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 a li level-3-item 16 0
+login O login 0 0 0 0 0 0 0 0 6 a li level-3-item 16 0
+required O required 0 0 0 0 0 0 0 0 5 a li level-3-item 16 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 a li level-3-item 16 0
 
-VIP O vip 0 0 0 0 0 0 1 a li level-3-item 16 0
-Page O page 0 1 0 0 0 0 1 a li level-3-item 16 0
-( O ( 0 0 0 0 0 0 0 a li level-3-item 16 0
-login O login 0 0 0 0 0 0 0 a li level-3-item 16 0
-required O required 0 0 0 0 0 0 0 a li level-3-item 16 0
-) O ) 0 0 0 0 0 0 0 a li level-3-item 16 0
+Meet O meet 0 0 0 0 0 0 1 0 6 a li level-3-item 16 0
+Our O our 0 0 0 0 0 0 1 0 8 a li level-3-item 16 0
+Counselors O counselors 0 0 0 0 0 0 1 0 2 a li level-3-item 16 0
 
-Meet O meet 0 0 0 0 0 0 1 a li level-3-item 16 0
-Our O our 0 0 0 0 0 0 1 a li level-3-item 16 0
-Counselors O counselors 0 0 0 0 0 0 1 a li level-3-item 16 0
+Tuition O tuition 0 0 0 0 0 0 1 0 6 a li nav-item-wrapper 12 0
+and O and 0 1 0 0 0 0 0 0 10 a li nav-item-wrapper 12 0
+Financial O financial 0 0 0 0 0 0 1 0 7 a li nav-item-wrapper 12 0
+Aid O aid 0 1 0 0 0 0 1 1 7 a li nav-item-wrapper 12 0
 
-Tuition O tuition 0 0 0 0 0 0 1 a li nav-item-wrapper 12 0
-and O and 0 1 0 0 0 0 0 a li nav-item-wrapper 12 0
-Financial O financial 0 0 0 0 0 0 1 a li nav-item-wrapper 12 0
-Aid O aid 0 1 0 0 0 0 1 a li nav-item-wrapper 12 0
+Tuition O tuition 0 0 0 0 0 0 1 0 6 a li is-parent 14 0
+and O and 0 1 0 0 0 0 0 0 10 a li is-parent 14 0
+Fees O fees 0 0 0 0 0 0 1 0 6 a li is-parent 14 0
 
-Tuition O tuition 0 0 0 0 0 0 1 a li is-parent 14 0
-and O and 0 1 0 0 0 0 0 a li is-parent 14 0
-Fees O fees 0 0 0 0 0 0 1 a li is-parent 14 0
+Overview O overview 0 0 0 0 0 0 1 0 5 li ul hidden-lg 15 0
 
-Overview O overview 0 0 0 0 0 0 1 li ul hidden-lg 15 0
+Tuition O tuition 0 0 0 0 0 0 1 0 6 li ul  15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul  15 0
+Fees O fees 0 0 0 0 0 0 1 0 6 li ul  15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul  15 0
+Estimated O estimated 0 0 0 0 0 0 1 0 3 li ul  15 0
+Expenses O expenses 0 0 0 0 0 0 1 0 3 li ul  15 0
 
-Tuition O tuition 0 0 0 0 0 0 1 li ul  15 0
-, O , 0 0 0 0 0 0 0 li ul  15 0
-Fees O fees 0 0 0 0 0 0 1 li ul  15 0
-, O , 0 0 0 0 0 0 0 li ul  15 0
-Estimated O estimated 0 0 0 0 0 0 1 li ul  15 0
-Expenses O expenses 0 0 0 0 0 0 1 li ul  15 0
+Housing O housing 0 0 0 0 0 0 1 0 5 li ul  15 0
+Costs O costs 0 0 0 0 0 0 1 0 3 li ul  15 0
 
-Housing O housing 0 0 0 0 0 0 1 li ul  15 0
-Costs O costs 0 0 0 0 0 0 1 li ul  15 0
+Health O health 0 1 0 0 0 0 1 0 7 li ul  15 0
+Insurance O insurance 0 0 0 0 0 0 1 0 3 li ul  15 0
 
-Health O health 0 1 0 0 0 0 1 li ul  15 0
-Insurance O insurance 0 0 0 0 0 0 1 li ul  15 0
+Meal O meal 0 0 0 0 0 0 1 0 4 li ul  15 0
+Plan O plan 0 1 0 0 0 0 1 1 6 li ul  15 0
 
-Meal O meal 0 0 0 0 0 0 1 li ul  15 0
-Plan O plan 0 1 0 0 0 0 1 li ul  15 0
+Net O net 0 1 0 0 0 0 1 1 6 li ul  15 0
+Price O price 0 1 0 0 0 0 1 6 4 li ul  15 0
+Calculator O calculator 0 0 0 0 0 0 1 0 4 li ul  15 0
 
-Net O net 0 1 0 0 0 0 1 li ul  15 0
-Price O price 0 1 0 0 0 0 1 li ul  15 0
-Calculator O calculator 0 0 0 0 0 0 1 li ul  15 0
+Financial O financial 0 0 0 0 0 0 1 0 7 a li is-parent 14 0
+Aid O aid 0 1 0 0 0 0 1 1 7 a li is-parent 14 0
 
-Financial O financial 0 0 0 0 0 0 1 a li is-parent 14 0
-Aid O aid 0 1 0 0 0 0 1 a li is-parent 14 0
+Overview O overview 0 0 0 0 0 0 1 0 5 li ul hidden-lg 15 0
 
-Overview O overview 0 0 0 0 0 0 1 li ul hidden-lg 15 0
+Domestic O domestic 0 0 0 0 0 0 1 0 4 li ul  15 0
+Students O students 0 0 0 0 0 0 1 0 8 li ul  15 0
 
-Domestic O domestic 0 0 0 0 0 0 1 li ul  15 0
-Students O students 0 0 0 0 0 0 1 li ul  15 0
+International O international 0 0 0 0 0 0 1 0 8 li ul  15 0
+Students O students 0 0 0 0 0 0 1 0 8 li ul  15 0
 
-International O international 0 0 0 0 0 0 1 li ul  15 0
-Students O students 0 0 0 0 0 0 1 li ul  15 0
+Types O types 0 0 0 0 0 0 1 0 6 li ul  15 0
+of O of 0 1 0 0 0 0 0 2 10 li ul  15 0
+Financial O financial 0 0 0 0 0 0 1 0 7 li ul  15 0
+Aid O aid 0 1 0 0 0 0 1 1 7 li ul  15 0
 
-Types O types 0 0 0 0 0 0 1 li ul  15 0
-of O of 0 1 0 0 0 0 0 li ul  15 0
-Financial O financial 0 0 0 0 0 0 1 li ul  15 0
-Aid O aid 0 1 0 0 0 0 1 li ul  15 0
+Resources O resources 0 0 0 0 0 0 1 0 7 li ul  15 0
 
-Resources O resources 0 0 0 0 0 0 1 li ul  15 0
+Payment O payment 0 1 0 0 0 0 1 0 5 a li is-parent 14 0
+and O and 0 1 0 0 0 0 0 0 10 a li is-parent 14 0
+Student O student 0 1 0 0 0 0 1 1 8 a li is-parent 14 0
+Accounts O accounts 0 0 0 0 0 0 1 0 5 a li is-parent 14 0
 
-Payment O payment 0 1 0 0 0 0 1 a li is-parent 14 0
-and O and 0 1 0 0 0 0 0 a li is-parent 14 0
-Student O student 0 1 0 0 0 0 1 a li is-parent 14 0
-Accounts O accounts 0 0 0 0 0 0 1 a li is-parent 14 0
+Overview O overview 0 0 0 0 0 0 1 0 5 li ul hidden-lg 15 0
 
-Overview O overview 0 0 0 0 0 0 1 li ul hidden-lg 15 0
+How O how 0 1 0 0 0 0 1 4 7 li ul  15 0
+to O to 0 1 0 0 0 0 0 0 10 li ul  15 0
+Pay O pay 0 1 0 0 0 0 1 2 4 li ul  15 0
+Tuition O tuition 0 0 0 0 0 0 1 0 6 li ul  15 0
 
-How O how 0 1 0 0 0 0 1 li ul  15 0
-to O to 0 0 0 0 0 0 0 li ul  15 0
-Pay O pay 0 1 0 0 0 0 1 li ul  15 0
-Tuition O tuition 0 0 0 0 0 0 1 li ul  15 0
+Payment O payment 0 1 0 0 0 0 1 0 5 li ul  15 0
+Deadlines O deadlines 0 0 0 0 0 0 1 0 0 li ul  15 0
 
-Payment O payment 0 1 0 0 0 0 1 li ul  15 0
-Deadlines O deadlines 0 0 0 0 0 0 1 li ul  15 0
+Payment O payment 0 1 0 0 0 0 1 0 5 li ul  15 0
+Options O options 0 0 0 0 0 0 1 0 6 li ul  15 0
 
-Payment O payment 0 1 0 0 0 0 1 li ul  15 0
-Options O options 0 0 0 0 0 0 1 li ul  15 0
+Access O access 0 1 0 0 0 0 1 0 6 li ul  15 0
+Tuition O tuition 0 0 0 0 0 0 1 0 6 li ul  15 0
+Statement O statement 0 0 0 0 0 0 1 0 6 li ul  15 0
 
-Access O access 0 1 0 0 0 0 1 li ul  15 0
-Tuition O tuition 0 0 0 0 0 0 1 li ul  15 0
-Statement O statement 0 0 0 0 0 0 1 li ul  15 0
+Registration O registration 0 0 0 0 0 0 1 0 5 li ul  15 0
+Forms O forms 0 0 0 0 0 0 1 0 6 li ul  15 0
 
-Registration O registration 0 0 0 0 0 0 1 li ul  15 0
-Forms O forms 0 0 0 0 0 0 1 li ul  15 0
+Life O life 0 1 0 0 0 0 1 1 7 a li nav-item-wrapper 12 0
+at O at 0 1 0 0 0 0 0 0 8 a li nav-item-wrapper 12 0
+CalArts O calarts 0 0 0 0 0 0 1 0 0 a li nav-item-wrapper 12 0
 
-Life O life 0 1 0 0 0 0 1 a li nav-item-wrapper 12 0
-at O at 0 0 0 0 0 0 0 a li nav-item-wrapper 12 0
-CalArts O calarts 0 0 0 0 0 0 1 a li nav-item-wrapper 12 0
+Campus O campus 0 1 0 0 0 0 1 1 8 a li is-parent 14 0
+Life O life 0 1 0 0 0 0 1 1 7 a li is-parent 14 0
 
-Campus O campus 0 1 0 0 0 0 1 a li is-parent 14 0
-Life O life 0 1 0 0 0 0 1 a li is-parent 14 0
+Overview O overview 0 0 0 0 0 0 1 0 5 li ul hidden-lg 15 0
 
-Overview O overview 0 0 0 0 0 0 1 li ul hidden-lg 15 0
+Residence O residence 0 0 0 0 0 0 1 0 5 li ul  15 0
+Life O life 0 1 0 0 0 0 1 1 7 li ul  15 0
 
-Residence O residence 0 0 0 0 0 0 1 li ul  15 0
-Life O life 0 1 0 0 0 0 1 li ul  15 0
+Dining O dining 0 0 0 0 0 0 1 0 4 li ul  15 0
+Options O options 0 0 0 0 0 0 1 0 6 li ul  15 0
 
-Dining O dining 0 0 0 0 0 0 1 li ul  15 0
-Options O options 0 0 0 0 0 0 1 li ul  15 0
+Students’ O students’ 0 0 0 0 0 0 1 0 0 li ul  15 0
+Union O union 0 0 0 0 0 0 1 0 7 li ul  15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul  15 0
+Clubs O clubs 0 0 0 0 0 0 1 0 6 li ul  15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul  15 0
+Organizations O organizations 0 0 0 0 0 0 1 0 5 li ul  15 0
 
-Students’ O students’ 0 0 0 0 0 0 1 li ul  15 0
-Union O union 0 0 0 0 0 0 1 li ul  15 0
-, O , 0 0 0 0 0 0 0 li ul  15 0
-Clubs O clubs 0 0 0 0 0 0 1 li ul  15 0
-, O , 0 0 0 0 0 0 0 li ul  15 0
-Organizations O organizations 0 0 0 0 0 0 1 li ul  15 0
+Campus O campus 0 1 0 0 0 0 1 1 8 li ul  15 0
+Maps O maps 0 0 0 0 0 0 1 0 6 li ul  15 0
 
-Campus O campus 0 1 0 0 0 0 1 li ul  15 0
-Maps O maps 0 0 0 0 0 0 1 li ul  15 0
+Parking O parking 0 0 0 0 0 0 1 0 6 li ul  15 0
 
-Parking O parking 0 0 0 0 0 0 1 li ul  15 0
+Support O support 0 0 0 0 0 0 1 0 7 a li is-parent 14 0
+and O and 0 1 0 0 0 0 0 0 10 a li is-parent 14 0
+Advocacy O advocacy 0 0 0 0 0 0 1 0 2 a li is-parent 14 0
 
-Support O support 0 0 0 0 0 0 1 a li is-parent 14 0
-and O and 0 1 0 0 0 0 0 a li is-parent 14 0
-Advocacy O advocacy 0 0 0 0 0 0 1 a li is-parent 14 0
+Office O office 0 0 0 0 0 0 1 0 7 li ul hidden-lg 15 0
+of O of 0 1 0 0 0 0 0 2 10 li ul hidden-lg 15 0
+Student O student 0 1 0 0 0 0 1 1 8 li ul hidden-lg 15 0
+Affairs O affairs 0 0 0 0 0 0 1 0 5 li ul hidden-lg 15 0
 
-Office O office 0 0 0 0 0 0 1 li ul hidden-lg 15 0
-of O of 0 1 0 0 0 0 0 li ul hidden-lg 15 0
-Student O student 0 1 0 0 0 0 1 li ul hidden-lg 15 0
-Affairs O affairs 0 0 0 0 0 0 1 li ul hidden-lg 15 0
+Health O health 0 1 0 0 0 0 1 0 7 li ul  15 0
+and O and 0 1 0 0 0 0 0 0 10 li ul  15 0
+Wellness O wellness 0 0 0 0 0 0 1 0 6 li ul  15 0
 
-Health O health 0 1 0 0 0 0 1 li ul  15 0
-and O and 0 1 0 0 0 0 0 li ul  15 0
-Wellness O wellness 0 0 0 0 0 0 1 li ul  15 0
+Disability O disability 0 0 0 0 0 0 1 0 5 li ul  15 0
+Services O services 0 0 0 0 0 0 1 0 8 li ul  15 0
 
-Disability O disability 0 0 0 0 0 0 1 li ul  15 0
-Services O services 0 0 0 0 0 0 1 li ul  15 0
+Academic O academic 0 0 0 0 0 0 1 0 8 li ul  15 0
+Support O support 0 0 0 0 0 0 1 0 7 li ul  15 0
 
-Academic O academic 0 0 0 0 0 0 1 li ul  15 0
-Support O support 0 0 0 0 0 0 1 li ul  15 0
+International O international 0 0 0 0 0 0 1 0 8 li ul  15 0
+Student O student 0 1 0 0 0 0 1 1 8 li ul  15 0
+Support O support 0 0 0 0 0 0 1 0 7 li ul  15 0
 
-International O international 0 0 0 0 0 0 1 li ul  15 0
-Student O student 0 1 0 0 0 0 1 li ul  15 0
-Support O support 0 0 0 0 0 0 1 li ul  15 0
+Equity O equity 0 0 0 0 0 0 1 0 4 li ul  15 0
+and O and 0 1 0 0 0 0 0 0 10 li ul  15 0
+Diversity O diversity 0 0 0 0 0 0 1 0 4 li ul  15 0
 
-Equity O equity 0 0 0 0 0 0 1 li ul  15 0
-and O and 0 1 0 0 0 0 0 li ul  15 0
-Diversity O diversity 0 0 0 0 0 0 1 li ul  15 0
+Sexual O sexual 0 0 0 0 0 0 1 0 5 li ul  15 0
+Respect O respect 0 0 0 0 0 0 1 0 5 li ul  15 0
 
-Sexual O sexual 0 0 0 0 0 0 1 li ul  15 0
-Respect O respect 0 0 0 0 0 0 1 li ul  15 0
+Career O career 0 0 0 0 0 0 1 0 8 a li is-parent 14 0
+Services O services 0 0 0 0 0 0 1 0 8 a li is-parent 14 0
 
-Career O career 0 0 0 0 0 0 1 a li is-parent 14 0
-Services O services 0 0 0 0 0 0 1 a li is-parent 14 0
+About O about 0 0 0 0 0 0 1 0 8 li ul hidden-lg 15 0
 
-About O about 0 0 0 0 0 0 1 li ul hidden-lg 15 0
+Resources O resources 0 0 0 0 0 0 1 0 7 li ul  15 0
 
-Resources O resources 0 0 0 0 0 0 1 li ul  15 0
+Job O job 0 1 0 0 0 0 1 4 5 li ul  15 0
+Search O search 0 0 0 0 0 0 1 0 7 li ul  15 0
 
-Job O job 0 1 0 0 0 0 1 li ul  15 0
-Search O search 0 0 0 0 0 0 1 li ul  15 0
+Entrepreneurship O entrepreneurship 0 0 0 0 0 0 1 0 2 li ul  15 0
 
-Entrepreneurship O entrepreneurship 0 0 0 0 0 0 1 li ul  15 0
+Hire O hire 0 0 0 0 0 0 1 0 1 li ul  15 0
+CalArtians O calartians 0 0 0 0 0 0 1 0 0 li ul  15 0
 
-Hire O hire 0 0 0 0 0 0 1 li ul  15 0
-CalArtians O calartians 0 0 0 0 0 0 1 li ul  15 0
+Gateway O gateway 0 1 0 0 0 0 1 0 3 a li is-parent 14 0
+Programs O programs 0 0 0 0 0 0 1 0 8 a li is-parent 14 0
 
-Gateway O gateway 0 1 0 0 0 0 1 a li is-parent 14 0
-Programs O programs 0 0 0 0 0 0 1 a li is-parent 14 0
+Overview O overview 0 0 0 0 0 0 1 0 5 li ul hidden-lg 15 0
 
-Overview O overview 0 0 0 0 0 0 1 li ul hidden-lg 15 0
+Music O music 0 1 0 0 1 0 1 2 8 li ul  15 0
 
-Music O music 0 1 0 0 1 0 1 li ul  15 0
+Experience O experience 0 0 0 0 0 0 1 0 6 li ul  15 0
+LA O la 0 0 0 0 0 0 1 0 11 li ul  15 0
 
-Experience O experience 0 0 0 0 0 0 1 li ul  15 0
-LA O la 0 0 0 0 0 0 1 li ul  15 0
+Shortcuts O shortcuts 0 0 0 0 0 0 1 0 3 a li is-parent 14 0
 
-Shortcuts O shortcuts 0 0 0 0 0 0 1 a li is-parent 14 0
+Campus O campus 0 1 0 0 0 0 1 1 8 a li level-3-item 16 0
+Safety O safety 0 0 0 0 0 0 1 0 6 a li level-3-item 16 0
 
-Campus O campus 0 1 0 0 0 0 1 a li level-3-item 16 0
-Safety O safety 0 0 0 0 0 0 1 a li level-3-item 16 0
+New O new 0 1 0 0 0 0 1 3 8 a li level-3-item 16 0
+Student O student 0 1 0 0 0 0 1 1 8 a li level-3-item 16 0
+Orientation O orientation 0 0 0 0 0 0 1 0 6 a li level-3-item 16 0
 
-New O new 0 1 0 0 0 0 1 a li level-3-item 16 0
-Student O student 0 1 0 0 0 0 1 a li level-3-item 16 0
-Orientation O orientation 0 0 0 0 0 0 1 a li level-3-item 16 0
+About O about 0 0 0 0 0 0 1 0 8 a li nav-item-wrapper 12 0
 
-About O about 0 0 0 0 0 0 1 a li nav-item-wrapper 12 0
+Institute O institute 0 0 0 0 0 0 1 0 6 a li is-parent 14 0
 
-Institute O institute 0 0 0 0 0 0 1 a li is-parent 14 0
+About O about 0 0 0 0 0 0 1 0 8 li ul hidden-lg 15 0
 
-About O about 0 0 0 0 0 0 1 li ul hidden-lg 15 0
+Mission O mission 0 1 0 0 1 0 1 1 7 li ul  15 0
+and O and 0 1 0 0 0 0 0 0 10 li ul  15 0
+Governance O governance 0 0 0 0 0 0 1 0 5 li ul  15 0
 
-Mission O mission 0 1 0 0 1 0 1 li ul  15 0
-and O and 0 1 0 0 0 0 0 li ul  15 0
-Governance O governance 0 0 0 0 0 0 1 li ul  15 0
+History O history 0 0 0 0 0 0 1 0 7 li ul  15 0
 
-History O history 0 0 0 0 0 0 1 li ul  15 0
+Facts O facts 0 0 0 0 0 0 1 0 5 li ul  15 0
+and O and 0 1 0 0 0 0 0 0 10 li ul  15 0
+Figures O figures 0 0 0 0 0 0 1 0 4 li ul  15 0
 
-Facts O facts 0 0 0 0 0 0 1 li ul  15 0
-and O and 0 1 0 0 0 0 0 li ul  15 0
-Figures O figures 0 0 0 0 0 0 1 li ul  15 0
+Nondiscrimination O nondiscrimination 0 0 0 0 0 0 1 0 0 li ul  15 0
+Policy O policy 0 0 0 0 0 0 1 0 6 li ul  15 0
 
-Nondiscrimination O nondiscrimination 0 0 0 0 0 0 1 li ul  15 0
-Policy O policy 0 0 0 0 0 0 1 li ul  15 0
+Accreditation O accreditation 0 0 0 0 0 0 1 0 3 li ul  15 0
 
-Accreditation O accreditation 0 0 0 0 0 0 1 li ul  15 0
+Consumer O consumer 0 0 0 0 0 0 1 0 3 li ul  15 0
+Information O information 0 1 0 0 0 0 1 0 8 li ul  15 0
 
-Consumer O consumer 0 0 0 0 0 0 1 li ul  15 0
-Information O information 0 1 0 0 0 0 1 li ul  15 0
+Giving O giving 0 0 0 0 0 0 1 0 4 a li is-parent 14 0
+to O to 0 1 0 0 0 0 0 0 10 a li is-parent 14 0
+CalArts O calarts 0 0 0 0 0 0 1 0 0 a li is-parent 14 0
 
-Giving O giving 0 0 0 0 0 0 1 a li is-parent 14 0
-to O to 0 0 0 0 0 0 0 a li is-parent 14 0
-CalArts O calarts 0 0 0 0 0 0 1 a li is-parent 14 0
+Overview O overview 0 0 0 0 0 0 1 0 5 li ul hidden-lg 15 0
 
-Overview O overview 0 0 0 0 0 0 1 li ul hidden-lg 15 0
+How O how 0 1 0 0 0 0 1 4 7 li ul  15 0
+to O to 0 1 0 0 0 0 0 0 10 li ul  15 0
+Give O give 0 0 0 0 0 0 1 0 5 li ul  15 0
 
-How O how 0 1 0 0 0 0 1 li ul  15 0
-to O to 0 0 0 0 0 0 0 li ul  15 0
-Give O give 0 0 0 0 0 0 1 li ul  15 0
+CalArts O calarts 0 0 0 0 0 0 1 0 0 li ul  15 0
+Fund O fund 0 1 0 0 0 0 1 1 4 li ul  15 0
 
-CalArts O calarts 0 0 0 0 0 0 1 li ul  15 0
-Fund O fund 0 1 0 0 0 0 1 li ul  15 0
+Friends O friends 0 0 0 0 0 0 1 0 4 li ul  15 0
+of O of 0 1 0 0 0 0 0 2 10 li ul  15 0
+CalArts O calarts 0 0 0 0 0 0 1 0 0 li ul  15 0
 
-Friends O friends 0 0 0 0 0 0 1 li ul  15 0
-of O of 0 1 0 0 0 0 0 li ul  15 0
-CalArts O calarts 0 0 0 0 0 0 1 li ul  15 0
+Top O top 0 1 0 0 0 0 1 2 6 li ul  15 0
+Giving O giving 0 0 0 0 0 0 1 0 4 li ul  15 0
+Opportunities O opportunities 0 0 0 0 0 0 1 0 6 li ul  15 0
 
-Top O top 0 1 0 0 0 0 1 li ul  15 0
-Giving O giving 0 0 0 0 0 0 1 li ul  15 0
-Opportunities O opportunities 0 0 0 0 0 0 1 li ul  15 0
+Institute O institute 0 0 0 0 0 0 1 0 6 li ul  15 0
+Partners O partners 0 1 0 0 0 0 1 0 6 li ul  15 0
 
-Institute O institute 0 0 0 0 0 0 1 li ul  15 0
-Partners O partners 0 1 0 0 0 0 1 li ul  15 0
+Planned O planned 0 0 0 0 0 0 1 0 4 li ul  15 0
+Giving O giving 0 0 0 0 0 0 1 0 4 li ul  15 0
 
-Planned O planned 0 0 0 0 0 0 1 li ul  15 0
-Giving O giving 0 0 0 0 0 0 1 li ul  15 0
+Advancement O advancement 0 0 0 0 0 0 1 0 4 li ul  15 0
+Staff O staff 0 1 0 0 0 0 1 2 7 li ul  15 0
 
-Advancement O advancement 0 0 0 0 0 0 1 li ul  15 0
-Staff O staff 0 1 0 0 0 0 1 li ul  15 0
+Alumni O alumni 0 0 0 0 0 0 1 0 7 a li is-parent 14 0
 
-Alumni O alumni 0 0 0 0 0 0 1 a li is-parent 14 0
+Welcome O welcome 0 1 0 0 0 0 1 2 6 li ul hidden-lg 15 0
 
-Welcome O welcome 0 1 0 0 0 0 1 li ul hidden-lg 15 0
+Alumni O alumni 0 0 0 0 0 0 1 0 7 li ul  15 0
+Council O council 0 1 0 0 0 0 1 0 5 li ul  15 0
 
-Alumni O alumni 0 0 0 0 0 0 1 li ul  15 0
-Council O council 0 1 0 0 0 0 1 li ul  15 0
+Alumni O alumni 0 0 0 0 0 0 1 0 7 li ul  15 0
+Events O events 0 0 0 0 0 0 1 0 6 li ul  15 0
 
-Alumni O alumni 0 0 0 0 0 0 1 li ul  15 0
-Events O events 0 0 0 0 0 0 1 li ul  15 0
+Benefits O benefits 0 0 0 0 0 0 1 0 5 li ul  15 0
+and O and 0 1 0 0 0 0 0 0 10 li ul  15 0
+Resources O resources 0 0 0 0 0 0 1 0 7 li ul  15 0
 
-Benefits O benefits 0 0 0 0 0 0 1 li ul  15 0
-and O and 0 1 0 0 0 0 0 li ul  15 0
-Resources O resources 0 0 0 0 0 0 1 li ul  15 0
+CalArts O calarts 0 0 0 0 0 0 1 0 0 li ul  15 0
+Weekend O weekend 0 0 0 0 0 0 1 0 5 li ul  15 0
 
-CalArts O calarts 0 0 0 0 0 0 1 li ul  15 0
-Weekend O weekend 0 0 0 0 0 0 1 li ul  15 0
+Support O support 0 0 0 0 0 0 1 0 7 li ul  15 0
+CalArts O calarts 0 0 0 0 0 0 1 0 0 li ul  15 0
 
-Support O support 0 0 0 0 0 0 1 li ul  15 0
-CalArts O calarts 0 0 0 0 0 0 1 li ul  15 0
+Contact O contact 0 0 0 0 0 0 1 0 8 li ul  15 0
+Us O us 0 1 0 0 0 0 1 1 8 li ul  15 0
 
-Contact O contact 0 0 0 0 0 0 1 li ul  15 0
-Us O us 0 1 0 0 0 0 1 li ul  15 0
+News O news 0 0 0 0 0 0 1 0 7 a li is-parent 14 0
+and O and 0 1 0 0 0 0 0 0 10 a li is-parent 14 0
+Events O events 0 0 0 0 0 0 1 0 6 a li is-parent 14 0
 
-News O news 0 0 0 0 0 0 1 a li is-parent 14 0
-and O and 0 1 0 0 0 0 0 a li is-parent 14 0
-Events O events 0 0 0 0 0 0 1 a li is-parent 14 0
+Newsroom O newsroom 0 0 0 0 0 0 1 0 1 li ul section-landing 15 0
 
-Newsroom O newsroom 0 0 0 0 0 0 1 li ul section-landing 15 0
+Events O events 0 0 0 0 0 0 1 0 6 li ul  15 0
+Calendar O calendar 0 0 0 0 0 0 1 0 6 li ul  15 0
 
-Events O events 0 0 0 0 0 0 1 li ul  15 0
-Calendar O calendar 0 0 0 0 0 0 1 li ul  15 0
+Publications O publications 0 0 0 0 0 0 1 0 6 li ul  15 0
 
-Publications O publications 0 0 0 0 0 0 1 li ul  15 0
+Press O press 0 1 0 0 0 0 1 3 7 li ul  15 0
+Kit O kit 0 1 0 0 0 0 1 5 3 li ul  15 0
 
-Press O press 0 1 0 0 0 0 1 li ul  15 0
-Kit O kit 0 1 0 0 0 0 1 li ul  15 0
+Visit O visit 0 1 0 0 0 0 1 1 6 a li  14 0
 
-Visit O visit 0 1 0 0 0 0 1 a li  14 0
+CalArts O calarts 0 0 0 0 0 0 1 0 0 li ul nav-item-description 15 0
+is O is 0 0 0 0 0 0 0 0 9 li ul nav-item-description 15 0
+located O located 0 0 0 0 0 0 0 0 3 li ul nav-item-description 15 0
+in O in 0 1 0 0 0 0 0 3 10 li ul nav-item-description 15 0
+Santa O santa 0 1 0 0 0 0 1 4 5 li ul nav-item-description 15 0
+Clarita O clarita 0 1 0 0 0 0 1 1 0 li ul nav-item-description 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul nav-item-description 15 0
+Calif. O calif. 0 0 0 0 0 0 1 0 0 li ul nav-item-description 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul nav-item-description 15 0
+30 O 30 0 0 0 1 0 0 0 0 0 li ul nav-item-description 15 0
+miles O miles 0 0 0 0 0 0 0 0 3 li ul nav-item-description 15 0
+north O north 0 0 0 0 0 0 0 0 5 li ul nav-item-description 15 0
+of O of 0 1 0 0 0 0 0 2 10 li ul nav-item-description 15 0
+Los O los 0 1 0 0 0 0 1 3 7 li ul nav-item-description 15 0
+Angeles. O angeles. 0 0 0 0 0 0 1 0 0 li ul nav-item-description 15 0
+Explore O explore 0 0 0 0 0 0 1 0 5 li ul nav-item-description 15 0
+the O the 0 1 0 0 0 0 0 0 10 li ul nav-item-description 15 0
+local O local 0 0 0 0 0 0 0 0 7 li ul nav-item-description 15 0
+area O area 0 0 0 0 0 0 0 0 6 li ul nav-item-description 15 0
+and O and 0 1 0 0 0 0 0 0 10 li ul nav-item-description 15 0
+community. O community. 0 0 0 0 0 0 0 0 0 li ul nav-item-description 15 0
 
-CalArts O calarts 0 0 0 0 0 0 1 li ul nav-item-description 15 0
-is O is 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-located O located 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-in O in 0 1 0 0 0 0 0 li ul nav-item-description 15 0
-Santa O santa 0 1 0 0 0 0 1 li ul nav-item-description 15 0
-Clarita O clarita 0 1 0 0 0 0 1 li ul nav-item-description 15 0
-, O , 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-Calif. O calif. 0 0 0 0 0 0 1 li ul nav-item-description 15 0
-, O , 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-30 O 30 0 0 0 1 0 0 0 li ul nav-item-description 15 0
-miles O miles 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-north O north 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-of O of 0 1 0 0 0 0 0 li ul nav-item-description 15 0
-Los O los 0 1 0 0 0 0 1 li ul nav-item-description 15 0
-Angeles. O angeles. 0 0 0 0 0 0 1 li ul nav-item-description 15 0
-Explore O explore 0 0 0 0 0 0 1 li ul nav-item-description 15 0
-the O the 0 1 0 0 0 0 0 li ul nav-item-description 15 0
-local O local 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-area O area 0 0 0 0 0 0 0 li ul nav-item-description 15 0
-and O and 0 1 0 0 0 0 0 li ul nav-item-description 15 0
-community. O community. 0 0 0 0 0 0 0 li ul nav-item-description 15 0
+Extended O extended 0 0 0 0 0 0 1 0 3 a li nav-item-wrapper 12 0
+Studies O studies 0 0 0 0 0 0 1 0 6 a li nav-item-wrapper 12 0
 
-Extended O extended 0 0 0 0 0 0 1 a li nav-item-wrapper 12 0
-Studies O studies 0 0 0 0 0 0 1 a li nav-item-wrapper 12 0
+Offering O offering 0 0 0 0 0 0 1 0 3 div div extended-studies-blurb 15 0
+innovative O innovative 0 0 0 0 0 0 0 0 3 div div extended-studies-blurb 15 0
+continuing O continuing 0 0 0 0 0 0 0 0 4 div div extended-studies-blurb 15 0
+education O education 0 0 0 0 0 0 0 0 8 div div extended-studies-blurb 15 0
+arts O arts 0 0 0 0 0 0 0 0 7 div div extended-studies-blurb 15 0
+courses O courses 0 0 0 0 0 0 0 0 6 div div extended-studies-blurb 15 0
+designed O designed 0 0 0 0 0 0 0 0 6 div div extended-studies-blurb 15 0
+to O to 0 1 0 0 0 0 0 0 10 div div extended-studies-blurb 15 0
+meet O meet 0 0 0 0 0 0 0 0 6 div div extended-studies-blurb 15 0
+the O the 0 1 0 0 0 0 0 0 10 div div extended-studies-blurb 15 0
+needs O needs 0 0 0 0 0 0 0 0 5 div div extended-studies-blurb 15 0
+of O of 0 1 0 0 0 0 0 2 10 div div extended-studies-blurb 15 0
+both O both 0 0 0 0 0 0 0 0 6 div div extended-studies-blurb 15 0
+emerging O emerging 0 0 0 0 1 0 0 0 4 div div extended-studies-blurb 15 0
+artists O artists 0 0 0 0 0 0 0 0 3 div div extended-studies-blurb 15 0
+and O and 0 1 0 0 0 0 0 0 10 div div extended-studies-blurb 15 0
+lifelong O lifelong 0 0 0 0 0 0 0 0 1 div div extended-studies-blurb 15 0
+learners. O learners. 0 0 0 0 0 0 0 0 0 div div extended-studies-blurb 15 0
 
-Offering O offering 0 0 0 0 0 0 1 div div extended-studies-blurb 15 0
-innovative O innovative 0 0 0 0 0 0 0 div div extended-studies-blurb 15 0
-continuing O continuing 0 0 0 0 0 0 0 div div extended-studies-blurb 15 0
-education O education 0 0 0 0 0 0 0 div div extended-studies-blurb 15 0
-arts O arts 0 0 0 0 0 0 0 div div extended-studies-blurb 15 0
-courses O courses 0 0 0 0 0 0 0 div div extended-studies-blurb 15 0
-designed O designed 0 0 0 0 0 0 0 div div extended-studies-blurb 15 0
-to O to 0 0 0 0 0 0 0 div div extended-studies-blurb 15 0
-meet O meet 0 0 0 0 0 0 0 div div extended-studies-blurb 15 0
-the O the 0 1 0 0 0 0 0 div div extended-studies-blurb 15 0
-needs O needs 0 0 0 0 0 0 0 div div extended-studies-blurb 15 0
-of O of 0 1 0 0 0 0 0 div div extended-studies-blurb 15 0
-both O both 0 0 0 0 0 0 0 div div extended-studies-blurb 15 0
-emerging O emerging 0 0 0 0 1 0 0 div div extended-studies-blurb 15 0
-artists O artists 0 0 0 0 0 0 0 div div extended-studies-blurb 15 0
-and O and 0 1 0 0 0 0 0 div div extended-studies-blurb 15 0
-lifelong O lifelong 0 0 0 0 0 0 0 div div extended-studies-blurb 15 0
-learners. O learners. 0 0 0 0 0 0 0 div div extended-studies-blurb 15 0
+Visit O visit 0 1 0 0 0 0 1 1 6 p div extended-studies-link 16 0
+Extended O extended 0 0 0 0 0 0 1 0 3 p div extended-studies-link 16 0
+Studies O studies 0 0 0 0 0 0 1 0 6 p div extended-studies-link 16 0
 
-Visit O visit 0 1 0 0 0 0 1 p div extended-studies-link 16 0
-Extended O extended 0 0 0 0 0 0 1 p div extended-studies-link 16 0
-Studies O studies 0 0 0 0 0 0 1 p div extended-studies-link 16 0
+Schools O schools 0 0 0 0 0 0 1 0 6 div li is-parent 12 0
 
-Schools O schools 0 0 0 0 0 0 1 div li is-parent 12 0
+Art O art 0 1 0 0 0 0 1 4 7 li ul school-of-art 13 0
 
-Art O art 0 1 0 0 0 0 1 li ul school-of-art 13 0
+Critical O critical 0 0 0 0 0 0 1 0 3 li ul school-of-criticalstudies 13 0
+Studies O studies 0 0 0 0 0 0 1 0 6 li ul school-of-criticalstudies 13 0
 
-Critical O critical 0 0 0 0 0 0 1 li ul school-of-criticalstudies 13 0
-Studies O studies 0 0 0 0 0 0 1 li ul school-of-criticalstudies 13 0
+Dance O dance 0 1 0 0 0 0 1 2 6 li ul school-of-dance 13 0
 
-Dance O dance 0 1 0 0 0 0 1 li ul school-of-dance 13 0
+Film/Video O film/video 0 0 0 0 0 0 1 0 0 li ul school-of-filmvideo 13 0
 
-Film/Video O film/video 0 0 0 0 0 0 1 li ul school-of-filmvideo 13 0
+Music O music 0 1 0 0 1 0 1 2 8 li ul school-of-music 13 0
 
-Music O music 0 1 0 0 1 0 1 li ul school-of-music 13 0
+Theater O theater 0 0 0 0 0 0 1 0 5 li ul school-of-theater 13 0
 
-Theater O theater 0 0 0 0 0 0 1 li ul school-of-theater 13 0
+Request O request 0 0 0 0 0 0 1 0 6 a li width-wrapper 12 0
+Info O info 0 0 0 0 0 0 1 0 6 a li width-wrapper 12 0
 
-Request O request 0 0 0 0 0 0 1 a li width-wrapper 12 0
-Info O info 0 0 0 0 0 0 1 a li width-wrapper 12 0
+Apply O apply 0 0 0 0 0 0 1 0 7 a li width-wrapper 12 0
 
-Apply O apply 0 0 0 0 0 0 1 a li width-wrapper 12 0
+Give O give 0 0 0 0 0 0 1 0 5 a li width-wrapper 12 0
 
-Give O give 0 0 0 0 0 0 1 a li width-wrapper 12 0
+Directory O directory 0 0 0 0 0 0 1 0 6 h1 table section-title 19 0
 
-Directory O directory 0 0 0 0 0 0 1 h1 table section-title 19 0
+School O school 0 1 0 0 0 0 1 0 7 h2 section page-title 8 0
+of O of 0 1 0 0 0 0 0 2 10 h2 section page-title 8 0
+Art O art 0 1 0 0 0 0 1 4 7 h2 section page-title 8 0
 
-School O school 0 1 0 0 0 0 1 h2 section page-title 8 0
-of O of 0 1 0 0 0 0 0 h2 section page-title 8 0
-Art O art 0 1 0 0 0 0 1 h2 section page-title 8 0
+Everyone O everyone 0 0 0 0 0 0 1 0 6 a li  12 0
 
-Everyone O everyone 0 0 0 0 0 0 1 a li  12 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 a li active 12 0
 
-Faculty O faculty 0 0 0 0 0 0 1 a li active 12 0
+Administration O administration 0 0 0 0 0 0 1 0 7 a li  12 0
+and O and 0 1 0 0 0 0 0 0 10 a li  12 0
+Staff O staff 0 1 0 0 0 0 1 2 7 a li  12 0
 
-Administration O administration 0 0 0 0 0 0 1 a li  12 0
-and O and 0 1 0 0 0 0 0 a li  12 0
-Staff O staff 0 1 0 0 0 0 1 a li  12 0
+Printable O printable 0 0 0 0 0 0 1 0 6 p div btn-sm 16 0
+Version O version 0 0 0 0 0 0 1 0 8 p div btn-sm 16 0
 
-Printable O printable 0 0 0 0 0 0 1 p div btn-sm 16 0
-Version O version 0 0 0 0 0 0 1 p div btn-sm 16 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 main div sub-page-title 9 0
 
-Faculty O faculty 0 0 0 0 0 0 1 main div sub-page-title 9 0
+Filter O filter 0 1 0 0 0 0 1 1 3 select span edncf_directory-search-administrationoffices 22 0
+by O by 0 1 0 0 0 0 0 0 8 select span edncf_directory-search-administrationoffices 22 0
+Department O department 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-administrationoffices 22 0
 
-Filter O filter 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 0
-by O by 0 1 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 0
-Department O department 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 0
+Accounting O accounting 0 0 0 0 0 0 1 0 5 select span edncf_directory-search-administrationoffices 22 1
 
-Accounting O accounting 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 1
+Admissions O admissions 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-administrationoffices 22 2
 
-Admissions O admissions 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 2
+Advancement O advancement 0 0 0 0 0 0 1 0 4 select span edncf_directory-search-administrationoffices 22 3
 
-Advancement O advancement 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 3
+Alumni O alumni 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-administrationoffices 22 4
+& O & 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 4
+Parent O parent 0 1 0 0 0 0 1 4 4 select span edncf_directory-search-administrationoffices 22 4
+Engagement O engagement 0 0 0 0 0 0 1 0 6 select span edncf_directory-search-administrationoffices 22 4
 
-Alumni O alumni 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 4
-& O & 0 0 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 4
-Parent O parent 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 4
-Engagement O engagement 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 4
+Cafeteria O cafeteria 0 0 0 0 0 0 1 0 2 select span edncf_directory-search-administrationoffices 22 5
 
-Cafeteria O cafeteria 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 5
+Campus O campus 0 1 0 0 0 0 1 1 8 select span edncf_directory-search-administrationoffices 22 6
+Safety O safety 0 0 0 0 0 0 1 0 6 select span edncf_directory-search-administrationoffices 22 6
 
-Campus O campus 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 6
-Safety O safety 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 6
+Career O career 0 0 0 0 0 0 1 0 8 select span edncf_directory-search-administrationoffices 22 7
+Services O services 0 0 0 0 0 0 1 0 8 select span edncf_directory-search-administrationoffices 22 7
 
-Career O career 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 7
-Services O services 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 7
+Community O community 0 1 0 0 0 0 1 0 7 select span edncf_directory-search-administrationoffices 22 8
+Arts O arts 0 1 0 0 0 0 1 3 7 select span edncf_directory-search-administrationoffices 22 8
+Partnership O partnership 0 0 0 0 0 0 1 0 5 select span edncf_directory-search-administrationoffices 22 8
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 select span edncf_directory-search-administrationoffices 22 8
+CAP O cap 0 0 0 0 0 0 1 0 5 select span edncf_directory-search-administrationoffices 22 8
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 select span edncf_directory-search-administrationoffices 22 8
 
-Community O community 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 8
-Arts O arts 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 8
-Partnership O partnership 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 8
-( O ( 0 0 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 8
-CAP O cap 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 8
-) O ) 0 0 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 8
+Enrollment O enrollment 0 0 0 0 0 0 1 0 6 select span edncf_directory-search-administrationoffices 22 9
+Management O management 0 1 0 0 0 0 1 0 6 select span edncf_directory-search-administrationoffices 22 9
 
-Enrollment O enrollment 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 9
-Management O management 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 9
+Facilities O facilities 0 0 0 0 0 0 1 0 5 select span edncf_directory-search-administrationoffices 22 10
+Management O management 0 1 0 0 0 0 1 0 6 select span edncf_directory-search-administrationoffices 22 10
 
-Facilities O facilities 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 10
-Management O management 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 10
+Financial O financial 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-administrationoffices 22 11
+Aid O aid 0 1 0 0 0 0 1 1 7 select span edncf_directory-search-administrationoffices 22 11
 
-Financial O financial 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 11
-Aid O aid 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 11
+Health O health 0 1 0 0 0 0 1 0 7 select span edncf_directory-search-administrationoffices 22 12
+Services O services 0 0 0 0 0 0 1 0 8 select span edncf_directory-search-administrationoffices 22 12
 
-Health O health 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 12
-Services O services 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 12
+Human O human 0 1 0 0 0 0 1 2 5 select span edncf_directory-search-administrationoffices 22 13
+Resources O resources 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-administrationoffices 22 13
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 select span edncf_directory-search-administrationoffices 22 13
+HR O hr 0 0 0 0 0 0 1 0 4 select span edncf_directory-search-administrationoffices 22 13
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 select span edncf_directory-search-administrationoffices 22 13
 
-Human O human 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 13
-Resources O resources 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 13
-( O ( 0 0 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 13
-HR O hr 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 13
-) O ) 0 0 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 13
+Information O information 0 1 0 0 0 0 1 0 8 select span edncf_directory-search-administrationoffices 22 14
+Technology O technology 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-administrationoffices 22 14
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 select span edncf_directory-search-administrationoffices 22 14
+IT O it 0 0 0 0 0 0 1 0 8 select span edncf_directory-search-administrationoffices 22 14
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 select span edncf_directory-search-administrationoffices 22 14
 
-Information O information 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 14
-Technology O technology 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 14
-( O ( 0 0 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 14
-IT O it 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 14
-) O ) 0 0 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 14
+Library O library 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-administrationoffices 22 15
+and O and 0 1 0 0 0 0 0 0 10 select span edncf_directory-search-administrationoffices 22 15
+Information O information 0 1 0 0 0 0 1 0 8 select span edncf_directory-search-administrationoffices 22 15
+Resources O resources 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-administrationoffices 22 15
 
-Library O library 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 15
-and O and 0 1 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 15
-Information O information 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 15
-Resources O resources 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 15
+Mailroom/Service O mailroom/service 0 0 0 0 0 0 1 0 0 select span edncf_directory-search-administrationoffices 22 16
+Center O center 0 1 0 0 0 0 1 1 7 select span edncf_directory-search-administrationoffices 22 16
 
-Mailroom/Service O mailroom/service 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 16
-Center O center 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 16
+Office O office 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-administrationoffices 22 17
+of O of 0 1 0 0 0 0 0 2 10 select span edncf_directory-search-administrationoffices 22 17
+Communications O communications 0 0 0 0 0 0 1 0 5 select span edncf_directory-search-administrationoffices 22 17
 
-Office O office 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 17
-of O of 0 1 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 17
-Communications O communications 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 17
+Office O office 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-administrationoffices 22 18
+of O of 0 1 0 0 0 0 0 2 10 select span edncf_directory-search-administrationoffices 22 18
+Global O global 0 1 0 0 0 0 1 0 6 select span edncf_directory-search-administrationoffices 22 18
+Initiatives O initiatives 0 0 0 0 0 0 1 0 4 select span edncf_directory-search-administrationoffices 22 18
 
-Office O office 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 18
-of O of 0 1 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 18
-Global O global 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 18
-Initiatives O initiatives 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 18
+Offices O offices 0 0 0 0 0 0 1 0 4 select span edncf_directory-search-administrationoffices 22 19
+of O of 0 1 0 0 0 0 0 2 10 select span edncf_directory-search-administrationoffices 22 19
+International O international 0 0 0 0 0 0 1 0 8 select span edncf_directory-search-administrationoffices 22 19
+Relations O relations 0 0 0 0 0 0 1 0 6 select span edncf_directory-search-administrationoffices 22 19
 
-Offices O offices 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 19
-of O of 0 1 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 19
-International O international 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 19
-Relations O relations 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 19
+Office O office 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-administrationoffices 22 20
+of O of 0 1 0 0 0 0 0 2 10 select span edncf_directory-search-administrationoffices 22 20
+the O the 0 1 0 0 0 0 0 0 10 select span edncf_directory-search-administrationoffices 22 20
+President O president 0 1 0 0 0 0 1 1 8 select span edncf_directory-search-administrationoffices 22 20
 
-Office O office 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 20
-of O of 0 1 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 20
-the O the 0 1 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 20
-President O president 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 20
+Office O office 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-administrationoffices 22 21
+of O of 0 1 0 0 0 0 0 2 10 select span edncf_directory-search-administrationoffices 22 21
+the O the 0 1 0 0 0 0 0 0 10 select span edncf_directory-search-administrationoffices 22 21
+Provost O provost 0 1 0 0 0 0 1 3 3 select span edncf_directory-search-administrationoffices 22 21
 
-Office O office 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 21
-of O of 0 1 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 21
-the O the 0 1 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 21
-Provost O provost 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 21
+Office O office 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-administrationoffices 22 22
+of O of 0 1 0 0 0 0 0 2 10 select span edncf_directory-search-administrationoffices 22 22
+the O the 0 1 0 0 0 0 0 0 10 select span edncf_directory-search-administrationoffices 22 22
+VP O vp 0 0 0 0 0 0 1 0 3 select span edncf_directory-search-administrationoffices 22 22
+and O and 0 1 0 0 0 0 0 0 10 select span edncf_directory-search-administrationoffices 22 22
+Chief O chief 0 1 0 0 0 0 1 0 4 select span edncf_directory-search-administrationoffices 22 22
+Financial O financial 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-administrationoffices 22 22
+Officer O officer 0 0 0 0 0 0 1 0 4 select span edncf_directory-search-administrationoffices 22 22
 
-Office O office 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 22
-of O of 0 1 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 22
-the O the 0 1 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 22
-VP O vp 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 22
-and O and 0 1 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 22
-Chief O chief 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 22
-Financial O financial 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 22
-Officer O officer 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 22
+Office O office 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-administrationoffices 22 23
+of O of 0 1 0 0 0 0 0 2 10 select span edncf_directory-search-administrationoffices 22 23
+the O the 0 1 0 0 0 0 0 0 10 select span edncf_directory-search-administrationoffices 22 23
+VP O vp 0 0 0 0 0 0 1 0 3 select span edncf_directory-search-administrationoffices 22 23
+of O of 0 1 0 0 0 0 0 2 10 select span edncf_directory-search-administrationoffices 22 23
+Operations O operations 0 0 0 0 0 0 1 0 5 select span edncf_directory-search-administrationoffices 22 23
 
-Office O office 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 23
-of O of 0 1 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 23
-the O the 0 1 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 23
-VP O vp 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 23
-of O of 0 1 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 23
-Operations O operations 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 23
+Registrar O registrar 0 0 0 0 0 0 1 0 3 select span edncf_directory-search-administrationoffices 22 24
 
-Registrar O registrar 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 24
+Residence O residence 0 0 0 0 0 0 1 0 5 select span edncf_directory-search-administrationoffices 22 25
+Life O life 0 1 0 0 0 0 1 1 7 select span edncf_directory-search-administrationoffices 22 25
 
-Residence O residence 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 25
-Life O life 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 25
+Store O store 0 1 0 0 0 0 1 0 5 select span edncf_directory-search-administrationoffices 22 26
+& O & 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 26
+Tatum O tatum 0 1 0 0 0 0 1 2 2 select span edncf_directory-search-administrationoffices 22 26
+Lounge O lounge 0 0 0 0 0 0 1 0 0 select span edncf_directory-search-administrationoffices 22 26
 
-Store O store 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 26
-& O & 0 0 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 26
-Tatum O tatum 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 26
-Lounge O lounge 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 26
+Student O student 0 1 0 0 0 0 1 1 8 select span edncf_directory-search-administrationoffices 22 27
+Affairs O affairs 0 0 0 0 0 0 1 0 5 select span edncf_directory-search-administrationoffices 22 27
 
-Student O student 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 27
-Affairs O affairs 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 27
+Student O student 0 1 0 0 0 0 1 1 8 select span edncf_directory-search-administrationoffices 22 28
+Council O council 0 1 0 0 0 0 1 0 5 select span edncf_directory-search-administrationoffices 22 28
 
-Student O student 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 28
-Council O council 0 1 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 28
+Switchboard O switchboard 0 0 0 0 0 0 1 0 0 select span edncf_directory-search-administrationoffices 22 29
+& O & 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 29
+Reception O reception 0 0 0 0 0 0 1 0 4 select span edncf_directory-search-administrationoffices 22 29
 
-Switchboard O switchboard 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 29
-& O & 0 0 0 0 0 0 0 select span edncf_directory-search-administrationoffices 22 29
-Reception O reception 0 0 0 0 0 0 1 select span edncf_directory-search-administrationoffices 22 29
+Filter O filter 0 1 0 0 0 0 1 1 3 select span edncf_directory-search-artprograms 22 0
+by O by 0 1 0 0 0 0 0 0 8 select span edncf_directory-search-artprograms 22 0
+Program O program 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-artprograms 22 0
 
-Filter O filter 0 1 0 0 0 0 1 select span edncf_directory-search-artprograms 22 0
-by O by 0 1 0 0 0 0 0 select span edncf_directory-search-artprograms 22 0
-Program O program 0 0 0 0 0 0 1 select span edncf_directory-search-artprograms 22 0
+Art O art 0 1 0 0 0 0 1 4 7 select span edncf_directory-search-artprograms 22 1
 
-Art O art 0 1 0 0 0 0 1 select span edncf_directory-search-artprograms 22 1
+Art O art 0 1 0 0 0 0 1 4 7 select span edncf_directory-search-artprograms 22 2
+and O and 0 1 0 0 0 0 0 0 10 select span edncf_directory-search-artprograms 22 2
+Technology O technology 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-artprograms 22 2
 
-Art O art 0 1 0 0 0 0 1 select span edncf_directory-search-artprograms 22 2
-and O and 0 1 0 0 0 0 0 select span edncf_directory-search-artprograms 22 2
-Technology O technology 0 0 0 0 0 0 1 select span edncf_directory-search-artprograms 22 2
+Graphic O graphic 0 0 0 0 0 0 1 0 3 select span edncf_directory-search-artprograms 22 3
+Design O design 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-artprograms 22 3
 
-Graphic O graphic 0 0 0 0 0 0 1 select span edncf_directory-search-artprograms 22 3
-Design O design 0 0 0 0 0 0 1 select span edncf_directory-search-artprograms 22 3
+Motion O motion 0 0 0 0 0 0 1 0 5 select span edncf_directory-search-artprograms 22 4
+Graphics O graphics 0 0 0 0 0 0 1 0 4 select span edncf_directory-search-artprograms 22 4
 
-Motion O motion 0 0 0 0 0 0 1 select span edncf_directory-search-artprograms 22 4
-Graphics O graphics 0 0 0 0 0 0 1 select span edncf_directory-search-artprograms 22 4
+Photography O photography 0 0 0 0 0 0 1 0 5 select span edncf_directory-search-artprograms 22 5
+and O and 0 1 0 0 0 0 0 0 10 select span edncf_directory-search-artprograms 22 5
+Media O media 0 1 0 0 0 0 1 1 7 select span edncf_directory-search-artprograms 22 5
 
-Photography O photography 0 0 0 0 0 0 1 select span edncf_directory-search-artprograms 22 5
-and O and 0 1 0 0 0 0 0 select span edncf_directory-search-artprograms 22 5
-Media O media 0 1 0 0 0 0 1 select span edncf_directory-search-artprograms 22 5
+East O east 0 1 0 0 0 0 1 3 6 select span edncf_directory-search-artprograms 22 6
+of O of 0 1 0 0 0 0 0 2 10 select span edncf_directory-search-artprograms 22 6
+Borneo O borneo 0 1 0 0 0 0 1 0 2 select span edncf_directory-search-artprograms 22 6
 
-East O east 0 1 0 0 0 0 1 select span edncf_directory-search-artprograms 22 6
-of O of 0 1 0 0 0 0 0 select span edncf_directory-search-artprograms 22 6
-Borneo O borneo 0 1 0 0 0 0 1 select span edncf_directory-search-artprograms 22 6
+Filter O filter 0 1 0 0 0 0 1 1 3 select span edncf_directory-search-criticalstudiesprograms 22 0
+by O by 0 1 0 0 0 0 0 0 8 select span edncf_directory-search-criticalstudiesprograms 22 0
+Program O program 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-criticalstudiesprograms 22 0
 
-Filter O filter 0 1 0 0 0 0 1 select span edncf_directory-search-criticalstudiesprograms 22 0
-by O by 0 1 0 0 0 0 0 select span edncf_directory-search-criticalstudiesprograms 22 0
-Program O program 0 0 0 0 0 0 1 select span edncf_directory-search-criticalstudiesprograms 22 0
+Aesthetics O aesthetics 0 0 0 0 0 0 1 0 0 select span edncf_directory-search-criticalstudiesprograms 22 1
+and O and 0 1 0 0 0 0 0 0 10 select span edncf_directory-search-criticalstudiesprograms 22 1
+Politics O politics 0 0 0 0 0 0 1 0 4 select span edncf_directory-search-criticalstudiesprograms 22 1
 
-Aesthetics O aesthetics 0 0 0 0 0 0 1 select span edncf_directory-search-criticalstudiesprograms 22 1
-and O and 0 1 0 0 0 0 0 select span edncf_directory-search-criticalstudiesprograms 22 1
-Politics O politics 0 0 0 0 0 0 1 select span edncf_directory-search-criticalstudiesprograms 22 1
+Writing O writing 0 0 0 0 0 0 1 0 6 select span edncf_directory-search-criticalstudiesprograms 22 2
 
-Writing O writing 0 0 0 0 0 0 1 select span edncf_directory-search-criticalstudiesprograms 22 2
+Filter O filter 0 1 0 0 0 0 1 1 3 select span edncf_directory-search-filmvideoprograms 22 0
+by O by 0 1 0 0 0 0 0 0 8 select span edncf_directory-search-filmvideoprograms 22 0
+Program O program 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-filmvideoprograms 22 0
 
-Filter O filter 0 1 0 0 0 0 1 select span edncf_directory-search-filmvideoprograms 22 0
-by O by 0 1 0 0 0 0 0 select span edncf_directory-search-filmvideoprograms 22 0
-Program O program 0 0 0 0 0 0 1 select span edncf_directory-search-filmvideoprograms 22 0
+Character O character 0 0 0 0 0 0 1 0 4 select span edncf_directory-search-filmvideoprograms 22 1
+Animation O animation 0 1 0 0 0 0 1 0 3 select span edncf_directory-search-filmvideoprograms 22 1
 
-Character O character 0 0 0 0 0 0 1 select span edncf_directory-search-filmvideoprograms 22 1
-Animation O animation 0 1 0 0 0 0 1 select span edncf_directory-search-filmvideoprograms 22 1
+Experimental O experimental 0 0 0 0 0 0 1 0 4 select span edncf_directory-search-filmvideoprograms 22 2
+Animation O animation 0 1 0 0 0 0 1 0 3 select span edncf_directory-search-filmvideoprograms 22 2
 
-Experimental O experimental 0 0 0 0 0 0 1 select span edncf_directory-search-filmvideoprograms 22 2
-Animation O animation 0 1 0 0 0 0 1 select span edncf_directory-search-filmvideoprograms 22 2
+Film O film 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-filmvideoprograms 22 3
+and O and 0 1 0 0 0 0 0 0 10 select span edncf_directory-search-filmvideoprograms 22 3
+Video O video 0 0 0 0 0 0 1 0 6 select span edncf_directory-search-filmvideoprograms 22 3
 
-Film O film 0 0 0 0 0 0 1 select span edncf_directory-search-filmvideoprograms 22 3
-and O and 0 1 0 0 0 0 0 select span edncf_directory-search-filmvideoprograms 22 3
-Video O video 0 0 0 0 0 0 1 select span edncf_directory-search-filmvideoprograms 22 3
+Film O film 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-filmvideoprograms 22 4
+Directing O directing 0 0 0 0 0 0 1 0 1 select span edncf_directory-search-filmvideoprograms 22 4
 
-Film O film 0 0 0 0 0 0 1 select span edncf_directory-search-filmvideoprograms 22 4
-Directing O directing 0 0 0 0 0 0 1 select span edncf_directory-search-filmvideoprograms 22 4
+Studios O studios 0 1 0 0 0 0 1 0 4 select span edncf_directory-search-filmvideoprograms 22 5
+& O & 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-filmvideoprograms 22 5
+Labs O labs 0 1 0 0 0 0 1 1 4 select span edncf_directory-search-filmvideoprograms 22 5
 
-Studios O studios 0 1 0 0 0 0 1 select span edncf_directory-search-filmvideoprograms 22 5
-& O & 0 0 0 0 0 0 0 select span edncf_directory-search-filmvideoprograms 22 5
-Labs O labs 0 1 0 0 0 0 1 select span edncf_directory-search-filmvideoprograms 22 5
+Technical O technical 0 0 0 0 0 0 1 0 6 select span edncf_directory-search-filmvideoprograms 22 6
+Operations O operations 0 0 0 0 0 0 1 0 5 select span edncf_directory-search-filmvideoprograms 22 6
 
-Technical O technical 0 0 0 0 0 0 1 select span edncf_directory-search-filmvideoprograms 22 6
-Operations O operations 0 0 0 0 0 0 1 select span edncf_directory-search-filmvideoprograms 22 6
+Filter O filter 0 1 0 0 0 0 1 1 3 select span edncf_directory-search-musicprograms 22 0
+by O by 0 1 0 0 0 0 0 0 8 select span edncf_directory-search-musicprograms 22 0
+Program O program 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-musicprograms 22 0
 
-Filter O filter 0 1 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 0
-by O by 0 1 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 0
-Program O program 0 0 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 0
+Composition O composition 0 0 0 0 0 0 1 0 5 select span edncf_directory-search-musicprograms 22 1
 
-Composition O composition 0 0 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 1
+Experimental O experimental 0 0 0 0 0 0 1 0 4 select span edncf_directory-search-musicprograms 22 2
+Sound O sound 0 1 0 0 0 0 1 0 4 select span edncf_directory-search-musicprograms 22 2
+Practices O practices 0 0 0 0 0 0 1 0 3 select span edncf_directory-search-musicprograms 22 2
 
-Experimental O experimental 0 0 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 2
-Sound O sound 0 0 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 2
-Practices O practices 0 0 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 2
+Jazz O jazz 0 1 0 0 0 0 1 1 5 select span edncf_directory-search-musicprograms 22 3
 
-Jazz O jazz 0 1 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 3
+InstrumentalArts O instrumentalarts 0 0 0 0 0 0 1 0 0 select span edncf_directory-search-musicprograms 22 4
 
-InstrumentalArts O instrumentalarts 0 0 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 4
+............Brass O ............brass 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 5
 
-............Brass O ............brass 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 5
+............Collaborative O ............collaborative 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 6
+Keyboard O keyboard 0 0 0 0 0 0 1 0 3 select span edncf_directory-search-musicprograms 22 6
 
-............Collaborative O ............collaborative 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 6
-Keyboard O keyboard 0 0 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 6
+............Conducting O ............conducting 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 7
 
-............Conducting O ............conducting 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 7
+............Guitar O ............guitar 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 8
 
-............Guitar O ............guitar 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 8
+............Harp O ............harp 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 9
 
-............Harp O ............harp 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 9
+............Percussion O ............percussion 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 10
 
-............Percussion O ............percussion 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 10
+............Piano/Keyboard O ............piano/keyboard 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 11
 
-............Piano/Keyboard O ............piano/keyboard 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 11
+............Strings O ............strings 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 12
 
-............Strings O ............strings 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 12
+............Winds O ............winds 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 13
 
-............Winds O ............winds 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 13
+Musical O musical 0 0 0 0 1 0 1 0 6 select span edncf_directory-search-musicprograms 22 14
+Arts O arts 0 1 0 0 0 0 1 3 7 select span edncf_directory-search-musicprograms 22 14
 
-Musical O musical 0 0 0 0 1 0 1 select span edncf_directory-search-musicprograms 22 14
-Arts O arts 0 1 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 14
+Music O music 0 1 0 0 1 0 1 2 8 select span edncf_directory-search-musicprograms 22 15
+Technology O technology 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-musicprograms 22 15
 
-Music O music 0 1 0 0 1 0 1 select span edncf_directory-search-musicprograms 22 15
-Technology O technology 0 0 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 15
+Performer O performer 0 0 0 0 0 0 1 0 1 select span edncf_directory-search-musicprograms 22 16
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 select span edncf_directory-search-musicprograms 22 16
+Composer O composer 0 0 0 0 0 0 1 0 3 select span edncf_directory-search-musicprograms 22 16
 
-Performer O performer 0 0 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 16
-- O - 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 16
-Composer O composer 0 0 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 16
+Theory O theory 0 0 0 0 0 0 1 0 6 select span edncf_directory-search-musicprograms 22 17
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 17
+Skills O skills 0 0 0 0 0 0 1 0 5 select span edncf_directory-search-musicprograms 22 17
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 17
+History O history 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-musicprograms 22 17
+and O and 0 1 0 0 0 0 0 0 10 select span edncf_directory-search-musicprograms 22 17
+Literature O literature 0 0 0 0 0 0 1 0 4 select span edncf_directory-search-musicprograms 22 17
 
-Theory O theory 0 0 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 17
-, O , 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 17
-Skills O skills 0 0 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 17
-, O , 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 17
-History O history 0 0 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 17
-and O and 0 1 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 17
-Literature O literature 0 0 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 17
+VoiceArts O voicearts 0 0 0 0 0 0 1 0 0 select span edncf_directory-search-musicprograms 22 18
 
-VoiceArts O voicearts 0 0 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 18
+World O world 0 1 0 0 0 0 1 0 7 select span edncf_directory-search-musicprograms 22 19
+Music O music 0 1 0 0 1 0 1 2 8 select span edncf_directory-search-musicprograms 22 19
+Performance O performance 0 1 0 0 0 0 1 0 6 select span edncf_directory-search-musicprograms 22 19
 
-World O world 0 1 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 19
-Music O music 0 1 0 0 1 0 1 select span edncf_directory-search-musicprograms 22 19
-Performance O performance 0 1 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 19
+............African O ............african 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 20
+Music O music 0 1 0 0 1 0 1 2 8 select span edncf_directory-search-musicprograms 22 20
+& O & 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 20
+Dance O dance 0 1 0 0 0 0 1 2 6 select span edncf_directory-search-musicprograms 22 20
 
-............African O ............african 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 20
-Music O music 0 1 0 0 1 0 1 select span edncf_directory-search-musicprograms 22 20
-& O & 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 20
-Dance O dance 0 1 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 20
+............Balinese/Javanese O ............balinese/javanese 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 21
+Music O music 0 1 0 0 1 0 1 2 8 select span edncf_directory-search-musicprograms 22 21
+& O & 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 21
+Dance O dance 0 1 0 0 0 0 1 2 6 select span edncf_directory-search-musicprograms 22 21
 
-............Balinese/Javanese O ............balinese/javanese 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 21
-Music O music 0 1 0 0 1 0 1 select span edncf_directory-search-musicprograms 22 21
-& O & 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 21
-Dance O dance 0 1 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 21
+............North O ............north 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 22
+Indian O indian 0 1 0 0 0 0 1 0 4 select span edncf_directory-search-musicprograms 22 22
+Music O music 0 1 0 0 1 0 1 2 8 select span edncf_directory-search-musicprograms 22 22
 
-............North O ............north 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 22
-Indian O indian 0 1 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 22
-Music O music 0 1 0 0 1 0 1 select span edncf_directory-search-musicprograms 22 22
+............World O ............world 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 23
+Percussion O percussion 0 0 0 0 0 0 1 0 0 select span edncf_directory-search-musicprograms 22 23
 
-............World O ............world 0 0 0 0 0 0 0 select span edncf_directory-search-musicprograms 22 23
-Percussion O percussion 0 0 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 23
+Other O other 0 1 0 0 0 0 1 0 7 select span edncf_directory-search-musicprograms 22 24
 
-Other O other 0 1 0 0 0 0 1 select span edncf_directory-search-musicprograms 22 24
+Filter O filter 0 1 0 0 0 0 1 1 3 select span edncf_directory-search-theaterprograms 22 0
+by O by 0 1 0 0 0 0 0 0 8 select span edncf_directory-search-theaterprograms 22 0
+Program O program 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-theaterprograms 22 0
 
-Filter O filter 0 1 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 0
-by O by 0 1 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 0
-Program O program 0 0 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 0
+Performance O performance 0 1 0 0 0 0 1 0 6 select span edncf_directory-search-theaterprograms 22 1
 
-Performance O performance 0 1 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 1
+............Acting O ............acting 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 2
 
-............Acting O ............acting 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 2
+............Directing O ............directing 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 3
 
-............Directing O ............directing 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 3
+Design O design 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-theaterprograms 22 4
+& O & 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 4
+Production O production 0 0 0 0 0 0 1 0 6 select span edncf_directory-search-theaterprograms 22 4
 
-Design O design 0 0 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 4
-& O & 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 4
-Production O production 0 0 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 4
+............Costume O ............costume 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 5
+Design O design 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-theaterprograms 22 5
 
-............Costume O ............costume 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 5
-Design O design 0 0 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 5
+............Scenic O ............scenic 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 6
+Design O design 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-theaterprograms 22 6
 
-............Scenic O ............scenic 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 6
-Design O design 0 0 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 6
+...............Applied O ...............applied 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 7
+Arts O arts 0 1 0 0 0 0 1 3 7 select span edncf_directory-search-theaterprograms 22 7
 
-...............Applied O ...............applied 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 7
-Arts O arts 0 1 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 7
+...............Interactive O ...............interactive 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 8
+Media O media 0 1 0 0 0 0 1 1 7 select span edncf_directory-search-theaterprograms 22 8
+for O for 0 1 0 0 0 0 0 1 9 select span edncf_directory-search-theaterprograms 22 8
+Performance O performance 0 1 0 0 0 0 1 0 6 select span edncf_directory-search-theaterprograms 22 8
 
-...............Interactive O ...............interactive 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 8
-Media O media 0 1 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 8
-for O for 0 1 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 8
-Performance O performance 0 1 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 8
+............Lighting O ............lighting 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 9
+Design O design 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-theaterprograms 22 9
 
-............Lighting O ............lighting 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 9
-Design O design 0 0 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 9
+............Sound O ............sound 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 10
+Design O design 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-theaterprograms 22 10
 
-............Sound O ............sound 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 10
-Design O design 0 0 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 10
+............Technical O ............technical 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 11
+Direction O direction 0 0 0 0 0 0 1 0 6 select span edncf_directory-search-theaterprograms 22 11
 
-............Technical O ............technical 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 11
-Direction O direction 0 0 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 11
+Creative O creative 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-theaterprograms 22 12
+Producing O producing 0 0 0 0 0 0 1 0 1 select span edncf_directory-search-theaterprograms 22 12
+and O and 0 1 0 0 0 0 0 0 10 select span edncf_directory-search-theaterprograms 22 12
+Management O management 0 1 0 0 0 0 1 0 6 select span edncf_directory-search-theaterprograms 22 12
 
-Creative O creative 0 0 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 12
-Producing O producing 0 0 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 12
-and O and 0 1 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 12
-Management O management 0 1 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 12
+............Producing O ............producing 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 13
 
-............Producing O ............producing 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 13
+............Production O ............production 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 14
+Management O management 0 1 0 0 0 0 1 0 6 select span edncf_directory-search-theaterprograms 22 14
 
-............Production O ............production 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 14
-Management O management 0 1 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 14
+............Stage O ............stage 0 0 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 15
+Management O management 0 1 0 0 0 0 1 0 6 select span edncf_directory-search-theaterprograms 22 15
 
-............Stage O ............stage 0 0 0 0 0 0 0 select span edncf_directory-search-theaterprograms 22 15
-Management O management 0 1 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 15
+Theater O theater 0 0 0 0 0 0 1 0 5 select span edncf_directory-search-theaterprograms 22 16
+History O history 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-theaterprograms 22 16
 
-Theater O theater 0 0 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 16
-History O history 0 0 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 16
+Experience O experience 0 0 0 0 0 0 1 0 6 select span edncf_directory-search-theaterprograms 22 17
+Design O design 0 0 0 0 0 0 1 0 7 select span edncf_directory-search-theaterprograms 22 17
 
-Experience O experience 0 0 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 17
-Design O design 0 0 0 0 0 0 1 select span edncf_directory-search-theaterprograms 22 17
+Faculty O faculty 0 0 0 0 0 0 1 0 7 label span edncf_directory-faculty-emeritus 21 0
+Emeritus O emeritus 0 1 0 0 1 0 1 1 3 label span edncf_directory-faculty-emeritus 21 0
 
-Faculty O faculty 0 0 0 0 0 0 1 label span edncf_directory-faculty-emeritus 21 0
-Emeritus O emeritus 0 1 0 0 1 0 1 label span edncf_directory-faculty-emeritus 21 0
+Exclude O exclude 0 0 0 0 0 0 1 0 3 label span edncf_directory-include 21 0
+from O from 0 0 0 0 0 0 0 0 8 label span edncf_directory-include 21 0
+Program O program 0 0 0 0 0 0 1 0 7 label span edncf_directory-include 21 0
+Landing O landing 0 1 0 0 0 0 1 1 2 label span edncf_directory-include 21 0
+Pages O pages 0 1 0 0 0 0 1 2 8 label span edncf_directory-include 21 0
 
-Exclude O exclude 0 0 0 0 0 0 1 label span edncf_directory-include 21 0
-from O from 0 0 0 0 0 0 0 label span edncf_directory-include 21 0
-Program O program 0 0 0 0 0 0 1 label span edncf_directory-include 21 0
-Landing O landing 0 1 0 0 0 0 1 label span edncf_directory-include 21 0
-Pages O pages 0 1 0 0 0 0 1 label span edncf_directory-include 21 0
+Search O search 0 0 0 0 0 0 1 0 7 a div edncf_submit 21 0
+Clear O clear 0 1 0 0 0 0 1 2 4 a div edncf_reset 21 0
 
-Search O search 0 0 0 0 0 0 1 a div edncf_submit 21 0
-Clear O clear 0 1 0 0 0 0 1 a div edncf_reset 21 0
+Name O name 0 1 0 0 0 0 1 1 7 tr thead directory-list 19 0
 
-Name O name 0 1 0 0 0 0 1 tr thead directory-list 19 0
+Email O email 0 0 0 0 1 0 1 0 6 tr thead directory-list 19 1
 
-Email O email 0 0 0 0 1 0 1 tr thead directory-list 19 1
+Phone O phone 0 1 0 0 0 0 1 1 5 tr thead directory-list 19 2
 
-Phone O phone 0 1 0 0 0 0 1 tr thead directory-list 19 2
+Room O room 0 1 0 0 0 0 1 1 6 tr thead directory-list 19 3
 
-Room O room 0 1 0 0 0 0 1 tr thead directory-list 19 3
+Caryn B-PER caryn 0 1 0 0 0 0 1 2 0 td tr name-link 22 0
+Aono I-PER aono 0 1 0 0 0 0 1 3 0 td tr name-link 22 0
 
-Caryn B-PER caryn 0 1 0 0 0 0 1 td tr name-link 22 0
-Aono I-PER aono 0 1 0 0 0 0 1 td tr name-link 22 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 0
+Graphic O graphic 0 0 0 0 0 0 1 0 3 span p EDNcategorycolor-default 27 2
+Design O design 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 2
 
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Faculty O faculty 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Graphic O graphic 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 2
-Design O design 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 2
+caono@calarts.edu O caono@calarts.edu 0 0 1 0 0 0 0 0 0 td tr directory-email 22 0
+661 O 661 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+255 O 255 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+1050 O 1050 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+x2004 O x2004 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+A112H O a112h 0 0 0 1 0 0 1 0 0 tr div directory-office 21 13
 
-caono@calarts.edu O caono@calarts.edu 0 0 1 0 0 0 0 td tr directory-email 22 0
-661 O 661 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-255 O 255 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-1050 O 1050 0 0 0 1 0 0 0 tr div directory-phone 21 12
-x2004 O x2004 0 0 0 1 0 0 0 tr div directory-phone 21 12
-A112H O a112h 0 0 0 1 0 0 1 tr div directory-office 21 13
+Karen B-PER karen 1 1 0 0 0 0 1 7 4 td tr name-link 22 0
+Atkinson I-PER atkinson 1 1 0 0 0 0 1 5 3 td tr name-link 22 0
 
-Karen B-PER karen 1 1 0 0 0 0 1 td tr name-link 22 0
-Atkinson I-PER atkinson 1 1 0 0 0 0 1 td tr name-link 22 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 2
 
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Faculty O faculty 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 2
+atkinson@calarts.edu O atkinson@calarts.edu 0 0 1 0 0 0 0 0 0 td tr directory-email 22 0
+661 O 661 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+253 O 253 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+7801 O 7801 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+x2768 O x2768 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+A211F O a211f 0 0 0 1 0 0 1 0 0 tr div directory-office 21 13
 
-atkinson@calarts.edu O atkinson@calarts.edu 0 0 1 0 0 0 0 td tr directory-email 22 0
-661 O 661 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-253 O 253 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-7801 O 7801 0 0 0 1 0 0 0 tr div directory-phone 21 12
-x2768 O x2768 0 0 0 1 0 0 0 tr div directory-phone 21 12
-A211F O a211f 0 0 0 1 0 0 1 tr div directory-office 21 13
+Scott B-PER scott 0 1 0 0 0 0 1 8 5 td tr name-link 22 0
+Benzel I-PER benzel 0 1 0 0 0 0 1 2 0 td tr name-link 22 0
 
-Scott B-PER scott 0 1 0 0 0 0 1 td tr name-link 22 0
-Benzel I-PER benzel 0 1 0 0 0 0 1 td tr name-link 22 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 2
+and O and 0 1 0 0 0 0 0 0 10 span p EDNcategorycolor-default 27 2
+Technology O technology 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 2
 
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Faculty O faculty 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 2
-and O and 0 1 0 0 0 0 0 span p EDNcategorycolor-default 27 2
-Technology O technology 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 2
+scottbenzel@calarts.edu O scottbenzel@calarts.edu 0 0 1 0 0 0 0 0 0 td tr directory-email 22 0
+661 O 661 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+253 O 253 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+7801 O 7801 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+x2013 O x2013 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+C302C O c302c 0 0 0 1 0 0 1 0 0 tr div directory-office 21 13
 
-scottbenzel@calarts.edu O scottbenzel@calarts.edu 0 0 1 0 0 0 0 td tr directory-email 22 0
-661 O 661 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-253 O 253 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-7801 O 7801 0 0 0 1 0 0 0 tr div directory-phone 21 12
-x2013 O x2013 0 0 0 1 0 0 0 tr div directory-phone 21 12
-C302C O c302c 0 0 0 1 0 0 1 tr div directory-office 21 13
+Ellen B-PER ellen 0 1 0 0 0 0 1 6 4 td tr name-link 22 0
+Birrell I-PER birrell 0 1 0 0 0 0 1 2 0 td tr name-link 22 0
 
-Ellen B-PER ellen 0 1 0 0 0 0 1 td tr name-link 22 0
-Birrell I-PER birrell 0 1 0 0 0 0 1 td tr name-link 22 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 0
+Photography O photography 0 0 0 0 0 0 1 0 5 span p EDNcategorycolor-default 27 2
+and O and 0 1 0 0 0 0 0 0 10 span p EDNcategorycolor-default 27 2
+Media O media 0 1 0 0 0 0 1 1 7 span p EDNcategorycolor-default 27 2
 
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Faculty O faculty 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Photography O photography 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 2
-and O and 0 1 0 0 0 0 0 span p EDNcategorycolor-default 27 2
-Media O media 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 2
+ebirrell@calarts.edu O ebirrell@calarts.edu 0 0 1 0 0 0 0 0 0 td tr directory-email 22 0
+661 O 661 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+255 O 255 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+1050 O 1050 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+x2339 O x2339 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+E114 O e114 0 0 0 1 0 0 1 0 0 tr div directory-office 21 13
 
-ebirrell@calarts.edu O ebirrell@calarts.edu 0 0 1 0 0 0 0 td tr directory-email 22 0
-661 O 661 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-255 O 255 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-1050 O 1050 0 0 0 1 0 0 0 tr div directory-phone 21 12
-x2339 O x2339 0 0 0 1 0 0 0 tr div directory-phone 21 12
-E114 O e114 0 0 0 1 0 0 1 tr div directory-office 21 13
+Tom B-PER tom 0 1 0 0 0 0 1 7 5 td tr name-link 22 0
+Bland I-PER bland 0 1 0 0 0 0 1 4 3 td tr name-link 22 0
 
-Tom B-PER tom 0 1 0 0 0 0 1 td tr name-link 22 0
-Bland I-PER bland 0 1 0 0 0 0 1 td tr name-link 22 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 0
+Administration O administration 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 2
+Faculty O faculty 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 2
+Graphic O graphic 0 0 0 0 0 0 1 0 3 span p EDNcategorycolor-default 27 4
+Design O design 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 4
 
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Administration O administration 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 2
-Faculty O faculty 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 2
-Graphic O graphic 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 4
-Design O design 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 4
+tbland@calarts.edu O tbland@calarts.edu 0 0 1 0 0 0 0 0 0 td tr directory-email 22 0
+661 O 661 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 14
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 14
+291 O 291 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 14
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 14
+3403 O 3403 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 14
+A113B O a113b 0 0 0 1 0 0 1 0 0 tr div directory-office 21 15
 
-tbland@calarts.edu O tbland@calarts.edu 0 0 1 0 0 0 0 td tr directory-email 22 0
-661 O 661 0 0 0 1 0 0 0 tr div directory-phone 21 14
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 14
-291 O 291 0 0 0 1 0 0 0 tr div directory-phone 21 14
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 14
-3403 O 3403 0 0 0 1 0 0 0 tr div directory-phone 21 14
-A113B O a113b 0 0 0 1 0 0 1 tr div directory-office 21 15
+Jessica B-PER jessica 0 1 0 0 0 0 1 6 4 td tr name-link 22 0
+Bronson I-PER bronson 0 1 0 0 0 0 1 3 0 td tr name-link 22 0
 
-Jessica B-PER jessica 0 1 0 0 0 0 1 td tr name-link 22 0
-Bronson I-PER bronson 0 1 0 0 0 0 1 td tr name-link 22 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 2
 
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Faculty O faculty 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 2
+jbronson@calarts.edu O jbronson@calarts.edu 0 0 1 0 0 0 0 0 0 td tr directory-email 22 0
+661 O 661 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+255 O 255 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+1050 O 1050 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+x2008 O x2008 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+A112G O a112g 0 0 0 1 0 0 1 0 0 tr div directory-office 21 13
 
-jbronson@calarts.edu O jbronson@calarts.edu 0 0 1 0 0 0 0 td tr directory-email 22 0
-661 O 661 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-255 O 255 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-1050 O 1050 0 0 0 1 0 0 0 tr div directory-phone 21 12
-x2008 O x2008 0 0 0 1 0 0 0 tr div directory-phone 21 12
-A112G O a112g 0 0 0 1 0 0 1 tr div directory-office 21 13
+Kaucyila B-PER kaucyila 0 0 0 0 0 0 1 0 0 td tr name-link 22 0
+Brooke I-PER brooke 0 1 0 0 0 0 1 4 3 td tr name-link 22 0
 
-Kaucyila B-PER kaucyila 0 0 0 0 0 0 1 td tr name-link 22 0
-Brooke I-PER brooke 0 1 0 0 0 0 1 td tr name-link 22 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 0
+Photography O photography 0 0 0 0 0 0 1 0 5 span p EDNcategorycolor-default 27 2
+and O and 0 1 0 0 0 0 0 0 10 span p EDNcategorycolor-default 27 2
+Media O media 0 1 0 0 0 0 1 1 7 span p EDNcategorycolor-default 27 2
 
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Faculty O faculty 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Photography O photography 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 2
-and O and 0 1 0 0 0 0 0 span p EDNcategorycolor-default 27 2
-Media O media 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 2
+kbrooke@calarts.edu O kbrooke@calarts.edu 0 0 1 0 0 0 0 0 0 td tr directory-email 22 0
+661 O 661 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+253 O 253 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+7801 O 7801 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+x2765 O x2765 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+A211B O a211b 0 0 0 1 0 0 1 0 0 tr div directory-office 21 13
 
-kbrooke@calarts.edu O kbrooke@calarts.edu 0 0 1 0 0 0 0 td tr directory-email 22 0
-661 O 661 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-253 O 253 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-7801 O 7801 0 0 0 1 0 0 0 tr div directory-phone 21 12
-x2765 O x2765 0 0 0 1 0 0 0 tr div directory-phone 21 12
-A211B O a211b 0 0 0 1 0 0 1 tr div directory-office 21 13
+Jo B-PER jo 0 1 0 0 0 0 1 6 5 td tr name-link 22 0
+Ann I-PER ann 0 1 0 0 0 0 1 7 5 td tr name-link 22 0
+Callis I-PER callis 0 1 0 0 0 0 1 1 0 td tr name-link 22 0
 
-Jo B-PER jo 0 1 0 0 0 0 1 td tr name-link 22 0
-Ann I-PER ann 1 1 0 0 0 0 1 td tr name-link 22 0
-Callis I-PER callis 0 1 0 0 0 0 1 td tr name-link 22 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 0
+Photography O photography 0 0 0 0 0 0 1 0 5 span p EDNcategorycolor-default 27 2
+and O and 0 1 0 0 0 0 0 0 10 span p EDNcategorycolor-default 27 2
+Media O media 0 1 0 0 0 0 1 1 7 span p EDNcategorycolor-default 27 2
 
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Faculty O faculty 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Photography O photography 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 2
-and O and 0 1 0 0 0 0 0 span p EDNcategorycolor-default 27 2
-Media O media 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 2
+jcallis@calarts.edu O jcallis@calarts.edu 0 0 1 0 0 0 0 0 0 td tr directory-email 22 0
+661 O 661 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+255 O 255 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+1050 O 1050 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+x2339 O x2339 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+E114 O e114 0 0 0 1 0 0 1 0 0 tr div directory-office 21 13
 
-jcallis@calarts.edu O jcallis@calarts.edu 0 0 1 0 0 0 0 td tr directory-email 22 0
-661 O 661 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-255 O 255 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-1050 O 1050 0 0 0 1 0 0 0 tr div directory-phone 21 12
-x2339 O x2339 0 0 0 1 0 0 0 tr div directory-phone 21 12
-E114 O e114 0 0 0 1 0 0 1 tr div directory-office 21 13
+Alexandria B-PER alexandria 0 1 0 0 0 0 1 3 3 td tr name-link 22 0
+Carrion I-PER carrion 0 1 0 0 0 0 1 3 0 td tr name-link 22 0
 
-Alexandria B-PER alexandria 0 1 0 0 0 0 1 td tr name-link 22 0
-Carrion I-PER carrion 0 1 0 0 0 0 1 td tr name-link 22 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 0
+Administration O administration 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 2
+Faculty O faculty 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 2
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 4
 
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Administration O administration 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 2
-Faculty O faculty 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 2
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 4
+acarrion@calarts.edu O acarrion@calarts.edu 0 0 1 0 0 0 0 0 0 td tr directory-email 22 0
+Office O office 0 0 0 0 0 0 1 0 7 tr div directory-phone 21 14
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr div directory-phone 21 14
+661 O 661 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 14
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 14
+253 O 253 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 14
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 14
+7756 O 7756 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 14
+/ O / 0 0 0 0 0 0 0 0 0 tr div directory-phone 21 14
+Shop O shop 0 0 0 0 0 0 1 0 4 tr div directory-phone 21 14
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 tr div directory-phone 21 14
+661 O 661 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 14
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 14
+253 O 253 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 14
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 14
+7810 O 7810 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 14
+Super O super 0 1 0 0 0 0 1 2 4 tr div directory-office 21 15
+Shop O shop 0 0 0 0 0 0 1 0 4 tr div directory-office 21 15
 
-acarrion@calarts.edu O acarrion@calarts.edu 0 0 1 0 0 0 0 td tr directory-email 22 0
-Office O office 0 0 0 0 0 0 1 tr div directory-phone 21 14
-: O : 0 0 0 0 0 0 0 tr div directory-phone 21 14
-661 O 661 0 0 0 1 0 0 0 tr div directory-phone 21 14
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 14
-253 O 253 0 0 0 1 0 0 0 tr div directory-phone 21 14
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 14
-7756 O 7756 0 0 0 1 0 0 0 tr div directory-phone 21 14
-/ O / 0 0 0 0 0 0 0 tr div directory-phone 21 14
-Shop O shop 0 0 0 0 0 0 1 tr div directory-phone 21 14
-: O : 0 0 0 0 0 0 0 tr div directory-phone 21 14
-661 O 661 0 0 0 1 0 0 0 tr div directory-phone 21 14
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 14
-253 O 253 0 0 0 1 0 0 0 tr div directory-phone 21 14
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 14
-7810 O 7810 0 0 0 1 0 0 0 tr div directory-phone 21 14
-Super O super 0 1 0 0 0 0 1 tr div directory-office 21 15
-Shop O shop 0 0 0 0 0 0 1 tr div directory-office 21 15
+Robert B-PER robert 0 1 0 0 0 0 1 9 7 td tr name-link 22 0
+Dansby I-PER dansby 0 0 0 0 0 0 1 0 0 td tr name-link 22 0
 
-Robert B-PER robert 0 1 0 0 0 0 1 td tr name-link 22 0
-Dansby I-PER dansby 0 0 0 0 0 0 1 td tr name-link 22 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 2
 
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Faculty O faculty 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 2
+rdansby@calarts.edu O rdansby@calarts.edu 0 0 1 0 0 0 0 0 0 td tr directory-email 22 0
+661 O 661 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+253 O 253 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+7801 O 7801 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+x7829 O x7829 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+B100B O b100b 0 0 0 1 0 0 1 0 0 tr div directory-office 21 13
 
-rdansby@calarts.edu O rdansby@calarts.edu 0 0 1 0 0 0 0 td tr directory-email 22 0
-661 O 661 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-253 O 253 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-7801 O 7801 0 0 0 1 0 0 0 tr div directory-phone 21 12
-x7829 O x7829 0 0 0 1 0 0 0 tr div directory-phone 21 12
-B100B O b100b 0 0 0 1 0 0 1 tr div directory-office 21 13
+Leslie B-PER leslie 0 1 0 0 0 0 1 6 4 td tr name-link 22 0
+Dick I-PER dick 0 1 0 0 0 0 1 5 3 td tr name-link 22 0
 
-Leslie B-PER leslie 0 1 0 0 0 0 1 td tr name-link 22 0
-Dick I-PER dick 0 1 0 0 0 0 1 td tr name-link 22 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 0
+Administration O administration 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 2
+Faculty O faculty 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 2
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 4
 
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Administration O administration 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 2
-Faculty O faculty 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 2
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 4
+ldick@calarts.edu O ldick@calarts.edu 0 0 1 0 0 0 0 0 0 td tr directory-email 22 0
+661 O 661 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 14
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 14
+253 O 253 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 14
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 14
+7801 O 7801 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 14
+x2797 O x2797 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 14
+C302B O c302b 0 0 0 1 0 0 1 0 0 tr div directory-office 21 15
 
-ldick@calarts.edu O ldick@calarts.edu 0 0 1 0 0 0 0 td tr directory-email 22 0
-661 O 661 0 0 0 1 0 0 0 tr div directory-phone 21 14
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 14
-253 O 253 0 0 0 1 0 0 0 tr div directory-phone 21 14
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 14
-7801 O 7801 0 0 0 1 0 0 0 tr div directory-phone 21 14
-x2797 O x2797 0 0 0 1 0 0 0 tr div directory-phone 21 14
-C302B O c302b 0 0 0 1 0 0 1 tr div directory-office 21 15
+Harry B-PER harry 0 1 0 0 0 0 1 6 4 td tr name-link 22 0
+Dodge I-PER dodge 0 1 0 0 0 0 1 3 1 td tr name-link 22 0
 
-Harry B-PER harry 0 1 0 0 0 0 1 td tr name-link 22 0
-Dodge I-PER dodge 0 1 0 0 0 0 1 td tr name-link 22 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 2
 
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Faculty O faculty 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 2
+hdodge@calarts.edu O hdodge@calarts.edu 0 0 1 0 0 0 0 0 0 td tr directory-email 22 0
+661 O 661 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+222 O 222 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+2764 O 2764 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+A211A O a211a 0 0 0 1 0 0 1 0 0 tr div directory-office 21 13
 
-hdodge@calarts.edu O hdodge@calarts.edu 0 0 1 0 0 0 0 td tr directory-email 22 0
-661 O 661 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-222 O 222 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-2764 O 2764 0 0 0 1 0 0 0 tr div directory-phone 21 12
-A211A O a211a 0 0 0 1 0 0 1 tr div directory-office 21 13
+Lecia B-PER lecia 0 1 0 0 0 0 1 1 0 td tr name-link 22 0
+Dole I-PER dole 0 1 0 0 0 0 1 2 0 td tr name-link 22 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 td tr name-link 22 0
+Recio I-PER recio 0 1 0 0 0 0 1 3 0 td tr name-link 22 0
 
-Lecia B-PER lecia 0 1 0 0 0 0 1 td tr name-link 22 0
-Dole I-PER dole 0 1 0 0 0 0 1 td tr name-link 22 0
-- I-PER - 0 0 0 0 0 0 0 td tr name-link 22 0
-Recio I-PER recio 0 1 0 0 0 0 1 td tr name-link 22 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 0
+Administration O administration 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 2
+Faculty O faculty 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 2
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 4
 
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Administration O administration 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 2
-Faculty O faculty 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 2
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 4
+ldolerecio@calarts.edu O ldolerecio@calarts.edu 0 0 1 0 0 0 0 0 0 td tr directory-email 22 0
+661 O 661 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 14
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 14
+253 O 253 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 14
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 14
+7801 O 7801 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 14
+x2767 O x2767 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 14
+A211E O a211e 0 0 0 1 0 0 1 0 0 tr div directory-office 21 15
 
-ldolerecio@calarts.edu O ldolerecio@calarts.edu 0 0 1 0 0 0 0 td tr directory-email 22 0
-661 O 661 0 0 0 1 0 0 0 tr div directory-phone 21 14
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 14
-253 O 253 0 0 0 1 0 0 0 tr div directory-phone 21 14
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 14
-7801 O 7801 0 0 0 1 0 0 0 tr div directory-phone 21 14
-x2767 O x2767 0 0 0 1 0 0 0 tr div directory-phone 21 14
-A211E O a211e 0 0 0 1 0 0 1 tr div directory-office 21 15
+Sam B-PER sam 0 1 0 0 0 0 1 7 4 td tr name-link 22 0
+Durant I-PER durant 0 1 0 0 0 0 1 3 6 td tr name-link 22 0
 
-Sam B-PER sam 0 1 0 0 0 0 1 td tr name-link 22 0
-Durant I-PER durant 0 1 0 0 0 0 1 td tr name-link 22 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 2
 
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Faculty O faculty 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 2
+sdurant@calarts.edu O sdurant@calarts.edu 0 0 1 0 0 0 0 0 0 td tr directory-email 22 0
+661 O 661 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+253 O 253 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr div directory-phone 21 12
+7714 O 7714 0 0 0 1 0 0 0 0 0 tr div directory-phone 21 12
+C302A O c302a 0 0 0 1 0 0 1 0 0 tr div directory-office 21 13
 
-sdurant@calarts.edu O sdurant@calarts.edu 0 0 1 0 0 0 0 td tr directory-email 22 0
-661 O 661 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-253 O 253 0 0 0 1 0 0 0 tr div directory-phone 21 12
-- O - 0 0 0 0 0 0 0 tr div directory-phone 21 12
-7714 O 7714 0 0 0 1 0 0 0 tr div directory-phone 21 12
-C302A O c302a 0 0 0 1 0 0 1 tr div directory-office 21 13
+Beth B-PER beth 0 1 0 0 0 0 1 6 3 td tr name-link 22 0
+Elliott I-PER elliott 0 1 0 0 0 0 1 5 2 td tr name-link 22 0
 
-Beth B-PER beth 0 1 0 0 0 0 1 td tr name-link 22 0
-Elliott I-PER elliott 0 1 0 0 0 0 1 td tr name-link 22 0
+Art O art 0 1 0 0 0 0 1 4 7 span p EDNcategorycolor-default 27 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 span p EDNcategorycolor-default 27 0
 
-Art O art 0 1 0 0 0 0 1 span p EDNcategorycolor-default 27 0
-Faculty O faculty 0 0 0 0 0 0 1 span p EDNcategorycolor-default 27 0
+* O * 0 0 0 0 0 0 0 0 0 div section emeritus 18 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 section div emeritus 17 0
+Emeritus O emeritus 0 1 0 0 1 0 1 1 3 section div emeritus 17 0
 
-* O * 0 0 0 0 0 0 0 div section emeritus 18 0
-Faculty O faculty 0 0 0 0 0 0 1 section div emeritus 17 0
-Emeritus O emeritus 0 1 0 0 1 0 1 section div emeritus 17 0
+† O † 0 0 0 0 0 0 0 0 0 div section parttime 18 0
+Part O part 0 1 0 0 0 0 1 1 7 section div parttime 17 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 section div parttime 17 2
+time O time 0 0 0 0 0 0 0 0 6 section div parttime 17 2
+Faculty O faculty 0 0 0 0 0 0 1 0 7 section div parttime 17 2
 
-† O † 0 0 0 0 0 0 0 div section parttime 18 0
-Part O part 0 1 0 0 0 0 1 section div parttime 17 2
-- O - 0 0 0 0 0 0 0 section div parttime 17 2
-time O time 0 0 0 0 0 0 0 section div parttime 17 2
-Faculty O faculty 0 0 0 0 0 0 1 section div parttime 17 2
+1 O 1 0 0 0 1 0 0 0 0 0 div div page 17 0
+2 O 2 0 0 0 1 0 0 0 0 0 div div page 17 1
+3 O 3 0 0 0 1 0 0 0 0 0 div div page 17 2
+4 O 4 0 0 0 1 0 0 0 0 0 div div page 17 3
 
-1 O 1 0 0 0 1 0 0 0 div div page 17 0
-2 O 2 0 0 0 1 0 0 0 div div page 17 1
-3 O 3 0 0 0 1 0 0 0 div div page 17 2
-4 O 4 0 0 0 1 0 0 0 div div page 17 3
+Directory O directory 0 0 0 0 0 0 1 0 6 div div btn-lg 15 0
+Home O home 0 1 0 0 0 0 1 2 6 div div btn-lg 15 0
 
-Directory O directory 0 0 0 0 0 0 1 div div btn-lg 15 0
-Home O home 0 1 0 0 0 0 1 div div btn-lg 15 0
+Home O home 0 1 0 0 0 0 1 2 6 p div breadcrumb 9 0
+• O • 0 0 0 0 0 0 0 0 0 p div separator 9 1
+School O school 0 1 0 0 0 0 1 0 7 a span SkinObject 13 0
+of O of 0 1 0 0 0 0 0 2 10 a span SkinObject 13 0
+Art O art 0 1 0 0 0 0 1 4 7 a span SkinObject 13 0
+• O • 0 0 0 0 0 0 0 0 0 span span separator 11 4
+Faculty O faculty 0 0 0 0 0 0 1 0 7 a span SkinObject 13 0
 
-Home O home 0 1 0 0 0 0 1 p div breadcrumb 9 0
-• O • 0 0 0 0 0 0 0 p div separator 9 1
-School O school 0 1 0 0 0 0 1 a span SkinObject 13 0
-of O of 0 1 0 0 0 0 0 a span SkinObject 13 0
-Art O art 0 1 0 0 0 0 1 a span SkinObject 13 0
-• O • 0 0 0 0 0 0 0 span span separator 11 4
-Faculty O faculty 0 0 0 0 0 0 1 a span SkinObject 13 0
+calarts O calarts 0 0 0 0 0 0 0 0 0 svg a calarts-logo-svg 14 1
 
-calarts O calarts 0 0 0 0 0 0 0 svg a calarts-logo-svg 14 1
+Contact O contact 0 0 0 0 0 0 1 0 8 li ul footer-link-list 15 0
 
-Contact O contact 0 0 0 0 0 0 1 li ul footer-link-list 15 0
+Visit O visit 0 1 0 0 0 0 1 1 6 li ul footer-link-list 15 0
 
-Visit O visit 0 1 0 0 0 0 1 li ul footer-link-list 15 0
+News O news 0 0 0 0 0 0 1 0 7 li ul footer-link-list 15 0
 
-News O news 0 0 0 0 0 0 1 li ul footer-link-list 15 0
+Calendar O calendar 0 0 0 0 0 0 1 0 6 li ul footer-link-list 15 0
 
-Calendar O calendar 0 0 0 0 0 0 1 li ul footer-link-list 15 0
+Employment O employment 0 0 0 0 1 0 1 0 5 li ul footer-link-list 15 0
 
-Employment O employment 0 0 0 0 1 0 1 li ul footer-link-list 15 0
+Follow O follow 0 0 0 0 0 0 1 0 6 ul div h4 14 0
 
-Follow O follow 0 0 0 0 0 0 1 ul div h4 14 0
+24700 O 24700 0 0 0 1 0 0 0 0 0 li ul footer-link-list 15 0
+Blog O blog 0 0 0 0 0 0 1 0 5 li ul footer-link-list 15 0
 
-24700 O 24700 0 0 0 1 0 0 0 li ul footer-link-list 15 0
-Blog O blog 0 0 0 0 0 0 1 li ul footer-link-list 15 0
+Facebook O facebook 0 0 0 0 0 0 1 0 7 li ul footer-link-list 15 0
 
-Facebook O facebook 0 0 0 0 0 0 1 li ul footer-link-list 15 0
+Instagram O instagram 0 0 0 0 0 0 1 0 6 li ul footer-link-list 15 0
 
-Instagram O instagram 0 0 0 0 0 0 1 li ul footer-link-list 15 0
+Snapchat O snapchat 0 0 0 0 0 0 1 0 0 li ul footer-link-list 15 0
 
-Snapchat O snapchat 0 0 0 0 0 0 1 li ul footer-link-list 15 0
+Twitter O twitter 0 0 0 0 0 0 1 0 7 li ul footer-link-list 15 0
 
-Twitter O twitter 0 0 0 0 0 0 1 li ul footer-link-list 15 0
+Vimeo O vimeo 0 0 0 0 0 0 1 0 5 li ul footer-link-list 15 0
 
-Vimeo O vimeo 0 0 0 0 0 0 1 li ul footer-link-list 15 0
+YouTube O youtube 0 0 0 0 0 0 1 0 5 li ul footer-link-list 15 0
 
-YouTube O youtube 0 0 0 0 0 0 1 li ul footer-link-list 15 0
+CommonSpace O commonspace 0 0 0 0 0 0 1 0 0 li ul footer-link-list 15 0
 
-CommonSpace O commonspace 0 0 0 0 0 0 1 li ul footer-link-list 15 0
+The O the 0 1 0 0 0 0 1 5 10 li ul footer-link-list 14 0
+Hub O hub 0 1 0 0 0 0 1 2 3 li ul footer-link-list 14 0
+| O | 0 0 0 0 0 0 0 0 0 ul div footer-link-list 13 0
+CalArts O calarts 0 0 0 0 0 0 1 0 0 li ul footer-link-list 14 1
+Email O email 0 0 0 0 1 0 1 0 6 li ul footer-link-list 14 1
 
-The O the 0 1 0 0 0 0 1 li ul footer-link-list 14 0
-Hub O hub 0 1 0 0 0 0 1 li ul footer-link-list 14 0
-| O | 0 0 0 0 0 0 0 ul div footer-link-list 13 0
-CalArts O calarts 0 0 0 0 0 0 1 li ul footer-link-list 14 1
-Email O email 0 0 0 0 1 0 1 li ul footer-link-list 14 1
+Faculty/Staff O faculty/staff 0 0 0 0 0 0 1 0 0 li ul footer-link-list 14 0
+Directory O directory 0 0 0 0 0 0 1 0 6 li ul footer-link-list 14 0
 
-Faculty/Staff O faculty/staff 0 0 0 0 0 0 1 li ul footer-link-list 14 0
-Directory O directory 0 0 0 0 0 0 1 li ul footer-link-list 14 0
+CalArts O calarts 0 0 0 0 0 0 1 0 0 li ul footer-link-list 14 0
+Store O store 0 1 0 0 0 0 1 0 5 li ul footer-link-list 14 0
 
-CalArts O calarts 0 0 0 0 0 0 1 li ul footer-link-list 14 0
-Store O store 0 1 0 0 0 0 1 li ul footer-link-list 14 0
+Campus O campus 0 1 0 0 0 0 1 1 8 li ul footer-link-list 14 0
+Safety O safety 0 0 0 0 0 0 1 0 6 li ul footer-link-list 14 0
 
-Campus O campus 0 1 0 0 0 0 1 li ul footer-link-list 14 0
-Safety O safety 0 0 0 0 0 0 1 li ul footer-link-list 14 0
+661 O 661 0 0 0 1 0 0 0 0 0 li ul footer-link-list 14 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul footer-link-list 14 0
+222 O 222 0 0 0 1 0 0 0 0 0 li ul footer-link-list 14 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul footer-link-list 14 0
+2702 O 2702 0 0 0 1 0 0 0 0 0 li ul footer-link-list 14 0
 
-661 O 661 0 0 0 1 0 0 0 li ul footer-link-list 14 0
-- O - 0 0 0 0 0 0 0 li ul footer-link-list 14 0
-222 O 222 0 0 0 1 0 0 0 li ul footer-link-list 14 0
-- O - 0 0 0 0 0 0 0 li ul footer-link-list 14 0
-2702 O 2702 0 0 0 1 0 0 0 li ul footer-link-list 14 0
+Site O site 0 1 0 0 0 0 1 0 8 li ul footer-link-list 14 0
+Map O map 0 0 0 0 0 0 1 0 6 li ul footer-link-list 14 0
 
-Site O site 0 1 0 0 0 0 1 li ul footer-link-list 14 0
-Map O map 0 0 0 0 0 0 1 li ul footer-link-list 14 0
+Consumer O consumer 0 0 0 0 0 0 1 0 3 li ul footer-link-list 14 0
+Info O info 0 0 0 0 0 0 1 0 6 li ul footer-link-list 14 0
 
-Consumer O consumer 0 0 0 0 0 0 1 li ul footer-link-list 14 0
-Info O info 0 0 0 0 0 0 1 li ul footer-link-list 14 0
+About O about 0 0 0 0 0 0 1 0 8 li ul footer-link-list 14 0
+this O this 0 0 0 0 0 0 0 0 8 li ul footer-link-list 14 0
+Site O site 0 1 0 0 0 0 1 0 8 li ul footer-link-list 14 0
 
-About O about 0 0 0 0 0 0 1 li ul footer-link-list 14 0
-this O this 0 0 0 0 0 0 0 li ul footer-link-list 14 0
-Site O site 0 1 0 0 0 0 1 li ul footer-link-list 14 0
+© O © 0 0 0 0 0 0 0 0 0 li ul login-link 14 0
+2017 O 2017 0 0 0 1 0 0 0 0 0 li ul SkinObject 14 1
 
-© O © 0 0 0 0 0 0 0 li ul login-link 14 0
-2017 O 2017 0 0 0 1 0 0 0 li ul SkinObject 14 1
+California O california 0 0 0 0 0 0 1 0 5 p li address 15 0
+Institute O institute 0 0 0 0 0 0 1 0 6 p li address 15 0
+of O of 0 1 0 0 0 0 0 2 10 p li address 15 0
+the O the 0 1 0 0 0 0 0 0 10 p li address 15 0
+Arts O arts 0 1 0 0 0 0 1 3 7 p li address 15 0
 
-California O california 0 0 0 0 0 0 1 p li address 15 0
-Institute O institute 0 0 0 0 0 0 1 p li address 15 0
-of O of 0 1 0 0 0 0 0 p li address 15 0
-the O the 0 1 0 0 0 0 0 p li address 15 0
-Arts O arts 0 1 0 0 0 0 1 p li address 15 0
+Back O back 0 1 0 0 0 0 1 4 6 i a sr-only 8 0
+to O to 0 1 0 0 0 0 0 0 10 i a sr-only 8 0
+Top O top 0 1 0 0 0 0 1 2 6 i a sr-only 8 0
 
-Back O back 0 1 0 0 0 0 1 i a sr-only 8 0
-to O to 0 0 0 0 0 0 0 i a sr-only 8 0
-Top O top 0 1 0 0 0 0 1 i a sr-only 8 0
+Search O search 0 0 0 0 0 0 1 0 7 div div modal-content 8 0
 
-Search O search 0 0 0 0 0 0 1 div div modal-content 8 0
-
-Search O search 0 0 0 0 0 0 1 span div btn-primary 10 3
+Search O search 0 0 0 0 0 0 1 0 7 span div btn-primary 10 3

@@ -1,0 +1,1332 @@
+Faculty O faculty 0 0 0 0 0 0 1 head html none 4 11
+Directory O directory 0 0 0 0 0 0 1 head html none 4 11
+| O | 0 0 0 0 0 0 0 head html none 4 11
+NYU O nyu 0 0 0 0 0 0 1 head html none 4 11
+Shanghai O shanghai 0 1 0 0 0 0 1 head html none 4 11
+
+Jump O jump 0 1 0 0 0 0 1 p body element-focusable 5 0
+to O to 0 0 0 0 0 0 0 p body element-focusable 5 0
+navigation O navigation 0 0 0 0 0 0 0 p body element-focusable 5 0
+
+Search O search 0 0 0 0 0 0 1 div div element-invisible 10 0
+form O form 0 0 0 0 0 0 0 div div element-invisible 10 0
+
+Search O search 0 0 0 0 0 0 1 div div element-invisible 11 0
+
+Library O library 0 0 0 0 0 0 1 li ul menu__link 9 0
+
+Commencement O commencement 0 0 0 0 0 0 1 li ul menu__link 9 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul menu__link 9 0
+
+Parents O parents 0 0 0 0 0 0 1 li ul menu__link 9 0
+
+Staff O staff 0 1 0 0 0 0 1 li ul menu__link 9 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul menu__link 9 0
+
+Students O students 0 0 0 0 0 0 1 li ul menu__link 9 0
+
+中文版 O 中文版 0 0 0 0 0 0 0 li ul  9 0
+
+Make O make 0 1 0 0 0 0 1 li ul  9 0
+a O a 0 1 0 0 0 0 0 li ul  9 0
+Gift O gift 0 1 0 0 0 0 1 li ul  9 0
+
+Apply O apply 0 0 0 0 0 0 1 li ul menu__link 9 0
+
+About O about 0 0 0 0 0 0 1 li ul menu__link 11 0
+
+Vision O vision 0 1 0 0 0 0 1 li ul menu__link 13 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 13 0
+Mission O mission 0 1 0 0 1 0 1 li ul menu__link 13 0
+Statement O statement 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Leadership O leadership 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Statement O statement 0 0 0 0 0 0 1 li ul menu__link 13 0
+of O of 0 1 0 0 0 0 0 li ul menu__link 13 0
+Labor O labor 0 1 0 0 0 0 1 li ul menu__link 13 0
+Values O values 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+News O news 0 0 0 0 0 0 1 li ul menu__link 13 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 13 0
+Publications O publications 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Gazette O gazette 0 0 0 0 0 0 1 li ul menu__link 15 0
+Weekly O weekly 0 1 0 0 0 0 1 li ul menu__link 15 0
+News O news 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+NYUSH O nyush 0 0 0 0 0 0 1 li ul menu__link 15 0
+Magazine O magazine 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+In O in 0 1 0 0 0 0 1 li ul menu__link 15 0
+the O the 0 1 0 0 0 0 0 li ul menu__link 15 0
+Media O media 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Technology O technology 0 0 0 0 0 0 1 li ul menu__link 13 0
+Services O services 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Get O get 0 0 0 0 0 0 1 li ul menu__link 15 0
+Started O started 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Self O self 0 1 0 0 0 0 1 li ul menu__link 15 0
+Service O service 0 1 0 0 0 0 1 li ul menu__link 15 0
+Portal O portal 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+IT O it 0 0 0 0 0 0 1 li ul menu__link 15 0
+Status O status 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul menu__link 15 0
+Technology O technology 0 0 0 0 0 0 1 li ul menu__link 15 0
+Portal O portal 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Work O work 0 1 0 0 0 0 1 li ul menu__link 13 0
+Here O here 0 1 0 0 0 0 1 li ul menu__link 13 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Fellowships O fellowships 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Staff O staff 0 1 0 0 0 0 1 li ul menu__link 15 0
+Recruitment O recruitment 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Getting O getting 0 0 0 0 0 0 1 li ul menu__link 13 0
+Around O around 0 0 0 0 0 0 1 li ul menu__link 13 0
+Campus O campus 0 1 0 0 0 0 1 li ul menu__link 13 0
+
+Pudong O pudong 0 0 0 0 0 0 1 li ul menu__link 15 0
+Campus O campus 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Residence O residence 0 0 0 0 0 0 1 li ul menu__link 15 0
+Hall O hall 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Zhongbei O zhongbei 0 0 0 0 0 0 1 li ul menu__link 15 0
+Campus O campus 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul menu__link 13 0
+Us O us 0 1 0 0 0 0 1 li ul menu__link 13 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul menu__link 15 0
+Directory O directory 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+NYU O nyu 0 0 0 0 0 0 1 li ul menu__link 13 0
+Shanghai O shanghai 0 1 0 0 0 0 1 li ul menu__link 13 0
+Foundation O foundation 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Academics O academics 0 0 0 0 0 0 1 li ul active-trail 11 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul active-trail 13 0
+Studies O studies 0 0 0 0 0 0 1 li ul active-trail 13 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul menu__link 15 0
+Calendar O calendar 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Our O our 0 0 0 0 0 0 1 li ul menu__link 15 0
+Curriculum O curriculum 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Our O our 0 0 0 0 0 0 1 li ul menu__link 15 0
+Majors O majors 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Our O our 0 0 0 0 0 0 1 li ul menu__link 15 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Study O study 0 1 0 0 0 0 1 li ul menu__link 15 0
+Away O away 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Global O global 0 1 0 0 0 0 1 li ul menu__link 15 0
+Awards O awards 0 0 0 0 0 0 1 li ul menu__link 15 0
+, O , 0 0 0 0 0 0 0 li ul menu__link 15 0
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul menu__link 15 0
+Research O research 0 1 0 0 0 0 1 li ul menu__link 15 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 15 0
+External O external 0 0 0 0 0 0 1 li ul menu__link 15 0
+Opportunities O opportunities 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul menu__link 15 0
+Support O support 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Registration O registration 0 0 0 0 0 0 1 li ul menu__link 15 0
+Services O services 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Writing O writing 0 0 0 0 0 0 1 li ul menu__link 15 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 15 0
+English O english 0 1 0 0 0 0 1 li ul menu__link 15 0
+for O for 0 1 0 0 0 0 0 li ul menu__link 15 0
+Academic O academic 0 0 0 0 0 0 1 li ul menu__link 15 0
+Purposes O purposes 0 0 0 0 0 0 1 li ul menu__link 15 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Laboratory O laboratory 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul menu__link 13 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 13 0
+Advanced O advanced 0 0 0 0 0 0 1 li ul menu__link 13 0
+Education O education 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+About O about 0 0 0 0 0 0 1 li ul menu__link 15 0
+the O the 0 1 0 0 0 0 0 li ul menu__link 15 0
+Office O office 0 0 0 0 0 0 1 li ul menu__link 15 0
+of O of 0 1 0 0 0 0 0 li ul menu__link 15 0
+Graduate O graduate 1 1 0 0 0 0 1 li ul menu__link 15 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 15 0
+Advanced O advanced 0 0 0 0 0 0 1 li ul menu__link 15 0
+Education O education 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Master O master 0 1 0 0 1 0 1 li ul menu__link 15 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+PhD O phd 0 0 0 0 0 0 1 li ul menu__link 15 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Research O research 0 1 0 0 0 0 1 li ul menu__link 15 0
+Fellowship O fellowship 0 0 0 0 0 0 1 li ul menu__link 15 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Other O other 0 1 0 0 0 0 1 li ul menu__link 13 0
+Academic O academic 0 0 0 0 0 0 1 li ul menu__link 13 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Creativity O creativity 0 0 0 0 0 0 1 li ul menu__link 15 0
++ O + 0 0 0 0 0 0 0 li ul menu__link 15 0
+Innovation O innovation 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+NYU O nyu 0 0 0 0 0 0 1 li ul menu__link 15 0
+Law O law 0 1 0 0 0 0 1 li ul menu__link 15 0
+in O in 0 1 0 0 0 0 0 li ul menu__link 15 0
+Shanghai O shanghai 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+NYUSPS O nyusps 0 0 0 0 0 0 1 li ul menu__link 13 0
+at O at 0 0 0 0 0 0 0 li ul menu__link 13 0
+NYU O nyu 0 0 0 0 0 0 1 li ul menu__link 13 0
+Shanghai O shanghai 0 1 0 0 0 0 1 li ul menu__link 13 0
+
+Dean’s O dean’s 0 0 0 0 0 0 1 li ul menu__link 15 0
+Message O message 0 1 0 0 1 0 1 li ul menu__link 15 0
+
+The O the 0 1 0 0 0 0 1 li ul menu__link 15 0
+NYUSPS O nyusps 0 0 0 0 0 0 1 li ul menu__link 15 0
+Advantage O advantage 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+NYUSPS O nyusps 0 0 0 0 0 0 1 li ul menu__link 15 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu__link 15 0
+in O in 0 1 0 0 0 0 0 li ul menu__link 15 0
+English O english 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+High O high 0 1 0 0 0 0 1 li ul menu__link 15 0
+School O school 0 1 0 0 0 0 1 li ul menu__link 15 0
+Academy O academy 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Library O library 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+About O about 0 0 0 0 0 0 1 li ul menu__link 15 0
+the O the 0 1 0 0 0 0 0 li ul menu__link 15 0
+Library O library 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Library O library 0 0 0 0 0 0 1 li ul menu__link 15 0
+Services O services 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul menu__link 15 0
+& O & 0 0 0 0 0 0 0 li ul menu__link 15 0
+Staff O staff 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Students O students 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Ask O ask 0 1 0 0 0 0 1 li ul menu__link 15 0
+a O a 0 1 0 0 0 0 0 li ul menu__link 15 0
+Librarian O librarian 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Policies O policies 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul menu__link 15 0
+Us O us 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Research O research 0 1 0 0 0 0 1 li ul menu__link 11 0
+
+Research O research 0 1 0 0 0 0 1 li ul menu__link 13 0
+at O at 0 0 0 0 0 0 0 li ul menu__link 13 0
+NYU O nyu 0 0 0 0 0 0 1 li ul menu__link 13 0
+Shanghai O shanghai 0 1 0 0 0 0 1 li ul menu__link 13 0
+
+Research O research 0 1 0 0 0 0 1 li ul menu__link 15 0
+News O news 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Centers O centers 0 0 0 0 0 0 1 li ul menu__link 15 0
+& O & 0 0 0 0 0 0 0 li ul menu__link 15 0
+Institutes O institutes 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Resources O resources 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Student O student 0 1 0 0 0 0 1 li ul menu__link 11 0
+Life O life 0 1 0 0 0 0 1 li ul menu__link 11 0
+
+New O new 0 1 0 0 0 0 1 li ul menu__link 13 0
+Student O student 0 1 0 0 0 0 1 li ul menu__link 13 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Freshmen O freshmen 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Study O study 0 1 0 0 0 0 1 li ul menu__link 15 0
+Away O away 0 1 0 0 0 0 1 li ul menu__link 15 0
+Students O students 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Community O community 0 1 0 0 0 0 1 li ul menu__link 13 0
+Standards O standards 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Athletics O athletics 0 0 0 0 0 0 1 li ul menu__link 13 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 13 0
+Recreation O recreation 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Fitness O fitness 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Competitive O competitive 0 0 0 0 0 0 1 li ul menu__link 15 0
+Sports O sports 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Recreational O recreational 0 0 0 0 0 0 1 li ul menu__link 15 0
+Activities O activities 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Career O career 0 0 0 0 0 0 1 li ul menu__link 13 0
+Development O development 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Students O students 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Employers O employers 0 0 0 0 1 0 1 li ul menu__link 15 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Meet O meet 0 0 0 0 0 0 1 li ul menu__link 15 0
+the O the 0 1 0 0 0 0 0 li ul menu__link 15 0
+Team O team 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Health O health 0 1 0 0 0 0 1 li ul menu__link 13 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 13 0
+Wellness O wellness 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Medical O medical 0 0 0 0 0 0 1 li ul menu__link 15 0
+Services O services 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Wellness O wellness 0 0 0 0 0 0 1 li ul menu__link 15 0
+Services O services 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Health O health 0 1 0 0 0 0 1 li ul menu__link 15 0
+Promotion O promotion 0 0 0 0 0 0 1 li ul menu__link 15 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 15 0
+Education O education 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Administrative O administrative 0 0 0 0 0 0 1 li ul menu__link 15 0
+Support O support 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Residential O residential 0 0 0 0 0 0 1 li ul menu__link 13 0
+Life O life 0 1 0 0 0 0 1 li ul menu__link 13 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 13 0
+Housing O housing 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Housing O housing 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Living O living 0 1 0 0 0 0 1 li ul menu__link 15 0
+in O in 0 1 0 0 0 0 0 li ul menu__link 15 0
+Jinqiao O jinqiao 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Resource O resource 0 0 0 0 0 0 1 li ul menu__link 15 0
+Center O center 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Meet O meet 0 0 0 0 0 0 1 li ul menu__link 15 0
+the O the 0 1 0 0 0 0 0 li ul menu__link 15 0
+Team O team 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Policies O policies 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+FAQs O faqs 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Student O student 0 1 0 0 0 0 1 li ul menu__link 13 0
+Activities O activities 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Clubs O clubs 0 0 0 0 0 0 1 li ul menu__link 15 0
+& O & 0 0 0 0 0 0 0 li ul menu__link 15 0
+Organizations O organizations 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Community O community 0 1 0 0 0 0 1 li ul menu__link 15 0
+Engagement O engagement 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Student O student 0 1 0 0 0 0 1 li ul menu__link 15 0
+Government O government 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Be O be 0 1 0 0 0 0 1 li ul menu__link 13 0
+Safe O safe 0 1 0 0 0 0 1 li ul menu__link 13 0
+
+Public O public 0 0 0 0 0 0 1 li ul menu__link 15 0
+Safety O safety 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Campus O campus 0 1 0 0 0 0 1 li ul menu__link 15 0
+Transportation O transportation 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Safety O safety 0 0 0 0 0 0 1 li ul menu__link 15 0
+Tips O tips 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Guidelines O guidelines 0 0 0 0 0 0 1 li ul menu__link 15 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 15 0
+Policy O policy 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Information O information 0 1 0 0 0 0 1 li ul menu__link 15 0
+Alert O alert 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+News O news 0 0 0 0 0 0 1 li ul menu__link 15 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 15 0
+Notifications O notifications 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Meet O meet 0 0 0 0 0 0 1 li ul menu__link 13 0
+the O the 0 1 0 0 0 0 0 li ul menu__link 13 0
+Team O team 0 1 0 0 0 0 1 li ul menu__link 13 0
+
+Admissions O admissions 0 0 0 0 0 0 1 li ul menu__link 11 0
+
+How O how 0 1 0 0 0 0 1 li ul menu__link 13 0
+to O to 0 0 0 0 0 0 0 li ul menu__link 13 0
+Apply O apply 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Early O early 0 1 0 0 0 0 1 li ul menu__link 15 0
+Decision O decision 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+More O more 0 1 0 0 0 0 1 li ul menu__link 15 0
+Application O application 0 0 0 0 0 0 1 li ul menu__link 15 0
+Tips O tips 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Financial O financial 0 0 0 0 0 0 1 li ul menu__link 13 0
+Aid O aid 0 1 0 0 0 0 1 li ul menu__link 13 0
+
+Applying O applying 0 0 0 0 0 0 1 li ul menu__link 15 0
+for O for 0 1 0 0 0 0 0 li ul menu__link 15 0
+Financial O financial 0 0 0 0 0 0 1 li ul menu__link 15 0
+Aid O aid 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+US O us 0 0 0 0 0 0 1 li ul menu__link 15 0
+Federal O federal 0 0 0 0 0 0 1 li ul menu__link 15 0
+Aid O aid 0 1 0 0 0 0 1 li ul menu__link 15 0
+Eligibility O eligibility 0 0 0 0 0 0 1 li ul menu__link 15 0
+Requirements O requirements 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Cost O cost 0 1 0 0 0 0 1 li ul menu__link 15 0
+of O of 0 1 0 0 0 0 0 li ul menu__link 15 0
+Attendance O attendance 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Returning O returning 0 0 0 0 0 0 1 li ul menu__link 15 0
+Students O students 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Visit O visit 0 1 0 0 0 0 1 li ul menu__link 13 0
+Us O us 0 1 0 0 0 0 1 li ul menu__link 13 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul menu__link 13 0
+Us O us 0 1 0 0 0 0 1 li ul menu__link 13 0
+
+Academics O academics 0 0 0 0 0 0 1 h2 div active-trail 11 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul active-trail 13 0
+Studies O studies 0 0 0 0 0 0 1 li ul active-trail 13 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul menu__link 15 0
+Calendar O calendar 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Our O our 0 0 0 0 0 0 1 li ul menu__link 15 0
+Curriculum O curriculum 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul menu__link 17 0
+Bulletin O bulletin 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Our O our 0 0 0 0 0 0 1 li ul menu__link 15 0
+Majors O majors 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Biology O biology 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Business O business 0 0 0 0 0 0 1 li ul menu__link 17 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 17 0
+Finance O finance 0 1 0 0 0 0 1 li ul menu__link 17 0
+
+Business O business 0 0 0 0 0 0 1 li ul menu__link 17 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 17 0
+Marketing O marketing 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Chemistry O chemistry 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Computer O computer 0 0 0 0 0 0 1 li ul menu__link 17 0
+Systems O systems 0 0 0 0 0 0 1 li ul menu__link 17 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Computer O computer 0 0 0 0 0 0 1 li ul menu__link 17 0
+Science O science 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Creative O creative 0 0 0 0 0 0 1 li ul menu__link 17 0
+Writing O writing 0 0 0 0 0 0 1 li ul menu__link 17 0
+( O ( 0 0 0 0 0 0 0 li ul menu__link 17 0
+Minor O minor 0 1 0 0 0 0 1 li ul menu__link 17 0
+) O ) 0 0 0 0 0 0 0 li ul menu__link 17 0
+
+Data O data 0 1 0 0 0 0 1 li ul menu__link 17 0
+Science O science 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Economics O economics 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Electrical O electrical 0 0 0 0 0 0 1 li ul menu__link 17 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 17 0
+Systems O systems 0 0 0 0 0 0 1 li ul menu__link 17 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Global O global 0 1 0 0 0 0 1 li ul menu__link 17 0
+China O china 0 1 0 0 0 0 1 li ul menu__link 17 0
+Studies O studies 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Humanities O humanities 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Interactive O interactive 0 0 0 0 0 0 1 li ul menu__link 17 0
+Media O media 0 1 0 0 0 0 1 li ul menu__link 17 0
+Arts O arts 0 1 0 0 0 0 1 li ul menu__link 17 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Neural O neural 0 0 0 0 0 0 1 li ul menu__link 17 0
+Science O science 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Physics O physics 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Self O self 0 1 0 0 0 0 1 li ul menu__link 17 0
+- O - 0 0 0 0 0 0 0 li ul menu__link 17 0
+Designed O designed 0 0 0 0 0 0 1 li ul menu__link 17 0
+Honors O honors 0 1 0 0 1 0 1 li ul menu__link 17 0
+Major O major 0 1 0 0 0 0 1 li ul menu__link 17 0
+( O ( 0 0 0 0 0 0 0 li ul menu__link 17 0
+SDHM O sdhm 0 0 0 0 0 0 1 li ul menu__link 17 0
+) O ) 0 0 0 0 0 0 0 li ul menu__link 17 0
+
+Social O social 0 0 0 0 0 0 1 li ul menu__link 17 0
+Science O science 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Our O our 0 0 0 0 0 0 1 li ul menu__link 15 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Study O study 0 1 0 0 0 0 1 li ul menu__link 15 0
+Away O away 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Study O study 0 1 0 0 0 0 1 li ul menu__link 17 0
+Away O away 0 1 0 0 0 0 1 li ul menu__link 17 0
+out O out 0 0 0 0 0 0 0 li ul menu__link 17 0
+of O of 0 1 0 0 0 0 0 li ul menu__link 17 0
+Shanghai O shanghai 0 1 0 0 0 0 1 li ul menu__link 17 0
+
+Study O study 0 1 0 0 0 0 1 li ul menu__link 17 0
+Away O away 0 1 0 0 0 0 1 li ul menu__link 17 0
+in O in 0 1 0 0 0 0 0 li ul menu__link 17 0
+Shanghai O shanghai 0 1 0 0 0 0 1 li ul menu__link 17 0
+
+Meet O meet 0 0 0 0 0 0 1 li ul menu__link 17 0
+the O the 0 1 0 0 0 0 0 li ul menu__link 17 0
+Team O team 0 1 0 0 0 0 1 li ul menu__link 17 0
+
+Global O global 0 1 0 0 0 0 1 li ul menu__link 15 0
+Awards O awards 0 0 0 0 0 0 1 li ul menu__link 15 0
+, O , 0 0 0 0 0 0 0 li ul menu__link 15 0
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul menu__link 15 0
+Research O research 0 1 0 0 0 0 1 li ul menu__link 15 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 15 0
+External O external 0 0 0 0 0 0 1 li ul menu__link 15 0
+Opportunities O opportunities 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Global O global 0 1 0 0 0 0 1 li ul menu__link 17 0
+Awards O awards 0 0 0 0 0 0 1 li ul menu__link 17 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 17 0
+Fellowships O fellowships 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+External O external 0 0 0 0 0 0 1 li ul menu__link 17 0
+Academic O academic 0 0 0 0 0 0 1 li ul menu__link 17 0
+Opportunities O opportunities 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul menu__link 17 0
+Research O research 0 1 0 0 0 0 1 li ul menu__link 17 0
+at O at 0 0 0 0 0 0 0 li ul menu__link 17 0
+NYU O nyu 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul menu__link 15 0
+Support O support 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Meet O meet 0 0 0 0 0 0 1 li ul menu__link 17 0
+the O the 0 1 0 0 0 0 0 li ul menu__link 17 0
+Team O team 0 1 0 0 0 0 1 li ul menu__link 17 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul menu__link 17 0
+Advising O advising 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul menu__link 17 0
+Resource O resource 0 0 0 0 0 0 1 li ul menu__link 17 0
+Center O center 0 1 0 0 0 0 1 li ul menu__link 17 0
+( O ( 0 0 0 0 0 0 0 li ul menu__link 17 0
+ARC O arc 0 0 0 0 0 0 1 li ul menu__link 17 0
+) O ) 0 0 0 0 0 0 0 li ul menu__link 17 0
+
+Research O research 0 1 0 0 0 0 1 li ul menu__link 17 0
+Instructional O instructional 0 0 0 0 0 0 1 li ul menu__link 17 0
+Technology O technology 0 0 0 0 0 0 1 li ul menu__link 17 0
+Services O services 0 0 0 0 0 0 1 li ul menu__link 17 0
+( O ( 0 0 0 0 0 0 0 li ul menu__link 17 0
+RITS O rits 0 0 0 0 0 0 1 li ul menu__link 17 0
+) O ) 0 0 0 0 0 0 0 li ul menu__link 17 0
+
+Language O language 0 0 0 0 0 0 1 li ul menu__link 17 0
+Support O support 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul menu__link 17 0
+Accommodations O accommodations 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Registration O registration 0 0 0 0 0 0 1 li ul menu__link 15 0
+Services O services 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Tuition O tuition 0 0 0 0 0 0 1 li ul menu__link 17 0
+Payments O payments 0 0 0 0 0 0 1 li ul menu__link 17 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 17 0
+Student O student 0 1 0 0 0 0 1 li ul menu__link 17 0
+Billing O billing 0 1 0 0 0 0 1 li ul menu__link 17 0
+
+Registration O registration 0 0 0 0 0 0 1 li ul menu__link 17 0
+Guidelines O guidelines 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Student O student 0 1 0 0 0 0 1 li ul menu__link 17 0
+Records O records 0 1 0 0 0 0 1 li ul menu__link 17 0
+
+Transcripts O transcripts 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Writing O writing 0 0 0 0 0 0 1 li ul menu__link 15 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 15 0
+English O english 0 1 0 0 0 0 1 li ul menu__link 15 0
+for O for 0 1 0 0 0 0 0 li ul menu__link 15 0
+Academic O academic 0 0 0 0 0 0 1 li ul menu__link 15 0
+Purposes O purposes 0 0 0 0 0 0 1 li ul menu__link 15 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Core O core 0 1 0 0 0 0 1 li ul menu__link 17 0
+Writing O writing 0 0 0 0 0 0 1 li ul menu__link 17 0
+Courses O courses 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+English O english 0 1 0 0 0 0 1 li ul menu__link 17 0
+for O for 0 1 0 0 0 0 0 li ul menu__link 17 0
+Academic O academic 0 0 0 0 0 0 1 li ul menu__link 17 0
+Purposes O purposes 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Creative O creative 0 0 0 0 0 0 1 li ul menu__link 17 0
+Writing O writing 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+The O the 0 1 0 0 0 0 1 li ul menu__link 17 0
+Hundred O hundred 0 0 0 0 0 0 1 li ul menu__link 17 0
+River O river 0 1 0 0 0 0 1 li ul menu__link 17 0
+Review O review 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Laboratory O laboratory 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Equipment O equipment 0 0 0 0 0 0 1 li ul menu__link 17 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 17 0
+Safety O safety 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Laboratory O laboratory 0 0 0 0 0 0 1 li ul menu__link 17 0
+Usage O usage 0 0 0 0 0 0 1 li ul menu__link 17 0
+Forms O forms 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Meet O meet 0 0 0 0 0 0 1 li ul menu__link 17 0
+Our O our 0 0 0 0 0 0 1 li ul menu__link 17 0
+Team O team 0 1 0 0 0 0 1 li ul menu__link 17 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul menu__link 13 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 13 0
+Advanced O advanced 0 0 0 0 0 0 1 li ul menu__link 13 0
+Education O education 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+About O about 0 0 0 0 0 0 1 li ul menu__link 15 0
+the O the 0 1 0 0 0 0 0 li ul menu__link 15 0
+Office O office 0 0 0 0 0 0 1 li ul menu__link 15 0
+of O of 0 1 0 0 0 0 0 li ul menu__link 15 0
+Graduate O graduate 1 1 0 0 0 0 1 li ul menu__link 15 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 15 0
+Advanced O advanced 0 0 0 0 0 0 1 li ul menu__link 15 0
+Education O education 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Master O master 0 1 0 0 1 0 1 li ul menu__link 15 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+PhD O phd 0 0 0 0 0 0 1 li ul menu__link 15 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Research O research 0 1 0 0 0 0 1 li ul menu__link 15 0
+Fellowship O fellowship 0 0 0 0 0 0 1 li ul menu__link 15 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Other O other 0 1 0 0 0 0 1 li ul menu__link 13 0
+Academic O academic 0 0 0 0 0 0 1 li ul menu__link 13 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Creativity O creativity 0 0 0 0 0 0 1 li ul menu__link 15 0
++ O + 0 0 0 0 0 0 0 li ul menu__link 15 0
+Innovation O innovation 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+NYU O nyu 0 0 0 0 0 0 1 li ul menu__link 15 0
+Law O law 0 1 0 0 0 0 1 li ul menu__link 15 0
+in O in 0 1 0 0 0 0 0 li ul menu__link 15 0
+Shanghai O shanghai 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+NYUSPS O nyusps 0 0 0 0 0 0 1 li ul menu__link 13 0
+at O at 0 0 0 0 0 0 0 li ul menu__link 13 0
+NYU O nyu 0 0 0 0 0 0 1 li ul menu__link 13 0
+Shanghai O shanghai 0 1 0 0 0 0 1 li ul menu__link 13 0
+
+Dean’s O dean’s 0 0 0 0 0 0 1 li ul menu__link 15 0
+Message O message 0 1 0 0 1 0 1 li ul menu__link 15 0
+
+The O the 0 1 0 0 0 0 1 li ul menu__link 15 0
+NYUSPS O nyusps 0 0 0 0 0 0 1 li ul menu__link 15 0
+Advantage O advantage 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+NYUSPS O nyusps 0 0 0 0 0 0 1 li ul menu__link 15 0
+Programs O programs 0 0 0 0 0 0 1 li ul menu__link 15 0
+in O in 0 1 0 0 0 0 0 li ul menu__link 15 0
+English O english 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Connect O connect 0 0 0 0 0 0 1 li ul menu__link 17 0
+With O with 0 1 0 0 0 0 1 li ul menu__link 17 0
+Us O us 0 1 0 0 0 0 1 li ul menu__link 17 0
+
+Course O course 0 1 0 0 0 0 1 li ul menu__link 17 0
+Catalog O catalog 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Current O current 0 1 0 0 0 0 1 li ul menu__link 17 0
+Schedule O schedule 0 0 0 0 0 0 1 li ul menu__link 17 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 17 0
+Fees O fees 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Registration O registration 0 0 0 0 0 0 1 li ul menu__link 17 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 17 0
+Enrollment O enrollment 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Refund O refund 0 0 0 0 0 0 1 li ul menu__link 17 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 17 0
+Withdrawal O withdrawal 0 0 0 0 0 0 1 li ul menu__link 17 0
+Policy O policy 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Meet O meet 0 0 0 0 0 0 1 li ul menu__link 17 0
+the O the 0 1 0 0 0 0 0 li ul menu__link 17 0
+Team O team 0 1 0 0 0 0 1 li ul menu__link 17 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul menu__link 17 0
+Us O us 0 1 0 0 0 0 1 li ul menu__link 17 0
+
+Corporate O corporate 0 0 0 0 0 0 1 li ul menu__link 17 0
+and O and 0 1 0 0 0 0 0 li ul menu__link 17 0
+Custom O custom 0 0 0 0 0 0 1 li ul menu__link 17 0
+Services O services 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+High O high 0 1 0 0 0 0 1 li ul menu__link 15 0
+School O school 0 1 0 0 0 0 1 li ul menu__link 15 0
+Academy O academy 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Course O course 0 1 0 0 0 0 1 li ul menu__link 17 0
+Descriptions O descriptions 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+FAQs O faqs 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Instructor O instructor 0 0 0 0 0 0 1 li ul menu__link 17 0
+Bios O bios 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Connect O connect 0 0 0 0 0 0 1 li ul menu__link 17 0
+With O with 0 1 0 0 0 0 1 li ul menu__link 17 0
+Us O us 0 1 0 0 0 0 1 li ul menu__link 17 0
+
+How O how 0 1 0 0 0 0 1 li ul menu__link 17 0
+to O to 0 0 0 0 0 0 0 li ul menu__link 17 0
+Apply O apply 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Testimonials O testimonials 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Library O library 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+About O about 0 0 0 0 0 0 1 li ul menu__link 15 0
+the O the 0 1 0 0 0 0 0 li ul menu__link 15 0
+Library O library 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Library O library 0 0 0 0 0 0 1 li ul menu__link 15 0
+Services O services 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Delivery O delivery 0 0 0 0 0 0 1 li ul menu__link 17 0
+Services O services 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul menu__link 15 0
+& O & 0 0 0 0 0 0 0 li ul menu__link 15 0
+Staff O staff 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Course O course 0 1 0 0 0 0 1 li ul menu__link 17 0
+Reserves O reserves 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+RITS O rits 0 0 0 0 0 0 1 li ul menu__link 17 0
+
+Students O students 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Ask O ask 0 1 0 0 0 0 1 li ul menu__link 15 0
+a O a 0 1 0 0 0 0 0 li ul menu__link 15 0
+Librarian O librarian 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Policies O policies 0 0 0 0 0 0 1 li ul menu__link 15 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul menu__link 15 0
+Us O us 0 1 0 0 0 0 1 li ul menu__link 15 0
+
+Gateways O gateways 0 0 0 0 0 0 1 div div block-title 10 0
+
+Students O students 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul active 13 0
+
+Staff O staff 0 1 0 0 0 0 1 li ul menu__link 13 0
+
+Parents O parents 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Community O community 0 1 0 0 0 0 1 li ul menu__link 13 0
+
+News O news 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Events O events 0 0 0 0 0 0 1 li ul menu__link 13 0
+/ O / 0 0 0 0 0 0 0 li ul menu__link 13 0
+Calendar O calendar 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+Gazette O gazette 0 0 0 0 0 0 1 li ul menu__link 13 0
+
+You O you 0 1 0 0 0 0 1 nav div element-invisible 9 0
+are O are 0 0 0 0 0 0 0 nav div element-invisible 9 0
+here O here 0 0 0 0 0 0 0 nav div element-invisible 9 0
+
+Home O home 0 1 0 0 0 0 1 li ol breadcrumb 11 0
+
+Academics O academics 0 0 0 0 0 0 1 li ol breadcrumb 11 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ol breadcrumb 11 0
+Studies O studies 0 0 0 0 0 0 1 li ol breadcrumb 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 ol nav breadcrumb 10 12
+Directory O directory 0 0 0 0 0 0 1 ol nav breadcrumb 10 12
+
+Faculty O faculty 0 0 0 0 0 0 1 div div title 8 17
+Directory O directory 0 0 0 0 0 0 1 div div title 8 17
+
+The O the 0 1 0 0 0 0 1 div div view-header 10 0
+creation O creation 0 0 0 0 0 0 0 div div view-header 10 0
+and O and 0 1 0 0 0 0 0 div div view-header 10 0
+transmission O transmission 0 0 0 0 0 0 0 div div view-header 10 0
+of O of 0 1 0 0 0 0 0 div div view-header 10 0
+knowledge O knowledge 0 0 0 0 0 0 0 div div view-header 10 0
+is O is 0 0 0 0 0 0 0 div div view-header 10 0
+central O central 0 0 0 0 0 0 0 div div view-header 10 0
+to O to 0 0 0 0 0 0 0 div div view-header 10 0
+the O the 0 1 0 0 0 0 0 div div view-header 10 0
+core O core 0 0 0 0 0 0 0 div div view-header 10 0
+mission O mission 0 0 0 0 1 0 0 div div view-header 10 0
+of O of 0 1 0 0 0 0 0 div div view-header 10 0
+a O a 0 1 0 0 0 0 0 div div view-header 10 0
+university. O university. 0 0 0 0 0 0 0 div div view-header 10 0
+
+Achieving O achieving 0 0 0 0 0 0 1 div div view-header 10 0
+both O both 0 0 0 0 0 0 0 div div view-header 10 0
+scholarly O scholarly 0 0 0 0 0 0 0 div div view-header 10 0
+eminence O eminence 0 0 0 0 1 0 0 div div view-header 10 0
+in O in 0 1 0 0 0 0 0 div div view-header 10 0
+research O research 0 0 0 0 0 0 0 div div view-header 10 0
+and O and 0 1 0 0 0 0 0 div div view-header 10 0
+the O the 0 1 0 0 0 0 0 div div view-header 10 0
+highest O highest 0 0 0 0 0 0 0 div div view-header 10 0
+levels O levels 0 0 0 0 0 0 0 div div view-header 10 0
+of O of 0 1 0 0 0 0 0 div div view-header 10 0
+pedagogical O pedagogical 0 0 0 0 0 0 0 div div view-header 10 0
+impact O impact 0 0 0 0 0 0 0 div div view-header 10 0
+in O in 0 1 0 0 0 0 0 div div view-header 10 0
+the O the 0 1 0 0 0 0 0 div div view-header 10 0
+classroom O classroom 0 0 0 0 0 0 0 div div view-header 10 0
+and O and 0 1 0 0 0 0 0 div div view-header 10 0
+beyond O beyond 0 0 0 0 0 0 0 div div view-header 10 0
+are O are 0 0 0 0 0 0 0 div div view-header 10 0
+what O what 0 0 0 0 0 0 0 div div view-header 10 0
+makes O makes 0 0 0 0 0 0 0 div div view-header 10 0
+a O a 0 1 0 0 0 0 0 div div view-header 10 0
+research O research 0 0 0 0 0 0 0 div div view-header 10 0
+university O university 0 0 0 0 0 0 0 div div view-header 10 0
+truly O truly 0 0 0 0 0 0 0 div div view-header 10 0
+great. O great. 0 0 0 0 0 0 0 div div view-header 10 0
+
+Practical O practical 0 0 0 0 0 0 1 div div view-header 10 0
+resources O resources 0 0 0 0 0 0 0 div div view-header 10 0
+that O that 0 0 0 0 0 0 0 div div view-header 10 0
+foster O foster 0 0 0 0 0 0 0 div div view-header 10 0
+the O the 0 1 0 0 0 0 0 div div view-header 10 0
+enhancement O enhancement 0 0 0 0 0 0 0 div div view-header 10 0
+of O of 0 1 0 0 0 0 0 div div view-header 10 0
+teaching O teaching 0 0 0 0 0 0 0 div div view-header 10 0
+and O and 0 1 0 0 0 0 0 div div view-header 10 0
+learning O learning 0 0 0 0 0 0 0 div div view-header 10 0
+may O may 0 0 0 0 0 0 0 div div view-header 10 0
+be O be 0 1 0 0 0 0 0 div div view-header 10 0
+found O found 0 0 0 0 0 0 0 div div view-header 10 0
+here. O here. 0 0 0 0 0 0 0 div div view-header 10 0
+
+NYU O nyu 0 0 0 0 0 0 1 div div view-header 10 1
+Shanghai O shanghai 0 1 0 0 0 0 1 div div view-header 10 1
+is O is 0 0 0 0 0 0 0 div div view-header 10 1
+a O a 0 1 0 0 0 0 0 div div view-header 10 1
+community O community 0 0 0 0 0 0 0 div div view-header 10 1
+that O that 0 0 0 0 0 0 0 div div view-header 10 1
+values O values 0 0 0 0 0 0 0 div div view-header 10 1
+the O the 0 1 0 0 0 0 0 div div view-header 10 1
+tradition O tradition 0 0 0 0 0 0 0 div div view-header 10 1
+of O of 0 1 0 0 0 0 0 div div view-header 10 1
+fostering O fostering 0 0 0 0 0 0 0 div div view-header 10 1
+innovative O innovative 0 0 0 0 0 0 0 div div view-header 10 1
+research. O research. 0 0 0 0 0 0 0 div div view-header 10 1
+The O the 0 1 0 0 0 0 1 div div view-header 10 1
+scholarship O scholarship 0 0 0 0 0 0 0 div div view-header 10 1
+provided O provided 0 0 0 0 0 0 0 div div view-header 10 1
+by O by 0 1 0 0 0 0 0 div div view-header 10 1
+our O our 0 0 0 0 0 0 0 div div view-header 10 1
+faculty O faculty 0 0 0 0 0 0 0 div div view-header 10 1
+contributes O contributes 0 0 0 0 0 0 0 div div view-header 10 1
+to O to 0 0 0 0 0 0 0 div div view-header 10 1
+the O the 0 1 0 0 0 0 0 div div view-header 10 1
+advancement O advancement 0 0 0 0 0 0 0 div div view-header 10 1
+of O of 0 1 0 0 0 0 0 div div view-header 10 1
+the O the 0 1 0 0 0 0 0 div div view-header 10 1
+sciences O sciences 0 0 0 0 0 0 0 div div view-header 10 1
+, O , 0 0 0 0 0 0 0 div div view-header 10 1
+arts O arts 0 0 0 0 0 0 0 div div view-header 10 1
+, O , 0 0 0 0 0 0 0 div div view-header 10 1
+humanities O humanities 0 0 0 0 0 0 0 div div view-header 10 1
+, O , 0 0 0 0 0 0 0 div div view-header 10 1
+and O and 0 1 0 0 0 0 0 div div view-header 10 1
+professional O professional 0 0 0 0 1 0 0 div div view-header 10 1
+studies. O studies. 0 0 0 0 0 0 0 div div view-header 10 1
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul view-dom-id-5485cdfd7c8218d76f5a4df045faaeec 12 0
+Portal O portal 0 1 0 0 0 0 1 li ul view-dom-id-5485cdfd7c8218d76f5a4df045faaeec 12 0
+
+Workday O workday 0 0 0 0 0 0 1 li ul view-dom-id-5485cdfd7c8218d76f5a4df045faaeec 12 0
+
+Open O open 0 0 0 0 0 0 1 li ul view-dom-id-5485cdfd7c8218d76f5a4df045faaeec 12 0
+Positions O positions 0 0 0 0 0 0 1 li ul view-dom-id-5485cdfd7c8218d76f5a4df045faaeec 12 0
+
+Staff O staff 0 1 0 0 0 0 1 li ul view-dom-id-5485cdfd7c8218d76f5a4df045faaeec 12 0
+Directory O directory 0 0 0 0 0 0 1 li ul view-dom-id-5485cdfd7c8218d76f5a4df045faaeec 12 0
+
+Update O update 0 0 0 0 0 0 1 a div heading-title 13 1
+Profile O profile 0 0 0 0 1 0 1 a div heading-title 13 1
+
+Search O search 0 0 0 0 0 0 1 div div float-left 12 0
+
+Current O current 0 1 0 0 0 0 1 h5 div current-appointments-filter 13 1
+Appointments O appointments 0 0 0 0 0 0 1 h5 div current-appointments-filter 13 1
+
+All O all 0 1 0 0 0 0 1 li ul exposed-filter-button 15 0
+Ranks O ranks 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Leadership O leadership 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Tenured O tenured 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Tenure O tenure 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Track O track 0 1 0 0 0 0 1 li ul exposed-filter-button 15 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Assistant O assistant 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Professor O professor 0 0 0 0 1 0 1 li ul exposed-filter-button 15 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Fellow O fellow 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Continuing O continuing 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Contract O contract 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Affiliated O affiliated 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Visiting O visiting 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Adjunct O adjunct 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Honorary O honorary 0 0 0 0 1 0 1 li ul exposed-filter-button 15 0
+Appointments O appointments 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Research O research 0 1 0 0 0 0 1 li ul exposed-filter-button 15 0
+and O and 0 1 0 0 0 0 0 li ul exposed-filter-button 15 0
+Teaching O teaching 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Support O support 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Others O others 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Completed O completed 0 0 0 0 0 0 1 h5 div archived-appointments-filter 13 1
+Appointments O appointments 0 0 0 0 0 0 1 h5 div archived-appointments-filter 13 1
+
+All O all 0 1 0 0 0 0 1 li ul exposed-filter-button 15 0
+Ranks O ranks 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Leadership O leadership 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Tenured O tenured 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Tenure O tenure 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Track O track 0 1 0 0 0 0 1 li ul exposed-filter-button 15 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Assistant O assistant 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Professor O professor 0 0 0 0 1 0 1 li ul exposed-filter-button 15 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Fellow O fellow 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Continuing O continuing 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Contract O contract 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Affiliated O affiliated 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Visiting O visiting 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Adjunct O adjunct 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Faculty O faculty 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Honorary O honorary 0 0 0 0 1 0 1 li ul exposed-filter-button 15 0
+Appointments O appointments 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Research O research 0 1 0 0 0 0 1 li ul exposed-filter-button 15 0
+and O and 0 1 0 0 0 0 0 li ul exposed-filter-button 15 0
+Teaching O teaching 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Support O support 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Others O others 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Disciplines O disciplines 0 0 0 0 0 0 1 h5 div disciplines-filter 13 1
+
+All O all 0 1 0 0 0 0 1 li ul exposed-filter-button 15 0
+Disciplines O disciplines 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Anthropology O anthropology 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Arts O arts 0 1 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Business O business 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Environmental O environmental 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Studies O studies 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Journalism O journalism 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Neuroscience O neuroscience 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Statistics O statistics 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Art O art 0 1 0 0 0 0 1 li ul exposed-filter-button 15 0
+and O and 0 1 0 0 0 0 0 li ul exposed-filter-button 15 0
+Architecture O architecture 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Biology O biology 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Chemistry O chemistry 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Chinese O chinese 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Language O language 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Computer O computer 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Science O science 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Economics O economics 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Engineering O engineering 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+English O english 0 1 0 0 0 0 1 li ul exposed-filter-button 15 0
+for O for 0 1 0 0 0 0 0 li ul exposed-filter-button 15 0
+Academic O academic 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Purposes O purposes 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Global O global 0 1 0 0 0 0 1 li ul exposed-filter-button 15 0
+China O china 0 1 0 0 0 0 1 li ul exposed-filter-button 15 0
+Studies O studies 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+History O history 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Interactive O interactive 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Media O media 0 1 0 0 0 0 1 li ul exposed-filter-button 15 0
+Arts O arts 0 1 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Law O law 0 1 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Literature O literature 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Neural O neural 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+and O and 0 1 0 0 0 0 0 li ul exposed-filter-button 15 0
+Cognitive O cognitive 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Social O social 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Philosophy O philosophy 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Physics O physics 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Political O political 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Science O science 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Psychology O psychology 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Writing O writing 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+NYUSPS O nyusps 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+at O at 0 0 0 0 0 0 0 li ul exposed-filter-button 15 0
+NYU O nyu 0 0 0 0 0 0 1 li ul exposed-filter-button 15 0
+Shanghai O shanghai 0 1 0 0 0 0 1 li ul exposed-filter-button 15 0
+
+Saskia B-PER saskia 0 1 0 0 0 0 1 span div field-content 16 0
+Abrahms I-PER abrahms 0 0 0 0 0 0 1 span div field-content 16 0
+- I-PER - 0 0 0 0 0 0 0 span div field-content 16 0
+Kavunenko I-PER kavunenko 0 1 0 0 0 0 1 span div field-content 16 0
+
+Anthropology O anthropology 0 0 0 0 0 0 1 div div active 16 0
+
+Global O global 0 1 0 0 0 0 1 div li field-content 15 0
+Perspectives O perspectives 0 0 0 0 0 0 1 div li field-content 15 0
+on O on 0 0 0 0 0 0 0 div li field-content 15 0
+Society O society 0 0 0 0 0 0 1 div li field-content 15 0
+Teaching O teaching 0 0 0 0 0 0 1 div li field-content 15 0
+Fellow O fellow 0 0 0 0 0 0 1 div li field-content 15 0
+
+Christina B-PER christina 0 1 0 0 0 0 1 span div field-content 16 0
+Ammon I-PER ammon 0 1 0 0 0 0 1 span div field-content 16 0
+
+Economics O economics 0 0 0 0 0 0 1 div div active 16 0
+
+Assistant O assistant 0 0 0 0 0 0 1 div li field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div li field-content 15 0
+Faculty O faculty 0 0 0 0 0 0 1 div li field-content 15 0
+Fellow O fellow 0 0 0 0 0 0 1 div li field-content 15 0
+, O , 0 0 0 0 0 0 0 div li field-content 15 0
+NYU O nyu 0 0 0 0 0 0 1 div li field-content 15 0
+Shanghai O shanghai 0 1 0 0 0 0 1 div li field-content 15 0
+
+Yehuda B-PER yehuda 0 1 0 0 0 0 1 span div field-content 16 0
+Band I-PER band 0 1 0 0 0 0 1 span div field-content 16 0
+
+Physics O physics 0 0 0 0 0 0 1 div div active 16 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div li field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div li field-content 15 0
+of O of 0 1 0 0 0 0 0 div li field-content 15 0
+Physics O physics 0 0 0 0 0 0 1 div li field-content 15 0
+
+Amy B-PER amy 0 1 0 0 0 0 1 span div field-content 16 0
+Becker I-PER becker 0 1 0 0 0 0 1 span div field-content 16 0
+
+Writing O writing 0 0 0 0 0 0 1 div div active 16 0
+
+Director O director 0 1 0 0 0 0 1 div li field-content 15 0
+of O of 0 1 0 0 0 0 0 div li field-content 15 0
+the O the 0 1 0 0 0 0 0 div li field-content 15 0
+Writing O writing 0 0 0 0 0 0 1 div li field-content 15 0
+Program O program 0 0 0 0 0 0 1 div li field-content 15 0
+, O , 0 0 0 0 0 0 0 div li field-content 15 0
+Senior O senior 0 1 0 0 0 0 1 div li field-content 15 0
+Lecturer O lecturer 0 0 0 0 0 0 1 div li field-content 15 0
+
+Matthew B-PER matthew 0 1 0 0 0 0 1 span div field-content 16 0
+Belanger I-PER belanger 0 1 0 0 0 0 1 span div field-content 16 0
+
+Interactive O interactive 0 0 0 0 0 0 1 div div active 16 0
+Media O media 0 1 0 0 0 0 1 div div active 16 0
+Arts O arts 0 1 0 0 0 0 1 div div active 16 0
+
+Assistant O assistant 0 0 0 0 0 0 1 div li field-content 15 0
+Dean O dean 0 1 0 0 0 0 1 div li field-content 15 0
+for O for 0 1 0 0 0 0 0 div li field-content 15 0
+Emerging O emerging 0 0 0 0 1 0 1 div li field-content 15 0
+Media O media 0 1 0 0 0 0 1 div li field-content 15 0
+, O , 0 0 0 0 0 0 0 div li field-content 15 0
+Assistant O assistant 0 0 0 0 0 0 1 div li field-content 15 0
+Arts O arts 0 1 0 0 0 0 1 div li field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div li field-content 15 0
+, O , 0 0 0 0 0 0 0 div li field-content 15 0
+NYU O nyu 0 0 0 0 0 0 1 div li field-content 15 0
+Shanghai O shanghai 0 1 0 0 0 0 1 div li field-content 15 0
+; O ; 0 0 0 0 0 0 0 div li field-content 15 0
+Global O global 0 1 0 0 0 0 1 div li field-content 15 0
+Network O network 0 0 0 0 0 0 1 div li field-content 15 0
+Assistant O assistant 0 0 0 0 0 0 1 div li field-content 15 0
+Arts O arts 0 1 0 0 0 0 1 div li field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div li field-content 15 0
+, O , 0 0 0 0 0 0 0 div li field-content 15 0
+NYU O nyu 0 0 0 0 0 0 1 div li field-content 15 0
+
+Fareed B-PER fareed 0 1 0 0 0 0 1 span div field-content 16 0
+Ismail I-PER ismail 0 1 0 0 0 0 1 span div field-content 16 0
+Ben I-PER ben 0 1 0 0 0 0 1 span div field-content 16 0
+- I-PER - 0 0 0 0 0 0 0 span div field-content 16 0
+Youssef I-PER youssef 0 1 0 0 0 0 1 span div field-content 16 0
+
+Arts O arts 0 1 0 0 0 0 1 div div active 16 0
+
+Global O global 0 1 0 0 0 0 1 div li field-content 15 0
+Perspectives O perspectives 0 0 0 0 0 0 1 div li field-content 15 0
+on O on 0 0 0 0 0 0 0 div li field-content 15 0
+Society O society 0 0 0 0 0 0 1 div li field-content 15 0
+Teaching O teaching 0 0 0 0 0 0 1 div li field-content 15 0
+Fellow O fellow 0 0 0 0 0 0 1 div li field-content 15 0
+
+Ritwik B-PER ritwik 0 1 0 0 0 0 1 span div field-content 16 0
+Bhattacharyya I-PER bhattacharyya 0 1 0 0 0 0 1 span div field-content 16 0
+
+Arts O arts 0 1 0 0 0 0 1 div div active 16 0
+
+Global O global 0 1 0 0 0 0 1 div li field-content 15 0
+Perspectives O perspectives 0 0 0 0 0 0 1 div li field-content 15 0
+on O on 0 0 0 0 0 0 0 div li field-content 15 0
+Society O society 0 0 0 0 0 0 1 div li field-content 15 0
+Teaching O teaching 0 0 0 0 0 0 1 div li field-content 15 0
+Fellow O fellow 0 0 0 0 0 0 1 div li field-content 15 0
+
+Jinghong B-PER jinghong 0 1 0 0 0 0 1 span div field-content 16 0
+Bi I-PER bi 0 1 0 0 0 0 1 span div field-content 16 0
+
+Chinese O chinese 0 0 0 0 0 0 1 div div active 16 0
+Language O language 0 0 0 0 0 0 1 div div active 16 0
+
+Instructor O instructor 0 0 0 0 0 0 1 div li field-content 15 0
+of O of 0 1 0 0 0 0 0 div li field-content 15 0
+Chinese O chinese 0 0 0 0 0 0 1 div li field-content 15 0
+Language O language 0 0 0 0 0 0 1 div li field-content 15 0
+
+Adam B-PER adam 1 1 0 0 0 0 1 span div field-content 16 0
+Brandenburger I-PER brandenburger 1 1 0 0 0 0 1 span div field-content 16 0
+
+Economics O economics 0 0 0 0 0 0 1 div div active 16 0
+
+J.P. O j.p. 0 0 0 0 0 0 1 div li field-content 15 0
+Valles O valles 0 1 0 0 0 0 1 div li field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div li field-content 15 0
+, O , 0 0 0 0 0 0 0 div li field-content 15 0
+Stern O stern 0 1 0 0 0 0 1 div li field-content 15 0
+School O school 0 1 0 0 0 0 1 div li field-content 15 0
+of O of 0 1 0 0 0 0 0 div li field-content 15 0
+Business O business 0 0 0 0 0 0 1 div li field-content 15 0
+; O ; 0 0 0 0 0 0 0 div li field-content 15 0
+Distinguished O distinguished 0 0 0 0 0 0 1 div li field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div li field-content 15 0
+, O , 0 0 0 0 0 0 0 div li field-content 15 0
+Tandon O tandon 0 1 0 0 0 0 1 div li field-content 15 0
+School O school 0 1 0 0 0 0 1 div li field-content 15 0
+of O of 0 1 0 0 0 0 0 div li field-content 15 0
+Engineering O engineering 0 0 0 0 0 0 1 div li field-content 15 0
+, O , 0 0 0 0 0 0 0 div li field-content 15 0
+NYU O nyu 0 0 0 0 0 0 1 div li field-content 15 0
+; O ; 0 0 0 0 0 0 0 div li field-content 15 0
+Director O director 0 1 0 0 0 0 1 div li field-content 15 0
+of O of 0 1 0 0 0 0 0 div li field-content 15 0
+the O the 0 1 0 0 0 0 0 div li field-content 15 0
+NYU O nyu 0 0 0 0 0 0 1 div li field-content 15 0
+Shanghai O shanghai 0 1 0 0 0 0 1 div li field-content 15 0
+Program O program 0 0 0 0 0 0 1 div li field-content 15 0
+on O on 0 0 0 0 0 0 0 div li field-content 15 0
+Creativity O creativity 0 0 0 0 0 0 1 div li field-content 15 0
++ O + 0 0 0 0 0 0 0 div li field-content 15 0
+Innovation O innovation 0 0 0 0 0 0 1 div li field-content 15 0
+, O , 0 0 0 0 0 0 0 div li field-content 15 0
+Affiliated O affiliated 0 0 0 0 0 0 1 div li field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div li field-content 15 0
+, O , 0 0 0 0 0 0 0 div li field-content 15 0
+Global O global 0 1 0 0 0 0 1 div li field-content 15 0
+Network O network 0 0 0 0 0 0 1 div li field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div li field-content 15 0
+, O , 0 0 0 0 0 0 0 div li field-content 15 0
+NYU O nyu 0 0 0 0 0 0 1 div li field-content 15 0
+Shanghai O shanghai 0 1 0 0 0 0 1 div li field-content 15 0
+
+Nicolas B-PER nicolas 1 1 0 0 0 0 1 span div field-content 16 0
+Broutin I-PER broutin 1 1 0 0 0 0 1 span div field-content 16 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 div div active 16 0
+
+Visiting O visiting 0 0 0 0 0 0 1 div li field-content 15 0
+Associate O associate 0 1 0 0 0 0 1 div li field-content 15 0
+Professor O professor 0 0 0 0 1 0 1 div li field-content 15 0
+of O of 0 1 0 0 0 0 0 div li field-content 15 0
+Mathematics O mathematics 0 0 0 0 0 0 1 div li field-content 15 0
+
+- O - 0 0 0 0 0 0 0 select div form-select 20 0
+Any O any 0 0 0 0 0 0 1 select div form-select 20 0
+- O - 0 0 0 0 0 0 0 select div form-select 20 0
+
+True O true 0 1 0 0 0 0 1 select div form-select 20 1
+
+False O false 0 0 0 0 0 0 1 select div form-select 20 2
+
+Sort O sort 0 1 0 0 0 0 1 div div form-item-sort-by 18 0
+
+Last O last 0 1 0 0 0 0 1 select div form-select 19 0
+name O name 0 0 0 0 0 0 0 select div form-select 19 0
+( O ( 0 0 0 0 0 0 0 select div form-select 19 0
+field_last_name O field_last_name 0 0 0 0 0 0 0 select div form-select 19 0
+) O ) 0 0 0 0 0 0 0 select div form-select 19 0
+
+Order O order 0 0 0 0 0 0 1 div div form-item-sort-order 18 0
+
+( O ( 0 0 0 0 0 0 0 select div form-select 19 0
+Asc O asc 0 0 0 0 0 0 1 select div form-select 19 0
+) O ) 0 0 0 0 0 0 0 select div form-select 19 0
+
+( O ( 0 0 0 0 0 0 0 select div form-select 19 1
+Desc O desc 0 0 0 0 0 0 1 select div form-select 19 1
+) O ) 0 0 0 0 0 0 0 select div form-select 19 1
+
+Pages O pages 0 1 0 0 0 0 1 div div element-invisible 10 296
+
+1 O 1 0 0 0 1 0 0 0 ul div first 12 0
+
+2 O 2 0 0 0 1 0 0 0 li ul pager-item 13 0
+
+3 O 3 0 0 0 1 0 0 0 li ul pager-item 13 0
+
+4 O 4 0 0 0 1 0 0 0 li ul pager-item 13 0
+
+5 O 5 0 0 0 1 0 0 0 li ul pager-item 13 0
+
+… O … 0 0 0 0 0 0 0 ul div pager-ellipsis 12 9
+
+next O next 0 0 0 0 0 0 0 li ul pager-next 13 0
+› O › 0 0 0 0 0 0 0 li ul pager-next 13 0
+
+last O last 0 0 0 0 0 0 0 li ul last 13 0
+» O » 0 0 0 0 0 0 0 li ul last 13 0
+
+NYU O nyu 0 0 0 0 0 0 1 div div bottom-title 8 0
+SHANGHAI O shanghai 0 0 0 0 0 0 1 div div bottom-title 8 0
+
+Copyright O copyright 0 0 0 0 0 0 1 div div description 7 4
+© O © 0 0 0 0 0 0 0 div div description 7 4
+2017 O 2017 0 0 0 1 0 0 0 div div description 7 4
+NYU O nyu 0 0 0 0 0 0 1 div div description 7 4
+Shanghai. O shanghai. 0 0 0 0 0 0 1 div div description 7 4
+All O all 0 1 0 0 0 0 1 div div description 7 4
+rights O rights 0 0 0 0 0 0 0 div div description 7 4
+reserved. O reserved. 0 0 0 0 0 0 0 div div description 7 4
+
+LOGOUT O logout 0 0 0 0 0 0 1 li ul logout 9 0
+
+STAFF O staff 0 0 0 0 0 0 1 li ul login 9 0
+LOGIN O login 0 0 0 0 0 0 1 li ul login 9 0
+
+CONTACT O contact 0 0 0 0 0 0 1 li ul contact 9 0
+US O us 0 0 0 0 0 0 1 li ul contact 9 0
+
+中 O 中 0 0 0 0 0 0 0 li ul language 9 0

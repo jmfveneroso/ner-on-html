@@ -3,3 +3,5 @@ do
   echo $i
   python tokenizer.py $i > dataset/$i.txt
 done
+
+python merge_datasets.py

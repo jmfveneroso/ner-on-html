@@ -1,774 +1,774 @@
-Contacts O contacts 0 0 0 0 0 0 1 head html none 4 1
-« O « 0 0 0 0 0 0 0 head html none 4 1
-Computer O computer 0 0 0 0 0 0 1 head html none 4 1
-Science O science 0 0 0 0 0 0 1 head html none 4 1
-Department O department 0 0 0 0 0 0 1 head html none 4 1
+Contacts O contacts 0 0 0 0 0 0 1 0 5 head html none 4 1
+« O « 0 0 0 0 0 0 0 0 0 head html none 4 1
+Computer O computer 0 0 0 0 0 0 1 0 7 head html none 4 1
+Science O science 0 0 0 0 0 0 1 0 7 head html none 4 1
+Department O department 0 0 0 0 0 0 1 0 7 head html none 4 1
 
-Computer O computer 0 0 0 0 0 0 1 h2 td blogtitle 13 0
-Science O science 0 0 0 0 0 0 1 h2 td blogtitle 13 0
-Department O department 0 0 0 0 0 0 1 h2 td blogtitle 13 0
+Computer O computer 0 0 0 0 0 0 1 0 7 h2 td blogtitle 13 0
+Science O science 0 0 0 0 0 0 1 0 7 h2 td blogtitle 13 0
+Department O department 0 0 0 0 0 0 1 0 7 h2 td blogtitle 13 0
 
-Accueil O accueil 0 0 0 0 0 0 1 a li page_item 13 0
+Accueil O accueil 0 0 0 0 0 0 1 0 7 a li page_item 13 0
 
-Academic O academic 0 0 0 0 0 0 1 a li page_item_has_children 13 0
-programs O programs 0 0 0 0 0 0 0 a li page_item_has_children 13 0
+Academic O academic 0 0 0 0 0 0 1 0 8 a li page_item_has_children 13 0
+programs O programs 0 0 0 0 0 0 0 0 8 a li page_item_has_children 13 0
 
-Bachelor O bachelor 0 1 0 0 0 0 1 a li page-item-18 15 0
-of O of 0 1 0 0 0 0 0 a li page-item-18 15 0
-Science O science 0 0 0 0 0 0 1 a li page-item-18 15 0
+Bachelor O bachelor 0 1 0 0 0 0 1 1 5 a li page-item-18 15 0
+of O of 0 1 0 0 0 0 0 2 10 a li page-item-18 15 0
+Science O science 0 0 0 0 0 0 1 0 7 a li page-item-18 15 0
 
-Master O master 0 1 0 0 1 0 1 a li page-item-4036 15 0
-1 O 1 0 0 0 1 0 0 0 a li page-item-4036 15 0
+Master O master 0 1 0 0 1 0 1 3 6 a li page-item-4036 15 0
+1 O 1 0 0 0 1 0 0 0 0 0 a li page-item-4036 15 0
 
-Master O master 0 1 0 0 1 0 1 a li page-item-16 15 0
-2 O 2 0 0 0 1 0 0 0 a li page-item-16 15 0
+Master O master 0 1 0 0 1 0 1 3 6 a li page-item-16 15 0
+2 O 2 0 0 0 1 0 0 0 0 0 a li page-item-16 15 0
 
-Agrégation O agregation 0 0 0 0 0 0 1 a li page-item-1141 15 0
+Agrégation O agregation 0 0 0 0 0 0 1 0 4 a li page-item-1141 15 0
 
-ENS O ens 0 0 0 0 0 0 1 a li page-item-4759 15 0
-diploma O diploma 0 0 0 0 0 0 0 a li page-item-4759 15 0
+ENS O ens 0 0 0 0 0 0 1 0 5 a li page-item-4759 15 0
+diploma O diploma 0 0 0 0 0 0 0 0 5 a li page-item-4759 15 0
 
-Admissions O admissions 0 0 0 0 0 0 1 a li page-item-33 13 0
+Admissions O admissions 0 0 0 0 0 0 1 0 7 a li page-item-33 13 0
 
-Student O student 0 1 0 0 0 0 1 a li page-item-730 13 0
-seminar O seminar 0 0 0 0 0 0 0 a li page-item-730 13 0
+Student O student 0 1 0 0 0 0 1 1 8 a li page-item-730 13 0
+seminar O seminar 0 0 0 0 0 0 0 0 4 a li page-item-730 13 0
 
-Research O research 0 1 0 0 0 0 1 a li page-item-2867 13 0
-schools O schools 0 0 0 0 0 0 0 a li page-item-2867 13 0
+Research O research 0 1 0 0 0 0 1 0 7 a li page-item-2867 13 0
+schools O schools 0 0 0 0 0 0 0 0 6 a li page-item-2867 13 0
 
-Double O double 0 1 0 0 0 0 1 a li page-item-5007 13 0
-Diploma O diploma 0 0 0 0 0 0 1 a li page-item-5007 13 0
-with O with 0 0 0 0 0 0 0 a li page-item-5007 13 0
-EPFL O epfl 0 0 0 0 0 0 1 a li page-item-5007 13 0
+Double O double 0 1 0 0 0 0 1 1 6 a li page-item-5007 13 0
+Diploma O diploma 0 0 0 0 0 0 1 0 5 a li page-item-5007 13 0
+with O with 0 0 0 0 0 0 0 0 8 a li page-item-5007 13 0
+EPFL O epfl 0 0 0 0 0 0 1 0 4 a li page-item-5007 13 0
 
-Partnership O partnership 0 0 0 0 0 0 1 a li page-item-3501 13 0
-Hanoi O hanoi 0 0 0 0 0 0 1 a li page-item-3501 13 0
+Partnership O partnership 0 0 0 0 0 0 1 0 5 a li page-item-3501 13 0
+Hanoi O hanoi 0 0 0 0 0 0 1 0 4 a li page-item-3501 13 0
 
-Woman O woman 0 0 0 0 0 0 1 a li page-item-5027 13 0
-computer O computer 0 0 0 0 0 0 0 a li page-item-5027 13 0
-scientists O scientists 0 0 0 0 0 0 0 a li page-item-5027 13 0
+Woman O woman 0 0 0 0 0 0 1 0 4 a li page-item-5027 13 0
+computer O computer 0 0 0 0 0 0 0 0 7 a li page-item-5027 13 0
+scientists O scientists 0 0 0 0 0 0 0 0 4 a li page-item-5027 13 0
 
-Contacts O contacts 0 0 0 0 0 0 1 a li current_page_item 13 0
+Contacts O contacts 0 0 0 0 0 0 1 0 5 a li current_page_item 13 0
 
-Soutenir O soutenir 0 0 0 0 0 0 1 li ul cat-item-61 12 0
-le O le 0 1 0 0 0 0 0 li ul cat-item-61 12 0
-DI O di 0 0 0 0 0 0 1 li ul cat-item-61 12 0
+Soutenir O soutenir 0 0 0 0 0 0 1 0 5 li ul cat-item-61 12 0
+le O le 0 1 0 0 0 0 0 4 11 li ul cat-item-61 12 0
+DI O di 0 0 0 0 0 0 1 0 7 li ul cat-item-61 12 0
 
-Non O non 0 1 0 0 0 0 1 li ul cat-item-9 12 0
-classés O classes 0 0 0 0 0 0 0 li ul cat-item-9 12 0
+Non O non 0 1 0 0 0 0 1 2 8 li ul cat-item-9 12 0
+classés O classes 0 0 0 0 0 0 0 0 6 li ul cat-item-9 12 0
 
-Documents O documents 0 0 0 0 0 0 1 li ul cat-item-29 12 0
+Documents O documents 0 0 0 0 0 0 1 0 6 li ul cat-item-29 12 0
 
-Informations O informations 0 0 0 0 0 0 1 li ul cat-item-46 12 0
-générales O generales 0 0 0 0 0 0 0 li ul cat-item-46 12 0
+Informations O informations 0 0 0 0 0 0 1 0 7 li ul cat-item-46 12 0
+générales O generales 0 0 0 0 0 0 0 0 5 li ul cat-item-46 12 0
 
-Stages O stages 0 0 0 0 0 0 1 li ul cat-item-65 12 0
+Stages O stages 0 0 0 0 0 0 1 0 5 li ul cat-item-65 12 0
 
-2016 O 2016 0 0 0 1 0 0 0 li ul cat-item-73 12 0
-- O - 0 0 0 0 0 0 0 li ul cat-item-73 12 0
-2017 O 2017 0 0 0 1 0 0 0 li ul cat-item-73 12 0
+2016 O 2016 0 0 0 1 0 0 0 0 0 li ul cat-item-73 12 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul cat-item-73 12 0
+2017 O 2017 0 0 0 1 0 0 0 0 0 li ul cat-item-73 12 0
 
-Informations O informations 0 0 0 0 0 0 1 li ul cat-item-60 14 0
-L3 O l3 0 0 0 1 0 0 1 li ul cat-item-60 14 0
+Informations O informations 0 0 0 0 0 0 1 0 7 li ul cat-item-60 14 0
+L3 O l3 0 0 0 1 0 0 1 0 0 li ul cat-item-60 14 0
 
-Informations O informations 0 0 0 0 0 0 1 li ul cat-item-74 14 0
-M1 O m1 0 0 0 1 0 0 1 li ul cat-item-74 14 0
+Informations O informations 0 0 0 0 0 0 1 0 7 li ul cat-item-74 14 0
+M1 O m1 0 0 0 1 0 0 1 0 0 li ul cat-item-74 14 0
 
-Informations O informations 0 0 0 0 0 0 1 li ul cat-item-75 14 0
-M2 O m2 0 0 0 1 0 0 1 li ul cat-item-75 14 0
+Informations O informations 0 0 0 0 0 0 1 0 7 li ul cat-item-75 14 0
+M2 O m2 0 0 0 1 0 0 1 0 0 li ul cat-item-75 14 0
 
-Ecoles O ecoles 0 0 0 0 0 0 1 li ul cat-item-76 14 0
-de O de 0 1 0 0 0 0 0 li ul cat-item-76 14 0
-recherche O recherche 0 0 0 0 0 0 0 li ul cat-item-76 14 0
+Ecoles O ecoles 0 0 0 0 0 0 1 0 6 li ul cat-item-76 14 0
+de O de 0 1 0 0 0 0 0 9 12 li ul cat-item-76 14 0
+recherche O recherche 0 0 0 0 0 0 0 0 7 li ul cat-item-76 14 0
 
-Ecoles O ecoles 0 0 0 0 0 0 1 li ul cat-item-77 16 0
-de O de 0 1 0 0 0 0 0 li ul cat-item-77 16 0
-recherche O recherche 0 0 0 0 0 0 0 li ul cat-item-77 16 0
-( O ( 0 0 0 0 0 0 0 li ul cat-item-77 16 0
-Lyon O lyon 0 1 0 0 0 0 1 li ul cat-item-77 16 0
-) O ) 0 0 0 0 0 0 0 li ul cat-item-77 16 0
+Ecoles O ecoles 0 0 0 0 0 0 1 0 6 li ul cat-item-77 16 0
+de O de 0 1 0 0 0 0 0 9 12 li ul cat-item-77 16 0
+recherche O recherche 0 0 0 0 0 0 0 0 7 li ul cat-item-77 16 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul cat-item-77 16 0
+Lyon O lyon 0 1 0 0 0 0 1 4 7 li ul cat-item-77 16 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul cat-item-77 16 0
 
-Ecoles O ecoles 0 0 0 0 0 0 1 li ul cat-item-78 16 0
-de O de 0 1 0 0 0 0 0 li ul cat-item-78 16 0
-recherche O recherche 0 0 0 0 0 0 0 li ul cat-item-78 16 0
-( O ( 0 0 0 0 0 0 0 li ul cat-item-78 16 0
-Sophia O sophia 0 1 0 0 0 0 1 li ul cat-item-78 16 0
-- O - 0 0 0 0 0 0 0 li ul cat-item-78 16 0
-Antipolis O antipolis 0 1 0 0 0 0 1 li ul cat-item-78 16 0
-) O ) 0 0 0 0 0 0 0 li ul cat-item-78 16 0
+Ecoles O ecoles 0 0 0 0 0 0 1 0 6 li ul cat-item-78 16 0
+de O de 0 1 0 0 0 0 0 9 12 li ul cat-item-78 16 0
+recherche O recherche 0 0 0 0 0 0 0 0 7 li ul cat-item-78 16 0
+( O-PUNCT ( 1 1 0 0 0 0 0 6 0 li ul cat-item-78 16 0
+Sophia O sophia 1 1 0 0 0 0 1 5 5 li ul cat-item-78 16 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 li ul cat-item-78 16 0
+Antipolis O antipolis 1 1 0 0 0 0 1 0 4 li ul cat-item-78 16 0
+) O-PUNCT ) 1 1 0 0 0 0 0 6 0 li ul cat-item-78 16 0
 
-2017 O 2017 0 0 0 1 0 0 0 li ul cat-item-80 12 0
-- O - 0 0 0 0 0 0 0 li ul cat-item-80 12 0
-2018 O 2018 0 0 0 1 0 0 0 li ul cat-item-80 12 0
+2017 O 2017 0 0 0 1 0 0 0 0 0 li ul cat-item-80 12 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul cat-item-80 12 0
+2018 O 2018 0 0 0 1 0 0 0 0 0 li ul cat-item-80 12 0
 
-Informations O informations 0 0 0 0 0 0 1 li ul cat-item-82 14 0
-M1 O m1 0 0 0 1 0 0 1 li ul cat-item-82 14 0
+Informations O informations 0 0 0 0 0 0 1 0 7 li ul cat-item-82 14 0
+M1 O m1 0 0 0 1 0 0 1 0 0 li ul cat-item-82 14 0
 
-Informations O informations 0 0 0 0 0 0 1 li ul cat-item-83 14 0
-M2 O m2 0 0 0 1 0 0 1 li ul cat-item-83 14 0
+Informations O informations 0 0 0 0 0 0 1 0 7 li ul cat-item-83 14 0
+M2 O m2 0 0 0 1 0 0 1 0 0 li ul cat-item-83 14 0
 
-Français O francais 0 1 0 0 0 0 1 a li ppqtrans_flag_and_text 13 0
+Français O francais 0 1 0 0 0 0 1 0 8 a li ppqtrans_flag_and_text 13 0
 
-English O english 0 1 0 0 0 0 1 a li ppqtrans_flag_and_text 13 0
+English O english 0 1 0 0 0 0 1 4 8 a li ppqtrans_flag_and_text 13 0
 
-Home O home 0 1 0 0 0 0 1 li ul page-item-719 12 0
+Home O home 0 1 0 0 0 0 1 2 6 li ul page-item-719 12 0
 
-Academic O academic 0 0 0 0 0 0 1 li ul page_item_has_children 12 0
-programs O programs 0 0 0 0 0 0 0 li ul page_item_has_children 12 0
+Academic O academic 0 0 0 0 0 0 1 0 8 li ul page_item_has_children 12 0
+programs O programs 0 0 0 0 0 0 0 0 8 li ul page_item_has_children 12 0
 
-Bachelor O bachelor 0 1 0 0 0 0 1 li ul page-item-18 14 0
-of O of 0 1 0 0 0 0 0 li ul page-item-18 14 0
-Science O science 0 0 0 0 0 0 1 li ul page-item-18 14 0
+Bachelor O bachelor 0 1 0 0 0 0 1 1 5 li ul page-item-18 14 0
+of O of 0 1 0 0 0 0 0 2 10 li ul page-item-18 14 0
+Science O science 0 0 0 0 0 0 1 0 7 li ul page-item-18 14 0
 
-Master O master 0 1 0 0 1 0 1 li ul page-item-4036 14 0
-1 O 1 0 0 0 1 0 0 0 li ul page-item-4036 14 0
+Master O master 0 1 0 0 1 0 1 3 6 li ul page-item-4036 14 0
+1 O 1 0 0 0 1 0 0 0 0 0 li ul page-item-4036 14 0
 
-Master O master 0 1 0 0 1 0 1 li ul page-item-16 14 0
-2 O 2 0 0 0 1 0 0 0 li ul page-item-16 14 0
+Master O master 0 1 0 0 1 0 1 3 6 li ul page-item-16 14 0
+2 O 2 0 0 0 1 0 0 0 0 0 li ul page-item-16 14 0
 
-Agrégation O agregation 0 0 0 0 0 0 1 li ul page-item-1141 14 0
+Agrégation O agregation 0 0 0 0 0 0 1 0 4 li ul page-item-1141 14 0
 
-ENS O ens 0 0 0 0 0 0 1 li ul page-item-4759 14 0
-diploma O diploma 0 0 0 0 0 0 0 li ul page-item-4759 14 0
+ENS O ens 0 0 0 0 0 0 1 0 5 li ul page-item-4759 14 0
+diploma O diploma 0 0 0 0 0 0 0 0 5 li ul page-item-4759 14 0
 
-Admissions O admissions 0 0 0 0 0 0 1 li ul page-item-33 12 0
+Admissions O admissions 0 0 0 0 0 0 1 0 7 li ul page-item-33 12 0
 
-Student O student 0 1 0 0 0 0 1 li ul page-item-730 12 0
-seminar O seminar 0 0 0 0 0 0 0 li ul page-item-730 12 0
+Student O student 0 1 0 0 0 0 1 1 8 li ul page-item-730 12 0
+seminar O seminar 0 0 0 0 0 0 0 0 4 li ul page-item-730 12 0
 
-Research O research 0 1 0 0 0 0 1 li ul page-item-2867 12 0
-schools O schools 0 0 0 0 0 0 0 li ul page-item-2867 12 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul page-item-2867 12 0
+schools O schools 0 0 0 0 0 0 0 0 6 li ul page-item-2867 12 0
 
-Double O double 0 1 0 0 0 0 1 li ul page-item-5007 12 0
-Diploma O diploma 0 0 0 0 0 0 1 li ul page-item-5007 12 0
-with O with 0 0 0 0 0 0 0 li ul page-item-5007 12 0
-EPFL O epfl 0 0 0 0 0 0 1 li ul page-item-5007 12 0
+Double O double 0 1 0 0 0 0 1 1 6 li ul page-item-5007 12 0
+Diploma O diploma 0 0 0 0 0 0 1 0 5 li ul page-item-5007 12 0
+with O with 0 0 0 0 0 0 0 0 8 li ul page-item-5007 12 0
+EPFL O epfl 0 0 0 0 0 0 1 0 4 li ul page-item-5007 12 0
 
-Partnership O partnership 0 0 0 0 0 0 1 li ul page-item-3501 12 0
-Hanoi O hanoi 0 0 0 0 0 0 1 li ul page-item-3501 12 0
+Partnership O partnership 0 0 0 0 0 0 1 0 5 li ul page-item-3501 12 0
+Hanoi O hanoi 0 0 0 0 0 0 1 0 4 li ul page-item-3501 12 0
 
-Woman O woman 0 0 0 0 0 0 1 li ul page-item-5027 12 0
-computer O computer 0 0 0 0 0 0 0 li ul page-item-5027 12 0
-scientists O scientists 0 0 0 0 0 0 0 li ul page-item-5027 12 0
+Woman O woman 0 0 0 0 0 0 1 0 4 li ul page-item-5027 12 0
+computer O computer 0 0 0 0 0 0 0 0 7 li ul page-item-5027 12 0
+scientists O scientists 0 0 0 0 0 0 0 0 4 li ul page-item-5027 12 0
 
-Contacts O contacts 0 0 0 0 0 0 1 li ul current_page_item 12 0
+Contacts O contacts 0 0 0 0 0 0 1 0 5 li ul current_page_item 12 0
 
-Practical O practical 0 0 0 0 0 0 1 div div widget-title 11 0
-information O information 0 0 0 0 0 0 0 div div widget-title 11 0
+Practical O practical 0 0 0 0 0 0 1 0 4 div div widget-title 11 0
+information O information 0 0 0 0 0 0 0 0 8 div div widget-title 11 0
 
-Soutenir O soutenir 0 0 0 0 0 0 1 li ul cat-item-61 12 0
-le O le 0 1 0 0 0 0 0 li ul cat-item-61 12 0
-DI O di 0 0 0 0 0 0 1 li ul cat-item-61 12 0
+Soutenir O soutenir 0 0 0 0 0 0 1 0 5 li ul cat-item-61 12 0
+le O le 0 1 0 0 0 0 0 4 11 li ul cat-item-61 12 0
+DI O di 0 0 0 0 0 0 1 0 7 li ul cat-item-61 12 0
 
-Documents O documents 0 0 0 0 0 0 1 li ul cat-item-29 12 0
+Documents O documents 0 0 0 0 0 0 1 0 6 li ul cat-item-29 12 0
 
-Informations O informations 0 0 0 0 0 0 1 li ul cat-item-46 12 0
-générales O generales 0 0 0 0 0 0 0 li ul cat-item-46 12 0
+Informations O informations 0 0 0 0 0 0 1 0 7 li ul cat-item-46 12 0
+générales O generales 0 0 0 0 0 0 0 0 5 li ul cat-item-46 12 0
 
-Stages O stages 0 0 0 0 0 0 1 li ul cat-item-65 12 0
+Stages O stages 0 0 0 0 0 0 1 0 5 li ul cat-item-65 12 0
 
-2016 O 2016 0 0 0 1 0 0 0 li ul cat-item-73 12 0
-- O - 0 0 0 0 0 0 0 li ul cat-item-73 12 0
-2017 O 2017 0 0 0 1 0 0 0 li ul cat-item-73 12 0
+2016 O 2016 0 0 0 1 0 0 0 0 0 li ul cat-item-73 12 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul cat-item-73 12 0
+2017 O 2017 0 0 0 1 0 0 0 0 0 li ul cat-item-73 12 0
 
-Informations O informations 0 0 0 0 0 0 1 li ul cat-item-60 14 0
-L3 O l3 0 0 0 1 0 0 1 li ul cat-item-60 14 0
+Informations O informations 0 0 0 0 0 0 1 0 7 li ul cat-item-60 14 0
+L3 O l3 0 0 0 1 0 0 1 0 0 li ul cat-item-60 14 0
 
-Informations O informations 0 0 0 0 0 0 1 li ul cat-item-74 14 0
-M1 O m1 0 0 0 1 0 0 1 li ul cat-item-74 14 0
+Informations O informations 0 0 0 0 0 0 1 0 7 li ul cat-item-74 14 0
+M1 O m1 0 0 0 1 0 0 1 0 0 li ul cat-item-74 14 0
 
-Informations O informations 0 0 0 0 0 0 1 li ul cat-item-75 14 0
-M2 O m2 0 0 0 1 0 0 1 li ul cat-item-75 14 0
+Informations O informations 0 0 0 0 0 0 1 0 7 li ul cat-item-75 14 0
+M2 O m2 0 0 0 1 0 0 1 0 0 li ul cat-item-75 14 0
 
-Ecoles O ecoles 0 0 0 0 0 0 1 li ul cat-item-76 14 0
-de O de 0 1 0 0 0 0 0 li ul cat-item-76 14 0
-recherche O recherche 0 0 0 0 0 0 0 li ul cat-item-76 14 0
+Ecoles O ecoles 0 0 0 0 0 0 1 0 6 li ul cat-item-76 14 0
+de O de 0 1 0 0 0 0 0 9 12 li ul cat-item-76 14 0
+recherche O recherche 0 0 0 0 0 0 0 0 7 li ul cat-item-76 14 0
 
-Ecoles O ecoles 0 0 0 0 0 0 1 li ul cat-item-77 16 0
-de O de 0 1 0 0 0 0 0 li ul cat-item-77 16 0
-recherche O recherche 0 0 0 0 0 0 0 li ul cat-item-77 16 0
-( O ( 0 0 0 0 0 0 0 li ul cat-item-77 16 0
-Lyon O lyon 0 1 0 0 0 0 1 li ul cat-item-77 16 0
-) O ) 0 0 0 0 0 0 0 li ul cat-item-77 16 0
+Ecoles O ecoles 0 0 0 0 0 0 1 0 6 li ul cat-item-77 16 0
+de O de 0 1 0 0 0 0 0 9 12 li ul cat-item-77 16 0
+recherche O recherche 0 0 0 0 0 0 0 0 7 li ul cat-item-77 16 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul cat-item-77 16 0
+Lyon O lyon 0 1 0 0 0 0 1 4 7 li ul cat-item-77 16 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul cat-item-77 16 0
 
-Ecoles O ecoles 0 0 0 0 0 0 1 li ul cat-item-78 16 0
-de O de 0 1 0 0 0 0 0 li ul cat-item-78 16 0
-recherche O recherche 0 0 0 0 0 0 0 li ul cat-item-78 16 0
-( O ( 0 0 0 0 0 0 0 li ul cat-item-78 16 0
-Sophia O sophia 0 1 0 0 0 0 1 li ul cat-item-78 16 0
-- O - 0 0 0 0 0 0 0 li ul cat-item-78 16 0
-Antipolis O antipolis 0 1 0 0 0 0 1 li ul cat-item-78 16 0
-) O ) 0 0 0 0 0 0 0 li ul cat-item-78 16 0
+Ecoles O ecoles 0 0 0 0 0 0 1 0 6 li ul cat-item-78 16 0
+de O de 0 1 0 0 0 0 0 9 12 li ul cat-item-78 16 0
+recherche O recherche 0 0 0 0 0 0 0 0 7 li ul cat-item-78 16 0
+( O-PUNCT ( 1 1 0 0 0 0 0 6 0 li ul cat-item-78 16 0
+Sophia O sophia 1 1 0 0 0 0 1 5 5 li ul cat-item-78 16 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 li ul cat-item-78 16 0
+Antipolis O antipolis 1 1 0 0 0 0 1 0 4 li ul cat-item-78 16 0
+) O-PUNCT ) 1 1 0 0 0 0 0 6 0 li ul cat-item-78 16 0
 
-2017 O 2017 0 0 0 1 0 0 0 li ul cat-item-80 12 0
-- O - 0 0 0 0 0 0 0 li ul cat-item-80 12 0
-2018 O 2018 0 0 0 1 0 0 0 li ul cat-item-80 12 0
+2017 O 2017 0 0 0 1 0 0 0 0 0 li ul cat-item-80 12 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul cat-item-80 12 0
+2018 O 2018 0 0 0 1 0 0 0 0 0 li ul cat-item-80 12 0
 
-Informations O informations 0 0 0 0 0 0 1 li ul cat-item-81 14 0
-L3 O l3 0 0 0 1 0 0 1 li ul cat-item-81 14 0
+Informations O informations 0 0 0 0 0 0 1 0 7 li ul cat-item-81 14 0
+L3 O l3 0 0 0 1 0 0 1 0 0 li ul cat-item-81 14 0
 
-Informations O informations 0 0 0 0 0 0 1 li ul cat-item-82 14 0
-M1 O m1 0 0 0 1 0 0 1 li ul cat-item-82 14 0
+Informations O informations 0 0 0 0 0 0 1 0 7 li ul cat-item-82 14 0
+M1 O m1 0 0 0 1 0 0 1 0 0 li ul cat-item-82 14 0
 
-Informations O informations 0 0 0 0 0 0 1 li ul cat-item-83 14 0
-M2 O m2 0 0 0 1 0 0 1 li ul cat-item-83 14 0
+Informations O informations 0 0 0 0 0 0 1 0 7 li ul cat-item-83 14 0
+M2 O m2 0 0 0 1 0 0 1 0 0 li ul cat-item-83 14 0
 
-Liens O liens 0 0 0 0 0 0 1 div div widget-title 11 0
-utiles O utiles 0 0 0 0 0 0 0 div div widget-title 11 0
+Liens O liens 0 0 0 0 0 0 1 0 7 div div widget-title 11 0
+utiles O utiles 0 0 0 0 0 0 0 0 5 div div widget-title 11 0
 
-Archives O archives 0 0 0 0 0 0 1 li ul blogroll 12 0
+Archives O archives 0 0 0 0 0 0 1 0 6 li ul blogroll 12 0
 
-DENIF O denif 0 0 0 0 0 0 1 li ul blogroll 12 0
+DENIF O denif 0 0 0 0 0 0 1 0 4 li ul blogroll 12 0
 
-L3 O l3 0 0 0 1 0 0 1 li ul blogroll 12 0
-research O research 0 0 0 0 0 0 0 li ul blogroll 12 0
-internships O internships 0 0 0 0 0 0 0 li ul blogroll 12 0
-
-M2 O m2 0 0 0 1 0 0 1 li ul blogroll 12 0
-research O research 0 0 0 0 0 0 0 li ul blogroll 12 0
-internships O internships 0 0 0 0 0 0 0 li ul blogroll 12 0
-
-Partenaires O partenaires 0 0 0 0 0 0 1 div div widget-title 11 0
-
-CNRS O cnrs 0 0 0 0 0 0 1 li ul blogroll 12 0
-
-ENS O ens 0 0 0 0 0 0 1 li ul blogroll 12 0
-de O de 0 1 0 0 0 0 0 li ul blogroll 12 0
-Lyon O lyon 0 1 0 0 0 0 1 li ul blogroll 12 0
-
-INRIA O inria 0 0 0 0 0 0 1 li ul blogroll 12 0
-
-IXXI O ixxi 0 0 0 0 0 0 1 li ul blogroll 12 0
-
-LIP O lip 0 0 0 0 0 0 1 li ul blogroll 12 0
-
-Université O universite 0 0 0 0 0 0 1 li ul blogroll 12 0
-de O de 0 1 0 0 0 0 0 li ul blogroll 12 0
-Lyon O lyon 0 1 0 0 0 0 1 li ul blogroll 12 0
-
-Contacts O contacts 0 0 0 0 0 0 1 div div post-headline 11 0
-
-Who’s O who’s 0 0 0 0 0 0 1 div div clearfix 11 0
-in O in 0 1 0 0 0 0 0 div div clearfix 11 0
-charge? O charge? 0 0 0 0 0 0 0 div div clearfix 11 0
-
-Administrative O administrative 0 0 0 0 0 0 1 div div clearfix 11 1
-desk O desk 0 0 0 0 0 0 0 div div clearfix 11 1
-: O : 0 0 0 0 0 0 0 div div clearfix 11 1
-Amel O amel 0 1 0 0 0 0 1 div div clearfix 11 1
-Zagrarni O zagrarni 0 0 0 0 0 0 1 div div clearfix 11 1
-
-For O for 0 1 0 0 0 0 1 div div clearfix 11 2
-all O all 0 0 0 0 0 0 0 div div clearfix 11 2
-questions O questions 0 0 0 0 0 0 0 div div clearfix 11 2
-related O related 0 0 0 0 0 0 0 div div clearfix 11 2
-to O to 0 0 0 0 0 0 0 div div clearfix 11 2
-registration O registration 0 0 0 0 0 0 0 div div clearfix 11 2
-, O , 0 0 0 0 0 0 0 div div clearfix 11 2
-admission O admission 0 0 0 0 0 0 0 div div clearfix 11 2
-, O , 0 0 0 0 0 0 0 div div clearfix 11 2
-and O and 0 1 0 0 0 0 0 div div clearfix 11 2
-any O any 0 1 0 0 0 0 0 div div clearfix 11 2
-other O other 0 0 0 0 0 0 0 div div clearfix 11 2
-administrative O administrative 0 0 0 0 0 0 0 div div clearfix 11 2
-concerns O concerns 0 0 0 0 0 0 0 div div clearfix 11 2
-, O , 0 0 0 0 0 0 0 div div clearfix 11 2
-you O you 0 0 0 0 0 0 0 div div clearfix 11 2
-may O may 0 0 0 0 0 0 0 div div clearfix 11 2
-contact O contact 0 0 0 0 0 0 0 div div clearfix 11 2
-: O : 0 0 0 0 0 0 0 div div clearfix 11 2
-
-Computer O computer 0 0 0 0 0 0 1 div div clearfix 11 3
-Science O science 0 0 0 0 0 0 1 div div clearfix 11 3
-Department O department 0 0 0 0 0 0 1 div div clearfix 11 3
-
-Scolarité O scolarite 0 0 0 0 0 0 1 div div clearfix 11 4
-– O – 0 0 0 0 0 0 0 div div clearfix 11 4
-Département O departement 0 1 0 0 0 0 1 div div clearfix 11 4
-Informatique O informatique 0 0 0 0 0 0 1 div div clearfix 11 4
-
-Ecole O ecole 0 0 0 0 0 0 1 div div clearfix 11 5
-Normale O normale 0 0 0 0 0 0 1 div div clearfix 11 5
-Supérieure O superieure 0 0 0 0 0 0 1 div div clearfix 11 5
-de O de 0 1 0 0 0 0 0 div div clearfix 11 5
-Lyon O lyon 0 1 0 0 0 0 1 div div clearfix 11 5
-
-46 O 46 0 0 0 1 0 0 0 div div clearfix 11 6
-, O , 0 0 0 0 0 0 0 div div clearfix 11 6
-allée O allee 0 0 0 0 0 0 0 div div clearfix 11 6
-d’Italie O d’italie 0 0 0 0 0 0 0 div div clearfix 11 6
-– O – 0 0 0 0 0 0 0 div div clearfix 11 6
-69364 O 69364 0 0 0 1 0 0 0 div div clearfix 11 6
-LYON O lyon 0 0 0 0 0 0 1 div div clearfix 11 6
-CEDEX O cedex 0 0 0 0 0 0 1 div div clearfix 11 6
-07 O 07 0 0 0 1 0 0 0 div div clearfix 11 6
-
-Tél O tel 0 1 0 0 0 0 1 div div clearfix 11 7
-: O : 0 0 0 0 0 0 0 div div clearfix 11 7
-+33 O +33 0 0 0 1 0 0 0 div div clearfix 11 7
-( O ( 0 0 0 0 0 0 0 div div clearfix 11 7
-0 O 0 0 0 0 1 0 0 0 div div clearfix 11 7
-) O ) 0 0 0 0 0 0 0 div div clearfix 11 7
-4.72.72.84.64 O 4.72.72.84.64 0 0 0 1 0 0 0 div div clearfix 11 7
-– O – 0 0 0 0 0 0 0 div div clearfix 11 7
-Fax O fax 0 1 0 0 0 0 1 div div clearfix 11 7
-: O : 0 0 0 0 0 0 0 div div clearfix 11 7
-+33 O +33 0 0 0 1 0 0 0 div div clearfix 11 7
-( O ( 0 0 0 0 0 0 0 div div clearfix 11 7
-0 O 0 0 0 0 1 0 0 0 div div clearfix 11 7
-) O ) 0 0 0 0 0 0 0 div div clearfix 11 7
-4.72.72.80.80 O 4.72.72.80.80 0 0 0 1 0 0 0 div div clearfix 11 7
-
-e O e 0 1 0 0 0 0 0 address div clearfix 12 0
-- O - 0 0 0 0 0 0 0 address div clearfix 12 0
-mail O mail 0 0 0 0 0 0 0 address div clearfix 12 0
-: O : 0 0 0 0 0 0 0 address div clearfix 12 0
-amel O amel 0 0 0 0 0 0 0 address div clearfix 12 0
-[point] O [point] 0 0 0 0 0 0 0 address div clearfix 12 0
-zagrarni O zagrarni 0 0 0 0 0 0 0 address div clearfix 12 0
-[a] O [a] 0 0 0 0 0 0 0 address div clearfix 12 0
-ens O ens 0 0 0 0 0 0 0 address div clearfix 12 0
-- O - 0 0 0 0 0 0 0 address div clearfix 12 0
-lyon.fr O lyon.fr 0 0 0 0 0 0 0 address div clearfix 12 0
-
-Head O head 0 1 0 0 0 0 1 div div clearfix 11 10
-of O of 0 1 0 0 0 0 0 div div clearfix 11 10
-the O the 0 1 0 0 0 0 0 div div clearfix 11 10
-Computer O computer 0 0 0 0 0 0 1 div div clearfix 11 10
-Science O science 0 0 0 0 0 0 1 div div clearfix 11 10
-Department O department 0 0 0 0 0 0 1 div div clearfix 11 10
-at O at 0 0 0 0 0 0 0 div div clearfix 11 10
-ENS O ens 0 0 0 0 0 0 1 div div clearfix 11 10
-Lyon O lyon 0 1 0 0 0 0 1 div div clearfix 11 10
-
-Nicolas B-PER nicolas 1 1 0 0 0 0 1 div div clearfix 11 11
-Trotignon I-PER trotignon 1 1 0 0 0 0 1 div div clearfix 11 11
-
-Tél O tel 0 1 0 0 0 0 1 div div clearfix 11 12
-: O : 0 0 0 0 0 0 0 div div clearfix 11 12
-+33 O +33 0 0 0 1 0 0 0 div div clearfix 11 12
-( O ( 0 0 0 0 0 0 0 div div clearfix 11 12
-0 O 0 0 0 0 1 0 0 0 div div clearfix 11 12
-) O ) 0 0 0 0 0 0 0 div div clearfix 11 12
-4 O 4 0 0 0 1 0 0 0 div div clearfix 11 12
-72 O 72 0 0 0 1 0 0 0 address div adress_line 12 0
-72 O 72 0 0 0 1 0 0 0 address div adress_line 12 0
-87 O 87 0 0 0 1 0 0 0 address div adress_line 12 0
-58 O 58 0 0 0 1 0 0 0 address div adress_line 12 0
-
-e O e 0 1 0 0 0 0 0 div div clearfix 11 14
-- O - 0 0 0 0 0 0 0 div div clearfix 11 14
-mail O mail 0 0 0 0 0 0 0 div div clearfix 11 14
-: O : 0 0 0 0 0 0 0 div div clearfix 11 14
-nicolas O nicolas 0 0 0 0 0 0 0 div div clearfix 11 14
-[point] O [point] 0 0 0 0 0 0 0 div div clearfix 11 14
-trotignon O trotignon 0 0 0 0 0 0 0 div div clearfix 11 14
-[a] O [a] 0 0 0 0 0 0 0 div div clearfix 11 14
-ens O ens 0 0 0 0 0 0 0 div div clearfix 11 14
-- O - 0 0 0 0 0 0 0 div div clearfix 11 14
-lyon.fr O lyon.fr 0 0 0 0 0 0 0 div div clearfix 11 14
-
-Head O head 0 1 0 0 0 0 1 div div clearfix 11 15
-of O of 0 1 0 0 0 0 0 div div clearfix 11 15
-the O the 0 1 0 0 0 0 0 div div clearfix 11 15
-computer O computer 0 0 0 0 0 0 0 div div clearfix 11 15
-science O science 0 0 0 0 0 0 0 div div clearfix 11 15
-MASTER O master 0 0 0 0 1 0 1 div div clearfix 11 15
-
-Anne B-PER anne 1 1 0 0 0 0 1 address address clearfix 13 0
-Benoit I-PER benoit 1 1 0 0 0 0 1 address address clearfix 13 0
-
-Tél O tel 0 1 0 0 0 0 1 address address clearfix 13 1
-: O : 0 0 0 0 0 0 0 address address clearfix 13 1
-+33 O +33 0 0 0 1 0 0 0 address address clearfix 13 1
-( O ( 0 0 0 0 0 0 0 address address clearfix 13 1
-0 O 0 0 0 0 1 0 0 0 address address clearfix 13 1
-) O ) 0 0 0 0 0 0 0 address address clearfix 13 1
-4 O 4 0 0 0 1 0 0 0 address address clearfix 13 1
-37 O 37 0 0 0 1 0 0 0 address address clearfix 13 1
-28 O 28 0 0 0 1 0 0 0 address address clearfix 13 1
-76 O 76 0 0 0 1 0 0 0 address address clearfix 13 1
-44 O 44 0 0 0 1 0 0 0 address address clearfix 13 1
-
-e O e 0 1 0 0 0 0 0 address address clearfix 13 2
-- O - 0 0 0 0 0 0 0 address address clearfix 13 2
-mail O mail 0 0 0 0 0 0 0 address address clearfix 13 2
-: O : 0 0 0 0 0 0 0 address address clearfix 13 2
-anne O anne 0 0 0 0 0 0 0 address address clearfix 13 2
-[point] O [point] 0 0 0 0 0 0 0 address address clearfix 13 2
-benoit O benoit 0 0 0 0 0 0 0 address address clearfix 13 2
-[a] O [a] 0 0 0 0 0 0 0 address address clearfix 13 2
-ens O ens 0 0 0 0 0 0 0 address address clearfix 13 2
-- O - 0 0 0 0 0 0 0 address address clearfix 13 2
-lyon.fr O lyon.fr 0 0 0 0 0 0 0 address address clearfix 13 2
-
-Head O head 0 1 0 0 0 0 1 div div clearfix 11 21
-of O of 0 1 0 0 0 0 0 div div clearfix 11 21
-the O the 0 1 0 0 0 0 0 div div clearfix 11 21
-first O first 0 0 0 0 0 0 0 div div clearfix 11 21
-year O year 0 0 0 0 0 0 0 div div clearfix 11 21
-of O of 0 1 0 0 0 0 0 div div clearfix 11 21
-the O the 0 1 0 0 0 0 0 div div clearfix 11 21
-MASTER O master 0 0 0 0 1 0 1 div div clearfix 11 21
-and O and 0 1 0 0 0 0 0 div div clearfix 11 21
-co O co 0 0 0 0 0 0 0 div div clearfix 11 21
-- O - 0 0 0 0 0 0 0 div div clearfix 11 21
-Head O head 0 1 0 0 0 0 1 div div clearfix 11 21
-of O of 0 1 0 0 0 0 0 div div clearfix 11 21
-the O the 0 1 0 0 0 0 0 div div clearfix 11 21
-department O department 0 0 0 0 0 0 0 div div clearfix 11 21
-
-Daniel B-PER daniel 1 1 0 0 0 0 1 div div clearfix 11 22
-Hirschkoff I-PER hirschkoff 1 1 0 0 0 0 1 div div clearfix 11 22
-
-Tél O tel 0 1 0 0 0 0 1 div div clearfix 11 23
-: O : 0 0 0 0 0 0 0 div div clearfix 11 23
-+33 O +33 0 0 0 1 0 0 0 div div clearfix 11 23
-( O ( 0 0 0 0 0 0 0 div div clearfix 11 23
-0 O 0 0 0 0 1 0 0 0 div div clearfix 11 23
-) O ) 0 0 0 0 0 0 0 div div clearfix 11 23
-4.72.72.85.03 O 4.72.72.85.03 0 0 0 1 0 0 0 div div clearfix 11 23
-
-e O e 0 1 0 0 0 0 0 div div clearfix 11 24
-- O - 0 0 0 0 0 0 0 div div clearfix 11 24
-mail O mail 0 0 0 0 0 0 0 div div clearfix 11 24
-: O : 0 0 0 0 0 0 0 div div clearfix 11 24
-Daniel O daniel 0 1 0 0 0 0 1 div div clearfix 11 24
-[point] O [point] 0 0 0 0 0 0 0 div div clearfix 11 24
-Hirschkoff O hirschkoff 0 1 0 0 0 0 1 div div clearfix 11 24
-[a] O [a] 0 0 0 0 0 0 0 div div clearfix 11 24
-ens O ens 0 0 0 0 0 0 0 div div clearfix 11 24
-- O - 0 0 0 0 0 0 0 div div clearfix 11 24
-lyon.fr O lyon.fr 0 0 0 0 0 0 0 div div clearfix 11 24
-
-Head O head 0 1 0 0 0 0 1 div div clearfix 11 25
-of O of 0 1 0 0 0 0 0 div div clearfix 11 25
-the O the 0 1 0 0 0 0 0 div div clearfix 11 25
-Licence O licence 0 0 0 0 0 0 1 div div clearfix 11 25
-( O ( 0 0 0 0 0 0 0 div div clearfix 11 25
-undergraduate O undergraduate 0 0 0 0 0 0 0 div div clearfix 11 25
-) O ) 0 0 0 0 0 0 0 div div clearfix 11 25
-
-Eric B-PER eric 1 1 0 0 0 0 1 div div clearfix 11 26
-Thierry I-PER thierry 1 1 0 0 0 0 1 div div clearfix 11 26
-
-Tél O tel 0 1 0 0 0 0 1 address div clearfix 12 0
-: O : 0 0 0 0 0 0 0 address div clearfix 12 0
-+33 O +33 0 0 0 1 0 0 0 address div clearfix 12 0
-( O ( 0 0 0 0 0 0 0 address div clearfix 12 0
-0 O 0 0 0 0 1 0 0 0 address div clearfix 12 0
-) O ) 0 0 0 0 0 0 0 address div clearfix 12 0
-4.26.23.39.33 O 4.26.23.39.33 0 0 0 1 0 0 0 address div clearfix 12 0
-
-e O e 0 1 0 0 0 0 0 address div clearfix 12 1
-- O - 0 0 0 0 0 0 0 address div clearfix 12 1
-mail O mail 0 0 0 0 0 0 0 address div clearfix 12 1
-: O : 0 0 0 0 0 0 0 address div clearfix 12 1
-Eric O eric 0 1 0 0 0 0 1 address div clearfix 12 1
-[point] O [point] 0 0 0 0 0 0 0 address div clearfix 12 1
-Thierry O thierry 0 1 0 0 0 0 1 address div clearfix 12 1
-[a] O [a] 0 0 0 0 0 0 0 address div clearfix 12 1
-ens O ens 0 0 0 0 0 0 0 address div clearfix 12 1
-- O - 0 0 0 0 0 0 0 address div clearfix 12 1
-lyon.fr O lyon.fr 0 0 0 0 0 0 0 address div clearfix 12 1
-
-Head O head 0 1 0 0 0 0 1 div div clearfix 11 30
-of O of 0 1 0 0 0 0 0 div div clearfix 11 30
-the O the 0 1 0 0 0 0 0 div div clearfix 11 30
-computer O computer 0 0 0 0 0 0 0 div div clearfix 11 30
-science O science 0 0 0 0 0 0 0 div div clearfix 11 30
-track O track 0 0 0 0 0 0 0 div div clearfix 11 30
-of O of 0 1 0 0 0 0 0 div div clearfix 11 30
-the O the 0 1 0 0 0 0 0 div div clearfix 11 30
-“ O “ 0 0 0 0 0 0 0 div div clearfix 11 30
-agrégation O agregation 0 0 0 0 0 0 0 div div clearfix 11 30
-de O de 0 1 0 0 0 0 0 div div clearfix 11 30
-mathématiques O mathematiques 0 0 0 0 0 0 0 div div clearfix 11 30
-” O ” 0 0 0 0 0 0 0 div div clearfix 11 30
-
-Pascal B-PER pascal 1 1 0 0 0 0 1 address div clearfix 12 0
-Koiran I-PER koiran 1 1 0 0 0 0 1 address div clearfix 12 0
-
-Tél O tel 0 1 0 0 0 0 1 address div clearfix 12 1
-: O : 0 0 0 0 0 0 0 address div clearfix 12 1
-+33 O +33 0 0 0 1 0 0 0 address div clearfix 12 1
-( O ( 0 0 0 0 0 0 0 address div clearfix 12 1
-0 O 0 0 0 0 1 0 0 0 address div clearfix 12 1
-) O ) 0 0 0 0 0 0 0 address div clearfix 12 1
-4 O 4 0 0 0 1 0 0 0 address div clearfix 12 1
-72 O 72 0 0 0 1 0 0 0 address div clearfix 12 1
-72 O 72 0 0 0 1 0 0 0 address div clearfix 12 1
-85 O 85 0 0 0 1 0 0 0 address div clearfix 12 1
-86 O 86 0 0 0 1 0 0 0 address div clearfix 12 1
-
-e O e 0 1 0 0 0 0 0 address div clearfix 12 2
-- O - 0 0 0 0 0 0 0 address div clearfix 12 2
-mail O mail 0 0 0 0 0 0 0 address div clearfix 12 2
-: O : 0 0 0 0 0 0 0 address div clearfix 12 2
-pascal O pascal 0 0 0 0 0 0 0 address div clearfix 12 2
-[point] O [point] 0 0 0 0 0 0 0 address div clearfix 12 2
-koiran O koiran 0 0 0 0 0 0 0 address div clearfix 12 2
-[a] O [a] 0 0 0 0 0 0 0 address div clearfix 12 2
-ens O ens 0 0 0 0 0 0 0 address div clearfix 12 2
-- O - 0 0 0 0 0 0 0 address div clearfix 12 2
-lyon.fr O lyon.fr 0 0 0 0 0 0 0 address div clearfix 12 2
-
-Internships O internships 0 0 0 0 0 0 1 div div clearfix 11 35
-contacts O contacts 0 0 0 0 0 0 0 div div clearfix 11 35
-
-L3 O l3 0 0 0 1 0 0 1 li ul clearfix 13 0
-
-: O : 0 0 0 0 0 0 0 ul div clearfix 12 0
-Damien B-PER damien 1 1 0 0 0 0 1 ul div clearfix 12 0
-Stehlé I-PER stehle 1 1 0 0 0 0 1 ul div clearfix 12 0
-
-M1 O m1 0 0 0 1 0 0 1 li ul clearfix 13 0
-
-: O : 0 0 0 0 0 0 0 ul div clearfix 12 2
-Frédéric B-PER frederic 1 1 0 0 0 0 1 ul div clearfix 12 2
-Vivien I-PER vivien 1 1 0 0 0 0 1 ul div clearfix 12 2
-
-M2 O m2 0 0 0 1 0 0 1 li ul clearfix 13 0
-
-: O : 0 0 0 0 0 0 0 ul div clearfix 12 4
-Laurent B-PER laurent 1 1 0 0 0 0 1 ul div clearfix 12 4
-Lefèvre I-PER lefevre 1 1 0 0 0 0 1 ul div clearfix 12 4
-
-International O international 0 0 0 0 0 0 1 div div clearfix 11 43
-contact O contact 0 0 0 0 0 0 0 div div clearfix 11 43
-for O for 0 1 0 0 0 0 0 div div clearfix 11 43
-the O the 0 1 0 0 0 0 0 div div clearfix 11 43
-CS O cs 0 0 0 0 0 0 1 div div clearfix 11 43
-department O department 0 0 0 0 0 0 0 div div clearfix 11 43
-
-Natacha B-PER natacha 1 1 0 0 0 0 1 div div clearfix 11 44
-Portier I-PER portier 1 1 0 0 0 0 1 div div clearfix 11 44
-
-Tél O tel 0 1 0 0 0 0 1 div div clearfix 11 45
-: O : 0 0 0 0 0 0 0 div div clearfix 11 45
-+33 O +33 0 0 0 1 0 0 0 div div clearfix 11 45
-( O ( 0 0 0 0 0 0 0 div div clearfix 11 45
-0 O 0 0 0 0 1 0 0 0 div div clearfix 11 45
-) O ) 0 0 0 0 0 0 0 div div clearfix 11 45
-4.72.72.87.58 O 4.72.72.87.58 0 0 0 1 0 0 0 div div clearfix 11 45
-
-e O e 0 1 0 0 0 0 0 div div clearfix 11 46
-- O - 0 0 0 0 0 0 0 div div clearfix 11 46
-mail O mail 0 0 0 0 0 0 0 div div clearfix 11 46
-: O : 0 0 0 0 0 0 0 div div clearfix 11 46
-natacha O natacha 0 0 0 0 0 0 0 div div clearfix 11 46
-[point] O [point] 0 0 0 0 0 0 0 div div clearfix 11 46
-portier O portier 0 0 0 0 0 0 0 div div clearfix 11 46
-[a] O [a] 0 0 0 0 0 0 0 div div clearfix 11 46
-ens O ens 0 0 0 0 0 0 0 div div clearfix 11 46
-- O - 0 0 0 0 0 0 0 div div clearfix 11 46
-lyon.fr O lyon.fr 0 0 0 0 0 0 0 div div clearfix 11 46
-
-Doctoral O doctoral 0 0 0 0 0 0 1 div div clearfix 11 48
-studies O studies 0 0 0 0 0 0 0 div div clearfix 11 48
-
-Frédéric B-PER frederic 1 1 0 0 0 0 1 address address clearfix 13 0
-Vivien I-PER vivien 1 1 0 0 0 0 1 address address clearfix 13 0
-
-Tél O tel 0 1 0 0 0 0 1 address address clearfix 13 0
-: O : 0 0 0 0 0 0 0 address address clearfix 13 0
-+33 O +33 0 0 0 1 0 0 0 address address clearfix 13 0
-( O ( 0 0 0 0 0 0 0 address address clearfix 13 0
-0 O 0 0 0 0 1 0 0 0 address address clearfix 13 0
-) O ) 0 0 0 0 0 0 0 address address clearfix 13 0
-4 O 4 0 0 0 1 0 0 0 address address clearfix 13 0
-37 O 37 0 0 0 1 0 0 0 address address clearfix 13 0
-28 O 28 0 0 0 1 0 0 0 address address clearfix 13 0
-74 O 74 0 0 0 1 0 0 0 address address clearfix 13 0
-76 O 76 0 0 0 1 0 0 0 address address clearfix 13 0
-
-e O e 0 1 0 0 0 0 0 address address clearfix 13 1
-- O - 0 0 0 0 0 0 0 address address clearfix 13 1
-mail O mail 0 0 0 0 0 0 0 address address clearfix 13 1
-: O : 0 0 0 0 0 0 0 address address clearfix 13 1
-frederic O frederic 0 0 0 0 0 0 0 address address clearfix 13 1
-[point]vivien O [point]vivien 0 0 0 0 0 0 0 address address clearfix 13 1
-[a] O [a] 0 0 0 0 0 0 0 address address clearfix 13 1
-ens O ens 0 0 0 0 0 0 0 address address clearfix 13 1
-- O - 0 0 0 0 0 0 0 address address clearfix 13 1
-lyon.fr O lyon.fr 0 0 0 0 0 0 0 address address clearfix 13 1
-
-Permanent O permanent 0 0 0 0 0 0 1 span p clearfix 14 0
-members O members 0 0 0 0 0 0 0 span p clearfix 14 0
-of O of 0 1 0 0 0 0 0 span p clearfix 14 0
-the O the 0 1 0 0 0 0 0 span p clearfix 14 0
-department O department 0 0 0 0 0 0 0 span p clearfix 14 0
-
-Philippe B-PER philippe 1 1 0 0 0 0 1 address address clearfix 13 0
-Audebaud I-PER audebaud 1 1 0 0 1 0 1 address address clearfix 13 0
-, O , 0 0 0 0 0 0 0 address div clearfix 12 3
-Assoc. O assoc. 0 0 0 0 0 0 1 address div clearfix 12 3
-Prof. O prof. 0 1 0 0 1 0 1 address div clearfix 12 3
-
-Anne B-PER anne 1 1 0 0 0 0 1 address address clearfix 13 0
-Benoit I-PER benoit 1 1 0 0 0 0 1 address address clearfix 13 0
-, O , 0 0 0 0 0 0 0 address div clearfix 12 5
-Assoc. O assoc. 0 0 0 0 0 0 1 address div clearfix 12 5
-Prof. O prof. 0 1 0 0 1 0 1 address div clearfix 12 5
-
-Eddy B-PER eddy 1 1 0 0 0 0 1 address address clearfix 13 0
-Caron I-PER caron 1 1 0 0 0 0 1 address address clearfix 13 0
-, O , 0 0 0 0 0 0 0 address div clearfix 12 7
-Assoc. O assoc. 0 0 0 0 0 0 1 address div clearfix 12 7
-Prof. O prof. 0 1 0 0 1 0 1 address div clearfix 12 7
-
-Omar B-PER omar 1 1 0 0 0 0 1 address address clearfix 13 0
-Fawzi I-PER fawzi 1 1 0 0 0 0 1 address address clearfix 13 0
-, O , 0 0 0 0 0 0 0 address div clearfix 12 9
-Assoc. O assoc. 0 0 0 0 0 0 1 address div clearfix 12 9
-Prof. O prof. 0 1 0 0 1 0 1 address div clearfix 12 9
-
-Eric B-PER eric 1 1 0 0 0 0 1 address address clearfix 13 0
-Fleury I-PER fleury 1 1 0 0 0 0 1 address address clearfix 13 0
-, O , 0 0 0 0 0 0 0 address div clearfix 12 11
-Prof. O prof. 0 1 0 0 1 0 1 address div clearfix 12 11
-
-Guillaume B-PER guillaume 1 1 0 0 0 0 1 address address clearfix 13 0
-Hanrot I-PER hanrot 1 1 0 0 0 0 1 address address clearfix 13 0
-, O , 0 0 0 0 0 0 0 address div clearfix 12 13
-Prof. O prof. 0 1 0 0 1 0 1 address div clearfix 12 13
-
-Daniel B-PER daniel 1 1 0 0 0 0 1 address address clearfix 13 0
-Hirschkoff I-PER hirschkoff 1 1 0 0 0 0 1 address address clearfix 13 0
-, O , 0 0 0 0 0 0 0 address div clearfix 12 15
-Assoc. O assoc. 0 0 0 0 0 0 1 address div clearfix 12 15
-Prof. O prof. 0 1 0 0 1 0 1 address div clearfix 12 15
-
-Marton B-PER marton 0 1 0 0 0 0 1 address address clearfix 13 0
-Karsai I-PER karsai 0 1 0 0 0 0 1 address address clearfix 13 0
-, O , 0 0 0 0 0 0 0 address div clearfix 12 17
-Assoc. O assoc. 0 0 0 0 0 0 1 address div clearfix 12 17
-Prof. O prof. 0 1 0 0 1 0 1 address div clearfix 12 17
-
-Pascal B-PER pascal 1 1 0 0 0 0 1 address address clearfix 13 0
-Koiran I-PER koiran 1 1 0 0 0 0 1 address address clearfix 13 0
-, O , 0 0 0 0 0 0 0 address div clearfix 12 19
-Prof. O prof. 0 1 0 0 1 0 1 address div clearfix 12 19
-
-Natacha B-PER natacha 1 1 0 0 0 0 1 address address clearfix 13 0
-Portier I-PER portier 1 1 0 0 0 0 1 address address clearfix 13 0
-, O , 0 0 0 0 0 0 0 address div clearfix 12 21
-Assoc. O assoc. 0 0 0 0 0 0 1 address div clearfix 12 21
-Prof. O prof. 0 1 0 0 1 0 1 address div clearfix 12 21
-
-Frédéric B-PER frederic 1 1 0 0 0 0 1 address address clearfix 13 0
-Prost I-PER prost 1 1 0 0 0 0 1 address address clearfix 13 0
-, O , 0 0 0 0 0 0 0 address div clearfix 12 23
-Assoc. O assoc. 0 0 0 0 0 0 1 address div clearfix 12 23
-Prof. O prof. 0 1 0 0 1 0 1 address div clearfix 12 23
-
-Colin B-PER colin 1 1 0 0 0 0 1 address address clearfix 13 0
-Riba I-PER riba 1 1 0 0 0 0 1 address address clearfix 13 0
-, O , 0 0 0 0 0 0 0 address div clearfix 12 25
-Assoc. O assoc. 0 0 0 0 0 0 1 address div clearfix 12 25
-Prof. O prof. 0 1 0 0 1 0 1 address div clearfix 12 25
-
-Yves B-PER yves 1 1 0 0 0 0 1 address address clearfix 13 0
-Robert I-PER robert 1 1 0 0 0 0 1 address address clearfix 13 0
-, O , 0 0 0 0 0 0 0 address div clearfix 12 27
-Prof. O prof. 0 1 0 0 1 0 1 address div clearfix 12 27
-
-Damien B-PER damien 1 1 0 0 0 0 1 address address clearfix 13 0
-Stehlé I-PER stehle 1 1 0 0 0 0 1 address address clearfix 13 0
-, O , 0 0 0 0 0 0 0 address div clearfix 12 29
-Prof. O prof. 0 1 0 0 1 0 1 address div clearfix 12 29
-
-Eric B-PER eric 1 1 0 0 0 0 1 address address clearfix 13 0
-Thierry I-PER thierry 1 1 0 0 0 0 1 address address clearfix 13 0
-, O , 0 0 0 0 0 0 0 address div clearfix 12 31
-Assoc. O assoc. 0 0 0 0 0 0 1 address div clearfix 12 31
-Prof. O prof. 0 1 0 0 1 0 1 address div clearfix 12 31
-
-Stéphan B-PER stephan 1 1 0 0 0 0 1 address address clearfix 13 0
-Thomassé I-PER thomasse 1 1 0 0 0 0 1 address address clearfix 13 0
-, O , 0 0 0 0 0 0 0 address div clearfix 12 33
-Prof. O prof. 0 1 0 0 1 0 1 address div clearfix 12 33
-
-Print O print 0 1 0 0 0 0 1 div div post-footer 11 2
-this O this 0 0 0 0 0 0 0 div div post-footer 11 2
-page O page 0 0 0 0 0 0 0 div div post-footer 11 2
-| O | 0 0 0 0 0 0 0 div td post-footer 10 95
-retourner O retourner 0 0 0 0 0 0 0 div div post-footer 11 4
-au O au 0 0 0 0 0 0 0 div div post-footer 11 4
-début O debut 0 0 0 0 0 0 0 div div post-footer 11 4
-
-Latest O latest 0 0 0 0 0 0 1 div div widget-title 11 0
-news O news 0 0 0 0 0 0 0 div div widget-title 11 0
-
-ENS O ens 0 0 0 0 0 0 1 li ul lcp_catlist 12 0
-information O information 0 0 0 0 0 0 0 li ul lcp_catlist 12 0
-– O – 0 0 0 0 0 0 0 li ul lcp_catlist 12 0
-An O an 0 1 0 0 0 0 1 li ul lcp_catlist 12 0
-overview O overview 0 0 0 0 0 0 0 li ul lcp_catlist 12 0
-
-September O september 0 0 0 0 0 0 1 ul div lcp_catlist 11 0
-22 O 22 0 0 0 1 0 0 0 ul div lcp_catlist 11 0
-, O , 0 0 0 0 0 0 0 ul div lcp_catlist 11 0
-2017 O 2017 0 0 0 1 0 0 0 ul div lcp_catlist 11 0
-
-Room O room 0 1 0 0 0 0 1 li ul lcp_catlist 12 0
-booking O booking 0 0 0 0 0 0 0 li ul lcp_catlist 12 0
-
-December O december 0 1 0 0 0 0 1 ul div lcp_catlist 11 3
-17 O 17 0 0 0 1 0 0 0 ul div lcp_catlist 11 3
-, O , 0 0 0 0 0 0 0 ul div lcp_catlist 11 3
-2016 O 2016 0 0 0 1 0 0 0 ul div lcp_catlist 11 3
-
-( O ( 0 0 0 0 0 0 0 li ul lcp_catlist 12 0
-Français O francais 0 1 0 0 0 0 1 li ul lcp_catlist 12 0
-) O ) 0 0 0 0 0 0 0 li ul lcp_catlist 12 0
-Poste O poste 0 1 0 0 0 0 1 li ul lcp_catlist 12 0
-d’ATER O d’ater 0 0 0 0 0 0 0 li ul lcp_catlist 12 0
-pour O pour 0 0 0 0 0 0 0 li ul lcp_catlist 12 0
-2017 O 2017 0 0 0 1 0 0 0 li ul lcp_catlist 12 0
-- O - 0 0 0 0 0 0 0 li ul lcp_catlist 12 0
-2018 O 2018 0 0 0 1 0 0 0 li ul lcp_catlist 12 0
-
-April O april 0 1 0 0 0 0 1 ul div lcp_catlist 11 6
-5 O 5 0 0 0 1 0 0 0 ul div lcp_catlist 11 6
-, O , 0 0 0 0 0 0 0 ul div lcp_catlist 11 6
-2016 O 2016 0 0 0 1 0 0 0 ul div lcp_catlist 11 6
-
-Ampère O ampere 0 0 0 0 0 0 1 li ul lcp_catlist 12 0
-excellence O excellence 0 0 0 0 0 0 0 li ul lcp_catlist 12 0
-scholarships O scholarships 0 0 0 0 0 0 0 li ul lcp_catlist 12 0
-
-December O december 0 1 0 0 0 0 1 ul div lcp_catlist 11 9
-9 O 9 0 0 0 1 0 0 0 ul div lcp_catlist 11 9
-, O , 0 0 0 0 0 0 0 ul div lcp_catlist 11 9
-2014 O 2014 0 0 0 1 0 0 0 ul div lcp_catlist 11 9
-
-Laptop O laptop 0 0 0 0 0 0 1 li ul lcp_catlist 12 0
-loans O loans 0 0 0 0 0 0 0 li ul lcp_catlist 12 0
-
-September O september 0 0 0 0 0 0 1 ul div lcp_catlist 11 12
-8 O 8 0 0 0 1 0 0 0 ul div lcp_catlist 11 12
-, O , 0 0 0 0 0 0 0 ul div lcp_catlist 11 12
-2014 O 2014 0 0 0 1 0 0 0 ul div lcp_catlist 11 12
-
-Copyright O copyright 0 0 0 0 0 0 1 tr table page-id-2 8 0
-© O © 0 0 0 0 0 0 0 tr table page-id-2 8 0
-2017 O 2017 0 0 0 1 0 0 0 tr table page-id-2 8 0
-ENS O ens 0 0 0 0 0 0 1 tr table page-id-2 8 0
-Lyon O lyon 0 1 0 0 0 0 1 tr table page-id-2 8 0
-- O - 0 0 0 0 0 0 0 tr table page-id-2 8 0
-Computer O computer 0 0 0 0 0 0 1 td tr page-id-2 9 0
-Science O science 0 0 0 0 0 0 1 td tr page-id-2 9 0
-Department O department 0 0 0 0 0 0 1 td tr page-id-2 9 0
-- O - 0 0 0 0 0 0 0 tr table page-id-2 8 0
-All O all 0 1 0 0 0 0 1 tr table page-id-2 8 0
-Rights O rights 0 0 0 0 0 0 1 tr table page-id-2 8 0
-Reserved O reserved 0 0 0 0 0 0 1 tr table page-id-2 8 0
-
-Powered O powered 0 0 0 0 0 0 1 tr table page-id-2 8 0
-by O by 0 1 0 0 0 0 0 tr table page-id-2 8 0
-WordPress O wordpress 0 0 0 0 0 0 1 td tr page-id-2 9 2
-& O & 0 0 0 0 0 0 0 tr table page-id-2 8 0
-Atahualpa O atahualpa 0 1 0 0 0 0 1 td tr page-id-2 9 3
-
-Close O close 0 1 0 0 0 0 1 div td epl_button_small 10 2
+L3 O l3 0 0 0 1 0 0 1 0 0 li ul blogroll 12 0
+research O research 0 0 0 0 0 0 0 0 7 li ul blogroll 12 0
+internships O internships 0 0 0 0 0 0 0 0 3 li ul blogroll 12 0
+
+M2 O m2 0 0 0 1 0 0 1 0 0 li ul blogroll 12 0
+research O research 0 0 0 0 0 0 0 0 7 li ul blogroll 12 0
+internships O internships 0 0 0 0 0 0 0 0 3 li ul blogroll 12 0
+
+Partenaires O partenaires 0 0 0 0 0 0 1 0 5 div div widget-title 11 0
+
+CNRS O cnrs 0 0 0 0 0 0 1 0 4 li ul blogroll 12 0
+
+ENS O ens 0 0 0 0 0 0 1 0 5 li ul blogroll 12 0
+de O de 0 1 0 0 0 0 0 9 12 li ul blogroll 12 0
+Lyon O lyon 0 1 0 0 0 0 1 4 7 li ul blogroll 12 0
+
+INRIA O inria 0 0 0 0 0 0 1 0 4 li ul blogroll 12 0
+
+IXXI O ixxi 0 0 0 0 0 0 1 0 3 li ul blogroll 12 0
+
+LIP O lip 0 0 0 0 0 0 1 0 3 li ul blogroll 12 0
+
+Université O universite 0 0 0 0 0 0 1 0 7 li ul blogroll 12 0
+de O de 0 1 0 0 0 0 0 9 12 li ul blogroll 12 0
+Lyon O lyon 0 1 0 0 0 0 1 4 7 li ul blogroll 12 0
+
+Contacts O contacts 0 0 0 0 0 0 1 0 5 div div post-headline 11 0
+
+Who’s O who’s 0 0 0 0 0 0 1 0 0 div div clearfix 11 0
+in O in 0 1 0 0 0 0 0 3 10 div div clearfix 11 0
+charge? O charge? 0 0 0 0 0 0 0 0 0 div div clearfix 11 0
+
+Administrative O administrative 0 0 0 0 0 0 1 0 6 div div clearfix 11 1
+desk O desk 0 0 0 0 0 0 0 0 4 div div clearfix 11 1
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div clearfix 11 1
+Amel O amel 0 1 0 0 0 0 1 4 2 div div clearfix 11 1
+Zagrarni O zagrarni 0 0 0 0 0 0 1 0 1 div div clearfix 11 1
+
+For O for 0 1 0 0 0 0 1 2 9 div div clearfix 11 2
+all O all 0 0 0 0 0 0 0 0 7 div div clearfix 11 2
+questions O questions 0 0 0 0 0 0 0 0 7 div div clearfix 11 2
+related O related 0 0 0 0 0 0 0 0 6 div div clearfix 11 2
+to O to 0 1 0 0 0 0 0 0 10 div div clearfix 11 2
+registration O registration 0 0 0 0 0 0 0 0 5 div div clearfix 11 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div clearfix 11 2
+admission O admission 0 0 0 0 0 0 0 0 5 div div clearfix 11 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div clearfix 11 2
+and O and 0 1 0 0 0 0 0 0 10 div div clearfix 11 2
+any O any 0 1 0 0 0 0 0 0 6 div div clearfix 11 2
+other O other 0 0 0 0 0 0 0 0 7 div div clearfix 11 2
+administrative O administrative 0 0 0 0 0 0 0 0 6 div div clearfix 11 2
+concerns O concerns 0 0 0 0 0 0 0 0 4 div div clearfix 11 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div clearfix 11 2
+you O you 0 1 0 0 0 0 0 3 8 div div clearfix 11 2
+may O may 0 0 0 0 0 0 0 0 7 div div clearfix 11 2
+contact O contact 0 0 0 0 0 0 0 0 8 div div clearfix 11 2
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div clearfix 11 2
+
+Computer O computer 0 0 0 0 0 0 1 0 7 div div clearfix 11 3
+Science O science 0 0 0 0 0 0 1 0 7 div div clearfix 11 3
+Department O department 0 0 0 0 0 0 1 0 7 div div clearfix 11 3
+
+Scolarité O scolarite 0 0 0 0 0 0 1 0 3 div div clearfix 11 4
+– O – 0 0 0 0 0 0 0 0 0 div div clearfix 11 4
+Département O departement 0 1 0 0 0 0 1 0 6 div div clearfix 11 4
+Informatique O informatique 0 0 0 0 0 0 1 0 7 div div clearfix 11 4
+
+Ecole O ecole 0 0 0 0 0 0 1 0 6 div div clearfix 11 5
+Normale O normale 0 0 0 0 0 0 1 0 5 div div clearfix 11 5
+Supérieure O superieure 0 0 0 0 0 0 1 0 5 div div clearfix 11 5
+de O de 0 1 0 0 0 0 0 9 12 div div clearfix 11 5
+Lyon O lyon 0 1 0 0 0 0 1 4 7 div div clearfix 11 5
+
+46 O 46 0 0 0 1 0 0 0 0 0 div div clearfix 11 6
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div clearfix 11 6
+allée O allee 0 0 0 0 0 0 0 0 3 div div clearfix 11 6
+d’Italie O d’italie 0 0 0 0 0 0 0 0 0 div div clearfix 11 6
+– O – 0 0 0 0 0 0 0 0 0 div div clearfix 11 6
+69364 O 69364 0 0 0 1 0 0 0 0 0 div div clearfix 11 6
+LYON O lyon 0 0 0 0 0 0 1 0 7 div div clearfix 11 6
+CEDEX O cedex 0 0 0 0 0 0 1 0 2 div div clearfix 11 6
+07 O 07 0 0 0 1 0 0 0 0 0 div div clearfix 11 6
+
+Tél O tel 0 1 0 0 0 0 1 1 6 div div clearfix 11 7
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div clearfix 11 7
++33 O +33 0 0 0 1 0 0 0 0 0 div div clearfix 11 7
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div clearfix 11 7
+0 O 0 0 0 0 1 0 0 0 0 0 div div clearfix 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div clearfix 11 7
+4.72.72.84.64 O 4.72.72.84.64 0 0 0 1 0 0 0 0 0 div div clearfix 11 7
+– O – 0 0 0 0 0 0 0 0 0 div div clearfix 11 7
+Fax O fax 0 1 0 0 0 0 1 0 4 div div clearfix 11 7
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div clearfix 11 7
++33 O +33 0 0 0 1 0 0 0 0 0 div div clearfix 11 7
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div clearfix 11 7
+0 O 0 0 0 0 1 0 0 0 0 0 div div clearfix 11 7
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div clearfix 11 7
+4.72.72.80.80 O 4.72.72.80.80 0 0 0 1 0 0 0 0 0 div div clearfix 11 7
+
+e O e 0 1 0 0 0 0 0 5 10 address div clearfix 12 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 address div clearfix 12 0
+mail O mail 0 0 0 0 0 0 0 0 6 address div clearfix 12 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 address div clearfix 12 0
+amel O amel 0 0 0 0 0 0 0 0 2 address div clearfix 12 0
+[point] O [point] 0 0 0 0 0 0 0 0 0 address div clearfix 12 0
+zagrarni O zagrarni 0 0 0 0 0 0 0 0 1 address div clearfix 12 0
+[a] O [a] 0 0 0 0 0 0 0 0 0 address div clearfix 12 0
+ens O ens 0 0 0 0 0 0 0 0 5 address div clearfix 12 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 address div clearfix 12 0
+lyon.fr O lyon.fr 0 0 0 0 0 0 0 0 0 address div clearfix 12 0
+
+Head O head 0 1 0 0 0 0 1 4 5 div div clearfix 11 10
+of O of 0 1 0 0 0 0 0 2 10 div div clearfix 11 10
+the O the 0 1 0 0 0 0 0 0 10 div div clearfix 11 10
+Computer O computer 0 0 0 0 0 0 1 0 7 div div clearfix 11 10
+Science O science 0 0 0 0 0 0 1 0 7 div div clearfix 11 10
+Department O department 0 0 0 0 0 0 1 0 7 div div clearfix 11 10
+at O at 0 1 0 0 0 0 0 0 8 div div clearfix 11 10
+ENS O ens 0 0 0 0 0 0 1 0 5 div div clearfix 11 10
+Lyon O lyon 0 1 0 0 0 0 1 4 7 div div clearfix 11 10
+
+Nicolas B-PER nicolas 1 1 0 0 0 0 1 7 6 div div clearfix 11 11
+Trotignon I-PER trotignon 1 1 0 0 0 0 1 0 1 div div clearfix 11 11
+
+Tél O tel 0 1 0 0 0 0 1 1 6 div div clearfix 11 12
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div clearfix 11 12
++33 O +33 0 0 0 1 0 0 0 0 0 div div clearfix 11 12
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div clearfix 11 12
+0 O 0 0 0 0 1 0 0 0 0 0 div div clearfix 11 12
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div clearfix 11 12
+4 O 4 0 0 0 1 0 0 0 0 0 div div clearfix 11 12
+72 O 72 0 0 0 1 0 0 0 0 0 address div adress_line 12 0
+72 O 72 0 0 0 1 0 0 0 0 0 address div adress_line 12 0
+87 O 87 0 0 0 1 0 0 0 0 0 address div adress_line 12 0
+58 O 58 0 0 0 1 0 0 0 0 0 address div adress_line 12 0
+
+e O e 0 1 0 0 0 0 0 5 10 div div clearfix 11 14
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div clearfix 11 14
+mail O mail 0 0 0 0 0 0 0 0 6 div div clearfix 11 14
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div clearfix 11 14
+nicolas O nicolas 0 0 0 0 0 0 0 0 6 div div clearfix 11 14
+[point] O [point] 0 0 0 0 0 0 0 0 0 div div clearfix 11 14
+trotignon O trotignon 0 0 0 0 0 0 0 0 1 div div clearfix 11 14
+[a] O [a] 0 0 0 0 0 0 0 0 0 div div clearfix 11 14
+ens O ens 0 0 0 0 0 0 0 0 5 div div clearfix 11 14
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div clearfix 11 14
+lyon.fr O lyon.fr 0 0 0 0 0 0 0 0 0 div div clearfix 11 14
+
+Head O head 0 1 0 0 0 0 1 4 5 div div clearfix 11 15
+of O of 0 1 0 0 0 0 0 2 10 div div clearfix 11 15
+the O the 0 1 0 0 0 0 0 0 10 div div clearfix 11 15
+computer O computer 0 0 0 0 0 0 0 0 7 div div clearfix 11 15
+science O science 0 0 0 0 0 0 0 0 7 div div clearfix 11 15
+MASTER O master 0 0 0 0 1 0 1 0 6 div div clearfix 11 15
+
+Anne B-PER anne 1 1 0 0 0 0 1 7 6 address address clearfix 13 0
+Benoit I-PER benoit 1 1 0 0 0 0 1 6 5 address address clearfix 13 0
+
+Tél O tel 0 1 0 0 0 0 1 1 6 address address clearfix 13 1
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 address address clearfix 13 1
++33 O +33 0 0 0 1 0 0 0 0 0 address address clearfix 13 1
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 address address clearfix 13 1
+0 O 0 0 0 0 1 0 0 0 0 0 address address clearfix 13 1
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 address address clearfix 13 1
+4 O 4 0 0 0 1 0 0 0 0 0 address address clearfix 13 1
+37 O 37 0 0 0 1 0 0 0 0 0 address address clearfix 13 1
+28 O 28 0 0 0 1 0 0 0 0 0 address address clearfix 13 1
+76 O 76 0 0 0 1 0 0 0 0 0 address address clearfix 13 1
+44 O 44 0 0 0 1 0 0 0 0 0 address address clearfix 13 1
+
+e O e 0 1 0 0 0 0 0 5 10 address address clearfix 13 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 address address clearfix 13 2
+mail O mail 0 0 0 0 0 0 0 0 6 address address clearfix 13 2
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 address address clearfix 13 2
+anne O anne 0 1 0 0 0 0 0 1 6 address address clearfix 13 2
+[point] O [point] 0 0 0 0 0 0 0 0 0 address address clearfix 13 2
+benoit O benoit 0 0 0 0 0 0 0 0 5 address address clearfix 13 2
+[a] O [a] 0 0 0 0 0 0 0 0 0 address address clearfix 13 2
+ens O ens 0 0 0 0 0 0 0 0 5 address address clearfix 13 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 address address clearfix 13 2
+lyon.fr O lyon.fr 0 0 0 0 0 0 0 0 0 address address clearfix 13 2
+
+Head O head 0 1 0 0 0 0 1 4 5 div div clearfix 11 21
+of O of 0 1 0 0 0 0 0 2 10 div div clearfix 11 21
+the O the 0 1 0 0 0 0 0 0 10 div div clearfix 11 21
+first O first 0 0 0 0 0 0 0 0 7 div div clearfix 11 21
+year O year 0 0 0 0 0 0 0 0 6 div div clearfix 11 21
+of O of 0 1 0 0 0 0 0 2 10 div div clearfix 11 21
+the O the 0 1 0 0 0 0 0 0 10 div div clearfix 11 21
+MASTER O master 0 0 0 0 1 0 1 0 6 div div clearfix 11 21
+and O and 0 1 0 0 0 0 0 0 10 div div clearfix 11 21
+co O co 0 0 0 0 0 0 0 0 7 div div clearfix 11 21
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div clearfix 11 21
+Head O head 0 1 0 0 0 0 1 4 5 div div clearfix 11 21
+of O of 0 1 0 0 0 0 0 2 10 div div clearfix 11 21
+the O the 0 1 0 0 0 0 0 0 10 div div clearfix 11 21
+department O department 0 0 0 0 0 0 0 0 7 div div clearfix 11 21
+
+Daniel B-PER daniel 1 1 0 0 0 0 1 9 6 div div clearfix 11 22
+Hirschkoff I-PER hirschkoff 1 1 0 0 0 0 1 0 2 div div clearfix 11 22
+
+Tél O tel 0 1 0 0 0 0 1 1 6 div div clearfix 11 23
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div clearfix 11 23
++33 O +33 0 0 0 1 0 0 0 0 0 div div clearfix 11 23
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div clearfix 11 23
+0 O 0 0 0 0 1 0 0 0 0 0 div div clearfix 11 23
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div clearfix 11 23
+4.72.72.85.03 O 4.72.72.85.03 0 0 0 1 0 0 0 0 0 div div clearfix 11 23
+
+e O e 0 1 0 0 0 0 0 5 10 div div clearfix 11 24
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div clearfix 11 24
+mail O mail 0 0 0 0 0 0 0 0 6 div div clearfix 11 24
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div clearfix 11 24
+Daniel O daniel 0 1 0 0 0 0 1 9 6 div div clearfix 11 24
+[point] O [point] 0 0 0 0 0 0 0 0 0 div div clearfix 11 24
+Hirschkoff O hirschkoff 0 1 0 0 0 0 1 0 2 div div clearfix 11 24
+[a] O [a] 0 0 0 0 0 0 0 0 0 div div clearfix 11 24
+ens O ens 0 0 0 0 0 0 0 0 5 div div clearfix 11 24
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div clearfix 11 24
+lyon.fr O lyon.fr 0 0 0 0 0 0 0 0 0 div div clearfix 11 24
+
+Head O head 0 1 0 0 0 0 1 4 5 div div clearfix 11 25
+of O of 0 1 0 0 0 0 0 2 10 div div clearfix 11 25
+the O the 0 1 0 0 0 0 0 0 10 div div clearfix 11 25
+Licence O licence 0 0 0 0 0 0 1 0 8 div div clearfix 11 25
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div clearfix 11 25
+undergraduate O undergraduate 0 0 0 0 0 0 0 0 5 div div clearfix 11 25
+) O-PUNCT ) 1 1 0 0 0 0 0 6 0 div div clearfix 11 25
+
+Eric B-PER eric 1 1 0 0 0 0 1 8 5 div div clearfix 11 26
+Thierry I-PER thierry 1 1 0 0 0 0 1 6 5 div div clearfix 11 26
+
+Tél O tel 0 1 0 0 0 0 1 1 6 address div clearfix 12 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 address div clearfix 12 0
++33 O +33 0 0 0 1 0 0 0 0 0 address div clearfix 12 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 address div clearfix 12 0
+0 O 0 0 0 0 1 0 0 0 0 0 address div clearfix 12 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 address div clearfix 12 0
+4.26.23.39.33 O 4.26.23.39.33 0 0 0 1 0 0 0 0 0 address div clearfix 12 0
+
+e O e 0 1 0 0 0 0 0 5 10 address div clearfix 12 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 address div clearfix 12 1
+mail O mail 0 0 0 0 0 0 0 0 6 address div clearfix 12 1
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 address div clearfix 12 1
+Eric O eric 0 1 0 0 0 0 1 8 5 address div clearfix 12 1
+[point] O [point] 0 0 0 0 0 0 0 0 0 address div clearfix 12 1
+Thierry O thierry 0 1 0 0 0 0 1 6 5 address div clearfix 12 1
+[a] O [a] 0 0 0 0 0 0 0 0 0 address div clearfix 12 1
+ens O ens 0 0 0 0 0 0 0 0 5 address div clearfix 12 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 address div clearfix 12 1
+lyon.fr O lyon.fr 0 0 0 0 0 0 0 0 0 address div clearfix 12 1
+
+Head O head 0 1 0 0 0 0 1 4 5 div div clearfix 11 30
+of O of 0 1 0 0 0 0 0 2 10 div div clearfix 11 30
+the O the 0 1 0 0 0 0 0 0 10 div div clearfix 11 30
+computer O computer 0 0 0 0 0 0 0 0 7 div div clearfix 11 30
+science O science 0 0 0 0 0 0 0 0 7 div div clearfix 11 30
+track O track 0 0 0 0 0 0 0 0 5 div div clearfix 11 30
+of O of 0 1 0 0 0 0 0 2 10 div div clearfix 11 30
+the O the 0 1 0 0 0 0 0 0 10 div div clearfix 11 30
+“ O-PUNCT “ 0 0 0 0 0 0 0 0 0 div div clearfix 11 30
+agrégation O agregation 0 0 0 0 0 0 0 0 4 div div clearfix 11 30
+de O de 0 1 0 0 0 0 0 9 12 div div clearfix 11 30
+mathématiques O mathematiques 0 0 0 0 0 0 0 0 6 div div clearfix 11 30
+” O-PUNCT ” 1 0 0 0 0 0 0 0 0 div div clearfix 11 30
+
+Pascal B-PER pascal 1 1 0 0 0 0 1 7 5 address div clearfix 12 0
+Koiran I-PER koiran 1 1 0 0 0 0 1 0 2 address div clearfix 12 0
+
+Tél O tel 0 1 0 0 0 0 1 1 6 address div clearfix 12 1
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 address div clearfix 12 1
++33 O +33 0 0 0 1 0 0 0 0 0 address div clearfix 12 1
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 address div clearfix 12 1
+0 O 0 0 0 0 1 0 0 0 0 0 address div clearfix 12 1
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 address div clearfix 12 1
+4 O 4 0 0 0 1 0 0 0 0 0 address div clearfix 12 1
+72 O 72 0 0 0 1 0 0 0 0 0 address div clearfix 12 1
+72 O 72 0 0 0 1 0 0 0 0 0 address div clearfix 12 1
+85 O 85 0 0 0 1 0 0 0 0 0 address div clearfix 12 1
+86 O 86 0 0 0 1 0 0 0 0 0 address div clearfix 12 1
+
+e O e 0 1 0 0 0 0 0 5 10 address div clearfix 12 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 address div clearfix 12 2
+mail O mail 0 0 0 0 0 0 0 0 6 address div clearfix 12 2
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 address div clearfix 12 2
+pascal O pascal 0 0 0 0 0 0 0 0 5 address div clearfix 12 2
+[point] O [point] 0 0 0 0 0 0 0 0 0 address div clearfix 12 2
+koiran O koiran 0 0 0 0 0 0 0 0 2 address div clearfix 12 2
+[a] O [a] 0 0 0 0 0 0 0 0 0 address div clearfix 12 2
+ens O ens 0 0 0 0 0 0 0 0 5 address div clearfix 12 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 address div clearfix 12 2
+lyon.fr O lyon.fr 0 0 0 0 0 0 0 0 0 address div clearfix 12 2
+
+Internships O internships 0 0 0 0 0 0 1 0 3 div div clearfix 11 35
+contacts O contacts 0 0 0 0 0 0 0 0 5 div div clearfix 11 35
+
+L3 O l3 0 0 0 1 0 0 1 0 0 li ul clearfix 13 0
+
+: O-PUNCT : 1 0 0 0 0 0 0 0 0 ul div clearfix 12 0
+Damien B-PER damien 1 1 0 0 0 0 1 6 4 ul div clearfix 12 0
+Stehlé I-PER stehle 1 1 0 0 0 0 1 1 2 ul div clearfix 12 0
+
+M1 O m1 0 0 0 1 0 0 1 0 0 li ul clearfix 13 0
+
+: O-PUNCT : 1 0 0 0 0 0 0 0 0 ul div clearfix 12 2
+Frédéric B-PER frederic 1 1 0 0 0 0 1 7 6 ul div clearfix 12 2
+Vivien I-PER vivien 1 1 0 0 0 0 1 4 3 ul div clearfix 12 2
+
+M2 O m2 0 0 0 1 0 0 1 0 0 li ul clearfix 13 0
+
+: O-PUNCT : 1 0 0 0 0 0 0 0 0 ul div clearfix 12 4
+Laurent B-PER laurent 1 1 0 0 0 0 1 7 6 ul div clearfix 12 4
+Lefèvre I-PER lefevre 1 1 0 0 0 0 1 3 3 ul div clearfix 12 4
+
+International O international 0 0 0 0 0 0 1 0 8 div div clearfix 11 43
+contact O contact 0 0 0 0 0 0 0 0 8 div div clearfix 11 43
+for O for 0 1 0 0 0 0 0 1 9 div div clearfix 11 43
+the O the 0 1 0 0 0 0 0 0 10 div div clearfix 11 43
+CS O cs 0 0 0 0 0 0 1 0 5 div div clearfix 11 43
+department O department 0 0 0 0 0 0 0 0 7 div div clearfix 11 43
+
+Natacha B-PER natacha 1 1 0 0 0 0 1 3 3 div div clearfix 11 44
+Portier I-PER portier 1 1 0 0 0 0 1 3 3 div div clearfix 11 44
+
+Tél O tel 0 1 0 0 0 0 1 1 6 div div clearfix 11 45
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div clearfix 11 45
++33 O +33 0 0 0 1 0 0 0 0 0 div div clearfix 11 45
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div clearfix 11 45
+0 O 0 0 0 0 1 0 0 0 0 0 div div clearfix 11 45
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div clearfix 11 45
+4.72.72.87.58 O 4.72.72.87.58 0 0 0 1 0 0 0 0 0 div div clearfix 11 45
+
+e O e 0 1 0 0 0 0 0 5 10 div div clearfix 11 46
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div clearfix 11 46
+mail O mail 0 0 0 0 0 0 0 0 6 div div clearfix 11 46
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div clearfix 11 46
+natacha O natacha 0 0 0 0 0 0 0 0 3 div div clearfix 11 46
+[point] O [point] 0 0 0 0 0 0 0 0 0 div div clearfix 11 46
+portier O portier 0 0 0 0 0 0 0 0 3 div div clearfix 11 46
+[a] O [a] 0 0 0 0 0 0 0 0 0 div div clearfix 11 46
+ens O ens 0 0 0 0 0 0 0 0 5 div div clearfix 11 46
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div clearfix 11 46
+lyon.fr O lyon.fr 0 0 0 0 0 0 0 0 0 div div clearfix 11 46
+
+Doctoral O doctoral 0 0 0 0 0 0 1 0 3 div div clearfix 11 48
+studies O studies 0 0 0 0 0 0 0 0 6 div div clearfix 11 48
+
+Frédéric B-PER frederic 1 1 0 0 0 0 1 7 6 address address clearfix 13 0
+Vivien I-PER vivien 1 1 0 0 0 0 1 4 3 address address clearfix 13 0
+
+Tél O tel 0 1 0 0 0 0 1 1 6 address address clearfix 13 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 address address clearfix 13 0
++33 O +33 0 0 0 1 0 0 0 0 0 address address clearfix 13 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 address address clearfix 13 0
+0 O 0 0 0 0 1 0 0 0 0 0 address address clearfix 13 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 address address clearfix 13 0
+4 O 4 0 0 0 1 0 0 0 0 0 address address clearfix 13 0
+37 O 37 0 0 0 1 0 0 0 0 0 address address clearfix 13 0
+28 O 28 0 0 0 1 0 0 0 0 0 address address clearfix 13 0
+74 O 74 0 0 0 1 0 0 0 0 0 address address clearfix 13 0
+76 O 76 0 0 0 1 0 0 0 0 0 address address clearfix 13 0
+
+e O e 0 1 0 0 0 0 0 5 10 address address clearfix 13 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 address address clearfix 13 1
+mail O mail 0 0 0 0 0 0 0 0 6 address address clearfix 13 1
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 address address clearfix 13 1
+frederic O frederic 0 0 0 0 0 0 0 0 6 address address clearfix 13 1
+[point]vivien O [point]vivien 0 0 0 0 0 0 0 0 0 address address clearfix 13 1
+[a] O [a] 0 0 0 0 0 0 0 0 0 address address clearfix 13 1
+ens O ens 0 0 0 0 0 0 0 0 5 address address clearfix 13 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 address address clearfix 13 1
+lyon.fr O lyon.fr 0 0 0 0 0 0 0 0 0 address address clearfix 13 1
+
+Permanent O permanent 0 0 0 0 0 0 1 0 7 span p clearfix 14 0
+members O members 0 0 0 0 0 0 0 0 6 span p clearfix 14 0
+of O of 0 1 0 0 0 0 0 2 10 span p clearfix 14 0
+the O the 0 1 0 0 0 0 0 0 10 span p clearfix 14 0
+department O department 0 0 0 0 0 0 0 0 7 span p clearfix 14 0
+
+Philippe B-PER philippe 1 1 0 0 0 0 1 7 7 address address clearfix 13 0
+Audebaud I-PER audebaud 1 1 0 0 1 0 1 0 1 address address clearfix 13 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 address div clearfix 12 3
+Assoc. O assoc. 0 0 0 0 0 0 1 0 0 address div clearfix 12 3
+Prof. O prof. 0 1 0 0 1 0 1 0 0 address div clearfix 12 3
+
+Anne B-PER anne 1 1 0 0 0 0 1 7 6 address address clearfix 13 0
+Benoit I-PER benoit 1 1 0 0 0 0 1 6 5 address address clearfix 13 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 address div clearfix 12 5
+Assoc. O assoc. 0 0 0 0 0 0 1 0 0 address div clearfix 12 5
+Prof. O prof. 0 1 0 0 1 0 1 0 0 address div clearfix 12 5
+
+Eddy B-PER eddy 1 1 0 0 0 0 1 5 3 address address clearfix 13 0
+Caron I-PER caron 1 1 0 0 0 0 1 4 4 address address clearfix 13 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 address div clearfix 12 7
+Assoc. O assoc. 0 0 0 0 0 0 1 0 0 address div clearfix 12 7
+Prof. O prof. 0 1 0 0 1 0 1 0 0 address div clearfix 12 7
+
+Omar B-PER omar 1 1 0 0 0 0 1 7 3 address address clearfix 13 0
+Fawzi I-PER fawzi 1 1 0 0 0 0 1 4 2 address address clearfix 13 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 address div clearfix 12 9
+Assoc. O assoc. 0 0 0 0 0 0 1 0 0 address div clearfix 12 9
+Prof. O prof. 0 1 0 0 1 0 1 0 0 address div clearfix 12 9
+
+Eric B-PER eric 1 1 0 0 0 0 1 8 5 address address clearfix 13 0
+Fleury I-PER fleury 1 1 0 0 0 0 1 4 3 address address clearfix 13 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 address div clearfix 12 11
+Prof. O prof. 0 1 0 0 1 0 1 0 0 address div clearfix 12 11
+
+Guillaume B-PER guillaume 1 1 0 0 0 0 1 6 6 address address clearfix 13 0
+Hanrot I-PER hanrot 1 1 0 0 0 0 1 0 1 address address clearfix 13 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 address div clearfix 12 13
+Prof. O prof. 0 1 0 0 1 0 1 0 0 address div clearfix 12 13
+
+Daniel B-PER daniel 1 1 0 0 0 0 1 9 6 address address clearfix 13 0
+Hirschkoff I-PER hirschkoff 1 1 0 0 0 0 1 0 2 address address clearfix 13 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 address div clearfix 12 15
+Assoc. O assoc. 0 0 0 0 0 0 1 0 0 address div clearfix 12 15
+Prof. O prof. 0 1 0 0 1 0 1 0 0 address div clearfix 12 15
+
+Marton B-PER marton 0 1 0 0 0 0 1 3 2 address address clearfix 13 0
+Karsai I-PER karsai 0 1 0 0 0 0 1 2 1 address address clearfix 13 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 address div clearfix 12 17
+Assoc. O assoc. 0 0 0 0 0 0 1 0 0 address div clearfix 12 17
+Prof. O prof. 0 1 0 0 1 0 1 0 0 address div clearfix 12 17
+
+Pascal B-PER pascal 1 1 0 0 0 0 1 7 5 address address clearfix 13 0
+Koiran I-PER koiran 1 1 0 0 0 0 1 0 2 address address clearfix 13 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 address div clearfix 12 19
+Prof. O prof. 0 1 0 0 1 0 1 0 0 address div clearfix 12 19
+
+Natacha B-PER natacha 1 1 0 0 0 0 1 3 3 address address clearfix 13 0
+Portier I-PER portier 1 1 0 0 0 0 1 3 3 address address clearfix 13 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 address div clearfix 12 21
+Assoc. O assoc. 0 0 0 0 0 0 1 0 0 address div clearfix 12 21
+Prof. O prof. 0 1 0 0 1 0 1 0 0 address div clearfix 12 21
+
+Frédéric B-PER frederic 1 1 0 0 0 0 1 7 6 address address clearfix 13 0
+Prost I-PER prost 1 1 0 0 0 0 1 3 2 address address clearfix 13 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 address div clearfix 12 23
+Assoc. O assoc. 0 0 0 0 0 0 1 0 0 address div clearfix 12 23
+Prof. O prof. 0 1 0 0 1 0 1 0 0 address div clearfix 12 23
+
+Colin B-PER colin 1 1 0 0 0 0 1 7 4 address address clearfix 13 0
+Riba I-PER riba 1 1 0 0 0 0 1 3 3 address address clearfix 13 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 address div clearfix 12 25
+Assoc. O assoc. 0 0 0 0 0 0 1 0 0 address div clearfix 12 25
+Prof. O prof. 0 1 0 0 1 0 1 0 0 address div clearfix 12 25
+
+Yves B-PER yves 1 1 0 0 0 0 1 7 5 address address clearfix 13 0
+Robert I-PER robert 1 1 0 0 0 0 1 9 7 address address clearfix 13 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 address div clearfix 12 27
+Prof. O prof. 0 1 0 0 1 0 1 0 0 address div clearfix 12 27
+
+Damien B-PER damien 1 1 0 0 0 0 1 6 4 address address clearfix 13 0
+Stehlé I-PER stehle 1 1 0 0 0 0 1 1 2 address address clearfix 13 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 address div clearfix 12 29
+Prof. O prof. 0 1 0 0 1 0 1 0 0 address div clearfix 12 29
+
+Eric B-PER eric 1 1 0 0 0 0 1 8 5 address address clearfix 13 0
+Thierry I-PER thierry 1 1 0 0 0 0 1 6 5 address address clearfix 13 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 address div clearfix 12 31
+Assoc. O assoc. 0 0 0 0 0 0 1 0 0 address div clearfix 12 31
+Prof. O prof. 0 1 0 0 1 0 1 0 0 address div clearfix 12 31
+
+Stéphan B-PER stephan 1 1 0 0 0 0 1 3 3 address address clearfix 13 0
+Thomassé I-PER thomasse 1 1 0 0 0 0 1 0 1 address address clearfix 13 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 address div clearfix 12 33
+Prof. O prof. 0 1 0 0 1 0 1 0 0 address div clearfix 12 33
+
+Print O print 0 1 0 0 0 0 1 1 5 div div post-footer 11 2
+this O this 0 0 0 0 0 0 0 0 8 div div post-footer 11 2
+page O page 0 0 0 0 0 0 0 0 9 div div post-footer 11 2
+| O | 0 0 0 0 0 0 0 0 0 div td post-footer 10 95
+retourner O retourner 0 0 0 0 0 0 0 0 4 div div post-footer 11 4
+au O au 0 0 0 0 0 0 0 0 9 div div post-footer 11 4
+début O debut 0 0 0 0 0 0 0 0 7 div div post-footer 11 4
+
+Latest O latest 0 0 0 0 0 0 1 0 5 div div widget-title 11 0
+news O news 0 0 0 0 0 0 0 0 7 div div widget-title 11 0
+
+ENS O ens 0 0 0 0 0 0 1 0 5 li ul lcp_catlist 12 0
+information O information 0 0 0 0 0 0 0 0 8 li ul lcp_catlist 12 0
+– O – 0 0 0 0 0 0 0 0 0 li ul lcp_catlist 12 0
+An O an 0 1 0 0 0 0 1 7 8 li ul lcp_catlist 12 0
+overview O overview 0 0 0 0 0 0 0 0 5 li ul lcp_catlist 12 0
+
+September O september 0 0 0 0 0 0 1 0 7 ul div lcp_catlist 11 0
+22 O 22 0 0 0 1 0 0 0 0 0 ul div lcp_catlist 11 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 ul div lcp_catlist 11 0
+2017 O 2017 0 0 0 1 0 0 0 0 0 ul div lcp_catlist 11 0
+
+Room O room 0 1 0 0 0 0 1 1 6 li ul lcp_catlist 12 0
+booking O booking 0 0 0 0 0 0 0 0 3 li ul lcp_catlist 12 0
+
+December O december 0 1 0 0 0 0 1 0 6 ul div lcp_catlist 11 3
+17 O 17 0 0 0 1 0 0 0 0 0 ul div lcp_catlist 11 3
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 ul div lcp_catlist 11 3
+2016 O 2016 0 0 0 1 0 0 0 0 0 ul div lcp_catlist 11 3
+
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul lcp_catlist 12 0
+Français O francais 0 1 0 0 0 0 1 0 8 li ul lcp_catlist 12 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul lcp_catlist 12 0
+Poste O poste 0 1 0 0 0 0 1 0 6 li ul lcp_catlist 12 0
+d’ATER O d’ater 0 0 0 0 0 0 0 0 0 li ul lcp_catlist 12 0
+pour O pour 0 1 0 0 0 0 0 1 9 li ul lcp_catlist 12 0
+2017 O 2017 0 0 0 1 0 0 0 0 0 li ul lcp_catlist 12 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul lcp_catlist 12 0
+2018 O 2018 0 0 0 1 0 0 0 0 0 li ul lcp_catlist 12 0
+
+April O april 0 1 0 0 0 0 1 4 6 ul div lcp_catlist 11 6
+5 O 5 0 0 0 1 0 0 0 0 0 ul div lcp_catlist 11 6
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 ul div lcp_catlist 11 6
+2016 O 2016 0 0 0 1 0 0 0 0 0 ul div lcp_catlist 11 6
+
+Ampère O ampere 0 0 0 0 0 0 1 0 3 li ul lcp_catlist 12 0
+excellence O excellence 0 0 0 0 0 0 0 0 6 li ul lcp_catlist 12 0
+scholarships O scholarships 0 0 0 0 0 0 0 0 5 li ul lcp_catlist 12 0
+
+December O december 0 1 0 0 0 0 1 0 6 ul div lcp_catlist 11 9
+9 O 9 0 0 0 1 0 0 0 0 0 ul div lcp_catlist 11 9
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 ul div lcp_catlist 11 9
+2014 O 2014 0 0 0 1 0 0 0 0 0 ul div lcp_catlist 11 9
+
+Laptop O laptop 0 0 0 0 0 0 1 0 2 li ul lcp_catlist 12 0
+loans O loans 0 0 0 0 0 0 0 0 3 li ul lcp_catlist 12 0
+
+September O september 0 0 0 0 0 0 1 0 7 ul div lcp_catlist 11 12
+8 O 8 0 0 0 1 0 0 0 0 0 ul div lcp_catlist 11 12
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 ul div lcp_catlist 11 12
+2014 O 2014 0 0 0 1 0 0 0 0 0 ul div lcp_catlist 11 12
+
+Copyright O copyright 0 0 0 0 0 0 1 0 6 tr table page-id-2 8 0
+© O © 0 0 0 0 0 0 0 0 0 tr table page-id-2 8 0
+2017 O 2017 0 0 0 1 0 0 0 0 0 tr table page-id-2 8 0
+ENS O ens 0 0 0 0 0 0 1 0 5 tr table page-id-2 8 0
+Lyon O lyon 0 1 0 0 0 0 1 4 7 tr table page-id-2 8 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table page-id-2 8 0
+Computer O computer 0 0 0 0 0 0 1 0 7 td tr page-id-2 9 0
+Science O science 0 0 0 0 0 0 1 0 7 td tr page-id-2 9 0
+Department O department 0 0 0 0 0 0 1 0 7 td tr page-id-2 9 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table page-id-2 8 0
+All O all 0 1 0 0 0 0 1 2 7 tr table page-id-2 8 0
+Rights O rights 0 0 0 0 0 0 1 0 5 tr table page-id-2 8 0
+Reserved O reserved 0 0 0 0 0 0 1 0 4 tr table page-id-2 8 0
+
+Powered O powered 0 0 0 0 0 0 1 0 4 tr table page-id-2 8 0
+by O by 0 1 0 0 0 0 0 0 8 tr table page-id-2 8 0
+WordPress O wordpress 0 0 0 0 0 0 1 0 4 td tr page-id-2 9 2
+& O & 0 0 0 0 0 0 0 0 0 tr table page-id-2 8 0
+Atahualpa O atahualpa 0 1 0 0 0 0 1 1 3 td tr page-id-2 9 3
+
+Close O close 0 1 0 0 0 0 1 3 5 div td epl_button_small 10 2

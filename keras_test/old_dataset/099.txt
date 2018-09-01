@@ -1,0 +1,676 @@
+Professorat O professorat 0 0 0 0 1 0 1 head html none 4 0
+- O - 0 0 0 0 0 0 0 head html none 4 0
+Estudis O estudis 0 0 0 0 0 0 1 head html none 4 0
+d O d 0 0 0 0 0 0 0 head html none 4 0
+' O ' 0 0 0 0 0 0 0 head html none 4 0
+Informàtica O informatica 0 0 0 0 0 0 1 head html none 4 0
+, O , 0 0 0 0 0 0 0 head html none 4 0
+Multimèdia O multimedia 0 0 0 0 0 0 1 head html none 4 0
+i O i 0 1 0 0 0 0 0 head html none 4 0
+Telecomunicació O telecomunicacio 0 0 0 0 0 0 1 head html none 4 0
+- O - 0 0 0 0 0 0 0 head html none 4 0
+Universitat O universitat 0 0 0 0 0 0 1 head html none 4 0
+Oberta O oberta 0 1 0 0 0 0 1 head html none 4 0
+de O de 0 1 0 0 0 0 0 head html none 4 0
+Catalunya O catalunya 0 0 0 0 0 0 1 head html none 4 0
+( O ( 0 0 0 0 0 0 0 head html none 4 0
+UOC O uoc 0 0 0 0 0 0 1 head html none 4 0
+) O ) 0 0 0 0 0 0 0 head html none 4 0
+
+paraules O paraules 0 0 0 0 0 0 0 form div hidden 10 0
+a O a 0 1 0 0 0 0 0 form div hidden 10 0
+cercar O cercar 0 0 0 0 0 0 0 form div hidden 10 0
+
+ca O ca 0 0 0 0 0 0 0 li ul active 11 0
+
+es O es 0 0 0 0 0 0 0 li ul  11 0
+
+en O en 0 0 0 0 0 0 0 li ul  11 0
+
+Professorat O professorat 0 0 0 0 1 0 1 div div h1_header 9 0
+- O - 0 0 0 0 0 0 0 div div h1_header 9 0
+Estudis O estudis 0 0 0 0 0 0 1 div div h1_header 9 0
+d O d 0 0 0 0 0 0 0 div div h1_header 9 0
+' O ' 0 0 0 0 0 0 0 div div h1_header 9 0
+Informàtica O informatica 0 0 0 0 0 0 1 div div h1_header 9 0
+, O , 0 0 0 0 0 0 0 div div h1_header 9 0
+Multimèdia O multimedia 0 0 0 0 0 0 1 div div h1_header 9 0
+i O i 0 1 0 0 0 0 0 div div h1_header 9 0
+Telecomunicació O telecomunicacio 0 0 0 0 0 0 1 div div h1_header 9 0
+- O - 0 0 0 0 0 0 0 div div h1_header 9 0
+Universitat O universitat 0 0 0 0 0 0 1 div div h1_header 9 0
+Oberta O oberta 0 1 0 0 0 0 1 div div h1_header 9 0
+de O de 0 1 0 0 0 0 0 div div h1_header 9 0
+Catalunya O catalunya 0 0 0 0 0 0 1 div div h1_header 9 0
+( O ( 0 0 0 0 0 0 0 div div h1_header 9 0
+UOC O uoc 0 0 0 0 0 0 1 div div h1_header 9 0
+) O ) 0 0 0 0 0 0 0 div div h1_header 9 0
+
+Estudis O estudis 0 0 0 0 0 0 1 p div top-lema 11 0
+d O d 0 0 0 0 0 0 0 p div top-lema 11 0
+' O ' 0 0 0 0 0 0 0 p div top-lema 11 0
+Informàtica O informatica 0 0 0 0 0 0 1 p div top-lema 11 0
+, O , 0 0 0 0 0 0 0 p div top-lema 11 0
+Multimèdia O multimedia 0 0 0 0 0 0 1 p div top-lema 11 0
+i O i 0 1 0 0 0 0 0 p div top-lema 11 0
+Telecomunicació O telecomunicacio 0 0 0 0 0 0 1 p div top-lema 11 0
+
+Campus O campus 0 1 0 0 0 0 1 div div form-campus-title 10 0
+
+Usuari O usuari 0 0 0 0 0 0 1 form div loginForm 11 0
+
+Clau O clau 0 1 0 0 0 0 1 form div loginForm 11 2
+
+Has O has 0 1 0 0 0 0 1 form div loginForm 11 10
+oblidat O oblidat 0 0 0 0 0 0 0 form div loginForm 11 10
+la O la 0 1 0 0 0 0 0 form div loginForm 11 10
+teva O teva 0 0 0 0 0 0 0 form div loginForm 11 10
+clau? O clau? 0 0 0 0 0 0 0 form div loginForm 11 10
+
+Cerrar O cerrar 0 0 0 0 0 0 1 a div hidden 13 0
+PopUp O popup 0 0 0 0 0 0 1 a div hidden 13 0
+
+Compartir O compartir 0 0 0 0 0 0 1 div div text 14 0
+a O a 0 1 0 0 0 0 0 div div text 14 0
+: O : 0 0 0 0 0 0 0 div div text 14 0
+
+Inici O inici 0 0 0 0 0 0 1 li ul reset 13 0
+
+/ O / 0 0 0 0 0 0 0 li ul bc-sep 13 0
+Equip O equip 0 0 0 0 0 0 1 li ul reset 13 1
+
+/ O / 0 0 0 0 0 0 0 li ul bc-sep 13 0
+Professorat O professorat 0 0 0 0 1 0 1 li ul last 13 1
+
+Compartir O compartir 0 0 0 0 0 0 1 a li addthis_button 15 0
+
+Escoltar O escoltar 0 0 0 0 0 0 1 a li readspeaker-container 15 0
+
+Imprimir O imprimir 0 0 0 0 0 0 1 a li reset 15 0
+
+Estudis O estudis 0 0 0 0 0 0 1 h2 div title 15 0
+d O d 0 0 0 0 0 0 0 h2 div title 15 0
+' O ' 0 0 0 0 0 0 0 h2 div title 15 0
+Informàtica O informatica 0 0 0 0 0 0 1 h2 div title 15 0
+, O , 0 0 0 0 0 0 0 h2 div title 15 0
+Multimèdia O multimedia 0 0 0 0 0 0 1 h2 div title 15 0
+i O i 0 1 0 0 0 0 0 h2 div title 15 0
+Telecomunicació O telecomunicacio 0 0 0 0 0 0 1 h2 div title 15 0
+
+Equip O equip 0 0 0 0 0 0 1 div div title 14 0
+
+Professorat O professorat 0 0 0 0 1 0 1 div div subtitle_style 14 3
+
+Els O els 0 1 0 0 0 0 1 div div info 15 0
+professors O professors 0 0 0 0 1 0 0 div div info 15 0
+i O i 0 1 0 0 0 0 0 div div info 15 0
+professores O professores 0 0 0 0 1 0 0 div div info 15 0
+dels O dels 0 0 0 0 0 0 0 div div info 15 0
+Estudis O estudis 0 0 0 0 0 0 1 div div info 15 0
+som O som 0 0 0 0 0 0 0 div div info 15 0
+responsables O responsables 0 0 0 0 0 0 0 div div info 15 0
+de O de 0 1 0 0 0 0 0 div div info 15 0
+les O les 0 1 0 0 0 0 0 div div info 15 0
+titulacions O titulacions 0 0 0 0 0 0 0 div div info 15 0
+de O de 0 1 0 0 0 0 0 div div info 15 0
+grau O grau 0 0 0 0 0 0 0 div div info 15 0
+i O i 0 1 0 0 0 0 0 div div info 15 0
+postgrau O postgrau 0 0 0 0 0 0 0 div div info 15 0
+de O de 0 1 0 0 0 0 0 div div info 15 0
+la O la 0 1 0 0 0 0 0 div div info 15 0
+UOC O uoc 0 0 0 0 0 0 1 div div info 15 0
+en O en 0 0 0 0 0 0 0 div div info 15 0
+Informàtica O informatica 0 0 0 0 0 0 1 div div info 15 0
+, O , 0 0 0 0 0 0 0 div div info 15 0
+Multimèdia O multimedia 0 0 0 0 0 0 1 div div info 15 0
+i O i 0 1 0 0 0 0 0 div div info 15 0
+Telecomunicació O telecomunicacio 0 0 0 0 0 0 1 div div info 15 0
+, O , 0 0 0 0 0 0 0 div div info 15 0
+vetllem O vetllem 0 0 0 0 0 0 0 div div info 15 0
+per O per 0 0 0 0 0 0 0 div div info 15 0
+la O la 0 1 0 0 0 0 0 div div info 15 0
+
+qualitat O qualitat 0 0 0 0 0 0 0 p div info 16 0
+dels O dels 0 0 0 0 0 0 0 p div info 16 0
+cursos O cursos 0 0 0 0 0 0 0 p div info 16 0
+i O i 0 1 0 0 0 0 0 p div info 16 0
+assignatures O assignatures 0 0 0 0 0 0 0 p div info 16 0
+
+i O i 0 1 0 0 0 0 0 div div info 15 0
+som O som 0 0 0 0 0 0 0 div div info 15 0
+
+actius O actius 0 0 0 0 0 0 0 p div info 16 1
+en O en 0 0 0 0 0 0 0 p div info 16 1
+recerca. O recerca. 0 0 0 0 0 0 0 p div info 16 1
+
+Des O des 0 1 0 0 0 0 1 div div info 15 3
+d O d 0 0 0 0 0 0 0 div div info 15 3
+' O ' 0 0 0 0 0 0 0 div div info 15 3
+aquest O aquest 0 0 0 0 0 0 0 div div info 15 3
+directori O directori 0 0 0 0 0 0 0 div div info 15 3
+podeu O podeu 0 0 0 0 0 0 0 div div info 15 3
+consultar O consultar 0 0 0 0 0 0 0 div div info 15 3
+el O el 0 1 0 0 0 0 0 div div info 15 3
+nostre O nostre 0 0 0 0 0 0 0 div div info 15 3
+perfil O perfil 0 0 0 0 0 0 0 div div info 15 3
+o O o 0 0 0 0 0 0 0 div div info 15 3
+posar O posar 0 0 0 0 0 0 0 div div info 15 3
+- O - 0 0 0 0 0 0 0 div div info 15 3
+vos O vos 0 0 0 0 0 0 0 div div info 15 3
+en O en 0 0 0 0 0 0 0 div div info 15 3
+
+contacte O contacte 0 0 0 0 0 0 0 p div info 16 0
+amb O amb 0 0 0 0 0 0 0 p div info 16 0
+nosaltres O nosaltres 0 0 0 0 0 0 0 p div info 16 0
+
+. O . 0 1 0 0 0 0 0 div div info 15 3
+
+Anteriors O anteriors 0 0 0 0 0 0 1 div div prev 14 0
+
+1 O 1 0 0 0 1 0 0 0 li ul pagination 16 0
+
+2 O 2 0 0 0 1 0 0 0 li ul currentPage 16 0
+
+3 O 3 0 0 0 1 0 0 0 li ul pagination 16 0
+
+4 O 4 0 0 0 1 0 0 0 li ul pagination 16 0
+
+5 O 5 0 0 0 1 0 0 0 li ul pagination 16 0
+
+Següents O seguents 0 0 0 0 0 0 1 div div next 14 12
+
+Estudis O estudis 0 0 0 0 0 0 1 div div level_1 15 0
+d O d 0 0 0 0 0 0 0 div div level_1 15 0
+' O ' 0 0 0 0 0 0 0 div div level_1 15 0
+Informàtica O informatica 0 0 0 0 0 0 1 div div level_1 15 0
+, O , 0 0 0 0 0 0 0 div div level_1 15 0
+Multimèdia O multimedia 0 0 0 0 0 0 1 div div level_1 15 0
+i O i 0 1 0 0 0 0 0 div div level_1 15 0
+Telecomunicació O telecomunicacio 0 0 0 0 0 0 1 div div level_1 15 0
+
+Director O director 0 1 0 0 0 0 1 ul li carrec 17 0
+del O del 0 1 0 0 0 0 0 ul li carrec 17 0
+Programa O programa 0 0 0 0 0 0 1 ul li carrec 17 0
+Diploma O diploma 0 0 0 0 0 0 1 ul li carrec 17 0
+Postgrau O postgrau 0 0 0 0 0 0 1 ul li carrec 17 0
+Smart O smart 0 1 0 0 0 0 1 ul li carrec 17 0
+Cities O cities 0 0 0 0 0 0 1 ul li carrec 17 0
+: O : 0 0 0 0 0 0 0 ul li carrec 17 0
+Ciutat O ciutat 0 0 0 0 0 0 1 ul li carrec 17 0
+i O i 0 1 0 0 0 0 0 ul li carrec 17 0
+Tecnologia O tecnologia 0 0 0 0 0 0 1 ul li carrec 17 0
+
+Carlos O carlos 1 1 0 0 0 0 1 ul li nom 17 1
+Monzo O monzo 1 1 0 0 0 0 1 ul li nom 17 1
+Sánchez O sanchez 0 1 0 0 0 0 1 ul li nom 17 1
+
+cmonzo O cmonzo 0 0 0 0 0 0 0 ul li telefon 17 2
+uoc.edu O uoc.edu 0 0 0 0 0 0 0 ul li telefon 17 2
+
+Fitxa O fitxa 0 0 0 0 0 0 1 div ul adreca 18 0
+personal O personal 0 0 0 0 0 0 0 div ul adreca 18 0
+
+Director O director 0 1 0 0 0 0 1 ul li carrec 17 0
+del O del 0 1 0 0 0 0 0 ul li carrec 17 0
+Programa O programa 0 0 0 0 0 0 1 ul li carrec 17 0
+Diploma O diploma 0 0 0 0 0 0 1 ul li carrec 17 0
+Postragrau O postragrau 0 0 0 0 0 0 1 ul li carrec 17 0
+IT O it 0 0 0 0 0 0 1 ul li carrec 17 0
+Project O project 0 1 0 0 0 0 1 ul li carrec 17 0
+Management O management 0 1 0 0 0 0 1 ul li carrec 17 0
+
+Josep O josep 0 1 0 0 0 0 1 ul li nom 17 1
+Maria O maria 1 1 0 0 0 0 1 ul li nom 17 1
+Marco O marco 1 1 0 0 0 0 1 ul li nom 17 1
+Simó O simo 0 1 0 0 0 0 1 ul li nom 17 1
+
+jmarco O jmarco 0 0 0 0 0 0 0 ul li telefon 17 2
+uoc.edu O uoc.edu 0 0 0 0 0 0 0 ul li telefon 17 2
+
+Fitxa O fitxa 0 0 0 0 0 0 1 div ul adreca 18 0
+personal O personal 0 0 0 0 0 0 0 div ul adreca 18 0
+
+Director O director 0 1 0 0 0 0 1 ul li carrec 17 0
+del O del 0 1 0 0 0 0 0 ul li carrec 17 0
+Programa O programa 0 0 0 0 0 0 1 ul li carrec 17 0
+Grau O grau 0 1 0 0 0 0 1 ul li carrec 17 0
+en O en 0 0 0 0 0 0 0 ul li carrec 17 0
+Disseny O disseny 0 0 0 0 0 0 1 ul li carrec 17 0
+i O i 0 1 0 0 0 0 0 ul li carrec 17 0
+Creació O creacio 0 0 0 0 0 0 1 ul li carrec 17 0
+Digitals O digitals 0 0 0 0 0 0 1 ul li carrec 17 0
+
+Javier O javier 1 1 0 0 0 0 1 ul li nom 17 1
+Melenchón O melenchon 1 1 0 0 0 0 1 ul li nom 17 1
+Maldonado O maldonado 1 1 0 0 0 0 1 ul li nom 17 1
+
+jmelenchonm O jmelenchonm 0 0 0 0 0 0 0 ul li telefon 17 2
+uoc.edu O uoc.edu 0 0 0 0 0 0 0 ul li telefon 17 2
+
+Fitxa O fitxa 0 0 0 0 0 0 1 div ul adreca 18 0
+personal O personal 0 0 0 0 0 0 0 div ul adreca 18 0
+
+Director O director 0 1 0 0 0 0 1 ul li carrec 17 0
+del O del 0 1 0 0 0 0 0 ul li carrec 17 0
+Programa O programa 0 0 0 0 0 0 1 ul li carrec 17 0
+Màster O master 0 0 0 0 1 0 1 ul li carrec 17 0
+Intel·ligència O intel·ligencia 0 0 0 0 0 0 1 ul li carrec 17 0
+de O de 0 1 0 0 0 0 0 ul li carrec 17 0
+Negoci O negoci 0 0 0 0 0 0 1 ul li carrec 17 0
+i O i 0 1 0 0 0 0 0 ul li carrec 17 0
+Big O big 0 0 0 0 0 0 1 ul li carrec 17 0
+Data O data 0 1 0 0 0 0 1 ul li carrec 17 0
+
+Jordi B-PER jordi 0 1 0 0 0 0 1 ul li nom 17 1
+Casas I-PER casas 0 1 0 0 0 0 1 ul li nom 17 1
+Roma I-PER roma 0 1 0 0 0 0 1 ul li nom 17 1
+
+jcasasr O jcasasr 0 0 0 0 0 0 0 ul li telefon 17 2
+uoc.edu O uoc.edu 0 0 0 0 0 0 0 ul li telefon 17 2
+
+Fitxa O fitxa 0 0 0 0 0 0 1 div ul adreca 18 0
+personal O personal 0 0 0 0 0 0 0 div ul adreca 18 0
+
+Director O director 0 1 0 0 0 0 1 ul li carrec 17 0
+del O del 0 1 0 0 0 0 0 ul li carrec 17 0
+Programa O programa 0 0 0 0 0 0 1 ul li carrec 17 0
+Màster O master 0 0 0 0 1 0 1 ul li carrec 17 0
+Universitari O universitari 0 0 0 0 0 0 1 ul li carrec 17 0
+Computer O computer 0 0 0 0 0 0 1 ul li carrec 17 0
+Vision O vision 0 1 0 0 0 0 1 ul li carrec 17 0
+UAB O uab 0 0 0 0 0 0 1 ul li carrec 17 0
+- O - 0 0 0 0 0 0 0 ul li carrec 17 0
+UOC O uoc 0 0 0 0 0 0 1 ul li carrec 17 0
+- O - 0 0 0 0 0 0 0 ul li carrec 17 0
+UPC O upc 0 0 0 0 0 0 1 ul li carrec 17 0
+- O - 0 0 0 0 0 0 0 ul li carrec 17 0
+UPF O upf 0 0 0 0 0 0 1 ul li carrec 17 0
+
+Xavier O xavier 1 1 0 0 0 0 1 ul li nom 17 1
+Baró O baro 1 1 0 0 0 0 1 ul li nom 17 1
+Solé O sole 0 1 0 0 0 0 1 ul li nom 17 1
+
+xbaro O xbaro 0 0 0 0 0 0 0 ul li telefon 17 2
+uoc.edu O uoc.edu 0 0 0 0 0 0 0 ul li telefon 17 2
+
+Fitxa O fitxa 0 0 0 0 0 0 1 div ul adreca 18 0
+personal O personal 0 0 0 0 0 0 0 div ul adreca 18 0
+
+Director O director 0 1 0 0 0 0 1 ul li carrec 17 0
+del O del 0 1 0 0 0 0 0 ul li carrec 17 0
+Programa O programa 0 0 0 0 0 0 1 ul li carrec 17 0
+Màster O master 0 0 0 0 1 0 1 ul li carrec 17 0
+Universitari O universitari 0 0 0 0 0 0 1 ul li carrec 17 0
+d O d 0 0 0 0 0 0 0 ul li carrec 17 0
+' O ' 0 0 0 0 0 0 0 ul li carrec 17 0
+Enginyeria O enginyeria 0 0 0 0 0 0 1 ul li carrec 17 0
+Informàtica O informatica 0 0 0 0 0 0 1 ul li carrec 17 0
+
+Robert O robert 1 1 0 0 0 0 1 ul li nom 17 1
+Clarisó O clariso 1 1 0 0 0 0 1 ul li nom 17 1
+Viladrosa O viladrosa 0 0 0 0 0 0 1 ul li nom 17 1
+
+rclariso O rclariso 0 0 0 0 0 0 0 ul li telefon 17 2
+uoc.edu O uoc.edu 0 0 0 0 0 0 0 ul li telefon 17 2
+
+Fitxa O fitxa 0 0 0 0 0 0 1 div ul adreca 18 0
+personal O personal 0 0 0 0 0 0 0 div ul adreca 18 0
+
+Director O director 0 1 0 0 0 0 1 ul li carrec 17 0
+del O del 0 1 0 0 0 0 0 ul li carrec 17 0
+Programa O programa 0 0 0 0 0 0 1 ul li carrec 17 0
+Màster O master 0 0 0 0 1 0 1 ul li carrec 17 0
+Universitari O universitari 0 0 0 0 0 0 1 ul li carrec 17 0
+en O en 0 0 0 0 0 0 0 ul li carrec 17 0
+Desenvolupament O desenvolupament 0 0 0 0 0 0 1 ul li carrec 17 0
+d O d 0 0 0 0 0 0 0 ul li carrec 17 0
+' O ' 0 0 0 0 0 0 0 ul li carrec 17 0
+aplicacions O aplicacions 0 0 0 0 1 0 0 ul li carrec 17 0
+per O per 0 0 0 0 0 0 0 ul li carrec 17 0
+a O a 0 1 0 0 0 0 0 ul li carrec 17 0
+dispositius O dispositius 0 0 0 0 0 0 0 ul li carrec 17 0
+mòbils O mobils 0 0 0 0 0 0 0 ul li carrec 17 0
+
+Carles B-PER carles 1 1 0 0 0 0 1 ul li nom 17 1
+Garrigues I-PER garrigues 1 1 0 0 0 0 1 ul li nom 17 1
+Olivella I-PER olivella 0 1 0 0 0 0 1 ul li nom 17 1
+
+cgarrigueso O cgarrigueso 0 0 0 0 0 0 0 ul li telefon 17 2
+uoc.edu O uoc.edu 0 0 0 0 0 0 0 ul li telefon 17 2
+
+Fitxa O fitxa 0 0 0 0 0 0 1 div ul adreca 18 0
+personal O personal 0 0 0 0 0 0 0 div ul adreca 18 0
+
+Director O director 0 1 0 0 0 0 1 ul li carrec 17 0
+del O del 0 1 0 0 0 0 0 ul li carrec 17 0
+Programa O programa 0 0 0 0 0 0 1 ul li carrec 17 0
+Màster O master 0 0 0 0 1 0 1 ul li carrec 17 0
+Universitari O universitari 0 0 0 0 0 0 1 ul li carrec 17 0
+en O en 0 0 0 0 0 0 0 ul li carrec 17 0
+Programari O programari 0 0 0 0 0 0 1 ul li carrec 17 0
+lliure O lliure 0 0 0 0 0 0 0 ul li carrec 17 0
+
+David O david 1 1 0 0 0 0 1 ul li nom 17 1
+Bañeres O baneres 1 1 0 0 0 0 1 ul li nom 17 1
+Besora O besora 0 1 0 0 0 0 1 ul li nom 17 1
+
+Fitxa O fitxa 0 0 0 0 0 0 1 div ul adreca 18 0
+personal O personal 0 0 0 0 0 0 0 div ul adreca 18 0
+
+Director O director 0 1 0 0 0 0 1 ul li carrec 17 0
+Programa O programa 0 0 0 0 0 0 1 ul li carrec 17 0
+Postgrau O postgrau 0 0 0 0 0 0 1 ul li carrec 17 0
+en O en 0 0 0 0 0 0 0 ul li carrec 17 0
+Desenvolupament O desenvolupament 0 0 0 0 0 0 1 ul li carrec 17 0
+d O d 0 0 0 0 0 0 0 ul li carrec 17 0
+' O ' 0 0 0 0 0 0 0 ul li carrec 17 0
+Aplicacions O aplicacions 0 0 0 0 1 0 1 ul li carrec 17 0
+Web O web 0 1 0 0 0 0 1 ul li carrec 17 0
+
+César O cesar 0 1 0 0 0 0 1 ul li nom 17 1
+Pablo O pablo 0 1 0 0 0 0 1 ul li nom 17 1
+Córcoles O corcoles 0 1 0 0 0 0 1 ul li nom 17 1
+Briongos O briongos 0 0 0 0 0 0 1 ul li nom 17 1
+
+ccorcoles O ccorcoles 0 0 0 0 0 0 0 ul li telefon 17 2
+uoc.edu O uoc.edu 0 0 0 0 0 0 0 ul li telefon 17 2
+
+Fitxa O fitxa 0 0 0 0 0 0 1 div ul adreca 18 0
+personal O personal 0 0 0 0 0 0 0 div ul adreca 18 0
+
+Directora O directora 0 0 0 0 0 0 1 ul li carrec 17 0
+del O del 0 1 0 0 0 0 0 ul li carrec 17 0
+Program O program 0 0 0 0 0 0 1 ul li carrec 17 0
+Màster O master 0 0 0 0 1 0 1 ul li carrec 17 0
+Universitari O universitari 0 0 0 0 0 0 1 ul li carrec 17 0
+Bioinformàtica O bioinformatica 0 0 0 0 0 0 1 ul li carrec 17 0
+i O i 0 1 0 0 0 0 0 ul li carrec 17 0
+bioestadística O bioestadistica 0 0 0 0 0 0 0 ul li carrec 17 0
+UOC O uoc 0 0 0 0 0 0 1 ul li carrec 17 0
+- O - 0 0 0 0 0 0 0 ul li carrec 17 0
+UB O ub 0 0 0 0 0 0 1 ul li carrec 17 0
+
+Agata B-PER agata 0 1 0 0 0 0 1 ul li nom 17 1
+Lapedriza I-PER lapedriza 0 1 0 0 0 0 1 ul li nom 17 1
+Garcia I-PER garcia 0 1 0 0 0 0 1 ul li nom 17 1
+
+alapedriza O alapedriza 0 0 0 0 0 0 0 ul li telefon 17 2
+uoc.edu O uoc.edu 0 0 0 0 0 0 0 ul li telefon 17 2
+
+Fitxa O fitxa 0 0 0 0 0 0 1 div ul adreca 18 0
+personal O personal 0 0 0 0 0 0 0 div ul adreca 18 0
+
+Anteriors O anteriors 0 0 0 0 0 0 1 div div prev 14 0
+
+1 O 1 0 0 0 1 0 0 0 li ul pagination 16 0
+
+2 O 2 0 0 0 1 0 0 0 li ul currentPage 16 0
+
+3 O 3 0 0 0 1 0 0 0 li ul pagination 16 0
+
+4 O 4 0 0 0 1 0 0 0 li ul pagination 16 0
+
+5 O 5 0 0 0 1 0 0 0 li ul pagination 16 0
+
+Següents O seguents 0 0 0 0 0 0 1 div div next 14 12
+
+Presentació O presentacio 0 0 0 0 0 0 1 li ul level-1 16 0
+
+Equip O equip 0 0 0 0 0 0 1 li ul has-children 16 0
+
+Professorat O professorat 0 0 0 0 1 0 1 li ul active 16 0
+
+Personal O personal 0 1 0 0 0 0 1 li ul level-2 16 0
+de O de 0 1 0 0 0 0 0 li ul level-2 16 0
+gestió O gestio 0 0 0 0 0 0 0 li ul level-2 16 0
+
+Qualitat O qualitat 0 0 0 0 0 0 1 li ul level-2 16 0
+del O del 0 1 0 0 0 0 0 li ul level-2 16 0
+personal O personal 0 0 0 0 0 0 0 li ul level-2 16 0
+acdèmic O acdemic 0 0 0 0 1 0 0 li ul level-2 16 0
+
+Oferta O oferta 0 0 0 0 0 0 1 li ul level-1 16 0
+formativa O formativa 0 0 0 0 0 0 0 li ul level-1 16 0
+
+Recerca O recerca 0 0 0 0 0 0 1 li ul level-1 16 0
+
+Innovació O innovacio 0 0 0 0 0 0 1 li ul level-1 16 0
+docent O docent 0 0 0 0 0 0 0 li ul level-1 16 0
+
+Recursos O recursos 0 0 0 0 0 0 1 li ul level-1 16 0
+
+Agenda O agenda 0 0 0 0 0 0 1 li ul level-1 16 0
+
+Segueix O segueix 0 0 0 0 0 0 1 li ul level-1 16 0
+- O - 0 0 0 0 0 0 0 li ul level-1 16 0
+nos O nos 0 0 0 0 0 0 0 li ul level-1 16 0
+a O a 0 1 0 0 0 0 0 li ul level-1 16 0
+la O la 0 1 0 0 0 0 0 li ul level-1 16 0
+xarxa O xarxa 0 0 0 0 0 0 0 li ul level-1 16 0
+
+Contacte O contacte 0 0 0 0 0 0 1 li ul level-1 16 0
+
+Premis O premis 0 0 0 0 0 0 1 li ul level-1 16 0
+i O i 0 1 0 0 0 0 0 li ul level-1 16 0
+beques O beques 0 0 0 0 0 0 0 li ul level-1 16 0
+
+Estudis O estudis 0 0 0 0 0 0 1 div div h2 10 0
+d O d 0 0 0 0 0 0 0 div div h2 10 0
+' O ' 0 0 0 0 0 0 0 div div h2 10 0
+Informàtica O informatica 0 0 0 0 0 0 1 div div h2 10 0
+, O , 0 0 0 0 0 0 0 div div h2 10 0
+Multimèdia O multimedia 0 0 0 0 0 0 1 div div h2 10 0
+i O i 0 1 0 0 0 0 0 div div h2 10 0
+Telecomunicació O telecomunicacio 0 0 0 0 0 0 1 div div h2 10 0
+
+Presentació O presentacio 0 0 0 0 0 0 1 li ul reset 14 0
+
+Equip O equip 0 0 0 0 0 0 1 li ul reset 14 0
+
+Agenda O agenda 0 0 0 0 0 0 1 li ul reset 14 0
+
+Contacte O contacte 0 0 0 0 0 0 1 li ul reset 14 0
+
+Oferta O oferta 0 0 0 0 0 0 1 li ul reset 14 0
+formativa O formativa 0 0 0 0 0 0 0 li ul reset 14 0
+
+Recursos O recursos 0 0 0 0 0 0 1 li ul reset 14 0
+docents O docents 0 0 0 0 0 0 0 li ul reset 14 0
+
+Recerca O recerca 0 0 0 0 0 0 1 li ul reset 14 0
+
+Innovació O innovacio 0 0 0 0 0 0 1 li ul reset 14 0
+
+Capacitació O capacitacio 0 0 0 0 0 0 1 li ul reset 14 0
+digital O digital 0 0 0 0 0 0 0 li ul reset 14 0
+
+Borsa O borsa 0 0 0 0 0 0 1 li ul reset 14 0
+de O de 0 1 0 0 0 0 0 li ul reset 14 0
+treball O treball 0 0 0 0 0 0 0 li ul reset 14 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul reset 14 0
+EIMT O eimt 0 0 0 0 0 0 1 li ul reset 14 0
+
+Facebook O facebook 0 0 0 0 0 0 1 li ul ico_facebook 12 0
+
+LinkedIn O linkedin 0 0 0 0 0 0 1 li ul ico_linkedin 12 0
+
+Youtube O youtube 0 0 0 0 0 0 1 li ul ico_youtube 12 0
+
+Més O mes 0 0 0 0 0 0 1 li ul ico_mes 12 0
+
+Estudia O estudia 0 0 0 0 0 0 1 li ul h3 12 0
+a O a 0 1 0 0 0 0 0 li ul h3 12 0
+la O la 0 1 0 0 0 0 0 li ul h3 12 0
+UOC O uoc 0 0 0 0 0 0 1 li ul h3 12 0
+
+Graus O graus 0 1 0 0 0 0 1 li ul reset 14 0
+
+Màsters O masters 0 0 0 0 1 0 1 li ul reset 14 0
+universitaris O universitaris 0 0 0 0 0 0 0 li ul reset 14 0
+
+Màsters O masters 0 0 0 0 1 0 1 li ul reset 14 0
+i O i 0 1 0 0 0 0 0 li ul reset 14 0
+postgraus O postgraus 0 0 0 0 0 0 0 li ul reset 14 0
+
+Doctorat O doctorat 0 0 0 0 0 0 1 li ul reset 14 0
+
+Cursos O cursos 0 0 0 0 0 0 1 li ul reset 14 0
+d O d 0 0 0 0 0 0 0 li ul reset 14 0
+' O ' 0 0 0 0 0 0 0 li ul reset 14 0
+idiomes O idiomes 0 0 0 0 0 0 0 li ul reset 14 0
+
+Seminaris O seminaris 0 0 0 0 0 0 1 li ul reset 14 0
+i O i 0 1 0 0 0 0 0 li ul reset 14 0
+cursos O cursos 0 0 0 0 0 0 0 li ul reset 14 0
+
+Assignatures O assignatures 0 0 0 0 0 0 1 li ul reset 14 0
+per O per 0 0 0 0 0 0 0 li ul reset 14 0
+a O a 0 1 0 0 0 0 0 li ul reset 14 0
+cursar O cursar 0 0 0 0 0 0 0 li ul reset 14 0
+lliurement O lliurement 0 0 0 0 0 0 0 li ul reset 14 0
+
+Troba O troba 0 0 0 0 0 0 1 li ul reset 14 0
+el O el 0 1 0 0 0 0 0 li ul reset 14 0
+teu O teu 0 0 0 0 0 0 0 li ul reset 14 0
+curs O curs 0 0 0 0 0 0 0 li ul reset 14 0
+
+Explora O explora 0 0 0 0 0 0 1 li ul h3 12 0
+la O la 0 1 0 0 0 0 0 li ul h3 12 0
+UOC O uoc 0 0 0 0 0 0 1 li ul h3 12 0
+
+Estudis O estudis 0 0 0 0 0 0 1 li ul reset 14 0
+[àrees O [arees 0 0 0 0 0 0 0 li ul reset 14 0
+docents] O docents] 0 0 0 0 0 0 0 li ul reset 14 0
+
+Centre O centre 0 1 0 0 0 0 1 li ul reset 14 0
+d O d 0 0 0 0 0 0 0 li ul reset 14 0
+' O ' 0 0 0 0 0 0 0 li ul reset 14 0
+Idiomes O idiomes 0 0 0 0 0 0 1 li ul reset 14 0
+Moderns O moderns 0 0 0 0 0 0 1 li ul reset 14 0
+
+Model O model 0 1 0 0 0 0 1 li ul reset 14 0
+educatiu O educatiu 0 0 0 0 0 0 0 li ul reset 14 0
+
+Internet O internet 0 0 0 0 0 0 1 li ul reset 14 0
+Interdisciplinary O interdisciplinary 0 0 0 0 0 0 1 li ul reset 14 0
+Institute O institute 0 0 0 0 0 0 1 li ul reset 14 0
+( O ( 0 0 0 0 0 0 0 li ul reset 14 0
+IN3 O in3 0 0 0 1 0 0 1 li ul reset 14 0
+) O ) 0 0 0 0 0 0 0 li ul reset 14 0
+
+eLearn O elearn 0 0 0 0 0 0 0 li ul reset 14 0
+Center O center 0 1 0 0 0 0 1 li ul reset 14 0
+
+Escola O escola 0 1 0 0 0 0 1 li ul reset 14 0
+de O de 0 1 0 0 0 0 0 li ul reset 14 0
+Doctorat O doctorat 0 0 0 0 0 0 1 li ul reset 14 0
+
+Revistes O revistes 0 0 0 0 0 0 1 li ul reset 14 0
+acadèmiques O academiques 0 0 0 0 0 0 0 li ul reset 14 0
+
+Biblioteca O biblioteca 0 0 0 0 0 0 1 li ul reset 14 0
+
+Contacte O contacte 0 0 0 0 0 0 1 li ul reset 14 0
+
+Seus O seus 0 0 0 0 0 0 1 li ul reset 14 0
+i O i 0 1 0 0 0 0 0 li ul reset 14 0
+punts O punts 0 0 0 0 0 0 0 li ul reset 14 0
+UOC O uoc 0 0 0 0 0 0 1 li ul reset 14 0
+
+Espai O espai 0 0 0 0 0 0 1 li ul reset 14 0
+del O del 0 1 0 0 0 0 0 li ul reset 14 0
+rector O rector 0 0 0 0 0 0 0 li ul reset 14 0
+
+Síndic O sindic 0 0 0 0 0 0 1 li ul reset 14 0
+de O de 0 1 0 0 0 0 0 li ul reset 14 0
+Greuges O greuges 0 0 0 0 0 0 1 li ul reset 14 0
+
+Directori O directori 0 0 0 0 0 0 1 li ul reset 14 0
+de O de 0 1 0 0 0 0 0 li ul reset 14 0
+persones O persones 0 0 0 0 0 0 0 li ul reset 14 0
+
+Seu O seu 0 1 0 0 0 0 1 li ul reset 14 0
+electrònica O electronica 0 0 0 0 0 0 0 li ul reset 14 0
+
+Uneix O uneix 0 0 0 0 0 0 1 li ul reset 14 0
+- O - 0 0 0 0 0 0 0 li ul reset 14 0
+te O te 0 1 0 0 0 0 0 li ul reset 14 0
+al O al 0 1 0 0 0 0 0 li ul reset 14 0
+nostre O nostre 0 0 0 0 0 0 0 li ul reset 14 0
+equip O equip 0 0 0 0 0 0 0 li ul reset 14 0
+
+Responsabilitat O responsabilitat 0 0 0 0 0 0 1 li ul reset 14 0
+social O social 0 0 0 0 0 0 0 li ul reset 14 0
+universitària O universitaria 0 0 0 0 0 0 0 li ul reset 14 0
+
+Portal O portal 0 1 0 0 0 0 1 li ul reset 14 0
+de O de 0 1 0 0 0 0 0 li ul reset 14 0
+transparència O transparencia 0 0 0 0 0 0 0 li ul reset 14 0
+
+Qualitat O qualitat 0 0 0 0 0 0 1 li ul reset 14 0
+
+Premis O premis 0 0 0 0 0 0 1 li ul reset 14 0
+i O i 0 1 0 0 0 0 0 li ul reset 14 0
+reconeixements O reconeixements 0 0 0 0 0 0 0 li ul reset 14 0
+
+Presència O presencia 0 0 0 0 0 0 1 li ul reset 14 0
+internacional O internacional 0 0 0 0 0 0 0 li ul reset 14 0
+
+Preguntes O preguntes 0 0 0 0 0 0 1 li ul reset 14 0
+més O mes 0 0 0 0 0 0 0 li ul reset 14 0
+freqüents O frequents 0 0 0 0 0 0 0 li ul reset 14 0
+
+Marca O marca 0 1 0 0 0 0 1 li ul reset 14 0
+UOC O uoc 0 0 0 0 0 0 1 li ul reset 14 0
+
+Avís O avis 0 0 0 0 0 0 1 li ul reset 14 0
+legal O legal 0 0 0 0 0 0 0 li ul reset 14 0
+
+Política O politica 0 0 0 0 0 0 1 li ul reset 14 0
+de O de 0 1 0 0 0 0 0 li ul reset 14 0
+galetes O galetes 0 0 0 0 0 0 0 li ul reset 14 0
+
+Accessibilitat O accessibilitat 0 0 0 0 0 0 1 li ul reset 14 0
+
+Associació O associacio 0 0 0 0 0 0 1 p div centrat 11 0
+Catalana O catalana 0 0 0 0 0 0 1 p div centrat 11 0
+d O d 0 0 0 0 0 0 0 p div centrat 11 0
+' O ' 0 0 0 0 0 0 0 p div centrat 11 0
+Universitats O universitats 0 0 0 0 0 0 1 p div centrat 11 0
+Públiques O publiques 0 0 0 0 0 0 1 p div centrat 11 0
+( O ( 0 0 0 0 0 0 0 p div centrat 11 0
+ACUP O acup 0 0 0 0 0 0 1 p div centrat 11 0
+) O ) 0 0 0 0 0 0 0 p div centrat 11 0
+| O | 0 0 0 0 0 0 0 div div centrat 10 104
+Xarxa O xarxa 0 0 0 0 0 0 1 p div centrat 11 2
+Vives O vives 0 1 0 0 0 0 1 p div centrat 11 2
+d O d 0 0 0 0 0 0 0 p div centrat 11 2
+' O ' 0 0 0 0 0 0 0 p div centrat 11 2
+Universitats O universitats 0 0 0 0 0 0 1 p div centrat 11 2
+| O | 0 0 0 0 0 0 0 div div centrat 10 104
+Conferencia O conferencia 0 0 0 0 0 0 1 p div centrat 11 3
+de O de 0 1 0 0 0 0 0 p div centrat 11 3
+Rectores O rectores 0 0 0 0 0 0 1 p div centrat 11 3
+de O de 0 1 0 0 0 0 0 p div centrat 11 3
+las O las 0 1 0 0 0 0 0 p div centrat 11 3
+Universidades O universidades 0 0 0 0 0 0 1 p div centrat 11 3
+Españolas O espanolas 0 0 0 0 0 0 1 p div centrat 11 3
+( O ( 0 0 0 0 0 0 0 p div centrat 11 3
+CRUE O crue 0 0 0 0 0 0 1 p div centrat 11 3
+) O ) 0 0 0 0 0 0 0 p div centrat 11 3
+
+Centro O centro 0 1 0 0 0 0 1 p div centrat 11 5
+Interuniversitario O interuniversitario 0 0 0 0 0 0 1 p div centrat 11 5
+de O de 0 1 0 0 0 0 0 p div centrat 11 5
+Desarrollo O desarrollo 0 0 0 0 0 0 1 p div centrat 11 5
+( O ( 0 0 0 0 0 0 0 p div centrat 11 5
+CINDA O cinda 0 0 0 0 0 0 1 p div centrat 11 5
+) O ) 0 0 0 0 0 0 0 p div centrat 11 5
+| O | 0 0 0 0 0 0 0 div div centrat 10 104
+European O european 0 0 0 0 0 0 1 p div centrat 11 6
+Universities O universities 0 0 0 0 0 0 1 p div centrat 11 6
+Association O association 0 0 0 0 0 0 1 p div centrat 11 6
+( O ( 0 0 0 0 0 0 0 p div centrat 11 6
+EUA O eua 0 0 0 0 0 0 1 p div centrat 11 6
+) O ) 0 0 0 0 0 0 0 p div centrat 11 6

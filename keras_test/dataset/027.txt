@@ -1,1607 +1,1601 @@
-Western O western 0 1 0 0 0 0 1 link link none 6 0
-Directory O directory 0 0 0 0 0 0 1 link link none 6 0
-| O | 0 0 0 0 0 0 0 link link none 6 0
-Page O page 0 1 0 0 0 0 1 link link none 6 0
-3 O 3 0 0 0 1 0 0 0 link link none 6 0
-| O | 0 0 0 0 0 0 0 link link none 6 0
-Western O western 0 1 0 0 0 0 1 link link none 6 0
-Technical O technical 0 0 0 0 0 0 1 link link none 6 0
-College O college 0 0 0 0 0 0 1 link link none 6 0
-
-Skip O skip 0 1 0 0 0 0 1 div body element-focusable 5 0
-to O to 0 0 0 0 0 0 0 div body element-focusable 5 0
-main O main 0 0 0 0 0 0 0 div body element-focusable 5 0
-content O content 0 0 0 0 0 0 0 div body element-focusable 5 0
-
-Interactive O interactive 0 0 0 0 0 0 1 li ul leaf 15 0
-Map O map 0 0 0 0 0 0 1 li ul leaf 15 0
-
-Alumni O alumni 0 0 0 0 0 0 1 li ul collapsed 15 0
-
-Foundation O foundation 0 0 0 0 0 0 1 li ul collapsed 15 0
-
-Business/Community O business/community 0 0 0 0 0 0 1 li ul collapsed 15 0
-
-Current O current 0 1 0 0 0 0 1 li ul collapsed 15 0
-Students O students 0 0 0 0 0 0 1 li ul collapsed 15 0
-
-Future O future 0 0 0 0 0 0 1 li ul future-students 15 0
-Students O students 0 0 0 0 0 0 1 li ul future-students 15 0
-
-Search O search 0 0 0 0 0 0 1 div div element-invisible 17 0
-form O form 0 0 0 0 0 0 0 div div element-invisible 17 0
-
-Search O search 0 0 0 0 0 0 1 div div element-invisible 18 0
-
-Western O western 0 1 0 0 0 0 1 h1 div element-invisible 13 0
-Technical O technical 0 0 0 0 0 0 1 h1 div element-invisible 13 0
-College O college 0 0 0 0 0 0 1 h1 div element-invisible 13 0
-
-Programs O programs 0 0 0 0 0 0 1 li ul collapsed 16 0
-
-Admissions O admissions 0 0 0 0 0 0 1 li ul collapsed 16 0
-
-Paying O paying 0 0 0 0 0 0 1 li ul collapsed 16 0
-for O for 0 1 0 0 0 0 0 li ul collapsed 16 0
-College O college 0 0 0 0 0 0 1 li ul collapsed 16 0
-
-Student O student 0 1 0 0 0 0 1 li ul collapsed 16 0
-Life O life 0 1 0 0 0 0 1 li ul collapsed 16 0
-
-Apply O apply 0 0 0 0 0 0 1 li ul leaf 16 0
-
-Western O western 0 1 0 0 0 0 1 div div field-content 17 0
-Technical O technical 0 0 0 0 0 0 1 div div field-content 17 0
-College O college 0 0 0 0 0 0 1 div div field-content 17 0
-
-You O you 0 1 0 0 0 0 1 div div element-invisible 10 0
-are O are 0 0 0 0 0 0 0 div div element-invisible 10 0
-here O here 0 0 0 0 0 0 0 div div element-invisible 10 0
-
-Home O home 0 1 0 0 0 0 1 span div first 12 0
-| O | 0 0 0 0 0 0 0 div div delimiter 11 2
-Staff O staff 0 1 0 0 0 0 1 div div last 11 3
-Directory O directory 0 0 0 0 0 0 1 div div last 11 3
-
-Western O western 0 1 0 0 0 0 1 header section clearfix 14 0
-Directory O directory 0 0 0 0 0 0 1 header section clearfix 14 0
-
-Staff O staff 0 1 0 0 0 0 1 li ul panels-ajax-tab-tab 24 0
-Directory O directory 0 0 0 0 0 0 1 li ul panels-ajax-tab-tab 24 0
-
-Office O office 0 0 0 0 0 0 1 li ul panels-ajax-tab-tab 24 0
-and O and 0 1 0 0 0 0 0 li ul panels-ajax-tab-tab 24 0
-Campus O campus 0 1 0 0 0 0 1 li ul panels-ajax-tab-tab 24 0
-Locations O locations 0 0 0 0 0 0 1 li ul panels-ajax-tab-tab 24 0
-
-Enter O enter 0 1 0 0 0 0 1 div div view-header 31 0
-the O the 0 1 0 0 0 0 0 div div view-header 31 0
-first O first 0 0 0 0 0 0 0 div div view-header 31 0
-few O few 0 0 0 0 0 0 0 div div view-header 31 0
-letters O letters 0 0 0 0 0 0 0 div div view-header 31 0
-of O of 0 1 0 0 0 0 0 div div view-header 31 0
-the O the 0 1 0 0 0 0 0 div div view-header 31 0
-person O person 0 0 0 0 0 0 0 div div view-header 31 0
-' O ' 0 0 0 0 0 0 0 div div view-header 31 0
-s O s 0 0 0 0 0 0 0 div div view-header 31 0
-first O first 0 0 0 0 0 0 0 div div view-header 31 0
-or O or 0 0 0 0 0 0 0 div div view-header 31 0
-last O last 0 0 0 0 0 0 0 div div view-header 31 0
-name O name 0 0 0 0 0 0 0 div div view-header 31 0
-or O or 0 0 0 0 0 0 0 div div view-header 31 0
-a O a 0 1 0 0 0 0 0 div div view-header 31 0
-department O department 0 0 0 0 0 0 0 div div view-header 31 0
-or O or 0 0 0 0 0 0 0 div div view-header 31 0
-title O title 0 0 0 0 0 0 0 div div view-header 31 0
-and O and 0 1 0 0 0 0 0 div div view-header 31 0
-press O press 0 0 0 0 0 0 0 div div view-header 31 0
-the O the 0 1 0 0 0 0 0 div div view-header 31 0
-" O " 0 0 0 0 0 0 0 div div view-header 31 0
-Find O find 0 1 0 0 0 0 1 div div view-header 31 0
-" O " 0 0 0 0 0 0 0 div div view-header 31 0
-button. O button. 0 0 0 0 0 0 0 div div view-header 31 0
-
-First O first 0 1 0 0 0 0 1 div div views-widget-filter-combine 36 0
-or O or 0 0 0 0 0 0 0 div div views-widget-filter-combine 36 0
-Last O last 0 1 0 0 0 0 1 div div views-widget-filter-combine 36 0
-Name O name 0 1 0 0 0 0 1 div div views-widget-filter-combine 36 0
-
-Value O value 0 0 0 0 0 0 1 div div form-item-combine 38 0
-
-Department O department 0 0 0 0 0 0 1 div div views-widget-filter-combine_1 36 0
-or O or 0 0 0 0 0 0 0 div div views-widget-filter-combine_1 36 0
-Title O title 0 1 0 0 0 0 1 div div views-widget-filter-combine_1 36 0
-
-Value O value 0 0 0 0 0 0 1 div div form-item-combine-1 38 0
-
-Christenson B-PER christenson 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Karen I-PER karen 0 1 0 0 0 0 1 div div field-content 35 0
-
-Instructor O instructor 0 0 0 0 0 0 1 div div field-content 35 0
-- O - 0 0 0 0 0 0 0 div div field-content 35 0
-Medical O medical 0 0 0 0 0 0 1 div div field-content 35 0
-Lab O lab 0 1 0 0 0 0 1 div div field-content 35 0
-Tech O tech 0 1 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-789 O 789 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-4740 O 4740 0 0 0 1 0 0 0 div div field-content 35 1
-
-christensonk@westerntc.edu O christensonk@westerntc.edu 0 0 1 0 0 0 0 div div field-content 36 0
-
-Allied O allied 0 0 0 0 0 0 1 div div field-content 35 0
-Health O health 0 1 0 0 0 0 1 div div field-content 35 0
-
-Health O health 0 1 0 0 0 0 1 div div field-content 35 0
-Science O science 0 0 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-4092 O 4092 0 0 0 1 0 0 0 div div field-content 35 0
-
-Church B-PER church 0 1 0 0 0 0 1 div div field-content 35 0
-- I-PER - 0 0 0 0 0 0 0 div div field-content 35 0
-Hoffman I-PER hoffman 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Mandy I-PER mandy 0 1 0 0 0 0 1 div div field-content 35 0
-
-Associate O associate 0 1 0 0 0 0 1 div div field-content 35 0
-Dean O dean 0 1 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-785 O 785 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-9542 O 9542 0 0 0 1 0 0 0 div div field-content 35 1
-
-church O church 0 0 0 0 0 0 0 div div field-content 36 0
-- O - 0 0 0 0 0 0 0 div div field-content 36 0
-hoffmanm@westerntc.edu O hoffmanm@westerntc.edu 0 0 1 0 0 0 0 div div field-content 36 0
-
-Learner O learner 0 1 0 0 0 0 1 div div field-content 35 0
-Support O support 0 0 0 0 0 0 1 div div field-content 35 0
-& O & 0 0 0 0 0 0 0 div div field-content 35 0
-Transition O transition 0 0 0 0 0 0 1 div div field-content 35 0
-
-Academic O academic 0 0 0 0 0 0 1 div div field-content 35 0
-Resource O resource 0 0 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-100F O 100f 0 0 0 1 0 0 0 div div field-content 35 0
-
-Churchill B-PER churchill 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Jordan I-PER jordan 0 1 0 0 0 0 1 div div field-content 35 0
-
-Data O data 0 1 0 0 0 0 1 div div field-content 35 0
-Spclst/Admin O spclst/admin 0 0 0 0 0 0 1 div div field-content 35 0
-Asst/Proctor O asst/proctor 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-789 O 789 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-6020 O 6020 0 0 0 1 0 0 0 div div field-content 35 1
-
-churchillj@westerntc.edu O churchillj@westerntc.edu 0 0 1 0 0 0 0 div div field-content 36 0
-
-Learner O learner 0 1 0 0 0 0 1 div div field-content 35 0
-Support O support 0 0 0 0 0 0 1 div div field-content 35 0
-& O & 0 0 0 0 0 0 0 div div field-content 35 0
-Transition O transition 0 0 0 0 0 0 1 div div field-content 35 0
-
-Academic O academic 0 0 0 0 0 0 1 div div field-content 35 0
-Resource O resource 0 0 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-200 O 200 0 0 0 1 0 0 0 div div field-content 35 0
-
-Clark B-PER clark 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Christopher I-PER christopher 0 1 0 0 0 0 1 div div field-content 35 0
-
-Custodial O custodial 0 0 0 0 0 0 1 div div field-content 35 0
-- O - 0 0 0 0 0 0 0 div div field-content 35 0
-Maint O maint 0 0 0 0 0 0 1 div div field-content 35 0
-, O , 0 0 0 0 0 0 0 div div field-content 35 0
-Mauston O mauston 0 0 0 0 0 0 1 div div field-content 35 0
-Campu O campu 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-847 O 847 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-7364 O 7364 0 0 0 1 0 0 0 div div field-content 35 1
-X74108 O x74108 0 0 0 1 0 0 1 div div field-content 35 1
-
-clarkc@westerntc.edu O clarkc@westerntc.edu 0 0 1 0 0 0 0 div div field-content 36 0
-
-Custodial O custodial 0 0 0 0 0 0 1 div div field-content 35 0
-
-Mauston O mauston 0 0 0 0 0 0 1 div div field-content 35 0
-
-Cooksey B-PER cooksey 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Nicole I-PER nicole 0 1 0 0 0 0 1 div div field-content 35 0
-
-Instructional O instructional 0 0 0 0 0 0 1 div div field-content 35 0
-Designer O designer 0 1 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-789 O 789 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-6239 O 6239 0 0 0 1 0 0 0 div div field-content 35 1
-
-cookseyn@westerntc.edu O cookseyn@westerntc.edu 0 0 1 0 0 0 0 div div field-content 36 0
-
-Academic O academic 0 0 0 0 0 0 1 div div field-content 35 0
-Excellence O excellence 0 0 0 0 0 0 1 div div field-content 35 0
-
-Coleman O coleman 0 1 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-248 O 248 0 0 0 1 0 0 0 div div field-content 35 0
-
-Corcoran B-PER corcoran 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Shannon I-PER shannon 0 1 0 0 0 0 1 div div field-content 35 0
-
-Instructor O instructor 0 0 0 0 0 0 1 div div field-content 35 0
-- O - 0 0 0 0 0 0 0 div div field-content 35 0
-Business O business 0 0 0 0 0 0 1 div div field-content 35 0
-Mgmt O mgmt 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-785 O 785 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-9187 O 9187 0 0 0 1 0 0 0 div div field-content 35 1
-
-corcorans@westerntc.edu O corcorans@westerntc.edu 0 0 1 0 0 0 0 div div field-content 36 0
-
-Business O business 0 0 0 0 0 0 1 div div field-content 35 0
-Division O division 0 0 0 0 0 0 1 div div field-content 35 0
-
-Business O business 0 0 0 0 0 0 1 div div field-content 35 0
-Education O education 0 0 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-210D O 210d 0 0 0 1 0 0 0 div div field-content 35 0
-
-Craker B-PER craker 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Tracy I-PER tracy 0 1 0 0 0 0 1 div div field-content 35 0
-
-Instructor O instructor 0 0 0 0 0 0 1 div div field-content 35 0
-- O - 0 0 0 0 0 0 0 div div field-content 35 0
-Erly O erly 0 1 0 0 0 0 1 div div field-content 35 0
-Chldhd O chldhd 0 0 0 0 0 0 1 div div field-content 35 0
-Edctn O edctn 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-789 O 789 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-6144 O 6144 0 0 0 1 0 0 0 div div field-content 35 1
-
-CrakerT@westerntc.edu O crakert@westerntc.edu 0 0 1 0 0 0 1 div div field-content 36 0
-
-Health O health 0 1 0 0 0 0 1 div div field-content 35 0
-Education O education 0 0 0 0 0 0 1 div div field-content 35 0
-
-Coleman O coleman 0 1 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-204 O 204 0 0 0 1 0 0 0 div div field-content 35 0
-
-Cravens B-PER cravens 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Lee I-PER lee 1 1 0 0 0 0 1 div div field-content 35 0
-
-Custodian O custodian 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-785 O 785 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-9109 O 9109 0 0 0 1 0 0 0 div div field-content 35 1
-
-CravensL@westerntc.edu O cravensl@westerntc.edu 0 0 1 0 0 0 1 div div field-content 36 0
-
-Custodial O custodial 0 0 0 0 0 0 1 div div field-content 35 0
-
-Physical O physical 0 0 0 0 0 0 1 div div field-content 35 0
-Plant O plant 0 1 0 0 0 0 1 div div field-content 35 0
-114 O 114 0 0 0 1 0 0 0 div div field-content 35 0
-
-Culver B-PER culver 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Pamela I-PER pamela 0 1 0 0 0 0 1 div div field-content 35 0
-
-Instructor O instructor 0 0 0 0 0 0 1 div div field-content 35 0
-- O - 0 0 0 0 0 0 0 div div field-content 35 0
-Marketing O marketing 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-789 O 789 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-6115 O 6115 0 0 0 1 0 0 0 div div field-content 35 1
-
-culverp@westerntc.edu O culverp@westerntc.edu 0 0 1 0 0 0 0 div div field-content 36 0
-
-Business O business 0 0 0 0 0 0 1 div div field-content 35 0
-Division O division 0 0 0 0 0 0 1 div div field-content 35 0
-
-Business O business 0 0 0 0 0 0 1 div div field-content 35 0
-Education O education 0 0 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-202D O 202d 0 0 0 1 0 0 0 div div field-content 35 0
-
-Czaplewski B-PER czaplewski 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Julie I-PER julie 0 1 0 0 0 0 1 div div field-content 35 0
-
-Instructor O instructor 0 0 0 0 0 0 1 div div field-content 35 0
-- O - 0 0 0 0 0 0 0 div div field-content 35 0
-Medical O medical 0 0 0 0 0 0 1 div div field-content 35 0
-Assist O assist 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-789 O 789 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-6175 O 6175 0 0 0 1 0 0 0 div div field-content 35 1
-
-CzaplewskiJ@westerntc.edu O czaplewskij@westerntc.edu 0 0 1 0 0 0 1 div div field-content 36 0
-
-Health O health 0 1 0 0 0 0 1 div div field-content 35 0
-Education O education 0 0 0 0 0 0 1 div div field-content 35 0
-
-Kumm O kumm 0 1 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-303P O 303p 0 0 0 1 0 0 0 div div field-content 35 0
-
-Dahl B-PER dahl 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Julie I-PER julie 0 1 0 0 0 0 1 div div field-content 35 0
-
-Manager O manager 0 0 0 0 0 0 1 div div field-content 35 0
-, O , 0 0 0 0 0 0 0 div div field-content 35 0
-Facility O facility 0 0 0 0 0 0 1 div div field-content 35 0
-Operations O operations 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-785 O 785 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-9109 O 9109 0 0 0 1 0 0 0 div div field-content 35 1
-
-DahlJ@westerntc.edu O dahlj@westerntc.edu 0 0 1 0 0 0 1 div div field-content 36 0
-
-Custodial O custodial 0 0 0 0 0 0 1 div div field-content 35 0
-
-Physical O physical 0 0 0 0 0 0 1 div div field-content 35 0
-Plant O plant 0 1 0 0 0 0 1 div div field-content 35 0
-114 O 114 0 0 0 1 0 0 0 div div field-content 35 0
-
-Davini B-PER davini 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Mark I-PER mark 0 1 0 0 0 0 1 div div field-content 35 0
-
-Instr O instr 0 0 0 0 0 0 1 div div field-content 35 0
-- O - 0 0 0 0 0 0 0 div div field-content 35 0
-Digital O digital 0 1 0 0 0 0 1 div div field-content 35 0
-Media O media 0 1 0 0 0 0 1 div div field-content 35 0
-Prdctn O prdctn 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-785 O 785 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-9584 O 9584 0 0 0 1 0 0 0 div div field-content 35 1
-
-DaviniM@westerntc.edu O davinim@westerntc.edu 0 0 1 0 0 0 1 div div field-content 36 0
-
-Business O business 0 0 0 0 0 0 1 div div field-content 35 0
-Division O division 0 0 0 0 0 0 1 div div field-content 35 0
-
-Coleman O coleman 0 1 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-241 O 241 0 0 0 1 0 0 0 div div field-content 35 0
-
-Davis B-PER davis 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Sally I-PER sally 0 1 0 0 0 0 1 div div field-content 35 0
-
-Instructor O instructor 0 0 0 0 0 0 1 div div field-content 35 0
-- O - 0 0 0 0 0 0 0 div div field-content 35 0
-CL O cl 0 0 0 0 0 0 1 div div field-content 35 0
-Nursing O nursing 0 1 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-785 O 785 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-9283 O 9283 0 0 0 1 0 0 0 div div field-content 35 1
-
-DavisS@westerntc.edu O daviss@westerntc.edu 0 0 1 0 0 0 1 div div field-content 36 0
-
-Nursing O nursing 0 1 0 0 0 0 1 div div field-content 35 0
-
-Kumm O kumm 0 1 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-315T O 315t 0 0 0 1 0 0 0 div div field-content 35 0
-
-Daykin B-PER daykin 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Brian I-PER brian 0 1 0 0 0 0 1 div div field-content 35 0
-
-Director O director 0 1 0 0 0 0 1 div div field-content 35 0
-, O , 0 0 0 0 0 0 0 div div field-content 35 0
-Resource O resource 0 0 0 0 0 0 1 div div field-content 35 0
-Dvlpmnt O dvlpmnt 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-785 O 785 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-9876 O 9876 0 0 0 1 0 0 0 div div field-content 35 1
-
-daykinr@westerntc.edu O daykinr@westerntc.edu 0 0 1 0 0 0 0 div div field-content 36 0
-
-Resource O resource 0 0 0 0 0 0 1 div div field-content 35 0
-Development O development 0 0 0 0 0 0 1 div div field-content 35 0
-
-Administrative O administrative 0 0 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-306 O 306 0 0 0 1 0 0 0 div div field-content 35 0
-
-Dean B-PER dean 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Kevin I-PER kevin 0 1 0 0 0 0 1 div div field-content 35 0
-
-Associate O associate 0 1 0 0 0 0 1 div div field-content 35 0
-Dean O dean 0 1 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-269 O 269 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-1611 O 1611 0 0 0 1 0 0 0 div div field-content 35 1
-X94765 O x94765 0 0 0 1 0 0 1 div div field-content 35 1
-
-DeanK@westerntc.edu O deank@westerntc.edu 0 0 1 0 0 0 1 div div field-content 36 0
-
-Health O health 0 1 0 0 0 0 1 div div field-content 35 0
-& O & 0 0 0 0 0 0 0 div div field-content 35 0
-Public O public 0 0 0 0 0 0 1 div div field-content 35 0
-Safety O safety 0 0 0 0 0 0 1 div div field-content 35 0
-
-Kumm O kumm 0 1 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-211F/Sparta O 211f/sparta 0 0 0 1 0 0 0 div div field-content 35 0
-
-DeBoer B-PER deboer 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Michael I-PER michael 0 1 0 0 0 0 1 div div field-content 35 0
-
-Chief O chief 0 1 0 0 0 0 1 div div field-content 35 0
-Electronics O electronics 0 0 0 0 0 0 1 div div field-content 35 0
-Technician O technician 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-785 O 785 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-9143 O 9143 0 0 0 1 0 0 0 div div field-content 35 1
-
-DeBoerM@westerntc.edu O deboerm@westerntc.edu 0 0 1 0 0 0 1 div div field-content 36 0
-
-Information O information 0 1 0 0 0 0 1 div div field-content 35 0
-Services O services 0 0 0 0 0 0 1 div div field-content 35 0
-
-Coleman O coleman 0 1 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-300B O 300b 0 0 0 1 0 0 0 div div field-content 35 0
-
-Deiber B-PER deiber 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Blake I-PER blake 0 1 0 0 0 0 1 div div field-content 35 0
-
-Fire O fire 0 1 0 0 0 0 1 div div field-content 35 0
-District O district 0 0 0 0 0 0 1 div div field-content 35 0
-Coordinator O coordinator 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-787 O 787 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-6119 O 6119 0 0 0 1 0 0 0 div div field-content 35 1
-
-deiberb@westerntc.edu O deiberb@westerntc.edu 0 0 1 0 0 0 0 div div field-content 36 0
-
-Public O public 0 0 0 0 0 0 1 div div field-content 35 0
-Safety O safety 0 0 0 0 0 0 1 div div field-content 35 0
-Services O services 0 0 0 0 0 0 1 div div field-content 35 0
-
-Sparta O sparta 0 0 0 0 0 0 1 div div field-content 35 0
-Campus O campus 0 1 0 0 0 0 1 div div field-content 35 0
-
-Delagrave B-PER delagrave 0 0 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Amy I-PER amy 0 1 0 0 0 0 1 div div field-content 35 0
-
-Counselor O counselor 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-785 O 785 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-9536 O 9536 0 0 0 1 0 0 0 div div field-content 35 1
-
-DelagraveA@westerntc.edu O delagravea@westerntc.edu 0 0 1 0 0 0 1 div div field-content 36 0
-
-Counseling O counseling 0 0 0 0 0 0 1 div div field-content 35 0
-Services O services 0 0 0 0 0 0 1 div div field-content 35 0
-
-Academic O academic 0 0 0 0 0 0 1 div div field-content 35 0
-Resource O resource 0 0 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-100C O 100c 0 0 0 1 0 0 0 div div field-content 35 0
-
-Deml B-PER deml 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Dennis I-PER dennis 0 1 0 0 0 0 1 div div field-content 35 0
-
-Custodian O custodian 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-785 O 785 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-9109 O 9109 0 0 0 1 0 0 0 div div field-content 35 1
-
-DemlD@westerntc.edu O demld@westerntc.edu 0 0 1 0 0 0 1 div div field-content 36 0
-
-Custodial O custodial 0 0 0 0 0 0 1 div div field-content 35 0
-
-Physical O physical 0 0 0 0 0 0 1 div div field-content 35 0
-Plant O plant 0 1 0 0 0 0 1 div div field-content 35 0
-114 O 114 0 0 0 1 0 0 0 div div field-content 35 0
-
-Dimmitt B-PER dimmitt 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Lisa I-PER lisa 0 1 0 0 0 0 1 div div field-content 35 0
-
-Veteran O veteran 0 0 0 0 0 0 1 div div field-content 35 0
-Military O military 0 1 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-Asst O asst 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-785 O 785 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-9436 O 9436 0 0 0 1 0 0 0 div div field-content 35 1
-
-dimmittl@westerntc.edu O dimmittl@westerntc.edu 0 0 1 0 0 0 0 div div field-content 36 0
-
-Veterans O veterans 0 0 0 0 0 0 1 div div field-content 35 0
-Military O military 0 1 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-
-Academic O academic 0 0 0 0 0 0 1 div div field-content 35 0
-Resource O resource 0 0 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-202 O 202 0 0 0 1 0 0 0 div div field-content 35 0
-
-Dobbs B-PER dobbs 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Bradley I-PER bradley 0 1 0 0 0 0 1 div div field-content 35 0
-
-Instructor O instructor 0 0 0 0 0 0 1 div div field-content 35 0
-- O - 0 0 0 0 0 0 0 div div field-content 35 0
-Supervisory O supervisory 0 0 0 0 0 0 1 div div field-content 35 0
-Mgmt O mgmt 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-789 O 789 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-6228 O 6228 0 0 0 1 0 0 0 div div field-content 35 1
-
-dobbsb@westerntc.edu O dobbsb@westerntc.edu 0 0 1 0 0 0 0 div div field-content 36 0
-
-Business O business 0 0 0 0 0 0 1 div div field-content 35 0
-Division O division 0 0 0 0 0 0 1 div div field-content 35 0
-
-Business O business 0 0 0 0 0 0 1 div div field-content 35 0
-Education O education 0 0 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-208B O 208b 0 0 0 1 0 0 0 div div field-content 35 0
-
-Dockter B-PER dockter 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Darcy I-PER darcy 0 1 0 0 0 0 1 div div field-content 35 0
-
-Admin O admin 0 0 0 0 0 0 1 div div field-content 35 0
-Program O program 0 0 0 0 0 0 1 div div field-content 35 0
-Assistant O assistant 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-785 O 785 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-9195 O 9195 0 0 0 1 0 0 0 div div field-content 35 1
-
-DockterD@westerntc.edu O dockterd@westerntc.edu 0 0 1 0 0 0 1 div div field-content 36 0
-
-Health O health 0 1 0 0 0 0 1 div div field-content 35 0
-& O & 0 0 0 0 0 0 0 div div field-content 35 0
-Public O public 0 0 0 0 0 0 1 div div field-content 35 0
-Safety O safety 0 0 0 0 0 0 1 div div field-content 35 0
-
-Kumm O kumm 0 1 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-211 O 211 0 0 0 1 0 0 0 div div field-content 35 0
-
-Dryden B-PER dryden 0 1 0 0 1 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Tracy I-PER tracy 0 1 0 0 0 0 1 div div field-content 35 0
-
-Dir. O dir. 0 0 0 0 0 0 1 div div field-content 35 0
-, O , 0 0 0 0 0 0 0 div div field-content 35 0
-Planning O planning 0 0 0 0 0 0 1 div div field-content 35 0
-& O & 0 0 0 0 0 0 0 div div field-content 35 0
-Org. O org. 0 0 0 0 0 0 1 div div field-content 35 0
-Excllnc O excllnc 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-789 O 789 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-6179 O 6179 0 0 0 1 0 0 0 div div field-content 35 1
-
-DrydenT@westerntc.edu O drydent@westerntc.edu 0 0 1 0 1 0 1 div div field-content 36 0
-
-Planning O planning 0 0 0 0 0 0 1 div div field-content 35 0
-& O & 0 0 0 0 0 0 0 div div field-content 35 0
-Orgnztnl O orgnztnl 0 0 0 0 0 0 1 div div field-content 35 0
-Excellence O excellence 0 0 0 0 0 0 1 div div field-content 35 0
-
-Coleman O coleman 0 1 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-127A O 127a 0 0 0 1 0 0 0 div div field-content 35 0
-
-Duff B-PER duff 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Julie I-PER julie 0 1 0 0 0 0 1 div div field-content 35 0
-
-Admis O admis 0 0 0 0 0 0 1 div div field-content 35 0
-Data O data 0 1 0 0 0 0 1 div div field-content 35 0
-Asst O asst 0 0 0 0 0 0 1 div div field-content 35 0
-- O - 0 0 0 0 0 0 0 div div field-content 35 0
-Bkgrnd O bkgrnd 0 0 0 0 0 0 1 div div field-content 35 0
-Cks&Imm O cks&imm 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-789 O 789 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-6138 O 6138 0 0 0 1 0 0 0 div div field-content 35 1
-
-duffj@westerntc.edu O duffj@westerntc.edu 0 0 1 0 0 0 0 div div field-content 36 0
-
-Admissions O admissions 0 0 0 0 0 0 1 div div field-content 35 0
-- O - 0 0 0 0 0 0 0 div div field-content 35 0
-Registration O registration 0 0 0 0 0 0 1 div div field-content 35 0
-
-Academic O academic 0 0 0 0 0 0 1 div div field-content 35 0
-Resource O resource 0 0 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-160N O 160n 0 0 0 1 0 0 0 div div field-content 35 0
-
-Duffy B-PER duffy 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Linda I-PER linda 0 1 0 0 0 0 1 div div field-content 35 0
-
-Instructor O instructor 0 0 0 0 0 0 1 div div field-content 35 0
-- O - 0 0 0 0 0 0 0 div div field-content 35 0
-Comm O comm 0 1 0 0 0 0 1 div div field-content 35 0
-Skills O skills 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-789 O 789 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-4792 O 4792 0 0 0 1 0 0 0 div div field-content 35 1
-
-DuffyL@westerntc.edu O duffyl@westerntc.edu 0 0 1 0 0 0 1 div div field-content 36 0
-
-General O general 0 1 0 0 0 0 1 div div field-content 35 0
-Studies O studies 0 0 0 0 0 0 1 div div field-content 35 0
-& O & 0 0 0 0 0 0 0 div div field-content 35 0
-Services O services 0 0 0 0 0 0 1 div div field-content 35 0
-
-Coleman O coleman 0 1 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-217 O 217 0 0 0 1 0 0 0 div div field-content 35 0
-
-Dull B-PER dull 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Chad I-PER chad 0 1 0 0 0 0 1 div div field-content 35 0
-
-Dean O dean 0 1 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-785 O 785 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-9561 O 9561 0 0 0 1 0 0 0 div div field-content 35 1
-
-DullC@westerntc.edu O dullc@westerntc.edu 0 0 1 0 0 0 1 div div field-content 36 0
-
-Learner O learner 0 1 0 0 0 0 1 div div field-content 35 0
-Support O support 0 0 0 0 0 0 1 div div field-content 35 0
-& O & 0 0 0 0 0 0 0 div div field-content 35 0
-Transition O transition 0 0 0 0 0 0 1 div div field-content 35 0
-
-Academic O academic 0 0 0 0 0 0 1 div div field-content 35 0
-Resource O resource 0 0 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-100D O 100d 0 0 0 1 0 0 0 div div field-content 35 0
-
-Duncanson B-PER duncanson 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Karen I-PER karen 0 1 0 0 0 0 1 div div field-content 35 0
-
-Teacher O teacher 0 1 0 0 0 0 1 div div field-content 35 0
-Aide O aide 0 1 0 0 1 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-789 O 789 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-6029 O 6029 0 0 0 1 0 0 0 div div field-content 35 1
-
-Duncansonk@westerntc.edu O duncansonk@westerntc.edu 0 0 1 0 0 0 1 div div field-content 36 0
-
-Learner O learner 0 1 0 0 0 0 1 div div field-content 35 0
-Support O support 0 0 0 0 0 0 1 div div field-content 35 0
-& O & 0 0 0 0 0 0 0 div div field-content 35 0
-Transition O transition 0 0 0 0 0 0 1 div div field-content 35 0
-
-Academic O academic 0 0 0 0 0 0 1 div div field-content 35 0
-Resource O resource 0 0 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-100A O 100a 0 0 0 1 0 0 0 div div field-content 35 0
-
-Dutchin B-PER dutchin 0 0 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Shelly I-PER shelly 0 1 0 0 0 0 1 div div field-content 35 0
-
-Instructor O instructor 0 0 0 0 0 0 1 div div field-content 35 0
-- O - 0 0 0 0 0 0 0 div div field-content 35 0
-Sociology O sociology 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-785 O 785 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-9128 O 9128 0 0 0 1 0 0 0 div div field-content 35 1
-
-dutchins@westerntc.edu O dutchins@westerntc.edu 0 0 1 0 0 0 0 div div field-content 36 0
-
-General O general 0 1 0 0 0 0 1 div div field-content 35 0
-Studies O studies 0 0 0 0 0 0 1 div div field-content 35 0
-& O & 0 0 0 0 0 0 0 div div field-content 35 0
-Services O services 0 0 0 0 0 0 1 div div field-content 35 0
-
-Coleman O coleman 0 1 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-224 O 224 0 0 0 1 0 0 0 div div field-content 35 0
-
-Earll B-PER earll 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Michael I-PER michael 0 1 0 0 0 0 1 div div field-content 35 0
-
-Instructor O instructor 0 0 0 0 0 0 1 div div field-content 35 0
-- O - 0 0 0 0 0 0 0 div div field-content 35 0
-Criminal O criminal 0 0 0 0 0 0 1 div div field-content 35 0
-Justice O justice 0 1 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-269 O 269 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-1611 O 1611 0 0 0 1 0 0 0 div div field-content 35 1
-X76118 O x76118 0 0 0 1 0 0 1 div div field-content 35 1
-
-EarllM@westerntc.edu O earllm@westerntc.edu 0 0 1 0 0 0 1 div div field-content 36 0
-
-Public O public 0 0 0 0 0 0 1 div div field-content 35 0
-Safety O safety 0 0 0 0 0 0 1 div div field-content 35 0
-Services O services 0 0 0 0 0 0 1 div div field-content 35 0
-
-Sparta O sparta 0 0 0 0 0 0 1 div div field-content 35 0
-
-Egan B-PER egan 0 1 0 0 0 0 1 div div field-content 35 0
-, I-PER , 0 0 0 0 0 0 0 div div field-content 35 0
-Richard I-PER richard 1 1 0 0 0 0 1 div div field-content 35 0
-
-IMC O imc 0 0 0 0 0 0 1 div div field-content 35 0
-Technician O technician 0 0 0 0 0 0 1 div div field-content 35 0
-- O - 0 0 0 0 0 0 0 div div field-content 35 0
-Evenings O evenings 0 0 0 0 0 0 1 div div field-content 35 0
-
-Phone O phone 0 1 0 0 0 0 1 div div views-label-field-contact-phone-number 35 0
-: O : 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
-608 O 608 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-785 O 785 0 0 0 1 0 0 0 div div field-content 35 1
-- O - 0 0 0 0 0 0 0 div div field-content 35 1
-9107 O 9107 0 0 0 1 0 0 0 div div field-content 35 1
-
-EganR@westerntc.edu O eganr@westerntc.edu 0 0 1 0 0 0 1 div div field-content 36 0
-
-Information O information 0 1 0 0 0 0 1 div div field-content 35 0
-Services O services 0 0 0 0 0 0 1 div div field-content 35 0
-
-Coleman O coleman 0 1 0 0 0 0 1 div div field-content 35 0
-Center O center 0 1 0 0 0 0 1 div div field-content 35 0
-300 O 300 0 0 0 1 0 0 0 div div field-content 35 0
-
-Show O show 0 1 0 0 0 0 1 li ul last 33 0
-more O more 0 0 0 0 0 0 0 li ul last 33 0
-
-Western O western 0 1 0 0 0 0 1 div div content 14 0
-Technical O technical 0 0 0 0 0 0 1 div div content 14 0
-College O college 0 0 0 0 0 0 1 div div content 14 0
-
-400 O 400 0 0 0 1 0 0 0 div div content 14 0
-7th O 7th 0 0 0 1 0 0 0 div div content 14 0
-Street O street 0 1 0 0 0 0 1 div div content 14 0
-North O north 0 1 0 0 0 0 1 div div content 14 0
-
-La O la 0 1 0 0 0 0 1 div div content 14 0
-Crosse O crosse 0 0 0 0 0 0 1 div div content 14 0
-, O , 0 0 0 0 0 0 0 div div content 14 0
-WI O wi 0 0 0 0 0 0 1 div div content 14 0
-54601 O 54601 0 0 0 1 0 0 0 div div content 14 0
-
-608 O 608 0 0 0 1 0 0 0 p div content 15 3
-- O - 0 0 0 0 0 0 0 p div content 15 3
-785 O 785 0 0 0 1 0 0 0 p div content 15 3
-- O - 0 0 0 0 0 0 0 p div content 15 3
-9200 O 9200 0 0 0 1 0 0 0 p div content 15 3
-
-800 O 800 0 0 0 1 0 0 0 p div content 15 5
-- O - 0 0 0 0 0 0 0 p div content 15 5
-322 O 322 0 0 0 1 0 0 0 p div content 15 5
-- O - 0 0 0 0 0 0 0 p div content 15 5
-9982 O 9982 0 0 0 1 0 0 0 p div content 15 5
-
-State O state 0 1 0 0 0 0 1 div div content 14 0
-Relay O relay 0 0 0 0 0 0 1 div div content 14 0
-: O : 0 0 0 0 0 0 0 div div content 14 0
-711 O 711 0 0 0 1 0 0 0 p div content 15 7
-
-EEO O eeo 0 0 0 0 0 0 1 p div content 15 9
-Statement O statement 0 0 0 0 0 0 1 p div content 15 9
-
-About O about 0 0 0 0 0 0 1 li ul collapsed 16 0
-
-Staff O staff 0 1 0 0 0 0 1 li ul active 16 0
-Directory O directory 0 0 0 0 0 0 1 li ul active 16 0
-
-Employment O employment 0 0 0 0 1 0 1 li ul leaf 16 0
-
-Maps O maps 0 0 0 0 0 0 1 li ul leaf 16 0
-and O and 0 1 0 0 0 0 0 li ul leaf 16 0
-Parking O parking 0 0 0 0 0 0 1 li ul leaf 16 0
-
-Regional O regional 0 0 0 0 0 0 1 li ul collapsed 16 0
-Locations O locations 0 0 0 0 0 0 1 li ul collapsed 16 0
-
-Feedback O feedback 0 0 0 0 0 0 1 li ul leaf 16 0
-
-Policies O policies 0 0 0 0 0 0 1 li ul leaf 16 0
-
-Weather O weather 0 0 0 0 0 0 1 li ul leaf 16 0
-Cancellations O cancellations 0 0 0 0 0 0 1 li ul leaf 16 0
-
-Emergency O emergency 0 0 0 0 1 0 1 li ul leaf 16 0
-Information O information 0 1 0 0 0 0 1 li ul leaf 16 0
-
-Safety O safety 0 0 0 0 0 0 1 li ul leaf 16 0
-and O and 0 1 0 0 0 0 0 li ul leaf 16 0
-Security O security 0 0 0 0 0 0 1 li ul leaf 16 0
-
-Gender O gender 0 0 0 0 0 0 1 li ul leaf 16 0
-Discrimination O discrimination 0 0 0 0 0 0 1 li ul leaf 16 0
-and O and 0 1 0 0 0 0 0 li ul leaf 16 0
-Sexual O sexual 0 0 0 0 0 0 1 li ul leaf 16 0
-Misconduct O misconduct 0 0 0 0 1 0 1 li ul leaf 16 0
-
-Student O student 0 1 0 0 0 0 1 li ul leaf 16 0
-Rights O rights 0 0 0 0 0 0 1 li ul leaf 16 0
-and O and 0 1 0 0 0 0 0 li ul leaf 16 0
-Concerns O concerns 0 0 0 0 0 0 1 li ul leaf 16 0
-
-Bookstore O bookstore 0 0 0 0 0 0 1 li ul leaf 16 0
-
-Cashier O cashier 0 0 0 0 0 0 1 li ul leaf 16 0
-
-Lunda O lunda 0 0 0 0 0 0 1 li ul leaf 16 0
-Center O center 0 1 0 0 0 0 1 li ul leaf 16 0
-
-Union O union 0 0 0 0 0 0 1 li ul leaf 16 0
-Market O market 0 0 0 0 0 0 1 li ul leaf 16 0
-
-Wellness O wellness 0 0 0 0 0 0 1 li ul leaf 16 0
-Center O center 0 1 0 0 0 0 1 li ul leaf 16 0
-
-Apply O apply 0 0 0 0 0 0 1 li ul leaf 16 0
-Now O now 0 1 0 0 0 0 1 li ul leaf 16 0
-
-Request O request 0 0 0 0 0 0 1 li ul leaf 16 0
-Info O info 0 0 0 0 0 0 1 li ul leaf 16 0
-
-Visit O visit 0 1 0 0 0 0 1 li ul leaf 16 0
-
-If O if 0 1 0 0 0 0 1 footer div footer-accessibility 9 87
-you O you 0 0 0 0 0 0 0 footer div footer-accessibility 9 87
-are O are 0 0 0 0 0 0 0 footer div footer-accessibility 9 87
-experiencing O experiencing 0 0 0 0 0 0 0 footer div footer-accessibility 9 87
-accessibility O accessibility 0 0 0 0 0 0 0 footer div footer-accessibility 9 87
-issues O issues 0 0 0 0 0 0 0 footer div footer-accessibility 9 87
-with O with 0 0 0 0 0 0 0 footer div footer-accessibility 9 87
-any O any 0 1 0 0 0 0 0 footer div footer-accessibility 9 87
-information O information 0 0 0 0 0 0 0 footer div footer-accessibility 9 87
-on O on 0 0 0 0 0 0 0 footer div footer-accessibility 9 87
-this O this 0 0 0 0 0 0 0 footer div footer-accessibility 9 87
-website O website 0 0 0 0 0 0 0 footer div footer-accessibility 9 87
-, O , 0 0 0 0 0 0 0 footer div footer-accessibility 9 87
-please O please 0 0 0 0 0 0 0 footer div footer-accessibility 9 87
-email O email 0 0 0 0 1 0 0 footer div footer-accessibility 9 87
-DisabilityServices@westerntc.edu O disabilityservices@westerntc.edu 0 0 1 0 0 0 1 div footer footer-accessibility 10 0
-or O or 0 0 0 0 0 0 0 footer div footer-accessibility 9 87
-call O call 0 0 0 0 0 0 0 footer div footer-accessibility 9 87
-608 O 608 0 0 0 1 0 0 0 footer div footer-accessibility 9 87
-- O - 0 0 0 0 0 0 0 footer div footer-accessibility 9 87
-785 O 785 0 0 0 1 0 0 0 footer div footer-accessibility 9 87
-- O - 0 0 0 0 0 0 0 footer div footer-accessibility 9 87
-9875. O 9875. 0 0 0 1 0 0 0 footer div footer-accessibility 9 87
-
-Copyright O copyright 0 0 0 0 0 0 1 footer div footer-date 9 103
-2017 O 2017 0 0 0 1 0 0 0 footer div footer-date 9 103
-
-Close O close 0 1 0 0 0 0 1 ul nav mmenu-close 8 0
-X O x 0 0 0 0 0 0 1 ul nav mmenu-close 8 0
-
-Programs O programs 0 0 0 0 0 0 1 a li mmenu-block-title 11 1
-
-Academic O academic 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Programs O programs 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-
-Apprenticeship O apprenticeship 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-
-Online O online 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Programs O programs 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-
-University O university 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-Transfer O transfer 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-
-ASLA O asla 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Transfer O transfer 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Degree O degree 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Course O course 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-- O - 0 0 0 0 0 0 0 a li mmenu-block-title 15 1
-by O by 0 1 0 0 0 0 0 a li mmenu-block-title 15 1
-- O - 0 0 0 0 0 0 0 a li mmenu-block-title 15 1
-Course O course 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Transfer O transfer 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Pathways O pathways 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Online O online 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Transfer O transfer 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Pathways O pathways 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Agreements O agreements 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-By O by 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Program O program 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Career O career 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Pathways O pathways 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-
-Non O non 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-- O - 0 0 0 0 0 0 0 a li mmenu-block-title 13 1
-Traditional O traditional 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Occupations O occupations 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-
-Find O find 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-a O a 0 1 0 0 0 0 0 a li mmenu-block-title 13 1
-Class O class 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-
-Admissions O admissions 0 0 0 0 0 0 1 a li mmenu-block-title 11 1
-
-How O how 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-to O to 0 0 0 0 0 0 0 a li mmenu-block-title 13 1
-Apply O apply 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-
-Military O military 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-Connected O connected 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-
-Benefits O benefits 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Military O military 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Credit O credit 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-for O for 0 1 0 0 0 0 0 a li mmenu-block-title 15 1
-Prior O prior 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Learning O learning 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Forms O forms 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-and O and 0 1 0 0 0 0 0 a li mmenu-block-title 15 1
-Military O military 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Policies O policies 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-FAQs O faqs 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Additional O additional 0 0 0 0 1 0 1 a li mmenu-block-title 15 1
-Contacts O contacts 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-GEM O gem 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Enrollment O enrollment 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Advisors O advisors 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-
-Assessment O assessment 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-
-ACCUPLACER O accuplacer 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Test O test 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Schedule O schedule 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Your O your 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Test O test 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Prepare O prepare 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-for O for 0 1 0 0 0 0 0 a li mmenu-block-title 15 1
-ACCUPLACER O accuplacer 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Proctor O proctor 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-GED/HSED O ged/hsed 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Testing O testing 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Other O other 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Assessments O assessments 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Transfer O transfer 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-
-Credit O credit 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-for O for 0 1 0 0 0 0 0 a li mmenu-block-title 13 1
-Prior O prior 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-Learning O learning 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-
-Standardized O standardized 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Exams O exams 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Institutional O institutional 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Challenge O challenge 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Exams O exams 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Military O military 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Training O training 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-and O and 0 1 0 0 0 0 0 a li mmenu-block-title 15 1
-Service O service 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Workforce O workforce 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Training O training 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-and O and 0 1 0 0 0 0 0 a li mmenu-block-title 15 1
-Certifications O certifications 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Portfolio O portfolio 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Assessment O assessment 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Credit O credit 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Transfer O transfer 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-View O view 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Book O book 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-
-Paying O paying 0 0 0 0 0 0 1 a li mmenu-block-title 11 1
-for O for 0 1 0 0 0 0 0 a li mmenu-block-title 11 1
-College O college 0 0 0 0 0 0 1 a li mmenu-block-title 11 1
-
-Financial O financial 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Aid O aid 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-
-Application O application 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Process O process 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Eligibility O eligibility 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Types O types 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-of O of 0 1 0 0 0 0 0 a li mmenu-block-title 15 1
-Aid O aid 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Financial O financial 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Wellness O wellness 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Net O net 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Price O price 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Calculator O calculator 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Federal O federal 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Work O work 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-- O - 0 0 0 0 0 0 0 a li mmenu-block-title 15 1
-Study O study 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Events O events 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Scholarships O scholarships 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-
-Apply O apply 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-for O for 0 1 0 0 0 0 0 a li mmenu-block-title 15 1
-Scholarships O scholarships 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Donating O donating 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-to O to 0 0 0 0 0 0 0 a li mmenu-block-title 15 1
-Scholarships O scholarships 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Additional O additional 0 0 0 0 1 0 1 a li mmenu-block-title 15 1
-Scholarship O scholarship 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Opportunities O opportunities 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Military O military 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-Connected O connected 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Students O students 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-
-Tuition O tuition 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-
-Payment O payment 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Options O options 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Tuition O tuition 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Payment O payment 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Calendar O calendar 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Forms O forms 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-You O you 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-May O may 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Need O need 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Student O student 0 1 0 0 0 0 1 a li mmenu-block-title 11 1
-Life O life 0 1 0 0 0 0 1 a li mmenu-block-title 11 1
-
-Athletics O athletics 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-
-Baseball O baseball 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Men O men 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-' O ' 0 0 0 0 0 0 0 a li mmenu-block-title 15 1
-s O s 0 0 0 0 0 0 0 a li mmenu-block-title 15 1
-Basketball O basketball 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Women O women 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-' O ' 0 0 0 0 0 0 0 a li mmenu-block-title 15 1
-s O s 0 0 0 0 0 0 0 a li mmenu-block-title 15 1
-Basketball O basketball 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Volleyball O volleyball 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-
-Wellness O wellness 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Center O center 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
+Western O western 0 1 0 0 0 0 1 2 7 link link none 6 0
+Directory O directory 0 0 0 0 0 0 1 0 6 link link none 6 0
+| O | 0 0 0 0 0 0 0 0 0 link link none 6 0
+Page O page 0 1 0 0 0 0 1 5 9 link link none 6 0
+3 O 3 0 0 0 1 0 0 0 0 0 link link none 6 0
+| O | 0 0 0 0 0 0 0 0 0 link link none 6 0
+Western O western 0 1 0 0 0 0 1 2 7 link link none 6 0
+Technical O technical 0 0 0 0 0 0 1 0 6 link link none 6 0
+College O college 0 0 0 0 0 0 1 0 8 link link none 6 0
+
+Skip O skip 0 1 0 0 0 0 1 3 4 div body element-focusable 5 0
+to O to 0 1 0 0 0 0 0 0 10 div body element-focusable 5 0
+main O main 0 0 0 0 0 0 0 0 6 div body element-focusable 5 0
+content O content 0 0 0 0 0 0 0 0 6 div body element-focusable 5 0
+
+Interactive O interactive 0 0 0 0 0 0 1 0 6 li ul leaf 15 0
+Map O map 0 0 0 0 0 0 1 0 6 li ul leaf 15 0
+
+Alumni O alumni 0 0 0 0 0 0 1 0 7 li ul collapsed 15 0
+
+Foundation O foundation 0 0 0 0 0 0 1 0 7 li ul collapsed 15 0
+
+Business/Community O business/community 0 0 0 0 0 0 1 0 0 li ul collapsed 15 0
+
+Current O current 0 1 0 0 0 0 1 1 6 li ul collapsed 15 0
+Students O students 0 0 0 0 0 0 1 0 8 li ul collapsed 15 0
+
+Future O future 0 0 0 0 0 0 1 0 7 li ul future-students 15 0
+Students O students 0 0 0 0 0 0 1 0 8 li ul future-students 15 0
+
+Search O search 0 0 0 0 0 0 1 0 7 div div element-invisible 17 0
+form O form 0 0 0 0 0 0 0 0 6 div div element-invisible 17 0
+
+Search O search 0 0 0 0 0 0 1 0 7 div div element-invisible 18 0
+
+Western O western 0 1 0 0 0 0 1 2 7 h1 div element-invisible 13 0
+Technical O technical 0 0 0 0 0 0 1 0 6 h1 div element-invisible 13 0
+College O college 0 0 0 0 0 0 1 0 8 h1 div element-invisible 13 0
+
+Programs O programs 0 0 0 0 0 0 1 0 8 li ul collapsed 16 0
+
+Admissions O admissions 0 0 0 0 0 0 1 0 7 li ul collapsed 16 0
+
+Paying O paying 0 0 0 0 0 0 1 0 4 li ul collapsed 16 0
+for O for 0 1 0 0 0 0 0 1 9 li ul collapsed 16 0
+College O college 0 0 0 0 0 0 1 0 8 li ul collapsed 16 0
+
+Student O student 0 1 0 0 0 0 1 1 8 li ul collapsed 16 0
+Life O life 0 1 0 0 0 0 1 1 7 li ul collapsed 16 0
+
+Apply O apply 0 0 0 0 0 0 1 0 7 li ul leaf 16 0
+
+Western O western 0 1 0 0 0 0 1 2 7 div div field-content 17 0
+Technical O technical 0 0 0 0 0 0 1 0 6 div div field-content 17 0
+College O college 0 0 0 0 0 0 1 0 8 div div field-content 17 0
+
+You O you 0 1 0 0 0 0 1 7 8 div div element-invisible 10 0
+are O are 0 0 0 0 0 0 0 0 8 div div element-invisible 10 0
+here O here 0 0 0 0 0 0 0 0 7 div div element-invisible 10 0
+
+Home O home 0 1 0 0 0 0 1 2 6 span div first 12 0
+| O | 0 0 0 0 0 0 0 0 0 div div delimiter 11 2
+Staff O staff 0 1 0 0 0 0 1 2 7 div div last 11 3
+Directory O directory 0 0 0 0 0 0 1 0 6 div div last 11 3
+
+Western O western 0 1 0 0 0 0 1 2 7 header section clearfix 14 0
+Directory O directory 0 0 0 0 0 0 1 0 6 header section clearfix 14 0
+
+Staff O staff 0 1 0 0 0 0 1 2 7 li ul panels-ajax-tab-tab 24 0
+Directory O directory 0 0 0 0 0 0 1 0 6 li ul panels-ajax-tab-tab 24 0
+
+Office O office 0 0 0 0 0 0 1 0 7 li ul panels-ajax-tab-tab 24 0
+and O and 0 1 0 0 0 0 0 0 10 li ul panels-ajax-tab-tab 24 0
+Campus O campus 0 1 0 0 0 0 1 1 8 li ul panels-ajax-tab-tab 24 0
+Locations O locations 0 0 0 0 0 0 1 0 5 li ul panels-ajax-tab-tab 24 0
+
+Enter O enter 0 1 0 0 0 0 1 0 4 div div view-header 31 0
+the O the 0 1 0 0 0 0 0 0 10 div div view-header 31 0
+first O first 0 0 0 0 0 0 0 0 7 div div view-header 31 0
+few O few 0 0 0 0 0 0 0 0 5 div div view-header 31 0
+letters O letters 0 0 0 0 0 0 0 0 4 div div view-header 31 0
+of O of 0 1 0 0 0 0 0 2 10 div div view-header 31 0
+the O the 0 1 0 0 0 0 0 0 10 div div view-header 31 0
+person's O person's 0 0 0 0 0 0 0 0 0 div div view-header 31 0
+first O first 0 0 0 0 0 0 0 0 7 div div view-header 31 0
+or O or 0 1 0 0 0 0 0 0 8 div div view-header 31 0
+last O last 0 0 0 0 0 0 0 0 7 div div view-header 31 0
+name O name 0 0 0 0 0 0 0 0 7 div div view-header 31 0
+or O or 0 1 0 0 0 0 0 0 8 div div view-header 31 0
+a O a 0 1 0 0 0 0 0 3 11 div div view-header 31 0
+department O department 0 0 0 0 0 0 0 0 7 div div view-header 31 0
+or O or 0 1 0 0 0 0 0 0 8 div div view-header 31 0
+title O title 0 0 0 0 0 0 0 0 8 div div view-header 31 0
+and O and 0 1 0 0 0 0 0 0 10 div div view-header 31 0
+press O press 0 0 0 0 0 0 0 0 7 div div view-header 31 0
+the O the 0 1 0 0 0 0 0 0 10 div div view-header 31 0
+" O-PUNCT " 0 1 0 0 0 0 0 5 0 div div view-header 31 0
+Find O find 0 1 0 0 0 0 1 1 6 div div view-header 31 0
+" O-PUNCT " 0 1 0 0 0 0 0 5 0 div div view-header 31 0
+button. O button. 0 0 0 0 0 0 0 0 0 div div view-header 31 0
+
+First O first 0 1 0 0 0 0 1 2 7 div div views-widget-filter-combine 36 0
+or O or 0 1 0 0 0 0 0 0 8 div div views-widget-filter-combine 36 0
+Last O last 0 1 0 0 0 0 1 3 7 div div views-widget-filter-combine 36 0
+Name O name 0 1 0 0 0 0 1 1 7 div div views-widget-filter-combine 36 0
+
+Value O value 0 0 0 0 0 0 1 0 5 div div form-item-combine 38 0
+
+Department O department 0 0 0 0 0 0 1 0 7 div div views-widget-filter-combine_1 36 0
+or O or 0 1 0 0 0 0 0 0 8 div div views-widget-filter-combine_1 36 0
+Title O title 0 1 0 0 0 0 1 0 8 div div views-widget-filter-combine_1 36 0
+
+Value O value 0 0 0 0 0 0 1 0 5 div div form-item-combine-1 38 0
+
+Christenson B-PER christenson 0 1 0 0 0 0 1 2 0 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Karen I-PER karen 0 1 0 0 0 0 1 7 4 div div field-content 35 0
+
+Instructor O instructor 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 0
+Medical O medical 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+Lab O lab 0 1 0 0 0 0 1 0 6 div div field-content 35 0
+Tech O tech 0 1 0 0 0 0 1 2 6 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+789 O 789 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+4740 O 4740 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+christensonk@westerntc.edu O christensonk@westerntc.edu 0 0 1 0 0 0 0 0 0 div div field-content 36 0
+
+Allied O allied 0 0 0 0 0 0 1 0 3 div div field-content 35 0
+Health O health 0 1 0 0 0 0 1 0 7 div div field-content 35 0
+
+Health O health 0 1 0 0 0 0 1 0 7 div div field-content 35 0
+Science O science 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+4092 O 4092 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Church B-PER church 0 1 0 0 0 0 1 4 5 div div field-content 35 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 0
+Hoffman I-PER hoffman 0 1 0 0 0 0 1 5 2 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Mandy I-PER mandy 0 1 0 0 0 0 1 4 1 div div field-content 35 0
+
+Associate O associate 0 1 0 0 0 0 1 0 6 div div field-content 35 0
+Dean O dean 0 1 0 0 0 0 1 6 5 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+785 O 785 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+9542 O 9542 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+church O church 0 0 0 0 0 0 0 0 5 div div field-content 36 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 36 0
+hoffmanm@westerntc.edu O hoffmanm@westerntc.edu 0 0 1 0 0 0 0 0 0 div div field-content 36 0
+
+Learner O learner 0 1 0 0 0 0 1 0 2 div div field-content 35 0
+Support O support 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+& O & 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Transition O transition 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+
+Academic O academic 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+Resource O resource 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+100F O 100f 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Churchill B-PER churchill 0 1 0 0 0 0 1 4 4 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Jordan I-PER jordan 0 1 0 0 0 0 1 6 4 div div field-content 35 0
+
+Data O data 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+Spclst/Admin O spclst/admin 0 0 0 0 0 0 1 0 0 div div field-content 35 0
+Asst/Proctor O asst/proctor 0 0 0 0 0 0 1 0 0 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+789 O 789 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+6020 O 6020 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+churchillj@westerntc.edu O churchillj@westerntc.edu 0 0 1 0 0 0 0 0 0 div div field-content 36 0
+
+Learner O learner 0 1 0 0 0 0 1 0 2 div div field-content 35 0
+Support O support 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+& O & 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Transition O transition 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+
+Academic O academic 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+Resource O resource 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+200 O 200 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Clark B-PER clark 1 1 0 0 0 0 1 7 4 div div field-content 35 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 div div field-content 35 0
+Christopher I-PER christopher 1 1 0 0 0 0 1 8 5 div div field-content 35 0
+
+Custodial O custodial 0 0 0 0 0 0 1 0 2 div div field-content 35 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 0
+Maint O maint 0 0 0 0 0 0 1 0 2 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Mauston O mauston 0 0 0 0 0 0 1 0 2 div div field-content 35 0
+Campu O campu 0 0 0 0 0 0 1 0 0 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+847 O 847 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+7364 O 7364 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+X74108 O x74108 0 0 0 1 0 0 1 0 0 div div field-content 35 1
+
+clarkc@westerntc.edu O clarkc@westerntc.edu 0 0 1 0 0 0 0 0 0 div div field-content 36 0
+
+Custodial O custodial 0 0 0 0 0 0 1 0 2 div div field-content 35 0
+
+Mauston O mauston 0 0 0 0 0 0 1 0 2 div div field-content 35 0
+
+Cooksey B-PER cooksey 0 1 0 0 0 0 1 2 0 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Nicole I-PER nicole 0 1 0 0 0 0 1 6 5 div div field-content 35 0
+
+Instructional O instructional 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+Designer O designer 0 1 0 0 0 0 1 0 5 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+789 O 789 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+6239 O 6239 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+cookseyn@westerntc.edu O cookseyn@westerntc.edu 0 0 1 0 0 0 0 0 0 div div field-content 36 0
+
+Academic O academic 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+Excellence O excellence 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+
+Coleman O coleman 0 1 0 0 0 0 1 5 3 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+248 O 248 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Corcoran B-PER corcoran 0 1 0 0 0 0 1 3 2 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Shannon I-PER shannon 0 1 0 0 0 0 1 6 3 div div field-content 35 0
+
+Instructor O instructor 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 0
+Business O business 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+Mgmt O mgmt 0 0 0 0 0 0 1 0 3 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+785 O 785 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+9187 O 9187 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+corcorans@westerntc.edu O corcorans@westerntc.edu 0 0 1 0 0 0 0 0 0 div div field-content 36 0
+
+Business O business 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+Division O division 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+
+Business O business 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+Education O education 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+210D O 210d 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Craker B-PER craker 0 1 0 0 0 0 1 1 0 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Tracy I-PER tracy 0 1 0 0 0 0 1 6 3 div div field-content 35 0
+
+Instructor O instructor 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 0
+Erly O erly 0 1 0 0 0 0 1 0 0 div div field-content 35 0
+Chldhd O chldhd 0 0 0 0 0 0 1 0 0 div div field-content 35 0
+Edctn O edctn 0 0 0 0 0 0 1 0 0 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+789 O 789 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+6144 O 6144 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+CrakerT@westerntc.edu O crakert@westerntc.edu 0 0 1 0 0 0 1 0 0 div div field-content 36 0
+
+Health O health 0 1 0 0 0 0 1 0 7 div div field-content 35 0
+Education O education 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+
+Coleman O coleman 0 1 0 0 0 0 1 5 3 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+204 O 204 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Cravens B-PER cravens 0 1 0 0 0 0 1 0 0 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Lee I-PER lee 0 1 0 0 0 0 1 9 5 div div field-content 35 0
+
+Custodian O custodian 0 0 0 0 0 0 1 0 2 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+785 O 785 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+9109 O 9109 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+CravensL@westerntc.edu O cravensl@westerntc.edu 0 0 1 0 0 0 1 0 0 div div field-content 36 0
+
+Custodial O custodial 0 0 0 0 0 0 1 0 2 div div field-content 35 0
+
+Physical O physical 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+Plant O plant 0 1 0 0 0 0 1 3 4 div div field-content 35 0
+114 O 114 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Culver B-PER culver 0 1 0 0 0 0 1 3 0 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Pamela I-PER pamela 0 1 0 0 0 0 1 6 3 div div field-content 35 0
+
+Instructor O instructor 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 0
+Marketing O marketing 0 0 0 0 0 0 1 0 4 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+789 O 789 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+6115 O 6115 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+culverp@westerntc.edu O culverp@westerntc.edu 0 0 1 0 0 0 0 0 0 div div field-content 36 0
+
+Business O business 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+Division O division 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+
+Business O business 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+Education O education 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+202D O 202d 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Czaplewski B-PER czaplewski 0 1 0 0 0 0 1 2 0 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Julie I-PER julie 0 1 0 0 0 0 1 7 5 div div field-content 35 0
+
+Instructor O instructor 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 0
+Medical O medical 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+Assist O assist 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+789 O 789 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+6175 O 6175 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+CzaplewskiJ@westerntc.edu O czaplewskij@westerntc.edu 0 0 1 0 0 0 1 0 0 div div field-content 36 0
+
+Health O health 0 1 0 0 0 0 1 0 7 div div field-content 35 0
+Education O education 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+
+Kumm O kumm 0 1 0 0 0 0 1 1 3 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+303P O 303p 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Dahl B-PER dahl 0 1 0 0 0 0 1 5 2 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Julie I-PER julie 0 1 0 0 0 0 1 7 5 div div field-content 35 0
+
+Manager O manager 0 0 0 0 0 0 1 0 4 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Facility O facility 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+Operations O operations 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+785 O 785 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+9109 O 9109 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+DahlJ@westerntc.edu O dahlj@westerntc.edu 0 0 1 0 0 0 1 0 0 div div field-content 36 0
+
+Custodial O custodial 0 0 0 0 0 0 1 0 2 div div field-content 35 0
+
+Physical O physical 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+Plant O plant 0 1 0 0 0 0 1 3 4 div div field-content 35 0
+114 O 114 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Davini B-PER davini 0 1 0 0 0 0 1 1 0 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Mark I-PER mark 0 1 0 0 0 0 1 9 5 div div field-content 35 0
+
+Instr O instr 0 0 0 0 0 0 1 0 1 div div field-content 35 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 0
+Digital O digital 0 1 0 0 0 0 1 0 5 div div field-content 35 0
+Media O media 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+Prdctn O prdctn 0 0 0 0 0 0 1 0 0 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+785 O 785 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+9584 O 9584 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+DaviniM@westerntc.edu O davinim@westerntc.edu 0 0 1 0 0 0 1 0 0 div div field-content 36 0
+
+Business O business 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+Division O division 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+
+Coleman O coleman 0 1 0 0 0 0 1 5 3 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+241 O 241 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Davis B-PER davis 0 1 0 0 0 0 1 7 5 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Sally I-PER sally 0 1 0 0 0 0 1 5 4 div div field-content 35 0
+
+Instructor O instructor 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 0
+CL O cl 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+Nursing O nursing 0 1 0 0 0 0 1 0 4 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+785 O 785 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+9283 O 9283 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+DavisS@westerntc.edu O daviss@westerntc.edu 0 0 1 0 0 0 1 0 0 div div field-content 36 0
+
+Nursing O nursing 0 1 0 0 0 0 1 0 4 div div field-content 35 0
+
+Kumm O kumm 0 1 0 0 0 0 1 1 3 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+315T O 315t 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Daykin B-PER daykin 0 1 0 0 0 0 1 1 0 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Brian I-PER brian 0 1 0 0 0 0 1 8 5 div div field-content 35 0
+
+Director O director 0 1 0 0 0 0 1 0 7 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Resource O resource 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+Dvlpmnt O dvlpmnt 0 0 0 0 0 0 1 0 1 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+785 O 785 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+9876 O 9876 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+daykinr@westerntc.edu O daykinr@westerntc.edu 0 0 1 0 0 0 0 0 0 div div field-content 36 0
+
+Resource O resource 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+Development O development 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+
+Administrative O administrative 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+306 O 306 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Dean B-PER dean 1 1 0 0 0 0 1 6 5 div div field-content 35 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 div div field-content 35 0
+Kevin I-PER kevin 1 1 0 0 0 0 1 8 4 div div field-content 35 0
+
+Associate O associate 0 1 0 0 0 0 1 0 6 div div field-content 35 0
+Dean O dean 0 1 0 0 0 0 1 6 5 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+269 O 269 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+1611 O 1611 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+X94765 O x94765 0 0 0 1 0 0 1 0 0 div div field-content 35 1
+
+DeanK@westerntc.edu O deank@westerntc.edu 0 0 1 0 0 0 1 0 0 div div field-content 36 0
+
+Health O health 0 1 0 0 0 0 1 0 7 div div field-content 35 0
+& O & 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Public O public 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+Safety O safety 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+
+Kumm O kumm 0 1 0 0 0 0 1 1 3 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+211F/Sparta O 211f/sparta 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+DeBoer B-PER deboer 0 1 0 0 0 0 1 2 1 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Michael I-PER michael 0 1 0 0 0 0 1 9 6 div div field-content 35 0
+
+Chief O chief 0 1 0 0 0 0 1 0 4 div div field-content 35 0
+Electronics O electronics 0 0 0 0 0 0 1 0 4 div div field-content 35 0
+Technician O technician 0 0 0 0 0 0 1 0 4 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+785 O 785 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+9143 O 9143 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+DeBoerM@westerntc.edu O deboerm@westerntc.edu 0 0 1 0 0 0 1 0 0 div div field-content 36 0
+
+Information O information 0 1 0 0 0 0 1 0 8 div div field-content 35 0
+Services O services 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+
+Coleman O coleman 0 1 0 0 0 0 1 5 3 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+300B O 300b 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Deiber B-PER deiber 0 1 0 0 0 0 1 0 0 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Blake I-PER blake 0 1 0 0 0 0 1 5 3 div div field-content 35 0
+
+Fire O fire 0 1 0 0 0 0 1 1 5 div div field-content 35 0
+District O district 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+Coordinator O coordinator 0 0 0 0 0 0 1 0 4 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+787 O 787 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+6119 O 6119 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+deiberb@westerntc.edu O deiberb@westerntc.edu 0 0 1 0 0 0 0 0 0 div div field-content 36 0
+
+Public O public 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+Safety O safety 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+Services O services 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+
+Sparta O sparta 0 0 0 0 0 0 1 0 3 div div field-content 35 0
+Campus O campus 0 1 0 0 0 0 1 1 8 div div field-content 35 0
+
+Delagrave B-PER delagrave 0 0 0 0 0 0 1 0 2 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Amy I-PER amy 0 1 0 0 0 0 1 6 4 div div field-content 35 0
+
+Counselor O counselor 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+785 O 785 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+9536 O 9536 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+DelagraveA@westerntc.edu O delagravea@westerntc.edu 0 0 1 0 0 0 1 0 0 div div field-content 36 0
+
+Counseling O counseling 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+Services O services 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+
+Academic O academic 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+Resource O resource 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+100C O 100c 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Deml B-PER deml 0 1 0 0 0 0 1 0 0 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Dennis I-PER dennis 0 1 0 0 0 0 1 7 3 div div field-content 35 0
+
+Custodian O custodian 0 0 0 0 0 0 1 0 2 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+785 O 785 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+9109 O 9109 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+DemlD@westerntc.edu O demld@westerntc.edu 0 0 1 0 0 0 1 0 0 div div field-content 36 0
+
+Custodial O custodial 0 0 0 0 0 0 1 0 2 div div field-content 35 0
+
+Physical O physical 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+Plant O plant 0 1 0 0 0 0 1 3 4 div div field-content 35 0
+114 O 114 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Dimmitt B-PER dimmitt 0 1 0 0 0 0 1 1 0 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Lisa I-PER lisa 0 1 0 0 0 0 1 7 4 div div field-content 35 0
+
+Veteran O veteran 0 0 0 0 0 0 1 0 2 div div field-content 35 0
+Military O military 0 1 0 0 0 0 1 0 6 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+Asst O asst 0 0 0 0 0 0 1 0 4 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+785 O 785 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+9436 O 9436 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+dimmittl@westerntc.edu O dimmittl@westerntc.edu 0 0 1 0 0 0 0 0 0 div div field-content 36 0
+
+Veterans O veterans 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+Military O military 0 1 0 0 0 0 1 0 6 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+
+Academic O academic 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+Resource O resource 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+202 O 202 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Dobbs B-PER dobbs 0 1 0 0 0 0 1 3 1 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Bradley I-PER bradley 0 1 0 0 0 0 1 6 4 div div field-content 35 0
+
+Instructor O instructor 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 0
+Supervisory O supervisory 0 0 0 0 0 0 1 0 2 div div field-content 35 0
+Mgmt O mgmt 0 0 0 0 0 0 1 0 3 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+789 O 789 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+6228 O 6228 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+dobbsb@westerntc.edu O dobbsb@westerntc.edu 0 0 1 0 0 0 0 0 0 div div field-content 36 0
+
+Business O business 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+Division O division 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+
+Business O business 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+Education O education 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+208B O 208b 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Dockter B-PER dockter 0 1 0 0 0 0 1 0 0 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Darcy I-PER darcy 0 1 0 0 0 0 1 4 2 div div field-content 35 0
+
+Admin O admin 0 0 0 0 0 0 1 0 4 div div field-content 35 0
+Program O program 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+Assistant O assistant 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+785 O 785 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+9195 O 9195 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+DockterD@westerntc.edu O dockterd@westerntc.edu 0 0 1 0 0 0 1 0 0 div div field-content 36 0
+
+Health O health 0 1 0 0 0 0 1 0 7 div div field-content 35 0
+& O & 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Public O public 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+Safety O safety 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+
+Kumm O kumm 0 1 0 0 0 0 1 1 3 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+211 O 211 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Dryden B-PER dryden 0 1 0 0 1 0 1 2 1 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Tracy I-PER tracy 0 1 0 0 0 0 1 6 3 div div field-content 35 0
+
+Dir. O dir. 0 0 0 0 0 0 1 0 0 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Planning O planning 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+& O & 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Org. O org. 0 0 0 0 0 0 1 0 0 div div field-content 35 0
+Excllnc O excllnc 0 0 0 0 0 0 1 0 0 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+789 O 789 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+6179 O 6179 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+DrydenT@westerntc.edu O drydent@westerntc.edu 0 0 1 0 1 0 1 0 0 div div field-content 36 0
+
+Planning O planning 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+& O & 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Orgnztnl O orgnztnl 0 0 0 0 0 0 1 0 0 div div field-content 35 0
+Excellence O excellence 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+
+Coleman O coleman 0 1 0 0 0 0 1 5 3 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+127A O 127a 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Duff B-PER duff 0 1 0 0 0 0 1 4 2 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Julie I-PER julie 0 1 0 0 0 0 1 7 5 div div field-content 35 0
+
+Admis O admis 0 0 0 0 0 0 1 0 4 div div field-content 35 0
+Data O data 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+Asst O asst 0 0 0 0 0 0 1 0 4 div div field-content 35 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 0
+Bkgrnd O bkgrnd 0 0 0 0 0 0 1 0 0 div div field-content 35 0
+Cks&Imm O cks&imm 0 0 0 0 0 0 1 0 0 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+789 O 789 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+6138 O 6138 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+duffj@westerntc.edu O duffj@westerntc.edu 0 0 1 0 0 0 0 0 0 div div field-content 36 0
+
+Admissions O admissions 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 0
+Registration O registration 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+
+Academic O academic 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+Resource O resource 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+160N O 160n 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Duffy B-PER duffy 0 1 0 0 0 0 1 5 2 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Linda I-PER linda 0 1 0 0 0 0 1 7 4 div div field-content 35 0
+
+Instructor O instructor 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 0
+Comm O comm 0 1 0 0 0 0 1 0 2 div div field-content 35 0
+Skills O skills 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+789 O 789 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+4792 O 4792 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+DuffyL@westerntc.edu O duffyl@westerntc.edu 0 0 1 0 0 0 1 0 0 div div field-content 36 0
+
+General O general 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+Studies O studies 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+& O & 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Services O services 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+
+Coleman O coleman 0 1 0 0 0 0 1 5 3 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+217 O 217 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Dull B-PER dull 0 1 0 0 0 0 1 2 0 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Chad I-PER chad 0 1 0 0 0 0 1 6 2 div div field-content 35 0
+
+Dean O dean 0 1 0 0 0 0 1 6 5 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+785 O 785 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+9561 O 9561 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+DullC@westerntc.edu O dullc@westerntc.edu 0 0 1 0 0 0 1 0 0 div div field-content 36 0
+
+Learner O learner 0 1 0 0 0 0 1 0 2 div div field-content 35 0
+Support O support 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+& O & 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Transition O transition 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+
+Academic O academic 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+Resource O resource 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+100D O 100d 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Duncanson B-PER duncanson 0 1 0 0 0 0 1 1 0 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Karen I-PER karen 0 1 0 0 0 0 1 7 4 div div field-content 35 0
+
+Teacher O teacher 0 1 0 0 0 0 1 0 4 div div field-content 35 0
+Aide O aide 0 1 0 0 1 0 1 1 8 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+789 O 789 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+6029 O 6029 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+Duncansonk@westerntc.edu O duncansonk@westerntc.edu 0 0 1 0 0 0 1 0 0 div div field-content 36 0
+
+Learner O learner 0 1 0 0 0 0 1 0 2 div div field-content 35 0
+Support O support 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+& O & 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Transition O transition 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+
+Academic O academic 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+Resource O resource 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+100A O 100a 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Dutchin B-PER dutchin 0 0 0 0 0 0 1 0 0 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Shelly I-PER shelly 0 1 0 0 0 0 1 4 2 div div field-content 35 0
+
+Instructor O instructor 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 0
+Sociology O sociology 0 0 0 0 0 0 1 0 5 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+785 O 785 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+9128 O 9128 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+dutchins@westerntc.edu O dutchins@westerntc.edu 0 0 1 0 0 0 0 0 0 div div field-content 36 0
+
+General O general 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+Studies O studies 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+& O & 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Services O services 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+
+Coleman O coleman 0 1 0 0 0 0 1 5 3 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+224 O 224 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Earll B-PER earll 0 1 0 0 0 0 1 1 0 div div field-content 35 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div field-content 35 0
+Michael I-PER michael 0 1 0 0 0 0 1 9 6 div div field-content 35 0
+
+Instructor O instructor 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 0
+Criminal O criminal 0 0 0 0 0 0 1 0 3 div div field-content 35 0
+Justice O justice 0 1 0 0 0 0 1 3 6 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+269 O 269 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+1611 O 1611 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+X76118 O x76118 0 0 0 1 0 0 1 0 0 div div field-content 35 1
+
+EarllM@westerntc.edu O earllm@westerntc.edu 0 0 1 0 0 0 1 0 0 div div field-content 36 0
+
+Public O public 0 0 0 0 0 0 1 0 7 div div field-content 35 0
+Safety O safety 0 0 0 0 0 0 1 0 6 div div field-content 35 0
+Services O services 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+
+Sparta O sparta 0 0 0 0 0 0 1 0 3 div div field-content 35 0
+
+Egan B-PER egan 1 1 0 0 0 0 1 4 1 div div field-content 35 0
+, O-PUNCT , 1 0 0 0 0 0 0 0 0 div div field-content 35 0
+Richard I-PER richard 1 1 0 0 0 0 1 9 6 div div field-content 35 0
+
+IMC O imc 0 0 0 0 0 0 1 0 0 div div field-content 35 0
+Technician O technician 0 0 0 0 0 0 1 0 4 div div field-content 35 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 0
+Evenings O evenings 0 0 0 0 0 0 1 0 1 div div field-content 35 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 div div views-label-field-contact-phone-number 35 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div views-label-field-contact-phone-number 35 0
+608 O 608 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+785 O 785 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div field-content 35 1
+9107 O 9107 0 0 0 1 0 0 0 0 0 div div field-content 35 1
+
+EganR@westerntc.edu O eganr@westerntc.edu 0 0 1 0 0 0 1 0 0 div div field-content 36 0
+
+Information O information 0 1 0 0 0 0 1 0 8 div div field-content 35 0
+Services O services 0 0 0 0 0 0 1 0 8 div div field-content 35 0
+
+Coleman O coleman 0 1 0 0 0 0 1 5 3 div div field-content 35 0
+Center O center 0 1 0 0 0 0 1 1 7 div div field-content 35 0
+300 O 300 0 0 0 1 0 0 0 0 0 div div field-content 35 0
+
+Show O show 0 1 0 0 0 0 1 3 6 li ul last 33 0
+more O more 0 0 0 0 0 0 0 0 7 li ul last 33 0
+
+Western O western 0 1 0 0 0 0 1 2 7 div div content 14 0
+Technical O technical 0 0 0 0 0 0 1 0 6 div div content 14 0
+College O college 0 0 0 0 0 0 1 0 8 div div content 14 0
+
+400 O 400 0 0 0 1 0 0 0 0 0 div div content 14 0
+7th O 7th 0 0 0 1 0 0 0 0 0 div div content 14 0
+Street O street 0 1 0 0 0 0 1 4 6 div div content 14 0
+North O north 0 1 0 0 0 0 1 4 5 div div content 14 0
+
+La O la 0 1 0 0 0 0 1 6 11 div div content 14 0
+Crosse O crosse 0 0 0 0 0 0 1 0 7 div div content 14 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div content 14 0
+WI O wi 0 0 0 0 0 0 1 0 6 div div content 14 0
+54601 O 54601 0 0 0 1 0 0 0 0 0 div div content 14 0
+
+608 O 608 0 0 0 1 0 0 0 0 0 p div content 15 3
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 p div content 15 3
+785 O 785 0 0 0 1 0 0 0 0 0 p div content 15 3
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 p div content 15 3
+9200 O 9200 0 0 0 1 0 0 0 0 0 p div content 15 3
+
+800 O 800 0 0 0 1 0 0 0 0 0 p div content 15 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 p div content 15 5
+322 O 322 0 0 0 1 0 0 0 0 0 p div content 15 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 p div content 15 5
+9982 O 9982 0 0 0 1 0 0 0 0 0 p div content 15 5
+
+State O state 0 1 0 0 0 0 1 2 6 div div content 14 0
+Relay O relay 0 0 0 0 0 0 1 0 4 div div content 14 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div content 14 0
+711 O 711 0 0 0 1 0 0 0 0 0 p div content 15 7
+
+EEO O eeo 0 0 0 0 0 0 1 0 4 p div content 15 9
+Statement O statement 0 0 0 0 0 0 1 0 6 p div content 15 9
+
+About O about 0 0 0 0 0 0 1 0 8 li ul collapsed 16 0
+
+Staff O staff 0 1 0 0 0 0 1 2 7 li ul active 16 0
+Directory O directory 0 0 0 0 0 0 1 0 6 li ul active 16 0
+
+Employment O employment 0 0 0 0 1 0 1 0 5 li ul leaf 16 0
+
+Maps O maps 0 0 0 0 0 0 1 0 6 li ul leaf 16 0
+and O and 0 1 0 0 0 0 0 0 10 li ul leaf 16 0
+Parking O parking 0 0 0 0 0 0 1 0 6 li ul leaf 16 0
+
+Regional O regional 0 0 0 0 0 0 1 0 6 li ul collapsed 16 0
+Locations O locations 0 0 0 0 0 0 1 0 5 li ul collapsed 16 0
+
+Feedback O feedback 0 0 0 0 0 0 1 0 6 li ul leaf 16 0
+
+Policies O policies 0 0 0 0 0 0 1 0 6 li ul leaf 16 0
+
+Weather O weather 0 0 0 0 0 0 1 0 4 li ul leaf 16 0
+Cancellations O cancellations 0 0 0 0 0 0 1 0 4 li ul leaf 16 0
+
+Emergency O emergency 0 0 0 0 1 0 1 0 6 li ul leaf 16 0
+Information O information 0 1 0 0 0 0 1 0 8 li ul leaf 16 0
+
+Safety O safety 0 0 0 0 0 0 1 0 6 li ul leaf 16 0
+and O and 0 1 0 0 0 0 0 0 10 li ul leaf 16 0
+Security O security 0 0 0 0 0 0 1 0 6 li ul leaf 16 0
+
+Gender O gender 0 0 0 0 0 0 1 0 5 li ul leaf 16 0
+Discrimination O discrimination 0 0 0 0 0 0 1 0 4 li ul leaf 16 0
+and O and 0 1 0 0 0 0 0 0 10 li ul leaf 16 0
+Sexual O sexual 0 0 0 0 0 0 1 0 5 li ul leaf 16 0
+Misconduct O misconduct 0 0 0 0 1 0 1 0 4 li ul leaf 16 0
+
+Student O student 0 1 0 0 0 0 1 1 8 li ul leaf 16 0
+Rights O rights 0 0 0 0 0 0 1 0 5 li ul leaf 16 0
+and O and 0 1 0 0 0 0 0 0 10 li ul leaf 16 0
+Concerns O concerns 0 0 0 0 0 0 1 0 4 li ul leaf 16 0
+
+Bookstore O bookstore 0 0 0 0 0 0 1 0 6 li ul leaf 16 0
+
+Cashier O cashier 0 0 0 0 0 0 1 0 4 li ul leaf 16 0
+
+Lunda O lunda 0 0 0 0 0 0 1 0 5 li ul leaf 16 0
+Center O center 0 1 0 0 0 0 1 1 7 li ul leaf 16 0
+
+Union O union 0 0 0 0 0 0 1 0 7 li ul leaf 16 0
+Market O market 0 0 0 0 0 0 1 0 5 li ul leaf 16 0
+
+Wellness O wellness 0 0 0 0 0 0 1 0 6 li ul leaf 16 0
+Center O center 0 1 0 0 0 0 1 1 7 li ul leaf 16 0
+
+Apply O apply 0 0 0 0 0 0 1 0 7 li ul leaf 16 0
+Now O now 0 1 0 0 0 0 1 0 7 li ul leaf 16 0
+
+Request O request 0 0 0 0 0 0 1 0 6 li ul leaf 16 0
+Info O info 0 0 0 0 0 0 1 0 6 li ul leaf 16 0
+
+Visit O visit 0 1 0 0 0 0 1 1 6 li ul leaf 16 0
+
+If O if 0 1 0 0 0 0 1 0 7 footer div footer-accessibility 9 87
+you O you 0 1 0 0 0 0 0 3 8 footer div footer-accessibility 9 87
+are O are 0 0 0 0 0 0 0 0 8 footer div footer-accessibility 9 87
+experiencing O experiencing 0 0 0 0 0 0 0 0 4 footer div footer-accessibility 9 87
+accessibility O accessibility 0 0 0 0 0 0 0 0 6 footer div footer-accessibility 9 87
+issues O issues 0 0 0 0 0 0 0 0 5 footer div footer-accessibility 9 87
+with O with 0 0 0 0 0 0 0 0 8 footer div footer-accessibility 9 87
+any O any 0 1 0 0 0 0 0 0 6 footer div footer-accessibility 9 87
+information O information 0 0 0 0 0 0 0 0 8 footer div footer-accessibility 9 87
+on O on 0 1 0 0 0 0 0 2 9 footer div footer-accessibility 9 87
+this O this 0 0 0 0 0 0 0 0 8 footer div footer-accessibility 9 87
+website O website 0 0 0 0 0 0 0 0 6 footer div footer-accessibility 9 87
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 footer div footer-accessibility 9 87
+please O please 0 0 0 0 0 0 0 0 7 footer div footer-accessibility 9 87
+email O email 0 0 0 0 1 0 0 0 6 footer div footer-accessibility 9 87
+DisabilityServices@westerntc.edu O disabilityservices@westerntc.edu 0 0 1 0 0 0 1 0 0 div footer footer-accessibility 10 0
+or O or 0 1 0 0 0 0 0 0 8 footer div footer-accessibility 9 87
+call O call 0 0 0 0 0 0 0 0 5 footer div footer-accessibility 9 87
+608 O 608 0 0 0 1 0 0 0 0 0 footer div footer-accessibility 9 87
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 footer div footer-accessibility 9 87
+785 O 785 0 0 0 1 0 0 0 0 0 footer div footer-accessibility 9 87
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 footer div footer-accessibility 9 87
+9875. O 9875. 0 0 0 1 0 0 0 0 0 footer div footer-accessibility 9 87
+
+Copyright O copyright 0 0 0 0 0 0 1 0 6 footer div footer-date 9 103
+2017 O 2017 0 0 0 1 0 0 0 0 0 footer div footer-date 9 103
+
+Close O close 0 1 0 0 0 0 1 3 5 ul nav mmenu-close 8 0
+X O x 0 0 0 0 0 0 1 0 9 ul nav mmenu-close 8 0
+
+Programs O programs 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 11 1
+
+Academic O academic 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 13 1
+Programs O programs 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 13 1
+
+Apprenticeship O apprenticeship 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 13 1
+
+Online O online 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
+Programs O programs 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 13 1
+
+University O university 0 1 0 0 0 0 1 1 8 a li mmenu-block-title 13 1
+Transfer O transfer 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
+
+ASLA O asla 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+Transfer O transfer 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
+Degree O degree 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+
+Course O course 0 1 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a li mmenu-block-title 15 1
+by O by 0 1 0 0 0 0 0 0 8 a li mmenu-block-title 15 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a li mmenu-block-title 15 1
+Course O course 0 1 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+Transfer O transfer 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
+Pathways O pathways 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+
+Online O online 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
+Transfer O transfer 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
+Pathways O pathways 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+
+Agreements O agreements 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+By O by 0 1 0 0 0 0 1 2 8 a li mmenu-block-title 15 1
+Program O program 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
+
+Career O career 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 13 1
+Pathways O pathways 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
+
+Non O non 0 1 0 0 0 0 1 2 8 a li mmenu-block-title 13 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a li mmenu-block-title 13 1
+Traditional O traditional 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 13 1
+Occupations O occupations 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 13 1
+
+Find O find 0 1 0 0 0 0 1 1 6 a li mmenu-block-title 13 1
+a O a 0 1 0 0 0 0 0 3 11 a li mmenu-block-title 13 1
+Class O class 0 1 0 0 0 0 1 2 7 a li mmenu-block-title 13 1
+
+Admissions O admissions 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 11 1
+
+How O how 0 1 0 0 0 0 1 4 7 a li mmenu-block-title 13 1
+to O to 0 1 0 0 0 0 0 0 10 a li mmenu-block-title 13 1
+Apply O apply 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
+
+Military O military 0 1 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
+Connected O connected 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 13 1
+
+Benefits O benefits 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+
+Military O military 0 1 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+Credit O credit 0 1 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+for O for 0 1 0 0 0 0 0 1 9 a li mmenu-block-title 15 1
+Prior O prior 0 1 0 0 0 0 1 4 5 a li mmenu-block-title 15 1
+Learning O learning 0 1 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
+
+Forms O forms 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+and O and 0 1 0 0 0 0 0 0 10 a li mmenu-block-title 15 1
+Military O military 0 1 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+Policies O policies 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+
+FAQs O faqs 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+
+Additional O additional 0 0 0 0 1 0 1 0 6 a li mmenu-block-title 15 1
+Contacts O contacts 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+
+GEM O gem 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+
+Enrollment O enrollment 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
+Advisors O advisors 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 13 1
+
+Assessment O assessment 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 13 1
+
+ACCUPLACER O accuplacer 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+Test O test 0 1 0 0 0 0 1 1 6 a li mmenu-block-title 15 1
+
+Schedule O schedule 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+Your O your 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
+Test O test 0 1 0 0 0 0 1 1 6 a li mmenu-block-title 15 1
+
+Prepare O prepare 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+for O for 0 1 0 0 0 0 0 1 9 a li mmenu-block-title 15 1
+ACCUPLACER O accuplacer 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+
+Proctor O proctor 0 1 0 0 0 0 1 4 4 a li mmenu-block-title 15 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
+
+GED/HSED O ged/hsed 0 0 0 0 0 0 1 0 0 a li mmenu-block-title 15 1
+Testing O testing 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+
+Other O other 0 1 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
+Assessments O assessments 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+
+Transfer O transfer 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
+
+Credit O credit 0 1 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
+for O for 0 1 0 0 0 0 0 1 9 a li mmenu-block-title 13 1
+Prior O prior 0 1 0 0 0 0 1 4 5 a li mmenu-block-title 13 1
+Learning O learning 0 1 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
+
+Standardized O standardized 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+Exams O exams 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+
+Institutional O institutional 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+Challenge O challenge 0 1 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+Exams O exams 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+
+Military O military 0 1 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+Training O training 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+and O and 0 1 0 0 0 0 0 0 10 a li mmenu-block-title 15 1
+Service O service 0 1 0 0 0 0 1 2 7 a li mmenu-block-title 15 1
+
+Workforce O workforce 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+Training O training 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+and O and 0 1 0 0 0 0 0 0 10 a li mmenu-block-title 15 1
+Certifications O certifications 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+
+Portfolio O portfolio 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+Assessment O assessment 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+
+Credit O credit 0 1 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+Transfer O transfer 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
+
+View O view 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
+Book O book 0 1 0 0 0 0 1 3 6 a li mmenu-block-title 13 1
+
+Paying O paying 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 11 1
+for O for 0 1 0 0 0 0 0 1 9 a li mmenu-block-title 11 1
+College O college 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 11 1
+
+Financial O financial 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
+Aid O aid 0 1 0 0 0 0 1 1 7 a li mmenu-block-title 13 1
+
+Application O application 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+Process O process 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+
+Eligibility O eligibility 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+
+Types O types 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+of O of 0 1 0 0 0 0 0 2 10 a li mmenu-block-title 15 1
+Aid O aid 0 1 0 0 0 0 1 1 7 a li mmenu-block-title 15 1
+
+Financial O financial 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
+Wellness O wellness 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+
+Net O net 0 1 0 0 0 0 1 1 6 a li mmenu-block-title 15 1
+Price O price 0 1 0 0 0 0 1 6 4 a li mmenu-block-title 15 1
+Calculator O calculator 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+
+Federal O federal 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+Work O work 0 1 0 0 0 0 1 3 6 a li mmenu-block-title 15 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a li mmenu-block-title 15 1
+Study O study 0 1 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+
+Events O events 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+
+Scholarships O scholarships 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 13 1
+
+Apply O apply 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
+for O for 0 1 0 0 0 0 0 1 9 a li mmenu-block-title 15 1
+Scholarships O scholarships 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+
+Donating O donating 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+to O to 0 1 0 0 0 0 0 0 10 a li mmenu-block-title 15 1
+Scholarships O scholarships 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+
+Additional O additional 0 0 0 0 1 0 1 0 6 a li mmenu-block-title 15 1
+Scholarship O scholarship 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+Opportunities O opportunities 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+
+Military O military 0 1 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
+Connected O connected 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
+Students O students 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 13 1
+
+Tuition O tuition 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
+
+Payment O payment 0 1 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+Options O options 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+
+Tuition O tuition 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+Payment O payment 0 1 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+Calendar O calendar 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+
+Forms O forms 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+You O you 0 1 0 0 0 0 1 7 8 a li mmenu-block-title 15 1
+May O may 0 1 0 0 0 0 1 6 7 a li mmenu-block-title 15 1
+Need O need 0 1 0 0 0 0 1 1 6 a li mmenu-block-title 15 1
 
-Government O government 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-, O , 0 0 0 0 0 0 0 a li mmenu-block-title 13 1
-Clubs O clubs 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-, O , 0 0 0 0 0 0 0 a li mmenu-block-title 13 1
-and O and 0 1 0 0 0 0 0 a li mmenu-block-title 13 1
-Organizations O organizations 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Student O student 0 1 0 0 0 0 1 1 8 a li mmenu-block-title 11 1
+Life O life 0 1 0 0 0 0 1 1 7 a li mmenu-block-title 11 1
+
+Athletics O athletics 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
 
-Dining O dining 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Baseball O baseball 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+
+Men's O men's 0 0 0 0 0 0 1 0 0 a li mmenu-block-title 15 1
+Basketball O basketball 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
 
-Union O union 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Market O market 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Women's O women's 0 0 0 0 0 0 1 0 0 a li mmenu-block-title 15 1
+Basketball O basketball 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
 
-Union O union 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Grind O grind 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
+Volleyball O volleyball 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-Market O market 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Money O money 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
+Wellness O wellness 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+Center O center 0 1 0 0 0 0 1 1 7 a li mmenu-block-title 15 1
 
-Sustainability O sustainability 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Government O government 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 a li mmenu-block-title 13 1
+Clubs O clubs 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 a li mmenu-block-title 13 1
+and O and 0 1 0 0 0 0 0 0 10 a li mmenu-block-title 13 1
+Organizations O organizations 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 13 1
 
-Catering O catering 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Dining O dining 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 13 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 13 1
 
-Employment O employment 0 0 0 0 1 0 1 a li mmenu-block-title 15 1
+Union O union 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
+Market O market 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
 
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Union O union 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
+Grind O grind 0 1 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-Career O career 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Market O market 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+Money O money 0 1 0 0 0 0 1 2 4 a li mmenu-block-title 15 1
 
-Child O child 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Care O care 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
+Sustainability O sustainability 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
 
-Counseling O counseling 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Catering O catering 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-Disability O disability 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Employment O employment 0 0 0 0 1 0 1 0 5 a li mmenu-block-title 15 1
 
-Health O health 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-and O and 0 1 0 0 0 0 0 a li mmenu-block-title 15 1
-Wellness O wellness 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 13 1
 
-Military O military 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Connected O connected 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Career O career 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
 
-Multicultural O multicultural 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Child O child 0 1 0 0 0 0 1 3 6 a li mmenu-block-title 15 1
+Care O care 0 1 0 0 0 0 1 2 6 a li mmenu-block-title 15 1
 
-Library O library 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Counseling O counseling 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
 
-Policies O policies 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Disability O disability 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
 
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Health O health 0 1 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
+and O and 0 1 0 0 0 0 0 0 10 a li mmenu-block-title 15 1
+Wellness O wellness 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
 
-Ask O ask 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-A O a 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Librarian O librarian 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Military O military 0 1 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+Connected O connected 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
 
-Tutorials O tutorials 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Multicultural O multicultural 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
 
-Resources O resources 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Library O library 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
 
-Databases O databases 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Policies O policies 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
 
-Catalog O catalog 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
 
-Wellness O wellness 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Center O center 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
+Ask O ask 0 1 0 0 0 0 1 2 5 a li mmenu-block-title 15 1
+A O a 0 1 0 0 0 0 1 4 11 a li mmenu-block-title 15 1
+Librarian O librarian 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
 
-Membership O membership 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Tutorials O tutorials 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Resources O resources 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
 
-Facilities O facilities 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-and O and 0 1 0 0 0 0 0 a li mmenu-block-title 15 1
-Equipment O equipment 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Databases O databases 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-Intramurals O intramurals 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Catalog O catalog 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
 
-Online O online 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Portal O portal 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Log O log 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-- O - 0 0 0 0 0 0 0 a li mmenu-block-title 15 1
-In O in 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
+Wellness O wellness 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
+Center O center 0 1 0 0 0 0 1 1 7 a li mmenu-block-title 13 1
 
-Live O live 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Well O well 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
+Membership O membership 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-Learning O learning 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-Commons O commons 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
 
-Apply O apply 0 0 0 0 0 0 1 a li mmenu-block-title 11 1
+Facilities O facilities 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+and O and 0 1 0 0 0 0 0 0 10 a li mmenu-block-title 15 1
+Equipment O equipment 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-Interactive O interactive 0 0 0 0 0 0 1 a li mmenu-block-title 11 1
-Map O map 0 0 0 0 0 0 1 a li mmenu-block-title 11 1
+Intramurals O intramurals 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-Alumni O alumni 0 0 0 0 0 0 1 a li mmenu-block-title 11 1
+Online O online 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
+Portal O portal 0 1 0 0 0 0 1 2 7 a li mmenu-block-title 15 1
+Log O log 0 1 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a li mmenu-block-title 15 1
+In O in 0 1 0 0 0 0 1 6 10 a li mmenu-block-title 15 1
 
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-and O and 0 1 0 0 0 0 0 a li mmenu-block-title 13 1
-Benefits O benefits 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Live O live 0 1 0 0 0 0 1 1 5 a li mmenu-block-title 15 1
+Well O well 0 1 0 0 0 0 1 1 6 a li mmenu-block-title 15 1
 
-Stay O stay 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-Connected O connected 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Learning O learning 0 1 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
+Commons O commons 0 1 0 0 0 0 1 0 8 a li mmenu-block-title 13 1
 
-Events O events 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Apply O apply 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 11 1
 
-Career O career 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Resources O resources 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Interactive O interactive 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 11 1
+Map O map 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 11 1
 
-Alumni O alumni 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Association O association 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Alumni O alumni 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 11 1
 
-Give O give 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Now O now 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 13 1
+and O and 0 1 0 0 0 0 0 0 10 a li mmenu-block-title 13 1
+Benefits O benefits 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 13 1
 
-Foundation O foundation 0 0 0 0 0 0 1 a li mmenu-block-title 11 1
+Stay O stay 0 1 0 0 0 0 1 2 4 a li mmenu-block-title 13 1
+Connected O connected 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
 
-About O about 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Us O us 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
+Events O events 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
 
-Give O give 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Now O now 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
+Career O career 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 13 1
+Resources O resources 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
 
-Alumni O alumni 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Association O association 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Alumni O alumni 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
+Association O association 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
 
-Support O support 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Western O western 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
+Give O give 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 13 1
+Now O now 0 1 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
 
-Scholarships O scholarships 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Foundation O foundation 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 11 1
 
-Brick O brick 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Campaign O campaign 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+About O about 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 13 1
+Us O us 0 1 0 0 0 0 1 1 8 a li mmenu-block-title 13 1
 
-Student O student 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Leadership O leadership 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Opportunities O opportunities 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Give O give 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+Now O now 0 1 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
 
-Scholarship O scholarship 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Golf O golf 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Outing O outing 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Alumni O alumni 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
+Association O association 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
 
-Staff O staff 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Professional O professional 0 0 0 0 1 0 1 a li mmenu-block-title 15 1
-Development O development 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Support O support 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
+Western O western 0 1 0 0 0 0 1 2 7 a li mmenu-block-title 13 1
 
-Legacy O legacy 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Giving O giving 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Scholarships O scholarships 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
 
-Phonathon O phonathon 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Brick O brick 0 1 0 0 0 0 1 2 4 a li mmenu-block-title 15 1
+Campaign O campaign 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
 
-Give O give 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Now O now 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
+Student O student 0 1 0 0 0 0 1 1 8 a li mmenu-block-title 15 1
+Leadership O leadership 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+Opportunities O opportunities 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
 
-Camp O camp 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-W O w 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
+Scholarship O scholarship 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+Golf O golf 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+Outing O outing 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-Business/Community O business/community 0 0 0 0 0 0 1 a li mmenu-block-title 11 1
+Staff O staff 0 1 0 0 0 0 1 2 7 a li mmenu-block-title 15 1
+Professional O professional 0 0 0 0 1 0 1 0 5 a li mmenu-block-title 15 1
+Development O development 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
 
-Business O business 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-and O and 0 1 0 0 0 0 0 a li mmenu-block-title 13 1
-Industry O industry 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Legacy O legacy 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+Giving O giving 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-Lunda O lunda 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Center O center 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
+Phonathon O phonathon 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-Public O public 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Safety O safety 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Training O training 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Give O give 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 13 1
+Now O now 0 1 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
 
-CPR O cpr 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-and O and 0 1 0 0 0 0 0 a li mmenu-block-title 15 1
-First O first 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Aid O aid 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
+Camp O camp 0 1 0 0 0 0 1 4 5 a li mmenu-block-title 13 1
+W O w 0 1 0 0 0 0 1 1 9 a li mmenu-block-title 13 1
 
-Emergency O emergency 0 0 0 0 1 0 1 a li mmenu-block-title 15 1
-Medical O medical 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-( O ( 0 0 0 0 0 0 0 a li mmenu-block-title 15 1
-EMS O ems 0 0 0 0 1 0 1 a li mmenu-block-title 15 1
-) O ) 0 0 0 0 0 0 0 a li mmenu-block-title 15 1
+Business/Community O business/community 0 0 0 0 0 0 1 0 0 a li mmenu-block-title 11 1
 
-Fire O fire 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Business O business 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
+and O and 0 1 0 0 0 0 0 0 10 a li mmenu-block-title 13 1
+Industry O industry 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 13 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 13 1
 
-Law O law 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Enforcement O enforcement 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Lunda O lunda 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 13 1
+Center O center 0 1 0 0 0 0 1 1 7 a li mmenu-block-title 13 1
 
-Facility O facility 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Rental O rental 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Public O public 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
+Safety O safety 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
+Training O training 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
 
-Facility O facility 0 0 0 0 0 0 1 a li mmenu-block-title 17 1
-Rental O rental 0 0 0 0 0 0 1 a li mmenu-block-title 17 1
-Request O request 0 0 0 0 0 0 1 a li mmenu-block-title 17 1
-Form O form 0 1 0 0 0 0 1 a li mmenu-block-title 17 1
+CPR O cpr 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+and O and 0 1 0 0 0 0 0 0 10 a li mmenu-block-title 15 1
+First O first 0 1 0 0 0 0 1 2 7 a li mmenu-block-title 15 1
+Aid O aid 0 1 0 0 0 0 1 1 7 a li mmenu-block-title 15 1
 
-Community O community 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-Engagement O engagement 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Emergency O emergency 0 0 0 0 1 0 1 0 6 a li mmenu-block-title 15 1
+Medical O medical 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 a li mmenu-block-title 15 1
+EMS O ems 0 0 0 0 1 0 1 0 4 a li mmenu-block-title 15 1
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 a li mmenu-block-title 15 1
 
-About O about 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Us O us 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
+Fire O fire 0 1 0 0 0 0 1 1 5 a li mmenu-block-title 15 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
 
-Volunteering O volunteering 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Law O law 0 1 0 0 0 0 1 5 7 a li mmenu-block-title 15 1
+Enforcement O enforcement 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-Food O food 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Pantry O pantry 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Facility O facility 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+Rental O rental 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
 
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Facility O facility 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 17 1
+Rental O rental 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 17 1
+Request O request 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 17 1
+Form O form 0 1 0 0 0 0 1 2 6 a li mmenu-block-title 17 1
 
-Community O community 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Events O events 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Community O community 0 1 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
+Engagement O engagement 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
 
-Blog O blog 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+About O about 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
+Us O us 0 1 0 0 0 0 1 1 8 a li mmenu-block-title 15 1
 
-Sustainability O sustainability 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Volunteering O volunteering 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-Post O post 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-Job O job 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-Openings O openings 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Food O food 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+Pantry O pantry 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-YouthBuild O youthbuild 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
 
-Current O current 0 1 0 0 0 0 1 a li mmenu-block-title 11 1
-Students O students 0 0 0 0 0 0 1 a li mmenu-block-title 11 1
+Community O community 0 1 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
+Events O events 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
 
-MyWestern O mywestern 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Blog O blog 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
 
-Email O email 0 0 0 0 1 0 1 a li mmenu-block-title 13 1
+Sustainability O sustainability 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 13 1
 
-Blackboard O blackboard 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Post O post 0 1 0 0 0 0 1 5 6 a li mmenu-block-title 13 1
+Job O job 0 1 0 0 0 0 1 4 5 a li mmenu-block-title 13 1
+Openings O openings 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 13 1
 
-MyFinAid O myfinaid 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+YouthBuild O youthbuild 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 13 1
 
-MyWestern O mywestern 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Information O information 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
+Current O current 0 1 0 0 0 0 1 1 6 a li mmenu-block-title 11 1
+Students O students 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 11 1
 
-Academic O academic 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Calendar O calendar 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+MyWestern O mywestern 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 13 1
 
-Staff O staff 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-Contacts O contacts 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Email O email 0 0 0 0 1 0 1 0 6 a li mmenu-block-title 13 1
 
-Future O future 0 0 0 0 0 0 1 a li mmenu-block-title 11 1
-Students O students 0 0 0 0 0 0 1 a li mmenu-block-title 11 1
+Blackboard O blackboard 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 13 1
 
-Welcome O welcome 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-Center O center 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
+MyFinAid O myfinaid 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 13 1
 
-High O high 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-School O school 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-Corner O corner 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
+MyWestern O mywestern 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 13 1
+Information O information 0 1 0 0 0 0 1 0 8 a li mmenu-block-title 13 1
 
-Career O career 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Coaching O coaching 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Academic O academic 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 13 1
+Calendar O calendar 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
 
-Program O program 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Shadow O shadow 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
+Staff O staff 0 1 0 0 0 0 1 2 7 a li mmenu-block-title 13 1
+Contacts O contacts 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 13 1
 
-Visit O visit 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Western O western 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
+Future O future 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 11 1
+Students O students 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 11 1
 
-Request O request 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Information O information 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
+Welcome O welcome 0 1 0 0 0 0 1 2 6 a li mmenu-block-title 13 1
+Center O center 0 1 0 0 0 0 1 1 7 a li mmenu-block-title 13 1
 
-Earn O earn 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-College O college 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Credit O credit 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-in O in 0 1 0 0 0 0 0 a li mmenu-block-title 15 1
-High O high 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-School O school 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
+High O high 0 1 0 0 0 0 1 3 6 a li mmenu-block-title 13 1
+School O school 0 1 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
+Corner O corner 0 1 0 0 0 0 1 3 4 a li mmenu-block-title 13 1
 
-Educator O educator 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Resources O resources 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Career O career 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
+Coaching O coaching 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-Athletics O athletics 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Program O program 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
+Shadow O shadow 0 1 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-Flexible O flexible 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Learning O learning 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-Options O options 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Visit O visit 0 1 0 0 0 0 1 1 6 a li mmenu-block-title 15 1
+Western O western 0 1 0 0 0 0 1 2 7 a li mmenu-block-title 15 1
 
-GED O ged 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-, O , 0 0 0 0 0 0 0 a li mmenu-block-title 13 1
-ELL O ell 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-, O , 0 0 0 0 0 0 0 a li mmenu-block-title 13 1
-and O and 0 1 0 0 0 0 0 a li mmenu-block-title 13 1
-Brush O brush 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-- O - 0 0 0 0 0 0 0 a li mmenu-block-title 13 1
-Up O up 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-Classes O classes 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Request O request 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+Information O information 0 1 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
 
-Complete O complete 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-High O high 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-School O school 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
+Earn O earn 0 1 0 0 0 0 1 1 4 a li mmenu-block-title 15 1
+College O college 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
+Credit O credit 0 1 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+in O in 0 1 0 0 0 0 0 3 10 a li mmenu-block-title 15 1
+High O high 0 1 0 0 0 0 1 3 6 a li mmenu-block-title 15 1
+School O school 0 1 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
 
-Learn O learn 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-English O english 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
+Educator O educator 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+Resources O resources 0 0 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
 
-Placement O placement 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Testing O testing 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Athletics O athletics 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
 
-Pre O pre 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-- O - 0 0 0 0 0 0 0 a li mmenu-block-title 15 1
-College O college 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Courses O courses 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Flexible O flexible 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 13 1
+Learning O learning 0 1 0 0 0 0 1 0 7 a li mmenu-block-title 13 1
+Options O options 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
 
-Re O re 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-- O - 0 0 0 0 0 0 0 a li mmenu-block-title 15 1
-Entry O entry 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+GED O ged 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 13 1
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 a li mmenu-block-title 13 1
+ELL O ell 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 13 1
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 a li mmenu-block-title 13 1
+and O and 0 1 0 0 0 0 0 0 10 a li mmenu-block-title 13 1
+Brush O brush 0 1 0 0 0 0 1 3 4 a li mmenu-block-title 13 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a li mmenu-block-title 13 1
+Up O up 0 1 0 0 0 0 1 2 7 a li mmenu-block-title 13 1
+Classes O classes 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
 
-Adult O adult 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Basic O basic 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Education O education 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Complete O complete 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+High O high 0 1 0 0 0 0 1 3 6 a li mmenu-block-title 15 1
+School O school 0 1 0 0 0 0 1 0 7 a li mmenu-block-title 15 1
 
-Tutoring O tutoring 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Learn O learn 0 1 0 0 0 0 1 1 6 a li mmenu-block-title 15 1
+English O english 0 1 0 0 0 0 1 4 8 a li mmenu-block-title 15 1
 
-Housing O housing 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Placement O placement 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+Testing O testing 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
 
-Amenities O amenities 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Pre O pre 0 1 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a li mmenu-block-title 15 1
+College O college 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
+Courses O courses 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
 
-Cost O cost 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-and O and 0 1 0 0 0 0 0 a li mmenu-block-title 15 1
-Fees O fees 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Re O re 0 1 0 0 0 0 1 4 7 a li mmenu-block-title 15 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a li mmenu-block-title 15 1
+Entry O entry 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 15 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
 
-Floor O floor 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
-Plans O plans 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
+Adult O adult 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+Basic O basic 0 1 0 0 0 0 1 3 5 a li mmenu-block-title 15 1
+Education O education 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 15 1
 
-Photos O photos 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
+Tutoring O tutoring 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-Meal O meal 0 0 0 0 0 0 1 a li mmenu-block-title 15 1
-Plan O plan 0 1 0 0 0 0 1 a li mmenu-block-title 15 1
+Housing O housing 0 0 0 0 0 0 1 0 5 a li mmenu-block-title 13 1
 
-Military O military 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-Connected O connected 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
-Services O services 0 0 0 0 0 0 1 a li mmenu-block-title 13 1
+Amenities O amenities 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
 
-Visit O visit 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
-Western O western 0 1 0 0 0 0 1 a li mmenu-block-title 13 1
+Cost O cost 0 1 0 0 0 0 1 1 5 a li mmenu-block-title 15 1
+and O and 0 1 0 0 0 0 0 0 10 a li mmenu-block-title 15 1
+Fees O fees 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
 
-Close O close 0 1 0 0 0 0 1 ul nav mmenu-close 8 0
-X O x 0 0 0 0 0 0 1 ul nav mmenu-close 8 0
+Floor O floor 0 1 0 0 0 0 1 3 4 a li mmenu-block-title 15 1
+Plans O plans 0 1 0 0 0 0 1 1 5 a li mmenu-block-title 15 1
 
-Search O search 0 0 0 0 0 0 1 span li mmenu-block-title 10 1
-Westerntc.edu O westerntc.edu 0 0 0 0 0 0 1 span li mmenu-block-title 10 1
+Photos O photos 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 15 1
 
-Search O search 0 0 0 0 0 0 1 div div element-invisible 17 0
-form O form 0 0 0 0 0 0 0 div div element-invisible 17 0
+Meal O meal 0 0 0 0 0 0 1 0 4 a li mmenu-block-title 15 1
+Plan O plan 0 1 0 0 0 0 1 1 6 a li mmenu-block-title 15 1
 
-Search O search 0 0 0 0 0 0 1 div div element-invisible 18 0
+Military O military 0 1 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
+Connected O connected 0 0 0 0 0 0 1 0 6 a li mmenu-block-title 13 1
+Services O services 0 0 0 0 0 0 1 0 8 a li mmenu-block-title 13 1
+
+Visit O visit 0 1 0 0 0 0 1 1 6 a li mmenu-block-title 13 1
+Western O western 0 1 0 0 0 0 1 2 7 a li mmenu-block-title 13 1
+
+Close O close 0 1 0 0 0 0 1 3 5 ul nav mmenu-close 8 0
+X O x 0 0 0 0 0 0 1 0 9 ul nav mmenu-close 8 0
+
+Search O search 0 0 0 0 0 0 1 0 7 span li mmenu-block-title 10 1
+Westerntc.edu O westerntc.edu 0 0 0 0 0 0 1 0 0 span li mmenu-block-title 10 1
+
+Search O search 0 0 0 0 0 0 1 0 7 div div element-invisible 17 0
+form O form 0 0 0 0 0 0 0 0 6 div div element-invisible 17 0
+
+Search O search 0 0 0 0 0 0 1 0 7 div div element-invisible 18 0

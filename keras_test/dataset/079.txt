@@ -1,961 +1,957 @@
-Department O department 0 0 0 0 0 0 1 meta head none 5 0
-of O of 0 1 0 0 0 0 0 meta head none 5 0
-Computer O computer 0 0 0 0 0 0 1 meta head none 5 0
-Science O science 0 0 0 0 0 0 1 meta head none 5 0
-: O : 0 0 0 0 0 0 0 meta head none 5 0
-Faculty O faculty 0 0 0 0 0 0 1 meta head none 5 0
-
-Department O department 0 0 0 0 0 0 1 img div head 6 0
-of O of 0 1 0 0 0 0 0 img div head 6 0
-Computer O computer 0 0 0 0 0 0 1 img div head 6 0
-Science O science 0 0 0 0 0 0 1 img div head 6 0
-
-Graduate O graduate 1 1 0 0 0 0 1 div img subtitle 7 0
-School O school 0 1 0 0 0 0 1 div img subtitle 7 0
-of O of 0 1 0 0 0 0 0 div img subtitle 7 0
-Information O information 0 1 0 0 0 0 1 div img subtitle 7 0
-Science O science 0 0 0 0 0 0 1 div img subtitle 7 0
-and O and 0 1 0 0 0 0 0 div img subtitle 7 0
-Engineering O engineering 0 0 0 0 0 0 1 div img subtitle 7 0
-
-2 O 2 0 0 0 1 0 0 0 img div address 6 5
-- O - 0 0 0 0 0 0 0 img div address 6 5
-12 O 12 0 0 0 1 0 0 0 img div address 6 5
-- O - 0 0 0 0 0 0 0 img div address 6 5
-1 O 1 0 0 0 1 0 0 0 img div address 6 5
-Oookayama O oookayama 0 0 0 0 0 0 1 img div address 6 5
-, O , 0 0 0 0 0 0 0 img div address 6 5
-Meguro O meguro 0 1 0 0 0 0 1 img div address 6 5
-- O - 0 0 0 0 0 0 0 img div address 6 5
-ku O ku 0 0 0 0 0 0 0 img div address 6 5
-, O , 0 0 0 0 0 0 0 img div address 6 5
-Tokyo O tokyo 0 0 0 0 0 0 1 img div address 6 5
-152 O 152 0 0 0 1 0 0 0 img div address 6 5
-- O - 0 0 0 0 0 0 0 img div address 6 5
-8552 O 8552 0 0 0 1 0 0 0 img div address 6 5
-, O , 0 0 0 0 0 0 0 img div address 6 5
-Japan O japan 0 0 0 0 0 0 1 img div address 6 5
-
-[English] O [english] 0 0 0 0 0 0 0 body html switch 4 8
-[Japanese] O [japanese] 0 0 0 0 0 0 0 div body switch 5 1
-
-Home O home 0 1 0 0 0 0 1 li ul menu 8 0
-
-Overview O overview 0 0 0 0 0 0 1 li ul menu 8 0
-
-People O people 0 1 0 0 0 0 1 ul div menu 7 4
-
-Research O research 0 1 0 0 0 0 1 li ul menu 8 0
-Groups O groups 0 0 0 0 0 0 1 li ul menu 8 0
-
-Admissions O admissions 0 0 0 0 0 0 1 li ul menu 8 0
-
-Graduate O graduate 1 1 0 0 0 0 1 li ul menu 8 0
-Program O program 0 0 0 0 0 0 1 li ul menu 8 0
-
-How O how 0 1 0 0 0 0 1 li ul menu 8 0
-to O to 0 0 0 0 0 0 0 li ul menu 8 0
-reach O reach 0 0 0 0 0 0 0 li ul menu 8 0
-us O us 0 1 0 0 0 0 0 li ul menu 8 0
-
-Tech. O tech. 0 0 0 0 0 0 1 li ul menu 8 0
-Reports O reports 0 0 0 0 0 0 1 li ul menu 8 0
-
-Links O links 0 1 0 0 0 0 1 div div menu 6 0
-
-Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul menu 8 0
-Course O course 0 1 0 0 0 0 1 li ul menu 8 0
-
-Dept. O dept. 0 0 0 0 0 0 1 li ul menu 8 0
-of O of 0 1 0 0 0 0 0 li ul menu 8 0
-Communications O communications 0 0 0 0 0 0 1 li ul menu 8 0
-and O and 0 1 0 0 0 0 0 li ul menu 8 0
-Computer O computer 0 0 0 0 0 0 1 li ul menu 8 0
-Engineering O engineering 0 0 0 0 0 0 1 li ul menu 8 0
-
-Rakusuikai O rakusuikai 0 0 0 0 0 0 1 li ul menu 8 0
-
-Faculty O faculty 0 0 0 0 0 0 1 div body main 5 0
-
-Professors O professors 0 0 0 0 1 0 1 div div section 6 0
-
-Name O name 0 1 0 0 0 0 1 tr table people 8 0
-
-Room O room 0 1 0 0 0 0 1 tr table people 8 1
-
-Ext. O ext. 0 0 0 0 0 0 1 tr table people 8 2
-
-E O e 0 1 0 0 0 0 1 tr table people 8 3
-- O - 0 0 0 0 0 0 0 tr table people 8 3
-mail O mail 0 0 0 0 0 0 0 tr table people 8 3
-
-Mailbox O mailbox 0 0 0 0 0 0 1 tr table people 8 4
-
-AKIYAMA B-PER akiyama 0 0 0 0 0 0 1 td tr people 9 0
-Yutaka I-PER yutaka 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-506 O 506 0 0 0 1 0 0 0 tr table people 8 2
-3645 O 3645 0 0 0 1 0 0 0 tr table people 8 3
-akiyama@.cs. O akiyama@.cs. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-76 O 76 0 0 0 1 0 0 0 tr table people 8 5
-
-DEFAGO B-PER defago 0 0 0 0 0 0 1 td tr people 9 0
-Xavier I-PER xavier 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-803 O 803 0 0 0 1 0 0 0 tr table people 8 2
-3043 O 3043 0 0 0 1 0 0 0 tr table people 8 3
-defago@c. O defago@c. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-84 O 84 0 0 0 1 0 0 0 tr table people 8 5
-
-GONDOW B-PER gondow 0 0 0 0 0 0 1 td tr people 9 0
-Katsuhiko I-PER katsuhiko 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-806 O 806 0 0 0 1 0 0 0 tr table people 8 2
-2810 O 2810 0 0 0 1 0 0 0 tr table people 8 3
-gondow@cs. O gondow@cs. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-58 O 58 0 0 0 1 0 0 0 tr table people 8 5
-
-KAMEI B-PER kamei 0 0 0 0 0 0 1 td tr people 9 0
-Hiroyuki I-PER hiroyuki 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-603 O 603 0 0 0 1 0 0 0 tr table people 8 2
-3031 O 3031 0 0 0 1 0 0 0 tr table people 8 3
-kamei@archaeo.cs. O kamei@archaeo.cs. 0 0 1 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-72 O 72 0 0 0 1 0 0 0 tr table people 8 5
-
-KOIKE B-PER koike 0 0 0 0 0 0 1 td tr people 9 0
-Hideki I-PER hideki 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-402 O 402 0 0 0 1 0 0 0 tr table people 8 2
-3526 O 3526 0 0 0 1 0 0 0 tr table people 8 3
-koike@cs. O koike@cs. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-80 O 80 0 0 0 1 0 0 0 tr table people 8 5
-
-MIYAZAKI B-PER miyazaki 0 0 0 0 0 0 1 td tr people 9 0
-Jun I-PER jun 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-703 O 703 0 0 0 1 0 0 0 tr table people 8 2
-2687 O 2687 0 0 0 1 0 0 0 tr table people 8 3
-miyazaki@cs. O miyazaki@cs. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-63 O 63 0 0 0 1 0 0 0 tr table people 8 5
-
-NISIZAKI B-PER nisizaki 0 0 0 0 0 0 1 td tr people 9 0
-Shin I-PER shin 0 1 0 0 0 0 1 td tr people 9 0
-' I-PER ' 0 0 0 0 0 0 0 td tr people 9 0
-ya I-PER ya 0 0 0 0 0 0 0 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-802 O 802 0 0 0 1 0 0 0 tr table people 8 2
-3506 O 3506 0 0 0 1 0 0 0 tr table people 8 3
-nisizaki@lambda.cs. O nisizaki@lambda.cs. 0 0 1 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-69 O 69 0 0 0 1 0 0 0 tr table people 8 5
-
-OKAZAKI B-PER okazaki 0 0 0 0 0 0 1 td tr people 9 0
-Naoaki I-PER naoaki 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-502 O 502 0 0 0 1 0 0 0 tr table people 8 2
-2186 O 2186 0 0 0 1 0 0 0 tr table people 8 3
-okazaki@c. O okazaki@c. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-77 O 77 0 0 0 1 0 0 0 tr table people 8 5
-
-SAEKI B-PER saeki 0 0 0 0 0 0 1 td tr people 9 0
-Motoshi I-PER motoshi 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-902 O 902 0 0 0 1 0 0 0 tr table people 8 2
-2192 O 2192 0 0 0 1 0 0 0 tr table people 8 3
-saeki@se.cs. O saeki@se.cs. 0 0 1 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-83 O 83 0 0 0 1 0 0 0 tr table people 8 5
-
-SHINODA B-PER shinoda 0 0 0 0 0 0 1 td tr people 9 0
-Koichi I-PER koichi 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-602 O 602 0 0 0 1 0 0 0 tr table people 8 2
-3480 O 3480 0 0 0 1 0 0 0 tr table people 8 3
-shinoda@cs. O shinoda@cs. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-81 O 81 0 0 0 1 0 0 0 tr table people 8 5
-
-TOKUNAGA B-PER tokunaga 0 0 0 0 0 0 1 td tr people 9 0
-Takenobu I-PER takenobu 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-605 O 605 0 0 0 1 0 0 0 tr table people 8 2
-2685 O 2685 0 0 0 1 0 0 0 tr table people 8 3
-take@cl.cs. O take@cl.cs. 0 0 1 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-73 O 73 0 0 0 1 0 0 0 tr table people 8 5
-
-WATANABE B-PER watanabe 0 0 0 0 0 0 1 td tr people 9 0
-Takuo I-PER takuo 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-805 O 805 0 0 0 1 0 0 0 tr table people 8 2
-3690 O 3690 0 0 0 1 0 0 0 tr table people 8 3
-takuo@psg.cs. O takuo@psg.cs. 0 0 1 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-75 O 75 0 0 0 1 0 0 0 tr table people 8 5
-
-YOKOTA B-PER yokota 0 0 0 0 0 0 1 td tr people 9 0
-Haruo I-PER haruo 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-705 O 705 0 0 0 1 0 0 0 tr table people 8 2
-3505 O 3505 0 0 0 1 0 0 0 tr table people 8 3
-yokota@de.cs. O yokota@de.cs. 0 0 1 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-82 O 82 0 0 0 1 0 0 0 tr table people 8 5
-
-Specially O specially 0 0 0 0 0 0 1 div div section 6 99
-Appointed O appointed 0 0 0 0 0 0 1 div div section 6 99
-Professors O professors 0 0 0 0 1 0 1 div div section 6 99
-
-Name O name 0 1 0 0 0 0 1 tr table people 8 0
-
-Room O room 0 1 0 0 0 0 1 tr table people 8 1
-
-Ext. O ext. 0 0 0 0 0 0 1 tr table people 8 2
-
-E O e 0 1 0 0 0 0 1 tr table people 8 3
-- O - 0 0 0 0 0 0 0 tr table people 8 3
-mail O mail 0 0 0 0 0 0 0 tr table people 8 3
-
-Mailbox O mailbox 0 0 0 0 0 0 1 tr table people 8 4
-
-INOUE B-PER inoue 0 0 0 0 0 0 1 td tr people 9 0
-Katsumi I-PER katsumi 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-905 O 905 0 0 0 1 0 0 0 tr table people 8 2
-2826 O 2826 0 0 0 1 0 0 0 tr table people 8 3
-inouek@cs. O inouek@cs. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-86 O 86 0 0 0 1 0 0 0 tr table people 8 5
-
-Associate O associate 0 1 0 0 0 0 1 div div section 6 114
-Professors O professors 0 0 0 0 1 0 1 div div section 6 114
-
-Name O name 0 1 0 0 0 0 1 tr table people 8 0
-
-Room O room 0 1 0 0 0 0 1 tr table people 8 1
-
-Ext. O ext. 0 0 0 0 0 0 1 tr table people 8 2
-
-E O e 0 1 0 0 0 0 1 tr table people 8 3
-- O - 0 0 0 0 0 0 0 tr table people 8 3
-mail O mail 0 0 0 0 0 0 0 tr table people 8 3
-
-Mailbox O mailbox 0 0 0 0 0 0 1 tr table people 8 4
-
-FUJII B-PER fujii 0 0 0 0 0 0 1 td tr people 9 0
-Atsushi I-PER atsushi 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-606 O 606 0 0 0 1 0 0 0 tr table people 8 2
-2686 O 2686 0 0 0 1 0 0 0 tr table people 8 3
-fujii@cs. O fujii@cs. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-62 O 62 0 0 0 1 0 0 0 tr table people 8 5
-
-ISHIDA B-PER ishida 0 0 0 0 0 0 1 td tr people 9 0
-Takashi I-PER takashi 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-505 O 505 0 0 0 1 0 0 0 tr table people 8 2
-2598 O 2598 0 0 0 1 0 0 0 tr table people 8 3
-ishida@cs. O ishida@cs. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-85 O 85 0 0 0 1 0 0 0 tr table people 8 5
-
-KANEKO B-PER kaneko 0 0 0 0 0 0 1 td tr people 10 0
-Haruhiko I-PER haruhiko 0 1 0 0 0 0 1 td tr people 10 0
-W8E O w8e 0 0 0 1 0 0 1 tr tr people 9 2
-- O - 0 0 0 0 0 0 0 tr tr people 9 2
-702 O 702 0 0 0 1 0 0 0 tr tr people 9 2
-3799 O 3799 0 0 0 1 0 0 0 tr tr people 9 3
-hkaneko@fuji.cs. O hkaneko@fuji.cs. 0 0 1 0 0 0 0 tr tr people 9 4
-W8 O w8 0 0 0 1 0 0 1 tr tr people 9 5
-- O - 0 0 0 0 0 0 0 tr tr people 9 5
-65 O 65 0 0 0 1 0 0 0 tr tr people 9 5
-
-KISE B-PER kise 0 0 0 0 0 0 1 td tr people 9 0
-Kenji I-PER kenji 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-706 O 706 0 0 0 1 0 0 0 tr table people 8 2
-3698 O 3698 0 0 0 1 0 0 0 tr table people 8 3
-kise@cs. O kise@cs. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-79 O 79 0 0 0 1 0 0 0 tr table people 8 5
-
-KOBAYASHI B-PER kobayashi 0 0 0 0 0 0 1 td tr people 9 0
-Takashi I-PER takashi 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-903 O 903 0 0 0 1 0 0 0 tr table people 8 2
-3471 O 3471 0 0 0 1 0 0 0 tr table people 8 3
-tkobaya@cs. O tkobaya@cs. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-61 O 61 0 0 0 1 0 0 0 tr table people 8 5
-
-MURATA B-PER murata 0 0 0 0 0 0 1 td tr people 9 0
-Tsuyoshi I-PER tsuyoshi 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-503 O 503 0 0 0 1 0 0 0 tr table people 8 2
-2684 O 2684 0 0 0 1 0 0 0 tr table people 8 3
-murata@cs. O murata@cs. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-59 O 59 0 0 0 1 0 0 0 tr table people 8 5
-
-SAITO B-PER saito 0 0 0 0 0 0 1 td tr people 9 0
-Suguru I-PER suguru 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-405 O 405 0 0 0 1 0 0 0 tr table people 8 2
-3956 O 3956 0 0 0 1 0 0 0 tr table people 8 3
-suguru@cs. O suguru@cs. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-70 O 70 0 0 0 1 0 0 0 tr table people 8 5
-
-SHIMOSAKA B-PER shimosaka 0 0 0 0 0 0 1 td tr people 9 0
-Masamichi I-PER masamichi 0 1 0 0 1 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-406 O 406 0 0 0 1 0 0 0 tr table people 8 2
-2978 O 2978 0 0 0 1 0 0 0 tr table people 8 3
-simosaka@miubiq.cs. O simosaka@miubiq.cs. 0 0 1 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-60 O 60 0 0 0 1 0 0 0 tr table people 8 5
-
-SEKIJIMA B-PER sekijima 0 0 0 0 0 0 1 td tr people 9 0
-Masakazu I-PER masakazu 0 1 0 0 1 0 1 td tr people 9 0
-I7 O i7 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-112 O 112 0 0 0 1 0 0 0 tr table people 8 2
-3325 O 3325 0 0 0 1 0 0 0 tr table people 8 3
-sekijima@gsic. O sekijima@gsic. 0 0 0 0 0 0 0 tr table people 8 4
-I7 O i7 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-5 O 5 0 0 0 1 0 0 0 tr table people 8 5
-
-YOKOTA B-PER yokota 0 0 0 0 0 0 1 td tr people 9 0
-Rio I-PER rio 0 1 0 0 0 0 1 td tr people 9 0
-I7 O i7 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-212 O 212 0 0 0 1 0 0 0 tr table people 8 2
-2121 O 2121 0 0 0 1 0 0 0 tr table people 8 3
-rioyokota@gsic. O rioyokota@gsic. 0 0 0 0 0 0 0 tr table people 8 4
-I7 O i7 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-2 O 2 0 0 0 1 0 0 0 tr table people 8 5
-
-Specially O specially 0 0 0 0 0 0 1 div div section 6 192
-Appointed O appointed 0 0 0 0 0 0 1 div div section 6 192
-Associate O associate 0 1 0 0 0 0 1 div div section 6 192
-Professor O professor 0 0 0 0 1 0 1 div div section 6 192
-
-Name O name 0 1 0 0 0 0 1 tr table people 8 0
-
-Room O room 0 1 0 0 0 0 1 tr table people 8 1
-
-Ext. O ext. 0 0 0 0 0 0 1 tr table people 8 2
-
-E O e 0 1 0 0 0 0 1 tr table people 8 3
-- O - 0 0 0 0 0 0 0 tr table people 8 3
-mail O mail 0 0 0 0 0 0 0 tr table people 8 3
-
-Mailbox O mailbox 0 0 0 0 0 0 1 tr table people 8 4
-
-MORIMOTO B-PER morimoto 0 0 0 0 0 0 1 td tr people 9 0
-Chikako I-PER chikako 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-804 O 804 0 0 0 1 0 0 0 tr table people 8 2
-3632 O 3632 0 0 0 1 0 0 0 tr table people 8 3
-morimoto@cs. O morimoto@cs. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-67 O 67 0 0 0 1 0 0 0 tr table people 8 5
-
-Assistant O assistant 0 0 0 0 0 0 1 div div section 6 207
-Professors O professors 0 0 0 0 1 0 1 div div section 6 207
-
-Name O name 0 1 0 0 0 0 1 tr table people 8 0
-
-Room O room 0 1 0 0 0 0 1 tr table people 8 1
-
-Ext. O ext. 0 0 0 0 0 0 1 tr table people 8 2
-
-E O e 0 1 0 0 0 0 1 tr table people 8 3
-- O - 0 0 0 0 0 0 0 tr table people 8 3
-mail O mail 0 0 0 0 0 0 0 tr table people 8 3
-
-Mailbox O mailbox 0 0 0 0 0 0 1 tr table people 8 4
-
-ARAHORI B-PER arahori 0 0 0 0 0 0 1 td tr people 9 0
-Yoshitaka I-PER yoshitaka 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-704 O 704 0 0 0 1 0 0 0 tr table people 8 2
-3504 O 3504 0 0 0 1 0 0 0 tr table people 8 3
-arahori@cs. O arahori@cs. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-82 O 82 0 0 0 1 0 0 0 tr table people 8 5
-
-HAYASHI B-PER hayashi 0 0 0 0 0 0 1 td tr people 9 0
-Shinpei I-PER shinpei 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-901 O 901 0 0 0 1 0 0 0 tr table people 8 2
-3920 O 3920 0 0 0 1 0 0 0 tr table people 8 3
-hayashi@se.cs. O hayashi@se.cs. 0 0 1 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-83 O 83 0 0 0 1 0 0 0 tr table people 8 5
-
-INOUE B-PER inoue 0 0 0 0 0 0 1 td tr people 9 0
-Nakamasa I-PER nakamasa 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-601 O 601 0 0 0 1 0 0 0 tr table people 8 2
-3481 O 3481 0 0 0 1 0 0 0 tr table people 8 3
-inoue@ks.cs. O inoue@ks.cs. 0 0 1 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-81 O 81 0 0 0 1 0 0 0 tr table people 8 5
-
-KEYAKI B-PER keyaki 0 0 0 0 0 0 1 td tr people 9 0
-Atsushi I-PER atsushi 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-701 O 701 0 0 0 1 0 0 0 tr table people 8 2
-2913 O 2913 0 0 0 1 0 0 0 tr table people 8 3
-keyaki@lsc.cs. O keyaki@lsc.cs. 0 0 1 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-63 O 63 0 0 0 1 0 0 0 tr table people 8 5
-
-NISHIKAWA B-PER nishikawa 0 0 0 0 0 0 1 td tr people 9 0
-Hitoshi I-PER hitoshi 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-607 O 607 0 0 0 1 0 0 0 tr table people 8 2
-2915 O 2915 0 0 0 1 0 0 0 tr table people 8 3
-hitoshi@cs. O hitoshi@cs. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-73 O 73 0 0 0 1 0 0 0 tr table people 8 5
-
-OHUE B-PER ohue 0 0 0 0 0 0 1 td tr people 9 0
-Masahito I-PER masahito 0 1 0 0 1 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-507 O 507 0 0 0 1 0 0 0 tr table people 8 2
-4364 O 4364 0 0 0 1 0 0 0 tr table people 8 3
-ohue@bi.cs. O ohue@bi.cs. 0 0 1 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-76 O 76 0 0 0 1 0 0 0 tr table people 8 5
-
-SATO B-PER sato 0 0 0 0 0 0 1 td tr people 9 0
-Toshiki I-PER toshiki 0 1 0 0 0 0 1 td tr people 9 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-401 O 401 0 0 0 1 0 0 0 tr table people 8 2
-2603 O 2603 0 0 0 1 0 0 0 tr table people 8 3
-toshiki@cs. O toshiki@cs. 0 0 0 0 0 0 0 tr table people 8 4
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 5
-- O - 0 0 0 0 0 0 0 tr table people 8 5
-80 O 80 0 0 0 1 0 0 0 tr table people 8 5
-
-Staff O staff 0 1 0 0 0 0 1 div body main 5 266
-
-Technical O technical 0 0 0 0 0 0 1 div div section 6 0
-Official O official 0 0 0 0 0 0 1 div div section 6 0
-
-Name O name 0 1 0 0 0 0 1 tr table people 8 0
-
-Room O room 0 1 0 0 0 0 1 tr table people 8 1
-
-Ext. O ext. 0 0 0 0 0 0 1 tr table people 8 2
-
-E O e 0 1 0 0 0 0 1 tr table people 8 3
-- O - 0 0 0 0 0 0 0 tr table people 8 3
-mail O mail 0 0 0 0 0 0 0 tr table people 8 3
-
-Mailbox O mailbox 0 0 0 0 0 0 1 tr table people 8 4
-
-KUWAHARA B-PER kuwahara 0 0 0 0 0 0 1 tr table people 8 0
-Shinji I-PER shinji 0 1 0 0 0 0 1 tr table people 8 0
-Computing O computing 0 0 0 0 0 0 1 tr table people 8 1
-Room O room 0 1 0 0 0 0 1 tr table people 8 1
-3212 O 3212 0 0 0 1 0 0 0 tr table people 8 2
-kuwahara@csc. O kuwahara@csc. 0 0 0 0 0 0 0 tr table people 8 3
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 4
-- O - 0 0 0 0 0 0 0 tr table people 8 4
-68 O 68 0 0 0 1 0 0 0 tr table people 8 4
-
-Administrative O administrative 0 0 0 0 0 0 1 div div section 6 14
-Official O official 0 0 0 0 0 0 1 div div section 6 14
-
-Name O name 0 1 0 0 0 0 1 tr table people 8 0
-
-Room O room 0 1 0 0 0 0 1 tr table people 8 1
-
-Ext. O ext. 0 0 0 0 0 0 1 tr table people 8 2
-
-E O e 0 1 0 0 0 0 1 tr table people 8 3
-- O - 0 0 0 0 0 0 0 tr table people 8 3
-mail O mail 0 0 0 0 0 0 0 tr table people 8 3
-
-Mailbox O mailbox 0 0 0 0 0 0 1 tr table people 8 4
-
-TANI B-PER tani 0 0 0 0 0 0 1 tr table people 8 0
-Yuko I-PER yuko 0 1 0 0 0 0 1 tr table people 8 0
-W8E O w8e 0 0 0 1 0 0 1 tr table people 8 1
-- O - 0 0 0 0 0 0 0 tr table people 8 1
-9F O 9f 0 0 0 1 0 0 0 tr table people 8 1
-3922 O 3922 0 0 0 1 0 0 0 tr table people 8 2
-yuko@cs. O yuko@cs. 0 0 0 0 0 0 0 tr table people 8 3
-W8 O w8 0 0 0 1 0 0 1 tr table people 8 4
-- O - 0 0 0 0 0 0 0 tr table people 8 4
-24 O 24 0 0 0 1 0 0 0 tr table people 8 4
-
-ex. O ex. 0 0 0 0 0 0 0 div body main 5 296
-Faculty O faculty 0 0 0 0 0 0 1 div body main 5 296
-
-HAGIHARA B-PER hagihara 0 0 0 0 0 0 1 tr table people 8 0
-Shigeki I-PER shigeki 0 1 0 0 0 0 1 tr table people 8 0
-2017.3 O 2017.3 0 0 0 1 0 0 0 tr table people 8 1
-Koeki O koeki 0 0 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-( O ( 0 0 0 0 0 0 0 tr table people 8 2
-Tohoku O tohoku 0 1 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Community O community 0 1 0 0 0 0 1 tr table people 8 2
-Service O service 0 1 0 0 0 0 1 tr table people 8 2
-and O and 0 1 0 0 0 0 0 tr table people 8 2
-Science O science 0 0 0 0 0 0 1 tr table people 8 2
-) O ) 0 0 0 0 0 0 0 tr table people 8 2
-
-TOKUDA B-PER tokuda 0 0 0 0 0 0 1 tr table people 8 0
-Takehiro I-PER takehiro 0 1 0 0 0 0 1 tr table people 8 0
-2016.3 O 2016.3 0 0 0 1 0 0 0 tr table people 8 1
-
-HANATATE B-PER hanatate 0 0 0 0 0 0 1 tr table people 8 0
-Kohei I-PER kohei 0 1 0 0 0 0 1 tr table people 8 0
-2016.3 O 2016.3 0 0 0 1 0 0 0 tr table people 8 1
-
-ISHII B-PER ishii 0 0 0 0 0 0 1 tr table people 8 0
-Daisuke I-PER daisuke 0 1 0 0 0 0 1 tr table people 8 0
-2015.11 O 2015.11 0 0 0 1 0 0 0 tr table people 8 1
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Fukui O fukui 0 1 0 0 0 0 1 tr table people 8 2
-
-NOTO B-PER noto 0 0 0 0 0 0 1 tr table people 8 0
-Tomoya I-PER tomoya 0 1 0 0 0 0 1 tr table people 8 0
-2015.9 O 2015.9 0 0 0 1 0 0 0 tr table people 8 1
-Fujitsu O fujitsu 0 1 0 0 0 0 1 tr table people 8 2
-
-SATO B-PER sato 0 0 0 0 0 0 1 tr table people 8 0
-Taisuke I-PER taisuke 0 1 0 0 0 0 1 tr table people 8 0
-2015.3 O 2015.3 0 0 0 1 0 0 0 tr table people 8 1
-
-YONEZAKI B-PER yonezaki 0 0 0 0 0 0 1 tr table people 8 0
-Naoki I-PER naoki 0 1 0 0 0 0 1 tr table people 8 0
-2015.3 O 2015.3 0 0 0 1 0 0 0 tr table people 8 1
-The O the 0 1 0 0 0 0 1 tr table people 8 2
-Open O open 0 0 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Japan O japan 0 0 0 0 0 0 1 tr table people 8 2
-
-SUGIYAMA B-PER sugiyama 0 0 0 0 0 0 1 tr table people 8 0
-Masashi I-PER masashi 0 1 0 0 1 0 1 tr table people 8 0
-2014.9 O 2014.9 0 0 0 1 0 0 0 tr table people 8 1
-The O the 0 1 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Tokyo O tokyo 0 0 0 0 0 0 1 tr table people 8 2
-
-IIDA B-PER iida 0 0 0 0 0 0 1 tr table people 8 0
-Ryu I-PER ryu 0 1 0 0 0 0 1 tr table people 8 0
-2014.9 O 2014.9 0 0 0 1 0 0 0 tr table people 8 1
-National O national 0 0 0 0 0 0 1 tr table people 8 2
-Institute O institute 0 0 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Information O information 0 1 0 0 0 0 1 tr table people 8 2
-and O and 0 1 0 0 0 0 0 tr table people 8 2
-Communications O communications 0 0 0 0 0 0 1 tr table people 8 2
-Technology O technology 0 0 0 0 0 0 1 tr table people 8 2
-( O ( 0 0 0 0 0 0 0 tr table people 8 2
-NICT O nict 0 0 0 0 0 0 1 tr table people 8 2
-) O ) 0 0 0 0 0 0 0 tr table people 8 2
-
-WATANABE B-PER watanabe 0 0 0 0 0 0 1 tr table people 8 0
-Yosuke I-PER yosuke 0 1 0 0 0 0 1 tr table people 8 0
-2014.3 O 2014.3 0 0 0 1 0 0 0 tr table people 8 1
-Nagoya O nagoya 0 1 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-
-SUZUMURA B-PER suzumura 0 0 0 0 0 0 1 tr table people 8 0
-Toyotaro I-PER toyotaro 0 1 0 0 0 0 1 tr table people 8 0
-2012.9 O 2012.9 0 0 0 1 0 0 0 tr table people 8 1
-IBM O ibm 0 1 0 0 0 0 1 tr table people 8 2
-Research O research 0 1 0 0 0 0 1 tr table people 8 2
-
-NAKAJIMA B-PER nakajima 0 0 0 0 0 0 1 tr table people 8 0
-Masayuki I-PER masayuki 0 1 0 0 1 0 1 tr table people 8 0
-2012.3 O 2012.3 0 0 0 1 0 0 0 tr table people 8 1
-Uppsala O uppsala 0 0 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-
-MORI B-PER mori 0 0 0 0 0 0 1 tr table people 8 0
-Kinji I-PER kinji 0 1 0 0 0 0 1 tr table people 8 0
-2012.3 O 2012.3 0 0 0 1 0 0 0 tr table people 8 1
-Waseda O waseda 0 1 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-
-KAMEYA B-PER kameya 0 0 0 0 0 0 1 tr table people 8 0
-Yoshitaka I-PER yoshitaka 0 1 0 0 0 0 1 tr table people 8 0
-2012.3 O 2012.3 0 0 0 1 0 0 0 tr table people 8 1
-Meijo O meijo 0 0 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-
-CHANG B-PER chang 0 0 0 0 0 0 1 tr table people 8 0
-Youngha I-PER youngha 0 1 0 0 0 0 1 tr table people 8 0
-2012.3 O 2012.3 0 0 0 1 0 0 0 tr table people 8 1
-Tokyo O tokyo 0 0 0 0 0 0 1 tr table people 8 2
-City O city 0 0 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-
-XIAODONG B-PER xiaodong 0 0 0 0 0 0 1 tr table people 8 0
-Lu I-PER lu 0 1 0 0 0 0 1 tr table people 8 0
-2012.3 O 2012.3 0 0 0 1 0 0 0 tr table people 8 1
-Electronic O electronic 0 0 0 0 0 0 1 tr table people 8 2
-Navigation O navigation 0 0 0 0 0 0 1 tr table people 8 2
-Research O research 0 1 0 0 0 0 1 tr table people 8 2
-Institute O institute 0 0 0 0 0 0 1 tr table people 8 2
-
-MOCHIZUKI B-PER mochizuki 0 0 0 0 0 0 1 tr table people 8 0
-Masahiro I-PER masahiro 0 1 0 0 1 0 1 tr table people 8 0
-( O ( 0 0 0 0 0 0 0 tr table people 8 0
-GSIC O gsic 0 0 0 0 0 0 1 tr table people 8 0
-) O ) 0 0 0 0 0 0 0 tr table people 8 0
-2011.7 O 2011.7 0 0 0 1 0 0 0 tr table people 8 1
-
-FURUI B-PER furui 0 0 0 0 0 0 1 tr table people 8 0
-Sadaoki I-PER sadaoki 0 1 0 0 0 0 1 tr table people 8 0
-2011.3 O 2011.3 0 0 0 1 0 0 0 tr table people 8 1
-Tokyo O tokyo 0 0 0 0 0 0 1 tr table people 8 2
-Institute O institute 0 0 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Technology O technology 0 0 0 0 0 0 1 tr table people 8 2
-; O ; 0 0 0 0 0 0 0 tr table people 8 2
-Toyota O toyota 0 1 0 0 0 0 1 tr table people 8 2
-Technological O technological 0 0 0 0 0 0 1 tr table people 8 2
-Institute O institute 0 0 0 0 0 0 1 tr table people 8 2
-at O at 0 0 0 0 0 0 0 tr table people 8 2
-Chicago O chicago 0 0 0 0 0 0 1 tr table people 8 2
-
-SHINOZAKI B-PER shinozaki 0 0 0 0 0 0 1 tr table people 8 0
-Takahiro I-PER takahiro 0 1 0 0 0 0 1 tr table people 8 0
-2013.3 O 2013.3 0 0 0 1 0 0 0 tr table people 8 1
-Tokyo O tokyo 0 0 0 0 0 0 1 tr table people 8 2
-Institute O institute 0 0 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Technology O technology 0 0 0 0 0 0 1 tr table people 8 2
-
-FUJIWARA B-PER fujiwara 0 0 0 0 0 0 1 tr table people 8 0
-Eiji I-PER eiji 0 1 0 0 0 0 1 tr table people 8 0
-2009.3 O 2009.3 0 0 0 1 0 0 0 tr table people 8 1
-The O the 0 1 0 0 0 0 1 tr table people 8 2
-Open O open 0 0 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Japan O japan 0 0 0 0 0 0 1 tr table people 8 2
-
-IWANO B-PER iwano 0 0 0 0 0 0 1 tr table people 8 0
-Koji I-PER koji 0 1 0 0 0 0 1 tr table people 8 0
-2008.8 O 2008.8 0 0 0 1 0 0 0 tr table people 8 1
-Tokyo O tokyo 0 0 0 0 0 0 1 tr table people 8 2
-City O city 0 0 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-
-TOMOISHI B-PER tomoishi 0 0 0 0 0 0 1 tr table people 8 0
-Masahiko I-PER masahiko 0 1 0 0 1 0 1 tr table people 8 0
-2007.5 O 2007.5 0 0 0 1 0 0 0 tr table people 8 1
-National O national 0 0 0 0 0 0 1 tr table people 8 2
-Institute O institute 0 0 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Informatics O informatics 0 0 0 0 0 0 1 tr table people 8 2
-, O , 0 0 0 0 0 0 0 tr table people 8 2
-( O ( 0 0 0 0 0 0 0 tr table people 8 2
-08.4 O 08.4 0 0 0 1 0 0 0 tr table people 8 2
-came O came 0 0 0 0 0 0 0 tr table people 8 2
-back O back 0 0 0 0 0 0 0 tr table people 8 2
-to O to 0 0 0 0 0 0 0 tr table people 8 2
-GSIC O gsic 0 0 0 0 0 0 1 tr table people 8 2
-in O in 0 1 0 0 0 0 0 tr table people 8 2
-this O this 0 0 0 0 0 0 0 tr table people 8 2
-univ. O univ. 0 0 0 0 0 0 0 tr table people 8 2
-) O ) 0 0 0 0 0 0 0 tr table people 8 2
-
-SUZUKI B-PER suzuki 0 0 0 0 0 0 1 tr table people 8 0
-Kazuyoshi I-PER kazuyoshi 0 1 0 0 0 0 1 tr table people 8 0
-2007.4 O 2007.4 0 0 0 1 0 0 0 tr table people 8 1
-Nagoya O nagoya 0 1 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-
-KOBAYASHI B-PER kobayashi 0 0 0 0 0 0 1 tr table people 8 0
-Takashi I-PER takashi 0 1 0 0 0 0 1 tr table people 8 0
-( O ( 0 0 0 0 0 0 0 tr table people 8 0
-GSIC O gsic 0 0 0 0 0 0 1 tr table people 8 0
-) O ) 0 0 0 0 0 0 0 tr table people 8 0
-2007.2 O 2007.2 0 0 0 1 0 0 0 tr table people 8 1
-Nagoya O nagoya 0 1 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-
-TAKAHASHI B-PER takahashi 0 0 0 0 0 0 1 tr table people 8 0
-Hiroki I-PER hiroki 0 1 0 0 0 0 1 tr table people 8 0
-2006.4 O 2006.4 0 0 0 1 0 0 0 tr table people 8 1
-The O the 0 1 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Electro O electro 0 0 0 0 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-Communications O communications 0 0 0 0 0 0 1 tr table people 8 2
-
-HASHIMOTO B-PER hashimoto 0 0 0 0 0 0 1 tr table people 8 0
-Taiichi I-PER taiichi 0 1 0 0 0 0 1 tr table people 8 0
-2006.4 O 2006.4 0 0 0 1 0 0 0 tr table people 8 1
-Integrated O integrated 0 0 0 0 0 0 1 tr table people 8 2
-Research O research 0 1 0 0 0 0 1 tr table people 8 2
-Institute O institute 0 0 0 0 0 0 1 tr table people 8 2
-
-SUZUKI B-PER suzuki 0 0 0 0 0 0 1 tr table people 8 0
-Tetsuya I-PER tetsuya 0 1 0 0 0 0 1 tr table people 8 0
-2005.3 O 2005.3 0 0 0 1 0 0 0 tr table people 8 1
-Shibaura O shibaura 0 0 0 0 0 0 1 tr table people 8 2
-Institute O institute 0 0 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Technology O technology 0 0 0 0 0 0 1 tr table people 8 2
-
-MORIYAMA B-PER moriyama 0 0 0 0 0 0 1 tr table people 8 0
-Kouichi I-PER kouichi 0 1 0 0 0 0 1 tr table people 8 0
-2005.3 O 2005.3 0 0 0 1 0 0 0 tr table people 8 1
-Osaka O osaka 0 1 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-
-FUJITA B-PER fujita 0 0 0 0 0 0 1 tr table people 8 0
-Syohei I-PER syohei 0 1 0 0 0 0 1 tr table people 8 0
-2005.3 O 2005.3 0 0 0 1 0 0 0 tr table people 8 1
-
-OGAWA B-PER ogawa 0 0 0 0 0 0 1 tr table people 8 0
-Hidemitsu I-PER hidemitsu 0 1 0 0 0 0 1 tr table people 8 0
-2005.3 O 2005.3 0 0 0 1 0 0 0 tr table people 8 1
-Tokyo O tokyo 0 0 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-and O and 0 1 0 0 0 0 0 tr table people 8 2
-Graduate O graduate 1 1 0 0 0 0 1 tr table people 8 2
-School O school 0 1 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Social O social 0 0 0 0 0 0 1 tr table people 8 2
-Welfare O welfare 0 0 0 0 0 0 1 tr table people 8 2
-
-TANAKA B-PER tanaka 0 0 0 0 0 0 1 tr table people 8 0
-Hozumi I-PER hozumi 0 1 0 0 0 0 1 tr table people 8 0
-2005.3 O 2005.3 0 0 0 1 0 0 0 tr table people 8 1
-Chukyo O chukyo 0 0 0 0 0 0 1 tr table people 8 2
-University/Integrated O university/integrated 0 0 0 0 0 0 1 tr table people 8 2
-Research O research 0 1 0 0 0 0 1 tr table people 8 2
-Institute O institute 0 0 0 0 0 0 1 tr table people 8 2
-, O , 0 0 0 0 0 0 0 tr table people 8 2
-Tokyo O tokyo 0 0 0 0 0 0 1 tr table people 8 2
-Institute O institute 0 0 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Technology O technology 0 0 0 0 0 0 1 tr table people 8 2
-
-KOBAYASHI B-PER kobayashi 0 0 0 0 0 0 1 tr table people 8 0
-Naoki I-PER naoki 0 1 0 0 0 0 1 tr table people 8 0
-2004.10 O 2004.10 0 0 0 1 0 0 0 tr table people 8 1
-Tohoku O tohoku 0 1 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-
-SAKURAI B-PER sakurai 0 0 0 0 0 0 1 tr table people 8 0
-Seiichiro I-PER seiichiro 0 1 0 0 0 0 1 tr table people 8 0
-2004.4 O 2004.4 0 0 0 1 0 0 0 tr table people 8 1
-Meiji O meiji 0 0 0 0 0 0 1 tr table people 8 2
-- O - 0 0 0 0 0 0 0 tr table people 8 2
-Gakuin O gakuin 0 0 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-
-NUMAO B-PER numao 0 0 0 0 0 0 1 td tr people 9 0
-Masayuki I-PER masayuki 0 1 0 0 1 0 1 td tr people 9 0
-2003.4 O 2003.4 0 0 0 1 0 0 0 tr table people 8 2
-Osaka O osaka 0 1 0 0 0 0 1 tr table people 8 3
-University O university 0 1 0 0 0 0 1 tr table people 8 3
-
-HAYASHI B-PER hayashi 0 0 0 0 0 0 1 tr table people 8 0
-Masaki I-PER masaki 0 1 0 0 1 0 1 tr table people 8 0
-2003.4 O 2003.4 0 0 0 1 0 0 0 tr table people 8 1
-Japan O japan 0 0 0 0 0 0 1 tr table people 8 2
-Broadcasting O broadcasting 0 0 0 0 0 0 1 tr table people 8 2
-Cooperation O cooperation 0 0 0 0 0 0 1 tr table people 8 2
-
-KUMAZAWA B-PER kumazawa 0 0 0 0 0 0 1 tr table people 8 0
-Itsuo I-PER itsuo 0 1 0 0 0 0 1 tr table people 8 0
-2002.4 O 2002.4 0 0 0 1 0 0 0 tr table people 8 1
-Imaging O imaging 0 0 0 0 0 0 1 tr table people 8 2
-Science O science 0 0 0 0 0 0 1 tr table people 8 2
-and O and 0 1 0 0 0 0 0 tr table people 8 2
-Engineering O engineering 0 0 0 0 0 0 1 tr table people 8 2
-Laboratory O laboratory 0 0 0 0 0 0 1 tr table people 8 2
-, O , 0 0 0 0 0 0 0 tr table people 8 2
-Tokyo O tokyo 0 0 0 0 0 0 1 tr table people 8 2
-Institute O institute 0 0 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Technology O technology 0 0 0 0 0 0 1 tr table people 8 2
-
-YONEDA B-PER yoneda 0 0 0 0 0 0 1 tr table people 8 0
-Tomohiro I-PER tomohiro 0 1 0 0 0 0 1 tr table people 8 0
-2002.4 O 2002.4 0 0 0 1 0 0 0 tr table people 8 1
-National O national 0 0 0 0 0 0 1 tr table people 8 2
-Institute O institute 0 0 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Informatics O informatics 0 0 0 0 0 0 1 tr table people 8 2
-
-SUZUKI B-PER suzuki 0 0 0 0 0 0 1 tr table people 8 0
-Masato I-PER masato 0 1 0 0 1 0 1 tr table people 8 0
-2002.3 O 2002.3 0 0 0 1 0 0 0 tr table people 8 1
-Japan O japan 0 0 0 0 0 0 1 tr table people 8 2
-Advanced O advanced 0 0 0 0 0 0 1 tr table people 8 2
-Institute O institute 0 0 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Science O science 0 0 0 0 0 0 1 tr table people 8 2
-and O and 0 1 0 0 0 0 0 tr table people 8 2
-Technology O technology 0 0 0 0 0 0 1 tr table people 8 2
-
-SHIRAI B-PER shirai 0 0 0 0 0 0 1 tr table people 8 0
-Kiyoaki I-PER kiyoaki 0 1 0 0 0 0 1 tr table people 8 0
-2001.4 O 2001.4 0 0 0 1 0 0 0 tr table people 8 1
-Japan O japan 0 0 0 0 0 0 1 tr table people 8 2
-Advanced O advanced 0 0 0 0 0 0 1 tr table people 8 2
-Institute O institute 0 0 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Science O science 0 0 0 0 0 0 1 tr table people 8 2
-and O and 0 1 0 0 0 0 0 tr table people 8 2
-Technology O technology 0 0 0 0 0 0 1 tr table people 8 2
-
-YOSHIURA B-PER yoshiura 0 0 0 0 0 0 1 tr table people 8 0
-Noriaki I-PER noriaki 0 1 0 0 0 0 1 tr table people 8 0
-2001.4 O 2001.4 0 0 0 1 0 0 0 tr table people 8 1
-Gunma O gunma 0 0 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-
-HIRABAYASHI B-PER hirabayashi 0 0 0 0 0 0 1 tr table people 8 0
-Akira I-PER akira 0 1 0 0 0 0 1 tr table people 8 0
-2000.9 O 2000.9 0 0 0 1 0 0 0 tr table people 8 1
-Yamaguchi O yamaguchi 0 1 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-
-KITAKAMI B-PER kitakami 0 0 0 0 0 0 1 tr table people 8 0
-Masato I-PER masato 0 1 0 0 1 0 1 tr table people 8 0
-1999.12 O 1999.12 0 0 0 1 0 0 0 tr table people 8 1
-Chiba O chiba 0 1 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-
-UENO B-PER ueno 0 0 0 0 0 0 1 tr table people 8 0
-Yoichiro I-PER yoichiro 0 1 0 0 0 0 1 tr table people 8 0
-1998.3 O 1998.3 0 0 0 1 0 0 0 tr table people 8 1
-Tokyo O tokyo 0 0 0 0 0 0 1 tr table people 8 2
-Denki O denki 0 0 0 0 0 0 1 tr table people 8 2
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-
-NAN B-PER nan 0 0 0 0 0 0 1 tr table people 8 0
-' I-PER ' 0 0 0 0 0 0 0 tr table people 8 0
-YA I-PER ya 0 0 0 0 0 0 1 tr table people 8 0
-Takashi I-PER takashi 0 1 0 0 0 0 1 tr table people 8 0
-1998.3 O 1998.3 0 0 0 1 0 0 0 tr table people 8 1
-University O university 0 1 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Tokyo O tokyo 0 0 0 0 0 0 1 tr table people 8 2
-
-SIMURA B-PER simura 0 0 0 0 0 0 1 tr table people 8 0
-Masamichi I-PER masamichi 0 1 0 0 1 0 1 tr table people 8 0
-1997.3 O 1997.3 0 0 0 1 0 0 0 tr table people 8 1
-Musashi O musashi 0 1 0 0 1 0 1 tr table people 8 2
-Institute O institute 0 0 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Technology O technology 0 0 0 0 0 0 1 tr table people 8 2
-
-WATANABE B-PER watanabe 0 0 0 0 0 0 1 tr table people 8 0
-Osamu I-PER osamu 0 1 0 0 0 0 1 tr table people 8 0
-1997.3 O 1997.3 0 0 0 1 0 0 0 tr table people 8 1
-Department O department 0 0 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Mathematical O mathematical 0 0 0 0 0 0 1 tr table people 8 2
-and O and 0 1 0 0 0 0 0 tr table people 8 2
-Computing O computing 0 0 0 0 0 0 1 tr table people 8 2
-Sciences O sciences 0 0 0 0 0 0 1 tr table people 8 2
-
-KATAYAMA B-PER katayama 0 0 0 0 0 0 1 tr table people 8 0
-Takuya I-PER takuya 0 1 0 0 0 0 1 tr table people 8 0
-1996.9 O 1996.9 0 0 0 1 0 0 0 tr table people 8 1
-Japan O japan 0 0 0 0 0 0 1 tr table people 8 2
-Advanced O advanced 0 0 0 0 0 0 1 tr table people 8 2
-Institute O institute 0 0 0 0 0 0 1 tr table people 8 2
-of O of 0 1 0 0 0 0 0 tr table people 8 2
-Science O science 0 0 0 0 0 0 1 tr table people 8 2
-and O and 0 1 0 0 0 0 0 tr table people 8 2
-Technology O technology 0 0 0 0 0 0 1 tr table people 8 2
-
-www O www 0 0 0 0 0 0 0 body html none 4 526
-- O - 0 0 0 0 0 0 0 body html none 4 526
-admin O admin 0 0 0 0 0 0 0 body html none 4 526
-( O ( 0 0 0 0 0 0 0 body html none 4 526
-@ O @ 0 1 0 0 0 0 0 body html none 4 526
-) O ) 0 0 0 0 0 0 0 body html none 4 526
-cs.titech.ac.jp O cs.titech.ac.jp 0 0 0 0 0 0 0 body html none 4 526
+Department O department 0 0 0 0 0 0 1 0 7 meta head none 5 0
+of O of 0 1 0 0 0 0 0 2 10 meta head none 5 0
+Computer O computer 0 0 0 0 0 0 1 0 7 meta head none 5 0
+Science O science 0 0 0 0 0 0 1 0 7 meta head none 5 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 meta head none 5 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 meta head none 5 0
+
+Department O department 0 0 0 0 0 0 1 0 7 img div head 6 0
+of O of 0 1 0 0 0 0 0 2 10 img div head 6 0
+Computer O computer 0 0 0 0 0 0 1 0 7 img div head 6 0
+Science O science 0 0 0 0 0 0 1 0 7 img div head 6 0
+
+Graduate O graduate 0 1 0 0 0 0 1 0 6 div img subtitle 7 0
+School O school 0 1 0 0 0 0 1 0 7 div img subtitle 7 0
+of O of 0 1 0 0 0 0 0 2 10 div img subtitle 7 0
+Information O information 0 1 0 0 0 0 1 0 8 div img subtitle 7 0
+Science O science 0 0 0 0 0 0 1 0 7 div img subtitle 7 0
+and O and 0 1 0 0 0 0 0 0 10 div img subtitle 7 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 div img subtitle 7 0
+
+2 O 2 0 0 0 1 0 0 0 0 0 img div address 6 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 img div address 6 5
+12 O 12 0 0 0 1 0 0 0 0 0 img div address 6 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 img div address 6 5
+1 O 1 0 0 0 1 0 0 0 0 0 img div address 6 5
+Oookayama O oookayama 0 0 0 0 0 0 1 0 0 img div address 6 5
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div address 6 5
+Meguro O meguro 0 1 0 0 0 0 1 2 0 img div address 6 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 img div address 6 5
+ku O ku 0 1 0 0 0 0 0 2 5 img div address 6 5
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div address 6 5
+Tokyo O tokyo 0 0 0 0 0 0 1 0 6 img div address 6 5
+152 O 152 0 0 0 1 0 0 0 0 0 img div address 6 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 img div address 6 5
+8552 O 8552 0 0 0 1 0 0 0 0 0 img div address 6 5
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div address 6 5
+Japan O japan 0 0 0 0 0 0 1 0 7 img div address 6 5
+
+[English] O [english] 0 0 0 0 0 0 0 0 0 body html switch 4 8
+[Japanese] O [japanese] 0 0 0 0 0 0 0 0 0 div body switch 5 1
+
+Home O home 0 1 0 0 0 0 1 2 6 li ul menu 8 0
+
+Overview O overview 0 0 0 0 0 0 1 0 5 li ul menu 8 0
+
+People O people 0 1 0 0 0 0 1 0 7 ul div menu 7 4
+
+Research O research 0 1 0 0 0 0 1 0 7 li ul menu 8 0
+Groups O groups 0 0 0 0 0 0 1 0 5 li ul menu 8 0
+
+Admissions O admissions 0 0 0 0 0 0 1 0 7 li ul menu 8 0
+
+Graduate O graduate 0 1 0 0 0 0 1 0 6 li ul menu 8 0
+Program O program 0 0 0 0 0 0 1 0 7 li ul menu 8 0
+
+How O how 0 1 0 0 0 0 1 4 7 li ul menu 8 0
+to O to 0 1 0 0 0 0 0 0 10 li ul menu 8 0
+reach O reach 0 0 0 0 0 0 0 0 5 li ul menu 8 0
+us O us 0 1 0 0 0 0 0 1 8 li ul menu 8 0
+
+Tech. O tech. 0 0 0 0 0 0 1 0 0 li ul menu 8 0
+Reports O reports 0 0 0 0 0 0 1 0 4 li ul menu 8 0
+
+Links O links 0 1 0 0 0 0 1 2 7 div div menu 6 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 0 5 li ul menu 8 0
+Course O course 0 1 0 0 0 0 1 0 6 li ul menu 8 0
+
+Dept. O dept. 0 0 0 0 0 0 1 0 0 li ul menu 8 0
+of O of 0 1 0 0 0 0 0 2 10 li ul menu 8 0
+Communications O communications 0 0 0 0 0 0 1 0 5 li ul menu 8 0
+and O and 0 1 0 0 0 0 0 0 10 li ul menu 8 0
+Computer O computer 0 0 0 0 0 0 1 0 7 li ul menu 8 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 li ul menu 8 0
+
+Rakusuikai O rakusuikai 0 0 0 0 0 0 1 0 0 li ul menu 8 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 div body main 5 0
+
+Professors O professors 0 0 0 0 1 0 1 0 4 div div section 6 0
+
+Name O name 0 1 0 0 0 0 1 1 7 tr table people 8 0
+
+Room O room 0 1 0 0 0 0 1 1 6 tr table people 8 1
+
+Ext. O ext. 0 0 0 0 0 0 1 0 0 tr table people 8 2
+
+E O e 0 1 0 0 0 0 1 4 10 tr table people 8 3
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 3
+mail O mail 0 0 0 0 0 0 0 0 6 tr table people 8 3
+
+Mailbox O mailbox 0 0 0 0 0 0 1 0 0 tr table people 8 4
+
+AKIYAMA B-PER akiyama 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Yutaka I-PER yutaka 0 1 0 0 0 0 1 6 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+506 O 506 0 0 0 1 0 0 0 0 0 tr table people 8 2
+3645 O 3645 0 0 0 1 0 0 0 0 0 tr table people 8 3
+akiyama@.cs. O akiyama@.cs. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+76 O 76 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+DEFAGO B-PER defago 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Xavier I-PER xavier 0 1 0 0 0 0 1 7 5 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+803 O 803 0 0 0 1 0 0 0 0 0 tr table people 8 2
+3043 O 3043 0 0 0 1 0 0 0 0 0 tr table people 8 3
+defago@c. O defago@c. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+84 O 84 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+GONDOW B-PER gondow 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Katsuhiko I-PER katsuhiko 0 1 0 0 0 0 1 5 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+806 O 806 0 0 0 1 0 0 0 0 0 tr table people 8 2
+2810 O 2810 0 0 0 1 0 0 0 0 0 tr table people 8 3
+gondow@cs. O gondow@cs. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+58 O 58 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+KAMEI B-PER kamei 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Hiroyuki I-PER hiroyuki 0 1 0 0 0 0 1 6 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+603 O 603 0 0 0 1 0 0 0 0 0 tr table people 8 2
+3031 O 3031 0 0 0 1 0 0 0 0 0 tr table people 8 3
+kamei@archaeo.cs. O kamei@archaeo.cs. 0 0 1 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+72 O 72 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+KOIKE B-PER koike 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Hideki I-PER hideki 0 1 0 0 0 0 1 6 1 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+402 O 402 0 0 0 1 0 0 0 0 0 tr table people 8 2
+3526 O 3526 0 0 0 1 0 0 0 0 0 tr table people 8 3
+koike@cs. O koike@cs. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+80 O 80 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+MIYAZAKI B-PER miyazaki 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Jun I-PER jun 0 1 0 0 0 0 1 8 5 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+703 O 703 0 0 0 1 0 0 0 0 0 tr table people 8 2
+2687 O 2687 0 0 0 1 0 0 0 0 0 tr table people 8 3
+miyazaki@cs. O miyazaki@cs. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+63 O 63 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+NISIZAKI B-PER nisizaki 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Shin'ya I-PER shin'ya 0 1 0 0 0 0 1 3 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+802 O 802 0 0 0 1 0 0 0 0 0 tr table people 8 2
+3506 O 3506 0 0 0 1 0 0 0 0 0 tr table people 8 3
+nisizaki@lambda.cs. O nisizaki@lambda.cs. 0 0 1 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+69 O 69 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+OKAZAKI B-PER okazaki 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Naoaki I-PER naoaki 0 1 0 0 0 0 1 3 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+502 O 502 0 0 0 1 0 0 0 0 0 tr table people 8 2
+2186 O 2186 0 0 0 1 0 0 0 0 0 tr table people 8 3
+okazaki@c. O okazaki@c. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+77 O 77 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+SAEKI B-PER saeki 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Motoshi I-PER motoshi 0 1 0 0 0 0 1 2 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+902 O 902 0 0 0 1 0 0 0 0 0 tr table people 8 2
+2192 O 2192 0 0 0 1 0 0 0 0 0 tr table people 8 3
+saeki@se.cs. O saeki@se.cs. 0 0 1 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+83 O 83 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+SHINODA B-PER shinoda 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Koichi I-PER koichi 0 1 0 0 0 0 1 6 1 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+602 O 602 0 0 0 1 0 0 0 0 0 tr table people 8 2
+3480 O 3480 0 0 0 1 0 0 0 0 0 tr table people 8 3
+shinoda@cs. O shinoda@cs. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+81 O 81 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+TOKUNAGA B-PER tokunaga 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Takenobu I-PER takenobu 0 1 0 0 0 0 1 3 1 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+605 O 605 0 0 0 1 0 0 0 0 0 tr table people 8 2
+2685 O 2685 0 0 0 1 0 0 0 0 0 tr table people 8 3
+take@cl.cs. O take@cl.cs. 0 0 1 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+73 O 73 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+WATANABE B-PER watanabe 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Takuo I-PER takuo 0 1 0 0 0 0 1 3 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+805 O 805 0 0 0 1 0 0 0 0 0 tr table people 8 2
+3690 O 3690 0 0 0 1 0 0 0 0 0 tr table people 8 3
+takuo@psg.cs. O takuo@psg.cs. 0 0 1 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+75 O 75 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+YOKOTA B-PER yokota 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Haruo I-PER haruo 0 1 0 0 0 0 1 4 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+705 O 705 0 0 0 1 0 0 0 0 0 tr table people 8 2
+3505 O 3505 0 0 0 1 0 0 0 0 0 tr table people 8 3
+yokota@de.cs. O yokota@de.cs. 0 0 1 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+82 O 82 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+Specially O specially 0 0 0 0 0 0 1 0 2 div div section 6 99
+Appointed O appointed 0 0 0 0 0 0 1 0 3 div div section 6 99
+Professors O professors 0 0 0 0 1 0 1 0 4 div div section 6 99
+
+Name O name 0 1 0 0 0 0 1 1 7 tr table people 8 0
+
+Room O room 0 1 0 0 0 0 1 1 6 tr table people 8 1
+
+Ext. O ext. 0 0 0 0 0 0 1 0 0 tr table people 8 2
+
+E O e 0 1 0 0 0 0 1 4 10 tr table people 8 3
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 3
+mail O mail 0 0 0 0 0 0 0 0 6 tr table people 8 3
+
+Mailbox O mailbox 0 0 0 0 0 0 1 0 0 tr table people 8 4
+
+INOUE B-PER inoue 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Katsumi I-PER katsumi 0 1 0 0 0 0 1 5 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+905 O 905 0 0 0 1 0 0 0 0 0 tr table people 8 2
+2826 O 2826 0 0 0 1 0 0 0 0 0 tr table people 8 3
+inouek@cs. O inouek@cs. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+86 O 86 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+Associate O associate 0 1 0 0 0 0 1 0 6 div div section 6 114
+Professors O professors 0 0 0 0 1 0 1 0 4 div div section 6 114
+
+Name O name 0 1 0 0 0 0 1 1 7 tr table people 8 0
+
+Room O room 0 1 0 0 0 0 1 1 6 tr table people 8 1
+
+Ext. O ext. 0 0 0 0 0 0 1 0 0 tr table people 8 2
+
+E O e 0 1 0 0 0 0 1 4 10 tr table people 8 3
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 3
+mail O mail 0 0 0 0 0 0 0 0 6 tr table people 8 3
+
+Mailbox O mailbox 0 0 0 0 0 0 1 0 0 tr table people 8 4
+
+FUJII B-PER fujii 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Atsushi I-PER atsushi 0 1 0 0 0 0 1 6 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+606 O 606 0 0 0 1 0 0 0 0 0 tr table people 8 2
+2686 O 2686 0 0 0 1 0 0 0 0 0 tr table people 8 3
+fujii@cs. O fujii@cs. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+62 O 62 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+ISHIDA B-PER ishida 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Takashi I-PER takashi 0 1 0 0 0 0 1 7 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+505 O 505 0 0 0 1 0 0 0 0 0 tr table people 8 2
+2598 O 2598 0 0 0 1 0 0 0 0 0 tr table people 8 3
+ishida@cs. O ishida@cs. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+85 O 85 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+KANEKO B-PER kaneko 0 0 0 0 0 0 1 0 0 td tr people 10 0
+Haruhiko I-PER haruhiko 0 1 0 0 0 0 1 4 0 td tr people 10 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr tr people 9 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tr people 9 2
+702 O 702 0 0 0 1 0 0 0 0 0 tr tr people 9 2
+3799 O 3799 0 0 0 1 0 0 0 0 0 tr tr people 9 3
+hkaneko@fuji.cs. O hkaneko@fuji.cs. 0 0 1 0 0 0 0 0 0 tr tr people 9 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr tr people 9 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr tr people 9 5
+65 O 65 0 0 0 1 0 0 0 0 0 tr tr people 9 5
+
+KISE B-PER kise 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Kenji I-PER kenji 0 1 0 0 0 0 1 6 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+706 O 706 0 0 0 1 0 0 0 0 0 tr table people 8 2
+3698 O 3698 0 0 0 1 0 0 0 0 0 tr table people 8 3
+kise@cs. O kise@cs. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+79 O 79 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+KOBAYASHI B-PER kobayashi 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Takashi I-PER takashi 0 1 0 0 0 0 1 7 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+903 O 903 0 0 0 1 0 0 0 0 0 tr table people 8 2
+3471 O 3471 0 0 0 1 0 0 0 0 0 tr table people 8 3
+tkobaya@cs. O tkobaya@cs. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+61 O 61 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+MURATA B-PER murata 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Tsuyoshi I-PER tsuyoshi 0 1 0 0 0 0 1 6 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+503 O 503 0 0 0 1 0 0 0 0 0 tr table people 8 2
+2684 O 2684 0 0 0 1 0 0 0 0 0 tr table people 8 3
+murata@cs. O murata@cs. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+59 O 59 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+SAITO B-PER saito 0 0 0 0 0 0 1 0 1 td tr people 9 0
+Suguru I-PER suguru 0 1 0 0 0 0 1 4 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+405 O 405 0 0 0 1 0 0 0 0 0 tr table people 8 2
+3956 O 3956 0 0 0 1 0 0 0 0 0 tr table people 8 3
+suguru@cs. O suguru@cs. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+70 O 70 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+SHIMOSAKA B-PER shimosaka 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Masamichi I-PER masamichi 0 1 0 0 1 0 1 4 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+406 O 406 0 0 0 1 0 0 0 0 0 tr table people 8 2
+2978 O 2978 0 0 0 1 0 0 0 0 0 tr table people 8 3
+simosaka@miubiq.cs. O simosaka@miubiq.cs. 0 0 1 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+60 O 60 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+SEKIJIMA B-PER sekijima 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Masakazu I-PER masakazu 0 1 0 0 1 0 1 5 0 td tr people 9 0
+I7 O i7 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+112 O 112 0 0 0 1 0 0 0 0 0 tr table people 8 2
+3325 O 3325 0 0 0 1 0 0 0 0 0 tr table people 8 3
+sekijima@gsic. O sekijima@gsic. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+I7 O i7 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+5 O 5 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+YOKOTA B-PER yokota 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Rio I-PER rio 0 1 0 0 0 0 1 4 5 td tr people 9 0
+I7 O i7 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+212 O 212 0 0 0 1 0 0 0 0 0 tr table people 8 2
+2121 O 2121 0 0 0 1 0 0 0 0 0 tr table people 8 3
+rioyokota@gsic. O rioyokota@gsic. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+I7 O i7 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+2 O 2 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+Specially O specially 0 0 0 0 0 0 1 0 2 div div section 6 192
+Appointed O appointed 0 0 0 0 0 0 1 0 3 div div section 6 192
+Associate O associate 0 1 0 0 0 0 1 0 6 div div section 6 192
+Professor O professor 0 0 0 0 1 0 1 0 7 div div section 6 192
+
+Name O name 0 1 0 0 0 0 1 1 7 tr table people 8 0
+
+Room O room 0 1 0 0 0 0 1 1 6 tr table people 8 1
+
+Ext. O ext. 0 0 0 0 0 0 1 0 0 tr table people 8 2
+
+E O e 0 1 0 0 0 0 1 4 10 tr table people 8 3
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 3
+mail O mail 0 0 0 0 0 0 0 0 6 tr table people 8 3
+
+Mailbox O mailbox 0 0 0 0 0 0 1 0 0 tr table people 8 4
+
+MORIMOTO B-PER morimoto 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Chikako I-PER chikako 0 1 0 0 0 0 1 3 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+804 O 804 0 0 0 1 0 0 0 0 0 tr table people 8 2
+3632 O 3632 0 0 0 1 0 0 0 0 0 tr table people 8 3
+morimoto@cs. O morimoto@cs. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+67 O 67 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+Assistant O assistant 0 0 0 0 0 0 1 0 6 div div section 6 207
+Professors O professors 0 0 0 0 1 0 1 0 4 div div section 6 207
+
+Name O name 0 1 0 0 0 0 1 1 7 tr table people 8 0
+
+Room O room 0 1 0 0 0 0 1 1 6 tr table people 8 1
+
+Ext. O ext. 0 0 0 0 0 0 1 0 0 tr table people 8 2
+
+E O e 0 1 0 0 0 0 1 4 10 tr table people 8 3
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 3
+mail O mail 0 0 0 0 0 0 0 0 6 tr table people 8 3
+
+Mailbox O mailbox 0 0 0 0 0 0 1 0 0 tr table people 8 4
+
+ARAHORI B-PER arahori 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Yoshitaka I-PER yoshitaka 0 1 0 0 0 0 1 5 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+704 O 704 0 0 0 1 0 0 0 0 0 tr table people 8 2
+3504 O 3504 0 0 0 1 0 0 0 0 0 tr table people 8 3
+arahori@cs. O arahori@cs. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+82 O 82 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+HAYASHI B-PER hayashi 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Shinpei I-PER shinpei 0 1 0 0 0 0 1 4 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+901 O 901 0 0 0 1 0 0 0 0 0 tr table people 8 2
+3920 O 3920 0 0 0 1 0 0 0 0 0 tr table people 8 3
+hayashi@se.cs. O hayashi@se.cs. 0 0 1 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+83 O 83 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+INOUE B-PER inoue 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Nakamasa I-PER nakamasa 0 1 0 0 0 0 1 0 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+601 O 601 0 0 0 1 0 0 0 0 0 tr table people 8 2
+3481 O 3481 0 0 0 1 0 0 0 0 0 tr table people 8 3
+inoue@ks.cs. O inoue@ks.cs. 0 0 1 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+81 O 81 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+KEYAKI B-PER keyaki 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Atsushi I-PER atsushi 0 1 0 0 0 0 1 6 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+701 O 701 0 0 0 1 0 0 0 0 0 tr table people 8 2
+2913 O 2913 0 0 0 1 0 0 0 0 0 tr table people 8 3
+keyaki@lsc.cs. O keyaki@lsc.cs. 0 0 1 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+63 O 63 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+NISHIKAWA B-PER nishikawa 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Hitoshi I-PER hitoshi 0 1 0 0 0 0 1 6 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+607 O 607 0 0 0 1 0 0 0 0 0 tr table people 8 2
+2915 O 2915 0 0 0 1 0 0 0 0 0 tr table people 8 3
+hitoshi@cs. O hitoshi@cs. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+73 O 73 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+OHUE B-PER ohue 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Masahito I-PER masahito 0 1 0 0 1 0 1 4 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+507 O 507 0 0 0 1 0 0 0 0 0 tr table people 8 2
+4364 O 4364 0 0 0 1 0 0 0 0 0 tr table people 8 3
+ohue@bi.cs. O ohue@bi.cs. 0 0 1 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+76 O 76 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+SATO B-PER sato 0 0 0 0 0 0 1 0 1 td tr people 9 0
+Toshiki I-PER toshiki 0 1 0 0 0 0 1 4 0 td tr people 9 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+401 O 401 0 0 0 1 0 0 0 0 0 tr table people 8 2
+2603 O 2603 0 0 0 1 0 0 0 0 0 tr table people 8 3
+toshiki@cs. O toshiki@cs. 0 0 0 0 0 0 0 0 0 tr table people 8 4
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 5
+80 O 80 0 0 0 1 0 0 0 0 0 tr table people 8 5
+
+Staff O staff 0 1 0 0 0 0 1 2 7 div body main 5 266
+
+Technical O technical 0 0 0 0 0 0 1 0 6 div div section 6 0
+Official O official 0 0 0 0 0 0 1 0 5 div div section 6 0
+
+Name O name 0 1 0 0 0 0 1 1 7 tr table people 8 0
+
+Room O room 0 1 0 0 0 0 1 1 6 tr table people 8 1
+
+Ext. O ext. 0 0 0 0 0 0 1 0 0 tr table people 8 2
+
+E O e 0 1 0 0 0 0 1 4 10 tr table people 8 3
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 3
+mail O mail 0 0 0 0 0 0 0 0 6 tr table people 8 3
+
+Mailbox O mailbox 0 0 0 0 0 0 1 0 0 tr table people 8 4
+
+KUWAHARA B-PER kuwahara 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Shinji I-PER shinji 0 1 0 0 0 0 1 6 0 tr table people 8 0
+Computing O computing 0 0 0 0 0 0 1 0 6 tr table people 8 1
+Room O room 0 1 0 0 0 0 1 1 6 tr table people 8 1
+3212 O 3212 0 0 0 1 0 0 0 0 0 tr table people 8 2
+kuwahara@csc. O kuwahara@csc. 0 0 0 0 0 0 0 0 0 tr table people 8 3
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 4
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 4
+68 O 68 0 0 0 1 0 0 0 0 0 tr table people 8 4
+
+Administrative O administrative 0 0 0 0 0 0 1 0 6 div div section 6 14
+Official O official 0 0 0 0 0 0 1 0 5 div div section 6 14
+
+Name O name 0 1 0 0 0 0 1 1 7 tr table people 8 0
+
+Room O room 0 1 0 0 0 0 1 1 6 tr table people 8 1
+
+Ext. O ext. 0 0 0 0 0 0 1 0 0 tr table people 8 2
+
+E O e 0 1 0 0 0 0 1 4 10 tr table people 8 3
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 3
+mail O mail 0 0 0 0 0 0 0 0 6 tr table people 8 3
+
+Mailbox O mailbox 0 0 0 0 0 0 1 0 0 tr table people 8 4
+
+TANI B-PER tani 0 0 0 0 0 0 1 0 1 tr table people 8 0
+Yuko I-PER yuko 0 1 0 0 0 0 1 5 0 tr table people 8 0
+W8E O w8e 0 0 0 1 0 0 1 0 0 tr table people 8 1
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 1
+9F O 9f 0 0 0 1 0 0 0 0 0 tr table people 8 1
+3922 O 3922 0 0 0 1 0 0 0 0 0 tr table people 8 2
+yuko@cs. O yuko@cs. 0 0 0 0 0 0 0 0 0 tr table people 8 3
+W8 O w8 0 0 0 1 0 0 1 0 0 tr table people 8 4
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 4
+24 O 24 0 0 0 1 0 0 0 0 0 tr table people 8 4
+
+ex. O ex. 0 0 0 0 0 0 0 0 0 div body main 5 296
+Faculty O faculty 0 0 0 0 0 0 1 0 7 div body main 5 296
+
+HAGIHARA B-PER hagihara 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Shigeki I-PER shigeki 0 1 0 0 0 0 1 5 0 tr table people 8 0
+2017.3 O 2017.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Koeki O koeki 0 0 0 0 0 0 1 0 0 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr table people 8 2
+Tohoku O tohoku 0 1 0 0 0 0 1 0 0 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Community O community 0 1 0 0 0 0 1 0 7 tr table people 8 2
+Service O service 0 1 0 0 0 0 1 2 7 tr table people 8 2
+and O and 0 1 0 0 0 0 0 0 10 tr table people 8 2
+Science O science 0 0 0 0 0 0 1 0 7 tr table people 8 2
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr table people 8 2
+
+TOKUDA B-PER tokuda 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Takehiro I-PER takehiro 0 1 0 0 0 0 1 4 0 tr table people 8 0
+2016.3 O 2016.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+
+HANATATE B-PER hanatate 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Kohei I-PER kohei 0 1 0 0 0 0 1 5 0 tr table people 8 0
+2016.3 O 2016.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+
+ISHII B-PER ishii 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Daisuke I-PER daisuke 0 1 0 0 0 0 1 6 1 tr table people 8 0
+2015.11 O 2015.11 0 0 0 1 0 0 0 0 0 tr table people 8 1
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Fukui O fukui 0 1 0 0 0 0 1 4 0 tr table people 8 2
+
+NOTO B-PER noto 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Tomoya I-PER tomoya 0 1 0 0 0 0 1 5 0 tr table people 8 0
+2015.9 O 2015.9 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Fujitsu O fujitsu 0 1 0 0 0 0 1 0 0 tr table people 8 2
+
+SATO B-PER sato 0 0 0 0 0 0 1 0 1 tr table people 8 0
+Taisuke I-PER taisuke 0 1 0 0 0 0 1 4 0 tr table people 8 0
+2015.3 O 2015.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+
+YONEZAKI B-PER yonezaki 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Naoki I-PER naoki 0 1 0 0 0 0 1 6 3 tr table people 8 0
+2015.3 O 2015.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+The O the 0 1 0 0 0 0 1 5 10 tr table people 8 2
+Open O open 0 0 0 0 0 0 1 0 7 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Japan O japan 0 0 0 0 0 0 1 0 7 tr table people 8 2
+
+SUGIYAMA B-PER sugiyama 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Masashi I-PER masashi 0 1 0 0 1 0 1 6 0 tr table people 8 0
+2014.9 O 2014.9 0 0 0 1 0 0 0 0 0 tr table people 8 1
+The O the 0 1 0 0 0 0 1 5 10 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Tokyo O tokyo 0 0 0 0 0 0 1 0 6 tr table people 8 2
+
+IIDA B-PER iida 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Ryu I-PER ryu 0 1 0 0 0 0 1 6 2 tr table people 8 0
+2014.9 O 2014.9 0 0 0 1 0 0 0 0 0 tr table people 8 1
+National O national 0 0 0 0 0 0 1 0 7 tr table people 8 2
+Institute O institute 0 0 0 0 0 0 1 0 6 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Information O information 0 1 0 0 0 0 1 0 8 tr table people 8 2
+and O and 0 1 0 0 0 0 0 0 10 tr table people 8 2
+Communications O communications 0 0 0 0 0 0 1 0 5 tr table people 8 2
+Technology O technology 0 0 0 0 0 0 1 0 7 tr table people 8 2
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr table people 8 2
+NICT O nict 0 0 0 0 0 0 1 0 0 tr table people 8 2
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr table people 8 2
+
+WATANABE B-PER watanabe 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Yosuke I-PER yosuke 0 1 0 0 0 0 1 5 0 tr table people 8 0
+2014.3 O 2014.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Nagoya O nagoya 0 1 0 0 0 0 1 2 1 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+
+SUZUMURA B-PER suzumura 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Toyotaro I-PER toyotaro 0 1 0 0 0 0 1 0 0 tr table people 8 0
+2012.9 O 2012.9 0 0 0 1 0 0 0 0 0 tr table people 8 1
+IBM O ibm 0 1 0 0 0 0 1 0 4 tr table people 8 2
+Research O research 0 1 0 0 0 0 1 0 7 tr table people 8 2
+
+NAKAJIMA B-PER nakajima 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Masayuki I-PER masayuki 0 1 0 0 1 0 1 6 0 tr table people 8 0
+2012.3 O 2012.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Uppsala O uppsala 0 0 0 0 0 0 1 0 1 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+
+MORI B-PER mori 0 0 0 0 0 0 1 0 2 tr table people 8 0
+Kinji I-PER kinji 0 1 0 0 0 0 1 2 0 tr table people 8 0
+2012.3 O 2012.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Waseda O waseda 0 1 0 0 0 0 1 1 1 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+
+KAMEYA B-PER kameya 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Yoshitaka I-PER yoshitaka 0 1 0 0 0 0 1 5 0 tr table people 8 0
+2012.3 O 2012.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Meijo O meijo 0 0 0 0 0 0 1 0 0 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+
+CHANG B-PER chang 0 0 0 0 0 0 1 0 3 tr table people 8 0
+Youngha I-PER youngha 0 1 0 0 0 0 1 1 0 tr table people 8 0
+2012.3 O 2012.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Tokyo O tokyo 0 0 0 0 0 0 1 0 6 tr table people 8 2
+City O city 0 0 0 0 0 0 1 0 6 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+
+XIAODONG B-PER xiaodong 0 0 0 0 0 0 1 0 1 tr table people 8 0
+Lu I-PER lu 0 1 0 0 0 0 1 8 5 tr table people 8 0
+2012.3 O 2012.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Electronic O electronic 0 0 0 0 0 0 1 0 4 tr table people 8 2
+Navigation O navigation 0 0 0 0 0 0 1 0 8 tr table people 8 2
+Research O research 0 1 0 0 0 0 1 0 7 tr table people 8 2
+Institute O institute 0 0 0 0 0 0 1 0 6 tr table people 8 2
+
+MOCHIZUKI B-PER mochizuki 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Masahiro I-PER masahiro 0 1 0 0 1 0 1 6 1 tr table people 8 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr table people 8 0
+GSIC O gsic 0 0 0 0 0 0 1 0 0 tr table people 8 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr table people 8 0
+2011.7 O 2011.7 0 0 0 1 0 0 0 0 0 tr table people 8 1
+
+FURUI B-PER furui 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Sadaoki I-PER sadaoki 0 1 0 0 0 0 1 0 0 tr table people 8 0
+2011.3 O 2011.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Tokyo O tokyo 0 0 0 0 0 0 1 0 6 tr table people 8 2
+Institute O institute 0 0 0 0 0 0 1 0 6 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Technology O technology 0 0 0 0 0 0 1 0 7 tr table people 8 2
+; O-PUNCT ; 0 0 0 0 0 0 0 0 0 tr table people 8 2
+Toyota O toyota 0 1 0 0 0 0 1 3 2 tr table people 8 2
+Technological O technological 0 0 0 0 0 0 1 0 2 tr table people 8 2
+Institute O institute 0 0 0 0 0 0 1 0 6 tr table people 8 2
+at O at 0 1 0 0 0 0 0 0 8 tr table people 8 2
+Chicago O chicago 0 0 0 0 0 0 1 0 5 tr table people 8 2
+
+SHINOZAKI B-PER shinozaki 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Takahiro I-PER takahiro 0 1 0 0 0 0 1 6 0 tr table people 8 0
+2013.3 O 2013.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Tokyo O tokyo 0 0 0 0 0 0 1 0 6 tr table people 8 2
+Institute O institute 0 0 0 0 0 0 1 0 6 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Technology O technology 0 0 0 0 0 0 1 0 7 tr table people 8 2
+
+FUJIWARA B-PER fujiwara 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Eiji I-PER eiji 0 1 0 0 0 0 1 5 0 tr table people 8 0
+2009.3 O 2009.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+The O the 0 1 0 0 0 0 1 5 10 tr table people 8 2
+Open O open 0 0 0 0 0 0 1 0 7 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Japan O japan 0 0 0 0 0 0 1 0 7 tr table people 8 2
+
+IWANO B-PER iwano 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Koji I-PER koji 0 1 0 0 0 0 1 6 3 tr table people 8 0
+2008.8 O 2008.8 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Tokyo O tokyo 0 0 0 0 0 0 1 0 6 tr table people 8 2
+City O city 0 0 0 0 0 0 1 0 6 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+
+TOMOISHI B-PER tomoishi 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Masahiko I-PER masahiko 0 1 0 0 1 0 1 5 0 tr table people 8 0
+2007.5 O 2007.5 0 0 0 1 0 0 0 0 0 tr table people 8 1
+National O national 0 0 0 0 0 0 1 0 7 tr table people 8 2
+Institute O institute 0 0 0 0 0 0 1 0 6 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Informatics O informatics 0 0 0 0 0 0 1 0 4 tr table people 8 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 tr table people 8 2
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr table people 8 2
+08.4 O 08.4 0 0 0 1 0 0 0 0 0 tr table people 8 2
+came O came 0 0 0 0 0 0 0 0 4 tr table people 8 2
+back O back 0 0 0 0 0 0 0 0 6 tr table people 8 2
+to O to 0 1 0 0 0 0 0 0 10 tr table people 8 2
+GSIC O gsic 0 0 0 0 0 0 1 0 0 tr table people 8 2
+in O in 0 1 0 0 0 0 0 3 10 tr table people 8 2
+this O this 0 0 0 0 0 0 0 0 8 tr table people 8 2
+univ. O univ. 0 0 0 0 0 0 0 0 0 tr table people 8 2
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr table people 8 2
+
+SUZUKI B-PER suzuki 0 0 0 0 0 0 1 0 2 tr table people 8 0
+Kazuyoshi I-PER kazuyoshi 0 1 0 0 0 0 1 4 0 tr table people 8 0
+2007.4 O 2007.4 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Nagoya O nagoya 0 1 0 0 0 0 1 2 1 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+
+KOBAYASHI B-PER kobayashi 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Takashi I-PER takashi 0 1 0 0 0 0 1 7 0 tr table people 8 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 tr table people 8 0
+GSIC O gsic 0 0 0 0 0 0 1 0 0 tr table people 8 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 tr table people 8 0
+2007.2 O 2007.2 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Nagoya O nagoya 0 1 0 0 0 0 1 2 1 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+
+TAKAHASHI B-PER takahashi 0 0 0 0 0 0 1 0 1 tr table people 8 0
+Hiroki I-PER hiroki 0 1 0 0 0 0 1 6 1 tr table people 8 0
+2006.4 O 2006.4 0 0 0 1 0 0 0 0 0 tr table people 8 1
+The O the 0 1 0 0 0 0 1 5 10 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Electro O electro 0 0 0 0 0 0 1 0 1 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+Communications O communications 0 0 0 0 0 0 1 0 5 tr table people 8 2
+
+HASHIMOTO B-PER hashimoto 0 0 0 0 0 0 1 0 2 tr table people 8 0
+Taiichi I-PER taiichi 0 1 0 0 0 0 1 1 0 tr table people 8 0
+2006.4 O 2006.4 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Integrated O integrated 0 0 0 0 0 0 1 0 4 tr table people 8 2
+Research O research 0 1 0 0 0 0 1 0 7 tr table people 8 2
+Institute O institute 0 0 0 0 0 0 1 0 6 tr table people 8 2
+
+SUZUKI B-PER suzuki 0 0 0 0 0 0 1 0 2 tr table people 8 0
+Tetsuya I-PER tetsuya 0 1 0 0 0 0 1 6 0 tr table people 8 0
+2005.3 O 2005.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Shibaura O shibaura 0 0 0 0 0 0 1 0 0 tr table people 8 2
+Institute O institute 0 0 0 0 0 0 1 0 6 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Technology O technology 0 0 0 0 0 0 1 0 7 tr table people 8 2
+
+MORIYAMA B-PER moriyama 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Kouichi I-PER kouichi 0 1 0 0 0 0 1 5 0 tr table people 8 0
+2005.3 O 2005.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Osaka O osaka 0 1 0 0 0 0 1 3 2 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+
+FUJITA B-PER fujita 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Syohei I-PER syohei 0 1 0 0 0 0 1 2 0 tr table people 8 0
+2005.3 O 2005.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+
+OGAWA B-PER ogawa 0 0 0 0 0 0 1 0 1 tr table people 8 0
+Hidemitsu I-PER hidemitsu 0 1 0 0 0 0 1 2 0 tr table people 8 0
+2005.3 O 2005.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Tokyo O tokyo 0 0 0 0 0 0 1 0 6 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+and O and 0 1 0 0 0 0 0 0 10 tr table people 8 2
+Graduate O graduate 0 1 0 0 0 0 1 0 6 tr table people 8 2
+School O school 0 1 0 0 0 0 1 0 7 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Social O social 0 0 0 0 0 0 1 0 6 tr table people 8 2
+Welfare O welfare 0 1 0 0 0 0 1 0 3 tr table people 8 2
+
+TANAKA B-PER tanaka 0 0 0 0 0 0 1 0 2 tr table people 8 0
+Hozumi I-PER hozumi 0 1 0 0 0 0 1 3 0 tr table people 8 0
+2005.3 O 2005.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Chukyo O chukyo 0 0 0 0 0 0 1 0 0 tr table people 8 2
+University/Integrated O university/integrated 0 0 0 0 0 0 1 0 0 tr table people 8 2
+Research O research 0 1 0 0 0 0 1 0 7 tr table people 8 2
+Institute O institute 0 0 0 0 0 0 1 0 6 tr table people 8 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 tr table people 8 2
+Tokyo O tokyo 0 0 0 0 0 0 1 0 6 tr table people 8 2
+Institute O institute 0 0 0 0 0 0 1 0 6 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Technology O technology 0 0 0 0 0 0 1 0 7 tr table people 8 2
+
+KOBAYASHI B-PER kobayashi 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Naoki I-PER naoki 0 1 0 0 0 0 1 6 3 tr table people 8 0
+2004.10 O 2004.10 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Tohoku O tohoku 0 1 0 0 0 0 1 0 0 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+
+SAKURAI B-PER sakurai 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Seiichiro I-PER seiichiro 0 1 0 0 0 0 1 4 0 tr table people 8 0
+2004.4 O 2004.4 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Meiji O meiji 0 0 0 0 0 0 1 0 0 tr table people 8 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 tr table people 8 2
+Gakuin O gakuin 0 0 0 0 0 0 1 0 0 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+
+NUMAO B-PER numao 0 0 0 0 0 0 1 0 0 td tr people 9 0
+Masayuki I-PER masayuki 0 1 0 0 1 0 1 6 0 td tr people 9 0
+2003.4 O 2003.4 0 0 0 1 0 0 0 0 0 tr table people 8 2
+Osaka O osaka 0 1 0 0 0 0 1 3 2 tr table people 8 3
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 3
+
+HAYASHI B-PER hayashi 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Masaki I-PER masaki 0 1 0 0 1 0 1 6 0 tr table people 8 0
+2003.4 O 2003.4 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Japan O japan 0 0 0 0 0 0 1 0 7 tr table people 8 2
+Broadcasting O broadcasting 0 0 0 0 0 0 1 0 4 tr table people 8 2
+Cooperation O cooperation 0 0 0 0 0 0 1 0 6 tr table people 8 2
+
+KUMAZAWA B-PER kumazawa 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Itsuo I-PER itsuo 0 1 0 0 0 0 1 3 0 tr table people 8 0
+2002.4 O 2002.4 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Imaging O imaging 0 0 0 0 0 0 1 0 3 tr table people 8 2
+Science O science 0 0 0 0 0 0 1 0 7 tr table people 8 2
+and O and 0 1 0 0 0 0 0 0 10 tr table people 8 2
+Engineering O engineering 0 0 0 0 0 0 1 0 7 tr table people 8 2
+Laboratory O laboratory 0 0 0 0 0 0 1 0 5 tr table people 8 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 tr table people 8 2
+Tokyo O tokyo 0 0 0 0 0 0 1 0 6 tr table people 8 2
+Institute O institute 0 0 0 0 0 0 1 0 6 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Technology O technology 0 0 0 0 0 0 1 0 7 tr table people 8 2
+
+YONEDA B-PER yoneda 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Tomohiro I-PER tomohiro 0 1 0 0 0 0 1 6 0 tr table people 8 0
+2002.4 O 2002.4 0 0 0 1 0 0 0 0 0 tr table people 8 1
+National O national 0 0 0 0 0 0 1 0 7 tr table people 8 2
+Institute O institute 0 0 0 0 0 0 1 0 6 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Informatics O informatics 0 0 0 0 0 0 1 0 4 tr table people 8 2
+
+SUZUKI B-PER suzuki 0 0 0 0 0 0 1 0 2 tr table people 8 0
+Masato I-PER masato 0 1 0 0 1 0 1 6 0 tr table people 8 0
+2002.3 O 2002.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Japan O japan 0 0 0 0 0 0 1 0 7 tr table people 8 2
+Advanced O advanced 0 0 0 0 0 0 1 0 5 tr table people 8 2
+Institute O institute 0 0 0 0 0 0 1 0 6 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Science O science 0 0 0 0 0 0 1 0 7 tr table people 8 2
+and O and 0 1 0 0 0 0 0 0 10 tr table people 8 2
+Technology O technology 0 0 0 0 0 0 1 0 7 tr table people 8 2
+
+SHIRAI B-PER shirai 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Kiyoaki I-PER kiyoaki 0 1 0 0 0 0 1 2 0 tr table people 8 0
+2001.4 O 2001.4 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Japan O japan 0 0 0 0 0 0 1 0 7 tr table people 8 2
+Advanced O advanced 0 0 0 0 0 0 1 0 5 tr table people 8 2
+Institute O institute 0 0 0 0 0 0 1 0 6 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Science O science 0 0 0 0 0 0 1 0 7 tr table people 8 2
+and O and 0 1 0 0 0 0 0 0 10 tr table people 8 2
+Technology O technology 0 0 0 0 0 0 1 0 7 tr table people 8 2
+
+YOSHIURA B-PER yoshiura 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Noriaki I-PER noriaki 0 1 0 0 0 0 1 5 0 tr table people 8 0
+2001.4 O 2001.4 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Gunma O gunma 0 0 0 0 0 0 1 0 0 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+
+HIRABAYASHI B-PER hirabayashi 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Akira I-PER akira 0 1 0 0 0 0 1 6 1 tr table people 8 0
+2000.9 O 2000.9 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Yamaguchi O yamaguchi 0 1 0 0 0 0 1 6 0 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+
+KITAKAMI B-PER kitakami 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Masato I-PER masato 0 1 0 0 1 0 1 6 0 tr table people 8 0
+1999.12 O 1999.12 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Chiba O chiba 0 1 0 0 0 0 1 5 1 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+
+UENO B-PER ueno 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Yoichiro I-PER yoichiro 0 1 0 0 0 0 1 4 0 tr table people 8 0
+1998.3 O 1998.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Tokyo O tokyo 0 0 0 0 0 0 1 0 6 tr table people 8 2
+Denki O denki 0 0 0 0 0 0 1 0 0 tr table people 8 2
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+
+NAN'YA B-PER nan'ya 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Takashi I-PER takashi 0 1 0 0 0 0 1 7 0 tr table people 8 0
+1998.3 O 1998.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+University O university 0 1 0 0 0 0 1 1 8 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Tokyo O tokyo 0 0 0 0 0 0 1 0 6 tr table people 8 2
+
+SIMURA B-PER simura 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Masamichi I-PER masamichi 0 1 0 0 1 0 1 4 0 tr table people 8 0
+1997.3 O 1997.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Musashi O musashi 0 1 0 0 1 0 1 1 0 tr table people 8 2
+Institute O institute 0 0 0 0 0 0 1 0 6 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Technology O technology 0 0 0 0 0 0 1 0 7 tr table people 8 2
+
+WATANABE B-PER watanabe 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Osamu I-PER osamu 0 1 0 0 0 0 1 6 0 tr table people 8 0
+1997.3 O 1997.3 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Department O department 0 0 0 0 0 0 1 0 7 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Mathematical O mathematical 0 0 0 0 0 0 1 0 4 tr table people 8 2
+and O and 0 1 0 0 0 0 0 0 10 tr table people 8 2
+Computing O computing 0 0 0 0 0 0 1 0 6 tr table people 8 2
+Sciences O sciences 0 0 0 0 0 0 1 0 7 tr table people 8 2
+
+KATAYAMA B-PER katayama 0 0 0 0 0 0 1 0 0 tr table people 8 0
+Takuya I-PER takuya 0 1 0 0 0 0 1 6 0 tr table people 8 0
+1996.9 O 1996.9 0 0 0 1 0 0 0 0 0 tr table people 8 1
+Japan O japan 0 0 0 0 0 0 1 0 7 tr table people 8 2
+Advanced O advanced 0 0 0 0 0 0 1 0 5 tr table people 8 2
+Institute O institute 0 0 0 0 0 0 1 0 6 tr table people 8 2
+of O of 0 1 0 0 0 0 0 2 10 tr table people 8 2
+Science O science 0 0 0 0 0 0 1 0 7 tr table people 8 2
+and O and 0 1 0 0 0 0 0 0 10 tr table people 8 2
+Technology O technology 0 0 0 0 0 0 1 0 7 tr table people 8 2
+
+www O www 0 0 0 0 0 0 0 0 8 body html none 4 526
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 body html none 4 526
+admin O admin 0 0 0 0 0 0 0 0 4 body html none 4 526
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 body html none 4 526
+@ O @ 0 1 0 0 0 0 0 0 0 body html none 4 526
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 body html none 4 526
+cs.titech.ac.jp O cs.titech.ac.jp 0 0 0 0 0 0 0 0 0 body html none 4 526

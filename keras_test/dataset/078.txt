@@ -1,526 +1,526 @@
-Department O department 0 0 0 0 0 0 1 head html none 4 5
-of O of 0 1 0 0 0 0 0 head html none 4 5
-Information O information 0 1 0 0 0 0 1 head html none 4 5
-Science O science 0 0 0 0 0 0 1 head html none 4 5
-: O : 0 0 0 0 0 0 0 head html none 4 5
-Staff O staff 0 1 0 0 0 0 1 head html none 4 5
-| O | 0 0 0 0 0 0 0 head html none 4 5
-TOHOKU O tohoku 0 0 0 0 0 0 1 head html none 4 5
-GAKUIN O gakuin 0 0 0 0 0 0 1 head html none 4 5
-UNIVERSITY O university 0 0 0 0 0 0 1 head html none 4 5
-
-Access O access 0 1 0 0 0 0 1 li ul mb-none 8 0
-
-Site O site 0 1 0 0 0 0 1 li ul mb-none 8 0
-Map O map 0 0 0 0 0 0 1 li ul mb-none 8 0
+Department O department 0 0 0 0 0 0 1 0 7 head html none 4 5
+of O of 0 1 0 0 0 0 0 2 10 head html none 4 5
+Information O information 0 1 0 0 0 0 1 0 8 head html none 4 5
+Science O science 0 0 0 0 0 0 1 0 7 head html none 4 5
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 head html none 4 5
+Staff O staff 0 1 0 0 0 0 1 2 7 head html none 4 5
+| O | 0 0 0 0 0 0 0 0 0 head html none 4 5
+TOHOKU O tohoku 0 0 0 0 0 0 1 0 0 head html none 4 5
+GAKUIN O gakuin 0 0 0 0 0 0 1 0 0 head html none 4 5
+UNIVERSITY O university 0 0 0 0 0 0 1 0 8 head html none 4 5
+
+Access O access 0 1 0 0 0 0 1 0 6 li ul mb-none 8 0
+
+Site O site 0 1 0 0 0 0 1 0 8 li ul mb-none 8 0
+Map O map 0 0 0 0 0 0 1 0 6 li ul mb-none 8 0
 
-Japanese O japanese 0 0 0 0 0 0 1 li ul mb-none 8 0
-
-Chinese O chinese 0 0 0 0 0 0 1 li ul mb-none 8 0
+Japanese O japanese 0 0 0 0 0 0 1 0 4 li ul mb-none 8 0
+
+Chinese O chinese 0 0 0 0 0 0 1 0 6 li ul mb-none 8 0
 
-Message O message 0 1 0 0 1 0 1 li ul rOver 7 0
-from O from 0 0 0 0 0 0 0 li ul rOver 7 0
-the O the 0 1 0 0 0 0 0 li ul rOver 7 0
-President O president 0 1 0 0 0 0 1 li ul rOver 7 0
+Message O message 0 1 0 0 1 0 1 0 7 li ul rOver 7 0
+from O from 0 0 0 0 0 0 0 0 8 li ul rOver 7 0
+the O the 0 1 0 0 0 0 0 0 10 li ul rOver 7 0
+President O president 0 1 0 0 0 0 1 1 8 li ul rOver 7 0
 
-Tohoku O tohoku 0 1 0 0 0 0 1 li ul rOver 7 0
-Gakuin O gakuin 0 0 0 0 0 0 1 li ul rOver 7 0
-University O university 0 1 0 0 0 0 1 li ul rOver 7 0
-at O at 0 0 0 0 0 0 0 li ul rOver 7 0
-a O a 0 1 0 0 0 0 0 li ul rOver 7 0
-Glance O glance 0 1 0 0 0 0 1 li ul rOver 7 0
+Tohoku O tohoku 0 1 0 0 0 0 1 0 0 li ul rOver 7 0
+Gakuin O gakuin 0 0 0 0 0 0 1 0 0 li ul rOver 7 0
+University O university 0 1 0 0 0 0 1 1 8 li ul rOver 7 0
+at O at 0 1 0 0 0 0 0 0 8 li ul rOver 7 0
+a O a 0 1 0 0 0 0 0 3 11 li ul rOver 7 0
+Glance O glance 0 1 0 0 0 0 1 2 1 li ul rOver 7 0
 
-Faculties O faculties 0 0 0 0 0 0 1 li ul rOver 7 0
-and O and 0 1 0 0 0 0 0 li ul rOver 7 0
-Graduate O graduate 1 1 0 0 0 0 1 li ul rOver 7 0
-School O school 0 1 0 0 0 0 1 li ul rOver 7 0
+Faculties O faculties 0 0 0 0 0 0 1 0 4 li ul rOver 7 0
+and O and 0 1 0 0 0 0 0 0 10 li ul rOver 7 0
+Graduate O graduate 0 1 0 0 0 0 1 0 6 li ul rOver 7 0
+School O school 0 1 0 0 0 0 1 0 7 li ul rOver 7 0
 
-Tuition O tuition 0 0 0 0 0 0 1 li ul rOver 7 0
-and O and 0 1 0 0 0 0 0 li ul rOver 7 0
-Fees O fees 0 0 0 0 0 0 1 li ul rOver 7 0
+Tuition O tuition 0 0 0 0 0 0 1 0 6 li ul rOver 7 0
+and O and 0 1 0 0 0 0 0 0 10 li ul rOver 7 0
+Fees O fees 0 0 0 0 0 0 1 0 6 li ul rOver 7 0
 
-International O international 0 0 0 0 0 0 1 li ul rOver 7 0
-Exchange O exchange 0 0 0 0 0 0 1 li ul rOver 7 0
+International O international 0 0 0 0 0 0 1 0 8 li ul rOver 7 0
+Exchange O exchange 0 0 0 0 0 0 1 0 5 li ul rOver 7 0
 
-Extra O extra 0 0 0 0 0 0 1 li ul rOver 7 0
-- O - 0 0 0 0 0 0 0 li ul rOver 7 0
-Curricular O curricular 0 0 0 0 0 0 1 li ul rOver 7 0
-Activities O activities 0 0 0 0 0 0 1 li ul rOver 7 0
-
-Career O career 0 0 0 0 0 0 1 li ul rOver 7 0
-Placement O placement 0 0 0 0 0 0 1 li ul rOver 7 0
-
-Location O location 0 0 0 0 0 0 1 li ul rOver 7 0
-of O of 0 1 0 0 0 0 0 li ul rOver 7 0
-Tohoku O tohoku 0 1 0 0 0 0 1 li ul rOver 7 0
-Gakuin O gakuin 0 0 0 0 0 0 1 li ul rOver 7 0
-University O university 0 1 0 0 0 0 1 li ul rOver 7 0
-
-Campus O campus 0 1 0 0 0 0 1 li ul gnav-sub 7 0
-Map O map 0 0 0 0 0 0 1 li ul gnav-sub 7 0
-
-Access O access 0 1 0 0 0 0 1 li ul gnav-sub 7 0
-
-Japanese O japanese 0 0 0 0 0 0 1 li ul language 7 0
-
-Chinese O chinese 0 0 0 0 0 0 1 li ul language 7 0
-
-HOME O home 0 0 0 0 0 0 1 li ol facultyCmn 9 0
-> O > 0 0 0 0 0 0 0 ol div facultyCmn 8 0
-
-Faculties O faculties 0 0 0 0 0 0 1 li ol facultyCmn 9 0
-and O and 0 1 0 0 0 0 0 li ol facultyCmn 9 0
-Graduate O graduate 1 1 0 0 0 0 1 li ol facultyCmn 9 0
-School O school 0 1 0 0 0 0 1 li ol facultyCmn 9 0
-> O > 0 0 0 0 0 0 0 ol div facultyCmn 8 2
-
-Faculty O faculty 0 0 0 0 0 0 1 li ol facultyCmn 9 0
-of O of 0 1 0 0 0 0 0 li ol facultyCmn 9 0
-Liberal O liberal 0 1 0 0 0 0 1 li ol facultyCmn 9 0
-Arts O arts 0 1 0 0 0 0 1 li ol facultyCmn 9 0
-> O > 0 0 0 0 0 0 0 ol div facultyCmn 8 4
-
-Department O department 0 0 0 0 0 0 1 li ol facultyCmn 9 0
-of O of 0 1 0 0 0 0 0 li ol facultyCmn 9 0
-Information O information 0 1 0 0 0 0 1 li ol facultyCmn 9 0
-Science O science 0 0 0 0 0 0 1 li ol facultyCmn 9 0
-> O > 0 0 0 0 0 0 0 ol div facultyCmn 8 6
-
-Staff O staff 0 1 0 0 0 0 1 ol div facultyCmn 8 8
-
-[Professor] O [professor] 0 0 0 0 0 0 0 div div h03 8 2
-
-ITO B-PER ito 0 0 0 0 0 0 1 dl div staffDl 9 0
-, I-PER , 0 0 0 0 0 0 0 dl div staffDl 9 0
-Noriyuki I-PER noriyuki 0 1 0 0 0 0 1 dl div staffDl 9 0
-
-Computer O computer 0 0 0 0 0 0 1 dl div staffDl 9 1
-Design O design 0 0 0 0 0 0 1 dl div staffDl 9 1
-, O , 0 0 0 0 0 0 0 dl div staffDl 9 1
-Software O software 0 1 0 0 0 0 1 dl div staffDl 9 1
-Engineering O engineering 0 0 0 0 0 0 1 dl div staffDl 9 1
-
-KAMINOGO B-PER kaminogo 0 0 0 0 0 0 1 dl div staffDl 9 2
-, I-PER , 0 0 0 0 0 0 0 dl div staffDl 9 2
-Takashi I-PER takashi 0 1 0 0 0 0 1 dl div staffDl 9 2
-
-Differential O differential 0 0 0 0 0 0 1 dl div staffDl 9 3
-Equations O equations 0 0 0 0 0 0 1 dl div staffDl 9 3
-
-KOBAYASHI B-PER kobayashi 0 0 0 0 0 0 1 dl div staffDl 9 4
-, I-PER , 0 0 0 0 0 0 0 dl div staffDl 9 4
-Zenji I-PER zenji 0 1 0 0 0 0 1 dl div staffDl 9 4
-
-Algebra O algebra 0 0 0 0 0 0 1 dl div staffDl 9 5
-
-MATSUO B-PER matsuo 0 0 0 0 0 0 1 dl div staffDl 9 6
-, I-PER , 0 0 0 0 0 0 0 dl div staffDl 9 6
-Ikuo I-PER ikuo 0 1 0 0 0 0 1 dl div staffDl 9 6
-
-Bioacoustics O bioacoustics 0 0 0 0 0 0 1 dl div staffDl 9 7
-
-OTOFUJI B-PER otofuji 0 0 0 0 0 0 1 dl div staffDl 9 8
-, I-PER , 0 0 0 0 0 0 0 dl div staffDl 9 8
-Takeshi I-PER takeshi 0 1 0 0 0 0 1 dl div staffDl 9 8
-
-Computer O computer 0 0 0 0 0 0 1 dl div staffDl 9 9
-Science O science 0 0 0 0 0 0 1 dl div staffDl 9 9
-, O , 0 0 0 0 0 0 0 dl div staffDl 9 9
-Physics O physics 0 0 0 0 0 0 1 dl div staffDl 9 9
-
-SAKAMOTO B-PER sakamoto 0 0 0 0 0 0 1 dl div staffDl 9 10
-, I-PER , 0 0 0 0 0 0 0 dl div staffDl 9 10
-Yasunobu I-PER yasunobu 0 1 0 0 0 0 1 dl div staffDl 9 10
-
-Distributed O distributed 0 0 0 0 0 0 1 dl div staffDl 9 11
-Data O data 0 1 0 0 0 0 1 dl div staffDl 9 11
-Acquisition O acquisition 0 0 0 0 0 0 1 dl div staffDl 9 11
-Systems O systems 0 0 0 0 0 0 1 dl div staffDl 9 11
-
-SHIOTA B-PER shiota 0 0 0 0 0 0 1 dl div staffDl 9 12
-, I-PER , 0 0 0 0 0 0 0 dl div staffDl 9 12
-Yasunobu I-PER yasunobu 0 1 0 0 0 0 1 dl div staffDl 9 12
-
-Computer O computer 0 0 0 0 0 0 1 dl div staffDl 9 13
-Science O science 0 0 0 0 0 0 1 dl div staffDl 9 13
-, O , 0 0 0 0 0 0 0 dl div staffDl 9 13
-Discrete O discrete 0 0 0 0 0 0 1 dl div staffDl 9 13
-Mathematics O mathematics 0 0 0 0 0 0 1 dl div staffDl 9 13
-
-SUGAWARA B-PER sugawara 0 0 0 0 0 0 1 dl div staffDl 9 14
-, I-PER , 0 0 0 0 0 0 0 dl div staffDl 9 14
-Ken I-PER ken 0 1 0 0 0 0 1 dl div staffDl 9 14
-
-Robotics O robotics 0 0 0 0 0 0 1 dl div staffDl 9 15
-, O , 0 0 0 0 0 0 0 dl div staffDl 9 15
-Autonomous O autonomous 0 0 0 0 0 0 1 dl div staffDl 9 15
-Distributed O distributed 0 0 0 0 0 0 1 dl div staffDl 9 15
-Systems O systems 0 0 0 0 0 0 1 dl div staffDl 9 15
-
-SUGIURA B-PER sugiura 0 0 0 0 0 0 1 dl div staffDl 9 16
-, I-PER , 0 0 0 0 0 0 0 dl div staffDl 9 16
-Shigeki I-PER shigeki 0 1 0 0 0 0 1 dl div staffDl 9 16
-
-Communication O communication 0 0 0 0 0 0 1 dl div staffDl 9 17
-Networks O networks 0 0 0 0 0 0 1 dl div staffDl 9 17
-, O , 0 0 0 0 0 0 0 dl div staffDl 9 17
-Communication O communication 0 0 0 0 0 0 1 dl div staffDl 9 17
-Theory O theory 0 0 0 0 0 0 1 dl div staffDl 9 17
-
-[Associate O [associate 0 0 0 0 0 0 0 div div h03 8 22
-professor] O professor] 0 0 0 0 1 0 0 div div h03 8 22
-
-HOSHINO B-PER hoshino 0 0 0 0 0 0 1 dl div staffDl 9 0
-, I-PER , 0 0 0 0 0 0 0 dl div staffDl 9 0
-Masaki I-PER masaki 0 1 0 0 1 0 1 dl div staffDl 9 0
-
-Partial O partial 0 0 0 0 0 0 1 dl div staffDl 9 1
-Differential O differential 0 0 0 0 0 0 1 dl div staffDl 9 1
-Equations O equations 0 0 0 0 0 0 1 dl div staffDl 9 1
-
-IWATA B-PER iwata 0 0 0 0 0 0 1 dl div staffDl 9 2
-, I-PER , 0 0 0 0 0 0 0 dl div staffDl 9 2
-Yukiko I-PER yukiko 0 1 0 0 0 0 1 dl div staffDl 9 2
-
-Ergodic O ergodic 0 0 0 0 0 0 1 dl div staffDl 9 3
-Theory O theory 0 0 0 0 0 0 1 dl div staffDl 9 3
-, O , 0 0 0 0 0 0 0 dl div staffDl 9 3
-Random O random 0 0 0 0 0 0 1 dl div staffDl 9 3
-Dynamical O dynamical 0 0 0 0 0 0 1 dl div staffDl 9 3
-System O system 0 0 0 0 0 0 1 dl div staffDl 9 3
-
-MAKINO B-PER makino 0 0 0 0 0 0 1 dl div staffDl 9 4
-, I-PER , 0 0 0 0 0 0 0 dl div staffDl 9 4
-Yoshinari I-PER yoshinari 0 1 0 0 0 0 1 dl div staffDl 9 4
-
-Biological O biological 0 0 0 0 0 0 1 dl div staffDl 9 5
-Systems O systems 0 0 0 0 0 0 1 dl div staffDl 9 5
-, O , 0 0 0 0 0 0 0 dl div staffDl 9 5
-Biological O biological 0 0 0 0 0 0 1 dl div staffDl 9 5
-Computation O computation 0 0 0 0 0 0 1 dl div staffDl 9 5
-
-MATSUMOTO B-PER matsumoto 0 0 0 0 0 0 1 dl div staffDl 9 6
-, I-PER , 0 0 0 0 0 0 0 dl div staffDl 9 6
-Akiyo I-PER akiyo 0 1 0 0 0 0 1 dl div staffDl 9 6
-
-Natural O natural 0 0 0 0 0 0 1 dl div staffDl 9 7
-Language O language 0 0 0 0 0 0 1 dl div staffDl 9 7
-Processing O processing 0 0 0 0 0 0 1 dl div staffDl 9 7
-
-MURAKAMI B-PER murakami 0 0 0 0 0 0 1 dl div staffDl 9 8
-, I-PER , 0 0 0 0 0 0 0 dl div staffDl 9 8
-Hiroshi I-PER hiroshi 0 1 0 0 0 0 1 dl div staffDl 9 8
-
-X O x 0 0 0 0 0 0 1 dl div staffDl 9 9
-- O - 0 0 0 0 0 0 0 dl div staffDl 9 9
-ray O ray 0 0 0 0 0 0 0 dl div staffDl 9 9
-Astronomy O astronomy 0 0 0 0 0 0 1 dl div staffDl 9 9
-
-SATO B-PER sato 0 0 0 0 0 0 1 dl div staffDl 9 10
-, I-PER , 0 0 0 0 0 0 0 dl div staffDl 9 10
-Atsushi I-PER atsushi 0 1 0 0 0 0 1 dl div staffDl 9 10
-
-Arithmetic O arithmetic 0 0 0 0 0 0 1 dl div staffDl 9 11
-Geometry O geometry 0 0 0 0 0 0 1 dl div staffDl 9 11
-
-TAKEDA B-PER takeda 0 0 0 0 0 0 1 dl div staffDl 9 12
-, I-PER , 0 0 0 0 0 0 0 dl div staffDl 9 12
-Atsushi I-PER atsushi 0 1 0 0 0 0 1 dl div staffDl 9 12
-
-Computer O computer 0 0 0 0 0 0 1 dl div staffDl 9 13
-Network O network 0 0 0 0 0 0 1 dl div staffDl 9 13
-
-TSUCHIHARA B-PER tsuchihara 0 0 0 0 0 0 1 dl div staffDl 9 14
-, I-PER , 0 0 0 0 0 0 0 dl div staffDl 9 14
-Kazuko I-PER kazuko 0 1 0 0 0 0 1 dl div staffDl 9 14
-
-Biochemistry O biochemistry 0 0 0 0 0 0 1 dl div staffDl 9 15
-, O , 0 0 0 0 0 0 0 dl div staffDl 9 15
-Sensory O sensory 0 0 0 0 0 0 1 dl div staffDl 9 15
-Reception O reception 0 0 0 0 0 0 1 dl div staffDl 9 15
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul facultyCmn 12 0
-of O of 0 1 0 0 0 0 0 li ul facultyCmn 12 0
-Letters O letters 0 1 0 0 0 0 1 li ul facultyCmn 12 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul facultyCmn 12 0
-of O of 0 1 0 0 0 0 0 li ul facultyCmn 12 0
-Economics O economics 0 0 0 0 0 0 1 li ul facultyCmn 12 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul facultyCmn 12 0
-of O of 0 1 0 0 0 0 0 li ul facultyCmn 12 0
-Business O business 0 0 0 0 0 0 1 li ul facultyCmn 12 0
-Administration O administration 0 0 0 0 0 0 1 li ul facultyCmn 12 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul facultyCmn 12 0
-of O of 0 1 0 0 0 0 0 li ul facultyCmn 12 0
-Law O law 0 1 0 0 0 0 1 li ul facultyCmn 12 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul facultyCmn 12 0
-of O of 0 1 0 0 0 0 0 li ul facultyCmn 12 0
-Engineering O engineering 0 0 0 0 0 0 1 li ul facultyCmn 12 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul facultyCmn 12 0
-of O of 0 1 0 0 0 0 0 li ul facultyCmn 12 0
-Liberal O liberal 0 1 0 0 0 0 1 li ul facultyCmn 12 0
-Arts O arts 0 1 0 0 0 0 1 li ul facultyCmn 12 0
-
-Graduate O graduate 1 1 0 0 0 0 1 li ul facultyCmn 12 0
-School O school 0 1 0 0 0 0 1 li ul facultyCmn 12 0
-
-Page O page 0 1 0 0 0 0 1 p div pageTop 7 0
-Top O top 0 1 0 0 0 0 1 p div pageTop 7 0
-
-Site O site 0 1 0 0 0 0 1 li ul pc-none 8 0
-Map O map 0 0 0 0 0 0 1 li ul pc-none 8 0
-
-Campus O campus 0 1 0 0 0 0 1 li ul mb-none 8 0
-Map O map 0 0 0 0 0 0 1 li ul mb-none 8 0
-
-Inquiries O inquiries 0 0 0 0 0 0 1 li ul mgb10 8 0
-
-Message O message 0 1 0 0 1 0 1 dt dl inBox 9 0
-from O from 0 0 0 0 0 0 0 dt dl inBox 9 0
-the O the 0 1 0 0 0 0 0 dt dl inBox 9 0
-President O president 0 1 0 0 0 0 1 dt dl inBox 9 0
-
-Tohoku O tohoku 0 1 0 0 0 0 1 dt dl inBox 9 0
-Gakuin O gakuin 0 0 0 0 0 0 1 dt dl inBox 9 0
-University O university 0 1 0 0 0 0 1 dt dl inBox 9 0
-at O at 0 0 0 0 0 0 0 dt dl inBox 9 0
-a O a 0 1 0 0 0 0 0 dt dl inBox 9 0
-Glance O glance 0 1 0 0 0 0 1 dt dl inBox 9 0
-
-“ O “ 0 0 0 0 0 0 0 li ul mgb20 11 0
-Three O three 0 0 0 0 0 0 1 li ul mgb20 11 0
-- O - 0 0 0 0 0 0 0 li ul mgb20 11 0
-part O part 0 0 0 0 0 0 0 li ul mgb20 11 0
-plan O plan 0 0 0 0 0 0 0 li ul mgb20 11 0
-” O ” 0 0 0 0 0 0 0 li ul mgb20 11 0
-on O on 0 0 0 0 0 0 0 li ul mgb20 11 0
-education O education 0 0 0 0 0 0 0 li ul mgb20 11 0
-
-History O history 0 0 0 0 0 0 1 li ul mgb20 11 0
-
-Academic O academic 0 0 0 0 0 0 1 li ul mgb20 11 0
-Calender O calender 0 0 0 0 0 0 1 li ul mgb20 11 0
-
-Organization O organization 0 0 0 0 0 0 1 li ul mgb20 11 0
-
-Institutional O institutional 0 0 0 0 0 0 1 li ul mgb20 11 0
-Data O data 0 1 0 0 0 0 1 li ul mgb20 11 0
-
-Faculties O faculties 0 0 0 0 0 0 1 dt dl inBox 9 0
-and O and 0 1 0 0 0 0 0 dt dl inBox 9 0
-Graduate O graduate 1 1 0 0 0 0 1 dt dl inBox 9 0
-School O school 0 1 0 0 0 0 1 dt dl inBox 9 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul inBox 11 0
-of O of 0 1 0 0 0 0 0 li ul inBox 11 0
-Letters O letters 0 1 0 0 0 0 1 li ul inBox 11 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul inBox 11 0
-of O of 0 1 0 0 0 0 0 li ul inBox 11 0
-Economics O economics 0 0 0 0 0 0 1 li ul inBox 11 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul inBox 11 0
-of O of 0 1 0 0 0 0 0 li ul inBox 11 0
-Business O business 0 0 0 0 0 0 1 li ul inBox 11 0
-Administration O administration 0 0 0 0 0 0 1 li ul inBox 11 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul inBox 11 0
-of O of 0 1 0 0 0 0 0 li ul inBox 11 0
-Law O law 0 1 0 0 0 0 1 li ul inBox 11 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul inBox 11 0
-of O of 0 1 0 0 0 0 0 li ul inBox 11 0
-Engineering O engineering 0 0 0 0 0 0 1 li ul inBox 11 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul inBox 11 0
-of O of 0 1 0 0 0 0 0 li ul inBox 11 0
-Liberal O liberal 0 1 0 0 0 0 1 li ul inBox 11 0
-Arts O arts 0 1 0 0 0 0 1 li ul inBox 11 0
-
-Graduate O graduate 1 1 0 0 0 0 1 li ul inBox 11 0
-School O school 0 1 0 0 0 0 1 li ul inBox 11 0
-
-Tuition O tuition 0 0 0 0 0 0 1 dt dl inBox 9 0
-and O and 0 1 0 0 0 0 0 dt dl inBox 9 0
-Fees O fees 0 0 0 0 0 0 1 dt dl inBox 9 0
-
-International O international 0 0 0 0 0 0 1 dt dl inBox 9 0
-Exchange O exchange 0 0 0 0 0 0 1 dt dl inBox 9 0
-( O ( 0 0 0 0 0 0 0 dt dl inBox 9 0
-outline O outline 0 0 0 0 0 0 0 dt dl inBox 9 0
-) O ) 0 0 0 0 0 0 0 dt dl inBox 9 0
-
-Outline O outline 0 0 0 0 0 0 1 li ul inBox 11 0
-
-Special O special 0 1 0 0 0 0 1 li ul inBox 11 0
-Programs O programs 0 0 0 0 0 0 1 li ul inBox 11 0
-for O for 0 1 0 0 0 0 0 li ul inBox 11 0
-Students O students 0 0 0 0 0 0 1 li ul inBox 11 0
-from O from 0 0 0 0 0 0 0 li ul inBox 11 0
-Our O our 0 0 0 0 0 0 1 li ul inBox 11 0
-Partner O partner 0 1 0 0 0 0 1 li ul inBox 11 0
-Universities O universities 0 0 0 0 0 0 1 li ul inBox 11 0
-
-Extra O extra 0 0 0 0 0 0 1 dt dl inBox 9 0
-- O - 0 0 0 0 0 0 0 dt dl inBox 9 0
-Curricular O curricular 0 0 0 0 0 0 1 dt dl inBox 9 0
-Activities O activities 0 0 0 0 0 0 1 dt dl inBox 9 0
-
-Career O career 0 0 0 0 0 0 1 dt dl inBox 9 0
-Placement O placement 0 0 0 0 0 0 1 dt dl inBox 9 0
-
-Employment O employment 0 0 0 0 1 0 1 li ul inBox 11 0
-Data O data 0 1 0 0 0 0 1 li ul inBox 11 0
-by O by 0 1 0 0 0 0 0 li ul inBox 11 0
-Industry O industry 0 0 0 0 0 0 1 li ul inBox 11 0
-
-Job O job 0 1 0 0 0 0 1 li ul inBox 11 0
-Postings O postings 0 0 0 0 0 0 1 li ul inBox 11 0
-
-Location O location 0 0 0 0 0 0 1 dt dl inBox 9 0
-of O of 0 1 0 0 0 0 0 dt dl inBox 9 0
-Tohoku O tohoku 0 1 0 0 0 0 1 dt dl inBox 9 0
-Gakuin O gakuin 0 0 0 0 0 0 1 dt dl inBox 9 0
-University O university 0 1 0 0 0 0 1 dt dl inBox 9 0
-
-Tohoku O tohoku 0 1 0 0 0 0 1 li ul mb-none 8 0
-Gakuin O gakuin 0 0 0 0 0 0 1 li ul mb-none 8 0
-
-Tohoku O tohoku 0 1 0 0 0 0 1 li ul mb-none 8 0
-Gakuin O gakuin 0 0 0 0 0 0 1 li ul mb-none 8 0
-Junior O junior 0 1 0 0 0 0 1 li ul mb-none 8 0
-and O and 0 1 0 0 0 0 0 li ul mb-none 8 0
-Senior O senior 0 1 0 0 0 0 1 li ul mb-none 8 0
-High O high 0 1 0 0 0 0 1 li ul mb-none 8 0
-School O school 0 1 0 0 0 0 1 li ul mb-none 8 0
-
-Tohoku O tohoku 0 1 0 0 0 0 1 li ul mb-none 8 0
-Gakuin O gakuin 0 0 0 0 0 0 1 li ul mb-none 8 0
-Tsutsujigaoka O tsutsujigaoka 0 0 0 0 0 0 1 li ul mb-none 8 0
-High O high 0 1 0 0 0 0 1 li ul mb-none 8 0
-School O school 0 1 0 0 0 0 1 li ul mb-none 8 0
-
-Tohoku O tohoku 0 1 0 0 0 0 1 li ul mb-none 8 0
-Gakuin O gakuin 0 0 0 0 0 0 1 li ul mb-none 8 0
-Kindergarten O kindergarten 0 0 0 0 0 0 1 li ul mb-none 8 0
-
-TOHOKU O tohoku 0 0 0 0 0 0 1 dt dl author 8 0
-GAKUIN O gakuin 0 0 0 0 0 0 1 dt dl author 8 0
-UNIVERSITY O university 0 0 0 0 0 0 1 dt dl author 8 0
-
-Tsuchitoi O tsuchitoi 0 1 0 0 0 0 1 dl div campusAdd 7 2
-Campus O campus 0 1 0 0 0 0 1 dl div campusAdd 7 2
-/ O / 0 0 0 0 0 0 0 dl div campusAdd 7 2
-1 O 1 0 0 0 1 0 0 0 dl div campusAdd 7 2
-- O - 0 0 0 0 0 0 0 dl div campusAdd 7 2
-3 O 3 0 0 0 1 0 0 0 dl div campusAdd 7 2
-- O - 0 0 0 0 0 0 0 dl div campusAdd 7 2
-1 O 1 0 0 0 1 0 0 0 dl div campusAdd 7 2
-Tsuchitoi O tsuchitoi 0 1 0 0 0 0 1 dl div campusAdd 7 2
-, O , 0 0 0 0 0 0 0 dl div campusAdd 7 2
-Aoba O aoba 0 0 0 0 0 0 1 dl div campusAdd 7 2
-- O - 0 0 0 0 0 0 0 dl div campusAdd 7 2
-ku O ku 0 0 0 0 0 0 0 dl div campusAdd 7 2
-, O , 0 0 0 0 0 0 0 dl div campusAdd 7 2
-Sendai O sendai 0 1 0 0 0 0 1 dl div campusAdd 7 2
-, O , 0 0 0 0 0 0 0 dl div campusAdd 7 2
-Miyagi O miyagi 0 1 0 0 0 0 1 dl div campusAdd 7 2
-980 O 980 0 0 0 1 0 0 0 dl div campusAdd 7 2
-- O - 0 0 0 0 0 0 0 dl div campusAdd 7 2
-8511 O 8511 0 0 0 1 0 0 0 dl div campusAdd 7 2
-
-Faculty O faculty 0 0 0 0 0 0 1 dl div campusAdd 7 2
-of O of 0 1 0 0 0 0 0 dl div campusAdd 7 2
-Letters O letters 0 1 0 0 0 0 1 dl div campusAdd 7 2
-, O , 0 0 0 0 0 0 0 dl div campusAdd 7 2
-Faculty O faculty 0 0 0 0 0 0 1 dl div campusAdd 7 2
-of O of 0 1 0 0 0 0 0 dl div campusAdd 7 2
-Economics O economics 0 0 0 0 0 0 1 dl div campusAdd 7 2
-, O , 0 0 0 0 0 0 0 dl div campusAdd 7 2
-Faculty O faculty 0 0 0 0 0 0 1 dl div campusAdd 7 2
-of O of 0 1 0 0 0 0 0 dl div campusAdd 7 2
-Business O business 0 0 0 0 0 0 1 dl div campusAdd 7 2
-Administration O administration 0 0 0 0 0 0 1 dl div campusAdd 7 2
-, O , 0 0 0 0 0 0 0 dl div campusAdd 7 2
-Faculty O faculty 0 0 0 0 0 0 1 dl div campusAdd 7 2
-of O of 0 1 0 0 0 0 0 dl div campusAdd 7 2
-Law O law 0 1 0 0 0 0 1 dl div campusAdd 7 2
-
-Tagajo O tagajo 0 0 0 0 0 0 1 dl div campusAdd 7 2
-Campus O campus 0 1 0 0 0 0 1 dl div campusAdd 7 2
-/ O / 0 0 0 0 0 0 0 dl div campusAdd 7 2
-1 O 1 0 0 0 1 0 0 0 dl div campusAdd 7 2
-- O - 0 0 0 0 0 0 0 dl div campusAdd 7 2
-13 O 13 0 0 0 1 0 0 0 dl div campusAdd 7 2
-- O - 0 0 0 0 0 0 0 dl div campusAdd 7 2
-1 O 1 0 0 0 1 0 0 0 dl div campusAdd 7 2
-Chuo O chuo 0 1 0 0 0 0 1 dl div campusAdd 7 2
-, O , 0 0 0 0 0 0 0 dl div campusAdd 7 2
-Tagajo O tagajo 0 0 0 0 0 0 1 dl div campusAdd 7 2
-, O , 0 0 0 0 0 0 0 dl div campusAdd 7 2
-Miyagi O miyagi 0 1 0 0 0 0 1 dl div campusAdd 7 2
-985 O 985 0 0 0 1 0 0 0 dl div campusAdd 7 2
-- O - 0 0 0 0 0 0 0 dl div campusAdd 7 2
-8537 O 8537 0 0 0 1 0 0 0 dl div campusAdd 7 2
-
-Faculty O faculty 0 0 0 0 0 0 1 dl div campusAdd 7 2
-of O of 0 1 0 0 0 0 0 dl div campusAdd 7 2
-Engineering O engineering 0 0 0 0 0 0 1 dl div campusAdd 7 2
-
-Izumi O izumi 0 1 0 0 0 0 1 dl div campusAdd 7 2
-Campus O campus 0 1 0 0 0 0 1 dl div campusAdd 7 2
-/ O / 0 0 0 0 0 0 0 dl div campusAdd 7 2
-2 O 2 0 0 0 1 0 0 0 dl div campusAdd 7 2
-- O - 0 0 0 0 0 0 0 dl div campusAdd 7 2
-1 O 1 0 0 0 1 0 0 0 dl div campusAdd 7 2
-- O - 0 0 0 0 0 0 0 dl div campusAdd 7 2
-1 O 1 0 0 0 1 0 0 0 dl div campusAdd 7 2
-Tenjinzawa O tenjinzawa 0 0 0 0 0 0 1 dl div campusAdd 7 2
-, O , 0 0 0 0 0 0 0 dl div campusAdd 7 2
-Izumi O izumi 0 1 0 0 0 0 1 dl div campusAdd 7 2
-- O - 0 0 0 0 0 0 0 dl div campusAdd 7 2
-ku O ku 0 0 0 0 0 0 0 dl div campusAdd 7 2
-, O , 0 0 0 0 0 0 0 dl div campusAdd 7 2
-Sendai O sendai 0 1 0 0 0 0 1 dl div campusAdd 7 2
-, O , 0 0 0 0 0 0 0 dl div campusAdd 7 2
-Miyagi O miyagi 0 1 0 0 0 0 1 dl div campusAdd 7 2
-981 O 981 0 0 0 1 0 0 0 dl div campusAdd 7 2
-- O - 0 0 0 0 0 0 0 dl div campusAdd 7 2
-3193 O 3193 0 0 0 1 0 0 0 dl div campusAdd 7 2
-
-Faculty O faculty 0 0 0 0 0 0 1 dl div campusAdd 7 2
-of O of 0 1 0 0 0 0 0 dl div campusAdd 7 2
-Letters O letters 0 1 0 0 0 0 1 dl div campusAdd 7 2
-, O , 0 0 0 0 0 0 0 dl div campusAdd 7 2
-Faculty O faculty 0 0 0 0 0 0 1 dl div campusAdd 7 2
-of O of 0 1 0 0 0 0 0 dl div campusAdd 7 2
-Economics O economics 0 0 0 0 0 0 1 dl div campusAdd 7 2
-, O , 0 0 0 0 0 0 0 dl div campusAdd 7 2
-Faculty O faculty 0 0 0 0 0 0 1 dl div campusAdd 7 2
-of O of 0 1 0 0 0 0 0 dl div campusAdd 7 2
-Business O business 0 0 0 0 0 0 1 dl div campusAdd 7 2
-Administration O administration 0 0 0 0 0 0 1 dl div campusAdd 7 2
-, O , 0 0 0 0 0 0 0 dl div campusAdd 7 2
-
-Faculty O faculty 0 0 0 0 0 0 1 dl div campusAdd 7 2
-of O of 0 1 0 0 0 0 0 dl div campusAdd 7 2
-Law O law 0 1 0 0 0 0 1 dl div campusAdd 7 2
-, O , 0 0 0 0 0 0 0 dl div campusAdd 7 2
-Faculty O faculty 0 0 0 0 0 0 1 dl div campusAdd 7 2
-of O of 0 1 0 0 0 0 0 dl div campusAdd 7 2
-Liberal O liberal 0 1 0 0 0 0 1 dl div campusAdd 7 2
-Arts O arts 0 1 0 0 0 0 1 dl div campusAdd 7 2
-
-Copyright O copyright 0 0 0 0 0 0 1 div div none 6 10
-( O ( 0 0 0 0 0 0 0 div div none 6 10
-C O c 0 1 0 0 0 0 1 div div none 6 10
-) O ) 0 0 0 0 0 0 0 div div none 6 10
-TOHOKU O tohoku 0 0 0 0 0 0 1 div div none 6 10
-GAKUIN O gakuin 0 0 0 0 0 0 1 div div none 6 10
-All O all 0 1 0 0 0 0 1 div div none 6 10
-Rights O rights 0 0 0 0 0 0 1 div div none 6 10
-Reserved. O reserved. 0 0 0 0 0 0 1 div div none 6 10
+Extra O extra 0 0 0 0 0 0 1 0 4 li ul rOver 7 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul rOver 7 0
+Curricular O curricular 0 0 0 0 0 0 1 0 0 li ul rOver 7 0
+Activities O activities 0 0 0 0 0 0 1 0 5 li ul rOver 7 0
+
+Career O career 0 0 0 0 0 0 1 0 8 li ul rOver 7 0
+Placement O placement 0 0 0 0 0 0 1 0 4 li ul rOver 7 0
+
+Location O location 0 0 0 0 0 0 1 0 6 li ul rOver 7 0
+of O of 0 1 0 0 0 0 0 2 10 li ul rOver 7 0
+Tohoku O tohoku 0 1 0 0 0 0 1 0 0 li ul rOver 7 0
+Gakuin O gakuin 0 0 0 0 0 0 1 0 0 li ul rOver 7 0
+University O university 0 1 0 0 0 0 1 1 8 li ul rOver 7 0
+
+Campus O campus 0 1 0 0 0 0 1 1 8 li ul gnav-sub 7 0
+Map O map 0 0 0 0 0 0 1 0 6 li ul gnav-sub 7 0
+
+Access O access 0 1 0 0 0 0 1 0 6 li ul gnav-sub 7 0
+
+Japanese O japanese 0 0 0 0 0 0 1 0 4 li ul language 7 0
+
+Chinese O chinese 0 0 0 0 0 0 1 0 6 li ul language 7 0
+
+HOME O home 0 0 0 0 0 0 1 0 6 li ol facultyCmn 9 0
+> O > 0 0 0 0 0 0 0 0 0 ol div facultyCmn 8 0
+
+Faculties O faculties 0 0 0 0 0 0 1 0 4 li ol facultyCmn 9 0
+and O and 0 1 0 0 0 0 0 0 10 li ol facultyCmn 9 0
+Graduate O graduate 0 1 0 0 0 0 1 0 6 li ol facultyCmn 9 0
+School O school 0 1 0 0 0 0 1 0 7 li ol facultyCmn 9 0
+> O > 0 0 0 0 0 0 0 0 0 ol div facultyCmn 8 2
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ol facultyCmn 9 0
+of O of 0 1 0 0 0 0 0 2 10 li ol facultyCmn 9 0
+Liberal O liberal 0 1 0 0 0 0 1 1 5 li ol facultyCmn 9 0
+Arts O arts 0 1 0 0 0 0 1 3 7 li ol facultyCmn 9 0
+> O > 0 0 0 0 0 0 0 0 0 ol div facultyCmn 8 4
+
+Department O department 0 0 0 0 0 0 1 0 7 li ol facultyCmn 9 0
+of O of 0 1 0 0 0 0 0 2 10 li ol facultyCmn 9 0
+Information O information 0 1 0 0 0 0 1 0 8 li ol facultyCmn 9 0
+Science O science 0 0 0 0 0 0 1 0 7 li ol facultyCmn 9 0
+> O > 0 0 0 0 0 0 0 0 0 ol div facultyCmn 8 6
+
+Staff O staff 0 1 0 0 0 0 1 2 7 ol div facultyCmn 8 8
+
+[Professor] O [professor] 0 0 0 0 0 0 0 0 0 div div h03 8 2
+
+ITO B-PER ito 0 0 0 0 0 0 1 0 3 dl div staffDl 9 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 0
+Noriyuki I-PER noriyuki 0 1 0 0 0 0 1 5 0 dl div staffDl 9 0
+
+Computer O computer 0 0 0 0 0 0 1 0 7 dl div staffDl 9 1
+Design O design 0 0 0 0 0 0 1 0 7 dl div staffDl 9 1
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 1
+Software O software 0 1 0 0 0 0 1 0 6 dl div staffDl 9 1
+Engineering O engineering 0 0 0 0 0 0 1 0 7 dl div staffDl 9 1
+
+KAMINOGO B-PER kaminogo 0 0 0 0 0 0 1 0 0 dl div staffDl 9 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 2
+Takashi I-PER takashi 0 1 0 0 0 0 1 7 0 dl div staffDl 9 2
+
+Differential O differential 0 0 0 0 0 0 1 0 2 dl div staffDl 9 3
+Equations O equations 0 0 0 0 0 0 1 0 4 dl div staffDl 9 3
+
+KOBAYASHI B-PER kobayashi 0 0 0 0 0 0 1 0 0 dl div staffDl 9 4
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 4
+Zenji I-PER zenji 0 1 0 0 0 0 1 0 0 dl div staffDl 9 4
+
+Algebra O algebra 0 0 0 0 0 0 1 0 3 dl div staffDl 9 5
+
+MATSUO B-PER matsuo 0 0 0 0 0 0 1 0 0 dl div staffDl 9 6
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 6
+Ikuo I-PER ikuo 0 1 0 0 0 0 1 4 0 dl div staffDl 9 6
+
+Bioacoustics O bioacoustics 0 0 0 0 0 0 1 0 0 dl div staffDl 9 7
+
+OTOFUJI B-PER otofuji 0 0 0 0 0 0 1 0 0 dl div staffDl 9 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 8
+Takeshi I-PER takeshi 0 1 0 0 0 0 1 6 1 dl div staffDl 9 8
+
+Computer O computer 0 0 0 0 0 0 1 0 7 dl div staffDl 9 9
+Science O science 0 0 0 0 0 0 1 0 7 dl div staffDl 9 9
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 9
+Physics O physics 0 0 0 0 0 0 1 0 5 dl div staffDl 9 9
+
+SAKAMOTO B-PER sakamoto 0 0 0 0 0 0 1 0 0 dl div staffDl 9 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 10
+Yasunobu I-PER yasunobu 0 1 0 0 0 0 1 3 0 dl div staffDl 9 10
+
+Distributed O distributed 0 0 0 0 0 0 1 0 4 dl div staffDl 9 11
+Data O data 0 1 0 0 0 0 1 1 7 dl div staffDl 9 11
+Acquisition O acquisition 0 0 0 0 0 0 1 0 4 dl div staffDl 9 11
+Systems O systems 0 0 0 0 0 0 1 0 6 dl div staffDl 9 11
+
+SHIOTA B-PER shiota 0 0 0 0 0 0 1 0 0 dl div staffDl 9 12
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 12
+Yasunobu I-PER yasunobu 0 1 0 0 0 0 1 3 0 dl div staffDl 9 12
+
+Computer O computer 0 0 0 0 0 0 1 0 7 dl div staffDl 9 13
+Science O science 0 0 0 0 0 0 1 0 7 dl div staffDl 9 13
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 13
+Discrete O discrete 0 0 0 0 0 0 1 0 4 dl div staffDl 9 13
+Mathematics O mathematics 0 0 0 0 0 0 1 0 6 dl div staffDl 9 13
+
+SUGAWARA B-PER sugawara 0 0 0 0 0 0 1 0 0 dl div staffDl 9 14
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 14
+Ken I-PER ken 0 1 0 0 0 0 1 7 4 dl div staffDl 9 14
+
+Robotics O robotics 0 0 0 0 0 0 1 0 5 dl div staffDl 9 15
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 15
+Autonomous O autonomous 0 0 0 0 0 0 1 0 3 dl div staffDl 9 15
+Distributed O distributed 0 0 0 0 0 0 1 0 4 dl div staffDl 9 15
+Systems O systems 0 0 0 0 0 0 1 0 6 dl div staffDl 9 15
+
+SUGIURA B-PER sugiura 0 0 0 0 0 0 1 0 0 dl div staffDl 9 16
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 16
+Shigeki I-PER shigeki 0 1 0 0 0 0 1 5 0 dl div staffDl 9 16
+
+Communication O communication 0 0 0 0 0 0 1 0 6 dl div staffDl 9 17
+Networks O networks 0 0 0 0 0 0 1 0 5 dl div staffDl 9 17
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 17
+Communication O communication 0 0 0 0 0 0 1 0 6 dl div staffDl 9 17
+Theory O theory 0 0 0 0 0 0 1 0 6 dl div staffDl 9 17
+
+[Associate O [associate 0 0 0 0 0 0 0 0 0 div div h03 8 22
+professor] O professor] 0 0 0 0 1 0 0 0 0 div div h03 8 22
+
+HOSHINO B-PER hoshino 0 0 0 0 0 0 1 0 0 dl div staffDl 9 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 0
+Masaki I-PER masaki 0 1 0 0 1 0 1 6 0 dl div staffDl 9 0
+
+Partial O partial 0 0 0 0 0 0 1 0 2 dl div staffDl 9 1
+Differential O differential 0 0 0 0 0 0 1 0 2 dl div staffDl 9 1
+Equations O equations 0 0 0 0 0 0 1 0 4 dl div staffDl 9 1
+
+IWATA B-PER iwata 0 0 0 0 0 0 1 0 0 dl div staffDl 9 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 2
+Yukiko I-PER yukiko 0 1 0 0 0 0 1 4 0 dl div staffDl 9 2
+
+Ergodic O ergodic 0 0 0 0 0 0 1 0 0 dl div staffDl 9 3
+Theory O theory 0 0 0 0 0 0 1 0 6 dl div staffDl 9 3
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 3
+Random O random 0 0 0 0 0 0 1 0 5 dl div staffDl 9 3
+Dynamical O dynamical 0 0 0 0 0 0 1 0 2 dl div staffDl 9 3
+System O system 0 0 0 0 0 0 1 0 6 dl div staffDl 9 3
+
+MAKINO B-PER makino 0 0 0 0 0 0 1 0 0 dl div staffDl 9 4
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 4
+Yoshinari I-PER yoshinari 0 1 0 0 0 0 1 3 0 dl div staffDl 9 4
+
+Biological O biological 0 0 0 0 0 0 1 0 3 dl div staffDl 9 5
+Systems O systems 0 0 0 0 0 0 1 0 6 dl div staffDl 9 5
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 5
+Biological O biological 0 0 0 0 0 0 1 0 3 dl div staffDl 9 5
+Computation O computation 0 0 0 0 0 0 1 0 4 dl div staffDl 9 5
+
+MATSUMOTO B-PER matsumoto 0 0 0 0 0 0 1 0 1 dl div staffDl 9 6
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 6
+Akiyo I-PER akiyo 0 1 0 0 0 0 1 2 0 dl div staffDl 9 6
+
+Natural O natural 0 0 0 0 0 0 1 0 5 dl div staffDl 9 7
+Language O language 0 0 0 0 0 0 1 0 6 dl div staffDl 9 7
+Processing O processing 0 0 0 0 0 0 1 0 5 dl div staffDl 9 7
+
+MURAKAMI B-PER murakami 0 0 0 0 0 0 1 0 1 dl div staffDl 9 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 8
+Hiroshi I-PER hiroshi 0 1 0 0 0 0 1 7 2 dl div staffDl 9 8
+
+X O x 0 0 0 0 0 0 1 0 9 dl div staffDl 9 9
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 dl div staffDl 9 9
+ray O ray 0 0 0 0 0 0 0 0 5 dl div staffDl 9 9
+Astronomy O astronomy 0 0 0 0 0 0 1 0 5 dl div staffDl 9 9
+
+SATO B-PER sato 0 0 0 0 0 0 1 0 1 dl div staffDl 9 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 10
+Atsushi I-PER atsushi 0 1 0 0 0 0 1 6 0 dl div staffDl 9 10
+
+Arithmetic O arithmetic 0 0 0 0 0 0 1 0 3 dl div staffDl 9 11
+Geometry O geometry 0 0 0 0 0 0 1 0 3 dl div staffDl 9 11
+
+TAKEDA B-PER takeda 0 0 0 0 0 0 1 0 1 dl div staffDl 9 12
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 12
+Atsushi I-PER atsushi 0 1 0 0 0 0 1 6 0 dl div staffDl 9 12
+
+Computer O computer 0 0 0 0 0 0 1 0 7 dl div staffDl 9 13
+Network O network 0 0 0 0 0 0 1 0 6 dl div staffDl 9 13
+
+TSUCHIHARA B-PER tsuchihara 0 0 0 0 0 0 1 0 0 dl div staffDl 9 14
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 14
+Kazuko I-PER kazuko 0 1 0 0 0 0 1 3 0 dl div staffDl 9 14
+
+Biochemistry O biochemistry 0 0 0 0 0 0 1 0 4 dl div staffDl 9 15
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div staffDl 9 15
+Sensory O sensory 0 0 0 0 0 0 1 0 0 dl div staffDl 9 15
+Reception O reception 0 0 0 0 0 0 1 0 4 dl div staffDl 9 15
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul facultyCmn 12 0
+of O of 0 1 0 0 0 0 0 2 10 li ul facultyCmn 12 0
+Letters O letters 0 1 0 0 0 0 1 1 4 li ul facultyCmn 12 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul facultyCmn 12 0
+of O of 0 1 0 0 0 0 0 2 10 li ul facultyCmn 12 0
+Economics O economics 0 0 0 0 0 0 1 0 5 li ul facultyCmn 12 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul facultyCmn 12 0
+of O of 0 1 0 0 0 0 0 2 10 li ul facultyCmn 12 0
+Business O business 0 0 0 0 0 0 1 0 7 li ul facultyCmn 12 0
+Administration O administration 0 0 0 0 0 0 1 0 7 li ul facultyCmn 12 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul facultyCmn 12 0
+of O of 0 1 0 0 0 0 0 2 10 li ul facultyCmn 12 0
+Law O law 0 1 0 0 0 0 1 5 7 li ul facultyCmn 12 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul facultyCmn 12 0
+of O of 0 1 0 0 0 0 0 2 10 li ul facultyCmn 12 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 li ul facultyCmn 12 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul facultyCmn 12 0
+of O of 0 1 0 0 0 0 0 2 10 li ul facultyCmn 12 0
+Liberal O liberal 0 1 0 0 0 0 1 1 5 li ul facultyCmn 12 0
+Arts O arts 0 1 0 0 0 0 1 3 7 li ul facultyCmn 12 0
+
+Graduate O graduate 0 1 0 0 0 0 1 0 6 li ul facultyCmn 12 0
+School O school 0 1 0 0 0 0 1 0 7 li ul facultyCmn 12 0
+
+Page O page 0 1 0 0 0 0 1 5 9 p div pageTop 7 0
+Top O top 0 1 0 0 0 0 1 2 6 p div pageTop 7 0
+
+Site O site 0 1 0 0 0 0 1 0 8 li ul pc-none 8 0
+Map O map 0 0 0 0 0 0 1 0 6 li ul pc-none 8 0
+
+Campus O campus 0 1 0 0 0 0 1 1 8 li ul mb-none 8 0
+Map O map 0 0 0 0 0 0 1 0 6 li ul mb-none 8 0
+
+Inquiries O inquiries 0 0 0 0 0 0 1 0 2 li ul mgb10 8 0
+
+Message O message 0 1 0 0 1 0 1 0 7 dt dl inBox 9 0
+from O from 0 0 0 0 0 0 0 0 8 dt dl inBox 9 0
+the O the 0 1 0 0 0 0 0 0 10 dt dl inBox 9 0
+President O president 0 1 0 0 0 0 1 1 8 dt dl inBox 9 0
+
+Tohoku O tohoku 0 1 0 0 0 0 1 0 0 dt dl inBox 9 0
+Gakuin O gakuin 0 0 0 0 0 0 1 0 0 dt dl inBox 9 0
+University O university 0 1 0 0 0 0 1 1 8 dt dl inBox 9 0
+at O at 0 1 0 0 0 0 0 0 8 dt dl inBox 9 0
+a O a 0 1 0 0 0 0 0 3 11 dt dl inBox 9 0
+Glance O glance 0 1 0 0 0 0 1 2 1 dt dl inBox 9 0
+
+“ O-PUNCT “ 0 0 0 0 0 0 0 0 0 li ul mgb20 11 0
+Three O three 0 0 0 0 0 0 1 0 5 li ul mgb20 11 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul mgb20 11 0
+part O part 0 0 0 0 0 0 0 0 7 li ul mgb20 11 0
+plan O plan 0 0 0 0 0 0 0 0 6 li ul mgb20 11 0
+” O-PUNCT ” 0 0 0 0 0 0 0 0 0 li ul mgb20 11 0
+on O on 0 1 0 0 0 0 0 2 9 li ul mgb20 11 0
+education O education 0 0 0 0 0 0 0 0 8 li ul mgb20 11 0
+
+History O history 0 0 0 0 0 0 1 0 7 li ul mgb20 11 0
+
+Academic O academic 0 0 0 0 0 0 1 0 8 li ul mgb20 11 0
+Calender O calender 0 0 0 0 0 0 1 0 4 li ul mgb20 11 0
+
+Organization O organization 0 0 0 0 0 0 1 0 7 li ul mgb20 11 0
+
+Institutional O institutional 0 0 0 0 0 0 1 0 4 li ul mgb20 11 0
+Data O data 0 1 0 0 0 0 1 1 7 li ul mgb20 11 0
+
+Faculties O faculties 0 0 0 0 0 0 1 0 4 dt dl inBox 9 0
+and O and 0 1 0 0 0 0 0 0 10 dt dl inBox 9 0
+Graduate O graduate 0 1 0 0 0 0 1 0 6 dt dl inBox 9 0
+School O school 0 1 0 0 0 0 1 0 7 dt dl inBox 9 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul inBox 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul inBox 11 0
+Letters O letters 0 1 0 0 0 0 1 1 4 li ul inBox 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul inBox 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul inBox 11 0
+Economics O economics 0 0 0 0 0 0 1 0 5 li ul inBox 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul inBox 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul inBox 11 0
+Business O business 0 0 0 0 0 0 1 0 7 li ul inBox 11 0
+Administration O administration 0 0 0 0 0 0 1 0 7 li ul inBox 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul inBox 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul inBox 11 0
+Law O law 0 1 0 0 0 0 1 5 7 li ul inBox 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul inBox 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul inBox 11 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 li ul inBox 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul inBox 11 0
+of O of 0 1 0 0 0 0 0 2 10 li ul inBox 11 0
+Liberal O liberal 0 1 0 0 0 0 1 1 5 li ul inBox 11 0
+Arts O arts 0 1 0 0 0 0 1 3 7 li ul inBox 11 0
+
+Graduate O graduate 0 1 0 0 0 0 1 0 6 li ul inBox 11 0
+School O school 0 1 0 0 0 0 1 0 7 li ul inBox 11 0
+
+Tuition O tuition 0 0 0 0 0 0 1 0 6 dt dl inBox 9 0
+and O and 0 1 0 0 0 0 0 0 10 dt dl inBox 9 0
+Fees O fees 0 0 0 0 0 0 1 0 6 dt dl inBox 9 0
+
+International O international 0 0 0 0 0 0 1 0 8 dt dl inBox 9 0
+Exchange O exchange 0 0 0 0 0 0 1 0 5 dt dl inBox 9 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 dt dl inBox 9 0
+outline O outline 0 0 0 0 0 0 0 0 3 dt dl inBox 9 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 dt dl inBox 9 0
+
+Outline O outline 0 0 0 0 0 0 1 0 3 li ul inBox 11 0
+
+Special O special 0 1 0 0 0 0 1 0 6 li ul inBox 11 0
+Programs O programs 0 0 0 0 0 0 1 0 8 li ul inBox 11 0
+for O for 0 1 0 0 0 0 0 1 9 li ul inBox 11 0
+Students O students 0 0 0 0 0 0 1 0 8 li ul inBox 11 0
+from O from 0 0 0 0 0 0 0 0 8 li ul inBox 11 0
+Our O our 0 0 0 0 0 0 1 0 8 li ul inBox 11 0
+Partner O partner 0 1 0 0 0 0 1 1 4 li ul inBox 11 0
+Universities O universities 0 0 0 0 0 0 1 0 4 li ul inBox 11 0
+
+Extra O extra 0 0 0 0 0 0 1 0 4 dt dl inBox 9 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 dt dl inBox 9 0
+Curricular O curricular 0 0 0 0 0 0 1 0 0 dt dl inBox 9 0
+Activities O activities 0 0 0 0 0 0 1 0 5 dt dl inBox 9 0
+
+Career O career 0 0 0 0 0 0 1 0 8 dt dl inBox 9 0
+Placement O placement 0 0 0 0 0 0 1 0 4 dt dl inBox 9 0
+
+Employment O employment 0 0 0 0 1 0 1 0 5 li ul inBox 11 0
+Data O data 0 1 0 0 0 0 1 1 7 li ul inBox 11 0
+by O by 0 1 0 0 0 0 0 0 8 li ul inBox 11 0
+Industry O industry 0 0 0 0 0 0 1 0 5 li ul inBox 11 0
+
+Job O job 0 1 0 0 0 0 1 4 5 li ul inBox 11 0
+Postings O postings 0 0 0 0 0 0 1 0 0 li ul inBox 11 0
+
+Location O location 0 0 0 0 0 0 1 0 6 dt dl inBox 9 0
+of O of 0 1 0 0 0 0 0 2 10 dt dl inBox 9 0
+Tohoku O tohoku 0 1 0 0 0 0 1 0 0 dt dl inBox 9 0
+Gakuin O gakuin 0 0 0 0 0 0 1 0 0 dt dl inBox 9 0
+University O university 0 1 0 0 0 0 1 1 8 dt dl inBox 9 0
+
+Tohoku O tohoku 0 1 0 0 0 0 1 0 0 li ul mb-none 8 0
+Gakuin O gakuin 0 0 0 0 0 0 1 0 0 li ul mb-none 8 0
+
+Tohoku O tohoku 0 1 0 0 0 0 1 0 0 li ul mb-none 8 0
+Gakuin O gakuin 0 0 0 0 0 0 1 0 0 li ul mb-none 8 0
+Junior O junior 0 1 0 0 0 0 1 6 4 li ul mb-none 8 0
+and O and 0 1 0 0 0 0 0 0 10 li ul mb-none 8 0
+Senior O senior 0 1 0 0 0 0 1 2 5 li ul mb-none 8 0
+High O high 0 1 0 0 0 0 1 3 6 li ul mb-none 8 0
+School O school 0 1 0 0 0 0 1 0 7 li ul mb-none 8 0
+
+Tohoku O tohoku 0 1 0 0 0 0 1 0 0 li ul mb-none 8 0
+Gakuin O gakuin 0 0 0 0 0 0 1 0 0 li ul mb-none 8 0
+Tsutsujigaoka O tsutsujigaoka 0 0 0 0 0 0 1 0 0 li ul mb-none 8 0
+High O high 0 1 0 0 0 0 1 3 6 li ul mb-none 8 0
+School O school 0 1 0 0 0 0 1 0 7 li ul mb-none 8 0
+
+Tohoku O tohoku 0 1 0 0 0 0 1 0 0 li ul mb-none 8 0
+Gakuin O gakuin 0 0 0 0 0 0 1 0 0 li ul mb-none 8 0
+Kindergarten O kindergarten 0 0 0 0 0 0 1 0 0 li ul mb-none 8 0
+
+TOHOKU O tohoku 0 0 0 0 0 0 1 0 0 dt dl author 8 0
+GAKUIN O gakuin 0 0 0 0 0 0 1 0 0 dt dl author 8 0
+UNIVERSITY O university 0 0 0 0 0 0 1 0 8 dt dl author 8 0
+
+Tsuchitoi O tsuchitoi 0 1 0 0 0 0 1 0 0 dl div campusAdd 7 2
+Campus O campus 0 1 0 0 0 0 1 1 8 dl div campusAdd 7 2
+/ O / 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+1 O 1 0 0 0 1 0 0 0 0 0 dl div campusAdd 7 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 dl div campusAdd 7 2
+3 O 3 0 0 0 1 0 0 0 0 0 dl div campusAdd 7 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 dl div campusAdd 7 2
+1 O 1 0 0 0 1 0 0 0 0 0 dl div campusAdd 7 2
+Tsuchitoi O tsuchitoi 0 1 0 0 0 0 1 0 0 dl div campusAdd 7 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+Aoba O aoba 0 0 0 0 0 0 1 0 0 dl div campusAdd 7 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 dl div campusAdd 7 2
+ku O ku 0 1 0 0 0 0 0 2 5 dl div campusAdd 7 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+Sendai O sendai 0 1 0 0 0 0 1 1 0 dl div campusAdd 7 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+Miyagi O miyagi 0 1 0 0 0 0 1 3 0 dl div campusAdd 7 2
+980 O 980 0 0 0 1 0 0 0 0 0 dl div campusAdd 7 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 dl div campusAdd 7 2
+8511 O 8511 0 0 0 1 0 0 0 0 0 dl div campusAdd 7 2
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 dl div campusAdd 7 2
+of O of 0 1 0 0 0 0 0 2 10 dl div campusAdd 7 2
+Letters O letters 0 1 0 0 0 0 1 1 4 dl div campusAdd 7 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+Faculty O faculty 0 0 0 0 0 0 1 0 7 dl div campusAdd 7 2
+of O of 0 1 0 0 0 0 0 2 10 dl div campusAdd 7 2
+Economics O economics 0 0 0 0 0 0 1 0 5 dl div campusAdd 7 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+Faculty O faculty 0 0 0 0 0 0 1 0 7 dl div campusAdd 7 2
+of O of 0 1 0 0 0 0 0 2 10 dl div campusAdd 7 2
+Business O business 0 0 0 0 0 0 1 0 7 dl div campusAdd 7 2
+Administration O administration 0 0 0 0 0 0 1 0 7 dl div campusAdd 7 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+Faculty O faculty 0 0 0 0 0 0 1 0 7 dl div campusAdd 7 2
+of O of 0 1 0 0 0 0 0 2 10 dl div campusAdd 7 2
+Law O law 0 1 0 0 0 0 1 5 7 dl div campusAdd 7 2
+
+Tagajo O tagajo 0 0 0 0 0 0 1 0 0 dl div campusAdd 7 2
+Campus O campus 0 1 0 0 0 0 1 1 8 dl div campusAdd 7 2
+/ O / 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+1 O 1 0 0 0 1 0 0 0 0 0 dl div campusAdd 7 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 dl div campusAdd 7 2
+13 O 13 0 0 0 1 0 0 0 0 0 dl div campusAdd 7 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 dl div campusAdd 7 2
+1 O 1 0 0 0 1 0 0 0 0 0 dl div campusAdd 7 2
+Chuo O chuo 0 1 0 0 0 0 1 3 0 dl div campusAdd 7 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+Tagajo O tagajo 0 0 0 0 0 0 1 0 0 dl div campusAdd 7 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+Miyagi O miyagi 0 1 0 0 0 0 1 3 0 dl div campusAdd 7 2
+985 O 985 0 0 0 1 0 0 0 0 0 dl div campusAdd 7 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 dl div campusAdd 7 2
+8537 O 8537 0 0 0 1 0 0 0 0 0 dl div campusAdd 7 2
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 dl div campusAdd 7 2
+of O of 0 1 0 0 0 0 0 2 10 dl div campusAdd 7 2
+Engineering O engineering 0 0 0 0 0 0 1 0 7 dl div campusAdd 7 2
+
+Izumi O izumi 0 1 0 0 0 0 1 5 1 dl div campusAdd 7 2
+Campus O campus 0 1 0 0 0 0 1 1 8 dl div campusAdd 7 2
+/ O / 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+2 O 2 0 0 0 1 0 0 0 0 0 dl div campusAdd 7 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 dl div campusAdd 7 2
+1 O 1 0 0 0 1 0 0 0 0 0 dl div campusAdd 7 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 dl div campusAdd 7 2
+1 O 1 0 0 0 1 0 0 0 0 0 dl div campusAdd 7 2
+Tenjinzawa O tenjinzawa 0 0 0 0 0 0 1 0 0 dl div campusAdd 7 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+Izumi O izumi 0 1 0 0 0 0 1 5 1 dl div campusAdd 7 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 dl div campusAdd 7 2
+ku O ku 0 1 0 0 0 0 0 2 5 dl div campusAdd 7 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+Sendai O sendai 0 1 0 0 0 0 1 1 0 dl div campusAdd 7 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+Miyagi O miyagi 0 1 0 0 0 0 1 3 0 dl div campusAdd 7 2
+981 O 981 0 0 0 1 0 0 0 0 0 dl div campusAdd 7 2
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 dl div campusAdd 7 2
+3193 O 3193 0 0 0 1 0 0 0 0 0 dl div campusAdd 7 2
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 dl div campusAdd 7 2
+of O of 0 1 0 0 0 0 0 2 10 dl div campusAdd 7 2
+Letters O letters 0 1 0 0 0 0 1 1 4 dl div campusAdd 7 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+Faculty O faculty 0 0 0 0 0 0 1 0 7 dl div campusAdd 7 2
+of O of 0 1 0 0 0 0 0 2 10 dl div campusAdd 7 2
+Economics O economics 0 0 0 0 0 0 1 0 5 dl div campusAdd 7 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+Faculty O faculty 0 0 0 0 0 0 1 0 7 dl div campusAdd 7 2
+of O of 0 1 0 0 0 0 0 2 10 dl div campusAdd 7 2
+Business O business 0 0 0 0 0 0 1 0 7 dl div campusAdd 7 2
+Administration O administration 0 0 0 0 0 0 1 0 7 dl div campusAdd 7 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 dl div campusAdd 7 2
+of O of 0 1 0 0 0 0 0 2 10 dl div campusAdd 7 2
+Law O law 0 1 0 0 0 0 1 5 7 dl div campusAdd 7 2
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 dl div campusAdd 7 2
+Faculty O faculty 0 0 0 0 0 0 1 0 7 dl div campusAdd 7 2
+of O of 0 1 0 0 0 0 0 2 10 dl div campusAdd 7 2
+Liberal O liberal 0 1 0 0 0 0 1 1 5 dl div campusAdd 7 2
+Arts O arts 0 1 0 0 0 0 1 3 7 dl div campusAdd 7 2
+
+Copyright O copyright 0 0 0 0 0 0 1 0 6 div div none 6 10
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div none 6 10
+C O c 0 1 0 0 0 0 1 3 9 div div none 6 10
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div none 6 10
+TOHOKU O tohoku 0 0 0 0 0 0 1 0 0 div div none 6 10
+GAKUIN O gakuin 0 0 0 0 0 0 1 0 0 div div none 6 10
+All O all 0 1 0 0 0 0 1 2 7 div div none 6 10
+Rights O rights 0 0 0 0 0 0 1 0 5 div div none 6 10
+Reserved. O reserved. 0 0 0 0 0 0 1 0 0 div div none 6 10

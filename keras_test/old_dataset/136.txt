@@ -1,0 +1,822 @@
+NUS O nus 0 0 0 0 0 0 1 head html mm-hover 4 7
+Computing O computing 0 0 0 0 0 0 1 head html mm-hover 4 7
+- O - 0 0 0 0 0 0 0 head html mm-hover 4 7
+People O people 0 1 0 0 0 0 1 head html mm-hover 4 7
+
+NUS O nus 0 0 0 0 0 0 1 a div logo-image 12 1
+Computing O computing 0 0 0 0 0 0 1 a div logo-image 12 1
+
+Current O current 0 1 0 0 0 0 1 li ul item-148 13 0
+UG O ug 0 0 0 0 0 0 1 li ul item-148 13 0
+
+MySoC O mysoc 0 0 0 0 1 0 1 li ul item-111 13 0
+
+Email O email 0 0 0 0 1 0 1 li ul item-109 13 0
+
+Student O student 0 1 0 0 0 0 1 li ul item-110 13 0
+
+Staff O staff 0 1 0 0 0 0 1 li ul item-112 13 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul item-1051 13 0
+
+Sidebar O sidebar 0 0 0 0 0 0 1 div div t3-off-canvas-header-title 10 0
+
+× O x 0 0 0 0 0 0 0 div div close 10 1
+
+Main O main 0 1 0 0 0 0 1 h3 div  13 0
+Menu O menu 0 1 0 0 0 0 1 h3 div  13 0
+
+About O about 0 0 0 0 0 0 1 li ul parent 15 0
+
+Programmes O programmes 0 0 0 0 0 0 1 li ul parent 15 0
+
+Student O student 0 1 0 0 0 0 1 li ul parent 15 0
+Life O life 0 1 0 0 0 0 1 li ul parent 15 0
+
+Research O research 0 1 0 0 0 0 1 li ul parent 15 0
+
+Entrepreneurship O entrepreneurship 0 0 0 0 0 0 1 li ul parent 15 0
+
+Industry O industry 0 0 0 0 0 0 1 li ul parent 15 0
+
+Computational O computational 0 0 0 0 0 0 1 h3 div  13 0
+Biology O biology 0 0 0 0 0 0 1 h3 div  13 0
+
+Home O home 0 1 0 0 0 0 1 li ul item-972 15 0
+
+Lab O lab 0 1 0 0 0 0 1 li ul item-976 15 0
+
+Projects O projects 0 0 0 0 0 0 1 li ul item-973 15 0
+
+People O people 0 1 0 0 0 0 1 li ul active 15 0
+
+News O news 0 0 0 0 0 0 1 li ul item-974 15 0
+
+Quicklinks O quicklinks 0 0 0 0 0 0 1 h3 div  13 0
+
+Current O current 0 1 0 0 0 0 1 li ul item-148 15 0
+UG O ug 0 0 0 0 0 0 1 li ul item-148 15 0
+
+MySoC O mysoc 0 0 0 0 1 0 1 li ul item-111 15 0
+
+Email O email 0 0 0 0 1 0 1 li ul item-109 15 0
+
+Student O student 0 1 0 0 0 0 1 li ul item-110 15 0
+
+Staff O staff 0 1 0 0 0 0 1 li ul item-112 15 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul item-1051 15 0
+
+About O about 0 0 0 0 0 0 1 li ul dropdown-toggle 11 0
+
+Departments O departments 0 0 0 0 0 0 1 li ul  18 0
+
+Industry O industry 0 0 0 0 0 0 1 li ul  18 0
+Advisory O advisory 0 0 0 0 0 0 1 li ul  18 0
+Committee O committee 0 0 0 0 0 0 1 li ul  18 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul  18 0
+& O & 0 0 0 0 0 0 0 li ul  18 0
+Staff O staff 0 1 0 0 0 0 1 li ul  18 0
+Directory O directory 0 0 0 0 0 0 1 li ul  18 0
+
+Expert O expert 0 1 0 0 0 0 1 li ul  18 0
+Directory O directory 0 0 0 0 0 0 1 li ul  18 0
+
+News O news 0 0 0 0 0 0 1 li ul  18 0
+
+Corporate O corporate 0 0 0 0 0 0 1 li ul  18 0
+Relations O relations 0 0 0 0 0 0 1 li ul  18 0
+
+Giving O giving 0 0 0 0 0 0 1 li ul  18 0
+
+Careers O careers 0 0 0 0 0 0 1 li ul  18 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul  18 0
+Us O us 0 1 0 0 0 0 1 li ul  18 0
+
+Programmes O programmes 0 0 0 0 0 0 1 li ul dropdown-toggle 11 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul  18 0
+
+Computer O computer 0 0 0 0 0 0 1 li ul  25 0
+Science O science 0 0 0 0 0 0 1 li ul  25 0
+
+Information O information 0 1 0 0 0 0 1 li ul  25 0
+Systems O systems 0 0 0 0 0 0 1 li ul  25 0
+
+Computer O computer 0 0 0 0 0 0 1 li ul  25 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul  25 0
+
+Business O business 0 0 0 0 0 0 1 li ul  25 0
+Analytics O analytics 0 0 0 0 0 0 1 li ul  25 0
+
+Information O information 0 1 0 0 0 0 1 li ul  25 0
+Security O security 0 0 0 0 0 0 1 li ul  25 0
+
+Special O special 0 1 0 0 0 0 1 li ul  25 0
+Programmes O programmes 0 0 0 0 0 0 1 li ul  25 0
+
+Resources O resources 0 0 0 0 0 0 1 li ul  25 0
+for O for 0 1 0 0 0 0 0 li ul  25 0
+Current O current 0 1 0 0 0 0 1 li ul  25 0
+Students O students 0 0 0 0 0 0 1 li ul  25 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul  18 0
+
+PhD O phd 0 0 0 0 0 0 1 li ul  25 0
+in O in 0 1 0 0 0 0 0 li ul  25 0
+Computer O computer 0 0 0 0 0 0 1 li ul  25 0
+Science O science 0 0 0 0 0 0 1 li ul  25 0
+
+PhD O phd 0 0 0 0 0 0 1 li ul  25 0
+in O in 0 1 0 0 0 0 0 li ul  25 0
+Information O information 0 1 0 0 0 0 1 li ul  25 0
+Systems O systems 0 0 0 0 0 0 1 li ul  25 0
+
+Master O master 0 1 0 0 1 0 1 li ul  25 0
+' O ' 0 0 0 0 0 0 0 li ul  25 0
+s O s 0 0 0 0 0 0 0 li ul  25 0
+in O in 0 1 0 0 0 0 0 li ul  25 0
+Computer O computer 0 0 0 0 0 0 1 li ul  25 0
+Science O science 0 0 0 0 0 0 1 li ul  25 0
+
+Master O master 0 1 0 0 1 0 1 li ul  25 0
+' O ' 0 0 0 0 0 0 0 li ul  25 0
+s O s 0 0 0 0 0 0 0 li ul  25 0
+in O in 0 1 0 0 0 0 0 li ul  25 0
+Information O information 0 1 0 0 0 0 1 li ul  25 0
+Systems O systems 0 0 0 0 0 0 1 li ul  25 0
+
+Master O master 0 1 0 0 1 0 1 li ul  25 0
+' O ' 0 0 0 0 0 0 0 li ul  25 0
+s O s 0 0 0 0 0 0 0 li ul  25 0
+in O in 0 1 0 0 0 0 0 li ul  25 0
+Infocomm O infocomm 0 0 0 0 0 0 1 li ul  25 0
+Security O security 0 0 0 0 0 0 1 li ul  25 0
+
+Master O master 0 1 0 0 1 0 1 li ul  25 0
+' O ' 0 0 0 0 0 0 0 li ul  25 0
+s O s 0 0 0 0 0 0 0 li ul  25 0
+in O in 0 1 0 0 0 0 0 li ul  25 0
+Business O business 0 0 0 0 0 0 1 li ul  25 0
+Analytics O analytics 0 0 0 0 0 0 1 li ul  25 0
+
+Master O master 0 1 0 0 1 0 1 li ul  25 0
+' O ' 0 0 0 0 0 0 0 li ul  25 0
+s O s 0 0 0 0 0 0 0 li ul  25 0
+in O in 0 1 0 0 0 0 0 li ul  25 0
+IT O it 0 0 0 0 0 0 1 li ul  25 0
+Leadership O leadership 0 0 0 0 0 0 1 li ul  25 0
+
+Student O student 0 1 0 0 0 0 1 li ul dropdown-toggle 11 0
+Life O life 0 1 0 0 0 0 1 li ul dropdown-toggle 11 0
+
+About O about 0 0 0 0 0 0 1 li ul  18 0
+Us O us 0 1 0 0 0 0 1 li ul  18 0
+
+Internships O internships 0 0 0 0 0 0 1 li ul  18 0
+
+Student O student 0 1 0 0 0 0 1 li ul  18 0
+Leadership O leadership 0 0 0 0 0 0 1 li ul  18 0
+Programme O programme 0 0 0 0 0 0 1 li ul  18 0
+
+Financial O financial 0 0 0 0 0 0 1 li ul  18 0
+Support/Assistance O support/assistance 0 0 0 0 0 0 1 li ul  18 0
+
+Student O student 0 1 0 0 0 0 1 li ul  18 0
+Wellness O wellness 0 0 0 0 0 0 1 li ul  18 0
+and O and 0 1 0 0 0 0 0 li ul  18 0
+Wellbeing O wellbeing 0 0 0 0 0 0 1 li ul  18 0
+
+Professional O professional 0 0 0 0 1 0 1 li ul  18 0
+Workshop O workshop 0 0 0 0 0 0 1 li ul  18 0
+
+Student O student 0 1 0 0 0 0 1 li ul  18 0
+Clubs/Interest O clubs/interest 0 0 0 0 0 0 1 li ul  18 0
+Groups O groups 0 0 0 0 0 0 1 li ul  18 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul  18 0
+Us O us 0 1 0 0 0 0 1 li ul  18 0
+
+Research O research 0 1 0 0 0 0 1 li ul dropdown-toggle 11 0
+
+Research O research 0 1 0 0 0 0 1 li ul  18 0
+Centres O centres 0 0 0 0 0 0 1 li ul  18 0
+
+Research O research 0 1 0 0 0 0 1 li ul  18 0
+Areas O areas 0 0 0 0 0 0 1 li ul  18 0
+
+Entrepreneurship O entrepreneurship 0 0 0 0 0 0 1 li ul dropdown-toggle 11 0
+
+Leadership O leadership 0 0 0 0 0 0 1 li ul  18 0
+
+The O the 0 1 0 0 0 0 1 li ul  18 0
+Furnace O furnace 0 0 0 0 0 0 1 li ul  18 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul  18 0
+Companies O companies 0 0 0 0 0 0 1 li ul  18 0
+
+Funding O funding 0 0 0 0 0 0 1 li ul  18 0
+Opportunities O opportunities 0 0 0 0 0 0 1 li ul  18 0
+
+Awards O awards 0 0 0 0 0 0 1 li ul  18 0
+
+Innovation O innovation 0 0 0 0 0 0 1 li ul  18 0
+
+Research O research 0 1 0 0 0 0 1 li ul  18 0
+Centres O centres 0 0 0 0 0 0 1 li ul  18 0
+
+News O news 0 0 0 0 0 0 1 li ul  18 0
+& O & 0 0 0 0 0 0 0 li ul  18 0
+Events O events 0 0 0 0 0 0 1 li ul  18 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul  18 0
+Us O us 0 1 0 0 0 0 1 li ul  18 0
+
+Industry O industry 0 0 0 0 0 0 1 li ul dropdown-toggle 11 0
+
+Corporate O corporate 0 0 0 0 0 0 1 li ul  18 0
+Relations O relations 0 0 0 0 0 0 1 li ul  18 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul  18 0
+Us O us 0 1 0 0 0 0 1 li ul  18 0
+
+Search O search 0 0 0 0 0 0 1 form div element-invisible 11 0
+... O ... 0 0 0 0 0 0 0 form div element-invisible 11 0
+
+Home O home 0 1 0 0 0 0 1 li ol pathway 9 0
+
+About O about 0 0 0 0 0 0 1 li ol pathway 9 0
+
+Departments O departments 0 0 0 0 0 0 1 li ol pathway 9 0
+
+Computer O computer 0 0 0 0 0 0 1 li ol pathway 9 0
+Science O science 0 0 0 0 0 0 1 li ol pathway 9 0
+
+Research O research 0 1 0 0 0 0 1 li ol pathway 9 0
+
+Computational O computational 0 0 0 0 0 0 1 li ol pathway 9 0
+Biology O biology 0 0 0 0 0 0 1 li ol pathway 9 0
+
+People O people 0 1 0 0 0 0 1 li ol  9 0
+
+Our O our 0 0 0 0 0 0 1 div div article-title 10 0
+Team O team 0 1 0 0 0 0 1 div div article-title 10 0
+
+Read O read 0 1 0 0 0 0 1 a div sprocket-mosaic-hovercontent 19 2
+More O more 0 1 0 0 0 0 1 a div sprocket-mosaic-hovercontent 19 2
+
+Anthony B-PER anthony 0 1 0 0 0 0 1 h3 div sprocket-mosaic-title 19 0
+K. I-PER k. 0 1 0 0 0 0 1 h3 div sprocket-mosaic-title 19 0
+H. I-PER h. 0 1 0 0 0 0 1 h3 div sprocket-mosaic-title 19 0
+TUNG I-PER tung 0 0 0 0 0 0 1 h3 div sprocket-mosaic-title 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+Professor O professor 0 0 0 0 1 0 1 div [document] sprocket-mosaic-text 3 0
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 0
+Department O department 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+of O of 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 0
+Computer O computer 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+Science O science 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+
+Research O research 0 1 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+Interests O interests 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+: O : 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+the O the 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+whole O whole 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+process O process 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+of O of 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+converting O converting 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+data O data 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+into O into 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+intelligence O intelligence 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+
+Read O read 0 1 0 0 0 0 1 a [document] sprocket-readmore 3 0
+More O more 0 1 0 0 0 0 1 a [document] sprocket-readmore 3 0
+
+Read O read 0 1 0 0 0 0 1 a div sprocket-mosaic-hovercontent 7 2
+More O more 0 1 0 0 0 0 1 a div sprocket-mosaic-hovercontent 7 2
+
+Janice B-PER janice 0 1 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+LEE I-PER lee 0 0 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+Mong I-PER mong 0 1 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+Li I-PER li 0 1 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+
+Professor O professor 0 0 0 0 1 0 1 div [document] sprocket-mosaic-text 3 0
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 0
+Department O department 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+of O of 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 0
+Computer O computer 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+Science O science 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+
+Research O research 0 1 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+Interests O interests 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+: O : 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+data O data 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+management O management 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+including O including 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+data O data 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+cleaning O cleaning 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+and O and 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+data O data 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+fusion O fusion 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+and O and 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+analysis O analysis 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+of O of 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+semistructured O semistructured 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+and O and 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+spatio O spatio 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+- O - 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+temporal O temporal 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+data O data 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+
+Read O read 0 1 0 0 0 0 1 a [document] sprocket-readmore 3 0
+More O more 0 1 0 0 0 0 1 a [document] sprocket-readmore 3 0
+
+Read O read 0 1 0 0 0 0 1 a div sprocket-mosaic-hovercontent 7 2
+More O more 0 1 0 0 0 0 1 a div sprocket-mosaic-hovercontent 7 2
+
+Ken B-PER ken 0 1 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+SUNG I-PER sung 0 0 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+Wing I-PER wing 0 1 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+Kin I-PER kin 0 1 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+
+Professor O professor 0 0 0 0 1 0 1 div [document] sprocket-mosaic-text 3 0
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 0
+Department O department 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+of O of 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 0
+Computer O computer 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+Science O science 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+
+Research O research 0 1 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+Interests O interests 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+: O : 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+Algorithm O algorithm 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+in O in 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+Bioinformatics O bioinformatics 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+
+Read O read 0 1 0 0 0 0 1 a [document] sprocket-readmore 3 0
+More O more 0 1 0 0 0 0 1 a [document] sprocket-readmore 3 0
+
+Read O read 0 1 0 0 0 0 1 a div sprocket-mosaic-hovercontent 7 2
+More O more 0 1 0 0 0 0 1 a div sprocket-mosaic-hovercontent 7 2
+
+LEONG B-PER leong 0 0 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+Hon I-PER hon 0 1 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+Wai I-PER wai 0 1 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+
+Associate O associate 0 1 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+Professor O professor 0 0 0 0 1 0 1 div [document] sprocket-mosaic-text 3 0
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 0
+Department O department 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+of O of 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 0
+Computer O computer 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+Science O science 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+
+Research O research 0 1 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+Interests O interests 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+: O : 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+algorithm O algorithm 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+design O design 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+in O in 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+bio O bio 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+- O - 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+computing O computing 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+
+Read O read 0 1 0 0 0 0 1 a [document] sprocket-readmore 3 0
+More O more 0 1 0 0 0 0 1 a [document] sprocket-readmore 3 0
+
+Read O read 0 1 0 0 0 0 1 a div sprocket-mosaic-hovercontent 7 2
+More O more 0 1 0 0 0 0 1 a div sprocket-mosaic-hovercontent 7 2
+
+OOI B-PER ooi 0 0 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+Beng I-PER beng 0 1 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+Chin I-PER chin 0 1 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+
+Distinguished O distinguished 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+Professor O professor 0 0 0 0 1 0 1 div [document] sprocket-mosaic-text 3 0
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 0
+Department O department 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+of O of 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 0
+Computer O computer 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+Science O science 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+
+Research O research 0 1 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+Interests O interests 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+: O : 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+distributed O distributed 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+processing O processing 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+and O and 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+machine O machine 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+learning O learning 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+in O in 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+the O the 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+aspects O aspects 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+of O of 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+system O system 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+architectures O architectures 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+performance O performance 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+issues O issues 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+security O security 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+accuracy O accuracy 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+and O and 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+correctness. O correctness. 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+
+Read O read 0 1 0 0 0 0 1 a [document] sprocket-readmore 3 0
+More O more 0 1 0 0 0 0 1 a [document] sprocket-readmore 3 0
+
+Read O read 0 1 0 0 0 0 1 a div sprocket-mosaic-hovercontent 7 2
+More O more 0 1 0 0 0 0 1 a div sprocket-mosaic-hovercontent 7 2
+
+TAN B-PER tan 0 0 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+Kian I-PER kian 0 1 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+Lee I-PER lee 1 1 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+
+Shaw O shaw 1 1 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+Senior O senior 0 1 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+Professor O professor 0 0 0 0 1 0 1 div [document] sprocket-mosaic-text 3 0
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 0
+Department O department 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+of O of 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 0
+Computer O computer 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+Science O science 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+
+Research O research 0 1 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+Interests O interests 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+: O : 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+query O query 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+processing O processing 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+and O and 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+optimization O optimization 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+in O in 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+multiprocessor O multiprocessor 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+and O and 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+distributed O distributed 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+systems O systems 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+database O database 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+performance O performance 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+data O data 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+analytics O analytics 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+and O and 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+database O database 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+security O security 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+
+Read O read 0 1 0 0 0 0 1 a [document] sprocket-readmore 3 0
+More O more 0 1 0 0 0 0 1 a [document] sprocket-readmore 3 0
+
+Read O read 0 1 0 0 0 0 1 a div sprocket-mosaic-hovercontent 7 2
+More O more 0 1 0 0 0 0 1 a div sprocket-mosaic-hovercontent 7 2
+
+WONG B-PER wong 0 0 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+Limsoon I-PER limsoon 0 1 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+
+KITHCT O kithct 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+Professor O professor 0 0 0 0 1 0 1 div [document] sprocket-mosaic-text 3 0
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 0
+Department O department 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+of O of 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 0
+Computer O computer 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+Science O science 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+
+Research O research 0 1 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+Interests O interests 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+: O : 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+knowledge O knowledge 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+discovery O discovery 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+technologies O technologies 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+and O and 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+their O their 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+application O application 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+to O to 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+biomedicine O biomedicine 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+
+Read O read 0 1 0 0 0 0 1 a [document] sprocket-readmore 3 0
+More O more 0 1 0 0 0 0 1 a [document] sprocket-readmore 3 0
+
+Read O read 0 1 0 0 0 0 1 a div sprocket-mosaic-hovercontent 7 2
+More O more 0 1 0 0 0 0 1 a div sprocket-mosaic-hovercontent 7 2
+
+Wynne B-PER wynne 0 1 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+HSU I-PER hsu 0 0 0 0 0 0 1 h3 div sprocket-mosaic-title 7 0
+
+Professor O professor 0 0 0 0 1 0 1 div [document] sprocket-mosaic-text 3 0
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 0
+School O school 0 1 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+of O of 0 1 0 0 0 0 0 div [document] sprocket-mosaic-text 3 0
+Computing O computing 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 0
+
+Research O research 0 1 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+Interests O interests 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+: O : 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+Data O data 0 1 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+Mining O mining 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+Social O social 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+Networks O networks 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+, O , 0 0 0 0 0 0 0 div [document] sprocket-mosaic-text 3 1
+Medical O medical 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+Imaging O imaging 0 0 0 0 0 0 1 div [document] sprocket-mosaic-text 3 1
+
+Read O read 0 1 0 0 0 0 1 a [document] sprocket-readmore 3 0
+More O more 0 1 0 0 0 0 1 a [document] sprocket-readmore 3 0
+
+Home O home 0 1 0 0 0 0 1 li ul item-972 8 0
+
+Lab O lab 0 1 0 0 0 0 1 li ul item-976 8 0
+
+Projects O projects 0 0 0 0 0 0 1 li ul item-973 8 0
+
+People O people 0 1 0 0 0 0 1 li ul active 8 0
+
+News O news 0 0 0 0 0 0 1 li ul item-974 8 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 h3 div  9 0
+Programmes O programmes 0 0 0 0 0 0 1 h3 div  9 0
+
+Computer O computer 0 0 0 0 0 0 1 li ul custom 12 0
+Science O science 0 0 0 0 0 0 1 li ul custom 12 0
+
+Information O information 0 1 0 0 0 0 1 li ul custom 12 0
+Systems O systems 0 0 0 0 0 0 1 li ul custom 12 0
+
+Computer O computer 0 0 0 0 0 0 1 li ul custom 12 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul custom 12 0
+
+Business O business 0 0 0 0 0 0 1 li ul custom 12 0
+Analytics O analytics 0 0 0 0 0 0 1 li ul custom 12 0
+
+Information O information 0 1 0 0 0 0 1 li ul custom 12 0
+Security O security 0 0 0 0 0 0 1 li ul custom 12 0
+
+Special O special 0 1 0 0 0 0 1 li ul custom 12 0
+Programmes O programmes 0 0 0 0 0 0 1 li ul custom 12 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul custom 12 0
+Brochure O brochure 0 0 0 0 0 0 1 li ul custom 12 0
+
+Admissions O admissions 0 0 0 0 0 0 1 h3 div  9 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul custom 12 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul custom 12 0
+
+Financial O financial 0 0 0 0 0 0 1 li ul custom 12 0
+Aid O aid 0 1 0 0 0 0 1 li ul custom 12 0
+
+Graduate O graduate 1 1 0 0 0 0 1 h3 div  9 0
+Programmes O programmes 0 0 0 0 0 0 1 h3 div  9 0
+
+PhD O phd 0 0 0 0 0 0 1 li ul custom 12 0
+in O in 0 1 0 0 0 0 0 li ul custom 12 0
+Computer O computer 0 0 0 0 0 0 1 li ul custom 12 0
+Science O science 0 0 0 0 0 0 1 li ul custom 12 0
+
+PhD O phd 0 0 0 0 0 0 1 li ul custom 12 0
+in O in 0 1 0 0 0 0 0 li ul custom 12 0
+Information O information 0 1 0 0 0 0 1 li ul custom 12 0
+Systems O systems 0 0 0 0 0 0 1 li ul custom 12 0
+
+Master O master 0 1 0 0 1 0 1 li ul custom 12 0
+' O ' 0 0 0 0 0 0 0 li ul custom 12 0
+s O s 0 0 0 0 0 0 0 li ul custom 12 0
+in O in 0 1 0 0 0 0 0 li ul custom 12 0
+Computer O computer 0 0 0 0 0 0 1 li ul custom 12 0
+Science O science 0 0 0 0 0 0 1 li ul custom 12 0
+
+Master O master 0 1 0 0 1 0 1 li ul custom 12 0
+' O ' 0 0 0 0 0 0 0 li ul custom 12 0
+s O s 0 0 0 0 0 0 0 li ul custom 12 0
+in O in 0 1 0 0 0 0 0 li ul custom 12 0
+Information O information 0 1 0 0 0 0 1 li ul custom 12 0
+Systems O systems 0 0 0 0 0 0 1 li ul custom 12 0
+
+Master O master 0 1 0 0 1 0 1 li ul custom 12 0
+' O ' 0 0 0 0 0 0 0 li ul custom 12 0
+s O s 0 0 0 0 0 0 0 li ul custom 12 0
+in O in 0 1 0 0 0 0 0 li ul custom 12 0
+Infocomm O infocomm 0 0 0 0 0 0 1 li ul custom 12 0
+Security O security 0 0 0 0 0 0 1 li ul custom 12 0
+
+Master O master 0 1 0 0 1 0 1 li ul custom 12 0
+' O ' 0 0 0 0 0 0 0 li ul custom 12 0
+s O s 0 0 0 0 0 0 0 li ul custom 12 0
+in O in 0 1 0 0 0 0 0 li ul custom 12 0
+Business O business 0 0 0 0 0 0 1 li ul custom 12 0
+Analytics O analytics 0 0 0 0 0 0 1 li ul custom 12 0
+
+Master O master 0 1 0 0 1 0 1 li ul custom 12 0
+' O ' 0 0 0 0 0 0 0 li ul custom 12 0
+s O s 0 0 0 0 0 0 0 li ul custom 12 0
+in O in 0 1 0 0 0 0 0 li ul custom 12 0
+IT O it 0 0 0 0 0 0 1 li ul custom 12 0
+Leadership O leadership 0 0 0 0 0 0 1 li ul custom 12 0
+
+Executive O executive 0 0 0 0 0 0 1 h3 div  9 0
+Education O education 0 0 0 0 0 0 1 h3 div  9 0
+
+Business O business 0 0 0 0 0 0 1 li ul custom 12 0
+Analytics O analytics 0 0 0 0 0 0 1 li ul custom 12 0
+Centre O centre 0 1 0 0 0 0 1 li ul custom 12 0
+
+Centre O centre 0 1 0 0 0 0 1 li ul custom 12 0
+for O for 0 1 0 0 0 0 0 li ul custom 12 0
+Health O health 0 1 0 0 0 0 1 li ul custom 12 0
+Informatics O informatics 0 0 0 0 0 0 1 li ul custom 12 0
+
+Strategic O strategic 0 0 0 0 0 0 1 li ul custom 12 0
+Technology O technology 0 0 0 0 0 0 1 li ul custom 12 0
+
+Management O management 0 1 0 0 0 0 1 li ul custom 12 0
+Institute O institute 0 0 0 0 0 0 1 li ul custom 12 0
+
+Organisation O organisation 0 0 0 0 0 0 1 h3 div  9 0
+
+About O about 0 0 0 0 0 0 1 li ul custom 12 0
+
+Dept. O dept. 0 0 0 0 0 0 1 li ul custom 12 0
+of O of 0 1 0 0 0 0 0 li ul custom 12 0
+Computer O computer 0 0 0 0 0 0 1 li ul custom 12 0
+Science O science 0 0 0 0 0 0 1 li ul custom 12 0
+
+Dept. O dept. 0 0 0 0 0 0 1 li ul custom 12 0
+of O of 0 1 0 0 0 0 0 li ul custom 12 0
+Information O information 0 1 0 0 0 0 1 li ul custom 12 0
+Systems O systems 0 0 0 0 0 0 1 li ul custom 12 0
+and O and 0 1 0 0 0 0 0 li ul custom 12 0
+Analytics O analytics 0 0 0 0 0 0 1 li ul custom 12 0
+
+Industry O industry 0 0 0 0 0 0 1 li ul custom 12 0
+Advisory O advisory 0 0 0 0 0 0 1 li ul custom 12 0
+Committee O committee 0 0 0 0 0 0 1 li ul custom 12 0
+
+Management O management 0 1 0 0 0 0 1 li ul custom 12 0
+
+Staff O staff 0 1 0 0 0 0 1 li ul custom 12 0
+Directory O directory 0 0 0 0 0 0 1 li ul custom 12 0
+
+Expert O expert 0 1 0 0 0 0 1 li ul custom 12 0
+Directory O directory 0 0 0 0 0 0 1 li ul custom 12 0
+
+News O news 0 0 0 0 0 0 1 li ul custom 12 0
+
+Corporate O corporate 0 0 0 0 0 0 1 li ul custom 12 0
+Relations O relations 0 0 0 0 0 0 1 li ul custom 12 0
+
+Giving O giving 0 0 0 0 0 0 1 li ul custom 12 0
+
+Careers O careers 0 0 0 0 0 0 1 li ul custom 12 1
+
+Resources O resources 0 0 0 0 0 0 1 h3 div  9 0
+
+MySoC O mysoc 0 0 0 0 1 0 1 li ul custom 12 0
+
+Email O email 0 0 0 0 1 0 1 li ul custom 12 0
+
+Student O student 0 1 0 0 0 0 1 li ul custom 12 0
+
+Staff O staff 0 1 0 0 0 0 1 li ul custom 12 0
+
+Events O events 0 0 0 0 0 0 1 li ul custom 12 1
+Calendar O calendar 0 0 0 0 0 0 1 li ul custom 12 1
+
+IVLE O ivle 0 0 0 0 0 0 1 li ul custom 12 0
+
+Library O library 0 0 0 0 0 0 1 li ul custom 12 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul custom 12 0
+
+Facilities O facilities 0 0 0 0 0 0 1 li ul custom 12 0
+& O & 0 0 0 0 0 0 0 li ul custom 12 0
+Services O services 0 0 0 0 0 0 1 li ul custom 12 0
+
+Student O student 0 1 0 0 0 0 1 li ul custom 12 0
+Jobs O jobs 0 1 0 0 0 0 1 li ul custom 12 0
+
+NUS O nus 0 0 0 0 0 0 1 h3 div  9 0
+School O school 0 1 0 0 0 0 1 h3 div  9 0
+of O of 0 1 0 0 0 0 0 h3 div  9 0
+Computing O computing 0 0 0 0 0 0 1 h3 div  9 0
+
+Computing O computing 0 0 0 0 0 0 1 ul div fa-ul 11 0
+1 O 1 0 0 0 1 0 0 0 ul div fa-ul 11 0
+
+13 O 13 0 0 0 1 0 0 0 ul div fa-ul 11 0
+Computing O computing 0 0 0 0 0 0 1 ul div fa-ul 11 0
+Drive O drive 0 0 0 0 1 0 1 ul div fa-ul 11 0
+
+Singapore O singapore 0 0 0 0 0 0 1 ul div fa-ul 11 0
+117417 O 117417 0 0 0 1 0 0 0 ul div fa-ul 11 0
+
++65 O +65 0 0 0 1 0 0 0 ul div fa-ul 11 4
+6516 O 6516 0 0 0 1 0 0 0 ul div fa-ul 11 4
+2727 O 2727 0 0 0 1 0 0 0 ul div fa-ul 11 4
+
+Contact O contact 0 0 0 0 0 0 1 span li fa-ul 13 0
+Us O us 0 1 0 0 0 0 1 span li fa-ul 13 0
+
+Directions O directions 0 0 0 0 0 0 1 p div footnav-info 11 1
+
+Organisation O organisation 0 0 0 0 0 0 1 h3 div  12 0
+
+About O about 0 0 0 0 0 0 1 li ul desktophidden 13 0
+
+Dept. O dept. 0 0 0 0 0 0 1 li ul desktophidden 13 0
+of O of 0 1 0 0 0 0 0 li ul desktophidden 13 0
+Computer O computer 0 0 0 0 0 0 1 li ul desktophidden 13 0
+Science O science 0 0 0 0 0 0 1 li ul desktophidden 13 0
+
+Dept. O dept. 0 0 0 0 0 0 1 li ul desktophidden 13 0
+of O of 0 1 0 0 0 0 0 li ul desktophidden 13 0
+Information O information 0 1 0 0 0 0 1 li ul desktophidden 13 0
+System O system 0 0 0 0 0 0 1 li ul desktophidden 13 0
+and O and 0 1 0 0 0 0 0 li ul desktophidden 13 0
+Analytics O analytics 0 0 0 0 0 0 1 li ul desktophidden 13 0
+
+Industry O industry 0 0 0 0 0 0 1 li ul desktophidden 13 0
+Advisory O advisory 0 0 0 0 0 0 1 li ul desktophidden 13 0
+Committee O committee 0 0 0 0 0 0 1 li ul desktophidden 13 0
+
+Management O management 0 1 0 0 0 0 1 li ul desktophidden 13 0
+
+Staff O staff 0 1 0 0 0 0 1 li ul desktophidden 13 0
+Directory O directory 0 0 0 0 0 0 1 li ul desktophidden 13 0
+
+News O news 0 0 0 0 0 0 1 li ul desktophidden 13 0
+
+Corporate O corporate 0 0 0 0 0 0 1 li ul desktophidden 13 0
+Relations O relations 0 0 0 0 0 0 1 li ul desktophidden 13 0
+
+Giving O giving 0 0 0 0 0 0 1 li ul desktophidden 13 0
+
+Careers O careers 0 0 0 0 0 0 1 li ul desktophidden 13 0
+
+Resources O resources 0 0 0 0 0 0 1 h3 div  12 0
+
+MySoC O mysoc 0 0 0 0 1 0 1 li ul desktophidden 13 0
+
+Email O email 0 0 0 0 1 0 1 li ul desktophidden 13 0
+
+Student O student 0 1 0 0 0 0 1 li ul desktophidden 13 0
+
+Staff O staff 0 1 0 0 0 0 1 li ul desktophidden 13 0
+
+Events O events 0 0 0 0 0 0 1 li ul desktophidden 13 0
+Calendar O calendar 0 0 0 0 0 0 1 li ul desktophidden 13 0
+
+IVLE O ivle 0 0 0 0 0 0 1 li ul desktophidden 13 0
+
+Library O library 0 0 0 0 0 0 1 li ul desktophidden 13 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul desktophidden 13 0
+
+Facilities O facilities 0 0 0 0 0 0 1 li ul desktophidden 13 0
+& O & 0 0 0 0 0 0 0 li ul desktophidden 13 0
+Services O services 0 0 0 0 0 0 1 li ul desktophidden 13 0
+
+Student O student 0 1 0 0 0 0 1 li ul desktophidden 13 0
+Jobs O jobs 0 1 0 0 0 0 1 li ul desktophidden 13 0
+
+IMIN O imin 0 0 0 0 0 0 1 li ul desktophidden 13 0
+
+© O © 0 0 0 0 0 0 0 div div copyright-info 7 0
+National O national 0 0 0 0 0 0 1 small div copyright-info 8 0
+University O university 0 1 0 0 0 0 1 small div copyright-info 8 0
+of O of 0 1 0 0 0 0 0 small div copyright-info 8 0
+Singapore O singapore 0 0 0 0 0 0 1 small div copyright-info 8 0
+. O . 0 1 0 0 0 0 0 div div copyright-info 7 0
+All O all 0 1 0 0 0 0 1 div div copyright-info 7 0
+Rights O rights 0 0 0 0 0 0 1 div div copyright-info 7 0
+Reserved. O reserved. 0 0 0 0 0 0 1 div div copyright-info 7 0
+
+Legal O legal 0 1 0 0 0 0 1 li ul item-118 9 0
+
+Branding O branding 0 1 0 0 0 0 1 li ul item-119 9 0
+guidelines O guidelines 0 0 0 0 0 0 0 li ul item-119 9 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul item-123 9 0
+us O us 0 1 0 0 0 0 0 li ul item-123 9 0
+
+JavaScript O javascript 0 0 0 0 0 0 1 noscript [document] none 3 0
+is O is 0 0 0 0 0 0 0 noscript [document] none 3 0
+currently O currently 0 0 0 0 0 0 0 noscript [document] none 3 0
+disabled. O disabled. 0 0 0 0 0 0 0 noscript [document] none 3 0
+
+Please O please 0 1 0 0 0 0 1 [document]  none 2 742
+enable O enable 0 0 0 0 0 0 0 [document]  none 2 742
+it O it 0 0 0 0 0 0 0 [document]  none 2 742
+for O for 0 1 0 0 0 0 0 [document]  none 2 742
+a O a 0 1 0 0 0 0 0 [document]  none 2 742
+better O better 0 0 0 0 0 0 0 [document]  none 2 742
+experience O experience 0 0 0 0 0 0 0 [document]  none 2 742
+of O of 0 1 0 0 0 0 0 [document]  none 2 742
+Jumi O jumi 0 1 0 0 0 0 1 noscript [document] none 3 1
+. O . 0 1 0 0 0 0 0 [document]  none 2 742

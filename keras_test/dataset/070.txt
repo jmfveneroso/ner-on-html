@@ -1,200 +1,200 @@
-Members O members 0 0 0 0 0 0 1 meta link none 7 0
-of O of 0 1 0 0 0 0 0 meta link none 7 0
-Hara O hara 0 1 0 0 0 0 1 meta link none 7 0
-Lab. O lab. 0 0 0 0 0 0 1 meta link none 7 0
+Members O members 0 0 0 0 0 0 1 0 6 meta link none 7 0
+of O of 0 1 0 0 0 0 0 2 10 meta link none 7 0
+Hara O hara 0 1 0 0 0 0 1 5 3 meta link none 7 0
+Lab. O lab. 0 0 0 0 0 0 1 0 0 meta link none 7 0
 
-Japanese O japanese 0 0 0 0 0 0 1 nav header none 6 0
-page O page 0 0 0 0 0 0 0 nav header none 6 0
+Japanese O japanese 0 0 0 0 0 0 1 0 4 nav header none 6 0
+page O page 0 0 0 0 0 0 0 0 9 nav header none 6 0
 
-Professor O professor 0 0 0 0 1 0 1 div article col1 7 0
+Professor O professor 0 0 0 0 1 0 1 0 7 div article col1 7 0
 
-Takahiro B-PER takahiro 1 1 0 0 0 0 1 li ul col1 9 0
-Hara I-PER hara 1 1 0 0 0 0 1 li ul col1 9 0
+Takahiro B-PER takahiro 1 1 0 0 0 0 1 6 0 li ul col1 9 0
+Hara I-PER hara 1 1 0 0 0 0 1 5 3 li ul col1 9 0
 
-Associate O associate 0 1 0 0 0 0 1 div article col1 7 4
-Professor O professor 0 0 0 0 1 0 1 div article col1 7 4
+Associate O associate 0 1 0 0 0 0 1 0 6 div article col1 7 4
+Professor O professor 0 0 0 0 1 0 1 0 7 div article col1 7 4
 
-Takuya B-PER takuya 1 1 0 0 0 0 1 li ul col1 9 0
-Maekawa I-PER maekawa 1 1 0 0 0 0 1 li ul col1 9 0
+Takuya B-PER takuya 1 1 0 0 0 0 1 6 0 li ul col1 9 0
+Maekawa I-PER maekawa 1 1 0 0 0 0 1 4 0 li ul col1 9 0
 
-Tomoki B-PER tomoki 1 1 0 0 0 0 1 li ul col1 9 0
-Yoshihisa I-PER yoshihisa 1 1 0 0 0 0 1 li ul col1 9 0
-( O ( 0 0 0 0 0 0 0 ul div col1 8 2
-Collateral O collateral 0 0 0 0 0 0 1 ul div col1 8 2
-Office O office 0 0 0 0 0 0 1 ul div col1 8 2
-) O ) 0 0 0 0 0 0 0 ul div col1 8 2
+Tomoki B-PER tomoki 1 1 0 0 0 0 1 5 0 li ul col1 9 0
+Yoshihisa I-PER yoshihisa 1 1 0 0 0 0 1 4 0 li ul col1 9 0
+( O-PUNCT ( 1 1 0 0 0 0 0 6 0 ul div col1 8 2
+Collateral O collateral 0 0 0 0 0 0 1 0 0 ul div col1 8 2
+Office O office 0 0 0 0 0 0 1 0 7 ul div col1 8 2
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 ul div col1 8 2
 
-Assistant O assistant 0 0 0 0 0 0 1 div article col1 7 10
-Professor O professor 0 0 0 0 1 0 1 div article col1 7 10
+Assistant O assistant 0 0 0 0 0 0 1 0 6 div article col1 7 10
+Professor O professor 0 0 0 0 1 0 1 0 7 div article col1 7 10
 
-Daichi B-PER daichi 1 1 0 0 0 0 1 li ul col1 9 0
-Amagata I-PER amagata 1 1 0 0 0 0 1 li ul col1 9 0
+Daichi B-PER daichi 1 1 0 0 0 0 1 4 0 li ul col1 9 0
+Amagata I-PER amagata 1 1 0 0 0 0 1 0 0 li ul col1 9 0
 
-Research O research 0 1 0 0 0 0 1 div article col1 7 14
-Assistant O assistant 0 0 0 0 0 0 1 div article col1 7 14
-Professor O professor 0 0 0 0 1 0 1 div article col1 7 14
+Research O research 0 1 0 0 0 0 1 0 7 div article col1 7 14
+Assistant O assistant 0 0 0 0 0 0 1 0 6 div article col1 7 14
+Professor O professor 0 0 0 0 1 0 1 0 7 div article col1 7 14
 
-Joseph B-PER joseph 1 1 0 0 0 0 1 ul div col1 8 0
-Korpela I-PER korpela 1 1 0 0 0 0 1 ul div col1 8 0
+Joseph B-PER joseph 1 1 0 0 0 0 1 8 6 ul div col1 8 0
+Korpela I-PER korpela 1 1 0 0 0 0 1 3 0 ul div col1 8 0
 
-Guest O guest 0 1 0 0 0 0 1 [document]  none 2 31
-Professor O professor 0 0 0 0 1 0 1 [document]  none 2 31
+Guest O guest 0 1 0 0 0 0 1 3 3 [document]  none 2 31
+Professor O professor 0 0 0 0 1 0 1 0 7 [document]  none 2 31
 
-Masumi B-PER masumi 1 1 0 0 1 0 1 li ul none 4 0
-Shirakawa I-PER shirakawa 1 1 0 0 0 0 1 li ul none 4 0
+Masumi B-PER masumi 1 1 0 0 1 0 1 4 0 li ul none 4 0
+Shirakawa I-PER shirakawa 1 1 0 0 0 0 1 4 0 li ul none 4 0
 
-Postdoctoral O postdoctoral 0 0 0 0 0 0 1 [document]  none 2 35
-Researcher O researcher 0 0 0 0 0 0 1 [document]  none 2 35
+Postdoctoral O postdoctoral 0 0 0 0 0 0 1 0 2 [document]  none 2 35
+Researcher O researcher 0 0 0 0 0 0 1 0 3 [document]  none 2 35
 
-Zhao B-PER zhao 1 1 0 0 0 0 1 ul [document] none 3 0
-Wei I-PER wei 1 1 0 0 0 0 1 ul [document] none 3 0
+Zhao B-PER zhao 1 1 0 0 0 0 1 8 1 ul [document] none 3 0
+Wei I-PER wei 1 1 0 0 0 0 1 9 2 ul [document] none 3 0
 
-Technical O technical 0 0 0 0 0 0 1 [document]  none 2 38
-Staff O staff 0 1 0 0 0 0 1 [document]  none 2 38
+Technical O technical 0 0 0 0 0 0 1 0 6 [document]  none 2 38
+Staff O staff 0 1 0 0 0 0 1 2 7 [document]  none 2 38
 
-Yoshiaki B-PER yoshiaki 1 1 0 0 0 0 1 ul [document] none 3 0
-Takemoto I-PER takemoto 1 1 0 0 0 0 1 ul [document] none 3 0
+Yoshiaki B-PER yoshiaki 1 1 0 0 0 0 1 5 0 ul [document] none 3 0
+Takemoto I-PER takemoto 1 1 0 0 0 0 1 3 0 ul [document] none 3 0
 
-Clerical O clerical 0 0 0 0 0 0 1 [document]  none 2 41
-Assistant O assistant 0 0 0 0 0 0 1 [document]  none 2 41
+Clerical O clerical 0 0 0 0 0 0 1 0 1 [document]  none 2 41
+Assistant O assistant 0 0 0 0 0 0 1 0 6 [document]  none 2 41
 
-Kyoko B-PER kyoko 0 1 0 0 0 0 1 ul [document] none 3 0
-Shimomura I-PER shimomura 0 1 0 0 0 0 1 ul [document] none 3 0
+Kyoko B-PER kyoko 0 1 0 0 0 0 1 4 0 ul [document] none 3 0
+Shimomura I-PER shimomura 0 1 0 0 0 0 1 4 0 ul [document] none 3 0
 
-Makiko B-PER makiko 0 1 0 0 0 0 1 ul [document] none 3 1
-Higashinaka I-PER higashinaka 0 1 0 0 0 0 1 ul [document] none 3 1
+Makiko B-PER makiko 0 1 0 0 0 0 1 4 0 ul [document] none 3 1
+Higashinaka I-PER higashinaka 0 1 0 0 0 0 1 1 0 ul [document] none 3 1
 
-Former O former 0 0 0 0 0 0 1 [document]  none 2 45
-Professor O professor 0 0 0 0 1 0 1 [document]  none 2 45
+Former O former 0 0 0 0 0 0 1 0 6 [document]  none 2 45
+Professor O professor 0 0 0 0 1 0 1 0 7 [document]  none 2 45
 
-Shojiro B-PER shojiro 1 1 0 0 0 0 1 li ul none 4 0
-Nishio I-PER nishio 1 1 0 0 0 0 1 li ul none 4 0
+Shojiro B-PER shojiro 1 1 0 0 0 0 1 3 0 li ul none 4 0
+Nishio I-PER nishio 1 1 0 0 0 0 1 4 1 li ul none 4 0
 
-Collaborative O collaborative 0 0 0 0 0 0 1 [document]  none 2 49
-Reseracher O reseracher 0 0 0 0 0 0 1 [document]  none 2 49
+Collaborative O collaborative 0 0 0 0 0 0 1 0 4 [document]  none 2 49
+Reseracher O reseracher 0 0 0 0 0 0 1 0 0 [document]  none 2 49
 
-Kaname B-PER kaname 1 1 0 0 0 0 1 ul [document] none 3 0
-Harumoto I-PER harumoto 1 1 0 0 0 0 1 ul [document] none 3 0
+Kaname B-PER kaname 1 1 0 0 0 0 1 3 0 ul [document] none 3 0
+Harumoto I-PER harumoto 1 1 0 0 0 0 1 1 0 ul [document] none 3 0
 
-Yuuichi B-PER yuuichi 1 1 0 0 0 0 1 li ul none 4 0
-Teranishi I-PER teranishi 1 1 0 0 0 0 1 li ul none 4 0
+Yuuichi B-PER yuuichi 1 1 0 0 0 0 1 3 0 li ul none 4 0
+Teranishi I-PER teranishi 1 1 0 0 0 0 1 3 0 li ul none 4 0
 
-Tadashi B-PER tadashi 1 1 0 0 0 0 1 ul [document] none 3 3
-Nakano I-PER nakano 1 1 0 0 0 0 1 ul [document] none 3 3
+Tadashi B-PER tadashi 1 1 0 0 0 0 1 5 0 ul [document] none 3 3
+Nakano I-PER nakano 1 1 0 0 0 0 1 5 0 ul [document] none 3 3
 
-Kotaro B-PER kotaro 1 1 0 0 0 0 1 li ul none 4 0
-Nakayama I-PER nakayama 1 1 0 0 0 0 1 li ul none 4 0
+Kotaro B-PER kotaro 1 1 0 0 0 0 1 5 0 li ul none 4 0
+Nakayama I-PER nakayama 1 1 0 0 0 0 1 5 0 li ul none 4 0
 
-Akimitsu B-PER akimitsu 1 1 0 0 0 0 1 li ul none 4 0
-Kanzaki I-PER kanzaki 1 1 0 0 0 0 1 li ul none 4 0
+Akimitsu B-PER akimitsu 1 1 0 0 0 0 1 2 0 li ul none 4 0
+Kanzaki I-PER kanzaki 1 1 0 0 0 0 1 3 0 li ul none 4 0
 
-Doctor O doctor 0 1 0 0 0 0 1 div [document] col2 3 0
-3rd O 3rd 0 0 0 1 0 0 0 div [document] col2 3 0
-year O year 0 0 0 0 0 0 0 div [document] col2 3 0
+Doctor O doctor 0 1 0 0 0 0 1 3 3 div [document] col2 3 0
+3rd O 3rd 0 0 0 1 0 0 0 0 0 div [document] col2 3 0
+year O year 0 0 0 0 0 0 0 0 6 div [document] col2 3 0
 
-Yu B-PER yu 1 1 0 0 0 0 1 li ul col2 5 0
-Kaneko I-PER kaneko 1 1 0 0 0 0 1 li ul col2 5 0
+Yu B-PER yu 1 1 0 0 0 0 1 9 4 li ul col2 5 0
+Kaneko I-PER kaneko 1 1 0 0 0 0 1 5 0 li ul col2 5 0
 
-Tatuya B-PER tatuya 0 1 0 0 0 0 1 li ul col2 5 0
-Nakamura I-PER nakamura 0 1 0 0 0 0 1 li ul col2 5 0
+Tatuya B-PER tatuya 0 1 0 0 0 0 1 2 0 li ul col2 5 0
+Nakamura I-PER nakamura 0 1 0 0 0 0 1 6 1 li ul col2 5 0
 
-Haruka B-PER haruka 1 1 0 0 0 0 1 li ul col2 5 0
-Majima I-PER majima 1 1 0 0 0 0 1 li ul col2 5 0
+Haruka B-PER haruka 1 1 0 0 0 0 1 4 0 li ul col2 5 0
+Majima I-PER majima 1 1 0 0 0 0 1 3 0 li ul col2 5 0
 
-Masahiro B-PER masahiro 1 1 0 0 1 0 1 li ul col2 5 0
-Yokoyama I-PER yokoyama 1 1 0 0 0 0 1 li ul col2 5 0
+Masahiro B-PER masahiro 1 1 0 0 1 0 1 6 1 li ul col2 5 0
+Yokoyama I-PER yokoyama 1 1 0 0 0 0 1 5 0 li ul col2 5 0
 
-Doctor O doctor 0 1 0 0 0 0 1 div [document] col2 3 10
-1st O 1st 0 0 0 1 0 0 0 div [document] col2 3 10
-year O year 0 0 0 0 0 0 0 div [document] col2 3 10
+Doctor O doctor 0 1 0 0 0 0 1 3 3 div [document] col2 3 10
+1st O 1st 0 0 0 1 0 0 0 0 0 div [document] col2 3 10
+year O year 0 0 0 0 0 0 0 0 6 div [document] col2 3 10
 
-Takuya B-PER takuya 1 1 0 0 0 0 1 li ul col2 5 0
-Obuchi I-PER obuchi 1 1 0 0 0 0 1 li ul col2 5 0
+Takuya B-PER takuya 1 1 0 0 0 0 1 6 0 li ul col2 5 0
+Obuchi I-PER obuchi 1 1 0 0 0 0 1 2 0 li ul col2 5 0
 
-Boqi B-PER boqi 0 1 0 0 0 0 1 li ul col2 5 0
-Gao I-PER gao 0 1 0 0 0 0 1 li ul col2 5 0
+Boqi B-PER boqi 0 1 0 0 0 0 1 1 0 li ul col2 5 0
+Gao I-PER gao 0 1 0 0 0 0 1 8 2 li ul col2 5 0
 
-Master O master 0 1 0 0 1 0 1 div [document] col2 3 16
-2nd O 2nd 0 0 0 1 0 0 0 div [document] col2 3 16
-year O year 0 0 0 0 0 0 0 div [document] col2 3 16
+Master O master 0 1 0 0 1 0 1 3 6 div [document] col2 3 16
+2nd O 2nd 0 0 0 1 0 0 0 0 0 div [document] col2 3 16
+year O year 0 0 0 0 0 0 0 0 6 div [document] col2 3 16
 
-Keisuke B-PER keisuke 1 1 0 0 0 0 1 li ul col2 5 0
-Nakashima I-PER nakashima 1 1 0 0 0 0 1 li ul col2 5 0
+Keisuke B-PER keisuke 1 1 0 0 0 0 1 6 0 li ul col2 5 0
+Nakashima I-PER nakashima 1 1 0 0 0 0 1 5 0 li ul col2 5 0
 
-Syunya B-PER syunya 0 1 0 0 0 0 1 li ul col2 5 0
-Nishio I-PER nishio 0 1 0 0 0 0 1 li ul col2 5 0
+Syunya B-PER syunya 0 1 0 0 0 0 1 1 0 li ul col2 5 0
+Nishio I-PER nishio 0 1 0 0 0 0 1 4 1 li ul col2 5 0
 
-Shuhei B-PER shuhei 0 1 0 0 0 0 1 li ul col2 5 0
-Hayashida I-PER hayashida 0 1 0 0 0 0 1 li ul col2 5 0
+Shuhei B-PER shuhei 0 1 0 0 0 0 1 5 0 li ul col2 5 0
+Hayashida I-PER hayashida 0 1 0 0 0 0 1 3 0 li ul col2 5 0
 
-Takashi B-PER takashi 0 1 0 0 0 0 1 li ul col2 5 0
-Miyauchi I-PER miyauchi 0 1 0 0 0 0 1 li ul col2 5 0
+Takashi B-PER takashi 0 1 0 0 0 0 1 7 0 li ul col2 5 0
+Miyauchi I-PER miyauchi 0 1 0 0 0 0 1 4 0 li ul col2 5 0
 
-Tian B-PER tian 0 1 0 0 0 0 1 ul div col2 4 8
-Yiming I-PER yiming 0 1 0 0 0 0 1 ul div col2 4 8
+Tian B-PER tian 0 1 0 0 0 0 1 7 3 ul div col2 4 8
+Yiming I-PER yiming 0 1 0 0 0 0 1 4 0 ul div col2 4 8
 
-Master O master 0 1 0 0 1 0 1 div [document] col2 3 27
-1st O 1st 0 0 0 1 0 0 0 div [document] col2 3 27
-year O year 0 0 0 0 0 0 0 div [document] col2 3 27
+Master O master 0 1 0 0 1 0 1 3 6 div [document] col2 3 27
+1st O 1st 0 0 0 1 0 0 0 0 0 div [document] col2 3 27
+year O year 0 0 0 0 0 0 0 0 6 div [document] col2 3 27
 
-Zennosuke B-PER zennosuke 0 0 0 0 0 0 1 li ul col2 5 0
-Aiko I-PER aiko 0 1 0 0 0 0 1 li ul col2 5 0
+Zennosuke B-PER zennosuke 0 0 0 0 0 0 1 0 0 li ul col2 5 0
+Aiko I-PER aiko 0 1 0 0 0 0 1 3 0 li ul col2 5 0
 
-Shun B-PER shun 0 1 0 0 0 0 1 li ul col2 5 0
-Abe I-PER abe 0 1 0 0 0 0 1 li ul col2 5 0
+Shun B-PER shun 0 1 0 0 0 0 1 6 2 li ul col2 5 0
+Abe I-PER abe 0 1 0 0 0 0 1 6 2 li ul col2 5 0
 
-Hokuto B-PER hokuto 0 1 0 0 0 0 1 li ul col2 5 0
-Shimogishi I-PER shimogishi 0 0 0 0 0 0 1 li ul col2 5 0
+Hokuto B-PER hokuto 0 1 0 0 0 0 1 2 0 li ul col2 5 0
+Shimogishi I-PER shimogishi 0 0 0 0 0 0 1 0 0 li ul col2 5 0
 
-Tomoya B-PER tomoya 0 1 0 0 0 0 1 li ul col2 5 0
-Nakatani I-PER nakatani 0 1 0 0 0 0 1 li ul col2 5 0
+Tomoya B-PER tomoya 0 1 0 0 0 0 1 5 0 li ul col2 5 0
+Nakatani I-PER nakatani 0 1 0 0 0 0 1 4 0 li ul col2 5 0
 
-Chen B-PER chen 1 1 0 0 0 0 1 ul div col2 4 8
-Cheng I-PER cheng 1 1 0 0 0 0 1 ul div col2 4 8
+Chen B-PER chen 1 1 0 0 0 0 1 9 4 ul div col2 4 8
+Cheng I-PER cheng 1 1 0 0 0 0 1 9 4 ul div col2 4 8
 
-Cao B-PER cao 1 1 0 0 0 0 1 ul div col2 4 9
-Bunki I-PER bunki 0 1 0 0 0 0 1 ul div col2 4 9
+Cao B-PER cao 1 1 0 0 0 0 1 7 4 ul div col2 4 9
+Bunki I-PER bunki 0 1 0 0 0 0 1 0 0 ul div col2 4 9
 
-Research O research 0 1 0 0 0 0 1 div [document] col2 3 39
-student O student 0 0 0 0 0 0 0 div [document] col2 3 39
+Research O research 0 1 0 0 0 0 1 0 7 div [document] col2 3 39
+student O student 0 0 0 0 0 0 0 0 8 div [document] col2 3 39
 
-Lyu B-PER lyu 0 1 0 0 0 0 1 ul div col2 4 0
-Yuan I-PER yuan 1 1 0 0 0 0 1 ul div col2 4 0
+Lyu B-PER lyu 0 1 0 0 0 0 1 5 0 ul div col2 4 0
+Yuan I-PER yuan 1 1 0 0 0 0 1 8 3 ul div col2 4 0
 
-Wang B-PER wang 1 1 0 0 0 0 1 ul div col2 4 1
-Hanxin I-PER hanxin 0 1 0 0 0 0 1 ul div col2 4 1
+Wang B-PER wang 1 1 0 0 0 0 1 9 4 ul div col2 4 1
+Hanxin I-PER hanxin 0 1 0 0 0 0 1 1 0 ul div col2 4 1
 
-Li B-PER li 1 1 0 0 0 0 1 ul div col2 4 2
-Zhi I-PER zhi 1 1 0 0 0 0 1 ul div col2 4 2
+Li B-PER li 1 1 0 0 0 0 1 9 6 ul div col2 4 2
+Zhi I-PER zhi 1 1 0 0 0 0 1 7 0 ul div col2 4 2
 
-Bachelor O bachelor 0 1 0 0 0 0 1 div [document] col3 3 0
-4th O 4th 0 0 0 1 0 0 0 div [document] col3 3 0
-year O year 0 0 0 0 0 0 0 div [document] col3 3 0
+Bachelor O bachelor 0 1 0 0 0 0 1 1 5 div [document] col3 3 0
+4th O 4th 0 0 0 1 0 0 0 0 0 div [document] col3 3 0
+year O year 0 0 0 0 0 0 0 0 6 div [document] col3 3 0
 
-Shinya B-PER shinya 0 1 0 0 0 0 1 li ul col3 5 0
-Ishiyama I-PER ishiyama 0 1 0 0 0 0 1 li ul col3 5 0
+Shinya B-PER shinya 0 1 0 0 0 0 1 5 2 li ul col3 5 0
+Ishiyama I-PER ishiyama 0 1 0 0 0 0 1 3 0 li ul col3 5 0
 
-Shinya B-PER shinya 1 1 0 0 0 0 1 li ul col3 5 0
-Kato I-PER kato 1 1 0 0 0 0 1 li ul col3 5 0
+Shinya B-PER shinya 1 1 0 0 0 0 1 5 2 li ul col3 5 0
+Kato I-PER kato 1 1 0 0 0 0 1 6 2 li ul col3 5 0
 
-Toshimitsu B-PER toshimitsu 0 1 0 0 0 0 1 li ul col3 5 0
-Kamiya I-PER kamiya 0 1 0 0 0 0 1 li ul col3 5 0
+Toshimitsu B-PER toshimitsu 0 1 0 0 0 0 1 4 0 li ul col3 5 0
+Kamiya I-PER kamiya 0 1 0 0 0 0 1 4 0 li ul col3 5 0
 
-Daiki B-PER daiki 0 1 0 0 0 0 1 li ul col3 5 0
-Higashide I-PER higashide 0 1 0 0 0 0 1 li ul col3 5 0
+Daiki B-PER daiki 0 1 0 0 0 0 1 5 0 li ul col3 5 0
+Higashide I-PER higashide 0 1 0 0 0 0 1 1 0 li ul col3 5 0
 
-Naoya B-PER naoya 0 1 0 0 0 0 1 li ul col3 5 0
-Yoshimura I-PER yoshimura 0 1 0 0 0 0 1 li ul col3 5 0
+Naoya B-PER naoya 0 1 0 0 0 0 1 5 0 li ul col3 5 0
+Yoshimura I-PER yoshimura 0 1 0 0 0 0 1 5 1 li ul col3 5 0
 
-Dissanayake B-PER dissanayake 0 1 0 0 0 0 1 li ul col3 5 0
-Thilina I-PER thilina 0 1 0 0 0 0 1 li ul col3 5 0
-Madushan I-PER madushan 0 1 0 0 0 0 1 li ul col3 5 0
+Dissanayake B-PER dissanayake 0 1 0 0 0 0 1 3 0 li ul col3 5 0
+Thilina I-PER thilina 0 1 0 0 0 0 1 2 0 li ul col3 5 0
+Madushan I-PER madushan 0 1 0 0 0 0 1 0 0 li ul col3 5 0
 
-Bachelor O bachelor 0 1 0 0 0 0 1 div [document] col3 3 14
-3rd O 3rd 0 0 0 1 0 0 0 div [document] col3 3 14
-year O year 0 0 0 0 0 0 0 div [document] col3 3 14
+Bachelor O bachelor 0 1 0 0 0 0 1 1 5 div [document] col3 3 14
+3rd O 3rd 0 0 0 1 0 0 0 0 0 div [document] col3 3 14
+year O year 0 0 0 0 0 0 0 0 6 div [document] col3 3 14
 
-Back O back 0 1 0 0 0 0 1 footer [document] none 3 0
-to O to 0 0 0 0 0 0 0 footer [document] none 3 0
-Homepage O homepage 0 0 0 0 0 0 1 footer [document] none 3 0
-/ O / 0 0 0 0 0 0 0 [document]  none 2 122
+Back O back 0 1 0 0 0 0 1 4 6 footer [document] none 3 0
+to O to 0 1 0 0 0 0 0 0 10 footer [document] none 3 0
+Homepage O homepage 0 0 0 0 0 0 1 0 5 footer [document] none 3 0
+/ O / 0 0 0 0 0 0 0 0 0 [document]  none 2 122

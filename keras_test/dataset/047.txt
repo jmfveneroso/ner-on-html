@@ -1,408 +1,404 @@
-Nankai O nankai 0 1 0 0 0 0 1 meta meta wf-loading 7 0
-University O university 0 1 0 0 0 0 1 meta meta wf-loading 7 0
-| O | 0 0 0 0 0 0 0 meta meta wf-loading 7 0
-Department O department 0 0 0 0 0 0 1 meta meta wf-loading 7 0
-of O of 0 1 0 0 0 0 0 meta meta wf-loading 7 0
-Computer O computer 0 0 0 0 0 0 1 meta meta wf-loading 7 0
-Science O science 0 0 0 0 0 0 1 meta meta wf-loading 7 0
-- O - 0 0 0 0 0 0 0 meta meta wf-loading 7 0
-Academia.edu O academia.edu 0 0 0 0 0 0 1 meta meta wf-loading 7 0
-
-Skip O skip 0 1 0 0 0 0 1 div body u-showOnFocus 5 0
-to O to 0 0 0 0 0 0 0 div body u-showOnFocus 5 0
-main O main 0 0 0 0 0 0 0 div body u-showOnFocus 5 0
-content O content 0 0 0 0 0 0 0 div body u-showOnFocus 5 0
-
-Log O log 0 1 0 0 0 0 1 li ul u-mb4x 10 0
-In O in 0 1 0 0 0 0 1 li ul u-mb4x 10 0
-
-Sign O sign 0 1 0 0 0 0 1 li ul u-mb4x 10 0
-Up O up 0 1 0 0 0 0 1 li ul u-mb4x 10 0
-
-Nankai O nankai 0 1 0 0 0 0 1 a span u-tcGrayDarkest 14 0
-University O university 0 1 0 0 0 0 1 a span u-tcGrayDarkest 14 0
-
-Department O department 0 0 0 0 0 0 1 div div u-displayInline 12 3
-of O of 0 1 0 0 0 0 0 div div u-displayInline 12 3
-Computer O computer 0 0 0 0 0 0 1 div div u-displayInline 12 3
-Science O science 0 0 0 0 0 0 1 div div u-displayInline 12 3
-
-All O all 0 1 0 0 0 0 1 a li u-borderRight1 14 0
-Departments O departments 0 0 0 0 0 0 1 a li u-borderRight1 14 0
-
-8 O 8 0 0 0 1 0 0 0 li ul u-floatLeft 13 0
-Documents O documents 0 0 0 0 0 0 1 li ul u-floatLeft 13 0
-
-13 O 13 0 0 0 1 0 0 0 li ul active 13 0
-Researchers O researchers 0 0 0 0 0 0 1 li ul active 13 0
-
-Faculty O faculty 0 0 0 0 0 0 1 div div hr-heading-text 13 0
-
-Cheng B-PER cheng 0 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-mingming I-PER mingming 0 0 0 0 0 0 0 span div u-tcGrayDarker 18 0
-
-1 O 1 0 0 0 1 0 0 0 span div u-fw700 19 0
-Paper O paper 0 1 0 0 0 0 1 div div u-fs12 18 0
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-— O — 0 0 0 0 0 0 0 span div js-profile-view-count-44113083 19 0
-Views O views 0 0 0 0 0 0 1 span div u-tcGrayDarker 19 1
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-2 O 2 0 0 0 1 0 0 0 span div u-fw700 19 0
-Followers O followers 0 0 0 0 0 0 1 div div u-fs12 18 7
-| O | 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
-— O — 0 0 0 0 0 0 0 span span js-profile-percentile-44113083 20 1
-
-Unfollow O unfollow 0 0 0 0 0 0 1 div div Button--inverseGray 16 0
-
-Follow O follow 0 0 0 0 0 0 1 div div Button--inverseGreen 16 1
-
-Yuwei B-PER yuwei 1 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-Xu I-PER xu 1 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-
-6 O 6 0 0 0 1 0 0 0 span div u-fw700 19 0
-Papers O papers 0 0 0 0 0 0 1 div div u-fs12 18 0
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-— O — 0 0 0 0 0 0 0 span div js-profile-view-count-18483208 19 0
-Views O views 0 0 0 0 0 0 1 span div u-tcGrayDarker 19 1
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-3 O 3 0 0 0 1 0 0 0 span div u-fw700 19 0
-Followers O followers 0 0 0 0 0 0 1 div div u-fs12 18 7
-| O | 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
-— O — 0 0 0 0 0 0 0 span span js-profile-percentile-18483208 20 1
-
-Unfollow O unfollow 0 0 0 0 0 0 1 div div Button--inverseGray 16 0
-
-Follow O follow 0 0 0 0 0 0 1 div div Button--inverseGreen 16 1
-
-Graduate O graduate 1 1 0 0 0 0 1 div div hr-heading-text 13 0
-Students O students 0 0 0 0 0 0 1 div div hr-heading-text 13 0
-
-n O n 0 0 0 0 0 0 0 span div u-tcGrayDarker 18 0
-hc O hc 0 0 0 0 0 0 0 span div u-tcGrayDarker 18 0
-
-0 O 0 0 0 0 1 0 0 0 span div u-fw700 19 0
-Papers O papers 0 0 0 0 0 0 1 div div u-fs12 18 0
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-— O — 0 0 0 0 0 0 0 span div js-profile-view-count-455025 19 0
-Views O views 0 0 0 0 0 0 1 span div u-tcGrayDarker 19 1
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-1 O 1 0 0 0 1 0 0 0 span div u-fw700 19 0
-Follower O follower 0 0 0 0 0 0 1 div div u-fs12 18 7
-| O | 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
-— O — 0 0 0 0 0 0 0 span span js-profile-percentile-455025 20 1
-
-Unfollow O unfollow 0 0 0 0 0 0 1 div div Button--inverseGray 16 0
-
-Follow O follow 0 0 0 0 0 0 1 div div Button--inverseGreen 16 1
-
-Xiaocheng B-PER xiaocheng 1 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-Huang I-PER huang 1 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-
-1 O 1 0 0 0 1 0 0 0 span div u-fw700 19 0
-Paper O paper 0 1 0 0 0 0 1 div div u-fs12 18 0
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-— O — 0 0 0 0 0 0 0 span div js-profile-view-count-383343 19 0
-Views O views 0 0 0 0 0 0 1 span div u-tcGrayDarker 19 1
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-2 O 2 0 0 0 1 0 0 0 span div u-fw700 19 0
-Followers O followers 0 0 0 0 0 0 1 div div u-fs12 18 7
-| O | 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
-— O — 0 0 0 0 0 0 0 span span js-profile-percentile-383343 20 1
-
-Unfollow O unfollow 0 0 0 0 0 0 1 div div Button--inverseGray 16 0
-
-Follow O follow 0 0 0 0 0 0 1 div div Button--inverseGreen 16 1
-
-Jingwei B-PER jingwei 1 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-Li I-PER li 1 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-
-0 O 0 0 0 0 1 0 0 0 span div u-fw700 19 0
-Papers O papers 0 0 0 0 0 0 1 div div u-fs12 18 0
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-— O — 0 0 0 0 0 0 0 span div js-profile-view-count-4616187 19 0
-Views O views 0 0 0 0 0 0 1 span div u-tcGrayDarker 19 1
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-5 O 5 0 0 0 1 0 0 0 span div u-fw700 19 0
-Followers O followers 0 0 0 0 0 0 1 div div u-fs12 18 7
-| O | 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
-— O — 0 0 0 0 0 0 0 span span js-profile-percentile-4616187 20 1
-
-Unfollow O unfollow 0 0 0 0 0 0 1 div div Button--inverseGray 16 0
-
-Follow O follow 0 0 0 0 0 0 1 div div Button--inverseGreen 16 1
-
-Wen B-PER wen 1 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-Zhang I-PER zhang 1 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-
-0 O 0 0 0 0 1 0 0 0 span div u-fw700 19 0
-Papers O papers 0 0 0 0 0 0 1 div div u-fs12 18 0
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-— O — 0 0 0 0 0 0 0 span div js-profile-view-count-979731 19 0
-Views O views 0 0 0 0 0 0 1 span div u-tcGrayDarker 19 1
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-0 O 0 0 0 0 1 0 0 0 span div u-fw700 19 0
-Followers O followers 0 0 0 0 0 0 1 div div u-fs12 18 7
-| O | 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
-— O — 0 0 0 0 0 0 0 span span js-profile-percentile-979731 20 1
-
-Unfollow O unfollow 0 0 0 0 0 0 1 div div Button--inverseGray 16 0
-
-Follow O follow 0 0 0 0 0 0 1 div div Button--inverseGreen 16 1
-
-Yg B-PER yg 0 0 0 0 0 0 1 span div u-tcGrayDarker 18 0
-Zhang I-PER zhang 0 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-
-0 O 0 0 0 0 1 0 0 0 span div u-fw700 19 0
-Papers O papers 0 0 0 0 0 0 1 div div u-fs12 18 0
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-— O — 0 0 0 0 0 0 0 span div js-profile-view-count-6204181 19 0
-Views O views 0 0 0 0 0 0 1 span div u-tcGrayDarker 19 1
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-0 O 0 0 0 0 1 0 0 0 span div u-fw700 19 0
-Followers O followers 0 0 0 0 0 0 1 div div u-fs12 18 7
-| O | 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
-— O — 0 0 0 0 0 0 0 span span js-profile-percentile-6204181 20 1
-
-Unfollow O unfollow 0 0 0 0 0 0 1 div div Button--inverseGray 16 0
-
-Follow O follow 0 0 0 0 0 0 1 div div Button--inverseGreen 16 1
-
-Undergraduates O undergraduates 0 0 0 0 0 0 1 div div hr-heading-text 13 0
-
-Baoxu B-PER baoxu 1 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-Shi I-PER shi 1 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-
-0 O 0 0 0 0 1 0 0 0 span div u-fw700 19 0
-Papers O papers 0 0 0 0 0 0 1 div div u-fs12 18 0
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-— O — 0 0 0 0 0 0 0 span div js-profile-view-count-2644741 19 0
-Views O views 0 0 0 0 0 0 1 span div u-tcGrayDarker 19 1
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-3 O 3 0 0 0 1 0 0 0 span div u-fw700 19 0
-Followers O followers 0 0 0 0 0 0 1 div div u-fs12 18 7
-| O | 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
-— O — 0 0 0 0 0 0 0 span span js-profile-percentile-2644741 20 1
-
-Unfollow O unfollow 0 0 0 0 0 0 1 div div Button--inverseGray 16 0
-
-Follow O follow 0 0 0 0 0 0 1 div div Button--inverseGreen 16 1
-
-Baoxu B-PER baoxu 1 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-Shi I-PER shi 1 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-
-0 O 0 0 0 0 1 0 0 0 span div u-fw700 19 0
-Papers O papers 0 0 0 0 0 0 1 div div u-fs12 18 0
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-— O — 0 0 0 0 0 0 0 span div js-profile-view-count-1646572 19 0
-Views O views 0 0 0 0 0 0 1 span div u-tcGrayDarker 19 1
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-1 O 1 0 0 0 1 0 0 0 span div u-fw700 19 0
-Follower O follower 0 0 0 0 0 0 1 div div u-fs12 18 7
-| O | 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
-— O — 0 0 0 0 0 0 0 span span js-profile-percentile-1646572 20 1
-
-Unfollow O unfollow 0 0 0 0 0 0 1 div div Button--inverseGray 16 0
-
-Follow O follow 0 0 0 0 0 0 1 div div Button--inverseGreen 16 1
-
-Other O other 0 1 0 0 0 0 1 div div hr-heading-text 13 0
-Department O department 0 0 0 0 0 0 1 div div hr-heading-text 13 0
-Members O members 0 0 0 0 0 0 1 div div hr-heading-text 13 0
-
-cancan B-PER cancan 0 0 0 0 0 0 0 span div u-tcGrayDarker 18 0
-feng I-PER feng 0 1 0 0 0 0 0 span div u-tcGrayDarker 18 0
-
-0 O 0 0 0 0 1 0 0 0 span div u-fw700 19 0
-Papers O papers 0 0 0 0 0 0 1 div div u-fs12 18 0
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-— O — 0 0 0 0 0 0 0 span div js-profile-view-count-7317302 19 0
-Views O views 0 0 0 0 0 0 1 span div u-tcGrayDarker 19 1
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-0 O 0 0 0 0 1 0 0 0 span div u-fw700 19 0
-Followers O followers 0 0 0 0 0 0 1 div div u-fs12 18 7
-| O | 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
-— O — 0 0 0 0 0 0 0 span span js-profile-percentile-7317302 20 1
-
-Unfollow O unfollow 0 0 0 0 0 0 1 div div Button--inverseGray 16 0
-
-Follow O follow 0 0 0 0 0 0 1 div div Button--inverseGreen 16 1
-
-Sol B-PER sol 0 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-Wu I-PER wu 0 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-
-0 O 0 0 0 0 1 0 0 0 span div u-fw700 19 0
-Papers O papers 0 0 0 0 0 0 1 div div u-fs12 18 0
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-— O — 0 0 0 0 0 0 0 span div js-profile-view-count-6468284 19 0
-Views O views 0 0 0 0 0 0 1 span div u-tcGrayDarker 19 1
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-1 O 1 0 0 0 1 0 0 0 span div u-fw700 19 0
-Follower O follower 0 0 0 0 0 0 1 div div u-fs12 18 7
-| O | 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
-— O — 0 0 0 0 0 0 0 span span js-profile-percentile-6468284 20 1
-
-Unfollow O unfollow 0 0 0 0 0 0 1 div div Button--inverseGray 16 0
-
-Follow O follow 0 0 0 0 0 0 1 div div Button--inverseGreen 16 1
-
-ju B-PER ju 0 1 0 0 0 0 0 span div u-tcGrayDarker 18 0
-yang I-PER yang 0 1 0 0 0 0 0 span div u-tcGrayDarker 18 0
-
-0 O 0 0 0 0 1 0 0 0 span div u-fw700 19 0
-Papers O papers 0 0 0 0 0 0 1 div div u-fs12 18 0
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-— O — 0 0 0 0 0 0 0 span div js-profile-view-count-7151063 19 0
-Views O views 0 0 0 0 0 0 1 span div u-tcGrayDarker 19 1
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-0 O 0 0 0 0 1 0 0 0 span div u-fw700 19 0
-Followers O followers 0 0 0 0 0 0 1 div div u-fs12 18 7
-| O | 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
-— O — 0 0 0 0 0 0 0 span span js-profile-percentile-7151063 20 1
-
-Unfollow O unfollow 0 0 0 0 0 0 1 div div Button--inverseGray 16 0
-
-Follow O follow 0 0 0 0 0 0 1 div div Button--inverseGreen 16 1
-
-Alumni O alumni 0 0 0 0 0 0 1 div div hr-heading-text 13 0
-
-Weiwei B-PER weiwei 0 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-Zeng I-PER zeng 0 1 0 0 0 0 1 span div u-tcGrayDarker 18 0
-
-0 O 0 0 0 0 1 0 0 0 span div u-fw700 19 0
-Papers O papers 0 0 0 0 0 0 1 div div u-fs12 18 0
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-— O — 0 0 0 0 0 0 0 span div js-profile-view-count-17049134 19 0
-Views O views 0 0 0 0 0 0 1 span div u-tcGrayDarker 19 1
-| O | 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
-1 O 1 0 0 0 1 0 0 0 span div u-fw700 19 0
-Follower O follower 0 0 0 0 0 0 1 div div u-fs12 18 7
-| O | 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
-— O — 0 0 0 0 0 0 0 span span js-profile-percentile-17049134 20 1
-
-Unfollow O unfollow 0 0 0 0 0 0 1 div div Button--inverseGray 16 0
-
-Follow O follow 0 0 0 0 0 0 1 div div Button--inverseGreen 16 1
-
-× O x 0 0 0 0 0 0 0 button div close 11 0
-Close O close 0 1 0 0 0 0 1 button div sr-only 11 1
-
-Log O log 0 1 0 0 0 0 1 h4 div text-center 11 0
-In O in 0 1 0 0 0 0 1 h4 div text-center 11 0
-
-Log O log 0 1 0 0 0 0 1 small button btn-v-center-content 14 0
-In O in 0 1 0 0 0 0 1 small button btn-v-center-content 14 0
-
-with O with 0 0 0 0 0 0 0 button div btn-v-center-content 13 1
-
-Facebook O facebook 0 0 0 0 0 0 1 small button btn-v-center-content 14 1
-
-Log O log 0 1 0 0 0 0 1 small button btn-v-center-content 14 0
-In O in 0 1 0 0 0 0 1 small button btn-v-center-content 14 0
+Nankai O nankai 0 1 0 0 0 0 1 0 0 meta meta wf-loading 7 0
+University O university 0 1 0 0 0 0 1 1 8 meta meta wf-loading 7 0
+| O | 0 0 0 0 0 0 0 0 0 meta meta wf-loading 7 0
+Department O department 0 0 0 0 0 0 1 0 7 meta meta wf-loading 7 0
+of O of 0 1 0 0 0 0 0 2 10 meta meta wf-loading 7 0
+Computer O computer 0 0 0 0 0 0 1 0 7 meta meta wf-loading 7 0
+Science O science 0 0 0 0 0 0 1 0 7 meta meta wf-loading 7 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 meta meta wf-loading 7 0
+Academia.edu O academia.edu 0 0 0 0 0 0 1 0 0 meta meta wf-loading 7 0
+
+Skip O skip 0 1 0 0 0 0 1 3 4 div body u-showOnFocus 5 0
+to O to 0 1 0 0 0 0 0 0 10 div body u-showOnFocus 5 0
+main O main 0 0 0 0 0 0 0 0 6 div body u-showOnFocus 5 0
+content O content 0 0 0 0 0 0 0 0 6 div body u-showOnFocus 5 0
+
+Log O log 0 1 0 0 0 0 1 0 6 li ul u-mb4x 10 0
+In O in 0 1 0 0 0 0 1 6 10 li ul u-mb4x 10 0
+
+Sign O sign 0 1 0 0 0 0 1 0 6 li ul u-mb4x 10 0
+Up O up 0 1 0 0 0 0 1 2 7 li ul u-mb4x 10 0
+
+Nankai O nankai 0 1 0 0 0 0 1 0 0 a span u-tcGrayDarkest 14 0
+University O university 0 1 0 0 0 0 1 1 8 a span u-tcGrayDarkest 14 0
+
+Department O department 0 0 0 0 0 0 1 0 7 div div u-displayInline 12 3
+of O of 0 1 0 0 0 0 0 2 10 div div u-displayInline 12 3
+Computer O computer 0 0 0 0 0 0 1 0 7 div div u-displayInline 12 3
+Science O science 0 0 0 0 0 0 1 0 7 div div u-displayInline 12 3
+
+All O all 0 1 0 0 0 0 1 2 7 a li u-borderRight1 14 0
+Departments O departments 0 0 0 0 0 0 1 0 5 a li u-borderRight1 14 0
+
+8 O 8 0 0 0 1 0 0 0 0 0 li ul u-floatLeft 13 0
+Documents O documents 0 0 0 0 0 0 1 0 6 li ul u-floatLeft 13 0
+
+13 O 13 0 0 0 1 0 0 0 0 0 li ul active 13 0
+Researchers O researchers 0 0 0 0 0 0 1 0 4 li ul active 13 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 div div hr-heading-text 13 0
+
+Cheng B-PER cheng 0 1 0 0 0 0 1 9 4 span div u-tcGrayDarker 18 0
+mingming I-PER mingming 0 0 0 0 0 0 0 0 0 span div u-tcGrayDarker 18 0
+
+1 O 1 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Paper O paper 0 1 0 0 0 0 1 1 4 div div u-fs12 18 0
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+— O — 0 0 0 0 0 0 0 0 0 span div js-profile-view-count-44113083 19 0
+Views O views 0 0 0 0 0 0 1 0 5 span div u-tcGrayDarker 19 1
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+2 O 2 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Followers O followers 0 0 0 0 0 0 1 0 0 div div u-fs12 18 7
+| O | 0 0 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
+— O — 0 0 0 0 0 0 0 0 0 span span js-profile-percentile-44113083 20 1
+
+Unfollow O unfollow 0 0 0 0 0 0 1 0 1 div div Button--inverseGray 16 0
+
+Follow O follow 0 0 0 0 0 0 1 0 6 div div Button--inverseGreen 16 1
+
+Yuwei B-PER yuwei 1 1 0 0 0 0 1 4 0 span div u-tcGrayDarker 18 0
+Xu I-PER xu 1 1 0 0 0 0 1 8 3 span div u-tcGrayDarker 18 0
+
+6 O 6 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Papers O papers 0 0 0 0 0 0 1 0 4 div div u-fs12 18 0
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+— O — 0 0 0 0 0 0 0 0 0 span div js-profile-view-count-18483208 19 0
+Views O views 0 0 0 0 0 0 1 0 5 span div u-tcGrayDarker 19 1
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+3 O 3 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Followers O followers 0 0 0 0 0 0 1 0 0 div div u-fs12 18 7
+| O | 0 0 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
+— O — 0 0 0 0 0 0 0 0 0 span span js-profile-percentile-18483208 20 1
+
+Unfollow O unfollow 0 0 0 0 0 0 1 0 1 div div Button--inverseGray 16 0
+
+Follow O follow 0 0 0 0 0 0 1 0 6 div div Button--inverseGreen 16 1
+
+Graduate O graduate 0 1 0 0 0 0 1 0 6 div div hr-heading-text 13 0
+Students O students 0 0 0 0 0 0 1 0 8 div div hr-heading-text 13 0
+
+n O n 0 0 0 0 0 0 0 0 10 span div u-tcGrayDarker 18 0
+hc O hc 0 0 0 0 0 0 0 0 4 span div u-tcGrayDarker 18 0
+
+0 O 0 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Papers O papers 0 0 0 0 0 0 1 0 4 div div u-fs12 18 0
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+— O — 0 0 0 0 0 0 0 0 0 span div js-profile-view-count-455025 19 0
+Views O views 0 0 0 0 0 0 1 0 5 span div u-tcGrayDarker 19 1
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+1 O 1 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Follower O follower 0 0 0 0 0 0 1 0 1 div div u-fs12 18 7
+| O | 0 0 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
+— O — 0 0 0 0 0 0 0 0 0 span span js-profile-percentile-455025 20 1
+
+Unfollow O unfollow 0 0 0 0 0 0 1 0 1 div div Button--inverseGray 16 0
+
+Follow O follow 0 0 0 0 0 0 1 0 6 div div Button--inverseGreen 16 1
+
+Xiaocheng B-PER xiaocheng 1 1 0 0 0 0 1 3 0 span div u-tcGrayDarker 18 0
+Huang I-PER huang 1 1 0 0 0 0 1 9 3 span div u-tcGrayDarker 18 0
+
+1 O 1 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Paper O paper 0 1 0 0 0 0 1 1 4 div div u-fs12 18 0
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+— O — 0 0 0 0 0 0 0 0 0 span div js-profile-view-count-383343 19 0
+Views O views 0 0 0 0 0 0 1 0 5 span div u-tcGrayDarker 19 1
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+2 O 2 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Followers O followers 0 0 0 0 0 0 1 0 0 div div u-fs12 18 7
+| O | 0 0 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
+— O — 0 0 0 0 0 0 0 0 0 span span js-profile-percentile-383343 20 1
+
+Unfollow O unfollow 0 0 0 0 0 0 1 0 1 div div Button--inverseGray 16 0
+
+Follow O follow 0 0 0 0 0 0 1 0 6 div div Button--inverseGreen 16 1
+
+Jingwei B-PER jingwei 1 1 0 0 0 0 1 4 0 span div u-tcGrayDarker 18 0
+Li I-PER li 1 1 0 0 0 0 1 9 6 span div u-tcGrayDarker 18 0
+
+0 O 0 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Papers O papers 0 0 0 0 0 0 1 0 4 div div u-fs12 18 0
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+— O — 0 0 0 0 0 0 0 0 0 span div js-profile-view-count-4616187 19 0
+Views O views 0 0 0 0 0 0 1 0 5 span div u-tcGrayDarker 19 1
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+5 O 5 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Followers O followers 0 0 0 0 0 0 1 0 0 div div u-fs12 18 7
+| O | 0 0 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
+— O — 0 0 0 0 0 0 0 0 0 span span js-profile-percentile-4616187 20 1
+
+Unfollow O unfollow 0 0 0 0 0 0 1 0 1 div div Button--inverseGray 16 0
+
+Follow O follow 0 0 0 0 0 0 1 0 6 div div Button--inverseGreen 16 1
+
+Wen B-PER wen 1 1 0 0 0 0 1 8 3 span div u-tcGrayDarker 18 0
+Zhang I-PER zhang 1 1 0 0 0 0 1 9 4 span div u-tcGrayDarker 18 0
+
+0 O 0 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Papers O papers 0 0 0 0 0 0 1 0 4 div div u-fs12 18 0
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+— O — 0 0 0 0 0 0 0 0 0 span div js-profile-view-count-979731 19 0
+Views O views 0 0 0 0 0 0 1 0 5 span div u-tcGrayDarker 19 1
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+0 O 0 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Followers O followers 0 0 0 0 0 0 1 0 0 div div u-fs12 18 7
+| O | 0 0 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
+— O — 0 0 0 0 0 0 0 0 0 span span js-profile-percentile-979731 20 1
+
+Unfollow O unfollow 0 0 0 0 0 0 1 0 1 div div Button--inverseGray 16 0
+
+Follow O follow 0 0 0 0 0 0 1 0 6 div div Button--inverseGreen 16 1
+
+Yg B-PER yg 0 0 0 0 0 0 1 0 3 span div u-tcGrayDarker 18 0
+Zhang I-PER zhang 0 1 0 0 0 0 1 9 4 span div u-tcGrayDarker 18 0
+
+0 O 0 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Papers O papers 0 0 0 0 0 0 1 0 4 div div u-fs12 18 0
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+— O — 0 0 0 0 0 0 0 0 0 span div js-profile-view-count-6204181 19 0
+Views O views 0 0 0 0 0 0 1 0 5 span div u-tcGrayDarker 19 1
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+0 O 0 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Followers O followers 0 0 0 0 0 0 1 0 0 div div u-fs12 18 7
+| O | 0 0 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
+— O — 0 0 0 0 0 0 0 0 0 span span js-profile-percentile-6204181 20 1
+
+Unfollow O unfollow 0 0 0 0 0 0 1 0 1 div div Button--inverseGray 16 0
+
+Follow O follow 0 0 0 0 0 0 1 0 6 div div Button--inverseGreen 16 1
+
+Undergraduates O undergraduates 0 0 0 0 0 0 1 0 3 div div hr-heading-text 13 0
+
+Baoxu B-PER baoxu 1 1 0 0 0 0 1 1 0 span div u-tcGrayDarker 18 0
+Shi I-PER shi 1 1 0 0 0 0 1 8 3 span div u-tcGrayDarker 18 0
+
+0 O 0 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Papers O papers 0 0 0 0 0 0 1 0 4 div div u-fs12 18 0
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+— O — 0 0 0 0 0 0 0 0 0 span div js-profile-view-count-2644741 19 0
+Views O views 0 0 0 0 0 0 1 0 5 span div u-tcGrayDarker 19 1
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+3 O 3 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Followers O followers 0 0 0 0 0 0 1 0 0 div div u-fs12 18 7
+| O | 0 0 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
+— O — 0 0 0 0 0 0 0 0 0 span span js-profile-percentile-2644741 20 1
+
+Unfollow O unfollow 0 0 0 0 0 0 1 0 1 div div Button--inverseGray 16 0
+
+Follow O follow 0 0 0 0 0 0 1 0 6 div div Button--inverseGreen 16 1
+
+Baoxu B-PER baoxu 1 1 0 0 0 0 1 1 0 span div u-tcGrayDarker 18 0
+Shi I-PER shi 1 1 0 0 0 0 1 8 3 span div u-tcGrayDarker 18 0
+
+0 O 0 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Papers O papers 0 0 0 0 0 0 1 0 4 div div u-fs12 18 0
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+— O — 0 0 0 0 0 0 0 0 0 span div js-profile-view-count-1646572 19 0
+Views O views 0 0 0 0 0 0 1 0 5 span div u-tcGrayDarker 19 1
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+1 O 1 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Follower O follower 0 0 0 0 0 0 1 0 1 div div u-fs12 18 7
+| O | 0 0 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
+— O — 0 0 0 0 0 0 0 0 0 span span js-profile-percentile-1646572 20 1
+
+Unfollow O unfollow 0 0 0 0 0 0 1 0 1 div div Button--inverseGray 16 0
+
+Follow O follow 0 0 0 0 0 0 1 0 6 div div Button--inverseGreen 16 1
+
+Other O other 0 1 0 0 0 0 1 0 7 div div hr-heading-text 13 0
+Department O department 0 0 0 0 0 0 1 0 7 div div hr-heading-text 13 0
+Members O members 0 0 0 0 0 0 1 0 6 div div hr-heading-text 13 0
+
+cancan B-PER cancan 0 0 0 0 0 0 0 0 4 span div u-tcGrayDarker 18 0
+feng I-PER feng 0 1 0 0 0 0 0 5 2 span div u-tcGrayDarker 18 0
+
+0 O 0 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Papers O papers 0 0 0 0 0 0 1 0 4 div div u-fs12 18 0
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+— O — 0 0 0 0 0 0 0 0 0 span div js-profile-view-count-7317302 19 0
+Views O views 0 0 0 0 0 0 1 0 5 span div u-tcGrayDarker 19 1
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+0 O 0 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Followers O followers 0 0 0 0 0 0 1 0 0 div div u-fs12 18 7
+| O | 0 0 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
+— O — 0 0 0 0 0 0 0 0 0 span span js-profile-percentile-7317302 20 1
+
+Unfollow O unfollow 0 0 0 0 0 0 1 0 1 div div Button--inverseGray 16 0
+
+Follow O follow 0 0 0 0 0 0 1 0 6 div div Button--inverseGreen 16 1
+
+Sol B-PER sol 0 1 0 0 0 0 1 4 5 span div u-tcGrayDarker 18 0
+Wu I-PER wu 0 1 0 0 0 0 1 9 4 span div u-tcGrayDarker 18 0
+
+0 O 0 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Papers O papers 0 0 0 0 0 0 1 0 4 div div u-fs12 18 0
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+— O — 0 0 0 0 0 0 0 0 0 span div js-profile-view-count-6468284 19 0
+Views O views 0 0 0 0 0 0 1 0 5 span div u-tcGrayDarker 19 1
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+1 O 1 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Follower O follower 0 0 0 0 0 0 1 0 1 div div u-fs12 18 7
+| O | 0 0 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
+— O — 0 0 0 0 0 0 0 0 0 span span js-profile-percentile-6468284 20 1
+
+Unfollow O unfollow 0 0 0 0 0 0 1 0 1 div div Button--inverseGray 16 0
+
+Follow O follow 0 0 0 0 0 0 1 0 6 div div Button--inverseGreen 16 1
+
+ju B-PER ju 0 1 0 0 0 0 0 4 4 span div u-tcGrayDarker 18 0
+yang I-PER yang 0 1 0 0 0 0 0 4 5 span div u-tcGrayDarker 18 0
+
+0 O 0 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Papers O papers 0 0 0 0 0 0 1 0 4 div div u-fs12 18 0
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+— O — 0 0 0 0 0 0 0 0 0 span div js-profile-view-count-7151063 19 0
+Views O views 0 0 0 0 0 0 1 0 5 span div u-tcGrayDarker 19 1
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+0 O 0 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Followers O followers 0 0 0 0 0 0 1 0 0 div div u-fs12 18 7
+| O | 0 0 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
+— O — 0 0 0 0 0 0 0 0 0 span span js-profile-percentile-7151063 20 1
+
+Unfollow O unfollow 0 0 0 0 0 0 1 0 1 div div Button--inverseGray 16 0
+
+Follow O follow 0 0 0 0 0 0 1 0 6 div div Button--inverseGreen 16 1
+
+Alumni O alumni 0 0 0 0 0 0 1 0 7 div div hr-heading-text 13 0
+
+Weiwei B-PER weiwei 0 1 0 0 0 0 1 5 0 span div u-tcGrayDarker 18 0
+Zeng I-PER zeng 0 1 0 0 0 0 1 7 1 span div u-tcGrayDarker 18 0
+
+0 O 0 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Papers O papers 0 0 0 0 0 0 1 0 4 div div u-fs12 18 0
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+— O — 0 0 0 0 0 0 0 0 0 span div js-profile-view-count-17049134 19 0
+Views O views 0 0 0 0 0 0 1 0 5 span div u-tcGrayDarker 19 1
+| O | 0 0 0 0 0 0 0 0 0 div div u-tcGrayLight 18 2
+1 O 1 0 0 0 1 0 0 0 0 0 span div u-fw700 19 0
+Follower O follower 0 0 0 0 0 0 1 0 1 div div u-fs12 18 7
+| O | 0 0 0 0 0 0 0 0 0 span div u-tcGrayLight 19 0
+— O — 0 0 0 0 0 0 0 0 0 span span js-profile-percentile-17049134 20 1
+
+Unfollow O unfollow 0 0 0 0 0 0 1 0 1 div div Button--inverseGray 16 0
+
+Follow O follow 0 0 0 0 0 0 1 0 6 div div Button--inverseGreen 16 1
+
+× O x 0 0 0 0 0 0 0 0 9 button div close 11 0
+Close O close 0 1 0 0 0 0 1 3 5 button div sr-only 11 1
+
+Log O log 0 1 0 0 0 0 1 0 6 h4 div text-center 11 0
+In O in 0 1 0 0 0 0 1 6 10 h4 div text-center 11 0
+
+Log O log 0 1 0 0 0 0 1 0 6 small button btn-v-center-content 14 0
+In O in 0 1 0 0 0 0 1 6 10 small button btn-v-center-content 14 0
 
-with O with 0 0 0 0 0 0 0 button div btn-v-center-content 13 1
+with O with 0 0 0 0 0 0 0 0 8 button div btn-v-center-content 13 1
 
-Google O google 0 0 0 0 0 0 1 small button btn-v-center-content 14 1
+Facebook O facebook 0 0 0 0 0 0 1 0 7 small button btn-v-center-content 14 1
 
-or O or 0 0 0 0 0 0 0 div div hr-heading-text 13 0
+Log O log 0 1 0 0 0 0 1 0 6 small button btn-v-center-content 14 0
+In O in 0 1 0 0 0 0 1 6 10 small button btn-v-center-content 14 0
 
-Email O email 0 0 0 0 1 0 1 div form control-label 14 0
-: O : 0 0 0 0 0 0 0 div form control-label 14 0
+with O with 0 0 0 0 0 0 0 0 8 button div btn-v-center-content 13 1
 
-Password O password 0 0 0 0 0 0 1 div form control-label 14 0
-: O : 0 0 0 0 0 0 0 div form control-label 14 0
+Google O google 0 0 0 0 0 0 1 0 7 small button btn-v-center-content 14 1
 
-Remember O remember 0 0 0 0 0 0 1 label div checkbox 15 1
-me O me 0 0 0 0 0 0 0 label div checkbox 15 1
-on O on 0 0 0 0 0 0 0 label div checkbox 15 1
-this O this 0 0 0 0 0 0 0 label div checkbox 15 1
-computer O computer 0 0 0 0 0 0 0 label div checkbox 15 1
+or O or 0 1 0 0 0 0 0 0 8 div div hr-heading-text 13 0
 
-or O or 0 0 0 0 0 0 0 div div col-xs-offset-1 12 16
-reset O reset 0 0 0 0 0 0 0 small div col-xs-offset-1 13 1
-password O password 0 0 0 0 0 0 0 small div col-xs-offset-1 13 1
+Email O email 0 0 0 0 1 0 1 0 6 div form control-label 14 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div form control-label 14 0
 
-Enter O enter 0 1 0 0 0 0 1 form div margin-0x 15 2
-the O the 0 1 0 0 0 0 0 form div margin-0x 15 2
-email O email 0 0 0 0 1 0 0 form div margin-0x 15 2
-address O address 0 0 0 0 1 0 0 form div margin-0x 15 2
-you O you 0 0 0 0 0 0 0 form div margin-0x 15 2
-signed O signed 0 0 0 0 0 0 0 form div margin-0x 15 2
-up O up 0 0 0 0 0 0 0 form div margin-0x 15 2
-with O with 0 0 0 0 0 0 0 form div margin-0x 15 2
-and O and 0 1 0 0 0 0 0 form div margin-0x 15 2
-we O we 0 0 0 0 0 0 0 form div margin-0x 15 2
-' O ' 0 0 0 0 0 0 0 form div margin-0x 15 2
-ll O ll 0 0 0 0 0 0 0 form div margin-0x 15 2
-email O email 0 0 0 0 1 0 0 form div margin-0x 15 2
-you O you 0 0 0 0 0 0 0 form div margin-0x 15 2
-a O a 0 1 0 0 0 0 0 form div margin-0x 15 2
-reset O reset 0 0 0 0 0 0 0 form div margin-0x 15 2
-link. O link. 0 0 0 0 0 0 0 form div margin-0x 15 2
+Password O password 0 0 0 0 0 0 1 0 5 div form control-label 14 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div form control-label 14 0
 
-Need O need 0 1 0 0 0 0 1 div div text-center 11 0
-an O an 0 1 0 0 0 0 0 div div text-center 11 0
-account? O account? 0 0 0 0 0 0 0 div div text-center 11 0
-Click O click 0 1 0 0 0 0 1 small div text-center 12 0
-here O here 0 0 0 0 0 0 0 small div text-center 12 0
-to O to 0 0 0 0 0 0 0 small div text-center 12 0
-sign O sign 0 0 0 0 0 0 0 small div text-center 12 0
-up O up 0 0 0 0 0 0 0 small div text-center 12 0
+Remember O remember 0 0 0 0 0 0 1 0 3 label div checkbox 15 1
+me O me 0 0 0 0 0 0 0 0 7 label div checkbox 15 1
+on O on 0 1 0 0 0 0 0 2 9 label div checkbox 15 1
+this O this 0 0 0 0 0 0 0 0 8 label div checkbox 15 1
+computer O computer 0 0 0 0 0 0 0 0 7 label div checkbox 15 1
 
-About O about 0 0 0 0 0 0 1 li ul margin-bottom-1x 9 0
+or O or 0 1 0 0 0 0 0 0 8 div div col-xs-offset-1 12 16
+reset O reset 0 0 0 0 0 0 0 0 3 small div col-xs-offset-1 13 1
+password O password 0 0 0 0 0 0 0 0 5 small div col-xs-offset-1 13 1
 
-Blog O blog 0 0 0 0 0 0 1 li ul margin-bottom-1x 9 0
+Enter O enter 0 1 0 0 0 0 1 0 4 form div margin-0x 15 2
+the O the 0 1 0 0 0 0 0 0 10 form div margin-0x 15 2
+email O email 0 0 0 0 1 0 0 0 6 form div margin-0x 15 2
+address O address 0 0 0 0 1 0 0 0 6 form div margin-0x 15 2
+you O you 0 1 0 0 0 0 0 3 8 form div margin-0x 15 2
+signed O signed 0 0 0 0 0 0 0 0 3 form div margin-0x 15 2
+up O up 0 0 0 0 0 0 0 0 7 form div margin-0x 15 2
+with O with 0 0 0 0 0 0 0 0 8 form div margin-0x 15 2
+and O and 0 1 0 0 0 0 0 0 10 form div margin-0x 15 2
+we'll O we'll 0 0 0 0 0 0 0 0 0 form div margin-0x 15 2
+email O email 0 0 0 0 1 0 0 0 6 form div margin-0x 15 2
+you O you 0 1 0 0 0 0 0 3 8 form div margin-0x 15 2
+a O a 0 1 0 0 0 0 0 3 11 form div margin-0x 15 2
+reset O reset 0 0 0 0 0 0 0 0 3 form div margin-0x 15 2
+link. O link. 0 0 0 0 0 0 0 0 0 form div margin-0x 15 2
 
-People O people 0 1 0 0 0 0 1 li ul margin-bottom-1x 9 0
+Need O need 0 1 0 0 0 0 1 1 6 div div text-center 11 0
+an O an 0 1 0 0 0 0 0 5 8 div div text-center 11 0
+account? O account? 0 0 0 0 0 0 0 0 0 div div text-center 11 0
+Click O click 0 1 0 0 0 0 1 1 5 small div text-center 12 0
+here O here 0 0 0 0 0 0 0 0 7 small div text-center 12 0
+to O to 0 1 0 0 0 0 0 0 10 small div text-center 12 0
+sign O sign 0 0 0 0 0 0 0 0 6 small div text-center 12 0
+up O up 0 0 0 0 0 0 0 0 7 small div text-center 12 0
 
-Papers O papers 0 0 0 0 0 0 1 li ul margin-bottom-1x 9 0
+About O about 0 0 0 0 0 0 1 0 8 li ul margin-bottom-1x 9 0
 
-Job O job 0 1 0 0 0 0 1 li ul margin-bottom-1x 9 0
-Board O board 0 1 0 0 0 0 1 li ul margin-bottom-1x 9 0
+Blog O blog 0 0 0 0 0 0 1 0 5 li ul margin-bottom-1x 9 0
 
-Advertise O advertise 0 0 0 0 0 0 1 li ul margin-bottom-1x 9 0
+People O people 0 1 0 0 0 0 1 0 7 li ul margin-bottom-1x 9 0
 
-We O we 0 1 0 0 0 0 1 a li margin-bottom-1x 10 1
-' O ' 0 0 0 0 0 0 0 a li margin-bottom-1x 10 1
-re O re 0 0 0 0 0 0 0 a li margin-bottom-1x 10 1
-Hiring! O hiring! 0 0 0 0 0 0 1 a li margin-bottom-1x 10 1
+Papers O papers 0 0 0 0 0 0 1 0 4 li ul margin-bottom-1x 9 0
 
-Help O help 0 0 0 0 0 0 1 a li margin-bottom-1x 10 1
-Center O center 0 1 0 0 0 0 1 a li margin-bottom-1x 10 1
+Job O job 0 1 0 0 0 0 1 4 5 li ul margin-bottom-1x 9 0
+Board O board 0 1 0 0 0 0 1 2 6 li ul margin-bottom-1x 9 0
 
-Find O find 0 1 0 0 0 0 1 ul div small 8 0
-new O new 0 0 0 0 0 0 0 ul div small 8 0
-research O research 0 0 0 0 0 0 0 ul div small 8 0
-papers O papers 0 0 0 0 0 0 0 ul div small 8 0
-in O in 0 1 0 0 0 0 0 ul div small 8 0
-: O : 0 0 0 0 0 0 0 ul div small 8 0
+Advertise O advertise 0 0 0 0 0 0 1 0 2 li ul margin-bottom-1x 9 0
 
-Physics O physics 0 0 0 0 0 0 1 li ul small 9 0
+We're O we're 0 0 0 0 0 0 1 0 0 a li margin-bottom-1x 10 1
+Hiring! O hiring! 0 0 0 0 0 0 1 0 0 a li margin-bottom-1x 10 1
 
-Chemistry O chemistry 0 0 0 0 0 0 1 li ul small 9 0
+Help O help 0 0 0 0 0 0 1 0 7 a li margin-bottom-1x 10 1
+Center O center 0 1 0 0 0 0 1 1 7 a li margin-bottom-1x 10 1
 
-Biology O biology 0 0 0 0 0 0 1 li ul small 9 0
+Find O find 0 1 0 0 0 0 1 1 6 ul div small 8 0
+new O new 0 0 0 0 0 0 0 0 8 ul div small 8 0
+research O research 0 0 0 0 0 0 0 0 7 ul div small 8 0
+papers O papers 0 0 0 0 0 0 0 0 4 ul div small 8 0
+in O in 0 1 0 0 0 0 0 3 10 ul div small 8 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 ul div small 8 0
 
-Health O health 0 1 0 0 0 0 1 li ul small 9 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul small 9 0
+Physics O physics 0 0 0 0 0 0 1 0 5 li ul small 9 0
 
-Ecology O ecology 0 0 0 0 0 0 1 li ul small 9 0
+Chemistry O chemistry 0 0 0 0 0 0 1 0 5 li ul small 9 0
 
-Earth O earth 0 0 0 0 0 0 1 li ul small 9 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul small 9 0
+Biology O biology 0 0 0 0 0 0 1 0 6 li ul small 9 0
 
-Cognitive O cognitive 0 0 0 0 0 0 1 li ul small 9 0
-Science O science 0 0 0 0 0 0 1 li ul small 9 0
+Health O health 0 1 0 0 0 0 1 0 7 li ul small 9 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul small 9 0
 
-Mathematics O mathematics 0 0 0 0 0 0 1 li ul small 9 0
+Ecology O ecology 0 0 0 0 0 0 1 0 3 li ul small 9 0
 
-Computer O computer 0 0 0 0 0 0 1 li ul small 9 0
-Science O science 0 0 0 0 0 0 1 li ul small 9 0
+Earth O earth 0 0 0 0 0 0 1 0 5 li ul small 9 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul small 9 0
 
-Terms O terms 0 0 0 0 0 0 1 li ul list-inline 8 0
+Cognitive O cognitive 0 0 0 0 0 0 1 0 4 li ul small 9 0
+Science O science 0 0 0 0 0 0 1 0 7 li ul small 9 0
 
-Privacy O privacy 0 0 0 0 0 0 1 li ul list-inline 8 0
+Mathematics O mathematics 0 0 0 0 0 0 1 0 6 li ul small 9 0
 
-Copyright O copyright 0 0 0 0 0 0 1 li ul list-inline 8 0
+Computer O computer 0 0 0 0 0 0 1 0 7 li ul small 9 0
+Science O science 0 0 0 0 0 0 1 0 7 li ul small 9 0
 
-Academia O academia 0 0 0 0 0 0 1 ul div list-inline 7 6
-©2017 O ©2017 0 0 0 1 0 0 0 ul div list-inline 7 6
+Terms O terms 0 0 0 0 0 0 1 0 6 li ul list-inline 8 0
+
+Privacy O privacy 0 0 0 0 0 0 1 0 6 li ul list-inline 8 0
+
+Copyright O copyright 0 0 0 0 0 0 1 0 6 li ul list-inline 8 0
+
+Academia O academia 0 0 0 0 0 0 1 0 4 ul div list-inline 7 6
+©2017 O ©2017 0 0 0 1 0 0 0 0 0 ul div list-inline 7 6

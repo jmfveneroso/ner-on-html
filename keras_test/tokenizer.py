@@ -3,6 +3,7 @@
 
 import sys
 import re
+from math import log
 from bs4 import BeautifulSoup, Tag
 from bs4.element import NavigableString
 
@@ -105,6 +106,8 @@ class HtmlToken():
       str(self.is_title()),
       str(self.is_url()),
       str(self.is_capitalized()),
+      0, # Name gazetteer count.
+      0, # Word gazetteer count.
       str(self.get_parent(self.element)), 
       str(self.get_second_parent(self.element)), 
       str(self.get_class_name(self.element)), 
@@ -112,14 +115,18 @@ class HtmlToken():
       str(self.get_element_position(self.element))
     ]
 
+def is_punctuation(text):
+  return re.match("^[\,\;\:\-\"\(\)“”]$", text)
+
 def tokenize_text(text):
-  tkns = re.compile("(\s+|[\,\;\:\-\"'\(\)“”])").split(text)
+  tkns = re.compile("(\s+|[\,\;\:\-\"\(\)“”])").split(text)
   return [t for t in tkns if re.compile("\s+").match(t) is None and len(t) > 0] 
 
 class Tokenizer():
   def __init__(self):
     self.exact_gazetteer = {}
     self.partial_gazetteer = {}
+    self.word_gazetteer = {}
 
   def create_token(self, tkn_value, element):
     return HtmlToken(tkn_value, element)
@@ -150,19 +157,37 @@ class Tokenizer():
         i += size
 
     for i in range(len(tokens)):
+      if is_punctuation(tokens[i].tkn):
+        tokens[i].bio_tag = 'O-PUNCT'
+
       # Partial match.
       if tokens[i].tkn in self.partial_gazetteer:
         tokens[i].features[2] = 1
+        tokens[i].features[8] = round(log(self.partial_gazetteer[tokens[i].tkn]))
+
+      tkn = tokens[i].features[0]
+      if tkn in self.word_gazetteer:
+        tokens[i].features[9] = round(log(self.word_gazetteer[tkn]))
 
       # Exact match.
       for j in reversed(range(6)): 
-        if i + j >= len(tokens):
+        if i + j >= len(tokens) or j == 0:
           continue
 
-        name = ' '.join([t.tkn for t in tokens[i:i+j+1]])
-        if name in self.exact_gazetteer:
-          for k in range(i, i+j+1):
-            tokens[k].features[1] = 1
+        name = [t.tkn for t in tokens[i:i+j+1] if not is_punctuation(t.tkn)] 
+        if len(name) <= 1:
+          continue
+
+        match = False
+        for rotation in range(j):
+          n = ' '.join(name[-rotation:] + name[:-rotation])
+
+          if n in self.exact_gazetteer:
+            match = True
+            for k in range(i, i+j+1):
+              tokens[k].features[1] = 1
+            break
+        if match:
           break
 
   def get_block_element(self, tkn):
@@ -264,9 +289,25 @@ if __name__ == '__main__':
         continue
 
       name = name.strip()
-      tokenizer.exact_gazetteer[name] = True
-      for t in name.split(' '):
-        tokenizer.partial_gazetteer[t] = True
+      exact_name = []
+      for t in tokenize_text(name):
+        exact_name.append(t)
+        if not t in tokenizer.partial_gazetteer:
+          tokenizer.partial_gazetteer[t] = 0
+        tokenizer.partial_gazetteer[t] += 1
+        
+      exact_name = ' '.join(exact_name)
+      if not exact_name in tokenizer.exact_gazetteer:
+        tokenizer.exact_gazetteer[exact_name] = 0
+      tokenizer.exact_gazetteer[exact_name] += 1
+
+  with open('words.txt') as f:
+    for line in f:
+      words = line.split(' ')
+      for w in words:
+        if not w in tokenizer.word_gazetteer:
+          tokenizer.word_gazetteer[w] = 0
+        tokenizer.word_gazetteer[w] += 1
   
   with open(html_file) as f:
     sentences = tokenizer.tokenize(f.read(), target_names)

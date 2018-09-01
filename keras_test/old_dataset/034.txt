@@ -1,0 +1,1883 @@
+Faculty O faculty 0 0 0 0 0 0 1 head html none 4 22
+— O — 0 0 0 0 0 0 0 head html none 4 22
+Department O department 0 0 0 0 0 0 1 head html none 4 22
+of O of 0 1 0 0 0 0 0 head html none 4 22
+Electrical O electrical 0 0 0 0 0 0 1 head html none 4 22
+Engineering O engineering 0 0 0 0 0 0 1 head html none 4 22
+
+UNIVERSITY O university 0 0 0 0 0 0 1 p div undBrand 9 0
+of O of 0 1 0 0 0 0 0 p div undBrand 9 0
+NOTRE O notre 0 0 0 0 0 0 1 p div undBrand 9 0
+DAME O dame 0 0 0 0 0 0 1 p div undBrand 9 0
+
+COLLEGE O college 0 0 0 0 0 0 1 p div orgBrand 9 0
+of O of 0 1 0 0 0 0 0 p div orgBrand 9 0
+ENGINEERING O engineering 0 0 0 0 0 0 1 p div orgBrand 9 0
+
+OFFICE O office 0 0 0 0 0 0 1 p div provost 9 0
+of O of 0 1 0 0 0 0 0 p div provost 9 0
+the O the 0 1 0 0 0 0 0 p div provost 9 0
+PROVOST O provost 0 0 0 0 0 0 1 p div provost 9 0
+
+Skip O skip 0 1 0 0 0 0 1 p div hiddenStructure 8 0
+to O to 0 0 0 0 0 0 0 p div hiddenStructure 8 0
+content. O content. 0 0 0 0 0 0 0 p div hiddenStructure 8 0
+| O | 0 0 0 0 0 0 0 div div hiddenStructure 7 7
+Skip O skip 0 1 0 0 0 0 1 p div hiddenStructure 8 1
+to O to 0 0 0 0 0 0 0 p div hiddenStructure 8 1
+navigation O navigation 0 0 0 0 0 0 0 p div hiddenStructure 8 1
+
+Department O department 0 0 0 0 0 0 1 a div navroot-ee 8 0
+of O of 0 1 0 0 0 0 0 a div navroot-ee 8 0
+Electrical O electrical 0 0 0 0 0 0 1 a div navroot-ee 8 0
+Engineering O engineering 0 0 0 0 0 0 1 a div navroot-ee 8 0
+
+Search O search 0 0 0 0 0 0 1 div form hiddenStructure 10 0
+Site O site 0 1 0 0 0 0 1 div form hiddenStructure 10 0
+
+Search O search 0 0 0 0 0 0 1 div form searchButton 10 2
+
+Advanced O advanced 0 0 0 0 0 0 1 div div hiddenStructure 9 0
+Search… O search… 0 0 0 0 0 0 1 div div hiddenStructure 9 0
+
+Personal O personal 0 1 0 0 0 0 1 div div hiddenStructure 8 0
+tools O tools 0 0 0 0 0 0 0 div div hiddenStructure 8 0
+
+Log O log 0 1 0 0 0 0 1 dt dl deactivated 10 0
+in O in 0 1 0 0 0 0 0 dt dl deactivated 10 0
+
+Sections O sections 0 0 0 0 0 0 1 div div hiddenStructure 7 27
+
+Home O home 0 1 0 0 0 0 1 li ul plain 9 0
+
+People O people 0 1 0 0 0 0 1 li ul plain 9 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul state-published 11 0
+
+Staff O staff 0 1 0 0 0 0 1 li ul state-published 11 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul state-published 11 0
+Student O student 0 1 0 0 0 0 1 li ul state-published 11 0
+Directory O directory 0 0 0 0 0 0 1 li ul state-published 11 0
+
+Directory O directory 0 0 0 0 0 0 1 li ul state-published 11 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul plain 9 0
+
+Prospective O prospective 0 0 0 0 0 0 1 li ul state-published 11 0
+Students O students 0 0 0 0 0 0 1 li ul state-published 11 0
+
+Current O current 0 1 0 0 0 0 1 li ul state-published 11 0
+Students O students 0 0 0 0 0 0 1 li ul state-published 11 0
+
+Graduating O graduating 0 0 0 0 0 0 1 li ul state-published 11 0
+Students O students 0 0 0 0 0 0 1 li ul state-published 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul state-published 11 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul plain 9 0
+
+Admission O admission 0 0 0 0 0 0 1 li ul state-published 11 0
+Requirements O requirements 0 0 0 0 0 0 1 li ul state-published 11 0
+
+Apply O apply 0 0 0 0 0 0 1 li ul state-published 11 0
+Now O now 0 1 0 0 0 0 1 li ul state-published 11 0
+
+Applicant O applicant 0 0 0 0 0 0 1 li ul state-published 11 0
+FAQs O faqs 0 0 0 0 0 0 1 li ul state-published 11 0
+
+Career O career 0 0 0 0 0 0 1 li ul state-published 11 0
+Services O services 0 0 0 0 0 0 1 li ul state-published 11 0
+
+Curriculum O curriculum 0 0 0 0 0 0 1 li ul state-published 11 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul state-published 11 0
+Studies O studies 0 0 0 0 0 0 1 li ul state-published 11 0
+Handbook O handbook 0 0 0 0 0 0 1 li ul state-published 11 0
+
+Overview O overview 0 0 0 0 0 0 1 li ul state-published 11 0
+of O of 0 1 0 0 0 0 0 li ul state-published 11 0
+Graduate O graduate 1 1 0 0 0 0 1 li ul state-published 11 0
+Education O education 0 0 0 0 0 0 1 li ul state-published 11 0
+
+EEGraduateHandbook.pdf O eegraduatehandbook.pdf 0 0 0 0 0 0 1 li ul state-missing-value 11 0
+
+Research O research 0 1 0 0 0 0 1 li ul plain 9 0
+
+LEAST O least 0 0 0 0 0 0 1 li ul state-published 11 0
+
+NDnano O ndnano 0 0 0 0 0 0 1 li ul state-published 11 0
+
+NDNF O ndnf 0 0 0 0 0 0 1 li ul state-published 11 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul state-published 11 0
+Research O research 0 1 0 0 0 0 1 li ul state-published 11 0
+
+Wireless O wireless 0 0 0 0 0 0 1 li ul state-published 11 0
+Institute O institute 0 0 0 0 0 0 1 li ul state-published 11 0
+
+List O list 0 1 0 0 0 0 1 li ul state-published 11 0
+of O of 0 1 0 0 0 0 0 li ul state-published 11 0
+Publications O publications 0 0 0 0 0 0 1 li ul state-published 11 0
+
+Recent O recent 0 0 0 0 0 0 1 li ul state-published 11 0
+Grants O grants 0 0 0 0 0 0 1 li ul state-published 11 0
+
+Admissions O admissions 0 0 0 0 0 0 1 li ul plain 9 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul state-published 11 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul state-published 11 0
+
+Employment O employment 0 0 0 0 1 0 1 li ul plain 9 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul plain 9 0
+Us O us 0 1 0 0 0 0 1 li ul plain 9 0
+
+Navigation O navigation 0 0 0 0 0 0 1 dt dl tile 13 1
+
+People O people 0 1 0 0 0 0 1 div li  16 0
+
+Faculty O faculty 0 0 0 0 0 0 1 a li contenttype-document 16 0
+
+Staff O staff 0 1 0 0 0 0 1 a li contenttype-document 16 0
+
+Graduate O graduate 1 1 0 0 0 0 1 a li contenttype-folder 16 0
+Student O student 0 1 0 0 0 0 1 a li contenttype-folder 16 0
+Directory O directory 0 0 0 0 0 0 1 a li contenttype-folder 16 0
+
+Directory O directory 0 0 0 0 0 0 1 a li contenttype-folder 16 0
+
+Feedback O feedback 0 0 0 0 0 0 1 dt dl portletHeader 13 1
+
+Help O help 0 0 0 0 0 0 1 dd dl odd 13 0
+us O us 0 1 0 0 0 0 0 dd dl odd 13 0
+make O make 0 0 0 0 0 0 0 dd dl odd 13 0
+your O your 0 0 0 0 0 0 0 dd dl odd 13 0
+experience O experience 0 0 0 0 0 0 0 dd dl odd 13 0
+on O on 0 0 0 0 0 0 0 dd dl odd 13 0
+this O this 0 0 0 0 0 0 0 dd dl odd 13 0
+site O site 0 0 0 0 0 0 0 dd dl odd 13 0
+even O even 0 0 0 0 0 0 0 dd dl odd 13 0
+better. O better. 0 0 0 0 0 0 0 dd dl odd 13 0
+We O we 0 1 0 0 0 0 1 dd dl odd 13 0
+would O would 0 0 0 0 0 0 0 dd dl odd 13 0
+appreciate O appreciate 0 0 0 0 0 0 0 dd dl odd 13 0
+your O your 0 0 0 0 0 0 0 dd dl odd 13 0
+feedback O feedback 0 0 0 0 0 0 0 p dd mail-link 14 0
+. O . 0 1 0 0 0 0 0 dd dl odd 13 0
+
+Home O home 0 1 0 0 0 0 1 span div navroot-ee 12 0
+> O > 0 0 0 0 0 0 0 span div breadcrumbSeparator 12 1
+People O people 0 1 0 0 0 0 1 span div navroot-ee 12 0
+> O > 0 0 0 0 0 0 0 span div breadcrumbSeparator 12 1
+Faculty O faculty 0 0 0 0 0 0 1 span div navroot-ee 12 0
+
+Info O info 0 0 0 0 0 0 1 dl div info 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 div div documentFirstHeading 11 0
+
+Panos B-PER panos 0 1 0 0 0 0 1 a p external-link 19 0
+Antsaklis I-PER antsaklis 0 1 0 0 0 0 1 a p external-link 19 0
+
+H. O h. 0 1 0 0 0 0 1 td tr listing 17 3
+Clifford O clifford 0 1 0 0 0 0 1 td tr listing 17 3
+and O and 0 1 0 0 0 0 0 td tr listing 17 3
+Evelyn O evelyn 0 1 0 0 0 0 1 td tr listing 17 3
+A. O a. 0 1 0 0 0 0 1 td tr listing 17 3
+Brosey O brosey 0 1 0 0 0 0 1 td tr listing 17 3
+Chair O chair 0 1 0 0 0 0 1 td tr listing 17 3
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 td tr listing 17 4
+, O , 0 0 0 0 0 0 0 td tr listing 17 4
+Brown O brown 0 1 0 0 0 0 1 td tr listing 17 4
+University O university 0 1 0 0 0 0 1 td tr listing 17 4
+, O , 0 0 0 0 0 0 0 td tr listing 17 4
+1977 O 1977 0 0 0 1 0 0 0 td tr listing 17 4
+
+His O his 0 0 0 0 0 0 1 td tr listing 17 5
+research O research 0 0 0 0 0 0 0 td tr listing 17 5
+focuses O focuses 0 0 0 0 0 0 0 td tr listing 17 5
+on O on 0 0 0 0 0 0 0 td tr listing 17 5
+Cyber O cyber 0 0 0 0 0 0 1 td tr listing 17 5
+Physical O physical 0 0 0 0 0 0 1 td tr listing 17 5
+Systems O systems 0 0 0 0 0 0 1 td tr listing 17 5
+and O and 0 1 0 0 0 0 0 td tr listing 17 5
+addresses O addresses 0 0 0 0 1 0 0 td tr listing 17 5
+problems O problems 0 0 0 0 0 0 0 td tr listing 17 5
+in O in 0 1 0 0 0 0 0 td tr listing 17 5
+the O the 0 1 0 0 0 0 0 td tr listing 17 5
+interdisciplinary O interdisciplinary 0 0 0 0 0 0 0 td tr listing 17 5
+research O research 0 0 0 0 0 0 0 td tr listing 17 5
+area O area 0 0 0 0 0 0 0 td tr listing 17 5
+of O of 0 1 0 0 0 0 0 td tr listing 17 5
+Control O control 0 0 0 0 0 0 1 td tr listing 17 5
+, O , 0 0 0 0 0 0 0 td tr listing 17 5
+Computing O computing 0 0 0 0 0 0 1 td tr listing 17 5
+and O and 0 1 0 0 0 0 0 td tr listing 17 5
+Communication O communication 0 0 0 0 0 0 1 td tr listing 17 5
+Networks O networks 0 0 0 0 0 0 1 td tr listing 17 5
+, O , 0 0 0 0 0 0 0 td tr listing 17 5
+and O and 0 1 0 0 0 0 0 td tr listing 17 5
+on O on 0 0 0 0 0 0 0 td tr listing 17 5
+Hybrid O hybrid 0 1 0 0 0 0 1 td tr listing 17 5
+and O and 0 1 0 0 0 0 0 td tr listing 17 5
+Discrete O discrete 0 0 0 0 0 0 1 td tr listing 17 5
+Event O event 0 1 0 0 0 0 1 td tr listing 17 5
+Dynamical O dynamical 0 0 0 0 0 0 1 td tr listing 17 5
+Systems. O systems. 0 0 0 0 0 0 1 td tr listing 17 5
+
+Peter B-PER peter 1 1 0 0 0 0 1 span span external-link 22 0
+Bauer I-PER bauer 1 1 0 0 0 0 1 span span external-link 22 0
+
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 6
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+of O of 0 1 0 0 0 0 0 p td listing 18 0
+Miami O miami 0 0 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1987 O 1987 0 0 0 1 0 0 0 p td listing 18 0
+
+Distributed O distributed 0 0 0 0 0 0 1 td tr listing 17 9
+sensor/actuator O sensor/actuator 0 0 0 0 0 0 0 td tr listing 17 9
+networks O networks 0 0 0 0 0 0 0 td tr listing 17 9
+, O , 0 0 0 0 0 0 0 td tr listing 17 9
+network O network 0 0 0 0 0 0 0 td tr listing 17 9
+congestion O congestion 0 0 0 0 0 0 0 td tr listing 17 9
+control O control 0 0 0 0 0 0 0 td tr listing 17 9
+, O , 0 0 0 0 0 0 0 td tr listing 17 9
+networked O networked 0 0 0 0 0 0 0 td tr listing 17 9
+control O control 0 0 0 0 0 0 0 td tr listing 17 9
+systems O systems 0 0 0 0 0 0 0 td tr listing 17 9
+, O , 0 0 0 0 0 0 0 td tr listing 17 9
+system O system 0 0 0 0 0 0 0 td tr listing 17 9
+theory O theory 0 0 0 0 0 0 0 td tr listing 17 9
+, O , 0 0 0 0 0 0 0 td tr listing 17 9
+digital O digital 0 0 0 0 0 0 0 td tr listing 17 9
+signal O signal 0 0 0 0 0 0 0 td tr listing 17 9
+processing O processing 0 0 0 0 0 0 0 td tr listing 17 9
+, O , 0 0 0 0 0 0 0 td tr listing 17 9
+stability O stability 0 0 0 0 0 0 0 td tr listing 17 9
+theory O theory 0 0 0 0 0 0 0 td tr listing 17 9
+, O , 0 0 0 0 0 0 0 td tr listing 17 9
+multidimensional O multidimensional 0 0 0 0 0 0 0 td tr listing 17 9
+systems O systems 0 0 0 0 0 0 0 td tr listing 17 9
+
+Gary B-PER gary 0 1 0 0 0 0 1 span span external-link 23 0
+Bernstein I-PER bernstein 0 1 0 0 0 0 1 span span external-link 23 0
+
+Frank O frank 1 1 0 0 0 0 1 p td position 18 0
+M. O m. 0 1 0 0 0 0 1 p td position 18 0
+Freimann O freimann 0 1 0 0 0 0 1 p td position 18 0
+Chair O chair 0 1 0 0 0 0 1 p td position 18 0
+Professor O professor 0 0 0 0 1 0 1 p td position 18 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Arizona O arizona 0 0 0 0 0 0 1 p td listing 18 0
+State O state 0 1 0 0 0 0 1 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1987 O 1987 0 0 0 1 0 0 0 p td listing 18 0
+
+Nanostructure O nanostructure 0 0 0 0 0 0 1 td tr listing 17 13
+fabrication O fabrication 0 0 0 0 0 0 0 td tr listing 17 13
+, O , 0 0 0 0 0 0 0 td tr listing 17 13
+electron O electron 0 0 0 0 0 0 0 td tr listing 17 13
+beam O beam 0 0 0 0 0 0 0 td tr listing 17 13
+lithography O lithography 0 0 0 0 0 0 0 td tr listing 17 13
+, O , 0 0 0 0 0 0 0 td tr listing 17 13
+microfluidics O microfluidics 0 0 0 0 0 0 0 td tr listing 17 13
+systems. O systems. 0 0 0 0 0 0 0 td tr listing 17 13
+
+William B-PER william 1 1 0 0 0 0 1 span span external-link 24 0
+Berr I-PER berr 0 1 0 0 0 0 1 span span external-link 24 0
+
+y O y 0 1 0 0 0 0 0 strong span external-link 20 0
+
+Professor O professor 0 0 0 0 1 0 1 p td position 18 0
+Emeritus O emeritus 0 1 0 0 1 0 1 p td position 18 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Purdue O purdue 0 1 0 0 0 0 1 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1963 O 1963 0 0 0 1 0 0 0 p td listing 18 0
+
+Solid O solid 0 0 0 0 0 0 1 td tr listing 17 21
+- O - 0 0 0 0 0 0 0 td tr listing 17 21
+state O state 0 0 0 0 0 0 0 td tr listing 17 21
+energy O energy 0 0 0 0 0 0 0 td tr listing 17 21
+conversion O conversion 0 0 0 0 0 0 0 td tr listing 17 21
+, O , 0 0 0 0 0 0 0 td tr listing 17 21
+thermoelectrics O thermoelectrics 0 0 0 0 0 0 0 td tr listing 17 21
+, O , 0 0 0 0 0 0 0 td tr listing 17 21
+photovoltaics O photovoltaics 0 0 0 0 0 0 0 td tr listing 17 21
+
+Jonathan B-PER jonathan 0 1 0 0 0 0 1 span a external-link 20 0
+Chisum I-PER chisum 0 1 0 0 0 0 1 span a external-link 20 0
+
+Assistant O assistant 0 0 0 0 0 0 1 td tr listing 17 4
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 4
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 td tr listing 17 5
+, O , 0 0 0 0 0 0 0 td tr listing 17 5
+University O university 0 1 0 0 0 0 1 td tr listing 17 5
+of O of 0 1 0 0 0 0 0 td tr listing 17 5
+Colorado O colorado 0 1 0 0 0 0 1 td tr listing 17 5
+, O , 0 0 0 0 0 0 0 td tr listing 17 5
+Boulder O boulder 0 0 0 0 0 0 1 td tr listing 17 5
+, O , 0 0 0 0 0 0 0 td tr listing 17 5
+2011 O 2011 0 0 0 1 0 0 0 td tr listing 17 5
+
+Millimeter O millimeter 0 0 0 0 0 0 1 td tr listing 17 6
+Wave O wave 0 0 0 0 0 0 1 td tr listing 17 6
+( O ( 0 0 0 0 0 0 0 td tr listing 17 6
+MMW O mmw 0 0 0 0 0 0 1 td tr listing 17 6
+) O ) 0 0 0 0 0 0 0 td tr listing 17 6
+systems O systems 0 0 0 0 0 0 0 td tr listing 17 6
+for O for 0 1 0 0 0 0 0 td tr listing 17 6
+wideband O wideband 0 0 0 0 0 0 0 td tr listing 17 6
+wireless O wireless 0 0 0 0 0 0 0 td tr listing 17 6
+communications O communications 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+multi O multi 0 0 0 0 0 0 0 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+funtion O funtion 0 0 0 0 0 0 0 td tr listing 17 6
+apertures O apertures 0 0 0 0 0 0 0 td tr listing 17 6
+
+Daniel B-PER daniel 0 1 0 0 0 0 1 strong span external-link 25 0
+J. I-PER j. 1 1 0 0 0 0 1 strong span external-link 25 0
+Costello I-PER costello 1 1 0 0 0 0 1 strong span external-link 25 0
+, I-PER , 0 0 0 0 0 0 0 strong span external-link 25 0
+Jr. I-PER jr. 0 1 0 0 0 0 1 strong span external-link 25 0
+
+Bettex O bettex 0 1 0 0 0 0 1 p td position 18 0
+Chair O chair 0 1 0 0 0 0 1 p td position 18 0
+Professor O professor 0 0 0 0 1 0 1 p td position 18 0
+Emeritus O emeritus 0 1 0 0 1 0 1 p td position 18 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td position 18 0
+, O , 0 0 0 0 0 0 0 p td position 18 0
+University O university 0 1 0 0 0 0 1 p td position 18 0
+of O of 0 1 0 0 0 0 0 p td position 18 0
+Notre O notre 0 0 0 0 0 0 1 p td position 18 0
+Dame O dame 0 1 0 0 0 0 1 p td position 18 0
+, O , 0 0 0 0 0 0 0 p td position 18 0
+1969 O 1969 0 0 0 1 0 0 0 p td position 18 0
+
+The O the 0 1 0 0 0 0 1 span p Apple-converted-space 19 0
+Analysis O analysis 0 0 0 0 0 0 1 span p Apple-converted-space 19 0
+and O and 0 1 0 0 0 0 0 span p Apple-converted-space 19 0
+Design O design 0 0 0 0 0 0 1 span p Apple-converted-space 19 0
+of O of 0 1 0 0 0 0 0 span p Apple-converted-space 19 0
+Error O error 0 0 0 0 0 0 1 span p Apple-converted-space 19 0
+- O - 0 0 0 0 0 0 0 span p Apple-converted-space 19 0
+Correcting O correcting 0 0 0 0 0 0 1 span p Apple-converted-space 19 0
+Codes O codes 0 1 0 0 0 0 1 span p Apple-converted-space 19 0
+for O for 0 1 0 0 0 0 0 span p Apple-converted-space 19 0
+Applications O applications 0 0 0 0 0 0 1 span p Apple-converted-space 19 0
+in O in 0 1 0 0 0 0 0 span p Apple-converted-space 19 0
+Digital O digital 0 1 0 0 0 0 1 span p Apple-converted-space 19 0
+Communications O communications 0 0 0 0 0 0 1 span p Apple-converted-space 19 0
+and O and 0 1 0 0 0 0 0 span p Apple-converted-space 19 0
+Data O data 0 1 0 0 0 0 1 span p Apple-converted-space 19 0
+Storage O storage 0 0 0 0 0 0 1 span p Apple-converted-space 19 0
+
+Suman B-PER suman 1 1 0 0 0 0 1 span a internal-link 20 0
+Datta I-PER datta 1 1 0 0 0 0 1 span a internal-link 20 0
+
+Chang O chang 0 1 0 0 0 0 1 td tr listing 17 4
+Family O family 0 1 0 0 0 0 1 td tr listing 17 4
+Chair O chair 0 1 0 0 0 0 1 td tr listing 17 4
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 4
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 td tr listing 17 5
+, O , 0 0 0 0 0 0 0 td tr listing 17 5
+University O university 0 1 0 0 0 0 1 td tr listing 17 5
+of O of 0 1 0 0 0 0 0 td tr listing 17 5
+Cincinnati O cincinnati 0 0 0 0 0 0 1 td tr listing 17 5
+, O , 0 0 0 0 0 0 0 td tr listing 17 5
+1999 O 1999 0 0 0 1 0 0 0 td tr listing 17 5
+
+Nanoelectronic O nanoelectronic 0 0 0 0 0 0 1 td tr listing 17 7
+device O device 0 0 0 0 0 0 0 td tr listing 17 7
+modeling O modeling 0 0 0 0 0 0 0 td tr listing 17 7
+, O , 0 0 0 0 0 0 0 td tr listing 17 7
+fabrication O fabrication 0 0 0 0 0 0 0 td tr listing 17 7
+, O , 0 0 0 0 0 0 0 td tr listing 17 7
+characterization O characterization 0 0 0 0 0 0 0 td tr listing 17 7
+and O and 0 1 0 0 0 0 0 td tr listing 17 7
+their O their 0 0 0 0 0 0 0 td tr listing 17 7
+circuit O circuit 0 0 0 0 0 0 0 td tr listing 17 7
+applications O applications 0 0 0 0 0 0 0 td tr listing 17 7
+for O for 0 1 0 0 0 0 0 td tr listing 17 7
+future O future 0 0 0 0 0 0 0 td tr listing 17 7
+energy O energy 0 0 0 0 0 0 0 td tr listing 17 7
+efficient O efficient 0 0 0 0 0 0 0 td tr listing 17 7
+and O and 0 1 0 0 0 0 0 td tr listing 17 7
+high O high 0 0 0 0 0 0 0 td tr listing 17 7
+performance O performance 0 0 0 0 0 0 0 td tr listing 17 7
+information O information 0 0 0 0 0 0 0 td tr listing 17 7
+processing O processing 0 0 0 0 0 0 0 td tr listing 17 7
+systems O systems 0 0 0 0 0 0 0 td tr listing 17 7
+; O ; 0 0 0 0 0 0 0 td tr listing 17 7
+ultra O ultra 0 0 0 0 0 0 0 td tr listing 17 7
+low O low 0 0 0 0 0 0 0 td tr listing 17 7
+voltage O voltage 0 0 0 0 0 0 0 td tr listing 17 7
+computing O computing 0 0 0 0 0 0 0 td tr listing 17 7
+applications O applications 0 0 0 0 0 0 0 td tr listing 17 7
+for O for 0 1 0 0 0 0 0 td tr listing 17 7
+energy O energy 0 0 0 0 0 0 0 td tr listing 17 7
+autonomous O autonomous 0 0 0 0 0 0 0 td tr listing 17 7
+systems O systems 0 0 0 0 0 0 0 td tr listing 17 7
+; O ; 0 0 0 0 0 0 0 td tr listing 17 7
+millimeter O millimeter 0 0 0 0 0 0 0 td tr listing 17 7
+wave O wave 0 0 0 0 0 0 0 td tr listing 17 7
+integrated O integrated 0 0 0 0 0 0 0 td tr listing 17 7
+circuits O circuits 0 0 0 0 0 0 0 td tr listing 17 7
+; O ; 0 0 0 0 0 0 0 td tr listing 17 7
+convergence O convergence 0 0 0 0 0 0 0 td tr listing 17 7
+between O between 0 0 0 0 0 0 0 td tr listing 17 7
+life O life 0 0 0 0 0 0 0 td tr listing 17 7
+sciences O sciences 0 0 0 0 0 0 0 td tr listing 17 7
+and O and 0 1 0 0 0 0 0 td tr listing 17 7
+solid O solid 0 0 0 0 0 0 0 td tr listing 17 7
+- O - 0 0 0 0 0 0 0 td tr listing 17 7
+state O state 0 0 0 0 0 0 0 td tr listing 17 7
+technologies. O technologies. 0 0 0 0 0 0 0 td tr listing 17 7
+
+Robert B-PER robert 1 1 0 0 0 0 1 a p external-link 19 0
+Dunn I-PER dunn 1 1 0 0 0 0 1 a p external-link 19 0
+
+Professional O professional 0 0 0 0 1 0 1 td tr listing 17 7
+Specialist O specialist 0 0 0 0 0 0 1 td tr listing 17 7
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 td tr listing 17 9
+, O , 0 0 0 0 0 0 0 td tr listing 17 9
+University O university 1 1 0 0 0 0 1 td tr listing 17 9
+of O of 1 1 0 0 0 0 0 td tr listing 17 9
+Illinois O illinois 1 1 0 0 0 0 1 td tr listing 17 9
+, O , 0 0 0 0 0 0 0 td tr listing 17 9
+1972 O 1972 0 0 0 1 0 0 0 td tr listing 17 9
+
+Managing O managing 0 0 0 0 0 0 1 td tr listing 17 10
+Director O director 0 1 0 0 0 0 1 td tr listing 17 10
+, O , 0 0 0 0 0 0 0 td tr listing 17 10
+LEAST O least 0 0 0 0 0 0 1 td tr listing 17 10
+
+Patrick B-PER patrick 1 1 0 0 0 0 1 a p external-link 19 0
+Fay I-PER fay 1 1 0 0 0 0 1 a p external-link 19 0
+
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+University O university 1 1 0 0 0 0 1 p td listing 18 0
+of O of 1 1 0 0 0 0 0 p td listing 18 0
+Illinois O illinois 1 1 0 0 0 0 1 p td listing 18 0
+at O at 0 0 0 0 0 0 0 p td listing 18 0
+Urbana O urbana 0 0 0 0 0 0 1 p td listing 18 0
+- O - 0 0 0 0 0 0 0 p td listing 18 0
+Champaign O champaign 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1996 O 1996 0 0 0 1 0 0 0 p td listing 18 0
+
+Dr. O dr. 0 1 0 0 1 0 1 td tr listing 17 7
+Fay O fay 0 1 0 0 0 0 1 td tr listing 17 7
+' O ' 0 0 0 0 0 0 0 td tr listing 17 7
+s O s 0 0 0 0 0 0 0 td tr listing 17 7
+research O research 0 0 0 0 0 0 0 td tr listing 17 7
+interests O interests 0 0 0 0 0 0 0 td tr listing 17 7
+include O include 0 0 0 0 0 0 0 td tr listing 17 7
+the O the 0 1 0 0 0 0 0 td tr listing 17 7
+design O design 0 0 0 0 0 0 0 td tr listing 17 7
+, O , 0 0 0 0 0 0 0 td tr listing 17 7
+fabrication O fabrication 0 0 0 0 0 0 0 td tr listing 17 7
+, O , 0 0 0 0 0 0 0 td tr listing 17 7
+and O and 0 1 0 0 0 0 0 td tr listing 17 7
+characterization O characterization 0 0 0 0 0 0 0 td tr listing 17 7
+of O of 0 1 0 0 0 0 0 td tr listing 17 7
+microwave O microwave 0 0 0 0 0 0 0 td tr listing 17 7
+and O and 0 1 0 0 0 0 0 td tr listing 17 7
+millimeter O millimeter 0 0 0 0 0 0 0 td tr listing 17 7
+- O - 0 0 0 0 0 0 0 td tr listing 17 7
+wave O wave 0 0 0 0 0 0 0 td tr listing 17 7
+electronic O electronic 0 0 0 0 0 0 0 td tr listing 17 7
+devices O devices 0 0 0 0 0 0 0 td tr listing 17 7
+and O and 0 1 0 0 0 0 0 td tr listing 17 7
+circuits O circuits 0 0 0 0 0 0 0 td tr listing 17 7
+, O , 0 0 0 0 0 0 0 td tr listing 17 7
+as O as 0 0 0 0 0 0 0 td tr listing 17 7
+well O well 0 0 0 0 0 0 0 td tr listing 17 7
+as O as 0 0 0 0 0 0 0 td tr listing 17 7
+high O high 0 0 0 0 0 0 0 td tr listing 17 7
+- O - 0 0 0 0 0 0 0 td tr listing 17 7
+speed O speed 0 0 0 0 0 0 0 td tr listing 17 7
+optoelectronic O optoelectronic 0 0 0 0 0 0 0 td tr listing 17 7
+devices O devices 0 0 0 0 0 0 0 td tr listing 17 7
+and O and 0 1 0 0 0 0 0 td tr listing 17 7
+optoelectronic O optoelectronic 0 0 0 0 0 0 0 td tr listing 17 7
+integrated O integrated 0 0 0 0 0 0 0 td tr listing 17 7
+circuits O circuits 0 0 0 0 0 0 0 td tr listing 17 7
+for O for 0 1 0 0 0 0 0 td tr listing 17 7
+fiber O fiber 0 0 0 0 0 0 0 td tr listing 17 7
+optic O optic 0 0 0 0 0 0 0 td tr listing 17 7
+telecommunications. O telecommunications. 0 0 0 0 0 0 0 td tr listing 17 7
+
+Thomas B-PER thomas 1 1 0 0 0 0 1 a p external-link 19 0
+E. I-PER e. 1 1 0 0 0 0 1 a p external-link 19 0
+Fuja I-PER fuja 1 1 0 0 0 0 1 a p external-link 19 0
+
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+and O and 0 1 0 0 0 0 0 td tr listing 17 3
+Chair O chair 0 1 0 0 0 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Cornell O cornell 0 1 0 0 0 0 1 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1987 O 1987 0 0 0 1 0 0 0 p td listing 18 0
+
+Prof. O prof. 0 1 0 0 1 0 1 td tr listing 17 6
+Fuja O fuja 0 1 0 0 0 0 1 td tr listing 17 6
+research O research 0 0 0 0 0 0 0 td tr listing 17 6
+addresses O addresses 0 0 0 0 1 0 0 td tr listing 17 6
+reliable O reliable 0 0 0 0 0 0 0 td tr listing 17 6
+communication O communication 0 0 0 0 0 0 0 td tr listing 17 6
+over O over 0 0 0 0 0 0 0 td tr listing 17 6
+inherently O inherently 0 0 0 0 0 0 0 td tr listing 17 6
+unreliable O unreliable 0 0 0 0 0 0 0 td tr listing 17 6
+and/or O and/or 0 0 0 0 1 0 0 td tr listing 17 6
+constrained O constrained 0 0 0 0 0 0 0 td tr listing 17 6
+communication O communication 0 0 0 0 0 0 0 td tr listing 17 6
+links. O links. 0 0 0 0 0 0 0 td tr listing 17 6
+
+Vijay B-PER vijay 1 1 0 0 0 0 1 a p external-link 19 0
+Gupta I-PER gupta 1 1 0 0 0 0 1 a p external-link 19 0
+
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+and O and 0 1 0 0 0 0 0 td tr listing 17 3
+Associate O associate 0 1 0 0 0 0 1 td tr listing 17 3
+Chair O chair 0 1 0 0 0 0 1 td tr listing 17 3
+of O of 0 1 0 0 0 0 0 td tr listing 17 3
+Graduate O graduate 1 1 0 0 0 0 1 td tr listing 17 3
+Studies O studies 0 0 0 0 0 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+California O california 0 0 0 0 0 0 1 p td listing 18 0
+Institute O institute 0 0 0 0 0 0 1 p td listing 18 0
+of O of 0 1 0 0 0 0 0 p td listing 18 0
+Technology O technology 0 0 0 0 0 0 1 p td listing 18 0
+
+Dr. O dr. 0 1 0 0 1 0 1 td tr listing 17 6
+Gupta O gupta 1 1 0 0 0 0 1 td tr listing 17 6
+' O ' 0 0 0 0 0 0 0 td tr listing 17 6
+s O s 0 0 0 0 0 0 0 td tr listing 17 6
+current O current 0 0 0 0 0 0 0 td tr listing 17 6
+research O research 0 0 0 0 0 0 0 td tr listing 17 6
+interests O interests 0 0 0 0 0 0 0 td tr listing 17 6
+are O are 0 0 0 0 0 0 0 td tr listing 17 6
+in O in 0 1 0 0 0 0 0 td tr listing 17 6
+the O the 0 1 0 0 0 0 0 td tr listing 17 6
+analysis O analysis 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+design O design 0 0 0 0 0 0 0 td tr listing 17 6
+of O of 0 1 0 0 0 0 0 td tr listing 17 6
+cyberphysical O cyberphysical 0 0 0 0 0 0 0 td tr listing 17 6
+systems. O systems. 0 0 0 0 0 0 0 td tr listing 17 6
+
+Martin B-PER martin 1 1 0 0 0 0 1 a p external-link 19 0
+Haenggi I-PER haenggi 1 1 0 0 0 0 1 a p external-link 19 0
+
+Frank O frank 1 1 0 0 0 0 1 td tr listing 17 3
+M. O m. 0 1 0 0 0 0 1 td tr listing 17 3
+Freimann O freimann 0 1 0 0 0 0 1 td tr listing 17 3
+Chair O chair 0 1 0 0 0 0 1 td tr listing 17 3
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+( O ( 0 0 0 0 0 0 0 p td listing 18 0
+EE O ee 0 0 0 0 0 0 1 p td listing 18 0
+) O ) 0 0 0 0 0 0 0 p td listing 18 0
+: O : 0 0 0 0 0 0 0 p td listing 18 0
+Swiss O swiss 0 1 0 0 0 0 1 p td listing 18 0
+Federal O federal 0 0 0 0 0 0 1 p td listing 18 0
+Institute O institute 0 0 0 0 0 0 1 p td listing 18 0
+of O of 0 1 0 0 0 0 0 p td listing 18 0
+Technology O technology 0 0 0 0 0 0 1 p td listing 18 0
+( O ( 0 0 0 0 0 0 0 p td listing 18 0
+ETH O eth 0 0 0 0 0 0 1 p td listing 18 0
+) O ) 0 0 0 0 0 0 0 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1999 O 1999 0 0 0 1 0 0 0 p td listing 18 0
+
+Information O information 0 1 0 0 0 0 1 td tr listing 17 6
+Theory O theory 0 0 0 0 0 0 1 td tr listing 17 6
+for O for 0 1 0 0 0 0 0 td tr listing 17 6
+Mobile O mobile 0 0 0 0 0 0 1 td tr listing 17 6
+Ad O ad 0 1 0 0 0 0 1 td tr listing 17 6
+Hoc O hoc 0 1 0 0 0 0 1 td tr listing 17 6
+Networks O networks 0 0 0 0 0 0 1 td tr listing 17 6
+( O ( 0 0 0 0 0 0 0 td tr listing 17 6
+IT O it 0 0 0 0 0 0 1 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+MANET O manet 0 0 0 0 0 0 1 td tr listing 17 6
+) O ) 0 0 0 0 0 0 0 td tr listing 17 6
+: O : 0 0 0 0 0 0 0 td tr listing 17 6
+The O the 0 1 0 0 0 0 1 td tr listing 17 6
+goal O goal 0 0 0 0 0 0 0 td tr listing 17 6
+of O of 0 1 0 0 0 0 0 td tr listing 17 6
+this O this 0 0 0 0 0 0 0 td tr listing 17 6
+project O project 0 0 0 0 0 0 0 td tr listing 17 6
+is O is 0 0 0 0 0 0 0 td tr listing 17 6
+to O to 0 0 0 0 0 0 0 td tr listing 17 6
+find O find 0 0 0 0 0 0 0 td tr listing 17 6
+the O the 0 1 0 0 0 0 0 td tr listing 17 6
+fundamental O fundamental 0 0 0 0 0 0 0 td tr listing 17 6
+performance O performance 0 0 0 0 0 0 0 td tr listing 17 6
+limits O limits 0 0 0 0 0 0 0 td tr listing 17 6
+of O of 0 1 0 0 0 0 0 td tr listing 17 6
+mobile O mobile 0 0 0 0 0 0 0 td tr listing 17 6
+ad O ad 0 0 0 0 0 0 0 td tr listing 17 6
+hoc O hoc 0 0 0 0 0 0 0 td tr listing 17 6
+networks O networks 0 0 0 0 0 0 0 td tr listing 17 6
+in O in 0 1 0 0 0 0 0 td tr listing 17 6
+terms O terms 0 0 0 0 0 0 0 td tr listing 17 6
+of O of 0 1 0 0 0 0 0 td tr listing 17 6
+throughput O throughput 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+delay O delay 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+reliability. O reliability. 0 0 0 0 0 0 0 td tr listing 17 6
+
+Douglas B-PER douglas 0 1 0 0 0 0 1 a p external-link 19 0
+Hall I-PER hall 0 1 0 0 0 0 1 a p external-link 19 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr listing 17 3
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+University O university 1 1 0 0 0 0 1 p td listing 18 0
+of O of 1 1 0 0 0 0 0 p td listing 18 0
+Illinois O illinois 1 1 0 0 0 0 1 p td listing 18 0
+at O at 0 0 0 0 0 0 0 p td listing 18 0
+Urbana O urbana 0 0 0 0 0 0 1 p td listing 18 0
+- O - 0 0 0 0 0 0 0 p td listing 18 0
+Champaign O champaign 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1991 O 1991 0 0 0 1 0 0 0 p td listing 18 0
+
+Optoelectronics O optoelectronics 0 0 0 0 0 0 1 td tr listing 17 6
+device O device 0 0 0 0 0 0 0 td tr listing 17 6
+characterization O characterization 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+fabrication O fabrication 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+materials O materials 0 0 0 0 0 0 0 td tr listing 17 6
+studies O studies 0 0 0 0 0 0 0 td tr listing 17 6
+
+Eugene B-PER eugene 0 1 0 0 0 0 1 a p external-link 19 0
+Henry I-PER henry 0 1 0 0 0 0 1 a p external-link 19 0
+
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+Emeritus O emeritus 0 1 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 td tr listing 17 4
+, O , 0 0 0 0 0 0 0 td tr listing 17 4
+Electrical O electrical 0 0 0 0 0 0 1 td tr listing 17 4
+Engineering O engineering 0 0 0 0 0 0 1 td tr listing 17 4
+, O , 0 0 0 0 0 0 0 td tr listing 17 4
+Stanford O stanford 0 1 0 0 0 0 1 td tr listing 17 4
+University O university 0 1 0 0 0 0 1 td tr listing 17 4
+, O , 0 0 0 0 0 0 0 td tr listing 17 4
+1960 O 1960 0 0 0 1 0 0 0 td tr listing 17 4
+
+Control O control 0 0 0 0 0 0 1 td tr listing 17 5
+systems O systems 0 0 0 0 0 0 0 td tr listing 17 5
+, O , 0 0 0 0 0 0 0 td tr listing 17 5
+simulation O simulation 0 0 0 0 0 0 0 td tr listing 17 5
+and O and 0 1 0 0 0 0 0 td tr listing 17 5
+computer O computer 0 0 0 0 0 0 0 td tr listing 17 5
+design O design 0 0 0 0 0 0 0 td tr listing 17 5
+
+Bertrand B-PER bertrand 0 1 0 0 0 0 1 a p external-link 19 0
+Hochwald I-PER hochwald 0 1 0 0 0 0 1 a p external-link 19 0
+
+Frank O frank 1 1 0 0 0 0 1 p td position 18 0
+M. O m. 0 1 0 0 0 0 1 p td position 18 0
+Freimann O freimann 0 1 0 0 0 0 1 p td position 18 0
+Chair O chair 0 1 0 0 0 0 1 p td position 18 0
+Professor O professor 0 0 0 0 1 0 1 p td position 18 0
+
+Ph.D O ph.d 0 0 0 0 0 0 1 p td listing 18 0
+( O ( 0 0 0 0 0 0 0 p td listing 18 0
+engineering O engineering 0 0 0 0 0 0 0 p td listing 18 0
+) O ) 0 0 0 0 0 0 0 p td listing 18 0
+1995 O 1995 0 0 0 1 0 0 0 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Yale O yale 0 1 0 0 0 0 1 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+
+Wireless O wireless 0 0 0 0 0 0 1 p td listing 18 0
+Communications O communications 0 0 0 0 0 0 1 p td listing 18 0
+
+Anthony B-PER anthony 1 1 0 0 0 0 1 strong p external-link 19 0
+Hoffman I-PER hoffman 1 1 0 0 0 0 1 strong p external-link 19 0
+
+Assistant O assistant 0 0 0 0 0 0 1 td tr listing 17 3
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 td tr listing 17 4
+, O , 0 0 0 0 0 0 0 td tr listing 17 4
+Princeton O princeton 0 1 0 0 0 0 1 td tr listing 17 4
+University O university 0 1 0 0 0 0 1 td tr listing 17 4
+, O , 0 0 0 0 0 0 0 td tr listing 17 4
+2009 O 2009 0 0 0 1 0 0 0 td tr listing 17 4
+
+Scott B-PER scott 1 1 0 0 0 0 1 a p external-link 19 0
+Howard I-PER howard 1 1 0 0 0 0 1 a p external-link 19 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr listing 17 3
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+Princeton O princeton 0 1 0 0 0 0 1 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+2008 O 2008 0 0 0 1 0 0 0 p td listing 18 0
+( O ( 0 0 0 0 0 0 0 p td listing 18 0
+EE O ee 0 0 0 0 0 0 1 p td listing 18 0
+) O ) 0 0 0 0 0 0 0 p td listing 18 0
+
+Prof. O prof. 0 1 0 0 1 0 1 td tr listing 17 6
+Howard O howard 0 1 0 0 0 0 1 td tr listing 17 6
+' O ' 0 0 0 0 0 0 0 td tr listing 17 6
+s O s 0 0 0 0 0 0 0 td tr listing 17 6
+research O research 0 0 0 0 0 0 0 td tr listing 17 6
+focuses O focuses 0 0 0 0 0 0 0 td tr listing 17 6
+on O on 0 0 0 0 0 0 0 td tr listing 17 6
+how O how 0 0 0 0 0 0 0 td tr listing 17 6
+the O the 0 1 0 0 0 0 0 td tr listing 17 6
+interaction O interaction 0 0 0 0 0 0 0 td tr listing 17 6
+of O of 0 1 0 0 0 0 0 td tr listing 17 6
+photons O photons 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+tissue O tissue 0 0 0 0 0 0 0 td tr listing 17 6
+can O can 0 0 0 0 0 0 0 td tr listing 17 6
+be O be 0 1 0 0 0 0 0 td tr listing 17 6
+used O used 0 0 0 0 0 0 0 td tr listing 17 6
+to O to 0 0 0 0 0 0 0 td tr listing 17 6
+aid O aid 0 0 0 0 0 0 0 td tr listing 17 6
+diagnosis O diagnosis 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+fundamental O fundamental 0 0 0 0 0 0 0 td tr listing 17 6
+research O research 0 0 0 0 0 0 0 td tr listing 17 6
+in O in 0 1 0 0 0 0 0 td tr listing 17 6
+biological O biological 0 0 0 0 0 0 0 td tr listing 17 6
+fields. O fields. 0 0 0 0 0 0 0 td tr listing 17 6
+
+Yih B-PER yih 0 1 0 0 0 0 1 strong a internal-link 20 0
+- I-PER - 0 0 0 0 0 0 0 strong a internal-link 20 0
+Fang I-PER fang 1 1 0 0 0 0 1 strong a internal-link 20 0
+Huang I-PER huang 1 1 0 0 0 0 1 strong a internal-link 20 0
+
+Professor O professor 0 0 0 0 1 0 1 p td position 18 0
+and O and 0 1 0 0 0 0 0 p td position 18 0
+Senior O senior 0 1 0 0 0 0 1 p td position 18 0
+Associate O associate 0 1 0 0 0 0 1 p td position 18 0
+Dean O dean 0 1 0 0 0 0 1 p td position 18 0
+for O for 0 1 0 0 0 0 0 p td position 18 0
+Education O education 0 0 0 0 0 0 1 p td position 18 0
+and O and 0 1 0 0 0 0 0 p td position 18 0
+Undergraduate O undergraduate 0 0 0 0 0 0 1 p td position 18 0
+Programs O programs 0 0 0 0 0 0 1 p td position 18 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Princeton O princeton 0 1 0 0 0 0 1 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1982 O 1982 0 0 0 1 0 0 0 p td listing 18 0
+
+My O my 0 1 0 0 0 0 1 td tr listing 17 8
+research O research 0 0 0 0 0 0 0 td tr listing 17 8
+interests O interests 0 0 0 0 0 0 0 td tr listing 17 8
+focus O focus 0 0 0 0 0 0 0 td tr listing 17 8
+on O on 0 0 0 0 0 0 0 td tr listing 17 8
+theory O theory 0 0 0 0 0 0 0 td tr listing 17 8
+and O and 0 1 0 0 0 0 0 td tr listing 17 8
+applications O applications 0 0 0 0 0 0 0 td tr listing 17 8
+of O of 0 1 0 0 0 0 0 td tr listing 17 8
+detection O detection 0 0 0 0 0 0 0 td tr listing 17 8
+and O and 0 1 0 0 0 0 0 td tr listing 17 8
+estimation O estimation 0 0 0 0 0 0 0 td tr listing 17 8
+
+Thomas B-PER thomas 0 1 0 0 0 0 1 a p external-link 19 0
+Kosel I-PER kosel 0 1 0 0 0 0 1 a p external-link 19 0
+
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+Emeritus O emeritus 0 1 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+of O of 0 1 0 0 0 0 0 p td listing 18 0
+California O california 0 0 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1975 O 1975 0 0 0 1 0 0 0 p td listing 18 0
+
+Wear O wear 0 1 0 0 0 0 1 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+erosion O erosion 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+electron O electron 0 0 0 0 0 0 0 td tr listing 17 6
+microscopy O microscopy 0 0 0 0 0 0 0 td tr listing 17 6
+
+J. B-PER j. 1 1 0 0 0 0 1 strong p external-link 19 0
+Nicholas I-PER nicholas 1 1 0 0 0 0 1 strong p external-link 19 0
+Laneman I-PER laneman 1 1 0 0 0 0 1 strong p external-link 19 0
+
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+MIT O mit 0 0 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+2002 O 2002 0 0 0 1 0 0 0 p td listing 18 0
+
+Wireless O wireless 0 0 0 0 0 0 1 p td listing 18 0
+communication O communication 0 0 0 0 0 0 0 p td listing 18 0
+systems O systems 0 0 0 0 0 0 0 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+information O information 0 0 0 0 0 0 0 p td listing 18 0
+theory O theory 0 0 0 0 0 0 0 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+software O software 0 0 0 0 0 0 0 p td listing 18 0
+radio O radio 0 0 0 0 0 0 0 p td listing 18 0
+
+Michael B-PER michael 1 1 0 0 0 0 1 a td external-link 18 0
+Lemmon I-PER lemmon 1 1 0 0 0 0 1 a td external-link 18 0
+
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Carnegie O carnegie 0 1 0 0 0 0 1 p td listing 18 0
+Mellon O mellon 0 1 0 0 0 0 1 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1990 O 1990 0 0 0 1 0 0 0 p td listing 18 0
+
+Inter O inter 0 0 0 0 0 0 1 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+relationship O relationship 0 0 0 0 0 0 0 td tr listing 17 6
+between O between 0 0 0 0 0 0 0 td tr listing 17 6
+communication O communication 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+computation O computation 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+control O control 0 0 0 0 0 0 0 td tr listing 17 6
+in O in 0 1 0 0 0 0 0 td tr listing 17 6
+such O such 0 0 0 0 0 0 0 td tr listing 17 6
+large O large 0 0 0 0 0 0 0 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+scale O scale 0 0 0 0 0 0 0 td tr listing 17 6
+sensor O sensor 0 0 0 0 0 0 0 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+actuator O actuator 0 0 0 0 0 0 0 td tr listing 17 6
+networks O networks 0 0 0 0 0 0 0 td tr listing 17 6
+
+Craig B-PER craig 0 1 0 0 0 0 1 a p external-link 19 0
+Lent I-PER lent 0 1 0 0 0 0 1 a p external-link 19 0
+
+Frank O frank 1 1 0 0 0 0 1 td tr listing 17 3
+M. O m. 0 1 0 0 0 0 1 td tr listing 17 3
+Freimann O freimann 0 1 0 0 0 0 1 td tr listing 17 3
+Chair O chair 0 1 0 0 0 0 1 td tr listing 17 3
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+of O of 0 1 0 0 0 0 0 p td listing 18 0
+Minnesota O minnesota 0 0 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1984 O 1984 0 0 0 1 0 0 0 p td listing 18 0
+
+Quantum O quantum 0 0 0 0 0 0 1 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+dot O dot 0 0 0 0 0 0 0 td tr listing 17 6
+Cellular O cellular 0 0 0 0 0 0 1 td tr listing 17 6
+Automata O automata 0 0 0 0 0 0 1 td tr listing 17 6
+( O ( 0 0 0 0 0 0 0 td tr listing 17 6
+QCA O qca 0 0 0 0 0 0 1 td tr listing 17 6
+) O ) 0 0 0 0 0 0 0 td tr listing 17 6
+
+Hai B-PER hai 1 1 0 0 0 0 1 a p external-link 19 0
+Lin I-PER lin 1 1 0 0 0 0 1 a p external-link 19 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr listing 17 3
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+of O of 0 1 0 0 0 0 0 p td listing 18 0
+Notre O notre 0 0 0 0 0 0 1 p td listing 18 0
+Dame O dame 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+2005 O 2005 0 0 0 1 0 0 0 p td listing 18 0
+
+Dr. O dr. 0 1 0 0 1 0 1 td tr listing 17 6
+
+Lin O lin 1 1 0 0 0 0 1 td tr listing 17 6
+' O ' 0 0 0 0 0 0 0 td tr listing 17 6
+s O s 0 0 0 0 0 0 0 td tr listing 17 6
+teaching O teaching 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+research O research 0 0 0 0 0 0 0 td tr listing 17 6
+interests O interests 0 0 0 0 0 0 0 td tr listing 17 6
+are O are 0 0 0 0 0 0 0 td tr listing 17 6
+in O in 0 1 0 0 0 0 0 td tr listing 17 6
+the O the 0 1 0 0 0 0 0 td tr listing 17 6
+multidisciplinary O multidisciplinary 0 0 0 0 0 0 0 td tr listing 17 6
+study O study 0 0 0 0 0 0 0 td tr listing 17 6
+of O of 0 1 0 0 0 0 0 td tr listing 17 6
+the O the 0 1 0 0 0 0 0 td tr listing 17 6
+problems O problems 0 0 0 0 0 0 0 td tr listing 17 6
+at O at 0 0 0 0 0 0 0 td tr listing 17 6
+the O the 0 1 0 0 0 0 0 td tr listing 17 6
+intersections O intersections 0 0 0 0 0 0 0 td tr listing 17 6
+of O of 0 1 0 0 0 0 0 td tr listing 17 6
+control O control 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+communication O communication 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+computation O computation 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+life O life 0 0 0 0 0 0 0 td tr listing 17 6
+sciences. O sciences. 0 0 0 0 0 0 0 td tr listing 17 6
+
+His O his 0 0 0 0 0 0 1 td tr listing 17 6
+current O current 0 0 0 0 0 0 0 td tr listing 17 6
+research O research 0 0 0 0 0 0 0 td tr listing 17 6
+thrust O thrust 0 0 0 0 0 0 0 td tr listing 17 6
+is O is 0 0 0 0 0 0 0 td tr listing 17 6
+on O on 0 0 0 0 0 0 0 td tr listing 17 6
+cyber O cyber 0 0 0 0 0 0 0 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+physical O physical 0 0 0 0 0 0 0 td tr listing 17 6
+systems O systems 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+multi O multi 0 0 0 0 0 0 0 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+robot O robot 0 0 0 0 0 0 0 td tr listing 17 6
+cooperative O cooperative 0 0 0 0 0 0 0 td tr listing 17 6
+tasking O tasking 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+systems O systems 0 0 0 0 0 0 0 td tr listing 17 6
+biology O biology 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+quantum O quantum 0 0 0 0 0 0 0 td tr listing 17 6
+control. O control. 0 0 0 0 0 0 0 td tr listing 17 6
+
+Lei B-PER lei 1 1 0 0 0 0 1 a p external-link 19 0
+Liu I-PER liu 1 1 0 0 0 0 1 a p external-link 19 0
+
+Assistant O assistant 0 0 0 0 0 0 1 td tr listing 17 3
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+of O of 0 1 0 0 0 0 0 p td listing 18 0
+Virginia O virginia 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+2007 O 2007 0 0 0 1 0 0 0 p td listing 18 0
+
+His O his 0 0 0 0 0 0 1 td tr listing 17 6
+research O research 0 0 0 0 0 0 0 td tr listing 17 6
+interests O interests 0 0 0 0 0 0 0 td tr listing 17 6
+include O include 0 0 0 0 0 0 0 td tr listing 17 6
+millimeter O millimeter 0 0 0 0 0 0 0 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+submillimeter O submillimeter 0 0 0 0 0 0 0 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+wave O wave 0 0 0 0 0 0 0 td tr listing 17 6
+device O device 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+circuit O circuit 0 0 0 0 0 0 0 td tr listing 17 6
+design O design 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+modeling O modeling 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+testing O testing 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+quasi O quasi 0 0 0 0 0 0 0 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+optical O optical 0 0 0 0 0 0 0 td tr listing 17 6
+techniques O techniques 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+terahertz O terahertz 0 0 0 0 0 0 0 td tr listing 17 6
+detectors O detectors 0 0 0 0 0 0 0 td tr listing 17 6
+for O for 0 1 0 0 0 0 0 td tr listing 17 6
+imaging O imaging 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+spectroscopy O spectroscopy 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+novel O novel 0 0 0 0 0 0 0 td tr listing 17 6
+microwave O microwave 0 0 0 0 0 0 0 td tr listing 17 6
+materials O materials 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+devices O devices 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+superconducting O superconducting 0 0 0 0 0 0 0 td tr listing 17 6
+electronics O electronics 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+microfabrication O microfabrication 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+processing. O processing. 0 0 0 0 0 0 0 td tr listing 17 6
+
+Ruey B-PER ruey 0 1 0 0 0 0 1 strong p external-link 19 0
+- I-PER - 0 0 0 0 0 0 0 strong p external-link 19 0
+Wen I-PER wen 1 1 0 0 0 0 1 strong p external-link 19 0
+Liu I-PER liu 1 1 0 0 0 0 1 strong p external-link 19 0
+
+Frank O frank 1 1 0 0 0 0 1 p td position 18 0
+M. O m. 0 1 0 0 0 0 1 p td position 18 0
+Freimann O freimann 0 1 0 0 0 0 1 p td position 18 0
+Chair O chair 0 1 0 0 0 0 1 p td position 18 0
+Professor O professor 0 0 0 0 1 0 1 p td position 18 0
+Emeritus O emeritus 0 1 0 0 1 0 1 p td position 18 0
+
+University O university 1 1 0 0 0 0 1 td tr listing 17 5
+of O of 1 1 0 0 0 0 0 td tr listing 17 5
+Illinois O illinois 1 1 0 0 0 0 1 td tr listing 17 5
+at O at 0 0 0 0 0 0 0 td tr listing 17 5
+Urbana O urbana 0 0 0 0 0 0 1 td tr listing 17 5
+, O , 0 0 0 0 0 0 0 td tr listing 17 5
+1960 O 1960 0 0 0 1 0 0 0 td tr listing 17 5
+
+Dr. O dr. 0 1 0 0 1 0 1 td tr listing 17 6
+Liu O liu 0 1 0 0 0 0 1 td tr listing 17 6
+' O ' 0 0 0 0 0 0 0 td tr listing 17 6
+s O s 0 0 0 0 0 0 0 td tr listing 17 6
+research O research 0 0 0 0 0 0 0 td tr listing 17 6
+interests O interests 0 0 0 0 0 0 0 td tr listing 17 6
+encompass O encompass 0 0 0 0 0 0 0 td tr listing 17 6
+circuits O circuits 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+systems O systems 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+signal O signal 0 0 0 0 0 0 0 td tr listing 17 6
+processing O processing 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+communication. O communication. 0 0 0 0 0 0 0 td tr listing 17 6
+He O he 0 1 0 0 0 0 1 td tr listing 17 6
+is O is 0 0 0 0 0 0 0 td tr listing 17 6
+currently O currently 0 0 0 0 0 0 0 td tr listing 17 6
+pursuing O pursuing 0 0 0 0 0 0 0 td tr listing 17 6
+a O a 0 1 0 0 0 0 0 td tr listing 17 6
+new O new 0 0 0 0 0 0 0 td tr listing 17 6
+multiple O multiple 0 0 0 0 0 0 0 td tr listing 17 6
+access O access 0 0 0 0 0 0 0 td tr listing 17 6
+for O for 0 1 0 0 0 0 0 td tr listing 17 6
+the O the 0 1 0 0 0 0 0 td tr listing 17 6
+physical O physical 0 0 0 0 0 0 0 td tr listing 17 6
+layer O layer 0 0 0 0 0 0 0 td tr listing 17 6
+of O of 0 1 0 0 0 0 0 td tr listing 17 6
+wireless O wireless 0 0 0 0 0 0 0 td tr listing 17 6
+communication O communication 0 0 0 0 0 0 0 td tr listing 17 6
+networks O networks 0 0 0 0 0 0 0 td tr listing 17 6
+in O in 0 1 0 0 0 0 0 td tr listing 17 6
+the O the 0 1 0 0 0 0 0 td tr listing 17 6
+unlicensed O unlicensed 0 0 0 0 0 0 0 td tr listing 17 6
+spectrum. O spectrum. 0 0 0 0 0 0 0 td tr listing 17 6
+
+Christine B-PER christine 0 1 0 0 0 0 1 a p external-link 19 0
+Maziar I-PER maziar 0 1 0 0 0 0 1 a p external-link 19 0
+
+Professor O professor 0 0 0 0 1 0 1 p td position 18 0
+, O , 0 0 0 0 0 0 0 p td position 18 0
+VP O vp 0 0 0 0 0 0 1 p td position 18 0
+and O and 0 1 0 0 0 0 0 p td position 18 0
+Senior O senior 0 1 0 0 0 0 1 p td position 18 0
+Associate O associate 0 1 0 0 0 0 1 p td position 18 0
+Provost O provost 0 1 0 0 0 0 1 p td position 18 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td position 18 0
+, O , 0 0 0 0 0 0 0 p td position 18 0
+Purdue O purdue 0 1 0 0 0 0 1 p td position 18 0
+University O university 0 1 0 0 0 0 1 p td position 18 0
+, O , 0 0 0 0 0 0 0 p td position 18 0
+1987 O 1987 0 0 0 1 0 0 0 p td position 18 0
+
+Research O research 0 1 0 0 0 0 1 td tr listing 17 7
+interests O interests 0 0 0 0 0 0 0 td tr listing 17 7
+include O include 0 0 0 0 0 0 0 td tr listing 17 7
+developing O developing 0 0 0 0 0 0 0 td tr listing 17 7
+models O models 0 0 0 0 0 0 0 td tr listing 17 7
+and O and 0 1 0 0 0 0 0 td tr listing 17 7
+computer O computer 0 0 0 0 0 0 0 td tr listing 17 7
+simulation O simulation 0 0 0 0 0 0 0 td tr listing 17 7
+tools O tools 0 0 0 0 0 0 0 td tr listing 17 7
+that O that 0 0 0 0 0 0 0 td tr listing 17 7
+describe O describe 0 0 0 0 0 0 0 td tr listing 17 7
+charge O charge 0 0 0 0 0 0 0 td tr listing 17 7
+transport O transport 0 0 0 0 0 0 0 td tr listing 17 7
+in O in 0 1 0 0 0 0 0 td tr listing 17 7
+semiconductor O semiconductor 0 0 0 0 0 0 0 td tr listing 17 7
+device O device 0 0 0 0 0 0 0 td tr listing 17 7
+structures O structures 0 0 0 0 0 0 0 td tr listing 17 7
+, O , 0 0 0 0 0 0 0 td tr listing 17 7
+transport O transport 0 0 0 0 0 0 0 td tr listing 17 7
+phenomena O phenomena 0 0 0 0 0 0 0 td tr listing 17 7
+in O in 0 1 0 0 0 0 0 td tr listing 17 7
+ultra O ultra 0 0 0 0 0 0 0 td tr listing 17 7
+- O - 0 0 0 0 0 0 0 td tr listing 17 7
+small O small 0 0 0 0 0 0 0 td tr listing 17 7
+structures O structures 0 0 0 0 0 0 0 td tr listing 17 7
+, O , 0 0 0 0 0 0 0 td tr listing 17 7
+structures O structures 0 0 0 0 0 0 0 td tr listing 17 7
+under O under 0 0 0 0 0 0 0 td tr listing 17 7
+high O high 0 0 0 0 0 0 0 td tr listing 17 7
+electric O electric 0 0 0 0 0 0 0 td tr listing 17 7
+fields O fields 0 0 0 0 0 0 0 td tr listing 17 7
+, O , 0 0 0 0 0 0 0 td tr listing 17 7
+and O and 0 1 0 0 0 0 0 td tr listing 17 7
+structures O structures 0 0 0 0 0 0 0 td tr listing 17 7
+composed O composed 0 0 0 0 0 0 0 td tr listing 17 7
+of O of 0 1 0 0 0 0 0 td tr listing 17 7
+superlattices O superlattices 0 0 0 0 0 0 0 td tr listing 17 7
+or O or 0 0 0 0 0 0 0 td tr listing 17 7
+novel O novel 0 0 0 0 0 0 0 td tr listing 17 7
+materials. O materials. 0 0 0 0 0 0 0 td tr listing 17 7
+
+Jim B-PER jim 0 1 0 0 0 0 1 a p external-link 19 0
+Merz I-PER merz 0 1 0 0 0 0 1 a p external-link 19 0
+
+Frank O frank 1 1 0 0 0 0 1 p td position 18 0
+M. O m. 0 1 0 0 0 0 1 p td position 18 0
+Freimann O freimann 0 1 0 0 0 0 1 p td position 18 0
+Chair O chair 0 1 0 0 0 0 1 p td position 18 0
+Professor O professor 0 0 0 0 1 0 1 p td position 18 0
+Emeritus O emeritus 0 1 0 0 1 0 1 p td position 18 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Harvard O harvard 0 1 0 0 0 0 1 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1967 O 1967 0 0 0 1 0 0 0 p td listing 18 0
+
+Semiconductor O semiconductor 0 1 0 0 0 0 1 td tr listing 17 7
+physics O physics 0 0 0 0 0 0 0 td tr listing 17 7
+, O , 0 0 0 0 0 0 0 td tr listing 17 7
+materials O materials 0 0 0 0 0 0 0 td tr listing 17 7
+, O , 0 0 0 0 0 0 0 td tr listing 17 7
+and O and 0 1 0 0 0 0 0 td tr listing 17 7
+devices O devices 0 0 0 0 0 0 0 td tr listing 17 7
+; O ; 0 0 0 0 0 0 0 td tr listing 17 7
+optical O optical 0 0 0 0 0 0 0 td tr listing 17 7
+properties O properties 0 0 0 0 0 0 0 td tr listing 17 7
+of O of 0 1 0 0 0 0 0 td tr listing 17 7
+solids O solids 0 0 0 0 0 0 0 td tr listing 17 7
+; O ; 0 0 0 0 0 0 0 td tr listing 17 7
+
+defects O defects 0 0 0 0 0 0 0 td tr listing 17 7
+; O ; 0 0 0 0 0 0 0 td tr listing 17 7
+and O and 0 1 0 0 0 0 0 td tr listing 17 7
+nanostructures O nanostructures 0 0 0 0 0 0 0 td tr listing 17 7
+
+Alexander B-PER alexander 0 1 0 0 0 0 1 a p external-link 19 0
+Mintairov I-PER mintairov 0 0 0 0 0 0 1 a p external-link 19 0
+
+Research O research 0 1 0 0 0 0 1 td tr listing 17 3
+Associate O associate 0 1 0 0 0 0 1 td tr listing 17 3
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Ioffe O ioffe 0 1 0 0 0 0 1 p td listing 18 0
+Physical O physical 0 0 0 0 0 0 1 p td listing 18 0
+- O - 0 0 0 0 0 0 0 p td listing 18 0
+Technical O technical 0 0 0 0 0 0 1 p td listing 18 0
+Institute O institute 0 0 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+St. O st. 0 1 0 0 0 0 1 p td listing 18 0
+Petersburg O petersburg 0 0 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1987 O 1987 0 0 0 1 0 0 0 p td listing 18 0
+
+Dr. O dr. 0 1 0 0 1 0 1 td tr listing 17 6
+
+Mintairov O mintairov 0 0 0 0 0 0 1 td tr listing 17 6
+' O ' 0 0 0 0 0 0 0 td tr listing 17 6
+s O s 0 0 0 0 0 0 0 td tr listing 17 6
+research O research 0 0 0 0 0 0 0 td tr listing 17 6
+interests O interests 0 0 0 0 0 0 0 td tr listing 17 6
+include O include 0 0 0 0 0 0 0 td tr listing 17 6
+near O near 0 0 0 0 0 0 0 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+field O field 0 0 0 0 0 0 0 td tr listing 17 6
+magneto O magneto 0 0 0 0 0 0 0 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+spectroscopy O spectroscopy 0 0 0 0 0 0 0 td tr listing 17 6
+of O of 0 1 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+nano O nano 0 0 0 0 0 0 0 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+photonic O photonic 0 0 0 0 0 0 0 td tr listing 17 6
+structutres. O structutres. 0 0 0 0 0 0 0 td tr listing 17 6
+
+Current O current 0 1 0 0 0 0 1 td tr listing 17 6
+research O research 0 0 0 0 0 0 0 td tr listing 17 6
+projects O projects 0 0 0 0 0 0 0 td tr listing 17 6
+include O include 0 0 0 0 0 0 0 td tr listing 17 6
+study O study 0 0 0 0 0 0 0 td tr listing 17 6
+of O of 0 1 0 0 0 0 0 td tr listing 17 6
+emission O emission 0 0 0 0 1 0 0 td tr listing 17 6
+properties O properties 0 0 0 0 0 0 0 td tr listing 17 6
+of O of 0 1 0 0 0 0 0 td tr listing 17 6
+dilute O dilute 0 0 0 0 0 0 0 td tr listing 17 6
+nitride O nitride 0 0 0 0 0 0 0 td tr listing 17 6
+materials O materials 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+nano O nano 0 0 0 0 0 0 0 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+optics O optics 0 0 0 0 0 0 0 td tr listing 17 6
+of O of 0 1 0 0 0 0 0 td tr listing 17 6
+microdisk O microdisk 0 0 0 0 0 0 0 td tr listing 17 6
+lasers O lasers 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+light O light 0 0 0 0 0 0 0 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+emitting O emitting 0 0 0 0 1 0 0 td tr listing 17 6
+single O single 0 0 0 0 0 0 0 td tr listing 17 6
+electron O electron 0 0 0 0 0 0 0 td tr listing 17 6
+transistors O transistors 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+blinking O blinking 0 0 0 0 0 0 0 td tr listing 17 6
+phenomena O phenomena 0 0 0 0 0 0 0 td tr listing 17 6
+in O in 0 1 0 0 0 0 0 td tr listing 17 6
+colloidal O colloidal 0 0 0 0 0 0 0 td tr listing 17 6
+nanostructures. O nanostructures. 0 0 0 0 0 0 0 td tr listing 17 6
+
+Alexei B-PER alexei 0 1 0 0 0 0 1 a p external-link 19 0
+Orlov I-PER orlov 0 1 0 0 0 0 1 a p external-link 19 0
+
+Research O research 0 1 0 0 0 0 1 td tr listing 17 3
+Associate O associate 0 1 0 0 0 0 1 td tr listing 17 3
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph. O ph. 0 1 0 0 0 0 1 p td listing 18 0
+D. O d. 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+IREE O iree 0 0 0 0 0 0 1 p td listing 18 0
+RAS O ras 0 0 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Moscow O moscow 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1990 O 1990 0 0 0 1 0 0 0 p td listing 18 0
+
+My O my 0 1 0 0 0 0 1 td tr listing 17 6
+topics O topics 0 0 0 0 0 0 0 td tr listing 17 6
+of O of 0 1 0 0 0 0 0 td tr listing 17 6
+research O research 0 0 0 0 0 0 0 td tr listing 17 6
+are O are 0 0 0 0 0 0 0 td tr listing 17 6
+experimental O experimental 0 0 0 0 0 0 0 td tr listing 17 6
+studies O studies 0 0 0 0 0 0 0 td tr listing 17 6
+of O of 0 1 0 0 0 0 0 td tr listing 17 6
+nanostructures O nanostructures 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+nanodevices O nanodevices 0 0 0 0 0 0 0 td tr listing 17 6
+with O with 0 0 0 0 0 0 0 td tr listing 17 6
+main O main 0 0 0 0 0 0 0 td tr listing 17 6
+focus O focus 0 0 0 0 0 0 0 td tr listing 17 6
+on O on 0 0 0 0 0 0 0 td tr listing 17 6
+experimental O experimental 0 0 0 0 0 0 0 td tr listing 17 6
+single O single 0 0 0 0 0 0 0 td tr listing 17 6
+electronics O electronics 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+nanomagnetics. O nanomagnetics. 0 0 0 0 0 0 0 td tr listing 17 6
+
+Thomas B-PER thomas 0 1 0 0 0 0 1 a p external-link 19 0
+O I-PER o 0 1 0 0 0 0 1 a p external-link 19 0
+' I-PER ' 0 0 0 0 0 0 0 a p external-link 19 0
+Sullivan I-PER sullivan 0 1 0 0 0 0 1 a p external-link 19 0
+
+Assistant O assistant 0 0 0 0 0 0 1 td tr listing 17 3
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 td tr listing 17 5
+, O , 0 0 0 0 0 0 0 td tr listing 17 5
+Stanford O stanford 0 1 0 0 0 0 1 td tr listing 17 5
+University O university 0 1 0 0 0 0 1 td tr listing 17 5
+, O , 0 0 0 0 0 0 0 td tr listing 17 5
+2011 O 2011 0 0 0 1 0 0 0 td tr listing 17 5
+
+Prof. O prof. 0 1 0 0 1 0 1 td tr listing 17 6
+O O o 0 1 0 0 0 0 1 td tr listing 17 6
+' O ' 0 0 0 0 0 0 0 td tr listing 17 6
+Sullivan O sullivan 0 1 0 0 0 0 1 td tr listing 17 6
+' O ' 0 0 0 0 0 0 0 td tr listing 17 6
+s O s 0 0 0 0 0 0 0 td tr listing 17 6
+research O research 0 0 0 0 0 0 0 td tr listing 17 6
+interests O interests 0 0 0 0 0 0 0 td tr listing 17 6
+include O include 0 0 0 0 0 0 0 td tr listing 17 6
+the O the 0 1 0 0 0 0 0 td tr listing 17 6
+design O design 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+application O application 0 0 0 0 0 0 0 td tr listing 17 6
+of O of 0 1 0 0 0 0 0 td tr listing 17 6
+semiconductor O semiconductor 0 0 0 0 0 0 0 td tr listing 17 6
+optical O optical 0 0 0 0 0 0 0 td tr listing 17 6
+devices O devices 0 0 0 0 0 0 0 td tr listing 17 6
+for O for 0 1 0 0 0 0 0 td tr listing 17 6
+biomedical O biomedical 0 0 0 0 0 0 0 td tr listing 17 6
+sensing O sensing 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+diagnostics O diagnostics 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+imaging O imaging 0 0 0 0 0 0 0 td tr listing 17 6
+( O ( 0 0 0 0 0 0 0 td tr listing 17 6
+biophotonics O biophotonics 0 0 0 0 0 0 0 td tr listing 17 6
+) O ) 0 0 0 0 0 0 0 td tr listing 17 6
+. O . 0 1 0 0 0 0 0 td tr listing 17 6
+He O he 0 1 0 0 0 0 1 td tr listing 17 6
+also O also 0 0 0 0 0 0 0 td tr listing 17 6
+integrates O integrates 0 0 0 0 0 0 0 td tr listing 17 6
+these O these 0 0 0 0 0 0 0 td tr listing 17 6
+technologies O technologies 0 0 0 0 0 0 0 td tr listing 17 6
+into O into 0 0 0 0 0 0 0 td tr listing 17 6
+medical O medical 0 0 0 0 0 0 0 td tr listing 17 6
+devices O devices 0 0 0 0 0 0 0 td tr listing 17 6
+designed O designed 0 0 0 0 0 0 0 td tr listing 17 6
+to O to 0 0 0 0 0 0 0 td tr listing 17 6
+understand O understand 0 0 0 0 0 0 0 td tr listing 17 6
+human O human 0 0 0 0 0 0 0 td tr listing 17 6
+physiology O physiology 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+diagnose/monitor O diagnose/monitor 0 0 0 0 0 0 0 td tr listing 17 6
+disease. O disease. 0 0 0 0 0 0 0 td tr listing 17 6
+
+Wolfgang B-PER wolfgang 1 1 0 0 0 0 1 a p external-link 19 0
+Porod I-PER porod 1 1 0 0 0 0 1 a p external-link 19 0
+
+Frank O frank 1 1 0 0 0 0 1 p td position 18 0
+M. O m. 0 1 0 0 0 0 1 p td position 18 0
+Freimann O freimann 0 1 0 0 0 0 1 p td position 18 0
+Chair O chair 0 1 0 0 0 0 1 p td position 18 0
+Professor O professor 0 0 0 0 1 0 1 p td position 18 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Universität O universitat 0 0 0 0 0 0 1 p td listing 18 0
+Graz O graz 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Graz O graz 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Austria O austria 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+June O june 0 1 0 0 0 0 1 p td listing 18 0
+1981 O 1981 0 0 0 1 0 0 0 p td listing 18 0
+
+Solid O solid 0 0 0 0 0 0 1 td tr listing 17 7
+- O - 0 0 0 0 0 0 0 td tr listing 17 7
+state O state 0 0 0 0 0 0 0 td tr listing 17 7
+devices O devices 0 0 0 0 0 0 0 td tr listing 17 7
+, O , 0 0 0 0 0 0 0 td tr listing 17 7
+computational O computational 0 0 0 0 0 0 0 td tr listing 17 7
+electronics O electronics 0 0 0 0 0 0 0 td tr listing 17 7
+, O , 0 0 0 0 0 0 0 td tr listing 17 7
+and O and 0 1 0 0 0 0 0 td tr listing 17 7
+nanoelectronics. O nanoelectronics. 0 0 0 0 0 0 0 td tr listing 17 7
+
+Thomas B-PER thomas 0 1 0 0 0 0 1 a p external-link 19 0
+Pratt I-PER pratt 0 1 0 0 0 0 1 a p external-link 19 0
+
+Research O research 0 1 0 0 0 0 1 td tr listing 17 3
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Georgia O georgia 0 1 0 0 0 0 1 p td listing 18 0
+Institute O institute 0 0 0 0 0 0 1 p td listing 18 0
+of O of 0 1 0 0 0 0 0 p td listing 18 0
+Technology O technology 0 0 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1999 O 1999 0 0 0 1 0 0 0 p td listing 18 0
+
+Dr. O dr. 0 1 0 0 1 0 1 td tr listing 17 6
+Pratt O pratt 0 1 0 0 0 0 1 td tr listing 17 6
+has O has 0 0 0 0 0 0 0 td tr listing 17 6
+particular O particular 0 0 0 0 0 0 0 td tr listing 17 6
+interest O interest 0 0 0 0 0 0 0 td tr listing 17 6
+in O in 0 1 0 0 0 0 0 td tr listing 17 6
+multi O multi 0 0 0 0 0 0 0 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+port O port 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+dual O dual 0 0 0 0 0 0 0 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+polarized O polarized 0 0 0 0 0 0 0 td tr listing 17 6
+communications O communications 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+sensing O sensing 0 0 0 0 0 0 0 td tr listing 17 6
+architectures O architectures 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+their O their 0 0 0 0 0 0 0 td tr listing 17 6
+application O application 0 0 0 0 0 0 0 td tr listing 17 6
+to O to 0 0 0 0 0 0 0 td tr listing 17 6
+detection O detection 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+interference O interference 0 0 0 0 0 0 0 td tr listing 17 6
+avoidance O avoidance 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+suppression O suppression 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+sensing O sensing 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+diversity O diversity 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+capacity O capacity 0 0 0 0 0 0 0 td tr listing 17 6
+enhancement. O enhancement. 0 0 0 0 0 0 0 td tr listing 17 6
+
+Sergei B-PER sergei 0 1 0 0 0 0 1 a p external-link 19 0
+Rouvimov I-PER rouvimov 0 0 0 0 0 0 1 a p external-link 19 0
+
+Research O research 0 1 0 0 0 0 1 td tr listing 17 3
+Associate O associate 0 1 0 0 0 0 1 td tr listing 17 3
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+and O and 0 1 0 0 0 0 0 td tr listing 17 3
+Director O director 0 1 0 0 0 0 1 td tr listing 17 3
+of O of 0 1 0 0 0 0 0 td tr listing 17 3
+TEM O tem 0 0 0 0 0 0 1 td tr listing 17 3
+, O , 0 0 0 0 0 0 0 td tr listing 17 3
+NDIIF O ndiif 0 0 0 0 0 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 td tr listing 17 4
+, O , 0 0 0 0 0 0 0 td tr listing 17 4
+Physics O physics 0 0 0 0 0 0 1 td tr listing 17 4
+, O , 0 0 0 0 0 0 0 td tr listing 17 4
+A.F. O a.f. 0 0 0 0 0 0 1 td tr listing 17 4
+Ioffe O ioffe 0 1 0 0 0 0 1 td tr listing 17 4
+Institute O institute 0 0 0 0 0 0 1 td tr listing 17 4
+, O , 0 0 0 0 0 0 0 td tr listing 17 4
+St. O st. 0 1 0 0 0 0 1 td tr listing 17 4
+Petersburg O petersburg 0 0 0 0 0 0 1 td tr listing 17 4
+, O , 0 0 0 0 0 0 0 td tr listing 17 4
+Russia O russia 0 0 0 0 0 0 1 td tr listing 17 4
+, O , 0 0 0 0 0 0 0 td tr listing 17 4
+1987 O 1987 0 0 0 1 0 0 0 td tr listing 17 4
+
+High O high 0 1 0 0 0 0 1 td tr listing 17 5
+resolution O resolution 0 0 0 0 0 0 0 td tr listing 17 5
+transmission O transmission 0 0 0 0 0 0 0 td tr listing 17 5
+electron O electron 0 0 0 0 0 0 0 td tr listing 17 5
+microscopy O microscopy 0 0 0 0 0 0 0 td tr listing 17 5
+
+Ken B-PER ken 1 1 0 0 0 0 1 a p external-link 19 0
+Sauer I-PER sauer 1 1 0 0 0 0 1 a p external-link 19 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr listing 17 3
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Princeton O princeton 0 1 0 0 0 0 1 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1989 O 1989 0 0 0 1 0 0 0 p td listing 18 0
+
+Sauer O sauer 0 1 0 0 0 0 1 td tr listing 17 6
+' O ' 0 0 0 0 0 0 0 td tr listing 17 6
+s O s 0 0 0 0 0 0 0 td tr listing 17 6
+research O research 0 0 0 0 0 0 0 td tr listing 17 6
+centers O centers 0 0 0 0 0 0 0 td tr listing 17 6
+on O on 0 0 0 0 0 0 0 td tr listing 17 6
+statistical O statistical 0 0 0 0 0 0 0 td tr listing 17 6
+methods O methods 0 0 0 0 0 0 0 td tr listing 17 6
+of O of 0 1 0 0 0 0 0 td tr listing 17 6
+solving O solving 0 0 0 0 0 0 0 td tr listing 17 6
+inverse O inverse 0 0 0 0 0 0 0 td tr listing 17 6
+
+problems O problems 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+primarily O primarily 0 0 0 0 0 0 0 td tr listing 17 6
+in O in 0 1 0 0 0 0 0 td tr listing 17 6
+imaging O imaging 0 0 0 0 0 0 0 td tr listing 17 6
+
+Michael B-PER michael 0 1 0 0 0 0 1 a p external-link 19 0
+Schafer I-PER schafer 0 1 0 0 0 0 1 a p external-link 19 0
+
+Teaching O teaching 0 0 0 0 0 0 1 td tr listing 17 3
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 td tr listing 17 4
+, O , 0 0 0 0 0 0 0 td tr listing 17 4
+University O university 0 1 0 0 0 0 1 td tr listing 17 4
+of O of 0 1 0 0 0 0 0 td tr listing 17 4
+Notre O notre 0 0 0 0 0 0 1 td tr listing 17 4
+Dame O dame 0 1 0 0 0 0 1 td tr listing 17 4
+, O , 0 0 0 0 0 0 0 td tr listing 17 4
+1980 O 1980 0 0 0 1 0 0 0 td tr listing 17 4
+
+Alan B-PER alan 0 1 0 0 0 0 1 a p external-link 19 0
+Seabaugh I-PER seabaugh 0 1 0 0 0 0 1 a p external-link 19 0
+
+Frank O frank 1 1 0 0 0 0 1 td tr listing 17 3
+M. O m. 0 1 0 0 0 0 1 td tr listing 17 3
+Freimann O freimann 0 1 0 0 0 0 1 td tr listing 17 3
+Chair O chair 0 1 0 0 0 0 1 td tr listing 17 3
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+and O and 0 1 0 0 0 0 0 td tr listing 17 3
+Director O director 0 1 0 0 0 0 1 td tr listing 17 3
+LEAST O least 0 0 0 0 0 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+of O of 0 1 0 0 0 0 0 p td listing 18 0
+Virginia O virginia 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Charlottesville O charlottesville 0 0 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1985 O 1985 0 0 0 1 0 0 0 p td listing 18 0
+
+Current O current 0 1 0 0 0 0 1 td tr listing 17 8
+research O research 0 0 0 0 0 0 0 td tr listing 17 8
+areas O areas 0 0 0 0 0 0 0 td tr listing 17 8
+include O include 0 0 0 0 0 0 0 td tr listing 17 8
+tunnel O tunnel 0 0 0 0 0 0 0 td tr listing 17 8
+field O field 0 0 0 0 0 0 0 td tr listing 17 8
+- O - 0 0 0 0 0 0 0 td tr listing 17 8
+effect O effect 0 0 0 0 0 0 0 td tr listing 17 8
+transistors O transistors 0 0 0 0 0 0 0 td tr listing 17 8
+, O , 0 0 0 0 0 0 0 td tr listing 17 8
+memory O memory 0 0 0 0 0 0 0 td tr listing 17 8
+, O , 0 0 0 0 0 0 0 td tr listing 17 8
+transport O transport 0 0 0 0 0 0 0 td tr listing 17 8
+in O in 0 1 0 0 0 0 0 td tr listing 17 8
+two O two 0 0 0 0 0 0 0 td tr listing 17 8
+- O - 0 0 0 0 0 0 0 td tr listing 17 8
+dimensional O dimensional 0 0 0 0 0 0 0 td tr listing 17 8
+materials O materials 0 0 0 0 0 0 0 td tr listing 17 8
+, O , 0 0 0 0 0 0 0 td tr listing 17 8
+and O and 0 1 0 0 0 0 0 td tr listing 17 8
+lithium O lithium 0 0 0 0 0 0 0 td tr listing 17 8
+ion O ion 0 0 0 0 0 0 0 td tr listing 17 8
+batteries. O batteries. 0 0 0 0 0 0 0 td tr listing 17 8
+
+Roxana B-PER roxana 1 1 0 0 0 0 1 a p external-link 19 0
+Smarandache I-PER smarandache 1 1 0 0 0 0 1 a p external-link 19 0
+
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+of O of 0 1 0 0 0 0 0 td tr listing 17 3
+Mathematics O mathematics 0 0 0 0 0 0 1 td tr listing 17 3
+and O and 0 1 0 0 0 0 0 td tr listing 17 3
+Electrical O electrical 0 0 0 0 0 0 1 td tr listing 17 3
+Engineering O engineering 0 0 0 0 0 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 td tr listing 17 4
+, O , 0 0 0 0 0 0 0 td tr listing 17 4
+University O university 0 1 0 0 0 0 1 td tr listing 17 4
+of O of 0 1 0 0 0 0 0 td tr listing 17 4
+Notre O notre 0 0 0 0 0 0 1 td tr listing 17 4
+Dame O dame 0 1 0 0 0 0 1 td tr listing 17 4
+, O , 0 0 0 0 0 0 0 td tr listing 17 4
+Mathematics O mathematics 0 0 0 0 0 0 1 td tr listing 17 4
+, O , 0 0 0 0 0 0 0 td tr listing 17 4
+2001 O 2001 0 0 0 1 0 0 0 td tr listing 17 4
+
+Error O error 0 0 0 0 0 0 1 td tr listing 17 5
+Control O control 0 0 0 0 0 0 1 td tr listing 17 5
+Coding O coding 0 0 0 0 0 0 1 td tr listing 17 5
+
+Greg B-PER greg 1 1 0 0 0 0 1 a p external-link 19 0
+Snider I-PER snider 1 1 0 0 0 0 1 a p external-link 19 0
+
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+of O of 0 1 0 0 0 0 0 p td listing 18 0
+California O california 0 0 0 0 0 0 1 p td listing 18 0
+- O - 0 0 0 0 0 0 0 p td listing 18 0
+Santa O santa 1 1 0 0 0 0 1 p td listing 18 0
+Barbara O barbara 1 1 0 0 0 0 1 p td listing 18 0
+
+Design O design 0 0 0 0 0 0 1 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+fabrication O fabrication 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+measurements O measurements 0 0 0 0 0 0 0 td tr listing 17 6
+of O of 0 1 0 0 0 0 0 td tr listing 17 6
+micro O micro 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+nanoelectronic O nanoelectronic 0 0 0 0 0 0 0 td tr listing 17 6
+devices O devices 0 0 0 0 0 0 0 td tr listing 17 6
+
+Robert B-PER robert 0 1 0 0 0 0 1 a p external-link 19 0
+Stevenson I-PER stevenson 0 1 0 0 0 0 1 a p external-link 19 0
+
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+and O and 0 1 0 0 0 0 0 td tr listing 17 3
+Associate O associate 0 1 0 0 0 0 1 td tr listing 17 3
+Chair O chair 0 1 0 0 0 0 1 td tr listing 17 3
+for O for 0 1 0 0 0 0 0 td tr listing 17 3
+Undergraduate O undergraduate 0 0 0 0 0 0 1 td tr listing 17 3
+Studies O studies 0 0 0 0 0 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Purdue O purdue 0 1 0 0 0 0 1 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1990 O 1990 0 0 0 1 0 0 0 p td listing 18 0
+
+Statistical O statistical 0 0 0 0 0 0 1 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+multidimensional O multidimensional 0 0 0 0 0 0 0 td tr listing 17 6
+signal O signal 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+image O image 0 0 0 0 0 0 0 td tr listing 17 6
+processing O processing 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+computer O computer 0 0 0 0 0 0 0 td tr listing 17 6
+vision. O vision. 0 0 0 0 0 0 0 td tr listing 17 6
+
+Gregory B-PER gregory 1 1 0 0 0 0 1 a p external-link 19 0
+Timp I-PER timp 1 1 0 0 0 0 1 a p external-link 19 0
+
+Keough O keough 0 1 0 0 0 0 1 p td position 18 0
+- O - 0 0 0 0 0 0 0 p td position 18 0
+Hesburgh O hesburgh 0 0 0 0 0 0 1 p td position 18 0
+Chair O chair 0 1 0 0 0 0 1 p td position 18 0
+in O in 0 1 0 0 0 0 0 p td position 18 0
+Electrical O electrical 0 0 0 0 0 0 1 p td position 18 0
+Engineering O engineering 0 0 0 0 0 0 1 p td position 18 0
+and O and 0 1 0 0 0 0 0 p td position 18 0
+Biological O biological 0 0 0 0 0 0 1 p td position 18 0
+Sciences O sciences 0 0 0 0 0 0 1 p td position 18 0
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 td tr Default 17 5
+Massachusetts O massachusetts 0 0 0 0 1 0 1 td tr Default 17 5
+Institute O institute 0 0 0 0 0 0 1 td tr Default 17 5
+of O of 0 1 0 0 0 0 0 td tr Default 17 5
+Technology O technology 0 0 0 0 0 0 1 td tr Default 17 5
+, O , 0 0 0 0 0 0 0 td tr Default 17 5
+Electrical O electrical 0 0 0 0 0 0 1 td tr Default 17 5
+Engineering O engineering 0 0 0 0 0 0 1 td tr Default 17 5
+, O , 0 0 0 0 0 0 0 td tr Default 17 5
+1984 O 1984 0 0 0 1 0 0 0 td tr Default 17 5
+
+Synthetic O synthetic 0 0 0 0 0 0 1 td tr listing 17 6
+Biology O biology 0 0 0 0 0 0 1 td tr listing 17 6
+
+John B-PER john 0 1 0 0 0 0 1 a p external-link 19 0
+Uhran I-PER uhran 0 1 0 0 0 0 1 a p external-link 19 0
+
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+Emeritus O emeritus 0 1 0 0 1 0 1 td tr listing 17 3
+
+Ph.D. O ph.d. 0 0 0 0 1 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Electrical O electrical 0 0 0 0 0 0 1 p td listing 18 0
+Engineering O engineering 0 0 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Purdue O purdue 0 1 0 0 0 0 1 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+1967 O 1967 0 0 0 1 0 0 0 p td listing 18 0
+
+Dr. O dr. 0 1 0 0 1 0 1 p td text 18 0
+Uhran O uhran 0 1 0 0 0 0 1 p td text 18 0
+has O has 0 0 0 0 0 0 0 p td text 18 0
+specialized O specialized 0 0 0 0 0 0 0 p td text 18 0
+in O in 0 1 0 0 0 0 0 p td text 18 0
+communication O communication 0 0 0 0 0 0 0 p td text 18 0
+theory O theory 0 0 0 0 0 0 0 p td text 18 0
+and O and 0 1 0 0 0 0 0 p td text 18 0
+systems O systems 0 0 0 0 0 0 0 p td text 18 0
+, O , 0 0 0 0 0 0 0 p td text 18 0
+signal O signal 0 0 0 0 0 0 0 p td text 18 0
+processing O processing 0 0 0 0 0 0 0 p td text 18 0
+techniques O techniques 0 0 0 0 0 0 0 p td text 18 0
+, O , 0 0 0 0 0 0 0 p td text 18 0
+simulation O simulation 0 0 0 0 0 0 0 p td text 18 0
+techniques O techniques 0 0 0 0 0 0 0 p td text 18 0
+, O , 0 0 0 0 0 0 0 p td text 18 0
+and O and 0 1 0 0 0 0 0 p td text 18 0
+artificial O artificial 0 0 0 0 0 0 0 p td text 18 0
+intelligence O intelligence 0 0 0 0 0 0 0 p td text 18 0
+, O , 0 0 0 0 0 0 0 p td text 18 0
+especially O especially 0 0 0 0 0 0 0 p td text 18 0
+robotics O robotics 0 0 0 0 0 0 0 p td text 18 0
+, O , 0 0 0 0 0 0 0 p td text 18 0
+while O while 0 0 0 0 0 0 0 p td text 18 0
+maintaining O maintaining 0 0 0 0 0 0 0 p td text 18 0
+a O a 0 1 0 0 0 0 0 p td text 18 0
+special O special 0 0 0 0 0 0 0 p td text 18 0
+interest O interest 0 0 0 0 0 0 0 p td text 18 0
+in O in 0 1 0 0 0 0 0 p td text 18 0
+engineering O engineering 0 0 0 0 0 0 0 p td text 18 0
+education. O education. 0 0 0 0 0 0 0 p td text 18 0
+
+Huili B-PER huili 0 1 0 0 0 0 1 a p external-link 19 0
+( I-PER ( 0 0 0 0 0 0 0 a p external-link 19 0
+Grace I-PER grace 0 1 0 0 0 0 1 a p external-link 19 0
+) I-PER ) 0 0 0 0 0 0 0 a p external-link 19 0
+Xing I-PER xing 0 1 0 0 0 0 1 a p external-link 19 0
+
+Adjunct O adjunct 0 0 0 0 0 0 1 td tr listing 17 3
+Professor O professor 0 0 0 0 1 0 1 td tr listing 17 3
+
+Ph.D O ph.d 0 0 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+University O university 0 1 0 0 0 0 1 p td listing 18 0
+of O of 0 1 0 0 0 0 0 p td listing 18 0
+California O california 0 0 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+Santa O santa 1 1 0 0 0 0 1 p td listing 18 0
+Barbara O barbara 1 1 0 0 0 0 1 p td listing 18 0
+, O , 0 0 0 0 0 0 0 p td listing 18 0
+2003 O 2003 0 0 0 1 0 0 0 p td listing 18 0
+
+GaN O gan 0 0 0 0 0 0 1 td tr listing 17 6
+based O based 0 0 0 0 0 0 0 td tr listing 17 6
+devices O devices 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+nanowire O nanowire 0 0 0 0 0 0 0 td tr listing 17 6
+enabled O enabled 0 0 0 0 0 0 0 td tr listing 17 6
+devices O devices 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+including O including 0 0 0 0 0 0 0 td tr listing 17 6
+InGaN O ingan 0 0 0 0 0 0 1 td tr listing 17 6
+nanowires O nanowires 0 0 0 0 0 0 0 td tr listing 17 6
+for O for 0 1 0 0 0 0 0 td tr listing 17 6
+high O high 0 0 0 0 0 0 0 td tr listing 17 6
+efficiency O efficiency 0 0 0 0 0 0 0 td tr listing 17 6
+green O green 0 0 0 0 0 0 0 td tr listing 17 6
+emission O emission 0 0 0 0 1 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+solar O solar 0 0 0 0 0 0 0 td tr listing 17 6
+cells O cells 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+II O ii 0 1 0 0 0 0 1 td tr listing 17 6
+- O - 0 0 0 0 0 0 0 td tr listing 17 6
+VI O vi 0 1 0 0 0 0 1 td tr listing 17 6
+nanowires O nanowires 0 0 0 0 0 0 0 td tr listing 17 6
+for O for 0 1 0 0 0 0 0 td tr listing 17 6
+polarization O polarization 0 0 0 0 0 0 0 td tr listing 17 6
+sensitive O sensitive 0 0 0 0 0 0 0 td tr listing 17 6
+wide O wide 0 0 0 0 0 0 0 td tr listing 17 6
+spectrum O spectrum 0 0 0 0 0 0 0 td tr listing 17 6
+photodetection O photodetection 0 0 0 0 0 0 0 td tr listing 17 6
+etc. O etc. 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+graphene O graphene 0 0 0 0 0 0 0 td tr listing 17 6
+physics O physics 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+devices O devices 0 0 0 0 0 0 0 td tr listing 17 6
+, O , 0 0 0 0 0 0 0 td tr listing 17 6
+and O and 0 1 0 0 0 0 0 td tr listing 17 6
+tunneling O tunneling 0 0 0 0 0 0 0 td tr listing 17 6
+field O field 0 0 0 0 0 0 0 td tr listing 17 6
+effect O effect 0 0 0 0 0 0 0 td tr listing 17 6
+transistors O transistors 0 0 0 0 0 0 0 td tr listing 17 6
+for O for 0 1 0 0 0 0 0 td tr listing 17 6
+high O high 0 0 0 0 0 0 0 td tr listing 17 6
+efficiency O efficiency 0 0 0 0 0 0 0 td tr listing 17 6
+logic O logic 0 0 0 0 0 0 0 td tr listing 17 6
+electronics O electronics 0 0 0 0 0 0 0 td tr listing 17 6
+
+Copyright O copyright 0 0 0 0 0 0 1 p div navroot-ee 7 0
+© O © 0 0 0 0 0 0 0 div div navroot-ee 6 2
+2017 O 2017 0 0 0 1 0 0 0 p div navroot-ee 7 1
+
+The O the 0 1 0 0 0 0 1 div div navroot-ee 6 2
+Department O department 0 0 0 0 0 0 1 p div navroot-ee 7 3
+of O of 0 1 0 0 0 0 0 p div navroot-ee 7 3
+Electrical O electrical 0 0 0 0 0 0 1 p div navroot-ee 7 3
+Engineering O engineering 0 0 0 0 0 0 1 p div navroot-ee 7 3
+at O at 0 0 0 0 0 0 0 div div navroot-ee 6 2
+the O the 0 1 0 0 0 0 0 div div navroot-ee 6 2
+University O university 0 1 0 0 0 0 1 p div navroot-ee 7 4
+of O of 0 1 0 0 0 0 0 p div navroot-ee 7 4
+Notre O notre 0 0 0 0 0 0 1 p div navroot-ee 7 4
+Dame O dame 0 1 0 0 0 0 1 p div navroot-ee 7 4
+
+E O e 0 1 0 0 0 0 1 div div navroot-ee 6 2
+- O - 0 0 0 0 0 0 0 div div navroot-ee 6 2
+mail O mail 0 0 0 0 0 0 0 div div navroot-ee 6 2
+: O : 0 0 0 0 0 0 0 div div navroot-ee 6 2
+ee@nd.edu O ee@nd.edu 0 0 1 0 0 0 0 p div navroot-ee 7 6
+
+Accreditation O accreditation 0 0 0 0 0 0 1 div div accreditation 7 0
+Statement O statement 0 0 0 0 0 0 1 div div accreditation 7 0
+
+The O the 0 1 0 0 0 0 1 div div accreditation 7 1
+bachelor’s O bachelor’s 0 0 0 0 0 0 0 div div accreditation 7 1
+degree O degree 0 0 0 0 0 0 0 div div accreditation 7 1
+programs O programs 0 0 0 0 0 0 0 div div accreditation 7 1
+in O in 0 1 0 0 0 0 0 div div accreditation 7 1
+aerospace O aerospace 0 0 0 0 0 0 0 div div accreditation 7 1
+, O , 0 0 0 0 0 0 0 div div accreditation 7 1
+chemical O chemical 0 0 0 0 0 0 0 div div accreditation 7 1
+, O , 0 0 0 0 0 0 0 div div accreditation 7 1
+civil O civil 0 0 0 0 0 0 0 div div accreditation 7 1
+, O , 0 0 0 0 0 0 0 div div accreditation 7 1
+computer O computer 0 0 0 0 0 0 0 div div accreditation 7 1
+, O , 0 0 0 0 0 0 0 div div accreditation 7 1
+electrical O electrical 0 0 0 0 0 0 0 div div accreditation 7 1
+, O , 0 0 0 0 0 0 0 div div accreditation 7 1
+and O and 0 1 0 0 0 0 0 div div accreditation 7 1
+mechanical O mechanical 0 0 0 0 0 0 0 div div accreditation 7 1
+engineering O engineering 0 0 0 0 0 0 0 div div accreditation 7 1
+are O are 0 0 0 0 0 0 0 div div accreditation 7 1
+accredited O accredited 0 0 0 0 0 0 0 div div accreditation 7 1
+by O by 0 1 0 0 0 0 0 div div accreditation 7 1
+the O the 0 1 0 0 0 0 0 div div accreditation 7 1
+Engineering O engineering 0 0 0 0 0 0 1 div div accreditation 7 1
+Accreditation O accreditation 0 0 0 0 0 0 1 div div accreditation 7 1
+Commission O commission 0 0 0 0 0 0 1 div div accreditation 7 1
+of O of 0 1 0 0 0 0 0 div div accreditation 7 1
+ABET O abet 0 0 0 0 0 0 1 p div accreditation 8 0
+, O , 0 0 0 0 0 0 0 div div accreditation 7 1
+Inc. O inc. 0 1 0 0 0 0 1 div div accreditation 7 1
+The O the 0 1 0 0 0 0 1 div div accreditation 7 1
+bachelor’s O bachelor’s 0 0 0 0 0 0 0 div div accreditation 7 1
+degree O degree 0 0 0 0 0 0 0 div div accreditation 7 1
+program O program 0 0 0 0 0 0 0 div div accreditation 7 1
+in O in 0 1 0 0 0 0 0 div div accreditation 7 1
+computer O computer 0 0 0 0 0 0 0 div div accreditation 7 1
+science O science 0 0 0 0 0 0 0 div div accreditation 7 1
+is O is 0 0 0 0 0 0 0 div div accreditation 7 1
+accredited O accredited 0 0 0 0 0 0 0 div div accreditation 7 1
+by O by 0 1 0 0 0 0 0 div div accreditation 7 1
+the O the 0 1 0 0 0 0 0 div div accreditation 7 1
+Computing O computing 0 0 0 0 0 0 1 div div accreditation 7 1
+Accreditation O accreditation 0 0 0 0 0 0 1 div div accreditation 7 1
+Commission O commission 0 0 0 0 0 0 1 div div accreditation 7 1
+of O of 0 1 0 0 0 0 0 div div accreditation 7 1
+ABET O abet 0 0 0 0 0 0 1 p div accreditation 8 1
+, O , 0 0 0 0 0 0 0 div div accreditation 7 1
+Inc. O inc. 0 1 0 0 0 0 1 div div accreditation 7 1
+
+Accessibility O accessibility 0 0 0 0 0 0 1 p div navroot-ee 7 1
+Information O information 0 1 0 0 0 0 1 p div navroot-ee 7 1

@@ -1,0 +1,2031 @@
+Permanent O permanent 0 0 0 0 0 0 1 head html none 4 1
+Professorial O professorial 0 0 0 0 1 0 1 head html none 4 1
+Staff O staff 0 1 0 0 0 0 1 head html none 4 1
+- O - 0 0 0 0 0 0 0 head html none 4 1
+RWTH O rwth 0 0 0 0 0 0 1 head html none 4 1
+AACHEN O aachen 0 0 0 0 0 0 1 head html none 4 1
+UNIVERSITY O university 0 0 0 0 0 0 1 head html none 4 1
+School O school 0 1 0 0 0 0 1 head html none 4 1
+of O of 0 1 0 0 0 0 0 head html none 4 1
+Business O business 0 0 0 0 0 0 1 head html none 4 1
+and O and 0 1 0 0 0 0 0 head html none 4 1
+Economics O economics 0 0 0 0 0 0 1 head html none 4 1
+- O - 0 0 0 0 0 0 0 head html none 4 1
+English O english 0 1 0 0 0 0 1 head html none 4 1
+
+h1 O h1 0 0 0 1 0 0 0 div body nav-col 5 0
+
+h2 O h2 0 0 0 1 0 0 0 div body nav-col 5 1
+
+h3 O h3 0 0 0 1 0 0 0 div body nav-col 5 2
+
+h4 O h4 0 0 0 1 0 0 0 div body nav-col 5 3
+
+h5 O h5 0 0 0 1 0 0 0 div body nav-col 5 4
+
+h6 O h6 0 0 0 1 0 0 0 div body nav-col 5 5
+
+Skip O skip 0 1 0 0 0 0 1 p div skip 9 0
+to O to 0 0 0 0 0 0 0 p div skip 9 0
+Content O content 0 1 0 0 0 0 1 p div skip 9 0
+Jump O jump 0 1 0 0 0 0 1 p div skip 9 1
+to O to 0 0 0 0 0 0 0 p div skip 9 1
+Main O main 0 1 0 0 0 0 1 p div skip 9 1
+Navigation O navigation 0 0 0 0 0 0 1 p div skip 9 1
+Skip O skip 0 1 0 0 0 0 1 p div skip 9 2
+to O to 0 0 0 0 0 0 0 p div skip 9 2
+Search O search 0 0 0 0 0 0 1 p div skip 9 2
+
+Search O search 0 0 0 0 0 0 1 div div nav-col 9 0
+
+Search O search 0 0 0 0 0 0 1 div form nav-col 11 0
+for O for 0 1 0 0 0 0 0 div form nav-col 11 0
+
+School O school 0 1 0 0 0 0 1 div div nav-col 8 15
+of O of 0 1 0 0 0 0 0 div div nav-col 8 15
+Business O business 0 0 0 0 0 0 1 div div nav-col 8 15
+and O and 0 1 0 0 0 0 0 div div nav-col 8 15
+Economics O economics 0 0 0 0 0 0 1 div div nav-col 8 15
+
+Deutsch O deutsch 0 1 0 0 0 0 1 li ul nav-col 11 0
+
+Faculties O faculties 0 0 0 0 0 0 1 a h2 nav-col 9 0
+and O and 0 1 0 0 0 0 0 a h2 nav-col 9 0
+Institutions O institutions 0 0 0 0 0 0 1 a h2 nav-col 9 0
+
+You O you 0 1 0 0 0 0 1 div div navigator-breadcrumb 8 0
+Are O are 0 1 0 0 0 0 1 div div navigator-breadcrumb 8 0
+Here O here 0 1 0 0 0 0 1 div div navigator-breadcrumb 8 0
+: O : 0 0 0 0 0 0 0 div div navigator-breadcrumb 8 0
+
+Permanent O permanent 0 0 0 0 0 0 1 p div navigator-breadcrumb 9 0
+Professorial O professorial 0 0 0 0 1 0 1 p div navigator-breadcrumb 9 0
+Staff O staff 0 1 0 0 0 0 1 p div navigator-breadcrumb 9 0
+
+RWTH O rwth 0 0 0 0 0 0 1 div div col-box 10 0
+
+Main O main 0 1 0 0 0 0 1 li ul col-box 12 0
+page O page 0 0 0 0 0 0 0 li ul col-box 12 0
+
+Intranet O intranet 0 0 0 0 0 0 1 li ul col-box 12 0
+
+Faculties O faculties 0 0 0 0 0 0 1 div div col-box 10 0
+and O and 0 1 0 0 0 0 0 div div col-box 10 0
+Institutes O institutes 0 0 0 0 0 0 1 div div col-box 10 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 li ul first 12 0
+, O , 0 0 0 0 0 0 0 li ul first 12 0
+Computer O computer 0 0 0 0 0 0 1 li ul first 12 0
+Science O science 0 0 0 0 0 0 1 li ul first 12 0
+and O and 0 1 0 0 0 0 0 li ul first 12 0
+Natural O natural 0 0 0 0 0 0 1 li ul first 12 0
+Sciences O sciences 0 0 0 0 0 0 1 li ul first 12 0
+Faculty O faculty 0 0 0 0 0 0 1 a li first 13 0
+1 O 1 0 0 0 1 0 0 0 a li first 13 0
+
+Architecture O architecture 0 0 0 0 0 0 1 li ul first 12 0
+Faculty O faculty 0 0 0 0 0 0 1 a li first 13 0
+2 O 2 0 0 0 1 0 0 0 a li first 13 0
+
+Civil O civil 0 1 0 0 0 0 1 li ul first 12 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul first 12 0
+Faculty O faculty 0 0 0 0 0 0 1 a li first 13 0
+3 O 3 0 0 0 1 0 0 0 a li first 13 0
+
+Mechanical O mechanical 0 0 0 0 0 0 1 li ul first 12 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul first 12 0
+Faculty O faculty 0 0 0 0 0 0 1 a li first 13 0
+4 O 4 0 0 0 1 0 0 0 a li first 13 0
+
+Georesources O georesources 0 0 0 0 0 0 1 li ul first 12 0
+and O and 0 1 0 0 0 0 0 li ul first 12 0
+Materials O materials 0 0 0 0 0 0 1 li ul first 12 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul first 12 0
+Faculty O faculty 0 0 0 0 0 0 1 a li first 13 0
+5 O 5 0 0 0 1 0 0 0 a li first 13 0
+
+Electrical O electrical 0 0 0 0 0 0 1 li ul col-box 12 0
+Engineering O engineering 0 0 0 0 0 0 1 li ul col-box 12 0
+and O and 0 1 0 0 0 0 0 li ul col-box 12 0
+Information O information 0 1 0 0 0 0 1 li ul col-box 12 0
+Technology O technology 0 0 0 0 0 0 1 li ul col-box 12 0
+Faculty O faculty 0 0 0 0 0 0 1 a li col-box 13 0
+6 O 6 0 0 0 1 0 0 0 a li col-box 13 0
+
+Arts O arts 0 1 0 0 0 0 1 li ul col-box 12 0
+and O and 0 1 0 0 0 0 0 li ul col-box 12 0
+Humanities O humanities 0 0 0 0 0 0 1 li ul col-box 12 0
+Faculty O faculty 0 0 0 0 0 0 1 a li col-box 13 0
+7 O 7 0 0 0 1 0 0 0 a li col-box 13 0
+
+Business O business 0 0 0 0 0 0 1 li ul col-box 12 0
+and O and 0 1 0 0 0 0 0 li ul col-box 12 0
+Economics O economics 0 0 0 0 0 0 1 li ul col-box 12 0
+Faculty O faculty 0 0 0 0 0 0 1 a li col-box 13 0
+8 O 8 0 0 0 1 0 0 0 a li col-box 13 0
+
+Medicine O medicine 0 0 0 0 0 0 1 li ul col-box 12 0
+Faculty O faculty 0 0 0 0 0 0 1 a li col-box 13 0
+10 O 10 0 0 0 1 0 0 0 a li col-box 13 0
+
+Find O find 0 1 0 0 0 0 1 div div insitut-search 11 0
+Institute O institute 0 0 0 0 0 0 1 div div insitut-search 11 0
+: O : 0 0 0 0 0 0 0 div div insitut-search 11 0
+
+Search O search 0 0 0 0 0 0 1 div form insitut-search 13 0
+for O for 0 1 0 0 0 0 0 div form insitut-search 13 0
+
+Institutions O institutions 0 0 0 0 0 0 1 div div col-3 9 0
+
+University O university 0 1 0 0 0 0 1 li ul col-3 11 0
+Library O library 0 0 0 0 0 0 1 li ul col-3 11 0
+
+IT O it 0 0 0 0 0 0 1 li ul col-3 11 0
+Center O center 0 1 0 0 0 0 1 li ul col-3 11 0
+
+Athletics O athletics 0 0 0 0 0 0 1 li ul col-3 11 0
+and O and 0 1 0 0 0 0 0 li ul col-3 11 0
+Recreation O recreation 0 0 0 0 0 0 1 li ul col-3 11 0
+
+Central O central 0 0 0 0 0 0 1 li ul col-3 11 0
+University O university 0 1 0 0 0 0 1 li ul col-3 11 0
+Administration O administration 0 0 0 0 0 0 1 li ul col-3 11 0
+
+All O all 0 1 0 0 0 0 1 li ul col-3 11 0
+Institutions O institutions 0 0 0 0 0 0 1 li ul col-3 11 0
+
+Navigation O navigation 0 0 0 0 0 0 1 div div has-subnav 6 0
+
+Academics O academics 0 0 0 0 0 0 1 li ol panel 9 0
+
+Research O research 0 1 0 0 0 0 1 li ol panel 9 0
+
+Corporate O corporate 0 0 0 0 0 0 1 li ol panel 9 0
+Relations O relations 0 0 0 0 0 0 1 li ol panel 9 0
+
+School O school 0 1 0 0 0 0 1 li ol open 9 0
+
+Academics O academics 0 0 0 0 0 0 1 div div  12 0
+
+To O to 0 1 0 0 0 0 1 em p more 15 0
+Portal O portal 0 1 0 0 0 0 1 em p more 15 0
+Page O page 0 1 0 0 0 0 1 em p more 15 0
+
+News O news 0 0 0 0 0 0 1 h4 div  15 0
+
+Stop O stop 0 1 0 0 0 0 1 li ul  16 0
+Press O press 0 1 0 0 0 0 1 li ul  16 0
+
+Events O events 0 0 0 0 0 0 1 li ul  16 0
+
+Deadlines O deadlines 0 0 0 0 0 0 1 li ul  16 0
+
+Professors O professors 0 0 0 0 1 0 1 li ul  16 0
+on O on 0 0 0 0 0 0 0 li ul  16 0
+Sabbatical O sabbatical 0 0 0 0 0 0 1 li ul  16 0
+
+Theses O theses 0 0 0 0 0 0 1 li ul  16 0
+
+More O more 0 1 0 0 0 0 1 li ul menu-list 16 0
+... O ... 0 0 0 0 0 0 0 li ul menu-list 16 0
+
+First O first 0 1 0 0 0 0 1 h4 div  15 0
+Year O year 0 1 0 0 0 0 1 h4 div  15 0
+Students O students 0 0 0 0 0 0 1 h4 div  15 0
+
+Welcome O welcome 0 1 0 0 0 0 1 li ul  16 0
+Letter O letter 0 0 0 0 0 0 1 li ul  16 0
+from O from 0 0 0 0 0 0 0 li ul  16 0
+the O the 0 1 0 0 0 0 0 li ul  16 0
+Dean O dean 0 1 0 0 0 0 1 li ul  16 0
+
+Latest O latest 0 0 0 0 0 0 1 li ul  16 0
+Information/Events O information/events 0 0 0 0 0 0 1 li ul  16 0
+for O for 0 1 0 0 0 0 0 li ul  16 0
+First O first 0 1 0 0 0 0 1 li ul  16 0
+Year O year 0 1 0 0 0 0 1 li ul  16 0
+Students O students 0 0 0 0 0 0 1 li ul  16 0
+
+Information O information 0 1 0 0 0 0 1 li ul  16 0
+for O for 0 1 0 0 0 0 0 li ul  16 0
+Prospective O prospective 0 0 0 0 0 0 1 li ul  16 0
+Students O students 0 0 0 0 0 0 1 li ul  16 0
+
+Your O your 0 0 0 0 0 0 1 li ul  16 0
+Studies O studies 0 0 0 0 0 0 1 li ul  16 0
+
+Advisory O advisory 0 0 0 0 0 0 1 li ul  16 0
+Facilities O facilities 0 0 0 0 0 0 1 li ul  16 0
+
+More O more 0 1 0 0 0 0 1 li ul menu-list 16 0
+... O ... 0 0 0 0 0 0 0 li ul menu-list 16 0
+
+Programs O programs 0 0 0 0 0 0 1 h4 div  15 0
+of O of 0 1 0 0 0 0 0 h4 div  15 0
+Study O study 0 1 0 0 0 0 1 h4 div  15 0
+
+Bachelor O bachelor 0 1 0 0 0 0 1 li ul  16 0
+' O ' 0 0 0 0 0 0 0 li ul  16 0
+s O s 0 0 0 0 0 0 0 li ul  16 0
+Degree O degree 0 0 0 0 0 0 1 li ul  16 0
+Programs O programs 0 0 0 0 0 0 1 li ul  16 0
+
+Master O master 0 1 0 0 1 0 1 li ul  16 0
+' O ' 0 0 0 0 0 0 0 li ul  16 0
+s O s 0 0 0 0 0 0 0 li ul  16 0
+Programs O programs 0 0 0 0 0 0 1 li ul  16 0
+
+Aachen O aachen 0 0 0 0 0 0 1 li ul  16 0
+International O international 0 0 0 0 0 0 1 li ul  16 0
+Summer O summer 0 1 0 0 0 0 1 li ul  16 0
+School O school 0 1 0 0 0 0 1 li ul  16 0
+
+" O " 0 0 0 0 0 0 0 li ul  16 0
+Numerus O numerus 0 0 0 0 0 0 1 li ul  16 0
+Clausus O clausus 0 0 0 0 0 0 1 li ul  16 0
+" O " 0 0 0 0 0 0 0 li ul  16 0
+Values O values 0 0 0 0 0 0 1 li ul  16 0
+from O from 0 0 0 0 0 0 0 li ul  16 0
+Previous O previous 0 0 0 0 0 0 1 li ul  16 0
+Semesters O semesters 0 0 0 0 0 0 1 li ul  16 0
+for O for 0 1 0 0 0 0 0 li ul  16 0
+All O all 0 1 0 0 0 0 1 li ul  16 0
+Programs O programs 0 0 0 0 0 0 1 li ul  16 0
+of O of 0 1 0 0 0 0 0 li ul  16 0
+Study O study 0 1 0 0 0 0 1 li ul  16 0
+with O with 0 0 0 0 0 0 0 li ul  16 0
+Restricted O restricted 0 0 0 0 0 0 1 li ul  16 0
+Admission O admission 0 0 0 0 0 0 1 li ul  16 0
+
+Discontinued O discontinued 0 0 0 0 0 0 1 li ul  16 0
+Programs O programs 0 0 0 0 0 0 1 li ul  16 0
+of O of 0 1 0 0 0 0 0 li ul  16 0
+Study O study 0 1 0 0 0 0 1 li ul  16 0
+
+Academic O academic 0 0 0 0 0 0 1 h4 div  15 0
+Advising O advising 0 0 0 0 0 0 1 h4 div  15 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul  16 0
+Advising O advising 0 0 0 0 0 0 1 li ul  16 0
+Services O services 0 0 0 0 0 0 1 li ul  16 0
+( O ( 0 0 0 0 0 0 0 li ul  16 0
+including O including 0 0 0 0 0 0 0 li ul  16 0
+Examination O examination 0 0 0 0 0 0 1 li ul  16 0
+Coordination O coordination 0 0 0 0 0 0 1 li ul  16 0
+) O ) 0 0 0 0 0 0 0 li ul  16 0
+
+Exchange O exchange 0 0 0 0 0 0 1 li ul  16 0
+Office O office 0 0 0 0 0 0 1 li ul  16 0
+
+Internship O internship 0 0 0 0 0 0 1 li ul  16 0
+Office O office 0 0 0 0 0 0 1 li ul  16 0
+
+Mentoring O mentoring 0 0 0 0 0 0 1 li ul  16 0
+
+Wiki O wiki 0 0 0 0 0 0 1 li ul  16 0
+intern O intern 0 0 0 0 0 0 0 li ul  16 0
+
+E O e 0 1 0 0 0 0 1 h4 div  15 0
+- O - 0 0 0 0 0 0 0 h4 div  15 0
+Learning O learning 0 1 0 0 0 0 1 h4 div  15 0
+
+Information O information 0 1 0 0 0 0 1 li ul  16 0
+for O for 0 1 0 0 0 0 0 li ul  16 0
+Teaching O teaching 0 0 0 0 0 0 1 li ul  16 0
+Staff O staff 0 1 0 0 0 0 1 li ul  16 0
+
+Information O information 0 1 0 0 0 0 1 li ul  16 0
+for O for 0 1 0 0 0 0 0 li ul  16 0
+Students O students 0 0 0 0 0 0 1 li ul  16 0
+
+E O e 0 1 0 0 0 0 1 li ul  16 0
+- O - 0 0 0 0 0 0 0 li ul  16 0
+Learning O learning 0 1 0 0 0 0 1 li ul  16 0
+Overview O overview 0 0 0 0 0 0 1 li ul  16 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul  16 0
+
+Doctoral O doctoral 0 0 0 0 0 0 1 h4 div  15 0
+Studies O studies 0 0 0 0 0 0 1 h4 div  15 0
+
+Requirements O requirements 0 0 0 0 0 0 1 li ul  16 0
+
+Doctoral O doctoral 0 0 0 0 0 0 1 li ul  16 0
+Theses O theses 0 0 0 0 0 0 1 li ul  16 0
+Composed O composed 0 0 0 0 0 0 1 li ul  16 0
+of O of 0 1 0 0 0 0 0 li ul  16 0
+Individual O individual 0 0 0 0 0 0 1 li ul  16 0
+Papers O papers 0 0 0 0 0 0 1 li ul  16 0
+
+Doctoral O doctoral 0 0 0 0 0 0 1 li ul  16 0
+Proceedings O proceedings 0 0 0 0 0 0 1 li ul  16 0
+
+Regulations O regulations 0 0 0 0 0 0 1 li ul  16 0
+Governing O governing 0 0 0 0 0 0 1 li ul  16 0
+Doctoral O doctoral 0 0 0 0 0 0 1 li ul  16 0
+Proceedings O proceedings 0 0 0 0 0 0 1 li ul  16 0
+
+Center O center 0 1 0 0 0 0 1 li ul  16 0
+for O for 0 1 0 0 0 0 0 li ul  16 0
+Doctoral O doctoral 0 0 0 0 0 0 1 li ul  16 0
+Studies O studies 0 0 0 0 0 0 1 li ul  16 0
+
+More O more 0 1 0 0 0 0 1 li ul menu-list 16 0
+... O ... 0 0 0 0 0 0 0 li ul menu-list 16 0
+
+Graduates O graduates 0 0 0 0 0 0 1 h4 div  15 0
+
+Alumni O alumni 0 0 0 0 0 0 1 li ul  16 0
+Services O services 0 0 0 0 0 0 1 li ul  16 0
+
+School O school 0 1 0 0 0 0 1 li ul  16 0
+' O ' 0 0 0 0 0 0 0 li ul  16 0
+s O s 0 0 0 0 0 0 0 li ul  16 0
+Graduation O graduation 0 0 0 0 0 0 1 li ul  16 0
+Ceremony O ceremony 0 0 0 0 0 0 1 li ul  16 0
+
+A O a 0 1 0 0 0 0 1 li ul  16 0
+Festive O festive 0 0 0 0 0 0 1 li ul  16 0
+Send O send 0 1 0 0 0 0 1 li ul  16 0
+- O - 0 0 0 0 0 0 0 li ul  16 0
+Off O off 0 1 0 0 0 0 1 li ul  16 0
+for O for 0 1 0 0 0 0 0 li ul  16 0
+Our O our 0 0 0 0 0 0 1 li ul  16 0
+Graduates! O graduates! 0 0 0 0 0 0 1 li ul  16 0
+
+Job O job 0 1 0 0 0 0 1 li ul  16 0
+Application O application 0 0 0 0 0 0 1 li ul  16 0
+Tips O tips 0 0 0 0 0 0 1 li ul  16 0
+
+Close O close 0 1 0 0 0 0 1 div div close 11 107
+
+Research O research 0 1 0 0 0 0 1 div div  12 0
+
+To O to 0 1 0 0 0 0 1 em p more 15 0
+Portal O portal 0 1 0 0 0 0 1 em p more 15 0
+Page O page 0 1 0 0 0 0 1 em p more 15 0
+
+News O news 0 0 0 0 0 0 1 h4 div  15 0
+
+Announcements O announcements 0 0 0 0 0 0 1 li ul  16 0
+
+Events O events 0 0 0 0 0 0 1 li ul  16 0
+
+Research O research 0 1 0 0 0 0 1 li ul  16 0
+Projects O projects 0 0 0 0 0 0 1 li ul  16 0
+
+Research O research 0 1 0 0 0 0 1 h4 div  15 0
+
+The O the 0 1 0 0 0 0 1 li ul  16 0
+Four O four 0 1 0 0 0 0 1 li ul  16 0
+Research O research 0 1 0 0 0 0 1 li ul  16 0
+Areas O areas 0 0 0 0 0 0 1 li ul  16 0
+of O of 0 1 0 0 0 0 0 li ul  16 0
+the O the 0 1 0 0 0 0 0 li ul  16 0
+School O school 0 1 0 0 0 0 1 li ul  16 0
+
+The O the 0 1 0 0 0 0 1 li ul  16 0
+Four O four 0 1 0 0 0 0 1 li ul  16 0
+Labs O labs 0 1 0 0 0 0 1 li ul  16 0
+of O of 0 1 0 0 0 0 0 li ul  16 0
+the O the 0 1 0 0 0 0 0 li ul  16 0
+School O school 0 1 0 0 0 0 1 li ul  16 0
+
+Experimental O experimental 0 0 0 0 0 0 1 h4 div  15 0
+Lab O lab 0 1 0 0 0 0 1 h4 div  15 0
+
+Are O are 0 1 0 0 0 0 1 li ul  16 0
+You O you 0 1 0 0 0 0 1 li ul  16 0
+Game O game 0 1 0 0 0 0 1 li ul  16 0
+for O for 0 1 0 0 0 0 0 li ul  16 0
+Making O making 0 0 0 0 0 0 1 li ul  16 0
+Money? O money? 0 0 0 0 0 0 1 li ul  16 0
+
+What O what 0 1 0 0 0 0 1 li ul  16 0
+does O does 0 0 0 0 0 0 0 li ul  16 0
+AIXperiment O aixperiment 0 0 0 0 0 0 1 li ul  16 0
+Offer? O offer? 0 0 0 0 0 0 1 li ul  16 0
+
+Opening O opening 0 0 0 0 0 0 1 li ul  16 0
+Workshop O workshop 0 0 0 0 0 0 1 li ul  16 0
+
+Research O research 0 1 0 0 0 0 1 h4 div  15 0
+Videos O videos 0 0 0 0 0 0 1 h4 div  15 0
+
+Paper O paper 0 1 0 0 0 0 1 li ul  16 0
+Presentation O presentation 0 0 0 0 0 0 1 li ul  16 0
+via O via 0 0 0 0 0 0 0 li ul  16 0
+Video O video 0 0 0 0 0 0 1 li ul  16 0
+
+Erklär O erklar 0 0 0 0 0 0 1 li ul  16 0
+' O ' 0 0 0 0 0 0 0 li ul  16 0
+s O s 0 0 0 0 0 0 0 li ul  16 0
+mir O mir 0 0 0 0 0 0 0 li ul  16 0
+, O , 0 0 0 0 0 0 0 li ul  16 0
+RWTH! O rwth! 0 0 0 0 0 0 1 li ul  16 0
+( O ( 0 0 0 0 0 0 0 li ul  16 0
+Please O please 0 1 0 0 0 0 1 li ul  16 0
+Explain O explain 0 0 0 0 0 0 1 li ul  16 0
+it O it 0 0 0 0 0 0 0 li ul  16 0
+to O to 0 0 0 0 0 0 0 li ul  16 0
+me O me 0 0 0 0 0 0 0 li ul  16 0
+, O , 0 0 0 0 0 0 0 li ul  16 0
+RWTH! O rwth! 0 0 0 0 0 0 1 li ul  16 0
+) O ) 0 0 0 0 0 0 0 li ul  16 0
+
+Awards O awards 0 0 0 0 0 0 1 h4 div  15 0
+& O & 0 0 0 0 0 0 0 h4 div  15 0
+Prizes O prizes 0 0 0 0 0 0 1 h4 div  15 0
+
+Awards O awards 0 0 0 0 0 0 1 li ul  16 0
+and O and 0 1 0 0 0 0 0 li ul  16 0
+Prizes O prizes 0 0 0 0 0 0 1 li ul  16 0
+Given O given 0 1 0 0 0 0 1 li ul  16 0
+by O by 0 1 0 0 0 0 0 li ul  16 0
+the O the 0 1 0 0 0 0 0 li ul  16 0
+School O school 0 1 0 0 0 0 1 li ul  16 0
+and O and 0 1 0 0 0 0 0 li ul  16 0
+by O by 0 1 0 0 0 0 0 li ul  16 0
+the O the 0 1 0 0 0 0 0 li ul  16 0
+University O university 0 1 0 0 0 0 1 li ul  16 0
+
+Close O close 0 1 0 0 0 0 1 div div close 11 49
+
+Corporate O corporate 0 0 0 0 0 0 1 div div  12 0
+Relations O relations 0 0 0 0 0 0 1 div div  12 0
+
+To O to 0 1 0 0 0 0 1 em p more 15 0
+Portal O portal 0 1 0 0 0 0 1 em p more 15 0
+Page O page 0 1 0 0 0 0 1 em p more 15 0
+
+News O news 0 0 0 0 0 0 1 h4 div  15 0
+
+Announcements O announcements 0 0 0 0 0 0 1 li ul  16 0
+
+Events O events 0 0 0 0 0 0 1 li ul  16 0
+
+The O the 0 1 0 0 0 0 1 h4 div  15 0
+School O school 0 1 0 0 0 0 1 h4 div  15 0
+as O as 0 0 0 0 0 0 0 h4 div  15 0
+Partner O partner 0 1 0 0 0 0 1 h4 div  15 0
+
+Industrial O industrial 0 0 0 0 0 0 1 li ul  16 0
+Research O research 0 1 0 0 0 0 1 li ul  16 0
+Chairs O chairs 0 0 0 0 0 0 1 li ul  16 0
+
+Association O association 0 0 0 0 0 0 1 h4 div  15 0
+of O of 0 1 0 0 0 0 0 h4 div  15 0
+Friends O friends 0 0 0 0 0 0 1 h4 div  15 0
+& O & 0 0 0 0 0 0 0 h4 div  15 0
+Supporters O supporters 0 0 0 0 0 0 1 h4 div  15 0
+
+Association O association 0 0 0 0 0 0 1 li ul  16 0
+of O of 0 1 0 0 0 0 0 li ul  16 0
+Friends O friends 0 0 0 0 0 0 1 li ul  16 0
+and O and 0 1 0 0 0 0 0 li ul  16 0
+Supporters O supporters 0 0 0 0 0 0 1 li ul  16 0
+of O of 0 1 0 0 0 0 0 li ul  16 0
+the O the 0 1 0 0 0 0 0 li ul  16 0
+School O school 0 1 0 0 0 0 1 li ul  16 0
+
+Current O current 0 1 0 0 0 0 1 li ul  16 0
+Program O program 0 0 0 0 0 0 1 li ul  16 0
+
+Becoming O becoming 0 0 0 0 0 0 1 li ul  16 0
+a O a 0 1 0 0 0 0 0 li ul  16 0
+Member O member 0 1 0 0 0 0 1 li ul  16 0
+
+Recruiting O recruiting 0 0 0 0 0 0 1 h4 div  15 0
+
+Skills O skills 0 0 0 0 0 0 1 li ul  16 0
+of O of 0 1 0 0 0 0 0 li ul  16 0
+our O our 0 0 0 0 0 0 0 li ul  16 0
+Graduates O graduates 0 0 0 0 0 0 1 li ul  16 0
+
+Graduate O graduate 1 1 0 0 0 0 1 li ul  16 0
+Recruitment O recruitment 0 0 0 0 0 0 1 li ul  16 0
+
+Stellenbörse O stellenborse 0 0 0 0 0 0 1 li ul  16 0
+
+Sponsoring O sponsoring 0 0 0 0 0 0 1 h4 div  15 0
+and O and 0 1 0 0 0 0 0 h4 div  15 0
+Fundraising O fundraising 0 0 0 0 0 0 1 h4 div  15 0
+
+Education O education 0 0 0 0 0 0 1 li ul  16 0
+Fund O fund 0 1 0 0 0 0 1 li ul  16 0
+
+Close O close 0 1 0 0 0 0 1 div div close 11 47
+
+School O school 0 1 0 0 0 0 1 div div  12 0
+
+To O to 0 1 0 0 0 0 1 em p more 15 0
+Portal O portal 0 1 0 0 0 0 1 em p more 15 0
+Page O page 0 1 0 0 0 0 1 em p more 15 0
+
+News O news 0 0 0 0 0 0 1 h4 div  15 0
+
+Announcements O announcements 0 0 0 0 0 0 1 li ul  16 0
+
+Events O events 0 0 0 0 0 0 1 li ul  16 0
+
+Informative O informative 0 0 0 0 0 0 1 li ul  16 0
+Material O material 0 0 0 0 0 0 1 li ul  16 0
+
+Mailing O mailing 0 1 0 0 0 0 1 li ul  16 0
+Lists O lists 0 0 0 0 0 0 1 li ul  16 0
+
+School O school 0 1 0 0 0 0 1 li ul  16 0
+' O ' 0 0 0 0 0 0 0 li ul  16 0
+s O s 0 0 0 0 0 0 0 li ul  16 0
+30th O 30th 0 0 0 1 0 0 0 li ul  16 0
+Anniversary O anniversary 0 0 0 0 0 0 1 li ul  16 0
+Celebration! O celebration! 0 0 0 0 0 0 1 li ul  16 0
+
+Objectives O objectives 0 0 0 0 0 0 1 h4 div  15 0
+
+Mission O mission 0 1 0 0 1 0 1 li ul  16 0
+of O of 0 1 0 0 0 0 0 li ul  16 0
+the O the 0 1 0 0 0 0 0 li ul  16 0
+School O school 0 1 0 0 0 0 1 li ul  16 0
+
+Code O code 0 1 0 0 0 0 1 li ul  16 0
+of O of 0 1 0 0 0 0 0 li ul  16 0
+Conduct O conduct 0 0 0 0 0 0 1 li ul  16 0
+
+Gender O gender 0 0 0 0 0 0 1 li ul  16 0
+and O and 0 1 0 0 0 0 0 li ul  16 0
+Diversity O diversity 0 0 0 0 0 0 1 li ul  16 0
+
+Profile O profile 0 0 0 0 1 0 1 h4 div  15 0
+
+What O what 0 1 0 0 0 0 1 li ul  16 0
+Makes O makes 0 0 0 0 0 0 1 li ul  16 0
+Our O our 0 0 0 0 0 0 1 li ul  16 0
+School O school 0 1 0 0 0 0 1 li ul  16 0
+the O the 0 1 0 0 0 0 0 li ul  16 0
+Best O best 0 1 0 0 0 0 1 li ul  16 0
+Choice O choice 0 0 0 0 0 0 1 li ul  16 0
+for O for 0 1 0 0 0 0 0 li ul  16 0
+You? O you? 0 0 0 0 0 0 1 li ul  16 0
+
+History O history 0 0 0 0 0 0 1 li ul  16 0
+of O of 0 1 0 0 0 0 0 li ul  16 0
+RWTH O rwth 0 0 0 0 0 0 1 li ul  16 0
+Aachen O aachen 0 0 0 0 0 0 1 li ul  16 0
+University O university 0 1 0 0 0 0 1 li ul  16 0
+and O and 0 1 0 0 0 0 0 li ul  16 0
+the O the 0 1 0 0 0 0 0 li ul  16 0
+School O school 0 1 0 0 0 0 1 li ul  16 0
+of O of 0 1 0 0 0 0 0 li ul  16 0
+Business O business 0 0 0 0 0 0 1 li ul  16 0
+and O and 0 1 0 0 0 0 0 li ul  16 0
+Economics O economics 0 0 0 0 0 0 1 li ul  16 0
+
+Facts O facts 0 0 0 0 0 0 1 li ul  16 0
+and O and 0 1 0 0 0 0 0 li ul  16 0
+Figures O figures 0 0 0 0 0 0 1 li ul  16 0
+on O on 0 0 0 0 0 0 0 li ul  16 0
+the O the 0 1 0 0 0 0 0 li ul  16 0
+School O school 0 1 0 0 0 0 1 li ul  16 0
+
+Excellent O excellent 0 0 0 0 0 0 1 li ul  16 0
+Reputation O reputation 0 0 0 0 0 0 1 li ul  16 0
+
+Professors O professors 0 0 0 0 1 0 1 h4 div  15 0
+and O and 0 1 0 0 0 0 0 h4 div  15 0
+Teaching O teaching 0 0 0 0 0 0 1 h4 div  15 0
+Staff O staff 0 1 0 0 0 0 1 h4 div  15 0
+
+Permanent O permanent 0 0 0 0 0 0 1 li ul  16 0
+Professorial O professorial 0 0 0 0 1 0 1 li ul  16 0
+Staff O staff 0 1 0 0 0 0 1 li ul  16 0
+
+Further O further 0 0 0 0 0 0 1 li ul  16 0
+Teaching O teaching 0 0 0 0 0 0 1 li ul  16 0
+Staff O staff 0 1 0 0 0 0 1 li ul  16 0
+
+Emeriti O emeriti 0 0 0 0 1 0 1 li ul  16 0
+Professors O professors 0 0 0 0 1 0 1 li ul  16 0
+
+Facilities O facilities 0 0 0 0 0 0 1 h4 div  15 0
+
+Dean O dean 0 1 0 0 0 0 1 li ul  16 0
+' O ' 0 0 0 0 0 0 0 li ul  16 0
+s O s 0 0 0 0 0 0 0 li ul  16 0
+Office O office 0 0 0 0 0 0 1 li ul  16 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul  16 0
+Advising O advising 0 0 0 0 0 0 1 li ul  16 0
+Services O services 0 0 0 0 0 0 1 li ul  16 0
+
+School O school 0 1 0 0 0 0 1 li ul  16 0
+' O ' 0 0 0 0 0 0 0 li ul  16 0
+s O s 0 0 0 0 0 0 0 li ul  16 0
+Library O library 0 0 0 0 0 0 1 li ul  16 0
+
+Ombudsperson O ombudsperson 0 0 0 0 0 0 1 li ul  16 0
+for O for 0 1 0 0 0 0 0 li ul  16 0
+Students O students 0 0 0 0 0 0 1 li ul  16 0
+
+Examination O examination 0 0 0 0 0 0 1 li ul  16 0
+Board O board 0 1 0 0 0 0 1 li ul  16 0
+
+More O more 0 1 0 0 0 0 1 li ul menu-list 16 0
+... O ... 0 0 0 0 0 0 0 li ul menu-list 16 0
+
+Job O job 0 1 0 0 0 0 1 h4 div  15 0
+Openings O openings 0 0 0 0 0 0 1 h4 div  15 0
+& O & 0 0 0 0 0 0 0 h4 div  15 0
+Internships O internships 0 0 0 0 0 0 1 h4 div  15 0
+
+Job O job 0 1 0 0 0 0 1 li ul  16 0
+Openings O openings 0 0 0 0 0 0 1 li ul  16 0
+School O school 0 1 0 0 0 0 1 li ul  16 0
+of O of 0 1 0 0 0 0 0 li ul  16 0
+Business O business 0 0 0 0 0 0 1 li ul  16 0
+and O and 0 1 0 0 0 0 0 li ul  16 0
+Economics O economics 0 0 0 0 0 0 1 li ul  16 0
+
+External O external 0 0 0 0 0 0 1 li ul  16 0
+Job O job 0 1 0 0 0 0 1 li ul  16 0
+Openings O openings 0 0 0 0 0 0 1 li ul  16 0
+
+Recruiting O recruiting 0 0 0 0 0 0 1 li ul  16 0
+Events O events 0 0 0 0 0 0 1 li ul  16 0
+
+Contact O contact 0 0 0 0 0 0 1 h4 div  15 0
+and O and 0 1 0 0 0 0 0 h4 div  15 0
+Map O map 0 0 0 0 0 0 1 h4 div  15 0
+
+Where O where 0 0 0 0 0 0 1 li ul  16 0
+is O is 0 0 0 0 0 0 0 li ul  16 0
+the O the 0 1 0 0 0 0 0 li ul  16 0
+School O school 0 1 0 0 0 0 1 li ul  16 0
+Located? O located? 0 0 0 0 0 0 1 li ul  16 0
+
+Study O study 0 1 0 0 0 0 1 li ul  16 0
+Spaces O spaces 0 0 0 0 0 0 1 li ul  16 0
+
+Close O close 0 1 0 0 0 0 1 div div close 11 87
+
+News O news 0 0 0 0 0 0 1 li ul  11 0
+
+Objectives O objectives 0 0 0 0 0 0 1 li ul  11 0
+
+Profile O profile 0 0 0 0 1 0 1 li ul  11 0
+
+Professors O professors 0 0 0 0 1 0 1 li ul on 11 0
+and O and 0 1 0 0 0 0 0 li ul on 11 0
+Teaching O teaching 0 0 0 0 0 0 1 li ul on 11 0
+Staff O staff 0 1 0 0 0 0 1 li ul on 11 0
+
+Facilities O facilities 0 0 0 0 0 0 1 li ul  11 0
+
+Job O job 0 1 0 0 0 0 1 li ul  11 0
+Openings O openings 0 0 0 0 0 0 1 li ul  11 0
+& O & 0 0 0 0 0 0 0 li ul  11 0
+Internships O internships 0 0 0 0 0 0 1 li ul  11 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul  11 0
+and O and 0 1 0 0 0 0 0 li ul  11 0
+Map O map 0 0 0 0 0 0 1 li ul  11 0
+
+You O you 0 1 0 0 0 0 1 div div site-navigation-box 8 0
+Are O are 0 1 0 0 0 0 1 div div site-navigation-box 8 0
+Here O here 0 1 0 0 0 0 1 div div site-navigation-box 8 0
+: O : 0 0 0 0 0 0 0 div div site-navigation-box 8 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ol home 10 0
+8 O 8 0 0 0 1 0 0 0 li ol home 10 0
+
+School O school 0 1 0 0 0 0 1 li ol site-navigation-box 10 0
+
+Professors O professors 0 0 0 0 1 0 1 li ol site-navigation-box 10 0
+and O and 0 1 0 0 0 0 0 li ol site-navigation-box 10 0
+Teaching O teaching 0 0 0 0 0 0 1 li ol site-navigation-box 10 0
+Staff O staff 0 1 0 0 0 0 1 li ol site-navigation-box 10 0
+
+Permanent O permanent 0 0 0 0 0 0 1 li ol site-navigation-box 10 0
+Professorial O professorial 0 0 0 0 1 0 1 li ol site-navigation-box 10 0
+Staff O staff 0 1 0 0 0 0 1 li ol site-navigation-box 10 0
+
+Print O print 0 1 0 0 0 0 1 a div print 11 0
+
+Sub O sub 0 1 0 0 0 0 1 div div nav-col 10 0
+- O - 0 0 0 0 0 0 0 div div nav-col 10 0
+Navigation O navigation 0 0 0 0 0 0 1 div div nav-col 10 0
+
+You O you 0 1 0 0 0 0 1 strong li on 13 0
+Are O are 0 1 0 0 0 0 1 strong li on 13 0
+Here O here 0 1 0 0 0 0 1 strong li on 13 0
+: O : 0 0 0 0 0 0 0 strong li on 13 0
+Permanent O permanent 0 0 0 0 0 0 1 li ul on 12 0
+Professorial O professorial 0 0 0 0 1 0 1 li ul on 12 0
+Staff O staff 0 1 0 0 0 0 1 li ul on 12 0
+
+Balleer B-PER balleer 0 0 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Almut I-PER almut 0 1 0 0 0 0 1 li ul on 14 0
+
+Bendul B-PER bendul 0 0 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Julia I-PER julia 0 1 0 0 0 0 1 li ul on 14 0
+Christine I-PER christine 0 1 0 0 0 0 1 li ul on 14 0
+
+Böhm O bohm 0 1 0 0 0 0 1 li ul on 14 0
+, O , 0 0 0 0 0 0 0 li ul on 14 0
+Robert O robert 0 1 0 0 0 0 1 li ul on 14 0
+
+Brettel B-PER brettel 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Malte I-PER malte 0 1 0 0 0 0 1 li ul on 14 0
+
+Breuer B-PER breuer 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Wolfgang I-PER wolfgang 1 1 0 0 0 0 1 li ul on 14 0
+
+Grund B-PER grund 1 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Christian I-PER christian 0 1 0 0 0 0 1 li ul on 14 0
+
+Gürerk O gurerk 0 0 0 0 0 0 1 li ul on 14 0
+, O , 0 0 0 0 0 0 0 li ul on 14 0
+Özgür O ozgur 0 1 0 0 0 0 1 li ul on 14 0
+
+Harbring B-PER harbring 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Christine I-PER christine 0 1 0 0 0 0 1 li ul on 14 0
+
+Hopp B-PER hopp 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Christian I-PER christian 1 1 0 0 0 0 1 li ul on 14 0
+
+Huber B-PER huber 1 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Christian I-PER christian 0 1 0 0 0 0 1 li ul on 14 0
+
+Kittsteiner B-PER kittsteiner 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Thomas I-PER thomas 0 1 0 0 0 0 1 li ul on 14 0
+
+Letmathe B-PER letmathe 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Peter I-PER peter 0 1 0 0 0 0 1 li ul on 14 0
+
+Lontzek B-PER lontzek 0 0 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Thomas I-PER thomas 0 1 0 0 0 0 1 li ul on 14 0
+S. I-PER s. 0 1 0 0 0 0 1 li ul on 14 0
+
+Lorz B-PER lorz 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Oliver I-PER oliver 0 1 0 0 0 0 1 li ul on 14 0
+
+Lübbecke O lubbecke 0 1 0 0 0 0 1 li ul on 14 0
+, O , 0 0 0 0 0 0 0 li ul on 14 0
+Marco O marco 0 1 0 0 0 0 1 li ul on 14 0
+
+Madlener B-PER madlener 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Reinhard I-PER reinhard 0 1 0 0 0 0 1 li ul on 14 0
+
+Ott B-PER ott 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Marion I-PER marion 0 1 0 0 0 0 1 li ul on 14 0
+
+Paape O paape 0 0 0 0 0 0 1 li ul on 14 0
+, O , 0 0 0 0 0 0 0 li ul on 14 0
+Björn O bjorn 0 1 0 0 0 0 1 li ul on 14 0
+
+Paluch B-PER paluch 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Stefanie I-PER stefanie 0 1 0 0 0 0 1 li ul on 14 0
+
+Peis B-PER peis 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Britta I-PER britta 0 1 0 0 0 0 1 li ul on 14 0
+
+Piller B-PER piller 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Frank I-PER frank 1 1 0 0 0 0 1 li ul on 14 0
+T. I-PER t. 0 1 0 0 0 0 1 li ul on 14 0
+
+Praktiknjo B-PER praktiknjo 0 0 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Aaron I-PER aaron 0 1 0 0 0 0 1 li ul on 14 0
+
+Reimers B-PER reimers 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Kai I-PER kai 0 1 0 0 0 0 1 li ul on 14 0
+
+Salge B-PER salge 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Torsten I-PER torsten 0 1 0 0 0 0 1 li ul on 14 0
+- I-PER - 0 0 0 0 0 0 0 li ul on 14 0
+Oliver I-PER oliver 1 1 0 0 0 0 1 li ul on 14 0
+
+Schneider B-PER schneider 1 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Michael I-PER michael 0 1 0 0 0 0 1 li ul on 14 0
+
+Steininger B-PER steininger 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Bertram I-PER bertram 0 1 0 0 0 0 1 li ul on 14 0
+Ingolf I-PER ingolf 0 1 0 0 0 0 1 li ul on 14 0
+
+Thomes B-PER thomes 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Paul I-PER paul 0 1 0 0 0 0 1 li ul on 14 0
+
+von O von 0 1 0 0 0 0 0 li ul on 14 0
+Nitzsch O nitzsch 0 0 0 0 0 0 1 li ul on 14 0
+, O , 0 0 0 0 0 0 0 li ul on 14 0
+Rüdiger O rudiger 0 1 0 0 0 0 1 li ul on 14 0
+
+Walther B-PER walther 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Grit I-PER grit 0 1 0 0 0 0 1 li ul on 14 0
+
+Wentzel B-PER wentzel 0 1 0 0 0 0 1 li ul on 14 0
+, I-PER , 0 0 0 0 0 0 0 li ul on 14 0
+Daniel I-PER daniel 0 1 0 0 0 0 1 li ul on 14 0
+
+Further O further 0 0 0 0 0 0 1 li ul  12 0
+Teaching O teaching 0 0 0 0 0 0 1 li ul  12 0
+Staff O staff 0 1 0 0 0 0 1 li ul  12 0
+
+Emeriti O emeriti 0 0 0 0 1 0 1 li ul  12 0
+Professors O professors 0 0 0 0 1 0 1 li ul  12 0
+
+Permanent O permanent 0 0 0 0 0 0 1 div div text 10 1
+Professorial O professorial 0 0 0 0 1 0 1 div div text 10 1
+Staff O staff 0 1 0 0 0 0 1 div div text 10 1
+
+01/08/2017 O 01/08/2017 0 0 0 1 0 0 0 div div article-data 10 2
+
+We O we 0 1 0 0 0 0 1 div div intro 10 3
+should O should 0 0 0 0 0 0 0 div div intro 10 3
+like O like 0 0 0 0 0 0 0 div div intro 10 3
+to O to 0 0 0 0 0 0 0 div div intro 10 3
+extend O extend 0 0 0 0 0 0 0 div div intro 10 3
+a O a 0 1 0 0 0 0 0 div div intro 10 3
+warm O warm 0 0 0 0 0 0 0 div div intro 10 3
+welcome O welcome 0 0 0 0 0 0 0 div div intro 10 3
+to O to 0 0 0 0 0 0 0 div div intro 10 3
+a O a 0 1 0 0 0 0 0 div div intro 10 3
+new O new 0 0 0 0 0 0 0 div div intro 10 3
+member O member 0 0 0 0 0 0 0 div div intro 10 3
+of O of 0 1 0 0 0 0 0 div div intro 10 3
+the O the 0 1 0 0 0 0 0 div div intro 10 3
+School O school 0 1 0 0 0 0 1 div div intro 10 3
+' O ' 0 0 0 0 0 0 0 div div intro 10 3
+s O s 0 0 0 0 0 0 0 div div intro 10 3
+professorial O professorial 0 0 0 0 1 0 0 div div intro 10 3
+staff O staff 0 0 0 0 0 0 0 div div intro 10 3
+: O : 0 0 0 0 0 0 0 div div intro 10 3
+Univ. O univ. 0 0 0 0 0 0 1 div div intro 10 3
+- O - 0 0 0 0 0 0 0 div div intro 10 3
+Prof. O prof. 0 1 0 0 1 0 1 div div intro 10 3
+Dr. O dr. 0 1 0 0 1 0 1 div div intro 10 3
+rer. O rer. 0 0 0 0 0 0 0 div div intro 10 3
+oec. O oec. 0 0 0 0 0 0 0 div div intro 10 3
+Julia O julia 0 1 0 0 0 0 1 div div intro 10 3
+C. O c. 0 1 0 0 0 0 1 div div intro 10 3
+Bendul. O bendul. 0 0 0 0 0 0 1 div div intro 10 3
+Prof. O prof. 0 1 0 0 1 0 1 div div intro 10 3
+Bendul O bendul 0 0 0 0 0 0 1 div div intro 10 3
+became O became 0 0 0 0 0 0 0 div div intro 10 3
+the O the 0 1 0 0 0 0 0 div div intro 10 3
+new O new 0 0 0 0 0 0 0 div div intro 10 3
+head O head 0 0 0 0 0 0 0 div div intro 10 3
+of O of 0 1 0 0 0 0 0 div div intro 10 3
+the O the 0 1 0 0 0 0 0 div div intro 10 3
+Chair O chair 0 1 0 0 0 0 1 div div intro 10 3
+of O of 0 1 0 0 0 0 0 div div intro 10 3
+Management O management 0 1 0 0 0 0 1 div div intro 10 3
+for O for 0 1 0 0 0 0 0 div div intro 10 3
+Industry O industry 0 0 0 0 0 0 1 div div intro 10 3
+4.0 O 4.0 0 0 0 1 0 0 0 div div intro 10 3
+on O on 0 0 0 0 0 0 0 div div intro 10 3
+August O august 0 1 0 0 0 0 1 div div intro 10 3
+1 O 1 0 0 0 1 0 0 0 div div intro 10 3
+of O of 0 1 0 0 0 0 0 div div intro 10 3
+this O this 0 0 0 0 0 0 0 div div intro 10 3
+year. O year. 0 0 0 0 0 0 0 div div intro 10 3
+
+Name O name 0 1 0 0 0 0 1 tr thead sortableColumn 13 0
+
+Professorship O professorship 0 0 0 0 1 0 1 tr thead sortableColumn 13 1
+
+Contact O contact 0 0 0 0 0 0 1 tr thead sortableColumn 13 2
+
+Universitätsprofessorin O universitatsprofessorin 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Balleer B-PER balleer 0 0 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Almut I-PER almut 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehr O lehr 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+- O - 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+und O und 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Forschungsgebiet O forschungsgebiet 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+Empirische O empirische 0 0 0 0 1 0 1 td tr dynamicTable 14 0
+Wirtschaftsforschung O wirtschaftsforschung 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+EWifo O ewifo 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[811320] O [811320] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+96154 O 96154 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+92337 O 92337 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessorin O universitatsprofessorin 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+oec. O oec. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Bendul B-PER bendul 0 0 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Julia I-PER julia 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Christine I-PER christine 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehrstuhl O lehrstuhl 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+für O fur 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+Management O management 0 1 0 0 0 0 1 tr tbody dynamicTable 13 4
+für O fur 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+Industrie O industrie 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+4.0 O 4.0 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+SCM O scm 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[812210] O [812210] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 6
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 6
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 6
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 6
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 6
+90962 O 90962 0 0 0 1 0 0 0 tr tbody dynamicTable 13 6
+
+email O email 0 0 0 0 1 0 0 td tr email 14 1
+
+Professor O professor 0 0 0 0 1 0 1 tr tbody dynamicTable 13 0
+als O als 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+Juniorprofessor O juniorprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+phil. O phil. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Böhm O bohm 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, O , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Robert O robert 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Juniorprofessur O juniorprofessur 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Decision O decision 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+Analysis O analysis 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+[816830] O [816830] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+97000 O 97000 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+92167 O 92167 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Brettel B-PER brettel 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Malte I-PER malte 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehrstuhl O lehrstuhl 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Wirtschaftswissenschaften O wirtschaftswissenschaften 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Ingenieure O ingenieure 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+und O und 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Naturwissenschaftler O naturwissenschaftler 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+WIN O win 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[813110] O [813110] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+96359 O 96359 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+92371 O 92371 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Breuer B-PER breuer 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Wolfgang I-PER wolfgang 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehrstuhl O lehrstuhl 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Betriebswirtschaftslehre O betriebswirtschaftslehre 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+, O , 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+insbes. O insbes. 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Betriebliche O betriebliche 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+Finanzwirtschaft O finanzwirtschaft 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+bfw O bfw 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[812610] O [812610] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+93539 O 93539 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+92163 O 92163 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Grund B-PER grund 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Christian I-PER christian 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehrstuhl O lehrstuhl 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Personal O personal 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+HRM O hrm 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[814210] O [814210] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+93355 O 93355 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+92356 O 92356 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Professurvertreter O professurvertreter 0 0 0 0 1 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Gürerk O gurerk 0 0 0 0 0 0 1 td tr dynamicTable 14 2
+, O , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Özgür O ozgur 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehr O lehr 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+- O - 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+und O und 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Forschungsgebiet O forschungsgebiet 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+Experimentelle O experimentelle 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+Wirtschaftsforschung O wirtschaftsforschung 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+ExpEcon O expecon 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[816620] O [816620] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+96702 O 96702 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+696702 O 696702 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessorin O universitatsprofessorin 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Harbring B-PER harbring 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Christine I-PER christine 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehrstuhl O lehrstuhl 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Organisation O organisation 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+ORG O org 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[814110] O [814110] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+93344 O 93344 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+92348 O 92348 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Hopp B-PER hopp 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Christian I-PER christian 1 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehr O lehr 1 1 0 0 0 0 1 tr tbody dynamicTable 13 4
+- O - 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+und O und 0 1 0 0 0 0 0 tr tbody dynamicTable 13 4
+Forschungsgebiet O forschungsgebiet 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+Technologieorientiertes O technologieorientiertes 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+Unternehmertum O unternehmertum 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+[816520] O [816520] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 6
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 6
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 6
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 6
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 6
+96676 O 96676 0 0 0 1 0 0 0 tr tbody dynamicTable 13 6
+
+email O email 0 0 0 0 1 0 0 td tr email 14 1
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+iur. O iur. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Huber B-PER huber 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Christian I-PER christian 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehrstuhl O lehrstuhl 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Bürgerliches O burgerliches 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+Recht O recht 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+, O , 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Wirtschaftsrecht O wirtschaftsrecht 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+und O und 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Arbeitsrecht O arbeitsrecht 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+PR O pr 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[813010] O [813010] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+94769 O 94769 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+694769 O 694769 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Kittsteiner B-PER kittsteiner 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Thomas I-PER thomas 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehrstuhl O lehrstuhl 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Volkswirtschaftslehre O volkswirtschaftslehre 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+insb. O insb. 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Mikroökonomie O mikrookonomie 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+VWL1 O vwl1 0 0 0 1 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[811510] O [811510] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+96155 O 96155 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+92345 O 92345 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Letmathe B-PER letmathe 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Peter I-PER peter 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehrstuhl O lehrstuhl 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Controlling O controlling 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+[812110] O [812110] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+96164 O 96164 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+92167 O 92167 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+sc. O sc. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Lontzek B-PER lontzek 0 0 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Thomas I-PER thomas 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+S. I-PER s. 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehrstuhl O lehrstuhl 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Computational O computational 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+Economics O economics 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+econ O econ 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[811110] O [811110] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+96203 O 96203 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+693931 O 693931 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+sc. O sc. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Lorz B-PER lorz 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Oliver I-PER oliver 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehr O lehr 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+- O - 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+und O und 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Forschungsgebiet O forschungsgebiet 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+Internationale O internationale 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+Wirtschaftsbeziehungen O wirtschaftsbeziehungen 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+IW O iw 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[814320] O [814320] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+93932 O 93932 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+69393 O 69393 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+1 O 1 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+nat. O nat. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+habil. O habil. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Lübbecke O lubbecke 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, O , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Marco O marco 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehrstuhl O lehrstuhl 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Operations O operations 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+Research O research 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+OR O or 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[813310] O [813310] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+93362 O 93362 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+92369 O 92369 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+soc. O soc. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+oec. O oec. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Madlener B-PER madlener 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Reinhard I-PER reinhard 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehrstuhl O lehrstuhl 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Wirtschaftswissenschaften O wirtschaftswissenschaften 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+, O , 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+insb. O insb. 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Energieökonomik O energieokonomik 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+FCN O fcn 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[816110] O [816110] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+49820 O 49820 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+49829 O 49829 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Professorin O professorin 0 0 0 0 1 0 1 tr tbody dynamicTable 13 0
+als O als 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+Juniorprofessorin O juniorprofessorin 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Ott B-PER ott 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Marion I-PER marion 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Juniorprofessur O juniorprofessur 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Spieltheorie O spieltheorie 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+und O und 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Verhaltensökonomik O verhaltensokonomik 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+[811630] O [811630] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+96157 O 96157 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+92393 O 92393 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Professurvertreterin O professurvertreterin 0 0 0 0 1 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Ott B-PER ott 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Marion I-PER marion 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehr O lehr 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+- O - 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+und O und 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Forschungsgebiet O forschungsgebiet 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+Empirische O empirische 0 0 0 0 1 0 1 td tr dynamicTable 14 0
+Wirtschaftsforschung O wirtschaftsforschung 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+EWifo O ewifo 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[811320] O [811320] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+email O email 0 0 0 0 1 0 0 td tr email 14 0
+
+apl. O apl. 0 0 0 0 1 0 0 tr tbody dynamicTable 13 0
+Professor O professor 0 0 0 0 1 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+päd. O pad. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+phil. O phil. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+Dipl. O dipl. 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+- O - 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+Kfm. O kfm. 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+h. O h. 0 1 0 0 0 0 0 tr tbody dynamicTable 13 0
+c. O c. 0 1 0 0 0 0 0 tr tbody dynamicTable 13 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+Univ. O univ. 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+Maribor O maribor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Paape O paape 0 0 0 0 0 0 1 td tr dynamicTable 14 2
+, O , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Björn O bjorn 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+
+M. O m. 0 1 0 0 0 0 1 tr tbody dynamicTable 13 0
+E. O e. 0 1 0 0 0 0 1 tr tbody dynamicTable 13 0
+S. O s. 0 1 0 0 0 0 1 tr tbody dynamicTable 13 0
+Wirtschaftsdidaktik O wirtschaftsdidaktik 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+[800006] O [800006] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 5
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 8
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 8
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 8
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 8
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 8
+93696 O 93696 0 0 0 1 0 0 0 tr tbody dynamicTable 13 8
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 8
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 8
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 8
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 8
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 8
+92310 O 92310 0 0 0 1 0 0 0 tr tbody dynamicTable 13 8
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessorin O universitatsprofessorin 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Paluch B-PER paluch 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Stefanie I-PER stefanie 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehr O lehr 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+- O - 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+und O und 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Forschungsgebiet O forschungsgebiet 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+Dienstleistungs O dienstleistungs 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+- O - 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+und O und 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Technologiemarketing O technologiemarketing 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+STM O stm 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[812920] O [812920] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+26150 O 26150 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 1
+
+Universitätsprofessorin O universitatsprofessorin 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+nat. O nat. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Peis B-PER peis 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Britta I-PER britta 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehrstuhl O lehrstuhl 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Management O management 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+Science O science 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+OMS O oms 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[815110] O [815110] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+93392 O 93392 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 1
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Piller O piller 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, O , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Frank O frank 1 1 0 0 0 0 1 td tr dynamicTable 14 2
+Thomas O thomas 1 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehrstuhl O lehrstuhl 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Betriebswirtschaftslehre O betriebswirtschaftslehre 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+, O , 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+insbesondere O insbesondere 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Technologie O technologie 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+- O - 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+und O und 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Innovationsmanagement O innovationsmanagement 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+TIM O tim 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[812710] O [812710] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+93523 O 93523 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+92367 O 92367 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Professor O professor 0 0 0 0 1 0 1 tr tbody dynamicTable 13 0
+als O als 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+Juniorprofessor O juniorprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+- O - 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+Ing. O ing. 0 1 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Praktiknjo B-PER praktiknjo 0 0 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Aaron I-PER aaron 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Juniorprofessur O juniorprofessur 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Energieressourcen O energieressourcen 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+- O - 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+und O und 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Innovationsökonomik O innovationsokonomik 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+[816930] O [816930] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+49691 O 49691 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+49829 O 49829 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+oec. O oec. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Reimers B-PER reimers 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Kai I-PER kai 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehr O lehr 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+- O - 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+und O und 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Forschungsgebiet O forschungsgebiet 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+Wirtschaftsinformatik O wirtschaftsinformatik 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+WI O wi 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[815220] O [815220] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+92194 O 92194 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+40 O 40 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+92318 O 92318 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Salge B-PER salge 0 1 0 0 0 0 1 td tr dynamicTable 14 1
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 1
+Torsten I-PER torsten 0 1 0 0 0 0 1 td tr dynamicTable 14 1
+- I-PER - 0 0 0 0 0 0 0 td tr dynamicTable 14 1
+Oliver I-PER oliver 0 1 0 0 0 0 1 td tr dynamicTable 14 1
+
+Ph. O ph. 0 1 0 0 0 0 1 tr tbody dynamicTable 13 0
+D. O d. 0 1 0 0 0 0 1 tr tbody dynamicTable 13 0
+Lehrstuhl O lehrstuhl 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Innovation O innovation 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+, O , 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Strategie O strategie 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+und O und 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Organisation O organisation 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+ISO O iso 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[816410] O [816410] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+99196 O 99196 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+699197 O 699197 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Schneider B-PER schneider 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Michael I-PER michael 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Deutsche O deutsche 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+Post O post 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+Lehrstuhl O lehrstuhl 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Optimierung O optimierung 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+von O von 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Distributionsnetzwerken O distributionsnetzwerken 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+DPO O dpo 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[813210] O [813210] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+96185 O 96185 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+92168 O 92168 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Professor O professor 0 0 0 0 1 0 1 tr tbody dynamicTable 13 0
+als O als 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+Juniorprofessor O juniorprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Steininger B-PER steininger 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Bertram I-PER bertram 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Ingolf I-PER ingolf 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Juniorprofessur O juniorprofessur 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Real O real 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+Estate O estate 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+Finance O finance 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+[812630] O [812630] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+93653 O 93653 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+693653 O 693653 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+phil. O phil. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Thomes B-PER thomes 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Paul I-PER paul 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehr O lehr 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+- O - 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+und O und 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Forschungsgebiet O forschungsgebiet 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+Wirtschafts O wirtschafts 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+- O - 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+, O , 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Sozial O sozial 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+- O - 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+und O und 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Technologiegeschichte O technologiegeschichte 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+WISOTECH O wisotech 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[814620] O [814620] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+99194 O 99194 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+92330 O 92330 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+von O von 0 1 0 0 0 0 0 td tr dynamicTable 14 2
+Nitzsch O nitzsch 0 0 0 0 0 0 1 td tr dynamicTable 14 2
+, O , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Rüdiger O rudiger 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehr O lehr 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+- O - 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+und O und 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Forschungsgebiet O forschungsgebiet 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+Entscheidungsforschung O entscheidungsforschung 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+und O und 0 1 0 0 0 0 0 td tr dynamicTable 14 0
+Finanzdienstleistungen O finanzdienstleistungen 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+EFi O efi 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[812520] O [812520] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+96174 O 96174 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+92347 O 92347 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+Universitätsprofessorin O universitatsprofessorin 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+rer. O rer. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+pol. O pol. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Walther B-PER walther 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Grit I-PER grit 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehrstuhl O lehrstuhl 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Operations O operations 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+Management O management 0 1 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+OM O om 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[813510] O [813510] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+23831 O 23831 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 1
+
+Universitätsprofessor O universitatsprofessor 0 0 0 0 0 0 1 tr tbody dynamicTable 13 0
+
+Dr. O dr. 0 1 0 0 1 0 1 tr tbody dynamicTable 13 0
+oec. O oec. 0 0 0 0 0 0 0 tr tbody dynamicTable 13 0
+
+Wentzel B-PER wentzel 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+, I-PER , 0 0 0 0 0 0 0 td tr dynamicTable 14 2
+Daniel I-PER daniel 0 1 0 0 0 0 1 td tr dynamicTable 14 2
+Lehrstuhl O lehrstuhl 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+für O fur 0 0 0 0 0 0 0 td tr dynamicTable 14 0
+Marketing O marketing 0 0 0 0 0 0 1 td tr dynamicTable 14 0
+( O ( 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+MAR O mar 0 0 0 0 0 0 1 tr tbody dynamicTable 13 4
+) O ) 0 0 0 0 0 0 0 tr tbody dynamicTable 13 4
+[812310] O [812310] 0 0 0 1 0 0 0 tr tbody dynamicTable 13 4
+
+Phone O phone 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+96179 O 96179 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+Fax O fax 0 1 0 0 0 0 1 tr tbody dynamicTable 13 7
+: O : 0 0 0 0 0 0 0 tr tbody dynamicTable 13 7
++49 O +49 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+241 O 241 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+80 O 80 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+696159 O 696159 0 0 0 1 0 0 0 tr tbody dynamicTable 13 7
+
+email O email 0 0 0 0 1 0 0 td tr email 14 2
+
+last O last 0 0 0 0 0 0 0 div div update 8 0
+updated O updated 0 0 0 0 0 0 0 div div update 8 0
+: O : 0 0 0 0 0 0 0 div div update 8 0
+05/10/2017 O 05/10/2017 0 0 0 1 0 0 0 div div update 8 0
+
+top O top 0 0 0 0 0 0 0 p div top 9 0
+
+RWTH O rwth 0 0 0 0 0 0 1 div div  8 0
+
+Main O main 0 1 0 0 0 0 1 li ul  10 0
+Page O page 0 1 0 0 0 0 1 li ul  10 0
+
+Contacts O contacts 0 0 0 0 0 0 1 div div  8 0
+and O and 0 1 0 0 0 0 0 div div  8 0
+Maps O maps 0 0 0 0 0 0 1 div div  8 0
+
+Buildings O buildings 0 0 0 0 0 0 1 li ul  10 0
+
+Lecture O lecture 0 0 0 0 0 0 1 li ul  10 0
+Halls O halls 0 1 0 0 0 0 1 li ul  10 0
+
+Campus O campus 0 1 0 0 0 0 1 li ul  10 0
+Map O map 0 0 0 0 0 0 1 li ul  10 0
+
+Institutions O institutions 0 0 0 0 0 0 1 div div  8 0
+
+Dean O dean 0 1 0 0 0 0 1 li ul  10 0
+' O ' 0 0 0 0 0 0 0 li ul  10 0
+s O s 0 0 0 0 0 0 0 li ul  10 0
+Office O office 0 0 0 0 0 0 1 li ul  10 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul  10 0
+Library O library 0 0 0 0 0 0 1 li ul  10 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul  10 0
+Advising O advising 0 0 0 0 0 0 1 li ul  10 0
+
+Services O services 0 0 0 0 0 0 1 div div  8 0
+
+Job O job 0 1 0 0 0 0 1 li ul  10 0
+Openings O openings 0 0 0 0 0 0 1 li ul  10 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul  10 0
+
+Site O site 0 1 0 0 0 0 1 li ul  10 0
+Credits O credits 0 0 0 0 0 0 1 li ul  10 0
+
+Disclaimer O disclaimer 0 0 0 0 0 0 1 li ul  10 0
+
+Sitemap O sitemap 0 0 0 0 0 0 1 li ul  10 0

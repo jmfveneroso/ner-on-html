@@ -1,707 +1,707 @@
-ΕΑΠ O εαπ 0 0 0 0 0 0 1 meta meta none 6 5
-- O - 0 0 0 0 0 0 0 meta meta none 6 5
-Academic O academic 0 0 0 0 0 0 1 meta meta none 6 5
-Research O research 0 1 0 0 0 0 1 meta meta none 6 5
-Staff O staff 0 1 0 0 0 0 1 meta meta none 6 5
+ΕΑΠ O εαπ 0 0 0 0 0 0 1 0 0 meta meta none 6 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 meta meta none 6 5
+Academic O academic 0 0 0 0 0 0 1 0 8 meta meta none 6 5
+Research O research 0 1 0 0 0 0 1 0 7 meta meta none 6 5
+Staff O staff 0 1 0 0 0 0 1 2 7 meta meta none 6 5
 
-Hellenic O hellenic 0 0 0 0 0 0 1 li ul sp-has-child 12 0
-Open O open 0 0 0 0 0 0 1 li ul sp-has-child 12 0
-University O university 0 1 0 0 0 0 1 li ul sp-has-child 12 0
+Hellenic O hellenic 0 0 0 0 0 0 1 0 1 li ul sp-has-child 12 0
+Open O open 0 0 0 0 0 0 1 0 7 li ul sp-has-child 12 0
+University O university 0 1 0 0 0 0 1 1 8 li ul sp-has-child 12 0
 
-Governance O governance 0 0 0 0 0 0 1 li ul sp-group-title 18 0
+Governance O governance 0 0 0 0 0 0 1 0 5 li ul sp-group-title 18 0
 
-The O the 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-President O president 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
+The O the 0 1 0 0 0 0 1 5 10 li ul sp-menu-item 20 0
+President O president 0 1 0 0 0 0 1 1 8 li ul sp-menu-item 20 0
 
-The O the 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-Vice O vice 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-Presidents O presidents 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+The O the 0 1 0 0 0 0 1 5 10 li ul sp-menu-item 20 0
+Vice O vice 0 1 0 0 0 0 1 0 6 li ul sp-menu-item 20 0
+Presidents O presidents 0 0 0 0 0 0 1 0 4 li ul sp-menu-item 20 0
 
-The O the 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-Governing O governing 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Committee O committee 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+The O the 0 1 0 0 0 0 1 5 10 li ul sp-menu-item 20 0
+Governing O governing 0 0 0 0 0 0 1 0 3 li ul sp-menu-item 20 0
+Committee O committee 0 0 0 0 0 0 1 0 6 li ul sp-menu-item 20 0
 
-Directorate O directorate 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-of O of 0 1 0 0 0 0 0 li ul sp-menu-item 20 0
-Administrative O administrative 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Services O services 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Directorate O directorate 0 0 0 0 0 0 1 0 5 li ul sp-menu-item 20 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sp-menu-item 20 0
+Administrative O administrative 0 0 0 0 0 0 1 0 6 li ul sp-menu-item 20 0
+Services O services 0 0 0 0 0 0 1 0 8 li ul sp-menu-item 20 0
 
-Structure O structure 0 0 0 0 0 0 1 li ul sp-group-title 18 0
+Structure O structure 0 0 0 0 0 0 1 0 6 li ul sp-group-title 18 0
 
-Administrative O administrative 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Structure O structure 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Administrative O administrative 0 0 0 0 0 0 1 0 6 li ul sp-menu-item 20 0
+Structure O structure 0 0 0 0 0 0 1 0 6 li ul sp-menu-item 20 0
 
-Departments O departments 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Departments O departments 0 0 0 0 0 0 1 0 5 li ul sp-menu-item 20 0
 
-Offices O offices 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Offices O offices 0 0 0 0 0 0 1 0 4 li ul sp-menu-item 20 0
 
-Function O function 0 0 0 0 0 0 1 li ul sp-group-title 18 0
+Function O function 0 0 0 0 0 0 1 0 6 li ul sp-group-title 18 0
 
-Innovative O innovative 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Characteristics O characteristics 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Innovative O innovative 0 0 0 0 0 0 1 0 3 li ul sp-menu-item 20 0
+Characteristics O characteristics 0 0 0 0 0 0 1 0 2 li ul sp-menu-item 20 0
 
-The O the 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-HOU O hou 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Today O today 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
+The O the 0 1 0 0 0 0 1 5 10 li ul sp-menu-item 20 0
+HOU O hou 0 0 0 0 0 0 1 0 0 li ul sp-menu-item 20 0
+Today O today 0 1 0 0 0 0 1 0 6 li ul sp-menu-item 20 0
 
-Premises O premises 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Premises O premises 0 0 0 0 0 0 1 0 1 li ul sp-menu-item 20 0
 
-Independent O independent 0 0 0 0 0 0 1 li ul sp-group-title 18 0
-Units O units 0 0 0 0 0 0 1 li ul sp-group-title 18 0
+Independent O independent 0 0 0 0 0 0 1 0 4 li ul sp-group-title 18 0
+Units O units 0 0 0 0 0 0 1 0 4 li ul sp-group-title 18 0
 
-Educational O educational 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Content O content 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-, O , 0 0 0 0 0 0 0 li ul sp-menu-item 20 0
-Methodology O methodology 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-and O and 0 1 0 0 0 0 0 li ul sp-menu-item 20 0
-Technology O technology 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-( O ( 0 0 0 0 0 0 0 li ul sp-menu-item 20 0
-e O e 0 1 0 0 0 0 0 li ul sp-menu-item 20 0
-- O - 0 0 0 0 0 0 0 li ul sp-menu-item 20 0
-CoMeT O comet 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-) O ) 0 0 0 0 0 0 0 li ul sp-menu-item 20 0
-Laboratory O laboratory 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Educational O educational 0 0 0 0 0 0 1 0 5 li ul sp-menu-item 20 0
+Content O content 0 1 0 0 0 0 1 1 6 li ul sp-menu-item 20 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul sp-menu-item 20 0
+Methodology O methodology 0 0 0 0 0 0 1 0 3 li ul sp-menu-item 20 0
+and O and 0 1 0 0 0 0 0 0 10 li ul sp-menu-item 20 0
+Technology O technology 0 0 0 0 0 0 1 0 7 li ul sp-menu-item 20 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul sp-menu-item 20 0
+e O e 0 1 0 0 0 0 0 5 10 li ul sp-menu-item 20 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul sp-menu-item 20 0
+CoMeT O comet 0 0 0 0 0 0 1 0 1 li ul sp-menu-item 20 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul sp-menu-item 20 0
+Laboratory O laboratory 0 0 0 0 0 0 1 0 5 li ul sp-menu-item 20 0
 
-Evaluation O evaluation 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Unit O unit 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Evaluation O evaluation 0 0 0 0 0 0 1 0 5 li ul sp-menu-item 20 0
+Unit O unit 0 0 0 0 0 0 1 0 5 li ul sp-menu-item 20 0
 
-History O history 0 0 0 0 0 0 1 li ul sp-group-title 18 0
+History O history 0 0 0 0 0 0 1 0 7 li ul sp-group-title 18 0
 
-Mission O mission 0 1 0 0 1 0 1 li ul sp-menu-item 20 0
+Mission O mission 0 1 0 0 1 0 1 1 7 li ul sp-menu-item 20 0
 
-Foundation O foundation 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Foundation O foundation 0 0 0 0 0 0 1 0 7 li ul sp-menu-item 20 0
 
-A O a 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-Brief O brief 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-History O history 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-of O of 0 1 0 0 0 0 0 li ul sp-menu-item 20 0
-the O the 0 1 0 0 0 0 0 li ul sp-menu-item 20 0
-Hellenic O hellenic 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Open O open 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-University O university 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
+A O a 0 1 0 0 0 0 1 4 11 li ul sp-menu-item 20 0
+Brief O brief 0 1 0 0 0 0 1 1 3 li ul sp-menu-item 20 0
+History O history 0 0 0 0 0 0 1 0 7 li ul sp-menu-item 20 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sp-menu-item 20 0
+the O the 0 1 0 0 0 0 0 0 10 li ul sp-menu-item 20 0
+Hellenic O hellenic 0 0 0 0 0 0 1 0 1 li ul sp-menu-item 20 0
+Open O open 0 0 0 0 0 0 1 0 7 li ul sp-menu-item 20 0
+University O university 0 1 0 0 0 0 1 1 8 li ul sp-menu-item 20 0
 
-Studies O studies 0 0 0 0 0 0 1 li ul sp-has-child 12 0
+Studies O studies 0 0 0 0 0 0 1 0 6 li ul sp-has-child 12 0
 
-Schools O schools 0 0 0 0 0 0 1 li ul sp-group-title 18 0
-and O and 0 1 0 0 0 0 0 li ul sp-group-title 18 0
-Courses O courses 0 0 0 0 0 0 1 li ul sp-group-title 18 0
+Schools O schools 0 0 0 0 0 0 1 0 6 li ul sp-group-title 18 0
+and O and 0 1 0 0 0 0 0 0 10 li ul sp-group-title 18 0
+Courses O courses 0 0 0 0 0 0 1 0 6 li ul sp-group-title 18 0
 
-Applied O applied 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Arts O arts 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
+Applied O applied 0 0 0 0 0 0 1 0 5 li ul sp-menu-item 20 0
+Arts O arts 0 1 0 0 0 0 1 3 7 li ul sp-menu-item 20 0
 
-Humanities O humanities 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Humanities O humanities 0 0 0 0 0 0 1 0 5 li ul sp-menu-item 20 0
 
-Science O science 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-& O & 0 0 0 0 0 0 0 li ul sp-menu-item 20 0
-Technology O technology 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Science O science 0 0 0 0 0 0 1 0 7 li ul sp-menu-item 20 0
+& O & 0 0 0 0 0 0 0 0 0 li ul sp-menu-item 20 0
+Technology O technology 0 0 0 0 0 0 1 0 7 li ul sp-menu-item 20 0
 
-Social O social 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Social O social 0 0 0 0 0 0 1 0 6 li ul sp-menu-item 20 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul sp-menu-item 20 0
 
-Educational O educational 0 0 0 0 0 0 1 li ul sp-group-title 18 0
-Material O material 0 0 0 0 0 0 1 li ul sp-group-title 18 0
+Educational O educational 0 0 0 0 0 0 1 0 5 li ul sp-group-title 18 0
+Material O material 0 0 0 0 0 0 1 0 4 li ul sp-group-title 18 0
 
-Library O library 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-and O and 0 1 0 0 0 0 0 li ul sp-menu-item 20 0
-Information O information 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-Center O center 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
+Library O library 0 0 0 0 0 0 1 0 7 li ul sp-menu-item 20 0
+and O and 0 1 0 0 0 0 0 0 10 li ul sp-menu-item 20 0
+Information O information 0 1 0 0 0 0 1 0 8 li ul sp-menu-item 20 0
+Center O center 0 1 0 0 0 0 1 1 7 li ul sp-menu-item 20 0
 
-Educational O educational 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Portal O portal 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-HOU O hou 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Educational O educational 0 0 0 0 0 0 1 0 5 li ul sp-menu-item 20 0
+Portal O portal 0 1 0 0 0 0 1 2 7 li ul sp-menu-item 20 0
+HOU O hou 0 0 0 0 0 0 1 0 0 li ul sp-menu-item 20 0
 
-Education O education 0 0 0 0 0 0 1 li ul sp-group-title 18 0
+Education O education 0 0 0 0 0 0 1 0 8 li ul sp-group-title 18 0
 
-Information O information 0 1 0 0 0 0 1 li ul sp-has-child 20 0
+Information O information 0 1 0 0 0 0 1 0 8 li ul sp-has-child 20 0
 
-General O general 0 1 0 0 0 0 1 li ul sp-menu-item 24 0
-Information O information 0 1 0 0 0 0 1 li ul sp-menu-item 24 0
+General O general 0 1 0 0 0 0 1 1 7 li ul sp-menu-item 24 0
+Information O information 0 1 0 0 0 0 1 0 8 li ul sp-menu-item 24 0
 
-FAQs O faqs 0 0 0 0 0 0 1 li ul sp-menu-item 24 0
+FAQs O faqs 0 0 0 0 0 0 1 0 5 li ul sp-menu-item 24 0
 
-Course O course 0 1 0 0 0 0 1 li ul sp-menu-item 24 0
-Catalogue O catalogue 0 0 0 0 0 0 1 li ul sp-menu-item 24 0
+Course O course 0 1 0 0 0 0 1 0 6 li ul sp-menu-item 24 0
+Catalogue O catalogue 0 0 0 0 0 0 1 0 5 li ul sp-menu-item 24 0
 
-Bills O bills 0 1 0 0 0 0 1 li ul sp-menu-item 24 0
-Collection O collection 0 0 0 0 0 0 1 li ul sp-menu-item 24 0
+Bills O bills 0 1 0 0 0 0 1 2 0 li ul sp-menu-item 24 0
+Collection O collection 0 0 0 0 0 0 1 0 6 li ul sp-menu-item 24 0
 
-Regulations O regulations 0 0 0 0 0 0 1 li ul sp-has-child 20 0
+Regulations O regulations 0 0 0 0 0 0 1 0 4 li ul sp-has-child 20 0
 
-Studies O studies 0 0 0 0 0 0 1 li ul sp-menu-item 24 0
-Regulations O regulations 0 0 0 0 0 0 1 li ul sp-menu-item 24 0
+Studies O studies 0 0 0 0 0 0 1 0 6 li ul sp-menu-item 24 0
+Regulations O regulations 0 0 0 0 0 0 1 0 4 li ul sp-menu-item 24 0
 
-Εxtroversion O εxtroversion 0 0 0 0 0 0 1 li ul sp-group-title 18 0
+Εxtroversion O εxtroversion 0 0 0 0 0 0 1 0 0 li ul sp-group-title 18 0
 
-Erasmus O erasmus 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-+ O + 0 0 0 0 0 0 0 li ul sp-menu-item 20 0
+Erasmus O erasmus 0 1 0 0 0 0 1 2 4 li ul sp-menu-item 20 0
++ O + 0 0 0 0 0 0 0 0 0 li ul sp-menu-item 20 0
 
-Research O research 0 1 0 0 0 0 1 li ul sp-has-child 12 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul sp-has-child 12 0
 
-Research O research 0 1 0 0 0 0 1 li ul sp-menu-item 16 0
-Committee O committee 0 0 0 0 0 0 1 li ul sp-menu-item 16 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul sp-menu-item 16 0
+Committee O committee 0 0 0 0 0 0 1 0 6 li ul sp-menu-item 16 0
 
-Research O research 0 1 0 0 0 0 1 li ul sp-menu-item 16 0
-Projects O projects 0 0 0 0 0 0 1 li ul sp-menu-item 16 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul sp-menu-item 16 0
+Projects O projects 0 0 0 0 0 0 1 0 6 li ul sp-menu-item 16 0
 
-Staff O staff 0 1 0 0 0 0 1 li ul active 12 0
+Staff O staff 0 1 0 0 0 0 1 2 7 li ul active 12 0
 
-Academic O academic 0 0 0 0 0 0 1 li ul active 16 0
-Research O research 0 1 0 0 0 0 1 li ul active 16 0
-Staff O staff 0 1 0 0 0 0 1 li ul active 16 0
+Academic O academic 0 0 0 0 0 0 1 0 8 li ul active 16 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul active 16 0
+Staff O staff 0 1 0 0 0 0 1 2 7 li ul active 16 0
 
-Adjunct O adjunct 0 0 0 0 0 0 1 li ul sp-menu-item 16 0
-Academic O academic 0 0 0 0 0 0 1 li ul sp-menu-item 16 0
-Staff O staff 0 1 0 0 0 0 1 li ul sp-menu-item 16 0
+Adjunct O adjunct 0 0 0 0 0 0 1 0 4 li ul sp-menu-item 16 0
+Academic O academic 0 0 0 0 0 0 1 0 8 li ul sp-menu-item 16 0
+Staff O staff 0 1 0 0 0 0 1 2 7 li ul sp-menu-item 16 0
 
-Administrative O administrative 0 0 0 0 0 0 1 li ul sp-menu-item 16 0
-Support O support 0 0 0 0 0 0 1 li ul sp-menu-item 16 0
-Staff O staff 0 1 0 0 0 0 1 li ul sp-menu-item 16 0
+Administrative O administrative 0 0 0 0 0 0 1 0 6 li ul sp-menu-item 16 0
+Support O support 0 0 0 0 0 0 1 0 7 li ul sp-menu-item 16 0
+Staff O staff 0 1 0 0 0 0 1 2 7 li ul sp-menu-item 16 0
 
-Announcements O announcements 0 0 0 0 0 0 1 li ul sp-has-child 12 0
+Announcements O announcements 0 0 0 0 0 0 1 0 4 li ul sp-has-child 12 0
 
-General O general 0 1 0 0 0 0 1 li ul sp-group-title 18 0
-Announcements O announcements 0 0 0 0 0 0 1 li ul sp-group-title 18 0
+General O general 0 1 0 0 0 0 1 1 7 li ul sp-group-title 18 0
+Announcements O announcements 0 0 0 0 0 0 1 0 4 li ul sp-group-title 18 0
 
-General O general 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-Announcements O announcements 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+General O general 0 1 0 0 0 0 1 1 7 li ul sp-menu-item 20 0
+Announcements O announcements 0 0 0 0 0 0 1 0 4 li ul sp-menu-item 20 0
 
-Conferences O conferences 0 0 0 0 0 0 1 li ul sp-group-title 18 0
-- O - 0 0 0 0 0 0 0 li ul sp-group-title 18 0
-Events O events 0 0 0 0 0 0 1 li ul sp-group-title 18 0
+Conferences O conferences 0 0 0 0 0 0 1 0 4 li ul sp-group-title 18 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul sp-group-title 18 0
+Events O events 0 0 0 0 0 0 1 0 6 li ul sp-group-title 18 0
 
-Conference O conference 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-Participation O participation 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Conference O conference 0 1 0 0 0 0 1 0 6 li ul sp-menu-item 20 0
+Participation O participation 0 0 0 0 0 0 1 0 5 li ul sp-menu-item 20 0
 
-Event O event 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-Photo O photo 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Album O album 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Event O event 0 1 0 0 0 0 1 0 5 li ul sp-menu-item 20 0
+Photo O photo 0 0 0 0 0 0 1 0 6 li ul sp-menu-item 20 0
+Album O album 0 0 0 0 0 0 1 0 5 li ul sp-menu-item 20 0
 
-Conferences O conferences 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-- O - 0 0 0 0 0 0 0 li ul sp-menu-item 20 0
-Events O events 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Conferences O conferences 0 0 0 0 0 0 1 0 4 li ul sp-menu-item 20 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul sp-menu-item 20 0
+Events O events 0 0 0 0 0 0 1 0 6 li ul sp-menu-item 20 0
 
-Links O links 0 1 0 0 0 0 1 li ul sp-has-child 12 0
+Links O links 0 1 0 0 0 0 1 2 7 li ul sp-has-child 12 0
 
-Unions O unions 0 0 0 0 0 0 1 li ul sp-group-title 18 0
+Unions O unions 0 0 0 0 0 0 1 0 3 li ul sp-group-title 18 0
 
-Student O student 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-Unions O unions 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Student O student 0 1 0 0 0 0 1 1 8 li ul sp-menu-item 20 0
+Unions O unions 0 0 0 0 0 0 1 0 3 li ul sp-menu-item 20 0
 
-Employment O employment 0 0 0 0 1 0 1 li ul sp-group-title 18 0
-and O and 0 1 0 0 0 0 0 li ul sp-group-title 18 0
-Career O career 0 0 0 0 0 0 1 li ul sp-group-title 18 0
+Employment O employment 0 0 0 0 1 0 1 0 5 li ul sp-group-title 18 0
+and O and 0 1 0 0 0 0 0 0 10 li ul sp-group-title 18 0
+Career O career 0 0 0 0 0 0 1 0 8 li ul sp-group-title 18 0
 
-Career O career 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Office O office 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Career O career 0 0 0 0 0 0 1 0 8 li ul sp-menu-item 20 0
+Office O office 0 0 0 0 0 0 1 0 7 li ul sp-menu-item 20 0
 
-Cooperations O cooperations 0 0 0 0 0 0 1 li ul sp-group-title 18 0
+Cooperations O cooperations 0 0 0 0 0 0 1 0 2 li ul sp-group-title 18 0
 
-Project O project 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-PRESS O press 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-: O : 0 0 0 0 0 0 0 li ul sp-menu-item 20 0
-Provision O provision 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-of O of 0 1 0 0 0 0 0 li ul sp-menu-item 20 0
-Refugee O refugee 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Education O education 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-and O and 0 1 0 0 0 0 0 li ul sp-menu-item 20 0
-Support O support 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Scheme O scheme 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
+Project O project 0 1 0 0 0 0 1 0 6 li ul sp-menu-item 20 0
+PRESS O press 0 0 0 0 0 0 1 0 7 li ul sp-menu-item 20 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 li ul sp-menu-item 20 0
+Provision O provision 0 0 0 0 0 0 1 0 2 li ul sp-menu-item 20 0
+of O of 0 1 0 0 0 0 0 2 10 li ul sp-menu-item 20 0
+Refugee O refugee 0 0 0 0 0 0 1 0 1 li ul sp-menu-item 20 0
+Education O education 0 0 0 0 0 0 1 0 8 li ul sp-menu-item 20 0
+and O and 0 1 0 0 0 0 0 0 10 li ul sp-menu-item 20 0
+Support O support 0 0 0 0 0 0 1 0 7 li ul sp-menu-item 20 0
+Scheme O scheme 0 1 0 0 0 0 1 0 4 li ul sp-menu-item 20 0
 
-Hellenic O hellenic 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Open O open 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-University O university 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-Cooperations O cooperations 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Hellenic O hellenic 0 0 0 0 0 0 1 0 1 li ul sp-menu-item 20 0
+Open O open 0 0 0 0 0 0 1 0 7 li ul sp-menu-item 20 0
+University O university 0 1 0 0 0 0 1 1 8 li ul sp-menu-item 20 0
+Cooperations O cooperations 0 0 0 0 0 0 1 0 2 li ul sp-menu-item 20 0
 
-Contact O contact 0 0 0 0 0 0 1 li ul sp-has-child 12 0
+Contact O contact 0 0 0 0 0 0 1 0 8 li ul sp-has-child 12 0
 
-Contact O contact 0 0 0 0 0 0 1 li ul sp-group-title 18 0
+Contact O contact 0 0 0 0 0 0 1 0 8 li ul sp-group-title 18 0
 
-Contact O contact 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Info O info 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Contact O contact 0 0 0 0 0 0 1 0 8 li ul sp-menu-item 20 0
+Info O info 0 0 0 0 0 0 1 0 6 li ul sp-menu-item 20 0
 
-Athens O athens 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Department O department 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Athens O athens 0 0 0 0 0 0 1 0 1 li ul sp-menu-item 20 0
+Department O department 0 0 0 0 0 0 1 0 7 li ul sp-menu-item 20 0
 
-Departments O departments 0 0 0 0 0 0 1 li ul sp-group-title 18 0
+Departments O departments 0 0 0 0 0 0 1 0 5 li ul sp-group-title 18 0
 
-Personnel O personnel 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Department O department 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Personnel O personnel 0 0 0 0 0 0 1 0 5 li ul sp-menu-item 20 0
+Department O department 0 0 0 0 0 0 1 0 7 li ul sp-menu-item 20 0
 
-Finance O finance 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-Department O department 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Finance O finance 0 1 0 0 0 0 1 1 5 li ul sp-menu-item 20 0
+Department O department 0 0 0 0 0 0 1 0 7 li ul sp-menu-item 20 0
 
-The O the 0 1 0 0 0 0 1 li ul sp-menu-item 20 0
-Registry O registry 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
-Department O department 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+The O the 0 1 0 0 0 0 1 5 10 li ul sp-menu-item 20 0
+Registry O registry 0 0 0 0 0 0 1 0 4 li ul sp-menu-item 20 0
+Department O department 0 0 0 0 0 0 1 0 7 li ul sp-menu-item 20 0
 
-Newsletter O newsletter 0 0 0 0 0 0 1 li ul sp-group-title 18 0
+Newsletter O newsletter 0 0 0 0 0 0 1 0 5 li ul sp-group-title 18 0
 
-Newsletter O newsletter 0 0 0 0 0 0 1 li ul sp-menu-item 20 0
+Newsletter O newsletter 0 0 0 0 0 0 1 0 5 li ul sp-menu-item 20 0
 
-Home O home 0 1 0 0 0 0 1 li ol pathway 12 0
+Home O home 0 1 0 0 0 0 1 2 6 li ol pathway 12 0
 
-Staff O staff 0 1 0 0 0 0 1 ol div breadcrumb 11 4
+Staff O staff 0 1 0 0 0 0 1 2 7 ol div breadcrumb 11 4
 
-Academic O academic 0 0 0 0 0 0 1 ol div active 11 5
-Research O research 0 1 0 0 0 0 1 ol div active 11 5
-Staff O staff 0 1 0 0 0 0 1 ol div active 11 5
-
-Studies O studies 0 0 0 0 0 0 1 div div custom 14 0
-
-Course O course 0 1 0 0 0 0 1 div div custom 14 0
-Catalogue O catalogue 0 0 0 0 0 0 1 div div custom 14 0
-
-Educational O educational 0 0 0 0 0 0 1 div div custom 14 0
-Portal O portal 0 1 0 0 0 0 1 div div custom 14 0
-HOU O hou 0 0 0 0 0 0 1 div div custom 14 0
-
-Library O library 0 0 0 0 0 0 1 div div custom 14 0
-
-Announcements O announcements 0 0 0 0 0 0 1 div div custom 14 0
-
-Events O events 0 0 0 0 0 0 1 div div custom 14 0
-
-Follow O follow 0 0 0 0 0 0 1 span a social-text 14 0
-via O via 0 0 0 0 0 0 0 span a social-text 14 0
-Facebook O facebook 0 0 0 0 0 0 1 span a social-text 14 0
-Follow O follow 0 0 0 0 0 0 1 span a social-text 14 0
-via O via 0 0 0 0 0 0 0 span a social-text 14 0
-Twitter O twitter 0 0 0 0 0 0 1 span a social-text 14 0
-Follow O follow 0 0 0 0 0 0 1 span a social-text 14 0
-via O via 0 0 0 0 0 0 0 span a social-text 14 0
-Google O google 0 0 0 0 0 0 1 span a social-text 14 0
-Follow O follow 0 0 0 0 0 0 1 span a social-text 14 0
-via O via 0 0 0 0 0 0 0 span a social-text 14 0
-Linkedin O linkedin 0 0 0 0 0 0 1 span a social-text 14 0
-Follow O follow 0 0 0 0 0 0 1 span a social-text 14 0
-via O via 0 0 0 0 0 0 0 span a social-text 14 0
-Youtube O youtube 0 0 0 0 0 0 1 span a social-text 14 0
-Follow O follow 0 0 0 0 0 0 1 span a social-text 14 0
-via O via 0 0 0 0 0 0 0 span a social-text 14 0
-webradio O webradio 0 0 0 0 0 0 0 span a social-text 14 0
-
-Phone. O phone. 0 0 0 0 0 0 1 p div custom 13 0
-: O : 0 0 0 0 0 0 0 p div custom 13 0
-
-2610 O 2610 0 0 0 1 0 0 0 div div custom 12 0
-367300 O 367300 0 0 0 1 0 0 0 div div custom 12 0
-
-Fax O fax 0 1 0 0 0 0 1 p div custom 13 2
-: O : 0 0 0 0 0 0 0 p div custom 13 2
-
-2610 O 2610 0 0 0 1 0 0 0 div div custom 12 0
-367110 O 367110 0 0 0 1 0 0 0 div div custom 12 0
-, O , 0 0 0 0 0 0 0 div div custom 12 0
-2610 O 2610 0 0 0 1 0 0 0 div div custom 12 0
-367650 O 367650 0 0 0 1 0 0 0 div div custom 12 0
-
-E O e 0 1 0 0 0 0 1 p div custom 13 4
-- O - 0 0 0 0 0 0 0 p div custom 13 4
-Mail O mail 0 1 0 0 0 0 1 p div custom 13 4
-: O : 0 0 0 0 0 0 0 p div custom 13 4
-
-info[at]eap.gr O info[at]eap.gr 0 0 0 0 0 0 0 div div custom 12 0
-
-A O a 0 1 0 0 0 0 1 p div custom 13 0
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-B O b 0 1 0 0 0 0 1 p div custom 13 1
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-C O c 0 1 0 0 0 0 1 p div custom 13 2
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-D O d 0 1 0 0 0 0 1 p div custom 13 3
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-E O e 0 1 0 0 0 0 1 p div custom 13 4
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-F O f 0 0 0 0 0 0 1 p div custom 13 5
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-G O g 0 1 0 0 0 0 1 p div custom 13 6
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-H O h 0 1 0 0 0 0 1 p div custom 13 7
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-I O i 0 1 0 0 0 0 1 p div custom 13 8
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-J O j 0 1 0 0 0 0 1 p div custom 13 9
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-K O k 0 1 0 0 0 0 1 p div custom 13 10
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-L O l 0 1 0 0 0 0 1 p div custom 13 11
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-M O m 0 1 0 0 0 0 1 p div custom 13 12
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-N O n 0 1 0 0 0 0 1 p div custom 13 13
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-O O o 0 1 0 0 0 0 1 p div custom 13 14
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-P O p 0 1 0 0 0 0 1 p div custom 13 15
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-Q O q 0 1 0 0 0 0 1 p div custom 13 16
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-R O r 0 1 0 0 0 0 1 p div custom 13 17
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-S O s 0 1 0 0 0 0 1 p div custom 13 18
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-T O t 0 1 0 0 0 0 1 p div custom 13 19
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-U O u 0 1 0 0 0 0 1 p div custom 13 20
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-V O v 0 1 0 0 0 0 1 p div custom 13 21
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-W O w 0 1 0 0 0 0 1 p div custom 13 22
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-X O x 0 0 0 0 0 0 1 p div custom 13 23
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-Y O y 0 1 0 0 0 0 1 p div custom 13 24
-| O | 0 0 0 0 0 0 0 div div custom 12 6
-Z O z 0 1 0 0 0 0 1 p div custom 13 25
-
-A O a 0 1 0 0 0 0 1 div div contact-category 12 0
-
-Phone O phone 0 1 0 0 0 0 1 li ul pull-right 15 0
-: O : 0 0 0 0 0 0 0 li ul pull-right 15 0
-2610 O 2610 0 0 0 1 0 0 0 li ul pull-right 15 0
-362554 O 362554 0 0 0 1 0 0 0 li ul pull-right 15 0
-
-Fax O fax 0 1 0 0 0 0 1 li ul pull-right 15 0
-: O : 0 0 0 0 0 0 0 li ul pull-right 15 0
-2610 O 2610 0 0 0 1 0 0 0 li ul pull-right 15 0
-367117 O 367117 0 0 0 1 0 0 0 li ul pull-right 15 0
-, O , 0 0 0 0 0 0 0 li ul pull-right 15 0
-2610 O 2610 0 0 0 1 0 0 0 li ul pull-right 15 0
-367442 O 367442 0 0 0 1 0 0 0 li ul pull-right 15 0
-
-E O e 0 1 0 0 0 0 1 li ul pull-right 15 0
-- O - 0 0 0 0 0 0 0 li ul pull-right 15 0
-mail O mail 0 0 0 0 0 0 0 li ul pull-right 15 0
-: O : 0 0 0 0 0 0 0 li ul pull-right 15 0
-This O this 0 1 0 0 0 0 1 span li pull-right 16 2
-email O email 0 0 0 0 1 0 0 span li pull-right 16 2
-address O address 0 0 0 0 1 0 0 span li pull-right 16 2
-is O is 0 0 0 0 0 0 0 span li pull-right 16 2
-being O being 0 0 0 0 0 0 0 span li pull-right 16 2
-protected O protected 0 0 0 0 0 0 0 span li pull-right 16 2
-from O from 0 0 0 0 0 0 0 span li pull-right 16 2
-spambots. O spambots. 0 0 0 0 0 0 0 span li pull-right 16 2
-You O you 0 1 0 0 0 0 1 span li pull-right 16 2
-need O need 0 0 0 0 0 0 0 span li pull-right 16 2
-JavaScript O javascript 0 0 0 0 0 0 1 span li pull-right 16 2
-enabled O enabled 0 0 0 0 0 0 0 span li pull-right 16 2
-to O to 0 0 0 0 0 0 0 span li pull-right 16 2
-view O view 0 0 0 0 0 0 0 span li pull-right 16 2
-it. O it. 0 0 0 0 0 0 0 span li pull-right 16 2
-
-Agiomirgianakis B-PER agiomirgianakis 0 1 0 0 0 0 1 strong div list-title 18 0
-George I-PER george 0 1 0 0 0 0 1 strong div list-title 18 0
-
-SCHOOL O school 0 0 0 0 0 0 1 p li cat-list-row0 16 3
-OF O of 0 0 0 0 0 0 1 p li cat-list-row0 16 3
-SOCIAL O social 0 0 0 0 0 0 1 p li cat-list-row0 16 3
-SCIENCES O sciences 0 0 0 0 0 0 1 p li cat-list-row0 16 3
-
-Short O short 0 1 0 0 0 0 1 p div cat-list-row0 18 0
-Curriculum O curriculum 0 0 0 0 0 0 1 p div cat-list-row0 18 0
-Vitae O vitae 0 0 0 0 0 0 1 p div cat-list-row0 18 0
-
-Extended O extended 0 0 0 0 0 0 1 p div cat-list-row0 18 2
-Curriculum O curriculum 0 0 0 0 0 0 1 p div cat-list-row0 18 2
-Vitae O vitae 0 0 0 0 0 0 1 p div cat-list-row0 18 2
-
-Phone O phone 0 1 0 0 0 0 1 li ul pull-right 15 0
-: O : 0 0 0 0 0 0 0 li ul pull-right 15 0
-2610 O 2610 0 0 0 1 0 0 0 li ul pull-right 15 0
-367672 O 367672 0 0 0 1 0 0 0 li ul pull-right 15 0
-, O , 0 0 0 0 0 0 0 li ul pull-right 15 0
-6938469476 O 6938469476 0 0 0 1 0 0 0 li ul pull-right 15 0
-
-Fax O fax 0 1 0 0 0 0 1 li ul pull-right 15 0
-: O : 0 0 0 0 0 0 0 li ul pull-right 15 0
-2610 O 2610 0 0 0 1 0 0 0 li ul pull-right 15 0
-367679 O 367679 0 0 0 1 0 0 0 li ul pull-right 15 0
-
-E O e 0 1 0 0 0 0 1 li ul pull-right 15 0
-- O - 0 0 0 0 0 0 0 li ul pull-right 15 0
-mail O mail 0 0 0 0 0 0 0 li ul pull-right 15 0
-: O : 0 0 0 0 0 0 0 li ul pull-right 15 0
-This O this 0 1 0 0 0 0 1 span li pull-right 16 2
-email O email 0 0 0 0 1 0 0 span li pull-right 16 2
-address O address 0 0 0 0 1 0 0 span li pull-right 16 2
-is O is 0 0 0 0 0 0 0 span li pull-right 16 2
-being O being 0 0 0 0 0 0 0 span li pull-right 16 2
-protected O protected 0 0 0 0 0 0 0 span li pull-right 16 2
-from O from 0 0 0 0 0 0 0 span li pull-right 16 2
-spambots. O spambots. 0 0 0 0 0 0 0 span li pull-right 16 2
-You O you 0 1 0 0 0 0 1 span li pull-right 16 2
-need O need 0 0 0 0 0 0 0 span li pull-right 16 2
-JavaScript O javascript 0 0 0 0 0 0 1 span li pull-right 16 2
-enabled O enabled 0 0 0 0 0 0 0 span li pull-right 16 2
-to O to 0 0 0 0 0 0 0 span li pull-right 16 2
-view O view 0 0 0 0 0 0 0 span li pull-right 16 2
-it. O it. 0 0 0 0 0 0 0 span li pull-right 16 2
-
-Agoras B-PER agoras 0 0 0 0 0 0 1 strong div list-title 18 0
-Konstantinos I-PER konstantinos 0 1 0 0 0 0 1 strong div list-title 18 0
-
-SCHOOL O school 0 0 0 0 0 0 1 p li cat-list-row1 16 3
-OF O of 0 0 0 0 0 0 1 p li cat-list-row1 16 3
-HUMANITIES O humanities 0 0 0 0 0 0 1 p li cat-list-row1 16 3
-
-Phone O phone 0 1 0 0 0 0 1 li ul pull-right 15 0
-: O : 0 0 0 0 0 0 0 li ul pull-right 15 0
-2610 O 2610 0 0 0 1 0 0 0 li ul pull-right 15 0
-367443 O 367443 0 0 0 1 0 0 0 li ul pull-right 15 0
-
-Fax O fax 0 1 0 0 0 0 1 li ul pull-right 15 0
-: O : 0 0 0 0 0 0 0 li ul pull-right 15 0
-2610 O 2610 0 0 0 1 0 0 0 li ul pull-right 15 0
-367117 O 367117 0 0 0 1 0 0 0 li ul pull-right 15 0
-, O , 0 0 0 0 0 0 0 li ul pull-right 15 0
-2610 O 2610 0 0 0 1 0 0 0 li ul pull-right 15 0
-367442 O 367442 0 0 0 1 0 0 0 li ul pull-right 15 0
-
-E O e 0 1 0 0 0 0 1 li ul pull-right 15 0
-- O - 0 0 0 0 0 0 0 li ul pull-right 15 0
-mail O mail 0 0 0 0 0 0 0 li ul pull-right 15 0
-: O : 0 0 0 0 0 0 0 li ul pull-right 15 0
-This O this 0 1 0 0 0 0 1 span li pull-right 16 2
-email O email 0 0 0 0 1 0 0 span li pull-right 16 2
-address O address 0 0 0 0 1 0 0 span li pull-right 16 2
-is O is 0 0 0 0 0 0 0 span li pull-right 16 2
-being O being 0 0 0 0 0 0 0 span li pull-right 16 2
-protected O protected 0 0 0 0 0 0 0 span li pull-right 16 2
-from O from 0 0 0 0 0 0 0 span li pull-right 16 2
-spambots. O spambots. 0 0 0 0 0 0 0 span li pull-right 16 2
-You O you 0 1 0 0 0 0 1 span li pull-right 16 2
-need O need 0 0 0 0 0 0 0 span li pull-right 16 2
-JavaScript O javascript 0 0 0 0 0 0 1 span li pull-right 16 2
-enabled O enabled 0 0 0 0 0 0 0 span li pull-right 16 2
-to O to 0 0 0 0 0 0 0 span li pull-right 16 2
-view O view 0 0 0 0 0 0 0 span li pull-right 16 2
-it. O it. 0 0 0 0 0 0 0 span li pull-right 16 2
-
-Anthopoulos B-PER anthopoulos 0 1 0 0 0 0 1 strong div list-title 18 0
-Charalambos I-PER charalambos 0 1 0 0 0 0 1 strong div list-title 18 0
-
-SCHOOL O school 0 0 0 0 0 0 1 p li cat-list-row0 16 3
-OF O of 0 0 0 0 0 0 1 p li cat-list-row0 16 3
-SOCIAL O social 0 0 0 0 0 0 1 p li cat-list-row0 16 3
-SCIENCES O sciences 0 0 0 0 0 0 1 p li cat-list-row0 16 3
-
-Curriculum O curriculum 0 0 0 0 0 0 1 p div cat-list-row0 18 0
-Vitae O vitae 0 0 0 0 0 0 1 p div cat-list-row0 18 0
-
-Phone O phone 0 1 0 0 0 0 1 li ul pull-right 15 0
-: O : 0 0 0 0 0 0 0 li ul pull-right 15 0
-2610 O 2610 0 0 0 1 0 0 0 li ul pull-right 15 0
-367446 O 367446 0 0 0 1 0 0 0 li ul pull-right 15 0
-
-Fax O fax 0 1 0 0 0 0 1 li ul pull-right 15 0
-: O : 0 0 0 0 0 0 0 li ul pull-right 15 0
-2610 O 2610 0 0 0 1 0 0 0 li ul pull-right 15 0
-367117 O 367117 0 0 0 1 0 0 0 li ul pull-right 15 0
-, O , 0 0 0 0 0 0 0 li ul pull-right 15 0
-2610 O 2610 0 0 0 1 0 0 0 li ul pull-right 15 0
-367442 O 367442 0 0 0 1 0 0 0 li ul pull-right 15 0
-
-E O e 0 1 0 0 0 0 1 li ul pull-right 15 0
-- O - 0 0 0 0 0 0 0 li ul pull-right 15 0
-mail O mail 0 0 0 0 0 0 0 li ul pull-right 15 0
-: O : 0 0 0 0 0 0 0 li ul pull-right 15 0
-This O this 0 1 0 0 0 0 1 span li pull-right 16 2
-email O email 0 0 0 0 1 0 0 span li pull-right 16 2
-address O address 0 0 0 0 1 0 0 span li pull-right 16 2
-is O is 0 0 0 0 0 0 0 span li pull-right 16 2
-being O being 0 0 0 0 0 0 0 span li pull-right 16 2
-protected O protected 0 0 0 0 0 0 0 span li pull-right 16 2
-from O from 0 0 0 0 0 0 0 span li pull-right 16 2
-spambots. O spambots. 0 0 0 0 0 0 0 span li pull-right 16 2
-You O you 0 1 0 0 0 0 1 span li pull-right 16 2
-need O need 0 0 0 0 0 0 0 span li pull-right 16 2
-JavaScript O javascript 0 0 0 0 0 0 1 span li pull-right 16 2
-enabled O enabled 0 0 0 0 0 0 0 span li pull-right 16 2
-to O to 0 0 0 0 0 0 0 span li pull-right 16 2
-view O view 0 0 0 0 0 0 0 span li pull-right 16 2
-it. O it. 0 0 0 0 0 0 0 span li pull-right 16 2
-
-Asteriou B-PER asteriou 0 0 0 0 0 0 1 strong div list-title 18 0
-Dimitrios I-PER dimitrios 0 1 0 0 0 0 1 strong div list-title 18 0
-
-SCHOOL O school 0 0 0 0 0 0 1 p li cat-list-row1 16 3
-OF O of 0 0 0 0 0 0 1 p li cat-list-row1 16 3
-SOCIAL O social 0 0 0 0 0 0 1 p li cat-list-row1 16 3
-SCIENCES O sciences 0 0 0 0 0 0 1 p li cat-list-row1 16 3
-
-Short O short 0 1 0 0 0 0 1 p div cat-list-row1 18 0
-curriculum O curriculum 0 0 0 0 0 0 0 p div cat-list-row1 18 0
-vitae O vitae 0 0 0 0 0 0 0 p div cat-list-row1 18 0
-
-Extended O extended 0 0 0 0 0 0 1 p div cat-list-row1 18 2
-Curriculum O curriculum 0 0 0 0 0 0 1 p div cat-list-row1 18 2
-Vitae O vitae 0 0 0 0 0 0 1 p div cat-list-row1 18 2
-
-EΛOT O eλot 0 0 0 0 0 0 1 a div wf_file_text 15 0
-EN O en 0 0 0 0 0 0 1 a div wf_file_text 15 0
-ISO O iso 0 0 0 0 0 0 1 a div wf_file_text 15 0
-9001 O 9001 0 0 0 1 0 0 0 a div wf_file_text 15 0
-: O : 0 0 0 0 0 0 0 a div wf_file_text 15 0
-2008 O 2008 0 0 0 1 0 0 0 a div wf_file_text 15 0
-
-IQNET O iqnet 0 0 0 0 0 0 1 a div wf_file_text 15 0
-EΛOT O eλot 0 0 0 0 0 0 1 a div wf_file_text 15 0
-EN O en 0 0 0 0 0 0 1 a div wf_file_text 15 0
-ISO O iso 0 0 0 0 0 0 1 a div wf_file_text 15 0
-9001 O 9001 0 0 0 1 0 0 0 a div wf_file_text 15 0
-: O : 0 0 0 0 0 0 0 a div wf_file_text 15 0
-2008 O 2008 0 0 0 1 0 0 0 a div wf_file_text 15 0
-
-EΛOT O eλot 0 0 0 0 0 0 1 a div wf_file_text 15 0
-1429 O 1429 0 0 0 1 0 0 0 a div wf_file_text 15 0
-: O : 0 0 0 0 0 0 0 a div wf_file_text 15 0
-2008 O 2008 0 0 0 1 0 0 0 a div wf_file_text 15 0
-
-ISO/IEC O iso/iec 0 0 0 0 0 0 1 a div wf_file_text 15 0
-27001 O 27001 0 0 0 1 0 0 0 a div wf_file_text 15 0
-: O : 0 0 0 0 0 0 0 a div wf_file_text 15 0
-2013 O 2013 0 0 0 1 0 0 0 a div wf_file_text 15 0
-
-HOU O hou 0 0 0 0 0 0 1 div div header 14 0
-
-Administrative O administrative 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-Structure O structure 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-
-The O the 0 1 0 0 0 0 1 li ul col-xs-12 16 0
-HOU O hou 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-Today O today 0 1 0 0 0 0 1 li ul col-xs-12 16 0
-
-Educational O educational 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-Content O content 0 1 0 0 0 0 1 li ul col-xs-12 16 0
-, O , 0 0 0 0 0 0 0 li ul col-xs-12 16 0
-Methodology O methodology 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-and O and 0 1 0 0 0 0 0 li ul col-xs-12 16 0
-Technology O technology 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-( O ( 0 0 0 0 0 0 0 li ul col-xs-12 16 0
-e O e 0 1 0 0 0 0 0 li ul col-xs-12 16 0
-- O - 0 0 0 0 0 0 0 li ul col-xs-12 16 0
-CoMeT O comet 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-) O ) 0 0 0 0 0 0 0 li ul col-xs-12 16 0
-Laboratory O laboratory 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-
-The O the 0 1 0 0 0 0 1 li ul col-xs-12 16 0
-Evaluation O evaluation 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-Unit O unit 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-
-Studies O studies 0 0 0 0 0 0 1 div div header 14 0
-
-Humanities O humanities 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-
-Social O social 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-
-Science O science 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-& O & 0 0 0 0 0 0 0 li ul col-xs-12 16 0
-Technology O technology 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-
-Applied O applied 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-Arts O arts 0 1 0 0 0 0 1 li ul col-xs-12 16 0
-
-Educational O educational 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-Portal O portal 0 1 0 0 0 0 1 li ul col-xs-12 16 0
-HOU O hou 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-
-Extroversion O extroversion 0 0 0 0 0 0 1 div div header 14 0
-
-Erasmus+ O erasmus+ 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-
-Career O career 0 0 0 0 0 0 1 div div header 14 0
-& O & 0 0 0 0 0 0 0 div div header 14 0
-Cooperations O cooperations 0 0 0 0 0 0 1 div div header 14 0
-
-Career O career 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-Office O office 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-
-Hellenic O hellenic 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-Open O open 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-University O university 0 1 0 0 0 0 1 li ul col-xs-12 16 0
-Cooperations O cooperations 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-
-Announcements O announcements 0 0 0 0 0 0 1 div div header 14 0
-
-General O general 0 1 0 0 0 0 1 li ul col-xs-12 16 0
-Announcements O announcements 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-
-Events O events 0 0 0 0 0 0 1 div div header 14 0
-
-Conference O conference 0 1 0 0 0 0 1 li ul col-xs-12 16 0
-Participation O participation 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-
-Event O event 0 1 0 0 0 0 1 li ul col-xs-12 16 0
-Photo O photo 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-Album O album 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-
-Conferences O conferences 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-- O - 0 0 0 0 0 0 0 li ul col-xs-12 16 0
-Events O events 0 0 0 0 0 0 1 li ul col-xs-12 16 0
-
-Copyright O copyright 0 0 0 0 0 0 1 div div custom 13 3
-: O : 0 0 0 0 0 0 0 div div custom 13 3
-Hellenic O hellenic 0 0 0 0 0 0 1 div div custom 13 3
-Open O open 0 0 0 0 0 0 1 div div custom 13 3
-University O university 0 1 0 0 0 0 1 div div custom 13 3
-| O | 0 0 0 0 0 0 0 div div custom 13 3
-Website O website 0 0 0 0 0 0 1 div div custom 13 3
-Development O development 0 0 0 0 0 0 1 div div custom 13 3
-INTRAWAY O intraway 0 0 0 0 0 0 1 div div custom 13 3
-
-( O ( 0 0 0 0 0 0 0 p div custom 14 0
-Powered O powered 0 0 0 0 0 0 1 p div custom 14 0
-by O by 0 1 0 0 0 0 0 p div custom 14 0
-ITBIZ O itbiz 0 0 0 0 0 0 1 i p custom 15 0
-) O ) 0 0 0 0 0 0 0 p div custom 14 0
-
-Main O main 0 1 0 0 0 0 1 div div sp-module-title 8 0
-Menu O menu 0 1 0 0 0 0 1 div div sp-module-title 8 0
-
-Διεύθυνση O διεύθυνση 0 0 0 0 0 0 1 li ul item-443 11 0
-Διοικητικών O διοικητικών 0 0 0 0 0 0 1 li ul item-443 11 0
-Υπηρεσιών O υπηρεσιών 0 0 0 0 0 0 1 li ul item-443 11 0
-
-Κέντρο O κέντρο 0 0 0 0 0 0 1 li ul item-489 11 0
-Συμβουλευτικής O συμβουλευτικής 0 0 0 0 0 0 1 li ul item-489 11 0
-& O & 0 0 0 0 0 0 0 li ul item-489 11 0
-Ψυχολογικής O ψυχολογικής 0 0 0 0 0 0 1 li ul item-489 11 0
-Υποστήριξης O υποστήριξης 0 0 0 0 0 0 1 li ul item-489 11 0
-
-ΙΣΤΟΡΙΑ O ιστορια 0 0 0 0 0 0 1 li [document] deeper 3 0
-
-Εκπαιδευτική O εκπαιδευτική 0 0 0 0 0 0 1 li ul item-398 5 0
-Πύλη O πύλη 0 0 0 0 0 0 1 li ul item-398 5 0
-
-ΕΡΕΥΝΑ O ερευνα 0 0 0 0 0 0 1 li [document] deeper 3 0
-
-ΔΙΟΙΚΗΤΙΚΕΣ O διοικητικες 0 0 0 0 0 0 1 li ul item-385 5 0
-
-Διοίκηση O διοίκηση 0 0 0 0 0 0 1 li ul parent 5 0
-
-Ανακοινώσεις O ανακοινώσεις 0 0 0 0 0 0 1 li ul item-387 7 0
-του O του 0 0 0 0 0 0 0 li ul item-387 7 0
-Προέδρου O προέδρου 0 0 0 0 0 0 1 li ul item-387 7 0
-της O της 0 0 0 0 0 0 0 li ul item-387 7 0
-Διοικούσας O διοικούσας 0 0 0 0 0 0 1 li ul item-387 7 0
-Επιτροπής O επιτροπής 0 0 0 0 0 0 1 li ul item-387 7 0
-
-ΣΥΝΔΕΣΜΟΙ O συνδεσμοι 0 0 0 0 0 0 1 li [document] parent 3 0
-
-ΣΥΝΔΕΣΜΟΙ O συνδεσμοι 0 0 0 0 0 0 1 li ul parent 5 0
-
-Χρήσιμοι O χρήσιμοι 0 0 0 0 0 0 1 li ul item-490 7 0
-Σύνδεσμοι O σύνδεσμοι 0 0 0 0 0 0 1 li ul item-490 7 0
-
-Εκδηλώσεις O εκδηλώσεις 0 0 0 0 0 0 1 li ul item-532 7 0
-Άλλων O άλλων 0 0 0 0 0 0 1 li ul item-532 7 0
-Φορέων O φορέων 0 0 0 0 0 0 1 li ul item-532 7 0
-
-ΕΠΙΚΟΙΝΩΝΙΑ O επικοινωνια 0 0 0 0 0 0 1 li ul item-391 5 0
-
-TMHMATA O tmhmata 0 0 0 0 0 0 1 li ul item-392 5 0
-
-NEWSLETTER O newsletter 0 0 0 0 0 0 1 li ul parent 5 0
-
-Newsletter O newsletter 0 0 0 0 0 0 1 li ul item-397 7 0
+Academic O academic 0 0 0 0 0 0 1 0 8 ol div active 11 5
+Research O research 0 1 0 0 0 0 1 0 7 ol div active 11 5
+Staff O staff 0 1 0 0 0 0 1 2 7 ol div active 11 5
+
+Studies O studies 0 0 0 0 0 0 1 0 6 div div custom 14 0
+
+Course O course 0 1 0 0 0 0 1 0 6 div div custom 14 0
+Catalogue O catalogue 0 0 0 0 0 0 1 0 5 div div custom 14 0
+
+Educational O educational 0 0 0 0 0 0 1 0 5 div div custom 14 0
+Portal O portal 0 1 0 0 0 0 1 2 7 div div custom 14 0
+HOU O hou 0 0 0 0 0 0 1 0 0 div div custom 14 0
+
+Library O library 0 0 0 0 0 0 1 0 7 div div custom 14 0
+
+Announcements O announcements 0 0 0 0 0 0 1 0 4 div div custom 14 0
+
+Events O events 0 0 0 0 0 0 1 0 6 div div custom 14 0
+
+Follow O follow 0 0 0 0 0 0 1 0 6 span a social-text 14 0
+via O via 0 0 0 0 0 0 0 0 6 span a social-text 14 0
+Facebook O facebook 0 0 0 0 0 0 1 0 7 span a social-text 14 0
+Follow O follow 0 0 0 0 0 0 1 0 6 span a social-text 14 0
+via O via 0 0 0 0 0 0 0 0 6 span a social-text 14 0
+Twitter O twitter 0 0 0 0 0 0 1 0 7 span a social-text 14 0
+Follow O follow 0 0 0 0 0 0 1 0 6 span a social-text 14 0
+via O via 0 0 0 0 0 0 0 0 6 span a social-text 14 0
+Google O google 0 0 0 0 0 0 1 0 7 span a social-text 14 0
+Follow O follow 0 0 0 0 0 0 1 0 6 span a social-text 14 0
+via O via 0 0 0 0 0 0 0 0 6 span a social-text 14 0
+Linkedin O linkedin 0 0 0 0 0 0 1 0 3 span a social-text 14 0
+Follow O follow 0 0 0 0 0 0 1 0 6 span a social-text 14 0
+via O via 0 0 0 0 0 0 0 0 6 span a social-text 14 0
+Youtube O youtube 0 0 0 0 0 0 1 0 5 span a social-text 14 0
+Follow O follow 0 0 0 0 0 0 1 0 6 span a social-text 14 0
+via O via 0 0 0 0 0 0 0 0 6 span a social-text 14 0
+webradio O webradio 0 0 0 0 0 0 0 0 0 span a social-text 14 0
+
+Phone. O phone. 0 0 0 0 0 0 1 0 0 p div custom 13 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div custom 13 0
+
+2610 O 2610 0 0 0 1 0 0 0 0 0 div div custom 12 0
+367300 O 367300 0 0 0 1 0 0 0 0 0 div div custom 12 0
+
+Fax O fax 0 1 0 0 0 0 1 0 4 p div custom 13 2
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div custom 13 2
+
+2610 O 2610 0 0 0 1 0 0 0 0 0 div div custom 12 0
+367110 O 367110 0 0 0 1 0 0 0 0 0 div div custom 12 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div custom 12 0
+2610 O 2610 0 0 0 1 0 0 0 0 0 div div custom 12 0
+367650 O 367650 0 0 0 1 0 0 0 0 0 div div custom 12 0
+
+E O e 0 1 0 0 0 0 1 4 10 p div custom 13 4
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 p div custom 13 4
+Mail O mail 0 1 0 0 0 0 1 0 6 p div custom 13 4
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 p div custom 13 4
+
+info[at]eap.gr O info[at]eap.gr 0 0 0 0 0 0 0 0 0 div div custom 12 0
+
+A O a 0 1 0 0 0 0 1 4 11 p div custom 13 0
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+B O b 0 1 0 0 0 0 1 3 9 p div custom 13 1
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+C O c 0 1 0 0 0 0 1 3 9 p div custom 13 2
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+D O d 0 1 0 0 0 0 1 3 11 p div custom 13 3
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+E O e 0 1 0 0 0 0 1 4 10 p div custom 13 4
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+F O f 0 1 0 0 0 0 1 0 8 p div custom 13 5
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+G O g 0 1 0 0 0 0 1 3 8 p div custom 13 6
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+H O h 0 1 0 0 0 0 1 3 8 p div custom 13 7
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+I O i 0 1 0 0 0 0 1 6 10 p div custom 13 8
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+J O j 0 1 0 0 0 0 1 2 8 p div custom 13 9
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+K O k 0 1 0 0 0 0 1 4 8 p div custom 13 10
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+L O l 0 1 0 0 0 0 1 2 11 p div custom 13 11
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+M O m 0 1 0 0 0 0 1 4 9 p div custom 13 12
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+N O n 0 1 0 0 0 0 1 3 10 p div custom 13 13
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+O O o 0 1 0 0 0 0 1 4 10 p div custom 13 14
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+P O p 0 1 0 0 0 0 1 4 9 p div custom 13 15
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+Q O q 0 1 0 0 0 0 1 1 8 p div custom 13 16
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+R O r 0 1 0 0 0 0 1 4 8 p div custom 13 17
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+S O s 0 1 0 0 0 0 1 4 10 p div custom 13 18
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+T O t 0 1 0 0 0 0 1 3 9 p div custom 13 19
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+U O u 0 1 0 0 0 0 1 3 10 p div custom 13 20
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+V O v 0 1 0 0 0 0 1 4 9 p div custom 13 21
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+W O w 0 1 0 0 0 0 1 1 9 p div custom 13 22
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+X O x 0 0 0 0 0 0 1 0 9 p div custom 13 23
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+Y O y 0 1 0 0 0 0 1 2 9 p div custom 13 24
+| O | 0 0 0 0 0 0 0 0 0 div div custom 12 6
+Z O z 0 1 0 0 0 0 1 1 8 p div custom 13 25
+
+A O a 0 1 0 0 0 0 1 4 11 div div contact-category 12 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 li ul pull-right 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 li ul pull-right 15 0
+2610 O 2610 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+362554 O 362554 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+
+Fax O fax 0 1 0 0 0 0 1 0 4 li ul pull-right 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 li ul pull-right 15 0
+2610 O 2610 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+367117 O 367117 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul pull-right 15 0
+2610 O 2610 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+367442 O 367442 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+
+E O e 0 1 0 0 0 0 1 4 10 li ul pull-right 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul pull-right 15 0
+mail O mail 0 0 0 0 0 0 0 0 6 li ul pull-right 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 li ul pull-right 15 0
+This O this 0 1 0 0 0 0 1 1 8 span li pull-right 16 2
+email O email 0 0 0 0 1 0 0 0 6 span li pull-right 16 2
+address O address 0 0 0 0 1 0 0 0 6 span li pull-right 16 2
+is O is 0 0 0 0 0 0 0 0 9 span li pull-right 16 2
+being O being 0 0 0 0 0 0 0 0 6 span li pull-right 16 2
+protected O protected 0 0 0 0 0 0 0 0 6 span li pull-right 16 2
+from O from 0 0 0 0 0 0 0 0 8 span li pull-right 16 2
+spambots. O spambots. 0 0 0 0 0 0 0 0 0 span li pull-right 16 2
+You O you 0 1 0 0 0 0 1 7 8 span li pull-right 16 2
+need O need 0 0 0 0 0 0 0 0 6 span li pull-right 16 2
+JavaScript O javascript 0 0 0 0 0 0 1 0 5 span li pull-right 16 2
+enabled O enabled 0 0 0 0 0 0 0 0 4 span li pull-right 16 2
+to O to 0 1 0 0 0 0 0 0 10 span li pull-right 16 2
+view O view 0 0 0 0 0 0 0 0 7 span li pull-right 16 2
+it. O it. 0 0 0 0 0 0 0 0 0 span li pull-right 16 2
+
+Agiomirgianakis B-PER agiomirgianakis 0 1 0 0 0 0 1 0 0 strong div list-title 18 0
+George I-PER george 0 1 0 0 0 0 1 8 6 strong div list-title 18 0
+
+SCHOOL O school 0 0 0 0 0 0 1 0 7 p li cat-list-row0 16 3
+OF O of 0 0 0 0 0 0 1 0 10 p li cat-list-row0 16 3
+SOCIAL O social 0 0 0 0 0 0 1 0 6 p li cat-list-row0 16 3
+SCIENCES O sciences 0 0 0 0 0 0 1 0 7 p li cat-list-row0 16 3
+
+Short O short 0 1 0 0 0 0 1 4 5 p div cat-list-row0 18 0
+Curriculum O curriculum 0 0 0 0 0 0 1 0 4 p div cat-list-row0 18 0
+Vitae O vitae 0 0 0 0 0 0 1 0 2 p div cat-list-row0 18 0
+
+Extended O extended 0 0 0 0 0 0 1 0 3 p div cat-list-row0 18 2
+Curriculum O curriculum 0 0 0 0 0 0 1 0 4 p div cat-list-row0 18 2
+Vitae O vitae 0 0 0 0 0 0 1 0 2 p div cat-list-row0 18 2
+
+Phone O phone 0 1 0 0 0 0 1 1 5 li ul pull-right 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 li ul pull-right 15 0
+2610 O 2610 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+367672 O 367672 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul pull-right 15 0
+6938469476 O 6938469476 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+
+Fax O fax 0 1 0 0 0 0 1 0 4 li ul pull-right 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 li ul pull-right 15 0
+2610 O 2610 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+367679 O 367679 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+
+E O e 0 1 0 0 0 0 1 4 10 li ul pull-right 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul pull-right 15 0
+mail O mail 0 0 0 0 0 0 0 0 6 li ul pull-right 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 li ul pull-right 15 0
+This O this 0 1 0 0 0 0 1 1 8 span li pull-right 16 2
+email O email 0 0 0 0 1 0 0 0 6 span li pull-right 16 2
+address O address 0 0 0 0 1 0 0 0 6 span li pull-right 16 2
+is O is 0 0 0 0 0 0 0 0 9 span li pull-right 16 2
+being O being 0 0 0 0 0 0 0 0 6 span li pull-right 16 2
+protected O protected 0 0 0 0 0 0 0 0 6 span li pull-right 16 2
+from O from 0 0 0 0 0 0 0 0 8 span li pull-right 16 2
+spambots. O spambots. 0 0 0 0 0 0 0 0 0 span li pull-right 16 2
+You O you 0 1 0 0 0 0 1 7 8 span li pull-right 16 2
+need O need 0 0 0 0 0 0 0 0 6 span li pull-right 16 2
+JavaScript O javascript 0 0 0 0 0 0 1 0 5 span li pull-right 16 2
+enabled O enabled 0 0 0 0 0 0 0 0 4 span li pull-right 16 2
+to O to 0 1 0 0 0 0 0 0 10 span li pull-right 16 2
+view O view 0 0 0 0 0 0 0 0 7 span li pull-right 16 2
+it. O it. 0 0 0 0 0 0 0 0 0 span li pull-right 16 2
+
+Agoras B-PER agoras 0 0 0 0 0 0 1 0 0 strong div list-title 18 0
+Konstantinos I-PER konstantinos 0 1 0 0 0 0 1 6 2 strong div list-title 18 0
+
+SCHOOL O school 0 0 0 0 0 0 1 0 7 p li cat-list-row1 16 3
+OF O of 0 0 0 0 0 0 1 0 10 p li cat-list-row1 16 3
+HUMANITIES O humanities 0 0 0 0 0 0 1 0 5 p li cat-list-row1 16 3
+
+Phone O phone 0 1 0 0 0 0 1 1 5 li ul pull-right 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 li ul pull-right 15 0
+2610 O 2610 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+367443 O 367443 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+
+Fax O fax 0 1 0 0 0 0 1 0 4 li ul pull-right 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 li ul pull-right 15 0
+2610 O 2610 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+367117 O 367117 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul pull-right 15 0
+2610 O 2610 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+367442 O 367442 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+
+E O e 0 1 0 0 0 0 1 4 10 li ul pull-right 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul pull-right 15 0
+mail O mail 0 0 0 0 0 0 0 0 6 li ul pull-right 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 li ul pull-right 15 0
+This O this 0 1 0 0 0 0 1 1 8 span li pull-right 16 2
+email O email 0 0 0 0 1 0 0 0 6 span li pull-right 16 2
+address O address 0 0 0 0 1 0 0 0 6 span li pull-right 16 2
+is O is 0 0 0 0 0 0 0 0 9 span li pull-right 16 2
+being O being 0 0 0 0 0 0 0 0 6 span li pull-right 16 2
+protected O protected 0 0 0 0 0 0 0 0 6 span li pull-right 16 2
+from O from 0 0 0 0 0 0 0 0 8 span li pull-right 16 2
+spambots. O spambots. 0 0 0 0 0 0 0 0 0 span li pull-right 16 2
+You O you 0 1 0 0 0 0 1 7 8 span li pull-right 16 2
+need O need 0 0 0 0 0 0 0 0 6 span li pull-right 16 2
+JavaScript O javascript 0 0 0 0 0 0 1 0 5 span li pull-right 16 2
+enabled O enabled 0 0 0 0 0 0 0 0 4 span li pull-right 16 2
+to O to 0 1 0 0 0 0 0 0 10 span li pull-right 16 2
+view O view 0 0 0 0 0 0 0 0 7 span li pull-right 16 2
+it. O it. 0 0 0 0 0 0 0 0 0 span li pull-right 16 2
+
+Anthopoulos B-PER anthopoulos 0 1 0 0 0 0 1 1 0 strong div list-title 18 0
+Charalambos I-PER charalambos 0 1 0 0 0 0 1 4 0 strong div list-title 18 0
+
+SCHOOL O school 0 0 0 0 0 0 1 0 7 p li cat-list-row0 16 3
+OF O of 0 0 0 0 0 0 1 0 10 p li cat-list-row0 16 3
+SOCIAL O social 0 0 0 0 0 0 1 0 6 p li cat-list-row0 16 3
+SCIENCES O sciences 0 0 0 0 0 0 1 0 7 p li cat-list-row0 16 3
+
+Curriculum O curriculum 0 0 0 0 0 0 1 0 4 p div cat-list-row0 18 0
+Vitae O vitae 0 0 0 0 0 0 1 0 2 p div cat-list-row0 18 0
+
+Phone O phone 0 1 0 0 0 0 1 1 5 li ul pull-right 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 li ul pull-right 15 0
+2610 O 2610 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+367446 O 367446 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+
+Fax O fax 0 1 0 0 0 0 1 0 4 li ul pull-right 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 li ul pull-right 15 0
+2610 O 2610 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+367117 O 367117 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul pull-right 15 0
+2610 O 2610 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+367442 O 367442 0 0 0 1 0 0 0 0 0 li ul pull-right 15 0
+
+E O e 0 1 0 0 0 0 1 4 10 li ul pull-right 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul pull-right 15 0
+mail O mail 0 0 0 0 0 0 0 0 6 li ul pull-right 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 li ul pull-right 15 0
+This O this 0 1 0 0 0 0 1 1 8 span li pull-right 16 2
+email O email 0 0 0 0 1 0 0 0 6 span li pull-right 16 2
+address O address 0 0 0 0 1 0 0 0 6 span li pull-right 16 2
+is O is 0 0 0 0 0 0 0 0 9 span li pull-right 16 2
+being O being 0 0 0 0 0 0 0 0 6 span li pull-right 16 2
+protected O protected 0 0 0 0 0 0 0 0 6 span li pull-right 16 2
+from O from 0 0 0 0 0 0 0 0 8 span li pull-right 16 2
+spambots. O spambots. 0 0 0 0 0 0 0 0 0 span li pull-right 16 2
+You O you 0 1 0 0 0 0 1 7 8 span li pull-right 16 2
+need O need 0 0 0 0 0 0 0 0 6 span li pull-right 16 2
+JavaScript O javascript 0 0 0 0 0 0 1 0 5 span li pull-right 16 2
+enabled O enabled 0 0 0 0 0 0 0 0 4 span li pull-right 16 2
+to O to 0 1 0 0 0 0 0 0 10 span li pull-right 16 2
+view O view 0 0 0 0 0 0 0 0 7 span li pull-right 16 2
+it. O it. 0 0 0 0 0 0 0 0 0 span li pull-right 16 2
+
+Asteriou B-PER asteriou 0 0 0 0 0 0 1 0 0 strong div list-title 18 0
+Dimitrios I-PER dimitrios 0 1 0 0 0 0 1 6 3 strong div list-title 18 0
+
+SCHOOL O school 0 0 0 0 0 0 1 0 7 p li cat-list-row1 16 3
+OF O of 0 0 0 0 0 0 1 0 10 p li cat-list-row1 16 3
+SOCIAL O social 0 0 0 0 0 0 1 0 6 p li cat-list-row1 16 3
+SCIENCES O sciences 0 0 0 0 0 0 1 0 7 p li cat-list-row1 16 3
+
+Short O short 0 1 0 0 0 0 1 4 5 p div cat-list-row1 18 0
+curriculum O curriculum 0 0 0 0 0 0 0 0 4 p div cat-list-row1 18 0
+vitae O vitae 0 0 0 0 0 0 0 0 2 p div cat-list-row1 18 0
+
+Extended O extended 0 0 0 0 0 0 1 0 3 p div cat-list-row1 18 2
+Curriculum O curriculum 0 0 0 0 0 0 1 0 4 p div cat-list-row1 18 2
+Vitae O vitae 0 0 0 0 0 0 1 0 2 p div cat-list-row1 18 2
+
+EΛOT O eλot 0 0 0 0 0 0 1 0 0 a div wf_file_text 15 0
+EN O en 0 0 0 0 0 0 1 0 11 a div wf_file_text 15 0
+ISO O iso 0 0 0 0 0 0 1 0 6 a div wf_file_text 15 0
+9001 O 9001 0 0 0 1 0 0 0 0 0 a div wf_file_text 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 a div wf_file_text 15 0
+2008 O 2008 0 0 0 1 0 0 0 0 0 a div wf_file_text 15 0
+
+IQNET O iqnet 0 0 0 0 0 0 1 0 0 a div wf_file_text 15 0
+EΛOT O eλot 0 0 0 0 0 0 1 0 0 a div wf_file_text 15 0
+EN O en 0 0 0 0 0 0 1 0 11 a div wf_file_text 15 0
+ISO O iso 0 0 0 0 0 0 1 0 6 a div wf_file_text 15 0
+9001 O 9001 0 0 0 1 0 0 0 0 0 a div wf_file_text 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 a div wf_file_text 15 0
+2008 O 2008 0 0 0 1 0 0 0 0 0 a div wf_file_text 15 0
+
+EΛOT O eλot 0 0 0 0 0 0 1 0 0 a div wf_file_text 15 0
+1429 O 1429 0 0 0 1 0 0 0 0 0 a div wf_file_text 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 a div wf_file_text 15 0
+2008 O 2008 0 0 0 1 0 0 0 0 0 a div wf_file_text 15 0
+
+ISO/IEC O iso/iec 0 0 0 0 0 0 1 0 0 a div wf_file_text 15 0
+27001 O 27001 0 0 0 1 0 0 0 0 0 a div wf_file_text 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 a div wf_file_text 15 0
+2013 O 2013 0 0 0 1 0 0 0 0 0 a div wf_file_text 15 0
+
+HOU O hou 0 0 0 0 0 0 1 0 0 div div header 14 0
+
+Administrative O administrative 0 0 0 0 0 0 1 0 6 li ul col-xs-12 16 0
+Structure O structure 0 0 0 0 0 0 1 0 6 li ul col-xs-12 16 0
+
+The O the 0 1 0 0 0 0 1 5 10 li ul col-xs-12 16 0
+HOU O hou 0 0 0 0 0 0 1 0 0 li ul col-xs-12 16 0
+Today O today 0 1 0 0 0 0 1 0 6 li ul col-xs-12 16 0
+
+Educational O educational 0 0 0 0 0 0 1 0 5 li ul col-xs-12 16 0
+Content O content 0 1 0 0 0 0 1 1 6 li ul col-xs-12 16 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul col-xs-12 16 0
+Methodology O methodology 0 0 0 0 0 0 1 0 3 li ul col-xs-12 16 0
+and O and 0 1 0 0 0 0 0 0 10 li ul col-xs-12 16 0
+Technology O technology 0 0 0 0 0 0 1 0 7 li ul col-xs-12 16 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul col-xs-12 16 0
+e O e 0 1 0 0 0 0 0 5 10 li ul col-xs-12 16 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul col-xs-12 16 0
+CoMeT O comet 0 0 0 0 0 0 1 0 1 li ul col-xs-12 16 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul col-xs-12 16 0
+Laboratory O laboratory 0 0 0 0 0 0 1 0 5 li ul col-xs-12 16 0
+
+The O the 0 1 0 0 0 0 1 5 10 li ul col-xs-12 16 0
+Evaluation O evaluation 0 0 0 0 0 0 1 0 5 li ul col-xs-12 16 0
+Unit O unit 0 0 0 0 0 0 1 0 5 li ul col-xs-12 16 0
+
+Studies O studies 0 0 0 0 0 0 1 0 6 div div header 14 0
+
+Humanities O humanities 0 0 0 0 0 0 1 0 5 li ul col-xs-12 16 0
+
+Social O social 0 0 0 0 0 0 1 0 6 li ul col-xs-12 16 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul col-xs-12 16 0
+
+Science O science 0 0 0 0 0 0 1 0 7 li ul col-xs-12 16 0
+& O & 0 0 0 0 0 0 0 0 0 li ul col-xs-12 16 0
+Technology O technology 0 0 0 0 0 0 1 0 7 li ul col-xs-12 16 0
+
+Applied O applied 0 0 0 0 0 0 1 0 5 li ul col-xs-12 16 0
+Arts O arts 0 1 0 0 0 0 1 3 7 li ul col-xs-12 16 0
+
+Educational O educational 0 0 0 0 0 0 1 0 5 li ul col-xs-12 16 0
+Portal O portal 0 1 0 0 0 0 1 2 7 li ul col-xs-12 16 0
+HOU O hou 0 0 0 0 0 0 1 0 0 li ul col-xs-12 16 0
+
+Extroversion O extroversion 0 0 0 0 0 0 1 0 0 div div header 14 0
+
+Erasmus+ O erasmus+ 0 0 0 0 0 0 1 0 0 li ul col-xs-12 16 0
+
+Career O career 0 0 0 0 0 0 1 0 8 div div header 14 0
+& O & 0 0 0 0 0 0 0 0 0 div div header 14 0
+Cooperations O cooperations 0 0 0 0 0 0 1 0 2 div div header 14 0
+
+Career O career 0 0 0 0 0 0 1 0 8 li ul col-xs-12 16 0
+Office O office 0 0 0 0 0 0 1 0 7 li ul col-xs-12 16 0
+
+Hellenic O hellenic 0 0 0 0 0 0 1 0 1 li ul col-xs-12 16 0
+Open O open 0 0 0 0 0 0 1 0 7 li ul col-xs-12 16 0
+University O university 0 1 0 0 0 0 1 1 8 li ul col-xs-12 16 0
+Cooperations O cooperations 0 0 0 0 0 0 1 0 2 li ul col-xs-12 16 0
+
+Announcements O announcements 0 0 0 0 0 0 1 0 4 div div header 14 0
+
+General O general 0 1 0 0 0 0 1 1 7 li ul col-xs-12 16 0
+Announcements O announcements 0 0 0 0 0 0 1 0 4 li ul col-xs-12 16 0
+
+Events O events 0 0 0 0 0 0 1 0 6 div div header 14 0
+
+Conference O conference 0 1 0 0 0 0 1 0 6 li ul col-xs-12 16 0
+Participation O participation 0 0 0 0 0 0 1 0 5 li ul col-xs-12 16 0
+
+Event O event 0 1 0 0 0 0 1 0 5 li ul col-xs-12 16 0
+Photo O photo 0 0 0 0 0 0 1 0 6 li ul col-xs-12 16 0
+Album O album 0 0 0 0 0 0 1 0 5 li ul col-xs-12 16 0
+
+Conferences O conferences 0 0 0 0 0 0 1 0 4 li ul col-xs-12 16 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul col-xs-12 16 0
+Events O events 0 0 0 0 0 0 1 0 6 li ul col-xs-12 16 0
+
+Copyright O copyright 0 0 0 0 0 0 1 0 6 div div custom 13 3
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div custom 13 3
+Hellenic O hellenic 0 0 0 0 0 0 1 0 1 div div custom 13 3
+Open O open 0 0 0 0 0 0 1 0 7 div div custom 13 3
+University O university 0 1 0 0 0 0 1 1 8 div div custom 13 3
+| O | 0 0 0 0 0 0 0 0 0 div div custom 13 3
+Website O website 0 0 0 0 0 0 1 0 6 div div custom 13 3
+Development O development 0 0 0 0 0 0 1 0 7 div div custom 13 3
+INTRAWAY O intraway 0 0 0 0 0 0 1 0 0 div div custom 13 3
+
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 p div custom 14 0
+Powered O powered 0 0 0 0 0 0 1 0 4 p div custom 14 0
+by O by 0 1 0 0 0 0 0 0 8 p div custom 14 0
+ITBIZ O itbiz 0 0 0 0 0 0 1 0 0 i p custom 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 p div custom 14 0
+
+Main O main 0 1 0 0 0 0 1 3 6 div div sp-module-title 8 0
+Menu O menu 0 1 0 0 0 0 1 2 8 div div sp-module-title 8 0
+
+Διεύθυνση O διεύθυνση 0 0 0 0 0 0 1 0 0 li ul item-443 11 0
+Διοικητικών O διοικητικών 0 0 0 0 0 0 1 0 0 li ul item-443 11 0
+Υπηρεσιών O υπηρεσιών 0 0 0 0 0 0 1 0 0 li ul item-443 11 0
+
+Κέντρο O κέντρο 0 0 0 0 0 0 1 0 0 li ul item-489 11 0
+Συμβουλευτικής O συμβουλευτικής 0 0 0 0 0 0 1 0 0 li ul item-489 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul item-489 11 0
+Ψυχολογικής O ψυχολογικής 0 0 0 0 0 0 1 0 0 li ul item-489 11 0
+Υποστήριξης O υποστήριξης 0 0 0 0 0 0 1 0 0 li ul item-489 11 0
+
+ΙΣΤΟΡΙΑ O ιστορια 0 0 0 0 0 0 1 0 0 li [document] deeper 3 0
+
+Εκπαιδευτική O εκπαιδευτική 0 0 0 0 0 0 1 0 0 li ul item-398 5 0
+Πύλη O πύλη 0 0 0 0 0 0 1 0 0 li ul item-398 5 0
+
+ΕΡΕΥΝΑ O ερευνα 0 0 0 0 0 0 1 0 0 li [document] deeper 3 0
+
+ΔΙΟΙΚΗΤΙΚΕΣ O διοικητικες 0 0 0 0 0 0 1 0 0 li ul item-385 5 0
+
+Διοίκηση O διοίκηση 0 0 0 0 0 0 1 0 0 li ul parent 5 0
+
+Ανακοινώσεις O ανακοινώσεις 0 0 0 0 0 0 1 0 0 li ul item-387 7 0
+του O του 0 0 0 0 0 0 0 0 0 li ul item-387 7 0
+Προέδρου O προέδρου 0 0 0 0 0 0 1 0 0 li ul item-387 7 0
+της O της 0 0 0 0 0 0 0 0 0 li ul item-387 7 0
+Διοικούσας O διοικούσας 0 0 0 0 0 0 1 0 0 li ul item-387 7 0
+Επιτροπής O επιτροπής 0 0 0 0 0 0 1 0 0 li ul item-387 7 0
+
+ΣΥΝΔΕΣΜΟΙ O συνδεσμοι 0 0 0 0 0 0 1 0 0 li [document] parent 3 0
+
+ΣΥΝΔΕΣΜΟΙ O συνδεσμοι 0 0 0 0 0 0 1 0 0 li ul parent 5 0
+
+Χρήσιμοι O χρήσιμοι 0 0 0 0 0 0 1 0 0 li ul item-490 7 0
+Σύνδεσμοι O σύνδεσμοι 0 0 0 0 0 0 1 0 0 li ul item-490 7 0
+
+Εκδηλώσεις O εκδηλώσεις 0 0 0 0 0 0 1 0 0 li ul item-532 7 0
+Άλλων O άλλων 0 0 0 0 0 0 1 0 0 li ul item-532 7 0
+Φορέων O φορέων 0 0 0 0 0 0 1 0 0 li ul item-532 7 0
+
+ΕΠΙΚΟΙΝΩΝΙΑ O επικοινωνια 0 0 0 0 0 0 1 0 0 li ul item-391 5 0
+
+TMHMATA O tmhmata 0 0 0 0 0 0 1 0 0 li ul item-392 5 0
+
+NEWSLETTER O newsletter 0 0 0 0 0 0 1 0 5 li ul parent 5 0
+
+Newsletter O newsletter 0 0 0 0 0 0 1 0 5 li ul item-397 7 0

@@ -1,0 +1,513 @@
+Academic O academic 0 0 0 0 0 0 1 meta meta none 6 3
+Staff O staff 0 1 0 0 0 0 1 meta meta none 6 3
+| O | 0 0 0 0 0 0 0 meta meta none 6 3
+School O school 0 1 0 0 0 0 1 meta meta none 6 3
+of O of 0 1 0 0 0 0 0 meta meta none 6 3
+Computer O computer 0 0 0 0 0 0 1 meta meta none 6 3
+Science O science 0 0 0 0 0 0 1 meta meta none 6 3
+
+Skip O skip 0 1 0 0 0 0 1 div body element-focusable 5 0
+to O to 0 0 0 0 0 0 0 div body element-focusable 5 0
+main O main 0 0 0 0 0 0 0 div body element-focusable 5 0
+content O content 0 0 0 0 0 0 0 div body element-focusable 5 0
+
+School O school 0 1 0 0 0 0 1 div div navbar-brand 7 2
+of O of 0 1 0 0 0 0 0 div div navbar-brand 7 2
+Computer O computer 0 0 0 0 0 0 1 div div navbar-brand 7 2
+Science O science 0 0 0 0 0 0 1 div div navbar-brand 7 2
+
+Toggle O toggle 0 0 0 0 0 0 1 button div sr-only 8 0
+navigation O navigation 0 0 0 0 0 0 0 button div sr-only 8 0
+
+Our O our 0 0 0 0 0 0 1 li ul nolink 10 0
+School O school 0 1 0 0 0 0 1 li ul nolink 10 0
+
+About O about 0 0 0 0 0 0 1 li ul leaf 12 0
+Us O us 0 1 0 0 0 0 1 li ul leaf 12 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul leaf 12 0
+
+Testimonials O testimonials 0 0 0 0 0 0 1 li ul leaf 12 0
+
+Useful O useful 0 0 0 0 0 0 1 li ul leaf 12 0
+Links O links 0 1 0 0 0 0 1 li ul leaf 12 0
+
+Study O study 0 1 0 0 0 0 1 li ul nolink 10 0
+With O with 0 1 0 0 0 0 1 li ul nolink 10 0
+Us O us 0 1 0 0 0 0 1 li ul nolink 10 0
+
+Undergraduate O undergraduate 0 0 0 0 0 0 1 li ul leaf 12 0
+
+Postgraduate O postgraduate 0 0 0 0 0 0 1 li ul leaf 12 0
+
+Research O research 0 1 0 0 0 0 1 li ul leaf 12 0
+Degrees O degrees 0 0 0 0 0 0 1 li ul leaf 12 0
+
+International O international 0 0 0 0 0 0 1 li ul leaf 12 0
+Students O students 0 0 0 0 0 0 1 li ul leaf 12 0
+
+Research O research 0 1 0 0 0 0 1 li ul nolink 10 0
+
+Research O research 0 1 0 0 0 0 1 li ul leaf 12 0
+Centres O centres 0 0 0 0 0 0 1 li ul leaf 12 0
+
+Research O research 0 1 0 0 0 0 1 li ul leaf 12 0
+Themes O themes 0 0 0 0 0 0 1 li ul leaf 12 0
+
+Publications O publications 0 0 0 0 0 0 1 li ul leaf 12 0
+
+People O people 0 1 0 0 0 0 1 li ul nolink 10 0
+
+Academic O academic 0 0 0 0 0 0 1 li ul active 12 0
+
+Support O support 0 0 0 0 0 0 1 li ul leaf 12 0
+
+Research O research 0 1 0 0 0 0 1 li ul leaf 12 0
+
+Postgraduate O postgraduate 0 0 0 0 0 0 1 li ul leaf 12 0
+
+Quick O quick 0 1 0 0 0 0 1 li ul nolink 10 0
+Links O links 0 1 0 0 0 0 1 li ul nolink 10 0
+
+Website O website 0 0 0 0 0 0 1 li ul leaf 12 0
+Login O login 0 0 0 0 0 0 1 li ul leaf 12 0
+( O ( 0 0 0 0 0 0 0 li ul leaf 12 0
+Staff O staff 0 1 0 0 0 0 1 li ul leaf 12 0
+Only O only 0 1 0 0 0 0 1 li ul leaf 12 0
+) O ) 0 0 0 0 0 0 0 li ul leaf 12 0
+
+CS O cs 0 0 0 0 0 0 1 li ul leaf 12 0
+Moodle O moodle 0 0 0 0 0 0 1 li ul leaf 12 0
+
+UCD O ucd 0 0 0 0 0 0 1 li ul leaf 12 0
+Blackboard O blackboard 0 0 0 0 0 0 1 li ul leaf 12 0
+
+Support O support 0 0 0 0 0 0 1 li ul leaf 12 0
+Centre O centre 0 1 0 0 0 0 1 li ul leaf 12 0
+( O ( 0 0 0 0 0 0 0 li ul leaf 12 0
+CSSC O cssc 0 0 0 0 0 0 1 li ul leaf 12 0
+) O ) 0 0 0 0 0 0 0 li ul leaf 12 0
+Free O free 0 1 0 0 0 0 1 li ul leaf 12 0
+tutoring O tutoring 0 0 0 0 0 0 0 li ul leaf 12 0
+
+CS O cs 0 0 0 0 0 0 1 li ul leaf 12 0
+Grading O grading 0 0 0 0 0 0 1 li ul leaf 12 0
+
+CS O cs 0 0 0 0 0 0 1 li ul leaf 12 0
+Plagiarism O plagiarism 0 0 0 0 0 0 1 li ul leaf 12 0
+Policy O policy 0 0 0 0 0 0 1 li ul leaf 12 0
+
+Fourth O fourth 0 1 0 0 0 0 1 li ul leaf 12 0
+Year O year 0 1 0 0 0 0 1 li ul leaf 12 0
+Projects O projects 0 0 0 0 0 0 1 li ul leaf 12 0
+
+Tech O tech 0 1 0 0 0 0 1 li ul leaf 12 0
+Support O support 0 0 0 0 0 0 1 li ul leaf 12 0
+
+Borrow O borrow 0 1 0 0 0 0 1 li ul leaf 12 0
+a O a 0 1 0 0 0 0 0 li ul leaf 12 0
+Laptop O laptop 0 0 0 0 0 0 1 li ul leaf 12 0
+
+CS O cs 0 0 0 0 0 0 1 li ul leaf 12 0
+GitLab O gitlab 0 0 0 0 0 0 1 li ul leaf 12 0
+
+Student O student 0 1 0 0 0 0 1 li ul leaf 12 0
+Support O support 0 0 0 0 0 0 1 li ul leaf 12 0
+Office O office 0 0 0 0 0 0 1 li ul leaf 12 0
+
+Timetables O timetables 0 0 0 0 0 0 1 li ul leaf 12 0
+by O by 0 1 0 0 0 0 0 li ul leaf 12 0
+Room O room 0 1 0 0 0 0 1 li ul leaf 12 0
+
+Room O room 0 1 0 0 0 0 1 li ul leaf 12 0
+Bookings O bookings 0 0 0 0 0 0 1 li ul leaf 12 0
+
+Software O software 0 1 0 0 0 0 1 li ul leaf 12 0
+Downloads O downloads 0 0 0 0 0 0 1 li ul leaf 12 0
+
+UCD O ucd 0 0 0 0 0 0 1 li ul leaf 12 0
+Academic O academic 0 0 0 0 0 0 1 li ul leaf 12 0
+Regulations O regulations 0 0 0 0 0 0 1 li ul leaf 12 0
+
+Search O search 0 0 0 0 0 0 1 div div element-invisible 13 0
+form O form 0 0 0 0 0 0 0 div div element-invisible 13 0
+
+Search O search 0 0 0 0 0 0 1 div div form-submit 14 0
+
+People O people 0 1 0 0 0 0 1 li ol nolink 9 0
+
+Academic O academic 0 0 0 0 0 0 1 ol section active 8 2
+Staff O staff 0 1 0 0 0 0 1 ol section active 8 2
+
+Academic O academic 0 0 0 0 0 0 1 section div page-header 7 5
+Staff O staff 0 1 0 0 0 0 1 section div page-header 7 5
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Félix B-PER felix 1 1 0 0 0 0 1 span div field-content 19 0
+Balado I-PER balado 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Brett B-PER brett 0 1 0 0 0 0 1 span div field-content 19 0
+Becker I-PER becker 0 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Julie B-PER julie 0 1 0 0 0 0 1 span div field-content 19 0
+Berndsen I-PER berndsen 0 1 0 0 0 0 1 span div field-content 19 0
+
+Full O full 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Michela B-PER michela 1 1 0 0 0 0 1 span div field-content 19 0
+Bertolotto I-PER bertolotto 1 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Chris B-PER chris 0 1 0 0 0 0 1 span div field-content 19 0
+Bleakley I-PER bleakley 0 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Abey B-PER abey 1 1 0 0 0 0 1 span div field-content 19 0
+Campbell I-PER campbell 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Joe B-PER joe 1 1 0 0 0 0 1 span div field-content 19 0
+Carthy I-PER carthy 1 1 0 0 0 0 1 span div field-content 19 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Arthur B-PER arthur 0 1 0 0 0 0 1 span div field-content 19 0
+Cater I-PER cater 0 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Rem B-PER rem 0 1 0 0 0 0 1 span div field-content 19 0
+Collier I-PER collier 0 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Fintan B-PER fintan 1 1 0 0 0 0 1 span div field-content 19 0
+Costello I-PER costello 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+David B-PER david 1 1 0 0 0 0 1 span div field-content 19 0
+Coyle I-PER coyle 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Fred B-PER fred 1 1 0 0 0 0 1 span div field-content 19 0
+Cummins I-PER cummins 1 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Pádraig B-PER padraig 1 1 0 0 0 0 1 span div field-content 19 0
+Cunningham I-PER cunningham 1 1 0 0 0 0 1 span div field-content 19 0
+
+Full O full 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Damian B-PER damian 1 1 0 0 0 0 1 span div field-content 19 0
+Dalton I-PER dalton 1 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Declan B-PER declan 1 1 0 0 0 0 1 span div field-content 19 0
+Delaney I-PER delaney 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Ruihai B-PER ruihai 1 1 0 0 0 0 1 span div field-content 19 0
+Dong I-PER dong 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Brian B-PER brian 1 1 0 0 0 0 1 span div field-content 19 0
+MacNamee I-PER macnamee 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Mr O mr 0 0 0 0 0 0 1 span div field-content 19 0
+John B-PER john 1 1 0 0 0 0 1 span div field-content 19 0
+Dunnion I-PER dunnion 1 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Pavel B-PER pavel 1 1 0 0 0 0 1 span div field-content 19 0
+Gladyshev I-PER gladyshev 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Derek B-PER derek 1 1 0 0 0 0 1 span div field-content 19 0
+Greene I-PER greene 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Andrew B-PER andrew 1 1 0 0 1 0 1 span div field-content 19 0
+Hines I-PER hines 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Neil B-PER neil 1 1 0 0 0 0 1 span div field-content 19 0
+Hurley I-PER hurley 1 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Georgiana B-PER georgiana 1 1 0 0 0 0 1 span div field-content 19 0
+Ifrim I-PER ifrim 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Anca B-PER anca 1 1 0 0 0 0 1 span div field-content 19 0
+Jurcut I-PER jurcut 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Mark B-PER mark 1 1 0 0 0 0 1 span div field-content 19 0
+Keane I-PER keane 1 1 0 0 0 0 1 span div field-content 19 0
+
+Full O full 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Mohand B-PER mohand 0 1 0 0 0 0 1 span div field-content 19 0
+Kechandi I-PER kechandi 0 0 0 0 0 0 1 span div field-content 19 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Alexey B-PER alexey 0 1 0 0 0 0 1 span div field-content 19 0
+Lastovetsky I-PER lastovetsky 0 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Aonghus B-PER aonghus 1 1 0 0 0 0 1 span div field-content 19 0
+Lawlor I-PER lawlor 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Nhien B-PER nhien 0 1 0 0 0 0 1 span div field-content 19 0
+An I-PER an 1 1 0 0 0 0 1 span div field-content 19 0
+Le I-PER le 1 1 0 0 0 0 1 span div field-content 19 0
+Khac I-PER khac 0 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+David B-PER david 1 1 0 0 0 0 1 span div field-content 19 0
+Lillis I-PER lillis 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Eleni B-PER eleni 1 1 0 0 0 0 1 span div field-content 19 0
+Mangina I-PER mangina 1 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Gavin B-PER gavin 1 1 0 0 0 0 1 span div field-content 19 0
+McArdle I-PER mcardle 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Lorraine B-PER lorraine 1 1 0 0 0 0 1 span div field-content 19 0
+McGinty I-PER mcginty 1 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Mr O mr 0 0 0 0 0 0 1 span div field-content 19 0
+Henry B-PER henry 0 1 0 0 0 0 1 span div field-content 19 0
+B I-PER b 0 1 0 0 0 0 1 span div field-content 19 0
+McLoughlin I-PER mcloughlin 0 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Catherine B-PER catherine 1 1 0 0 0 0 1 span div field-content 19 0
+Mooney I-PER mooney 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Liam B-PER liam 1 1 0 0 0 0 1 span div field-content 19 0
+Murphy I-PER murphy 1 1 0 0 0 0 1 span div field-content 19 0
+
+Full O full 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+John B-PER john 1 1 0 0 0 0 1 span div field-content 19 0
+Murphy I-PER murphy 1 1 0 0 0 0 1 span div field-content 19 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Vivek B-PER vivek 1 1 0 0 0 0 1 span div field-content 19 0
+Nallur I-PER nallur 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Mel B-PER mel 1 1 0 0 0 0 1 span div field-content 19 0
+Ó I-PER o 1 1 0 0 0 0 1 span div field-content 19 0
+Cinnéide I-PER cinneide 1 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Gregory B-PER gregory 0 1 0 0 0 0 1 span div field-content 19 0
+O I-PER o 0 1 0 0 0 0 1 span div field-content 19 0
+' I-PER ' 0 0 0 0 0 0 0 span div field-content 19 0
+Hare I-PER hare 0 1 0 0 0 0 1 span div field-content 19 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Michael B-PER michael 0 1 0 0 0 0 1 span div field-content 19 0
+O I-PER o 0 1 0 0 0 0 1 span div field-content 19 0
+' I-PER ' 0 0 0 0 0 0 0 span div field-content 19 0
+Mahony I-PER mahony 0 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Liliana B-PER liliana 1 1 0 0 0 0 1 span div field-content 19 0
+Pasquale I-PER pasquale 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Gianluca B-PER gianluca 1 1 0 0 0 0 1 span div field-content 19 0
+Pollastri I-PER pollastri 1 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Sean B-PER sean 0 1 0 0 0 0 1 span div field-content 19 0
+Russell I-PER russell 0 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Colm B-PER colm 1 1 0 0 0 0 1 span div field-content 19 0
+Ryan I-PER ryan 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Mark B-PER mark 1 1 0 0 0 0 1 span div field-content 19 0
+Scanlon I-PER scanlon 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Guénolé B-PER guenole 0 1 0 0 0 0 1 span div field-content 19 0
+Silvestre I-PER silvestre 0 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Barry B-PER barry 1 1 0 0 0 0 1 span div field-content 19 0
+Smyth I-PER smyth 1 1 0 0 0 0 1 span div field-content 19 0
+
+Full O full 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Tony B-PER tony 1 1 0 0 0 0 1 span div field-content 19 0
+Veale I-PER veale 1 1 0 0 0 0 1 span div field-content 19 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Anthony B-PER anthony 1 1 0 0 0 0 1 span div field-content 19 0
+Ventresque I-PER ventresque 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Dr O dr 0 1 0 0 0 0 1 span div field-content 19 0
+Lina B-PER lina 1 1 0 0 0 0 1 span div field-content 19 0
+Xu I-PER xu 1 1 0 0 0 0 1 span div field-content 19 0
+
+Lecturer/Assistant O lecturer/assistant 0 0 0 0 0 0 1 div div field-content 18 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 18 0
+
+Copyright O copyright 0 0 0 0 0 0 1 p section rtecenter 8 0
+© O © 0 0 0 0 0 0 0 p section rtecenter 8 0
+UCD O ucd 0 0 0 0 0 0 1 p section rtecenter 8 0
+School O school 0 1 0 0 0 0 1 p section rtecenter 8 0
+of O of 0 1 0 0 0 0 0 p section rtecenter 8 0
+Computer O computer 0 0 0 0 0 0 1 p section rtecenter 8 0
+Science O science 0 0 0 0 0 0 1 p section rtecenter 8 0
+2017 O 2017 0 0 0 1 0 0 0 p section rtecenter 8 0

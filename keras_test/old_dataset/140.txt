@@ -1,0 +1,1037 @@
+Department O department 0 0 0 0 0 0 1 link head none 5 5
+of O of 0 1 0 0 0 0 0 link head none 5 5
+Cognitive O cognitive 0 0 0 0 0 0 1 link head none 5 5
+Science O science 0 0 0 0 0 0 1 link head none 5 5
+| O | 0 0 0 0 0 0 0 link head none 5 5
+CEU O ceu 0 0 0 0 0 0 1 link head none 5 5
+People O people 0 1 0 0 0 0 1 link head none 5 5
+
+Jump O jump 0 1 0 0 0 0 1 p body element-focusable 5 0
+to O to 0 0 0 0 0 0 0 p body element-focusable 5 0
+navigation O navigation 0 0 0 0 0 0 0 p body element-focusable 5 0
+
+CEU O ceu 0 0 0 0 0 0 1 a h1  10 0
+People O people 0 1 0 0 0 0 1 a h1  10 0
+
+User O user 0 1 0 0 0 0 1 nav header element-invisible 8 0
+menu O menu 0 0 0 0 0 0 0 nav header element-invisible 8 0
+
+CEU O ceu 0 0 0 0 0 0 1 li ul first 10 0
+Home O home 0 1 0 0 0 0 1 li ul first 10 0
+
+Log O log 0 1 0 0 0 0 1 li ul last 10 0
+in O in 0 1 0 0 0 0 0 li ul last 10 0
+
+Search O search 0 0 0 0 0 0 1 div div element-invisible 12 0
+form O form 0 0 0 0 0 0 0 div div element-invisible 12 0
+
+Search O search 0 0 0 0 0 0 1 div div element-invisible 13 0
+
+You O you 0 1 0 0 0 0 1 nav div element-invisible 9 0
+are O are 0 0 0 0 0 0 0 nav div element-invisible 9 0
+here O here 0 0 0 0 0 0 0 nav div element-invisible 9 0
+
+Home O home 0 1 0 0 0 0 1 li ol breadcrumb 11 0
+› O › 0 0 0 0 0 0 0 ol nav breadcrumb 10 0
+
+Units O units 0 0 0 0 0 0 1 li ol breadcrumb 11 0
+› O › 0 0 0 0 0 0 0 ol nav breadcrumb 10 2
+
+Department O department 0 0 0 0 0 0 1 li ol breadcrumb 11 0
+of O of 0 1 0 0 0 0 0 li ol breadcrumb 11 0
+Cognitive O cognitive 0 0 0 0 0 0 1 li ol breadcrumb 11 0
+Science O science 0 0 0 0 0 0 1 li ol breadcrumb 11 0
+› O › 0 0 0 0 0 0 0 ol nav breadcrumb 10 4
+
+Department O department 0 0 0 0 0 0 1 div div title 8 10
+of O of 0 1 0 0 0 0 0 div div title 8 10
+Cognitive O cognitive 0 0 0 0 0 0 1 div div title 8 10
+Science O science 0 0 0 0 0 0 1 div div title 8 10
+
+Unit O unit 0 0 0 0 0 0 1 div div field-label 16 0
+Type O type 0 0 0 0 0 0 1 div div field-label 16 0
+: O : 0 0 0 0 0 0 0 div div field-label 16 0
+
+Academic O academic 0 0 0 0 0 0 1 div div even 17 0
+
+Building O building 0 0 0 0 0 0 1 div div field-label 16 0
+: O : 0 0 0 0 0 0 0 div div field-label 16 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 17 0
+6 O 6 0 0 0 1 0 0 0 div div even 17 0
+u. O u. 0 1 0 0 0 0 0 div div even 17 0
+7 O 7 0 0 0 1 0 0 0 div div even 17 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 16 0
+: O : 0 0 0 0 0 0 0 div div field-label 16 0
+
+1st O 1st 0 0 0 1 0 0 0 div div even 17 0
+floor O floor 0 0 0 0 0 0 0 div div even 17 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 16 0
+: O : 0 0 0 0 0 0 0 div div field-label 16 0
+
+( O ( 0 0 0 0 0 0 0 div div even 17 0
++36 O +36 0 0 0 1 0 0 0 div div even 17 0
+1 O 1 0 0 0 1 0 0 0 div div even 17 0
+) O ) 0 0 0 0 0 0 0 div div even 17 0
+887 O 887 0 0 0 1 0 0 0 div div even 17 0
+5138 O 5138 0 0 0 1 0 0 0 div div even 17 0
+
+Email O email 0 0 0 0 1 0 1 div div field-label 16 0
+: O : 0 0 0 0 0 0 0 div div field-label 16 0
+
+cogsci@ceu.edu O cogsci@ceu.edu 0 0 1 0 0 0 0 div div even 18 0
+
+Website O website 0 0 0 0 0 0 1 div div field-label 16 0
+: O : 0 0 0 0 0 0 0 div div field-label 16 0
+
+http O http 0 0 0 0 0 0 0 div div even 18 0
+: O : 0 0 0 0 0 0 0 div div even 18 0
+//cognitivescience.ceu.edu O //cognitivescience.ceu.edu 0 0 0 0 0 0 0 div div even 18 0
+
+Unit O unit 0 0 0 0 0 0 1 div div pane-title 14 0
+head O head 0 0 0 0 0 0 0 div div pane-title 14 0
+
+Christophe B-PER christophe 0 1 0 0 0 0 1 div div pane-content 27 0
+Heintz I-PER heintz 0 1 0 0 0 0 1 div div pane-content 27 0
+
+Department O department 0 0 0 0 0 0 1 div div field-content 30 0
+Head O head 0 1 0 0 0 0 1 div div field-content 30 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 30 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 30 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 28 0
+6 O 6 0 0 0 1 0 0 0 div div even 28 0
+u. O u. 0 1 0 0 0 0 0 div div even 28 0
+7 O 7 0 0 0 1 0 0 0 div div even 28 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 27 0
+: O : 0 0 0 0 0 0 0 div div field-label 27 0
+
+1st O 1st 0 0 0 1 0 0 0 div div even 28 0
+floor O floor 0 0 0 0 0 0 0 div div even 28 0
+, O , 0 0 0 0 0 0 0 div div even 28 0
+Room O room 0 1 0 0 0 0 1 div div even 28 0
+115. O 115. 0 0 0 1 0 0 0 div div even 28 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 27 0
+: O : 0 0 0 0 0 0 0 div div field-label 27 0
+
++36 O +36 0 0 0 1 0 0 0 div div even 28 0
+- O - 0 0 0 0 0 0 0 div div even 28 0
+1 O 1 0 0 0 1 0 0 0 div div even 28 0
+- O - 0 0 0 0 0 0 0 div div even 28 0
+328 O 328 0 0 0 1 0 0 0 div div even 28 0
+- O - 0 0 0 0 0 0 0 div div even 28 0
+3668 O 3668 0 0 0 1 0 0 0 div div even 28 0
+
+heintzc@ceu.edu O heintzc@ceu.edu 0 0 1 0 0 0 0 div div even 29 0
+
+The O the 0 1 0 0 0 0 1 div div pane-content 15 0
+Department O department 0 0 0 0 0 0 1 div div pane-content 15 0
+of O of 0 1 0 0 0 0 0 div div pane-content 15 0
+Cognitive O cognitive 0 0 0 0 0 0 1 div div pane-content 15 0
+Science O science 0 0 0 0 0 0 1 div div pane-content 15 0
+is O is 0 0 0 0 0 0 0 div div pane-content 15 0
+a O a 0 1 0 0 0 0 0 div div pane-content 15 0
+thriving O thriving 0 0 0 0 0 0 0 div div pane-content 15 0
+interdisciplinary O interdisciplinary 0 0 0 0 0 0 0 div div pane-content 15 0
+department O department 0 0 0 0 0 0 0 div div pane-content 15 0
+, O , 0 0 0 0 0 0 0 div div pane-content 15 0
+which O which 0 0 0 0 0 0 0 div div pane-content 15 0
+offers O offers 0 0 0 0 0 0 0 div div pane-content 15 0
+a O a 0 1 0 0 0 0 0 div div pane-content 15 0
+PhD O phd 0 0 0 0 0 0 1 div div pane-content 15 0
+program O program 0 0 0 0 0 0 0 div div pane-content 15 0
+with O with 0 0 0 0 0 0 0 div div pane-content 15 0
+a O a 0 1 0 0 0 0 0 div div pane-content 15 0
+comprehensive O comprehensive 0 0 0 0 0 0 0 div div pane-content 15 0
+range O range 0 0 0 0 0 0 0 div div pane-content 15 0
+of O of 0 1 0 0 0 0 0 div div pane-content 15 0
+rigorous O rigorous 0 0 0 0 0 0 0 div div pane-content 15 0
+coursework O coursework 0 0 0 0 0 0 0 div div pane-content 15 0
+and O and 0 1 0 0 0 0 0 div div pane-content 15 0
+active O active 0 0 0 0 0 0 0 div div pane-content 15 0
+research O research 0 0 0 0 0 0 0 div div pane-content 15 0
+experience. O experience. 0 0 0 0 0 0 0 div div pane-content 15 0
+
+It O it 0 1 0 0 0 0 1 div div pane-content 15 0
+is O is 0 0 0 0 0 0 0 div div pane-content 15 0
+a O a 0 1 0 0 0 0 0 div div pane-content 15 0
+research O research 0 0 0 0 0 0 0 div div pane-content 15 0
+- O - 0 0 0 0 0 0 0 div div pane-content 15 0
+based O based 0 0 0 0 0 0 0 div div pane-content 15 0
+training O training 0 0 0 0 0 0 0 div div pane-content 15 0
+program O program 0 0 0 0 0 0 0 div div pane-content 15 0
+that O that 0 0 0 0 0 0 0 div div pane-content 15 0
+specializes O specializes 0 0 0 0 0 0 0 div div pane-content 15 0
+in O in 0 1 0 0 0 0 0 div div pane-content 15 0
+but O but 0 0 0 0 0 0 0 div div pane-content 15 0
+is O is 0 0 0 0 0 0 0 div div pane-content 15 0
+not O not 0 0 0 0 0 0 0 div div pane-content 15 0
+limited O limited 0 0 0 0 0 0 0 div div pane-content 15 0
+to O to 0 0 0 0 0 0 0 div div pane-content 15 0
+the O the 0 1 0 0 0 0 0 div div pane-content 15 0
+study O study 0 0 0 0 0 0 0 div div pane-content 15 0
+of O of 0 1 0 0 0 0 0 div div pane-content 15 0
+the O the 0 1 0 0 0 0 0 div div pane-content 15 0
+social O social 0 0 0 0 0 0 0 div div pane-content 15 0
+and O and 0 1 0 0 0 0 0 div div pane-content 15 0
+biological O biological 0 0 0 0 0 0 0 div div pane-content 15 0
+bases O bases 0 0 0 0 0 0 0 div div pane-content 15 0
+of O of 0 1 0 0 0 0 0 div div pane-content 15 0
+cognition. O cognition. 0 0 0 0 0 0 0 div div pane-content 15 0
+
+Research O research 0 1 0 0 0 0 1 div div pane-content 15 0
+topics O topics 0 0 0 0 0 0 0 div div pane-content 15 0
+include O include 0 0 0 0 0 0 0 div div pane-content 15 0
+cooperation O cooperation 0 0 0 0 0 0 0 div div pane-content 15 0
+, O , 0 0 0 0 0 0 0 div div pane-content 15 0
+communication O communication 0 0 0 0 0 0 0 div div pane-content 15 0
+, O , 0 0 0 0 0 0 0 div div pane-content 15 0
+social O social 0 0 0 0 0 0 0 div div pane-content 15 0
+learning O learning 0 0 0 0 0 0 0 div div pane-content 15 0
+, O , 0 0 0 0 0 0 0 div div pane-content 15 0
+cultural O cultural 0 0 0 0 0 0 0 div div pane-content 15 0
+transmission O transmission 0 0 0 0 0 0 0 div div pane-content 15 0
+, O , 0 0 0 0 0 0 0 div div pane-content 15 0
+joint O joint 0 0 0 0 0 0 0 div div pane-content 15 0
+action O action 0 0 0 0 0 0 0 div div pane-content 15 0
+, O , 0 0 0 0 0 0 0 div div pane-content 15 0
+developmental O developmental 0 0 0 0 0 0 0 div div pane-content 15 0
+social O social 0 0 0 0 0 0 0 div div pane-content 15 0
+cognition O cognition 0 0 0 0 0 0 0 div div pane-content 15 0
+, O , 0 0 0 0 0 0 0 div div pane-content 15 0
+neural O neural 0 0 0 0 0 0 0 div div pane-content 15 0
+bases O bases 0 0 0 0 0 0 0 div div pane-content 15 0
+of O of 0 1 0 0 0 0 0 div div pane-content 15 0
+cognition O cognition 0 0 0 0 0 0 0 div div pane-content 15 0
+, O , 0 0 0 0 0 0 0 div div pane-content 15 0
+strategic O strategic 0 0 0 0 0 0 0 div div pane-content 15 0
+decision O decision 0 0 0 0 0 0 0 div div pane-content 15 0
+making O making 0 0 0 0 0 0 0 div div pane-content 15 0
+, O , 0 0 0 0 0 0 0 div div pane-content 15 0
+visual O visual 0 0 0 0 0 0 0 div div pane-content 15 0
+cognition O cognition 0 0 0 0 0 0 0 div div pane-content 15 0
+, O , 0 0 0 0 0 0 0 div div pane-content 15 0
+statistical O statistical 0 0 0 0 0 0 0 div div pane-content 15 0
+learning O learning 0 0 0 0 0 0 0 div div pane-content 15 0
+, O , 0 0 0 0 0 0 0 div div pane-content 15 0
+and O and 0 1 0 0 0 0 0 div div pane-content 15 0
+cognitive O cognitive 0 0 0 0 0 0 0 div div pane-content 15 0
+neuroscience. O neuroscience. 0 0 0 0 0 0 0 div div pane-content 15 0
+
+Students O students 0 0 0 0 0 0 1 div div pane-content 15 0
+will O will 0 0 0 0 0 0 0 div div pane-content 15 0
+follow O follow 0 0 0 0 0 0 0 div div pane-content 15 0
+courses O courses 0 0 0 0 0 0 0 div div pane-content 15 0
+in O in 0 1 0 0 0 0 0 div div pane-content 15 0
+cognitive O cognitive 0 0 0 0 0 0 0 div div pane-content 15 0
+psychology O psychology 0 0 0 0 0 0 0 div div pane-content 15 0
+, O , 0 0 0 0 0 0 0 div div pane-content 15 0
+philosophy O philosophy 0 0 0 0 0 0 0 div div pane-content 15 0
+of O of 0 1 0 0 0 0 0 div div pane-content 15 0
+mind O mind 0 0 0 0 0 0 0 div div pane-content 15 0
+, O , 0 0 0 0 0 0 0 div div pane-content 15 0
+cognitive O cognitive 0 0 0 0 0 0 0 div div pane-content 15 0
+anthropology O anthropology 0 0 0 0 0 0 0 div div pane-content 15 0
+, O , 0 0 0 0 0 0 0 div div pane-content 15 0
+computational O computational 0 0 0 0 0 0 0 div div pane-content 15 0
+and O and 0 1 0 0 0 0 0 div div pane-content 15 0
+biological O biological 0 0 0 0 0 0 0 div div pane-content 15 0
+cognition O cognition 0 0 0 0 0 0 0 div div pane-content 15 0
+, O , 0 0 0 0 0 0 0 div div pane-content 15 0
+vision O vision 0 0 0 0 0 0 0 div div pane-content 15 0
+and O and 0 1 0 0 0 0 0 div div pane-content 15 0
+linguistics. O linguistics. 0 0 0 0 0 0 0 div div pane-content 15 0
+
+They O they 0 1 0 0 0 0 1 div div pane-content 15 0
+will O will 0 0 0 0 0 0 0 div div pane-content 15 0
+receive O receive 0 0 0 0 0 0 0 div div pane-content 15 0
+practical O practical 0 0 0 0 0 0 0 div div pane-content 15 0
+training O training 0 0 0 0 0 0 0 div div pane-content 15 0
+and O and 0 1 0 0 0 0 0 div div pane-content 15 0
+join O join 0 0 0 0 0 0 0 div div pane-content 15 0
+research O research 0 0 0 0 0 0 0 div div pane-content 15 0
+programs O programs 0 0 0 0 0 0 0 div div pane-content 15 0
+in O in 0 1 0 0 0 0 0 div div pane-content 15 0
+the O the 0 1 0 0 0 0 0 div div pane-content 15 0
+laboratories O laboratories 0 0 0 0 0 0 0 div div pane-content 15 0
+of O of 0 1 0 0 0 0 0 div div pane-content 15 0
+the O the 0 1 0 0 0 0 0 div div pane-content 15 0
+members O members 0 0 0 0 0 0 0 div div pane-content 15 0
+of O of 0 1 0 0 0 0 0 div div pane-content 15 0
+the O the 0 1 0 0 0 0 0 div div pane-content 15 0
+department. O department. 0 0 0 0 0 0 0 div div pane-content 15 0
+
+Academic O academic 0 0 0 0 0 0 1 div div pane-title 14 0
+Staff O staff 0 1 0 0 0 0 1 div div pane-title 14 0
+
+Merryn B-PER merryn 0 1 0 0 0 0 1 div div pane-content 30 0
+Constable I-PER constable 0 1 0 0 0 0 1 div div pane-content 30 0
+
+Postdoctoral O postdoctoral 0 0 0 0 0 0 1 div div field-content 33 0
+Fellow O fellow 0 0 0 0 0 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+117 O 117 0 0 0 1 0 0 0 div div even 31 0
+
+ConstableM@ceu.edu O constablem@ceu.edu 0 0 1 0 0 0 1 div div even 32 0
+
+Gergely B-PER gergely 1 1 0 0 0 0 1 div div pane-content 30 0
+Csibra I-PER csibra 1 1 0 0 0 0 1 div div pane-content 30 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+Room O room 0 1 0 0 0 0 1 div div even 31 0
+109. O 109. 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++36 O +36 0 0 0 1 0 0 0 div div even 31 0
+1 O 1 0 0 0 1 0 0 0 div div even 31 0
+328 O 328 0 0 0 1 0 0 0 div div even 31 0
+3661 O 3661 0 0 0 1 0 0 0 div div even 31 0
+
+csibrag@ceu.edu O csibrag@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Arianna B-PER arianna 0 1 0 0 0 0 1 div div pane-content 30 0
+Curioni I-PER curioni 0 1 0 0 0 0 1 div div pane-content 30 0
+
+Postdoctoral O postdoctoral 0 0 0 0 0 0 1 div div field-content 33 0
+Fellow O fellow 0 0 0 0 0 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+117 O 117 0 0 0 1 0 0 0 div div even 31 0
+
+curionia@ceu.edu O curionia@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+József B-PER jozsef 1 1 0 0 0 0 1 div div pane-content 30 0
+Fiser I-PER fiser 1 1 0 0 0 0 1 div div pane-content 30 0
+
+Director O director 0 1 0 0 0 0 1 div div field-content 33 0
+of O of 0 1 0 0 0 0 0 div div field-content 33 0
+Graduate O graduate 1 1 0 0 0 0 1 div div field-content 33 0
+Studies O studies 0 0 0 0 0 0 1 div div field-content 33 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 33 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+1st O 1st 0 0 0 1 0 0 0 div div even 31 0
+floor O floor 0 0 0 0 0 0 0 div div even 31 0
+, O , 0 0 0 0 0 0 0 div div even 31 0
+Room O room 0 1 0 0 0 0 1 div div even 31 0
+118. O 118. 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++36 O +36 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+1 O 1 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+887 O 887 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+5141 O 5141 0 0 0 1 0 0 0 div div even 31 0
+
+fiserj@ceu.edu O fiserj@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Merse B-PER merse 0 1 0 0 0 0 1 div div pane-content 30 0
+E. I-PER e. 0 1 0 0 0 0 1 div div pane-content 30 0
+Gáspár I-PER gaspar 0 1 0 0 0 0 1 div div pane-content 30 0
+
+Postdoctoral O postdoctoral 0 0 0 0 0 0 1 div div field-content 33 0
+Fellow O fellow 0 0 0 0 0 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+120 O 120 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++3613273669 O +3613273669 0 0 0 1 0 0 0 div div even 31 0
+
+GasparM@ceu.edu O gasparm@ceu.edu 0 0 1 0 0 0 1 div div even 32 0
+
+György B-PER gyorgy 1 1 0 0 0 0 1 div div pane-content 30 0
+Gergely I-PER gergely 1 1 0 0 0 0 1 div div pane-content 30 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+1st O 1st 0 0 0 1 0 0 0 div div even 31 0
+floor O floor 0 0 0 0 0 0 0 div div even 31 0
+, O , 0 0 0 0 0 0 0 div div even 31 0
+Room O room 0 1 0 0 0 0 1 div div even 31 0
+111. O 111. 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++36 O +36 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+1 O 1 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+328 O 328 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+3663 O 3663 0 0 0 1 0 0 0 div div even 31 0
+
+gergelygy@ceu.edu O gergelygy@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Mikołaj B-PER mikolaj 0 0 0 0 0 0 1 div div pane-content 30 0
+Hernik I-PER hernik 0 1 0 0 0 0 1 div div pane-content 30 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 33 0
+Research O research 0 1 0 0 0 0 1 div div field-content 33 0
+Fellow O fellow 0 0 0 0 0 0 1 div div field-content 33 0
+
+Postdoctoral O postdoctoral 0 0 0 0 0 0 1 div div field-content 33 0
+Fellow O fellow 0 0 0 0 0 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+129 O 129 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++36 O +36 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+1 O 1 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+327 O 327 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+3000 O 3000 0 0 0 1 0 0 0 div div even 31 0
+ext. O ext. 0 0 0 0 0 0 0 div div even 31 0
+2773 O 2773 0 0 0 1 0 0 0 div div even 31 0
+
+Guenther B-PER guenther 0 1 0 0 0 0 1 div div pane-content 30 0
+Knoblich I-PER knoblich 0 1 0 0 0 0 1 div div pane-content 30 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+1st O 1st 0 0 0 1 0 0 0 div div even 31 0
+floor O floor 0 0 0 0 0 0 0 div div even 31 0
+, O , 0 0 0 0 0 0 0 div div even 31 0
+Room O room 0 1 0 0 0 0 1 div div even 31 0
+113. O 113. 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++36 O +36 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+1 O 1 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+887 O 887 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+5139 O 5139 0 0 0 1 0 0 0 div div even 31 0
+
+knoblichg@ceu.edu O knoblichg@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Ágnes B-PER agnes 0 1 0 0 0 0 1 div div pane-content 30 0
+Melinda I-PER melinda 0 1 0 0 0 0 1 div div pane-content 30 0
+Kovács I-PER kovacs 0 1 0 0 0 0 1 div div pane-content 30 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 33 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+1st O 1st 0 0 0 1 0 0 0 div div even 31 0
+floor O floor 0 0 0 0 0 0 0 div div even 31 0
+, O , 0 0 0 0 0 0 0 div div even 31 0
+Room O room 0 1 0 0 0 0 1 div div even 31 0
+108. O 108. 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+( O ( 0 0 0 0 0 0 0 div div even 31 0
++36 O +36 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+1 O 1 0 0 0 1 0 0 0 div div even 31 0
+) O ) 0 0 0 0 0 0 0 div div even 31 0
+328 O 328 0 0 0 1 0 0 0 div div even 31 0
+3662 O 3662 0 0 0 1 0 0 0 div div even 31 0
+
+kovacsag@ceu.edu O kovacsag@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Máté B-PER mate 1 1 0 0 0 0 1 div div pane-content 30 0
+Lengyel I-PER lengyel 1 1 0 0 0 0 1 div div pane-content 30 0
+
+Senior O senior 0 1 0 0 0 0 1 div div field-content 33 0
+Research O research 0 1 0 0 0 0 1 div div field-content 33 0
+Fellow O fellow 0 0 0 0 0 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+1st O 1st 0 0 0 1 0 0 0 div div even 31 0
+floor O floor 0 0 0 0 0 0 0 div div even 31 0
+, O , 0 0 0 0 0 0 0 div div even 31 0
+Room O room 0 1 0 0 0 0 1 div div even 31 0
+119. O 119. 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++36 O +36 0 0 0 1 0 0 0 div div even 31 0
+1 O 1 0 0 0 1 0 0 0 div div even 31 0
+887 O 887 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+5142 O 5142 0 0 0 1 0 0 0 div div even 31 0
+
+m.lengyel@eng.cam.ac.uk O m.lengyel@eng.cam.ac.uk 0 0 1 0 0 0 0 div div even 32 0
+
+Hanna B-PER hanna 0 1 0 0 0 0 1 div div pane-content 30 0
+Marno I-PER marno 0 1 0 0 0 0 1 div div pane-content 30 0
+
+Postdoctoral O postdoctoral 0 0 0 0 0 0 1 div div field-content 33 0
+Fellow O fellow 0 0 0 0 0 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+112 O 112 0 0 0 1 0 0 0 div div even 31 0
+
+MarnoH@ceu.edu O marnoh@ceu.edu 0 0 1 0 0 0 1 div div even 32 0
+
+John B-PER john 1 1 0 0 0 0 1 div div pane-content 30 0
+Andrew I-PER andrew 1 1 0 0 1 0 1 div div pane-content 30 0
+Michael I-PER michael 1 1 0 0 0 0 1 div div pane-content 30 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+1st O 1st 0 0 0 1 0 0 0 div div even 31 0
+floor O floor 0 0 0 0 0 0 0 div div even 31 0
+, O , 0 0 0 0 0 0 0 div div even 31 0
+Room O room 0 1 0 0 0 0 1 div div even 31 0
+117. O 117. 0 0 0 1 0 0 0 div div even 31 0
+
+michaelj@ceu.edu O michaelj@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Csaba B-PER csaba 1 1 0 0 0 0 1 div div pane-content 30 0
+Pléh I-PER pleh 1 1 0 0 0 0 1 div div pane-content 30 0
+
+Distinguished O distinguished 0 0 0 0 0 0 1 div div field-content 33 0
+Visiting O visiting 0 0 0 0 0 0 1 div div field-content 33 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+104 O 104 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++36303493735 O +36303493735 0 0 0 1 0 0 0 div div even 31 0
+
+vispleh@ceu.edu O vispleh@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Thom B-PER thom 0 1 0 0 0 0 1 div div pane-content 30 0
+Scott I-PER scott 0 1 0 0 0 0 1 div div pane-content 30 0
+- I-PER - 0 0 0 0 0 0 0 div div pane-content 30 0
+Phillips I-PER phillips 0 1 0 0 0 0 1 div div pane-content 30 0
+
+Postdoctoral O postdoctoral 0 0 0 0 0 0 1 div div field-content 33 0
+Fellow O fellow 0 0 0 0 0 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+112 O 112 0 0 0 1 0 0 0 div div even 31 0
+
+scott O scott 0 0 0 0 0 0 0 div div even 32 0
+- O - 0 0 0 0 0 0 0 div div even 32 0
+phillipst@ceu.edu O phillipst@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Natalie B-PER natalie 1 1 0 0 0 0 1 div div pane-content 30 0
+Sebanz I-PER sebanz 1 1 0 0 0 0 1 div div pane-content 30 0
+
+Professor O professor 0 0 0 0 1 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+1st O 1st 0 0 0 1 0 0 0 div div even 31 0
+floor O floor 0 0 0 0 0 0 0 div div even 31 0
+, O , 0 0 0 0 0 0 0 div div even 31 0
+Room O room 0 1 0 0 0 0 1 div div even 31 0
+114. O 114. 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++36 O +36 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+1 O 1 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+887 O 887 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+5137 O 5137 0 0 0 1 0 0 0 div div even 31 0
+
+sebanzn@ceu.edu O sebanzn@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Dan B-PER dan 1 1 0 0 0 0 1 div div pane-content 30 0
+Sperber I-PER sperber 1 1 0 0 0 0 1 div div pane-content 30 0
+
+Part O part 0 1 0 0 0 0 1 div div field-content 33 0
+- O - 0 0 0 0 0 0 0 div div field-content 33 0
+time O time 0 0 0 0 0 0 0 div div field-content 33 0
+University O university 0 1 0 0 0 0 1 div div field-content 33 0
+Professor O professor 0 0 0 0 1 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+1st O 1st 0 0 0 1 0 0 0 div div even 31 0
+floor O floor 0 0 0 0 0 0 0 div div even 31 0
+, O , 0 0 0 0 0 0 0 div div even 31 0
+Room O room 0 1 0 0 0 0 1 div div even 31 0
+112. O 112. 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++36 O +36 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+1 O 1 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+887 O 887 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+5145 O 5145 0 0 0 1 0 0 0 div div even 31 0
+
+sperberd@ceu.edu O sperberd@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+James B-PER james 0 1 0 0 0 0 1 div div pane-content 30 0
+Strachan I-PER strachan 0 1 0 0 0 0 1 div div pane-content 30 0
+
+Postdoctoral O postdoctoral 0 0 0 0 0 0 1 div div field-content 33 0
+Fellow O fellow 0 0 0 0 0 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+117 O 117 0 0 0 1 0 0 0 div div even 31 0
+
+StrachanJ@ceu.edu O strachanj@ceu.edu 0 0 1 0 0 0 1 div div even 32 0
+
+Tibor B-PER tibor 0 1 0 0 0 0 1 div div pane-content 30 0
+Tauzin I-PER tauzin 0 0 0 0 0 0 1 div div pane-content 30 0
+
+Postdoctoral O postdoctoral 0 0 0 0 0 0 1 div div field-content 33 0
+Fellow O fellow 0 0 0 0 0 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+106 O 106 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++36 O +36 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+1 O 1 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+327 O 327 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+3000/2775 O 3000/2775 0 0 0 1 0 0 0 div div even 31 0
+
+tauzint@ceu.edu O tauzint@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Ernő B-PER ernő 0 0 0 0 0 0 1 div div pane-content 30 0
+Téglás I-PER teglas 0 0 0 0 0 0 1 div div pane-content 30 0
+
+Associate O associate 0 1 0 0 0 0 1 div div field-content 33 0
+Research O research 0 1 0 0 0 0 1 div div field-content 33 0
+Fellow O fellow 0 0 0 0 0 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+1st O 1st 0 0 0 1 0 0 0 div div even 31 0
+floor O floor 0 0 0 0 0 0 0 div div even 31 0
+, O , 0 0 0 0 0 0 0 div div even 31 0
+Room O room 0 1 0 0 0 0 1 div div even 31 0
+110. O 110. 0 0 0 1 0 0 0 div div even 31 0
+
+teglase@ceu.edu O teglase@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Staff O staff 0 1 0 0 0 0 1 div div pane-title 14 0
+
+Dávid B-PER david 0 1 0 0 0 0 1 div div pane-content 30 0
+Csűrös I-PER csűros 0 0 0 0 0 0 1 div div pane-content 30 0
+
+Lab O lab 0 1 0 0 0 0 1 div div field-content 33 0
+Manager O manager 0 0 0 0 0 0 1 div div field-content 33 0
+
+Zrinyi O zrinyi 0 0 0 0 0 0 1 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+14 O 14 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+SOMBY O somby 0 0 0 0 0 0 1 div div even 31 0
+lab O lab 0 0 0 0 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++36 O +36 0 0 0 1 0 0 0 div div even 31 0
+1 O 1 0 0 0 1 0 0 0 div div even 31 0
+3273000 O 3273000 0 0 0 1 0 0 0 div div even 31 0
+ext. O ext. 0 0 0 0 0 0 0 div div even 31 0
+2522 O 2522 0 0 0 1 0 0 0 div div even 31 0
+
+csurosd@ceu.edu O csurosd@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Fruzsina B-PER fruzsina 0 1 0 0 0 0 1 div div pane-content 30 0
+Elekes I-PER elekes 0 1 0 0 0 0 1 div div pane-content 30 0
+
+Lab O lab 0 1 0 0 0 0 1 div div field-content 33 0
+Manager O manager 0 0 0 0 0 0 1 div div field-content 33 0
+
+Zrinyi O zrinyi 0 0 0 0 0 0 1 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+14 O 14 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+SOMBY O somby 0 0 0 0 0 0 1 div div even 31 0
+lab O lab 0 0 0 0 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++36 O +36 0 0 0 1 0 0 0 div div even 31 0
+1 O 1 0 0 0 1 0 0 0 div div even 31 0
+3273000 O 3273000 0 0 0 1 0 0 0 div div even 31 0
+ext. O ext. 0 0 0 0 0 0 0 div div even 31 0
+2522 O 2522 0 0 0 1 0 0 0 div div even 31 0
+
+elekesf@ceu.edu O elekesf@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Györgyné B-PER gyorgyne 0 0 0 0 0 0 1 div div pane-content 30 0
+Finta I-PER finta 0 1 0 0 0 0 1 div div pane-content 30 0
+
+Department O department 0 0 0 0 0 0 1 div div field-content 33 0
+Coordinator O coordinator 0 0 0 0 0 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+1st O 1st 0 0 0 1 0 0 0 div div even 31 0
+floor O floor 0 0 0 0 0 0 0 div div even 31 0
+, O , 0 0 0 0 0 0 0 div div even 31 0
+room O room 0 0 0 0 0 0 0 div div even 31 0
+133. O 133. 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++36 O +36 0 0 0 1 0 0 0 div div even 31 0
+1 O 1 0 0 0 1 0 0 0 div div even 31 0
+887 O 887 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+5138 O 5138 0 0 0 1 0 0 0 div div even 31 0
+
+szabor@ceu.edu O szabor@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Katalin B-PER katalin 0 1 0 0 0 0 1 div div pane-content 30 0
+Illés I-PER illes 0 1 0 0 0 0 1 div div pane-content 30 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+133 O 133 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++3613283674 O +3613283674 0 0 0 1 0 0 0 div div even 31 0
+
+illesk@ceu.edu O illesk@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Andrea B-PER andrea 0 1 0 0 1 0 1 div div pane-content 30 0
+Jenei I-PER jenei 0 1 0 0 0 0 1 div div pane-content 30 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+1st O 1st 0 0 0 1 0 0 0 div div even 31 0
+floor O floor 0 0 0 0 0 0 0 div div even 31 0
+, O , 0 0 0 0 0 0 0 div div even 31 0
+Room O room 0 1 0 0 0 0 1 div div even 31 0
+133. O 133. 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++36 O +36 0 0 0 1 0 0 0 div div even 31 0
+1 O 1 0 0 0 1 0 0 0 div div even 31 0
+887 O 887 0 0 0 1 0 0 0 div div even 31 0
+5135 O 5135 0 0 0 1 0 0 0 div div even 31 0
+
+jeneia@ceu.edu O jeneia@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Márton B-PER marton 0 1 0 0 0 0 1 div div pane-content 30 0
+Gáspár I-PER gaspar 0 1 0 0 0 0 1 div div pane-content 30 0
+Nagy I-PER nagy 0 1 0 0 0 0 1 div div pane-content 30 0
+
+Lab O lab 0 1 0 0 0 0 1 div div field-content 33 0
+Manager O manager 0 0 0 0 0 0 1 div div field-content 33 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+1st O 1st 0 0 0 1 0 0 0 div div even 31 0
+floor O floor 0 0 0 0 0 0 0 div div even 31 0
+, O , 0 0 0 0 0 0 0 div div even 31 0
+Room O room 0 1 0 0 0 0 1 div div even 31 0
+123. O 123. 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++36 O +36 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+1 O 1 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+887 O 887 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+5153 O 5153 0 0 0 1 0 0 0 div div even 31 0
+
+NagyMG@ceu.edu O nagymg@ceu.edu 0 0 1 0 0 0 1 div div even 32 0
+
+Eszter B-PER eszter 0 1 0 0 0 0 1 div div pane-content 30 0
+Salamon I-PER salamon 0 1 0 0 0 0 1 div div pane-content 30 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+1st O 1st 0 0 0 1 0 0 0 div div even 31 0
+floor O floor 0 0 0 0 0 0 0 div div even 31 0
+, O , 0 0 0 0 0 0 0 div div even 31 0
+Room O room 0 1 0 0 0 0 1 div div even 31 0
+133 O 133 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++36 O +36 0 0 0 1 0 0 0 div div even 31 0
+1 O 1 0 0 0 1 0 0 0 div div even 31 0
+877 O 877 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+5158 O 5158 0 0 0 1 0 0 0 div div even 31 0
+
+salamone@ceu.edu O salamone@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Ágnes B-PER agnes 0 1 0 0 0 0 1 div div pane-content 30 0
+Volein I-PER volein 0 1 0 0 0 0 1 div div pane-content 30 0
+
+Oktober O oktober 0 0 0 0 0 0 1 div div even 31 0
+6 O 6 0 0 0 1 0 0 0 div div even 31 0
+u. O u. 0 1 0 0 0 0 0 div div even 31 0
+7 O 7 0 0 0 1 0 0 0 div div even 31 0
+
+Room O room 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
+1st O 1st 0 0 0 1 0 0 0 div div even 31 0
+floor O floor 0 0 0 0 0 0 0 div div even 31 0
+, O , 0 0 0 0 0 0 0 div div even 31 0
+Room O room 0 1 0 0 0 0 1 div div even 31 0
+130. O 130. 0 0 0 1 0 0 0 div div even 31 0
+
+Phone O phone 0 1 0 0 0 0 1 div div field-label 30 0
+: O : 0 0 0 0 0 0 0 div div field-label 30 0
+
++36 O +36 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+1 O 1 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+328 O 328 0 0 0 1 0 0 0 div div even 31 0
+- O - 0 0 0 0 0 0 0 div div even 31 0
+3664 O 3664 0 0 0 1 0 0 0 div div even 31 0
+
+voleina@ceu.edu O voleina@ceu.edu 0 0 1 0 0 0 0 div div even 32 0
+
+Main O main 0 1 0 0 0 0 1 nav div element-invisible 9 0
+menu O menu 0 0 0 0 0 0 0 nav div element-invisible 9 0
+
+By O by 0 1 0 0 0 0 1 li ul first 11 0
+Units O units 0 0 0 0 0 0 1 li ul first 11 0
+
+By O by 0 1 0 0 0 0 1 li ul last 11 0
+Research O research 0 1 0 0 0 0 1 li ul last 11 0
+Areas O areas 0 0 0 0 0 0 1 li ul last 11 0
+
+Copyright O copyright 0 0 0 0 0 0 1 p div odd 9 0
+© O © 0 0 0 0 0 0 0 p div odd 9 0
+Central O central 0 0 0 0 0 0 1 p div odd 9 0
+European O european 0 0 0 0 0 0 1 p div odd 9 0
+University O university 0 1 0 0 0 0 1 p div odd 9 0
+// O // 0 0 0 0 0 0 0 p div odd 9 0
+Postal O postal 0 1 0 0 0 0 1 p div odd 9 0
+Address O address 0 0 0 0 1 0 1 p div odd 9 0
+: O : 0 0 0 0 0 0 0 p div odd 9 0
+Central O central 0 0 0 0 0 0 1 p div odd 9 0
+European O european 0 0 0 0 0 0 1 p div odd 9 0
+University O university 0 1 0 0 0 0 1 p div odd 9 0
+, O , 0 0 0 0 0 0 0 p div odd 9 0
+Nador O nador 0 1 0 0 0 0 1 p div odd 9 0
+u. O u. 0 1 0 0 0 0 0 p div odd 9 0
+9 O 9 0 0 0 1 0 0 0 p div odd 9 0
+, O , 0 0 0 0 0 0 0 p div odd 9 0
+1051 O 1051 0 0 0 1 0 0 0 p div odd 9 0
+Budapest O budapest 0 0 0 0 0 0 1 p div odd 9 0
+, O , 0 0 0 0 0 0 0 p div odd 9 0
+Hungary O hungary 0 0 0 0 0 0 1 p div odd 9 0

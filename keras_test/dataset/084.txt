@@ -1,947 +1,933 @@
-Faculty O faculty 0 0 0 0 0 0 1 head html none 4 1
-Directory O directory 0 0 0 0 0 0 1 head html none 4 1
-| O | 0 0 0 0 0 0 0 head html none 4 1
-Sciences O sciences 0 0 0 0 0 0 1 head html none 4 1
-Po O po 0 1 0 0 0 0 1 head html none 4 1
-Research O research 0 1 0 0 0 0 1 head html none 4 1
+Faculty O faculty 0 0 0 0 0 0 1 0 7 head html none 4 1
+Directory O directory 0 0 0 0 0 0 1 0 6 head html none 4 1
+| O | 0 0 0 0 0 0 0 0 0 head html none 4 1
+Sciences O sciences 0 0 0 0 0 0 1 0 7 head html none 4 1
+Po O po 0 1 0 0 0 0 1 7 6 head html none 4 1
+Research O research 0 1 0 0 0 0 1 0 7 head html none 4 1
 
-Go O go 0 1 0 0 0 0 1 li ul sidebar-second 6 0
-to O to 0 0 0 0 0 0 0 li ul sidebar-second 6 0
-content O content 0 0 0 0 0 0 0 li ul sidebar-second 6 0
-/ O / 0 0 0 0 0 0 0 ul body sidebar-second 5 0
+Go O go 0 1 0 0 0 0 1 5 6 li ul sidebar-second 6 0
+to O to 0 1 0 0 0 0 0 0 10 li ul sidebar-second 6 0
+content O content 0 0 0 0 0 0 0 0 6 li ul sidebar-second 6 0
+/ O / 0 0 0 0 0 0 0 0 0 ul body sidebar-second 5 0
 
-Corporate O corporate 0 0 0 0 0 0 1 li ul sidebar-second 6 0
-navigation O navigation 0 0 0 0 0 0 0 li ul sidebar-second 6 0
-/ O / 0 0 0 0 0 0 0 ul body sidebar-second 5 2
+Corporate O corporate 0 0 0 0 0 0 1 0 3 li ul sidebar-second 6 0
+navigation O navigation 0 0 0 0 0 0 0 0 8 li ul sidebar-second 6 0
+/ O / 0 0 0 0 0 0 0 0 0 ul body sidebar-second 5 2
 
-Main O main 0 1 0 0 0 0 1 li ul sidebar-second 6 0
-navigation O navigation 0 0 0 0 0 0 0 li ul sidebar-second 6 0
-/ O / 0 0 0 0 0 0 0 ul body sidebar-second 5 4
+Main O main 0 1 0 0 0 0 1 3 6 li ul sidebar-second 6 0
+navigation O navigation 0 0 0 0 0 0 0 0 8 li ul sidebar-second 6 0
+/ O / 0 0 0 0 0 0 0 0 0 ul body sidebar-second 5 4
 
-Search O search 0 0 0 0 0 0 1 li ul sidebar-second 6 0
-form O form 0 0 0 0 0 0 0 li ul sidebar-second 6 0
+Search O search 0 0 0 0 0 0 1 0 7 li ul sidebar-second 6 0
+form O form 0 0 0 0 0 0 0 0 6 li ul sidebar-second 6 0
 
-Menu O menu 0 1 0 0 0 0 1 div div title 9 0
-corporate O corporate 0 0 0 0 0 0 0 div div title 9 0
+Menu O menu 0 1 0 0 0 0 1 2 8 div div title 9 0
+corporate O corporate 0 0 0 0 0 0 0 0 3 div div title 9 0
 
-Students O students 0 0 0 0 0 0 1 li ul haschildren 12 0
+Students O students 0 0 0 0 0 0 1 0 8 li ul haschildren 12 0
 
-Education O education 0 0 0 0 0 0 1 li ul first 14 0
+Education O education 0 0 0 0 0 0 1 0 8 li ul first 14 0
 
-Admissions O admissions 0 0 0 0 0 0 1 li ul  14 0
-& O & 0 0 0 0 0 0 0 li ul  14 0
-financial O financial 0 0 0 0 0 0 0 li ul  14 0
-aid O aid 0 0 0 0 0 0 0 li ul  14 0
+Admissions O admissions 0 0 0 0 0 0 1 0 7 li ul  14 0
+& O & 0 0 0 0 0 0 0 0 0 li ul  14 0
+financial O financial 0 0 0 0 0 0 0 0 7 li ul  14 0
+aid O aid 0 0 0 0 0 0 0 0 7 li ul  14 0
 
-Student O student 0 1 0 0 0 0 1 li ul  14 0
-Account O account 0 0 0 0 0 0 1 li ul  14 0
+Student O student 0 1 0 0 0 0 1 1 8 li ul  14 0
+Account O account 0 0 0 0 0 0 1 0 6 li ul  14 0
 
-Student O student 0 1 0 0 0 0 1 li ul  14 0
-services O services 0 0 0 0 0 0 0 li ul  14 0
+Student O student 0 1 0 0 0 0 1 1 8 li ul  14 0
+services O services 0 0 0 0 0 0 0 0 8 li ul  14 0
 
-Student O student 0 1 0 0 0 0 1 li ul last 14 0
-life O life 0 0 0 0 0 0 0 li ul last 14 0
+Student O student 0 1 0 0 0 0 1 1 8 li ul last 14 0
+life O life 0 0 0 0 0 0 0 0 7 li ul last 14 0
 
-Faculty O faculty 0 0 0 0 0 0 1 li ul haschildren 12 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul haschildren 12 0
 
-Alphabetical O alphabetical 0 0 0 0 0 0 1 li ul first 14 0
-directory O directory 0 0 0 0 0 0 0 li ul first 14 0
+Alphabetical O alphabetical 0 0 0 0 0 0 1 0 2 li ul first 14 0
+directory O directory 0 0 0 0 0 0 0 0 6 li ul first 14 0
 
-Thematic O thematic 0 0 0 0 0 0 1 li ul  14 0
-directory O directory 0 0 0 0 0 0 0 li ul  14 0
+Thematic O thematic 0 0 0 0 0 0 1 0 2 li ul  14 0
+directory O directory 0 0 0 0 0 0 0 0 6 li ul  14 0
 
-Research O research 0 1 0 0 0 0 1 li ul  14 0
-Units O units 0 0 0 0 0 0 1 li ul  14 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul  14 0
+Units O units 0 0 0 0 0 0 1 0 4 li ul  14 0
 
-Faculty O faculty 0 0 0 0 0 0 1 li ul  14 0
-Account O account 0 0 0 0 0 0 1 li ul  14 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul  14 0
+Account O account 0 0 0 0 0 0 1 0 6 li ul  14 0
 
-Recruitments O recruitments 0 0 0 0 0 0 1 li ul last 14 0
-and O and 0 1 0 0 0 0 0 li ul last 14 0
-careers O careers 0 0 0 0 0 0 0 li ul last 14 0
-( O ( 0 0 0 0 0 0 0 li ul last 14 0
-HRS4R O hrs4r 0 0 0 1 0 0 1 li ul last 14 0
-) O ) 0 0 0 0 0 0 0 li ul last 14 0
+Recruitments O recruitments 0 0 0 0 0 0 1 0 0 li ul last 14 0
+and O and 0 1 0 0 0 0 0 0 10 li ul last 14 0
+careers O careers 0 0 0 0 0 0 0 0 5 li ul last 14 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul last 14 0
+HRS4R O hrs4r 0 0 0 1 0 0 1 0 0 li ul last 14 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul last 14 0
 
-Businesses O businesses 0 0 0 0 0 0 1 li ul haschildren 12 0
+Businesses O businesses 0 0 0 0 0 0 1 0 3 li ul haschildren 12 0
 
-Recruitment O recruitment 0 0 0 0 0 0 1 li ul first 14 0
-( O ( 0 0 0 0 0 0 0 li ul first 14 0
-jobs O jobs 0 0 0 0 0 0 0 li ul first 14 0
-& O & 0 0 0 0 0 0 0 li ul first 14 0
-internships O internships 0 0 0 0 0 0 0 li ul first 14 0
-) O ) 0 0 0 0 0 0 0 li ul first 14 0
+Recruitment O recruitment 0 0 0 0 0 0 1 0 3 li ul first 14 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul first 14 0
+jobs O jobs 0 0 0 0 0 0 0 0 4 li ul first 14 0
+& O & 0 0 0 0 0 0 0 0 0 li ul first 14 0
+internships O internships 0 0 0 0 0 0 0 0 3 li ul first 14 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul first 14 0
 
-Employee O employee 0 0 0 0 1 0 1 li ul  14 0
-training O training 0 0 0 0 0 0 0 li ul  14 0
+Employee O employee 0 0 0 0 1 0 1 0 3 li ul  14 0
+training O training 0 0 0 0 0 0 0 0 6 li ul  14 0
 
-Support O support 0 0 0 0 0 0 1 li ul last 14 0
-Sciences O sciences 0 0 0 0 0 0 1 li ul last 14 0
-Po O po 0 1 0 0 0 0 1 li ul last 14 0
+Support O support 0 0 0 0 0 0 1 0 7 li ul last 14 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul last 14 0
+Po O po 0 1 0 0 0 0 1 7 6 li ul last 14 0
 
-Alumni O alumni 0 0 0 0 0 0 1 li ul  12 0
-& O & 0 0 0 0 0 0 0 li ul  12 0
-Donors O donors 0 0 0 0 0 0 1 li ul  12 0
+Alumni O alumni 0 0 0 0 0 0 1 0 7 li ul  12 0
+& O & 0 0 0 0 0 0 0 0 0 li ul  12 0
+Donors O donors 0 0 0 0 0 0 1 0 3 li ul  12 0
 
-Resources O resources 0 0 0 0 0 0 1 li ul haschildren 12 0
+Resources O resources 0 0 0 0 0 0 1 0 7 li ul haschildren 12 0
 
-Documentary O documentary 0 0 0 0 0 0 1 li ul first 14 0
-resources O resources 0 0 0 0 0 0 0 li ul first 14 0
+Documentary O documentary 0 0 0 0 0 0 1 0 2 li ul first 14 0
+resources O resources 0 0 0 0 0 0 0 0 7 li ul first 14 0
 
-Digital O digital 0 1 0 0 0 0 1 li ul  14 0
-campus O campus 0 0 0 0 0 0 0 li ul  14 0
+Digital O digital 0 1 0 0 0 0 1 0 5 li ul  14 0
+campus O campus 0 0 0 0 0 0 0 0 8 li ul  14 0
 
-Online O online 0 0 0 0 0 0 1 li ul last 14 0
-tools O tools 0 0 0 0 0 0 0 li ul last 14 0
+Online O online 0 0 0 0 0 0 1 0 7 li ul last 14 0
+tools O tools 0 0 0 0 0 0 0 0 6 li ul last 14 0
 
-Français O francais 0 1 0 0 0 0 1 li ul last 12 0
+Français O francais 0 1 0 0 0 0 1 0 8 li ul last 12 0
 
-Search O search 0 0 0 0 0 0 1 div div form-item 14 0
-this O this 0 0 0 0 0 0 0 div div form-item 14 0
-site O site 0 0 0 0 0 0 0 div div form-item 14 0
-: O : 0 0 0 0 0 0 0 div div form-item 14 0
+Search O search 0 0 0 0 0 0 1 0 7 div div form-item 14 0
+this O this 0 0 0 0 0 0 0 0 8 div div form-item 14 0
+site O site 0 0 0 0 0 0 0 0 8 div div form-item 14 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div form-item 14 0
 
-Research O research 0 1 0 0 0 0 1 div div title 7 97
+Research O research 0 1 0 0 0 0 1 0 7 div div title 7 97
 
-Home O home 0 1 0 0 0 0 1 li ul  15 0
+Home O home 0 1 0 0 0 0 1 2 6 li ul  15 0
 
-About O about 0 0 0 0 0 0 1 li ul fixed-width 15 0
-us O us 0 1 0 0 0 0 0 li ul fixed-width 15 0
+About O about 0 0 0 0 0 0 1 0 8 li ul fixed-width 15 0
+us O us 0 1 0 0 0 0 0 1 8 li ul fixed-width 15 0
 
-Research O research 0 1 0 0 0 0 1 li ul  17 0
-Policy O policy 0 0 0 0 0 0 1 li ul  17 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul  17 0
+Policy O policy 0 0 0 0 0 0 1 0 6 li ul  17 0
 
-Annual O annual 0 0 0 0 0 0 1 li ul  17 0
-reports O reports 0 0 0 0 0 0 0 li ul  17 0
+Annual O annual 0 0 0 0 0 0 1 0 5 li ul  17 0
+reports O reports 0 0 0 0 0 0 0 0 4 li ul  17 0
 
-Key O key 0 1 0 0 0 0 1 li ul  17 0
-Figures O figures 0 0 0 0 0 0 1 li ul  17 0
+Key O key 0 1 0 0 0 0 1 4 5 li ul  17 0
+Figures O figures 0 0 0 0 0 0 1 0 4 li ul  17 0
 
-Renown O renown 0 0 0 0 0 0 1 li ul  17 0
+Renown O renown 0 0 0 0 0 0 1 0 0 li ul  17 0
 
-Rankings O rankings 0 0 0 0 0 0 1 li ul  19 1
+Rankings O rankings 0 0 0 0 0 0 1 0 4 li ul  19 1
 
-Awards O awards 0 0 0 0 0 0 1 li ul  19 1
+Awards O awards 0 0 0 0 0 0 1 0 6 li ul  19 1
 
-Faculty O faculty 0 0 0 0 0 0 1 li ul fixed-width 15 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul fixed-width 15 0
 
-Permanent O permanent 0 0 0 0 0 0 1 li ul active 17 0
-Faculty O faculty 0 0 0 0 0 0 1 li ul active 17 0
+Permanent O permanent 0 0 0 0 0 0 1 0 7 li ul active 17 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul active 17 0
 
-Visiting O visiting 0 0 0 0 0 0 1 li ul  17 0
-Faculty O faculty 0 0 0 0 0 0 1 li ul  17 0
+Visiting O visiting 0 0 0 0 0 0 1 0 4 li ul  17 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul  17 0
 
-PhD O phd 0 0 0 0 0 0 1 li ul  17 0
+PhD O phd 0 0 0 0 0 0 1 0 6 li ul  17 0
 
-Vacancies O vacancies 0 0 0 0 0 0 1 li ul  17 0
+Vacancies O vacancies 0 0 0 0 0 0 1 0 1 li ul  17 0
 
-Research O research 0 1 0 0 0 0 1 li ul fixed-width 15 0
-Units O units 0 0 0 0 0 0 1 li ul fixed-width 15 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul fixed-width 15 0
+Units O units 0 0 0 0 0 0 1 0 4 li ul fixed-width 15 0
 
-Research O research 0 1 0 0 0 0 1 li ul  17 0
-Centers O centers 0 0 0 0 0 0 1 li ul  17 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul  17 0
+Centers O centers 0 0 0 0 0 0 1 0 4 li ul  17 0
 
-Cross O cross 0 1 0 0 0 0 1 li ul  17 0
-- O - 0 0 0 0 0 0 0 li ul  17 0
-cutting O cutting 0 0 0 0 0 0 0 li ul  17 0
-Programmes O programmes 0 0 0 0 0 0 1 li ul  17 0
+Cross O cross 0 1 0 0 0 0 1 5 5 li ul  17 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul  17 0
+cutting O cutting 0 0 0 0 0 0 0 0 2 li ul  17 0
+Programmes O programmes 0 0 0 0 0 0 1 0 6 li ul  17 0
 
-Doctoral O doctoral 0 0 0 0 0 0 1 li ul  17 0
-School O school 0 1 0 0 0 0 1 li ul  17 0
+Doctoral O doctoral 0 0 0 0 0 0 1 0 3 li ul  17 0
+School O school 0 1 0 0 0 0 1 0 7 li ul  17 0
 
-Chairs O chairs 0 0 0 0 0 0 1 li ul  17 0
+Chairs O chairs 0 0 0 0 0 0 1 0 1 li ul  17 0
 
-Ongoing O ongoing 0 0 0 0 0 0 1 li ul fixed-width 15 0
-Research O research 0 1 0 0 0 0 1 li ul fixed-width 15 0
+Ongoing O ongoing 0 0 0 0 0 0 1 0 3 li ul fixed-width 15 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul fixed-width 15 0
 
-Faculty O faculty 0 0 0 0 0 0 1 li ul  17 0
-Expertise O expertise 0 0 0 0 0 0 1 li ul  17 0
-Directory O directory 0 0 0 0 0 0 1 li ul  17 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul  17 0
+Expertise O expertise 0 0 0 0 0 0 1 0 4 li ul  17 0
+Directory O directory 0 0 0 0 0 0 1 0 6 li ul  17 0
 
-Unit O unit 0 0 0 0 0 0 1 li ul  17 0
-lines O lines 0 0 0 0 0 0 0 li ul  17 0
-of O of 0 1 0 0 0 0 0 li ul  17 0
-research O research 0 0 0 0 0 0 0 li ul  17 0
+Unit O unit 0 0 0 0 0 0 1 0 5 li ul  17 0
+lines O lines 0 0 0 0 0 0 0 0 3 li ul  17 0
+of O of 0 1 0 0 0 0 0 2 10 li ul  17 0
+research O research 0 0 0 0 0 0 0 0 7 li ul  17 0
 
-Agreements O agreements 0 0 0 0 0 0 1 li ul  17 0
+Agreements O agreements 0 0 0 0 0 0 1 0 4 li ul  17 0
 
-Ongoing O ongoing 0 0 0 0 0 0 1 li ul  19 1
-European O european 0 0 0 0 0 0 1 li ul  19 1
-projects O projects 0 0 0 0 0 0 0 li ul  19 1
+Ongoing O ongoing 0 0 0 0 0 0 1 0 3 li ul  19 1
+European O european 0 0 0 0 0 0 1 0 5 li ul  19 1
+projects O projects 0 0 0 0 0 0 0 0 6 li ul  19 1
 
-Achieved O achieved 0 0 0 0 0 0 1 li ul  19 1
-European O european 0 0 0 0 0 0 1 li ul  19 1
-projects O projects 0 0 0 0 0 0 0 li ul  19 1
+Achieved O achieved 0 0 0 0 0 0 1 0 2 li ul  19 1
+European O european 0 0 0 0 0 0 1 0 5 li ul  19 1
+projects O projects 0 0 0 0 0 0 0 0 6 li ul  19 1
 
-ANR O anr 0 0 0 0 0 0 1 li ul  19 1
-Agreements O agreements 0 0 0 0 0 0 1 li ul  19 1
+ANR O anr 0 0 0 0 0 0 1 0 1 li ul  19 1
+Agreements O agreements 0 0 0 0 0 0 1 0 4 li ul  19 1
 
-Publications O publications 0 0 0 0 0 0 1 li ul fixed-width 15 0
+Publications O publications 0 0 0 0 0 0 1 0 6 li ul fixed-width 15 0
 
-Just O just 0 1 0 0 0 0 1 li ul  17 0
-published O published 0 0 0 0 0 0 0 li ul  17 0
+Just O just 0 1 0 0 0 0 1 4 5 li ul  17 0
+published O published 0 0 0 0 0 0 0 0 6 li ul  17 0
 
-Spire O spire 0 0 0 0 0 0 1 li ul  17 0
-, O , 0 0 0 0 0 0 0 li ul  17 0
-Open O open 0 0 0 0 0 0 1 li ul  17 0
-Archives O archives 0 0 0 0 0 0 1 li ul  17 0
+Spire O spire 0 0 0 0 0 0 1 0 1 li ul  17 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul  17 0
+Open O open 0 0 0 0 0 0 1 0 7 li ul  17 0
+Archives O archives 0 0 0 0 0 0 1 0 6 li ul  17 0
 
-Newsroom O newsroom 0 0 0 0 0 0 1 li ul  17 0
+Newsroom O newsroom 0 0 0 0 0 0 1 0 1 li ul  17 0
 
-Cogito O cogito 0 0 0 0 0 0 1 li ul  17 0
-, O , 0 0 0 0 0 0 0 li ul  17 0
-the O the 0 1 0 0 0 0 0 li ul  17 0
-newsletter O newsletter 0 0 0 0 0 0 0 li ul  17 0
+Cogito O cogito 0 0 0 0 0 0 1 0 0 li ul  17 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 li ul  17 0
+the O the 0 1 0 0 0 0 0 0 10 li ul  17 0
+newsletter O newsletter 0 0 0 0 0 0 0 0 5 li ul  17 0
 
-Research O research 0 1 0 0 0 0 1 li ul fixed-width 15 0
-support O support 0 0 0 0 0 0 0 li ul fixed-width 15 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul fixed-width 15 0
+support O support 0 0 0 0 0 0 0 0 7 li ul fixed-width 15 0
 
-Support O support 0 0 0 0 0 0 1 li ul  17 0
-for O for 0 1 0 0 0 0 0 li ul  17 0
-Research O research 0 1 0 0 0 0 1 li ul  17 0
-Projects O projects 0 0 0 0 0 0 1 li ul  17 0
+Support O support 0 0 0 0 0 0 1 0 7 li ul  17 0
+for O for 0 1 0 0 0 0 0 1 9 li ul  17 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul  17 0
+Projects O projects 0 0 0 0 0 0 1 0 6 li ul  17 0
 
-International O international 0 0 0 0 0 0 1 li ul  17 0
-Partnerships O partnerships 0 0 0 0 0 0 1 li ul  17 0
+International O international 0 0 0 0 0 0 1 0 8 li ul  17 0
+Partnerships O partnerships 0 0 0 0 0 0 1 0 4 li ul  17 0
 
-Other O other 0 1 0 0 0 0 1 li ul  17 0
-opportunities O opportunities 0 0 0 0 0 0 0 li ul  17 0
-( O ( 0 0 0 0 0 0 0 li ul  17 0
-FR O fr 0 0 0 0 0 0 1 li ul  17 0
-) O ) 0 0 0 0 0 0 0 li ul  17 0
+Other O other 0 1 0 0 0 0 1 0 7 li ul  17 0
+opportunities O opportunities 0 0 0 0 0 0 0 0 6 li ul  17 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 li ul  17 0
+FR O fr 0 0 0 0 0 0 1 0 8 li ul  17 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 li ul  17 0
 
-Contacts O contacts 0 0 0 0 0 0 1 li ul  15 0
+Contacts O contacts 0 0 0 0 0 0 1 0 5 li ul  15 0
 
-Home O home 0 1 0 0 0 0 1 div div breadcrumb 9 0
-> O > 0 0 0 0 0 0 0 div div breadcrumb 8 90
-Faculty O faculty 0 0 0 0 0 0 1 div div breadcrumb 8 90
-Directory O directory 0 0 0 0 0 0 1 div div breadcrumb 8 90
+Home O home 0 1 0 0 0 0 1 2 6 div div breadcrumb 9 0
+> O > 0 0 0 0 0 0 0 0 0 div div breadcrumb 8 90
+Faculty O faculty 0 0 0 0 0 0 1 0 7 div div breadcrumb 8 90
+Directory O directory 0 0 0 0 0 0 1 0 6 div div breadcrumb 8 90
 
-Faculty O faculty 0 0 0 0 0 0 1 div div title 10 0
-Directory O directory 0 0 0 0 0 0 1 div div title 10 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 div div title 10 0
+Directory O directory 0 0 0 0 0 0 1 0 6 div div title 10 0
 
-Faculty O faculty 0 0 0 0 0 0 1 div div title-article 12 0
-Directory O directory 0 0 0 0 0 0 1 div div title-article 12 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 div div title-article 12 0
+Directory O directory 0 0 0 0 0 0 1 0 6 div div title-article 12 0
 
-A O a 0 1 0 0 0 0 1 li ul active 14 0
+A O a 0 1 0 0 0 0 1 4 11 li ul active 14 0
 
-B O b 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+B O b 0 1 0 0 0 0 1 3 9 li ul spire-pager-alpha 14 0
 
-C O c 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+C O c 0 1 0 0 0 0 1 3 9 li ul spire-pager-alpha 14 0
 
-D O d 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+D O d 0 1 0 0 0 0 1 3 11 li ul spire-pager-alpha 14 0
 
-E O e 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+E O e 0 1 0 0 0 0 1 4 10 li ul spire-pager-alpha 14 0
 
-F O f 0 0 0 0 0 0 1 li ul spire-pager-alpha 14 0
+F O f 0 1 0 0 0 0 1 0 8 li ul spire-pager-alpha 14 0
 
-G O g 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+G O g 0 1 0 0 0 0 1 3 8 li ul spire-pager-alpha 14 0
 
-H O h 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+H O h 0 1 0 0 0 0 1 3 8 li ul spire-pager-alpha 14 0
 
-I O i 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+I O i 0 1 0 0 0 0 1 6 10 li ul spire-pager-alpha 14 0
 
-J O j 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+J O j 0 1 0 0 0 0 1 2 8 li ul spire-pager-alpha 14 0
 
-K O k 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+K O k 0 1 0 0 0 0 1 4 8 li ul spire-pager-alpha 14 0
 
-L O l 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+L O l 0 1 0 0 0 0 1 2 11 li ul spire-pager-alpha 14 0
 
-M O m 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+M O m 0 1 0 0 0 0 1 4 9 li ul spire-pager-alpha 14 0
 
-N O n 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+N O n 0 1 0 0 0 0 1 3 10 li ul spire-pager-alpha 14 0
 
-O O o 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+O O o 0 1 0 0 0 0 1 4 10 li ul spire-pager-alpha 14 0
 
-P O p 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+P O p 0 1 0 0 0 0 1 4 9 li ul spire-pager-alpha 14 0
 
-Q O q 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+Q O q 0 1 0 0 0 0 1 1 8 li ul spire-pager-alpha 14 0
 
-R O r 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+R O r 0 1 0 0 0 0 1 4 8 li ul spire-pager-alpha 14 0
 
-S O s 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+S O s 0 1 0 0 0 0 1 4 10 li ul spire-pager-alpha 14 0
 
-T O t 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+T O t 0 1 0 0 0 0 1 3 9 li ul spire-pager-alpha 14 0
 
-U O u 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+U O u 0 1 0 0 0 0 1 3 10 li ul spire-pager-alpha 14 0
 
-V O v 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+V O v 0 1 0 0 0 0 1 4 9 li ul spire-pager-alpha 14 0
 
-W O w 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+W O w 0 1 0 0 0 0 1 1 9 li ul spire-pager-alpha 14 0
 
-X O x 0 0 0 0 0 0 1 li ul spire-pager-alpha 14 0
+X O x 0 0 0 0 0 0 1 0 9 li ul spire-pager-alpha 14 0
 
-Y O y 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+Y O y 0 1 0 0 0 0 1 2 9 li ul spire-pager-alpha 14 0
 
-Z O z 0 1 0 0 0 0 1 li ul spire-pager-alpha 14 0
+Z O z 0 1 0 0 0 0 1 1 8 li ul spire-pager-alpha 14 0
 
-Fariba B-PER fariba 0 1 0 0 0 0 1 h2 img title 16 0
-Adelkhah I-PER adelkhah 0 0 0 0 0 0 1 h2 img title 16 0
+Fariba B-PER fariba 0 1 0 0 0 0 1 3 0 h2 img title 16 0
+Adelkhah I-PER adelkhah 0 0 0 0 0 0 1 0 0 h2 img title 16 0
 
-Directrice O directrice 0 0 0 0 0 0 1 div img titre 16 0
-de O de 0 1 0 0 0 0 0 div img titre 16 0
-recherche O recherche 0 0 0 0 0 0 0 div img titre 16 0
-, O , 0 0 0 0 0 0 0 div img titre 16 0
-Sciences O sciences 0 0 0 0 0 0 1 div img titre 16 0
-Po O po 0 1 0 0 0 0 1 div img titre 16 0
-, O , 0 0 0 0 0 0 0 div img titre 16 0
-Senior O senior 0 1 0 0 0 0 1 div img titre 16 0
-Research O research 0 1 0 0 0 0 1 div img titre 16 0
-Fellow O fellow 0 0 0 0 0 0 1 div img titre 16 0
-, O , 0 0 0 0 0 0 0 div img titre 16 0
-Sciences O sciences 0 0 0 0 0 0 1 div img titre 16 0
-Po O po 0 1 0 0 0 0 1 div img titre 16 0
+Directrice O directrice 0 0 0 0 0 0 1 0 3 div img titre 16 0
+de O de 0 1 0 0 0 0 0 9 12 div img titre 16 0
+recherche O recherche 0 0 0 0 0 0 0 0 7 div img titre 16 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div img titre 16 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 div img titre 16 0
+Po O po 0 1 0 0 0 0 1 7 6 div img titre 16 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div img titre 16 0
+Senior O senior 0 1 0 0 0 0 1 2 5 div img titre 16 0
+Research O research 0 1 0 0 0 0 1 0 7 div img titre 16 0
+Fellow O fellow 0 0 0 0 0 0 1 0 4 div img titre 16 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div img titre 16 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 div img titre 16 0
+Po O po 0 1 0 0 0 0 1 7 6 div img titre 16 0
 
-fariba.adelkhah@sciencespo.fr O fariba.adelkhah@sciencespo.fr 0 0 1 0 0 0 0 div img email 16 0
+fariba.adelkhah@sciencespo.fr O fariba.adelkhah@sciencespo.fr 0 0 1 0 0 0 0 0 0 div img email 16 0
 
-Tel O tel 0 1 0 0 0 0 1 div img tel 16 0
-: O : 0 0 0 0 0 0 0 div img tel 16 0
-+33158717016 O +33158717016 0 0 0 1 0 0 0 img div tel 15 6
+Tel O tel 0 1 0 0 0 0 1 1 6 div img tel 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img tel 16 0
++33158717016 O +33158717016 0 0 0 1 0 0 0 0 0 img div tel 15 6
 
-Affiliated O affiliated 0 0 0 0 0 0 1 div img affiliation 16 0
-to O to 0 0 0 0 0 0 0 div img affiliation 16 0
-: O : 0 0 0 0 0 0 0 div img affiliation 16 0
-Centre O centre 0 1 0 0 0 0 1 img div affiliation 15 8
-de O de 0 1 0 0 0 0 0 img div affiliation 15 8
-recherches O recherches 0 0 0 0 0 0 0 img div affiliation 15 8
-internationales O internationales 0 0 0 0 0 0 0 img div affiliation 15 8
+Affiliated O affiliated 0 0 0 0 0 0 1 0 3 div img affiliation 16 0
+to O to 0 1 0 0 0 0 0 0 10 div img affiliation 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img affiliation 16 0
+Centre O centre 0 1 0 0 0 0 1 0 7 img div affiliation 15 8
+de O de 0 1 0 0 0 0 0 9 12 img div affiliation 15 8
+recherches O recherches 0 0 0 0 0 0 0 0 5 img div affiliation 15 8
+internationales O internationales 0 0 0 0 0 0 0 0 5 img div affiliation 15 8
 
-Research O research 0 1 0 0 0 0 1 div img themes 16 0
-Topics O topics 0 0 0 0 0 0 1 div img themes 16 0
-: O : 0 0 0 0 0 0 0 div img themes 16 0
-Sociopolitical O sociopolitical 0 0 0 0 0 0 1 img div themes 15 10
-anthropology O anthropology 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-Iran O iran 0 1 0 0 0 0 1 img div themes 15 10
+Research O research 0 1 0 0 0 0 1 0 7 div img themes 16 0
+Topics O topics 0 0 0 0 0 0 1 0 4 div img themes 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img themes 16 0
+Sociopolitical O sociopolitical 0 0 0 0 0 0 1 0 0 img div themes 15 10
+anthropology O anthropology 0 0 0 0 0 0 0 0 5 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+Iran O iran 0 1 0 0 0 0 1 2 5 img div themes 15 10
 
-Yann B-PER yann 0 1 0 0 0 0 1 h2 img title 16 0
-Algan I-PER algan 0 1 0 0 0 0 1 h2 img title 16 0
+Yann B-PER yann 0 1 0 0 0 0 1 6 4 h2 img title 16 0
+Algan I-PER algan 0 1 0 0 0 0 1 1 0 h2 img title 16 0
 
-Professor O professor 0 0 0 0 1 0 1 div img titre 16 0
-of O of 0 1 0 0 0 0 0 div img titre 16 0
-Economics O economics 0 0 0 0 0 0 1 div img titre 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 div img titre 16 0
+of O of 0 1 0 0 0 0 0 2 10 div img titre 16 0
+Economics O economics 0 0 0 0 0 0 1 0 5 div img titre 16 0
 
-yann.algan@sciencespo.fr O yann.algan@sciencespo.fr 0 0 1 0 0 0 0 div img email 16 0
+yann.algan@sciencespo.fr O yann.algan@sciencespo.fr 0 0 1 0 0 0 0 0 0 div img email 16 0
 
-Tel O tel 0 1 0 0 0 0 1 div img tel 16 0
-: O : 0 0 0 0 0 0 0 div img tel 16 0
-+33145496365 O +33145496365 0 0 0 1 0 0 0 img div tel 15 6
+Tel O tel 0 1 0 0 0 0 1 1 6 div img tel 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img tel 16 0
++33145496365 O +33145496365 0 0 0 1 0 0 0 0 0 img div tel 15 6
 
-Affiliated O affiliated 0 0 0 0 0 0 1 div img affiliation 16 0
-to O to 0 0 0 0 0 0 0 div img affiliation 16 0
-: O : 0 0 0 0 0 0 0 div img affiliation 16 0
-Département O departement 0 1 0 0 0 0 1 img div affiliation 15 8
-d O d 0 0 0 0 0 0 0 img div affiliation 15 8
-' O ' 0 0 0 0 0 0 0 img div affiliation 15 8
-économie O economie 0 0 0 0 0 0 0 img div affiliation 15 8
-, O , 0 0 0 0 0 0 0 img div affiliation 15 8
-Centre O centre 0 1 0 0 0 0 1 img div affiliation 15 8
-pour O pour 0 0 0 0 0 0 0 img div affiliation 15 8
-la O la 0 1 0 0 0 0 0 img div affiliation 15 8
-recherche O recherche 0 0 0 0 0 0 0 img div affiliation 15 8
-économique O economique 0 0 0 0 0 0 0 img div affiliation 15 8
-et O et 0 1 0 0 0 0 0 img div affiliation 15 8
-ses O ses 0 0 0 0 0 0 0 img div affiliation 15 8
-applications O applications 0 0 0 0 0 0 0 img div affiliation 15 8
+Affiliated O affiliated 0 0 0 0 0 0 1 0 3 div img affiliation 16 0
+to O to 0 1 0 0 0 0 0 0 10 div img affiliation 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img affiliation 16 0
+Département O departement 0 1 0 0 0 0 1 0 6 img div affiliation 15 8
+d'économie O d'economie 0 0 0 0 0 0 0 0 0 img div affiliation 15 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div affiliation 15 8
+Centre O centre 0 1 0 0 0 0 1 0 7 img div affiliation 15 8
+pour O pour 0 1 0 0 0 0 0 1 9 img div affiliation 15 8
+la O la 0 1 0 0 0 0 0 6 11 img div affiliation 15 8
+recherche O recherche 0 0 0 0 0 0 0 0 7 img div affiliation 15 8
+économique O economique 0 0 0 0 0 0 0 0 6 img div affiliation 15 8
+et O et 0 1 0 0 0 0 0 1 11 img div affiliation 15 8
+ses O ses 0 0 0 0 0 0 0 0 8 img div affiliation 15 8
+applications O applications 0 0 0 0 0 0 0 0 6 img div affiliation 15 8
 
-Research O research 0 1 0 0 0 0 1 div img themes 16 0
-Topics O topics 0 0 0 0 0 0 1 div img themes 16 0
-: O : 0 0 0 0 0 0 0 div img themes 16 0
-Labour O labour 0 1 0 0 0 0 1 img div themes 15 10
-markets O markets 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-Political O political 0 0 0 0 0 0 1 img div themes 15 10
-economy O economy 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-Welfare O welfare 0 0 0 0 0 0 1 img div themes 15 10
-state O state 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-Etat O etat 0 0 0 0 0 0 1 img div themes 15 10
-- O - 0 0 0 0 0 0 0 img div themes 15 10
-providence O providence 0 0 0 0 0 0 0 img div themes 15 10
-
-Guillaume B-PER guillaume 0 1 0 0 0 0 1 h2 div title 15 0
-Allègre I-PER allegre 0 1 0 0 0 0 1 h2 div title 15 0
-
-guillaume.allegre@sciencespo.fr O guillaume.allegre@sciencespo.fr 0 0 1 0 0 0 0 div div email 15 0
-
-Tel O tel 0 1 0 0 0 0 1 div div tel 15 0
-: O : 0 0 0 0 0 0 0 div div tel 15 0
-+33144185426 O +33144185426 0 0 0 1 0 0 0 div div tel 14 4
-
-Affiliated O affiliated 0 0 0 0 0 0 1 div div affiliation 15 0
-to O to 0 0 0 0 0 0 0 div div affiliation 15 0
-: O : 0 0 0 0 0 0 0 div div affiliation 15 0
-Observatoire O observatoire 0 0 0 0 0 0 1 div div affiliation 14 6
-français O francais 0 0 0 0 0 0 0 div div affiliation 14 6
-des O des 0 1 0 0 0 0 0 div div affiliation 14 6
-conjonctures O conjonctures 0 0 0 0 0 0 0 div div affiliation 14 6
-économiques O economiques 0 0 0 0 0 0 0 div div affiliation 14 6
-, O , 0 0 0 0 0 0 0 div div affiliation 14 6
-Observatoire O observatoire 0 0 0 0 0 0 1 div div affiliation 14 6
-français O francais 0 0 0 0 0 0 0 div div affiliation 14 6
-des O des 0 1 0 0 0 0 0 div div affiliation 14 6
-conjonctures O conjonctures 0 0 0 0 0 0 0 div div affiliation 14 6
-économiques O economiques 0 0 0 0 0 0 0 div div affiliation 14 6
-
-Research O research 0 1 0 0 0 0 1 div div themes 15 0
-Topics O topics 0 0 0 0 0 0 1 div div themes 15 0
-: O : 0 0 0 0 0 0 0 div div themes 15 0
-Social O social 0 0 0 0 0 0 1 div div themes 14 8
-policies O policies 0 0 0 0 0 0 0 div div themes 14 8
-, O , 0 0 0 0 0 0 0 div div themes 14 8
-Tax O tax 0 1 0 0 0 0 1 div div themes 14 8
-system O system 0 0 0 0 0 0 0 div div themes 14 8
-, O , 0 0 0 0 0 0 0 div div themes 14 8
-Incentives O incentives 0 0 0 0 0 0 1 div div themes 14 8
-to O to 0 0 0 0 0 0 0 div div themes 14 8
-work O work 0 0 0 0 0 0 0 div div themes 14 8
-, O , 0 0 0 0 0 0 0 div div themes 14 8
-Inequality O inequality 0 0 0 0 0 0 1 div div themes 14 8
-, O , 0 0 0 0 0 0 0 div div themes 14 8
-Poverty O poverty 0 0 0 0 0 0 1 div div themes 14 8
-
-Jenny B-PER jenny 0 1 0 0 0 0 1 h2 img title 16 0
-Andersson I-PER andersson 0 1 0 0 1 0 1 h2 img title 16 0
-
-Directrice O directrice 0 0 0 0 0 0 1 div img titre 16 0
-de O de 0 1 0 0 0 0 0 div img titre 16 0
-recherche O recherche 0 0 0 0 0 0 0 div img titre 16 0
-CNRS O cnrs 0 0 0 0 0 0 1 div img titre 16 0
-, O , 0 0 0 0 0 0 0 div img titre 16 0
-CNRS O cnrs 0 0 0 0 0 0 1 div img titre 16 0
-Research O research 0 1 0 0 0 0 1 div img titre 16 0
-Professor O professor 0 0 0 0 1 0 1 div img titre 16 0
-, O , 0 0 0 0 0 0 0 div img titre 16 0
-Co O co 0 1 0 0 0 0 1 div img titre 16 0
-- O - 0 0 0 0 0 0 0 div img titre 16 0
-directrice O directrice 0 0 0 0 0 0 0 div img titre 16 0
-du O du 0 1 0 0 0 0 0 div img titre 16 0
-MaxPo O maxpo 0 0 0 0 0 0 1 div img titre 16 0
-, O , 0 0 0 0 0 0 0 div img titre 16 0
-Co O co 0 1 0 0 0 0 1 div img titre 16 0
-- O - 0 0 0 0 0 0 0 div img titre 16 0
-director O director 0 0 0 0 0 0 0 div img titre 16 0
-of O of 0 1 0 0 0 0 0 div img titre 16 0
-MaxPo O maxpo 0 0 0 0 0 0 1 div img titre 16 0
-
-jenny.andersson@sciencespo.fr O jenny.andersson@sciencespo.fr 0 0 1 0 0 0 0 div img email 16 0
-
-Tel O tel 0 1 0 0 0 0 1 div img tel 16 0
-: O : 0 0 0 0 0 0 0 div img tel 16 0
-+33145498382 O +33145498382 0 0 0 1 0 0 0 img div tel 15 6
-
-Affiliated O affiliated 0 0 0 0 0 0 1 div img affiliation 16 0
-to O to 0 0 0 0 0 0 0 div img affiliation 16 0
-: O : 0 0 0 0 0 0 0 div img affiliation 16 0
-Centre O centre 0 1 0 0 0 0 1 img div affiliation 15 8
-d O d 0 0 0 0 0 0 0 img div affiliation 15 8
-' O ' 0 0 0 0 0 0 0 img div affiliation 15 8
-études O etudes 0 0 0 0 0 0 0 img div affiliation 15 8
-européennes O europeennes 0 0 0 0 0 0 0 img div affiliation 15 8
-de O de 0 1 0 0 0 0 0 img div affiliation 15 8
-Sciences O sciences 0 0 0 0 0 0 1 img div affiliation 15 8
-Po O po 0 1 0 0 0 0 1 img div affiliation 15 8
-, O , 0 0 0 0 0 0 0 img div affiliation 15 8
-MaxPo O maxpo 0 0 0 0 0 0 1 img div affiliation 15 8
-, O , 0 0 0 0 0 0 0 img div affiliation 15 8
-Sciences O sciences 0 0 0 0 0 0 1 img div affiliation 15 8
-Po O po 0 1 0 0 0 0 1 img div affiliation 15 8
-, O , 0 0 0 0 0 0 0 img div affiliation 15 8
-MaxPo O maxpo 0 0 0 0 0 0 1 img div affiliation 15 8
-
-Research O research 0 1 0 0 0 0 1 div img themes 16 0
-Topics O topics 0 0 0 0 0 0 1 div img themes 16 0
-: O : 0 0 0 0 0 0 0 div img themes 16 0
-Political O political 0 0 0 0 0 0 1 img div themes 15 10
-economy O economy 0 0 0 0 0 0 0 img div themes 15 10
-of O of 0 1 0 0 0 0 0 img div themes 15 10
-social O social 0 0 0 0 0 0 0 img div themes 15 10
-democracy O democracy 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-political O political 0 0 0 0 0 0 0 img div themes 15 10
-history O history 0 0 0 0 0 0 0 img div themes 15 10
-of O of 0 1 0 0 0 0 0 img div themes 15 10
-neoliberalism O neoliberalism 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-transnational O transnational 0 0 0 0 0 0 0 img div themes 15 10
-history O history 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-histories O histories 0 0 0 0 0 0 0 img div themes 15 10
-of O of 0 1 0 0 0 0 0 img div themes 15 10
-prediction O prediction 0 0 0 0 0 0 0 img div themes 15 10
-in O in 0 1 0 0 0 0 0 img div themes 15 10
-the O the 0 1 0 0 0 0 0 img div themes 15 10
-global O global 0 0 0 0 0 0 0 img div themes 15 10
-field O field 0 0 0 0 0 0 0 img div themes 15 10
-
-Claire B-PER claire 0 1 0 0 0 0 1 h2 div title 15 0
-Andrieu I-PER andrieu 0 1 0 0 1 0 1 h2 div title 15 0
-
-Professeur O professeur 0 0 0 0 1 0 1 div div titre 15 0
-des O des 0 1 0 0 0 0 0 div div titre 15 0
-universités O universites 0 0 0 0 0 0 0 div div titre 15 0
-à O a 0 1 0 0 0 0 0 div div titre 15 0
-Sciences O sciences 0 0 0 0 0 0 1 div div titre 15 0
-Po O po 0 1 0 0 0 0 1 div div titre 15 0
-, O , 0 0 0 0 0 0 0 div div titre 15 0
-Full O full 0 1 0 0 0 0 1 div div titre 15 0
-Professor O professor 0 0 0 0 1 0 1 div div titre 15 0
-
-claire.andrieu@sciencespo.fr O claire.andrieu@sciencespo.fr 0 0 1 0 0 0 0 div div email 15 0
-
-Tel O tel 0 1 0 0 0 0 1 div div tel 15 0
-: O : 0 0 0 0 0 0 0 div div tel 15 0
-+33145497740 O +33145497740 0 0 0 1 0 0 0 div div tel 14 6
-
-Affiliated O affiliated 0 0 0 0 0 0 1 div div affiliation 15 0
-to O to 0 0 0 0 0 0 0 div div affiliation 15 0
-: O : 0 0 0 0 0 0 0 div div affiliation 15 0
-Centre O centre 0 1 0 0 0 0 1 div div affiliation 14 8
-d O d 0 0 0 0 0 0 0 div div affiliation 14 8
-' O ' 0 0 0 0 0 0 0 div div affiliation 14 8
-histoire O histoire 0 0 0 0 0 0 0 div div affiliation 14 8
-de O de 0 1 0 0 0 0 0 div div affiliation 14 8
-Sciences O sciences 0 0 0 0 0 0 1 div div affiliation 14 8
-Po O po 0 1 0 0 0 0 1 div div affiliation 14 8
-, O , 0 0 0 0 0 0 0 div div affiliation 14 8
-Centre O centre 0 1 0 0 0 0 1 div div affiliation 14 8
-de O de 0 1 0 0 0 0 0 div div affiliation 14 8
-recherches O recherches 0 0 0 0 0 0 0 div div affiliation 14 8
-internationales O internationales 0 0 0 0 0 0 0 div div affiliation 14 8
-
-Research O research 0 1 0 0 0 0 1 div div themes 15 0
-Topics O topics 0 0 0 0 0 0 1 div div themes 15 0
-: O : 0 0 0 0 0 0 0 div div themes 15 0
-History O history 0 0 0 0 0 0 1 div div themes 14 10
-and O and 0 1 0 0 0 0 0 div div themes 14 10
-memory O memory 0 0 0 0 0 0 0 div div themes 14 10
-, O , 0 0 0 0 0 0 0 div div themes 14 10
-Resistance O resistance 0 0 0 0 0 0 1 div div themes 14 10
-, O , 0 0 0 0 0 0 0 div div themes 14 10
-Social O social 0 0 0 0 0 0 1 div div themes 14 10
-mouvements O mouvements 0 0 0 0 0 0 0 div div themes 14 10
-, O , 0 0 0 0 0 0 0 div div themes 14 10
-World O world 0 1 0 0 0 0 1 div div themes 14 10
-War O war 0 1 0 0 0 0 1 div div themes 14 10
-II O ii 0 1 0 0 0 0 1 div div themes 14 10
-, O , 0 0 0 0 0 0 0 div div themes 14 10
-Seconde O seconde 0 0 0 0 0 0 1 div div themes 14 10
-Guerre O guerre 0 1 0 0 0 0 1 div div themes 14 10
-mondiale O mondiale 0 0 0 0 0 0 0 div div themes 14 10
-
-Céline B-PER celine 0 1 0 0 0 0 1 h2 img title 16 0
-Antonin I-PER antonin 0 1 0 0 0 0 1 h2 img title 16 0
-
-Économiste O economiste 0 0 0 0 0 0 1 div img titre 16 0
-au O au 0 0 0 0 0 0 0 div img titre 16 0
-Département O departement 0 1 0 0 0 0 1 div img titre 16 0
-analyse O analyse 0 0 0 0 0 0 0 div img titre 16 0
-et O et 0 1 0 0 0 0 0 div img titre 16 0
-prévision O prevision 0 0 0 0 0 0 0 div img titre 16 0
-OFCE O ofce 0 0 0 0 0 0 1 div img titre 16 0
-
-celine.antonin@sciencespo.fr O celine.antonin@sciencespo.fr 0 0 1 0 0 0 0 div img email 16 0
-
-Affiliated O affiliated 0 0 0 0 0 0 1 div img affiliation 16 0
-to O to 0 0 0 0 0 0 0 div img affiliation 16 0
-: O : 0 0 0 0 0 0 0 div img affiliation 16 0
-Observatoire O observatoire 0 0 0 0 0 0 1 img div affiliation 15 6
-français O francais 0 0 0 0 0 0 0 img div affiliation 15 6
-des O des 0 1 0 0 0 0 0 img div affiliation 15 6
-conjonctures O conjonctures 0 0 0 0 0 0 0 img div affiliation 15 6
-économiques O economiques 0 0 0 0 0 0 0 img div affiliation 15 6
-
-Research O research 0 1 0 0 0 0 1 div img themes 16 0
-Topics O topics 0 0 0 0 0 0 1 div img themes 16 0
-: O : 0 0 0 0 0 0 0 div img themes 16 0
-Euro O euro 0 1 0 0 0 0 1 img div themes 15 8
-area O area 0 0 0 0 0 0 0 img div themes 15 8
-, O , 0 0 0 0 0 0 0 img div themes 15 8
-Labour O labour 0 1 0 0 0 0 1 img div themes 15 8
-markets O markets 0 0 0 0 0 0 0 img div themes 15 8
-, O , 0 0 0 0 0 0 0 img div themes 15 8
-Savings O savings 0 0 0 0 0 0 1 img div themes 15 8
-, O , 0 0 0 0 0 0 0 img div themes 15 8
-Savings O savings 0 0 0 0 0 0 1 img div themes 15 8
-, O , 0 0 0 0 0 0 0 img div themes 15 8
-Modélisation O modelisation 0 0 0 0 0 0 1 img div themes 15 8
-
-Louis B-PER louis 0 1 0 0 0 0 1 h2 img title 16 0
-Assier I-PER assier 0 0 0 0 0 0 1 h2 img title 16 0
-- I-PER - 0 0 0 0 0 0 0 h2 img title 16 0
-Andrieu I-PER andrieu 0 1 0 0 1 0 1 h2 img title 16 0
-
-Directeur O directeur 0 0 0 0 0 0 1 div img titre 16 0
-de O de 0 1 0 0 0 0 0 div img titre 16 0
-recherche O recherche 0 0 0 0 0 0 0 div img titre 16 0
-CNRS O cnrs 0 0 0 0 0 0 1 div img titre 16 0
-, O , 0 0 0 0 0 0 0 div img titre 16 0
-Professeur O professeur 0 0 0 0 1 0 1 div img titre 16 0
-à O a 0 1 0 0 0 0 0 div img titre 16 0
-l O l 0 1 0 0 0 0 0 div img titre 16 0
-' O ' 0 0 0 0 0 0 0 div img titre 16 0
-École O ecole 0 0 0 0 0 0 1 div img titre 16 0
-de O de 0 1 0 0 0 0 0 div img titre 16 0
-Droit O droit 0 1 0 0 1 0 1 div img titre 16 0
-de O de 0 1 0 0 0 0 0 div img titre 16 0
-Sciences O sciences 0 0 0 0 0 0 1 div img titre 16 0
-Po O po 0 1 0 0 0 0 1 div img titre 16 0
-, O , 0 0 0 0 0 0 0 div img titre 16 0
-Paris O paris 0 1 0 0 0 0 1 div img titre 16 0
-, O , 0 0 0 0 0 0 0 div img titre 16 0
-Fellow O fellow 0 0 0 0 0 0 1 div img titre 16 0
-, O , 0 0 0 0 0 0 0 div img titre 16 0
-Centre O centre 0 1 0 0 0 0 1 div img titre 16 0
-for O for 0 1 0 0 0 0 0 div img titre 16 0
-Advanced O advanced 0 0 0 0 0 0 1 div img titre 16 0
-Studies O studies 0 0 0 0 0 0 1 div img titre 16 0
-, O , 0 0 0 0 0 0 0 div img titre 16 0
-Käte O kate 0 0 0 0 0 0 1 div img titre 16 0
-Hamburger O hamburger 0 1 0 0 0 0 1 div img titre 16 0
-Kolleg O kolleg 0 0 0 0 0 0 1 div img titre 16 0
-, O , 0 0 0 0 0 0 0 div img titre 16 0
-Bonn O bonn 0 1 0 0 0 0 1 div img titre 16 0
-( O ( 0 0 0 0 0 0 0 div img titre 16 0
-Allemagne O allemagne 0 0 0 0 0 0 1 div img titre 16 0
-) O ) 0 0 0 0 0 0 0 div img titre 16 0
-
-louis.assierandrieu@sciencespo.fr O louis.assierandrieu@sciencespo.fr 0 0 1 0 0 0 0 div img email 16 0
-
-Tel O tel 0 1 0 0 0 0 1 div img tel 16 0
-: O : 0 0 0 0 0 0 0 div img tel 16 0
-+33145495943 O +33145495943 0 0 0 1 0 0 0 img div tel 15 6
-
-Affiliated O affiliated 0 0 0 0 0 0 1 div img affiliation 16 0
-to O to 0 0 0 0 0 0 0 div img affiliation 16 0
-: O : 0 0 0 0 0 0 0 div img affiliation 16 0
-Ecole O ecole 0 0 0 0 0 0 1 img div affiliation 15 8
-de O de 0 1 0 0 0 0 0 img div affiliation 15 8
-Droit O droit 0 1 0 0 1 0 1 img div affiliation 15 8
-
-Research O research 0 1 0 0 0 0 1 div img themes 16 0
-Topics O topics 0 0 0 0 0 0 1 div img themes 16 0
-: O : 0 0 0 0 0 0 0 div img themes 16 0
-Epistemology O epistemology 0 0 0 0 0 0 1 img div themes 15 10
-of O of 0 1 0 0 0 0 0 img div themes 15 10
-law O law 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-Lawyers O lawyers 0 0 0 0 0 0 1 img div themes 15 10
-: O : 0 0 0 0 0 0 0 img div themes 15 10
-history O history 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-culture O culture 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-perspectives O perspectives 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-Legal O legal 0 1 0 0 0 0 1 img div themes 15 10
-norms O norms 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-cultural O cultural 0 0 0 0 0 0 0 img div themes 15 10
-norms O norms 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-Historical O historical 0 0 0 0 0 0 1 img div themes 15 10
-anthropology O anthropology 0 0 0 0 0 0 0 img div themes 15 10
-of O of 0 1 0 0 0 0 0 img div themes 15 10
-western O western 0 0 0 0 0 0 0 img div themes 15 10
-law O law 0 0 0 0 0 0 0 img div themes 15 10
-
-Jean B-PER jean 0 1 0 0 0 0 1 h2 img title 16 0
-- I-PER - 0 0 0 0 0 0 0 h2 img title 16 0
-Bernard I-PER bernard 0 1 0 0 0 0 1 h2 img title 16 0
-Auby I-PER auby 0 0 0 0 0 0 1 h2 img title 16 0
-
-Professeur O professeur 0 0 0 0 1 0 1 div img titre 16 0
-des O des 0 1 0 0 0 0 0 div img titre 16 0
-Universités O universites 0 0 0 0 0 0 1 div img titre 16 0
-à O a 0 1 0 0 0 0 0 div img titre 16 0
-Sciences O sciences 0 0 0 0 0 0 1 div img titre 16 0
-Po O po 0 1 0 0 0 0 1 div img titre 16 0
-, O , 0 0 0 0 0 0 0 div img titre 16 0
-Directeur O directeur 0 0 0 0 0 0 1 div img titre 16 0
-de O de 0 1 0 0 0 0 0 div img titre 16 0
-la O la 0 1 0 0 0 0 0 div img titre 16 0
-Chaire O chaire 0 0 0 0 0 0 1 div img titre 16 0
-Mutations O mutations 0 0 0 0 0 0 1 div img titre 16 0
-de O de 0 1 0 0 0 0 0 div img titre 16 0
-l O l 0 1 0 0 0 0 0 div img titre 16 0
-' O ' 0 0 0 0 0 0 0 div img titre 16 0
-action O action 0 0 0 0 0 0 0 div img titre 16 0
-publique O publique 0 0 0 0 0 0 0 div img titre 16 0
-et O et 0 1 0 0 0 0 0 div img titre 16 0
-du O du 0 1 0 0 0 0 0 div img titre 16 0
-droit O droit 0 0 0 0 1 0 0 div img titre 16 0
-public O public 0 0 0 0 0 0 0 div img titre 16 0
-( O ( 0 0 0 0 0 0 0 div img titre 16 0
-Chaire O chaire 0 0 0 0 0 0 1 div img titre 16 0
-MDAP O mdap 0 0 0 0 1 0 1 div img titre 16 0
-) O ) 0 0 0 0 0 0 0 div img titre 16 0
-, O , 0 0 0 0 0 0 0 div img titre 16 0
-Agrégé O agrege 0 0 0 0 0 0 1 div img titre 16 0
-de O de 0 1 0 0 0 0 0 div img titre 16 0
-droit O droit 0 0 0 0 1 0 0 div img titre 16 0
-public O public 0 0 0 0 0 0 0 div img titre 16 0
-
-jeanbernard.auby@sciencespo.fr O jeanbernard.auby@sciencespo.fr 0 0 1 0 0 0 0 div img email 16 0
-
-Tel O tel 0 1 0 0 0 0 1 div img tel 16 0
-: O : 0 0 0 0 0 0 0 div img tel 16 0
-+33145497631 O +33145497631 0 0 0 1 0 0 0 img div tel 15 6
-
-Affiliated O affiliated 0 0 0 0 0 0 1 div img affiliation 16 0
-to O to 0 0 0 0 0 0 0 div img affiliation 16 0
-: O : 0 0 0 0 0 0 0 div img affiliation 16 0
-Ecole O ecole 0 0 0 0 0 0 1 img div affiliation 15 8
-de O de 0 1 0 0 0 0 0 img div affiliation 15 8
-Droit O droit 0 1 0 0 1 0 1 img div affiliation 15 8
-
-Research O research 0 1 0 0 0 0 1 div img themes 16 0
-Topics O topics 0 0 0 0 0 0 1 div img themes 16 0
-: O : 0 0 0 0 0 0 0 div img themes 16 0
-Administrative O administrative 0 0 0 0 0 0 1 img div themes 15 10
-law O law 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-Comparative O comparative 0 0 0 0 0 0 1 img div themes 15 10
-law O law 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-Planning O planning 0 0 0 0 0 0 1 img div themes 15 10
-Law O law 0 1 0 0 0 0 1 img div themes 15 10
-and O and 0 1 0 0 0 0 0 img div themes 15 10
-Local O local 0 1 0 0 0 0 1 img div themes 15 10
-Government O government 0 0 0 0 0 0 1 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-Legal O legal 0 1 0 0 0 0 1 img div themes 15 10
-Globalization O globalization 0 0 0 0 0 0 1 img div themes 15 10
-
-Frédéric B-PER frederic 1 1 0 0 0 0 1 h2 img title 16 0
-Audren I-PER audren 1 1 0 0 1 0 1 h2 img title 16 0
-
-Chargé O charge 0 1 0 0 0 0 1 div img titre 16 0
-de O de 0 1 0 0 0 0 0 div img titre 16 0
-recherche O recherche 0 0 0 0 0 0 0 div img titre 16 0
-( O ( 0 0 0 0 0 0 0 div img titre 16 0
-1e O 1e 0 0 0 1 0 0 0 div img titre 16 0
-classe O classe 0 0 0 0 0 0 0 div img titre 16 0
-) O ) 0 0 0 0 0 0 0 div img titre 16 0
-au O au 0 0 0 0 0 0 0 div img titre 16 0
-CNRS O cnrs 0 0 0 0 0 0 1 div img titre 16 0
-, O , 0 0 0 0 0 0 0 div img titre 16 0
-Chercheur O chercheur 0 0 0 0 0 0 1 div img titre 16 0
-du O du 0 1 0 0 0 0 0 div img titre 16 0
-Centre O centre 0 1 0 0 0 0 1 div img titre 16 0
-d O d 0 0 0 0 0 0 0 div img titre 16 0
-' O ' 0 0 0 0 0 0 0 div img titre 16 0
-études O etudes 0 0 0 0 0 0 0 div img titre 16 0
-européennes O europeennes 0 0 0 0 0 0 0 div img titre 16 0
-( O ( 0 0 0 0 0 0 0 div img titre 16 0
-CEE O cee 0 0 0 0 0 0 1 div img titre 16 0
-- O - 0 0 0 0 0 0 0 div img titre 16 0
-CNRS O cnrs 0 0 0 0 0 0 1 div img titre 16 0
-) O ) 0 0 0 0 0 0 0 div img titre 16 0
-, O , 0 0 0 0 0 0 0 div img titre 16 0
-CNRS O cnrs 0 0 0 0 0 0 1 div img titre 16 0
-Research O research 0 1 0 0 0 0 1 div img titre 16 0
-Professor O professor 0 0 0 0 1 0 1 div img titre 16 0
-and O and 0 1 0 0 0 0 0 div img titre 16 0
-Researcher O researcher 0 0 0 0 0 0 1 div img titre 16 0
-at O at 0 0 0 0 0 0 0 div img titre 16 0
-the O the 0 1 0 0 0 0 0 div img titre 16 0
-Centre O centre 0 1 0 0 0 0 1 div img titre 16 0
-d O d 0 0 0 0 0 0 0 div img titre 16 0
-' O ' 0 0 0 0 0 0 0 div img titre 16 0
-études O etudes 0 0 0 0 0 0 0 div img titre 16 0
-européennes O europeennes 0 0 0 0 0 0 0 div img titre 16 0
-de O de 0 1 0 0 0 0 0 div img titre 16 0
-Sciences O sciences 0 0 0 0 0 0 1 div img titre 16 0
-Po O po 0 1 0 0 0 0 1 div img titre 16 0
-
-frederic.audren@sciencespo.fr O frederic.audren@sciencespo.fr 0 0 1 0 0 0 0 div img email 16 0
-
-Tel O tel 0 1 0 0 0 0 1 div img tel 16 0
-: O : 0 0 0 0 0 0 0 div img tel 16 0
-+33145495338 O +33145495338 0 0 0 1 0 0 0 img div tel 15 6
-
-Affiliated O affiliated 0 0 0 0 0 0 1 div img affiliation 16 0
-to O to 0 0 0 0 0 0 0 div img affiliation 16 0
-: O : 0 0 0 0 0 0 0 div img affiliation 16 0
-Ecole O ecole 0 0 0 0 0 0 1 img div affiliation 15 8
-de O de 0 1 0 0 0 0 0 img div affiliation 15 8
-Droit O droit 0 1 0 0 1 0 1 img div affiliation 15 8
-
-Research O research 0 1 0 0 0 0 1 div img themes 16 0
-Topics O topics 0 0 0 0 0 0 1 div img themes 16 0
-: O : 0 0 0 0 0 0 0 div img themes 16 0
-History O history 0 0 0 0 0 0 1 img div themes 15 10
-of O of 0 1 0 0 0 0 0 img div themes 15 10
-law O law 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-Sociology O sociology 0 0 0 0 0 0 1 img div themes 15 10
-of O of 0 1 0 0 0 0 0 img div themes 15 10
-law O law 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-Comparative O comparative 0 0 0 0 0 0 1 img div themes 15 10
-law O law 0 0 0 0 0 0 0 img div themes 15 10
-
-Jérôme B-PER jerome 0 1 0 0 0 0 1 h2 img title 16 0
-Aust I-PER aust 0 1 0 0 0 0 1 h2 img title 16 0
-
-Chargé O charge 0 1 0 0 0 0 1 div img titre 16 0
-de O de 0 1 0 0 0 0 0 div img titre 16 0
-recherche O recherche 0 0 0 0 0 0 0 div img titre 16 0
-FNSP O fnsp 0 0 0 0 0 0 1 div img titre 16 0
-
-jerome.aust@sciencespo.fr O jerome.aust@sciencespo.fr 0 0 1 0 0 0 0 div img email 16 0
-
-Tel O tel 0 1 0 0 0 0 1 div img tel 16 0
-: O : 0 0 0 0 0 0 0 div img tel 16 0
-+33140626578 O +33140626578 0 0 0 1 0 0 0 img div tel 15 6
-
-Affiliated O affiliated 0 0 0 0 0 0 1 div img affiliation 16 0
-to O to 0 0 0 0 0 0 0 div img affiliation 16 0
-: O : 0 0 0 0 0 0 0 div img affiliation 16 0
-Centre O centre 0 1 0 0 0 0 1 img div affiliation 15 8
-de O de 0 1 0 0 0 0 0 img div affiliation 15 8
-sociologie O sociologie 0 0 0 0 0 0 0 img div affiliation 15 8
-des O des 0 1 0 0 0 0 0 img div affiliation 15 8
-organisations O organisations 0 0 0 0 0 0 0 img div affiliation 15 8
-
-Research O research 0 1 0 0 0 0 1 div img themes 16 0
-Topics O topics 0 0 0 0 0 0 1 div img themes 16 0
-: O : 0 0 0 0 0 0 0 div img themes 16 0
-Higher O higher 0 0 0 0 0 0 1 img div themes 15 10
-education O education 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-Education O education 0 0 0 0 0 0 1 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-Public O public 0 0 0 0 0 0 1 img div themes 15 10
-policies O policies 0 0 0 0 0 0 0 img div themes 15 10
-, O , 0 0 0 0 0 0 0 img div themes 15 10
-Great O great 0 0 0 0 0 0 1 img div themes 15 10
-Britain O britain 0 1 0 0 0 0 1 img div themes 15 10
-
-Loïc B-PER loic 0 1 0 0 0 0 1 h2 div title 15 0
-Azoulai I-PER azoulai 0 1 0 0 0 0 1 h2 div title 15 0
-
-loic.azoulai@sciences O loic.azoulai@sciences 0 0 0 0 0 0 0 div div email 15 0
-- O - 0 0 0 0 0 0 0 div div email 15 0
-po.org O po.org 0 0 0 0 0 0 0 div div email 15 0
-
-Tel O tel 0 1 0 0 0 0 1 div div tel 15 0
-: O : 0 0 0 0 0 0 0 div div tel 15 0
-+33145495561 O +33145495561 0 0 0 1 0 0 0 div div tel 14 4
-
-Affiliated O affiliated 0 0 0 0 0 0 1 div div affiliation 15 0
-to O to 0 0 0 0 0 0 0 div div affiliation 15 0
-: O : 0 0 0 0 0 0 0 div div affiliation 15 0
-Ecole O ecole 0 0 0 0 0 0 1 div div affiliation 14 6
-de O de 0 1 0 0 0 0 0 div div affiliation 14 6
-Droit O droit 0 1 0 0 1 0 1 div div affiliation 14 6
-, O , 0 0 0 0 0 0 0 div div affiliation 14 6
-Sciences O sciences 0 0 0 0 0 0 1 div div affiliation 14 6
-Po O po 0 1 0 0 0 0 1 div div affiliation 14 6
-
-Research O research 0 1 0 0 0 0 1 div div themes 15 0
-Topics O topics 0 0 0 0 0 0 1 div div themes 15 0
-: O : 0 0 0 0 0 0 0 div div themes 15 0
-European O european 0 0 0 0 0 0 1 div div themes 14 8
-Law O law 0 1 0 0 0 0 1 div div themes 14 8
-, O , 0 0 0 0 0 0 0 div div themes 14 8
-Legal O legal 0 1 0 0 0 0 1 div div themes 14 8
-concepts O concepts 0 0 0 0 0 0 0 div div themes 14 8
-and O and 0 1 0 0 0 0 0 div div themes 14 8
-fundamental O fundamental 0 0 0 0 0 0 0 div div themes 14 8
-legal O legal 0 0 0 0 0 0 0 div div themes 14 8
-conceptions O conceptions 0 0 0 0 0 0 0 div div themes 14 8
-, O , 0 0 0 0 0 0 0 div div themes 14 8
-Europeanisation O europeanisation 0 0 0 0 0 0 1 div div themes 14 8
-of O of 0 1 0 0 0 0 0 div div themes 14 8
-Law O law 0 1 0 0 0 0 1 div div themes 14 8
-
-A O a 0 1 0 0 0 0 1 li ul active 13 0
-
-B O b 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-C O c 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-D O d 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-E O e 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-F O f 0 0 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-G O g 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-H O h 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-I O i 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-J O j 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-K O k 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-L O l 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-M O m 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-N O n 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-O O o 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-P O p 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-Q O q 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-R O r 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-S O s 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-T O t 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-U O u 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-V O v 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-W O w 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-X O x 0 0 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-Y O y 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-Z O z 0 1 0 0 0 0 1 li ul spire-pager-alpha 13 0
-
-Back O back 0 1 0 0 0 0 1 div div sidebar-second 7 0
-to O to 0 0 0 0 0 0 0 div div sidebar-second 7 0
-top O top 0 0 0 0 0 0 0 div div sidebar-second 7 0
-
-Research O research 0 1 0 0 0 0 1 div div outscreen 8 0
-tools O tools 0 0 0 0 0 0 0 div div outscreen 8 0
-
-Contacts O contacts 0 0 0 0 0 0 1 span h2 title 13 0
-
-LEGAL O legal 0 0 0 0 0 0 1 span h2 title 13 0
-NOTICE O notice 0 0 0 0 0 0 1 span h2 title 13 0
-
-Accessibility O accessibility 0 0 0 0 0 0 1 span h2 title 13 0
-of O of 0 1 0 0 0 0 0 span h2 title 13 0
-the O the 0 1 0 0 0 0 0 span h2 title 13 0
-Research O research 0 1 0 0 0 0 1 span h2 title 13 0
-Website O website 0 0 0 0 0 0 1 span h2 title 13 0
-
-Maps O maps 0 0 0 0 0 0 1 h2 div title 11 0
-
-Office O office 0 0 0 0 0 0 1 li ul first 14 0
-of O of 0 1 0 0 0 0 0 li ul first 14 0
-the O the 0 1 0 0 0 0 0 li ul first 14 0
-Vice O vice 0 1 0 0 0 0 1 li ul first 14 0
-Provost O provost 0 1 0 0 0 0 1 li ul first 14 0
-for O for 0 1 0 0 0 0 0 li ul first 14 0
-Research O research 0 1 0 0 0 0 1 li ul first 14 0
-
-Sciences O sciences 0 0 0 0 0 0 1 li ul last 14 0
-Po O po 0 1 0 0 0 0 1 li ul last 14 0
-
-Social O social 0 0 0 0 0 0 1 div div title 10 0
-Network O network 0 0 0 0 0 0 1 div div title 10 0
-
-See O see 0 1 0 0 0 0 1 div div all 12 0
-all O all 0 0 0 0 0 0 0 div div all 12 0
+Research O research 0 1 0 0 0 0 1 0 7 div img themes 16 0
+Topics O topics 0 0 0 0 0 0 1 0 4 div img themes 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img themes 16 0
+Labour O labour 0 1 0 0 0 0 1 0 4 img div themes 15 10
+markets O markets 0 0 0 0 0 0 0 0 3 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+Political O political 0 0 0 0 0 0 1 0 5 img div themes 15 10
+economy O economy 0 0 0 0 0 0 0 0 4 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+Welfare O welfare 0 1 0 0 0 0 1 0 3 img div themes 15 10
+state O state 0 0 0 0 0 0 0 0 6 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+Etat O etat 0 0 0 0 0 0 1 0 7 img div themes 15 10
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 img div themes 15 10
+providence O providence 0 0 0 0 0 0 0 0 3 img div themes 15 10
+
+Guillaume B-PER guillaume 0 1 0 0 0 0 1 6 6 h2 div title 15 0
+Allègre I-PER allegre 0 1 0 0 0 0 1 2 2 h2 div title 15 0
+
+guillaume.allegre@sciencespo.fr O guillaume.allegre@sciencespo.fr 0 0 1 0 0 0 0 0 0 div div email 15 0
+
+Tel O tel 0 1 0 0 0 0 1 1 6 div div tel 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div tel 15 0
++33144185426 O +33144185426 0 0 0 1 0 0 0 0 0 div div tel 14 4
+
+Affiliated O affiliated 0 0 0 0 0 0 1 0 3 div div affiliation 15 0
+to O to 0 1 0 0 0 0 0 0 10 div div affiliation 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div affiliation 15 0
+Observatoire O observatoire 0 0 0 0 0 0 1 0 4 div div affiliation 14 6
+français O francais 0 0 0 0 0 0 0 0 8 div div affiliation 14 6
+des O des 0 1 0 0 0 0 0 2 10 div div affiliation 14 6
+conjonctures O conjonctures 0 0 0 0 0 0 0 0 0 div div affiliation 14 6
+économiques O economiques 0 0 0 0 0 0 0 0 5 div div affiliation 14 6
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div affiliation 14 6
+Observatoire O observatoire 0 0 0 0 0 0 1 0 4 div div affiliation 14 6
+français O francais 0 0 0 0 0 0 0 0 8 div div affiliation 14 6
+des O des 0 1 0 0 0 0 0 2 10 div div affiliation 14 6
+conjonctures O conjonctures 0 0 0 0 0 0 0 0 0 div div affiliation 14 6
+économiques O economiques 0 0 0 0 0 0 0 0 5 div div affiliation 14 6
+
+Research O research 0 1 0 0 0 0 1 0 7 div div themes 15 0
+Topics O topics 0 0 0 0 0 0 1 0 4 div div themes 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div themes 15 0
+Social O social 0 0 0 0 0 0 1 0 6 div div themes 14 8
+policies O policies 0 0 0 0 0 0 0 0 6 div div themes 14 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div themes 14 8
+Tax O tax 0 1 0 0 0 0 1 2 4 div div themes 14 8
+system O system 0 0 0 0 0 0 0 0 6 div div themes 14 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div themes 14 8
+Incentives O incentives 0 0 0 0 0 0 1 0 1 div div themes 14 8
+to O to 0 1 0 0 0 0 0 0 10 div div themes 14 8
+work O work 0 0 0 0 0 0 0 0 6 div div themes 14 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div themes 14 8
+Inequality O inequality 0 0 0 0 0 0 1 0 2 div div themes 14 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div themes 14 8
+Poverty O poverty 0 0 0 0 0 0 1 0 3 div div themes 14 8
+
+Jenny B-PER jenny 0 1 0 0 0 0 1 6 3 h2 img title 16 0
+Andersson I-PER andersson 0 1 0 0 1 0 1 5 2 h2 img title 16 0
+
+Directrice O directrice 0 0 0 0 0 0 1 0 3 div img titre 16 0
+de O de 0 1 0 0 0 0 0 9 12 div img titre 16 0
+recherche O recherche 0 0 0 0 0 0 0 0 7 div img titre 16 0
+CNRS O cnrs 0 0 0 0 0 0 1 0 4 div img titre 16 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div img titre 16 0
+CNRS O cnrs 0 0 0 0 0 0 1 0 4 div img titre 16 0
+Research O research 0 1 0 0 0 0 1 0 7 div img titre 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 div img titre 16 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div img titre 16 0
+Co O co 0 1 0 0 0 0 1 3 7 div img titre 16 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div img titre 16 0
+directrice O directrice 0 0 0 0 0 0 0 0 3 div img titre 16 0
+du O du 0 1 0 0 0 0 0 4 10 div img titre 16 0
+MaxPo O maxpo 0 0 0 0 0 0 1 0 0 div img titre 16 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div img titre 16 0
+Co O co 0 1 0 0 0 0 1 3 7 div img titre 16 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div img titre 16 0
+director O director 0 0 0 0 0 0 0 0 7 div img titre 16 0
+of O of 0 1 0 0 0 0 0 2 10 div img titre 16 0
+MaxPo O maxpo 0 0 0 0 0 0 1 0 0 div img titre 16 0
+
+jenny.andersson@sciencespo.fr O jenny.andersson@sciencespo.fr 0 0 1 0 0 0 0 0 0 div img email 16 0
+
+Tel O tel 0 1 0 0 0 0 1 1 6 div img tel 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img tel 16 0
++33145498382 O +33145498382 0 0 0 1 0 0 0 0 0 img div tel 15 6
+
+Affiliated O affiliated 0 0 0 0 0 0 1 0 3 div img affiliation 16 0
+to O to 0 1 0 0 0 0 0 0 10 div img affiliation 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img affiliation 16 0
+Centre O centre 0 1 0 0 0 0 1 0 7 img div affiliation 15 8
+d'études O d'etudes 0 0 0 0 0 0 0 0 0 img div affiliation 15 8
+européennes O europeennes 0 0 0 0 0 0 0 0 5 img div affiliation 15 8
+de O de 0 1 0 0 0 0 0 9 12 img div affiliation 15 8
+Sciences O sciences 0 0 0 0 0 0 1 0 7 img div affiliation 15 8
+Po O po 0 1 0 0 0 0 1 7 6 img div affiliation 15 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div affiliation 15 8
+MaxPo O maxpo 0 0 0 0 0 0 1 0 0 img div affiliation 15 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div affiliation 15 8
+Sciences O sciences 0 0 0 0 0 0 1 0 7 img div affiliation 15 8
+Po O po 0 1 0 0 0 0 1 7 6 img div affiliation 15 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div affiliation 15 8
+MaxPo O maxpo 0 0 0 0 0 0 1 0 0 img div affiliation 15 8
+
+Research O research 0 1 0 0 0 0 1 0 7 div img themes 16 0
+Topics O topics 0 0 0 0 0 0 1 0 4 div img themes 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img themes 16 0
+Political O political 0 0 0 0 0 0 1 0 5 img div themes 15 10
+economy O economy 0 0 0 0 0 0 0 0 4 img div themes 15 10
+of O of 0 1 0 0 0 0 0 2 10 img div themes 15 10
+social O social 0 0 0 0 0 0 0 0 6 img div themes 15 10
+democracy O democracy 0 0 0 0 0 0 0 0 3 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+political O political 0 0 0 0 0 0 0 0 5 img div themes 15 10
+history O history 0 0 0 0 0 0 0 0 7 img div themes 15 10
+of O of 0 1 0 0 0 0 0 2 10 img div themes 15 10
+neoliberalism O neoliberalism 0 0 0 0 0 0 0 0 0 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+transnational O transnational 0 0 0 0 0 0 0 0 1 img div themes 15 10
+history O history 0 0 0 0 0 0 0 0 7 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+histories O histories 0 0 0 0 0 0 0 0 2 img div themes 15 10
+of O of 0 1 0 0 0 0 0 2 10 img div themes 15 10
+prediction O prediction 0 0 0 0 0 0 0 0 3 img div themes 15 10
+in O in 0 1 0 0 0 0 0 3 10 img div themes 15 10
+the O the 0 1 0 0 0 0 0 0 10 img div themes 15 10
+global O global 0 0 0 0 0 0 0 0 6 img div themes 15 10
+field O field 0 0 0 0 0 0 0 0 5 img div themes 15 10
+
+Claire B-PER claire 0 1 0 0 0 0 1 6 5 h2 div title 15 0
+Andrieu I-PER andrieu 0 1 0 0 1 0 1 3 1 h2 div title 15 0
+
+Professeur O professeur 0 0 0 0 1 0 1 0 5 div div titre 15 0
+des O des 0 1 0 0 0 0 0 2 10 div div titre 15 0
+universités O universites 0 0 0 0 0 0 0 0 4 div div titre 15 0
+à O a 0 1 0 0 0 0 0 0 11 div div titre 15 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 div div titre 15 0
+Po O po 0 1 0 0 0 0 1 7 6 div div titre 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div titre 15 0
+Full O full 0 1 0 0 0 0 1 0 5 div div titre 15 0
+Professor O professor 0 0 0 0 1 0 1 0 7 div div titre 15 0
+
+claire.andrieu@sciencespo.fr O claire.andrieu@sciencespo.fr 0 0 1 0 0 0 0 0 0 div div email 15 0
+
+Tel O tel 0 1 0 0 0 0 1 1 6 div div tel 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div tel 15 0
++33145497740 O +33145497740 0 0 0 1 0 0 0 0 0 div div tel 14 6
+
+Affiliated O affiliated 0 0 0 0 0 0 1 0 3 div div affiliation 15 0
+to O to 0 1 0 0 0 0 0 0 10 div div affiliation 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div affiliation 15 0
+Centre O centre 0 1 0 0 0 0 1 0 7 div div affiliation 14 8
+d'histoire O d'histoire 0 0 0 0 0 0 0 0 0 div div affiliation 14 8
+de O de 0 1 0 0 0 0 0 9 12 div div affiliation 14 8
+Sciences O sciences 0 0 0 0 0 0 1 0 7 div div affiliation 14 8
+Po O po 0 1 0 0 0 0 1 7 6 div div affiliation 14 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div affiliation 14 8
+Centre O centre 0 1 0 0 0 0 1 0 7 div div affiliation 14 8
+de O de 0 1 0 0 0 0 0 9 12 div div affiliation 14 8
+recherches O recherches 0 0 0 0 0 0 0 0 5 div div affiliation 14 8
+internationales O internationales 0 0 0 0 0 0 0 0 5 div div affiliation 14 8
+
+Research O research 0 1 0 0 0 0 1 0 7 div div themes 15 0
+Topics O topics 0 0 0 0 0 0 1 0 4 div div themes 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div themes 15 0
+History O history 0 0 0 0 0 0 1 0 7 div div themes 14 10
+and O and 0 1 0 0 0 0 0 0 10 div div themes 14 10
+memory O memory 0 0 0 0 0 0 0 0 4 div div themes 14 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div themes 14 10
+Resistance O resistance 0 0 0 0 0 0 1 0 5 div div themes 14 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div themes 14 10
+Social O social 0 0 0 0 0 0 1 0 6 div div themes 14 10
+mouvements O mouvements 0 0 0 0 0 0 0 0 5 div div themes 14 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div themes 14 10
+World O world 0 1 0 0 0 0 1 0 7 div div themes 14 10
+War O war 0 1 0 0 0 0 1 1 6 div div themes 14 10
+II O ii 0 1 0 0 0 0 1 6 8 div div themes 14 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div themes 14 10
+Seconde O seconde 0 0 0 0 0 0 1 0 6 div div themes 14 10
+Guerre O guerre 0 1 0 0 0 0 1 0 7 div div themes 14 10
+mondiale O mondiale 0 0 0 0 0 0 0 0 6 div div themes 14 10
+
+Céline B-PER celine 0 1 0 0 0 0 1 5 3 h2 img title 16 0
+Antonin I-PER antonin 0 1 0 0 0 0 1 3 4 h2 img title 16 0
+
+Économiste O economiste 0 0 0 0 0 0 1 0 3 div img titre 16 0
+au O au 0 0 0 0 0 0 0 0 9 div img titre 16 0
+Département O departement 0 1 0 0 0 0 1 0 6 div img titre 16 0
+analyse O analyse 0 0 0 0 0 0 0 0 5 div img titre 16 0
+et O et 0 1 0 0 0 0 0 1 11 div img titre 16 0
+prévision O prevision 0 0 0 0 0 0 0 0 2 div img titre 16 0
+OFCE O ofce 0 0 0 0 0 0 1 0 0 div img titre 16 0
+
+celine.antonin@sciencespo.fr O celine.antonin@sciencespo.fr 0 0 1 0 0 0 0 0 0 div img email 16 0
+
+Affiliated O affiliated 0 0 0 0 0 0 1 0 3 div img affiliation 16 0
+to O to 0 1 0 0 0 0 0 0 10 div img affiliation 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img affiliation 16 0
+Observatoire O observatoire 0 0 0 0 0 0 1 0 4 img div affiliation 15 6
+français O francais 0 0 0 0 0 0 0 0 8 img div affiliation 15 6
+des O des 0 1 0 0 0 0 0 2 10 img div affiliation 15 6
+conjonctures O conjonctures 0 0 0 0 0 0 0 0 0 img div affiliation 15 6
+économiques O economiques 0 0 0 0 0 0 0 0 5 img div affiliation 15 6
+
+Research O research 0 1 0 0 0 0 1 0 7 div img themes 16 0
+Topics O topics 0 0 0 0 0 0 1 0 4 div img themes 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img themes 16 0
+Euro O euro 0 1 0 0 0 0 1 1 5 img div themes 15 8
+area O area 0 0 0 0 0 0 0 0 6 img div themes 15 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 8
+Labour O labour 0 1 0 0 0 0 1 0 4 img div themes 15 8
+markets O markets 0 0 0 0 0 0 0 0 3 img div themes 15 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 8
+Savings O savings 0 0 0 0 0 0 1 0 1 img div themes 15 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 8
+Savings O savings 0 0 0 0 0 0 1 0 1 img div themes 15 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 8
+Modélisation O modelisation 0 0 0 0 0 0 1 0 3 img div themes 15 8
+
+Louis B-PER louis 0 1 0 0 0 0 1 7 8 h2 img title 16 0
+Assier I-PER assier 0 0 0 0 0 0 1 0 0 h2 img title 16 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 h2 img title 16 0
+Andrieu I-PER andrieu 0 1 0 0 1 0 1 3 1 h2 img title 16 0
+
+Directeur O directeur 0 0 0 0 0 0 1 0 5 div img titre 16 0
+de O de 0 1 0 0 0 0 0 9 12 div img titre 16 0
+recherche O recherche 0 0 0 0 0 0 0 0 7 div img titre 16 0
+CNRS O cnrs 0 0 0 0 0 0 1 0 4 div img titre 16 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div img titre 16 0
+Professeur O professeur 0 0 0 0 1 0 1 0 5 div img titre 16 0
+à O a 0 1 0 0 0 0 0 0 11 div img titre 16 0
+l'École O l'ecole 0 0 0 0 0 0 0 0 0 div img titre 16 0
+de O de 0 1 0 0 0 0 0 9 12 div img titre 16 0
+Droit O droit 0 1 0 0 1 0 1 2 7 div img titre 16 0
+de O de 0 1 0 0 0 0 0 9 12 div img titre 16 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 div img titre 16 0
+Po O po 0 1 0 0 0 0 1 7 6 div img titre 16 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div img titre 16 0
+Paris O paris 0 1 0 0 0 0 1 5 8 div img titre 16 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div img titre 16 0
+Fellow O fellow 0 0 0 0 0 0 1 0 4 div img titre 16 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div img titre 16 0
+Centre O centre 0 1 0 0 0 0 1 0 7 div img titre 16 0
+for O for 0 1 0 0 0 0 0 1 9 div img titre 16 0
+Advanced O advanced 0 0 0 0 0 0 1 0 5 div img titre 16 0
+Studies O studies 0 0 0 0 0 0 1 0 6 div img titre 16 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div img titre 16 0
+Käte O kate 0 0 0 0 0 0 1 0 4 div img titre 16 0
+Hamburger O hamburger 0 1 0 0 0 0 1 2 4 div img titre 16 0
+Kolleg O kolleg 0 0 0 0 0 0 1 0 0 div img titre 16 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div img titre 16 0
+Bonn O bonn 0 1 0 0 0 0 1 3 1 div img titre 16 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div img titre 16 0
+Allemagne O allemagne 0 0 0 0 0 0 1 0 6 div img titre 16 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div img titre 16 0
+
+louis.assierandrieu@sciencespo.fr O louis.assierandrieu@sciencespo.fr 0 0 1 0 0 0 0 0 0 div img email 16 0
+
+Tel O tel 0 1 0 0 0 0 1 1 6 div img tel 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img tel 16 0
++33145495943 O +33145495943 0 0 0 1 0 0 0 0 0 img div tel 15 6
+
+Affiliated O affiliated 0 0 0 0 0 0 1 0 3 div img affiliation 16 0
+to O to 0 1 0 0 0 0 0 0 10 div img affiliation 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img affiliation 16 0
+Ecole O ecole 0 0 0 0 0 0 1 0 6 img div affiliation 15 8
+de O de 0 1 0 0 0 0 0 9 12 img div affiliation 15 8
+Droit O droit 0 1 0 0 1 0 1 2 7 img div affiliation 15 8
+
+Research O research 0 1 0 0 0 0 1 0 7 div img themes 16 0
+Topics O topics 0 0 0 0 0 0 1 0 4 div img themes 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img themes 16 0
+Epistemology O epistemology 0 0 0 0 0 0 1 0 0 img div themes 15 10
+of O of 0 1 0 0 0 0 0 2 10 img div themes 15 10
+law O law 0 0 0 0 0 0 0 0 7 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+Lawyers O lawyers 0 0 0 0 0 0 1 0 1 img div themes 15 10
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 img div themes 15 10
+history O history 0 0 0 0 0 0 0 0 7 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+culture O culture 0 0 0 0 0 0 0 0 7 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+perspectives O perspectives 0 0 0 0 0 0 0 0 4 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+Legal O legal 0 1 0 0 0 0 1 1 5 img div themes 15 10
+norms O norms 0 0 0 0 0 0 0 0 1 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+cultural O cultural 0 0 0 0 0 0 0 0 4 img div themes 15 10
+norms O norms 0 0 0 0 0 0 0 0 1 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+Historical O historical 0 0 0 0 0 0 1 0 5 img div themes 15 10
+anthropology O anthropology 0 0 0 0 0 0 0 0 5 img div themes 15 10
+of O of 0 1 0 0 0 0 0 2 10 img div themes 15 10
+western O western 0 0 0 0 0 0 0 0 7 img div themes 15 10
+law O law 0 0 0 0 0 0 0 0 7 img div themes 15 10
+
+Jean B-PER jean 0 1 0 0 0 0 1 8 8 h2 img title 16 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 h2 img title 16 0
+Bernard I-PER bernard 0 1 0 0 0 0 1 7 6 h2 img title 16 0
+Auby I-PER auby 0 0 0 0 0 0 1 0 0 h2 img title 16 0
+
+Professeur O professeur 0 0 0 0 1 0 1 0 5 div img titre 16 0
+des O des 0 1 0 0 0 0 0 2 10 div img titre 16 0
+Universités O universites 0 0 0 0 0 0 1 0 4 div img titre 16 0
+à O a 0 1 0 0 0 0 0 0 11 div img titre 16 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 div img titre 16 0
+Po O po 0 1 0 0 0 0 1 7 6 div img titre 16 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div img titre 16 0
+Directeur O directeur 0 0 0 0 0 0 1 0 5 div img titre 16 0
+de O de 0 1 0 0 0 0 0 9 12 div img titre 16 0
+la O la 0 1 0 0 0 0 0 6 11 div img titre 16 0
+Chaire O chaire 0 0 0 0 0 0 1 0 4 div img titre 16 0
+Mutations O mutations 0 0 0 0 0 0 1 0 3 div img titre 16 0
+de O de 0 1 0 0 0 0 0 9 12 div img titre 16 0
+l'action O l'action 0 0 0 0 0 0 0 0 0 div img titre 16 0
+publique O publique 0 0 0 0 0 0 0 0 6 div img titre 16 0
+et O et 0 1 0 0 0 0 0 1 11 div img titre 16 0
+du O du 0 1 0 0 0 0 0 4 10 div img titre 16 0
+droit O droit 0 0 0 0 1 0 0 0 7 div img titre 16 0
+public O public 0 0 0 0 0 0 0 0 7 div img titre 16 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div img titre 16 0
+Chaire O chaire 0 0 0 0 0 0 1 0 4 div img titre 16 0
+MDAP O mdap 0 0 0 0 1 0 1 0 0 div img titre 16 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div img titre 16 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div img titre 16 0
+Agrégé O agrege 0 0 0 0 0 0 1 0 2 div img titre 16 0
+de O de 0 1 0 0 0 0 0 9 12 div img titre 16 0
+droit O droit 0 0 0 0 1 0 0 0 7 div img titre 16 0
+public O public 0 0 0 0 0 0 0 0 7 div img titre 16 0
+
+jeanbernard.auby@sciencespo.fr O jeanbernard.auby@sciencespo.fr 0 0 1 0 0 0 0 0 0 div img email 16 0
+
+Tel O tel 0 1 0 0 0 0 1 1 6 div img tel 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img tel 16 0
++33145497631 O +33145497631 0 0 0 1 0 0 0 0 0 img div tel 15 6
+
+Affiliated O affiliated 0 0 0 0 0 0 1 0 3 div img affiliation 16 0
+to O to 0 1 0 0 0 0 0 0 10 div img affiliation 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img affiliation 16 0
+Ecole O ecole 0 0 0 0 0 0 1 0 6 img div affiliation 15 8
+de O de 0 1 0 0 0 0 0 9 12 img div affiliation 15 8
+Droit O droit 0 1 0 0 1 0 1 2 7 img div affiliation 15 8
+
+Research O research 0 1 0 0 0 0 1 0 7 div img themes 16 0
+Topics O topics 0 0 0 0 0 0 1 0 4 div img themes 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img themes 16 0
+Administrative O administrative 0 0 0 0 0 0 1 0 6 img div themes 15 10
+law O law 0 0 0 0 0 0 0 0 7 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+Comparative O comparative 0 0 0 0 0 0 1 0 3 img div themes 15 10
+law O law 0 0 0 0 0 0 0 0 7 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+Planning O planning 0 0 0 0 0 0 1 0 6 img div themes 15 10
+Law O law 0 1 0 0 0 0 1 5 7 img div themes 15 10
+and O and 0 1 0 0 0 0 0 0 10 img div themes 15 10
+Local O local 0 1 0 0 0 0 1 0 7 img div themes 15 10
+Government O government 0 0 0 0 0 0 1 0 6 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+Legal O legal 0 1 0 0 0 0 1 1 5 img div themes 15 10
+Globalization O globalization 0 0 0 0 0 0 1 0 2 img div themes 15 10
+
+Frédéric B-PER frederic 1 1 0 0 0 0 1 7 6 h2 img title 16 0
+Audren I-PER audren 1 1 0 0 1 0 1 1 0 h2 img title 16 0
+
+Chargé O charge 0 1 0 0 0 0 1 0 6 div img titre 16 0
+de O de 0 1 0 0 0 0 0 9 12 div img titre 16 0
+recherche O recherche 0 0 0 0 0 0 0 0 7 div img titre 16 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div img titre 16 0
+1e O 1e 0 0 0 1 0 0 0 0 0 div img titre 16 0
+classe O classe 0 0 0 0 0 0 0 0 6 div img titre 16 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div img titre 16 0
+au O au 0 0 0 0 0 0 0 0 9 div img titre 16 0
+CNRS O cnrs 0 0 0 0 0 0 1 0 4 div img titre 16 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div img titre 16 0
+Chercheur O chercheur 0 0 0 0 0 0 1 0 3 div img titre 16 0
+du O du 0 1 0 0 0 0 0 4 10 div img titre 16 0
+Centre O centre 0 1 0 0 0 0 1 0 7 div img titre 16 0
+d'études O d'etudes 0 0 0 0 0 0 0 0 0 div img titre 16 0
+européennes O europeennes 0 0 0 0 0 0 0 0 5 div img titre 16 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div img titre 16 0
+CEE O cee 0 0 0 0 0 0 1 0 3 div img titre 16 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div img titre 16 0
+CNRS O cnrs 0 0 0 0 0 0 1 0 4 div img titre 16 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div img titre 16 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div img titre 16 0
+CNRS O cnrs 0 0 0 0 0 0 1 0 4 div img titre 16 0
+Research O research 0 1 0 0 0 0 1 0 7 div img titre 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 div img titre 16 0
+and O and 0 1 0 0 0 0 0 0 10 div img titre 16 0
+Researcher O researcher 0 0 0 0 0 0 1 0 3 div img titre 16 0
+at O at 0 1 0 0 0 0 0 0 8 div img titre 16 0
+the O the 0 1 0 0 0 0 0 0 10 div img titre 16 0
+Centre O centre 0 1 0 0 0 0 1 0 7 div img titre 16 0
+d'études O d'etudes 0 0 0 0 0 0 0 0 0 div img titre 16 0
+européennes O europeennes 0 0 0 0 0 0 0 0 5 div img titre 16 0
+de O de 0 1 0 0 0 0 0 9 12 div img titre 16 0
+Sciences O sciences 0 0 0 0 0 0 1 0 7 div img titre 16 0
+Po O po 0 1 0 0 0 0 1 7 6 div img titre 16 0
+
+frederic.audren@sciencespo.fr O frederic.audren@sciencespo.fr 0 0 1 0 0 0 0 0 0 div img email 16 0
+
+Tel O tel 0 1 0 0 0 0 1 1 6 div img tel 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img tel 16 0
++33145495338 O +33145495338 0 0 0 1 0 0 0 0 0 img div tel 15 6
+
+Affiliated O affiliated 0 0 0 0 0 0 1 0 3 div img affiliation 16 0
+to O to 0 1 0 0 0 0 0 0 10 div img affiliation 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img affiliation 16 0
+Ecole O ecole 0 0 0 0 0 0 1 0 6 img div affiliation 15 8
+de O de 0 1 0 0 0 0 0 9 12 img div affiliation 15 8
+Droit O droit 0 1 0 0 1 0 1 2 7 img div affiliation 15 8
+
+Research O research 0 1 0 0 0 0 1 0 7 div img themes 16 0
+Topics O topics 0 0 0 0 0 0 1 0 4 div img themes 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img themes 16 0
+History O history 0 0 0 0 0 0 1 0 7 img div themes 15 10
+of O of 0 1 0 0 0 0 0 2 10 img div themes 15 10
+law O law 0 0 0 0 0 0 0 0 7 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+Sociology O sociology 0 0 0 0 0 0 1 0 5 img div themes 15 10
+of O of 0 1 0 0 0 0 0 2 10 img div themes 15 10
+law O law 0 0 0 0 0 0 0 0 7 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+Comparative O comparative 0 0 0 0 0 0 1 0 3 img div themes 15 10
+law O law 0 0 0 0 0 0 0 0 7 img div themes 15 10
+
+Jérôme B-PER jerome 0 1 0 0 0 0 1 6 4 h2 img title 16 0
+Aust I-PER aust 0 1 0 0 0 0 1 3 0 h2 img title 16 0
+
+Chargé O charge 0 1 0 0 0 0 1 0 6 div img titre 16 0
+de O de 0 1 0 0 0 0 0 9 12 div img titre 16 0
+recherche O recherche 0 0 0 0 0 0 0 0 7 div img titre 16 0
+FNSP O fnsp 0 0 0 0 0 0 1 0 0 div img titre 16 0
+
+jerome.aust@sciencespo.fr O jerome.aust@sciencespo.fr 0 0 1 0 0 0 0 0 0 div img email 16 0
+
+Tel O tel 0 1 0 0 0 0 1 1 6 div img tel 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img tel 16 0
++33140626578 O +33140626578 0 0 0 1 0 0 0 0 0 img div tel 15 6
+
+Affiliated O affiliated 0 0 0 0 0 0 1 0 3 div img affiliation 16 0
+to O to 0 1 0 0 0 0 0 0 10 div img affiliation 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img affiliation 16 0
+Centre O centre 0 1 0 0 0 0 1 0 7 img div affiliation 15 8
+de O de 0 1 0 0 0 0 0 9 12 img div affiliation 15 8
+sociologie O sociologie 0 0 0 0 0 0 0 0 4 img div affiliation 15 8
+des O des 0 1 0 0 0 0 0 2 10 img div affiliation 15 8
+organisations O organisations 0 0 0 0 0 0 0 0 5 img div affiliation 15 8
+
+Research O research 0 1 0 0 0 0 1 0 7 div img themes 16 0
+Topics O topics 0 0 0 0 0 0 1 0 4 div img themes 16 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div img themes 16 0
+Higher O higher 0 0 0 0 0 0 1 0 5 img div themes 15 10
+education O education 0 0 0 0 0 0 0 0 8 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+Education O education 0 0 0 0 0 0 1 0 8 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+Public O public 0 0 0 0 0 0 1 0 7 img div themes 15 10
+policies O policies 0 0 0 0 0 0 0 0 6 img div themes 15 10
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 img div themes 15 10
+Great O great 0 0 0 0 0 0 1 0 6 img div themes 15 10
+Britain O britain 0 1 0 0 0 0 1 0 3 img div themes 15 10
+
+Loïc B-PER loic 0 1 0 0 0 0 1 5 3 h2 div title 15 0
+Azoulai I-PER azoulai 0 1 0 0 0 0 1 0 0 h2 div title 15 0
+
+loic.azoulai@sciences O loic.azoulai@sciences 0 0 0 0 0 0 0 0 0 div div email 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div email 15 0
+po.org O po.org 0 0 0 0 0 0 0 0 0 div div email 15 0
+
+Tel O tel 0 1 0 0 0 0 1 1 6 div div tel 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div tel 15 0
++33145495561 O +33145495561 0 0 0 1 0 0 0 0 0 div div tel 14 4
+
+Affiliated O affiliated 0 0 0 0 0 0 1 0 3 div div affiliation 15 0
+to O to 0 1 0 0 0 0 0 0 10 div div affiliation 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div affiliation 15 0
+Ecole O ecole 0 0 0 0 0 0 1 0 6 div div affiliation 14 6
+de O de 0 1 0 0 0 0 0 9 12 div div affiliation 14 6
+Droit O droit 0 1 0 0 1 0 1 2 7 div div affiliation 14 6
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div affiliation 14 6
+Sciences O sciences 0 0 0 0 0 0 1 0 7 div div affiliation 14 6
+Po O po 0 1 0 0 0 0 1 7 6 div div affiliation 14 6
+
+Research O research 0 1 0 0 0 0 1 0 7 div div themes 15 0
+Topics O topics 0 0 0 0 0 0 1 0 4 div div themes 15 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div themes 15 0
+European O european 0 0 0 0 0 0 1 0 5 div div themes 14 8
+Law O law 0 1 0 0 0 0 1 5 7 div div themes 14 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div themes 14 8
+Legal O legal 0 1 0 0 0 0 1 1 5 div div themes 14 8
+concepts O concepts 0 0 0 0 0 0 0 0 5 div div themes 14 8
+and O and 0 1 0 0 0 0 0 0 10 div div themes 14 8
+fundamental O fundamental 0 0 0 0 0 0 0 0 3 div div themes 14 8
+legal O legal 0 0 0 0 0 0 0 0 5 div div themes 14 8
+conceptions O conceptions 0 0 0 0 0 0 0 0 3 div div themes 14 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 div div themes 14 8
+Europeanisation O europeanisation 0 0 0 0 0 0 1 0 0 div div themes 14 8
+of O of 0 1 0 0 0 0 0 2 10 div div themes 14 8
+Law O law 0 1 0 0 0 0 1 5 7 div div themes 14 8
+
+A O a 0 1 0 0 0 0 1 4 11 li ul active 13 0
+
+B O b 0 1 0 0 0 0 1 3 9 li ul spire-pager-alpha 13 0
+
+C O c 0 1 0 0 0 0 1 3 9 li ul spire-pager-alpha 13 0
+
+D O d 0 1 0 0 0 0 1 3 11 li ul spire-pager-alpha 13 0
+
+E O e 0 1 0 0 0 0 1 4 10 li ul spire-pager-alpha 13 0
+
+F O f 0 1 0 0 0 0 1 0 8 li ul spire-pager-alpha 13 0
+
+G O g 0 1 0 0 0 0 1 3 8 li ul spire-pager-alpha 13 0
+
+H O h 0 1 0 0 0 0 1 3 8 li ul spire-pager-alpha 13 0
+
+I O i 0 1 0 0 0 0 1 6 10 li ul spire-pager-alpha 13 0
+
+J O j 0 1 0 0 0 0 1 2 8 li ul spire-pager-alpha 13 0
+
+K O k 0 1 0 0 0 0 1 4 8 li ul spire-pager-alpha 13 0
+
+L O l 0 1 0 0 0 0 1 2 11 li ul spire-pager-alpha 13 0
+
+M O m 0 1 0 0 0 0 1 4 9 li ul spire-pager-alpha 13 0
+
+N O n 0 1 0 0 0 0 1 3 10 li ul spire-pager-alpha 13 0
+
+O O o 0 1 0 0 0 0 1 4 10 li ul spire-pager-alpha 13 0
+
+P O p 0 1 0 0 0 0 1 4 9 li ul spire-pager-alpha 13 0
+
+Q O q 0 1 0 0 0 0 1 1 8 li ul spire-pager-alpha 13 0
+
+R O r 0 1 0 0 0 0 1 4 8 li ul spire-pager-alpha 13 0
+
+S O s 0 1 0 0 0 0 1 4 10 li ul spire-pager-alpha 13 0
+
+T O t 0 1 0 0 0 0 1 3 9 li ul spire-pager-alpha 13 0
+
+U O u 0 1 0 0 0 0 1 3 10 li ul spire-pager-alpha 13 0
+
+V O v 0 1 0 0 0 0 1 4 9 li ul spire-pager-alpha 13 0
+
+W O w 0 1 0 0 0 0 1 1 9 li ul spire-pager-alpha 13 0
+
+X O x 0 0 0 0 0 0 1 0 9 li ul spire-pager-alpha 13 0
+
+Y O y 0 1 0 0 0 0 1 2 9 li ul spire-pager-alpha 13 0
+
+Z O z 0 1 0 0 0 0 1 1 8 li ul spire-pager-alpha 13 0
+
+Back O back 0 1 0 0 0 0 1 4 6 div div sidebar-second 7 0
+to O to 0 1 0 0 0 0 0 0 10 div div sidebar-second 7 0
+top O top 0 0 0 0 0 0 0 0 6 div div sidebar-second 7 0
+
+Research O research 0 1 0 0 0 0 1 0 7 div div outscreen 8 0
+tools O tools 0 0 0 0 0 0 0 0 6 div div outscreen 8 0
+
+Contacts O contacts 0 0 0 0 0 0 1 0 5 span h2 title 13 0
+
+LEGAL O legal 0 0 0 0 0 0 1 0 5 span h2 title 13 0
+NOTICE O notice 0 0 0 0 0 0 1 0 6 span h2 title 13 0
+
+Accessibility O accessibility 0 0 0 0 0 0 1 0 6 span h2 title 13 0
+of O of 0 1 0 0 0 0 0 2 10 span h2 title 13 0
+the O the 0 1 0 0 0 0 0 0 10 span h2 title 13 0
+Research O research 0 1 0 0 0 0 1 0 7 span h2 title 13 0
+Website O website 0 0 0 0 0 0 1 0 6 span h2 title 13 0
+
+Maps O maps 0 0 0 0 0 0 1 0 6 h2 div title 11 0
+
+Office O office 0 0 0 0 0 0 1 0 7 li ul first 14 0
+of O of 0 1 0 0 0 0 0 2 10 li ul first 14 0
+the O the 0 1 0 0 0 0 0 0 10 li ul first 14 0
+Vice O vice 0 1 0 0 0 0 1 0 6 li ul first 14 0
+Provost O provost 0 1 0 0 0 0 1 3 3 li ul first 14 0
+for O for 0 1 0 0 0 0 0 1 9 li ul first 14 0
+Research O research 0 1 0 0 0 0 1 0 7 li ul first 14 0
+
+Sciences O sciences 0 0 0 0 0 0 1 0 7 li ul last 14 0
+Po O po 0 1 0 0 0 0 1 7 6 li ul last 14 0
+
+Social O social 0 0 0 0 0 0 1 0 6 div div title 10 0
+Network O network 0 0 0 0 0 0 1 0 6 div div title 10 0
+
+See O see 0 1 0 0 0 0 1 5 7 div div all 12 0
+all O all 0 0 0 0 0 0 0 0 7 div div all 12 0

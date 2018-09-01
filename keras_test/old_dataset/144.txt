@@ -1,0 +1,200 @@
+Profesores O profesores 0 0 0 0 1 0 1 head html none 4 1
+investigadores O investigadores 0 0 0 0 0 0 0 head html none 4 1
+del O del 0 1 0 0 0 0 0 head html none 4 1
+DCC O dcc 0 0 0 0 0 0 1 head html none 4 1
+| O | 0 0 0 0 0 0 0 head html none 4 1
+Sitio O sitio 0 0 0 0 0 0 1 head html none 4 1
+Web O web 0 1 0 0 0 0 1 head html none 4 1
+DCC O dcc 0 0 0 0 0 0 1 head html none 4 1
+
+Home O home 0 1 0 0 0 0 1 li ul top_smenu 15 0
+
+Ubicación O ubicacion 0 0 0 0 0 0 1 li ul top_smenu 15 0
+
+Mapa O mapa 0 1 0 0 0 0 1 li ul top_smenu 15 0
+sitio O sitio 0 0 0 0 0 0 0 li ul top_smenu 15 0
+
+Contacto O contacto 0 0 0 0 0 0 1 li ul top_smenu 15 0
+
+Foto O foto 0 1 0 0 0 0 1 div div autoria_fotos 13 1
+: O : 0 0 0 0 0 0 0 div div autoria_fotos 13 1
+Investigación O investigacion 0 0 0 0 0 0 1 div div autoria_fotos 13 1
+
+Profesores O profesores 0 0 0 0 1 0 1 div div title 11 0
+investigadores O investigadores 0 0 0 0 0 0 0 div div title 11 0
+del O del 0 1 0 0 0 0 0 div div title 11 0
+DCC O dcc 0 0 0 0 0 0 1 div div title 11 0
+
+Uno O uno 0 1 0 0 0 0 1 div div content 14 2
+de O de 0 1 0 0 0 0 0 div div content 14 2
+los O los 0 1 0 0 0 0 0 div div content 14 2
+imperativos O imperativos 0 0 0 0 0 0 0 div div content 14 2
+de O de 0 1 0 0 0 0 0 div div content 14 2
+los O los 0 1 0 0 0 0 0 div div content 14 2
+profesores O profesores 0 0 0 0 1 0 0 div div content 14 2
+de O de 0 1 0 0 0 0 0 div div content 14 2
+jornada O jornada 0 0 0 0 0 0 0 div div content 14 2
+completa O completa 0 0 0 0 0 0 0 div div content 14 2
+de O de 0 1 0 0 0 0 0 div div content 14 2
+nuestro O nuestro 0 0 0 0 0 0 0 div div content 14 2
+Departamento O departamento 0 0 0 0 0 0 1 div div content 14 2
+es O es 0 0 0 0 0 0 0 div div content 14 2
+realizar O realizar 0 0 0 0 0 0 0 div div content 14 2
+investigación O investigacion 0 0 0 0 0 0 0 p div content 15 0
+científica O cientifica 0 0 0 0 0 0 0 p div content 15 0
+en O en 0 0 0 0 0 0 0 div div content 14 2
+Computación O computacion 0 0 0 0 0 0 1 div div content 14 2
+y O y 0 1 0 0 0 0 0 div div content 14 2
+diseñar O disenar 0 0 0 0 0 0 0 div div content 14 2
+sistemas O sistemas 0 0 0 0 0 0 0 div div content 14 2
+de O de 0 1 0 0 0 0 0 div div content 14 2
+alta O alta 0 0 0 0 0 0 0 div div content 14 2
+complejidad O complejidad 0 0 0 0 0 0 0 div div content 14 2
+tecnológica O tecnologica 0 0 0 0 0 0 0 div div content 14 2
+e O e 0 1 0 0 0 0 0 div div content 14 2
+ingenieril. O ingenieril. 0 0 0 0 0 0 0 div div content 14 2
+Actualmente O actualmente 0 0 0 0 0 0 1 div div content 14 2
+esta O esta 0 0 0 0 0 0 0 div div content 14 2
+labor O labor 0 0 0 0 0 0 0 div div content 14 2
+es O es 0 0 0 0 0 0 0 div div content 14 2
+realizada O realizada 0 0 0 0 0 0 0 div div content 14 2
+por O por 0 0 0 0 0 0 0 div div content 14 2
+22 O 22 0 0 0 1 0 0 0 div div content 14 2
+científicos O cientificos 0 0 0 0 0 0 0 div div content 14 2
+, O , 0 0 0 0 0 0 0 div div content 14 2
+quienes O quienes 0 0 0 0 0 0 0 div div content 14 2
+trabajan O trabajan 0 0 0 0 0 0 0 div div content 14 2
+en O en 0 0 0 0 0 0 0 div div content 14 2
+más O mas 0 0 0 0 0 0 0 div div content 14 2
+de O de 0 1 0 0 0 0 0 div div content 14 2
+una O una 0 0 0 0 0 0 0 div div content 14 2
+decena O decena 0 0 0 0 0 0 0 div div content 14 2
+de O de 0 1 0 0 0 0 0 div div content 14 2
+áreas O areas 0 0 0 0 0 0 0 p div content 15 1
+de O de 0 1 0 0 0 0 0 p div content 15 1
+investigación O investigacion 0 0 0 0 0 0 0 p div content 15 1
+: O : 0 0 0 0 0 0 0 div div content 14 2
+
+Nelson B-PER nelson 1 1 0 0 0 0 1 a p content 16 0
+Baloian I-PER baloian 1 1 0 0 0 0 1 a p content 16 0
+T. I-PER t. 0 1 0 0 0 0 1 a p content 16 0
+
+Jérémy B-PER jeremy 1 1 0 0 0 0 1 a p content 16 0
+Barbay I-PER barbay 1 1 0 0 0 0 1 a p content 16 0
+
+Pablo B-PER pablo 1 1 0 0 0 0 1 a p content 16 0
+Barceló I-PER barcelo 1 1 0 0 0 0 1 a p content 16 0
+
+María B-PER maria 1 1 0 0 0 0 1 a p content 16 0
+Cecilia I-PER cecilia 1 1 0 0 0 0 1 a p content 16 0
+Bastarrica I-PER bastarrica 1 1 0 0 0 0 1 a p content 16 0
+P. I-PER p. 0 1 0 0 0 0 1 a p content 16 0
+
+Alexandre B-PER alexandre 1 1 0 0 0 0 1 a p content 16 0
+Bergel I-PER bergel 1 1 0 0 0 0 1 a p content 16 0
+
+Benjamín B-PER benjamin 0 1 0 0 0 0 1 a p content 16 0
+Bustos I-PER bustos 0 1 0 0 0 0 1 a p content 16 0
+C. I-PER c. 0 1 0 0 0 0 1 a p content 16 0
+
+Claudio B-PER claudio 1 1 0 0 0 0 1 a p content 16 0
+Gutiérrez I-PER gutierrez 1 1 0 0 0 0 1 a p content 16 0
+
+Alejandro B-PER alejandro 1 1 0 0 0 0 1 a p content 16 0
+Hevia I-PER hevia 1 1 0 0 0 0 1 a p content 16 0
+A. I-PER a. 0 1 0 0 0 0 1 a p content 16 0
+
+Aidan B-PER aidan 1 1 0 0 1 0 1 a p content 16 0
+Hogan I-PER hogan 1 1 0 0 0 0 1 a p content 16 0
+
+Nancy B-PER nancy 1 1 0 0 0 0 1 a p content 16 0
+Hitschfeld I-PER hitschfeld 1 1 0 0 0 0 1 a p content 16 0
+
+Gonzalo B-PER gonzalo 1 1 0 0 0 0 1 a p content 16 0
+Navarro I-PER navarro 1 1 0 0 0 0 1 a p content 16 0
+B. I-PER b. 0 1 0 0 0 0 1 a p content 16 0
+
+Sergio B-PER sergio 1 1 0 0 0 0 1 a p content 16 0
+F. I-PER f. 1 1 0 0 0 0 1 a p content 16 0
+Ochoa I-PER ochoa 1 1 0 0 0 0 1 a p content 16 0
+
+Federico B-PER federico 1 1 0 0 0 0 1 a p content 16 0
+Olmedo I-PER olmedo 1 1 0 0 0 0 1 a p content 16 0
+
+Jorge B-PER jorge 0 1 0 0 0 0 1 a p content 16 0
+Pérez I-PER perez 0 1 0 0 0 0 1 a p content 16 0
+
+José B-PER jose 1 1 0 0 0 0 1 a p content 16 0
+A. I-PER a. 1 1 0 0 0 0 1 a p content 16 0
+Pino I-PER pino 1 1 0 0 0 0 1 a p content 16 0
+
+Bárbara B-PER barbara 0 1 0 0 0 0 1 a p content 16 0
+Poblete I-PER poblete 0 1 0 0 0 0 1 a p content 16 0
+
+Patricio B-PER patricio 0 1 0 0 0 0 1 a p content 16 0
+Poblete I-PER poblete 0 1 0 0 0 0 1 a p content 16 0
+
+María B-PER maria 1 1 0 0 0 0 1 a p content 16 0
+Cecilia I-PER cecilia 1 1 0 0 0 0 1 a p content 16 0
+Rivara I-PER rivara 1 1 0 0 0 0 1 a p content 16 0
+
+Jaime B-PER jaime 1 1 0 0 0 0 1 a p content 16 0
+Sánchez I-PER sanchez 1 1 0 0 0 0 1 a p content 16 0
+I. I-PER i. 0 1 0 0 0 0 1 a p content 16 0
+
+Jocelyn B-PER jocelyn 1 1 0 0 0 0 1 a p content 16 0
+Simmonds I-PER simmonds 1 1 0 0 0 0 1 a p content 16 0
+
+Éric B-PER eric 1 1 0 0 0 0 1 a p content 16 0
+Tanter I-PER tanter 1 1 0 0 0 0 1 a p content 16 0
+
+English O english 0 1 0 0 0 0 1 li ul translation-link 15 0
+
+DOCENCIA O docencia 0 0 0 0 0 0 1 li ul first 15 0
+
+INVESTIGACIÓN O investigacion 0 0 0 0 0 0 1 li ul active-trail 15 0
+
+áreas O areas 0 0 0 0 0 0 0 li ul first 17 0
+
+investigadores O investigadores 0 0 0 0 0 0 0 li ul active 17 0
+
+publicaciones O publicaciones 0 0 0 0 0 0 0 li ul collapsed 17 0
+
+reconocimientos O reconocimientos 0 0 0 0 0 0 0 li ul collapsed 17 0
+
+fondecyt O fondecyt 0 0 0 0 0 0 0 li ul collapsed 17 0
+
+fondef O fondef 0 0 0 0 0 0 0 li ul collapsed 17 0
+
+reportes O reportes 0 0 0 0 0 0 0 li ul leaf 17 0
+técnicos O tecnicos 0 0 0 0 0 0 0 li ul leaf 17 0
+
+postgrados O postgrados 0 0 0 0 0 0 0 li ul last 17 0
+
+INNOVACIÓN O innovacion 0 0 0 0 0 0 1 li ul collapsed 15 0
+
+COMUNIDAD O comunidad 0 0 0 0 0 0 1 li ul collapsed 15 0
+
+ADMISIÓN O admision 0 0 0 0 0 0 1 li ul collapsed 15 0
+
+DCC O dcc 0 0 0 0 0 0 1 li ul collapsed 15 0
+
+DIFUSIÓN O difusion 0 0 0 0 0 0 1 li ul last 15 0
+
+................................................................................................................................................................................................................................. O ................................................................................................................................................................................................................................. 0 0 0 0 0 0 0 div div pie_d 11 1
+
+Avenida O avenida 0 0 0 0 0 0 1 div div pie_d 11 2
+Beauchef O beauchef 0 0 0 0 0 0 1 div div pie_d 11 2
+851 O 851 0 0 0 1 0 0 0 div div pie_d 11 2
+, O , 0 0 0 0 0 0 0 div div pie_d 11 2
+Tercer O tercer 0 0 0 0 0 0 1 div div pie_d 11 2
+Piso O piso 0 1 0 0 0 0 1 div div pie_d 11 2
+, O , 0 0 0 0 0 0 0 div div pie_d 11 2
+Santiago O santiago 0 1 0 0 0 0 1 div div pie_d 11 2
+, O , 0 0 0 0 0 0 0 div div pie_d 11 2
+Chile O chile 0 1 0 0 0 0 1 div div pie_d 11 2
+/ O / 0 0 0 0 0 0 0 div div pie_d 11 2
+C.P. O c.p. 0 0 0 0 0 0 1 div div pie_d 11 2
+837 O 837 0 0 0 1 0 0 0 div div pie_d 11 2
+- O - 0 0 0 0 0 0 0 div div pie_d 11 2
+0456 O 0456 0 0 0 1 0 0 0 div div pie_d 11 2

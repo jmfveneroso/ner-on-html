@@ -1,1621 +1,1621 @@
-Electrical O electrical 0 0 0 0 0 0 1 head html none 4 0
-and O and 0 1 0 0 0 0 0 head html none 4 0
-Computer O computer 0 0 0 0 0 0 1 head html none 4 0
-Engineering O engineering 0 0 0 0 0 0 1 head html none 4 0
-Faculty O faculty 0 0 0 0 0 0 1 head html none 4 0
-
-Department O department 0 0 0 0 0 0 1 a h3 row 12 0
-of O of 0 1 0 0 0 0 0 a h3 row 12 0
-Electrical O electrical 0 0 0 0 0 0 1 a h3 row 12 0
-and O and 0 1 0 0 0 0 0 a h3 row 12 0
-Computer O computer 0 0 0 0 0 0 1 a h3 row 12 0
-Engineering O engineering 0 0 0 0 0 0 1 a h3 row 12 0
-
-Toggle O toggle 0 0 0 0 0 0 1 button div sr-only 9 0
-navigation O navigation 0 0 0 0 0 0 0 button div sr-only 9 0
-Menu O menu 0 1 0 0 0 0 1 div div menu-trigger 8 0
-
-Department O department 0 0 0 0 0 0 1 div div hidden-lg 8 0
-of O of 0 1 0 0 0 0 0 div div hidden-lg 8 0
-Electrical O electrical 0 0 0 0 0 0 1 div div hidden-lg 8 0
-and O and 0 1 0 0 0 0 0 div div hidden-lg 8 0
-Computer O computer 0 0 0 0 0 0 1 div div hidden-lg 8 0
-Engineering O engineering 0 0 0 0 0 0 1 div div hidden-lg 8 0
-
-Department O department 0 0 0 0 0 0 1 div div subNav 11 0
-of O of 0 1 0 0 0 0 0 div div subNav 11 0
-Electrical O electrical 0 0 0 0 0 0 1 div div subNav 11 0
-and O and 0 1 0 0 0 0 0 div div subNav 11 0
-Computer O computer 0 0 0 0 0 0 1 div div subNav 11 0
-Engineering O engineering 0 0 0 0 0 0 1 div div subNav 11 0
-
-Department O department 0 0 0 0 0 0 1 a div visible-xs 11 0
-of O of 0 1 0 0 0 0 0 a div visible-xs 11 0
-Electrical O electrical 0 0 0 0 0 0 1 a div visible-xs 11 0
-and O and 0 1 0 0 0 0 0 a div visible-xs 11 0
-Computer O computer 0 0 0 0 0 0 1 a div visible-xs 11 0
-Engineering O engineering 0 0 0 0 0 0 1 a div visible-xs 11 0
-
-Faculty O faculty 0 0 0 0 0 0 1 div div thumbnail 12 0
-
-Emeritus O emeritus 0 1 0 0 1 0 1 div div last 12 2
-Faculty O faculty 0 0 0 0 0 0 1 div div last 12 2
-
-Contact O contact 0 0 0 0 0 0 1 div div nav_side_contact_title 12 0
-
-334 O 334 0 0 0 1 0 0 0 div div subNav 13 0
-- O - 0 0 0 0 0 0 0 div div subNav 13 0
-844 O 844 0 0 0 1 0 0 0 div div subNav 13 0
-- O - 0 0 0 0 0 0 0 div div subNav 13 0
-1800 O 1800 0 0 0 1 0 0 0 div div subNav 13 0
-ece@eng.auburn.edu O ece@eng.auburn.edu 0 0 1 0 0 0 0 div div subNav 13 2
-
-Electrical O electrical 0 0 0 0 0 0 1 div div caption 11 0
-and O and 0 1 0 0 0 0 0 div div caption 11 0
-Computer O computer 0 0 0 0 0 0 1 div div caption 11 0
-Engineering O engineering 0 0 0 0 0 0 1 div div caption 11 0
-Faculty O faculty 0 0 0 0 0 0 1 div div caption 11 0
-
-Department O department 0 0 0 0 0 0 1 tr tbody Caption 15 0
-Chair O chair 0 1 0 0 0 0 1 tr tbody Caption 15 0
-
-Mark B-PER mark 0 1 0 0 0 0 1 tr tbody Caption 15 0
-Nelms I-PER nelms 0 1 0 0 0 0 1 tr tbody Caption 15 0
-
-The O the 0 1 0 0 0 0 1 p div caption 12 8
-Department O department 0 0 0 0 0 0 1 p div caption 12 8
-of O of 0 1 0 0 0 0 0 p div caption 12 8
-Electrical O electrical 0 0 0 0 0 0 1 p div caption 12 8
-and O and 0 1 0 0 0 0 0 p div caption 12 8
-Computer O computer 0 0 0 0 0 0 1 p div caption 12 8
-Engineering O engineering 0 0 0 0 0 0 1 p div caption 12 8
-offers O offers 0 0 0 0 0 0 0 p div caption 12 8
-students O students 0 0 0 0 0 0 0 p div caption 12 8
-professional O professional 0 0 0 0 1 0 0 p div caption 12 8
-opportunities O opportunities 0 0 0 0 0 0 0 p div caption 12 8
-ranging O ranging 0 0 0 0 0 0 0 p div caption 12 8
-from O from 0 0 0 0 0 0 0 p div caption 12 8
-working O working 0 0 0 0 0 0 0 p div caption 12 8
-on O on 0 0 0 0 0 0 0 p div caption 12 8
-designs O designs 0 0 0 0 0 0 0 p div caption 12 8
-for O for 0 1 0 0 0 0 0 p div caption 12 8
-the O the 0 1 0 0 0 0 0 p div caption 12 8
-latest O latest 0 0 0 0 0 0 0 p div caption 12 8
-technological O technological 0 0 0 0 0 0 0 p div caption 12 8
-breakthroughs O breakthroughs 0 0 0 0 0 0 0 p div caption 12 8
-to O to 0 0 0 0 0 0 0 p div caption 12 8
-communications O communications 0 0 0 0 0 0 0 p div caption 12 8
-systems O systems 0 0 0 0 0 0 0 p div caption 12 8
-powered O powered 0 0 0 0 0 0 0 p div caption 12 8
-for O for 0 1 0 0 0 0 0 p div caption 12 8
-the O the 0 1 0 0 0 0 0 p div caption 12 8
-world. O world. 0 0 0 0 0 0 0 p div caption 12 8
-
-With O with 0 1 0 0 0 0 1 p div caption 12 8
-our O our 0 0 0 0 0 0 0 p div caption 12 8
-dynamic O dynamic 0 0 0 0 0 0 0 p div caption 12 8
-and O and 0 1 0 0 0 0 0 p div caption 12 8
-talented O talented 0 0 0 0 0 0 0 p div caption 12 8
-faculty O faculty 0 0 0 0 0 0 0 p div caption 12 8
-, O , 0 0 0 0 0 0 0 p div caption 12 8
-students O students 0 0 0 0 0 0 0 p div caption 12 8
-achieve O achieve 0 0 0 0 0 0 0 p div caption 12 8
-the O the 0 1 0 0 0 0 0 p div caption 12 8
-highest O highest 0 0 0 0 0 0 0 p div caption 12 8
-- O - 0 0 0 0 0 0 0 p div caption 12 8
-caliber O caliber 0 0 0 0 0 0 0 p div caption 12 8
-education O education 0 0 0 0 0 0 0 p div caption 12 8
-with O with 0 0 0 0 0 0 0 p div caption 12 8
-an O an 0 1 0 0 0 0 0 p div caption 12 8
-avenue O avenue 0 0 0 0 0 0 0 p div caption 12 8
-of O of 0 1 0 0 0 0 0 p div caption 12 8
-career O career 0 0 0 0 0 0 0 p div caption 12 8
-prospects O prospects 0 0 0 0 0 0 0 p div caption 12 8
-upon O upon 0 0 0 0 0 0 0 p div caption 12 8
-graduation. O graduation. 0 0 0 0 0 0 0 p div caption 12 8
-
-Our O our 0 0 0 0 0 0 1 p div caption 12 8
-department O department 0 0 0 0 0 0 0 p div caption 12 8
-also O also 0 0 0 0 0 0 0 p div caption 12 8
-has O has 0 0 0 0 0 0 0 p div caption 12 8
-a O a 0 1 0 0 0 0 0 p div caption 12 8
-strong O strong 0 0 0 0 0 0 0 p div caption 12 8
-graduate O graduate 0 0 0 0 0 0 0 p div caption 12 8
-program O program 0 0 0 0 0 0 0 p div caption 12 8
-with O with 0 0 0 0 0 0 0 p div caption 12 8
-one O one 0 0 0 0 0 0 0 p div caption 12 8
-- O - 0 0 0 0 0 0 0 p div caption 12 8
-on O on 0 0 0 0 0 0 0 p div caption 12 8
-- O - 0 0 0 0 0 0 0 p div caption 12 8
-one O one 0 0 0 0 0 0 0 p div caption 12 8
-research O research 0 0 0 0 0 0 0 p div caption 12 8
-opportunities O opportunities 0 0 0 0 0 0 0 p div caption 12 8
-with O with 0 0 0 0 0 0 0 p div caption 12 8
-our O our 0 0 0 0 0 0 0 p div caption 12 8
-faculty. O faculty. 0 0 0 0 0 0 0 p div caption 12 8
-
-With O with 0 1 0 0 0 0 1 p div caption 12 8
-more O more 0 0 0 0 0 0 0 p div caption 12 8
-than O than 0 0 0 0 0 0 0 p div caption 12 8
-500 O 500 0 0 0 1 0 0 0 p div caption 12 8
-undergraduate O undergraduate 0 0 0 0 0 0 0 p div caption 12 8
-and O and 0 1 0 0 0 0 0 p div caption 12 8
-close O close 0 0 0 0 0 0 0 p div caption 12 8
-to O to 0 0 0 0 0 0 0 p div caption 12 8
-150 O 150 0 0 0 1 0 0 0 p div caption 12 8
-graduate O graduate 0 0 0 0 0 0 0 p div caption 12 8
-students O students 0 0 0 0 0 0 0 p div caption 12 8
-, O , 0 0 0 0 0 0 0 p div caption 12 8
-we O we 0 0 0 0 0 0 0 p div caption 12 8
-house O house 0 0 0 0 0 0 0 p div caption 12 8
-one O one 0 0 0 0 0 0 0 p div caption 12 8
-of O of 0 1 0 0 0 0 0 p div caption 12 8
-the O the 0 1 0 0 0 0 0 p div caption 12 8
-largest O largest 0 0 0 0 0 0 0 p div caption 12 8
-departments O departments 0 0 0 0 0 0 0 p div caption 12 8
-within O within 0 0 0 0 0 0 0 p div caption 12 8
-the O the 0 1 0 0 0 0 0 p div caption 12 8
-college O college 0 0 0 0 0 0 0 p div caption 12 8
-which O which 0 0 0 0 0 0 0 p div caption 12 8
-attests O attests 0 0 0 0 0 0 0 p div caption 12 8
-to O to 0 0 0 0 0 0 0 p div caption 12 8
-our O our 0 0 0 0 0 0 0 p div caption 12 8
-growing O growing 0 0 0 0 0 0 0 p div caption 12 8
-reputation O reputation 0 0 0 0 0 0 0 p div caption 12 8
-as O as 0 0 0 0 0 0 0 p div caption 12 8
-a O a 0 1 0 0 0 0 0 p div caption 12 8
-premier O premier 0 0 0 0 0 0 0 p div caption 12 8
-program. O program. 0 0 0 0 0 0 0 p div caption 12 8
-
-Electrical O electrical 0 0 0 0 0 0 1 p div caption 12 8
-and O and 0 1 0 0 0 0 0 p div caption 12 8
-computer O computer 0 0 0 0 0 0 0 p div caption 12 8
-engineering O engineering 0 0 0 0 0 0 0 p div caption 12 8
-is O is 0 0 0 0 0 0 0 p div caption 12 8
-rapidly O rapidly 0 0 0 0 0 0 0 p div caption 12 8
-growing O growing 0 0 0 0 0 0 0 p div caption 12 8
-in O in 0 1 0 0 0 0 0 p div caption 12 8
-popularity O popularity 0 0 0 0 0 0 0 p div caption 12 8
-and O and 0 1 0 0 0 0 0 p div caption 12 8
-we O we 0 0 0 0 0 0 0 p div caption 12 8
-have O have 0 0 0 0 0 0 0 p div caption 12 8
-the O the 0 1 0 0 0 0 0 p div caption 12 8
-ability O ability 0 0 0 0 0 0 0 p div caption 12 8
-to O to 0 0 0 0 0 0 0 p div caption 12 8
-prepare O prepare 0 0 0 0 0 0 0 p div caption 12 8
-students O students 0 0 0 0 0 0 0 p div caption 12 8
-to O to 0 0 0 0 0 0 0 p div caption 12 8
-compete O compete 0 0 0 0 0 0 0 p div caption 12 8
-among O among 0 0 0 0 0 0 0 p div caption 12 8
-the O the 0 1 0 0 0 0 0 p div caption 12 8
-best O best 0 0 0 0 0 0 0 p div caption 12 8
-in O in 0 1 0 0 0 0 0 p div caption 12 8
-the O the 0 1 0 0 0 0 0 p div caption 12 8
-world. O world. 0 0 0 0 0 0 0 p div caption 12 8
-
-Mark B-PER mark 1 1 0 0 0 0 1 a div person 15 0
-Adams I-PER adams 1 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Assistant O assistant 0 0 0 0 0 0 1 h4 a person 16 0
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-mla0019@auburn.edu O mla0019@auburn.edu 0 0 1 1 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1865 O 1865 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-325 O 325 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Resume O resume 0 0 0 0 0 0 1 p div person 15 1
-
-Sensors O sensors 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Transducers O transducers 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Photonics O photonics 0 0 0 0 0 0 1 a div btn-custom1 15 0
-MEMS O mems 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Microfluidics O microfluidics 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Antennas O antennas 0 0 0 0 0 0 1 a div btn-custom1 15 0
-
-Michael B-PER michael 0 1 0 0 0 0 1 a div person 15 0
-Baginski I-PER baginski 0 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Associate O associate 0 1 0 0 0 0 1 h4 a person 16 0
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-baginme@auburn.edu O baginme@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1817 O 1817 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-423 O 423 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Electromagnetics O electromagnetics 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Radar O radar 0 1 0 0 0 0 1 a div btn-custom1 15 0
-Pulse O pulse 0 0 0 0 0 0 1 a div btn-custom1 15 0
-power O power 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Optimization O optimization 0 0 0 0 0 0 1 a div btn-custom1 15 0
-
-Adil B-PER adil 0 1 0 0 0 0 1 div div person 14 0
-Bashir I-PER bashir 0 1 0 0 0 0 1 div div person 14 0
-- O - 0 0 0 0 0 0 0 div div person 14 0
-
-Associate O associate 0 1 0 0 0 0 1 h4 div person 15 1
-Professor O professor 0 0 0 0 1 0 1 h4 div person 15 1
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-azb0117@auburn.edu O azb0117@auburn.edu 0 0 1 1 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1816 O 1816 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-171 O 171 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Magnetic O magnetic 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Resonance O resonance 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Imaging O imaging 0 0 0 0 0 0 1 a div btn-custom1 15 0
-( O ( 0 0 0 0 0 0 0 a div btn-custom1 15 0
-MRI O mri 0 0 0 0 1 0 1 a div btn-custom1 15 0
-) O ) 0 0 0 0 0 0 0 a div btn-custom1 15 0
-1H O 1h 0 0 0 1 0 0 0 a div btn-custom1 15 0
-, O , 0 0 0 0 0 0 0 a div btn-custom1 15 0
-31P O 31p 0 0 0 1 0 0 0 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-13C O 13c 0 0 0 1 0 0 0 a div btn-custom1 15 0
-spectroscopy O spectroscopy 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Image O image 0 0 0 0 0 0 1 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-spectral O spectral 0 0 0 0 0 0 0 a div btn-custom1 15 0
-processing O processing 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Constrained O constrained 0 0 0 0 0 0 1 a div btn-custom1 15 0
-image O image 0 0 0 0 0 0 0 a div btn-custom1 15 0
-reconstruction O reconstruction 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Skeletal O skeletal 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Muscle O muscle 0 0 0 0 1 0 1 a div btn-custom1 15 0
-metabolism O metabolism 0 0 0 0 0 0 0 a div btn-custom1 15 0
-MR O mr 0 0 0 0 0 0 1 a div btn-custom1 15 0
-oximetry O oximetry 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Real O real 0 1 0 0 0 0 1 a div btn-custom1 15 0
-time O time 0 0 0 0 0 0 0 a div btn-custom1 15 0
-MRI O mri 0 0 0 0 1 0 1 a div btn-custom1 15 0
-Type O type 0 0 0 0 0 0 1 a div btn-custom1 15 0
-2 O 2 0 0 0 1 0 0 0 a div btn-custom1 15 0
-diabetes O diabetes 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Exercise O exercise 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Obesity O obesity 0 0 0 0 0 0 1 a div btn-custom1 15 0
-
-Cordelia B-PER cordelia 0 1 0 0 0 0 1 div div person 14 0
-Brown I-PER brown 0 1 0 0 0 0 1 div div person 14 0
-- O - 0 0 0 0 0 0 0 div div person 14 0
-
-Director O director 0 1 0 0 0 0 1 h4 div person 15 1
-of O of 0 1 0 0 0 0 0 h4 div person 15 1
-Alabama O alabama 0 0 0 0 0 0 1 h4 div person 15 1
-Power O power 0 1 0 0 0 0 1 h4 div person 15 1
-Academic O academic 0 0 0 0 0 0 1 h4 div person 15 1
-Excellence O excellence 0 0 0 0 0 0 1 h4 div person 15 1
-Program O program 0 0 0 0 0 0 1 h4 div person 15 1
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-cdb0127@auburn.edu O cdb0127@auburn.edu 0 0 1 1 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-2331 O 2331 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-1214 O 1214 0 0 0 1 0 0 0 div div person 14 7
-Shelby O shelby 0 1 0 0 0 0 1 div div person 14 7
-Center O center 0 1 0 0 0 0 1 div div person 14 7
-
-Engineering O engineering 0 0 0 0 0 0 1 a div btn-custom1 15 0
-education O education 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Jason B-PER jason 1 1 0 0 0 0 1 a div person 15 0
-Clark I-PER clark 1 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Assistant O assistant 0 0 0 0 0 0 1 h4 a person 16 0
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-jvc0008@auburn.edu O jvc0008@auburn.edu 0 0 1 1 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1874 O 1874 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-401 O 401 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-MEMS O mems 0 0 0 0 0 0 1 a div btn-custom1 15 0
-NEMS O nems 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Metrology O metrology 0 0 0 0 0 0 1 a div btn-custom1 15 0
-CAD O cad 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Control O control 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Microrobotics O microrobotics 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Personalized O personalized 0 0 0 0 0 0 1 a div btn-custom1 15 0
-learning O learning 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Fa B-PER fa 0 1 0 0 0 0 1 a div person 15 0
-Dai I-PER dai 0 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Ed O ed 0 1 0 0 0 0 1 h4 a person 16 0
-and O and 0 1 0 0 0 0 0 h4 a person 16 0
-Peggy O peggy 0 1 0 0 0 0 1 h4 a person 16 0
-Reynolds O reynolds 0 1 0 0 0 0 1 h4 a person 16 0
-Family O family 0 1 0 0 0 0 1 h4 a person 16 0
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-daifa01@auburn.edu O daifa01@auburn.edu 0 0 1 1 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1863 O 1863 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-404 O 404 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Analog O analog 0 0 0 0 0 0 1 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-mixed O mixed 0 0 0 0 0 0 0 a div btn-custom1 15 0
-- O - 0 0 0 0 0 0 0 a div btn-custom1 15 0
-signal O signal 0 0 0 0 0 0 0 a div btn-custom1 15 0
-circuits O circuits 0 0 0 0 0 0 0 a div btn-custom1 15 0
-RFIC O rfic 0 0 0 0 0 0 1 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-MMIC O mmic 0 0 0 0 0 0 1 a div btn-custom1 15 0
-designs O designs 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Robert B-PER robert 1 1 0 0 0 0 1 a div person 15 0
-Dean I-PER dean 1 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-McWane O mcwane 0 0 0 0 0 0 1 h4 a person 16 0
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-deanron@auburn.edu O deanron@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1838 O 1838 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-222 O 222 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-MEMS O mems 0 0 0 0 0 0 1 a div btn-custom1 15 0
-devices O devices 0 0 0 0 0 0 0 a div btn-custom1 15 0
-MEMS O mems 0 0 0 0 0 0 1 a div btn-custom1 15 0
-systems O systems 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Advance O advance 0 0 0 0 0 0 1 a div btn-custom1 15 0
-packaging O packaging 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Instrumentation O instrumentation 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Power O power 0 1 0 0 0 0 1 a div btn-custom1 15 0
-electronics O electronics 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Thomas B-PER thomas 0 1 0 0 0 0 1 a div person 15 0
-Denney I-PER denney 0 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Director O director 0 1 0 0 0 0 1 h4 a person 16 0
-of O of 0 1 0 0 0 0 0 h4 a person 16 0
-Auburn O auburn 0 1 0 0 0 0 1 h4 a person 16 0
-University O university 0 1 0 0 0 0 1 h4 a person 16 0
-MRI O mri 0 0 0 0 1 0 1 h4 a person 16 0
-Research O research 0 1 0 0 0 0 1 h4 a person 16 0
-Center O center 0 1 0 0 0 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-dennets@auburn.edu O dennets@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1862 O 1862 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-365 O 365 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Resume O resume 0 0 0 0 0 0 1 p div person 15 1
-
-MRI O mri 0 0 0 0 1 0 1 a div btn-custom1 15 0
-MRS O mrs 0 0 0 0 1 0 1 a div btn-custom1 15 0
-Image O image 0 0 0 0 0 0 1 a div btn-custom1 15 0
-processing O processing 0 0 0 0 0 0 0 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-analysis O analysis 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Gopikrishna B-PER gopikrishna 1 1 0 0 0 0 1 a div person 15 0
-Deshpande I-PER deshpande 1 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Associate O associate 0 1 0 0 0 0 1 h4 a person 16 0
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-gzd0005@auburn.edu O gzd0005@auburn.edu 0 0 1 1 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1854 O 1854 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-220 O 220 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Resume O resume 0 0 0 0 0 0 1 p div person 15 1
-
-Functional O functional 0 0 0 0 0 0 1 a div btn-custom1 15 0
-magnetic O magnetic 0 0 0 0 0 0 0 a div btn-custom1 15 0
-resonance O resonance 0 0 0 0 0 0 0 a div btn-custom1 15 0
-imaging O imaging 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Signal O signal 0 1 0 0 0 0 1 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-image O image 0 0 0 0 0 0 0 a div btn-custom1 15 0
-processing O processing 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Artificial O artificial 0 0 0 0 0 0 1 a div btn-custom1 15 0
-intelligence O intelligence 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Machine O machine 0 1 0 0 0 0 1 a div btn-custom1 15 0
-learning O learning 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Data O data 0 1 0 0 0 0 1 a div btn-custom1 15 0
-mining O mining 0 0 0 0 0 0 0 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-fusion O fusion 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Pattern O pattern 0 0 0 0 0 0 1 a div btn-custom1 15 0
-recognition O recognition 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Knowledge O knowledge 0 1 0 0 0 0 1 a div btn-custom1 15 0
-discovery O discovery 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Computational O computational 0 0 0 0 0 0 1 a div btn-custom1 15 0
-neuroscience O neuroscience 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Daniel B-PER daniel 1 1 0 0 0 0 1 div div person 14 0
-Geiger I-PER geiger 1 1 0 0 0 0 1 div div person 14 0
-- O - 0 0 0 0 0 0 0 div div person 14 0
-
-Instructor O instructor 0 0 0 0 0 0 1 h4 div person 15 1
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-geigedl@auburn.edu O geigedl@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-334.844.1800 O 334.844.1800 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-158 O 158 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Xiaowen B-PER xiaowen 1 1 0 0 0 0 1 a div person 15 0
-Gong I-PER gong 1 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Assistant O assistant 0 0 0 0 0 0 1 h4 a person 16 0
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-xzg0017@auburn.edu O xzg0017@auburn.edu 0 0 1 1 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1851 O 1851 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-217 O 217 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Resume O resume 0 0 0 0 0 0 1 p div person 15 1
-
-Wireless O wireless 0 0 0 0 0 0 1 a div btn-custom1 15 0
-networking O networking 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Mobile O mobile 0 0 0 0 0 0 1 a div btn-custom1 15 0
-computing O computing 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Ujjwal B-PER ujjwal 1 1 0 0 0 0 1 a div person 15 0
-Guin I-PER guin 1 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Assistant O assistant 0 0 0 0 0 0 1 h4 a person 16 0
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-ujjwal.guin@auburn.edu O ujjwal.guin@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1835 O 1835 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-325 O 325 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Resume O resume 0 0 0 0 0 0 1 p div person 15 1
-
-Hardware O hardware 0 0 0 0 0 0 1 a div btn-custom1 15 0
-security O security 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Internet O internet 0 0 0 0 0 0 1 a div btn-custom1 15 0
-of O of 0 1 0 0 0 0 0 a div btn-custom1 15 0
-Things O things 0 0 0 0 0 0 1 a div btn-custom1 15 0
-( O ( 0 0 0 0 0 0 0 a div btn-custom1 15 0
-IoTs O iots 0 0 0 0 0 0 1 a div btn-custom1 15 0
-) O ) 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Supply O supply 0 1 0 0 0 0 1 a div btn-custom1 15 0
-chain O chain 0 0 0 0 0 0 0 a div btn-custom1 15 0
-security O security 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Cybersecurity O cybersecurity 0 0 0 0 0 0 1 a div btn-custom1 15 0
-VLSI O vlsi 0 0 0 0 0 0 1 a div btn-custom1 15 0
-design O design 0 0 0 0 0 0 0 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-test O test 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Mark B-PER mark 0 1 0 0 0 0 1 div div person 14 0
-Halpin I-PER halpin 0 1 0 0 0 0 1 div div person 14 0
-- O - 0 0 0 0 0 0 0 div div person 14 0
-
-Alabama O alabama 0 0 0 0 0 0 1 h4 div person 15 1
-Power O power 0 1 0 0 0 0 1 h4 div person 15 1
-Company O company 0 1 0 0 0 0 1 h4 div person 15 1
-Distinguished O distinguished 0 0 0 0 0 0 1 h4 div person 15 1
-Professor O professor 0 0 0 0 1 0 1 h4 div person 15 1
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-halpism@auburn.edu O halpism@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1824 O 1824 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-414 O 414 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Power O power 0 1 0 0 0 0 1 a div btn-custom1 15 0
-systems O systems 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Power O power 0 1 0 0 0 0 1 a div btn-custom1 15 0
-quality O quality 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Modeling O modeling 0 0 0 0 0 0 1 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-simulation O simulation 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Michael B-PER michael 1 1 0 0 0 0 1 a div person 15 0
-Hamilton I-PER hamilton 1 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Director O director 0 1 0 0 0 0 1 h4 a person 16 0
-of O of 0 1 0 0 0 0 0 h4 a person 16 0
-Alabama O alabama 0 0 0 0 0 0 1 h4 a person 16 0
-Micro/Nano O micro/nano 0 0 0 0 0 0 1 h4 a person 16 0
-Science O science 0 0 0 0 0 0 1 h4 a person 16 0
-and O and 0 1 0 0 0 0 0 h4 a person 16 0
-Technology O technology 0 0 0 0 0 0 1 h4 a person 16 0
-Center O center 0 1 0 0 0 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-mch0021@auburn.edu O mch0021@auburn.edu 0 0 1 1 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1879 O 1879 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-403 O 403 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Electronics O electronics 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Fabrication O fabrication 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Transistors O transistors 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Solid O solid 0 0 0 0 0 0 1 a div btn-custom1 15 0
-- O - 0 0 0 0 0 0 0 a div btn-custom1 15 0
-state O state 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Devices O devices 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Packaging O packaging 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Microwave O microwave 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Superconducting O superconducting 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Cryogenic O cryogenic 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Extreme O extreme 0 0 0 0 0 0 1 a div btn-custom1 15 0
-environment O environment 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Christopher B-PER christopher 1 1 0 0 0 0 1 a div person 15 0
-Harris I-PER harris 1 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Assistant O assistant 0 0 0 0 0 0 1 h4 a person 16 0
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-christopher.harris@auburn.edu O christopher.harris@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1864 O 1864 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-302 O 302 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Embedded O embedded 0 0 0 0 1 0 1 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-cyber O cyber 0 0 0 0 0 0 0 a div btn-custom1 15 0
-- O - 0 0 0 0 0 0 0 a div btn-custom1 15 0
-physical O physical 0 0 0 0 0 0 0 a div btn-custom1 15 0
-systems O systems 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Hardware O hardware 0 0 0 0 0 0 1 a div btn-custom1 15 0
-verification O verification 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Electronic O electronic 0 0 0 0 0 0 1 a div btn-custom1 15 0
-design O design 0 0 0 0 0 0 0 a div btn-custom1 15 0
-automation O automation 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-John B-PER john 1 1 0 0 0 0 1 a div person 15 0
-Hung I-PER hung 1 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Graduate O graduate 1 1 0 0 0 0 1 h4 a person 16 0
-Program O program 0 0 0 0 0 0 1 h4 a person 16 0
-Officer O officer 0 0 0 0 0 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-hungjoh@auburn.edu O hungjoh@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1813 O 1813 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-227 O 227 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Resume O resume 0 0 0 0 0 0 1 p div person 15 1
-
-Control O control 0 0 0 0 0 0 1 a div btn-custom1 15 0
-systems O systems 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Industrial O industrial 0 0 0 0 0 0 1 a div btn-custom1 15 0
-electronics O electronics 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Robotics O robotics 0 0 0 0 0 0 1 a div btn-custom1 15 0
-
-Hulya B-PER hulya 0 1 0 0 0 0 1 a div person 15 0
-Kirkici I-PER kirkici 0 0 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Affiliate O affiliate 0 0 0 0 0 0 1 h4 a person 16 0
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-kirkihu@auburn.edu O kirkihu@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-251 O 251 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-460 O 460 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-6117 O 6117 0 0 0 1 0 0 0 div div person 14 5
-
-Physical O physical 0 0 0 0 0 0 1 a div btn-custom1 15 0
-electronics O electronics 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Plasma O plasma 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Gaseous O gaseous 0 0 0 0 0 0 1 a div btn-custom1 15 0
-electronics O electronics 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Optics O optics 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Lasers O lasers 0 0 0 0 0 0 1 a div btn-custom1 15 0
-
-Soo B-PER soo 0 1 0 0 0 0 1 a div person 15 0
-- I-PER - 0 0 0 0 0 0 0 a div person 15 0
-Young I-PER young 1 1 0 0 0 0 1 a div person 15 0
-Lee I-PER lee 1 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-leesooy@auburn.edu O leesooy@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1848 O 1848 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-304 O 304 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Parallel O parallel 0 0 0 0 0 0 1 a div btn-custom1 15 0
-computing O computing 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Image O image 0 0 0 0 0 0 1 a div btn-custom1 15 0
-processing O processing 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Computational O computational 0 0 0 0 0 0 1 a div btn-custom1 15 0
-electron O electron 0 0 0 0 0 0 0 a div btn-custom1 15 0
-- O - 0 0 0 0 0 0 0 a div btn-custom1 15 0
-beam O beam 0 0 0 0 0 0 0 a div btn-custom1 15 0
-lithography O lithography 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Nanofabrication O nanofabrication 0 0 0 0 0 0 1 a div btn-custom1 15 0
-
-Yihan B-PER yihan 1 1 0 0 0 0 1 div div person 14 0
-Li I-PER li 1 1 0 0 0 0 1 div div person 14 0
-- O - 0 0 0 0 0 0 0 div div person 14 0
-
-Visiting O visiting 0 0 0 0 0 0 1 h4 div person 15 1
-Assistant O assistant 0 0 0 0 0 0 1 h4 div person 15 1
-Professor O professor 0 0 0 0 1 0 1 h4 div person 15 1
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-yzl0001@auburn.edu O yzl0001@auburn.edu 0 0 1 1 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-7402 O 7402 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-262 O 262 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Scheduling O scheduling 0 0 0 0 0 0 1 a div btn-custom1 15 0
-in O in 0 1 0 0 0 0 0 a div btn-custom1 15 0
-wired O wired 0 0 0 0 0 0 0 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-wireless O wireless 0 0 0 0 0 0 0 a div btn-custom1 15 0
-network O network 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Wireless O wireless 0 0 0 0 0 0 1 a div btn-custom1 15 0
-ad O ad 0 0 0 0 0 0 0 a div btn-custom1 15 0
-hoc O hoc 0 0 0 0 0 0 0 a div btn-custom1 15 0
-networks O networks 0 0 0 0 0 0 0 a div btn-custom1 15 0
-High O high 0 1 0 0 0 0 1 a div btn-custom1 15 0
-- O - 0 0 0 0 0 0 0 a div btn-custom1 15 0
-speed O speed 0 0 0 0 0 0 0 a div btn-custom1 15 0
-packet O packet 0 0 0 0 0 0 0 a div btn-custom1 15 0
-switching O switching 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Masoud B-PER masoud 0 1 0 0 1 0 1 a div person 15 0
-Mahjouri I-PER mahjouri 0 0 0 0 0 0 1 a div person 15 0
-- I-PER - 0 0 0 0 0 0 0 a div person 15 0
-Samani I-PER samani 0 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Assistant O assistant 0 0 0 0 0 0 1 h4 a person 16 0
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-mzm0185@auburn.edu O mzm0185@auburn.edu 0 0 1 1 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1826 O 1826 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-421 O 421 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Laser O laser 0 1 0 0 0 0 1 a div btn-custom1 15 0
-- O - 0 0 0 0 0 0 0 a div btn-custom1 15 0
-assisted O assisted 0 0 0 0 0 0 0 a div btn-custom1 15 0
-science O science 0 0 0 0 0 0 0 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-engineering O engineering 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Nanomaterials O nanomaterials 0 0 0 0 0 0 1 a div btn-custom1 15 0
-synthesis O synthesis 0 0 0 0 0 0 0 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-processing O processing 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Nanomaterials O nanomaterials 0 0 0 0 0 0 1 a div btn-custom1 15 0
-characterization O characterization 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Electrical O electrical 0 0 0 0 0 0 1 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-optical O optical 0 0 0 0 0 0 0 a div btn-custom1 15 0
-properties O properties 0 0 0 0 0 0 0 a div btn-custom1 15 0
-0D O 0d 0 0 0 1 0 0 0 a div btn-custom1 15 0
-, O , 0 0 0 0 0 0 0 a div btn-custom1 15 0
-1D O 1d 0 0 0 1 0 0 0 a div btn-custom1 15 0
-, O , 0 0 0 0 0 0 0 a div btn-custom1 15 0
-2D O 2d 0 0 0 1 0 0 0 a div btn-custom1 15 0
-materials O materials 0 0 0 0 0 0 0 a div btn-custom1 15 0
-, O , 0 0 0 0 0 0 0 a div btn-custom1 15 0
-hybrid O hybrid 0 0 0 0 0 0 0 a div btn-custom1 15 0
-structures O structures 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Nanoelectronics O nanoelectronics 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Optoelectronics O optoelectronics 0 0 0 0 0 0 1 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-photonics O photonics 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Energy O energy 0 0 0 0 0 0 1 a div btn-custom1 15 0
-harvesting O harvesting 0 0 0 0 0 0 0 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-storage O storage 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Shiwen B-PER shiwen 1 1 0 0 0 0 1 a div person 15 0
-Mao I-PER mao 1 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Director O director 0 1 0 0 0 0 1 h4 a person 16 0
-of O of 0 1 0 0 0 0 0 h4 a person 16 0
-Wireless O wireless 0 0 0 0 0 0 1 h4 a person 16 0
-Engineering O engineering 0 0 0 0 0 0 1 h4 a person 16 0
-Research O research 0 1 0 0 0 0 1 h4 a person 16 0
-and O and 0 1 0 0 0 0 0 h4 a person 16 0
-Education O education 0 0 0 0 0 0 1 h4 a person 16 0
-Center O center 0 1 0 0 0 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-szm0001@auburn.edu O szm0001@auburn.edu 0 0 1 1 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1845 O 1845 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-301 O 301 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Resume O resume 0 0 0 0 0 0 1 p div person 15 1
-
-Wireless O wireless 0 0 0 0 0 0 1 a div btn-custom1 15 0
-communications O communications 0 0 0 0 0 0 0 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-networks O networks 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Multimedia O multimedia 0 0 0 0 0 0 1 a div btn-custom1 15 0
-networking O networking 0 0 0 0 0 0 0 a div btn-custom1 15 0
-5G O 5g 0 0 0 1 0 0 0 a div btn-custom1 15 0
-wireless O wireless 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Free O free 0 1 0 0 0 0 1 a div btn-custom1 15 0
-space O space 0 0 0 0 0 0 0 a div btn-custom1 15 0
-optical O optical 0 0 0 0 0 0 0 a div btn-custom1 15 0
-networks O networks 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Smart O smart 0 1 0 0 0 0 1 a div btn-custom1 15 0
-grid O grid 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Indoor O indoor 0 0 0 0 0 0 1 a div btn-custom1 15 0
-localization O localization 0 0 0 0 0 0 0 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-RF O rf 0 0 0 0 0 0 1 a div btn-custom1 15 0
-sensing O sensing 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Spencer B-PER spencer 0 1 0 0 0 0 1 a div person 15 0
-Millican I-PER millican 0 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Assistant O assistant 0 0 0 0 0 0 1 h4 a person 16 0
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-millican@auburn.edu O millican@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1873 O 1873 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-324 O 324 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Electronic O electronic 0 0 0 0 0 0 1 a div btn-custom1 15 0
-design O design 0 0 0 0 0 0 0 a div btn-custom1 15 0
-automation O automation 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Computer O computer 0 0 0 0 0 0 1 a div btn-custom1 15 0
-architecture O architecture 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Embedded O embedded 0 0 0 0 1 0 1 a div btn-custom1 15 0
-systems O systems 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Cyber O cyber 0 0 0 0 0 0 1 a div btn-custom1 15 0
-- O - 0 0 0 0 0 0 0 a div btn-custom1 15 0
-physical O physical 0 0 0 0 0 0 0 a div btn-custom1 15 0
-systems O systems 0 0 0 0 0 0 0 a div btn-custom1 15 0
-VLSI O vlsi 0 0 0 0 0 0 1 a div btn-custom1 15 0
-test O test 0 0 0 0 0 0 0 a div btn-custom1 15 0
-IP O ip 0 0 0 0 0 0 1 a div btn-custom1 15 0
-security O security 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Mark B-PER mark 0 1 0 0 0 0 1 a div person 15 0
-Nelms I-PER nelms 0 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Department O department 0 0 0 0 0 0 1 h4 a person 16 0
-Chair O chair 0 1 0 0 0 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-nelmsrm@auburn.edu O nelmsrm@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1830 O 1830 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-210 O 210 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Resume O resume 0 0 0 0 0 0 1 p div person 15 1
-
-Power O power 0 1 0 0 0 0 1 a div btn-custom1 15 0
-electronics O electronics 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Power O power 0 1 0 0 0 0 1 a div btn-custom1 15 0
-system O system 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Energy O energy 0 0 0 0 0 0 1 a div btn-custom1 15 0
-conversion O conversion 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Victor B-PER victor 1 1 0 0 0 0 1 a div person 15 0
-Nelson I-PER nelson 0 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-nelsovp@auburn.edu O nelsovp@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1849 O 1849 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-326 O 326 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Resume O resume 0 0 0 0 0 0 1 p div person 15 1
-
-Embedded O embedded 0 0 0 0 1 0 1 a div btn-custom1 15 0
-systems O systems 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Digital O digital 0 1 0 0 0 0 1 a div btn-custom1 15 0
-systems O systems 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Systems O systems 0 0 0 0 0 0 1 a div btn-custom1 15 0
-on O on 0 0 0 0 0 0 0 a div btn-custom1 15 0
-chip O chip 0 0 0 0 0 0 0 a div btn-custom1 15 0
-FPGA O fpga 0 0 0 0 0 0 1 a div btn-custom1 15 0
-- O - 0 0 0 0 0 0 0 a div btn-custom1 15 0
-based O based 0 0 0 0 0 0 0 a div btn-custom1 15 0
-systems O systems 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Computer O computer 0 0 0 0 0 0 1 a div btn-custom1 15 0
-- O - 0 0 0 0 0 0 0 a div btn-custom1 15 0
-aided O aided 0 0 0 0 1 0 0 a div btn-custom1 15 0
-design O design 0 0 0 0 0 0 0 a div btn-custom1 15 0
-of O of 0 1 0 0 0 0 0 a div btn-custom1 15 0
-digital O digital 0 0 0 0 0 0 0 a div btn-custom1 15 0
-ICs O ics 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Computer O computer 0 0 0 0 0 0 1 a div btn-custom1 15 0
-engineering O engineering 0 0 0 0 0 0 0 a div btn-custom1 15 0
-education O education 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Engineering O engineering 0 0 0 0 0 0 1 a div btn-custom1 15 0
-accreditation O accreditation 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Guofu B-PER guofu 0 1 0 0 0 0 1 a div person 15 0
-Niu I-PER niu 0 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Alumni O alumni 0 0 0 0 0 0 1 h4 a person 16 0
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-niuguof@auburn.edu O niuguof@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1849 O 1849 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-425 O 425 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Semiconductor O semiconductor 0 1 0 0 0 0 1 a div btn-custom1 15 0
-devices O devices 0 0 0 0 0 0 0 a div btn-custom1 15 0
-SiGe O sige 0 0 0 0 0 0 1 a div btn-custom1 15 0
-HBT O hbt 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Compact O compact 0 0 0 0 0 0 1 a div btn-custom1 15 0
-modeling O modeling 0 0 0 0 0 0 0 a div btn-custom1 15 0
-TCAD O tcad 0 0 0 0 0 0 1 a div btn-custom1 15 0
-RF O rf 0 0 0 0 0 0 1 a div btn-custom1 15 0
-CMOS O cmos 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Microwave O microwave 0 0 0 0 0 0 1 a div btn-custom1 15 0
-measurement O measurement 0 0 0 0 0 0 0 a div btn-custom1 15 0
-techniques O techniques 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Radiation O radiation 0 0 0 0 0 0 1 a div btn-custom1 15 0
-effects O effects 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Mextram O mextram 0 0 0 0 0 0 1 a div btn-custom1 15 0
-
-Stanley B-PER stanley 0 1 0 0 0 0 1 a div person 15 0
-Reeves I-PER reeves 0 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-reevesj@auburn.edu O reevesj@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1821 O 1821 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-221 O 221 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Signal O signal 0 1 0 0 0 0 1 a div btn-custom1 15 0
-processing O processing 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Image O image 0 0 0 0 0 0 1 a div btn-custom1 15 0
-processing O processing 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Medical O medical 0 0 0 0 0 0 1 a div btn-custom1 15 0
-imaging O imaging 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Image O image 0 0 0 0 0 0 1 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-signal O signal 0 0 0 0 0 0 0 a div btn-custom1 15 0
-reconstruction O reconstruction 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Magnetic O magnetic 0 0 0 0 0 0 1 a div btn-custom1 15 0
-resonance O resonance 0 0 0 0 0 0 0 a div btn-custom1 15 0
-imaging O imaging 0 0 0 0 0 0 0 a div btn-custom1 15 0
-( O ( 0 0 0 0 0 0 0 a div btn-custom1 15 0
-MRI O mri 0 0 0 0 1 0 1 a div btn-custom1 15 0
-) O ) 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Computed O computed 0 0 0 0 0 0 1 a div btn-custom1 15 0
-tomography O tomography 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Plenoptic O plenoptic 0 0 0 0 0 0 1 a div btn-custom1 15 0
-( O ( 0 0 0 0 0 0 0 a div btn-custom1 15 0
-light O light 0 0 0 0 0 0 0 a div btn-custom1 15 0
-- O - 0 0 0 0 0 0 0 a div btn-custom1 15 0
-field O field 0 0 0 0 0 0 0 a div btn-custom1 15 0
-) O ) 0 0 0 0 0 0 0 a div btn-custom1 15 0
-image O image 0 0 0 0 0 0 0 a div btn-custom1 15 0
-processing O processing 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Lloyd B-PER lloyd 1 1 0 0 0 0 1 div div person 14 0
-Riggs I-PER riggs 1 1 0 0 0 0 1 div div person 14 0
-- O - 0 0 0 0 0 0 0 div div person 14 0
-
-Professor O professor 0 0 0 0 1 0 1 h4 div person 15 1
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-riggsls@auburn.edu O riggsls@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1866 O 1866 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-225 O 225 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Electromagnetics O electromagnetics 0 0 0 0 0 0 1 a div btn-custom1 15 0
-
-Thaddeus B-PER thaddeus 1 1 0 0 0 0 1 a div person 15 0
-Roppel I-PER roppel 1 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Associate O associate 0 1 0 0 0 0 1 h4 a person 16 0
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-roppeth@auburn.edu O roppeth@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1814 O 1814 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-214 O 214 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Resume O resume 0 0 0 0 0 0 1 p div person 15 1
-
-Robotics O robotics 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Radio O radio 0 1 0 0 0 0 1 a div btn-custom1 15 0
-Frequency O frequency 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Identification O identification 0 0 0 0 0 0 1 a div btn-custom1 15 0
-( O ( 0 0 0 0 0 0 0 a div btn-custom1 15 0
-RFID O rfid 0 0 0 0 0 0 1 a div btn-custom1 15 0
-) O ) 0 0 0 0 0 0 0 a div btn-custom1 15 0
-computer O computer 0 0 0 0 0 0 0 a div btn-custom1 15 0
-vision O vision 0 0 0 0 0 0 0 a div btn-custom1 15 0
-K O k 0 1 0 0 0 0 1 a div btn-custom1 15 0
-- O - 0 0 0 0 0 0 0 a div btn-custom1 15 0
-12 O 12 0 0 0 1 0 0 0 a div btn-custom1 15 0
-outreach O outreach 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Adit B-PER adit 1 1 0 0 0 0 1 a div person 15 0
-Singh I-PER singh 1 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-James O james 1 1 0 0 0 0 1 h4 a person 16 0
-B. O b. 1 1 0 0 0 0 1 h4 a person 16 0
-Davis O davis 1 1 0 0 0 0 1 h4 a person 16 0
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-singhad@auburn.edu O singhad@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1847 O 1847 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-303 O 303 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Computer O computer 0 0 0 0 0 0 1 a div btn-custom1 15 0
-architecture O architecture 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Digital O digital 0 1 0 0 0 0 1 a div btn-custom1 15 0
-systems O systems 0 0 0 0 0 0 0 a div btn-custom1 15 0
-VLSI O vlsi 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Microelectronics O microelectronics 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Testing O testing 0 0 0 0 0 0 1 a div btn-custom1 15 0
-Reliability O reliability 0 0 0 0 0 0 1 a div btn-custom1 15 0
-
-Yin B-PER yin 1 1 0 0 0 0 1 a div person 15 0
-Sun I-PER sun 1 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Assistant O assistant 0 0 0 0 0 0 1 h4 a person 16 0
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-yzs0078@auburn.edu O yzs0078@auburn.edu 0 0 1 1 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1867 O 1867 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-213 O 213 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Wireless O wireless 0 0 0 0 0 0 1 a div btn-custom1 15 0
-networks O networks 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Timely O timely 0 0 0 0 0 0 1 a div btn-custom1 15 0
-information O information 0 0 0 0 0 0 0 a div btn-custom1 15 0
-updates O updates 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Internet O internet 0 0 0 0 0 0 1 a div btn-custom1 15 0
-of O of 0 1 0 0 0 0 0 a div btn-custom1 15 0
-Things O things 0 0 0 0 0 0 1 a div btn-custom1 15 0
-( O ( 0 0 0 0 0 0 0 a div btn-custom1 15 0
-IoT O iot 0 0 0 0 0 0 1 a div btn-custom1 15 0
-) O ) 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Cyber O cyber 0 0 0 0 0 0 1 a div btn-custom1 15 0
-- O - 0 0 0 0 0 0 0 a div btn-custom1 15 0
-physical O physical 0 0 0 0 0 0 0 a div btn-custom1 15 0
-systems O systems 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Networked O networked 0 0 0 0 0 0 1 a div btn-custom1 15 0
-control O control 0 0 0 0 0 0 0 a div btn-custom1 15 0
-systems O systems 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Learning O learning 0 1 0 0 0 0 1 a div btn-custom1 15 0
-
-Jitendra B-PER jitendra 0 1 0 0 0 0 1 a div person 15 0
-Tugnait I-PER tugnait 0 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-James O james 1 1 0 0 0 0 1 h4 a person 16 0
-B. O b. 1 1 0 0 0 0 1 h4 a person 16 0
-Davis O davis 1 1 0 0 0 0 1 h4 a person 16 0
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-tugnajk@auburn.edu O tugnajk@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1846 O 1846 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-313 O 313 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Statistical O statistical 0 0 0 0 0 0 1 a div btn-custom1 15 0
-signal O signal 0 0 0 0 0 0 0 a div btn-custom1 15 0
-processing O processing 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Wireless O wireless 0 0 0 0 0 0 1 a div btn-custom1 15 0
-communications O communications 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Multisensor O multisensor 0 0 0 0 0 0 1 a div btn-custom1 15 0
-multiple O multiple 0 0 0 0 0 0 0 a div btn-custom1 15 0
-target O target 0 0 0 0 0 0 0 a div btn-custom1 15 0
-tracking O tracking 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Stuart B-PER stuart 0 1 0 0 0 0 1 div div person 14 0
-Wentworth I-PER wentworth 0 1 0 0 0 0 1 div div person 14 0
-- O - 0 0 0 0 0 0 0 div div person 14 0
-
-Associate O associate 0 1 0 0 0 0 1 h4 div person 15 1
-Professor O professor 0 0 0 0 1 0 1 h4 div person 15 1
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-wentwsm@auburn.edu O wentwsm@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1878 O 1878 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-305 O 305 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Â O a 0 0 0 0 0 0 1 div div person 14 9
-Resume O resume 0 0 0 0 0 0 1 p div person 15 1
-
-Electromagnetics O electromagnetics 0 0 0 0 0 0 1 a div btn-custom1 15 0
-education O education 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Microwave O microwave 0 0 0 0 0 0 1 a div btn-custom1 15 0
-devices O devices 0 0 0 0 0 0 0 a div btn-custom1 15 0
-High O high 0 1 0 0 0 0 1 a div btn-custom1 15 0
-frequency O frequency 0 0 0 0 0 0 0 a div btn-custom1 15 0
-materials O materials 0 0 0 0 0 0 0 a div btn-custom1 15 0
-characterization O characterization 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Bogdan B-PER bogdan 0 1 0 0 0 0 1 a div person 15 0
-Wilamowski I-PER wilamowski 0 1 0 0 0 0 1 a div person 15 0
-- O - 0 0 0 0 0 0 0 a div person 15 0
-
-Professor O professor 0 0 0 0 1 0 1 h4 a person 16 0
-
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-Â O a 0 0 0 0 0 0 1 div div person 14 3
-wilambm@auburn.edu O wilambm@auburn.edu 0 0 1 0 0 0 0 div div person 14 3
-
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-Â O a 0 0 0 0 0 0 1 div div person 14 5
-( O ( 0 0 0 0 0 0 0 div div person 14 5
-334 O 334 0 0 0 1 0 0 0 div div person 14 5
-) O ) 0 0 0 0 0 0 0 div div person 14 5
-844 O 844 0 0 0 1 0 0 0 div div person 14 5
-- O - 0 0 0 0 0 0 0 div div person 14 5
-1629 O 1629 0 0 0 1 0 0 0 div div person 14 5
-
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-Â O a 0 0 0 0 0 0 1 div div person 14 7
-420 O 420 0 0 0 1 0 0 0 div div person 14 7
-Broun O broun 0 1 0 0 0 0 1 div div person 14 7
-Hall O hall 0 1 0 0 0 0 1 div div person 14 7
-
-Semiconductor O semiconductor 0 1 0 0 0 0 1 a div btn-custom1 15 0
-devices O devices 0 0 0 0 0 0 0 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-sensors O sensors 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Mixed O mixed 0 0 0 0 0 0 1 a div btn-custom1 15 0
-and O and 0 1 0 0 0 0 0 a div btn-custom1 15 0
-analog O analog 0 0 0 0 0 0 0 a div btn-custom1 15 0
-signal O signal 0 0 0 0 0 0 0 a div btn-custom1 15 0
-processing O processing 0 0 0 0 0 0 0 a div btn-custom1 15 0
-Computational O computational 0 0 0 0 0 0 1 a div btn-custom1 15 0
-intelligence O intelligence 0 0 0 0 0 0 0 a div btn-custom1 15 0
-
-Last O last 0 1 0 0 0 0 1 div div lastUpdated 9 0
-Updated O updated 0 0 0 0 0 0 1 div div lastUpdated 9 0
-: O : 0 0 0 0 0 0 0 div div lastUpdated 9 0
-8/22/16 O 8/22/16 0 0 0 1 0 0 0 div div lastUpdated 9 0
-1 O 1 0 0 0 1 0 0 0 div div lastUpdated 9 0
-: O : 0 0 0 0 0 0 0 div div lastUpdated 9 0
-48 O 48 0 0 0 1 0 0 0 div div lastUpdated 9 0
-PM O pm 0 0 0 0 0 0 1 div div lastUpdated 9 0
-
-Find O find 0 1 0 0 0 0 1 li ul halfGutter 11 0
-a O a 0 1 0 0 0 0 0 li ul halfGutter 11 0
-degree O degree 0 0 0 0 0 0 0 li ul halfGutter 11 0
-
-Academic O academic 0 0 0 0 0 0 1 li ul halfGutter 11 0
-calendar O calendar 0 0 0 0 0 0 0 li ul halfGutter 11 0
-
-Student O student 0 1 0 0 0 0 1 li ul halfGutter 11 0
-organizations O organizations 0 0 0 0 0 0 0 li ul halfGutter 11 0
-
-Tutoring O tutoring 0 0 0 0 0 0 1 li ul halfGutter 11 0
-
-Co O co 0 1 0 0 0 0 1 li ul halfGutter 11 0
-- O - 0 0 0 0 0 0 0 li ul halfGutter 11 0
-Op O op 0 1 0 0 0 0 1 li ul halfGutter 11 0
-program O program 0 0 0 0 0 0 0 li ul halfGutter 11 0
-
-Engineering O engineering 0 0 0 0 0 0 1 li ul halfGutter 11 0
-magazine O magazine 0 0 0 0 0 0 0 li ul halfGutter 11 0
-
-Annual O annual 0 0 0 0 0 0 1 li ul halfGutter 11 0
-report O report 0 0 0 0 0 0 0 li ul halfGutter 11 0
-
-Fact O fact 0 0 0 0 0 0 1 li ul halfGutter 11 0
-sheet O sheet 0 0 0 0 0 0 0 li ul halfGutter 11 0
-
-Auburn O auburn 0 1 0 0 0 0 1 li ul halfGutter 11 0
-Mobile O mobile 0 0 0 0 0 0 1 li ul halfGutter 11 0
-
-Network O network 0 0 0 0 0 0 1 li ul halfGutter 11 0
-Services O services 0 0 0 0 0 0 1 li ul halfGutter 11 0
-
-Engineering O engineering 0 0 0 0 0 0 1 li ul halfGutter 11 0
-professional O professional 0 0 0 0 1 0 0 li ul halfGutter 11 0
-education O education 0 0 0 0 0 0 0 li ul halfGutter 11 0
-
-Faculty O faculty 0 0 0 0 0 0 1 li ul halfGutter 11 0
-& O & 0 0 0 0 0 0 0 li ul halfGutter 11 0
-staff O staff 0 0 0 0 0 0 0 li ul halfGutter 11 0
-resources O resources 0 0 0 0 0 0 0 li ul halfGutter 11 0
-
-Employment O employment 0 0 0 0 1 0 1 li ul halfGutter 11 0
-
-Find O find 0 1 0 0 0 0 1 li ul halfGutter 11 0
-an O an 0 1 0 0 0 0 0 li ul halfGutter 11 0
-expert O expert 0 0 0 0 0 0 0 li ul halfGutter 11 0
-
-Shelby O shelby 0 1 0 0 0 0 1 li ul halfGutter 11 0
-room O room 0 0 0 0 0 0 0 li ul halfGutter 11 0
-use O use 0 0 0 0 0 0 0 li ul halfGutter 11 0
-
-Contact O contact 0 0 0 0 0 0 1 li ul halfGutter 11 0
-us O us 0 1 0 0 0 0 0 li ul halfGutter 11 0
-
-1301 O 1301 0 0 0 1 0 0 0 ul div halfGutter 10 2
-Shelby O shelby 0 1 0 0 0 0 1 ul div halfGutter 10 2
-Center O center 0 1 0 0 0 0 1 ul div halfGutter 10 2
-
-Auburn O auburn 0 1 0 0 0 0 1 ul div halfGutter 10 3
-, O , 0 0 0 0 0 0 0 ul div halfGutter 10 3
-AL O al 0 0 0 0 0 0 1 ul div halfGutter 10 3
-36849 O 36849 0 0 0 1 0 0 0 ul div halfGutter 10 3
-
-Site O site 0 1 0 0 0 0 1 li ul halfGutter 11 0
-feedback O feedback 0 0 0 0 0 0 0 li ul halfGutter 11 0
-
-Privacy O privacy 0 0 0 0 0 0 1 li ul halfGutter 11 0
+Electrical O electrical 0 0 0 0 0 0 1 0 4 head html none 4 0
+and O and 0 1 0 0 0 0 0 0 10 head html none 4 0
+Computer O computer 0 0 0 0 0 0 1 0 7 head html none 4 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 head html none 4 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 head html none 4 0
+
+Department O department 0 0 0 0 0 0 1 0 7 a h3 row 12 0
+of O of 0 1 0 0 0 0 0 2 10 a h3 row 12 0
+Electrical O electrical 0 0 0 0 0 0 1 0 4 a h3 row 12 0
+and O and 0 1 0 0 0 0 0 0 10 a h3 row 12 0
+Computer O computer 0 0 0 0 0 0 1 0 7 a h3 row 12 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 a h3 row 12 0
+
+Toggle O toggle 0 0 0 0 0 0 1 0 5 button div sr-only 9 0
+navigation O navigation 0 0 0 0 0 0 0 0 8 button div sr-only 9 0
+Menu O menu 0 1 0 0 0 0 1 2 8 div div menu-trigger 8 0
+
+Department O department 0 0 0 0 0 0 1 0 7 div div hidden-lg 8 0
+of O of 0 1 0 0 0 0 0 2 10 div div hidden-lg 8 0
+Electrical O electrical 0 0 0 0 0 0 1 0 4 div div hidden-lg 8 0
+and O and 0 1 0 0 0 0 0 0 10 div div hidden-lg 8 0
+Computer O computer 0 0 0 0 0 0 1 0 7 div div hidden-lg 8 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 div div hidden-lg 8 0
+
+Department O department 0 0 0 0 0 0 1 0 7 div div subNav 11 0
+of O of 0 1 0 0 0 0 0 2 10 div div subNav 11 0
+Electrical O electrical 0 0 0 0 0 0 1 0 4 div div subNav 11 0
+and O and 0 1 0 0 0 0 0 0 10 div div subNav 11 0
+Computer O computer 0 0 0 0 0 0 1 0 7 div div subNav 11 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 div div subNav 11 0
+
+Department O department 0 0 0 0 0 0 1 0 7 a div visible-xs 11 0
+of O of 0 1 0 0 0 0 0 2 10 a div visible-xs 11 0
+Electrical O electrical 0 0 0 0 0 0 1 0 4 a div visible-xs 11 0
+and O and 0 1 0 0 0 0 0 0 10 a div visible-xs 11 0
+Computer O computer 0 0 0 0 0 0 1 0 7 a div visible-xs 11 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 a div visible-xs 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 div div thumbnail 12 0
+
+Emeritus O emeritus 0 1 0 0 1 0 1 1 3 div div last 12 2
+Faculty O faculty 0 0 0 0 0 0 1 0 7 div div last 12 2
+
+Contact O contact 0 0 0 0 0 0 1 0 8 div div nav_side_contact_title 12 0
+
+334 O 334 0 0 0 1 0 0 0 0 0 div div subNav 13 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div subNav 13 0
+844 O 844 0 0 0 1 0 0 0 0 0 div div subNav 13 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div subNav 13 0
+1800 O 1800 0 0 0 1 0 0 0 0 0 div div subNav 13 0
+ece@eng.auburn.edu O ece@eng.auburn.edu 0 0 1 0 0 0 0 0 0 div div subNav 13 2
+
+Electrical O electrical 0 0 0 0 0 0 1 0 4 div div caption 11 0
+and O and 0 1 0 0 0 0 0 0 10 div div caption 11 0
+Computer O computer 0 0 0 0 0 0 1 0 7 div div caption 11 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 div div caption 11 0
+Faculty O faculty 0 0 0 0 0 0 1 0 7 div div caption 11 0
+
+Department O department 0 0 0 0 0 0 1 0 7 tr tbody Caption 15 0
+Chair O chair 0 1 0 0 0 0 1 1 5 tr tbody Caption 15 0
+
+Mark B-PER mark 0 1 0 0 0 0 1 9 5 tr tbody Caption 15 0
+Nelms I-PER nelms 0 1 0 0 0 0 1 2 0 tr tbody Caption 15 0
+
+The O the 0 1 0 0 0 0 1 5 10 p div caption 12 8
+Department O department 0 0 0 0 0 0 1 0 7 p div caption 12 8
+of O of 0 1 0 0 0 0 0 2 10 p div caption 12 8
+Electrical O electrical 0 0 0 0 0 0 1 0 4 p div caption 12 8
+and O and 0 1 0 0 0 0 0 0 10 p div caption 12 8
+Computer O computer 0 0 0 0 0 0 1 0 7 p div caption 12 8
+Engineering O engineering 0 0 0 0 0 0 1 0 7 p div caption 12 8
+offers O offers 0 0 0 0 0 0 0 0 4 p div caption 12 8
+students O students 0 0 0 0 0 0 0 0 8 p div caption 12 8
+professional O professional 0 0 0 0 1 0 0 0 5 p div caption 12 8
+opportunities O opportunities 0 0 0 0 0 0 0 0 6 p div caption 12 8
+ranging O ranging 0 0 0 0 0 0 0 0 2 p div caption 12 8
+from O from 0 0 0 0 0 0 0 0 8 p div caption 12 8
+working O working 0 0 0 0 0 0 0 0 6 p div caption 12 8
+on O on 0 1 0 0 0 0 0 2 9 p div caption 12 8
+designs O designs 0 0 0 0 0 0 0 0 6 p div caption 12 8
+for O for 0 1 0 0 0 0 0 1 9 p div caption 12 8
+the O the 0 1 0 0 0 0 0 0 10 p div caption 12 8
+latest O latest 0 0 0 0 0 0 0 0 5 p div caption 12 8
+technological O technological 0 0 0 0 0 0 0 0 2 p div caption 12 8
+breakthroughs O breakthroughs 0 0 0 0 0 0 0 0 0 p div caption 12 8
+to O to 0 1 0 0 0 0 0 0 10 p div caption 12 8
+communications O communications 0 0 0 0 0 0 0 0 5 p div caption 12 8
+systems O systems 0 0 0 0 0 0 0 0 6 p div caption 12 8
+powered O powered 0 0 0 0 0 0 0 0 4 p div caption 12 8
+for O for 0 1 0 0 0 0 0 1 9 p div caption 12 8
+the O the 0 1 0 0 0 0 0 0 10 p div caption 12 8
+world. O world. 0 0 0 0 0 0 0 0 0 p div caption 12 8
+
+With O with 0 1 0 0 0 0 1 2 8 p div caption 12 8
+our O our 0 0 0 0 0 0 0 0 8 p div caption 12 8
+dynamic O dynamic 0 0 0 0 0 0 0 0 4 p div caption 12 8
+and O and 0 1 0 0 0 0 0 0 10 p div caption 12 8
+talented O talented 0 0 0 0 0 0 0 0 0 p div caption 12 8
+faculty O faculty 0 0 0 0 0 0 0 0 7 p div caption 12 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div caption 12 8
+students O students 0 0 0 0 0 0 0 0 8 p div caption 12 8
+achieve O achieve 0 0 0 0 0 0 0 0 3 p div caption 12 8
+the O the 0 1 0 0 0 0 0 0 10 p div caption 12 8
+highest O highest 0 0 0 0 0 0 0 0 5 p div caption 12 8
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 p div caption 12 8
+caliber O caliber 0 0 0 0 0 0 0 0 0 p div caption 12 8
+education O education 0 0 0 0 0 0 0 0 8 p div caption 12 8
+with O with 0 0 0 0 0 0 0 0 8 p div caption 12 8
+an O an 0 1 0 0 0 0 0 5 8 p div caption 12 8
+avenue O avenue 0 0 0 0 0 0 0 0 6 p div caption 12 8
+of O of 0 1 0 0 0 0 0 2 10 p div caption 12 8
+career O career 0 0 0 0 0 0 0 0 8 p div caption 12 8
+prospects O prospects 0 0 0 0 0 0 0 0 2 p div caption 12 8
+upon O upon 0 0 0 0 0 0 0 0 4 p div caption 12 8
+graduation. O graduation. 0 0 0 0 0 0 0 0 0 p div caption 12 8
+
+Our O our 0 0 0 0 0 0 1 0 8 p div caption 12 8
+department O department 0 0 0 0 0 0 0 0 7 p div caption 12 8
+also O also 0 0 0 0 0 0 0 0 7 p div caption 12 8
+has O has 0 0 0 0 0 0 0 0 7 p div caption 12 8
+a O a 0 1 0 0 0 0 0 3 11 p div caption 12 8
+strong O strong 0 0 0 0 0 0 0 0 4 p div caption 12 8
+graduate O graduate 0 0 0 0 0 0 0 0 6 p div caption 12 8
+program O program 0 0 0 0 0 0 0 0 7 p div caption 12 8
+with O with 0 0 0 0 0 0 0 0 8 p div caption 12 8
+one O one 0 0 0 0 0 0 0 0 7 p div caption 12 8
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 p div caption 12 8
+on O on 0 1 0 0 0 0 0 2 9 p div caption 12 8
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 p div caption 12 8
+one O one 0 0 0 0 0 0 0 0 7 p div caption 12 8
+research O research 0 0 0 0 0 0 0 0 7 p div caption 12 8
+opportunities O opportunities 0 0 0 0 0 0 0 0 6 p div caption 12 8
+with O with 0 0 0 0 0 0 0 0 8 p div caption 12 8
+our O our 0 0 0 0 0 0 0 0 8 p div caption 12 8
+faculty. O faculty. 0 0 0 0 0 0 0 0 0 p div caption 12 8
+
+With O with 0 1 0 0 0 0 1 2 8 p div caption 12 8
+more O more 0 0 0 0 0 0 0 0 7 p div caption 12 8
+than O than 0 0 0 0 0 0 0 0 6 p div caption 12 8
+500 O 500 0 0 0 1 0 0 0 0 0 p div caption 12 8
+undergraduate O undergraduate 0 0 0 0 0 0 0 0 5 p div caption 12 8
+and O and 0 1 0 0 0 0 0 0 10 p div caption 12 8
+close O close 0 0 0 0 0 0 0 0 5 p div caption 12 8
+to O to 0 1 0 0 0 0 0 0 10 p div caption 12 8
+150 O 150 0 0 0 1 0 0 0 0 0 p div caption 12 8
+graduate O graduate 0 0 0 0 0 0 0 0 6 p div caption 12 8
+students O students 0 0 0 0 0 0 0 0 8 p div caption 12 8
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 p div caption 12 8
+we O we 0 0 0 0 0 0 0 0 8 p div caption 12 8
+house O house 0 0 0 0 0 0 0 0 6 p div caption 12 8
+one O one 0 0 0 0 0 0 0 0 7 p div caption 12 8
+of O of 0 1 0 0 0 0 0 2 10 p div caption 12 8
+the O the 0 1 0 0 0 0 0 0 10 p div caption 12 8
+largest O largest 0 0 0 0 0 0 0 0 4 p div caption 12 8
+departments O departments 0 0 0 0 0 0 0 0 5 p div caption 12 8
+within O within 0 0 0 0 0 0 0 0 5 p div caption 12 8
+the O the 0 1 0 0 0 0 0 0 10 p div caption 12 8
+college O college 0 0 0 0 0 0 0 0 8 p div caption 12 8
+which O which 0 0 0 0 0 0 0 0 6 p div caption 12 8
+attests O attests 0 0 0 0 0 0 0 0 0 p div caption 12 8
+to O to 0 1 0 0 0 0 0 0 10 p div caption 12 8
+our O our 0 0 0 0 0 0 0 0 8 p div caption 12 8
+growing O growing 0 0 0 0 0 0 0 0 4 p div caption 12 8
+reputation O reputation 0 0 0 0 0 0 0 0 4 p div caption 12 8
+as O as 0 1 0 0 0 0 0 0 9 p div caption 12 8
+a O a 0 1 0 0 0 0 0 3 11 p div caption 12 8
+premier O premier 0 0 0 0 0 0 0 0 8 p div caption 12 8
+program. O program. 0 0 0 0 0 0 0 0 0 p div caption 12 8
+
+Electrical O electrical 0 0 0 0 0 0 1 0 4 p div caption 12 8
+and O and 0 1 0 0 0 0 0 0 10 p div caption 12 8
+computer O computer 0 0 0 0 0 0 0 0 7 p div caption 12 8
+engineering O engineering 0 0 0 0 0 0 0 0 7 p div caption 12 8
+is O is 0 0 0 0 0 0 0 0 9 p div caption 12 8
+rapidly O rapidly 0 0 0 0 0 0 0 0 1 p div caption 12 8
+growing O growing 0 0 0 0 0 0 0 0 4 p div caption 12 8
+in O in 0 1 0 0 0 0 0 3 10 p div caption 12 8
+popularity O popularity 0 0 0 0 0 0 0 0 2 p div caption 12 8
+and O and 0 1 0 0 0 0 0 0 10 p div caption 12 8
+we O we 0 0 0 0 0 0 0 0 8 p div caption 12 8
+have O have 0 0 0 0 0 0 0 0 7 p div caption 12 8
+the O the 0 1 0 0 0 0 0 0 10 p div caption 12 8
+ability O ability 0 0 0 0 0 0 0 0 4 p div caption 12 8
+to O to 0 1 0 0 0 0 0 0 10 p div caption 12 8
+prepare O prepare 0 0 0 0 0 0 0 0 5 p div caption 12 8
+students O students 0 0 0 0 0 0 0 0 8 p div caption 12 8
+to O to 0 1 0 0 0 0 0 0 10 p div caption 12 8
+compete O compete 0 0 0 0 0 0 0 0 1 p div caption 12 8
+among O among 0 0 0 0 0 0 0 0 4 p div caption 12 8
+the O the 0 1 0 0 0 0 0 0 10 p div caption 12 8
+best O best 0 0 0 0 0 0 0 0 5 p div caption 12 8
+in O in 0 1 0 0 0 0 0 3 10 p div caption 12 8
+the O the 0 1 0 0 0 0 0 0 10 p div caption 12 8
+world. O world. 0 0 0 0 0 0 0 0 0 p div caption 12 8
+
+Mark B-PER mark 1 1 0 0 0 0 1 9 5 a div person 15 0
+Adams I-PER adams 1 1 0 0 0 0 1 6 5 a div person 15 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 a div person 15 0
+
+Assistant O assistant 0 0 0 0 0 0 1 0 6 h4 a person 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+mla0019@auburn.edu O mla0019@auburn.edu 0 0 1 1 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1865 O 1865 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+325 O 325 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Resume O resume 0 0 0 0 0 0 1 0 4 p div person 15 1
+
+Sensors O sensors 0 0 0 0 0 0 1 0 1 a div btn-custom1 15 0
+Transducers O transducers 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+Photonics O photonics 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+MEMS O mems 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+Microfluidics O microfluidics 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+Antennas O antennas 0 0 0 0 0 0 1 0 1 a div btn-custom1 15 0
+
+Michael B-PER michael 0 1 0 0 0 0 1 9 6 a div person 15 0
+Baginski I-PER baginski 0 1 0 0 0 0 1 2 0 a div person 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div person 15 0
+
+Associate O associate 0 1 0 0 0 0 1 0 6 h4 a person 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+baginme@auburn.edu O baginme@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1817 O 1817 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+423 O 423 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Electromagnetics O electromagnetics 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+Radar O radar 0 1 0 0 0 0 1 0 3 a div btn-custom1 15 0
+Pulse O pulse 0 0 0 0 0 0 1 0 2 a div btn-custom1 15 0
+power O power 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Optimization O optimization 0 0 0 0 0 0 1 0 3 a div btn-custom1 15 0
+
+Adil B-PER adil 0 1 0 0 0 0 1 5 1 div div person 14 0
+Bashir I-PER bashir 0 1 0 0 0 0 1 5 1 div div person 14 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 0
+
+Associate O associate 0 1 0 0 0 0 1 0 6 h4 div person 15 1
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 div person 15 1
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+azb0117@auburn.edu O azb0117@auburn.edu 0 0 1 1 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1816 O 1816 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+171 O 171 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Magnetic O magnetic 0 0 0 0 0 0 1 0 3 a div btn-custom1 15 0
+Resonance O resonance 0 0 0 0 0 0 1 0 3 a div btn-custom1 15 0
+Imaging O imaging 0 0 0 0 0 0 1 0 3 a div btn-custom1 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 a div btn-custom1 15 0
+MRI O mri 0 0 0 0 1 0 1 0 1 a div btn-custom1 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 a div btn-custom1 15 0
+1H O 1h 0 0 0 1 0 0 0 0 0 a div btn-custom1 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 a div btn-custom1 15 0
+31P O 31p 0 0 0 1 0 0 0 0 0 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+13C O 13c 0 0 0 1 0 0 0 0 0 a div btn-custom1 15 0
+spectroscopy O spectroscopy 0 0 0 0 0 0 0 0 1 a div btn-custom1 15 0
+Image O image 0 0 0 0 0 0 1 0 7 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+spectral O spectral 0 0 0 0 0 0 0 0 1 a div btn-custom1 15 0
+processing O processing 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Constrained O constrained 0 0 0 0 0 0 1 0 1 a div btn-custom1 15 0
+image O image 0 0 0 0 0 0 0 0 7 a div btn-custom1 15 0
+reconstruction O reconstruction 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Skeletal O skeletal 0 0 0 0 0 0 1 0 1 a div btn-custom1 15 0
+Muscle O muscle 0 0 0 0 1 0 1 0 0 a div btn-custom1 15 0
+metabolism O metabolism 0 0 0 0 0 0 0 0 0 a div btn-custom1 15 0
+MR O mr 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+oximetry O oximetry 0 0 0 0 0 0 0 0 0 a div btn-custom1 15 0
+Real O real 0 1 0 0 0 0 1 4 5 a div btn-custom1 15 0
+time O time 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+MRI O mri 0 0 0 0 1 0 1 0 1 a div btn-custom1 15 0
+Type O type 0 0 0 0 0 0 1 0 7 a div btn-custom1 15 0
+2 O 2 0 0 0 1 0 0 0 0 0 a div btn-custom1 15 0
+diabetes O diabetes 0 0 0 0 0 0 0 0 2 a div btn-custom1 15 0
+Exercise O exercise 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+Obesity O obesity 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+
+Cordelia B-PER cordelia 0 1 0 0 0 0 1 2 0 div div person 14 0
+Brown I-PER brown 0 1 0 0 0 0 1 7 5 div div person 14 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 0
+
+Director O director 0 1 0 0 0 0 1 0 7 h4 div person 15 1
+of O of 0 1 0 0 0 0 0 2 10 h4 div person 15 1
+Alabama O alabama 0 0 0 0 0 0 1 0 4 h4 div person 15 1
+Power O power 0 1 0 0 0 0 1 4 5 h4 div person 15 1
+Academic O academic 0 0 0 0 0 0 1 0 8 h4 div person 15 1
+Excellence O excellence 0 0 0 0 0 0 1 0 6 h4 div person 15 1
+Program O program 0 0 0 0 0 0 1 0 7 h4 div person 15 1
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+cdb0127@auburn.edu O cdb0127@auburn.edu 0 0 1 1 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+2331 O 2331 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+1214 O 1214 0 0 0 1 0 0 0 0 0 div div person 14 7
+Shelby O shelby 0 1 0 0 0 0 1 3 1 div div person 14 7
+Center O center 0 1 0 0 0 0 1 1 7 div div person 14 7
+
+Engineering O engineering 0 0 0 0 0 0 1 0 7 a div btn-custom1 15 0
+education O education 0 0 0 0 0 0 0 0 8 a div btn-custom1 15 0
+
+Jason B-PER jason 1 1 0 0 0 0 1 8 4 a div person 15 0
+Clark I-PER clark 1 1 0 0 0 0 1 7 4 a div person 15 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 a div person 15 0
+
+Assistant O assistant 0 0 0 0 0 0 1 0 6 h4 a person 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+jvc0008@auburn.edu O jvc0008@auburn.edu 0 0 1 1 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1874 O 1874 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+401 O 401 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+MEMS O mems 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+NEMS O nems 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+Metrology O metrology 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+CAD O cad 0 0 0 0 0 0 1 0 3 a div btn-custom1 15 0
+Control O control 0 0 0 0 0 0 1 0 5 a div btn-custom1 15 0
+Microrobotics O microrobotics 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+Personalized O personalized 0 0 0 0 0 0 1 0 2 a div btn-custom1 15 0
+learning O learning 0 0 0 0 0 0 0 0 7 a div btn-custom1 15 0
+
+Fa B-PER fa 0 1 0 0 0 0 1 5 5 a div person 15 0
+Dai I-PER dai 0 1 0 0 0 0 1 7 3 a div person 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div person 15 0
+
+Ed O ed 0 1 0 0 0 0 1 6 7 h4 a person 16 0
+and O and 0 1 0 0 0 0 0 0 10 h4 a person 16 0
+Peggy O peggy 0 1 0 0 0 0 1 5 3 h4 a person 16 0
+Reynolds O reynolds 0 1 0 0 0 0 1 5 3 h4 a person 16 0
+Family O family 0 1 0 0 0 0 1 0 6 h4 a person 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+daifa01@auburn.edu O daifa01@auburn.edu 0 0 1 1 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1863 O 1863 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+404 O 404 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Analog O analog 0 0 0 0 0 0 1 0 1 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+mixed O mixed 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div btn-custom1 15 0
+signal O signal 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+circuits O circuits 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+RFIC O rfic 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+MMIC O mmic 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+designs O designs 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+
+Robert B-PER robert 1 1 0 0 0 0 1 9 7 a div person 15 0
+Dean I-PER dean 1 1 0 0 0 0 1 6 5 a div person 15 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 a div person 15 0
+
+McWane O mcwane 0 0 0 0 0 0 1 0 0 h4 a person 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+deanron@auburn.edu O deanron@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1838 O 1838 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+222 O 222 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+MEMS O mems 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+devices O devices 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+MEMS O mems 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+systems O systems 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Advance O advance 0 0 0 0 0 0 1 0 3 a div btn-custom1 15 0
+packaging O packaging 0 0 0 0 0 0 0 0 2 a div btn-custom1 15 0
+Instrumentation O instrumentation 0 0 0 0 0 0 1 0 2 a div btn-custom1 15 0
+Power O power 0 1 0 0 0 0 1 4 5 a div btn-custom1 15 0
+electronics O electronics 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+
+Thomas B-PER thomas 0 1 0 0 0 0 1 9 6 a div person 15 0
+Denney I-PER denney 0 1 0 0 0 0 1 2 0 a div person 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div person 15 0
+
+Director O director 0 1 0 0 0 0 1 0 7 h4 a person 16 0
+of O of 0 1 0 0 0 0 0 2 10 h4 a person 16 0
+Auburn O auburn 0 1 0 0 0 0 1 1 2 h4 a person 16 0
+University O university 0 1 0 0 0 0 1 1 8 h4 a person 16 0
+MRI O mri 0 0 0 0 1 0 1 0 1 h4 a person 16 0
+Research O research 0 1 0 0 0 0 1 0 7 h4 a person 16 0
+Center O center 0 1 0 0 0 0 1 1 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+dennets@auburn.edu O dennets@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1862 O 1862 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+365 O 365 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Resume O resume 0 0 0 0 0 0 1 0 4 p div person 15 1
+
+MRI O mri 0 0 0 0 1 0 1 0 1 a div btn-custom1 15 0
+MRS O mrs 0 0 0 0 1 0 1 0 4 a div btn-custom1 15 0
+Image O image 0 0 0 0 0 0 1 0 7 a div btn-custom1 15 0
+processing O processing 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+analysis O analysis 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+
+Gopikrishna B-PER gopikrishna 1 1 0 0 0 0 1 1 0 a div person 15 0
+Deshpande I-PER deshpande 1 1 0 0 0 0 1 5 0 a div person 15 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 a div person 15 0
+
+Associate O associate 0 1 0 0 0 0 1 0 6 h4 a person 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+gzd0005@auburn.edu O gzd0005@auburn.edu 0 0 1 1 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1854 O 1854 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+220 O 220 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Resume O resume 0 0 0 0 0 0 1 0 4 p div person 15 1
+
+Functional O functional 0 0 0 0 0 0 1 0 5 a div btn-custom1 15 0
+magnetic O magnetic 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+resonance O resonance 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+imaging O imaging 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+Signal O signal 0 1 0 0 0 0 1 1 4 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+image O image 0 0 0 0 0 0 0 0 7 a div btn-custom1 15 0
+processing O processing 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Artificial O artificial 0 0 0 0 0 0 1 0 5 a div btn-custom1 15 0
+intelligence O intelligence 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Machine O machine 0 1 0 0 0 0 1 0 6 a div btn-custom1 15 0
+learning O learning 0 0 0 0 0 0 0 0 7 a div btn-custom1 15 0
+Data O data 0 1 0 0 0 0 1 1 7 a div btn-custom1 15 0
+mining O mining 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+fusion O fusion 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+Pattern O pattern 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+recognition O recognition 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Knowledge O knowledge 0 1 0 0 0 0 1 0 5 a div btn-custom1 15 0
+discovery O discovery 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+Computational O computational 0 0 0 0 0 0 1 0 5 a div btn-custom1 15 0
+neuroscience O neuroscience 0 0 0 0 0 0 0 0 2 a div btn-custom1 15 0
+
+Daniel B-PER daniel 1 1 0 0 0 0 1 9 6 div div person 14 0
+Geiger I-PER geiger 1 1 0 0 0 0 1 4 1 div div person 14 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 div div person 14 0
+
+Instructor O instructor 0 0 0 0 0 0 1 0 7 h4 div person 15 1
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+geigedl@auburn.edu O geigedl@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+334.844.1800 O 334.844.1800 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+158 O 158 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Xiaowen B-PER xiaowen 1 1 0 0 0 0 1 4 0 a div person 15 0
+Gong I-PER gong 1 1 0 0 0 0 1 7 2 a div person 15 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 a div person 15 0
+
+Assistant O assistant 0 0 0 0 0 0 1 0 6 h4 a person 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+xzg0017@auburn.edu O xzg0017@auburn.edu 0 0 1 1 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1851 O 1851 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+217 O 217 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Resume O resume 0 0 0 0 0 0 1 0 4 p div person 15 1
+
+Wireless O wireless 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+networking O networking 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+Mobile O mobile 0 0 0 0 0 0 1 0 6 a div btn-custom1 15 0
+computing O computing 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+
+Ujjwal B-PER ujjwal 1 1 0 0 0 0 1 3 0 a div person 15 0
+Guin I-PER guin 1 1 0 0 0 0 1 2 0 a div person 15 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 a div person 15 0
+
+Assistant O assistant 0 0 0 0 0 0 1 0 6 h4 a person 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+ujjwal.guin@auburn.edu O ujjwal.guin@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1835 O 1835 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+325 O 325 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Resume O resume 0 0 0 0 0 0 1 0 4 p div person 15 1
+
+Hardware O hardware 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+security O security 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Internet O internet 0 0 0 0 0 0 1 0 6 a div btn-custom1 15 0
+of O of 0 1 0 0 0 0 0 2 10 a div btn-custom1 15 0
+Things O things 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 a div btn-custom1 15 0
+IoTs O iots 0 0 0 0 0 0 1 0 1 a div btn-custom1 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 a div btn-custom1 15 0
+Supply O supply 0 1 0 0 0 0 1 0 3 a div btn-custom1 15 0
+chain O chain 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+security O security 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Cybersecurity O cybersecurity 0 0 0 0 0 0 1 0 1 a div btn-custom1 15 0
+VLSI O vlsi 0 0 0 0 0 0 1 0 2 a div btn-custom1 15 0
+design O design 0 0 0 0 0 0 0 0 7 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+test O test 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+
+Mark B-PER mark 0 1 0 0 0 0 1 9 5 div div person 14 0
+Halpin I-PER halpin 0 1 0 0 0 0 1 3 0 div div person 14 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 0
+
+Alabama O alabama 0 0 0 0 0 0 1 0 4 h4 div person 15 1
+Power O power 0 1 0 0 0 0 1 4 5 h4 div person 15 1
+Company O company 0 1 0 0 0 0 1 2 5 h4 div person 15 1
+Distinguished O distinguished 0 0 0 0 0 0 1 0 5 h4 div person 15 1
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 div person 15 1
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+halpism@auburn.edu O halpism@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1824 O 1824 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+414 O 414 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Power O power 0 1 0 0 0 0 1 4 5 a div btn-custom1 15 0
+systems O systems 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Power O power 0 1 0 0 0 0 1 4 5 a div btn-custom1 15 0
+quality O quality 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Modeling O modeling 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+simulation O simulation 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+
+Michael B-PER michael 1 1 0 0 0 0 1 9 6 a div person 15 0
+Hamilton I-PER hamilton 1 1 0 0 0 0 1 6 6 a div person 15 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 a div person 15 0
+
+Director O director 0 1 0 0 0 0 1 0 7 h4 a person 16 0
+of O of 0 1 0 0 0 0 0 2 10 h4 a person 16 0
+Alabama O alabama 0 0 0 0 0 0 1 0 4 h4 a person 16 0
+Micro/Nano O micro/nano 0 0 0 0 0 0 1 0 0 h4 a person 16 0
+Science O science 0 0 0 0 0 0 1 0 7 h4 a person 16 0
+and O and 0 1 0 0 0 0 0 0 10 h4 a person 16 0
+Technology O technology 0 0 0 0 0 0 1 0 7 h4 a person 16 0
+Center O center 0 1 0 0 0 0 1 1 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+mch0021@auburn.edu O mch0021@auburn.edu 0 0 1 1 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1879 O 1879 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+403 O 403 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Electronics O electronics 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+Fabrication O fabrication 0 0 0 0 0 0 1 0 5 a div btn-custom1 15 0
+Transistors O transistors 0 0 0 0 0 0 1 0 1 a div btn-custom1 15 0
+Solid O solid 0 0 0 0 0 0 1 0 5 a div btn-custom1 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div btn-custom1 15 0
+state O state 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Devices O devices 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+Packaging O packaging 0 0 0 0 0 0 1 0 2 a div btn-custom1 15 0
+Microwave O microwave 0 0 0 0 0 0 1 0 2 a div btn-custom1 15 0
+Superconducting O superconducting 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+Cryogenic O cryogenic 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+Extreme O extreme 0 0 0 0 0 0 1 0 5 a div btn-custom1 15 0
+environment O environment 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+
+Christopher B-PER christopher 1 1 0 0 0 0 1 8 5 a div person 15 0
+Harris I-PER harris 1 1 0 0 0 0 1 6 4 a div person 15 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 a div person 15 0
+
+Assistant O assistant 0 0 0 0 0 0 1 0 6 h4 a person 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+christopher.harris@auburn.edu O christopher.harris@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1864 O 1864 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+302 O 302 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Embedded O embedded 0 0 0 0 1 0 1 0 4 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+cyber O cyber 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div btn-custom1 15 0
+physical O physical 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+systems O systems 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Hardware O hardware 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+verification O verification 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Electronic O electronic 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+design O design 0 0 0 0 0 0 0 0 7 a div btn-custom1 15 0
+automation O automation 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+
+John B-PER john 1 1 0 0 0 0 1 9 7 a div person 15 0
+Hung I-PER hung 1 1 0 0 0 0 1 8 2 a div person 15 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 a div person 15 0
+
+Graduate O graduate 0 1 0 0 0 0 1 0 6 h4 a person 16 0
+Program O program 0 0 0 0 0 0 1 0 7 h4 a person 16 0
+Officer O officer 0 0 0 0 0 0 1 0 4 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+hungjoh@auburn.edu O hungjoh@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1813 O 1813 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+227 O 227 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Resume O resume 0 0 0 0 0 0 1 0 4 p div person 15 1
+
+Control O control 0 0 0 0 0 0 1 0 5 a div btn-custom1 15 0
+systems O systems 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Industrial O industrial 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+electronics O electronics 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+Robotics O robotics 0 0 0 0 0 0 1 0 5 a div btn-custom1 15 0
+
+Hulya B-PER hulya 0 1 0 0 0 0 1 3 0 a div person 15 0
+Kirkici I-PER kirkici 0 0 0 0 0 0 1 0 0 a div person 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div person 15 0
+
+Affiliate O affiliate 0 0 0 0 0 0 1 0 2 h4 a person 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+kirkihu@auburn.edu O kirkihu@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+251 O 251 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+460 O 460 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+6117 O 6117 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Physical O physical 0 0 0 0 0 0 1 0 6 a div btn-custom1 15 0
+electronics O electronics 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+Plasma O plasma 0 0 0 0 0 0 1 0 1 a div btn-custom1 15 0
+Gaseous O gaseous 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+electronics O electronics 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+Optics O optics 0 0 0 0 0 0 1 0 1 a div btn-custom1 15 0
+Lasers O lasers 0 0 0 0 0 0 1 0 2 a div btn-custom1 15 0
+
+Soo B-PER soo 1 1 0 0 0 0 1 7 2 a div person 15 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 a div person 15 0
+Young I-PER young 1 1 0 0 0 0 1 8 5 a div person 15 0
+Lee I-PER lee 1 1 0 0 0 0 1 9 5 a div person 15 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 a div person 15 0
+
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+leesooy@auburn.edu O leesooy@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1848 O 1848 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+304 O 304 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Parallel O parallel 0 0 0 0 0 0 1 0 5 a div btn-custom1 15 0
+computing O computing 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Image O image 0 0 0 0 0 0 1 0 7 a div btn-custom1 15 0
+processing O processing 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Computational O computational 0 0 0 0 0 0 1 0 5 a div btn-custom1 15 0
+electron O electron 0 0 0 0 0 0 0 0 2 a div btn-custom1 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div btn-custom1 15 0
+beam O beam 0 0 0 0 0 0 0 0 2 a div btn-custom1 15 0
+lithography O lithography 0 0 0 0 0 0 0 0 0 a div btn-custom1 15 0
+Nanofabrication O nanofabrication 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+
+Yihan B-PER yihan 1 1 0 0 0 0 1 3 0 div div person 14 0
+Li I-PER li 1 1 0 0 0 0 1 9 6 div div person 14 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 div div person 14 0
+
+Visiting O visiting 0 0 0 0 0 0 1 0 4 h4 div person 15 1
+Assistant O assistant 0 0 0 0 0 0 1 0 6 h4 div person 15 1
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 div person 15 1
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+yzl0001@auburn.edu O yzl0001@auburn.edu 0 0 1 1 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+7402 O 7402 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+262 O 262 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Scheduling O scheduling 0 0 0 0 0 0 1 0 2 a div btn-custom1 15 0
+in O in 0 1 0 0 0 0 0 3 10 a div btn-custom1 15 0
+wired O wired 0 0 0 0 0 0 0 0 2 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+wireless O wireless 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+network O network 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Wireless O wireless 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+ad O ad 0 1 0 0 0 0 0 0 5 a div btn-custom1 15 0
+hoc O hoc 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+networks O networks 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+High O high 0 1 0 0 0 0 1 3 6 a div btn-custom1 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div btn-custom1 15 0
+speed O speed 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+packet O packet 0 0 0 0 0 0 0 0 1 a div btn-custom1 15 0
+switching O switching 0 0 0 0 0 0 0 0 2 a div btn-custom1 15 0
+
+Masoud B-PER masoud 0 1 0 0 1 0 1 6 0 a div person 15 0
+Mahjouri I-PER mahjouri 0 0 0 0 0 0 1 0 0 a div person 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div person 15 0
+Samani I-PER samani 0 1 0 0 0 0 1 3 0 a div person 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div person 15 0
+
+Assistant O assistant 0 0 0 0 0 0 1 0 6 h4 a person 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+mzm0185@auburn.edu O mzm0185@auburn.edu 0 0 1 1 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1826 O 1826 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+421 O 421 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Laser O laser 0 1 0 0 0 0 1 1 4 a div btn-custom1 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div btn-custom1 15 0
+assisted O assisted 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+science O science 0 0 0 0 0 0 0 0 7 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+engineering O engineering 0 0 0 0 0 0 0 0 7 a div btn-custom1 15 0
+Nanomaterials O nanomaterials 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+synthesis O synthesis 0 0 0 0 0 0 0 0 2 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+processing O processing 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Nanomaterials O nanomaterials 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+characterization O characterization 0 0 0 0 0 0 0 0 1 a div btn-custom1 15 0
+Electrical O electrical 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+optical O optical 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+properties O properties 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+0D O 0d 0 0 0 1 0 0 0 0 0 a div btn-custom1 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 a div btn-custom1 15 0
+1D O 1d 0 0 0 1 0 0 0 0 0 a div btn-custom1 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 a div btn-custom1 15 0
+2D O 2d 0 0 0 1 0 0 0 0 0 a div btn-custom1 15 0
+materials O materials 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 a div btn-custom1 15 0
+hybrid O hybrid 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+structures O structures 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Nanoelectronics O nanoelectronics 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+Optoelectronics O optoelectronics 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+photonics O photonics 0 0 0 0 0 0 0 0 0 a div btn-custom1 15 0
+Energy O energy 0 0 0 0 0 0 1 0 6 a div btn-custom1 15 0
+harvesting O harvesting 0 0 0 0 0 0 0 0 0 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+storage O storage 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+
+Shiwen B-PER shiwen 1 1 0 0 0 0 1 3 0 a div person 15 0
+Mao I-PER mao 1 1 0 0 0 0 1 7 3 a div person 15 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 a div person 15 0
+
+Director O director 0 1 0 0 0 0 1 0 7 h4 a person 16 0
+of O of 0 1 0 0 0 0 0 2 10 h4 a person 16 0
+Wireless O wireless 0 0 0 0 0 0 1 0 4 h4 a person 16 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 h4 a person 16 0
+Research O research 0 1 0 0 0 0 1 0 7 h4 a person 16 0
+and O and 0 1 0 0 0 0 0 0 10 h4 a person 16 0
+Education O education 0 0 0 0 0 0 1 0 8 h4 a person 16 0
+Center O center 0 1 0 0 0 0 1 1 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+szm0001@auburn.edu O szm0001@auburn.edu 0 0 1 1 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1845 O 1845 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+301 O 301 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Resume O resume 0 0 0 0 0 0 1 0 4 p div person 15 1
+
+Wireless O wireless 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+communications O communications 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+networks O networks 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Multimedia O multimedia 0 0 0 0 0 0 1 0 5 a div btn-custom1 15 0
+networking O networking 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+5G O 5g 0 0 0 1 0 0 0 0 0 a div btn-custom1 15 0
+wireless O wireless 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+Free O free 0 1 0 0 0 0 1 1 6 a div btn-custom1 15 0
+space O space 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+optical O optical 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+networks O networks 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Smart O smart 0 1 0 0 0 0 1 4 3 a div btn-custom1 15 0
+grid O grid 0 0 0 0 0 0 0 0 2 a div btn-custom1 15 0
+Indoor O indoor 0 0 0 0 0 0 1 0 3 a div btn-custom1 15 0
+localization O localization 0 0 0 0 0 0 0 0 2 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+RF O rf 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+sensing O sensing 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+
+Spencer B-PER spencer 0 1 0 0 0 0 1 6 3 a div person 15 0
+Millican I-PER millican 0 1 0 0 0 0 1 2 0 a div person 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div person 15 0
+
+Assistant O assistant 0 0 0 0 0 0 1 0 6 h4 a person 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+millican@auburn.edu O millican@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1873 O 1873 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+324 O 324 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Electronic O electronic 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+design O design 0 0 0 0 0 0 0 0 7 a div btn-custom1 15 0
+automation O automation 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+Computer O computer 0 0 0 0 0 0 1 0 7 a div btn-custom1 15 0
+architecture O architecture 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Embedded O embedded 0 0 0 0 1 0 1 0 4 a div btn-custom1 15 0
+systems O systems 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Cyber O cyber 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div btn-custom1 15 0
+physical O physical 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+systems O systems 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+VLSI O vlsi 0 0 0 0 0 0 1 0 2 a div btn-custom1 15 0
+test O test 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+IP O ip 0 0 0 0 0 0 1 0 7 a div btn-custom1 15 0
+security O security 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+
+Mark B-PER mark 0 1 0 0 0 0 1 9 5 a div person 15 0
+Nelms I-PER nelms 0 1 0 0 0 0 1 2 0 a div person 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div person 15 0
+
+Department O department 0 0 0 0 0 0 1 0 7 h4 a person 16 0
+Chair O chair 0 1 0 0 0 0 1 1 5 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+nelmsrm@auburn.edu O nelmsrm@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1830 O 1830 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+210 O 210 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Resume O resume 0 0 0 0 0 0 1 0 4 p div person 15 1
+
+Power O power 0 1 0 0 0 0 1 4 5 a div btn-custom1 15 0
+electronics O electronics 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+Power O power 0 1 0 0 0 0 1 4 5 a div btn-custom1 15 0
+system O system 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Energy O energy 0 0 0 0 0 0 1 0 6 a div btn-custom1 15 0
+conversion O conversion 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+
+Victor B-PER victor 0 1 0 0 0 0 1 7 6 a div person 15 0
+Nelson I-PER nelson 0 1 0 0 0 0 1 7 4 a div person 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div person 15 0
+
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+nelsovp@auburn.edu O nelsovp@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1849 O 1849 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+326 O 326 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Resume O resume 0 0 0 0 0 0 1 0 4 p div person 15 1
+
+Embedded O embedded 0 0 0 0 1 0 1 0 4 a div btn-custom1 15 0
+systems O systems 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Digital O digital 0 1 0 0 0 0 1 0 5 a div btn-custom1 15 0
+systems O systems 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Systems O systems 0 0 0 0 0 0 1 0 6 a div btn-custom1 15 0
+on O on 0 1 0 0 0 0 0 2 9 a div btn-custom1 15 0
+chip O chip 0 0 0 0 0 0 0 0 1 a div btn-custom1 15 0
+FPGA O fpga 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div btn-custom1 15 0
+based O based 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+systems O systems 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Computer O computer 0 0 0 0 0 0 1 0 7 a div btn-custom1 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div btn-custom1 15 0
+aided O aided 0 0 0 0 1 0 0 0 2 a div btn-custom1 15 0
+design O design 0 0 0 0 0 0 0 0 7 a div btn-custom1 15 0
+of O of 0 1 0 0 0 0 0 2 10 a div btn-custom1 15 0
+digital O digital 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+ICs O ics 0 0 0 0 0 0 1 0 2 a div btn-custom1 15 0
+Computer O computer 0 0 0 0 0 0 1 0 7 a div btn-custom1 15 0
+engineering O engineering 0 0 0 0 0 0 0 0 7 a div btn-custom1 15 0
+education O education 0 0 0 0 0 0 0 0 8 a div btn-custom1 15 0
+Engineering O engineering 0 0 0 0 0 0 1 0 7 a div btn-custom1 15 0
+accreditation O accreditation 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+
+Guofu B-PER guofu 0 1 0 0 0 0 1 3 0 a div person 15 0
+Niu I-PER niu 0 1 0 0 0 0 1 6 2 a div person 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div person 15 0
+
+Alumni O alumni 0 0 0 0 0 0 1 0 7 h4 a person 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+niuguof@auburn.edu O niuguof@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1849 O 1849 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+425 O 425 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Semiconductor O semiconductor 0 1 0 0 0 0 1 0 2 a div btn-custom1 15 0
+devices O devices 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+SiGe O sige 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+HBT O hbt 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+Compact O compact 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+modeling O modeling 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+TCAD O tcad 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+RF O rf 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+CMOS O cmos 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+Microwave O microwave 0 0 0 0 0 0 1 0 2 a div btn-custom1 15 0
+measurement O measurement 0 0 0 0 0 0 0 0 2 a div btn-custom1 15 0
+techniques O techniques 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Radiation O radiation 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+effects O effects 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+Mextram O mextram 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+
+Stanley B-PER stanley 0 1 0 0 0 0 1 6 4 a div person 15 0
+Reeves I-PER reeves 0 1 0 0 0 0 1 5 1 a div person 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div person 15 0
+
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+reevesj@auburn.edu O reevesj@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1821 O 1821 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+221 O 221 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Signal O signal 0 1 0 0 0 0 1 1 4 a div btn-custom1 15 0
+processing O processing 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Image O image 0 0 0 0 0 0 1 0 7 a div btn-custom1 15 0
+processing O processing 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Medical O medical 0 0 0 0 0 0 1 0 5 a div btn-custom1 15 0
+imaging O imaging 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+Image O image 0 0 0 0 0 0 1 0 7 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+signal O signal 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+reconstruction O reconstruction 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Magnetic O magnetic 0 0 0 0 0 0 1 0 3 a div btn-custom1 15 0
+resonance O resonance 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+imaging O imaging 0 0 0 0 0 0 0 0 3 a div btn-custom1 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 a div btn-custom1 15 0
+MRI O mri 0 0 0 0 1 0 1 0 1 a div btn-custom1 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 a div btn-custom1 15 0
+Computed O computed 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+tomography O tomography 0 0 0 0 0 0 0 0 0 a div btn-custom1 15 0
+Plenoptic O plenoptic 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 a div btn-custom1 15 0
+light O light 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div btn-custom1 15 0
+field O field 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 a div btn-custom1 15 0
+image O image 0 0 0 0 0 0 0 0 7 a div btn-custom1 15 0
+processing O processing 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+
+Lloyd B-PER lloyd 1 1 0 0 0 0 1 6 4 div div person 14 0
+Riggs I-PER riggs 1 1 0 0 0 0 1 3 0 div div person 14 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 div div person 14 0
+
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 div person 15 1
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+riggsls@auburn.edu O riggsls@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1866 O 1866 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+225 O 225 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Electromagnetics O electromagnetics 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+
+Thaddeus B-PER thaddeus 1 1 0 0 0 0 1 4 0 a div person 15 0
+Roppel I-PER roppel 1 1 0 0 0 0 1 1 0 a div person 15 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 a div person 15 0
+
+Associate O associate 0 1 0 0 0 0 1 0 6 h4 a person 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+roppeth@auburn.edu O roppeth@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1814 O 1814 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+214 O 214 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Resume O resume 0 0 0 0 0 0 1 0 4 p div person 15 1
+
+Robotics O robotics 0 0 0 0 0 0 1 0 5 a div btn-custom1 15 0
+Radio O radio 0 1 0 0 0 0 1 1 6 a div btn-custom1 15 0
+Frequency O frequency 0 0 0 0 0 0 1 0 2 a div btn-custom1 15 0
+Identification O identification 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 a div btn-custom1 15 0
+RFID O rfid 0 0 0 0 0 0 1 0 1 a div btn-custom1 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 a div btn-custom1 15 0
+computer O computer 0 0 0 0 0 0 0 0 7 a div btn-custom1 15 0
+vision O vision 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+K O k 0 1 0 0 0 0 1 4 8 a div btn-custom1 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div btn-custom1 15 0
+12 O 12 0 0 0 1 0 0 0 0 0 a div btn-custom1 15 0
+outreach O outreach 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+
+Adit B-PER adit 1 1 0 0 0 0 1 2 0 a div person 15 0
+Singh I-PER singh 1 1 0 0 0 0 1 8 2 a div person 15 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 a div person 15 0
+
+James O james 1 1 0 0 0 0 1 9 6 h4 a person 16 0
+B. O b. 1 1 0 0 0 0 1 10 0 h4 a person 16 0
+Davis O davis 1 1 0 0 0 0 1 7 5 h4 a person 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+singhad@auburn.edu O singhad@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1847 O 1847 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+303 O 303 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Computer O computer 0 0 0 0 0 0 1 0 7 a div btn-custom1 15 0
+architecture O architecture 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Digital O digital 0 1 0 0 0 0 1 0 5 a div btn-custom1 15 0
+systems O systems 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+VLSI O vlsi 0 0 0 0 0 0 1 0 2 a div btn-custom1 15 0
+Microelectronics O microelectronics 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+Testing O testing 0 0 0 0 0 0 1 0 5 a div btn-custom1 15 0
+Reliability O reliability 0 0 0 0 0 0 1 0 2 a div btn-custom1 15 0
+
+Yin B-PER yin 1 1 0 0 0 0 1 7 2 a div person 15 0
+Sun I-PER sun 1 1 0 0 0 0 1 8 5 a div person 15 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 a div person 15 0
+
+Assistant O assistant 0 0 0 0 0 0 1 0 6 h4 a person 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+yzs0078@auburn.edu O yzs0078@auburn.edu 0 0 1 1 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1867 O 1867 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+213 O 213 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Wireless O wireless 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+networks O networks 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Timely O timely 0 0 0 0 0 0 1 0 1 a div btn-custom1 15 0
+information O information 0 0 0 0 0 0 0 0 8 a div btn-custom1 15 0
+updates O updates 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Internet O internet 0 0 0 0 0 0 1 0 6 a div btn-custom1 15 0
+of O of 0 1 0 0 0 0 0 2 10 a div btn-custom1 15 0
+Things O things 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 a div btn-custom1 15 0
+IoT O iot 0 0 0 0 0 0 1 0 1 a div btn-custom1 15 0
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 a div btn-custom1 15 0
+Cyber O cyber 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div btn-custom1 15 0
+physical O physical 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+systems O systems 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Networked O networked 0 0 0 0 0 0 1 0 1 a div btn-custom1 15 0
+control O control 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+systems O systems 0 0 0 0 0 0 0 0 6 a div btn-custom1 15 0
+Learning O learning 0 1 0 0 0 0 1 0 7 a div btn-custom1 15 0
+
+Jitendra B-PER jitendra 0 1 0 0 0 0 1 4 0 a div person 15 0
+Tugnait I-PER tugnait 0 1 0 0 0 0 1 0 0 a div person 15 0
+- O-PUNCT - 1 1 0 0 0 0 0 12 0 a div person 15 0
+
+James O james 1 1 0 0 0 0 1 9 6 h4 a person 16 0
+B. O b. 1 1 0 0 0 0 1 10 0 h4 a person 16 0
+Davis O davis 1 1 0 0 0 0 1 7 5 h4 a person 16 0
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+tugnajk@auburn.edu O tugnajk@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1846 O 1846 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+313 O 313 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Statistical O statistical 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+signal O signal 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+processing O processing 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Wireless O wireless 0 0 0 0 0 0 1 0 4 a div btn-custom1 15 0
+communications O communications 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Multisensor O multisensor 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+multiple O multiple 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+target O target 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+tracking O tracking 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+
+Stuart B-PER stuart 0 1 0 0 0 0 1 7 4 div div person 14 0
+Wentworth I-PER wentworth 0 1 0 0 0 0 1 2 1 div div person 14 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 0
+
+Associate O associate 0 1 0 0 0 0 1 0 6 h4 div person 15 1
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 div person 15 1
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+wentwsm@auburn.edu O wentwsm@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1878 O 1878 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+305 O 305 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 9
+Resume O resume 0 0 0 0 0 0 1 0 4 p div person 15 1
+
+Electromagnetics O electromagnetics 0 0 0 0 0 0 1 0 0 a div btn-custom1 15 0
+education O education 0 0 0 0 0 0 0 0 8 a div btn-custom1 15 0
+Microwave O microwave 0 0 0 0 0 0 1 0 2 a div btn-custom1 15 0
+devices O devices 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+High O high 0 1 0 0 0 0 1 3 6 a div btn-custom1 15 0
+frequency O frequency 0 0 0 0 0 0 0 0 2 a div btn-custom1 15 0
+materials O materials 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+characterization O characterization 0 0 0 0 0 0 0 0 1 a div btn-custom1 15 0
+
+Bogdan B-PER bogdan 0 1 0 0 0 0 1 6 1 a div person 15 0
+Wilamowski I-PER wilamowski 0 1 0 0 0 0 1 0 0 a div person 15 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 a div person 15 0
+
+Professor O professor 0 0 0 0 1 0 1 0 7 h4 a person 16 0
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 3
+wilambm@auburn.edu O wilambm@auburn.edu 0 0 1 0 0 0 0 0 0 div div person 14 3
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 5
+( O-PUNCT ( 0 1 0 0 0 0 0 6 0 div div person 14 5
+334 O 334 0 0 0 1 0 0 0 0 0 div div person 14 5
+) O-PUNCT ) 0 1 0 0 0 0 0 6 0 div div person 14 5
+844 O 844 0 0 0 1 0 0 0 0 0 div div person 14 5
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 div div person 14 5
+1629 O 1629 0 0 0 1 0 0 0 0 0 div div person 14 5
+
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+Â O a 0 0 0 0 0 0 1 0 11 div div person 14 7
+420 O 420 0 0 0 1 0 0 0 0 0 div div person 14 7
+Broun O broun 0 1 0 0 0 0 1 1 0 div div person 14 7
+Hall O hall 0 1 0 0 0 0 1 6 5 div div person 14 7
+
+Semiconductor O semiconductor 0 1 0 0 0 0 1 0 2 a div btn-custom1 15 0
+devices O devices 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+sensors O sensors 0 0 0 0 0 0 0 0 1 a div btn-custom1 15 0
+Mixed O mixed 0 0 0 0 0 0 1 0 5 a div btn-custom1 15 0
+and O and 0 1 0 0 0 0 0 0 10 a div btn-custom1 15 0
+analog O analog 0 0 0 0 0 0 0 0 1 a div btn-custom1 15 0
+signal O signal 0 0 0 0 0 0 0 0 4 a div btn-custom1 15 0
+processing O processing 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+Computational O computational 0 0 0 0 0 0 1 0 5 a div btn-custom1 15 0
+intelligence O intelligence 0 0 0 0 0 0 0 0 5 a div btn-custom1 15 0
+
+Last O last 0 1 0 0 0 0 1 3 7 div div lastUpdated 9 0
+Updated O updated 0 0 0 0 0 0 1 0 5 div div lastUpdated 9 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div lastUpdated 9 0
+8/22/16 O 8/22/16 0 0 0 1 0 0 0 0 0 div div lastUpdated 9 0
+1 O 1 0 0 0 1 0 0 0 0 0 div div lastUpdated 9 0
+: O-PUNCT : 0 0 0 0 0 0 0 0 0 div div lastUpdated 9 0
+48 O 48 0 0 0 1 0 0 0 0 0 div div lastUpdated 9 0
+PM O pm 0 0 0 0 0 0 1 0 5 div div lastUpdated 9 0
+
+Find O find 0 1 0 0 0 0 1 1 6 li ul halfGutter 11 0
+a O a 0 1 0 0 0 0 0 3 11 li ul halfGutter 11 0
+degree O degree 0 0 0 0 0 0 0 0 6 li ul halfGutter 11 0
+
+Academic O academic 0 0 0 0 0 0 1 0 8 li ul halfGutter 11 0
+calendar O calendar 0 0 0 0 0 0 0 0 6 li ul halfGutter 11 0
+
+Student O student 0 1 0 0 0 0 1 1 8 li ul halfGutter 11 0
+organizations O organizations 0 0 0 0 0 0 0 0 5 li ul halfGutter 11 0
+
+Tutoring O tutoring 0 0 0 0 0 0 1 0 4 li ul halfGutter 11 0
+
+Co O co 0 1 0 0 0 0 1 3 7 li ul halfGutter 11 0
+- O-PUNCT - 0 1 0 0 0 0 0 12 0 li ul halfGutter 11 0
+Op O op 0 1 0 0 0 0 1 3 7 li ul halfGutter 11 0
+program O program 0 0 0 0 0 0 0 0 7 li ul halfGutter 11 0
+
+Engineering O engineering 0 0 0 0 0 0 1 0 7 li ul halfGutter 11 0
+magazine O magazine 0 0 0 0 0 0 0 0 6 li ul halfGutter 11 0
+
+Annual O annual 0 0 0 0 0 0 1 0 5 li ul halfGutter 11 0
+report O report 0 0 0 0 0 0 0 0 6 li ul halfGutter 11 0
+
+Fact O fact 0 0 0 0 0 0 1 0 4 li ul halfGutter 11 0
+sheet O sheet 0 0 0 0 0 0 0 0 4 li ul halfGutter 11 0
+
+Auburn O auburn 0 1 0 0 0 0 1 1 2 li ul halfGutter 11 0
+Mobile O mobile 0 0 0 0 0 0 1 0 6 li ul halfGutter 11 0
+
+Network O network 0 0 0 0 0 0 1 0 6 li ul halfGutter 11 0
+Services O services 0 0 0 0 0 0 1 0 8 li ul halfGutter 11 0
+
+Engineering O engineering 0 0 0 0 0 0 1 0 7 li ul halfGutter 11 0
+professional O professional 0 0 0 0 1 0 0 0 5 li ul halfGutter 11 0
+education O education 0 0 0 0 0 0 0 0 8 li ul halfGutter 11 0
+
+Faculty O faculty 0 0 0 0 0 0 1 0 7 li ul halfGutter 11 0
+& O & 0 0 0 0 0 0 0 0 0 li ul halfGutter 11 0
+staff O staff 0 0 0 0 0 0 0 0 7 li ul halfGutter 11 0
+resources O resources 0 0 0 0 0 0 0 0 7 li ul halfGutter 11 0
+
+Employment O employment 0 0 0 0 1 0 1 0 5 li ul halfGutter 11 0
+
+Find O find 0 1 0 0 0 0 1 1 6 li ul halfGutter 11 0
+an O an 0 1 0 0 0 0 0 5 8 li ul halfGutter 11 0
+expert O expert 0 0 0 0 0 0 0 0 4 li ul halfGutter 11 0
+
+Shelby O shelby 0 1 0 0 0 0 1 3 1 li ul halfGutter 11 0
+room O room 0 0 0 0 0 0 0 0 6 li ul halfGutter 11 0
+use O use 0 0 0 0 0 0 0 0 7 li ul halfGutter 11 0
+
+Contact O contact 0 0 0 0 0 0 1 0 8 li ul halfGutter 11 0
+us O us 0 1 0 0 0 0 0 1 8 li ul halfGutter 11 0
+
+1301 O 1301 0 0 0 1 0 0 0 0 0 ul div halfGutter 10 2
+Shelby O shelby 0 1 0 0 0 0 1 3 1 ul div halfGutter 10 2
+Center O center 0 1 0 0 0 0 1 1 7 ul div halfGutter 10 2
+
+Auburn O auburn 0 1 0 0 0 0 1 1 2 ul div halfGutter 10 3
+, O-PUNCT , 0 0 0 0 0 0 0 0 0 ul div halfGutter 10 3
+AL O al 0 1 0 0 0 0 1 2 7 ul div halfGutter 10 3
+36849 O 36849 0 0 0 1 0 0 0 0 0 ul div halfGutter 10 3
+
+Site O site 0 1 0 0 0 0 1 0 8 li ul halfGutter 11 0
+feedback O feedback 0 0 0 0 0 0 0 0 6 li ul halfGutter 11 0
+
+Privacy O privacy 0 0 0 0 0 0 1 0 6 li ul halfGutter 11 0

@@ -1,0 +1,236 @@
+Department O department 0 0 0 0 0 0 1 head html none 4 5
+of O of 0 1 0 0 0 0 0 head html none 4 5
+Computer O computer 0 0 0 0 0 0 1 head html none 4 5
+Science O science 0 0 0 0 0 0 1 head html none 4 5
+and O and 0 1 0 0 0 0 0 head html none 4 5
+Technology O technology 0 0 0 0 0 0 1 head html none 4 5
+, O , 0 0 0 0 0 0 0 head html none 4 5
+Tsinghua O tsinghua 0 0 0 0 0 0 1 head html none 4 5
+University O university 0 1 0 0 0 0 1 head html none 4 5
+
+è®¡ç®æºç§å­¦ä¸ææ¯ç³» O e®¡c®eºc§a­¦a¸ee¯c³» 0 0 0 1 0 0 0 div div none 7 0
+
+Department O department 0 0 0 0 0 0 1 div div none 7 1
+of O of 0 1 0 0 0 0 0 div div none 7 1
+Computer O computer 0 0 0 0 0 0 1 div div none 7 1
+Science O science 0 0 0 0 0 0 1 div div none 7 1
+and O and 0 1 0 0 0 0 0 div div none 7 1
+Technology O technology 0 0 0 0 0 0 1 div div none 7 1
+
+search O search 0 0 0 0 0 0 0 ul div none 8 6
+
+Home O home 0 1 0 0 0 0 1 li ul none 8 0
+
+About O about 0 0 0 0 0 0 1 li ul none 8 0
+
+Education O education 0 0 0 0 0 0 1 li ul none 8 0
+
+Research O research 0 1 0 0 0 0 1 li ul none 8 0
+
+Faculty O faculty 0 0 0 0 0 0 1 li ul none 8 0
+
+Resource O resource 0 0 0 0 0 0 1 li ul none 8 0
+
+Contact O contact 0 0 0 0 0 0 1 li ul none 8 0
+
+Home O home 0 1 0 0 0 0 1 p div navigation_style 8 0
+› O › 0 0 0 0 0 0 0 div div border_2 7 0
+Faculty O faculty 0 0 0 0 0 0 1 p div navigation_style 8 1
+› O › 0 0 0 0 0 0 0 div div border_2 7 0
+Full O full 0 1 0 0 0 0 1 p div navigation_style 8 2
+Professor O professor 0 0 0 0 1 0 1 p div navigation_style 8 2
+› O › 0 0 0 0 0 0 0 div div border_2 7 0
+Content O content 0 1 0 0 0 0 1 div div border_2 7 0
+
+Full O full 0 1 0 0 0 0 1 h2 div box_detail 9 0
+Professor O professor 0 0 0 0 1 0 1 h2 div box_detail 9 0
+List O list 0 1 0 0 0 0 1 h2 div box_detail 9 0
+2017 O 2017 0 0 0 1 0 0 0 h2 div box_detail 9 0
+
+A O a 0 1 0 0 0 0 1 p div box_detail 9 0
+: O : 0 0 0 0 0 0 0 p div box_detail 9 0
+
+Haizhou B-PER haizhou 0 1 0 0 0 0 1 p div box_detail 9 1
+AI I-PER ai 0 0 0 0 0 0 1 p div box_detail 9 1
+
+C O c 0 1 0 0 0 0 1 p div box_detail 9 0
+: O : 0 0 0 0 0 0 0 p div box_detail 9 0
+
+Yici B-PER yici 0 1 0 0 0 0 1 p div box_detail 9 1
+CAI I-PER cai 0 0 0 0 0 0 1 p div box_detail 9 1
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 5
+Wenguang B-PER wenguang 0 1 0 0 0 0 1 p div box_detail 9 2
+CHEN I-PER chen 0 0 0 0 0 0 1 p div box_detail 9 2
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 5
+Yong B-PER yong 0 1 0 0 0 0 1 p div box_detail 9 3
+CUI I-PER cui 0 0 0 0 0 0 1 p div box_detail 9 3
+ï¼Ting O i¼ting 0 0 0 0 0 0 0 div div box_detail 8 5
+CHEN O chen 0 0 0 0 0 0 1 div div box_detail 8 5
+
+D O d 0 1 0 0 0 0 1 p div box_detail 9 0
+: O : 0 0 0 0 0 0 0 p div box_detail 9 0
+
+Zhidong B-PER zhidong 0 1 0 0 0 0 1 p div box_detail 9 1
+DENG I-PER deng 0 0 0 0 0 0 1 p div box_detail 9 1
+
+F O f 0 0 0 0 0 0 1 p div box_detail 9 0
+: O : 0 0 0 0 0 0 0 p div box_detail 9 0
+
+Jianhua B-PER jianhua 0 1 0 0 0 0 1 p div box_detail 9 1
+FENG I-PER feng 0 0 0 0 0 0 1 p div box_detail 9 1
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 13
+Ling B-PER ling 0 1 0 0 0 0 1 p div box_detail 9 2
+FENG I-PER feng 0 0 0 0 0 0 1 p div box_detail 9 2
+
+H O h 0 1 0 0 0 0 1 p div box_detail 9 0
+: O : 0 0 0 0 0 0 0 p div box_detail 9 0
+
+Shimin B-PER shimin 0 1 0 0 0 0 1 p div box_detail 9 1
+HU I-PER hu 0 0 0 0 0 0 1 p div box_detail 9 1
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 17
+Weitong B-PER weitong 0 1 0 0 0 0 1 p div box_detail 9 2
+HUANG I-PER huang 0 0 0 0 0 0 1 p div box_detail 9 2
+
+L O l 0 1 0 0 0 0 1 p div box_detail 9 0
+: O : 0 0 0 0 0 0 0 p div box_detail 9 0
+
+Sanli B-PER sanli 0 1 0 0 0 0 1 p div box_detail 9 1
+LI I-PER li 0 1 0 0 0 0 1 p div box_detail 9 1
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 21
+Juanzi B-PER juanzi 0 1 0 0 0 0 1 p div box_detail 9 2
+LI I-PER li 0 1 0 0 0 0 1 p div box_detail 9 2
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 21
+Bin B-PER bin 0 1 0 0 0 0 1 p div box_detail 9 3
+LIU I-PER liu 0 0 0 0 0 0 1 p div box_detail 9 3
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 21
+Weidong B-PER weidong 0 1 0 0 0 0 1 p div box_detail 9 4
+LIU I-PER liu 0 0 0 0 0 0 1 p div box_detail 9 4
+
+M O m 0 1 0 0 0 0 1 p div box_detail 9 0
+: O : 0 0 0 0 0 0 0 p div box_detail 9 0
+
+Shaoping B-PER shaoping 0 1 0 0 0 0 1 p div box_detail 9 1
+MA I-PER ma 0 0 0 0 0 0 1 p div box_detail 9 1
+
+Q O q 0 1 0 0 0 0 1 p div box_detail 9 0
+: O : 0 0 0 0 0 0 0 p div box_detail 9 0
+
+Kaihuai B-PER kaihuai 0 1 0 0 0 0 1 div div box_detail 8 30
+QIN I-PER qin 0 0 0 0 0 0 1 div div box_detail 8 30
+
+R O r 0 1 0 0 0 0 1 p div box_detail 9 0
+: O : 0 0 0 0 0 0 0 p div box_detail 9 0
+
+Fengyuan B-PER fengyuan 0 1 0 0 0 0 1 p div box_detail 9 1
+REN I-PER ren 0 0 0 0 0 0 1 p div box_detail 9 1
+
+S O s 0 1 0 0 0 0 1 p div box_detail 9 0
+: O : 0 0 0 0 0 0 0 p div box_detail 9 0
+
+Yuanchun B-PER yuanchun 0 1 0 0 0 0 1 p div box_detail 9 1
+SHI I-PER shi 0 0 0 0 0 0 1 p div box_detail 9 1
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 35
+Jiwu B-PER jiwu 0 1 0 0 0 0 1 p div box_detail 9 2
+SHU I-PER shu 0 0 0 0 0 0 1 p div box_detail 9 2
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 35
+Fuchun B-PER fuchun 0 1 0 0 0 0 1 p div box_detail 9 3
+SUN I-PER sun 0 0 0 0 0 0 1 p div box_detail 9 3
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 35
+Lifeng B-PER lifeng 0 1 0 0 0 0 1 p div box_detail 9 4
+SUN I-PER sun 0 0 0 0 0 0 1 p div box_detail 9 4
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 35
+Maosong B-PER maosong 0 1 0 0 0 0 1 p div box_detail 9 5
+SUN I-PER sun 0 0 0 0 0 0 1 p div box_detail 9 5
+
+W O w 0 1 0 0 0 0 1 p div box_detail 9 0
+: O : 0 0 0 0 0 0 0 p div box_detail 9 0
+
+Jianyong B-PER jianyong 0 1 0 0 0 0 1 p div box_detail 9 1
+WANG I-PER wang 0 0 0 0 0 0 1 p div box_detail 9 1
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 42
+Jiangtao B-PER jiangtao 0 1 0 0 0 0 1 p div box_detail 9 2
+WEN I-PER wen 0 0 0 0 0 0 1 p div box_detail 9 2
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 42
+Jianping B-PER jianping 0 1 0 0 0 0 1 p div box_detail 9 3
+WU I-PER wu 0 0 0 0 0 0 1 p div box_detail 9 3
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 42
+Yongwei B-PER yongwei 0 1 0 0 0 0 1 p div box_detail 9 4
+WU I-PER wu 0 0 0 0 0 0 1 p div box_detail 9 4
+
+X O x 0 0 0 0 0 0 1 p div box_detail 9 0
+: O : 0 0 0 0 0 0 0 p div box_detail 9 0
+
+Ke B-PER ke 0 1 0 0 0 0 1 p div box_detail 9 1
+XU I-PER xu 0 0 0 0 0 0 1 p div box_detail 9 1
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 48
+Mingwei B-PER mingwei 0 1 0 0 0 0 1 p div box_detail 9 2
+XU I-PER xu 0 0 0 0 0 0 1 p div box_detail 9 2
+
+Y O y 0 1 0 0 0 0 1 p div box_detail 9 0
+: O : 0 0 0 0 0 0 0 p div box_detail 9 0
+
+Guangwen B-PER guangwen 0 1 0 0 0 0 1 p div box_detail 9 1
+YANG I-PER yang 0 0 0 0 0 0 1 p div box_detail 9 1
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 52
+Shiqiang B-PER shiqiang 0 1 0 0 0 0 1 p div box_detail 9 2
+YANG I-PER yang 0 0 0 0 0 0 1 p div box_detail 9 2
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 52
+Xia B-PER xia 0 1 0 0 0 0 1 p div box_detail 9 3
+YIN I-PER yin 0 0 0 0 0 0 1 p div box_detail 9 3
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 52
+Mingsheng B-PER mingsheng 0 1 0 0 0 0 1 p div box_detail 9 4
+YING I-PER ying 0 0 0 0 0 0 1 p div box_detail 9 4
+
+Z O z 0 1 0 0 0 0 1 p div box_detail 9 0
+: O : 0 0 0 0 0 0 0 p div box_detail 9 0
+
+Bo B-PER bo 0 1 0 0 0 0 1 p div box_detail 9 1
+ZHANG I-PER zhang 0 0 0 0 0 0 1 p div box_detail 9 1
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 58
+Yaoxue B-PER yaoxue 0 1 0 0 0 0 1 p div box_detail 9 2
+ZHANG I-PER zhang 0 0 0 0 0 0 1 p div box_detail 9 2
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 58
+Youhui B-PER youhui 0 1 0 0 0 0 1 p div box_detail 9 3
+ZHANG I-PER zhang 0 0 0 0 0 0 1 p div box_detail 9 3
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 58
+Youjian B-PER youjian 0 1 0 0 0 0 1 p div box_detail 9 4
+ZHAO I-PER zhao 0 0 0 0 0 0 1 p div box_detail 9 4
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 58
+Li B-PER li 0 1 0 0 0 0 1 p div box_detail 9 5
+ZHENG I-PER zheng 0 0 0 0 0 0 1 p div box_detail 9 5
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 58
+Qiang B-PER qiang 0 1 0 0 0 0 1 p div box_detail 9 6
+ZHOU I-PER zhou 0 0 0 0 0 0 1 p div box_detail 9 6
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 58
+Jihong B-PER jihong 0 1 0 0 0 0 1 p div box_detail 9 7
+ZHU I-PER zhu 0 0 0 0 0 0 1 p div box_detail 9 7
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 58
+Wenwu B-PER wenwu 0 1 0 0 0 0 1 div div box_detail 8 58
+ZHU I-PER zhu 0 0 0 0 0 0 1 div div box_detail 8 58
+; O ; 0 0 0 0 0 0 0 div div box_detail 8 58
+Xiaoyan B-PER xiaoyan 0 1 0 0 0 0 1 p div box_detail 9 8
+ZHU I-PER zhu 0 0 0 0 0 0 1 p div box_detail 9 8
+
+( O ( 0 0 0 0 0 0 0 div div box_detail 8 68
+updated O updated 0 0 0 0 0 0 0 div div box_detail 8 68
+by O by 0 1 0 0 0 0 0 div div box_detail 8 68
+2017 O 2017 0 0 0 1 0 0 0 div div box_detail 8 68
+- O - 0 0 0 0 0 0 0 div div box_detail 8 68
+04 O 04 0 0 0 1 0 0 0 div div box_detail 8 68
+- O - 0 0 0 0 0 0 0 div div box_detail 8 68
+11 O 11 0 0 0 1 0 0 0 div div box_detail 8 68
+) O ) 0 0 0 0 0 0 0 div div box_detail 8 68
+
+Copyright O copyright 0 0 0 0 0 0 1 div div copy 6 0
+2009 O 2009 0 0 0 1 0 0 0 div div copy 6 0
+- O - 0 0 0 0 0 0 0 div div copy 6 0
+2020 O 2020 0 0 0 1 0 0 0 div div copy 6 0
+Department O department 0 0 0 0 0 0 1 div div copy 6 0
+of O of 0 1 0 0 0 0 0 div div copy 6 0
+Computer O computer 0 0 0 0 0 0 1 div div copy 6 0
+Science O science 0 0 0 0 0 0 1 div div copy 6 0
+and O and 0 1 0 0 0 0 0 div div copy 6 0
+Technology O technology 0 0 0 0 0 0 1 div div copy 6 0
+All O all 0 1 0 0 0 0 1 div div copy 6 0
+Rights O rights 0 0 0 0 0 0 1 div div copy 6 0
+Reserved O reserved 0 0 0 0 0 0 1 div div copy 6 0

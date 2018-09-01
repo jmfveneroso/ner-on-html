@@ -1,0 +1,3382 @@
+ï»¿ O i»¿ 0 0 0 0 0 0 0   none 1 0
+
+Arkansas O arkansas 0 0 0 0 0 0 1 head html none 4 3
+Northeastern O northeastern 0 0 0 0 0 0 1 head html none 4 3
+College O college 0 0 0 0 0 0 1 head html none 4 3
+: O : 0 0 0 0 0 0 0 head html none 4 3
+: O : 0 0 0 0 0 0 0 head html none 4 3
+Faculty O faculty 0 0 0 0 0 0 1 head html none 4 3
+& O & 0 0 0 0 0 0 0 head html none 4 3
+Staff O staff 0 1 0 0 0 0 1 head html none 4 3
+Directory O directory 0 0 0 0 0 0 1 head html none 4 3
+
+Skip O skip 0 1 0 0 0 0 1 body html skip-main 4 0
+to O to 0 0 0 0 0 0 0 body html skip-main 4 0
+main O main 0 0 0 0 0 0 0 body html skip-main 4 0
+content O content 0 0 0 0 0 0 0 body html skip-main 4 0
+
+ANC O anc 0 0 0 0 0 0 1 li ul auto-style6 9 0
+Home O home 0 1 0 0 0 0 1 li ul auto-style6 9 0
+
+FACULTY O faculty 0 0 0 0 0 0 1 div td headertext 8 5
+&AMP O &amp 0 0 0 0 0 0 0 div td headertext 8 5
+; O ; 0 0 0 0 0 0 0 div td headertext 8 5
+STAFF O staff 0 0 0 0 0 0 1 div td headertext 8 5
+DIRECTORY O directory 0 0 0 0 0 0 1 div td headertext 8 5
+
+FACULTY O faculty 0 0 0 0 0 0 1 td tr auto-style8 7 8
+& O & 0 0 0 0 0 0 0 td tr auto-style8 7 8
+STAFF O staff 0 0 0 0 0 0 1 td tr auto-style8 7 8
+DIRECTORY O directory 0 0 0 0 0 0 1 td tr auto-style8 7 8
+: O : 0 0 0 0 0 0 0 td tr auto-style8 7 8
+: O : 0 0 0 0 0 0 0 td tr auto-style8 7 8
+
+Search O search 0 0 0 0 0 0 1 p td auto-style17 8 0
+by O by 0 1 0 0 0 0 0 p td auto-style17 8 0
+clicking O clicking 0 0 0 0 0 0 0 p td auto-style17 8 0
+the O the 0 1 0 0 0 0 0 p td auto-style17 8 0
+first O first 0 0 0 0 0 0 0 p td auto-style17 8 0
+letter O letter 0 0 0 0 0 0 0 p td auto-style17 8 0
+of O of 0 1 0 0 0 0 0 p td auto-style17 8 0
+the O the 0 1 0 0 0 0 0 p td auto-style17 8 0
+employee O employee 0 0 0 0 1 0 0 p td auto-style17 8 0
+Last O last 0 1 0 0 0 0 1 p td auto-style17 8 0
+Name O name 0 1 0 0 0 0 1 p td auto-style17 8 0
+: O : 0 0 0 0 0 0 0 p td auto-style17 8 0
+
+A O a 0 1 0 0 0 0 1 a p auto-style20 9 0
+B O b 0 1 0 0 0 0 1 span p general 9 0
+C O c 0 1 0 0 0 0 1 span p general 9 1
+D O d 0 1 0 0 0 0 1 span p general 9 2
+E O e 0 1 0 0 0 0 1 span p general 9 3
+F O f 0 0 0 0 0 0 1 span p general 9 4
+G O g 0 1 0 0 0 0 1 span p general 9 5
+H O h 0 1 0 0 0 0 1 span p general 9 6
+I O i 0 1 0 0 0 0 1 p td auto-style20 8 2
+J O j 0 1 0 0 0 0 1 span p general 9 7
+K O k 0 1 0 0 0 0 1 span p general 9 8
+L O l 0 1 0 0 0 0 1 span p general 9 9
+M O m 0 1 0 0 0 0 1 span p general 9 10
+N O n 0 1 0 0 0 0 1 span p general 9 11
+O O o 0 1 0 0 0 0 1 span p general 9 12
+P O p 0 1 0 0 0 0 1 span p general 9 13
+Q O q 0 1 0 0 0 0 1 p td auto-style20 8 2
+R O r 0 1 0 0 0 0 1 span p general 9 14
+S O s 0 1 0 0 0 0 1 span p general 9 15
+T O t 0 1 0 0 0 0 1 span p general 9 16
+U O u 0 1 0 0 0 0 1 p td auto-style20 8 2
+V O v 0 1 0 0 0 0 1 span p general 9 17
+W O w 0 1 0 0 0 0 1 span p general 9 18
+X O x 0 0 0 0 0 0 1 p td auto-style20 8 2
+Y O y 0 1 0 0 0 0 1 a p auto-style20 9 0
+Z O z 0 1 0 0 0 0 1 a p auto-style20 9 0
+
+or O or 0 0 0 0 0 0 0 p td auto-style17 8 0
+select O select 0 0 0 0 0 0 0 p td auto-style17 8 0
+a O a 0 1 0 0 0 0 0 p td auto-style17 8 0
+department/division O department/division 0 0 0 0 0 0 0 p td auto-style17 8 0
+: O : 0 0 0 0 0 0 0 p td auto-style17 8 0
+
+The O the 0 1 0 0 0 0 1 p td auto-style17 8 0
+main O main 0 0 0 0 0 0 0 p td auto-style17 8 0
+phone O phone 0 0 0 0 0 0 0 p td auto-style17 8 0
+number O number 0 0 0 0 0 0 0 p td auto-style17 8 0
+for O for 0 1 0 0 0 0 0 p td auto-style17 8 0
+ANC O anc 0 0 0 0 0 0 1 p td auto-style17 8 0
+is O is 0 0 0 0 0 0 0 p td auto-style17 8 0
+870 O 870 0 0 0 1 0 0 0 p td auto-style17 8 0
+- O - 0 0 0 0 0 0 0 p td auto-style17 8 0
+762 O 762 0 0 0 1 0 0 0 p td auto-style17 8 0
+- O - 0 0 0 0 0 0 0 p td auto-style17 8 0
+1020. O 1020. 0 0 0 1 0 0 0 p td auto-style17 8 0
+
+Name O name 0 1 0 0 0 0 1 td tr auto-style27 10 0
+/ O / 0 0 0 0 0 0 0 td tr auto-style27 10 0
+Title O title 0 1 0 0 0 0 1 td tr auto-style27 10 0
+
+Department/Area O department/area 0 0 0 0 0 0 1 td tr auto-style27 10 0
+
+Contact O contact 0 0 0 0 0 0 1 td tr auto-style27 10 0
+Info O info 0 0 0 0 0 0 1 td tr auto-style27 10 0
+
+A O a 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+Adams B-PER adams 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Tara I-PER tara 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Pathways O pathways 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Advisor O advisor 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Career O career 0 0 0 0 0 0 1 td tr general 10 0
+Pathways O pathways 0 0 0 0 0 0 1 td tr general 10 0
+tadams@smail.anc.edu O tadams@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1188 O x1188 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+B16 O b16 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Alisic B-PER alisic 0 0 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Ibrahim I-PER ibrahim 1 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Maintenance O maintenance 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1190 O x1190 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Alvoid B-PER alvoid 0 0 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Lonzetta I-PER lonzetta 0 0 0 0 0 0 1 td tr auto-style26 10 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+I O i 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Adult O adult 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+/ O / 0 0 0 0 0 0 0 td tr auto-style26 10 2
+GED O ged 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Examiner O examiner 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Adult O adult 0 0 0 0 0 0 1 td tr general 10 0
+Education O education 0 0 0 0 0 0 1 td tr general 10 0
+lalvoid@smail.anc.edu O lalvoid@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1939 O x1939 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+780 O 780 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+1278 O 1278 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+L47 O l47 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Anderson B-PER anderson 0 1 0 0 1 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Takindra I-PER takindra 0 0 0 0 0 0 1 td tr auto-style26 10 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+I O i 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Advising O advising 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Center O center 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Advising O advising 0 0 0 0 0 0 1 td tr general 10 0
+Center O center 0 1 0 0 0 0 1 td tr general 10 0
+tdanderson@smail.anc.edu O tdanderson@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1521 O x1521 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+S145 O s145 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Anderson B-PER anderson 0 1 0 0 1 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Trina I-PER trina 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Academic O academic 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Service O service 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Coordinator O coordinator 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Student O student 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Support O support 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+TRiO O trio 0 0 0 0 0 0 1 td tr general 10 0
+tanderson@smail.anc.edu O tanderson@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1252 O x1252 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Briggs/Sebaugh O briggs/sebaugh 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Wellness O wellness 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Andrew B-PER andrew 0 1 0 0 1 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Melissa I-PER melissa 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Controller O controller 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Business O business 0 0 0 0 0 0 1 td tr general 10 0
+Office O office 0 0 0 0 0 0 1 td tr general 10 0
+mandrew@smail.anc.edu O mandrew@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1133 O x1133 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+A103 O a103 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Arledge B-PER arledge 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Melissa I-PER melissa 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Early O early 0 1 0 0 0 0 1 td tr auto-style26 10 2
+College O college 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Program O program 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Coordinator/ O coordinator/ 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Lead O lead 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Career O career 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Coach O coach 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Career O career 0 0 0 0 0 0 1 td tr general 10 0
+Coach O coach 0 1 0 0 0 0 1 td tr general 10 0
+marledge@smail.anc.edu O marledge@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 9
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 9
+838 O 838 0 0 0 1 0 0 0 tr table auto-style26 9 9
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 9
+9165 O 9165 0 0 0 1 0 0 0 tr table auto-style26 9 9
+
+B O b 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Banks B-PER banks 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Marlene I-PER marlene 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+to O to 0 0 0 0 0 0 0 td tr auto-style26 10 2
+the O the 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Board/President O board/president 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+mbanks@smail.anc.edu O mbanks@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1124 O x1124 0 0 0 1 0 0 0 tr table auto-style26 9 7
+
+A207 O a207 0 0 0 1 0 0 1 tr table auto-style26 9 7
+
+Banks B-PER banks 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Robin I-PER robin 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Degree O degree 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Nursing O nursing 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 0
+Health O health 0 1 0 0 0 0 1 td tr general 10 0
+rbanks@smail.anc.edu O rbanks@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1814 O x1814 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+NAH172 O nah172 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Bennett B-PER bennett 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Gene I-PER gene 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Vice O vice 0 1 0 0 0 0 1 td tr auto-style26 10 2
+President O president 0 1 0 0 0 0 1 td tr auto-style26 10 2
+for O for 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Workforce O workforce 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Development O development 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Administration O administration 0 0 0 0 0 0 1 td tr general 10 0
+/ O / 0 0 0 0 0 0 0 tr table auto-style26 9 6
+The O the 0 1 0 0 0 0 1 td tr general 10 1
+Solutions O solutions 0 0 0 0 0 0 1 td tr general 10 1
+Group O group 0 1 0 0 0 0 1 td tr general 10 1
+gbennett@smail.anc.edu O gbennett@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1601 O x1601 0 0 0 1 0 0 0 tr table auto-style26 9 9
+
+Harry O harry 0 1 0 0 0 0 1 tr table auto-style26 9 9
+L. O l. 0 1 0 0 0 0 1 tr table auto-style26 9 9
+Crisp O crisp 0 1 0 0 0 0 1 tr table auto-style26 9 9
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 9
+
+x1401 O x1401 0 0 0 1 0 0 0 tr table auto-style26 9 9
+
+Burdette O burdette 0 1 0 0 0 0 1 tr table auto-style26 9 9
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 9
+
+Bennett B-PER bennett 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Michelle I-PER michelle 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Director O director 0 1 0 0 0 0 1 td tr auto-style26 10 2
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 2
+the O the 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Secondary O secondary 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Center O center 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Secondary O secondary 0 0 0 0 0 0 1 td tr general 10 0
+Center O center 0 1 0 0 0 0 1 td tr general 10 0
+mbennett@smail.anc.edu O mbennett@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1400 O x1400 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Burdette O burdette 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Bennett B-PER bennett 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Sherri I-PER sherri 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Vice O vice 0 1 0 0 0 0 1 td tr auto-style26 10 2
+President O president 0 1 0 0 0 0 1 td tr auto-style26 10 2
+for O for 0 1 0 0 0 0 0 td tr auto-style26 10 2
+College O college 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Readiness O readiness 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Administration O administration 0 0 0 0 0 0 1 td tr general 10 0
+/ O / 0 0 0 0 0 0 0 tr table auto-style26 9 6
+Career O career 0 0 0 0 0 0 1 td tr general 10 1
+Pathways O pathways 0 0 0 0 0 0 1 td tr general 10 1
+/ O / 0 0 0 0 0 0 0 tr table auto-style26 9 6
+Secondary O secondary 0 0 0 0 0 0 1 td tr general 10 2
+Center O center 0 1 0 0 0 0 1 td tr general 10 2
+sbennett@smail.anc.edu O sbennett@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1191 O x1191 0 0 0 1 0 0 0 tr table auto-style26 9 10
+
+A219 O a219 0 0 0 1 0 0 1 tr table auto-style26 9 10
+
+Bentley B-PER bentley 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Tim I-PER tim 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Criminal O criminal 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Justice O justice 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+tbentley@smail.anc.edu O tbentley@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1125 O x1125 0 0 0 1 0 0 0 tr table auto-style26 9 7
+
+B6 O b6 0 0 0 1 0 0 1 tr table auto-style26 9 7
+
+Berry B-PER berry 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Ginger I-PER ginger 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Physical O physical 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Science O science 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+gberry@smail.anc.edu O gberry@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1169 O x1169 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+C15 O c15 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Blankenship B-PER blankenship 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Candice I-PER candice 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Higher O higher 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Institution O institution 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Program O program 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Coordinator O coordinator 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Student O student 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Support O support 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+TRiO O trio 0 0 0 0 0 0 1 td tr general 10 0
+cblankenship@smail.anc.edu O cblankenship@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1148 O x1148 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Briggs/Sebaugh O briggs/sebaugh 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Wellness O wellness 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Bogard B-PER bogard 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Denese I-PER denese 0 0 0 0 0 0 1 td tr auto-style26 10 0
+
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Advisor O advisor 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Educational O educational 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Opportunity O opportunity 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Center O center 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+TRiO O trio 0 0 0 0 0 0 1 td tr general 10 0
+dbogard@smail.anc.edu O dbogard@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1104 O x1104 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+S116 O s116 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Bowens B-PER bowens 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Pacey I-PER pacey 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Vice O vice 0 1 0 0 0 0 1 td tr auto-style26 10 2
+President O president 0 1 0 0 0 0 1 td tr auto-style26 10 2
+for O for 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Finance O finance 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Administration O administration 0 0 0 0 0 0 1 td tr general 10 0
+pbowens@smail.anc.edu O pbowens@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1130 O x1130 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+A104 O a104 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Brady B-PER brady 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Heather I-PER heather 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Fiscal O fiscal 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Support O support 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Business O business 0 0 0 0 0 0 1 td tr general 10 0
+Office O office 0 0 0 0 0 0 1 td tr general 10 0
+hbrady@smail.anc.edu O hbrady@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1132 O x1132 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+A108 O a108 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Brasher B-PER brasher 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Holt I-PER holt 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Art O art 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Instructor O instructor 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+hbrasher@smail.anc.edu O hbrasher@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1202 O x1202 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+B3 O b3 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Brassfield B-PER brassfield 0 0 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Tamatha I-PER tamatha 0 0 0 0 0 0 1 td tr auto-style26 10 0
+
+Office O office 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Management O management 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Instructor O instructor 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+tbrassfield@smail.anc.edu O tbrassfield@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1157 O x1157 0 0 0 1 0 0 0 tr table auto-style26 9 7
+
+B5 O b5 0 0 0 1 0 0 1 tr table auto-style26 9 7
+
+Brown B-PER brown 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Nikki I-PER nikki 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Admissions O admissions 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Counselor/Recruiter O counselor/recruiter 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Student O student 0 1 0 0 0 0 1 td tr general 10 0
+Affairs O affairs 0 0 0 0 0 0 1 td tr general 10 0
+/ O / 0 0 0 0 0 0 0 tr table auto-style26 9 6
+Student O student 0 1 0 0 0 0 1 td tr general 10 1
+Services O services 0 0 0 0 0 0 1 td tr general 10 1
+nbrown@smail.anc.edu O nbrown@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1008 O x1008 0 0 0 1 0 0 0 tr table auto-style26 9 9
+
+S121 O s121 0 0 0 1 0 0 1 tr table auto-style26 9 9
+
+Burchard B-PER burchard 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Rebecca I-PER rebecca 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Institutional O institutional 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1190 O x1190 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Burnette B-PER burnette 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Mallory I-PER mallory 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Developmental O developmental 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+English O english 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+mburnette@smail.anc.edu O mburnette@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1172 O x1172 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Burton B-PER burton 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Cindy I-PER cindy 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Coordinator O coordinator 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Paragould O paragould 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Center O center 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Paragould O paragould 0 0 0 0 0 0 1 td tr general 10 0
+Center O center 0 1 0 0 0 0 1 td tr general 10 0
+cburton@smail.anc.edu O cburton@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1754 O x1754 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+239 O 239 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+3200 O 3200 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Paragould O paragould 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Busby B-PER busby 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Duane I-PER duane 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Criminal O criminal 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Justice O justice 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Secondary O secondary 0 0 0 0 0 0 1 td tr general 10 0
+Center O center 0 1 0 0 0 0 1 td tr general 10 0
+dbusby@smail.anc.edu O dbusby@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1411 O x1411 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Burdette O burdette 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Butler B-PER butler 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Tachmonite I-PER tachmonite 0 0 0 0 0 0 1 td tr auto-style26 10 0
+
+Testing O testing 0 0 0 0 0 0 1 td tr auto-style26 10 2
+and O and 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Academic O academic 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Success O success 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Coordinator O coordinator 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Advising O advising 0 0 0 0 0 0 1 td tr general 10 0
+Center O center 0 1 0 0 0 0 1 td tr general 10 0
+tbutler@smail.anc.edu O tbutler@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1161 O x1161 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+S146 O s146 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+C O c 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Carr B-PER carr 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Darrel I-PER darrel 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Advising O advising 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Transfer O transfer 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Programs O programs 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Advising O advising 0 0 0 0 0 0 1 td tr general 10 0
+Center O center 0 1 0 0 0 0 1 td tr general 10 0
+dcarr@smail.anc.edu O dcarr@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1240 O x1240 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+S149 O s149 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Carroll B-PER carroll 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Brent I-PER brent 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Welding O welding 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+The O the 0 1 0 0 0 0 1 td tr general 10 0
+Solutions O solutions 0 0 0 0 0 0 1 td tr general 10 0
+Group O group 0 1 0 0 0 0 1 td tr general 10 0
+bcarroll@smail.anc.edu O bcarroll@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1606 O x1606 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Crisp O crisp 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center/ACME O center/acme 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Cashman B-PER cashman 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Teresita I-PER teresita 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Maintenance O maintenance 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1190 O x1190 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Chambers B-PER chambers 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Alton I-PER alton 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Maintenance O maintenance 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1190 O x1190 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Childers B-PER childers 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Lisa I-PER lisa 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr auto-style26 10 1
+Professor O professor 0 0 0 0 1 0 1 td tr auto-style26 10 1
+and O and 0 1 0 0 0 0 0 td tr auto-style26 10 1
+Director O director 0 1 0 0 0 0 1 td tr auto-style26 10 1
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 1
+Dental O dental 0 0 0 0 0 0 1 td tr auto-style26 10 1
+Assisting O assisting 0 0 0 0 0 0 1 td tr auto-style26 10 1
+
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 0
+Health O health 0 1 0 0 0 0 1 td tr general 10 0
+lchilders@smail.anc.edu O lchilders@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1808 O x1808 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+NAH166 O nah166 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Cierzniewski B-PER cierzniewski 0 0 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Paul I-PER paul 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Aviation O aviation 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Maintenance O maintenance 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Aviation O aviation 0 0 0 0 0 0 1 td tr general 10 0
+Maintenance O maintenance 0 0 0 0 0 0 1 td tr general 10 0
+pcierzniewski@smail.anc.edu O pcierzniewski@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+762 O 762 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+2726 O 2726 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+ACME O acme 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Clark B-PER clark 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Andrew I-PER andrew 0 1 0 0 1 0 1 td tr auto-style26 10 0
+
+Public O public 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Safety O safety 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Security O security 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Officer O officer 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1190 O x1190 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Clark B-PER clark 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Stacy I-PER stacy 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Advisor O advisor 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Educational O educational 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Opportunity O opportunity 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Center O center 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+TRiO O trio 0 0 0 0 0 0 1 td tr general 10 0
+sclark@smail.anc.edu O sclark@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1304 O x1304 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Osceola O osceola 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Cole B-PER cole 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Melissa I-PER melissa 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Fiscal O fiscal 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Support O support 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Business O business 0 0 0 0 0 0 1 td tr general 10 0
+Office O office 0 0 0 0 0 0 1 td tr general 10 0
+mcole@smail.anc.edu O mcole@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1110 O x1110 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+A108 O a108 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Cook B-PER cook 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Pamela I-PER pamela 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+I O i 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Osceola O osceola 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Center O center 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Osceola O osceola 0 0 0 0 0 0 1 td tr general 10 0
+Center O center 0 1 0 0 0 0 1 td tr general 10 0
+pcook@smail.anc.edu O pcook@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1300 O x1300 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Osceola O osceola 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Cooley B-PER cooley 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Sherryl I-PER sherryl 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Adult O adult 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Instructor O instructor 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Adult O adult 0 0 0 0 0 0 1 td tr general 10 0
+Education O education 0 0 0 0 0 0 1 td tr general 10 0
+scooley@smail.anc.edu O scooley@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+Leachville O leachville 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center/Osceola O center/osceola 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Cooper B-PER cooper 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Courtney I-PER courtney 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Coordinator O coordinator 0 0 0 0 0 0 1 td tr auto-style26 10 2
+for O for 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Placement O placement 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+The O the 0 1 0 0 0 0 1 td tr general 10 0
+Solutions O solutions 0 0 0 0 0 0 1 td tr general 10 0
+Group O group 0 1 0 0 0 0 1 td tr general 10 0
+ccooper@smail.anc.edu O ccooper@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1607 O x1607 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Harry O harry 0 1 0 0 0 0 1 tr table auto-style26 9 8
+L. O l. 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Crisp O crisp 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Cravens B-PER cravens 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Sabrina I-PER sabrina 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+English O english 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+
+scravens@smail.anc.edu O scravens@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 1
+
+x1247 O x1247 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+C8 O c8 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Crawford B-PER crawford 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Marty I-PER marty 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Construction O construction 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Technology O technology 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+The O the 0 1 0 0 0 0 1 td tr general 10 0
+Solutions O solutions 0 0 0 0 0 0 1 td tr general 10 0
+Group O group 0 1 0 0 0 0 1 td tr general 10 0
+mcrawford@smail.anc.edu O mcrawford@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+Burdette O burdette 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Creecy B-PER creecy 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Sara I-PER sara 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Career O career 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Coach O coach 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Career O career 0 0 0 0 0 0 1 td tr general 10 0
+Coach O coach 0 1 0 0 0 0 1 td tr general 10 0
+sjcreecy@smail.anc.edu O sjcreecy@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+838 O 838 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+9905 O 9905 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Creecy B-PER creecy 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Scott I-PER scott 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Physical O physical 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Plant O plant 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Director O director 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+screecy@smail.anc.edu O screecy@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1196 O x1196 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D6 O d6 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Crosskno B-PER crosskno 0 0 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Stephen I-PER stephen 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Industrial O industrial 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Technical O technical 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Skills O skills 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Electrical O electrical 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Systems O systems 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+The O the 0 1 0 0 0 0 1 td tr general 10 0
+Solutions O solutions 0 0 0 0 0 0 1 td tr general 10 0
+Group O group 0 1 0 0 0 0 1 td tr general 10 0
+scrosskno@smail.anc.edu O scrosskno@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1608 O x1608 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Harry O harry 0 1 0 0 0 0 1 tr table auto-style26 9 8
+L. O l. 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Crisp O crisp 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+D O d 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Diagostino B-PER diagostino 0 0 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+David I-PER david 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Career O career 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Coach O coach 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Career O career 0 0 0 0 0 0 1 td tr general 10 0
+Coach O coach 0 1 0 0 0 0 1 td tr general 10 0
+ddiagostino@smail.anc.edu O ddiagostino@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+838 O 838 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+9902 O 9902 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Dillard B-PER dillard 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Destinee I-PER destinee 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Advisor O advisor 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Educational O educational 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Talent O talent 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Search O search 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+TRiO O trio 0 0 0 0 0 0 1 td tr general 10 0
+ddillard@smail.anc.edu O ddillard@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1423 O x1423 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+B14 O b14 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Dyson B-PER dyson 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Gwendolyn I-PER gwendolyn 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+I O i 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Allied O allied 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Health O health 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 0
+Health O health 0 1 0 0 0 0 1 td tr general 10 0
+gdyson@smail.anc.edu O gdyson@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1802 O x1802 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+NAH160 O nah160 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+E O e 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Echols B-PER echols 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Jeff I-PER jeff 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Career O career 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Coach O coach 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Career O career 0 0 0 0 0 0 1 td tr general 10 0
+Coach O coach 0 1 0 0 0 0 1 td tr general 10 0
+jechols@smail.anc.edu O jechols@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+838 O 838 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+9901 O 9901 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Ellis B-PER ellis 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Karen I-PER karen 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Director O director 0 1 0 0 0 0 1 td tr auto-style26 10 2
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Library O library 0 0 0 0 0 0 1 td tr auto-style26 10 2
+& O & 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Audiovisual O audiovisual 0 0 0 0 1 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Library O library 0 0 0 0 0 0 1 td tr general 10 0
+kellis@smail.anc.edu O kellis@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1234 O x1234 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+L19 O l19 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Ellis B-PER ellis 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Vicki I-PER vicki 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+I O i 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Physical O physical 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Plant O plant 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+vellis@smail.anc.edu O vellis@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1190 O x1190 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+F O f 0 0 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Fair B-PER fair 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+David I-PER david 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Maintenance O maintenance 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Technician O technician 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1420 O x1420 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Burdette O burdette 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Fincher B-PER fincher 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Kathy I-PER kathy 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Advisor O advisor 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Educational O educational 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Talent O talent 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Search O search 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+TRiO O trio 0 0 0 0 0 0 1 td tr general 10 0
+kfincher@smail.anc.edu O kfincher@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1437 O x1437 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+B12 O b12 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Fisher B-PER fisher 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Courtney I-PER courtney 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Director O director 0 1 0 0 0 0 1 td tr auto-style26 10 2
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Student O student 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Student O student 0 1 0 0 0 0 1 td tr general 10 0
+Affairs O affairs 0 0 0 0 0 0 1 td tr general 10 0
+/ O / 0 0 0 0 0 0 0 tr table auto-style26 9 6
+Student O student 0 1 0 0 0 0 1 td tr general 10 1
+Services O services 0 0 0 0 0 0 1 td tr general 10 1
+cfisher@smail.anc.edu O cfisher@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1162 O x1162 0 0 0 1 0 0 0 tr table auto-style26 9 9
+
+S118 O s118 0 0 0 1 0 0 1 tr table auto-style26 9 9
+
+Fisher B-PER fisher 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Michael I-PER michael 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Fine O fine 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Arts/Humanities O arts/humanities 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+mfisher@smail.anc.edu O mfisher@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1155 O x1155 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Follett B-PER follett 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Scott I-PER scott 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Industrial O industrial 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Mechanical O mechanical 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Systems O systems 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+The O the 0 1 0 0 0 0 1 td tr general 10 0
+Solutions O solutions 0 0 0 0 0 0 1 td tr general 10 0
+Group O group 0 1 0 0 0 0 1 td tr general 10 0
+sfollett@smail.anc.edu O sfollett@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1064 O x1064 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Harry O harry 0 1 0 0 0 0 1 tr table auto-style26 9 8
+L. O l. 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Crisp O crisp 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Freeman B-PER freeman 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Marie I-PER marie 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+I O i 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Adult O adult 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+/ O / 0 0 0 0 0 0 0 td tr auto-style26 10 2
+GED O ged 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Examiner O examiner 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Adult O adult 0 0 0 0 0 0 1 td tr general 10 0
+Education O education 0 0 0 0 0 0 1 td tr general 10 0
+mfreeman@smail.anc.edu O mfreeman@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1192 O x1192 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+780 O 780 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+1277 O 1277 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+L48 O l48 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Frias B-PER frias 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Matthew I-PER matthew 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Welding O welding 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+The O the 0 1 0 0 0 0 1 td tr general 10 0
+Solutions O solutions 0 0 0 0 0 0 1 td tr general 10 0
+Group O group 0 1 0 0 0 0 1 td tr general 10 0
+mfrias@smail.anc.edu O mfrias@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1449 O x1449 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Burdette O burdette 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+G O g 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Garren B-PER garren 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Mary I-PER mary 0 1 0 0 0 0 1 td tr auto-style26 10 0
+Ann I-PER ann 1 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Coordinator O coordinator 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Community O community 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Community O community 0 1 0 0 0 0 1 td tr general 10 0
+Education O education 0 0 0 0 0 0 1 td tr general 10 0
+mgarren@smail.anc.edu O mgarren@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1229 O x1229 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+L30 O l30 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Gaston B-PER gaston 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Mary I-PER mary 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Career O career 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Coach O coach 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Career O career 0 0 0 0 0 0 1 td tr general 10 0
+Coach O coach 0 1 0 0 0 0 1 td tr general 10 0
+mgaston@smail.anc.edu O mgaston@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+838 O 838 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+9903 O 9903 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Gillen B-PER gillen 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Blythe I-PER blythe 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Admissions O admissions 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Counselor O counselor 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Student O student 0 1 0 0 0 0 1 td tr general 10 0
+Affairs O affairs 0 0 0 0 0 0 1 td tr general 10 0
+/ O / 0 0 0 0 0 0 0 tr table auto-style26 9 6
+Student O student 0 1 0 0 0 0 1 td tr general 10 1
+Services O services 0 0 0 0 0 0 1 td tr general 10 1
+bgillen@smail.anc.edu O bgillen@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1246 O x1246 0 0 0 1 0 0 0 tr table auto-style26 9 9
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 9
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 9
+762 O 762 0 0 0 1 0 0 0 tr table auto-style26 9 9
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 9
+3180 O 3180 0 0 0 1 0 0 0 tr table auto-style26 9 9
+
+S114 O s114 0 0 0 1 0 0 1 tr table auto-style26 9 9
+
+Statehouse O statehouse 0 0 0 0 0 0 1 tr table auto-style26 9 9
+Hall O hall 0 1 0 0 0 0 1 tr table auto-style26 9 9
+
+Gifford B-PER gifford 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Rachel I-PER rachel 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Vice O vice 0 1 0 0 0 0 1 td tr auto-style26 10 2
+President O president 0 1 0 0 0 0 1 td tr auto-style26 10 2
+for O for 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Development O development 0 0 0 0 0 0 1 td tr auto-style26 10 2
+and O and 0 1 0 0 0 0 0 td tr auto-style26 10 2
+College O college 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Relations O relations 0 0 0 0 0 0 1 td tr auto-style26 10 2
+/ O / 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Executive O executive 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Director O director 0 1 0 0 0 0 1 td tr auto-style26 10 2
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 2
+The O the 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Foundation O foundation 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Administration O administration 0 0 0 0 0 0 1 td tr general 10 0
+/ O / 0 0 0 0 0 0 0 tr table auto-style26 9 6
+College O college 0 0 0 0 0 0 1 td tr general 10 1
+Relations O relations 0 0 0 0 0 0 1 td tr general 10 1
+& O & 0 0 0 0 0 0 0 td tr general 10 1
+Marketing O marketing 0 0 0 0 0 0 1 td tr general 10 1
+rgifford@smail.anc.edu O rgifford@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1120 O x1120 0 0 0 1 0 0 0 tr table auto-style26 9 9
+
+A2015 O a2015 0 0 0 1 0 0 1 tr table auto-style26 9 9
+
+Godsey B-PER godsey 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+David I-PER david 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Public O public 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Safety O safety 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Security O security 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Officer O officer 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1190 O x1190 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Graham B-PER graham 1 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Danny I-PER danny 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Webmaster/Technology O webmaster/technology 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Support O support 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Management O management 0 1 0 0 0 0 1 td tr general 10 0
+Information O information 0 1 0 0 0 0 1 td tr general 10 0
+Technology O technology 0 0 0 0 0 0 1 td tr general 10 0
+Services O services 0 0 0 0 0 0 1 td tr general 10 0
+( O ( 0 0 0 0 0 0 0 td tr general 10 0
+MITS O mits 0 0 0 0 0 0 1 td tr general 10 0
+) O ) 0 0 0 0 0 0 0 td tr general 10 0
+dgraham@smail.anc.edu O dgraham@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1164 O x1164 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+B201 O b201 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Greene B-PER greene 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Barbara I-PER barbara 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Practical O practical 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Nursing O nursing 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Director O director 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Practical O practical 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Nursing O nursing 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 0
+Health O health 0 1 0 0 0 0 1 td tr general 10 0
+bgreene@smail.anc.edu O bgreene@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1803 O x1803 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+780 O 780 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+1225 O 1225 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+NAH161 O nah161 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Greer B-PER greer 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Richard I-PER richard 1 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Maintenance O maintenance 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1190 O x1190 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+H O h 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Hall B-PER hall 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Maria I-PER maria 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Institutional O institutional 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1190 O x1190 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Hamilton B-PER hamilton 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Paul I-PER paul 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Construction O construction 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Technology O technology 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Secondary O secondary 0 0 0 0 0 0 1 td tr general 10 0
+Center O center 0 1 0 0 0 0 1 td tr general 10 0
+phamilton@smail.anc.edu O phamilton@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1446 O x1446 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Burdette O burdette 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Hampton B-PER hampton 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Tabatha I-PER tabatha 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Coordinator O coordinator 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Human O human 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Resources O resources 0 0 0 0 0 0 1 td tr auto-style26 10 2
+& O & 0 0 0 0 0 0 0 td tr auto-style26 10 2
+ADA O ada 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Human O human 0 1 0 0 0 0 1 td tr general 10 0
+Resources O resources 0 0 0 0 0 0 1 td tr general 10 0
+thampton@smail.anc.edu O thampton@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1136 O x1136 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+A111 O a111 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Harris B-PER harris 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Holly I-PER holly 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Financial O financial 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Aid O aid 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Advisor O advisor 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Student O student 0 1 0 0 0 0 1 td tr general 10 0
+Affairs O affairs 0 0 0 0 0 0 1 td tr general 10 0
+/ O / 0 0 0 0 0 0 0 tr table auto-style26 9 6
+Financial O financial 0 0 0 0 0 0 1 td tr general 10 1
+Aid O aid 0 1 0 0 0 0 1 td tr general 10 1
+hharris@smail.anc.edu O hharris@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1115 O x1115 0 0 0 1 0 0 0 tr table auto-style26 9 9
+
+S119 O s119 0 0 0 1 0 0 1 tr table auto-style26 9 9
+
+Harris B-PER harris 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Tonya I-PER tonya 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Director O director 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Educational O educational 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Talent O talent 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Search O search 0 0 0 0 0 0 1 td tr auto-style26 10 2
+and O and 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Educational O educational 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Opportunity O opportunity 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Center O center 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+TRiO O trio 0 0 0 0 0 0 1 td tr general 10 0
+tharris@smail.anc.edu O tharris@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1447 O x1447 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+B10 O b10 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Hart B-PER hart 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Kimberly I-PER kimberly 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+and O and 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Training O training 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Secondary O secondary 0 0 0 0 0 0 1 td tr general 10 0
+Center O center 0 1 0 0 0 0 1 td tr general 10 0
+khart@smail.anc.edu O khart@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1455 O x1455 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Burdette O burdette 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Hartley B-PER hartley 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+James I-PER james 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Media O media 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Director/Professor O director/professor 0 0 0 0 0 0 1 td tr auto-style26 10 2
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Criminology O criminology 0 0 0 0 0 0 1 td tr auto-style26 10 2
+& O & 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Sociology O sociology 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+College O college 0 0 0 0 0 0 1 td tr general 10 0
+Relations O relations 0 0 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Marketing O marketing 0 0 0 0 0 0 1 td tr general 10 0
+/ O / 0 0 0 0 0 0 0 tr table auto-style26 9 6
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 1
+& O & 0 0 0 0 0 0 0 td tr general 10 1
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 1
+jehartley@smail.anc.edu O jehartley@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1147 O x1147 0 0 0 1 0 0 0 tr table auto-style26 9 9
+
+B6 O b6 0 0 0 1 0 0 1 tr table auto-style26 9 9
+
+Hartley O hartley 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Dr. O dr. 0 1 0 0 1 0 1 td tr auto-style26 10 0
+Jillian O jillian 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Professor O professor 0 0 0 0 1 0 1 td tr auto-style26 10 2
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 2
+History O history 0 0 0 0 0 0 1 td tr auto-style26 10 2
+& O & 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Political O political 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Science O science 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+jhartley@smail.anc.edu O jhartley@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1168 O x1168 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+C2 O c2 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Hernandez B-PER hernandez 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Frank I-PER frank 1 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Aviation O aviation 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Maintenance O maintenance 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Instructor O instructor 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Aviation O aviation 0 0 0 0 0 0 1 td tr general 10 0
+Maintenance O maintenance 0 0 0 0 0 0 1 td tr general 10 0
+fhernandez@smail.anc.edu O fhernandez@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+762 O 762 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+2726 O 2726 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+ACME O acme 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Hicks B-PER hicks 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Deanita I-PER deanita 0 0 0 0 0 0 1 td tr auto-style26 10 0
+
+Dean O dean 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Arts O arts 0 1 0 0 0 0 1 td tr auto-style26 10 2
+and O and 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Sciences O sciences 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+dhicks@smail.anc.edu O dhicks@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1173 O x1173 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+C1 O c1 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Higgs B-PER higgs 0 1 0 0 0 0 1 td tr auto-style26 10 0
+- I-PER - 0 0 0 0 0 0 0 td tr auto-style26 10 0
+House I-PER house 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Karen I-PER karen 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Institutional O institutional 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1190 O x1190 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Holifield B-PER holifield 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Brenda I-PER brenda 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Dean O dean 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Nursing O nursing 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Allied O allied 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Health O health 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+and O and 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Health O health 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Physical O physical 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Recreation O recreation 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 0
+Health O health 0 1 0 0 0 0 1 td tr general 10 0
+bholifield@smail.anc.edu O bholifield@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1801 O x1801 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+NAH159 O nah159 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Howard B-PER howard 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Bettie I-PER bettie 0 0 0 0 0 0 1 td tr auto-style26 10 0
+Sue I-PER sue 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Institutional O institutional 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1190 O x1190 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Hunt O hunt 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Dr. O dr. 0 1 0 0 1 0 1 td tr auto-style26 10 0
+Blanche O blanche 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Vice O vice 0 1 0 0 0 0 1 td tr auto-style26 10 2
+President O president 0 1 0 0 0 0 1 td tr auto-style26 10 2
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Community O community 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Relations O relations 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Administration O administration 0 0 0 0 0 0 1 td tr general 10 0
+bhunt@smail.anc.edu O bhunt@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1174 O x1174 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+L46 O l46 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Hutto B-PER hutto 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Ron I-PER ron 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Director O director 0 1 0 0 0 0 1 td tr auto-style26 10 2
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Systems O systems 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Programming/Database O programming/database 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Management O management 0 1 0 0 0 0 1 td tr general 10 0
+Information O information 0 1 0 0 0 0 1 td tr general 10 0
+Technology O technology 0 0 0 0 0 0 1 td tr general 10 0
+Services O services 0 0 0 0 0 0 1 td tr general 10 0
+( O ( 0 0 0 0 0 0 0 td tr general 10 0
+MITS O mits 0 0 0 0 0 0 1 td tr general 10 0
+) O ) 0 0 0 0 0 0 0 td tr general 10 0
+rhutto@smail.anc.edu O rhutto@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1313 O x1313 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+A116 O a116 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+J O j 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Johnson B-PER johnson 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Johnnie I-PER johnnie 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Public O public 0 0 0 0 0 0 1 tr table auto-style26 9 2
+Safety O safety 0 0 0 0 0 0 1 tr table auto-style26 9 2
+Security O security 0 0 0 0 0 0 1 tr table auto-style26 9 2
+Officer O officer 0 0 0 0 0 0 1 tr table auto-style26 9 2
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1190 O x1190 0 0 0 1 0 0 0 tr table auto-style26 9 7
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 7
+
+Jones B-PER jones 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Joseph I-PER joseph 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Computer O computer 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Information O information 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Systems O systems 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+jjones@smail.anc.edu O jjones@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1184 O x1184 0 0 0 1 0 0 0 tr table auto-style26 9 7
+
+B7 O b7 0 0 0 1 0 0 1 tr table auto-style26 9 7
+
+Jones B-PER jones 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+KeTierra I-PER ketierra 0 0 0 0 0 0 1 td tr auto-style26 10 0
+
+Financial O financial 0 0 0 0 0 0 1 tr table auto-style26 9 2
+Aid O aid 0 1 0 0 0 0 1 tr table auto-style26 9 2
+Advisor/Veteran O advisor/veteran 0 0 0 0 0 0 1 tr table auto-style26 9 2
+Affairs O affairs 0 0 0 0 0 0 1 tr table auto-style26 9 2
+Representative O representative 0 0 0 0 0 0 1 tr table auto-style26 9 2
+Student O student 0 1 0 0 0 0 1 td tr general 10 0
+Affairs O affairs 0 0 0 0 0 0 1 td tr general 10 0
+/ O / 0 0 0 0 0 0 0 tr table auto-style26 9 5
+Financial O financial 0 0 0 0 0 0 1 td tr general 10 1
+Aid O aid 0 1 0 0 0 0 1 td tr general 10 1
+kjones@smail.anc.edu O kjones@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1062 O x1062 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+S121 O s121 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Jones O jones 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Dr. O dr. 0 1 0 0 1 0 1 td tr auto-style26 10 0
+Lisa O lisa 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Degree O degree 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Nursing O nursing 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 0
+Health O health 0 1 0 0 0 0 1 td tr general 10 0
+ljones@smail.anc.edu O ljones@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1813 O x1813 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+NAH171 O nah171 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Jones B-PER jones 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Maci I-PER maci 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Pathways O pathways 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Advisor O advisor 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Career O career 0 0 0 0 0 0 1 td tr general 10 0
+Pathways O pathways 0 0 0 0 0 0 1 td tr general 10 0
+mjones@smail.anc.edu O mjones@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1189 O x1189 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+B15 O b15 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+K O k 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+John B-PER john 1 1 0 0 0 0 1 td tr auto-style26 10 0
+Kelly I-PER kelly 1 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Coordinator O coordinator 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Adult O adult 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Adult O adult 0 0 0 0 0 0 1 td tr general 10 0
+Education O education 0 0 0 0 0 0 1 td tr general 10 0
+jkelly@smail.anc.edu O jkelly@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1937 O x1937 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+L48 O l48 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Kemper B-PER kemper 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Dustin I-PER dustin 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Professor O professor 0 0 0 0 1 0 1 td tr auto-style26 10 2
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 2
+History O history 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+dkemper@smail.anc.edu O dkemper@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1171 O x1171 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+C5 O c5 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Kemper B-PER kemper 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Gail I-PER gail 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+I O i 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Management O management 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Information O information 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Technology O technology 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+( O ( 0 0 0 0 0 0 0 td tr auto-style26 10 2
+MITS O mits 0 0 0 0 0 0 1 td tr auto-style26 10 2
+) O ) 0 0 0 0 0 0 0 td tr auto-style26 10 2
+
+Management O management 0 1 0 0 0 0 1 td tr general 10 0
+Information O information 0 1 0 0 0 0 1 td tr general 10 0
+Technology O technology 0 0 0 0 0 0 1 td tr general 10 0
+Services O services 0 0 0 0 0 0 1 td tr general 10 0
+( O ( 0 0 0 0 0 0 0 td tr general 10 0
+MITS O mits 0 0 0 0 0 0 1 td tr general 10 0
+) O ) 0 0 0 0 0 0 0 td tr general 10 0
+gkemper@smail.anc.edu O gkemper@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1165 O x1165 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+A112 O a112 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Kennedy B-PER kennedy 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Danny I-PER danny 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Plant O plant 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Director O director 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+dkennedy@smail.anc.edu O dkennedy@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1196 O x1196 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Kennon B-PER kennon 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Courtney I-PER courtney 0 1 0 0 0 0 1 td tr auto-style26 10 0
+Nicki I-PER nicki 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Advisor O advisor 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Educational O educational 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Talent O talent 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Search O search 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+TRiO O trio 0 0 0 0 0 0 1 td tr general 10 0
+ckennon@smail.anc.edu O ckennon@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1424 O x1424 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+B13 O b13 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Klein B-PER klein 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Cameron I-PER cameron 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+English O english 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+cklein@smail.anc.edu O cklein@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1210 O x1210 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+C3 O c3 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+L O l 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Langley B-PER langley 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Kyra I-PER kyra 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 1
+Professor O professor 0 0 0 0 1 0 1 td tr auto-style26 10 1
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 1
+Nursing O nursing 0 1 0 0 0 0 1 td tr auto-style26 10 1
+& O & 0 0 0 0 0 0 0 td tr auto-style26 10 1
+Allied O allied 0 0 0 0 0 0 1 td tr auto-style26 10 1
+Health O health 0 1 0 0 0 0 1 td tr auto-style26 10 1
+
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 0
+Health O health 0 1 0 0 0 0 1 td tr general 10 0
+klangley@smail.anc.edu O klangley@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1525 O x1525 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+NAH164 O nah164 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Lewis B-PER lewis 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Brad I-PER brad 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Computer O computer 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Support O support 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Management O management 0 1 0 0 0 0 1 td tr general 10 0
+Information O information 0 1 0 0 0 0 1 td tr general 10 0
+Technology O technology 0 0 0 0 0 0 1 td tr general 10 0
+Services O services 0 0 0 0 0 0 1 td tr general 10 0
+( O ( 0 0 0 0 0 0 0 td tr general 10 0
+MITS O mits 0 0 0 0 0 0 1 td tr general 10 0
+) O ) 0 0 0 0 0 0 0 td tr general 10 0
+blewis@smail.anc.edu O blewis@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1111 O x1111 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+A113 O a113 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Lewis B-PER lewis 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Leslie I-PER leslie 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Retention O retention 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Coordinator O coordinator 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Student O student 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Support O support 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+TRiO O trio 0 0 0 0 0 0 1 td tr general 10 0
+llewis@smail.anc.edu O llewis@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1243 O x1243 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Briggs/Sebaugh O briggs/sebaugh 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Wellness O wellness 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Lowe B-PER lowe 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Rosemary I-PER rosemary 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Registrar O registrar 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Student O student 0 1 0 0 0 0 1 td tr general 10 0
+Affairs O affairs 0 0 0 0 0 0 1 td tr general 10 0
+/ O / 0 0 0 0 0 0 0 tr table auto-style26 9 6
+Student O student 0 1 0 0 0 0 1 td tr general 10 1
+Services O services 0 0 0 0 0 0 1 td tr general 10 1
+rlowe@smail.anc.edu O rlowe@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1105 O x1105 0 0 0 1 0 0 0 tr table auto-style26 9 9
+
+S117 O s117 0 0 0 1 0 0 1 tr table auto-style26 9 9
+
+M O m 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Mabry B-PER mabry 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Ana I-PER ana 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Library O library 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Support O support 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Library O library 0 0 0 0 0 0 1 td tr general 10 0
+amabry@smail.anc.edu O amabry@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1231 O x1231 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Library O library 0 0 0 0 0 0 1 tr table auto-style26 9 8
+
+Marshall B-PER marshall 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Rene I-PER rene 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Fiscal O fiscal 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Support O support 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Business O business 0 0 0 0 0 0 1 td tr general 10 0
+Office O office 0 0 0 0 0 0 1 td tr general 10 0
+rmarshall@smail.anc.edu O rmarshall@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1135 O x1135 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+A103 O a103 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+McClain B-PER mcclain 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+James I-PER james 0 1 0 0 0 0 1 td tr auto-style26 10 0
+W. I-PER w. 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Vice O vice 0 1 0 0 0 0 1 td tr auto-style26 10 2
+President O president 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Management O management 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Information O information 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Technology O technology 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+( O ( 0 0 0 0 0 0 0 td tr auto-style26 10 2
+MITS O mits 0 0 0 0 0 0 1 td tr auto-style26 10 2
+) O ) 0 0 0 0 0 0 0 td tr auto-style26 10 2
+/Student O /student 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Affairs O affairs 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Administration O administration 0 0 0 0 0 0 1 td tr general 10 0
+/ O / 0 0 0 0 0 0 0 tr table auto-style26 9 6
+Student O student 0 1 0 0 0 0 1 td tr general 10 1
+Affairs O affairs 0 0 0 0 0 0 1 td tr general 10 1
+/ O / 0 0 0 0 0 0 0 tr table auto-style26 9 6
+Management O management 0 1 0 0 0 0 1 td tr general 10 2
+Information O information 0 1 0 0 0 0 1 td tr general 10 2
+Technology O technology 0 0 0 0 0 0 1 td tr general 10 2
+Services O services 0 0 0 0 0 0 1 td tr general 10 2
+( O ( 0 0 0 0 0 0 0 td tr general 10 2
+MITS O mits 0 0 0 0 0 0 1 td tr general 10 2
+) O ) 0 0 0 0 0 0 0 td tr general 10 2
+jmcclain@smail.anc.edu O jmcclain@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1002 O x1002 0 0 0 1 0 0 0 tr table auto-style26 9 10
+
+A118 O a118 0 0 0 1 0 0 1 tr table auto-style26 9 10
+
+McCone B-PER mccone 0 0 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Debra I-PER debra 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Institutional O institutional 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1420 O x1420 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Burdette O burdette 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+McCord B-PER mccord 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Matt I-PER matt 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Director O director 0 1 0 0 0 0 1 td tr auto-style26 10 2
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Health O health 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Wellness O wellness 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+and O and 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Recreation O recreation 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 0
+Health O health 0 1 0 0 0 0 1 td tr general 10 0
+mmccord@smail.anc.edu O mmccord@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1528 O x1528 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+838 O 838 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+2914 O 2914 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+W100 O w100 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Briggs/Sebaugh O briggs/sebaugh 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Wellness O wellness 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+McGaughy B-PER mcgaughy 0 1 0 0 0 0 1 td tr auto-style37 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style37 10 0
+Kiesha I-PER kiesha 0 0 0 0 0 0 1 td tr auto-style37 10 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style37 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style37 10 2
+II O ii 0 1 0 0 0 0 1 td tr auto-style37 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style37 10 2
+Crisp O crisp 0 1 0 0 0 0 1 td tr auto-style37 10 2
+Center O center 0 1 0 0 0 0 1 td tr auto-style37 10 2
+
+The O the 0 1 0 0 0 0 1 td tr general 10 0
+Solutions O solutions 0 0 0 0 0 0 1 td tr general 10 0
+Group O group 0 1 0 0 0 0 1 td tr general 10 0
+kmcgaughy@smail.anc.edu O kmcgaughy@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1600 O x1600 0 0 0 1 0 0 0 tr table auto-style37 9 8
+
+Harry O harry 0 1 0 0 0 0 1 tr table auto-style37 9 8
+L. O l. 0 1 0 0 0 0 1 tr table auto-style37 9 8
+Crisp O crisp 0 1 0 0 0 0 1 tr table auto-style37 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style37 9 8
+
+McGee B-PER mcgee 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Kammie I-PER kammie 0 0 0 0 0 0 1 td tr auto-style26 10 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+II O ii 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Vice O vice 0 1 0 0 0 0 1 td tr auto-style26 10 2
+President O president 0 1 0 0 0 0 1 td tr auto-style26 10 2
+for O for 0 1 0 0 0 0 0 td tr auto-style26 10 2
+College O college 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Readiness O readiness 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+kmcgee@smail.anc.edu O kmcgee@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1048 O x1048 0 0 0 1 0 0 0 tr table auto-style26 9 7
+
+A219 O a219 0 0 0 1 0 0 1 tr table auto-style26 9 7
+
+x1404 O x1404 0 0 0 1 0 0 0 tr table auto-style26 9 7
+
+Burdette O burdette 0 1 0 0 0 0 1 tr table auto-style26 9 7
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 7
+
+McGhee B-PER mcghee 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Lisa I-PER lisa 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Director O director 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Student O student 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Support O support 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+TRiO O trio 0 0 0 0 0 0 1 td tr general 10 0
+lmcghee@smail.anc.edu O lmcghee@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1238 O x1238 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Briggs/Sebaugh O briggs/sebaugh 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Wellness O wellness 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Meador B-PER meador 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Ruby I-PER ruby 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Dean O dean 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Management O management 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Information O information 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Technology O technology 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+( O ( 0 0 0 0 0 0 0 td tr auto-style26 10 2
+MITS O mits 0 0 0 0 0 0 1 td tr auto-style26 10 2
+) O ) 0 0 0 0 0 0 0 td tr auto-style26 10 2
+
+Management O management 0 1 0 0 0 0 1 td tr general 10 0
+Information O information 0 1 0 0 0 0 1 td tr general 10 0
+Technology O technology 0 0 0 0 0 0 1 td tr general 10 0
+Services O services 0 0 0 0 0 0 1 td tr general 10 0
+( O ( 0 0 0 0 0 0 0 td tr general 10 0
+MITS O mits 0 0 0 0 0 0 1 td tr general 10 0
+) O ) 0 0 0 0 0 0 0 td tr general 10 0
+rmeador@smail.anc.edu O rmeador@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1150 O x1150 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+A115 O a115 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Mills B-PER mills 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Carol I-PER carol 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Coordinator O coordinator 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Academic O academic 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Technology/Distance O technology/distance 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+cmills@smail.anc.edu O cmills@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1207 O x1207 0 0 0 1 0 0 0 tr table auto-style26 9 7
+
+B205 O b205 0 0 0 1 0 0 1 tr table auto-style26 9 7
+
+Mills B-PER mills 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Mintha I-PER mintha 0 0 0 0 0 0 1 td tr auto-style26 10 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+I O i 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Nursing O nursing 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 0
+Health O health 0 1 0 0 0 0 1 td tr general 10 0
+mmills@smail.anc.edu O mmills@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1830 O x1830 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+NAH142 O nah142 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Mills B-PER mills 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Timothy I-PER timothy 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Public O public 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Safety O safety 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Security O security 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Officer O officer 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1426 O x1426 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Burdette O burdette 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Morris B-PER morris 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Lance I-PER lance 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Professor O professor 0 0 0 0 1 0 1 td tr auto-style26 10 2
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Biology O biology 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+lmorris@smail.anc.edu O lmorris@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1149 O x1149 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+C107 O c107 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+N O n 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Neil B-PER neil 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Jackson I-PER jackson 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Advising O advising 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Nursing O nursing 0 1 0 0 0 0 1 td tr auto-style26 10 2
+& O & 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Allied O allied 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Health O health 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Advising O advising 0 0 0 0 0 0 1 td tr general 10 0
+Center O center 0 1 0 0 0 0 1 td tr general 10 0
+/ O / 0 0 0 0 0 0 0 tr table auto-style26 9 6
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 1
+& O & 0 0 0 0 0 0 0 td tr general 10 1
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 1
+Health O health 0 1 0 0 0 0 1 td tr general 10 1
+jneil@smail.anc.edu O jneil@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1806 O x1806 0 0 0 1 0 0 0 tr table auto-style26 9 9
+
+S150 O s150 0 0 0 1 0 0 1 tr table auto-style26 9 9
+
+Nutt B-PER nutt 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+April I-PER april 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Degree O degree 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Nursing O nursing 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 0
+Health O health 0 1 0 0 0 0 1 td tr general 10 0
+anutt@smail.anc.edu O anutt@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1757 O x1757 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Paragould O paragould 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+O O o 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Odom B-PER odom 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+James I-PER james 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Director O director 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Academic O academic 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Technology O technology 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Management O management 0 1 0 0 0 0 1 td tr general 10 0
+Information O information 0 1 0 0 0 0 1 td tr general 10 0
+Technology O technology 0 0 0 0 0 0 1 td tr general 10 0
+Services O services 0 0 0 0 0 0 1 td tr general 10 0
+( O ( 0 0 0 0 0 0 0 td tr general 10 0
+MITS O mits 0 0 0 0 0 0 1 td tr general 10 0
+) O ) 0 0 0 0 0 0 0 td tr general 10 0
+jodom@smail.anc.edu O jodom@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1182 O x1182 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+A114 O a114 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+P O p 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Pankey B-PER pankey 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Tonya I-PER tonya 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr auto-style26 10 1
+Professor O professor 0 0 0 0 1 0 1 td tr auto-style26 10 1
+and O and 0 1 0 0 0 0 0 td tr auto-style26 10 1
+Director O director 0 1 0 0 0 0 1 td tr auto-style26 10 1
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 1
+Associate O associate 0 1 0 0 0 0 1 td tr auto-style26 10 1
+Degree O degree 0 0 0 0 0 0 1 td tr auto-style26 10 1
+Nursing O nursing 0 1 0 0 0 0 1 td tr auto-style26 10 1
+
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 0
+Health O health 0 1 0 0 0 0 1 td tr general 10 0
+tpankey@smail.anc.edu O tpankey@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1811 O x1811 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+780 O 780 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+1223 O 1223 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+NAH172 O nah172 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Parker B-PER parker 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Deborah I-PER deborah 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Vice O vice 0 1 0 0 0 0 1 td tr auto-style26 10 2
+President O president 0 1 0 0 0 0 1 td tr auto-style26 10 2
+/ O / 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Chief O chief 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Academic O academic 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Officer O officer 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Administration O administration 0 0 0 0 0 0 1 td tr general 10 0
+dparker@smail.anc.edu O dparker@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1125 O x1125 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+A211 O a211 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Linam B-PER linam 0 0 0 0 0 0 1 td tr auto-style26 10 0
+Parks I-PER parks 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Pauline I-PER pauline 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Career O career 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Pathways O pathways 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Program O program 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Director O director 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Career O career 0 0 0 0 0 0 1 td tr general 10 0
+Pathways O pathways 0 0 0 0 0 0 1 td tr general 10 0
+plinam@smail.anc.edu O plinam@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1752 O x1752 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Paragould O paragould 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+B8 O b8 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Main O main 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Campus O campus 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Pelts B-PER pelts 0 0 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+William I-PER william 1 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Welding O welding 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Secondary O secondary 0 0 0 0 0 0 1 td tr general 10 0
+Center O center 0 1 0 0 0 0 1 td tr general 10 0
+wpelts@smail.anc.edu O wpelts@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1449 O x1449 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Burdette O burdette 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Peridore B-PER peridore 0 0 0 0 0 0 1 td tr auto-style37 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style37 10 0
+Emily I-PER emily 0 1 0 0 1 0 1 td tr auto-style37 10 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style37 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style37 10 2
+II O ii 0 1 0 0 0 0 1 td tr auto-style37 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style37 10 2
+Student O student 0 1 0 0 0 0 1 td tr auto-style37 10 2
+Affairs O affairs 0 0 0 0 0 0 1 td tr auto-style37 10 2
+
+Student O student 0 1 0 0 0 0 1 td tr general 10 0
+Affairs O affairs 0 0 0 0 0 0 1 td tr general 10 0
+/ O / 0 0 0 0 0 0 0 tr table auto-style37 9 6
+Student O student 0 1 0 0 0 0 1 td tr general 10 1
+Services O services 0 0 0 0 0 0 1 td tr general 10 1
+eperidore@smail.anc.edu O eperidore@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1103 O x1103 0 0 0 1 0 0 0 tr table auto-style37 9 9
+
+Statehouse O statehouse 0 0 0 0 0 0 1 tr table auto-style37 9 9
+Hall O hall 0 1 0 0 0 0 1 tr table auto-style37 9 9
+
+Perkins B-PER perkins 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Ryan I-PER ryan 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Professor O professor 0 0 0 0 1 0 1 td tr auto-style26 10 2
+and O and 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Coordinator O coordinator 0 0 0 0 0 0 1 td tr auto-style26 10 2
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+rperkins@smail.anc.edu O rperkins@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1220 O x1220 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+B112 O b112 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Pillow B-PER pillow 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Regina I-PER regina 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+I O i 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Faculty O faculty 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 0
+Health O health 0 1 0 0 0 0 1 td tr general 10 0
+/ O / 0 0 0 0 0 0 0 tr table auto-style26 9 6
+Paragould O paragould 0 0 0 0 0 0 1 td tr general 10 1
+Center O center 0 1 0 0 0 0 1 td tr general 10 1
+rpillow@smail.anc.edu O rpillow@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1000 O x1000 0 0 0 1 0 0 0 tr table auto-style26 9 9
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 9
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 9
+239 O 239 0 0 0 1 0 0 0 tr table auto-style26 9 9
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 9
+3200 O 3200 0 0 0 1 0 0 0 tr table auto-style26 9 9
+
+Paragould O paragould 0 0 0 0 0 0 1 tr table auto-style26 9 9
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 9
+
+Prater B-PER prater 0 1 0 0 0 0 1 td tr auto-style37 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style37 10 0
+Sarah I-PER sarah 0 1 0 0 0 0 1 td tr auto-style37 10 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style37 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style37 10 2
+II O ii 0 1 0 0 0 0 1 td tr auto-style37 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style37 10 2
+Student O student 0 1 0 0 0 0 1 td tr auto-style37 10 2
+Affairs O affairs 0 0 0 0 0 0 1 td tr auto-style37 10 2
+
+Student O student 0 1 0 0 0 0 1 td tr general 10 0
+Affairs O affairs 0 0 0 0 0 0 1 td tr general 10 0
+/ O / 0 0 0 0 0 0 0 tr table auto-style37 9 6
+Student O student 0 1 0 0 0 0 1 td tr general 10 1
+Services O services 0 0 0 0 0 0 1 td tr general 10 1
+sprater@smail.anc.edu O sprater@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1068 O x1068 0 0 0 1 0 0 0 tr table auto-style37 9 9
+
+Statehouse O statehouse 0 0 0 0 0 0 1 tr table auto-style37 9 9
+Hall O hall 0 1 0 0 0 0 1 tr table auto-style37 9 9
+
+R O r 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Raines B-PER raines 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Brandon I-PER brandon 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Restaurant O restaurant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Kitchen O kitchen 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Manager O manager 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+- O - 0 0 0 0 0 0 0 td tr general 10 0
+- O - 0 0 0 0 0 0 0 a td auto-style35 11 0
+braines@smail.anc.edu O braines@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1214 O x1214 0 0 0 1 0 0 0 tr table auto-style26 9 10
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 10
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 10
+780 O 780 0 0 0 1 0 0 0 tr table auto-style26 9 10
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 10
+1259 O 1259 0 0 0 1 0 0 0 tr table auto-style26 9 10
+
+Sunshine O sunshine 0 1 0 0 0 0 1 tr table auto-style26 9 10
+Grille/Student O grille/student 0 0 0 0 0 0 1 tr table auto-style26 9 10
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 10
+
+Ray B-PER ray 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+S. I-PER s. 1 1 0 0 0 0 1 td tr auto-style26 10 0
+Don I-PER don 1 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Vice O vice 0 1 0 0 0 0 1 td tr auto-style26 10 2
+President O president 0 1 0 0 0 0 1 td tr auto-style26 10 2
+for O for 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Administration O administration 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Administration O administration 0 0 0 0 0 0 1 td tr general 10 0
+dray@smail.anc.edu O dray@smail.anc.edu 0 0 1 0 1 0 0 td tr general 10 0
+
+x1122 O x1122 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+A217 O a217 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Rayder B-PER rayder 0 0 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Layne I-PER layne 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Life O life 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Sciences O sciences 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+lrayder@smail.anc.edu O lrayder@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1179 O x1179 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+C13 O c13 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Reid B-PER reid 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Renea I-PER renea 0 0 0 0 0 0 1 td tr auto-style26 10 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+rreid@smail.anc.edu O rreid@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1221 O x1221 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+C10 O c10 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+S O s 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Samford B-PER samford 0 0 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Lanice I-PER lanice 0 0 0 0 0 0 1 td tr auto-style26 10 0
+
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Professor O professor 0 0 0 0 1 0 1 td tr auto-style26 10 2
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 2
+English O english 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+csamford@smail.anc.edu O csamford@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1522 O x1522 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+B9 O b9 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Scott B-PER scott 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Susie I-PER susie 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Career O career 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Coach O coach 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Career O career 0 0 0 0 0 0 1 td tr general 10 0
+Coach O coach 0 1 0 0 0 0 1 td tr general 10 0
+sscott@smail.anc.edu O sscott@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+838 O 838 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+9904 O 9904 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Semmel B-PER semmel 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Robert I-PER robert 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Leadership O leadership 0 0 0 0 0 0 1 td tr auto-style26 10 2
+& O & 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Performance O performance 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Industrial O industrial 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Instructional O instructional 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+The O the 0 1 0 0 0 0 1 td tr general 10 0
+Solutions O solutions 0 0 0 0 0 0 1 td tr general 10 0
+Group O group 0 1 0 0 0 0 1 td tr general 10 0
+rsemmel@smail.anc.edu O rsemmel@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1603 O x1603 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Harry O harry 0 1 0 0 0 0 1 tr table auto-style26 9 8
+L. O l. 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Crisp O crisp 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Shemwell O shemwell 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Dr. O dr. 0 1 0 0 1 0 1 td tr auto-style26 10 0
+Bridget O bridget 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+ACE O ace 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Center O center 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Director O director 0 1 0 0 0 0 1 td tr auto-style26 10 2
+and O and 0 1 0 0 0 0 0 td tr auto-style26 10 2
+CTE O cte 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Advising O advising 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Advising O advising 0 0 0 0 0 0 1 td tr general 10 0
+Center O center 0 1 0 0 0 0 1 td tr general 10 0
+bshemwell@smail.anc.edu O bshemwell@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1045 O x1045 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+S151 O s151 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Shemwell O shemwell 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Dr. O dr. 0 1 0 0 1 0 1 td tr auto-style26 10 0
+James O james 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+President O president 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Administration O administration 0 0 0 0 0 0 1 td tr general 10 0
+jshemwell@smail.anc.edu O jshemwell@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+Siegler B-PER siegler 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Brooke I-PER brooke 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Advisor O advisor 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Educational O educational 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Talent O talent 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Search O search 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+TRiO O trio 0 0 0 0 0 0 1 td tr general 10 0
+bsiegler@smail.anc.edu O bsiegler@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1422 O x1422 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+B11 O b11 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Sikes B-PER sikes 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Bobby I-PER bobby 0 1 0 0 0 0 1 td tr auto-style26 10 0
+Lynn I-PER lynn 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+EMS O ems 0 0 0 0 1 0 1 td tr auto-style26 10 2
+Program O program 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Director/Instructor O director/instructor 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 0
+Health O health 0 1 0 0 0 0 1 td tr general 10 0
+bsikes@smail.anc.edu O bsikes@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1807 O x1807 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+780 O 780 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+1254 O 1254 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+NAH165 O nah165 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Singleton B-PER singleton 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Robin I-PER robin 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Dean O dean 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Effectiveness O effectiveness 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Assessment O assessment 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+and O and 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Planning O planning 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+rsingleton@smail.anc.edu O rsingleton@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1177 O x1177 0 0 0 1 0 0 0 tr table auto-style26 9 7
+
+B1 O b1 0 0 0 1 0 0 1 tr table auto-style26 9 7
+
+Smith B-PER smith 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Lana I-PER lana 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Payroll O payroll 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Business O business 0 0 0 0 0 0 1 td tr general 10 0
+Office O office 0 0 0 0 0 0 1 td tr general 10 0
+lsmith@smail.anc.edu O lsmith@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1137 O x1137 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+A107 O a107 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Sones B-PER sones 0 0 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Rick I-PER rick 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Industrial O industrial 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Technical O technical 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Skills O skills 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Electrical O electrical 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Systems O systems 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+The O the 0 1 0 0 0 0 1 td tr general 10 0
+Solutions O solutions 0 0 0 0 0 0 1 td tr general 10 0
+Group O group 0 1 0 0 0 0 1 td tr general 10 0
+rsones@smail.anc.edu O rsones@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1613 O x1613 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Harry O harry 0 1 0 0 0 0 1 tr table auto-style26 9 8
+L. O l. 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Crisp O crisp 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Steinkamp B-PER steinkamp 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Billie I-PER billie 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+bsteinkamp@smail.anc.edu O bsteinkamp@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1163 O x1163 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+C12 O c12 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Stubblefield B-PER stubblefield 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Debbie I-PER debbie 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Medical O medical 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Professions O professions 0 0 0 0 1 0 1 td tr auto-style26 10 2
+
+Secondary O secondary 0 0 0 0 0 0 1 td tr general 10 0
+Center O center 0 1 0 0 0 0 1 td tr general 10 0
+dstubblefield@smail.anc.edu O dstubblefield@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1438 O x1438 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+x1441 O x1441 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Burdette O burdette 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+T O t 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Thomasson B-PER thomasson 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Emily I-PER emily 0 1 0 0 1 0 1 td tr auto-style26 10 0
+
+Mathematics O mathematics 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+ethomasson@smail.anc.edu O ethomasson@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1181 O x1181 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+C11 O c11 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Tippy B-PER tippy 0 0 0 0 0 0 1 strong td auto-style30 11 0
+, I-PER , 0 0 0 0 0 0 0 strong td auto-style30 11 0
+Jessica I-PER jessica 0 1 0 0 0 0 1 strong td auto-style30 11 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style33 10 3
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style33 10 3
+I O i 0 1 0 0 0 0 1 td tr auto-style33 10 3
+, O , 0 0 0 0 0 0 0 td tr auto-style33 10 3
+Educational O educational 0 0 0 0 0 0 1 td tr auto-style33 10 3
+Talent O talent 0 1 0 0 0 0 1 td tr auto-style33 10 3
+Search O search 0 0 0 0 0 0 1 td tr auto-style33 10 3
+
+TRiO O trio 0 0 0 0 0 0 1 td tr general 10 0
+jtippy@smail.anc.edu O jtippy@smail.anc.edu 0 0 1 0 0 0 0 a td auto-style30 11 0
+
+x1425 O x1425 0 0 0 1 0 0 0 td tr auto-style30 10 2
+
+B116 O b116 0 0 0 1 0 0 1 td tr auto-style30 10 2
+
+Tipton B-PER tipton 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Jaye I-PER jaye 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Coordinator O coordinator 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Osceola O osceola 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Center O center 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Osceola O osceola 0 0 0 0 0 0 1 td tr general 10 0
+Center O center 0 1 0 0 0 0 1 td tr general 10 0
+jtipton@smail.anc.edu O jtipton@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1301 O x1301 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Osceola O osceola 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Tolson B-PER tolson 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Cheryl I-PER cheryl 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Human O human 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Resources O resources 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Human O human 0 1 0 0 0 0 1 td tr general 10 0
+Resources O resources 0 0 0 0 0 0 1 td tr general 10 0
+ctolson@smail.anc.edu O ctolson@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1123 O x1123 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+A103 O a103 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Turner B-PER turner 1 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Catalina I-PER catalina 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Institutional O institutional 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1190 O x1190 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Turner B-PER turner 1 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+LeAnna I-PER leanna 0 0 0 0 0 0 1 td tr auto-style26 10 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+I O i 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Faculty O faculty 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+lturner@smail.anc.edu O lturner@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1175 O x1175 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+C109 O c109 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Tyer B-PER tyer 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Bill I-PER bill 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Health O health 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Physical O physical 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+and O and 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Recreation O recreation 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 0
+Health O health 0 1 0 0 0 0 1 td tr general 10 0
+btyer@smail.anc.edu O btyer@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1516 O x1516 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+762 O 762 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+3157 O 3157 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+W103 O w103 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Briggs/Sebaugh O briggs/sebaugh 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Wellness O wellness 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+V O v 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Vail B-PER vail 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Patricia I-PER patricia 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Education O education 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Advisor O advisor 0 0 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Educational O educational 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Opportunity O opportunity 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Center O center 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+TRiO O trio 0 0 0 0 0 0 1 td tr general 10 0
+pvail@smail.anc.edu O pvail@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1143 O x1143 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+S115 O s115 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Vega B-PER vega 0 1 0 0 0 0 1 td tr auto-style26 10 0
+- I-PER - 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Trejo I-PER trejo 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Veronica I-PER veronica 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Institutional O institutional 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Services O services 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1190 O x1190 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+W O w 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Walker B-PER walker 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Keisha I-PER keisha 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Practical O practical 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Nursing O nursing 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 0
+Health O health 0 1 0 0 0 0 1 td tr general 10 0
+kwalker@smail.anc.edu O kwalker@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x O x 0 1 0 0 0 0 0 tr table auto-style26 9 8
+
+NAH162 O nah162 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Walker B-PER walker 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Marilyn I-PER marilyn 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+II O ii 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Vice O vice 0 1 0 0 0 0 1 td tr auto-style26 10 2
+President O president 0 1 0 0 0 0 1 td tr auto-style26 10 2
+for O for 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Finance O finance 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+mwalker@smail.anc.edu O mwalker@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1128 O x1128 0 0 0 1 0 0 0 tr table auto-style26 9 7
+
+A217 O a217 0 0 0 1 0 0 1 tr table auto-style26 9 7
+
+Walker B-PER walker 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Mindy I-PER mindy 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Director O director 0 1 0 0 0 0 1 td tr auto-style26 10 2
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Financial O financial 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Aid O aid 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Student O student 0 1 0 0 0 0 1 td tr general 10 0
+Affairs O affairs 0 0 0 0 0 0 1 td tr general 10 0
+/ O / 0 0 0 0 0 0 0 tr table auto-style26 9 6
+Financial O financial 0 0 0 0 0 0 1 td tr general 10 1
+Aid O aid 0 1 0 0 0 0 1 td tr general 10 1
+mjwalker@smail.anc.edu O mjwalker@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1116 O x1116 0 0 0 1 0 0 0 tr table auto-style26 9 9
+
+S120 O s120 0 0 0 1 0 0 1 tr table auto-style26 9 9
+
+Walker B-PER walker 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Stacey I-PER stacey 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Coordinator O coordinator 0 0 0 0 0 0 1 td tr auto-style26 10 2
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Industrial O industrial 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Training O training 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+The O the 0 1 0 0 0 0 1 td tr general 10 0
+Solutions O solutions 0 0 0 0 0 0 1 td tr general 10 0
+Group O group 0 1 0 0 0 0 1 td tr general 10 0
+swalker@smail.anc.edu O swalker@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1605 O x1605 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Harry O harry 0 1 0 0 0 0 1 tr table auto-style26 9 8
+L. O l. 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Crisp O crisp 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Wallace B-PER wallace 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Kim I-PER kim 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Degree O degree 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Nursing O nursing 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 0
+Health O health 0 1 0 0 0 0 1 td tr general 10 0
+kwallace@smail.anc.edu O kwallace@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1814 O x1814 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+824 O 824 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+6257 O 6257 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+NAH169 O nah169 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Walters B-PER walters 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+June I-PER june 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Executive O executive 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Vice O vice 0 1 0 0 0 0 1 td tr auto-style26 10 2
+President/Chief O president/chief 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Academic O academic 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Officer O officer 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Administration O administration 0 0 0 0 0 0 1 td tr general 10 0
+jwalters@smail.anc.edu O jwalters@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1106 O x1106 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+A212 O a212 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Weldon B-PER weldon 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Charles I-PER charles 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Maintenance O maintenance 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Assistant O assistant 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1190 O x1190 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Williams B-PER williams 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Larry I-PER larry 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Public O public 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Safety O safety 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Security O security 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Officer O officer 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1190 O x1190 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Williams B-PER williams 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Willie I-PER willie 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Success O success 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Navigator O navigator 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 6
+wwilliams@smail.anc.edu O wwilliams@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1244 O x1244 0 0 0 1 0 0 0 tr table auto-style26 9 7
+
+S151 O s151 0 0 0 1 0 0 1 tr table auto-style26 9 7
+
+Wilson B-PER wilson 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Carl I-PER carl 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Public O public 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Safety O safety 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Security O security 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Officer O officer 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Physical O physical 0 0 0 0 0 0 1 td tr general 10 0
+Plant O plant 0 1 0 0 0 0 1 td tr general 10 0
+x1190 O x1190 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+D4 O d4 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Wilson B-PER wilson 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Latanya I-PER latanya 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+I O i 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+ACME O acme 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Aviation O aviation 0 0 0 0 0 0 1 td tr general 10 0
+Maintenance O maintenance 0 0 0 0 0 0 1 td tr general 10 0
+lwilson@smail.anc.edu O lwilson@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+870 O 870 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+762 O 762 0 0 0 1 0 0 0 tr table auto-style26 9 8
+- O - 0 0 0 0 0 0 0 tr table auto-style26 9 8
+2726 O 2726 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+ACME O acme 0 0 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Wilson B-PER wilson 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Sally I-PER sally 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Advanced O advanced 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Manufacturing/Mechatronics O manufacturing/mechatronics 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Secondary O secondary 0 0 0 0 0 0 1 td tr general 10 0
+Center O center 0 1 0 0 0 0 1 td tr general 10 0
+swilson@smail.anc.edu O swilson@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1434 O x1434 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+Burdette O burdette 0 1 0 0 0 0 1 tr table auto-style26 9 8
+Center O center 0 1 0 0 0 0 1 tr table auto-style26 9 8
+
+Winchester B-PER winchester 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Shauna I-PER shauna 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Degree O degree 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Nursing O nursing 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+Nursing O nursing 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Allied O allied 0 0 0 0 0 0 1 td tr general 10 0
+Health O health 0 1 0 0 0 0 1 td tr general 10 0
+swinchester@smail.anc.edu O swinchester@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1810 O x1810 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+NAH168 O nah168 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Winford B-PER winford 0 0 0 0 0 0 1 td tr auto-style26 10 0
+, I-PER , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Regina I-PER regina 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Administrative O administrative 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Specialist O specialist 0 0 0 0 0 0 1 td tr auto-style26 10 2
+I O i 0 1 0 0 0 0 1 td tr auto-style26 10 2
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 2
+Educational O educational 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Opportunity O opportunity 0 0 0 0 0 0 1 td tr auto-style26 10 2
+Center O center 0 1 0 0 0 0 1 td tr auto-style26 10 2
+
+TRiO O trio 0 0 0 0 0 0 1 td tr general 10 0
+rwinford@smail.anc.edu O rwinford@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1428 O x1428 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+B116 O b116 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Y O y 0 1 0 0 0 0 1 strong td auto-style31 11 0
+
+[ O [ 0 0 0 0 0 0 0 td tr auto-style30 10 3
+TOP O top 0 0 0 0 0 0 1 span td general 11 0
+OF O of 0 0 0 0 0 0 1 span td general 11 0
+PAGE O page 0 0 0 0 0 0 1 span td general 11 0
+] O ] 0 0 0 0 0 0 0 td tr auto-style30 10 3
+
+Yarbrough O yarbrough 0 1 0 0 0 0 1 td tr auto-style26 10 0
+, O , 0 0 0 0 0 0 0 td tr auto-style26 10 0
+Dr. O dr. 0 1 0 0 1 0 1 td tr auto-style26 10 0
+Gary O gary 0 1 0 0 0 0 1 td tr auto-style26 10 0
+
+Associate O associate 0 1 0 0 0 0 1 td tr auto-style26 10 2
+Professor O professor 0 0 0 0 1 0 1 td tr auto-style26 10 2
+of O of 0 1 0 0 0 0 0 td tr auto-style26 10 2
+Psychology O psychology 0 0 0 0 0 0 1 td tr auto-style26 10 2
+
+Arts O arts 0 1 0 0 0 0 1 td tr general 10 0
+& O & 0 0 0 0 0 0 0 td tr general 10 0
+Sciences O sciences 0 0 0 0 0 0 1 td tr general 10 0
+gyarbrough@smail.anc.edu O gyarbrough@smail.anc.edu 0 0 1 0 0 0 0 td tr general 10 0
+
+x1170 O x1170 0 0 0 1 0 0 0 tr table auto-style26 9 8
+
+C8 O c8 0 0 0 1 0 0 1 tr table auto-style26 9 8
+
+Site O site 0 1 0 0 0 0 1 form div visuallyhidden 9 0
+Search O search 0 0 0 0 0 0 1 form div visuallyhidden 9 0
+: O : 0 0 0 0 0 0 0 form div visuallyhidden 9 0
+
+• O • 0 0 0 0 0 0 0 td tr auto-style12 7 11
+A O a 0 1 0 0 0 0 1 td tr side_nav 7 12
+- O - 0 0 0 0 0 0 0 td tr side_nav 7 12
+Z O z 0 1 0 0 0 0 1 td tr side_nav 7 12
+INDEX O index 0 0 0 0 0 0 1 td tr side_nav 7 12
+
+• O • 0 0 0 0 0 0 0 td tr auto-style12 7 11
+ANC O anc 0 0 0 0 0 0 1 a td side_nav 8 0
+HOME O home 0 0 0 0 0 0 1 a td side_nav 8 0
+
+• O • 0 0 0 0 0 0 0 td tr auto-style12 7 11
+ACADEMICS O academics 0 0 0 0 0 0 1 td tr side_nav 7 19
+
+• O • 0 0 0 0 0 0 0 td tr auto-style12 7 11
+ADMISSIONS O admissions 0 0 0 0 0 0 1 a td side_nav 8 0
+
+• O • 0 0 0 0 0 0 0 td tr auto-style12 7 11
+ANC O anc 0 0 0 0 0 0 1 a td side_nav 8 0
+FOUNDATION O foundation 0 0 0 0 0 0 1 a td side_nav 8 0
+
+• O • 0 0 0 0 0 0 0 td tr auto-style12 7 11
+BUSINESS/INDUSTRY O business/industry 0 0 0 0 0 0 1 a td side_nav 8 0
+TRAINING O training 0 0 0 0 0 0 1 a td side_nav 8 0
+
+• O • 0 0 0 0 0 0 0 td tr auto-style12 7 11
+CONTACT O contact 0 0 0 0 0 0 1 td tr side_nav 7 34
+US O us 0 0 0 0 0 0 1 td tr side_nav 7 34
+
+• O • 0 0 0 0 0 0 0 td tr auto-style12 7 11
+COMMUNITY O community 0 0 0 0 0 0 1 span td side_nav 8 0
+EDUCATION O education 0 0 0 0 0 0 1 span td side_nav 8 0
+
+• O • 0 0 0 0 0 0 0 td tr auto-style12 7 11
+EMPLOYMENT O employment 0 0 0 0 1 0 1 td tr side_nav 7 41
+OPPORTUNITIES O opportunities 0 0 0 0 0 0 1 td tr side_nav 7 41
+
+• O • 0 0 0 0 0 0 0 td tr auto-style12 7 11
+PROSPECTIVE O prospective 0 0 0 0 0 0 1 td tr side_nav 7 44
+STUDENTS O students 0 0 0 0 0 0 1 td tr side_nav 7 44
+
+• O • 0 0 0 0 0 0 0 td tr auto-style12 7 11
+UNIVERSITY O university 0 0 0 0 0 0 1 a td side_nav 8 0
+CENTER O center 0 0 0 0 0 0 1 a td side_nav 8 0
+
+PRIVACY O privacy 0 0 0 0 0 0 1 td tr foot_nav 7 1
+POLICY O policy 0 0 0 0 0 0 1 td tr foot_nav 7 1
+· O · 0 0 0 0 0 0 0 tr table auto-style13 6 1
+EMERGENCY O emergency 0 0 0 0 1 0 1 td tr foot_nav 7 2
+INFORMATION O information 0 0 0 0 0 0 1 td tr foot_nav 7 2
+· O · 0 0 0 0 0 0 0 tr table auto-style13 6 1
+ANC O anc 0 0 0 0 0 0 1 td tr foot_nav 7 3
+MISSION O mission 0 0 0 0 1 0 1 td tr foot_nav 7 3
+STATEMENT O statement 0 0 0 0 0 0 1 td tr foot_nav 7 3
+
+Arkansas O arkansas 0 0 0 0 0 0 1 strong td foot_nav 8 0
+Northeastern O northeastern 0 0 0 0 0 0 1 strong td foot_nav 8 0
+College O college 0 0 0 0 0 0 1 strong td foot_nav 8 0
+
+2501 O 2501 0 0 0 1 0 0 0 tr table auto-style13 6 1
+South O south 0 1 0 0 0 0 1 tr table auto-style13 6 1
+Division O division 0 0 0 0 0 0 1 tr table auto-style13 6 1
+Street O street 0 1 0 0 0 0 1 tr table auto-style13 6 1
+
+Blytheville O blytheville 0 0 0 0 0 0 1 tr table auto-style13 6 1
+, O , 0 0 0 0 0 0 0 tr table auto-style13 6 1
+Arkansas O arkansas 0 0 0 0 0 0 1 tr table auto-style13 6 1
+72351 O 72351 0 0 0 1 0 0 0 tr table auto-style13 6 1
+
+870 O 870 0 0 0 1 0 0 0 td tr auto-style13 7 21
+- O - 0 0 0 0 0 0 0 td tr auto-style13 7 21
+762 O 762 0 0 0 1 0 0 0 td tr auto-style13 7 21
+- O - 0 0 0 0 0 0 0 td tr auto-style13 7 21
+1020 O 1020 0 0 0 1 0 0 0 td tr auto-style13 7 21
