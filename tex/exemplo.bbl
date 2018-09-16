@@ -1,0 +1,200 @@
+\begin{thebibliography}{10}
+
+\bibitem{Kushmerick2000}
+Nicholas Kushmerick.
+\newblock {Wrapper induction: efficiency and expressiveness}.
+\newblock {\em Artificial Intelligence}, 118(1-2):15--68, 2000.
+
+\bibitem{Hsu1998}
+Chun~Nan Hsu and Ming~Tzung Dung.
+\newblock {Generating finite-state transducers for semi-structured data
+  extraction from the Web}.
+\newblock {\em Information Systems}, 23(8):521--538, 1998.
+
+\bibitem{Muslea1999}
+Ion Muslea, Steve Minton, and Craig Knoblock.
+\newblock {A Hierarchical Approach to Wrapper Induction}.
+\newblock {\em Proc. of the Third Annual Conf. on Autonomous Agents, ACM},
+  pages 190--197, 1999.
+
+\bibitem{Adelberg1998}
+Brad Adelberg.
+\newblock {NoDoSE---a tool for semi-automatically extracting structured and
+  semistructured data from text documents}.
+\newblock {\em ACM SIGMOD Record}, 27(2):283--294, 1998.
+
+\bibitem{Laender2002a}
+Alberto H~F Laender, Berthier Ribeiro-Neto, and Altigran~S da~Silva.
+\newblock {DEByE - Date extraction by example}.
+\newblock {\em Data Knowl. Eng.}, 40(2):121--154, 2002.
+
+\bibitem{Crescenzi2001}
+Valter Crescenzi, Giansalvatore Mecca, and Paolo Merialdo.
+\newblock {Roadrunner: Towards automatic data extraction from large web sites}.
+\newblock {\em Proceedings of the 27th International Conference on Very Large
+  Data Bases}, pages 109--118, 2001.
+
+\bibitem{Califf1999}
+Mary~Elaine Califf and Raymond~J Mooney.
+\newblock {Relational learning of pattern-match rules for information
+  extraction}.
+\newblock {\em Computational Linguistics}, 4:9--15, 1999.
+
+\bibitem{Laender2002}
+A.H.F. Laender, B.~A. Ribeiro-Neto, and Juliana S.Teixeria.
+\newblock {A brief survey of web data extraction tools}.
+\newblock {\em ACM SIGMOD Record 31(2)}, pages 84--93, 2002.
+
+\bibitem{Hammer1997}
+Joachim Hammer, Jason Mchugh, and Hector Garcia-molina.
+\newblock {Semistructured Data : The TSIMMIS Experience}.
+\newblock {\em Proceedings of the First East-European Symposium on Advances in
+  Databases and Information Systems}, pages 1--8, 1997.
+
+\bibitem{Arocena1999}
+Gustavo~O. Arocena and Alberto~O. Mendelzon.
+\newblock {WebOQL: Restructuring documents, databases, and webs}.
+\newblock {\em Theory and Practice of Object Systems}, 5(3):127--141, 1999.
+
+\bibitem{Liu2000}
+L.~Liu, C.~Pu, and W.~Han.
+\newblock {XWRAP: an XML-enabled wrapper construction system for Web
+  information sources}.
+\newblock {\em Proceedings of 16th International Conference on Data
+  Engineering}, pages 611--621, 2000.
+
+\bibitem{Sahuguet1999}
+Arnaud Sahuguet and Fabien Azavant.
+\newblock {Building light-weight wrappers for legacy Web data-sources using
+  W4F}.
+\newblock {\em Proceedings of the 25th VLDB Conference}, 99:738--741, 1999.
+
+\bibitem{Freitag1998}
+Dayne Freitag.
+\newblock {Information Extraction from HTML: Application of a General Machine
+  Learning Approach}.
+\newblock {\em Proceedings of the Fifteenth National/Tenth Conference on
+  Artificial Intelligence/Innovative Applications of Artificial Intelligence},
+  pages 517--523, 1998.
+
+\bibitem{Soderland1999}
+Stephen Soderland.
+\newblock {Learning Information Extraction Rules for Semi-Structured and Free
+  Text}.
+\newblock {\em Machine Learning}, 34(1):233--272, 1999.
+
+\bibitem{Chang2006}
+Chia-Hui Chang, Mohammed Kayed, Moheb~Ramzy Girgis, and Khaled~F Shaalan.
+\newblock {A Survey of Web Information Extraction Systems}.
+\newblock {\em IEEE Transactions on Knowledge and Data Engineering},
+  18(10):1411--1428, 2006.
+
+\bibitem{Hogue2005}
+Andrew Hogue and David Karger.
+\newblock {Thresher : Automating the Unwrapping of Semantic Content from the
+  World Wide Web}.
+\newblock {\em WWW '05: Proceedings of the 14th international conference on
+  World Wide Web}, pages 86--95, 2005.
+
+\bibitem{Chang2001}
+C.H. Chang, C.H. Chang, S.C. Lui, and S.C. Lui.
+\newblock {IEPAD: information extraction based on pattern discovery}.
+\newblock {\em Proceedings of the 10th international conference on World Wide
+  Web}, pages 681--688, 2001.
+
+\bibitem{Chang2004}
+Chia~Hui Chang and Shih~Chien Kuo.
+\newblock {OLERA: Semisupervised Web-data extraction with visual support}.
+\newblock {\em IEEE Intelligent Systems}, 19(6):56--64, 2004.
+
+\bibitem{Wang2003}
+Jiying Wang and Fred~H. Lochovsky.
+\newblock {Data extraction and label assignment for web databases}.
+\newblock {\em Proceedings of the twelfth international conference on World
+  Wide Web - WWW '03}, page 187, 2003.
+
+\bibitem{Arasu2003}
+A.~Arasu, H.~Garcia-Molina, Arvind Arasu, and Hector Garcia-Molina.
+\newblock {Extracting structured data from Web pages}.
+\newblock {\em 2003 ACM SIGMOD International Conference on Management of Data},
+  pages 337 -- 348, 2003.
+
+\bibitem{Zhai2005}
+Yanhong Zhai and Bing Liu.
+\newblock {Web data extraction based on partial tree alignment}.
+\newblock {\em Proceedings of the 14th international conference on World Wide
+  Web - WWW '05}, page~76, 2005.
+
+\bibitem{Sarawagi2008}
+Sunita Sarawagi.
+\newblock {Information extraction}.
+\newblock {\em Foundations and Trends in Databases}, 1(3):261--377, 2008.
+
+\bibitem{Ferrara2014}
+Emilio Ferrara, Pasquale {De Meo}, Giacomo Fiumara, and Robert Baumgartner.
+\newblock {Web data extraction, applications and techniques: A survey}.
+\newblock {\em Knowledge-Based Systems}, 70:301--323, 2014.
+
+\bibitem{Schulz2016}
+Andreas Schulz, J{\"{o}}rg L{\"{a}}ssig, and Martin Gaedke.
+\newblock {Practical web data extraction: Are we there yet? --- A short
+  survey}.
+\newblock {\em IEEE/WIC/ACM International Conference on Web Intelligence (WI),
+  2016}, pages 562----567, 2016.
+
+\bibitem{Krupl2005}
+Bernhard Kr{\"{u}}pl, Marcus Herzog, and Wolfgang Gatterbauer.
+\newblock {Using visual cues for extraction of tabular data from arbitrary HTML
+  documents}.
+\newblock {\em Special interest tracks and posters of the 14th international
+  conference on World Wide Web - WWW '05}, pages 1000----1001, 2005.
+
+\bibitem{Ferrara2011}
+Emilio Ferrara and Robert Baumgartner.
+\newblock {Automatic wrapper adaptation by tree edit distance matching}.
+\newblock {\em Smart Innovation, Systems and Technologies}, 8:41--54, 2011.
+
+\bibitem{Shi2015}
+Shengsheng Shi, Chengfei Liu, Yi~Shen, Chunfeng Yuan, and Yihua Huang.
+\newblock {AutoRM: An effective approach for automatic Web data record mining}.
+\newblock {\em Knowledge-Based Systems}, 89:314--331, 2015.
+
+\bibitem{Dong2014}
+Xin Dong, Evgeniy Gabrilovich, Geremy Heitz, Wilko Horn, Ni~Lao, Kevin Murphy,
+  Thomas Strohmann, Shaohua Sun, and Wei Zhang.
+\newblock {Knowledge vault: a web-scale approach to probabilistic knowledge
+  fusion}.
+\newblock {\em Proceedings of the 20th ACM SIGKDD international conference on
+  Knowledge discovery and data mining - KDD '14}, pages 601--610, 2014.
+
+\bibitem{Varlamov2016}
+M.~I. Varlamov and D.~Yu. Turdakov.
+\newblock {A survey of methods for the extraction of information from Web
+  resources}.
+\newblock {\em Programming and Computer Software}, 42(5):279--291, 2016.
+
+\bibitem{Kao2010}
+Huan-An Kao and Hsin-Hsi Chen.
+\newblock {Comment Extraction from Blog Posts and Its Applications to Opinion
+  Mining}.
+\newblock {\em Proceedings of the 7th International Conference on Language
+  Resources and Evaluation}, pages 1113--1120, 2010.
+
+\bibitem{Su2009}
+Weifeng Su and Frederick~H Lochvsky.
+\newblock {ODE : Ontology-assisted Data Extraction}.
+\newblock 1(212), 2009.
+
+\bibitem{Abdessalem2010}
+Talel Abdessalem, B~Cautis, and Nora Derouiche.
+\newblock {ObjectRunner: lightweight, targeted extraction and querying of
+  structured web data}.
+\newblock {\em Proceedings of the VLDB {\ldots}}, 3(2):1585--1588, 2010.
+
+\bibitem{Furche2012}
+Tim Furche, Georg Gottlob, Giovanni Grasso, Giorgio Orsi, Christian Schallhart,
+  and Cheng Wang.
+\newblock {AMBER: Automatic Supervision for Multi-Attribute Extraction}.
+\newblock {\em arXiv preprint}, 1210(5984):1--22, 2012.
+
+\end{thebibliography}

@@ -1,0 +1,900 @@
+================================
+
+Model: nb
+Use features: False
+Self train: False
+----------------
+
+----------------
+Validate
+----------------
+Accuracy: 0.5822094369933126
+Precision: 0.33240911891558844
+Recall: 0.6219020172910663
+F1: 0.433246336077093
+Correct: 1079
+Incorrect: 2167
+Missed: 656
+
+----------------
+Test
+----------------
+Accuracy: 0.605385680130867
+Precision: 0.4328049620951068
+Recall: 0.8475033738191633
+F1: 0.572992700729927
+Correct: 1884
+Incorrect: 2469
+Missed: 339
+
+Time elapsed: 11.754138469696045 seconds.
+
+================================
+================================
+
+Model: hmm-1
+Use features: False
+Self train: False
+----------------
+
+----------------
+Validate
+----------------
+Accuracy: 0.6789703739679456
+Precision: 0.2742727616169248
+Recall: 0.41844380403458215
+F1: 0.3313555454130534
+Correct: 726
+Incorrect: 1921
+Missed: 1009
+
+----------------
+Test
+----------------
+Accuracy: 0.7048697621744054
+Precision: 0.44119025304592313
+Recall: 0.8470535312640576
+F1: 0.5801879525496841
+Correct: 1883
+Incorrect: 2385
+Missed: 340
+
+Time elapsed: 16.826810359954834 seconds.
+
+================================
+================================
+
+Model: hmm-2
+Use features: False
+Self train: False
+----------------
+
+----------------
+Validate
+----------------
+Accuracy: 0.6620839092912915
+Precision: 0.3107187112763321
+Recall: 0.5780979827089338
+F1: 0.4041910134998993
+Correct: 1003
+Incorrect: 2225
+Missed: 732
+
+----------------
+Test
+----------------
+Accuracy: 0.7004655844972946
+Precision: 0.43885379061371843
+Recall: 0.8749437696806118
+F1: 0.5845229151014276
+Correct: 1945
+Incorrect: 2487
+Missed: 278
+
+Time elapsed: 27.41452431678772 seconds.
+
+================================
+================================
+
+Model: hmm-3
+Use features: False
+Self train: False
+----------------
+
+----------------
+Validate
+----------------
+Accuracy: 0.6452348040497627
+Precision: 0.26785714285714285
+Recall: 0.4668587896253602
+F1: 0.3404076486656861
+Correct: 810
+Incorrect: 2214
+Missed: 925
+
+----------------
+Test
+----------------
+Accuracy: 0.7082421039385932
+Precision: 0.40888066604995377
+Recall: 0.7953216374269005
+F1: 0.5400946998625324
+Correct: 1768
+Incorrect: 2556
+Missed: 455
+
+Time elapsed: 80.97329831123352 seconds.
+
+================================
+================================
+
+Model: hmm-4
+Use features: False
+Self train: False
+----------------
+
+----------------
+Validate
+----------------
+Accuracy: 0.6383606679867
+Precision: 0.24201787994891444
+Recall: 0.43688760806916427
+F1: 0.3114855146907746
+Correct: 758
+Incorrect: 2374
+Missed: 977
+
+----------------
+Test
+----------------
+Accuracy: 0.7001132502831257
+Precision: 0.40114285714285713
+Recall: 0.7894736842105263
+F1: 0.5319793876932404
+Correct: 1755
+Incorrect: 2620
+Missed: 468
+
+Time elapsed: 373.41993284225464 seconds.
+
+================================
+================================
+
+Model: maxent
+Use features: False
+Self train: False
+----------------
+
+Epoch: 0, Loss: 0.077250, F1: 0.090266 - IMPROVED
+Epoch: 1, Loss: 0.047929, F1: 0.083333 
+Epoch: 2, Loss: 0.039134, F1: 0.097508 - IMPROVED
+Epoch: 3, Loss: 0.034265, F1: 0.123601 - IMPROVED
+Epoch: 4, Loss: 0.031153, F1: 0.153040 - IMPROVED
+Epoch: 5, Loss: 0.028995, F1: 0.190622 - IMPROVED
+Epoch: 6, Loss: 0.027413, F1: 0.210421 - IMPROVED
+Epoch: 7, Loss: 0.026203, F1: 0.224206 - IMPROVED
+Epoch: 8, Loss: 0.025249, F1: 0.235468 - IMPROVED
+Epoch: 9, Loss: 0.024478, F1: 0.242780 - IMPROVED
+----------------
+Validate
+----------------
+Accuracy: 0.8640116561437591
+Precision: 0.8051948051948052
+Recall: 0.14293948126801154
+F1: 0.2427802251590798
+Correct: 248
+Incorrect: 60
+Missed: 1487
+
+----------------
+Test
+----------------
+Accuracy: 0.899307914936454
+Precision: 0.8162162162162162
+Recall: 0.203778677462888
+F1: 0.32613390928725705
+Correct: 453
+Incorrect: 102
+Missed: 1770
+
+Time elapsed: 101.26841378211975 seconds.
+
+================================
+================================
+
+Model: crf
+Use features: False
+Self train: False
+----------------
+
+Epoch: 0, Loss: 1.414855, F1: 0.532965 - IMPROVED
+Epoch: 1, Loss: 0.559192, F1: 0.626791 - IMPROVED
+Epoch: 2, Loss: 0.489393, F1: 0.638554 - IMPROVED
+Epoch: 3, Loss: 0.452193, F1: 0.712944 - IMPROVED
+Epoch: 4, Loss: 0.428755, F1: 0.714717 - IMPROVED
+Epoch: 5, Loss: 0.411754, F1: 0.747082 - IMPROVED
+Epoch: 6, Loss: 0.399743, F1: 0.752501 - IMPROVED
+Epoch: 7, Loss: 0.390873, F1: 0.744611 
+Epoch: 8, Loss: 0.383929, F1: 0.755384 - IMPROVED
+Epoch: 9, Loss: 0.377840, F1: 0.740911 
+----------------
+Validate
+----------------
+Accuracy: 0.9449695520603728
+Precision: 0.8539244186046512
+Recall: 0.6772334293948127
+F1: 0.7553841208614593
+Correct: 1175
+Incorrect: 201
+Missed: 560
+
+----------------
+Test
+----------------
+Accuracy: 0.966452749465207
+Precision: 0.8982777179763186
+Recall: 0.750787224471435
+F1: 0.8179367802009311
+Correct: 1669
+Incorrect: 189
+Missed: 554
+
+Time elapsed: 119.86565208435059 seconds.
+
+================================
+================================
+
+Model: lstm-crf
+Use features: False
+Self train: False
+----------------
+
+Epoch: 0, Loss: 1.693857, F1: 0.421007 - IMPROVED
+Epoch: 1, Loss: 0.449468, F1: 0.648513 - IMPROVED
+Epoch: 2, Loss: 0.342110, F1: 0.722129 - IMPROVED
+Epoch: 3, Loss: 0.294363, F1: 0.739980 - IMPROVED
+Epoch: 4, Loss: 0.259971, F1: 0.726905 
+Epoch: 5, Loss: 0.232329, F1: 0.763803 - IMPROVED
+Epoch: 6, Loss: 0.215608, F1: 0.788921 - IMPROVED
+Epoch: 7, Loss: 0.199969, F1: 0.812167 - IMPROVED
+Epoch: 8, Loss: 0.185385, F1: 0.834048 - IMPROVED
+Epoch: 9, Loss: 0.174353, F1: 0.810421 
+----------------
+Validate
+----------------
+Accuracy: 0.9624537676990323
+Precision: 0.8896146309601568
+Recall: 0.785014409221902
+F1: 0.8340477648499693
+Correct: 1362
+Incorrect: 169
+Missed: 373
+
+----------------
+Test
+----------------
+Accuracy: 0.975688939222348
+Precision: 0.9116625310173697
+Recall: 0.8263607737291948
+F1: 0.8669183577159038
+Correct: 1837
+Incorrect: 178
+Missed: 386
+
+Time elapsed: 279.12800097465515 seconds.
+
+================================
+================================
+
+Model: lstm-crf-cnn
+Use features: False
+Self train: False
+----------------
+
+Epoch: 0, Loss: 1.988793, F1: 0.456900 - IMPROVED
+Epoch: 1, Loss: 0.441726, F1: 0.701549 - IMPROVED
+Epoch: 2, Loss: 0.335542, F1: 0.801151 - IMPROVED
+Epoch: 3, Loss: 0.279865, F1: 0.836137 - IMPROVED
+Epoch: 4, Loss: 0.239392, F1: 0.832548 
+Epoch: 5, Loss: 0.219657, F1: 0.815453 
+Epoch: 6, Loss: 0.202677, F1: 0.856086 - IMPROVED
+Epoch: 7, Loss: 0.181934, F1: 0.827039 
+Epoch: 8, Loss: 0.171174, F1: 0.883403 - IMPROVED
+Epoch: 9, Loss: 0.162330, F1: 0.881295 
+----------------
+Validate
+----------------
+Accuracy: 0.9710837972129861
+Precision: 0.9127228027043639
+Recall: 0.8559077809798271
+F1: 0.883402736466389
+Correct: 1485
+Incorrect: 142
+Missed: 250
+
+----------------
+Test
+----------------
+Accuracy: 0.9804706178432113
+Precision: 0.9216783216783216
+Recall: 0.8893387314439946
+F1: 0.9052197802197802
+Correct: 1977
+Incorrect: 168
+Missed: 246
+
+Time elapsed: 684.271228313446 seconds.
+
+================================
+================================
+
+Model: lstm-crf-lstm
+Use features: False
+Self train: False
+----------------
+
+Epoch: 0, Loss: 1.752591, F1: 0.696373 - IMPROVED
+Epoch: 1, Loss: 0.370536, F1: 0.786242 - IMPROVED
+Epoch: 2, Loss: 0.267588, F1: 0.796421 - IMPROVED
+Epoch: 3, Loss: 0.219384, F1: 0.779440 
+Epoch: 4, Loss: 0.202195, F1: 0.798589 - IMPROVED
+Epoch: 5, Loss: 0.181527, F1: 0.846320 - IMPROVED
+Epoch: 6, Loss: 0.153531, F1: 0.787720 
+Epoch: 7, Loss: 0.146024, F1: 0.778843 
+Epoch: 8, Loss: 0.137272, F1: 0.861221 - IMPROVED
+Epoch: 9, Loss: 0.129912, F1: 0.820692 
+----------------
+Validate
+----------------
+Accuracy: 0.9662644300818172
+Precision: 0.9101412066752247
+Recall: 0.8172910662824208
+F1: 0.8612207713331309
+Correct: 1418
+Incorrect: 140
+Missed: 317
+
+----------------
+Test
+----------------
+Accuracy: 0.9855794639486599
+Precision: 0.9380410022779043
+Recall: 0.926225820962663
+F1: 0.9320959710276143
+Correct: 2059
+Incorrect: 136
+Missed: 164
+
+Time elapsed: 417.1035273075104 seconds.
+
+================================
+================================
+
+Model: nb
+Use features: True
+Self train: False
+----------------
+
+----------------
+Validate
+----------------
+Accuracy: 0.8405125714499196
+Precision: 0.8835316217908579
+Recall: 0.813256484149856
+F1: 0.8469387755102041
+Correct: 1411
+Incorrect: 186
+Missed: 324
+
+----------------
+Test
+----------------
+Accuracy: 0.8495784572794766
+Precision: 0.8624612202688728
+Recall: 0.7503373819163293
+F1: 0.8025018041857108
+Correct: 1668
+Incorrect: 266
+Missed: 555
+
+Time elapsed: 11.55952000617981 seconds.
+
+================================
+================================
+
+Model: hmm-1
+Use features: True
+Self train: False
+----------------
+
+----------------
+Validate
+----------------
+Accuracy: 0.9272611798109612
+Precision: 0.8456221198156681
+Recall: 0.8461095100864553
+F1: 0.8458657447421493
+Correct: 1468
+Incorrect: 268
+Missed: 267
+
+----------------
+Test
+----------------
+Accuracy: 0.9217566377249277
+Precision: 0.8416230366492147
+Recall: 0.8677462887989204
+F1: 0.8544850498338871
+Correct: 1929
+Incorrect: 363
+Missed: 294
+
+Time elapsed: 14.164687156677246 seconds.
+
+================================
+================================
+
+Model: hmm-2
+Use features: True
+Self train: False
+----------------
+
+----------------
+Validate
+----------------
+Accuracy: 0.9305488101019913
+Precision: 0.7905158936946326
+Recall: 0.8743515850144092
+F1: 0.8303229337712097
+Correct: 1517
+Incorrect: 402
+Missed: 218
+
+----------------
+Test
+----------------
+Accuracy: 0.9287278218195546
+Precision: 0.8202614379084967
+Recall: 0.9032838506522717
+F1: 0.8597730678655535
+Correct: 2008
+Incorrect: 440
+Missed: 215
+
+Time elapsed: 26.23942255973816 seconds.
+
+================================
+================================
+
+Model: hmm-3
+Use features: True
+Self train: False
+----------------
+
+----------------
+Validate
+----------------
+Accuracy: 0.9183322748160048
+Precision: 0.6947477899115965
+Recall: 0.770028818443804
+F1: 0.7304537998906506
+Correct: 1336
+Incorrect: 587
+Missed: 399
+
+----------------
+Test
+----------------
+Accuracy: 0.9245501447086951
+Precision: 0.7839506172839507
+Recall: 0.8569500674763832
+F1: 0.8188265635074145
+Correct: 1905
+Incorrect: 525
+Missed: 318
+
+Time elapsed: 79.40670990943909 seconds.
+
+================================
+================================
+
+Model: hmm-4
+Use features: True
+Self train: False
+----------------
+
+----------------
+Validate
+----------------
+Accuracy: 0.917585086113498
+Precision: 0.7267932489451476
+Recall: 0.7942363112391931
+F1: 0.7590195538419169
+Correct: 1378
+Incorrect: 518
+Missed: 357
+
+----------------
+Test
+----------------
+Accuracy: 0.925053479300365
+Precision: 0.7995049504950495
+Recall: 0.8717948717948718
+F1: 0.8340865074241446
+Correct: 1938
+Incorrect: 486
+Missed: 285
+
+Time elapsed: 358.52560901641846 seconds.
+
+================================
+================================
+
+Model: maxent
+Use features: True
+Self train: False
+----------------
+
+Epoch: 0, Loss: 0.065459, F1: 0.114868 - IMPROVED
+Epoch: 1, Loss: 0.037343, F1: 0.126798 - IMPROVED
+Epoch: 2, Loss: 0.030639, F1: 0.150131 - IMPROVED
+Epoch: 3, Loss: 0.027146, F1: 0.210526 - IMPROVED
+Epoch: 4, Loss: 0.024959, F1: 0.243830 - IMPROVED
+Epoch: 5, Loss: 0.023458, F1: 0.292146 - IMPROVED
+Epoch: 6, Loss: 0.022358, F1: 0.325560 - IMPROVED
+Epoch: 7, Loss: 0.021518, F1: 0.350365 - IMPROVED
+Epoch: 8, Loss: 0.020850, F1: 0.368730 - IMPROVED
+Epoch: 9, Loss: 0.020306, F1: 0.392540 - IMPROVED
+----------------
+Validate
+----------------
+Accuracy: 0.8765270669107483
+Precision: 0.8549323017408124
+Recall: 0.2547550432276657
+F1: 0.39253996447602124
+Correct: 442
+Incorrect: 75
+Missed: 1293
+
+----------------
+Test
+----------------
+Accuracy: 0.9017490877060526
+Precision: 0.8485273492286115
+Recall: 0.2721547458389564
+F1: 0.41212534059945505
+Correct: 605
+Incorrect: 108
+Missed: 1618
+
+Time elapsed: 111.89721775054932 seconds.
+
+================================
+================================
+
+Model: crf
+Use features: True
+Self train: False
+----------------
+
+Epoch: 0, Loss: 1.059768, F1: 0.799743 - IMPROVED
+Epoch: 1, Loss: 0.378899, F1: 0.843963 - IMPROVED
+Epoch: 2, Loss: 0.321983, F1: 0.871733 - IMPROVED
+Epoch: 3, Loss: 0.292854, F1: 0.884431 - IMPROVED
+Epoch: 4, Loss: 0.273810, F1: 0.892518 - IMPROVED
+Epoch: 5, Loss: 0.261849, F1: 0.874168 
+Epoch: 6, Loss: 0.252304, F1: 0.893048 - IMPROVED
+Epoch: 7, Loss: 0.243372, F1: 0.891272 
+Epoch: 8, Loss: 0.238037, F1: 0.888158 
+Epoch: 9, Loss: 0.232621, F1: 0.891667 
+----------------
+Validate
+----------------
+Accuracy: 0.976874509657414
+Precision: 0.9215205395462907
+Recall: 0.8662824207492795
+F1: 0.893048128342246
+Correct: 1503
+Incorrect: 128
+Missed: 232
+
+----------------
+Test
+----------------
+Accuracy: 0.9765697747577702
+Precision: 0.9256857855361597
+Recall: 0.8349077822762033
+F1: 0.8779564806054873
+Correct: 1856
+Incorrect: 149
+Missed: 367
+
+Time elapsed: 128.62605047225952 seconds.
+
+================================
+================================
+
+Model: lstm-crf
+Use features: True
+Self train: False
+----------------
+
+Epoch: 0, Loss: 2.071283, F1: 0.693013 - IMPROVED
+Epoch: 1, Loss: 0.385989, F1: 0.842991 - IMPROVED
+Epoch: 2, Loss: 0.288857, F1: 0.839643 
+Epoch: 3, Loss: 0.237476, F1: 0.828625 
+Epoch: 4, Loss: 0.199238, F1: 0.877088 - IMPROVED
+Epoch: 5, Loss: 0.175756, F1: 0.898221 - IMPROVED
+Epoch: 6, Loss: 0.166153, F1: 0.892082 
+Epoch: 7, Loss: 0.145594, F1: 0.897851 
+Epoch: 8, Loss: 0.139601, F1: 0.888693 
+Epoch: 9, Loss: 0.125521, F1: 0.895390 
+----------------
+Validate
+----------------
+Accuracy: 0.9776590577950461
+Precision: 0.9090909090909091
+Recall: 0.8876080691642652
+F1: 0.8982210557013706
+Correct: 1540
+Incorrect: 154
+Missed: 195
+
+----------------
+Test
+----------------
+Accuracy: 0.9820812885365546
+Precision: 0.9277828886844526
+Recall: 0.9073324336482231
+F1: 0.9174437116215601
+Correct: 2017
+Incorrect: 157
+Missed: 206
+
+Time elapsed: 276.78459119796753 seconds.
+
+================================
+================================
+
+Model: lstm-crf-cnn
+Use features: True
+Self train: False
+----------------
+
+Epoch: 0, Loss: 1.487990, F1: 0.789764 - IMPROVED
+Epoch: 1, Loss: 0.367143, F1: 0.841810 - IMPROVED
+Epoch: 2, Loss: 0.268438, F1: 0.828155 
+Epoch: 3, Loss: 0.228937, F1: 0.904478 - IMPROVED
+Epoch: 4, Loss: 0.202753, F1: 0.885385 
+Epoch: 5, Loss: 0.173097, F1: 0.904748 - IMPROVED
+Epoch: 6, Loss: 0.157198, F1: 0.923257 - IMPROVED
+Epoch: 7, Loss: 0.144073, F1: 0.912979 
+Epoch: 8, Loss: 0.128487, F1: 0.897799 
+Epoch: 9, Loss: 0.117999, F1: 0.923032 
+----------------
+Validate
+----------------
+Accuracy: 0.9828520192774686
+Precision: 0.9386539606908875
+Recall: 0.90835734870317
+F1: 0.9232571763327475
+Correct: 1576
+Incorrect: 103
+Missed: 159
+
+----------------
+Test
+----------------
+Accuracy: 0.9835912923115641
+Precision: 0.9407132931912923
+Recall: 0.9136302294197031
+F1: 0.9269739844819717
+Correct: 2031
+Incorrect: 128
+Missed: 192
+
+Time elapsed: 702.6709311008453 seconds.
+
+================================
+================================
+
+Model: lstm-crf-lstm
+Use features: True
+Self train: False
+----------------
+
+Epoch: 0, Loss: 1.632796, F1: 0.824471 - IMPROVED
+Epoch: 1, Loss: 0.338581, F1: 0.763969 
+Epoch: 2, Loss: 0.245115, F1: 0.836722 - IMPROVED
+Epoch: 3, Loss: 0.202067, F1: 0.903473 - IMPROVED
+Epoch: 4, Loss: 0.163861, F1: 0.880169 
+Epoch: 5, Loss: 0.148691, F1: 0.906792 - IMPROVED
+Epoch: 6, Loss: 0.136530, F1: 0.893681 
+Epoch: 7, Loss: 0.118344, F1: 0.883553 
+Epoch: 8, Loss: 0.106000, F1: 0.894487 
+Epoch: 9, Loss: 0.092911, F1: 0.889353 
+----------------
+Validate
+----------------
+Accuracy: 0.9793028729405612
+Precision: 0.9255702280912365
+Recall: 0.8887608069164266
+F1: 0.9067921199647162
+Correct: 1542
+Incorrect: 124
+Missed: 193
+
+----------------
+Test
+----------------
+Accuracy: 0.9855542972190764
+Precision: 0.945124716553288
+Recall: 0.9374718848403059
+F1: 0.9412827461607949
+Correct: 2084
+Incorrect: 121
+Missed: 139
+
+Time elapsed: 427.131511926651 seconds.
+
+================================
+================================
+
+Model: nb
+Use features: True
+Self train: True
+----------------
+
+----------------
+Validate
+----------------
+Accuracy: 0.6016363432584899
+Precision: 0.3658430862592111
+Recall: 0.48645533141210373
+F1: 0.4176150420583869
+Correct: 844
+Incorrect: 1463
+Missed: 891
+
+----------------
+Test
+----------------
+Accuracy: 0.7569397256826476
+Precision: 0.7218821729150727
+Recall: 0.8488529014844804
+F1: 0.780235683274757
+Correct: 1887
+Incorrect: 727
+Missed: 336
+
+Time elapsed: 14.36407208442688 seconds.
+
+================================
+================================
+
+Model: hmm-1
+Use features: True
+Self train: True
+----------------
+
+----------------
+Validate
+----------------
+Accuracy: 0.9236373146038032
+Precision: 0.8165714285714286
+Recall: 0.8236311239193084
+F1: 0.8200860832137732
+Correct: 1429
+Incorrect: 321
+Missed: 306
+
+----------------
+Test
+----------------
+Accuracy: 0.9281489870391343
+Precision: 0.86489898989899
+Recall: 0.9244264507422402
+F1: 0.893672537508154
+Correct: 2055
+Incorrect: 321
+Missed: 168
+
+Time elapsed: 20.57472276687622 seconds.
+
+================================
+================================
+
+Model: hmm-2
+Use features: True
+Self train: True
+----------------
+
+----------------
+Validate
+----------------
+Accuracy: 0.9226659692905443
+Precision: 0.6884210526315789
+Recall: 0.7538904899135447
+F1: 0.7196698762035763
+Correct: 1308
+Incorrect: 592
+Missed: 427
+
+----------------
+Test
+----------------
+Accuracy: 0.935573172266264
+Precision: 0.8509771986970684
+Recall: 0.9401709401709402
+F1: 0.8933532806155162
+Correct: 2090
+Incorrect: 366
+Missed: 133
+
+Time elapsed: 46.125991344451904 seconds.
+
+================================
+================================
+
+Model: hmm-3
+Use features: True
+Self train: True
+----------------
+
+----------------
+Validate
+----------------
+Accuracy: 0.9098143236074271
+Precision: 0.5804929208180388
+Recall: 0.6380403458213256
+F1: 0.6079077429983526
+Correct: 1107
+Incorrect: 800
+Missed: 628
+
+----------------
+Test
+----------------
+Accuracy: 0.9300616584874796
+Precision: 0.8063855914858781
+Recall: 0.8861898335582546
+F1: 0.8444063437633949
+Correct: 1970
+Incorrect: 473
+Missed: 253
+
+Time elapsed: 152.48635339736938 seconds.
+
+================================
+================================
+
+Model: hmm-4
+Use features: True
+Self train: True
+----------------
+
+----------------
+Validate
+----------------
+Accuracy: 0.9085441028131654
+Precision: 0.6327503974562798
+Recall: 0.6881844380403458
+F1: 0.6593042517945887
+Correct: 1194
+Incorrect: 693
+Missed: 541
+
+----------------
+Test
+----------------
+Accuracy: 0.9307914936454008
+Precision: 0.823746918652424
+Recall: 0.9019343229869545
+F1: 0.8610693579557654
+Correct: 2005
+Incorrect: 429
+Missed: 218
+
+Time elapsed: 726.1778044700623 seconds.
+
+================================

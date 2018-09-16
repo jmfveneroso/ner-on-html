@@ -1,0 +1,109 @@
+================================
+
+Model: partial_match
+Use features: False
+Self train: False
+----------------
+
+----------------
+Dev
+----------------
+Accuracy: 0.7643075543887172
+Precision: 0.5627938213566152
+Recall: 0.6804157193894121
+F1: 0.6160405792839815
+Correct: 4190
+Incorrect: 3255
+Missed: 1968
+
+----------------
+Small Dev
+----------------
+Accuracy: 0.7773897693695077
+Precision: 0.5186335403726708
+Recall: 0.5537135278514589
+F1: 0.5355997434252727
+Correct: 835
+Incorrect: 775
+Missed: 673
+
+----------------
+Validate
+----------------
+Accuracy: 0.7777282519872224
+Precision: 0.5153550863723608
+Recall: 0.6190201729106628
+F1: 0.5624509033778476
+Correct: 1074
+Incorrect: 1010
+Missed: 661
+
+----------------
+Test
+----------------
+Accuracy: 0.7716248175917073
+Precision: 0.5399505766062603
+Recall: 0.5897435897435898
+F1: 0.5637497312405934
+Correct: 1311
+Incorrect: 1117
+Missed: 912
+
+Time elapsed: 41.810078859329224 seconds.
+
+================================
+Using TensorFlow backend.
+================================
+
+Model: exact_match
+Use features: False
+Self train: False
+----------------
+
+----------------
+Dev
+----------------
+Accuracy: 0.9258568524180767
+Precision: 0.8504113687359761
+Recall: 0.36927573887625853
+F1: 0.5149456521739131
+Correct: 2274
+Incorrect: 400
+Missed: 3884
+
+----------------
+Small Dev
+----------------
+Accuracy: 0.9113166276526344
+Precision: 0.9034013605442177
+Recall: 0.4403183023872679
+F1: 0.5920641997325011
+Correct: 664
+Incorrect: 71
+Missed: 844
+
+----------------
+Validate
+----------------
+Accuracy: 0.9312458212614219
+Precision: 0.8989205103042198
+Recall: 0.5279538904899136
+F1: 0.6652142338416849
+Correct: 916
+Incorrect: 103
+Missed: 819
+
+----------------
+Test
+----------------
+Accuracy: 0.9147838776229055
+Precision: 0.8369047619047619
+Recall: 0.3162393162393162
+F1: 0.45902709761671573
+Correct: 703
+Incorrect: 137
+Missed: 1520
+
+Time elapsed: 38.60715174674988 seconds.
+
+================================

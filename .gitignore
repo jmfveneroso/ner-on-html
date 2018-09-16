@@ -1,7 +1,8 @@
 *.swp
 *.pyc
-keras_test/venv
-keras_test/models
-keras_test/embeddings
-keras_test/dataset
-datasets
+venv
+models
+embeddings
+dataset
+__pycache__
+model_data

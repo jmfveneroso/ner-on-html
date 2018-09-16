@@ -1,0 +1,260 @@
+Using TensorFlow backend.
+================================
+
+Model: hmm-3
+Use features: True
+Self train: True
+----------------
+
+/home/joao/Code/ner/models/hmm.py:106: RuntimeWarning: invalid value encountered in true_divide
+  self.transition_mat /= np.expand_dims(np.sum(self.transition_mat, axis=1), axis=1)
+Wilhelm Freiherr
+Brianna French
+Katherine Child
+Dickson Poon
+Direito SP Escola
+Brigham Young
+Partial Differential Equations
+Real Estate
+Rebecca English
+III Grant
+Joanna Heery
+Derek Park
+Sue Court
+Georgia Tech
+Shrlin Chiu
+Payment Plans
+El Camino Real
+Fatemeh Child
+Morrison Hall
+Frederick G. Storey
+EESP Escola
+Ph. D.
+Swain West
+Bahaei Reader CTR
+Laurence Tratt Reader SMAL
+Santa Fe
+Vijay Ganesh
+Eugene Tyrtyshnikov
+Lindley Hall
+Robert A. Lucas
+South Holland
+West Virginia
+Gill Barequet
+Lau China
+Cook Music
+Voice Play
+Vasiliy N.
+Marion County
+Harry L. Crisp
+South Carolina
+N. Park
+Fort Smith
+Restaurant Kitchen
+Pat Court
+M. Ed.
+Eric Court
+Regent Court
+GSIS Tohoku Joint
+Park Ave
+Vasilis Friderikos Reader CTR
+Joe Supervisor
+Crisp Center/ACME
+Aleksey V.
+Salem Oregon
+Brad Dean
+Jennifer English
+Max Planck
+Gary Server
+Matais Dean
+Last Name
+Andrew Dean
+M. F. A. Rhode
+Direito de São Paulo
+Stephen Fleming
+Florence Nightingale
+Mount Saint Joseph
+Robert C. Williams Paper
+Georgia Tech Home
+Sunshine Grille/Student
+Ann Arbor
+Simon Miles Reader AIS
+St. M
+Fine Arts/Humanities
+Amanda Coles
+Kazeev V.
+John P. Imlay Jr. Dean
+Sam Nunn
+Penn State
+N. Walnut St.
+Differential Equations
+Miller Center
+Huawei Joint
+Ernest Kamavuako
+St. Vincent
+Bloomington IU Bloomington
+Donna Sr.
+Valery Agoshkov
+Ann Dance
+North Carolina
+Direito Rio Escola de Direito
+Jeffery Raphael
+Michael Fine
+Di Fiore C.
+Yuri Vassilevski
+Lisa Child
+Moorhead State
+Barbara Supervisor
+Tony Real Estate
+Ballentine Hall
+Angel Facilitator
+Register Forget
+Smith Research
+M.C.E. North Carolina
+Mikhalev A.Yu.
+Lucas Hall
+St. Suite
+CHIARA GIOVANNA MORPURGO
+Model Schedules
+Santa Clara
+Tretyakov A.
+EAESP Escola
+Yoka Piano
+Burdette Center
+Summer Camps
+Leslie Child
+N. Woodlawn
+Stacy Co
+Read More
+James H. Rudy
+Agi Kurucz Reader SMAL
+GSIS Summer
+Roberta Child
+Chapel Hill
+N. Park Ave
+Muhammad Asif Junior
+John Park
+FLAVIA MARIA GROPPI
+Ford Hall
+B. Arch
+Sigma Ocean
+Cicely Saunders
+John P. Imlay
+Ming Chuan
+M. B. A. Embry
+Seodaemun Gu
+Ed. D.
+Indiana University Bloomington Indiana
+Northern Colorado
+Allama Iqbal
+GSIS Tohoku
+Vasa Curcin
+Jamia Nama
+Mae Child
+Margaret Court
+Johns Hopkins
+N. Walnut Street
+B. Bangle
+Kevin Lano Reader SMAL
+GIOVANNI ANTONIO
+Gabriele German
+Tohoku Gakuin Junior
+Simon Hall
+Riddle University
+M. Phil
+Robert C. Byrd
+Stephanie Dean
+Maria Fox
+Stony Brook
+Tyrtyshnikov E.
+Tudisco F.
+EMAp Escola
+Ocean County
+Rethinking Macro
+Escola Brasileira
+Whitney Reading
+Russ. J.
+Baier Hall
+Nicole English
+Tsing Hua
+Lettera B
+Linda Court
+Terry Child
+Lisa Reading
+São Paulo
+Marta Coordinator/Counselor
+CPDOC Escola
+Eugene E.
+Elizabeth Sklar
+Michelle Reading
+Huagang Rd.
+Alice Tucker
+Daniele Magazzeni
+John P. Imlay Jr.
+West Liberty
+Lettera A
+Sensory Reception
+Luddy Hall
+St. Scholastica
+B. S.
+Oak Forest
+Von Lee
+James Child
+Bob Jones
+Getulio Vargas
+N. Walnut
+Rio de Janeiro
+Chiao Tung
+Freeman )
+Stony Brooks
+========================
+Agi Kurucz
+BEATRICE SANTA PALANO
+Wilhelm Freiherr von
+ANNA CHIARA GIOVANNA MORPURGO
+MORI Kinji
+FLAVIA MARIA GROPPI GARLANDINI
+Simon Miles
+FURUI Sadaoki
+MOCHIZUKI Masahiro
+Laurence Tratt
+Setukha Aleksey V.
+OZNUR YELDAN
+NUMAO Masayuki
+ANNA GORI
+GIULIA BERTONE
+U Kang
+MARIO NATALINO MALCANGI
+Kevin Lano
+OTTAVIO D'ANTONA
+HIRABAYASHI Akira
+GIOVANNI ANTONIO DEL BENE
+WATANABE Yosuke
+SUZUKI Kazuyoshi
+Muhammad Asif
+MATTEO RE'
+MORIYAMA Kouichi
+ANTONIO LANTERI
+Vasilis Friderikos
+KITAKAMI Masato
+SUZUMURA Toyotaro
+MARCO RIGOLI
+Lykosov Vasiliy N.
+[[2.6634e+04 2.6000e+01 2.1000e+01 1.2000e+01]
+ [4.9900e+02 2.2300e+03 1.3000e+01 0.0000e+00]
+ [5.0400e+02 2.0000e+00 2.6290e+03 1.0000e+00]
+ [9.0600e+02 0.0000e+00 0.0000e+00 6.2790e+03]]
+----------------
+Test
+----------------
+Accuracy: 0.9500955830566455
+Precision: 0.879247572815534
+Recall: 0.9783929777177582
+F1: 0.9261744966442953
+Correct: 1449
+Incorrect: 199
+Missed: 32
+
+Time elapsed: 93.87431192398071 seconds.
+
+================================
