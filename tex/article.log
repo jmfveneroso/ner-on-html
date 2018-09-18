@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.18)  17 SEP 2018 15:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2017.9.18)  18 SEP 2018 17:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**exemplo.tex
-(./exemplo.tex
+**article.tex
+(./article.tex
 LaTeX2e <2016/02/01>
 Babel <3.9q> and hyphenation patterns for 81 language(s) loaded.
 (./acmart.cls
@@ -771,99 +771,135 @@ Package: inputenc 2015/03/17 v1.2c Input encoding file
 (/usr/share/texlive/texmf-dist/tex/latex/base/latin1.def
 File: latin1.def 2015/03/17 v1.2c Input encoding file
 ))
-\c@theorem=\count137
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2015/11/12 v1.18 mathematical typesetting tools
+
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count137
+\calc@Bcount=\count138
+\calc@Adimen=\dimen162
+\calc@Bdimen=\dimen163
+\calc@Askip=\skip87
+\calc@Bskip=\skip88
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count139
+\calc@Cskip=\skip89
+)
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
+Package: mhsetup 2010/01/21 v1.2a programming setup (MH)
+)
+LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
+LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
+\g_MT_multlinerow_int=\count140
+\l_MT_multwidth_dim=\dimen164
+\origjot=\skip90
+\l_MT_shortvdotswithinadjustabove_dim=\dimen165
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen166
+\l_MT_above_intertext_sep=\dimen167
+\l_MT_below_intertext_sep=\dimen168
+\l_MT_above_shortintertext_sep=\dimen169
+\l_MT_below_shortintertext_sep=\dimen170
+)
+(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
+\bigstrutjot=\dimen171
+)
+\c@theorem=\count141
 
 Excluding comment 'screenonly' Include comment 'printonly'
-Include comment 'anonsuppress' (./exemplo.aux)
-\openout1 = `exemplo.aux'.
+Include comment 'anonsuppress' (./article.aux)
+\openout1 = `article.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 23.
-LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 23
+LaTeX Font Info:    Checking defaults for OML/nxlmi/m/it on input line 24.
+LaTeX Font Info:    Try loading font information for OML+nxlmi on input line 24
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/omlnxlmi.fd
 File: omlnxlmi.fd 2013/11/19 Fontinst v1.933 font definitions for OML/nxlmi.
 )
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/ntxsy/m/n on input line 23.
-LaTeX Font Info:    Try loading font information for OMS+ntxsy on input line 23
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMS/ntxsy/m/n on input line 24.
+LaTeX Font Info:    Try loading font information for OMS+ntxsy on input line 24
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/omsntxsy.fd
 File: omsntxsy.fd 2012/11/14 Fontinst v1.933 font definitions for OMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 23.
-LaTeX Font Info:    Try loading font information for U+ntxexa on input line 23.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 24.
+LaTeX Font Info:    Try loading font information for U+ntxexa on input line 24.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 23.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 24.
+LaTeX Font Info:    ... okay on input line 24.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.0pt on input line 23.
+(Font)              scaled to size 7.0pt on input line 24.
 LaTeX Font Info:    Try loading font information for OT1+LinuxLibertineT-TLF on
- input line 23.
+ input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/libertine/OT1LinuxLibertineT-TLF.fd
 File: OT1LinuxLibertineT-TLF.fd 2012/11/26 (autoinst) Font definitions for OT1/
 LinuxLibertineT-TLF.
 )
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 23.
+(Font)              scaled to size 7.3pt on input line 24.
 <<ot1.cmap>>
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 23.
+(Font)              scaled to size 5.5pt on input line 24.
 <<oml.cmap>><<oms.cmap>>
-LaTeX Font Info:    Try loading font information for U+msa on input line 23.
+LaTeX Font Info:    Try loading font information for U+msa on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 23.
+LaTeX Font Info:    Try loading font information for U+msb on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+ntxmia on input line 23.
+LaTeX Font Info:    Try loading font information for U+ntxmia on input line 24.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxmia.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsym on input line 23.
+LaTeX Font Info:    Try loading font information for U+ntxsym on input line 24.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
-LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 23.
+LaTeX Font Info:    Try loading font information for U+ntxsyc on input line 24.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-LaTeX Info: Redefining \microtypecontext on input line 23.
+LaTeX Info: Redefining \microtypecontext on input line 24.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -880,7 +916,7 @@ Package microtype Info: Loading generic settings for font family
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box42
-Package hyperref Info: Link coloring OFF on input line 23.
+Package hyperref Info: Link coloring OFF on input line 24.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -888,29 +924,29 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count138
+\c@section@level=\count142
 )
-LaTeX Info: Redefining \ref on input line 23.
-LaTeX Info: Redefining \pageref on input line 23.
-LaTeX Info: Redefining \nameref on input line 23.
+LaTeX Info: Redefining \ref on input line 24.
+LaTeX Info: Redefining \pageref on input line 24.
+LaTeX Info: Redefining \nameref on input line 24.
 
-(./exemplo.out) (./exemplo.out)
+(./article.out) (./article.out)
 \@outlinefile=\write5
-\openout5 = `exemplo.out'.
+\openout5 = `article.out'.
 
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count139
-\scratchdimen=\dimen162
+\scratchcounter=\count143
+\scratchdimen=\dimen172
 \scratchbox=\box43
-\nofMPsegments=\count140
-\nofMParguments=\count141
+\nofMPsegments=\count144
+\nofMParguments=\count145
 \everyMPshowfont=\toks34
-\MPscratchCnt=\count142
-\MPscratchDim=\dimen163
-\MPnumerator=\count143
-\makeMPintoPDFobject=\count144
+\MPscratchCnt=\count146
+\MPscratchDim=\dimen173
+\MPnumerator=\count147
+\makeMPintoPDFobject=\count148
 \everyMPtoPDFconversion=\toks35
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -961,8 +997,8 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@mv@tabular=\count145
-\c@mv@boldtabular=\count146
+\c@mv@tabular=\count149
+\c@mv@boldtabular=\count150
 (/usr/share/texlive/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
 tim
@@ -971,16 +1007,16 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 74.
+(Font)              scaled to size 17.28pt on input line 75.
 LaTeX Font Info:    Try loading font information for T1+LinuxBiolinumT-TLF on i
-nput line 74.
+nput line 75.
 
 (/usr/share/texlive/texmf-dist/tex/latex/libertine/T1LinuxBiolinumT-TLF.fd
 File: T1LinuxBiolinumT-TLF.fd 2012/11/26 (autoinst) Font definitions for T1/Lin
 uxBiolinumT-TLF.
 )
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 17.28pt on input line 74.
+(Font)              scaled to size 17.28pt on input line 75.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `LinuxBiolinumT-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
@@ -988,15 +1024,15 @@ Package microtype Info: Loading generic settings for font family
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/bx/n' in size <17.28> not
  available
 (Font)              Font shape `T1/LinuxBiolinumT-TLF/b/n' tried instead on inp
-ut line 74.
+ut line 75.
 LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 17.28pt on input line 74.
+(Font)              scaled to size 17.28pt on input line 75.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 12.0pt on input line 74.
+(Font)              scaled to size 12.0pt on input line 75.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 74.
+(Font)              scaled to size 10.0pt on input line 75.
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 74.
+(Font)              scaled to size 10.0pt on input line 75.
 Package microtype Info: Loading generic settings for font family
 (microtype)             `LinuxLibertineT-TLF' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
@@ -1009,290 +1045,399 @@ File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 9.0pt on input line 74.
+(Font)              scaled to size 9.0pt on input line 75.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 74.
+(Font)              scaled to size 10.95pt on input line 75.
 
 
 Package hyperref Warning: Option `pdflang' has already been used,
-(hyperref)                setting the option has no effect on input line 74.
+(hyperref)                setting the option has no effect on input line 75.
 
 
 Package hyperref Warning: Option `pdfdisplaydoctitle' has already been used,
-(hyperref)                setting the option has no effect on input line 74.
+(hyperref)                setting the option has no effect on input line 75.
 
 
 Package natbib Warning: Citation `Sang2003' on page 1 undefined on input line 1
-08.
+09.
 
 
 Package natbib Warning: Citation `Huang2015' on page 1 undefined on input line 
-109.
+110.
 
 
 Package natbib Warning: Citation `Lample2016' on page 1 undefined on input line
- 109.
+ 110.
 
 
-Package natbib Warning: Citation `Ma2016' on page 1 undefined on input line 109
+Package natbib Warning: Citation `Ma2016' on page 1 undefined on input line 110
 .
 
 LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 127.
+(Font)              scaled to size 9.0pt on input line 129.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 7.3pt on input line 127.
+(Font)              scaled to size 7.3pt on input line 129.
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 5.5pt on input line 129.
+(Font)              scaled to size 5.5pt on input line 131.
 
 Package natbib Warning: Citation `Kushmerick2000' on page 1 undefined on input 
-line 154.
+line 151.
 
 
 Package natbib Warning: Citation `Hsu1998' on page 1 undefined on input line 15
-5.
+2.
 
 
 Package natbib Warning: Citation `Muslea1999' on page 1 undefined on input line
- 155.
+ 152.
 
 [1.1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 ]
 
 Package natbib Warning: Citation `Adelberg1998' on page 2 undefined on input li
-ne 160.
+ne 159.
 
 
 Package natbib Warning: Citation `Laender2002a' on page 2 undefined on input li
-ne 160.
+ne 159.
 
 
 Package natbib Warning: Citation `Crescenzi2001' on page 2 undefined on input l
-ine 168.
+ine 167.
 
 
 Package natbib Warning: Citation `Califf1999' on page 2 undefined on input line
- 175.
+ 174.
 
 
 Package natbib Warning: Citation `Laender2002' on page 2 undefined on input lin
-e 181.
+e 180.
 
 
 Package natbib Warning: Citation `Hammer1997' on page 2 undefined on input line
- 188.
+ 187.
 
 
 Package natbib Warning: Citation `Arocena1999' on page 2 undefined on input lin
-e 188.
+e 187.
 
 
 Package natbib Warning: Citation `Crescenzi2001' on page 2 undefined on input l
-ine 191.
+ine 190.
 
 
 Package natbib Warning: Citation `Liu2000' on page 2 undefined on input line 19
-1.
+0.
 
 
 Package natbib Warning: Citation `Sahuguet1999' on page 2 undefined on input li
-ne 191.
+ne 190.
 
 
 Package natbib Warning: Citation `Califf1999' on page 2 undefined on input line
- 194.
+ 193.
 
 
 Package natbib Warning: Citation `Freitag1998' on page 2 undefined on input lin
-e 194.
+e 193.
 
 
 Package natbib Warning: Citation `Soderland1999' on page 2 undefined on input l
-ine 194.
+ine 193.
 
 
 Package natbib Warning: Citation `Kushmerick2000' on page 2 undefined on input 
-line 197.
+line 196.
 
 
 Package natbib Warning: Citation `Hsu1998' on page 2 undefined on input line 19
-7.
+6.
 
 
 Package natbib Warning: Citation `Muslea1999' on page 2 undefined on input line
- 197.
+ 196.
 
 
 Package natbib Warning: Citation `Adelberg1998' on page 2 undefined on input li
-ne 200.
+ne 199.
 
 
 Package natbib Warning: Citation `Laender2002a' on page 2 undefined on input li
-ne 200.
+ne 199.
 
 
 Package natbib Warning: Citation `Chang2006' on page 2 undefined on input line 
-205.
+204.
 
 
 Package natbib Warning: Citation `Hogue2005' on page 2 undefined on input line 
-206.
+205.
 
 
 Package natbib Warning: Citation `Chang2001' on page 2 undefined on input line 
-206.
+205.
 
 
 Package natbib Warning: Citation `Chang2004' on page 2 undefined on input line 
-207.
+206.
 
 
 Package natbib Warning: Citation `Wang2003' on page 2 undefined on input line 2
-11.
+10.
 
 
 Package natbib Warning: Citation `Arasu2003' on page 2 undefined on input line 
-211.
+210.
 
 
 Package natbib Warning: Citation `Zhai2005' on page 2 undefined on input line 2
-11.
+10.
 
 
 Package natbib Warning: Citation `Sarawagi2008' on page 2 undefined on input li
-ne 221.
+ne 218.
 
 
 Package natbib Warning: Citation `Leek1997' on page 2 undefined on input line 2
-27.
+24.
 
 
 Package natbib Warning: Citation `Freitag1999' on page 2 undefined on input lin
-e 227.
+e 224.
 
 
 Package natbib Warning: Citation `Lafferty2001' on page 2 undefined on input li
-ne 228.
+ne 225.
 
 
 Package natbib Warning: Citation `McCallum2000' on page 2 undefined on input li
-ne 229.
+ne 226.
 
 
 Package natbib Warning: Citation `Huang2015' on page 2 undefined on input line 
-231.
+228.
 
 
 Package natbib Warning: Citation `Lample2016' on page 2 undefined on input line
- 233.
+ 230.
 
 
-Package natbib Warning: Citation `Ma2016' on page 2 undefined on input line 234
+Package natbib Warning: Citation `Ma2016' on page 2 undefined on input line 231
 .
 
 
 Package natbib Warning: Citation `Ferrara2014' on page 2 undefined on input lin
-e 238.
+e 235.
 
 
 Package natbib Warning: Citation `Schulz2016' on page 2 undefined on input line
- 238.
-
-
-Package natbib Warning: Citation `Krupl2005' on page 2 undefined on input line 
-240.
-
-
-Package natbib Warning: Citation `Ferrara2011' on page 2 undefined on input lin
-e 242.
-
-
-Package natbib Warning: Citation `Shi2015' on page 2 undefined on input line 24
-4.
-
-
-Package natbib Warning: Citation `Dong2014' on page 2 undefined on input line 2
-46.
+ 235.
 
 
 Package natbib Warning: Citation `Varlamov2016' on page 2 undefined on input li
-ne 249.
+ne 236.
 
 
-Package natbib Warning: Citation `Freitag1998' on page 2 undefined on input lin
-e 259.
+Package natbib Warning: Citation `Krupl2005' on page 2 undefined on input line 
+238.
 
 
-Package natbib Warning: Citation `Califf1999' on page 2 undefined on input line
- 259.
+Package natbib Warning: Citation `Ferrara2011' on page 2 undefined on input lin
+e 240.
 
 
-Package natbib Warning: Citation `Soderland1999' on page 2 undefined on input l
-ine 259.
+Package natbib Warning: Citation `Shi2015' on page 2 undefined on input line 24
+2.
 
 
-Package natbib Warning: Citation `Kushmerick2000' on page 2 undefined on input 
-line 260.
-
-
-Package natbib Warning: Citation `Hsu1998' on page 2 undefined on input line 26
-0.
-
-
-Package natbib Warning: Citation `Muslea1999' on page 2 undefined on input line
- 260.
+Package natbib Warning: Citation `Dong2014' on page 2 undefined on input line 2
+44.
 
 
 Package natbib Warning: Citation `Crescenzi2001' on page 2 undefined on input l
-ine 261.
+ine 249.
 
 
 Package natbib Warning: Citation `Arasu2003' on page 2 undefined on input line 
-261.
+250.
 
 
-Package natbib Warning: Citation `Zhu2005' on page 2 undefined on input line 27
-1.
-
-
-Package natbib Warning: Citation `Zhu2006' on page 2 undefined on input line 27
+Package natbib Warning: Citation `Zhu2005' on page 2 undefined on input line 25
 2.
 
 
-Package natbib Warning: Citation `Cai2004' on page 2 undefined on input line 27
-2.
+Package natbib Warning: Citation `Zhu2006' on page 2 undefined on input line 25
+5.
 
 
 Package natbib Warning: Citation `Abdessalem2010' on page 2 undefined on input 
-line 273.
+line 257.
 
 
 Package natbib Warning: Citation `Furche2012' on page 2 undefined on input line
- 274.
+ 257.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
-(Font)              scaled to size 6.0pt on input line 275.
-[2.2]
-! Missing $ inserted.
-<inserted text> 
-                $
-l.326 
-      
-? 
-! Emergency stop.
-<inserted text> 
-                $
-l.326 
-      
-End of file on the terminal!
+(Font)              scaled to size 6.0pt on input line 261.
+ [2.2]
 
- 
+Package natbib Warning: Citation `Schulz2016' on page 3 undefined on input line
+ 263.
+
+
+Package natbib Warning: Citation `Li2000' on page 3 undefined on input line 322
+.
+
+
+Package natbib Warning: Citation `Rabiner1989' on page 3 undefined on input lin
+e 327.
+
+
+Package natbib Warning: Citation `Leek1997' on page 3 undefined on input line 3
+27.
+
+
+Package natbib Warning: Citation `Freitag2000' on page 3 undefined on input lin
+e 327.
+
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 334.
+LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 334.
+
+Package natbib Warning: Citation `Lafferty2001' on page 3 undefined on input li
+ne 359.
+
+
+Package natbib Warning: Citation `Liu1989' on page 3 undefined on input line 37
+6.
+
+[3.3]
+
+Package natbib Warning: Citation `Hochreiter1997' on page 4 undefined on input 
+line 396.
+
+
+Package natbib Warning: Citation `Huang2015' on page 4 undefined on input line 
+415.
+
+
+Package natbib Warning: Citation `Huang2015' on page 4 undefined on input line 
+435.
+
+
+Package natbib Warning: Citation `Ma2016' on page 4 undefined on input line 446
+.
+
+
+Package natbib Warning: Citation `Lample2016' on page 4 undefined on input line
+ 459.
+
+
+Package natbib Warning: Citation `Caruana2000' on page 4 undefined on input lin
+e 474.
+
+
+Package natbib Warning: Citation `Pennington2014' on page 4 undefined on input 
+line 476.
+
+[4.4]
+
+Package natbib Warning: Citation `Cai2003' on page 5 undefined on input line 51
+5.
+
+
+Package natbib Warning: Citation `Ramshaw1995' on page 5 undefined on input lin
+e 522.
+
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 532.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 534.
+LaTeX Font Info:    Font shape `OT1/LinuxLibertineT-TLF/m/n' will be
+(Font)              scaled to size 6.2pt on input line 534.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [5.5]
+LaTeX Font Info:    Font shape `T1/LinuxLibertineT-TLF/b/n' will be
+(Font)              scaled to size 8.0pt on input line 631.
+
+
+Package natbib Warning: Citation `Huang2015' on page 6 undefined on input line 
+631.
+
+
+Package natbib Warning: Citation `Ma2016' on page 6 undefined on input line 632
+.
+
+
+Package natbib Warning: Citation `Lample2016' on page 6 undefined on input line
+ 633.
+
+
+Overfull \hbox (21.26045pt too wide) in paragraph at lines 658--681
+ [] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6.6]
+
+Package natbib Warning: There were undefined citations.
+
+[7.7
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 756.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 756.
+ (./article.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 756.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 756.
+Package rerunfilecheck Info: File `article.out' has not changed.
+(rerunfilecheck)             Checksum: 918B9788B41E824A24EC72EBB52683DD;2230.
+ ) 
 Here is how much of TeX's memory you used:
- 18416 strings out of 493029
- 276301 string characters out of 6136234
- 407085 words of memory out of 5000000
- 21335 multiletter control sequences out of 15000+600000
- 95656 words of font info for 160 fonts, out of 8000000 for 9000
+ 19215 strings out of 493029
+ 290208 string characters out of 6136234
+ 432588 words of memory out of 5000000
+ 21942 multiletter control sequences out of 15000+600000
+ 152319 words of font info for 292 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
  60i,11n,94p,876b,472s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/libertinealt.enc}{/usr/s
+hare/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc}{/usr/share/t
+exlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texlive/texmf-dist/fo
+nts/enc/dvips/libertine/lbtn_c7kyj5.enc}{/usr/share/texlive/texmf-dist/fonts/en
+c/dvips/libertine/lbtn_nh77jq.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dvip
+s/libertine/lbtn_76gpa5.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/l
+ibertine/LinBiolinumTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/li
+bertine/LinBiolinumTI.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lib
+ertine/LinLibertineT.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/libe
+rtine/LinLibertineTB.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newt
+x/fxlri-7letters.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/
+rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/rtxmi7.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/te
+xlive/texmf-dist/fonts/type1/public/newtx/txex-bar.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/txfonts/txex.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/newtx/zxlr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/zxlri.
+pfb>
+Output written on article.pdf (7 pages, 447716 bytes).
+PDF statistics:
+ 221 PDF objects out of 1000 (max. 8388607)
+ 176 compressed objects within 2 object streams
+ 42 named destinations out of 1000 (max. 500000)
+ 39553 words of extra memory for PDF output out of 42996 (max. 10000000)
+

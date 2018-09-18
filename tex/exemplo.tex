@@ -22,7 +22,7 @@
 
 \begin{document}
 
-\title{Named Entity Recognition on HTML as an information extraction subtask}
+\title{Named Entity Recognition on HTML as a web data extraction subtask}
 
 \author{João Mateus de Freitas Veneroso}
 \affiliation{%
@@ -85,8 +85,10 @@ web documents containing a number of predetermined entities organized in a simil
 manner and the information extraction task consists of identifying these entities
 and organizing them according to a template. In this context, named entity recognition
 (NER) is a subtask that aims to detect named entities in the text and classify them into 
-predetermined categories such as person names, locations or organizations. Once we are able
-to reliably detect the relevant entities, we may employ an information extraction 
+predetermined categories such as person names, locations or organizations. 
+
+Once we are able
+to reliably detect relevant entities, we may employ an information extraction 
 algorithm to extract structured data. In this paper, we investigate different NER 
 approaches from the perspective of web information extraction.
 
@@ -130,18 +132,10 @@ data need for other web information extraction tasks. Also, with the lack of a l
 of training data, we show that feature engineering and resources such as a gazetteer 
 may be invaluable.
 
-% \begin{figure}
-%   \centering
-%   \includegraphics[width=0.5\textwidth]{pics/jap_osaka_lab}
-%   \caption{Example of a faculty directory}
-%   \label{fig:faculty_directory}
-% \end{figure}
-% 
-% To acknowledge the complexity of this extraction task, take for example a snippet of 
-% the staff page for the intelligent robotics laboratory from Osaka University shown in figure 
-% \ref{fig:faculty_directory}. There is some structure to the way member profiles are arranged, 
-% but the organization is rather flexible, also note that there is little text to contextualize
-% each named entity. 
+
+Even if focusing on web documents, records also may
+contain pure text that needs appropriate IE algorithms to extract the inherent data. Most WDE algorithms certainly can exploit the semi-structured nature of web documents, but can surely not restrict ourselves to that, because deeper processing is necessary. When looking through the algorithms and searching for the Swiss army knife, most algorithms can be ruled out for some incapability restricting the algorithms strongly. B.
+
 
 \section{Related Work}
 
@@ -160,8 +154,6 @@ identifying delimiters or context tokens that single out the desired attributes.
 Some remarkable wrapper induction methods are WIEN \cite{Kushmerick2000}, Soft 
 Mealy \cite{Hsu1998} and STALKER \cite{Muslea1999}.
 
-Despite being better than constructing wrappers manually, wrapper induction methods 
-still suffered from a lack of expressive power and flexibility. These methods had 
 trouble handling records with missing attributes or unusual structures because
 patterns could only be identified if they happened at least once in the examples.
 
@@ -224,27 +216,24 @@ suffered from a lack of flexibility when dealing with noisy and unstructured dat
 Huge progress in the field of statistical learning led to the development of
 statistical models that tried to solve this problem.
 
-In 2008, Sarawagi \cite{Sarawagi2008} produced a survey that classified wrappers in
+statistical models that tried to solve this problem.
+
+In 2008, Sarawagi \cite{Sarawagi2008} produced a survey that classified wrappers into
 rule-based methods, statistical methods and hybrid models, bringing together 
-the fields of named entity recognition, relationship 
-extraction and information extraction. The rule based methods encompass most of the 
+the fields of named entity recognition, relationship extraction and information extraction. 
+The rule based methods encompass most of the 
 previous models. The statistical methods convert the extraction task into a token labeling 
 task, identifying the target entities through the assignment of labels as in a typical 
-Named Entity Recognition task. Traditionally, Hidden Markov Models, Linear Chain Conditional 
-Random Fields \cite{Lafferty2001}, and Maximum Entropy Taggers have been the usual choice 
-for linear sequence tagging models.
-
+Named Entity Recognition task. Traditionally, Hidden Markov Models \cite{Leek1997, Freitag1999}, 
+Linear Chain Conditional Random Fields \cite{Lafferty2001}, and Maximum Entropy Taggers 
+\cite{McCallum2000} have been the usual choice for linear sequence tagging models.
 More recently, with the advancement in Natural Language Processing and Deep Learning, 
-neural models outperformed previous NER methods. Using a bidirectional Long Short-Term
-Memory (LSTM) model with a Conditional Random Field (CRF) output layer, \cite{Huang2015} 
-obtained 90.10 F1 score on the CoNLL 2003 corpus for named entity recognition. A similar model
-by \cite{Lample2016} incorporates a Convolutional Neural Network over character embeddings
-as an input to the bidirectional LSTM reaching an F-score of 90.94 at the same task. Finally, 
-\cite{Ma2016} constructed word representations with the hidden layer of a bidirectional 
-LSTM obtaining an F-score of 91.21. The latter two models make use of orthographic and 
-morphological evidence to detect named entities, making the models less reliant on feature
-engineering and surrounding words. Up to our knowledge, these models still have not been
-employed at the web information extraction task.
+neural models outperformed previous NER methods. Huang \cite{Huang2015} introduced the 
+bidirectional Long Short-Term Memory (LSTM) model with a Conditional Random Field (CRF) output layer
+for NER. Lample \cite{Lample2016} incorporated Convolutional Neural Network based character representations 
+on top of the architecture. And Ma \cite{Ma2016} introduced
+LSTM based character representations. Both obtaining improvements with systems that are less reliant
+on feature engineering.
 
 Surveys by Ferrara et al. \cite{Ferrara2014} and Schulz et al. \cite{Schulz2016} 
 updated the previous surveys on information extraction methods with some interesting innovations. 
@@ -273,26 +262,54 @@ the unsupervised approaches: RoadRunner \cite{Crescenzi2001} and EXALG \cite{Ara
 
 The second group is divided between domain specific methods and domain agnostic methods.
 Domain specific methods are designed for extracting data about a particular 
-application domain across multiple websites.
-Domain specific methods integrate information about the particular application domain in the 
-course of its development and thus are able to achieve superior performance in
-comparison to domain agnostic methods. One example is the method of comment extraction 
-from blog posts described by Kao et al. \cite{Kao2010}. 
-
+application domain across multiple websites. Domain specific methods integrate information 
+about the particular application domain in the course of its development and thus are 
+able to achieve superior performance in comparison to domain agnostic methods. 
 Domain agnostic methods are the most general extraction methods. They can extract
-information from any application domain from multiple websites. They pose the hardest
-challenge because the tool must infer data relevance without any prior training in
-that particular application domain. Some examples are: ODE (\cite{Su2009}), ObjectRunner 
-(\cite{Abdessalem2010}), and AMBER (\cite{Furche2012}). These approaches are more flexible but 
-yield worse results than domain specific methods.
+information from any application domain and from multiple websites with different
+templates. This problem can be decomposed into at least two subtasks: web page
+segmentation, and attribute labeling. The system proposed by Zhu \cite{Zhu2005} and improved 
+in \cite{Zhu2006} relies on \cite{Cai2004} to solve the web page segmentation task and 
+on conditional random fields for the attribute labeling task. ObjectRunner (\cite{Abdessalem2010}) 
+and AMBER (\cite{Furche2012}) rely on user provided ontologies to m
 
-In this paper, we are exploring NLP based approaches to solve a domain specific problem.
+to develop entity recognizers based on 
+gazetteer, knowledge bases or regular expressions.
+
+
+Some systems can rely on some sort of automatic web page segmentation to
+identify data blocks and then CRFs to label attributes.
+
+
+
+
+Domain agnostic extraction systems may benefit the most from the recent 
+advancements on NLP.
+
+
+
+
+ The steps to that operate entity annotation, record 
+segmentation, and data extraction
+. These systems can operate with relatively noisy annotators
+by
+
+works by annotating entity instances, 
+then infering templates from a sample of test pages, and extracting all instances
+further improving the entity recognizers.
+
+
+
+
+
 
 
 \section{NER Models}
 
 We explored multiple approaches to the Named Entity Recognition problem in the context 
 of a web information extraction task. 
+
+Why are NER based approaches superior?
 
 \subsection{Hidden Markov Model}
 
@@ -333,7 +350,7 @@ That is $ P(y_i|y_{i-1}x_{i-1}, y_{i-2}x_{i-2}, ..., y_1x_1) = P(y_i|y_{i-1}, y_
 we can get much better results at the NER on HTML task by looking at trigrams
 or quadrigrams instead of bigrams as in a regular Markov Model. Some 
 label assignments are highly improbable, such as single token named entities separated 
-by an Other label, and these kinds of patterns can be caught by a higher order Hidden
+by a common word, and these kinds of patterns can be caught by a higher order Hidden
 Markov Model. Second, the probability of a word depends only on its assigned label 
 $ P(x_i|y_{i-1}x_{i-1}, ..., y_1x_1) = P(x_i|y_i) $. Finally, the probability 
 $ P(Y|X) $ can be computed with the expression:
@@ -349,7 +366,7 @@ frequency of labels and words in the corpus. The best sequence of labels can be 
 with the Viterbi algorithm. However,
 as we increase the order of the Markov Model ($k$ in Equation 1) this computation becomes 
 exponentially more expensive. The beam-search strategy may be employed for a faster search,
-but we found that for $ k \leq 3 $, the Viterbi algorithm is still viable.
+but we found that for $ k \leq 4 $, the Viterbi algorithm is still viable.
 
 Hidden Markov Models taggers have been succesfully apllied in many NLP tasks and they are 
 incredibly fast to train, making them a good choice for a first approximation. However, these
@@ -357,6 +374,8 @@ models are highly dependent on the right selections of features, what may outwei
 benefit of a small training cost.
 
 \subsubsection{Self training}
+
+
 
 \subsection{Linear Chain Conditional Random Fields}
 
@@ -371,12 +390,13 @@ P(Y|X) = \frac{1}{Z(x)}\prod exp \left{ \sum_{k=1}^{K} \theta_k f_k(y_{t-1}, y_t
 
 where $ \theta $ is the parameter vector that we are going to learn, $ f_k(y_{t-1}, y_{t}, x_t) $ 
 is a feature function over the current and previous timesteps and the current word $ x_t $, and
-$ Z(x) $ is a partition function that depends on the input. Linear chain conditional random fields
 are more general than Hidden Markov Models because the transition from $ y_{t-1} $ to $ y_{t} $ can
 depend on the current observation $ x_t $. In fact, linear chain CRFs do not assume independence 
 between the input variables $ x $. 
 
-Linear Chain CRFs are a natural fit to Named Entity Recognition problems because of the
+Linear Chain CRFs are a natural fit to Named Entity Recognition problems
+
+ because of the
 high label dependency. Therefore, sequence taggers that do not take this output dependency into
 account tend to perform poorly. More recently, CRFs have been employed as the output layer
 in neural models to account for the label dependency, producing significant improvement over
@@ -429,23 +449,22 @@ often present morphological similarities. This improvement obtained an F1 score 
 91.21 at the ConLL2003 dataset. In our experiments, the LSTM-CRF architecture with
 CNN character representations used a one dimensional convolutional neural network with 30 
 filters and a window size of three characters on top of the LSTM-CRF architecture,
-the character embeddings fed to the CNN had 30 dimensions and were randomly initialized.
+the character embeddings fed to the CNN had 30 dimensions that were randomly initialized.
 
 \cite{Lample2016} suggested using an a bidirectional LSTM to model character-level 
 representations on a bidirectional LSTM-CRF. Combining both the forward and backward 
-LSTM representations forming the complete character representation that is also combined 
-with a word
-representation as in the previous model. The forward LSTM is expected to be a better
+LSTM representations to form the character representation. This character
+representation is also combined with a word representation. The forward LSTM is expected to be a better
 representation of the suffix of a token, and the backward LSTM is expected to be a
-better representation of the prefix of a token. This differentiates this architecture
+better representation of the prefix of a token. This differentiates the architecture
 from the CNN based approach, because CNN filters discover positional invariant
 features while LSTMs can better represent suffixes and prefixes. In our experiments, 
-the LSTM-CRF architecture with LSTM character embeddings used a bidirectional LSTM
+the LSTM-CRF architecture with LSTM character embeddings was implemented with a bidirectional LSTM
 with 25 hidden states, thus producing character representations with 50 dimensions.
 
 All neural models used GloVe 100-dimensional word embeddings \cite{Pennington2014}
-that were fine tuned during training. The models were trained with Stochastic Gradient 
-Descent over 50 epochs using a learning rate of 0.01 and momentum 0.9. 
+that were fine tuned during the training. The models were trained with Stochastic Gradient 
+Descent over 50 epochs using a learning rate of 0.01 and momentum of 0.9. 
 
 Early stopping like cite.
 
@@ -463,43 +482,44 @@ first step in linking researcher profiles from university websites to their entr
 in public databases such as DBLP \footnote{http://dblp.uni-trier.de/}. Unlike many
 information extraction tasks, each web page in the dataset comes from a different 
 university, and therefore has a different format, what makes many information
-extraction systems impractical. The idea is to construct a system that is general 
+extraction approaches impractical. The idea is to explore systems that are general 
 enough to allow efficient name extraction from many different sources without requiring
 any supervision between different websites. This task would be similar to the task of 
 extracting comments from different news sources, in which we must recognize author 
-names in different formattings before infering structure and extracting the structured 
-tuple author, timestamp, comment, likes. Another similar example would be acquiring 
+names in different formattings before infering structure and extracting the
+tuple: author, timestamp, and comment. Another similar example would be acquiring 
 author information from different publishing platforms before extracting structured 
-information in the format author, article, timestamp. Of course, similar systems
+information in the format: author, timestamp, and text. Similarly, the same systems
 could be used to recognize different named entities in other contexts.
 
 We collected 145 computer science faculty directory HTML pages from 42 different countries in 
 multiple languages, although the English version was prefered when it was available. 
-We tried to gathering web pages from each country in proportion to their number 
+We tried gathering web pages from each country in proportion to their number 
 of universities relative to the total number of universities worldwide as in 
-\footnote{https://univ.cc/world.php}. Each HTML page was preprocessed and converted to 
+\footnote{https://univ.cc/world.php}. Each HTML page was preprocessed and converted
 to the CONLL 2003 data format, that is one word per line with empty lines representing
-sentence boundaries. Sentence were determined by the enclosing HTML tag, that is,
-except for span, em, td, a, strong, b, font and sup, all other HTML tag closings were
-considered to be sentence boundaries. This aimed to preserve the natural flow of reading
-in HTML documents. 
-CSS classes can be used to style those elements in very unexpected ways,
-however this complexity was not encoded in the database. A proper HTML chunker poses many
-challenges by itself. 
-Take note that by the nature of these documents, many sentences contained
-only one or two tokens.
+sentence boundaries. Sentences were determined by the encompassing HTML tags, that is,
+except for \{ span, em, td, a, strong, b, font and sup \} tags, all other HTML closing tags were
+treated as sentence boundaries. This aimed to preserve the natural flow of reading
+in HTML documents. Sentences that were composed of more than 50 tokens were also chunked
+according to punctuation. CSS classes can be used to style HTML elements in unexpected ways,
+however this complexity was not taken into account. A proper HTML chunker poses 
+many challenges by itself. 
 
-Finally, all tokens were tagged with the IOB scheme put forward by
+Take note that because of the type of documents present in the dataset, many sentences 
+contained only one or two tokens.
+
+Finally, all tokens were tagged using the IOB scheme put forward by
 \cite{Ramshaw and Marcus (1995)} with a modification. O stands for Outside, 
 B-PER is the beginning of a person name, I-PER inside a person name and PUNCT is any 
 punctuation sign other than ".". Many name representations contain punctuation signs 
 and the PUNCT label helps predicting label transitions properly, especially when using 
-simpler algorithms like HMMs. A name for example never ends with a punctuation sign.
-Also, 12 categorical features are present in the dataset, they are presented in table X.
+simpler algorithms like HMMs. A name for example never ends with a punctuation sign,
+but it may be split by a punctuation sign.
 
-Finally the dataset was divided in a training, development and test set. 
+\subsection{Data}
 
-Table 1 contains
+Finally the dataset was divided in a training, development and test set. Table 1 contains
 a description of the data files.
 
 \begin{table}[h]
@@ -519,6 +539,10 @@ a description of the data files.
   \label{tab:dataset}
 \end{table}
 
+\subsection{Features}
+
+Twelve categorical features were added to each token in the dataset, they are presented in table X.
+
 \begin{table}[h]
   \small
   \begin{center}
@@ -526,17 +550,17 @@ a description of the data files.
       \hline
       Data file & Documents & Sentences & Tokens & Names \\
       \hline
-      Training    & unaccented token \\
+      Training    & unaccented lowercase token \\
       Training    & exact gazetteer match \\
       Training    & partial gazetteer match \\
-      Development & is email \\
-      Development & is number \\
-      Development & is title \\
-      Development & is URL \\
-      Development & is capitalized \\
       Development & log name gazetteer count\\
       Development & log word gazetteer count\\
-      Development & HTML tag parent + second parent \\
+      Development & is email \\
+      Development & is number \\
+      Development & is honorific \\
+      Development & is URL \\
+      Development & is capitalized \\
+      Development & HTML tag + parent \\
       Development & CSS class \\
       \hline
     \end{tabular}
@@ -545,20 +569,29 @@ a description of the data files.
   \label{tab:features}
 \end{table}
 
-\subsection{Features}
+The unaccented lowercase token was used as the key for the Glove-100 embedding lookup.
 
+A gazetteer was constructed from the researcher list extracted from DBLP with 1.595.771
+names. Feature 2 represents an exact match of a sequence of tokens to any of the 1.595.771 
+names, and feature 3 represents a partial match. Feature 4 is the rounded logarithm of 
+the frequency of a token in the gazetteer, and feature 5 is the rounded logarithm of the frequency
+of a token in word corpus obtained through a random crawl in university websites.
 
-\subsection{Gazetteer}
+Features 5 to 8 represent a simple regular expression match to an email, number, 
+honorific or url, respectively. Feature 9 represents if a word is capitalized.
 
-
-\subsection{Evaluation}
-
-Performance was measured based on the F1 score (Van Rijsbergen, 1975)
-obtained in the test set. As in the ConLL dataset a named entity was
-only considered correct when it was an exact match of the corresponding 
-entity in the data file. 
+Feature 10 represents the HTML enclosing tag and its parent concatenated. Feature 11
+represents all CSS classes concatenated. These features are not very useful in a general
+sense, because every HTML document has a different format, so only because a named entity
+occurs inside a given tag in a document we cannot say it is more likely to be so in other 
+documents. However, these features can be trained with the self training strategy described
+in section XXX to detect named entities in similar contexts in the same document.
 
 \section{Results}
+
+Performance was measured based on the F1 score (Van Rijsbergen, 1975)
+obtained in the test set. A named entity was only considered correct when 
+it was an exact match of the corresponding entity in the data file. 
 
 Table X presents the results for X models in the NER-HTML dataset. Results
 for each model are presented when incorporating all features and no features.
@@ -594,3 +627,15 @@ it does not rely on any particular implementation details of our strategy.
 \bibliography{bibfile}
 
 \end{document}
+\documentclass[sigconf]{acmart}
+\settopmatter{printacmref=false} % Removes citation information below abstract
+\renewcommand\footnotetextcopyrightpermission[1]{} % removes footnote with conference information in first column
+\pagestyle{plain} % removes running headers
+\setcopyright{none}
+
+\usepackage{booktabs} % For formal tables
+\usepackage[ruled]{algorithm2e} % For algorithms
+\renewcommand{\algorithmcfname}{ALGORITHM}
+\SetAlFnt{\small}
+\SetAlCapFnt{\small}
+\SetAlCapNameFnt{\small}
