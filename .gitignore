@@ -6,3 +6,8 @@ embeddings
 dataset
 __pycache__
 model_data
+logs
+tex/*.aux
+tex/*.pdf
+tex/*.out
+tex/*.log

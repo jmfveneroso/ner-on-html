@@ -176,7 +176,7 @@ elif model in ['maxent', 'crf', 'lstm-crf', 'lstm-crf-cnn', 'lstm-crf-lstm']:
   )
   
   lstm_crf.create(we.matrix)
-  lstm_crf.fit(callbacks=[Metrics(lstm_crf)], epochs=5)
+  lstm_crf.fit(callbacks=[Metrics(lstm_crf)], epochs=10)
 
   lstm_crf.load_best_model()
   val_predict, val_targ, T = lstm_crf.validate()
