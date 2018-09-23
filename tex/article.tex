@@ -161,7 +161,7 @@ still suffered from a lack of expressive power and flexibility. These methods ha
 trouble handling records with missing attributes or unusual structures because
 patterns could only be identified if they happened at least once in the examples.
 
-Other approaches such as NoDoSE (\cite{Adelberg1998}) and Debye (\cite{Laender2002a}) 
+Other approaches such as NoDoSE \cite{Adelberg1998} and Debye \cite{Laender2002a} 
 brought greater flexibility to wrapper induction methods by requiring a greater level 
 of human interaction through graphical user interfaces. Web data extraction techniques often 
 require some sort of assistance from human experts to boost accuracy. One of the main challenges 
@@ -276,8 +276,8 @@ Most web data extraction systems rely on hand crafted rules or gazetteers to per
 attribute annotation. Machine learning approaches to NER can improve annotations of 
 more complex entities and even manage entity detection without resorting to a gazetteer.
 We explored multiple approaches to the Named Entity Recognition problem in the context 
-of a web information extraction task. We first introduce two traditional approaches, 
-namely: Hidden Markov Models and Linear Chain Conditional Random Fields. And then
+of a web information extraction task. First, we introduce two traditional approaches, 
+namely: Hidden Markov Models and Linear Chain Conditional Random Fields. Then
 we explore neural network architectures.
 
 \subsection{Hidden Markov Models}
@@ -398,7 +398,7 @@ Recurrent neural networks (RNN) have been succesfully employed on numerous NLP t
 language modelling, POS tagging, speech recognition and NER. Different from feedforward neural networks, 
 RNNs can retain information in their internal state, making them more suitable for processing sequences, 
 and consequently for solving text related tasks. In NER, the network outputs one label for each input 
-vector as showed in Figure \ref{fig:rnn_network}. 
+vector as shown in Figure \ref{fig:rnn_network}. 
 
 Although RNNs are theoretically capable of learning long term dependencies, in practice 
 it might be difficult. Long short term memory networks (LSTM) were introduced by Hochreiter 
@@ -457,14 +457,14 @@ any given timestep.
 Huang et al. \cite{Huang2015} proposed a bidirectional LSTM with a CRF layer (LSTM-CRF) on the output to tackle
 the sequence tagging problem. The CRF layer jointly decodes labels for the whole sentence instead
 of predicting each label individually. This architecture achieved an F1 score of 90.10 on the English
-data from CONLL-2003 shared task \cite{Sang2003}, in contrast to 85.17 for a bidirectional LSTM without the CRF layer. 
-In our experiments, the LSTM-CRF architecture used a bidirectional LSTM with 100 
+data from the ConLL-2003 NER shared task \cite{Sang2003}, in contrast to 85.17 for a bidirectional LSTM without the CRF layer. 
+In our experiments, the LSTM-CRF architecture uses a bidirectional LSTM with 100 
 hidden states, no peepholes and an input and output dropout layers with a dropout
 rate of 0.5. The dropout layers have proven to be very important to prevent overfitting 
 and allow better generalization.
 
 \subsubsection{LSTM-CRF + CNN character representations}
-\ref{sssec:lstm_crf_cnn}
+\label{sssec:lstm_crf_cnn}
 
 \begin{figure}
   \centering
@@ -484,7 +484,7 @@ useful in the NER task, since similar named entities often present morphological
 This architecture obtained an F1 score of 91.21 in the ConLL2003 dataset. In our experiments, 
 the LSTM-CRF architecture with CNN character representations uses a one dimensional convolutional 
 neural network with 30 filters and a window size of three characters on top of the LSTM-CRF architecture.
-The character embeddings fed to the CNN had 30 dimensions that were randomly initialized.
+The character embeddings fed to the CNN have 30 dimensions that were randomly initialized.
 
 \subsubsection{LSTM-CRF + LSTM character representations}
 
@@ -506,7 +506,7 @@ from the CNN based approach described in Section \ref{sssec:lstm_crf_cnn}, becau
 discover positional invariant features, while LSTMs can better represent suffixes and prefixes. In our experiments, 
 the LSTM-CRF architecture with LSTM character representations was implemented with a bidirectional LSTM
 with 25 hidden states, producing character representations of size 50. The character embeddings
-had 30 dimensions that were randomly initialized.
+have 30 dimensions that were randomly initialized.
 
 \subsubsection{Network training}
 
@@ -533,7 +533,24 @@ extraction approaches impractical. The idea is to explore systems that are gener
 enough to allow efficient name extraction from many different sources while requiring
 no supervision between different websites. 
 
-This task would be similar to the task of labeling authors in comments.
+This task would be similar to the task of labeling authors in comments
+from many different sources or labeling authors in articles collected from many
+publishing platforms. Another similar task would be NER on tweets. Because of the character
+limitation present on tweets, we end up with constraints comparable to the ones
+found in the NER on HTML task, so we expect similar systems to have comparable performances
+on both of these tasks.
+
+We collected 145 computer science faculty pages from 42 different countries in
+multiple languages, although the English version was prefered when it was available.
+We gathered faculty web pages randomly in proportion to
+the number of universities in each country\footnote{A detailed list of universities can
+be found in https://univ.cc/world.php}. Each HTML page was preprocessed and converted
+to the CONLL 2003 data format. That is, one word per line with empty lines representing
+sentence boundaries. Sentence boundaries were determined by line break HTML tags
+(div, p, table, li, br, etc.) in contrast to inline tags (span, em, a, td, etc.). 
+Sentences that were more than 50 tokens were also split according to punctuation.
+
+A proper HTML segmenter poses many challenges by itself.
 However, we wanted to evaluate models without relying on any sophisticated data record
 segmentation system. In many cases, entity annotation may precede the segmentation
 phase in web data extraction methods, so annotators have to be able to work with
@@ -563,12 +580,12 @@ Ramshaw and Marcus \cite{Ramshaw1999}.
 
 The dataset was divided in a training, validation and test set. Table \ref{tab:dataset} contains
 a description of the data files. The validation set was used in the early stopping validation strategy
-on neural model and CRF training, while results were evaluated by comparing results in the test set.
+for the neural netowrks and CRF training, while the performance was evaluated by comparing results in the test set.
 
 \subsection{Features}
 
-Twelve categorical features were also present with each token in the dataset. They 
-are presented in table \ref{tab:features}.
+Thirteen categorical features were also associated with each token in the dataset. They 
+are presented in Table \ref{tab:features}.
 
 \begin{table}[h]
   \small
@@ -759,7 +776,7 @@ the scarcity of textual data in some webpages.
   \label{tab:experiment1f}
 \end{table}
 
-Table \ref{tab:experiment1f} shows the results on experiment 1 for models
+Table \ref{tab:experiment1f} shows the results on Experiment 1 for models
 that employed all the features described in Table \ref{tab:features}.
 Conventional models like HMMs, and CRFs can become competitive with
 the right selection of features and a good gazetteer, however they still lose
@@ -770,7 +787,7 @@ HMMs that employed trigrams or quadrigrams (hmm-2, hmm-3) also performed better 
 comparison to regular HMMs.
 The neural models also improved a little with the new features. The plain LSTM-CRF
 model gets a closer performance to the models that employed neural character 
-representations. A fact that hints that the LSTM and CNN character representations 
+representations. It points to the fact that the LSTM and CNN character representations 
 were able to learn at least part of the morphological features automatically in the
 models with no features. So, when these features are added explicitly, the differences 
 in performance become less noticeable.
@@ -807,7 +824,7 @@ the amount of training data is small. The same training data used in Experiment 
 split into five non overlapping sets with 17 documents. Each model was trained once 
 with each of the five sets and tested with the same test set used in Experiment 1. 
 Seventeen documents seem to be a feasible amount of documents to label in most WDE 
-tasks. The results for each model was averaged over the five runs.
+tasks. The results for each model were averaged over the five runs.
 
 Table \ref{tab:experiment2} shows the precision, recall and F1-score for the same models
 used in Experiment 1, but in this case we only show results for the Test set.
@@ -815,7 +832,8 @@ As expected, we can see that the performance of all models with no features was 
 to Experiment 1. HMMs show a terrible performance while CRFs are not 
 impacted as much by the reduction in the amount of training examples. Neural models
 keep performing better, but they were unable to learn patterns as efficiently in
-the smaller training sets. The neural models show a small standard deviation, what
+the smaller training sets, the best model achieves an F1 score of 0.7652 in contrast to
+0.8815 with the entire dataset. The neural models show a small standard deviation, what
 points to the fact that they can retain a consistent performance between different training 
 datasets. In this matter, the dropout layers are crucial to produce better generalizations 
 and prevent overfitting.
@@ -860,8 +878,8 @@ Finally, all the results presented in this section considered a dataset with a m
 amount of preprocessing and no trimming strategy to delimitate named entities. In many cases, 
 for example, a model may miss a few named entities because it includes a punctuation sign
 or an honorific at the start or end of a named entity. In fact, we can boost the F1-score up
-by a few percentage points with some simple heuristics. However, these strategies would 
-probably not apply to other NER on HTML tasks, so we did not include them in the results.
+by a few points with some simple heuristics. However, these strategies are specific to this
+NER on HTML problem.
 
 \section{Conclusion}
 
@@ -870,7 +888,7 @@ NER on HTML, introducing a novel dataset that is publicly available. We showed t
 neural networks can be employed effectively to solve this task while demanding no 
 feature engineering (F1-score of 0.8867), and they can retain acceptable performance 
 even when the training data is dramatically reduced (F1-score of 0.8255), even though 
-in this case the feature selection can become more meaningful. We found that there are 
+in this case the feature selection becomes more meaningful. We found that there are 
 two components to the most successful models: neural based character representations
 constructed with convolutional neural networks or bidirectional LSTMs and joint modelling 
 of the output labels provided by a linear chain CRF output layer. The effective recognition 
