@@ -44,7 +44,8 @@
   \state{MG}
   \postcode{31270-901}
   \country{Brazil}}
-\email{berthier.dcc.ufmg@gmail.com}
+\email{berthier@dcc.ufmg.br}
+\email{berthier@google.com}
 
 \begin{abstract}
 
@@ -459,7 +460,7 @@ the sequence tagging problem. The CRF layer jointly decodes labels for the whole
 of predicting each label individually. This architecture achieved an F1 score of 90.10 on the English
 data from the ConLL-2003 NER shared task \cite{Sang2003}, in contrast to 85.17 for a bidirectional LSTM without the CRF layer. 
 In our experiments, the LSTM-CRF architecture uses a bidirectional LSTM with 100 
-hidden states, no peepholes and an input and output dropout layers with a dropout
+hidden states, no peepholes and input and output dropout layers with a dropout
 rate of 0.5. The dropout layers have proven to be very important to prevent overfitting 
 and allow better generalization.
 
@@ -484,7 +485,7 @@ useful in the NER task, since similar named entities often present morphological
 This architecture obtained an F1 score of 91.21 in the ConLL2003 dataset. In our experiments, 
 the LSTM-CRF architecture with CNN character representations uses a one dimensional convolutional 
 neural network with 30 filters and a window size of three characters on top of the LSTM-CRF architecture.
-The character embeddings fed to the CNN have 30 dimensions that were randomly initialized.
+The character embeddings fed to the CNN have 30 dimensions that are randomly initialized.
 
 \subsubsection{LSTM-CRF + LSTM character representations}
 
@@ -506,7 +507,7 @@ from the CNN based approach described in Section \ref{sssec:lstm_crf_cnn}, becau
 discover positional invariant features, while LSTMs can better represent suffixes and prefixes. In our experiments, 
 the LSTM-CRF architecture with LSTM character representations was implemented with a bidirectional LSTM
 with 25 hidden states, producing character representations of size 50. The character embeddings
-have 30 dimensions that were randomly initialized.
+have 30 dimensions that are randomly initialized.
 
 \subsubsection{Network training}
 
@@ -516,7 +517,7 @@ parameters, considering the F1 measure in the validation set. All neural models 
 GloVe 100-dimensional word embeddings \cite{Pennington2014} that were fine tuned during training,
 they have a vocabulary size of 400.000 words.
 In the case of NER on HTML, word embeddings work similar to a gazetteer. Named entities 
-of a same type have similar embeddings, so good word embeddings can achieve exceptional 
+with the same type have similar embeddings, so good word embeddings can achieve exceptional 
 performance with little training and without a gazetteer. 
 
 \section{NER on HTML Dataset}
@@ -548,12 +549,12 @@ be found in https://univ.cc/world.php}. Each HTML page was preprocessed and conv
 to the CONLL 2003 data format. That is, one word per line with empty lines representing
 sentence boundaries. Sentence boundaries were determined by line break HTML tags
 (div, p, table, li, br, etc.) in contrast to inline tags (span, em, a, td, etc.). 
-Sentences that were more than 50 tokens were also split according to punctuation.
+Sentences that were more than fifty tokens long were also split according to punctuation.
 
 A proper HTML segmenter poses many challenges by itself.
 However, we wanted to evaluate models without relying on any sophisticated data record
 segmentation system. In many cases, entity annotation may precede the segmentation
-phase in web data extraction methods, so annotators have to be able to work with
+phase in web data extraction methods, so annotators should be able to work with
 raw HTML data. Because of the type of documents present in the dataset, many sentences 
 contained only one or two tokens, while other documents contained long texts.
 Finally, all tokens were tagged using the IOB scheme put forward by
@@ -580,7 +581,7 @@ Ramshaw and Marcus \cite{Ramshaw1999}.
 
 The dataset was divided in a training, validation and test set. Table \ref{tab:dataset} contains
 a description of the data files. The validation set was used in the early stopping validation strategy
-for the neural netowrks and CRF training, while the performance was evaluated by comparing results in the test set.
+for the neural networks and CRF training, while the performance was evaluated by comparing results in the test set.
 
 \subsection{Features}
 
@@ -792,7 +793,7 @@ were able to learn at least part of the morphological features automatically in 
 models with no features. So, when these features are added explicitly, the differences 
 in performance become less noticeable.
 
-\subsection{Experiment 2: reduced dataset}
+\subsection{Experiment 2: Reduced Dataset}
 
 \begin{table}[h]
   \small

@@ -1,7 +1,6 @@
 *.swp
 *.pyc
 venv
-models
 embeddings
 dataset
 __pycache__
