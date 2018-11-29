@@ -434,23 +434,41 @@ architectures bringing improvements over models that compute labels independentl
 \end{figure}
 
 Recurrent neural networks (RNN) have been succesfully employed on numerous NLP tasks such as
-language modelling, POS tagging, speech recognition and NER. Different from feedforward neural networks, 
-RNNs can retain information in their internal state, making them more suitable for processing sequences, 
-and consequently for solving text related tasks. In NER, the network outputs one label for each input 
-vector as shown in Figure \ref{fig:rnn_network}. 
-
-Although RNNs are theoretically capable of learning long term dependencies, in practice 
-it becomes difficult due to vanishing gradients. Long short term memory networks (LSTM) were 
-introduced by Hochreiter and Schmidhuber \cite{Hochreiter1997} with this problem in mind and 
-they have been popularized since then. LSTM cell implementations vary slightly in the literature.
-Our implementation has the following definition:
+language modelling, POS tagging, speech recognition and NER. Different from feedforward 
+neural networks, RNNs can retain information in their internal state, making them more 
+suitable for processing sequences, and consequently for solving text related tasks. 
+Figure~\ref{fig:rnn_network} describes an RNN for sequence labeling unrolled through multiple 
+timesteps. At each timestep, the neural network computes a hidden state $ h_t $ using an input 
+vector $ x_t $ and the previous hidden state $ h_{t-1} $, that retains information from past 
+iterations. Finally, the RNN produces an output vector $ y_t $ representing the label for that 
+timestep. A common definition for an RNN cell is given by the equations:
 
 \begin{flalign*}
-\Gamma_i^{<t>} &= \sigma(W_i[x^{<t>},h^{<t-1>}] + b_i) &\\
-\Gamma_f^{<t>} &= \sigma(W_f[x^{<t>},h^{<t-1>}] + b_f) &\\ 
-c^{<t>}        &= \Gamma_f^{<t>} \circ c^{<t-1>} + \Gamma_i^{<t>} tanh(W_c[x^{<t>},h^{<t-1>}] + b_c) &\\
-\Gamma_o^{<t>} &= \sigma(W_o[x^{<t>},h^{<t-1>}] + b_o) &\\
-h^{<t>}        &= \Gamma_o^{<t>} \circ tanh(c^{t}) &
+h_t &= tanh(W_x x_t + W_h h_{t-1}) &\\
+y_t &= softmax(W_y h_t) &
+\end{flalign*}
+
+Where $ W_x $, $ W_h $ and $ W_y $ are weight matrices that can be trained with the 
+Backpropagation Through Time (BPTT) algorithm. Theoretically, RNNs are capable of learning
+and retaining long term dependencies through their internal state $ h_t $. However, in practice,
+it becomes difficult due to the vanishing gradient problem. Long short term memory networks (LSTM) were 
+introduced by Hochreiter and Schmidhuber \cite{Hochreiter1997} with this problem in mind and 
+have been popularized since then. 
+
+LSTMs incorporate a memory cell $ c $ in the RNN definition and three gates to control 
+the flow of information that comes in and out of the memory cell.
+The input gate $ \Gamma_{i} $ controls the amount of new information that will flow into the memory cell,
+the forget gate $ \Gamma_{f} $ controls the amount of previous information that will be retained in the memory
+cell, and the output gate $ \Gamma_{o} $ controls the amount of information stored in the memory cell that
+will be used to compute the output activation of the LSTM unit. LSTM cell implementations vary slightly in 
+the literature, so we give the definition for our implementation below:
+
+\begin{flalign*}
+\Gamma_{i} &= \sigma(W_i[x_t,h_{t-1}] + b_i) &\\
+\Gamma_{f} &= \sigma(W_f[x_t,h_{t-1}] + b_f) &\\ 
+\Gamma_{o} &= \sigma(W_o[x_{t},h_{t-1}] + b_o) &\\
+c_t      &= \Gamma_{f} \circ c_{t-1} + \Gamma_{i} \circ tanh(W_c[x_{t},h_{t-1}] + b_c) &\\
+h_t      &= \Gamma_{o} \circ tanh(c_t) &
 \end{flalign*}
 
 \begin{figure}
@@ -462,17 +480,21 @@ h^{<t>}        &= \Gamma_o^{<t>} \circ tanh(c^{t}) &
 
 where $ \sigma $ is the logistic sigmoid function. $ \Gamma_i $, $ \Gamma_f $, and $ \Gamma_o $ are the input,
 forget and output gates, respectively. And $ W $ with a subscript is the weight 
-matrix corresponding to that gate. Variable $ c^{<t>} $ is the cell 
-state and $ h^{<t>} $ is the hidden state, with the vector $ [x^{<t>},h^{<t-1>}] $ 
-being formed by concatenating the current input vector $ x^{<t>} $ and the hidden vector 
-from the previous timestep $ h^{<t-1>} $. A visual description of our LSTM cell is 
+matrix corresponding to that gate. Variable $ c_{t} $ is the cell 
+state and $ h_{t} $ is the hidden state, with the vector $ [x_{t},h_{t-1}] $ 
+formed by concatenating the current input vector $ x_{t} $ and the hidden vector 
+from the previous timestep $ h_{t-1} $. A visual description of our LSTM cell is 
 provided in figure \ref{fig:lstm_cell}.
+
 This implementation differs from the LSTM cell described in Huang et al. \cite{Huang2015}
 in that the input gate $ \Gamma_i $ and the forget gate $ \Gamma_f $
 do not take input from the previous cell state $ c^{<t-1>} $ and the output gate does
-not take input from the current cell state $ c^{<t>} $. The cell state and the control gates 
+not take input from the current cell state $ c^{<t>} $. 
+
+The cell state and the control gates 
 are what makes the LSTM cell better at modelling long term dependencies in comparison
 to a regular RNN.
+
 
 In NER related tasks, both past and future words are important when deciding the
 label at time $ t $, but a regular LSTM network only takes past features into consideration. 
@@ -482,6 +504,7 @@ states and the second LSTM receives the backward states. The hidden states from 
 networks can be concatenated at each time step to produce the output label. With this 
 architecture, Bidirectional LSTMs have information from all input features in the sequence at 
 any given timestep.
+
 
 \subsubsection{LSTM-CRF}
 \label{sssec:lstm_crf}
@@ -554,7 +577,7 @@ learning rate 0.01, momentum 0.9 and decay rate 0.05. We used early stopping \ci
 parameters, considering the F1 measure in the validation set. All neural models used 
 GloVe 100-dimensional word embeddings \cite{Pennington2014} that were fine tuned during training,
 they have a vocabulary size of 400.000 words.
-In the case of NER on HTML, word embeddings work similar to a gazetteer. Named entities 
+In the case of NER on HTML, word embeddings work similarly to a gazetteer. Named entities 
 with the same type have similar embeddings, so good word embeddings can achieve exceptional 
 performance with little training and without a gazetteer. 
 
