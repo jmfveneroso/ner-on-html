@@ -1,8 +1,10 @@
-\documentclass[sigconf]{acmart}
-\settopmatter{printacmref=false} % Removes citation information below abstract
-\renewcommand\footnotetextcopyrightpermission[1]{} % removes footnote with conference information in first column
-\pagestyle{plain} % removes running headers
-\setcopyright{none}
+\documentclass{nle}
+
+% \documentclass[sigconf]{acmart}
+% \settopmatter{printacmref=false} % Removes citation information below abstract
+% \renewcommand\footnotetextcopyrightpermission[1]{} % removes footnote with conference information in first column
+% \pagestyle{plain} % removes running headers
+% \setcopyright{none}
 
 \usepackage{booktabs} % For formal tables
 \usepackage[ruled]{algorithm2e} % For algorithms
@@ -24,49 +26,56 @@
 
 \begin{document}
 
-\title{Named Entity Recognition on HTML as a web data extraction subtask}
+\title{Web data extraction through named entity labeling}
 
 \author{João Mateus de Freitas Veneroso}
-\affiliation{%
-  \institution{Universidade Federal de Minas Gerais}
-  \streetaddress{Av. Pres. Antônio Carlos, 6627 - Pampulha}
-  \city{Belo Horizonte}
-  \state{MG}
-  \postcode{31270-901}
-  \country{Brazil}}
-\email{jmfveneroso@gmail.com}
-
-\author{Berthier Ribeiro-Neto}
-\affiliation{%
-  \institution{Universidade Federal de Minas Gerais}
-  \streetaddress{Av. Pres. Antônio Carlos, 6627 - Pampulha}
-  \city{Belo Horizonte}
-  \state{MG}
-  \postcode{31270-901}
-  \country{Brazil}}
-\email{berthier@dcc.ufmg.br}
-\email{berthier@google.com}
+% \affiliation{%
+%   \institution{Universidade Federal de Minas Gerais}
+%   \streetaddress{Av. Pres. Antônio Carlos, 6627 - Pampulha}
+%   \city{Belo Horizonte}
+%   \state{MG}
+%   \postcode{31270-901}
+%   \country{Brazil}}
+% \email{jmfveneroso@gmail.com}
+% 
+% \author{Berthier Ribeiro-Neto}
+% \affiliation{%
+%   \institution{Universidade Federal de Minas Gerais}
+%   \streetaddress{Av. Pres. Antônio Carlos, 6627 - Pampulha}
+%   \city{Belo Horizonte}
+%   \state{MG}
+%   \postcode{31270-901}
+%   \country{Brazil}}
+% \email{berthier@dcc.ufmg.br}
+% \email{berthier@google.com}
 
 \begin{abstract}
 
-Web data extraction (WDE) methods often rely on hand-coded rules to 
-identify and extract data from web pages. These methods 
-may be suited to extract information from single websites, but
-they usually perform poorly on extraction tasks across different 
-websites or different application domains. Statistical methods
-are more flexible in this regard. In this paper, we investigate
-different approaches to Named Entity Recognition (NER) on HTML, an
-essential substask in statistical models of web data extraction.
-Webpages can be very different from plain text due to their 
-semistructured nature, so we introduced a novel dataset that focuses
-on researcher name extraction from faculty listings from numerous
-university websites to evaluate different models in the 
-NER on HTML task. We found that neural network
-architectures with a Conditional Random Fields output layer and
-neural character representations are able to achieve an F1-score
-of 0.8867 with no inputs besides word embeddings. These NER models 
-can be part of a flexible and effective approach to WDE that does not
-rely on gazetteers, regular expressions or any hand-coded rules. 
+Web data extraction methods often rely on hand-coded rules to 
+identify and extract data from web pages. These methods are usually
+suited for extracting information from repeating templates inside
+the same website, however they perform poorly on extraction 
+tasks across different websites. Alternatively, statistical and 
+machine-learning-based sequence labeling methods provide a more flexible 
+approach to Web data extraction. HTML text is ocasionally very different 
+from plain text because sentences can be too short to provide adequate 
+context for conventional Named Entity Recognition methods to work 
+properly. Also, the HTML structure can encode information that is not 
+replicated in the text. Nonetheless, these limitations can be overcome by
+adequate feature engineering, the use of pre-trained word 
+embeddings and neural character representations. In this article, we 
+evaluate the performance of different methods of named entity recognition 
+on the task of Web data extraction. In particular, we introduce a novel 
+dataset consisting of faculty listings from university webpages across
+the world in multiple languages and test the NER models on the task of 
+extracting researcher names from these listings. We found that a 
+neural network architecture that combines a bidirectional LSTM with
+a Conditional Random Fields output layer and LSTM-based character 
+representations outperforms other methods on the researcher name 
+extraction task, achieving an F1-score of 0.8867 with no feature engineering. 
+With the addition of hand crafted features, the F1-score can be slightly 
+improved to 0.8995 with another neural architecture that incorporates
+CNN-based character representations.
 
 \end{abstract}
 
@@ -76,75 +85,91 @@ rely on gazetteers, regular expressions or any hand-coded rules.
 
 \section{Introduction}
 
-Web data extraction (WDE) is the task of automatically extracting structured information
-from unstructured or semi-structured web documents. The input usually consists of
-web documents containing a number of predetermined entities organized in a similar 
-manner and the information extraction task consists of identifying these entities
-and organizing them according to a template. In this context, named entity recognition
-(NER) is a subtask that aims to detect named entities in the text and classify them into 
-predetermined categories such as person names, locations or organizations. 
+Web data extraction (WDE) is the task of automatically extracting structured 
+information from unstructured or semi-structured Web documents. The input 
+usually consists of Web documents containing a number of predetermined entities 
+organized in a similar manner. The web data extraction task consists of 
+identifying these entities and organizing them according to a template. 
 
-HTML documents most often lie in between the structured / unstructured data paradigm.
-DOM hierarchy, element disposition, class names, and other features related to 
-the document structure and indirectly associated with the data itself can be valuable 
-information on the task of identifying entities and determining relationships. Yet we 
-cannot expect these features to be completely constrained by an underlying pattern. 
-Organization patterns tend to follow some guidelines but are in no way subject to 
-strict rules. That is why classical information extraction systems such as automatic
-wrapper generators usually do not translate well across different websites. 
+HTML documents most often lie in between the structured/unstructured 
+data paradigm. DOM hierarchy, element disposition, CSS classes, and other 
+features related to the document structure and indirectly associated with the 
+data itself can be valuable information on the task of identifying
+entities. Yet, we cannot expect these features to be completely constrained 
+by an underlying pattern. Organization patterns tend to follow some guidelines 
+but they are in no way subject to strict rules. That is why classical web data 
+extraction systems such as automatic wrapper generators 
+\cite{Kushmerick2000,Hsu1998,Muslea1999}
+do not translate very well across different websites. 
 
-Most existing web data extraction methods are tailored to extract data from a single
-web page \cite{Crescenzi2001, Arasu2003, Freitag1998, Califf1999, Soderland1999,
-Kushmerick2000, Hsu1998, Muslea1999}, producing different compromises between efficacy
-and degree of human supervision. More recent unsupervised approaches proposed to
-tackle the problem of data extraction for whole application domains \cite{Zhu2005, Zhu2006, 
-Abdessalem2010, Furche2012, Furche2012a}. Unsupervised WDE methods usually operate in at
-least two steps: record segmentation and attribute labelling. Record segmentation
-is essentially clustering visually and structurally similar web page regions and 
-identifying repeating data records. Attribute labelling is the task of identifying
-attributes in data records. Doing any of these tasks well can help performing the 
-other task, since patterns that are present in some data records can help identifying 
-attributes in other data records. And by properly identifying attributes, we are better 
-able to determine the boundaries of data records and segment them with increased accuracy.
+Most existing Web data extraction methods are tailored to extract data 
+from a single Web page, producing different compromises between efficacy and 
+degree of human supervision. Some unsupervised approaches proposed to tackle 
+the problem of data extraction for whole application domains 
+\cite{Zhu2005,Zhu2006,Abdessalem2010,Furche2012,Furche2012a}. Usually, 
+unsupervised WDE methods work in two stages. In the record segmentation stage,
+WDE systems seek to cluster visually and structurally similar web page regions 
+and identify repeating data records, usually with heuristics and 
+hand-coded rules. In the attribute labelling stage, WDE systems seek to identify 
+the correct attributes on data records, many times resorting to regular expressions 
+or gazetteer matching strategies. The outcome of each of these stages can aid one 
+another. The inner patterns of data records can help identifying attributes in other 
+data records. Also, by properly identifying data record attributes, it becomes 
+easier to determine boundaries and perform record segmentation.
 
-In recent years, we saw an astonishing progress in Natural Language Processing.
-However, despite WDE being a closely related field of research,
-many tools rely on heuristics or hand-coded rules to perform record segmentation,
-and many methods resort to regular expressions or gazetteer matching to perform attribute
-labelling. While these approaches can be sufficient to extract information from webpages
-with similar templates and identifying attributes with distinct formats like prices and
-dates, we still lack a sufficiently flexible and intelligent approach to handle more complicated cases.
-Even when extracting data from web documents only, data records may contain pure text with 
-relevant named entities. Also, many WDE algorithms can effectively exploit the semi-
-structure of web documents, but when a method relies too much on structural features, it
-often produces poor generalization on cross website extraction tasks. Contrastingly, we 
-understand that statistical based approaches can be much more flexible.
+While unsupervised approaches can be sometimes adequate to extract information from 
+webpages with similar templates, they usually fail on cross-website data extraction 
+tasks. Also, more sophisticated approaches may be needed when we are not dealing
+with easily distinguishable attributes such as prices and dates. In this regard, 
+machine-learning-based sequence labeling methods can provide a more flexible 
+approach that works regardless of website structure.
 
-In this paper, we investigate the attribute labelling task in WDE with a named entity 
-recognition framework. Recently proposed neural architectures have achieved exciting results 
-on the NER task on plain text \cite{Huang2015, Lample2016, Ma2016} while requiring almost 
-no feature engineering or gazetteers. NER on HTML poses a different type of challenge, 
-because web pages are often very different from plain text. Named entities may be present 
-inside tables, lists, graphs or other types of visual elements that provide
-little to no textual information that could give hints about the semantic category of 
-a word. However we show that we can get exceptional performance even with this limitation
-and small training sets.
+In recent years, we saw an amazing progress in the field of Natural Language Processing, 
+particularly with the introduction of deep recurrent neural network architectures
+for sequence labeling. However, despite web data extraction being a closely 
+related field, there is a lack of extraction tools that make use of these recent 
+advancements. The attribute labelling stage in web data extraction systems
+is essentialy a Named Entity Recognition (NER) problem, the problem of 
+detecting named entities in the text and classifying them into predetermined 
+categories such as person names, locations, dates or organizations. 
 
-By reliably detecting named entities, we can improve the performance of existing WDE 
-approaches or even construct a full machine learning based tool to tackle domain wide
-extraction with great flexibility. To test different NER approaches from the perspective 
-of web data extraction,
-we explored the task of person names extraction from university faculty listings.
-Researcher affiliation is often missing from many entries in public databases 
-and the display of information varies significantly between different university 
-websites, so this task can provide a good measure of the expected performance and
-data need for other web data extraction tasks. 
+In many cases, such as when we are extracting researcher names from faculty listings,
+detecting named entities is sufficient to solve the data extraction task. However, when we are
+dealing with multi attribute data records or complex relationships, we may need to 
+perform additional steps. Nevertheless, even in the latter cases, flexible NER methods 
+are still desirable because, while many WDE algorithms can effectively exploit the 
+semi-structured nature of web documents, too much reliance on structural webpage 
+features often produce poor generalizations on cross website extraction. Also, 
+data records may enclose plain text with relevant named entities. 
+
+In this paper, we investigate methods of named entity recognition for web data extraction.
+Recently proposed neural architectures have achieved exciting results 
+on the NER task in plain text while requiring almost 
+no feature engineering or access to gazetteers \cite{Huang2015,Lample2016,Ma2016}. 
+NER on HTML poses a slightly different type of challenge. Named entities may occur inside 
+tables, lists, graphs or other types of visual elements that provide little to no textual 
+information that could give hints about the semantic category of a word. Still, even 
+with this limitation, we show that it is possible to obtain very good results with a 
+relatively small training set.
+
+By reliably detecting named entities on HTML, we can improve the performance of existing WDE 
+approaches or even construct an end-to-end neural network architecture to tackle domain 
+wide extraction with considerable flexibility. To test different NER approaches to
+web data extraction, we explored the task of researcher name extraction from university 
+faculty listings across the world, introducing a novel NER dataset.
+
+Reliable researcher affiliation information is often missing from public researcher 
+databases (especially in departments other than Computer Science). Also, the display of 
+faculty information varies significantly between different university websites, so 
+this task can provide a good measure of the expected performance and data need of
+NER methods on other web data extraction tasks. 
+
 
 \section{Related Work}
 
 In the last 20 years, the astonishing growth of public information in the web has 
 led to the development of a number of different approaches to the problem of web 
-information extraction. Traditionally, the task was solved by designing special purpose
+data extraction. Traditionally, the task was solved by designing special purpose
 programs called wrappers to recognize relevant data and store records in a structured
 format. These early tools varied wildly relative to their degree of automation. 
 
@@ -173,7 +198,7 @@ To automate the task of web data extraction completely some approaches,
 such as Road Runner \cite{Crescenzi2001}, removed entirely the need for data examples.
 Road Runner parses documents belonging to a same class (e.g. books on Amazon) and 
 generates wrappers based on their similarities and differences, yielding comparable results 
-to those obtained by wrapper induction methods. However like previous approaches, it was 
+to those obtained by wrapper induction methods. However, like previous approaches, it was 
 unsuited for cross site extraction tasks because the learned rules were not general enough.
 
 NLP based approaches aimed at extracting more general rules that could possibly
@@ -227,16 +252,15 @@ the fields of named entity recognition, relationship extraction and information 
 The rule based methods encompass most of the 
 previous models. The statistical methods convert the extraction task into a token labeling 
 task, identifying the target entities through the assignment of labels as in a typical 
-Named Entity Recognition task. Traditionally, Hidden Markov Models \cite{Leek1997, Freitag1999}, 
+Named Entity Recognition task. Traditionally, Hidden Markov Models \cite{Leek1997,Freitag1999}, 
 Linear Chain Conditional Random Fields \cite{Lafferty2001}, and Maximum Entropy Taggers 
 \cite{McCallum2000} have been the usual choice for linear sequence tagging models.
 More recently, with the advancement of Natural Language Processing and Deep Learning, 
-neural models outperformed previous NER methods. Huang et. al. \cite{Huang2015} introduced the 
+neural models outperformed previous NER methods for plain text. Huang et. al. \cite{Huang2015} introduced the 
 bidirectional Long Short-Term Memory (LSTM) model with a Conditional Random Field (CRF) output layer
-for NER. Lample et. al. \cite{Lample2016} incorporated Convolutional Neural Network based character representations 
-on top of the architecture. And Ma and Hovy \cite{Ma2016} introduced
-LSTM based character representations. Both obtaining improvements with systems that are less reliant
-on feature engineering.
+for NER. Ma and Hovy \cite{Ma2016} incorporated Convolutional Neural Network based character representations 
+on top of the architecture. And Lample et. al. \cite{Lample2016} introduced
+LSTM based character representations. 
 
 Surveys by Ferrara et al. \cite{Ferrara2014}, Schulz et al. \cite{Schulz2016} and 
 Varlamov et al. \cite{Varlamov2016} updated the previous surveys on information 
@@ -254,10 +278,12 @@ Most data extraction systems focus on extracting information from single website
 and are therefore unsuited for cross website extraction tasks. Even unsupervised
 approaches that are domain independent, such as RoadRunner \cite{Crescenzi2001} 
 and EXALG \cite{Arasu2003} only work well for extracting data from pages generated 
-from the same template. A statistical approach to unsupervised domain 
+from a same template. 
+
+A statistical approach to unsupervised domain 
 independent web data extraction was described by Zhu et al \cite{Zhu2005}. The 2D CRF 
 model takes a web page segmented into data blocks and employs a two dimensional conditional 
-random field model to perform attribute labelling. The model was further improved in 
+random field model to perform attribute labelling. The model was further improved
 \cite{Zhu2006} to model record segmentation and attribute labelling as a joint task.
 Some of the limitations of early unsupervised methods 
 were also tackled by ObjectRunner \cite{Abdessalem2010} and AMBER \cite{Furche2012}. 
@@ -267,18 +293,18 @@ by exploring regular structures in the DOM during the record segmentation phase.
 
 Web data extraction methods have undoubtedly improved extraordinarily, but
 as pointed by Schulz et al. \cite{Schulz2016}, it is difficult to compare the results 
-achieved by competing tools, and many seem to rely excessively on certain heuristics.
-In that regard, the impressive advancements in NLP may provide for more robust and
+achieved by competing tools, and many seem to rely excessively on heuristic methods.
+In that regard, the recent advancements in sequence taggers may provide more robust and
 flexible extraction tools.
 
 \section{Named Entity Recognition Models}
 
-Most web data extraction systems rely on hand crafted rules or gazetteers to perform
+Many web data extraction systems rely on hand crafted rules or gazetteers to perform
 attribute annotation. Machine learning approaches to NER can improve annotations of 
-more complex entities and even manage entity detection without resorting to a gazetteer.
-We explored multiple approaches to the Named Entity Recognition problem in the context 
-of a web information extraction task. First, we introduce two traditional approaches, 
-namely: Hidden Markov Models and Linear Chain Conditional Random Fields. Then
+more complex entities and even perform entity detection without any feature
+engineering. We explored many methods of Named Entity Recognition
+in the context of a web data extraction task. First, we discuss two traditional 
+approaches: Hidden Markov Models, and Linear Chain Conditional Random Fields. Then,
 we explore neural network architectures.
 
 \subsection{Hidden Markov Models}
@@ -303,58 +329,69 @@ P(Y|X) = \frac{P(X|Y) P(Y)}{P(X)}
 \end{equation}
 
 Since $ P(X) $ is the same for all label sequences $ Y $, we can simply maximize
-$ P(X|Y) P(Y) $.
+the probability $ P(X|Y) P(Y) $.
 
 A HMM makes two assumptions. First, the probability of being in a given state depends 
-only on a fixed number of previous states. That is 
-$ P(y_i|y_{i-1}x_{i-1}, y_{i-2}x_{i-2}, ..., y_1x_1) = P(y_i|y_{i-1}, y_{i-2},..., y_{i-k}) $. 
+only on a fixed number of previous states. That is:
+
+\begin{equation}
+P(y_i|y_{i-1}x_{i-1}, y_{i-2}x_{i-2}, ..., y_1x_1) = P(y_i|y_{i-1}, y_{i-2},..., y_{i-k})
+\end{equation}
+
 In fact, we can get much better results on the NER task by looking at trigrams
 or quadrigrams ($ k = 2 $ or $ k = 3 $) instead of bigrams as a regular HMM. 
 Some label assignments are highly improbable, such as single token named entities 
-separated by a common word, and these kinds of patterns can be caught by a higher order HMM.
-Second, the probability of a word depends only on its assigned label 
-$ P(x_i|y_{i-1}x_{i-1}, ..., y_1x_1) = P(x_i|y_i) $. With these assumptions, 
+separated by a common word. These kinds of patterns can be perceived by a higher order HMM.
+Second, the probability of a word depends only on its assigned label. That is:
+
+\begin{equation}
+P(x_i|y_{i-1}x_{i-1}, ..., y_1x_1) = P(x_i|y_i)
+\end{equation}
+
+With these assumptions, 
 the probability $ P(Y|X) $ can be approximated by the expression:
 
 \begin{equation}
 P(Y|X) \propto \prod_{i=k+1}^{n} P(y_i|y_{i-1}, y_{i-2}, ..., y_{i-k}) P(x_i|y_i)
 \end{equation}
 
-The probabilities can be calculated through maximum likelihood estimation from the relative
+All relevant probabilities can be estimated through maximum likelihood estimation from the relative
 frequencies of labels and features in the corpus. The best sequence of labels can be computed 
 with a variable state Viterbi approach \cite{Li2000}. However, as we increase $ k $, this computation 
 becomes exponentially more expensive. The beam-search strategy may be employed for a faster 
 search, but we found that for $ k \leq 4 $, the Viterbi algorithm is still viable.
 
-HMM based taggers have been succesfully apllied in many NLP and WDE tasks 
-\cite{Rabiner1990, Leek1997, Freitag2000}. They are incredibly fast to train and very 
+HMM based taggers have been succesfully applied in many NLP and WDE tasks 
+\cite{Rabiner1990,Leek1997,Freitag2000}. They are incredibly fast to train and also they are very 
 interpretable, making them a good choice for a first approximation. However, these models 
 are highly dependent on the right selection of features, what may outweigh the benefit of a 
 small training cost.
 
 \subsubsection{Self training} \label{sssec:self_training}
 
-In the particular case of NER on HTML, there are useful features related to the HTML
-structure that can be used to identify named entities. In a particular website, named
-entities tend to occur inside the same HTML tags with the same CSS classes. This fact
-can be used as an additional piece of evidence in the HMM tagger. However, if we train 
-the HMM for a particular set of websites, and then we feed it with new websites, almost 
-surely there will be small correlation between the HTML features estimated in the training 
-set and the distribution of these features in the new websites, simply because websites 
-use very different templates. Therefore, we propose to use a self training strategy to train 
-these HTML features. This is only possible because the HMM can be trained very quickly. The 
-self training strategy is implemented like this:
+In the task of NER on HTML, there are useful features related to the HTML
+structure that can help in identifying named entities. On a given website, named
+entities tend to occur inside the same HTML tags. The HTML tag feature or other
+HTML features could easily be incorporated in the HMM. However, these 
+features are only useful inside a single website and they cannot be generalized, 
+because different websites use distinct HTML templates. 
+Therefore, we propose a self training strategy to obtain probabilities for
+these HTML features. It is implemented like this:
 
 \begin{itemize}
-\item Train the HMM with the training set without HTML features.
-\item Compute labels for the new websites with the trained HMM.
-\item Use these computed labels as a proxy for the actual labels in the 
-new websites and estimate HTML feature frequencies only in the new websites.
-\item Recompute the labels using the HTML features.
+\item Train the HMM without any HTML features.
+\item Compute labels for a website with the trained HMM.
+\item Use the computed labels as a proxy for the actual labels in the 
+website and estimate HTML feature frequencies for this website alone.
+\item Recompute the labels now using the HTML feature probabilities.
 \end{itemize}
 
-This adds very little overhead to the original model while improving precision and recall
-modestly.
+In theory, this strategy could be used with any sequence tagger, however
+retraining a classifier with new features can become prohibitively expensive.
+This strategy is only possible because the computation of HTML feature
+frequencies can be performed very quickly. This adds very little overhead 
+to the original HMM and improves precision and recall by a considerable 
+margin.
 
 \subsection{Linear Chain Conditional Random Fields}
 
@@ -379,18 +416,19 @@ which is a sum over all possible label assignments $ Y $. The partition function
 and exactly calculated with the sum-product algorithm. Parameter estimation is usually done through 
 negative log likelihood minimization. The function can be optimized with techniques suitable for other 
 maximum entropy models such as L-BFGS \cite{Liu1989}. The most likely label sequences can be decoded 
-with the Viterbi algorithm, as was the case on HMMs.
+with the Viterbi algorithm, as was the case for HMMs.
 
-CRFs are more general than HMMs because the transitions from $ y_{t-1} $ to $ y_{t} $ can also depend 
-on the vector of observations $ X $. This flexibility of feature functions allow for a wide range of
+CRFs are more general than HMMs because the transitions from $ y_{t-1} $ to $ y_{t} $ can depend 
+on the whole vector of observations $ X $. This flexibility of feature functions allows for a wide range of
 possibilities. Recently, CRFs have been succesfully employed as the output layer in complex neural 
-architectures bringing improvements over models that classify labels independently.
+architectures bringing improvements over models that compute labels independently.
 
-\subsection{Neural Network Models}
+\subsection{Neural Network Architectures}
 
 \begin{figure}
   \centering
-  \includegraphics[width=0.5\textwidth]{pics/rnn_network}
+  % \includegraphics[width=0.5\textwidth]{pics/rnn_network}
+  \includegraphics[width=400px]{pics/rnn_network}
   \caption{RNN for NER}
   \label{fig:rnn_network}
 \end{figure}
@@ -402,9 +440,9 @@ and consequently for solving text related tasks. In NER, the network outputs one
 vector as shown in Figure \ref{fig:rnn_network}. 
 
 Although RNNs are theoretically capable of learning long term dependencies, in practice 
-it might be difficult. Long short term memory networks (LSTM) were introduced by Hochreiter 
-and Schmidhuber \cite{Hochreiter1997} with this problem in mind and have been 
-popularized since them. LSTM cell implementations vary slightly in the literature.
+it becomes difficult due to vanishing gradients. Long short term memory networks (LSTM) were 
+introduced by Hochreiter and Schmidhuber \cite{Hochreiter1997} with this problem in mind and 
+they have been popularized since then. LSTM cell implementations vary slightly in the literature.
 Our implementation has the following definition:
 
 \begin{flalign*}
@@ -437,7 +475,7 @@ are what makes the LSTM cell better at modelling long term dependencies in compa
 to a regular RNN.
 
 In NER related tasks, both past and future words are important when deciding the
-label at time $ t $, but a regular LSTM network only takes past features in consideration. 
+label at time $ t $, but a regular LSTM network only takes past features into consideration. 
 A bidirectional LSTM solves this problem by stacking two regular LSTMs, and feeding
 them with observations in opposite directions. The first LSTM receives the forward
 states and the second LSTM receives the backward states. The hidden states from both 
@@ -633,13 +671,13 @@ are presented in Table \ref{tab:features}.
 \end{table}
 
 The unaccented lowercase token was used as the key for the Glove-100 embedding lookup.
-A gazetteer was constructed from a researcher list extracted from DBLP with 1.595.771
+A gazetteer was constructed from a researcher list extracted from DBLP with 1,595,771
 names. Table \ref{tab:gazetteer} shows the precision, recall and F1 score obtained with an
 exact gazetteer matching strategy in each data file as a baseline.
-Feature 2 represents an exact match of a sequence of tokens to any of the 1.595.771 
+Feature 2 represents an exact match of a sequence of tokens to any of the 1,595,771 
 names, and feature 3 represents a partial match. Feature 4 is the rounded logarithm of 
 the frequency of a token in the gazetteer, and feature 5 is the rounded logarithm of the frequency
-of a token in a word corpus obtained through a random crawl in university websites.
+of a token in a word corpus obtained through a random crawl on university websites.
 Features 6 to 11 represent a simple regular expression match to an email, number, 
 honorific, URL, capitalization and punctuation sign.
 
@@ -648,8 +686,7 @@ represents all CSS classes concatenated. These features are not very useful in a
 sense, because every HTML document has a different format, so only because a named entity
 occurs inside a given HTML tag in a document we cannot say it is more likely to be the case 
 in other documents. However, these features can be trained with the self-training strategy 
-for HMMs described in section \ref{sssec:self_training}. In all other models these features 
-were ignored.
+for HMMs described in section \ref{sssec:self_training}. 
 
 \section{Experiments}
 
@@ -657,7 +694,7 @@ Two experiments were conducted to evaluate the best models for named entity reco
 on HTML in the context of web data extraction. In the first experiment, we trained the NER models
 using the entire training set (85 documents). In the second experiment, the training set was 
 split into five non overlapping sets with 17 documents, and every model was trained
-and tested once using each set, while the test data was kept unchanged. We wanted to verify empirically 
+and tested once using each set, while the test data was kept unchanged. We wanted to verify 
 how the models behaved when training data is limited, since labelling NER datasets can be a
 very time consuming effort.
 
@@ -897,7 +934,18 @@ of named entities on HTML is an essential step in most general web data extracti
 However it may also point to the possibility of constructing a truly flexible approach to
 cross domain data extraction based on neural networks.
 
-\bibliographystyle{unsrt}
-\bibliography{bibfile}
+% \bibliographystyle{unsrt}
+% \bibliography{bibfile}
+
+\begin{thebibliography}{}
+  \bibitem[\protect\citename{Akmajian and Lehrer }1976]{Crescenzi2001}
+   Akmajian, A. and Lehrer, A. (1976) NP-like quantifiers and the
+   problem of determining the head of an NP. {\it Linguistic
+   Analysis\/} {\bf 2}: 295--313.
+  \bibitem[\protect\citename{Akmajian and Lehrer }1976]{Arasu2003}
+   Akmajian, A. and Lehrer, A. (1976) NP-like quantifiers and the
+   problem of determining the head of an NP. {\it Linguistic
+   Analysis\/} {\bf 2}: 295--313.
+\end{thebibliography}
 
 \end{document}

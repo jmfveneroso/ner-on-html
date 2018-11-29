@@ -155,7 +155,7 @@ elif model in ['nb', 'hmm-1', 'hmm-2', 'hmm-3', 'hmm-4']:
   print_results('Test', hmm.predict(X3), Y3, T3)
 
 elif model in ['maxent', 'crf', 'lstm-crf', 'lstm-crf-cnn', 'lstm-crf-lstm']:
-  we = WordEmbeddings('glove-100')
+  we = WordEmbeddings('glove-300')
 
   if dataset:
     dev = Dataset(dataset, we, max_sentence_len=50, max_token_len=20)
@@ -176,7 +176,7 @@ elif model in ['maxent', 'crf', 'lstm-crf', 'lstm-crf-cnn', 'lstm-crf-lstm']:
   )
   
   lstm_crf.create(we.matrix)
-  lstm_crf.fit(callbacks=[Metrics(lstm_crf)], epochs=10)
+  lstm_crf.fit(callbacks=[Metrics(lstm_crf)], epochs=50)
 
   lstm_crf.load_best_model()
   val_predict, val_targ, T = lstm_crf.validate()

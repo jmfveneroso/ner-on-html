@@ -39,7 +39,13 @@ class WordEmbeddings():
 
 def load_raw_dataset(f, max_sentence_len=50):
   with open(f, 'r') as f:
-    sentences = f.read().strip().split('\n\n')
+    data = f.read().strip()
+
+    # sentences = re.compile("-DOCSTART-.+\n\n").split(data)
+    # sentences = [s for s in sentences if len(s) > 0]
+    # X = [[t.split(' ') for t in re.compile("\n+").split(s) if not re.match("^\s+$", s)] for s in sentences]
+
+    sentences = data.split('\n\n')
     sentences = [s for s in sentences if not s.startswith('-DOCSTART-')]
     X = [[t.split(' ') for t in s.split('\n') if len(s) > 0] for s in sentences]
     Y = np.zeros((len(X), max_sentence_len, num_labels))

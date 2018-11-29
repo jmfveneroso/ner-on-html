@@ -1,0 +1,521 @@
+% nleguide.tex
+% v1.14, released 30th September 1998
+% Copyright 1995, 1997, 1998 Cambridge University Press
+
+\documentclass{nle}
+
+\title[Natural Language Engineering]
+      {Natural Language Engineering \LaTeX\ Supplement}
+\author[\LaTeX\ Supplement]
+       {C\ls A\ls M\ls B\ls R\ls I\ls D\ls G\ls E\ns
+        \TeX\ls -\ls T\ls O\ls -\ls T\ls Y\ls P\ls E\\
+        Electronic Products and Composition Group,\\
+        Printing Division, Cambridge University Press,
+        CB2 2BS.}
+
+\received{20 March 1995; revised 30 September 1998}
+
+\pagerange{\pageref{firstpage}--\pageref{lastpage}}
+\pubyear{1998}
+
+\newcommand\eg{{\it e.g.\ }}
+\newcommand\etc{{\it etc}}
+
+\begin{document}
+
+\label{firstpage}
+\maketitle
+
+\begin{abstract}
+This guide is for authors who are preparing papers for the {\em Natural
+Language Engineering\/} journal using the \LaTeX\ document preparation
+system and the CUP NLE style file.
+\end{abstract}
+
+\section{Introduction}
+
+The layout design for the {\em Natural Language Engineering\/} journal
+has been implemented as a \LaTeX\ style file. The NLE style file is based
+on the ARTICLE style as discussed in the \LaTeX\ manual. Commands which
+differ from the standard \LaTeX\ interface, or which are provided in addition
+to the standard interface, are explained in this guide. This guide is not a
+substitute for the \LaTeX\ manual itself.
+
+\subsection{Introduction to \LaTeX}
+
+The \LaTeX\ document preparation system is a special version of the
+\TeX\ typesetting program. \LaTeX\ adds to \TeX\ a collection of
+commands which simplify typesetting by allowing the author to
+concentrate on the logical structure of the document rather than
+its visual layout.
+
+\LaTeX\ provides a consistent and comprehensive document preparation
+interface. There are simple-to-use commands for generating a table of
+contents, lists of figures and/or tables, and indexes. \LaTeX\ can
+automatically number list entries, equations, figures, tables, and
+footnotes, as well as parts, chapters, sections and subsections.
+Using this numbering system, bibliographic citations, page references
+and cross references to any other numbered entity (\eg chapter,
+section, equation, figure, list entry) are quite straightforward.
+
+\subsection{The NLE Document Style}
+
+The use of document styles allows a simple change of style (or style option)
+to transform the appearance of your document. The CUP NLE style file preserves
+the standard \LaTeX\ interface such that any document which can be produced
+using the standard \LaTeX\ ARTICLE style can also be produced with the
+NLE style. However, the measure (or width of text) is slightly different
+from that for ARTICLE, therefore line breaks will change and it is possible
+that equations may need re-setting.
+
+\section{Using the NLE style}
+
+First, copy the file \verb"NLE.sty" into the correct subdirectory on your
+system. The NLE document style is implemented as a complete document style,
+{\em not\/} as a document style option. In order to use the NLE style,
+replace \verb"article" by \verb"nle" in the \verb"\documentstyle" command
+at the beginning of your document:
+%
+\begin{verbatim}
+  \documentstyle{article}
+\end{verbatim}
+%
+is replaced by
+%
+\begin{verbatim}
+  \documentstyle{nle}
+\end{verbatim}
+%
+None of the standard document style options should be used.
+
+\section{Additional facilities}
+
+In addition to all the standard \LaTeX\ design elements, the NLE style
+includes the following feature:
+\begin{itemize}
+  \item Extended commands for specifying a short version
+        of the title and author(s) for the running
+        headlines.
+\end{itemize}
+Once you have used this additional facility in your document,
+do not process it with a standard \LaTeX\ style file.
+
+\subsection{Titles and authors' names}
+
+In the NLE style, the title of the article and the author's name (or authors'
+names) are used both at the beginning of the article for the main title and
+throughout the article as running headlines at the top of every page.
+The title is used on odd-numbered pages (rectos) and the author's name appears
+on even-numbered pages (versos).
+Although the main heading can run to several lines of text, the running head
+line must be a single line.
+Moreover, the main heading can also incorporate new line commands
+(\eg \verb"\\") but these are not acceptable in a running headline.
+To enable you to specify an alternative short title and author's name, the
+standard \verb"\title" and \verb"\author" commands have been extended to take
+an optional argument to be used as the running headline:
+%
+\begin{verbatim}
+  \title[A short title]{The full title which can be as long
+   as necessary}
+  \author[Author's name]{The full author's name, followed by\\
+   the affiliation if necessary}
+\end{verbatim}
+%
+The following example is taken from Abadi et~al. (1991) and
+shows several authors and their affiliations.
+%
+\begin{verbatim}
+  \title{Explicit substitutions}
+  \author[M. Abadi and others]
+   {M.\ns A\ls B\ls A\ls D\ls I,\ns
+    L.\ns C\ls A\ls R\ls D\ls E\ls L\ls L\ls I\\
+   Digital Equipment Corp., Systems Research Center,\\
+   130 Lytton Avenue, Palo Alto, California, USA 94301
+   \and
+   P.-L.\ns C\ls U\ls R\ls I\ls E\ls N\\
+   Laboratoire d'Informatique, Ecole Normale Sup'erieure,
+   45 Rue d'Ulm 75005, Paris, France
+   \and
+   and\ns J.-J.\ns L\ls \'E\ls V\ls Y\\
+   INRIA, Domaine de Voluceau, Roquencourt, B.P.105, 78153,
+   Le Chesnay, Cedex, France.}
+\end{verbatim}
+Notice the use of the predefined macros \verb"\ls" and \verb"\ns" to
+letter-space the author's name. As you can see from this example, when
+there are four or more authors, the short author name argument should
+contain the first authors name followed by the text `and others'.
+
+\subsection{Abstract}
+
+The NLE style provides for an abstract which is produced by the following
+commands
+%
+\begin{verbatim}
+  \begin{abstract}
+    ...
+  \end{abstract}
+\end{verbatim}
+
+\subsection{Lists}
+
+The NLE style provides the three standard list environments.
+\begin{itemize}
+  \item Bulleted lists, created using the \verb"itemize" environment.
+  \item Numbered lists, created using the \verb"enumerate" environment.
+  \item Labelled lists, created using the \verb"description" environment.
+\end{itemize}
+
+\subsection{Footnotes}
+
+The NLE journal style uses superior numbers for footnote
+references.\footnote{This shows how a footnote is typeset.}
+
+\section{Some guidelines for using standard facilities}
+
+The following notes may help you achieve the best effects with the NLE style
+file.
+
+\subsection{Sections}
+
+\LaTeX\ provides five levels of section headings and they are all
+defined in the NLE style file:
+\begin{itemize}
+  \item \verb"\section".
+  \item \verb"\subsection".
+  \item \verb"\subsubsection".
+  \item \verb"\paragraph".
+  \item \verb"\subparagraph".
+\end{itemize}
+Section numbers are given for sections, subsection and subsubsection headings.
+
+\subsection{Running headlines}
+
+As described above, the title of the article and the author's name (or authors'
+names) are used as running headlines at the top of every page.
+The title is used on odd-numbered pages (rectos) and the author's name appears
+on even-numbered pages (versos).
+
+The \verb"\pagestyle" and \verb"\thispagestyle" commands should {\em not\/} be
+used.
+Similarly, the commands \verb"\markright" and \verb"\markboth" should not be
+necessary.
+
+
+\subsection{Tables}
+
+The {\tt figure} and {\tt table} environments are implemented as described in
+the \LaTeX\ Manual to
+provide consecutively numbered floating inserts for illustrations and tables
+respectively.
+The standard inserts and their captions are formatted centred.
+Line breaks in captions can be inserted as required using \verb"\\".
+
+The NLE style file will cope with most positioning of your tables
+and you should not normally use the optional positional qualifiers on the
+\verb"table" environment which would override these decisions.
+Normal journal style sets the table caption first, followed by a double
+rule, the table body and a double rule at the bottom.  Single rules and
+spanner rules (\verb"\cline") can be used to separate headings from the
+columns.  For example, Table~\ref{sample-table} is produced using the
+following commands:\par
+%
+{\small
+\begin{verbatim}
+\begin{table}
+  \caption{Results of Overloading for 3 Experimental Setups}
+  \begin{minipage}{\textwidth}
+    \begin{tabular}{lcrrrrr}
+    \hline\hline
+    Program& Expt.&
+     CPU\footnote{Seconds of elapsed time on an unloaded Sun 3/50.}&
+     RelCPU\footnote{CPU Time relative to experiment (a).}&
+     GC& Mem\footnote{Bytes of heap used over the duration of the program.}&
+     RelMem\footnote{Memory usage relative to experient (a).}\\
+    \hline
+    8 Queens& (a)&   2\hpt 88&  1\hpt 00&    6&   1\hpt 7M&  1\hpt 00\\
+    &         (b)&  32\hpt 51& 11\hpt 29&  193&  48\hpt 9M& 28\hpt 76\\
+    &         (c)&   7\hpt 90&  2\hpt 74&   42&  11\hpt 3M&  6\hpt 65\\
+    \noalign{\vspace {.5cm}}
+    Primes&   (a)&   4\hpt 89&  1\hpt 00&   19&   5\hpt 3M&  1\hpt 00\\
+    &         (b)&  47\hpt 54&  9\hpt 72&  204&  54\hpt 5M& 10\hpt 28\\
+    &         (c)&  10\hpt 08&  2\hpt 06&   47&  13\hpt 0M&  2\hpt 45\\
+    \noalign{\vspace {.5cm}}
+    Nfib&     (a)&  21\hpt 65&  1\hpt 00&  161&  40\hpt 4M&  1\hpt 00\\
+    &         (b)& 221\hpt 65& 10\hpt 24& 1382& 349\hpt 0M&  8\hpt 64\\
+    &         (c)&  21\hpt 30&  0\hpt 98&  161&  42\hpt 0M&  1\hpt 03\\
+    \noalign{\vspace {.5cm}}
+    KWIC&     (a)&   7\hpt 07&  1\hpt 00&   15&   6\hpt 3M&  1\hpt 00\\
+    &         (b)&  34\hpt 55&  4\hpt 89&  109&  47\hpt 8M&  7\hpt 59\\
+    &         (c)&  31\hpt 62&  4\hpt 47&   53&  45\hpt 0M&  7\hpt 14\\
+    \hline\hline
+    \end{tabular}
+    \vspace{-2\baselineskip}
+  \end{minipage}
+  \label{sample-table}
+\end{table}
+\end{verbatim}}
+%
+\noindent Notice the use of the \verb"\hpt" macro to obtain the centered
+decimal points, inside the body of the table.
+
+\begin{table}
+  \caption{Results of Overloading for 3 Experimental Setups}
+  \begin{minipage}{\textwidth}
+    \begin{tabular}{lcrrrrr}
+    \hline\hline
+    Program& Expt.&
+     CPU\footnote{Seconds of elapsed time on an unloaded Sun 3/50.}&
+     RelCPU\footnote{CPU Time relative to experiment (a).}&
+     GC& Mem\footnote{Bytes of heap used over the duration of the program.}&
+     RelMem\footnote{Memory usage relative to experient (a).}\\
+    \hline
+    8 Queens& (a)&   2\hpt 88&  1\hpt 00&    6&   1\hpt 7M&  1\hpt 00\\
+    &         (b)&  32\hpt 51& 11\hpt 29&  193&  48\hpt 9M& 28\hpt 76\\
+    &         (c)&   7\hpt 90&  2\hpt 74&   42&  11\hpt 3M&  6\hpt 65\\
+    \noalign{\vspace {.5cm}}
+    Primes&   (a)&   4\hpt 89&  1\hpt 00&   19&   5\hpt 3M&  1\hpt 00\\
+    &         (b)&  47\hpt 54&  9\hpt 72&  204&  54\hpt 5M& 10\hpt 28\\
+    &         (c)&  10\hpt 08&  2\hpt 06&   47&  13\hpt 0M&  2\hpt 45\\
+    \noalign{\vspace {.5cm}}
+    Nfib&     (a)&  21\hpt 65&  1\hpt 00&  161&  40\hpt 4M&  1\hpt 00\\
+    &         (b)& 221\hpt 65& 10\hpt 24& 1382& 349\hpt 0M&  8\hpt 64\\
+    &         (c)&  21\hpt 30&  0\hpt 98&  161&  42\hpt 0M&  1\hpt 03\\
+    \noalign{\vspace {.5cm}}
+    KWIC&     (a)&   7\hpt 07&  1\hpt 00&   15&   6\hpt 3M&  1\hpt 00\\
+    &         (b)&  34\hpt 55&  4\hpt 89&  109&  47\hpt 8M&  7\hpt 59\\
+    &         (c)&  31\hpt 62&  4\hpt 47&   53&  45\hpt 0M&  7\hpt 14\\
+    \hline\hline
+    \end{tabular}
+    \vspace{-2\baselineskip}
+  \end{minipage}
+  \label{sample-table}
+\end{table}
+
+The \verb"tabular" environment should be used to produce ruled tables;
+it has been modified for the NLE style in the following ways:
+\begin{enumerate}
+  \item Additional vertical space is inserted above and below a horizontal rule
+        (produced by \verb"\hline");
+  \item Tables are centred, and span the full width of the page; that is,
+  they are similar to the tables that would be produced by
+  \verb"\begin{minipage}{\textwidth}".
+\end{enumerate}
+Because of this reformatting, vertical rules should not be used;
+furthermore, commands to
+redefine quantities such as \verb"\arraystretch" should be omitted. If
+the old tabular facilities are needed, there is a new environment,
+\verb"oldtabular", which has none of the reformatting; it should be used
+in exactly the same way.
+
+\subsection{Illustrations (or figures)}
+
+The NLE style will cope with most positioning of your illustrations
+and you should not normally use the optional positional qualifiers on
+the \verb"figure" environment which would override these decisions.
+Figure captions should be below the figure itself, therefore the \verb"\caption"
+command should appear after the figure or space left for an illustration.
+
+Figure~\ref{sample-figure} shows an example of space left above a
+caption for artwork to be pasted in. This was produced with the
+following commands:
+%
+\begin{verbatim}
+  \begin{figure}
+    \vspace{5cm} % the vertical depth of the artwork
+    \caption{An example figure with space for artwork.}
+    \label{sample-figure}
+  \end{figure}
+\end{verbatim}
+%
+\begin{figure}
+  \vspace{5cm} % the vertical depth of the artwork
+  \caption{An example figure with space for artwork.}
+  \label{sample-figure}
+\end{figure}
+%
+The vertical depth should correspond roughly to the artwork you will submit;
+it will be adjusted to fit the final artwork exactly.
+
+\subsection{Bibliography}
+
+As with standard \LaTeX, there are two ways of producing a bibliography;
+either by compiling a list of references by hand (using a
+\verb"thebibliography" environment), or by using BibTeX with a suitable
+bibliographic database. However, contributors are encouraged to format
+their list of references in NLE style outlined in section~\ref{fullref}
+below.
+
+\subsubsection{References in the Text}
+
+References in the text are given by author and date.
+Whichever method is used to produce the bibliography, the references in
+the text are done in the same way. Each bibliographical entry has a key,
+which is assigned by the author and used to refer to that entry in the
+text. There is one form of citation -- \verb"\cite{key}" -- to produce the
+author and date, and another form -- \verb"\shortcite{key}" -- which
+produces the date only. Thus,
+Akmajian and Lehrer \shortcite{akm76} is produced by
+%
+\begin{verbatim}
+  Akmajian and Lehrer \shortcite{akm76}
+\end{verbatim}
+%
+while \cite{sal90} is produced by
+%
+\begin{verbatim}
+  \cite{sal90}.
+\end{verbatim}
+
+\subsubsection{List of References}\label{fullref}
+
+The following listing shows some references prepared in the style of the
+journal.
+%
+\begin{verbatim}
+  \begin{thebibliography}{}
+    \bibitem[\protect\citename{Akmajian and Lehrer }1976]{akm76}
+     Akmajian, A. and Lehrer, A. (1976) NP-like quantifiers and the
+     problem of determining the head of an NP. {\it Linguistic
+     Analysis\/} {\bf 2}: 295--313.
+    \bibitem[\protect\citename{Huddleston }1984]{hud84}
+     Huddleston, Rodney. (1984) {\it Introduction to the Grammar of
+     English}. Cambridge: Cambridge University Press.
+    \bibitem[\protect\citename{McCord }1990]{mcc90}
+     McCord, Michael C. (1990) Slot grammar: a system for simpler
+     construction of practical natural language grammars. In R.
+     Studer (ed.), {\it Natural Language and Logic: International
+     Scientific Symposium}, pp.~118--45. Lecture Notes in Computer
+     Science. Berlin: Springer-Verlag.
+    \bibitem[\protect\citename{Salton {\it et al.}\ }1990]{sal90}
+     Salton, Gerald, Zhao, Zhongnan and Buckley, Chris. (1990)
+     A simple syntactic approach for the generation of indexing
+     phrases. Technical Report 90--1137, Department of Computer
+     Science, Cornell University.
+  \end{thebibliography}
+\end{verbatim}
+%
+This list typesets as shown at the end of this guide.
+Each entry takes the form
+%
+\begin{verbatim}
+  \bibitem[\protect\citename{Author(s), }Date]{tag}
+    Bibliography entry
+\end{verbatim}
+%
+where \verb"Author(s)"\ should be the author names as they are cited in
+the text, \verb"Date" is the date to be cited in the text, and \verb"tag"
+is the tag that is to be used as an argument for the \verb"\cite{}" and
+\verb"\shortcite{}" commands. \verb"Bibliography entry" should be the
+material that is to appear in the bibliography, suitably formatted.  This
+rather unwieldy scheme makes up for the lack of an author-date system in
+\LaTeX.
+
+\appendix
+\section{Special commands in {\tt nle.sty}}
+
+The following is a summary of the new commands, optional
+arguments and environments which have been added to the
+standard \LaTeX\ user-interface in creating the NLE style file.
+
+\vspace{6pt}
+
+\noindent
+\begin{tabular}{lp{8cm}}
+{\em New commands}      & \\
+\ifprodtf
+\verb"\cite"            & the optional argument has changed it's use. This
+                          allows author-date citations to be changed without
+                          loosing the link to the bibliography entry.\\
+\fi
+\verb"\hpt"             & to typeset a centered decimal point (\eg 1\hpt1).
+                          These are normally used inside the body of tables.\\
+\verb"\ls", \verb"\ns"  & to letter space the author's name. \\
+\verb"\proofbox"        & used with \verb"\usebox" to place a proof-box
+                          in the text. \\[6.5pt]
+{\em New optional arguments} & \\
+\verb"[<short title>]"  & in the \verb"\title" command: to define a right running
+                          headline that is different from the article title. \\
+\verb"[<short author>]" & in the \verb"\author" command: to define a left running
+                          headline with text that is different from the
+                          authors' names as typeset at the article opening. \\[6.5pt]
+{\em New environments}  & \\
+\verb"proof"            & to typeset mathematical proofs. \\
+\verb"proof*"           & to typeset mathematical proofs without the
+                          terminating proof-box.
+\end{tabular}
+
+\ifprodtf
+%
+\section{Notes for Editors}
+
+This appendix contains additional information which may be useful to
+those who are involved with the final production stages of an article.
+Authors, who are generally not typesetting the final pages in the
+journal's typeface (Monotype Times), do not need this information.
+
+\subsection{Catchline and date commands}
+
+To be placed in the preamble; for example:
+\begin{itemize}
+  \item \verb"\pubyear{1998}"
+  \item \verb"\volume{{\bf 1} (1):}"
+  \item \verb"\pagerange{35--48}"
+  \item \verb"\received{1 April 1993; revised 30 October 1993}"
+\end{itemize}
+
+\subsection{Macros provided by {\tt NLEsym.sty}}
+
+None at present.
+
+\subsection{Editing citations (when the author has used the
+ {\tt cite} command)}
+
+In the past when an automatic \verb"\cite" command produced text in the output
+which needed to be changed, the argument (in [ ]) from the bibliography entry
+was copied to the location of the \verb"\cite" command and then modified.
+The \verb"\cite" command would then be removed as part of this process.
+
+In the near future, we will probably have to supply \TeX\ output which will
+need to contain `PDF marks' for interactive browsing.  Clearly by removing
+the automatic link to the bibliographic entry (referenced by the \verb"\cite"),
+we are making extra work for ourselves later on.
+
+To avoid this, the function of the \verb"\cite" command's optional argument
+has been changed. For example, the \verb"\cite" command for the
+`\verb"mcc90"' entry gives:
+\[ \hbox{(McCord 1990)} \]
+but you want the following to appear in the text:
+\[ \hbox{(McCord 1990, see p.~119)} \]
+you would then use:
+\[ \hbox{\verb"\cite[(McCord 1990, see p.~119)]{mcc90}"} \]
+to obtain the desired result. Notice that you have to supply
+the round brackets as well in the optional argument.
+This modification also works for the \verb"\shortcite" command.
+%
+\fi
+
+\begin{thebibliography}{}
+  \bibitem[\protect\citename{Akmajian and Lehrer }1976]{akm76}
+   Akmajian, A. and Lehrer, A. (1976) NP-like quantifiers and the
+   problem of determining the head of an NP. {\it Linguistic
+   Analysis\/} {\bf 2}: 295--313.
+  \bibitem[\protect\citename{Huddleston }1984]{hud84}
+   Huddleston, Rodney. (1984) {\it Introduction to the Grammar of
+   English}. Cambridge: Cambridge University Press.
+  \bibitem[\protect\citename{McCord }1990]{mcc90}
+   McCord, Michael C. (1990) Slot grammar: a system for simpler
+   construction of practical natural language grammars. In R.
+   Studer (ed.), {\it Natural Language and Logic: International
+   Scientific Symposium}, pp.~118--45. Lecture Notes in Computer
+   Science. Berlin: Springer-Verlag.
+  \bibitem[\protect\citename{Salton {\it et al.}\ }1990]{sal90}
+   Salton, Gerald, Zhao, Zhongnan and Buckley, Chris. (1990)
+   A simple syntactic approach for the generation of indexing
+   phrases. Technical Report 90--1137, Department of Computer
+   Science, Cornell University.
+\end{thebibliography}
+
+\label{lastpage}
+
+\end{document}
