@@ -61,8 +61,8 @@
 \begin{abstract}
 
 Web data extraction methods often rely on hand-coded rules to 
-identify and extract data from web pages. These methods are usually
-suited for extracting information from pages with repeating templates within
+identify and extract data from webpages. These methods are usually
+suited for extracting information from pages within
 the same website, however they perform poorly on extraction 
 tasks across different websites. Alternatively, statistical and 
 machine-learning-based sequence labeling methods provide a more flexible 
@@ -75,8 +75,9 @@ adequate feature engineering, the use of pretrained word
 embeddings and neural character representations. In this article, we 
 evaluate the performance of different methods of named entity recognition 
 on the task of Web data extraction. In particular, we introduce a novel 
-dataset~\footnote{The dataset and all models discussed in this article are available in: https://github.com/jmfveneroso/ner.} 
-consisting of faculty listings from university web pages across
+dataset\footnote{The dataset and all models discussed in this article are 
+available in: https://github.com/jmfveneroso/ner-on-html.} 
+consisting of faculty listings from university webpages across
 the world in multiple languages and test the NER models on the task of 
 extracting researcher names from these listings. We found that a 
 neural network architecture that combines a bidirectional LSTM with
@@ -127,12 +128,12 @@ extraction systems such as automatic wrapper generators
 do not translate very well across different websites. 
 
 Most existing Web data extraction methods are tailored to extract data 
-from a single Web page, producing different compromises between efficacy and 
+from a single webpage, producing different compromises between efficacy and 
 degree of human supervision. Some unsupervised approaches proposed to tackle 
 the problem of data extraction for whole application domains 
 \cite{Zhu2005,Zhu2006,Abdessalem2010,Furche2012,Furche2012a}. Usually, 
 unsupervised WDE methods work in two stages. In the record segmentation stage,
-WDE systems seek to cluster visually and structurally similar Web page regions 
+WDE systems seek to cluster visually and structurally similar webpage regions 
 and identify repeating data records with heuristics and 
 hand-coded rules. In the attribute labeling stage, WDE systems seek to identify 
 the correct attributes on data records, many times resorting to regular expressions 
@@ -142,7 +143,7 @@ data records. Also, by properly identifying data record attributes, it becomes
 easier to determine boundaries and perform record segmentation.
 
 While unsupervised approaches can be sometimes adequate to extract information from 
-Web pages with similar templates, they usually fail on cross-website data extraction 
+webpages with similar templates, they usually fail on cross-website data extraction 
 tasks. Also, more sophisticated approaches may be needed when we are not dealing
 with easily distinguishable attributes such as prices and dates. In this regard, 
 machine-learning-based sequence labeling methods can provide a more flexible 
@@ -162,11 +163,11 @@ detecting named entities is sufficient to solve the data extraction task. Howeve
 dealing with multi-attribute data records or complex relationships, we may need to 
 perform additional steps. Nevertheless, even in the latter cases, flexible NER methods 
 are still desirable because, while many WDE algorithms can effectively exploit the 
-semi-structured nature of Web documents, too much reliance on structural Web page 
+semi-structured nature of Web documents, too much reliance on structural webpage 
 features often produce poor generalizations on cross website extraction. Also, 
 data records may enclose plain text with relevant named entities. 
 
-In this paper, we investigate methods of named entity recognition for Web data extraction.
+In this article, we investigate methods of named entity recognition for Web data extraction.
 Recently proposed neural architectures have achieved exciting results 
 on the NER task in plain text while requiring almost 
 no feature engineering or access to gazetteers \cite{Huang2015,Lample2016,Ma2016}. 
@@ -199,7 +200,7 @@ format. These early tools varied wildly relative to their degree of automation.
 
 It was readily perceived that manual wrapper generation was a rather tedious and
 error prone process, unsuited for large scale operations. Wrappers tend to
-break frequently because they rely heavily on Web page features that can change 
+break frequently because they rely heavily on webpage features that can change 
 often. So, in the late nineties, several authors advocated for wrapper induction, a technique 
 that consists of automatically constructing wrappers from a small set of examples by 
 identifying delimiters or context tokens that single out the desired attributes. 
@@ -290,11 +291,11 @@ Surveys by Ferrara et al. \shortcite{Ferrara2014}, Schulz et al. \shortcite{Schu
 Varlamov et al. \shortcite{Varlamov2016} updated the previous surveys on information 
 extraction methods with some interesting innovations. 
 Some examples are: the Visual Box Model \cite{Krupl2005}, a data extraction system that produces 
-a visualization of the Web page to exploit visual cues to identify data presented in a tabular form;
+a visualization of the webpage to exploit visual cues to identify data presented in a tabular form;
 automatic wrapper adaptation \cite{Ferrara2011}, a technique that tries to reduce the cost of 
 wrapper maintenance by measuring the similarity of HTML trees and adapting
 wrappers to the new page structure; AutoRM \cite{Shi2015}, a method to mine
-records from a single Web page by identifying similar data regions through DOM
+records from a single webpage by identifying similar data regions through DOM
 tree analysis; Knowledge Vault \cite{Dong2014}, a method that combines different 
 extraction approaches to feed a probabilistic knowledge base.
 
@@ -306,12 +307,12 @@ from a same template.
 
 A statistical approach to unsupervised domain 
 independent Web data extraction was described by Zhu et al \shortcite{Zhu2005}. The 2D CRF 
-model takes a Web page segmented into data blocks and employs a two dimensional conditional 
+model takes a webpage segmented into data blocks and employs a two dimensional conditional 
 random field model to perform attribute labeling. The model was further improved
 \cite{Zhu2006} to model record segmentation and attribute labeling as a joint task.
 Some of the limitations of early unsupervised methods 
 were also tackled by ObjectRunner \cite{Abdessalem2010} and AMBER \cite{Furche2012}. 
-These methods work by annotating Web pages automatically with regular expressions, gazetteers and 
+These methods work by annotating webpages automatically with regular expressions, gazetteers and 
 knowledge bases. They can rectify low quality annotations and even improve the annotators
 by exploring regular structures in the DOM during the record segmentation phase.
 
@@ -391,15 +392,16 @@ interpretable, making them a good choice for a first approximation. However, the
 are highly dependent on the right selection of features, what may outweigh the benefit of a 
 small training cost.
 
-\subsubsection{Self training} \label{sssec:self_training}
+\subsubsection{Self training} 
+\label{sssec:self_training}
 
 In the task of NER on HTML, there are useful features related to the HTML
-structure that can help in identifying named entities. On a given website, named
+structure that can help in identifying named entities. In a given website, named
 entities tend to occur inside the same HTML tags. The HTML tag feature or other
 HTML features could easily be incorporated in the HMM. However, these 
 features are only useful inside a single website and they cannot be generalized, 
 because different websites use distinct HTML templates. 
-Therefore, we propose a self training strategy to obtain probabilities for
+Therefore, we propose a self-training strategy to obtain probabilities for
 these HTML features. It is implemented like this:
 
 \begin{itemize}
@@ -449,19 +451,21 @@ architectures bringing improvements over models that compute labels independentl
 
 \subsection{Neural Network Architectures}
 
-\begin{figure}
+Recurrent neural networks (RNN) have been successfully employed on numerous NLP tasks such as
+language modelling, POS tagging, speech recognition and NER. Different from feed-forward 
+neural networks, RNNs can retain information in their internal state, making them more 
+suitable for processing sequences, and consequently for solving text related tasks. 
+Figure~\ref{fig:rnn_network} describes an RNN for sequence labeling unrolled through multiple 
+timesteps. 
+
+\begin{figure}[h]
   \centering
   \includegraphics[width=0.75\textwidth]{pics/rnn_network}
   \caption{RNN for NER}
   \label{fig:rnn_network}
 \end{figure}
 
-Recurrent neural networks (RNN) have been successfully employed on numerous NLP tasks such as
-language modelling, POS tagging, speech recognition and NER. Different from feed-forward 
-neural networks, RNNs can retain information in their internal state, making them more 
-suitable for processing sequences, and consequently for solving text related tasks. 
-Figure~\ref{fig:rnn_network} describes an RNN for sequence labeling unrolled through multiple 
-timesteps. At each timestep, the neural network computes a hidden state $ h_t $ using an input 
+At each timestep, the neural network computes a hidden state $ h_t $ using an input 
 vector $ x_t $ and the previous hidden state $ h_{t-1} $, that retains information from past 
 iterations. Finally, the RNN produces an output vector $ y_t $ representing the label for that 
 timestep. A common definition for an RNN cell is given by the equations:
@@ -484,8 +488,8 @@ The input gate $ \Gamma_{i} $ controls the amount of new information that will f
 the forget gate $ \Gamma_{f} $ controls the amount of previous information that will be retained in the memory
 cell, and the output gate $ \Gamma_{o} $ controls the amount of information stored in the memory cell that
 will be used to compute the output activation of the LSTM unit. 
-LSTM cell implementations vary slightly in the literature, a visual description of 
-our LSTM cell is also provided in Figure~\ref{fig:lstm_cell}.
+LSTM cell implementations vary slightly in the literature. A visual description of 
+our LSTM cell is provided in Figure~\ref{fig:lstm_cell}.
 
 \begin{figure}[h]
   \centering
@@ -515,7 +519,7 @@ and $ A \cdot B $ represents the dot product of $ A $ and $ B $.
 
 This implementation differs from the LSTM cell described in Huang et al. \shortcite{Huang2015}
 in that the gates $ \Gamma_i $ and $ \Gamma_f $ do not receive inputs from the previous 
-cell state $ c_{t-1} $ and the output gate does not receive inputs from the current cell 
+cell state $ c_{t-1} $ and the output gate $ \Gamma_{o} $ does not receive inputs from the current cell 
 state $ c_{t} $. This variation produces little difference in terms of model accuracy on
 the performed task, but it reduces model complexity.
 
@@ -570,7 +574,7 @@ layer is described visually in Figure \ref{fig:cnn}.
 
 The convolutional neural network receives character embeddings as inputs. The character 
 representations generated by the CNN are combined with word level representations 
-and fed to the BI-LSTM-CRF in section \ref{sssec:lstm_crf}.
+and fed to the BI-LSTM-CRF described in section \ref{sssec:lstm_crf}.
 This architecture can learn morphological features that are very
 useful in the NER task, since similar named entities often present morphological similarities. 
 This architecture obtained an F1 score of 91.21 in the CoNLL2003 dataset. In our experiments, 
@@ -619,10 +623,10 @@ performance with little training and without a gazetteer.
 
 We built a novel dataset to evaluate the performance of NER models
 on the Web data extraction task. The task consists of finding researcher
-names in faculty listings from university Web pages across the world. This would be a
+names in faculty listings from university webpages across the world. This would be a
 necessary step when linking researcher profiles from university websites to their entries
 in public databases such as DBLP \footnote{http://dblp.uni-trier.de/}. Unlike many
-information extraction datasets, each Web page in the dataset comes from a different 
+information extraction datasets, each webpage in the dataset comes from a different 
 website, and therefore has a different format, what makes many information
 extraction approaches impractical. The idea is to explore systems that are general 
 enough to allow efficient entity extraction from different sources while requiring
@@ -635,7 +639,7 @@ HTML text.
 
 We collected 145 computer science faculty pages from 42 different countries in
 multiple languages, although the English version was preferred when it was available.
-We gathered faculty Web pages randomly in proportion to
+We gathered faculty webpages randomly in proportion to
 the number of universities in each country\footnote{A detailed list of universities can
 be found in https://univ.cc/world.php}. Each HTML page was preprocessed and converted
 to the CoNLL 2003 data format. That is, one word per line with empty lines representing
@@ -762,9 +766,9 @@ Table~\ref{tab:models}.
       hmm-2            & HMM with $ k=2 $ \\
       hmm-3            & HMM with $ k=3 $ \\
       crf              & Linear chain conditional random fields \\
-      bi-lstm-crf      & BI-LSTM-CRF model \cite{Huang2015} \\
-      bi-lstm-crf-cnn  & BI-LSTM-CRF with CNN character representations \cite{Ma2016} \\
-      bi-lstm-crf-lstm & BI-LSTM-CRF with LSTM character representations \cite{Lample2016} \\
+      bi-lstm-crf      & BI-LSTM-CRF model \\
+      bi-lstm-crf-cnn  & BI-LSTM-CRF with CNN character representations \\
+      bi-lstm-crf-lstm & BI-LSTM-CRF with LSTM character representations \\
       \bottomrule
     \end{tabular}
   \end{center}
@@ -821,7 +825,7 @@ poor performance, achieving an F1-score of only 0.5783 for HMM-2 and 0.6244 for 
 at the test set. This is expected, since these models rely on good feature selections.
 
 The neural models achieved high F1-scores in the test
-set even with the absence of features. The plain LSTM-CRF architecture improved performance 
+set even with the absence of features. The plain BI-LSTM-CRF architecture improved performance 
 significantly in comparison with the conventional CRF (0.8427 against 0.6244). 
 Also, neural character representations boosted performance by a significant margin
 reaching an F1-score of 0.8758 for CNN-based representations and 0.8867 for LSTM-based
@@ -833,14 +837,14 @@ The results in Experiment 1 also show that pretrained word embeddings can work
 as a kind of universal gazetteer. Words with similar embeddings are likely to 
 belong to the same class. This knowledge combined with the ability to learn 
 morphological features can make up for the scarcity of textual data on some 
-Web pages.
+webpages.
 
 \subsection{Experiment 2: All features}
 
 Experiment 2 aimed to evaluate the performance of sequence model with all
 the features described in Table~\ref{tab:features}. In this experiment, we
-also evaluate the self training strategy for HMMs described in Section 
-\label{sssec:self_training}. The self trained HMMs are described with the 
+also evaluate the self-training strategy for HMMs described in Section 
+\ref{sssec:self_training}. The self trained HMMs are described with the 
 suffix "+ST". Table \ref{tab:experiment2} shows the results for Experiment 2.
 
 \begin{table}[h]
@@ -872,21 +876,22 @@ suffix "+ST". Table \ref{tab:experiment2} shows the results for Experiment 2.
 Conventional models like HMMs, and CRFs can become competitive with
 the right selection of features and a good gazetteer, however they still lose
 to the best neural model without features, demonstrating their inherent limitations.
-We can also see that the self training strategy for HMMs improved the quality of 
-the models significantly in all cases, boosting both precision and recall. Finally,
-HMMs that employed trigrams or quadrigrams (hmm-2, hmm-3) also performed better in
-comparison to regular HMMs.
+HMMs that employed trigrams or quadrigrams (hmm-2, hmm-3) performed better than
+regular HMMs. Also, we can see that the self-training strategy for HMMs improved 
+the quality of the models significantly in all cases, boosting both precision and recall. 
+This hints at the possibility to adapt this strategy to neural networks and boost
+the performance of neural models on the NER on HTML task.
 
-The neural models also improved a little with the addition of features. The plain LSTM-CRF
+The neural models also improved a little with the addition of features. The plain BI-LSTM-CRF
 model gets a closer performance to the models that employed neural character 
 representations. It suggests that the LSTM and CNN character representations 
 were able to learn at least part of the morphological features automatically in the
 first experiment. So, when these features are added explicitly, the differences 
-in performance become less noticeable.
+in performance between different neural models become less noticeable.
 
 \section{Conclusion}
 
-Machine-learning-based sequence labeling models provide a flexible approach to web data 
+Machine-learning-based sequence labeling models provide a flexible approach to Web data 
 extraction, in contrast to more traditional methods. In simple cases, a neural
 named entity tagger may be sufficient to solve the entire data extraction task. In 
 other cases, the sequence tagger remains an important part of the web data extraction
@@ -904,7 +909,7 @@ be employed effectively to solve a web data extraction task, achieving an F1-sco
 
 The effective recognition of named entities on HTML is an essential step in most general 
 Web data extraction methods. The accuracy achieved by deep neural architectures even
-on web pages that are very different from the plain text for which these architectures 
+on webpages that are very different from the plain text for which these architectures 
 were initially designed shows the potential for a truly flexible approach to cross domain 
 web data extraction.
 
