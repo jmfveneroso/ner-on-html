@@ -305,7 +305,7 @@ more complex entities and even perform entity detection without any feature
 engineering. We explored many methods of Named Entity Recognition
 in the context of a web data extraction task. First, we discuss two traditional 
 approaches: Hidden Markov Models, and Linear Chain Conditional Random Fields. Then,
-we explore neural network architectures.
+we discuss neural network architectures.
 
 \subsection{Hidden Markov Models}
 
@@ -427,8 +427,7 @@ architectures bringing improvements over models that compute labels independentl
 
 \begin{figure}
   \centering
-  % \includegraphics[width=0.5\textwidth]{pics/rnn_network}
-  \includegraphics[width=400px]{pics/rnn_network}
+  \includegraphics[width=0.75\textwidth]{pics/rnn_network}
   \caption{RNN for NER}
   \label{fig:rnn_network}
 \end{figure}
@@ -460,123 +459,133 @@ the flow of information that comes in and out of the memory cell.
 The input gate $ \Gamma_{i} $ controls the amount of new information that will flow into the memory cell,
 the forget gate $ \Gamma_{f} $ controls the amount of previous information that will be retained in the memory
 cell, and the output gate $ \Gamma_{o} $ controls the amount of information stored in the memory cell that
-will be used to compute the output activation of the LSTM unit. LSTM cell implementations vary slightly in 
-the literature, so we give the definition for our implementation below:
+will be used to compute the output activation of the LSTM unit. 
+LSTM cell implementations vary slightly in the literature, a visual description of 
+our LSTM cell is also provided in Figure~\ref{fig:lstm_cell}.
 
-\begin{flalign*}
-\Gamma_{i} &= \sigma(W_i[x_t,h_{t-1}] + b_i) &\\
-\Gamma_{f} &= \sigma(W_f[x_t,h_{t-1}] + b_f) &\\ 
-\Gamma_{o} &= \sigma(W_o[x_{t},h_{t-1}] + b_o) &\\
-c_t      &= \Gamma_{f} \circ c_{t-1} + \Gamma_{i} \circ tanh(W_c[x_{t},h_{t-1}] + b_c) &\\
-h_t      &= \Gamma_{o} \circ tanh(c_t) &
-\end{flalign*}
-
-\begin{figure}
+\begin{figure}[h]
   \centering
-  \includegraphics[width=0.5\textwidth]{pics/lstm_cell}
+  \includegraphics[width=0.75\textwidth]{pics/lstm_cell}
   \caption{LSTM Cell}
   \label{fig:lstm_cell}
 \end{figure}
 
-where $ \sigma $ is the logistic sigmoid function. $ \Gamma_i $, $ \Gamma_f $, and $ \Gamma_o $ are the input,
-forget and output gates, respectively. And $ W $ with a subscript is the weight 
-matrix corresponding to that gate. Variable $ c_{t} $ is the cell 
-state and $ h_{t} $ is the hidden state, with the vector $ [x_{t},h_{t-1}] $ 
-formed by concatenating the current input vector $ x_{t} $ and the hidden vector 
-from the previous timestep $ h_{t-1} $. A visual description of our LSTM cell is 
-provided in figure \ref{fig:lstm_cell}.
+The equations for the LSTM cell are:
+
+\begin{flalign*}
+\Gamma_{i} &= \sigma(W_i \cdot [x_t,h_{t-1}] + b_i) &\\
+\Gamma_{f} &= \sigma(W_f \cdot [x_t,h_{t-1}] + b_f) &\\ 
+\Gamma_{o} &= \sigma(W_o \cdot [x_{t},h_{t-1}] + b_o) &\\
+c_t        &= \Gamma_{f} \ast c_{t-1} + \Gamma_{i} \ast tanh(W_c \cdot [x_{t},h_{t-1}] + b_c) &\\
+h_t        &= \Gamma_{o} \ast tanh(c_t) &
+\end{flalign*}
+
+Where $ \sigma $ is the logistic sigmoid function. $ \Gamma_i $, $ \Gamma_f $, and $ \Gamma_o $ are the input,
+forget and output gates, respectively, and $ W_i $, $ W_f $, $ W_o $ are the weight 
+matrices corresponding to each gate. $ c_{t} $ is the cell 
+state at time $ t $ and $ h_{t} $ is the hidden state at time $ t $. 
+The vector $ [x_{t},h_{t-1}] $ is formed by concatenating the current input vector 
+$ x_{t} $ and the hidden vector from a previous timestep $ h_{t-1} $. Finally,
+$ A \ast B $ represents the element-wise multiplication of matrices $ A $ and $ B $
+and $ A \cdot B $ represents the dot product of $ A $ and $ B $.
 
 This implementation differs from the LSTM cell described in Huang et al. \cite{Huang2015}
-in that the input gate $ \Gamma_i $ and the forget gate $ \Gamma_f $
-do not take input from the previous cell state $ c^{<t-1>} $ and the output gate does
-not take input from the current cell state $ c^{<t>} $. 
+in that the gates $ \Gamma_i $ and $ \Gamma_f $ do not receive inputs from the previous 
+cell state $ c_{t-1} $ and the output gate does not receive inputs from the current cell 
+state $ c_{t} $. This variation produces little difference in terms of model accuracy on
+the performed task, but it reduces model complexity.
 
-The cell state and the control gates 
-are what makes the LSTM cell better at modelling long term dependencies in comparison
-to a regular RNN.
-
-
-In NER related tasks, both past and future words are important when deciding the
-label at time $ t $, but a regular LSTM network only takes past features into consideration. 
-A bidirectional LSTM solves this problem by stacking two regular LSTMs, and feeding
-them with observations in opposite directions. The first LSTM receives the forward
-states and the second LSTM receives the backward states. The hidden states from both 
-networks can be concatenated at each time step to produce the output label. With this 
-architecture, Bidirectional LSTMs have information from all input features in the sequence at 
-any given timestep.
-
-
-\subsubsection{LSTM-CRF}
+\subsubsection{BI-LSTM-CRF}
 \label{sssec:lstm_crf}
 
-\begin{figure}
+On named entity recognition tasks, both past and future words are important 
+to attribute a label at time $ t $, however a regular LSTM network only takes 
+past states into consideration. A bidirectional LSTM solves this problem by stacking 
+two regular LSTMs, and feeding them with observations in opposite directions. The first LSTM 
+receives forward states and the second LSTM receives backward states. The hidden states from both 
+networks can then be concatenated at each timestep to produce output labels. With this 
+architecture, LSTM cells may use information from past and future timesteps to decide 
+the label at time $ t $.
+
+Huang et al. \cite{Huang2015} proposed a bidirectional LSTM with a CRF layer (BI-LSTM-CRF) on 
+the output to tackle the sequence tagging problem. The main benefit of adding a CRF layer 
+in the neural sequence model is that the labels are jointly decoded for a whole sentence 
+instead of being predicted individually. Another possibility would be to use a beam search
+decoder to find an optimal sequence of labels. Predicted tags should be highly correlated 
+in a named entity recognition task, so it is desirable to predict sequences conjointly.
+The BI-LSTM-CRF is described in Figure~\ref{fig:bi_lstm_crf}.
+
+\begin{figure}[h]
   \centering
-  \includegraphics[width=0.5\textwidth]{pics/bi_lstm_crf}
+  \includegraphics[width=0.75\textwidth]{pics/bi_lstm_crf}
   \caption{Bidirectional LSTM-CRF}
   \label{fig:bi_lstm_crf}
 \end{figure}
 
-Huang et al. \cite{Huang2015} proposed a bidirectional LSTM with a CRF layer (LSTM-CRF) on the output to tackle
-the sequence tagging problem. The CRF layer jointly decodes labels for the whole sentence instead
-of predicting each label individually. This architecture achieved an F1 score of 90.10 on the English
-data from the ConLL-2003 NER shared task \cite{Sang2003}, in contrast to 85.17 for a bidirectional LSTM without the CRF layer. 
+This architecture achieved an F1 score of 90.10 on the English data from the ConLL-2003 
+NER shared task \cite{Sang2003}, in contrast to 85.17 for a bidirectional LSTM without 
+a CRF layer. 
 In our experiments, the LSTM-CRF architecture uses a bidirectional LSTM with 100 
 hidden states, no peepholes and input and output dropout layers with a dropout
 rate of 0.5. The dropout layers have proven to be very important to prevent overfitting 
 and allow better generalization.
 
-\subsubsection{LSTM-CRF + CNN character representations}
+\subsubsection{CNN character representations}
 \label{sssec:lstm_crf_cnn}
 
-\begin{figure}
+Ma and Hovy \cite{Ma2016} proposed to add a convolutional neural network (CNN) layer 
+on top of a bidirectional LSTM-CRF to encode character-level information. The CNN
+layer is described visually in Figure \ref{fig:cnn}.
+
+\begin{figure}[h]
   \centering
-	  \includegraphics[width=0.5\textwidth]{pics/cnn}
+	  \includegraphics[width=0.75\textwidth]{pics/cnn}
   \caption{CNN based character representations}
   \label{fig:cnn}
 \end{figure}
 
-Ma and Hovy \cite{Ma2016} proposed adding a convolutional neural network (CNN) layer 
-on top of a bidirectional LSTM-CRF to encode character-level information. The CNN
-layer is described visually in Figure \ref{fig:cnn}, it receives
-only character embeddings as inputs. The character representations generated by the CNN 
-are combined with word level representations and then fed to the Bidirectional LSTM with
-a CRF output layer described in section \ref{sssec:lstm_crf}.
+The convolutional neural netwrok receives character embeddings as inputs. The character 
+representations generated by the CNN are combined with word level representations 
+and fed to the BI-LSTM-CRF in section \ref{sssec:lstm_crf}.
 This architecture can learn morphological features that are very
 useful in the NER task, since similar named entities often present morphological similarities. 
 This architecture obtained an F1 score of 91.21 in the ConLL2003 dataset. In our experiments, 
 the LSTM-CRF architecture with CNN character representations uses a one dimensional convolutional 
-neural network with 30 filters and a window size of three characters on top of the LSTM-CRF architecture.
-The character embeddings fed to the CNN have 30 dimensions that are randomly initialized.
+neural network with 30 filters and a window size of three characters on top of the LSTM-CRF 
+architecture. The character embeddings fed to the CNN have 30 dimensions that are randomly 
+initialized.
 
-\subsubsection{LSTM-CRF + LSTM character representations}
+\subsubsection{LSTM character representations}
 
-\begin{figure}
+Lample et al \cite{Lample2016} proposed to use a bidirectional LSTM to model character-level 
+representations on top of a BI-LSTM-CRF. Combining the forward and backward LSTM hidden states 
+to form the character representation, as described in Figure~\ref{fig:lstm_char}. 
+
+\begin{figure}[h]
   \centering
-  \includegraphics[width=0.5\textwidth]{pics/lstm_char_representations}
+  \includegraphics[width=0.75\textwidth]{pics/lstm_char_representations}
   \caption{LSTM based character representations}
   \label{fig:lstm_char}
 \end{figure}
 
-Lample et al \cite{Lample2016} suggested using an a bidirectional LSTM to model character-level 
-representations on a bidirectional LSTM-CRF. Combining both the forward and backward 
-LSTM representations to form the character representation, as described in figure \ref{fig:lstm_char}. 
-This character representation is also combined with a word representation and fed to a LSTM-CRF network. 
-The forward LSTM is expected to be a better
-representation of the suffix of a token, and the backward LSTM is expected to be a
-better representation of the prefix of a token. This differentiates the architecture
-from the CNN based approach described in Section \ref{sssec:lstm_crf_cnn}, because CNN filters 
-discover positional invariant features, while LSTMs can better represent suffixes and prefixes. In our experiments, 
-the LSTM-CRF architecture with LSTM character representations was implemented with a bidirectional LSTM
-with 25 hidden states, producing character representations of size 50. The character embeddings
-have 30 dimensions that are randomly initialized.
+This character representation is also combined with a word 
+representation and fed to a BI-LSTM-CRF network. 
+The forward state is expected to be a better representation of the suffix of 
+a token, and the backward state is expected to be a better representation of 
+the prefix of a token. This differentiates the architecture
+from the CNN based approach described in Section~\ref{sssec:lstm_crf_cnn}, because CNN filters 
+discover positional invariant features, while LSTMs can better represent 
+suffixes and prefixes. In our experiments, 
+the LSTM-CRF architecture with LSTM character representations was implemented with a bidirectional 
+LSTM with 25 hidden states, producing character representations of 
+size 50. The character embeddings have 30 dimensions that are randomly initialized.
 
 \subsubsection{Network training}
 
-The neural models were trained with mini batch Stochastic Gradient Descent over 50 epochs with batch size 10,
+All neural models were trained using mini batch Stochastic Gradient Descent over 50 epochs with batch size 10,
 learning rate 0.01, momentum 0.9 and decay rate 0.05. We used early stopping \cite{Caruana2000} to select the best 
 parameters, considering the F1 measure in the validation set. All neural models used 
-GloVe 100-dimensional word embeddings \cite{Pennington2014} that were fine tuned during training,
-they have a vocabulary size of 400.000 words.
+GloVe 100-dimensional word embeddings \cite{Pennington2014} that were fine tuned during training.
 In the case of NER on HTML, word embeddings work similarly to a gazetteer. Named entities 
 with the same type have similar embeddings, so good word embeddings can achieve exceptional 
 performance with little training and without a gazetteer. 
@@ -584,23 +593,21 @@ performance with little training and without a gazetteer.
 \section{NER on HTML Dataset}
 \label{sec:ner_dataset}
 
-We constructed a novel dataset to evaluate the performance of multiple NER models
-at the web information extraction task. The task consists of finding researcher
-names in faculty listings from multiple web pages. This would be the 
-first step in linking researcher profiles from university websites to their entries
+We built a novel dataset to evaluate the performance of NER models
+on the web data extraction task. The task consists of finding researcher
+names in faculty listings from university web pages across the world. This would be a
+necessary step when linking researcher profiles from university websites to their entries
 in public databases such as DBLP \footnote{http://dblp.uni-trier.de/}. Unlike many
 information extraction datasets, each web page in the dataset comes from a different 
 website, and therefore has a different format, what makes many information
 extraction approaches impractical. The idea is to explore systems that are general 
-enough to allow efficient name extraction from many different sources while requiring
+enough to allow efficient entity extraction from different sources while requiring
 no supervision between different websites. 
 
-This task would be similar to the task of labeling authors in comments
-from many different sources or labeling authors in articles collected from many
-publishing platforms. Another similar task would be NER on tweets. Because of the character
-limitation present on tweets, we end up with constraints comparable to the ones
-found in the NER on HTML task, so we expect similar systems to have comparable performances
-on both of these tasks.
+This task is similar to labeling authors in comments or articles collected
+from different publishing platforms. Another similar task is NER on tweets,
+because of the character limitation that is comparable to what we find in 
+HTML text.
 
 We collected 145 computer science faculty pages from 42 different countries in
 multiple languages, although the English version was prefered when it was available.
@@ -610,14 +617,15 @@ be found in https://univ.cc/world.php}. Each HTML page was preprocessed and conv
 to the CONLL 2003 data format. That is, one word per line with empty lines representing
 sentence boundaries. Sentence boundaries were determined by line break HTML tags
 (div, p, table, li, br, etc.) in contrast to inline tags (span, em, a, td, etc.). 
-Sentences that were more than fifty tokens long were also split according to punctuation.
+Sentences that were more than fifty tokens long were also split according to the
+punctuation.
 
-A proper HTML segmenter poses many challenges by itself.
-However, we wanted to evaluate models without relying on any sophisticated data record
-segmentation system. In many cases, entity annotation may precede the segmentation
-phase in web data extraction methods, so annotators should be able to work with
-raw HTML data. Because of the type of documents present in the dataset, many sentences 
-contained only one or two tokens, while other documents contained long texts.
+A proper HTML segmenter poses many challenges by itself. We wanted to evaluate 
+models without relying on any sophisticated data record segmentation system.
+In many cases, entity annotation may precede the segmentation
+phase on web data extraction methods, so annotators that are able to work 
+with raw HTML data allow for more flexible systems. 
+
 Finally, all tokens were tagged using the IOB scheme put forward by
 Ramshaw and Marcus \cite{Ramshaw1999}. 
 
@@ -642,11 +650,12 @@ Ramshaw and Marcus \cite{Ramshaw1999}.
 
 The dataset was divided in a training, validation and test set. Table \ref{tab:dataset} contains
 a description of the data files. The validation set was used in the early stopping validation strategy
-for the neural networks and CRF training, while the performance was evaluated by comparing results in the test set.
+for the neural networks and CRF training, while the model performance was evaluated by comparing 
+results in the test set.
 
 \subsection{Features}
 
-Thirteen categorical features were also associated with each token in the dataset. They 
+Thirteen categorical features were associated with each token in the dataset. They 
 are presented in Table \ref{tab:features}.
 
 \begin{table}[h]
@@ -663,7 +672,7 @@ are presented in Table \ref{tab:features}.
       5  & Log word gazetteer count\\
       6  & Email \\
       7  & Number \\
-      8  & Honorific \\
+      8  & Honorific (Mr., Mrs., Dr., etc.)\\
       9  & URL \\
       10 & Is capitalized \\
       11 & Is a punctuation sign \\
@@ -702,34 +711,21 @@ names, and feature 3 represents a partial match. Feature 4 is the rounded logari
 the frequency of a token in the gazetteer, and feature 5 is the rounded logarithm of the frequency
 of a token in a word corpus obtained through a random crawl on university websites.
 Features 6 to 11 represent a simple regular expression match to an email, number, 
-honorific, URL, capitalization and punctuation sign.
+honorific, URL, capitalization or punctuation sign.
 
 Feature 12 represents the HTML enclosing tag and its parent concatenated. Feature 13
 represents all CSS classes concatenated. These features are not very useful in a general
 sense, because every HTML document has a different format, so only because a named entity
 occurs inside a given HTML tag in a document we cannot say it is more likely to be the case 
-in other documents. However, these features can be trained with the self-training strategy 
-for HMMs described in section \ref{sssec:self_training}. 
+in other documents. However, these features can be useful for the HMM self-training strategy 
+described in section \ref{sssec:self_training}. 
 
 \section{Experiments}
 
-Two experiments were conducted to evaluate the best models for named entity recognition
-on HTML in the context of web data extraction. In the first experiment, we trained the NER models
-using the entire training set (85 documents). In the second experiment, the training set was 
-split into five non overlapping sets with 17 documents, and every model was trained
-and tested once using each set, while the test data was kept unchanged. We wanted to verify 
-how the models behaved when training data is limited, since labelling NER datasets can be a
-very time consuming effort.
-
-Evaluation of model performance in this task was performend with the precision, recall and 
-F1 score \cite{Rijsbergen1979}. Precision is the percentage of named entities found by 
-the model that are correct. Recall is the percentage of named entities that are present
-in the corpus and were found by the model. The F1 score is a composite measure that combines
-precision and recall with the formula:
-
-\begin{equation}
-F1 = \frac{2 * precision * recall}{precision + recall}
-\end{equation}
+We conducted experiments to evaluate sequence labeling methods of named entity 
+recognition on HTML in the context of web data extraction using the dataset 
+described in Section~\ref{sec:ner_dataset}. The tested models are described in
+Table~\ref{tab:models}.
 
 \begin{table}[h]
   \small
@@ -738,13 +734,13 @@ F1 = \frac{2 * precision * recall}{precision + recall}
       \toprule
       Model & Description \\
       \midrule
-      hmm-1         & Regular HMM \\
-      hmm-2         & HMM with $ k=2 $ \\
-      hmm-3         & HMM with $ k=3 $ \\
-      crf           & Linear chain conditional random fields \\
-      lstm-crf      & LSTM-CRF model \cite{Huang2015} \\
-      lstm-crf-cnn  & LSTM-CRF with CNN character representations \cite{Ma2016} \\
-      lstm-crf-lstm & LSTM-CRF with LSTM character representations \cite{Lample2016} \\
+      hmm-1            & Regular HMM \\
+      hmm-2            & HMM with $ k=2 $ \\
+      hmm-3            & HMM with $ k=3 $ \\
+      crf              & Linear chain conditional random fields \\
+      bi-lstm-crf      & BI-LSTM-CRF model \cite{Huang2015} \\
+      bi-lstm-crf-cnn  & BI-LSTM-CRF with CNN character representations \cite{Ma2016} \\
+      bi-lstm-crf-lstm & BI-LSTM-CRF with LSTM character representations \cite{Lample2016} \\
       \bottomrule
     \end{tabular}
   \end{center}
@@ -752,18 +748,37 @@ F1 = \frac{2 * precision * recall}{precision + recall}
   \label{tab:models}
 \end{table}
 
-Named entities were only considered to be correct if they were a complete match of the 
-corresponding entity in the dataset. The models tested in both experiments are described in Table \ref{tab:models}.
-In each experiment, we evaluated variants of each model using the complete set of features described in 
-Table \ref{tab:features} and variants that used only lowercase unaccented words for HMMs, 
-and only word embeddings in the case of neural models and CRFs. In Tables \ref{tab:experiment1} to 
-\ref{tab:experiment2f}, models that used the complete set of features have the suffix "+F". For example,
-"lstm-crf+F" is the LSTM-CRF model with all features including GloVe word embeddings, and "lstm-crf" is 
-the LSTM-CRF model with only GloVe word embeddings as input.
-Additionally, HMMs were also evaluated using the self training strategy. In tables \ref{tab:experiment1f} 
-and \ref{tab:experiment2f}, these models have the suffix "+ST".
+The evaluation of model performance was done through the precision, recall and 
+F1 scores \cite{Rijsbergen1979}. Precision is the percentage of named entities found by 
+the model that are correct. Recall is the percentage of named entities that are present
+in the corpus and were found by the model. The F1 score is a composite measure that combines
+precision and recall with the formula:
 
-\subsection{Experiment 1: Complete Dataset}
+\begin{equation}
+F1 = \frac{2 * precision * recall}{precision + recall}
+\end{equation}
+
+Named entities were only considered to be correct if they were a complete match of the 
+corresponding entity in the dataset. 
+
+% We evaluated variants of each model using the complete set of features described in 
+% Table \ref{tab:features} and variants that used only lowercase unaccented words for HMMs, 
+% and only word embeddings for neural models and CRFs. 
+% 
+% In Table \ref{tab:experiment1} and 
+% Table \ref{tab:experiment2f}, models that used the complete set of features have the suffix "+F". For example,
+% "lstm-crf+F" is the LSTM-CRF model with all features including GloVe word embeddings, and "lstm-crf" is 
+% the LSTM-CRF model with only GloVe word embeddings as input.
+% Additionally, HMMs were also evaluated using the self training strategy. In tables \ref{tab:experiment1f} 
+% and \ref{tab:experiment2f}, these models have the suffix "+ST".
+
+\subsection{Experiment 1: No features}
+
+Experiment 1 aimed to evaluate the performance of sequence model with no features
+besides GloVe-100 embeddings. In the case of HMMs, only the lowercase
+unaccented token was used as a feature. Table \ref{tab:experiment1} 
+shows the Precision (P), Recall (R), and F1-scores (F1) for this
+experiment.
 
 \begin{table}[h]
   \small
@@ -774,42 +789,46 @@ and \ref{tab:experiment2f}, these models have the suffix "+ST".
                              & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{R} & \multicolumn{1}{c}{F1}
                              & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{R} & \multicolumn{1}{c}{F1} \\
       \midrule
-      hmm-1	    & 0.6965 & 0.5749 & 0.6299 & 0.6263 & 0.4431 & 0.5190 \\
-      hmm-2	    & 0.7047 & 0.6286 & 0.6645 & 0.6480 & 0.5222 & 0.5783 \\
-      hmm-3	    & 0.6127 & 0.6141 & 0.6134 & 0.5471 & 0.4634 & 0.5018 \\
-      crf	    & 0.7173 & 0.6683 & 0.6920 & 0.6671 & 0.5868 & 0.6244 \\
-      lstm-crf	    & 0.8484 & 0.9044 & 0.8755 & 0.8358 & 0.8497 & 0.8427 \\
-      lstm-crf-cnn  & 0.9058 & 0.9575 & 0.9309 & 0.8779 & 0.8737 & 0.8758 \\
-      lstm-crf-lstm & 0.9134 & 0.9435 & 0.9282 & 0.8920 & 0.8815 & 0.8867 \\
+      hmm-1	       & 0.6965 & 0.5749 & 0.6299 & 0.6263 & 0.4431 & 0.5190 \\
+      hmm-2	       & 0.7047 & 0.6286 & 0.6645 & 0.6480 & 0.5222 & 0.5783 \\
+      hmm-3	       & 0.6127 & 0.6141 & 0.6134 & 0.5471 & 0.4634 & 0.5018 \\
+      crf	       & 0.7173 & 0.6683 & 0.6920 & 0.6671 & 0.5868 & 0.6244 \\
+      bi-lstm-crf      & 0.8484 & 0.9044 & 0.8755 & 0.8358 & 0.8497 & 0.8427 \\
+      bi-lstm-crf-cnn  & 0.9058 & 0.9575 & 0.9309 & 0.8779 & 0.8737 & 0.8758 \\
+      bi-lstm-crf-lstm & 0.9134 & 0.9435 & 0.9282 & \textbf{0.8920} & \textbf{0.8815} & \textbf{0.8867} \\
       \bottomrule
     \end{tabular}
   \end{center}
-  \caption{Precision, recall and F1 in the complete dataset for models using no features}
+  \caption{Precision, recall and F1 in the NER on HTML dataset for models that incorporate no features}
   \label{tab:experiment1}
 \end{table}
 
-Experiment 1 consisted of testing the models in the complete NER on HTML dataset 
-described in Section \ref{sec:ner_dataset}. Table \ref{tab:experiment1} shows the 
-Precision (P), Recall (R), and F1-scores (F1) for models that employed no features, 
-except for lowercase unaccented words
-in the case of HMMs and Glove-100 word embeddings in the case of CRFs and Neural Models.
+Without carefully designed features or gazetteers, HMMs and CRFs have a very 
+poor performance, achieving an F1-score of only 0.5783 for HMM-2 and 0.6244 for CRF
+at the test set. This is expected, since these models rely on good feature selections.
 
-Without carefully designed features and a gazetteer, HMMs and CRFs have a very 
-poor performance, achieving an F1-score of only 0.5783 for hmm-2 and 0.6244 for crf
-in the test set. This is to be expected, as these models rely on a good feature selection.
-The neural models however achieved high F1-scores in the test
-data, even with the absence of features. The plain LSTM-CRF architecture improved performance 
-significantly in comparison to the conventional CRF, 0.8427 against 0.6244 (a difference 
-of 0.2183). Also, the neural character representations boosted performance a little further
-reaching an F1-score of 0.8758 for CNN based representations and 0.8867 for LSTM based
-representations. The LSTM based representations were superior in modelling
-morphological features, perhaps because they are able to differentiate suffixes and prefixes, 
-while CNNs filters are position invariant. 
+The neural models achieved high F1-scores in the test
+set even with the absence of features. The plain LSTM-CRF architecture improved performance 
+significantly in comparison with the conventional CRF (0.8427 against 0.6244). 
+Also, neural character representations boosted performance by a significant margin
+reaching an F1-score of 0.8758 for CNN-based representations and 0.8867 for LSTM-based
+representations. LSTM based representations were superior in modelling
+morphological features, perhaps because they are able to differentiate suffixes 
+and prefixes, while CNN filters are position invariant. 
 
-The results in experiment 1 also show that pretrained word embeddings can work as a sort of
-universal gazetteer. Words with similar embeddings, are likely to belong to the same class.
-This knowledge combined with the ability to learn morphological features can make up for 
-the scarcity of textual data in some webpages.
+The results in Experiment 1 also show that pretrained word embeddings can work 
+as a kind of universal gazetteer. Words with similar embeddings are likely to 
+belong to the same class. This knowledge combined with the ability to learn 
+morphological features can make up for the scarcity of textual data on some 
+webpages.
+
+\subsection{Experiment 2: All features}
+
+Experiment 2 aimed to evaluate the performance of sequence model with all
+the features described in Table~\ref{tab:features}. In this experiment, we
+also evaluate the self training strategy for HMMs described in Section 
+\label{sssec:self_training}. The self trained HMMs are described with the 
+suffix "+ST". Table \ref{tab:experiment2} shows the results for Experiment 2.
 
 \begin{table}[h]
   \small
@@ -820,25 +839,23 @@ the scarcity of textual data in some webpages.
                              & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{R} & \multicolumn{1}{c}{F1}
                              & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{R} & \multicolumn{1}{c}{F1} \\
       \midrule
-      hmm-1+F	      & 0.6061 & 0.7282 & 0.6616 & 0.7106 & 0.7633 & 0.7360 \\
-      hmm-2+F	      & 0.6279 & 0.7550 & 0.6856 & 0.7521 & 0.7810 & 0.7663 \\
-      hmm-3+F	      & 0.6573 & 0.7819 & 0.7142 & 0.7523 & 0.7795 & 0.7657 \\
-      hmm-1+F+ST      & 0.7032 & 0.9077 & 0.7925 & 0.7522 & 0.8663 & 0.8052 \\
-      hmm-2+F+ST      & 0.7321 & 0.9172 & 0.8143 & 0.7737 & 0.8789 & 0.8230 \\
-      hmm-3+F+ST      & 0.7551 & 0.9172 & 0.8283 & 0.7961 & 0.8534 & 0.8237 \\
-      crf+F	      & 0.9024 & 0.9049 & 0.9037 & 0.8751 & 0.8227 & 0.8481 \\
-      lstm-crf+F      & 0.9430 & 0.9530 & 0.9480 & 0.8998 & 0.8527 & 0.8756 \\
-      lstm-crf-cnn+F  & 0.9244 & 0.9715 & 0.9474 & 0.9017 & 0.8973 & 0.8995 \\
-      lstm-crf-lstm+F & 0.9465 & 0.9692 & 0.9577 & 0.9108 & 0.8715 & 0.8907 \\
+      hmm-1	         & 0.6061 & 0.7282 & 0.6616 & 0.7106 & 0.7633 & 0.7360 \\
+      hmm-2	         & 0.6279 & 0.7550 & 0.6856 & 0.7521 & 0.7810 & 0.7663 \\
+      hmm-3	         & 0.6573 & 0.7819 & 0.7142 & 0.7523 & 0.7795 & 0.7657 \\
+      hmm-1+ST           & 0.7032 & 0.9077 & 0.7925 & 0.7522 & 0.8663 & 0.8052 \\
+      hmm-2+ST           & 0.7321 & 0.9172 & 0.8143 & 0.7737 & 0.8789 & 0.8230 \\
+      hmm-3+ST           & 0.7551 & 0.9172 & 0.8283 & 0.7961 & 0.8534 & 0.8237 \\
+      crf	         & 0.9024 & 0.9049 & 0.9037 & 0.8751 & 0.8227 & 0.8481 \\
+      bi-lstm-crf        & 0.9430 & 0.9530 & 0.9480 & 0.8998 & 0.8527 & 0.8756 \\
+      bi-lstm-crf-cnn    & 0.9244 & 0.9715 & 0.9474 & 0.9017 & \textbf{0.8973} & \textbf{0.8995} \\
+      bi-lstm-crf-lstm   & 0.9465 & 0.9692 & 0.9577 & \textbf{0.9108} & 0.8715 & 0.8907 \\
       \bottomrule
     \end{tabular}
   \end{center}
-  \caption{Precision, recall and F1 in the complete dataset for models using all features}
-  \label{tab:experiment1f}
+  \caption{Precision, recall and F1 in the NER on HTML dataset for models that incorporate all features}
+  \label{tab:experiment2}
 \end{table}
 
-Table \ref{tab:experiment1f} shows the results on Experiment 1 for models
-that employed all the features described in Table \ref{tab:features}.
 Conventional models like HMMs, and CRFs can become competitive with
 the right selection of features and a good gazetteer, however they still lose
 to the best neural model without features, demonstrating their inherent limitations.
@@ -846,113 +863,29 @@ We can also see that the self training strategy for HMMs improved the quality of
 the models significantly in all cases, boosting both precision and recall. Finally,
 HMMs that employed trigrams or quadrigrams (hmm-2, hmm-3) also performed better in
 comparison to regular HMMs.
-The neural models also improved a little with the new features. The plain LSTM-CRF
+
+The neural models also improved a little with the addition of features. The plain LSTM-CRF
 model gets a closer performance to the models that employed neural character 
-representations. It points to the fact that the LSTM and CNN character representations 
+representations. It suggests that the LSTM and CNN character representations 
 were able to learn at least part of the morphological features automatically in the
-models with no features. So, when these features are added explicitly, the differences 
+first experiment. So, when these features are added explicitly, the differences 
 in performance become less noticeable.
 
-\subsection{Experiment 2: Reduced Dataset}
-
-\begin{table}[h]
-  \small
-  \begin{center}
-    \begin{tabular}{ lllllll }
-      \toprule
-      \multirow{2}{*}{Model} & \multicolumn{2}{c}{Precision} & \multicolumn{2}{c}{Recall} & \multicolumn{2}{c}{F1} \\
-                             & \multicolumn{1}{c}{\tiny{M}} & \multicolumn{1}{c}{\tiny{SD}}
-			     & \multicolumn{1}{c}{\tiny{M}} & \multicolumn{1}{c}{\tiny{SD}}
-			     & \multicolumn{1}{c}{\tiny{M}} & \multicolumn{1}{c}{\tiny{SD}} \\
-      \midrule
-      hmm-1	      & 0.2856 & 0.1127 & 0.1623 & 0.0810 & 0.2036 & 0.0892 \\
-      hmm-2	      & 0.3436 & 0.1134 & 0.2060 & 0.1058 & 0.2483 & 0.0997 \\
-      hmm-3	      & 0.2707 & 0.0955 & 0.2163 & 0.0927 & 0.2316 & 0.0793 \\
-      crf	      & 0.6249 & 0.0433 & 0.5272 & 0.0348 & 0.5711 & 0.0301 \\
-      lstm-crf	      & 0.6982 & 0.0495 & 0.6538 & 0.0532 & 0.6751 & 0.0499 \\
-      lstm-crf-cnn    & 0.7906 & 0.0557 & 0.7431 & 0.0687 & 0.7652 & 0.0572 \\
-      lstm-crf-lstm   & 0.7935 & 0.0345 & 0.7360 & 0.0424 & 0.7626 & 0.0237 \\
-      \bottomrule
-    \end{tabular}
-  \end{center}
-  \caption{Mean Precision, recall and F1 in the test set for models with no features
-   trained in five sets with 17 documents}
-  \label{tab:experiment2}
-\end{table}
-
-The second experiment aimed to evaluate the performance of sequence models when 
-the amount of training data is small. The same training data used in Experiment 1 was
-split into five non overlapping sets with 17 documents. Each model was trained once 
-with each of the five sets and tested with the same test set used in Experiment 1. 
-Seventeen documents seem to be a feasible amount of documents to label in most WDE 
-tasks. The results for each model were averaged over the five runs.
-
-Table \ref{tab:experiment2} shows the precision, recall and F1-score for the same models
-used in Experiment 1, but in this case we only show results for the Test set.
-As expected, we can see that the performance of all models with no features was reduced in comparison 
-to Experiment 1. HMMs show a terrible performance while CRFs are not 
-impacted as much by the reduction in the amount of training examples. Neural models
-keep performing better, but they were unable to learn patterns as efficiently in
-the smaller training sets, the best model achieves an F1 score of 0.7652 in contrast to
-0.8815 with the entire dataset. The neural models show a small standard deviation, what
-points to the fact that they can retain a consistent performance between different training 
-datasets. In this matter, the dropout layers are crucial to produce better generalizations 
-and prevent overfitting.
-
-\begin{table}[h]
-  \small
-  \begin{center}
-    \begin{tabular}{lllllll}
-      \toprule
-      \multirow{2}{*}{Model} & \multicolumn{2}{c}{Precision} & \multicolumn{2}{c}{Recall} & \multicolumn{2}{c}{F1} \\
-                             & \multicolumn{1}{c}{\tiny{M}} & \multicolumn{1}{c}{\tiny{SD}}
-			     & \multicolumn{1}{c}{\tiny{M}} & \multicolumn{1}{c}{\tiny{SD}}
-			     & \multicolumn{1}{c}{\tiny{M}} & \multicolumn{1}{c}{\tiny{SD}} \\
-      \midrule
-      hmm-1+F	      & 0.6205 & 0.0927 & 0.6402 & 0.0717 & 0.6290 & 0.0774 \\
-      hmm-2+F	      & 0.5999 & 0.0879 & 0.6527 & 0.0389 & 0.6229 & 0.0595 \\
-      hmm-3+F	      & 0.5712 & 0.0957 & 0.6258 & 0.0494 & 0.5954 & 0.0722 \\
-      hmm-1+F+ST      & 0.6536 & 0.0886 & 0.7579 & 0.1118 & 0.7012 & 0.0963 \\
-      hmm-2+F+ST      & 0.7044 & 0.0726 & 0.7810 & 0.1039 & 0.7397 & 0.0834 \\
-      hmm-3+F+ST      & 0.6619 & 0.0722 & 0.7174 & 0.0892 & 0.6879 & 0.0777 \\
-      crf+F	      & 0.8419 & 0.0326 & 0.7530 & 0.0823 & 0.7933 & 0.0541 \\
-      lstm-crf+F      & 0.8376 & 0.0225 & 0.7838 & 0.0518 & 0.8093 & 0.0345 \\
-      lstm-crf-cnn+F  & 0.8542 & 0.0336 & 0.7820 & 0.0767 & 0.8149 & 0.0478 \\
-      lstm-crf-lstm+F & 0.8554 & 0.0219 & 0.8013 & 0.0825 & 0.8255 & 0.0478 \\
-      \bottomrule
-    \end{tabular}
-  \end{center}
-  \caption{Mean Precision, recall and F1 in the test set for models with all features
-   trained in five sets with 17 documents}
-  \label{tab:experiment2f}
-\end{table}
-
-Table \ref{tab:experiment2f} shows the results in the small training sets 
-for models that employed all features. Take note that the difference between CRFs
-and neural models was reduced with the reduction in the training set. However, the
-addition of features impacted the performance of neural models much more that in 
-Experiment 1. This indicates that the models with neural character representations
-may need more data to extract good morphological features. However, they keep performing 
-better than the other models, and have the lowest standard deviations.
-
-Finally, all the results presented in this section considered a dataset with a minimum
+Finally, all results presented in this section considered a dataset with a minimum
 amount of preprocessing and no trimming strategy to delimitate named entities. In many cases, 
-for example, a model may miss a few named entities because it includes a punctuation sign
-or an honorific at the start or end of a named entity. In fact, we can boost the F1-score up
-by a few points with some simple heuristics. However, these strategies are specific to this
-NER on HTML problem.
+a model may miss a few named entities because it includes a punctuation sign
+or an honorific at the start or end of a named entity. Some simple strategies could 
+be used to boost the F1-score modestly.
 
 \section{Conclusion}
 
-In this paper we compared the performance of multiple sequence models in the task of
+In this paper we compared the performance of different sequence models in the task of
 NER on HTML, introducing a novel dataset that is publicly available. We showed that
-neural networks can be employed effectively to solve this task while demanding no 
-feature engineering (F1-score of 0.8867), and they can retain acceptable performance 
-even when the training data is dramatically reduced (F1-score of 0.8255), even though 
-in this case the feature selection becomes more meaningful. We found that there are 
-two components to the most successful models: neural based character representations
-constructed with convolutional neural networks or bidirectional LSTMs and joint modelling 
-of the output labels provided by a linear chain CRF output layer. The effective recognition 
+LSTM-CRF neural networks with LSTM-based character representations can be employed 
+effectively to solve this task while demanding no feature engineering (F1-score of 0.8867).
+We found that there are two components to the most successful models: neural based character 
+representations constructed with convolutional neural networks or bidirectional LSTMs and joint 
+modelling of the output labels provided by a linear chain CRF output layer. The effective recognition 
 of named entities on HTML is an essential step in most general web data extraction methods. 
 However it may also point to the possibility of constructing a truly flexible approach to
 cross domain data extraction based on neural networks.
