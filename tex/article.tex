@@ -34,7 +34,7 @@
        {João Mateus de Freitas Veneroso$^A$ \and
         Berthier Ribeiro-Neto$^B$\\
 	Universidade Federal de Minas Gerais$^{A,B}$ \\
-	Google Engineering$^A$, Belo Horizonte - MG, Brazil}
+	Google Engineering$^B$, Belo Horizonte - MG, Brazil}
 
 % \affiliation{%
 %   \institution{Universidade Federal de Minas Gerais}
@@ -185,7 +185,10 @@ they perform badly in other \gls{wde} tasks.
 In this article, we compare different machine learning approaches to 
 \gls{ner} on the web by evaluating their performance in the 
 \gls{rne} task. With this purpose in mind, we introduce a novel \gls{ner} dataset 
-with labeled entities, consisting of faculty directories from universities across the world. 
+with labeled entities, consisting of faculty directories from universities across the world,
+the RNE dataset~\footnote{
+The dataset is available in https://github.com/jmfveneroso/ner-on-html.
+}.
 We compare the models in terms of their Precision, Recall, F-scores and their 
 overall complexity. That is, even if a model has a slightly worse performance in terms of the
 objective evaluation metrics in comparison to other approaches, it may still be useful if it 
@@ -209,7 +212,7 @@ scientific impact of research groups.
 
 The \gls{rne} task is a problem in \gls{wde} that
 we proposed to solve with the application of machine learning methods of \gls{ner}.
-This chapter presents the related research in the fields of \gls{wde} 
+This section presents the related research in the fields of \gls{wde} 
 in Section~\ref{sec:wde} and \gls{ner} in Section~\ref{sec:ner}.
 
 \subsection{Web Data Extraction}
@@ -293,7 +296,7 @@ suffered from a lack of flexibility when dealing with noisy and unstructured dat
 Huge progress in the field of statistical learning led to the development of
 models that tried to solve this problem.
 
-\cite{Sarawagi2008} introduced a classification that segmented wrappers in
+Sarawagi~\shortcite{Sarawagi2008} introduced a classification that segmented wrappers in
 rule-based methods, statistical methods and hybrid models, bringing together 
 the fields of \gls{ner}, Relationship Extraction and \gls{wde}. 
 The rule based methods encompass most of the previous models. While the statistical methods 
@@ -307,8 +310,10 @@ extraction and plain text information extraction. That is why this class of meth
 special interest to our application. The progress of statistical models will be 
 discussed in Section~\ref{sec:ner}.
 
-Surveys by~\cite{Ferrara2014}, \cite{Schulz2016} and \cite{Varlamov2016} updated the 
-previous surveys on Information Extraction methods with some interesting innovations. 
+Recent surveys by Ferrara, De Meo, Fiumara and Baumgartner~\shortcite{Ferrara2014}, 
+Schulz, Lassig and Gaedke~\shortcite{Schulz2016} and
+Varlamov and Turdakov~\shortcite{Varlamov2016}
+updated the previous surveys on Information Extraction methods with some interesting innovations. 
 Some examples are: the Visual Box Model~\cite{Krupl2005}, a data extraction system that produces 
 a visualization of the webpage to exploit visual cues to identify records presented in a tabular form;
 automatic wrapper adaptation~\cite{Ferrara2011}, a technique that tries to reduce the cost of 
@@ -324,10 +329,10 @@ approaches that are application domain independent, such as RoadRunner and EXALG
 only work well when extracting data from pages generated from a same template. 
 
 A statistical approach to unsupervised domain 
-independent \gls{wde} was described by~\cite{Zhu2005}. The 2D CRF 
+independent \gls{wde} was described by Zhu, Nie, Wen, Zhang, and Ma~\shortcite{Zhu2005}. The 2D CRF 
 model takes a webpage segmented into data blocks and employs a two dimensional \gls{crf}
-model to perform attribute labeling. The model was further improved 
-in~\cite{Zhu2006} to model record segmentation and attribute labeling as a joint task.
+model to perform attribute labeling. The model was further improved~\cite{Zhu2006} to model 
+record segmentation and attribute labeling as a joint task.
 Some of the limitations of early unsupervised methods 
 were also addressed by ObjectRunner~\cite{Abdessalem2010} and DIADEM~\cite{Furche2012}. 
 These methods work by annotating webpages automatically with regular expressions, gazetteers and 
@@ -335,7 +340,7 @@ knowledge bases. They can rectify low quality annotations and even improve the a
 by exploring regular structures in the DOM during the record segmentation phase.
 
 \gls{wde} methods have undoubtedly improved extraordinarily, but
-as pointed by \cite{Schulz2016}, it is difficult to compare the results 
+as pointed by Schulz, Lassig and Gaedke~\shortcite{Schulz2016}, it is difficult to compare the results 
 achieved by competing tools. Also, many tools seem to rely excessively on heuristic methods.
 The recent advancements in sequence taggers may provide more robust and flexible techniques
 to address this problem.
@@ -365,8 +370,9 @@ Traditionally, the \gls{ner} task was solved with generative models based on
 field of \gls{nlp} occurred in the mid-seventies and was
 primarily focused on the problem of Speech Recognition. 
 But in the late nineties, \gls{hmm}s also found important applications in \gls{ie}
-and \gls{ner} as in the works by~\cite{Bikel1999}, 
-\cite{Freitag1999}, and \cite{Freitag2000}.
+and \gls{ner} as in the works by Bikel, Schwartz and Weischedel~\shortcite{Bikel1999}, 
+Freitag and Mccallum~\shortcite{Freitag1999}, 
+and Freitag and Mccallum~\shortcite{Freitag2000}.
 
 The problem with \gls{hmm}s is that they model the joint probability between 
 sequences of observations and labels $ P(X, Y) $, a harder problem than modelling the corresponding 
@@ -406,11 +412,12 @@ in how to construct contextual embeddings from the internal states of a language
 modelling neural network.
 
 To our knowledge, the best NER system up to this date (considering the performance in the
-{CoNLL-2003} dataset) is the bidirectional transformer model proposed by~\cite{Baevski2019} that uses
+{CoNLL-2003} dataset) is the bidirectional transformer model proposed by Baevski, Edunov, Liu, Zettlemoyer and Auli~\shortcite{Baevski2019} that uses
 a stack of self-attention modules and ELMo embeddings. Table~\ref{tab:ner_model_comparison}
 shows a comparison of the history of reported F1 scores in the English test set of the {CoNLL-2003} dataset
 for the NER systems that were mentioned in this section. Each of the mentioned systems held the 
 record for the task at a given time.
+
 
 \begin{table}[h]
   \small
@@ -419,15 +426,15 @@ record for the task at a given time.
       \toprule
       Model & Test F1 \\
       \midrule
-       \cite{Florian2003} ({CoNLL-2003} Winner)    & 88.76 \\
-       \cite{Collobert2011}                        & 89.59 \\
-       \cite{Huang2015}                            & 90.10 \\
-       \cite{Lample2016}                           & 90.94 \\
-       \cite{Ma2016}                               & 91.21 \\
-       \cite{Peters2018}                           & 92.22 \\
-       \cite{Devlin2018}                           & 92.80 \\
-       \cite{Akbik2018}                            & 93.09 \\
-       \cite{Baevski2019}                          & 93.50 \\
+      Florian, Ittycheriah, Jing and Zhang 2003 (CoNLL-2003 Winner)            & 88.76 \\
+      Collobert, Weston, Bottou, Karlen, Kavukcuoglu, and Kuksa 2011           & 89.59 \\
+      Huang, Xu and Yu 2015                                                    & 90.10 \\
+      Lample, Ballesteros, Subramanian, Kawakami and Dyer 2016                 & 90.94 \\
+      Ma and Hovy 2016                                                         & 91.21 \\
+      Peters, Neumann, Iyyer, Gardner, Clark, Lee and Zettlemoyer 2018         & 92.22 \\
+      Devlin, Chang, Lee, and Toutanova 2018                                   & 92.80 \\
+      Akbik, Blythe and Vollgraf 2018                                          & 93.09 \\
+      Baevski, Edunov, Liu, Zettlemoyer and Auli 2019                          & 93.50 \\
       \bottomrule
     \end{tabular}
   \end{center}
@@ -503,8 +510,12 @@ In a HMM, we need to estimate the following probabilities:
   \item $ \hat{P}(y_i|y_{i-1}) $: the probability of going from label $ y_{i-1} $ to label $ y_i $.
 \end{itemize}
 %
-These parameters can obtained with maximum likelihood estimation from the relative
-frequencies of labels and words in the corpus. The best sequence of labels can be computed 
+These parameters can be obtained with maximum likelihood estimation from the relative
+frequencies of labels and words in the corpus. However, tokens that do not happen in the
+training set will have null probability, what is problematic because named entities often
+contain unknown tokens. To counter this problem, we used additive smoothing in the 
+emission probability estimates.
+The best sequence of labels can be computed 
 with a variable state Viterbi approach \cite{Li2000}. However, as we increase $ k $, this computation 
 becomes exponentially more expensive. The beam-search strategy may be employed for a faster 
 search, but we found that for $ k \leq 4 $, the Viterbi algorithm is still viable.
@@ -525,12 +536,10 @@ that can handle different webpage structures without needing to resort to human 
 between webpages. 
 The problem is that there is not a lot of similarity between the HTML structure in different web pages.
 For example, only because a named entity label occurs more often inside lists in a page, we cannot
-assume that this will be the case on other web pages. 
+assume that this will be the case in other web pages. 
 Nonetheless, the HTML structure is not useless. Inside a single web page, the HTML tag is a good predictor
 of the correct labels, because words with a similar HTML context tend to have similar labels. For example, words
 that happen together inside a list are very likely to belong to the same category. 
-Yet, this pattern cannot be generalized to other pages, because we cannot expect that every list will
-be listing the same types of entities.
 
 The Self-Training strategy for HMMs consists of using the predicted labels as a proxy for the
 correct labels and estimating HTML feature probabilities for each webpage separately.
@@ -541,7 +550,7 @@ P(x_i|y_i) = P(f_{i,1}, f_{i,2}, ..., f_{i,k}|y_i) = \prod_{j=1}^k P(f_{i,j}|y_i
 \end{equation}
 %
 Assuming time invariance, we need to estimate parameters $ \hat{P}(f_{j}|y) $, 
-relative to each possible assignment of $ y $.
+relative to each feature and assignment of $ y $.
 The maximum likelihood estimators for these feature parameters can be obtained
 from their relative frequencies in the corpus. That is:
 %
@@ -552,10 +561,10 @@ from their relative frequencies in the corpus. That is:
 \end{equation}
 %
 These estimators yield good experimental results for textual features such as the 
-capitalization of a word, but for the reasons already discussed, it does not work
+capitalization of a word, but for the reasons already discussed, they do not work
 well with HTML features, such as the current HTML tag. To make better use of the
-HTML features, consider a set $ F_T $ textual features unrelated to the HTML structure
-and a set $ F_H $ of HTML features related to the HTML structure.
+HTML features, consider a set $ F_T $ features unrelated to the HTML structure
+and a set $ F_H $ of features related to the HTML structure.
 We can use a \gls{hmm} trained exclusively with the first set of features $ F_T $
 to predict the labels of an unlabeled webpage. With the predicted labels $ \tilde{y} $, we calculate
 the HTML feature probabilities $ \hat{P}(f_{j}=1|\tilde{y}=l) $ using the feature counts from
@@ -593,7 +602,7 @@ P(Y|X) = \frac{1}{Z(x)} \prod_{t=1}^{T} exp \left( \sum_{k=1}^{K} \theta_k f_k(y
 \end{equation}
 %
 where $ \theta $ is the parameter vector that we are going to learn, $ f_k(y_{t-1}, y_{t}, X) $ 
-are feature functions over the current timestep $ t_y $, the previous timestep $ y_{t-1}$, 
+are the feature functions over the current timestep $ t_y $, the previous timestep $ y_{t-1}$, 
 and the observation vector $ X $. And the partition function $ Z(x) $, takes the form:
 %
 \begin{equation}
@@ -617,7 +626,7 @@ Recurrent neural networks (RNN) have been successfully employed on numerous NLP 
 language modelling, POS tagging, speech recognition and NER. Different from feed-forward 
 neural networks, RNNs can retain information in their internal state, making them more 
 suitable for processing sequences, and consequently for solving text related tasks. 
-Figure~\ref{fig:rnn_network} describes an RNN for sequence labeling unrolled through multiple 
+Figure~\ref{fig:rnn_network} describes a RNN for sequence labeling unrolled through multiple 
 timesteps. 
 %
 \begin{figure}[h]
@@ -628,9 +637,9 @@ timesteps.
 \end{figure}
 %
 At each timestep, the neural network computes a hidden state $ h_t $ using an input 
-vector $ x_t $ and the previous hidden state $ h_{t-1} $, that retains information from past 
+vector $ x_t $ and the previous hidden state $ h_{t-1} $ that retains information from past 
 iterations. Finally, the RNN produces an output vector $ y_t $ representing the label for that 
-timestep. A common definition for an RNN cell is given by the equations:
+timestep. A common definition for a RNN cell is given by the equations:
 %
 \begin{align*}
 h_t &= tanh(W_x x_t + W_h h_{t-1}) &\\
@@ -700,8 +709,8 @@ the label at time $ t $.
 Huang et al. \shortcite{Huang2015} proposed a bidirectional LSTM with a CRF layer (BI-LSTM-CRF) on 
 the output to tackle the sequence tagging problem. The main benefit of adding a CRF layer 
 in the neural sequence model is that the labels are jointly decoded for a whole sentence 
-instead of being predicted individually. Another possibility would be to use a beam search
-decoder to find an optimal sequence of labels. Predicted tags should be highly correlated 
+instead of being predicted individually. 
+Predicted tags should be highly correlated 
 in a named entity recognition task, so it is desirable to predict sequences conjointly.
 The BI-LSTM-CRF is described in Figure~\ref{fig:bi_lstm_crf}.
 
@@ -712,7 +721,7 @@ The BI-LSTM-CRF is described in Figure~\ref{fig:bi_lstm_crf}.
   \label{fig:bi_lstm_crf}
 \end{figure}
 
-This architecture achieved an F1 score of 90.10 on the English data from the CoNLL-2003 
+This architecture achieved a F1 score of 90.10 on the English data from the CoNLL-2003 
 NER shared task \cite{KimSang2003}, in contrast to 85.17 for a bidirectional LSTM without 
 a CRF layer. 
 In our experiments, the LSTM-CRF architecture uses a bidirectional LSTM with 100 
@@ -734,15 +743,23 @@ layer is described visually in Figure \ref{fig:cnn}.
   \label{fig:cnn}
 \end{figure}
 
-The convolutional neural network receives character embeddings as inputs. The character 
+The \gls{cnn} receives character embeddings as inputs and extracts
+morphological features by sliding one dimensional filters over the sequence of characters 
+and collapsing the filter outputs with a global max pooling layer, producing character
+representations with a size determined by the number of filters. 
+This means, that when a filter gets a good match at any position in the sequence, the 
+max pooling layer output relative to that filter will be triggered, therefore this type of 
+character representation detects position invariant morphological features. For example,
+the word "finger" would trigger a filter for "ing" the same way the word "writing" would
+trigger this filter. The character 
 representations generated by the CNN are combined with word level representations 
 and fed to the BI-LSTM-CRF described in section \ref{sssec:lstm_crf}.
 This architecture can learn morphological features that are very
 useful in the NER task, since similar named entities often present morphological similarities. 
-This architecture obtained an F1 score of 91.21 in the CoNLL2003 dataset. In our experiments, 
+This architecture obtained a F1 score of 91.21 in the CoNLL-2003 dataset. In our experiments, 
 the LSTM-CRF architecture with CNN character representations uses a one dimensional convolutional 
-neural network with 30 filters and a window size of three characters on top of the LSTM-CRF 
-architecture. The character embeddings fed to the CNN have 30 dimensions that are randomly 
+neural network with 50 filters and a window size of three characters on top of the LSTM-CRF 
+architecture. The character embeddings fed to the CNN have 50 dimensions that are randomly 
 initialized.
 
 \subsubsection{LSTM character representations}
@@ -768,14 +785,14 @@ discover positional invariant features, while LSTMs can better represent
 suffixes and prefixes. In our experiments, 
 the LSTM-CRF architecture with LSTM character representations was implemented with a bidirectional 
 LSTM with 25 hidden states, producing character representations of 
-size 50. The character embeddings have 30 dimensions that are randomly initialized.
+size 50. The character embeddings have 50 dimensions that are randomly initialized.
 
 \subsubsection{Network training}
 
-In the experiments, all neural models were trained using mini batch Stochastic Gradient Descent over 50 epochs with batch size 10,
-learning rate 0.01, momentum 0.9 and decay rate 0.05. We used early stopping \cite{Caruana2000} to select the best 
+In the experiments, all neural models were trained using mini batch Stochastic Gradient Descent over 20 epochs with batch size 10,
+learning rate 0.001, momentum 0.9 and decay rate 0.05. We used early stopping \cite{Caruana2000} to select the best 
 parameters, considering the F1 measure in the validation set. All neural models used 
-GloVe 300-dimensional word embeddings \cite{Pennington2014} that were fine tuned during training.
+GloVe 300-dimensional word embeddings \cite{Pennington2014} that were not fine tuned during training.
 
 
 \section{Researcher Name Extraction Dataset}
@@ -804,9 +821,7 @@ multiple languages, although the English version was preferred when it was avail
 We gathered faculty webpages in proportion to
 the number of universities in each country\footnote{A detailed list of universities can
 be found in https://univ.cc/world.php}. 
-The dataset size was limited to a number of pages that could be viably labeled manually and
-that could still represent many different countries. 
-Also, university pages that contained 
+University pages that contained 
 corrupt HTML or JavaScript code that performed lazy loading of data records were
 not included in this dataset.
 
@@ -922,11 +937,7 @@ Most webpages in this dataset are faculty directories with informative
 text in small passages, however long prose is not absent. 
 Size and structure varies wildly, therefore some documents 
 may contain up to a few hundred names whereas other documents may contain 
-only a dozen names. This difference in document size and characteristics 
-may be problematic when comparing different extraction systems, because a system 
-that performs well on some types of pages may perform poorly in other types.
-To avoid this problem, we tried to keep the proportion between the number of tokens
-and the number of documents roughly the same for all data files.
+only a dozen names. 
 
 \subsection{Evaluation}
 \label{sec:evaluation}
@@ -982,7 +993,7 @@ a list of 1,595,771 researcher names from the DBLP database and annotated tokens
 corresponded exactly to a name from the DBLP list, the entire sequence was annotated as 
 an exact match. Otherwise, if only some tokens in the sequence matched a name from the DBLP
 list partially, the matching tokens were annotated with a partial match tag. This dictionary
-was used by some of the models that will be discussed in the experiments chapter, however it 
+was used by some of the models that will be discussed in the experiments section, however it 
 must be stated that one of the main advantages of Deep Neural Networks relative to other
 approaches is the fact that they can perform well even without the aid of a dictionary.
 
@@ -995,7 +1006,7 @@ approaches is the fact that they can perform well even without the aid of a dict
       \midrule
       Training   & 0.7316 & 0.2303 & 0.3504 & 1341 of 5822 \\ 
       Validation & 0.8474 & 0.2858 & 0.4274 & 511 of 1788 \\ 
-      Test       & 0.8717 & 0.3287 & 0.4773 & 890 of 2708 \\ 
+      Test       & 0.8717 & 0.3268 & 0.4754 & 890 of 2723 \\ 
       \bottomrule
     \end{tabular}
   \end{center}
@@ -1010,9 +1021,9 @@ Table~\ref{tab:gazetteer}. These results also provide a baseline with which to c
 other methods of sequence labeling. 
 The reported performance was obtained by only extracting named entities that corresponded to an exact 
 match. Any useful extraction method should at least improve upon this approach.
-Recall is very low because the dictionary is incomplete and precision falls short of
+Recall is very low because the dictionary is incomplete and Precision falls short of
 top performing extraction methods. This last result is surprising since we are only extracting 
-exact matches. The reason for the low precision is that exact dictionary matches may actually 
+exact matches. The reason for the low Precision is that exact dictionary matches may actually 
 only correspond to partial matches in the dataset. For example, if the dictionary has an entry
 for "Ann Smith", it may partially overlap an entry in the dataset for "Mary Ann Smith", yielding
 a false positive.
@@ -1035,8 +1046,8 @@ If the {CoNLL-2003} English dataset is used to both train and evaluate
 state-of-the-art models, it is to be expected that models trained in this dataset will
 be able to extract the same named entities in other documents with reasonable 
 effectiveness. However, this is hardly the case. By intuition, we know that tabular HTML 
-documents, such as faculty listings, are very different from plain text. But now, having a
-labeled dataset for \gls{ner} on HTML, we can understand how different they really are.
+documents, such as faculty listings, are very different from plain text. But with the
+RNE dataset for \gls{ner} on HTML, we can understand how different they really are.
 
 We trained three classifiers to perform the task of person name extraction using
 the {CoNLL-2003} training set. The {CoNLL-2003} dataset was relabeled so that classifiers only had to extract
@@ -1119,7 +1130,8 @@ but do not occur in the training set.
 }
 in the validation and test
 sets of the \gls{rne} dataset, and the number of named entities that contain at least one 
-unknown token. 
+unknown token. Roughly four in every five named entities contain at least one unknown
+token.
 
 \begin{table}[h]
   \small
@@ -1160,7 +1172,7 @@ unknown token.
       \midrule
       NEs with Unknown Tokens    & 1446 & 80.87\% & 2205 & 80.98\% \\
       NEs without Unknown Tokens & 342  & 19.13\% & 518  & 19.02\% \\
-      Total                      & 1693 & 100.00\%   & 2638 & 100.00\%   \\
+      Total                      & 1788 & 100.00\% & 2723 & 100.00\%   \\
       \bottomrule
     \end{tabular}
   \end{center}
@@ -1203,73 +1215,84 @@ unknown token.
 
 \section{Experiments}
 
-We conducted two groups of experiments to evaluate machine learning models of 
-\gls{ner} at the researcher name extraction task and answer the following 
-research questions:
-%
-\begin{enumerate}
-\item Which are the best featureless machine learning models for NER on the web?
-\item Which are the best machine learning models for NER on the web with a dictionary and a good selection of features?
-\end{enumerate}
-%
+The main objective of this article is to compare the best methods for \gls{ner} on the 
+web considering the \gls{rne} task. The value of a specific method is determined
+not only by its accuracy, but also by the amount of feature engineering required, the training
+time required, and the overall complexity of the model when we consider its gains relative to
+simpler alternatives. All models were trained on Amazon G3.4xlarge instances, which are equipped with 
+NVIDIA Tesla M60 GPUs with 8GB internal memory, however all the HMM operations were done in the CPU.
+The implementations were done entirely in Python using Google's Tensorflow deep learning 
+library~\footnote{https://www.tensorflow.org/.}. 
+Subsection~\ref{ssec:exp_1} discusses the results of featureless models and Subsection~\ref{ssec:exp_2} 
+discusses models that incorporated features and a dictionary.
+
+
+\subsection{Featureless models}
+\label{ssec:exp_1}
+
+The first experiment aimed to evaluate the performance of sequence models that used 
+only words as features in the \gls{rne} task.
 A model that works well despite the absence of a good feature selection is arguably more valuable than
-a method that requires a lot of feature engineering or a big dictionary of named entities, as long as 
+a method that requires feature engineering or a big dictionary of named entities, as long as 
 its accuracy is sufficiently high for the intended purpose. This is where Deep Neural Networks are most
 useful. However, the improved accuracy of neural architectures comes at the expense of more complexity
 and a longer training time, what must also be taken into account. 
+The tested HMMs and CRFs used only the unaccented lowercase version of the current token as a feature
+to predict labels at each timestep. The neural networks used GloVe-300 word embeddings using the 
+unaltered token as a lookup index. Due to the rugged shape of the loss function, the neural networks 
+do not necessarily converge to an optimal set of parameters, so the reported results are the averages
+over five runs of each model. 
 
-
-\subsection{Experiment 1: No features}
-
-Experiment 1 aimed to evaluate the performance of sequence model with no features
-besides GloVe-100 embeddings. In the case of HMMs, only the lowercase
-unaccented token was used as a feature. Table \ref{tab:experiment1} 
-shows the Precision (P), Recall (R), and F1-scores (F1) for this
-experiment.
+Table \ref{tab:experiment1} shows the Precision (P), Recall (R), F1-scores (F1) and the time to 
+train the models and run predictions (Time) for HMMs up to third order, CRFs, and Bi-LSTM-CRFs with
+CNN-based character representations (CNNc) and LSTM-based character representations (LSTMc).
 
 \begin{table}[h]
   \small
   \begin{center}
-    \begin{tabular}{ lllllll }
+    \begin{tabular}{ llllllll }
       \toprule
-      \multirow{2}{*}{Model} & \multicolumn{3}{c}{Validation} & \multicolumn{3}{c}{Test} \\
+      \multirow{2}{*}{Model} & \multicolumn{3}{c}{Validation} & \multicolumn{3}{c}{Test} & \multirow{2}{*}{Time} \\
                              & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{R} & \multicolumn{1}{c}{F1}
-                             & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{R} & \multicolumn{1}{c}{F1} \\
+                             & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{R} & \multicolumn{1}{c}{F1} & \\
       \midrule
-      HMM-1                 & 0.693 & 0.581 & 0.632 & 0.637 & 0.458 & 0.533 \\
-      HMM-2                 & 0.703 & 0.630 & 0.665 & 0.653 & 0.527 & 0.583 \\
-      HMM-3                 & 0.616 & 0.618 & 0.617 & 0.551 & 0.468 & 0.506 \\
-      CRF                   & 0.806 & 0.805 & 0.806 & 0.795 & 0.710 & 0.750 \\
-      Bi-LSTM-CRF           & 0.906 & 0.938 & 0.922 & 0.909 & 0.865 & 0.886 \\
-      +CNNc                 & 0.929 & 0.946 & 0.938 & 0.921 & 0.881 & 0.901 \\
-      +LSTMc                & 0.928 & 0.950 & 0.939 & 0.920 & 0.886 & 0.902 \\
+      HMM-1                 & 0.693 & 0.581 & 63.2 & 0.637 & 0.458 & 53.3 & 15.72   \\
+      HMM-2                 & 0.703 & 0.630 & 66.5 & 0.653 & 0.527 & 58.3 & 31.32   \\
+      HMM-3                 & 0.616 & 0.618 & 61.7 & 0.551 & 0.468 & 50.6 & 80.69   \\
+      CRF                   & 0.806 & 0.805 & 80.6 & 0.795 & 0.710 & 75.0 & 918.25  \\
+      Bi-LSTM-CRF           & 0.906 & 0.938 & 92.2 & 0.909 & 0.865 & 88.6 & 2580.30 \\
+      Bi-LSTM-CRF+CNNc      & 0.929 & 0.946 & 93.8 & \textbf{0.921} & 0.881 & 90.1 & 3379.33 \\
+      Bi-LSTM-CRF+LSTMc     & 0.928 & 0.950 & 93.9 & 0.920 & \textbf{0.886} & \textbf{90.2} & 4412.41 \\
       \bottomrule
     \end{tabular}
   \end{center}
-  \caption{Precision, recall and F1 in the NER on HTML dataset for models that incorporate no features}
+  \caption{Precision, recall and F1 in the RNE dataset for models that incorporate no features}
   \label{tab:experiment1}
 \end{table}
 
-Without carefully designed features or gazetteers, HMMs and CRFs have a very 
-poor performance, achieving an F1-score of only 0.5783 for HMM-2 and 0.6244 for CRF
-at the test set. This is expected, since these models rely on good feature selections.
+Without resorting to features besides the current word or a dictionary of named entities, HMMs and CRFs have a
+poor performance. Increasing the number of previous timesteps considered by the HMM helps
+up to a point, but its effectiveness is limited. The second order HMM (HMM-2) achieves a 58.3 F1
+while the third order HMM (HMM-3) suffers a drop in performance with a 50.6 F1. The CRF is the
+best classical model, achieving a 75.0 F1 in the test set.
 
-The neural models achieved high F1-scores in the test
-set even with the absence of features. The plain BI-LSTM-CRF architecture improved performance 
-significantly in comparison with the conventional CRF (0.8427 against 0.6244). 
-Also, neural character representations boosted performance by a significant margin
-reaching an F1-score of 0.8758 for CNN-based representations and 0.8867 for LSTM-based
-representations. LSTM based representations were superior in modelling
-morphological features, perhaps because they are able to differentiate suffixes 
-and prefixes, while CNN filters are position invariant. 
+All neural models achieved a considerably better performance in the RNE task. The plain Bi-LSTM-CRF
+achieved a 88.6 F1. Character representations improved the performance by a little amount,
+to 90.1 F1 for the CNN-based representations and to 90.2 F1 for the LSTM-based
+representations. In CoNLL-2003, the reported results were 91.2 F1 for the CNN-based
+representations~\cite{Ma2016} and 90.9 F1 for the LSTM-based representations~\cite{Lample2016}, improving
+upon the plain Bi-LSTM-CRF model~\cite{Huang2015}, which achieved a 90.1 F1. These results seem to be in
+accord with our own experiments for the \gls{rne} dataset, with the primary difference that the
+LSTM-based character representations were more effective in our experimental setting,
+contrasting with the CoNLL-2003 results.
+Nevertheless, the difference between the two types of character representations 
+is not substantial enough to allow a solid conclusion about the quality of
+one model over the other. However, the benefit of adding character representations 
+to plain recurrent neural networks is clearly supported by the evidence.
 
-The results in Experiment 1 also show that pretrained word embeddings can work 
-as a kind of universal gazetteer. Words with similar embeddings are likely to 
-belong to the same class. This knowledge combined with the ability to learn 
-morphological features can make up for the scarcity of textual data on some 
-webpages.
 
-\subsection{Experiment 2: All features}
+\subsection{All features}
+\label{ssec:exp_2}
 
 Eleven discrete features were extracted from the dataset. 
 These were selected from a larger pool of features, 
@@ -1288,10 +1311,10 @@ The selected features are presented in Table~\ref{tab:features}.
       1  & Unaccented lowercase token & Categorical \\
       2  & Exact dictionary match & Binary \\
       3  & Partial dictionary match & Binary \\
-      4  & Email & Binary \\
-      5  & Number & Binary \\
-      6  & Honorific (Mr., Mrs., Dr., etc.) & Binary \\
-      7  & Matches a URL & Binary \\
+      4  & Is an Email & Binary \\
+      5  & Contains a Number & Binary \\
+      6  & Is an Honorific (Mr., Mrs., Dr., etc.) & Binary \\
+      7  & Is a URL & Binary \\
       8  & Is capitalized & Binary \\
       9  & Is a punctuation sign & Binary \\
       10 & HTML tag + parent & Categorical \\
@@ -1303,82 +1326,148 @@ The selected features are presented in Table~\ref{tab:features}.
   \label{tab:features}
 \end{table}
 
-The only features that demand further explanation are features 10 and 11.
+Features 2 and 3 relate to the dictionary extracted from DBLP described in Section~\ref{cha:dataset}.
 Feature 10 is the token's enclosing HTML tag and its parent tag concatenated.
 Feature 11 is the CSS class for the token's HTML tag.
-Both of these features are only useful in the self-training strategy for HMMs and the
-attention architectures for Bi-LSTM-CRFs. In other models, we only use features 1 to 9.
-Experiment 2 aimed to evaluate the performance of sequence model with all
-the features described in Table~\ref{tab:features}. In this experiment, we
-also evaluate the self-training strategy for HMMs described in Section 
-\ref{sssec:self_training}. The self trained HMMs are described with the 
-suffix "+ST". Table \ref{tab:experiment2} shows the results for Experiment 2.
+Features 10 and 11 are only useful in the self-training strategy for HMMs, because
+the patterns represented by these features are webpage specific. In other models, we only used
+features 1 to 9.
+
+Table \ref{tab:experiment2} shows the results for the models that incorporated features. 
+The self trained HMMs are described with the suffix +ST.
 
 \begin{table}[h]
   \small
   \begin{center}
-    \begin{tabular}{ lllllll }
+    \begin{tabular}{ llllllll }
       \toprule
-      \multirow{2}{*}{Model} & \multicolumn{3}{c}{Validation} & \multicolumn{3}{c}{Test} \\
-                             & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{R} & \multicolumn{1}{c}{F1}
-                             & \multicolumn{1}{c}{P} & \multicolumn{1}{c}{R} & \multicolumn{1}{c}{F1} \\
+      \multirow{2}{*}{Model} & \multicolumn{3}{c}{Validation} & \multicolumn{3}{c}{Test}                       & \multirow{2}{*}{Time} \\
+                             & \multicolumn{1}{c}{P}          & \multicolumn{1}{c}{R} & \multicolumn{1}{c}{F1}
+                             & \multicolumn{1}{c}{P}          & \multicolumn{1}{c}{R} & \multicolumn{1}{c}{F1} & \\
       \midrule
-      HMM-1                           & 0.730 & 0.714 & 0.722 & 0.826 & 0.684 & 0.748 \\
-      HMM-2                           & 0.720 & 0.710 & 0.715 & 0.820 & 0.724 & 0.769 \\
-      HMM-3                           & 0.721 & 0.702 & 0.711 & 0.791 & 0.667 & 0.724 \\
-      HMM-1 + Self-Training           & 0.747 & 0.906 & 0.819 & 0.866 & 0.867 & 0.866 \\
-      HMM-2 + Self-Training           & 0.771 & 0.912 & 0.835 & 0.885 & 0.869 & 0.877 \\
-      HMM-3 + Self-Training           & 0.788 & 0.917 & 0.847 & 0.826 & 0.803 & 0.814 \\
-      CRF (Group B)                   & 0.881 & 0.903 & 0.892 & 0.870 & 0.786 & 0.826 \\
-      Bi-LSTM-CRF (Group B)           & 0.914 & 0.947 & 0.930 & 0.921 & 0.883 & 0.901 \\
-      +CNN chars                      & 0.939 & 0.947 & 0.943 & 0.922 & 0.868 & 0.894 \\
-      +LSTM chars                     & 0.932 & 0.942 & 0.937 & 0.913 & 0.855 & 0.883 \\
+      HMM-1                & 0.730 & 0.714 & 72.2 & 0.826 & 0.684 & 74.8 & 15.22 \\
+      HMM-2                & 0.720 & 0.710 & 71.5 & 0.820 & 0.724 & 76.9 & 30.10 \\
+      HMM-3                & 0.721 & 0.702 & 71.1 & 0.791 & 0.667 & 72.4 & 81.14 \\
+      HMM-1+ST             & 0.747 & 0.906 & 81.9 & 0.866 & 0.867 & 86.6 & 28.54 \\
+      HMM-2+ST             & 0.771 & 0.912 & 83.5 & 0.885 & 0.869 & 87.7 & 57.52 \\
+      HMM-3+ST             & 0.788 & 0.917 & 84.7 & 0.826 & 0.803 & 81.4 & 154.67 \\
+      CRF                  & 0.881 & 0.903 & 89.2 & 0.870 & 0.786 & 82.6 & 965.59 \\
+      Bi-LSTM-CRF          & 0.918 & 0.947 & 93.2 & 0.926 & 0.878 & 90.1 & 2261.79 \\
+      Bi-LSTM-CRF+CNNc     & 0.918 & 0.956 & 93.7 & \textbf{0.933} & \textbf{0.902} & \textbf{91.7} & 3255.93 \\
+      Bi-LSTM-CRF+LSTMc    & 0.904 & 0.958 & 93.0 & 0.912 & 0.875 & 89.3 & 4249.21 \\
       \bottomrule
     \end{tabular}
   \end{center}
-  \caption{Precision, recall and F1 in the NER on HTML dataset for models that incorporate all features}
+  \caption{Precision, recall and F1 in the RNE dataset for models that incorporate all features}
   \label{tab:experiment2}
 \end{table}
 
-Conventional models like HMMs, and CRFs can become competitive with
-the right selection of features and a good gazetteer, however they still lose
-to the best neural model without features, demonstrating their inherent limitations.
-HMMs that employed trigrams or quadrigrams (hmm-2, hmm-3) performed better than
-regular HMMs. Also, we can see that the self-training strategy for HMMs improved 
-the quality of the models significantly in all cases, boosting both precision and recall. 
-This hints at the possibility to adapt this strategy to neural networks and boost
-the performance of neural models on the NER on HTML task.
+Conventional models like HMMs, and CRFs can become quite competitive with
+the right selection of features and a good gazetteer, however they still have worse F1 scores
+than the neural models without features, demonstrating their inherent limitations.
+Second-order HMMs (HMM-2) performed consistently better than
+the other HMM variants. The self-training strategy was effective in improving the 
+performance of all HMMs considerably. The best model (HMM-2) went from a 76.9 F1 to
+87.7 F1, with a substantial improvement in Recall (0.724 to 0.869). As with the 
+featureless models, the CRF is superior to the HMMs that did not incorporate the self-training
+strategy, achieving 82.6 F1.
 
-The neural models also improved a little with the addition of features. The plain BI-LSTM-CRF
-model gets a closer performance to the models that employed neural character 
-representations. It suggests that the LSTM and CNN character representations 
-were able to learn at least part of the morphological features automatically in the
-first experiment. So, when these features are added explicitly, the differences 
-in performance between different neural models become less noticeable.
+The inclusion of features in the neural models had no decisive positive effect. The plain 
+Bi-LSTM-CRF and the model with CNN-based character representations had an increase in 
+F1, 90.1 and 91.7 respectively, but the Bi-LSTM-CRF with LSTM-based character representations 
+actually suffered a slight decrease in performance relative to the featureless model. 
+Overall, the power of deep neural networks for sequence labeling lies 
+in their remarkable capacity to perform well without resorting to features besides the raw text. 
+The small difference in performance between featureless neural networks and neural networks 
+with features demonstrates that the CNN or LSTM character representations seem to be effective 
+in extracting morphological features automatically and the pre-trained GloVe word embeddings 
+can outweigh the absence of a gazetteer, since named entities that belong to the same category
+tend to have similar embeddings.
+
+Despite the superior performance of Neural Networks in this task, there remains an important 
+consideration to be made. As we increase the complexity and the training time required by the models, there 
+is only a scant gain in terms of F1. For example, the 
+Bi-LSTM-CRF with LSTM character representations achieved a 90.2 F1, while 
+the HMM-2 using a Self-Training strategy achieved a 87.9 F1. It is a small difference
+in performance, considering the disparity of model complexity. This reality
+is not limited to the RNE dataset. For example, 
+the winning NER model in the CoNLL-2003 competition~\cite{Florian2003} used a combination of simple
+statistical models and feature engineering to achieve 88.76 F1 in the English test set, 
+while the Bi-LSTM-CRF with LSTM characters achieved 90.94 F1~\cite{Lample2016} and the Bi-LSTM-CRF with 
+CNN characters achieved 91.21 F1~\cite{Ma2016}. That is,
+the improvement is below three points in the F1 score.
+
+The Neural Network approach to NER does not demand any feature engineering or self-training, 
+contrasting with the HMM approach, which is highly reliant on
+the right selection of features and the self-training strategy. However, the absence of
+human intervention in Deep Neural Networks is questionable to some degree since there is the
+need to define many hyper parameters and
+details about the neural architecture, such as the number of \textit{LSTM} layers and
+hidden weights, where to add dropout layers, which pre-trained word embeddings to use, etc. In summary, 
+there are many choices to be made, none of which have definitive theoretical justification, 
+so the model variations need to be tested empirically. This requires many iterations between setting
+parameters, obtaining results, and tuning parameters once again. Considering that each of 
+these iterations can take at least a couple of hours to finish, it is not clear if
+selecting features is necessarily a more arduous struggle.
+
+To the best of our abilities, the Tensorflow implementation of the Bi-LSTM-CRF + LSTMc
+model running on a AWS GPU instance took approximately 4412 seconds to train 
+and run predictions. While, the HMM-2 did the same in approximately
+58 seconds, running in a conventional CPU with unoptimized code. This is almost 80 times 
+faster, what is relevant if we are trying to improve the models over many iterations.
+Finally, if we consider the intellectual cost of understanding and implementing both 
+models and the code maintainability of both implementations, the difference becomes even 
+more profound.
+
 
 \section{Conclusion}
 
-Machine-learning-based sequence labeling models provide a flexible approach to \gls{wde}, 
-in contrast to more traditional methods. In simple cases, a neural
-named entity tagger may be sufficient to solve the entire data extraction task. In 
-other cases, the sequence tagger remains an important part of the \gls{wde} 
-system, as it performs attribute labeling on data records with accuracy and flexibility.
+Machine-learning-based sequence labeling models are an effective approach for NER 
+both on plain text and on web data extraction tasks. 
+In this article, we compared the performance of HMMs, CRFs and Neural Networks on the task of
+researcher name extraction, introducing a novel dataset that is publicly available,
+the RNE dataset.
+Models trained in plain text are not effective to perform NER on the web, because 
+HTML pages contain a substantial amount of boilerplate text and the sentences are shorter 
+than typical plain text, what confounds the classifiers. The results for the RNE dataset
+confirm many results reported in the natural language processing literature, but it also 
+demonstrates that different web extraction tasks will most likely demand specific labeled 
+datasets. 
 
-In this article, we compared the performance of different sequence models on the task of
-named entity recognition on HTML, introducing a novel dataset that is publicly available. 
-We found that there are two components to the most successful models: neural based character 
-representations that extract morphological features automatically, and the joint modelling 
-of output labels.
+Constructing labeled datasets for sequence labeling is awfully expensive, especially if we
+are interested in extracting more than a couple of entity types. This leads to the
+conclusion that unsupervised or at least semi-supervised extraction methods are a more 
+prosperous line of research. Unfortunately, the performance of unsupervised systems is still
+not comparable to what can be achieved with supervised systems.
 
-We showed that a BI-LSTM-CRF neural network with LSTM-based character representations can 
-be employed effectively to solve a \gls{wde} task, achieving an F1-score of 
-0.8867 with no feature engineering on the faculty listings dataset.
+The neural architectures for sequence labeling performed better than other models in the 
+researcher name extraction task. Among them, the Bi-LSTM-CRF with LSTM-based character 
+representations achieved a 90.2 F1 in the task using only GloVe-300 word embeddings. By adding
+textual features and a gazetteer, the Bi-LSTM-CRF with CNN-based character representations
+achieved a 91.7 F1 in the test set of the RNE dataset. However, these neural architectures are
+quite complex, demanding sophisticated decisions such as the choice of hyper parameters for the 
+optimization method, the number of LSTM layers, where to add dropout layers, and the choice of 
+word embeddings. All of these decisions
+must be tested empirically since there is seldom theoretical justification for one choice over
+the other.
+
+In contrast to deep neural networks, the Hidden Markov Model is a very simple approach to 
+sequence labeling that can provide a satisfactory solution to NER on the web. In the researcher
+name extraction task, the second-order HMM using a good selection of features and the self-training
+strategy achieved a 87.7 F1, taking only 57 seconds to train and run predictions, while neural 
+network models took between 40 and 80 times longer to do the same with more expensive hardware.
+Depending on the end goal, this should be taken in consideration. However, neural models are
+undeniably more accurate and more flexible.
 
 The effective recognition of named entities on HTML is an essential step in most general 
-\gls{wde} methods. The accuracy achieved by deep neural architectures even
-on webpages that are very different from the plain text for which these architectures 
-were initially designed shows the potential for a truly flexible approach to cross domain 
-\gls{wde}.
+\gls{wde} methods. The accuracy achieved by deep neural architectures
+shows the potential for a truly flexible approach to cross domain extraction.
+Also, the self-training strategy showed a remarkable effectiveness in boosting the performance 
+of all HMM variants. It did so by using knowledge about the HTML context to make predictions,
+inspired on classical \gls{wde} systems. Future work could incorporate this 
+knowledge on neural models or CRFs to boost their performance in web extraction
+tasks.
+
 
 % \bibliographystyle{named}
 % \bibliography{bibfile}
@@ -1406,45 +1495,7 @@ were initially designed shows the potential for a truly flexible approach to cro
 
 \bibliographystyle{apa}
 
-% \cite{Zhu2005,Zhu2006,Abdessalem2010,Furche2012,Furche2012a}. Usually, 
-
 \begin{thebibliography}{}
-
-\bibitem[\protect\citename{Kushmerick }2000]{Kushmerick2000}
-Kushmerick, N. (2000) 
-Wrapper induction: efficiency and expressiveness.
-{\it Artificial Intelligence\/} 
-{\bf 118(1-2)}: 15--68.
-
-\bibitem[\protect\citename{Muslea, Minton and Knoblock }1999]{Muslea1999}
-Muslea I., Minton S., and Knoblock C. (1999) 
-A Hierarchical Approach to Wrapper Induction.
-In {\it Proceedings of the Third Annual Conference on Autonomous Agents}, 
-pp.~190--197, New York: ACM.
-
-\bibitem[\protect\citename{Hsu and Dung }{1998}]{Hsu1998}
-Hsu, Chun-Nan and Dung Ming-Tzung. (1998) 
-Generating finite-state transducers for semi-structured data extraction from the Web.
-{\it Information Systems \/}, 
-{\bf 23(8)}: 521--538.
-
-\bibitem[\protect\citename{Crescenzi, Mecca, and Merialdo }2001]{Crescenzi2001}
-Crescenzi V., Mecca G., and Merialdo P. (2001)
-Roadrunner: Towards automatic data extraction from large web sites.
-In {\it Proceedings of the 27th International Conference on Very Large Data Bases}, 
-pp. 109--118.
-
-\bibitem[\protect\citename{Zhu, Nie, Wen, Zhang, and Ma }2005]{Zhu2005}
-Zhu J., Nie Z., Wen J., Zhang B., and Ma W. (2005)
-2D Conditional Random Fields for Web Information Extraction.
-In {\it Proceedings of the 22Nd International Conference on Machine Learning (ICML '05)}, 
-pp.~1044--1051, New York: ACM.
-
-\bibitem[\protect\citename{Zhu, Nie, Wen, Zhang, and Ma }2006]{Zhu2006}
-Zhu J., Nie Z., Wen J., Zhang B., and Ma W. (2006)
-Simultaneous Record Detection and Attribute Labeling in Web Data Extraction.
-In {\it Proceedings of the 12th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD '06)}, 
-pp.~494--503, New York: ACM.
 
 \bibitem[\protect\citename{Abdessalem T., Cautis B., and Derouiche N. }{2010}]{Abdessalem2010}
 Abdessalem T., Cautis B., and Derouiche N. (2010)
@@ -1452,52 +1503,17 @@ ObjectRunner: Lightweight, targeted extraction and querying of structured web da
 In {\it Proceedings of the VLDB Endowment}
 {\bf 3(1-2)}: 1585--1588.
 
-\bibitem[\protect\citename{Furche, Gottlob, Grasso, Gunes, Guo, Kravchenko, Orsi, Schallhart, Sellers, and Wang }{2012}]{Furche2012}
-Furche, T., Gottlob, G., Grasso, G., Gunes, O., Guo, X., Kravchenko, A., Orsi, G., Schallhart, C., Sellers, A., and Wang, C. (2012)
-Diadem: Domain-centric, intelligent, automated data extraction methodology.
-In {\it Proceedings of the 21st International Conference on World Wide Web (WWW '12 Companion)}, 
-pp. 267--270, New York, ACM.
-
-\bibitem[\protect\citename{Collobert, Weston, Bottou, Karlen, Kavukcuoglu, and Kuksa }2011]{Collobert2011}
-Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K. and Kuksa P. (2011)
-Natural language processing (almost) from scratch.
-{\it Journal of Machine Learning Research}
-{\bf 12}: 2493--2537.
-
-\bibitem[\protect\citename{Ribas, Ribeiro-Neto, de Souza e Silva, Ueda, and Ziviani }2015]{Ribas2015}
-Ribas, S., Ribeiro-Neto, B., de Souza e Silva, E., Ueda, A., and Ziviani, N. (2015)
-In {\it Proceedings of the 24th International Conference on World Wide Web (WWW '15 Companion)}, 
-pp. 603--608, New York, ACM.
-
 \bibitem[\protect\citename{Adelberg }1998]{Adelberg1998}
 Adelberg B. (1998)
 NoDoSE---a tool for semi-automatically extracting structured and semistructured data from text documents.
 {\it ACM SIGMOD Record} 
 {\bf 27(2)}: 283--294.
 
-\bibitem[\protect\citename{Laender, Ribeiro-Neto, da Silva }2002a]{Laender2002a}
-Laender, A., Ribeiro-Neto, B. and da Silva, A. (2002)
-DEByE - Date extraction by example.
-{\it Data Knowledge Engineering}
-{\bf 40(2)}: 121--154.
-
-\bibitem[\protect\citename{Califf and Mooney }1999]{Califf1999}
-Califf, M. and Mooney, R. (1999)
-Relational learning of pattern-match rules for information extraction.
-{\it Computational Linguistics}
-{\bf 4}: 9--15.
-
-\bibitem[\protect\citename{Laender, Ribeiro-Neto, da Silva and Teixeira }2002b]{Laender2002b}
-Laender, A., Ribeiro-Neto, B., da Silva, A., and Teixeira, J. (2002)
-A brief survey of web data extraction tools.
-{\it SIGMOD Record}
-{\bf 31(2)}: 84--93.
-
-\bibitem[\protect\citename{Hammer, McHugh and Garcia-Molin }1997]{Hammer1997}
-Hammer, J., McHugh, J. and Garcia-Molin, H. (1997)
-Semistructured Data: The TSIMMIS Experience.
-In {\it Proceedings of the First East-European Conference on Advances in Databases and Information Systems (ADBIS'97)}
-pp. 22--22, Swindon, UK, BCS Learning \& Development Ltd.
+\bibitem[\protect\citename{Akbik, Blythe and Vollgraf }2018]{Akbik2018}
+Akbik, A., Blythe, D. and Vollgraf, R. (2018)
+Contextual string embeddings for sequence labeling.
+In {\it Proceedings of the 27th International Conference on Computational Linguistics}
+pp. 1638--1649, Santa Fe, New Mexico, ACL.
 
 \bibitem[\protect\citename{Arocena and Mendelzon }1998]{Arocena1999}
 Arocena, G. and Mendelzon, A. (1998)
@@ -1505,41 +1521,34 @@ WebOQL: Restructuring documents, databases, and webs.
 In {\it Proceedings of the Fourteenth International Conference on Data Engineering (ICDE '98)}
 pp. 24--33, Washington, DC, USA, IEEE Computer Society.
 
-\bibitem[\protect\citename{Liu, Pu and Han }2000]{Liu2000}
-Liu, L., Pu, C. and Han, W. (2000)
-XWRAP: an XML-enabled wrapper construction system for Web information sources.
-In {\it Proceedings of 16th International Conference on Data Engineering}
-pp. 611--621.
+\bibitem[\protect\citename{Baevski, Edunov, Liu, Zettlemoyer and Auli }2019]{Baevski2019}
+Baevski, A., Edunov, S., Liu, Y., Zettlemoyer, L. and Auli, M. (2019)
+Cloze-driven pretraining of self-attention networks.
+{\it Preprint arXiv:1903.07785}.
 
-\bibitem[\protect\citename{Sahuguet and Azavant }1999]{Sahuguet1999}
-Sahuguet, A. and Azavant F. (1999)
-Building Light-Weight Wrappers for Legacy Web Data-Sources Using W4F.
-In {\it Proceedings of the 25th International Conference on Very Large Data Bases (VLDB '99)}
-pp. 738--741, San Francisco, CA, USA, Morgan Kaufmann Publishers Inc.
+\bibitem[\protect\citename{Bikel, Schwartz and Weischedel }1999]{Bikel1999}
+Bikel, D., Schwartz, R. and Weischedel, R. (1999)
+An algorithm that learns what's in a name.
+{\it Machine Learning}
+{\bf 34(1)}: 211--231.
 
-\bibitem[\protect\citename{Freitag }1998]{Freitag1998}
-Freitag, D. (1998)
-Information Extraction from HTML: Application of a General Machine Learning Approach.
-In {\it Proceedings of the Fifteenth National/Tenth Conference on Artificial Intelligence/Innovative Applications of Artificial Intelligence (AAAI '98/IAAI '98)}
-pp. 517--523, Menlo Park, CA, USA, American Association for Artificial Intelligence.
+\bibitem[\protect\citename{Borthwick, Sterling, Agichtein and Grishman }1998]{Borthwick1998}
+Borthwick, A., Sterling, J., Agichtein, E. and Grishman, R. (1998)
+Exploiting diverse knowledge sources via maximum entropy in named entity recognition.
+In {\it Proceedings of the Sixth Workshop on Very Large Corpora}
+pp. 152--160. ACL.
 
-\bibitem[\protect\citename{Soderland }1999]{Soderland1999}
-Soderland, S. (1999)
-Learning Information Extraction Rules for Semi-Structured and Free Text.
-{\it Machine Learning} 
-{\bf 34(1)}: 233--272.
+\bibitem[\protect\citename{Califf and Mooney }1999]{Califf1999}
+Califf, M. and Mooney, R. (1999)
+Relational learning of pattern-match rules for information extraction.
+{\it Computational Linguistics}
+{\bf 4}: 9--15.
 
-\bibitem[\protect\citename{Chang, Kayed, Girgis and Shaalan }2006]{Chang2006}
-Chang, C., Kayed, M., Girgis, M. and Shaalan, K. (2006)
-A Survey of Web Information Extraction Systems.
-{\it IEEE Transactions on Knowledge and Data Engineering}
-{\bf 18(10)}: 1411--1428.
-
-\bibitem[\protect\citename{Hogue and Karger }2005]{Hogue2005}
-Hogue, A. and Karger, D. (2005)
-Thresher: Automating the Unwrapping of Semantic Content from the World Wide Web.
-In {\it Proceedings of the 14th International Conference on World Wide Web (WWW '05)}
-pp. 86--95, New York, NY, USA, ACM.
+\bibitem[\protect\citename{Caruana, Lawrence and Giles }2000]{Caruana2000}
+Caruana, R., Lawrence, S. and Giles, L. (2000)
+Overfitting in neural nets: Backpropagation, conjugate gradient, and early stopping.
+In {\it Proceedings of the 13th International Conference on Neural Information Processing Systems (NIPS'00)}
+pp. 381--387, Cambridge, MA, USA, MIT Press.
 
 \bibitem[\protect\citename{Chang and Lui }2001]{Chang2001}
 Chang, C. and Lui, S. (2001)
@@ -1553,11 +1562,34 @@ OLERA: Semisupervised Web-data extraction with visual support.
 {\it IEEE Intelligent Systems}
 {\bf 19(6)}: 56--64.
 
-\bibitem[\protect\citename{Sarawagi }2008]{Sarawagi2008}
-Sarawagi, S. (2008)
-Information extraction.
-{\it Foundations and Trends in Databases}
-{\bf 1(3)}: 261--377.
+\bibitem[\protect\citename{Chang, Kayed, Girgis and Shaalan }2006]{Chang2006}
+Chang, C., Kayed, M., Girgis, M. and Shaalan, K. (2006)
+A Survey of Web Information Extraction Systems.
+{\it IEEE Transactions on Knowledge and Data Engineering}
+{\bf 18(10)}: 1411--1428.
+
+\bibitem[\protect\citename{Collobert, Weston, Bottou, Karlen, Kavukcuoglu, and Kuksa }2011]{Collobert2011}
+Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K. and Kuksa P. (2011)
+Natural language processing (almost) from scratch.
+{\it Journal of Machine Learning Research}
+{\bf 12}: 2493--2537.
+
+\bibitem[\protect\citename{Crescenzi, Mecca, and Merialdo }2001]{Crescenzi2001}
+Crescenzi V., Mecca G., and Merialdo P. (2001)
+Roadrunner: Towards automatic data extraction from large web sites.
+In {\it Proceedings of the 27th International Conference on Very Large Data Bases}, 
+pp. 109--118.
+
+\bibitem[\protect\citename{Devlin, Chang, Lee, and Toutanova }2018]{Devlin2018}
+Devlin, J., Chang, M., Lee, K. and Toutanova, K. (2018)
+{BERT}: Pre-training of deep bidirectional transformers for language understanding.
+{\it Preprint arXiv:1810.04805}.
+
+\bibitem[\protect\citename{Dong, Gabrilovich, Heitz, Horn, Lao, Murphy, Strohmann, Sun, and Zhang }{2014}]{Dong2014}
+Dong, X., Gabrilovich, E., Heitz, G., Horn, W., Lao, N., Murphy, K., Strohmann, T., Sun, S. and Zhang, W. (2014)
+Knowledge Vault: a web-scale approach to probabilistic knowledge fusion.
+In {\it Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining (KDD '14)}
+pp. 601--610.
 
 \bibitem[\protect\citename{Ferrara and Baumgartner }2011]{Ferrara2011}
 Ferrara, E. and Baumgartner, R. (2011)
@@ -1571,53 +1603,17 @@ Web data extraction, applications and techniques: A survey.
 {\it Knowledge-Based Systems}
 {\bf 70}: 301--323.
 
-\bibitem[\protect\citename{Schulz, Lassig and Gaedke }2016]{Schulz2016}
-Schulz, A. Lassig, J. and Gaedke, M. (2016)
-Practical web data extraction: Are we there yet? --- A short survey.
-{\it IEEE/WIC/ACM International Conference on Web Intelligence (WI), 2016}, 
-pp. 562--567.
+\bibitem[\protect\citename{Florian, Ittycheriah, Jing and Zhang }2003]{Florian2003}
+Florian, R. Ittycheriah, A. Jing, H. and Zhang, T. (2003)
+Named entity recognition through classifier combination.
+In {\it Proceedings of the Seventh Conference on Natural Language Learning at HLT-NAACL 2003}
+pp. 168--171.
 
-\bibitem[\protect\citename{Varlamov and Turdakov }2016]{Varlamov2016}
-Varlamov, M. and Turdakov, D. (2016)
-A survey of methods for the extraction of information from Web resources.
-{\it Programming and Computer Software}
-{\bf 42(5)}: 279--291.
-
-\bibitem[\protect\citename{Krupl, Herzog and Gatterbauer }2005]{Krupl2005}
-Krupl, B. Herzog, M. and Gatterbauer, W. (2005)
-Using visual cues for extraction of tabular data from arbitrary HTML documents.
-{\it Special interest tracks and posters of the 14th international conference on World Wide Web - WWW '05} 
-pp. 1000--1001.
-
-\bibitem[\protect\citename{Shi, Liu, Shen, Yuan and Huang }{2015}]{Shi2015}
-Shi, S., Liu, C., Shen, Y., Yuan, C. and Huang, Y. (2015)
-AutoRM: An effective approach for automatic Web data record mining.
-{\it Knowledge-Based Systems}
-{\bf 89}: 314--331.
-
-\bibitem[\protect\citename{Dong, Gabrilovich, Heitz, Horn, Lao, Murphy, Strohmann, Sun, and Zhang }{2014}]{Dong2014}
-Dong, X., Gabrilovich, E., Heitz, G., Horn, W., Lao, N., Murphy, K., Strohmann, T., Sun, S. and Zhang, W. (2014)
-Knowledge Vault: a web-scale approach to probabilistic knowledge fusion.
-In {\it Proceedings of the 20th ACM SIGKDD international conference on Knowledge discovery and data mining (KDD '14)}
-pp. 601--610.
-
-\bibitem[\protect\citename{Sundheim }1991]{Sundheim1991}
-Sundheim. B. (1991)
-Overview of the third message understanding evaluation and conference.
-In {\it Proceedings of the 3rd Conference on Message Understanding (MUC3 '91)}
-pp. 3--16, Stroudsburg, PA, USA, ACL.
-
-\bibitem[\protect\citename{Kim~Sang and De-Meulder }2003]{KimSang2003}
-Kim-Sang, T. and De~Meulder, F. (2003)
-Introduction to the CoNLL-2003 Shared Task: Language-independent Named Entity Recognition.
-In {\it Proceedings of the Seventh Conference on Natural Language Learning at HLT-NAACL 2003 - Volume 4 (CONLL '03)}
-pp. 142--147, Stroudsburg, PA, USA, ACL.
-
-\bibitem[\protect\citename{Bikel, Schwartz and Weischedel }1999]{Bikel1999}
-Bikel, D., Schwartz, R. and Weischedel, R. (1999)
-An algorithm that learns what's in a name.
-{\it Machine Learning}
-{\bf 34(1)}: 211--231.
+\bibitem[\protect\citename{Freitag }1998]{Freitag1998}
+Freitag, D. (1998)
+Information Extraction from HTML: Application of a General Machine Learning Approach.
+In {\it Proceedings of the Fifteenth National/Tenth Conference on Artificial Intelligence/Innovative Applications of Artificial Intelligence (AAAI '98/IAAI '98)}
+pp. 517--523, Menlo Park, CA, USA, American Association for Artificial Intelligence.
 
 \bibitem[\protect\citename{Freitag and Mccallum }1999]{Freitag1999}
 Freitag, D. and Mccallum, A. (1999)
@@ -1631,22 +1627,76 @@ Information Extraction with HMM Structures Learned by Stochastic Optimization.
 In {\it Proceedings of the Seventeenth National Conference on Artificial Intelligence and Twelfth Conference on Innovative Applications of Artificial Intelligence}
 pp. 584--589. AAAI Press.
 
-\bibitem[\protect\citename{Borthwick, Sterling, Agichtein and Grishman }1998]{Borthwick1998}
-Borthwick, A., Sterling, J., Agichtein, E. and Grishman, R. (1998)
-Exploiting diverse knowledge sources via maximum entropy in named entity recognition.
-In {\it Proceedings of the Sixth Workshop on Very Large Corpora}
-pp. 152--160. ACL.
+\bibitem[\protect\citename{Furche, Gottlob, Grasso, Gunes, Guo, Kravchenko, Orsi, Schallhart, Sellers, and Wang }{2012}]{Furche2012}
+Furche, T., Gottlob, G., Grasso, G., Gunes, O., Guo, X., Kravchenko, A., Orsi, G., Schallhart, C., Sellers, A., and Wang, C. (2012)
+Diadem: Domain-centric, intelligent, automated data extraction methodology.
+In {\it Proceedings of the 21st International Conference on World Wide Web (WWW '12 Companion)}, 
+pp. 267--270, New York, ACM.
 
-\bibitem[\protect\citename{Ratnaparkhi }1998]{Ratnaparkhi1998}
-Ratnaparkhi, A. (1998)
-Maximum Entropy Models for Natural Language Ambiguity Resolution.
-{\it PhD thesis}, Philadelphia, PA, USA.
+\bibitem[\protect\citename{Hammer, McHugh and Garcia-Molin }1997]{Hammer1997}
+Hammer, J., McHugh, J. and Garcia-Molin, H. (1997)
+Semistructured Data: The TSIMMIS Experience.
+In {\it Proceedings of the First East-European Conference on Advances in Databases and Information Systems (ADBIS'97)}
+pp. 22--22, Swindon, UK, BCS Learning \& Development Ltd.
 
-\bibitem[\protect\citename{McCallum, Freitag and Pereira }2000]{McCallum2000}
-McCallum, A., Freitag, D. and Pereira, F. (2000)
-Maximum entropy markov models for information extraction and segmentation.
-In {\it Proceedings of the Seventeenth International Conference on Machine Learning (ICML '00)}
-pp. 591--598, San Francisco, CA, USA, Morgan Kaufmann Publishers Inc.
+\bibitem[\protect\citename{Hsu and Dung }{1998}]{Hsu1998}
+Hsu, Chun-Nan and Dung Ming-Tzung. (1998) 
+Generating finite-state transducers for semi-structured data extraction from the Web.
+{\it Information Systems \/}, 
+{\bf 23(8)}: 521--538.
+
+\bibitem[\protect\citename{Laender, Ribeiro-Neto, da Silva }2002a]{Laender2002a}
+Laender, A., Ribeiro-Neto, B. and da Silva, A. (2002)
+DEByE - Date extraction by example.
+{\it Data Knowledge Engineering}
+{\bf 40(2)}: 121--154.
+
+\bibitem[\protect\citename{Laender, Ribeiro-Neto, da Silva and Teixeira }2002b]{Laender2002b}
+Laender, A., Ribeiro-Neto, B., da Silva, A., and Teixeira, J. (2002)
+A brief survey of web data extraction tools.
+{\it SIGMOD Record}
+{\bf 31(2)}: 84--93.
+
+\bibitem[\protect\citename{Liu, Pu and Han }2000]{Liu2000}
+Liu, L., Pu, C. and Han, W. (2000)
+XWRAP: an XML-enabled wrapper construction system for Web information sources.
+In {\it Proceedings of 16th International Conference on Data Engineering}
+pp. 611--621.
+
+\bibitem[\protect\citename{Hochreiter and Schmidhuber }1997]{Hochreiter1997}
+Hochreiter, S. and Schmidhuber, J. (1997)
+Long short-term memory.
+{\it Neural Computation}
+{\bf 9(8)}: 1735--1780.
+
+\bibitem[\protect\citename{Hogue and Karger }2005]{Hogue2005}
+Hogue, A. and Karger, D. (2005)
+Thresher: Automating the Unwrapping of Semantic Content from the World Wide Web.
+In {\it Proceedings of the 14th International Conference on World Wide Web (WWW '05)}
+pp. 86--95, New York, NY, USA, ACM.
+
+\bibitem[\protect\citename{Huang, Xu and Yu }2015]{Huang2015}
+Huang, Z., Xu, W. and Yu, K. (2015)
+Bidirectional {LSTM-CRF} models for sequence tagging.
+{\it CoRR}, abs/1508.01991.
+
+\bibitem[\protect\citename{Kim~Sang and De-Meulder }2003]{KimSang2003}
+Kim-Sang, T. and De~Meulder, F. (2003)
+Introduction to the CoNLL-2003 Shared Task: Language-independent Named Entity Recognition.
+In {\it Proceedings of the Seventh Conference on Natural Language Learning at HLT-NAACL 2003 - Volume 4 (CONLL '03)}
+pp. 142--147, Stroudsburg, PA, USA, ACL.
+
+\bibitem[\protect\citename{Krupl, Herzog and Gatterbauer }2005]{Krupl2005}
+Krupl, B. Herzog, M. and Gatterbauer, W. (2005)
+Using visual cues for extraction of tabular data from arbitrary HTML documents.
+{\it Special interest tracks and posters of the 14th international conference on World Wide Web - WWW '05} 
+pp. 1000--1001.
+
+\bibitem[\protect\citename{Kushmerick }2000]{Kushmerick2000}
+Kushmerick, N. (2000) 
+Wrapper induction: efficiency and expressiveness.
+{\it Artificial Intelligence\/} 
+{\bf 118(1-2)}: 15--68.
 
 \bibitem[\protect\citename{Lafferty, McCallum and Pereira }2001]{Lafferty2001}
 Lafferty, J., McCallum, A. and Pereira, F. (2001)
@@ -1654,33 +1704,45 @@ Conditional random fields: Probabilistic models for segmenting and labeling sequ
 In {\it Proceedings of the Eighteenth International Conference on Machine Learning (ICML '01)}, 
 pp. 282--289, San Francisco, CA, USA, Morgan Kaufmann Publishers Inc.
 
-\bibitem[\protect\citename{McCallum and Li }2003]{McCallum2003}
-McCallum, A. and Li, W. (2003)
-Early results for named entity recognition with conditional random fields, feature induction and web-enhanced lexicons.
-In {\it Proceedings of the Seventh Conference on Natural Language Learning at HLT-NAACL 2003 - Volume 4 (CONLL '03)}
-pp. 188--191, Stroudsburg, PA, USA, ACL.
-
-\bibitem[\protect\citename{Florian, Ittycheriah, Jing and Zhang }2003]{Florian2003}
-Florian, R. Ittycheriah, A. Jing, H. and Zhang, T. (2003)
-Named entity recognition through classifier combination.
-In {\it Proceedings of the Seventh Conference on Natural Language Learning at HLT-NAACL 2003}
-pp. 168--171.
-
-\bibitem[\protect\citename{Huang, Xu and Yu }2015]{Huang2015}
-Huang, Z., Xu, W. and Yu, K. (2015)
-Bidirectional {LSTM-CRF} models for sequence tagging.
-{\it CoRR}, abs/1508.01991.
-
 \bibitem[\protect\citename{Lample, Ballesteros, Subramanian, Kawakami and Dyer }2016]{Lample2016}
 Lample, G., Ballesteros, M., Subramanian, S., Kawakami, K. and Dyer, C. (2016)
 Neural architectures for named entity recognition.
 {\it CoRR}, abs/1603.01360.
+
+\bibitem[\protect\citename{Li and Gray }2000]{Li2000}
+Li, J. and Gray, R. (2000)
+Image Segmentation and Compression Using Hidden Markov Models.
+Kluwer Academic Publishers, Norwell, MA, USA.
+
+\bibitem[\protect\citename{Liu and Nocedal }1989]{Liu1989}
+Liu, D. and Nocedal, J. (1989)
+On the limited memory bfgs method for large scale optimization.
+{\it Mathematical Programming}
+{\bf 45(1)}: 503--528.
 
 \bibitem[\protect\citename{Ma and Hovy }2016]{Ma2016}
 Ma, X. and Hovy, E. (2016)
 End-to-end sequence labeling via bi-directional {LSTM}-{CNN}s-{CRF}.
 In {\it Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)}
 pp. 1064--1074, Berlin, Germany, ACL.
+
+\bibitem[\protect\citename{McCallum, Freitag and Pereira }2000]{McCallum2000}
+McCallum, A., Freitag, D. and Pereira, F. (2000)
+Maximum entropy markov models for information extraction and segmentation.
+In {\it Proceedings of the Seventeenth International Conference on Machine Learning (ICML '00)}
+pp. 591--598, San Francisco, CA, USA, Morgan Kaufmann Publishers Inc.
+
+\bibitem[\protect\citename{McCallum and Li }2003]{McCallum2003}
+McCallum, A. and Li, W. (2003)
+Early results for named entity recognition with conditional random fields, feature induction and web-enhanced lexicons.
+In {\it Proceedings of the Seventh Conference on Natural Language Learning at HLT-NAACL 2003 - Volume 4 (CONLL '03)}
+pp. 188--191, Stroudsburg, PA, USA, ACL.
+
+\bibitem[\protect\citename{Muslea, Minton and Knoblock }1999]{Muslea1999}
+Muslea I., Minton S., and Knoblock C. (1999) 
+A Hierarchical Approach to Wrapper Induction.
+In {\it Proceedings of the Third Annual Conference on Autonomous Agents}, 
+pp.~190--197, New York: ACM.
 
 \bibitem[\protect\citename{Pennington, Socher and Manning }2014]{Pennington2014}
 Pennington, J., Socher, R. and Manning, C. (2014)
@@ -1694,45 +1756,6 @@ Deep contextualized word representations.
 In {\it Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)}
 pp. 2227--2237, New Orleans, Louisiana, ACL.
 
-\bibitem[\protect\citename{Devlin, Chang, Lee, and Toutanova }2018]{Devlin2018}
-Devlin, J., Chang, M., Lee, K. and Toutanova, K. (2018)
-{BERT}: Pre-training of deep bidirectional transformers for language understanding.
-{\it Preprint arXiv:1810.04805}.
-
-\bibitem[\protect\citename{Akbik, Blythe and Vollgraf }2018]{Akbik2018}
-Akbik, A., Blythe, D. and Vollgraf, R. (2018)
-Contextual string embeddings for sequence labeling.
-In {\it Proceedings of the 27th International Conference on Computational Linguistics}
-pp. 1638--1649, Santa Fe, New Mexico, ACL.
-
-\bibitem[\protect\citename{Baevski, Edunov, Liu, Zettlemoyer and Auli }2019]{Baevski2019}
-Baevski, A., Edunov, S., Liu, Y., Zettlemoyer, L. and Auli, M. (2019)
-Cloze-driven pretraining of self-attention networks.
-{\it Preprint arXiv:1903.07785}.
-
-\bibitem[\protect\citename{Caruana, Lawrence and Giles }2000]{Caruana2000}
-Caruana, R., Lawrence, S. and Giles, L. (2000)
-Overfitting in neural nets: Backpropagation, conjugate gradient, and early stopping.
-In {\it Proceedings of the 13th International Conference on Neural Information Processing Systems (NIPS'00)}
-pp. 381--387, Cambridge, MA, USA, MIT Press.
-
-\bibitem[\protect\citename{Hochreiter and Schmidhuber }1997]{Hochreiter1997}
-Hochreiter, S. and Schmidhuber, J. (1997)
-Long short-term memory.
-{\it Neural Computation}
-{\bf 9(8)}: 1735--1780.
-
-\bibitem[\protect\citename{Li and Gray }2000]{Li2000}
-Li, J. and Gray, R. (2000)
-Image Segmentation and Compression Using Hidden Markov Models.
-Kluwer Academic Publishers, Norwell, MA, USA.
-
-\bibitem[\protect\citename{Liu and Nocedal }1989]{Liu1989}
-Liu, D. and Nocedal, J. (1989)
-On the limited memory bfgs method for large scale optimization.
-{\it Mathematical Programming}
-{\bf 45(1)}: 503--528.
-
 \bibitem[\protect\citename{Rabiner }1990]{Rabiner1990}
 Rabiner, L. (1990)
 Readings in Speech Recognition. Chapter: A Tutorial on Hidden Markov Models and Selected Applications in Speech Recognition.
@@ -1743,10 +1766,74 @@ Ramshaw, L. and Marcus, M. (1999)
 Text Chunking Using Transformation-Based Learning, 
 pp. 157--176. Springer Netherlands, Dordrecht, 1999.
 
+\bibitem[\protect\citename{Ratnaparkhi }1998]{Ratnaparkhi1998}
+Ratnaparkhi, A. (1998)
+Maximum Entropy Models for Natural Language Ambiguity Resolution.
+{\it PhD thesis}, Philadelphia, PA, USA.
+
+\bibitem[\protect\citename{Ribas, Ribeiro-Neto, de Souza e Silva, Ueda, and Ziviani }2015]{Ribas2015}
+Ribas, S., Ribeiro-Neto, B., de Souza e Silva, E., Ueda, A., and Ziviani, N. (2015)
+In {\it Proceedings of the 24th International Conference on World Wide Web (WWW '15 Companion)}, 
+pp. 603--608, New York, ACM.
+
 \bibitem[\protect\citename{Rijsbergen }1979]{Rijsbergen1979}
 Rijsbergen, C. (1979)
 Information Retrieval.
 Butterworth-Heinemann, Newton, MA, USA, 2nd edition.
+
+\bibitem[\protect\citename{Sahuguet and Azavant }1999]{Sahuguet1999}
+Sahuguet, A. and Azavant F. (1999)
+Building Light-Weight Wrappers for Legacy Web Data-Sources Using W4F.
+In {\it Proceedings of the 25th International Conference on Very Large Data Bases (VLDB '99)}
+pp. 738--741, San Francisco, CA, USA, Morgan Kaufmann Publishers Inc.
+
+\bibitem[\protect\citename{Sarawagi }2008]{Sarawagi2008}
+Sarawagi, S. (2008)
+Information extraction.
+{\it Foundations and Trends in Databases}
+{\bf 1(3)}: 261--377.
+
+\bibitem[\protect\citename{Schulz, Lassig and Gaedke }2016]{Schulz2016}
+Schulz, A. Lassig, J. and Gaedke, M. (2016)
+Practical web data extraction: Are we there yet? --- A short survey.
+{\it IEEE/WIC/ACM International Conference on Web Intelligence (WI), 2016}, 
+pp. 562--567.
+
+\bibitem[\protect\citename{Shi, Liu, Shen, Yuan and Huang }{2015}]{Shi2015}
+Shi, S., Liu, C., Shen, Y., Yuan, C. and Huang, Y. (2015)
+AutoRM: An effective approach for automatic Web data record mining.
+{\it Knowledge-Based Systems}
+{\bf 89}: 314--331.
+
+\bibitem[\protect\citename{Soderland }1999]{Soderland1999}
+Soderland, S. (1999)
+Learning Information Extraction Rules for Semi-Structured and Free Text.
+{\it Machine Learning} 
+{\bf 34(1)}: 233--272.
+
+\bibitem[\protect\citename{Sundheim }1991]{Sundheim1991}
+Sundheim. B. (1991)
+Overview of the third message understanding evaluation and conference.
+In {\it Proceedings of the 3rd Conference on Message Understanding (MUC3 '91)}
+pp. 3--16, Stroudsburg, PA, USA, ACL.
+
+\bibitem[\protect\citename{Varlamov and Turdakov }2016]{Varlamov2016}
+Varlamov, M. and Turdakov, D. (2016)
+A survey of methods for the extraction of information from Web resources.
+{\it Programming and Computer Software}
+{\bf 42(5)}: 279--291.
+
+\bibitem[\protect\citename{Zhu, Nie, Wen, Zhang, and Ma }2005]{Zhu2005}
+Zhu J., Nie Z., Wen J., Zhang B., and Ma W. (2005)
+2D Conditional Random Fields for Web Information Extraction.
+In {\it Proceedings of the 22Nd International Conference on Machine Learning (ICML '05)}, 
+pp.~1044--1051, New York: ACM.
+
+\bibitem[\protect\citename{Zhu, Nie, Wen, Zhang, and Ma }2006]{Zhu2006}
+Zhu J., Nie Z., Wen J., Zhang B., and Ma W. (2006)
+Simultaneous Record Detection and Attribute Labeling in Web Data Extraction.
+In {\it Proceedings of the 12th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD '06)}, 
+pp.~494--503, New York: ACM.
 
 \end{thebibliography}
 \end{document}
