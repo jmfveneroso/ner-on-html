@@ -1,0 +1,2983 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Faculty and Staff Directory - Skagit Valley College - Acalog ACMS™</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<link rel="shortcut icon" href="//acalog-clients.s3.amazonaws.com/production/skagit/img/favicon/favicon.ico" />
+<meta name="description" content="Skagit Valley College is a two-year community college serving Skagit, Island, and San Juan counties in northwest Washington state. Established in 1926, SVC grants academic transfer degrees, professional/technical degrees, and certificates."><meta name="keywords" content="SVC, Skagit Valley College, Skagit, community, collage, classes, colleges, careers, career, degrees, certificates, professional, technical, transfer, distance, education, online, bachelor&#039;s, associate, non-credit, continuing, transfer, undergraduate, technology, business, science, liberal arts, adult, literacy, esl, international, work, jobs, training, institutes, technologies, northwest, puget sound, north cascades, business, faculty, staff, services, Washington, two-year, school"><link href="//acalog-clients.s3.amazonaws.com/production/skagit/css/gateway/user-styles.css" rel="stylesheet" type="text/css">
+<link href="css/public_custom.php" rel="stylesheet" type="text/css">
+<link href="global_styles.css" rel="stylesheet" type="text/css">
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="ie.css" />
+<![endif]-->
+
+<script src="/js/prototype.js"></script>
+<script src="/js/scriptaculous.js" type="text/javascript"></script>
+<script src="/js/Tooltip.js"></script>
+<script src="/js/highlight.js" type="text/javascript"></script>
+<script src="javascripts.js" type="text/javascript" language="Javascript"></script>
+
+<script type="text/javascript">var gatewayFeatureSearchBar = true; var gatewayFeatureToolbarText = false; var gatewayFeatureBackToTopText = false;</script>
+<link type="text/css" rel="stylesheet" href="//acalog-clients.s3.amazonaws.com/global/css/gateway-styles-reset.css" />
+<link type="text/css" rel="stylesheet" href="//acalog-clients.s3.amazonaws.com/global/css/gateway-styles-nojs.css" id="gateway-styles-nojs" />
+<link type="text/css" rel="stylesheet" href="//acalog-clients.s3.amazonaws.com/production/skagit/css/gateway/gateway-styles.css" />
+<script type="text/javascript">document.getElementById("gateway-styles-nojs").parentNode.removeChild(document.getElementById("gateway-styles-nojs"));</script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.1/jquery.min.js"></script>
+<script type="text/javascript" src="//acalog-clients.s3.amazonaws.com/global/js/jquery.browser.js"></script>
+<script type="text/javascript" src="//acalog-clients.s3.amazonaws.com/global/js/gateway-javascript.js"></script>
+<!--[if lte IE 8]><script type="text/javascript" src="//acalog-clients.s3.amazonaws.com/global/js/select-fix.js"></script><![endif]-->
+</head>
+<body>
+	<noscript><p><span class="error">Javascript is currently not supported, or is disabled by this browser. Please enable Javascript for full functionality.</span></p></noscript>	<a href="#accesskeys" accesskey="k"><img src="/img/spacer.gif" width="0" height="0" border="0" alt="The page uses Browser Access Keys to help with keyboard navigation. Click to learn more" style="height: 0px"></a><a href="#acalog-nav" accesskey="n"><img src="/img/spacer.gif" width="0" height="0" border="0" alt="Skip to Navigation" style="height: 0px"></a><a name="accesskeys"></a><div class="accesskeys">
+	<p>Different browsers use different keystrokes to activate accesskey shortcuts. Please reference the following list to use access keys on your system.</p>
+	<dl>
+		<dt>Alt and the accesskey, for Internet Explorer on Windows</dt>
+		<dt>Shift and Alt and the accesskey, for Firefox on Windows</dt>
+		<dt>Shift and Esc and the accesskey, for Windows or Mac</dt>
+		<dt>Ctrl and the accesskey, for the following browsers on a Mac: Internet Explorer 5.2, Safari 1.2, Firefox, Mozilla, Netscape 6+.</dt>
+	</dl>
+	<p>We use the following access keys on our gateway</p>
+	<dl>
+		<dt>n Skip to Navigation</dt>
+		<dt>k Accesskeys description</dt>
+		<dt>h Help</dt>
+	</dl>
+</div><table cellspacing="0" class="toplevel">
+  <tr>
+	<td colspan="2" class="block_n2_and_content" id="acalog-header"><div id="acalog-client-javascript" class="acalog-custom">
+<script type="text/javascript">
+jQuery(document).ready( function($) { if ($('#gateway-page').length) {
+    function wrap_table_block_n2_and_content() {
+        jQuery('table.block_n2_and_content').attr('id', 'table_block_n2_and_content_wrapper_fix_1');
+        jQuery('table.block_n2_and_content').parent().attr('id', 'table_block_n2_and_content_wrapper_fix_2');
+        var table_block_n2_and_content_wrapper = document.createElement('div');
+        table_block_n2_and_content_wrapper.setAttribute('id', 'table_block_n2_and_content_wrapper');
+        document.getElementById('table_block_n2_and_content_wrapper_fix_2').appendChild(table_block_n2_and_content_wrapper);
+        table_block_n2_and_content_wrapper.appendChild(document.getElementById('table_block_n2_and_content_wrapper_fix_1'));
+        jQuery('#table_block_n2_and_content_wrapper_fix_1, #table_block_n2_and_content_wrapper_fix_2').removeAttr('id');
+    }
+    wrap_table_block_n2_and_content();
+
+    }});
+</script>
+<script type="text/javascript" src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/script-block-01.js"></script>
+<script type="text/javascript" src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/script-block-02.js"></script>
+<script src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/foundation.min.js" type="text/javascript"></script>
+<script src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/app.js" type="text/javascript"></script>
+<script src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/responsive-tables.js" type="text/javascript"></script>
+<script type="text/javascript" src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/script-block-03.js"></script>
+</div>
+<!-- End Client Javascript -->
+
+<!-- Start Client Header -->
+<div id="acalog-client-header" class="acalog-custom">
+    
+<!-- display background banner -->
+    <div class="headerband hide-for-small" style='background:url("\//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/programbanner.jpg") top no-repeat;' title="Student looking at microscope"></div>
+<!-- Header -->
+    <div class="row" style="z-index: 101;">
+        
+<!-- Logo Wrap -->
+        <div class="three columns" style="z-index: 101;">
+            <div class="logopanel">
+                <p>
+                    <a href="http://www.skagit.edu/default.asp"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/logo.png" alt="Skagit Valley College logo"></a>
+                </p>
+            </div>
+        </div>
+<!-- END Logo Wrap -->
+        <div class="six columns hide-for-small" style="z-index: 101;">
+            <div class="button-bar">
+                <ul class="button-group radius">
+                    <li>
+                        <a id="qlink-trigger" class="topnav button small radius success qlink-expand" href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_507" name="qlink-trigger">Quick Links</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+<!-- Search Bar -->
+        <div class="three columns" style="z-index: 101;">
+            <div id="qlinkbox-trigger-small" class="show-for-small button quick" style="background: #9E1B32;">
+                <ul id="qlinkbox-trigger-small-ul" style="list-style:none;">
+                    <li>
+                        <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_507">Quick Links</a>
+                    </li>
+                </ul>
+            </div>
+            <div id="search-box" style="z-index: 101;">
+                <div id="search-form">
+                    <form id="sf" action="http://www.skagit.edu/googlesearch.asp" method="get" name="sf">
+                        <input id="search-text" name="qs" placeholder="Search our Site" type="text"><button id="search-button" type="submit">Go</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+<!-- END Search Bar -->
+    </div>
+    <div id="qlink-box">
+        <div class="row">
+            <div class="twelve columns">
+                
+<!-- FAST FINDS -->
+                <ul id="fastlink-id" class="panel fastlinkpanel block-grid six-up" style="list-style-type: none; background: none; border: none;">
+                    <li>
+                        <a href="http://portal.skagit.edu"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/onlineadvisor-icon.png" alt="Online advisor icon"><br>
+                        Staff Portal</a>
+                    </li>
+                    <li>
+                        <a href="http://www.skagit.edu/mysvc"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/mysvc-icon.png" alt=""><br>
+                        MySVC</a>
+                    </li>
+                    <li>
+                        <a href="http://www.skagit.edu/sched_search.asp"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/schedsearch-icon.png" alt="Schedule Catalog Search icon"><br>
+                        Schedule &amp; Catalog</a>
+                    </li>
+                    <li>
+                        <a href="https://skagit.instructure.com/login"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/canvas_icon.png" alt="Canvas icon"><br>
+                        Canvas</a>
+                    </li>
+                    <li>
+                        <a href="http://www.skagit.edu/news.asp_Q_pagenumber_E_1831"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/onlineadvisor-icon.png" alt="Online advisor icon"><br>
+                        Live Chat Advisor</a>
+                    </li>
+                    <li>
+                        <a href="http://www.skagit.edu/dir1.asp"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/contacts-icon.png" alt="Contacts Directory icon"><br>
+                        Directory</a>
+                    </li>
+                    <li style="list-style: none; display: inline">
+                        <div class="clearjunk"></div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div class="row">
+            <div class="twelve columns">
+                <ul class="block-grid five-up mobile">
+                    <li class="qlinkpad">
+                        <ul class="qlinks">
+                            <li class="qlinkhead">Academic Resources
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/a2zpnc.asp">A-Z Programs &amp; Courses</a>
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/calendar.asp_Q_pagenumber_E_3769">Academic Calendar</a>
+                            </li>
+                            <li>
+                                <a href="http://www.cardinalbookstore.com/">Cardinal Bookstore</a>
+                            </li>
+                            <li>
+                                <a href="http://faculty.skagit.edu">Faculty Pages</a>
+                            </li>
+                            <li>
+                                <a href="http://library.skagit.edu/">Library/Media Services</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="qlinkpad">
+                        <ul class="qlinks">
+                            <li class="qlinkhead">Campus Connections
+                            </li>
+                            <li>
+                                <a href="http://skagitfoundation.org/">Foundation &amp; Alumni</a>
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/news.asp_Q_pagenumber_E_3521">Job Opportunities</a>
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/dir1.asp">Locations &amp; Directions</a>
+                            </li>
+                            <li>
+                                <a href="http://www.svcnews.org">News, Information &amp; Events</a>
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_516">Safety, Security &amp; Parking</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="qlinkpad">
+                        <ul class="qlinks">
+                            <li class="qlinkhead">Enrollment Resources
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_455">Admissions &amp; Registration</a>
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_40">Financial Aid</a>
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_41">Get Started</a>
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/news.asp_Q_pagenumber_E_235">Transcripts</a>
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/news.asp_Q_pagenumber_E_2765">Tuition &amp; Fees</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="qlinkpad">
+                        <ul class="qlinks">
+                            <li class="qlinkhead">Student Life
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_326">Athletics</a>
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_327">Campus Housing</a>
+                            </li>
+                            <li>
+                                <a href="http://assvc.com/?q=clubs">Student Clubs</a>
+                            </li>
+                            <li>
+                                <a href="http://assvc.com/?q=student-government">Student Government</a>
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/schedules.asp_Q_pagenumber_E_3632">Student Life Events Calendar</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="qlinkpad">
+                        <ul class="qlinks">
+                            <li class="qlinkhead">Support Programs
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_38">Counseling &amp; Career Services</a>
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_58">Disability Access Services</a>
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/news.asp_Q_pagenumber_E_1831">Online Advisor</a>
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_75">TRIO Program</a>
+                            </li>
+                            <li>
+                                <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_456">Tutoring</a>
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+<!-- end resources lists -->
+        <div class="row">
+            <div class="six columns">
+                <ul class="button-group radius socialwrap">
+                    <li class="socialicons">
+                        <a href="http://www.facebook.com/skagitvalleycollege" target="_blank"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/icon-facebook.png" alt="Facebook icon"></a>
+                    </li>
+                    <li class="socialicons">
+                        <a href="http://twitter.com/#!/SVCCollege" target="_blank"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/icon-twitter.png" alt="Twitter icon"></a>
+                    </li>
+                    <li class="socialicons">
+                        <a href="http://www.youtube.com/user/SkagitValleyCollege/videos?view=1" target="_blank"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/icon-tube.png" alt="You Tube icon"></a>
+                    </li>
+                    <li class="socialicons">
+                        <a href="http://svcevents.skagit.edu/Rss.aspx"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/icon-rss.png" alt="RSS icon"></a>
+                    </li>
+                    <li class="socialicons">
+                        <span style="margin-top: 0.45em; display: block; color: #FFF;">|&#160;&#160;<a href="http://svcnews.org/" target="_blank" style="text-transform: uppercase; color: #FFF;">News &amp; Events Center</a></span>
+                    </li>
+                </ul>
+            </div>
+            <div class="six columns">
+                <ul class="button-group radius socialwrap">
+                    <li class="socialicons">
+                        <span style="margin-top: 0.45em; display: block;"><a href="http://www.skagit.edu/news.asp_Q_pagenumber_E_2849" style="color: #FFF;">2016 Commencement Information</a></span>
+                    </li>
+                </ul>
+            </div>
+        </div><a class="close-qlinkbox" href="#">×</a>
+    </div>
+<!--Main Content-->
+    <div class="row hide-for-small templatespacer"></div>
+    <div class="row contentwrap">
+        
+<!-- Nav Menu -->
+        <div class="three columns">
+            <div class="menu_div hide-for-small" id="main-navigation">
+                <ul>
+                    <li>
+                        <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_507">Explore Programs</a>
+                    </li>
+                    <li>
+                        <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_41">Get Started</a>
+                    </li>
+                    <li>
+                        <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_510">Academic Support</a>
+                    </li>
+                    <li>
+                        <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_295">Campus Life</a>
+                    </li>
+                    <li>
+                        <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_8">About SVC</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="menu_div show-for-small" id="mobilenav">
+                <div class="row show-for-small homemobilespacer"></div>
+                <div class="mobilenavwrap">
+                    <span class="mobilenav-caption">site navigation</span><select id="mobilenav">
+                        <option class="mobileop" value="default.asp">
+                            Home
+                        </option>
+                        <option value="directory.asp_Q_pagenumber_E_507" selected>
+                            &#160;&#160;&#160;Explore Programs
+                        </option>
+                        <option value="directory.asp_Q_pagenumber_E_521">
+                            &#160;&#160;&#160;&#160;&#160;Areas Of Study
+                        </option>
+                        <option value="directory.asp_Q_pagenumber_E_527">
+                            &#160;&#160;&#160;&#160;&#160;High School Programs
+                        </option>
+                        <option value="directory.asp_Q_pagenumber_E_596">
+                            &#160;&#160;&#160;&#160;&#160;Training for Business
+                        </option>
+                        <option value="directory.asp_Q_pagenumber_E_587">
+                            &#160;&#160;&#160;&#160;&#160;Basic Education For Adults
+                        </option>
+                        <option value="external.asp_Q_pagenumber_E_3265">
+                            &#160;&#160;&#160;&#160;&#160;Catalog &amp; Schedules
+                        </option>
+                        <option value="directory.asp_Q_pagenumber_E_412">
+                            &#160;&#160;&#160;&#160;&#160;Community Education
+                        </option>
+                        <option value="directory.asp_Q_pagenumber_E_528">
+                            &#160;&#160;&#160;&#160;&#160;E-learning
+                        </option>
+                        <option value="directory.asp_Q_pagenumber_E_548">
+                            &#160;&#160;&#160;&#160;&#160;Español
+                        </option>
+                        <option value="directory.asp_Q_pagenumber_E_411">
+                            &#160;&#160;&#160;&#160;&#160;Leadership Skagit
+                        </option>
+                        <option value="directory.asp_Q_pagenumber_E_363">
+                            &#160;&#160;&#160;&#160;&#160;Learning Communities and Integrative Experiences
+                        </option>
+                        <option value="directory.asp_Q_pagenumber_E_584">
+                            &#160;&#160;&#160;&#160;&#160;Maestros Para el Pueblo
+                        </option>
+                        <option value="directory.asp_Q_pagenumber_E_585">
+                            &#160;&#160;&#160;&#160;&#160;Study Abroad
+                        </option>
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="nine columns hide-for-small contentspacer"></div>
+    </div>
+</div>
+<!-- End Client Header -->
+
+<!-- Start Client Footer -->
+<div id="acalog-client-footer" class="acalog-custom">
+    <div class="footer-tier-two">
+        <div class="row">
+            <div class="three columns">
+                <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_326"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/footermascot.png" alt="SVC Cardinal Mascot"></a>
+            </div>
+            <div class="three columns">
+                <p>
+                    <strong>Main Campus</strong><br>
+                    2405 East College Way<br>
+                    Mount Vernon, WA 98273
+                </p>
+                <p>
+                    English (360) 416-7600<br>
+                    Español (360) 416-7600 Ext.8<br>
+                    (TTY) (360) 416-7718
+                </p>
+                <p class="locations-link">
+                    <a href="http://www.skagit.edu/dir1.asp">view additional SVC locations</a>
+                </p>
+            </div>
+            <div class="three columns">
+                <ul class="policy-links">
+                    <li>
+                        <a href="http://www.skagit.edu/files.asp_Q_pagenumber_E_2590" title="view the Accreditation information.">Accreditation</a>
+                    </li>
+                    <li>
+                        <a href="http://www.skagit.edu/news.asp_Q_pagenumber_E_3807" title="view Emergency Response plan documents.">Emergency Response Plan</a>
+                    </li>
+                    <li>
+                        <a href="http://www.skagit.edu/files.asp_Q_pagenumber_E_3306" title="view Security reports.">Security Reports</a>
+                    </li>
+                    <li>
+                        <a href="http://www.skagit.edu/files.asp_Q_pagenumber_E_2650" title="view the Whistleblower information.">Whistleblower Information</a>
+                    </li>
+                    <li>
+                        <a href="http://www.skagit.edu/files.asp_Q_pagenumber_E_2650" title="view Polices and Prodecures.">Policies &amp; Procedures</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="three columns">
+                <div class="footer-logos fade">
+                    <a href="http://skagitfoundation.org/" target="_blank"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/fndfooterlogo.png" alt="Skagit Foundation Logo"></a>
+                </div><br>
+                <div class="footer-logos fade">
+                    <a href="http://mcintyrehall.org/" target="_blank"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/mcfooterlogo.png" alt="McIntyre Hall Logo"></a>
+                </div><br>
+                <div class="footer-logos fade">
+                    <a href="http://www.skagit.edu/directory.asp_Q_pagenumber_E_490" target="_blank"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/atdlogo.png" alt="ATD Logo"></a>
+                </div>
+            </div>
+        </div>
+        <div class="footer-tier-three">
+            <div class="row">
+                <div class="twelve columns">
+                    <ul class="copyright-links">
+                        <li>© 2016 Skagit Valley College
+                        </li>
+                        <li>
+                            <a href="http://www.skagit.edu/sitemap.asp" title="view sitemap.">Site Map</a>
+                        </li>
+                        <li>
+                            <a href="http://www.skagit.edu/news.asp_Q_pagenumber_E_3236" title="view Privacy Policy information.">Privacy Policy</a>
+                        </li>
+                        <li>
+                            <a href="http://www.skagit.edu/news.asp_Q_pagenumber_E_3231" title="view Copyright &amp; Disclaimer information.">Disclaimer</a>
+                        </li>
+                        <li>
+                            <a href="http://www.skagit.edu/news.asp_Q_pagenumber_E_3235" title="view Non-Discrimination information.">Non-Discrimination</a>
+                        </li>
+                        <li>
+                            <a href="mailto:webmaster@skagit.edu" title="Email Web Services">Email Web Services</a>
+                        </li>
+                    </ul>
+                    <div class="footer-social">
+                        <ul class="button-group radius socialwrap">
+                            <li class="socialicons">
+                                <a href="http://www.facebook.com/skagitvalleycollege" target="_blank"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/icon-facebook.png" alt="Facebook icon"></a>
+                            </li>
+                            <li class="socialicons">
+                                <a href="http://twitter.com/#!/SVCCollege" target="_blank"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/icon-twitter.png" alt="Twitter icon"></a>
+                            </li>
+                            <li class="socialicons">
+                                <a href="http://www.youtube.com/user/SkagitValleyCollege/videos?view=1" target="_blank"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/icon-tube.png" alt="You Tube icon"></a>
+                            </li>
+                            <li class="socialicons">
+                                <a href="http://svcevents.skagit.edu/Rss.aspx"><img src="//acalog-clients.s3.amazonaws.com/production/skagit/img/gateway/icon-rss.png" alt="RSS icon"></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- End Client Footer --></td>
+  </tr>
+  <tr class="acalog-block-n1">
+    <td class="block_n1_left">&#160;&#160;&#160;</td>
+	<td class="block_n1_right"><span class="n1_header">	Skagit Valley College</span>
+	</td>
+  </tr>
+  <tr>
+	<td class="block_border_left">&#160;&#160;&#160;</td>
+	<td class="block_n2_and_content">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" class="block_n2_and_content">
+			  <tr>
+				<!-- Begin N3 -->
+						<td class="block_date_outer_left" width="10">&#160;</td>
+		  <td class="block_date_inner" width="150">
+			<div align="center"><span class="date">&#160;
+Oct 05, 2017		</span></div>
+		  </td>
+		  <td class="block_date_outer_right" width="10">&#160;</td>
+		  <td valign="top" class="block_n2_and_content">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			  <tr>
+
+				<td class="block_n3_off block_n3_left"><span class="n3_header"><span id="acalog-catalog-name">2017-2018 Catalog SVC</span>&#160;</span></td>
+				  <td class="block_n3_off block_n3_right" align="right">
+				<form name="select_catalog" method="post" action="/index.php" style="margin: 0px">
+					<table border="0" cellspacing="0" cellpadding="0">
+					  <tr valign="top">
+						<td>&#160;</td><td>&#160;				</td>
+					  </tr>
+					</table>
+				</form>
+				  </td>
+			  </tr>
+			</table>
+		  </td>
+			<!-- End N3. -->
+			  </tr>
+				<tr>
+			<!-- N2 goes here. -->
+		  	<td class="block_n2" style="font-size:0px; clear: both;" width="150" valign="top" colspan="3" id="acalog-nav">
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" class="block_n2_content">
+	<tr>
+		<td class="block_n2_search" 
+			>
+	  <form name="n2_search" method="get" action="/search_advanced.php" onSubmit="return validateSearchOptions()">
+		  <input type="hidden" title="Cur Cat OID" name="cur_cat_oid" value="8">
+		  <input type="hidden" title="Search Database" name="search_database" value="Search">
+		  <input type="hidden" title="Search" name="search_db" value="Search">
+		  <input type="hidden" title="cpage" name="cpage" value="1">
+		  <input type="hidden" title="ecpage" name="ecpage" value="1">
+		  <input type="hidden" title="ppage" name="ppage" value="1">
+		  <input type="hidden" title="spage" name="spage" value="1">
+		  <input type="hidden" title="tpage" name="tpage" value="1">
+		  <span class="n2_search_header">Catalog Search</span>			<br>
+			<span style="display: none;"><select name="location" id="location" style="width: 120px;" tabindex="100" title="Choose Search Location">
+					<option value="-1">Select an option</option>
+				<option value="3">Courses</option>
+				<option value="1">Programs</option>
+				<option value="28">Hierarchy Items</option>
+				<option value="30">Other Content</option>
+				<option value="33" selected>Entire Catalog</option>
+			</select><br></span>
+			<span style="display: auto;"><input type="text" title="Keyword" name="filter[keyword]" value="Enter Keyword  " size="15" maxlength="150" id="keyword" onFocus="if (this.value == 'Enter Keyword  ') { this.value=''; }" style="width: 120px; padding-left: 0.4em;" tabIndex="101">
+			<input type="submit" title="GO" value="GO" tabindex="103"><br></span>
+			<span style="display: none;"><br /><input type="checkbox" title="Exact Match" name="filter[exact_match]" tabindex="102" value="1"  id="exact_match_n2"> <label for="exact_match_n2" class="n2_search">Whole Word/Phrase</label><br /></span>
+		  <span class="n2_search"><a href="/search_advanced.php?catoid=8" class="navbar" tabIndex="104">Advanced Search</a></span><br>
+	  </form>
+		</td>
+	</tr>
+	<tr>
+	  <td>
+		<hr class="navbar">
+	  </td>
+	</tr>
+	<tr>
+	  <td nowrap>
+		<table width="170" border="0" cellspacing="0" cellpadding="0" class="block_n2_links">
+		  <tr>
+			<td id="acalog-navigation">
+			  <div class="n2_links">&#160;&#160;<a href="/index.php?catoid=8" class="navbar" tabindex="105">Catalog Home</a></div>
+<br>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=8&navoid=186" class="navbar" tabIndex="106">Degrees &amp; Certificates Quick View</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=8&navoid=184" class="navbar" tabIndex="107">Areas of Study</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=8&navoid=183" class="navbar" tabIndex="108">Course Descriptions</a>			</div>
+			<br>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=8&navoid=179" class="navbar" tabIndex="109">General Information</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=8&navoid=185" class="navbar" tabIndex="110">Academic Information</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=8&navoid=169" class="navbar" tabIndex="111">Enrollment Services</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=8&navoid=248" class="navbar" tabIndex="112">Financial Aid</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=8&navoid=174" class="navbar" tabIndex="113">Support Services</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=8&navoid=180" class="navbar" tabIndex="114">Policies &amp; Regulations</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=8&navoid=182" class="navbar" tabIndex="115">Student Life</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=8&navoid=177" class="navbar" tabIndex="116">Student Rights &amp; Responsibilities</a>			</div>
+							<div class="n2_links">&#160;&#160;<a href="/content.php?catoid=8&navoid=175" class="navbar" tabIndex="117">Faculty and Staff Directory</a>			</div>
+						</td>
+		  </tr>
+		</table>
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+		<hr class="navbar">
+	  </td>
+	</tr>
+  </table>
+		</td>
+<!-- End of N2 -->
+				  <td valign="top" class="block_content_outer">
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+					  <tr>
+						<td class="block_content" colspan="2">
+						  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+							<tr>
+							<td>
+								<div class="help_block" style="float: right"><a href="help.php?catoid=8" onclick="javascript:acalogPopup('help.php?catoid=8', 'help', 770, 530, 'yes');return false;" class="help" tabIndex="203" accesskey="h" target="_blank"><b>HELP</b></a></div>
+								<span class="acalog_catalog_name">2017-2018 Catalog SVC</span>							<h1 id="acalog-content">
+							  Faculty and Staff Directory							  </h1>
+								<div style="float: right"><a rel="nofollow" href="/content.php?catoid=8&amp;navoid=175&amp;print" onclick="acalogPopup('/content.php?catoid=8&amp;navoid=175&amp;print', 'print_preview', 770, 530, 'yes');return false;" target="_blank" class="print_link acalog-highlight-ignore" alt="Text Version"><img src="img/print.gif" width="10" height="14" border="0" hspace="5" align="absmiddle" alt="Print-Friendly Page.">Print-Friendly Page</a></div><div class="acalog-social-media-links" style="float: right;"><a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcatalog.skagit.edu%2Fcontent.php%3Fcatoid%3D8%26navoid%3D175&t=I am looking at the Faculty and Staff Directory page at Skagit Valley College" border="0" target="_blank"><img src="acalogicons/facebook_16.png" border="0" alt="Facebook this Page"></a> <a href="http://twitter.com/intent/tweet?u=http%3A%2F%2Fcatalog.skagit.edu%2Fcontent.php%3Fcatoid%3D8%26navoid%3D175&t=Check out this page at Skagit Valley College" border="0" target="_blank"><img src="/acalogicons/twitter_16.png" border="0" alt="Tweet this Page"></a></div>							  </td>
+							</tr>
+							<tr>
+							  <td>
+								<hr>
+				  							  </td>
+							</tr>
+							<tr>
+							  <td>
+                                                              <table border="0" cellpadding="1" cellspacing="1" class="acalog-export-remove" style="width:100%">
+	<tbody>
+		<tr>
+			<td style="width: 50%;">
+			<ul>
+				<li><a href="#board-of-trustees">Board of Trustees</a></li>
+				<li><a href="#administration">Administration</a></li>
+				<li><a href="#faculty">Faculty</a></li>
+				<li><a href="#exempt-staff">Exempt Staff</a></li>
+			</ul>
+			</td>
+			<td style="width: 50%;">
+			<ul>
+				<li><a href="#classified-staff">Classified Staff</a></li>
+				<li><a href="#faculty-administration-emeriti">Faculty &amp; Administration Emeriti</a></li>
+				<li><a href="#staff-emeriti">Staff Emeriti</a></li>
+			</ul>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<hr />
+<h2><a id="board-of-trustees" name="board-of-trustees"></a>Board of Trustees</h2>
+
+<p><strong>Kathryn Bennett, </strong>Chair<br />
+<strong>Megan Scott O&#8217;Bryan, </strong>Vice Chair<br />
+<strong>Lindsay Fiker<br />
+Christon Skinner<br />
+John Stephens</strong></p>
+
+<h2><a id="administration" name="administration"></a>Administration</h2>
+
+<p>A | B | <a href="#c">C</a> | D | E | <a href="#f">F</a> | <a href="#g">G</a> | H | I | <a href="#j">J</a> | <a href="#k">K</a> | <a href="#l">L</a> | <a href="#m">M</a> | N | O | <a href="#p">P</a> | Q | R | S | <a href="#t">T</a> | U | V | W | X | <a href="#y">Y</a> | Z</p>
+
+<p><strong><a id="c" name="c"></a>Cailloux, Laura</strong><br />
+<em>Vice President - Whidbey Island Campus, South Whidbey and San Juan Centers, Marine Tech Center</em><br />
+BA, Lewis and Clark College<br />
+MA, Portland State University<br />
+Ed.D., University of Washington</p>
+
+<p><strong>Clark, Anne</strong><br />
+<em>Executive Director of College Advancement</em><br />
+BA, Seattle Pacific University<br />
+M.Ed., Lesley University</p>
+
+<p><strong><a id="f" name="f"></a>Franklin, Marilyn</strong><br />
+<em>Director of Institutional Planning, Effectiveness &amp; Grants</em><br />
+BA, William Jewell College<br />
+MPA, University of Kansas</p>
+
+<p><strong><a id="g" name="g"></a>Greeno, Darren</strong><br />
+Dean of Workforce Education<br />
+AA, Seattle Central<br />
+BA, University of Washington<br />
+MA, The New School for Social Research</p>
+
+<p><strong><a id="j" name="j"></a>Jaramillo, Ed</strong><br />
+<em>Vice President of Administrative Services</em><br />
+BA, University of San Diego<br />
+MA, University of California - Irvine<br />
+MFA, Academy of Arts University<br />
+Ph.D., Defense Management University</p>
+
+<p><strong><a id="k" name="k"></a>Keegan, Thomas</strong><br />
+<em>President</em><br />
+AA, Skagit Valley College<br />
+BA, University of Puget Sound<br />
+MA, Western Washington University<br />
+Ed.D., University of Washington</p>
+
+<p><strong><a id="l" name="l"></a>Lawson, Kenneth</strong><br />
+<em>Vice President for Instruction</em><br />
+BA, MA, University of Utah<br />
+Ph.D., University of Washington</p>
+
+<p><strong><a id="m" name="m"></a>Mast, Gabriel</strong><br />
+<em>Dean of Arts &amp; Sciences</em><br />
+BA, Dickenson College<br />
+MA, Brown University<br />
+MS, University of Wisconsin</p>
+
+<p><strong><a id="p" name="p"></a>Paul, David</strong><br />
+<em>Vice President for Student Services</em><br />
+BA, Seattle University<br />
+MA, Miami University<br />
+Ph.D., University of Illinois at Urbana-Champaign</p>
+
+<p><strong><a id="t" name="t"></a>Tucker, Carolyn</strong><br />
+<em>Executive Director of Human Resources</em><br />
+BA, Antioch University<br />
+MBA, WGU-Washington<br />
+SPHR, Human Resources Certification Institute&#160;</p>
+
+<p><strong><a id="y" name="y"></a>Youngquist, Joan</strong><br />
+<em>Dean of Basic Education</em><br />
+BS, MA, MS, Ph.D., University of Nebraska</p>
+
+<h2><a id="faculty" name="faculty"></a>Faculty</h2>
+
+<p><a href="#a1">A</a> | <a href="#b1">B</a> | <a href="#c1">C</a> | <a href="#d1">D</a> | <a href="#e1">E</a> | <a href="#f1">F</a> | <a href="#g1">G</a> | <a href="#h1">H</a> | <a href="#i1">I</a> | <a href="#j1">J</a> | <a href="#k1">K</a> | <a href="#l1">L</a> | <a href="#m1">M</a> | N | <a href="#o1">O</a> | <a href="#p1">P</a> | Q | <a href="#r1">R</a> | <a href="#s1">S</a> | <a href="#t1">T</a> | U | V | <a href="#w1">W</a> | X | Y | <a href="#z1">Z</a></p>
+
+<p>Date in parentheses indicates year of initial service to SVC.</p>
+
+<p><strong><a id="a1" name="a1"></a>Anderson, Eric (1988)</strong><br />
+<em>Coordinator, Disability Access Services/Counselor</em><br />
+BA, Pacific Lutheran University<br />
+M.Ed., Western Washington University</p>
+
+<p><strong>Anderson, Nancy (1986)</strong><br />
+<em>Physical Education</em><br />
+BA, Pacific Lutheran University<br />
+MS, Seattle Pacific University</p>
+
+<p><strong>Andringa, Bernie (2001)</strong><br />
+<em>Diesel Power Technology</em><br />
+AT, Universal Technical Institute, Phoenix</p>
+
+<p><strong>Ashe, Bobbi (2007)</strong><br />
+<em>English Language Acquisition</em><br />
+BA, Evergreen State College<br />
+M.Ed., University of Portland</p>
+
+<p><strong>Avendano-Ibarra, Claudia</strong><br />
+<em>Human Services</em><br />
+MS, Eastern Washington University</p>
+
+<p><strong><a id="b1" name="b1"></a>Baker, Michael (2005)</strong><br />
+<em>Welding Technology</em><br />
+Whatcom Community College<br />
+Journeyman Fabricator<br />
+Certified Master Welder</p>
+
+<p><strong>Beemer, Michael (2011)</strong><br />
+<em>Marine Maintenance Technology, Whidbey Island Campus</em><br />
+AAUCT, Skagit Valley College<br />
+BA, University of Washington<br />
+MS, Ball State University</p>
+
+<p><strong>Bender, Jeff (2013)</strong><br />
+<em>English</em>&#160;<br />
+BA, Davidson College<br />
+MA, Columbia University, New York</p>
+
+<p><strong>Bianco, Elena (2008)</strong><br />
+<em>Librarian</em><br />
+BA, MLS, University of Washington</p>
+
+<p><strong>Boland, Jennifer (2014)</strong><br />
+<em>College and Career Bridge</em><br />
+BA, MA, University of Northern Colorado</p>
+
+<p><strong>Brady, Brian (2014)</strong><br />
+<em>Science, Whidbey Island Campus</em><br />
+BS, California State University - San Marcos<br />
+Ph.D., University of California - Riverside</p>
+
+<p><strong>Brierley, Rose (1997)</strong><br />
+<em>Counselor/Running Start</em><br />
+BA, M.Ed., Western Washington University</p>
+
+<p><strong>Bundy, Ruth (2010)</strong><br />
+<em>Nursing</em><br />
+BS, California State University - Chico<br />
+M.P.A., California State University - Long Beach</p>
+
+<p><strong><a id="c1" name="c1"></a>Cahill, Neta Simpkins (2005)</strong><br />
+Intensive English Language<br />
+BA, University of Washington<br />
+MA, University of British Columbia</p>
+
+<p><strong>Carter, Paulette (2012)</strong><br />
+<em>Nursing</em><br />
+AA, ASN, Peninsula College<br />
+BA, Western Washington University<br />
+BSN, MSN, Loyola University</p>
+
+<p><strong>Christian, Tiffany (2017)</strong><br />
+<em>English</em><br />
+BA, Pacific University<br />
+MFA, Chapman University<br />
+MA, University of Oregon<br />
+Ph.D., Washington State University</p>
+
+<p><strong>Cofer, Deborah (1997)</strong><br />
+<em>Mathematics</em><br />
+BA, Colorado College<br />
+MA, State University of New York at Binghamton</p>
+
+<p><strong>Coorough, Calleen (1995)</strong><br />
+<em>Multimedia &amp; Interactive Technology</em><br />
+BS, University of Wyoming<br />
+M.Ed., Ph.D., University of Idaho</p>
+
+<p><strong>Cox, Dani (1988)</strong><br />
+<em>Culinary Arts &amp; Hospitality Management</em><br />
+BS, Central Washington University<br />
+Diploma, Western Culinary Institute</p>
+
+<p><strong>Curtis, Joy</strong><br />
+<em>Nursing</em><br />
+AA, Blue Mountain Community College<br />
+BA, Oregon Health Services University<br />
+MA, Western Governor&#8217;s University</p>
+
+<p><strong><a id="d1" name="d1"></a>Davern, Gail (2007)</strong><br />
+<em>English, Whidbey Island Campus</em><br />
+BA, MA, University of Utah</p>
+
+<p><strong>Deschenes, Susan (1997)</strong><br />
+<em>Physical Education</em><br />
+BA, Western Washington University<br />
+MBA, City University</p>
+
+<p><strong>Dixon, Sally (1989)</strong><br />
+<em>Business Management</em><br />
+BA, Western Washington University<br />
+MS, University of Southern California<br />
+MBA, Western Governors University</p>
+
+<p><strong>Donahue, Michael (1985)</strong><br />
+<em>Psychology, Whidbey Island Campus</em><br />
+AA, Orange Coast College<br />
+BA, University of California, Santa Barbara<br />
+M.Ed., Loyola/Marymount University<br />
+Ph.D., University of Texas at Austin</p>
+
+<p><strong>Dorothy, Carolyn (2015)</strong><br />
+<em>Allied Health Education</em><br />
+BA, Western Washington University</p>
+
+<p><strong>Dunbar, Kurt (1997)</strong><br />
+<em>History &amp; Social Science</em><br />
+BA, MA, Western Washington University</p>
+
+<p><strong>Duncan, Kristine (1998)</strong><br />
+<em>Nutrition</em><br />
+BA, MA, Central Washington University</p>
+
+<p><strong>Dunn, Doris (1996)</strong><br />
+<em>Computer Information Systems, Whidbey Island Campus</em><br />
+ATA, Skagit Valley College</p>
+
+<p><strong><a id="e1" name="e1"></a>Edwards, Amy (1997)</strong><br />
+<em>Mathematics</em><br />
+BA, George Washington University<br />
+MA, University of California - Berkeley</p>
+
+<p><strong>Edwards, Dan (2014)</strong><br />
+<em>Nursing, Whidbey Island Campus</em><br />
+MA, Western Governors University</p>
+
+<p><strong>Edwards, Terry (2013)</strong><br />
+<em>Criminal Justice</em><br />
+BA, Kentucky Wesleyan College<br />
+MPA, Golden Gate University<br />
+J.D., University of Louisville</p>
+
+<p><strong><a id="f1" name="f1"></a>Fackler-Adams, Ben (1999)</strong><br />
+<em>Physical Sciences</em><br />
+BA, BS, University of California - Santa Cruz<br />
+MS, Western Washington University<br />
+Ph.D., University of California - Santa Barbara</p>
+
+<p><strong>Forsythe, Lisa (2006)</strong><br />
+<em>Invest</em><br />
+AA, Skagit Valley College&#160;<br />
+BA, Washington State University&#160;<br />
+MA, Western Washington University</p>
+
+<p><strong>Fotheringham, Don (2000)</strong><br />
+<em>Computer Information Systems, Whidbey Island Campus</em><br />
+BA, University of Ottawa<br />
+B.Ed., University of Toronto</p>
+
+<p><strong>Fouquette, Lynne (1982)</strong><br />
+<em>Psychology</em><br />
+BA, MS, Western Washington University</p>
+
+<p><strong>Frazier, Bethany (2002)</strong><br />
+<em>Health Fitness</em><br />
+BS,MS, Washington State University</p>
+
+<p><strong><a id="g1" name="g1"></a>Gage, Abel (1998)</strong><br />
+<em>Mathematics</em><br />
+BS, Wheaton College<br />
+MS, Western Washington University</p>
+
+<p><strong>Graber, Daniel (2001)</strong><br />
+<em>Mathematics</em><br />
+AAUCT, Skagit Valley College<br />
+BS, MS, Western Washington University</p>
+
+<p><strong>Graham, Jason (2007)</strong><br />
+<em>English</em><br />
+BA, MA, Western Washington University<br />
+MFA, University of Virginia</p>
+
+<p><strong><a id="h1" name="h1"></a>Haley, May (1989)</strong><br />
+<em>College Success Skills</em><br />
+BS, MS, University of Washington</p>
+
+<p><strong>Hall, R. Scott (1994)</strong><br />
+<em>Automotive Technology</em><br />
+Bellingham Technical College<br />
+BS, University of Idaho<br />
+ASE Certified Master Technician</p>
+
+<p><strong>Hall, Sharon (1990)</strong><br />
+<em>Art, Whidbey Island Campus</em><br />
+BFA, Arkansas State University<br />
+MFA, University of Washington</p>
+
+<p><strong>Hallberg-Gross, Vicki (2015)</strong><br />
+<em>Nursing, Whidbey Island Campus</em><br />
+BSN, Pacific Lutheran University<br />
+MSN, Norwich University</p>
+
+<p><strong>Halliday, Hilda (1985)</strong><br />
+<em>Computer Science, Mathematics</em><br />
+BS, MS, Western Washington University</p>
+
+<p><strong>Hanchett, Brian (1994)</strong><br />
+<em>Counselor</em><br />
+BS, M.Ed., Western Washington University</p>
+
+<p><strong>Handley, Jennifer (1998)</strong><br />
+<em>English</em><br />
+BA, Western Oregon State College<br />
+MA, New Mexico State University</p>
+
+<p><strong>Harris, Nicole (2016)</strong><br />
+<em>Navigator</em><br />
+BA, MA, Western Washington University</p>
+
+<p><strong>Heinze, Brian (2007)</strong><br />
+<em>Mathematics</em><br />
+BS, MAT, George Fox University<br />
+MS, Western Washington University</p>
+
+<p><strong>Heinze, Susanna (2006)</strong><br />
+<em>Biology</em><br />
+BS, George Fox University<br />
+MS, University of North Carolina - Chapel Hill</p>
+
+<p><strong>Henderson, Justin (2011)</strong><br />
+<em>Medical Assistant</em><br />
+ATA, Skagit Valley College</p>
+
+<p><strong><a id="i1" name="i1"></a>Iverson, Mary (2008)</strong><br />
+<em>Art</em><br />
+BA, MFA, University of Washington<br />
+BFA, Cornish College of the Arts</p>
+
+<p><strong><a id="j1" name="j1"></a>Johnson, Diane (1998)</strong><br />
+<em>Music</em><br />
+BA, University of California<br />
+MA, University of California<br />
+DMA, Claremont Graduate University</p>
+
+<p><strong><a id="k1" name="k1"></a>Kocol, Greta (1997)</strong><br />
+<em>Mathematics</em><br />
+BA, MS, Western Washington University</p>
+
+<p><strong>Kuebelbeck, Mary (2013)</strong><br />
+<em>Welding Technology</em><br />
+AAS, Bellingham Technical College</p>
+
+<p><strong>Kunz, Julie (2014)</strong><br />
+<em>Counselor, Disability Access Services, Whidbey Island Campus</em><br />
+BS, Washington State University<br />
+MS, Central Washington University</p>
+
+<p><strong><a id="l1" name="l1"></a>LaBombard, Louis (1990)</strong><br />
+<em>Social Science, Whidbey Island Campus</em><br />
+BA, Florida Atlantic University<br />
+MA, Trinity University</p>
+
+<p><strong>Larson, Kathy (1997)</strong><br />
+<em>Mathematics, Whidbey Island Campus</em><br />
+BA Ed, M.Ed., Eastern Washington University</p>
+
+<p><strong>Lind, Jason (1999)</strong><br />
+<em>Communication Studies</em><br />
+BA, Western Washington University<br />
+MA, University of Maine</p>
+
+<p><strong>Loonat, Farhana (2014)</strong><br />
+<em>Philosophy/Political Science</em><br />
+B.Soc.Sc., University of KwaZulu-Natal<br />
+MA, University of Virginia<br />
+Ph.D., Vanderbilt University</p>
+
+<p><strong>Luckmann, Charles (1997)</strong><br />
+<em>English, Ethnic Studies</em><br />
+BA, University of Illinois<br />
+MA, Western Washington University</p>
+
+<p><strong><a id="m1" name="m1"></a>Malphrus, Bob (2005)</strong><br />
+<em>Human Services</em><br />
+BA, Washington State University<br />
+M.Ed., City University, Bellingham</p>
+
+<p><strong>Mardesich, Matthew</strong><br />
+<em>Marine Maintenance Technology, Whidbey Island Campus</em><br />
+AA, ATA, Skagit Valley College<br />
+BS, Western Washington University</p>
+
+<p><strong>Markert, Jean (1991)</strong><br />
+<em>High School Completion</em><br />
+BA, Western Washington University&#160;<br />
+MA, Western Governors University</p>
+
+<p><strong>Martinez-Griego, Barbara (2005)</strong><br />
+<em>Early Childhood Ed./Education Paraprofessional</em><br />
+BS, New Mexico State University<br />
+M.Ed., Goddard College</p>
+
+<p><strong>Mattox, Tami (1990)</strong><br />
+<em>Medical Assistant</em><br />
+Paramedicine Certificate, Tacoma Community College<br />
+ATA, Skagit Valley College</p>
+
+<p><strong>McGuire, Beth (1990)</strong><br />
+<em>Counselor, TRIO Student Support Services</em><br />
+BA, Linfield College<br />
+MS, Western Washington University</p>
+
+<p><strong>McVicker, Patrick (2000)</strong><br />
+<em>Fire Protection Technology</em><br />
+AAS, Portland Community College</p>
+
+<p><strong>Mills, Margret (1998)</strong><br />
+<em>Librarian</em><br />
+BA, University of Wisconsin - Eau Claire<br />
+MLS, University of Wisconsin - Madison</p>
+
+<p><strong>Mohler, Christina (2013)</strong><br />
+<em>English, Whidbey Island Campus</em><br />
+BA, Boston University<br />
+Ph.D., City University</p>
+
+<p><strong>Moore, Linda (1979)</strong><br />
+<em>Developmental Education</em><br />
+BA, Pacific Lutheran University<br />
+M.Ed., University of Puget Sound</p>
+
+<p><strong>Morales, Dusti (2014)</strong><br />
+<em>Mathematics, Whidbey Island Campus</em><br />
+AA, Ventura College<br />
+BS, California Polytechnic University - San Luis Obispo<br />
+MA, University of California - San Diego</p>
+
+<p><strong>Morris, Damond (2014)</strong><br />
+<em>Drama</em><br />
+BA, MA, Western Washington University<br />
+Ph.D., University of Oregon</p>
+
+<p><strong>Munsey, Ben (1992)</strong><br />
+<em>English Language Acquisition</em><br />
+AB, Occidental College<br />
+MA, Western Washington University</p>
+
+<p><strong>Musk, Dinty (2017)</strong><br />
+<em>Chemistry, Whidbey Island Campus</em><br />
+BA, Taylor University&#160;<br />
+Ph.D., University of Illinois</p>
+
+<p><strong><a id="o1" name="o1"></a>Oakes, Tamara (1990)</strong><br />
+<em>Office Administration and Accounting Technologies</em><br />
+AA, Skagit Valley College<br />
+BA, Western Washington University</p>
+
+<p><strong>O&#8217;Connell, Edward (Ted) (1999)</strong><br />
+<em>English</em><br />
+BA, DePauw University<br />
+MFA, University of Oregon</p>
+
+<p><strong>Ogden, John (2002)</strong><br />
+<em>Business Administration, Economics</em><br />
+BA, University of Washington<br />
+MBA, University of Washington<br />
+J.D., Gonzaga Law School</p>
+
+<p><strong>Overby, Bill (2003)</strong><br />
+<em>Criminal Justice, Parks Law Enforcement and Basic Law Enforcement Reserve Academies</em><br />
+BA, Washington State University</p>
+
+<p><strong><a id="p1" name="p1"></a>Palmer, Clifford (2008)</strong><br />
+<em>Biology</em><br />
+BS, California Polytechnic State University<br />
+MS, Western Washington University</p>
+
+<p><strong>Pickett, Malia (2015)</strong><br />
+<em>Nursing</em><br />
+MA, University of Washington</p>
+
+<p><strong>Poole, Bruce (2011)</strong><br />
+<em>Manufacturing Technology</em><br />
+MS, Walden University</p>
+
+<p><strong>Price, Shelly (2015)</strong><br />
+<em>Nursing</em><br />
+BA, College of Wooster<br />
+M.Ed., University of Georgia<br />
+MSN, Xavier University</p>
+
+<p><strong><a id="r1" name="r1">Riley, Heather (2016)</a></strong><br />
+<em>Nursing</em>&#160;<br />
+BA, MA, California State University, Dominguez Hills</p>
+
+<p><strong>Robertson, Gretchen (2004)</strong><br />
+<em>College and Career Bridge</em><br />
+BA, University of Washington<br />
+MIT, Western Washington University</p>
+
+<p><strong>Rodriguez Ortiz, Gilbert (2007)</strong><br />
+<em>Culinary Arts &amp; Hospitality Management</em><br />
+ATA, Skagit Valley College</p>
+
+<p><strong><a id="s1" name="s1"></a>Sanchez, José (2003)</strong><br />
+<em>World Languages - Spanish</em><br />
+BA, Brigham Young University - Hawaii<br />
+MA, Indiana State University</p>
+
+<p><strong>Scammell, Matt (2010)</strong><br />
+<em>Business</em>&#160;<br />
+AA, Skagit Valley College&#160;<br />
+BA, MBA, Western Washington University</p>
+
+<p><strong>Scaringe, Cynthia (1999)</strong><br />
+<em>Nursing</em><br />
+BSN, Niagara University<br />
+MSN, Syracuse University</p>
+
+<p><strong>Schaffner, Joventina (1990)</strong><br />
+<em>Mathematics</em><br />
+BS, University of San Carlos, Philippines<br />
+MS, Washington State University</p>
+
+<p><strong>Schaffner, Ron (2005)</strong><br />
+<em>Automotive Technology</em><br />
+A.A., A.A.S., Spokane Community College<br />
+BA, Puget Sound Christian College<br />
+ASE Certified Master Machinist and Certified Master Technician</p>
+
+<p><strong>Smith, Linda (1989)</strong><br />
+<em>Communication Studies</em><br />
+BA, Seattle Pacific University<br />
+MA, Western Washington University</p>
+
+<p><strong>Smith, Roxanne (2006)</strong><br />
+<em>Chemistry</em><br />
+BA/BS, Evergreen State College<br />
+MS, Western Washington University<br />
+Ph.D., University of Northern Colorado</p>
+
+<p><strong>Spinnie, Kristi (1997)</strong><br />
+<em>Office Administration &amp; Accounting Technologies</em><br />
+BA, Northwest Nazarene College<br />
+MA, Ohio State University<br />
+MBA, Ashland University</p>
+
+<p><strong>St. John, Tony (2015)</strong><br />
+<em>Chemistry</em><br />
+BA, Whitman University<br />
+Ph.D., University of Washington</p>
+
+<p><strong>Stady, Jeff (1994)</strong><br />
+<em>Mathematics, Whidbey Island Campus</em><br />
+BS, MS, Western Washington University</p>
+
+<p><strong>Stevens, Chuck (1990)</strong><br />
+<em>Mathematics</em><br />
+AAS, Whatcom Community College<br />
+BA, MS, Western Washington University</p>
+
+<p><strong>Svendsen, Claus (1992)</strong><br />
+<em>Environmental Conservation</em><br />
+BS, MS, Copenhagen University, Denmark<br />
+Ph.D., University of Washington</p>
+
+<p><strong><a id="t1" name="t1"></a>Talbott, Vicki (1992)</strong><br />
+<em>Academic English for Speakers of Other Languages</em><br />
+BA, Western Washington University<br />
+MA, Pennsylvania State University</p>
+
+<p><strong>Tutt, Ernest (2004)</strong><br />
+<em>Communication Studies</em><br />
+ASN, Grayson County College<br />
+BA, University of Texas<br />
+MS, Ed.D., Texas A&amp;M University</p>
+
+<p><strong>Vonnahme, Erin</strong><br />
+<em>Librarian, Whidbey Island Campus</em><br />
+BA, MA, Southern Illinois University Edwardsville<br />
+MLIS, University of Washington</p>
+
+<p><strong><a id="w1" name="w1"></a>Weyers, Chad (2010)</strong><br />
+<em>Psychology</em><br />
+BA, Central Washington University<br />
+MA, Lewis and Clark College</p>
+
+<p><strong>Winslow, Lora (2008)</strong><br />
+<em>Communication Studies, Whidbey Island Campus</em><br />
+BA, MA, California State University</p>
+
+<p><strong>Wood, Natsuko (2016)</strong><br />
+<em>Nursing</em>&#160;<br />
+Ph.D., University of Washington</p>
+
+<p><strong><a id="z1" name="z1"></a>Zukoski, Ann (2003)</strong><br />
+<em>Physics</em><br />
+BA, University of California<br />
+MS, San Jose State University<br />
+Ph.D., University of Southern Mississippi</p>
+
+<p><strong>Zwolenski, Christopher (Kip) (2015)</strong><br />
+<em>Early Childhood Education</em><br />
+AA, Whatcom Community College<br />
+BA, Goddard College<br />
+M.Ed., Western Washington University</p>
+
+<h2><a id="exempt-staff" name="exempt-staff"></a>Exempt Staff</h2>
+
+<p><a href="#a2">A</a> | <a href="#b2">B</a> | <a href="#c2">C</a> | <a href="#d2">D</a> | <a href="#e2">E</a> | <a href="#f2">F</a> | <a href="#g2">G</a> | <a href="#h2">H</a> | I | <a href="#j2">J</a> | <a href="#k2">K</a> | <a href="#l2">L</a> | <a href="#m2">M</a> | <a href="#n2">N</a> | <a href="#o2">O</a> | <a href="#p2">P</a> | Q | <a href="#r2">R</a> | <a href="#s2">S</a> | <a href="#t2">T</a> | U | <a href="#v2">V</a> | <a href="#w2">W</a> | X | Y | <a href="#z2">Z</a></p>
+
+<p>Date in parentheses indicates year of initial service to SVC.</p>
+
+<p><a id="a2" name="a2"><strong>Acob-Nash, Mari (2017)</strong></a><br />
+<em>Associate Vice President for International Education&#160;</em><br />
+BA, University of Washington<br />
+MA, Western Washington University<br />
+Ph.D., Oregon State University</p>
+
+<p><strong>Allen, Vanessa (2008)</strong><br />
+<em>Instructional Software Administrator&#160;</em><br />
+AAUCT, Skagit Valley College<br />
+BS, BA, Central Washington University</p>
+
+<p><strong>Ainley, Arden (1988)</strong><br />
+<em>Chief Public Information Officer&#160;</em><br />
+BA, University of Washington</p>
+
+<p><strong>Allison, Crystal (2015)</strong><br />
+<em>Associate Dean Financial Aid</em><br />
+BA, Western Washington University<br />
+M.Ed., Western Washington University</p>
+
+<p><strong>Avary, Ann (2006)</strong><br />
+<em>Center of Excellence Director, Whidbey Island Campus</em><br />
+BA, Indiana State University</p>
+
+<p><a id="b2" name="b2"><strong>Badgley, Marcus (2016)</strong></a><br />
+<em>Web Content Specialist</em></p>
+
+<p><strong>Barnett, Lisa (1997)</strong><br />
+<em>Navigator - Student Success Center</em><br />
+ATA, Skagit Valley College</p>
+
+<p><strong>Beattie, James (1993)</strong><br />
+<em>Assistant Director of Facilities &amp; Operations</em><br />
+Cert., Bellingham Vocational Technical</p>
+
+<p><strong>Bennett, Lynnette (2015)</strong><br />
+<em>Associate Dean, Workforce Education</em><br />
+BS, Western Washington University<br />
+M.Ed., Western Washington University</p>
+
+<p><strong>Benalcazar Cotera, Veronica (2016)</strong><br />
+<em>Associate Director ECEAP</em><br />
+MA, Ashford University</p>
+
+<p><strong>Boller, Keith (2008)</strong><br />
+<em>Head Start Program Manager</em><br />
+AA, Palm Beach Community College<br />
+BA, Florida State University<br />
+MA, University of Florida</p>
+
+<p><strong>Bruce, Gail (1990)</strong><br />
+<em>Associate Dean, Whidbey Island Campus</em><br />
+BA, M.Ed., Whitworth College<br />
+Ph.D., Gonzaga University</p>
+
+<p><strong><a id="c2" name="c2"></a>Carlson, Tamara (2005)</strong><br />
+<em>Program Analyst</em></p>
+
+<p><strong>Chu, An (2014)</strong><br />
+<em>International Student Recruiter</em><br />
+AA, South Seattle Community College<br />
+BA, Ho Chi Minh Open University<br />
+MA, Seattle University</p>
+
+<p><strong>Chiabai, Susan (2016)</strong><br />
+<em>Administrative Specialist to the Vice President - WIC</em><br />
+BA, Western Washington University</p>
+
+<p><strong>Cook, Kim (2005)</strong><br />
+<em>Controller</em><br />
+BA, Western Washington University</p>
+
+<p><strong>Coslor, Melinda (1983)</strong><br />
+<em>Director of Library Services</em><br />
+BS, Washington State University<br />
+M.Libr., University of Washington<br />
+Ph.D., Oregon State University</p>
+
+<p><strong>Craig, Steve (1993)</strong><br />
+<em>Production Manager, McIntyre Hall</em></p>
+
+<p><strong><a id="d2" name="d2"></a>Davis, Kim (1999)</strong><br />
+<em>Development Coordinator​</em><br />
+BA, Western Washington University</p>
+
+<p><strong>Davis, Pamela (2012)</strong><br />
+<em>Development and Donor Relations Manager​</em><br />
+ATA, Skagit Valley College</p>
+
+<p><strong>Davis Overby, Tee (1997)</strong><br />
+<em>Coordinator of Evening Programs/Administrative Assistant</em><br />
+BS, University of Missouri - Columbia</p>
+
+<p><strong><a id="e2" name="e2"></a>Eldred, Kathy (2013)</strong><br />
+<em>Purchasing, Grants and Contracts Manager - Business Office</em><br />
+BA, Washington State University</p>
+
+<p><strong>Epperson, Steven (1977)</strong><br />
+<em>Director, Athletic Programs</em><br />
+BA, BS, MS, Washington State University</p>
+
+<p><strong><a id="f2" name="f2"></a>Fernandez, Alison (2010)</strong><br />
+<em>Director of Student Success</em><br />
+BA, Western Washington University</p>
+
+<p><strong>Fitzpatrick Plagge, Sinead (2003)</strong><br />
+<em>Associate Dean, Enrollment Services</em><br />
+AA, Olympic College<br />
+BA, M.Ed., Western Washington University</p>
+
+<p><strong><a id="g2" name="g2"></a>Galindo, Maria (2008)</strong><br />
+<em>Navigator - Student Success Center​</em><br />
+ATA, Skagit Valley College</p>
+
+<p><strong>Geddis, Tiffany (2003)</strong><br />
+<em>Navigator - Student Success Center&#160;</em><br />
+BA, Western Washington University&#160;<br />
+MA, Seattle Pacific University</p>
+
+<p><strong>Gough, Christy (2014)</strong><br />
+<em>Interim Associate Dean, Nursing&#160;</em><br />
+ASN, Everett Community College<br />
+BSN, Washington State University<br />
+MSN, Seattle Pacific University</p>
+
+<p><strong>Greybeck, Michele (Shelly) (2015)</strong><br />
+<em>Head Start Administrative Services Manager</em><br />
+BA, MA, University of Phoenix</p>
+
+<p><strong>Grothe, Margo (1999)</strong><br />
+<em>Life Transitions Program Coordinator</em><br />
+ATA, Skagit Valley College<br />
+BA, Western Washington University</p>
+
+<p><strong>Hall, Melody (Kim) (2006)</strong><br />
+<em>Manager, Bookstore</em><br />
+BA, Eastern Washington University<br />
+MA, Royal Roads University</p>
+
+<p><strong><a id="h2" name="h2"></a>Hategekimana, Claver (2016)</strong><br />
+<em>Director of eLearning</em><br />
+AA, Des Moines Area Community College<br />
+BS, Wartburg College<br />
+MS, Dakota State University<br />
+Ph.D., Iowa State University</p>
+
+<p><strong>Heiser, Andy (2014)</strong><br />
+<em>Director of Information Technology</em><br />
+BS, University of Washington<br />
+MA, University of British Columbia</p>
+
+<p><strong>Hill, Rose (2010)</strong><br />
+<em>Financial Aid Outreach Specialist</em><br />
+AA, Skagit Valley College<br />
+BA, University of Phoenix</p>
+
+<p><strong>Holdal, Jeanne (2007)</strong><br />
+<em>Parent Involvement Coordinator, ECEAP</em><br />
+AA, Southern Oregon State University<br />
+BA, University of Hawaii</p>
+
+<p><strong>Howland, Sindie (1997)</strong><br />
+<em>Program Manager for Enrollment Services</em><br />
+AA, Skagit Valley College<br />
+BA, Washington State University</p>
+
+<p><strong>Hutchinson, Kristina (2010)</strong><br />
+<em>HR Analyst&#160;</em><br />
+ATA, Skagit Valley College<br />
+BS, WGU-Washington&#160;</p>
+
+<p><strong><a id="j2" name="j2"></a>Jansen, Jane (1998)</strong><br />
+<em>Tutorial Program Coordinator</em><br />
+BS, California State University<br />
+BA, California State University</p>
+
+<p><strong>Johnson, Michelle (2017)</strong><br />
+<em>Veteran&#8217;s Program and Recruitment Specialist</em><br />
+BA, American Military Academy</p>
+
+<p><strong>Jolly, Jim (2004)</strong><br />
+<em>Director of Student Development</em><br />
+BS, Embry-Riddle Aeronautical University<br />
+MBA, Brandman University</p>
+
+<p><strong>Jordan, Sandy (2016)</strong><br />
+<em>Activity Director Title III Project STEPS​</em><br />
+MBA, Brandman University</p>
+
+<p><strong><a id="k2" name="k2"></a>Kirk, Aaron (2013)</strong><br />
+<em>Navigator - Student Success Center​</em><br />
+BA, College of Wooster</p>
+
+<p><a id="l2" name="l2"><strong>Landon, Glenda (2005)</strong></a><br />
+<em>Navigator - TRIO Student Success Coach</em><br />
+AAUCT, Skagit Valley College<br />
+BA, Washington State University<br />
+M.Ed., Western Washington University&#160;</p>
+
+<p><strong>Lounsbery, Sandra (2004)</strong><br />
+<em>Health &amp; Nutrition Coordinator, ECEAP​</em><br />
+BA, University of Washington<br />
+MS, University of Hawaii - Manoa</p>
+
+<p><strong>Lykins, Mary Ellen (2010)</strong><br />
+<em>Director, Skagit/Islands Head Start &amp; ECEAP​</em><br />
+BS, Kennedy College<br />
+MA, University of Nebraska</p>
+
+<p><a id="m2" name="m2"><strong>MacFarland, Brandy (2016)</strong></a><br />
+<em>Head Start Program Manager</em><br />
+BA, MA, University of Montana&#160;</p>
+
+<p><strong>Martin, James (2014)</strong><br />
+<em>Assistant Controller​</em><br />
+BA, Western Governor&#8217;s University</p>
+
+<p><strong>Martin, Randy (2000)</strong><br />
+<em>Director, San Juan Center and Road Scholar</em><br />
+BS, Pacific Lutheran University</p>
+
+<p><strong>McGinnis, James (2013)</strong><br />
+<em>Information Systems Administrator</em><br />
+ATA, Skagit Valley College<br />
+BS, Southern Illinois University</p>
+
+<p><strong>Moran, Stacie (1997)&#160;</strong><br />
+<em>Administrative Analyst, Office of Instruction</em><br />
+AA &amp; AAUCT, Skagit Valley College<br />
+BA, Washington State University</p>
+
+<p><strong>Morgan, David (1999)</strong><br />
+<em>Infrastructure Support Manager</em><br />
+ATA, Skagit Valley College</p>
+
+<p><strong>Murphy, Brian (1998)</strong><br />
+<em>Director of Student Life</em><br />
+BA, Western Washington University</p>
+
+<p><strong><a id="n2" name="n2"></a>Nansel, Kathy (1996)</strong><br />
+<em>Confidential Secretary to the Vice President for Instruction</em><br />
+ATA, Skagit Valley College</p>
+
+<p><strong>Nording, Theresa (1997)</strong><br />
+<em>Program Manager of Reporting and Records</em><br />
+ATA, Skagit Valley College</p>
+
+<p><a id="o2" name="o2"></a><strong>Orellana, Katelynn (2013)</strong><br />
+<em>Navigator - Student Success Center</em><br />
+AA, Cascadia Community College<br />
+BA, Western Washington University</p>
+
+<p><strong>Ouellette, Wendy (2016)</strong><br />
+<em>Navigator - High School Completion&#160;</em><br />
+BA, Western Washington University<br />
+MA, Northern Michigan University</p>
+
+<p><strong><a id="p2" name="p2"></a>Padilla-Torres, Daisy (2014)</strong><br />
+<em>Maestros Para el Pueblo Liaison</em><br />
+BA, Western Washington University<br />
+M.Ed., Western Washington University</p>
+
+<p><strong>Payne, Annie (2005)</strong><br />
+<em>Education Support Specialist&#160;</em><br />
+BA, University of Tennessee</p>
+
+<p><strong>Payne, Jessie (2016)</strong><br />
+<em>Customer Relations Management Specialist</em><br />
+AA, BAS, University of Phoenix</p>
+
+<p><strong>Penland, Shiloh (2017)</strong><br />
+<em>Director of TRiO Student Support Services&#160;</em><br />
+AAS, Wenatchee Valley College<br />
+BS, Washington State University&#160;<br />
+MA, Gonzaga University</p>
+
+<p><strong>Peregrina Carrillo, Diana (2014)</strong><br />
+<em>Recruitment and Navigation Specialist - Multicultural&#160;</em><br />
+BA, Univer University</p>
+
+<p><strong>Perez, Veronica&#160;</strong><br />
+<em>Health Services Coordinator / Athletic Trainer&#160;</em><br />
+BA, Central Washington University&#160;<br />
+MA, California Baptist University</p>
+
+<p><strong>Pettay, Chad (2012)</strong><br />
+<em>Associate Director Residence Life</em><br />
+BA, Western Washington University<br />
+M.Ed, Western Washington University</p>
+
+<p><strong>Picton, Evan (2014)</strong><br />
+<em>Associate Director, Institutional Planning &amp; Effectiveness</em><br />
+BA, Central Washington University<br />
+MA, University of North Carolina at Charlotte</p>
+
+<p><strong>Powell, Sean (2014)</strong><br />
+<em>Network Administrator</em><br />
+BS, Southern Utah University</p>
+
+<p><strong><a id="r2" name="r2"></a>Radeleff, Lisa (1997)</strong><br />
+<em>Administrative Assistant/Executive Secretary to the President</em><br />
+Senior Studies - Rio Hondo College</p>
+
+<p><strong>Randall, Amber (2016)</strong><br />
+<em>Assessment Specialist&#160;</em><br />
+AA, Walla Walla Community College<br />
+BA, Western Washington University&#160;<br />
+MA, Washington State University</p>
+
+<p><strong>Reep, Kelly (2004)</strong><br />
+<em>Community Relations &amp; Special Events Manger</em><br />
+AA, Skagit Valley College<br />
+BA, Washington State University</p>
+
+<p><strong>Richter, Rebecca (2005)</strong><br />
+<em>Program Manager, Head Start</em><br />
+BA, California State University - Long Beach</p>
+
+<p><strong>Robbins, George (Rip) (1994)</strong><br />
+<em>Advisor/Coordinator, KSVR</em><br />
+BA, Western Washington University</p>
+
+<p><strong>Rosales, Yadira (2012)</strong><br />
+<em>Director of Multicultural &amp; Student Services</em><br />
+AAUCT, Skagit Valley College<br />
+BA, M.Ed., Western Washington University</p>
+
+<p><a id="s2" name="s2"><strong>Salinas, Elizabeth (2005)</strong></a><br />
+<em>Navigator</em><br />
+AA, Skagit Valley College<br />
+BA, MA, Western Washington University</p>
+
+<p><strong>Santos, Andrew (2016)</strong><br />
+<em>Aerospace Recruiter</em><br />
+BA, West Texas A&amp;M University</p>
+
+<p><strong>Savoy, (Anthony) Tony (2016)</strong><br />
+<em>Coordinator of Soccer Operations &amp; Women&#8217;s Soccer Coach</em></p>
+
+<p><strong>Schulz, Christa (2004)</strong><br />
+<em>Director of International Programs</em><br />
+BA, Valparaiso University<br />
+MA, WGU Washington</p>
+
+<p><strong>Scott, Dave (1990)</strong><br />
+<em>Director of Facilities and Operations</em><br />
+Cert. Stationary Engineer Apprenticeship</p>
+
+<p><strong>Shiflett, Erin (2010)</strong><br />
+<em>Educational Planner</em><br />
+AAUCT, Skagit Valley College<br />
+BA, Eastern Washington University<br />
+MA, Monash University</p>
+
+<p><strong>Smith, Cherie (2002)</strong><br />
+<em>Program Manager, Head Start</em><br />
+AA, Peninsula Community College<br />
+BA, Washington State University</p>
+
+<p><strong><a id="t2" name="t2"></a>Tate, Donovan (2012)</strong><br />
+<em>Recruitment &amp; Navigation Specialist</em><br />
+AA, Lower Columbia College<br />
+BA, Whitworth University</p>
+
+<p><strong>Tautvydas, Nida (2006)</strong><br />
+<em>Executive Director of McIntyre Hall</em><br />
+BA, University of Wisconsin, Madison<br />
+MA, Columbia College</p>
+
+<p><strong>Tuininga, Brad (2015)</strong><br />
+<em>Director of Philanthropy</em><br />
+BA, Western Washington University<br />
+MA, Western Washington University</p>
+
+<p><a id="v2" name="v2"><strong>Valles, Brenda (2016)</strong></a><br />
+<em>Executive Director of Equity and Inclusion</em><br />
+BA, California State University&#160;<br />
+M.Ed., Ph.D, University of Utah</p>
+
+<p><strong>Veltri, Brock (2013)</strong><br />
+<em>Cooperative Education Coordinator &amp; Men&#8217;s Basketball Coach</em><br />
+AA, Peninsula College<br />
+BS, University of Utah<br />
+MPE, Idaho State University</p>
+
+<p><strong>Veltri, Jennifer (2013)</strong><br />
+<em>Program Manager for Recruitment, Outreach and Retention</em><br />
+BA, University of Utah<br />
+MA, University of Washington</p>
+
+<p><strong>Vivanco Meza, Estevan (2016)</strong><br />
+<em>Navigator - Student Success Center</em><br />
+BA-Spanish, Western Washington University&#160;<br />
+BA-Education, Western Washington University</p>
+
+<p><a id="w2" name="w2"><strong>Walters, James (1997)</strong></a><br />
+<em>Director of Marketing and Communication</em><br />
+AA, Ferris State University<br />
+BA, Western Washington University<br />
+MBA, City University of Seattle</p>
+
+<p><strong>Wanless, Mark (2015)</strong><br />
+<em>Manager of Administrative Services, Whidbey Island</em><br />
+AA, BS, MA, Columbia College</p>
+
+<p><strong>Wells, Braden (2016)</strong><br />
+<em>Men&#8217;s Baseball and Intramural Coach</em><br />
+AA, Dixie State University&#160;<br />
+BA, Oregon State University&#160;</p>
+
+<p><strong>Wood, Becky (2016)</strong><br />
+<em>Workforce Navigator - Student Success Center</em><br />
+BA, MS, Western Washington University</p>
+
+<h2><a id="classified-staff" name="classified-staff"></a>Classified Staff</h2>
+
+<p><a href="#a3">A</a> | <a href="#b3">B</a> | <a href="#c3">C</a> | <a href="#d3">D</a> | <a href="#e3">E</a> | <a href="#f3">F</a> | <a href="#g3">G</a> | <a href="#h3">H</a> | <a href="#i3">I</a> | <a href="#j3">J</a> | <a href="#k3">K</a> | <a href="#l3">L</a> | <a href="#m3">M</a> | <a href="#n3">N</a> | <a href="#o3">O</a> | <a href="#p3">P</a> | Q | <a href="#r3">R</a> | <a href="#s3">S</a> | <a href="#t3">T</a> | U | <a href="#v3">V</a> | <a href="#w3">W</a> | X | Y | <a href="#z3">Z</a></p>
+
+<p><strong><a id="a3" name="a3"></a>Aguirre, Alvan</strong><br />
+<em>Information Technology Specialist 4</em></p>
+
+<p><strong>Aguilia Cuevas, Yolanda</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong>Allen, Angelo</strong><br />
+<em>Custodian 2</em></p>
+
+<p><strong>Angulo, Celina</strong><br />
+<em>Office Assistant 3 - Counseling</em></p>
+
+<p><strong>Arreguin, Juan</strong><br />
+<em>Program Coordinator - Latino Radio Programs</em></p>
+
+<p><strong>Atkins, Maryann</strong><br />
+<em>Early Childhood Program Specialist 4, Head Start</em></p>
+
+<p><strong>Atwell, Angela</strong><br />
+<em>Program Specialist 2 - San Juan Center</em></p>
+
+<p><strong><a id="b3" name="b3"></a>Badillo, Maria</strong><br />
+<em>Early Childhood Program Specialist 2, Head Start</em></p>
+
+<p><strong>Badillo, Melissa&#160;</strong><br />
+<em>Early Childhood Program Specialist 3,&#160;Head Start</em></p>
+
+<p><strong>Baines, Patti</strong><br />
+<em>Early Childhood Program Specialist 4, Head Start</em></p>
+
+<p><strong>Barber, Jill</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong>Barry, Phyllis</strong><br />
+<em>Administrative Assistant 3 - Professional/Technical Education</em></p>
+
+<p><strong>Benson, Gary</strong><br />
+<em>Custodian 4</em></p>
+
+<p><strong>Bishop, Julie</strong><br />
+<em>Library &amp; Archives Paraprofessional 4</em></p>
+
+<p><strong>Blue, Shawna</strong><br />
+<em>Program Assistant - Environmental Conservation</em></p>
+
+<p><strong>Boettcher, Lindsay</strong><br />
+<em>Cashier 2 - Business Office</em></p>
+
+<p><strong>Borja-Hurtado, Karina</strong><br />
+Program Support Supervisor 1, Basic Education</p>
+
+<p><strong>Bos, Alyse</strong><br />
+<em>Early Childhood Program Specialist 1, Head Start</em></p>
+
+<p><strong>Buenaventura, Joe</strong><br />
+<em>Information Technology Specialist 3, Whidbey Island Campus</em></p>
+
+<p><strong>Burton, Allison</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong><a id="c3" name="c3"></a>Cairns, Don</strong><br />
+<em>Graphic Designer Senior</em></p>
+
+<p><strong>Cardenas, Cruz</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong>Carrigg, Sheila</strong><br />
+<em>Early Childhood Program Specialist 4, Head Start</em></p>
+
+<p><strong>Casteel, John</strong><br />
+<em>Custodian 2</em></p>
+
+<p><strong>Chamberlain, Danni</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong>Christy, Jamie</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong>Clark, Jesse</strong><br />
+<em>Custodian 2</em></p>
+
+<p><strong>Clark, Sandra</strong><br />
+<em>Early Childhood Program Specialist 4, Head Start</em></p>
+
+<p><strong>Confer, Shirley</strong><br />
+<em>Fiscal Technician 2, Head Start</em></p>
+
+<p><strong>Cortez, Mara</strong><br />
+<em>Early Childhood Program Specialist 2, ECEAP​</em></p>
+
+<p><a id="d3" name="d3"><strong>De Maria, Dianna</strong></a><br />
+<em>Early Childhood Program Specialist 2, Head Start</em></p>
+
+<p><strong>Degnan, Cathy</strong><br />
+<em>Office Assistant 3 - San Juan Center</em></p>
+
+<p><strong>DeJesus, Janet</strong><br />
+<em>Assistant Manager - Bookstore</em></p>
+
+<p><strong>Dillon, Tina</strong><br />
+<em>Custodian 3</em></p>
+
+<p><strong>Dimaggio, Victoria&#160;</strong><br />
+<em>Instruction &amp; Classroom Support Technician 2</em></p>
+
+<p><strong>Downs, Dale</strong><br />
+<em>Maintenance Custodian</em></p>
+
+<p><strong><a id="e3" name="e3"></a>Early, Torstein (2007)</strong><br />
+Information Technology Specialist 1</p>
+
+<p><strong>Eberle, Leah</strong><br />
+<em>Program Coordinator-Student Life</em></p>
+
+<p><strong>Emory, Ian</strong><br />
+<em>Maintenance Mechanic 2</em></p>
+
+<p><strong>Engberg, Kimberly</strong><br />
+<em>Human Resource Consultant Assistant l</em></p>
+
+<p><strong>Erickson, Amy</strong><br />
+<em>Program Coordinator - Student Success Center</em></p>
+
+<p><strong><a id="f3" name="f3"></a>Fagan, Laurel</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong>Ferguson, Kelly</strong><br />
+<em>Credentials Evaluator 3 - Whidbey Island Campus</em></p>
+
+<p><strong>Frolander, Karin</strong><br />
+<em>Fiscal Specialist 1 - Business Office</em></p>
+
+<p><strong>Fuentes, Cinthya</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong><a id="g3" name="g3"></a>Gaitan, Patricia</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong>Garner, Andrea</strong><br />
+<em>Administrative Assistant 4, Head Start</em></p>
+
+<p><strong>Garza, Lily</strong><br />
+<em>Fiscal Analyst 2 - Business Office</em></p>
+
+<p><strong>Garza, Michele</strong><br />
+<em>Program Coordinator - Enrollment Services</em></p>
+
+<p><strong>Gomez, &#8220;Cynthia&#8221; Hortencia</strong><br />
+<em>HR Consultant</em></p>
+
+<p><strong>Gonzales, Laura</strong><br />
+<em>Early Childhood Program Specialist 2,&#160;Head Start</em></p>
+
+<p><strong>Gonzalez-Hendrix, Eddie</strong><br />
+<em>Office Assistant 3, ECEAP</em></p>
+
+<p><strong>Good, James</strong><br />
+<em>Custodian 3</em></p>
+
+<p><strong>Graham, Juliet</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong>Gregush, Jamie</strong><br />
+<em>Early Childhood Program Specialist 3,&#160;Head Start&#160;</em></p>
+
+<p><strong>Grider, Corinne</strong><br />
+<em>Custodian 2</em></p>
+
+<p><strong>Griffin, Patricia</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong>Grove, Amanda&#160;</strong><br />
+<em>Program Coordinator, WIC</em></p>
+
+<p><strong>Guzman, Sylvia</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong><a id="h3" name="h3"></a>Hamburg, Corrin</strong><br />
+<em>Laboratory Assistant 2 - Environmental Conservation</em></p>
+
+<p><strong>Hamilton, Calvin</strong><br />
+<em>Maintenance Custodian</em></p>
+
+<p><strong>Hansey, Lucas</strong><br />
+<em>Information Technology Specialist 3</em></p>
+
+<p><strong>Hatfield, Rob</strong><br />
+<em>Credentials Evaluator 3 - Enrollment Services​</em></p>
+
+<p><strong>Hauser, David</strong><br />
+<em>Building and Grounds Supervisor B, Whidbey Island Campus</em></p>
+
+<p><strong>Havens, Beverly</strong><br />
+<em>Human Resource Consultant 2</em></p>
+
+<p><strong>Havertz, Cynthia</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong>Heggie, James</strong><br />
+<em>Veterans&#8217; Benefits Assistant</em></p>
+
+<p><strong>Heinzman, Shannon</strong><br />
+<em>Information Technology Specialist 2</em></p>
+
+<p><strong>Highet, Lyn</strong><br />
+<em>Food Service Manager 5</em></p>
+
+<p><strong>Hilden, Linda</strong><br />
+<em>Early Childhood Program Specialist 4, Head Start</em></p>
+
+<p><strong>Hoffbuhr, Kristen</strong><br />
+<em>Instruction &amp; Classroom Support Tech 4, Biology</em></p>
+
+<p><strong>Howland, Jacob</strong><br />
+<em>Maintenance Mecahnic 1</em></p>
+
+<p><strong>Hudson, Sharon</strong><br />
+<em>Early Childhood Program Specialist 1, Head Start</em></p>
+
+<p><strong>Hull, Jennifer</strong><br />
+<em>Office Assistant 3 - Marine Skills Center</em></p>
+
+<p><strong><a id="i3" name="i3"></a>Irish, Kimberly</strong><br />
+<em>Early Childhood Program Specialist 4, Head Start</em></p>
+
+<p><strong><a id="j3" name="j3"></a>Jensen, Susan</strong><br />
+<em>Program Coordinator - Registration, Whidbey Island Campus</em></p>
+
+<p><strong>Johnson, Jennifer</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong><a id="k3" name="k3"></a>Kaczmarczyk, Edward</strong><br />
+<em>Maintenance Mechanic 3</em></p>
+
+<p><strong>Kane, Helen</strong><br />
+<em>Human Resource Consultant 1</em></p>
+
+<p><strong>Karr-Gotz, Barbara</strong><br />
+<em>Early Childhood Program Specialist 3,&#160;Head Start</em></p>
+
+<p><strong>Kestler, Gisella</strong><br />
+<em>Early Childhood Program Specialist 3,&#160;Head Start</em></p>
+
+<p><strong>King, Sarah</strong><br />
+<em>Early Childhood Program Specialist 2,&#160;Head Start</em></p>
+
+<p><strong>Kislyanka, Vera</strong><br />
+<em>Early Childhood Program Specialist 3,&#160;Head Start</em></p>
+
+<p><strong>Koetje, Vivian</strong><br />
+<em>Mail Process - Driver Lead, Copy &amp; Mail Center</em></p>
+
+<p><strong>Kozowski, Karen (Becky)</strong><br />
+<em>Program Coordinator - Financial Aid</em></p>
+
+<p><strong><a id="l3" name="l3"></a>Lacey, Marilana (Shelley)</strong><br />
+<em>Program Specialist 3 - Financial Aid</em></p>
+
+<p><strong>LaFave, Susan</strong><br />
+<em>Program Support Supervisor l - Nursing&#160;</em></p>
+
+<p><strong>Lanning, Brandy</strong><br />
+<em>Program Coordinator - Enrollment Services&#160;</em></p>
+
+<p><strong>Leber, Sandra</strong><br />
+<em>Program Manager A - Athletics</em></p>
+
+<p><strong>Lecoq, Amy</strong><br />
+<em>Early Childhood Program Specialist 3,&#160;Head Start&#160;</em></p>
+
+<p><strong>Levesen, Lance</strong><br />
+<em>Campus Security Officer</em></p>
+
+<p><strong>Levesen, Stephanie</strong><br />
+<em>Library &amp; Archives Paraprofessional 3</em></p>
+
+<p><strong>Lilgreen, Mark</strong><br />
+<em>Maintenance Mechanic 3</em></p>
+
+<p><strong>Luna, Aracely</strong><br />
+<em>Social Work Assistant 2, Head Start</em></p>
+
+<p><strong>Lynch, Paula</strong><br />
+<em>Early Childhood Program Specialist 3,&#160;Head Start</em></p>
+
+<p><strong><a id="m3" name="m3"></a>Marin Machias, Gerzon</strong><br />
+<em>Program Coordinator, Financial Aid</em></p>
+
+<p><strong>Martin, Charolette</strong><br />
+<em>Administrative Assistant 2</em></p>
+
+<p><strong>McAdam, Bradley</strong><br />
+<em>Maintenance Custodian</em></p>
+
+<p><strong>McGinnis, Patricia</strong><br />
+<em>Early Childhood Program Specialist 2, ECEAP</em></p>
+
+<p><strong>Mendoza, Eva</strong><br />
+<em>Custodian 2</em></p>
+
+<p><strong>Mendoza, Paige</strong><br />
+<em>Maintenance Custodian&#160;</em></p>
+
+<p><strong>Merryman, Darcy</strong><br />
+<em>Information Technology Specialist 1</em></p>
+
+<p><strong>Miller, Teresa</strong><br />
+<em>Secretary Supervisor - Information Technology</em></p>
+
+<p><strong>Mirante, Lisa&#160;</strong><br />
+<em>Fiscal Analyst 1- Business Office&#160;</em></p>
+
+<p><strong>Mitchell, Kimberly</strong><br />
+<em>Library &amp; Archives Paraprofessional 3, Whidbey Island Campus</em></p>
+
+<p><strong>Moen, Bruce</strong><br />
+<em>Maintenance Mechanic 2, Whidbey Island Campus</em></p>
+
+<p><strong>Monrreal-Perez, Estafani (Jasmin)</strong><br />
+<em>Early Childhood Program Specialist 2,&#160;Head Start &#160;</em></p>
+
+<p><strong>Morris, Scott</strong><br />
+<em>Instructional and Classroom Support Tech 3, Chemistry/Physical Science</em></p>
+
+<p><strong><a id="n3" name="n3"></a>Navarro, Kathryn</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong>Nolan, Joyce</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong><a id="o3" name="o3"></a>O&#8217;Connell, Susana</strong><br />
+<em>Early Childhood Program Specialist 3</em></p>
+
+<p><strong>Omdal, Bret</strong><br />
+<em>Information Technology Specialist 5</em></p>
+
+<p><strong>O&#8217;Neil, Shannon</strong><br />
+<em>Administrative Services Manager A - Campus View Village</em></p>
+
+<p><strong>Ortega Solis, Yalda</strong><br />
+<em>Office Assistant 2, Head Start</em></p>
+
+<p><strong>Ortiz, Doricela</strong><br />
+<em>Social Work Assistant 1, Head Start</em></p>
+
+<p><strong>Ortiz Zavala, Lorena</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong>Oshiro, Elizabeth</strong><br />
+<em>Program Assistant - Arts and Sciences</em></p>
+
+<p><strong><a id="p3" name="p3"></a>Paiz, Terri</strong><br />
+<em>Social Work Assistant 2, Head Start</em></p>
+
+<p><strong>Parks, Raynette</strong><br />
+<em>Program Manager A - Student Life, Whidbey Island Campus</em></p>
+
+<p><strong>Petosa, Karen</strong><br />
+<em>Early Childhood Program Specialist 4, Head Start</em></p>
+
+<p><strong><a id="r3" name="r3"></a>Ray, Nickie</strong><br />
+<em>Early Childhood Program Specialist 2, Head Start</em></p>
+
+<p><strong>Rentz, Jennifer&#160;</strong><br />
+<em>Early Childhood Program Specialist 2, Head Start</em></p>
+
+<p><strong>Reyes, Kathryn</strong><br />
+<em>Administrative Assistant 3 - Student Services, Whidbey Island Campus</em></p>
+
+<p><strong>Ricketts, Lillian (Lilly)</strong><br />
+<em>Custodian 2</em></p>
+
+<p><strong>Rodriguez, Celina</strong><br />
+<em>Program Assistant, Basic Education</em></p>
+
+<p><strong>Rodriguez, Noemi</strong><br />
+<em>Program Coordinator - Enrollment Services&#160;</em></p>
+
+<p><strong>Rodriguez-Ortiz, Lorenza</strong><br />
+<em>Early Childhood Program Specialist 3,&#160;Head Start</em></p>
+
+<p><strong>Rolfson, Carrie</strong><br />
+<em>Food Service Supervisor 1</em></p>
+
+<p><strong>Rollin, Rosalia</strong><br />
+<em>Custodian 3, Whidbey Island Campus</em></p>
+
+<p><strong><a id="s3" name="s3"></a>Sanchez, Angelica</strong><br />
+<em>Program Coordinator - Enrollment Services</em></p>
+
+<p><strong>Sanchez, Betsey</strong><br />
+<em>Program Assistant - I-CATCH</em></p>
+
+<p><strong>Saulness, Maria</strong><br />
+<em>Early Childhood Program Specialist 3,&#160;Head Start</em></p>
+
+<p><strong>Schnabel, Hans</strong><br />
+<em>Program Coordinator - Enrollment Services&#160;</em></p>
+
+<p><strong>Scheer, Debra</strong><br />
+<em>Early Childhood Program Specialist 4,&#160;Head Start&#160;</em></p>
+
+<p><strong>Schmeltz, Kathryn</strong><br />
+<em>Fiscal Specialist 1, Whidbey Island Campus</em></p>
+
+<p><strong>Shannon, Katherine</strong><br />
+<em>Instruction &amp; Classroom Support Technician 1</em></p>
+
+<p><strong>Skouson, Natalie&#160;</strong><br />
+<em>Program Coordinator, WIC</em></p>
+
+<p><strong>Smock, Justin</strong><br />
+<em>Program Support Supervisor 1</em></p>
+
+<p><strong>Somers, Steven</strong><br />
+<em>Maintenance Mechanic 3&#160;</em></p>
+
+<p><strong>Sopher, Samantha</strong><br />
+<em>Program Assistant - Health Services</em></p>
+
+<p><strong>St. Germain, Benjamin</strong><br />
+<em>Information Technology Specialist 5</em></p>
+
+<p><strong>Stevens, Theresa</strong><br />
+<em>Program Specialist 3 - Financial Aid</em></p>
+
+<p><strong>Stoker, Timothy</strong><br />
+<em>Maintenance Custodian 1</em></p>
+
+<p><strong>Suit Gregush, Jamie</strong><br />
+<em>Early Childhood Program Specialist 2,&#160;Head Start</em></p>
+
+<p><strong><a id="t3" name="t3"></a>Thompson, Jaime</strong><br />
+<em>Early Childhood Program Specialist 3, ECEAP</em></p>
+
+<p><strong>Thompson, Valerie</strong><br />
+<em>Program Assistant - Professional/Technical Education</em></p>
+
+<p><strong>Tomeoka, Tatsuo (Tom)</strong><br />
+<em>Program Specialist 2 - Financial Aid</em></p>
+
+<p><strong>Torres, Sandra</strong><br />
+<em>Early Childhood Program Specialist 3, Head Start</em></p>
+
+<p><strong>Trout, Aimee</strong><br />
+<em>Custodian 2</em></p>
+
+<p><strong>Tygret, Anne</strong><br />
+<em>Early Childhood Program Specialist 2, Head Start</em></p>
+
+<p><strong>Tzintzun, Brianda</strong><br />
+<em>Early Childhood Program Specialist 3<br />
+Infant/Toddler Specialist - Head Start</em></p>
+
+<p><strong><a id="v3" name="v3"></a>Valdes, Darrell</strong><br />
+<em>Campus Security - Mount Vernon Campus</em></p>
+
+<p><strong>Van Norman, Yoshimi</strong><br />
+<em>Fiscal Technician 3 - Business Office, Whidbey Island Campus</em></p>
+
+<p><strong>Vast, Anna</strong><br />
+<em>Early Childhood Program Specialist 2, Head Start</em></p>
+
+<p><strong>Viola, Angela</strong><br />
+<em>Program Coordinator - International Programs</em></p>
+
+<p><strong>Vivanco, Oralia</strong><br />
+<em>Early Childhood Program Specialist 2, Head Start</em></p>
+
+<p><strong><a id="w3" name="w3"></a>Welsh, Scott</strong><br />
+<em>Custodian 2</em></p>
+
+<p><strong>Werling, Sarah</strong><br />
+<em>Early Childhood Program Specialist 4, Head Start</em></p>
+
+<p><strong>Wilbur, Brenda</strong><br />
+<em>Fiscal Technician 2 - Business Office</em></p>
+
+<p><strong>Williams, Barbara</strong><br />
+<em>Program Coordinator - Physical Plant</em></p>
+
+<p><strong>Williams, Karin</strong><br />
+<em>Fiscal Analyst 2, Foundation</em></p>
+
+<p><strong>Willis, Alvin</strong><br />
+<em>Information Technology Specialist 3</em></p>
+
+<p><strong>Wright, Jaxoniun</strong><br />
+<em>Maintenance Custodian​</em></p>
+
+<p><strong>Wysomierski, Debra</strong><br />
+<em>Program Coordinator - Financial Aid, Whidbey Island Campus</em></p>
+
+<p><strong><a id="z3" name="z3"></a>Zhekovska, Katya</strong><br />
+<em>Fiscal Specialist 1 - Business Office</em></p>
+
+<h2><a id="faculty-administration-emeriti" name="faculty-administration-emeriti"></a>Faculty &amp; Administration Emeriti</h2>
+
+<p><a href="#a4">A</a> | <a href="#b4">B</a> | <a href="#c4">C</a> | <a href="#d4">D</a> | <a href="#e4">E</a> | <a href="#f4">F</a> | <a href="#g4">G</a> | <a href="#h4">H</a> | <a href="#i4">I</a> | <a href="#j4">J</a> | <a href="#k4">K</a> | <a href="#l4">L</a> | <a href="#m4">M</a> | <a href="#n4">N</a> | <a href="#o4">O</a> | <a href="#p4">P</a> | Q | <a href="#r4">R</a> | <a href="#s4">S</a> | <a href="#t4">T</a> | U | V | <a href="#w4">W</a> | X | <a href="#y4">Y</a> | <a href="#z4">Z</a></p>
+
+<p><strong><a id="a4" name="a4"></a>Adams, Flora (1986)</strong><br />
+<em>Nursing</em></p>
+
+<p><strong>Almvig, Deene (1963)</strong><br />
+<em>Counseling</em></p>
+
+<p><strong>Alotrico, George (1967)</strong><br />
+<em>English</em></p>
+
+<p><strong>Anderson, Howard (1961)</strong><br />
+<em>Mathematics</em></p>
+
+<p><strong>Anderson, Jerry (1996)</strong><br />
+<em>Firefighter Training</em></p>
+
+<p><strong>Anderson, Larry (1981)</strong><br />
+<em>Electronics, Whidbey Island Campus</em></p>
+
+<p><strong>Angst, Laura (1927)</strong><br />
+<em>Biology</em></p>
+
+<p><strong>Armstrong, Joan (1961)</strong><br />
+<em>Kinesiology, Exercise Science</em></p>
+
+<p><strong><a id="b4" name="b4"></a>Barnes, Trish (1989)</strong><br />
+<em>English</em></p>
+
+<p><strong>Batterberry, Robert (1967)</strong><br />
+<em>Computer Science</em></p>
+
+<p><strong>Beals, Nancy (1973)</strong><br />
+<em>Family Life, Early Childhood Education</em></p>
+
+<p><strong>Biehl, George (1998)</strong><br />
+<em>Science, Whidbey Island Campus</em></p>
+
+<p><strong>Bidwell, Rucilla (1963)</strong><br />
+<em>Office &amp; Business Technology</em></p>
+
+<p><strong>Biggers, John (1962)</strong><br />
+<em>Civil Engineering</em></p>
+
+<p><strong>Bratley, Mel (1989)</strong><br />
+<em>Telecommunications</em></p>
+
+<p><strong>Budler, Robert (1977)</strong><br />
+<em>Marine Maintenance Technology, Whidbey Island Campus</em></p>
+
+<p><strong>Burke, Marjean (1972)</strong><br />
+<em>Nursing, Whidbey Island Campus</em></p>
+
+<p><strong>Burkholder, Dennis (1970)</strong><br />
+<em>Parks Operation &amp; Maintenance</em></p>
+
+<p><strong>Burns, Robert (1975)</strong><br />
+<em>Diesel Mechanics</em></p>
+
+<p><strong>Bushaw, Mark (1994)</strong><br />
+<em>Welding</em></p>
+
+<p><strong><a id="c4" name="c4"></a>Campbell, Marilyn (1983)</strong><br />
+<em>Coordinator, San Juan Center</em></p>
+
+<p><strong>Chandler, Jerome (1977)</strong><br />
+<em>Physical Sciences</em></p>
+
+<p><strong>Chatt, Orville (1965)</strong><br />
+<em>Art</em></p>
+
+<p><strong>Chaves-Pickett, Pat (1971)</strong><br />
+<em>Spanish</em></p>
+
+<p><strong>Clarke, Thomasina (1971)</strong><br />
+<em>Public Information</em></p>
+
+<p><strong>Cole, Geoffrey (1969)</strong><br />
+<em>Speech, English, Whidbey Island Campus</em></p>
+
+<p><strong>Cole, Norwood (1947)</strong><br />
+<em>President</em></p>
+
+<p><strong>Collins, Czarna (1960)</strong><br />
+<em>English</em></p>
+
+<p><strong>Conner, Sally (1974)</strong><br />
+<em>Office Administration &amp; Accounting Technologies</em></p>
+
+<p><strong>Coole, Walter (1965)</strong><br />
+<em>Philosophy</em></p>
+
+<p><strong>Coslor, Rex (1961)</strong><br />
+<em>Speech</em></p>
+
+<p><strong><a id="d4" name="d4"></a>Darden, Mary (1979)</strong><br />
+<em>Counselor, Whidbey Island Campus</em></p>
+
+<p><strong>Delaney, George (1966)</strong><br />
+<em>Vice President, Education Services</em></p>
+
+<p><strong>Dike, Barbara (1964)</strong><br />
+<em>Nursing</em></p>
+
+<p><strong>Dunlap, Lynn (1979)</strong><br />
+<em>English</em></p>
+
+<p><strong>Dursch, H. Robert (1950)</strong><br />
+<em>Physical Sciences</em></p>
+
+<p><strong>Duvall, Dave (1948)</strong><br />
+<em>Director of Athletics, Physical Education &amp; Health</em></p>
+
+<p><strong>Duvall, Richard (1962)</strong><br />
+<em>Chemistry</em></p>
+
+<p><strong>Dye, Marilyn (1960)</strong><br />
+<em>Nursing</em></p>
+
+<p><strong><a id="e4" name="e4"></a>Eaton, Sydney (1959)</strong><br />
+<em>Art</em></p>
+
+<p><strong><a id="f4" name="f4"></a>Fader, Edith (1960)</strong><br />
+<em>Library</em></p>
+
+<p><strong>Ferris, Gerald (1968)</strong><br />
+<em>Automotive Technology</em></p>
+
+<p><strong>Folsom, Kathy (1981)</strong><br />
+<em>Nursing, Whidbey Island Campus</em></p>
+
+<p><strong>Folsom, Riley (1978)</strong><br />
+<em>Social Sciences</em></p>
+
+<p><strong>Forbes, William (1969)</strong><br />
+<em>History</em></p>
+
+<p><strong>Ford, James (1954)</strong><br />
+<em>President</em></p>
+
+<p><strong>Fredlund, Emelyne (1994)</strong><br />
+<em>Counselor</em></p>
+
+<p><strong>Friedlander, Andy (1984)</strong><br />
+<em>Theatre</em></p>
+
+<p><strong>Funk, Carol (1996)</strong><br />
+<em>Counselor, Whidbey Island Campus</em></p>
+
+<p><strong><a id="g4" name="g4"></a>Garcia, Joe (1990)</strong><br />
+<em>Office &amp; Business Technology</em></p>
+
+<p><strong>Gaston, Margaret (1970)</strong><br />
+<em>Office &amp; Business Technology</em></p>
+
+<p><strong>Graham, Bob (1991)</strong><br />
+<em>English, Whidbey Island Campus</em></p>
+
+<p><strong>Grambo, Marilyn (1979)</strong><br />
+<em>Program Manager, Head Start</em></p>
+
+<p><strong>Gray, Wendy (1988)</strong><br />
+<em>Business Management</em></p>
+
+<p><strong>Greene, Lorna (1994)</strong><br />
+<em>Early Childhood Education</em></p>
+
+<p><strong>Guinn, Gary (1977)</strong><br />
+<em>Office &amp; Business Technology, Business Administration</em></p>
+
+<p><strong><a id="h4" name="h4"></a>Hahn, Martin (1996)</strong><br />
+<em>Culinary Arts &amp; Hospitality Management</em></p>
+
+<p><strong>Hansen, Willard (1967)</strong><br />
+<em>Farm Management</em></p>
+
+<p><strong>Harker, Tom (1992)</strong><br />
+<em>Vice President, Administrative Services</em></p>
+
+<p><strong>Havist, Marjorie (1980)</strong><br />
+<em>Dean, Library/Media Services</em></p>
+
+<p><strong>Hayes, H.H. (1971)</strong><br />
+<em>Dean, Whidbey Island Campus</em></p>
+
+<p><strong>Headley, Carolyn (1971)</strong><br />
+<em>Developmental Education</em></p>
+
+<p><strong>Hektner, Marilyn (1978)</strong><br />
+<em>Controller</em></p>
+
+<p><strong>Helm, Jan (1998)</strong><br />
+<em>Nursing, Whidbey Island Campus</em></p>
+
+<p><strong>Helmer, Louise (1960)</strong><br />
+<em>Counseling</em></p>
+
+<p><strong>Hemming, Jeanette (1995)</strong><br />
+<em>Medical Assistant</em></p>
+
+<p><strong>Hendrick, Linda (1982)</strong><br />
+<em>Librarian</em></p>
+
+<p><strong>Hernandez, Angelica (1993)</strong><br />
+<em>English</em></p>
+
+<p><strong>Heverling, Janet (1977)</strong><br />
+<em>Family Life/Early Childhood Education, Whidbey Island Campus</em></p>
+
+<p><strong>Hiestand, Tom (1988)</strong><br />
+<em>Cooperative Education, Whidbey Island Campus</em></p>
+
+<p><strong>Hodson, Charlee (1984)</strong><br />
+<em>Science, Whidbey Island Campus</em></p>
+
+<p><strong>Hodson, George (1948)</strong><br />
+<em>President</em></p>
+
+<p><strong>Hopke, Del (1974)</strong><br />
+<em>Diesel Mechanics</em></p>
+
+<p><strong>Hrutfiord, Donald (1969)</strong><br />
+<em>Automotive Technology</em></p>
+
+<p><strong>Huber, Carol (1979)</strong><br />
+<em>Office Administration and Accounting Technologies - Whidbey Island Campus</em></p>
+
+<p><strong>Huffman, Richard (1980)</strong><br />
+<em>Mathematics</em></p>
+
+<p><strong><a id="i4" name="i4"></a>Indorf, Susan (1977)</strong><br />
+<em>Mathematics, Whidbey Island Campus</em></p>
+
+<p><strong><a id="j4" name="j4"></a>Jafrey, Owais (1986)</strong><br />
+<em>Librarian, Whidbey Island Campus</em></p>
+
+<p><strong>Johnson, Dick (1972)</strong><br />
+<em>Business Administration, Economics</em></p>
+
+<p><strong>Johnson, Sharon (Sherry) (1974)</strong><br />
+<em>Director, Title III Faculty Development</em></p>
+
+<p><strong>Jordheim, Gerald (1962)</strong><br />
+<em>Student Guidance</em></p>
+
+<p><strong><a id="k4" name="k4"></a>Keeler, Ted (1983)</strong><br />
+<em>Associate Dean, E-Learning</em></p>
+
+<p><strong>Kenney, John (Jack) (1961)</strong><br />
+<em>Business Administration &amp; Economics</em></p>
+
+<p><strong>Kennicott, Patrick (1991)</strong><br />
+<em>Executive Director, SVC Foundation</em></p>
+
+<p><strong>Kent, Susan (1985)</strong><br />
+<em>Librarian</em></p>
+
+<p><strong>Keyes, Beverly (2002)</strong><br />
+<em>Associate Dean of Health Sciences</em></p>
+
+<p><strong>Kiel, Edna (1978)</strong><br />
+<em>English</em></p>
+
+<p><strong>Kienholz, Oliver (1972)</strong><br />
+<em>Farm Management</em></p>
+
+<p><strong>Klein, Phyllis (1979)</strong><br />
+<em>Library</em></p>
+
+<p><strong>Knutzen, Gary (1965)</strong><br />
+<em>Director, Athletic Programs</em></p>
+
+<p><strong>Knutzen, Judi (1979)</strong><br />
+<em>Administrative Assistant for Assessment</em></p>
+
+<p><strong>Koci, Michele (1979)</strong><br />
+<em>Dean, Professional Technical Education</em></p>
+
+<p><strong><a id="l4" name="l4"></a>LaFollette, Jere (2005)</strong><br />
+<em>Human Services</em></p>
+
+<p><strong>LaFond, John (1979)</strong><br />
+<em>Business Administration, Whidbey Island Campus</em></p>
+
+<p><strong>Lancaster, Debra (1983)</strong><br />
+<em>Director, Customized Training</em></p>
+
+<p><strong>Lee, Alice (1989)</strong><br />
+<em>English, Whidbey Island Campus</em></p>
+
+<p><strong>Lemberg Ross, Linda (1983)</strong><br />
+<em>Nursing</em></p>
+
+<p><strong>Leonard, Barbara (1981)</strong><br />
+<em>Office &amp; Business Technology</em></p>
+
+<p><strong>Leopold, Fern (1957)</strong><br />
+<em>Library</em></p>
+
+<p><strong>Lewis, Charles (1929)</strong><br />
+<em>Dean</em></p>
+
+<p><strong>Loughlin, Beau (1970)</strong><br />
+<em>Computer Information Systems, Whidbey Island Campus</em></p>
+
+<p><strong>Lukasik, Leslie (2000)</strong><br />
+<em>Business Administration/Business Resource Coordinator, Whidbey Island Campus</em></p>
+
+<p><strong><a id="m4" name="m4"></a>Maloney, Jr., Ted (1988)</strong><br />
+<em>Director of Global Initiatives</em></p>
+
+<p><strong>Mashburn, Gloria (1965)</strong><br />
+<em>Library</em></p>
+
+<p><strong>Matthews, Jean (1978)</strong><br />
+<em>Human Services</em></p>
+
+<p><strong>Matzen, Vicki (1975)</strong><br />
+<em>Developmental Education, English, Whidbey Island Campus</em></p>
+
+<p><strong>Maue, Mary (2009)</strong><br />
+<em>Nursing</em></p>
+
+<p><strong>McCleery, James (1984)</strong><br />
+<em>Mathematics, Whidbey Island Campus</em></p>
+
+<p><strong>McHale, Nancy (1990)</strong><br />
+<em>Counselor, Whidbey Island Campus</em></p>
+
+<p><strong>McLatchy, Pat (1973)</strong><br />
+<em>History</em></p>
+
+<p><strong>McRill, Chari (2007)</strong><br />
+<em>Librarian, Whidbey Island Campus</em></p>
+
+<p><strong>Milne, James (1964)</strong><br />
+<em>Physics</em></p>
+
+<p><strong>Miller, Alison (1996)</strong><br />
+<em>French, Spanish</em></p>
+
+<p><strong>Moburg, Barbara (1986)</strong><br />
+<em>Social Science</em></p>
+
+<p><strong>Monroe, Jim (1963)</strong><br />
+<em>Biology</em></p>
+
+<p><strong>Moore, Tom (1970)</strong><br />
+<em>Marine Technology</em></p>
+
+<p><strong>Morrell, Madison (1959)</strong><br />
+<em>Social Services</em></p>
+
+<p><strong>Mortensen, Claire (1987)</strong><br />
+<em>Nursing</em></p>
+
+<p><strong>Muga, David (1992)</strong><br />
+<em>Social Science</em></p>
+
+<p><strong>Mullen, Val (2000)</strong><br />
+<em>Biology</em></p>
+
+<p><strong><a id="n4" name="n4"></a>Naas, Susan (1990)</strong><br />
+<em>Nursing</em></p>
+
+<p><strong>Nelson, C.A. (1926)</strong><br />
+<em>Superintendent</em></p>
+
+<p><strong>Nelson, Dan (1989)</strong><br />
+<em>Welding</em></p>
+
+<p><strong>Nelson, William (1978)</strong><br />
+<em>Law Enforcement</em></p>
+
+<p><strong>Nowadnick, Richard (1952)</strong><br />
+<em>Dean of Instruction</em></p>
+
+<p><strong><a id="o4" name="o4"></a>Ordóñez, Anita (1995)</strong><br />
+<em>Director, Multicultural Student Services/Counselor</em></p>
+
+<p><strong>Osborne, Gerald (1984)</strong><br />
+<em>Welding</em></p>
+
+<p><strong><a id="p4" name="p4"></a>Pass, Robert (Skip) (1978)</strong><br />
+<em>Biology, Agriculture</em></p>
+
+<p><strong>Pedersen, Joe (1966)</strong><br />
+<em>Electronics, Computer Repair</em></p>
+
+<p><strong>Pettitt, Maureen (1998)</strong><br />
+<em>Director of Institutional Research</em></p>
+
+<p><strong>Pflugfelder, Christina (1998)</strong><br />
+<em>Biology, Whidbey Island Campus​</em></p>
+
+<p><strong>Phipps, Wendell (1951)</strong><br />
+<em>Superintendent of Schools</em></p>
+
+<p><strong>Pierce, James (1965)</strong><br />
+<em>Physical Science, Chemistry</em></p>
+
+<p><strong>Plucker, Robert (1968)</strong><br />
+<em>Music</em></p>
+
+<p><strong>Poppe, Stanley (1962)</strong><br />
+<em>Director of Athletics</em></p>
+
+<p><strong>Pruiett, Ramon (1956)</strong><br />
+<em>Outdoor Education</em></p>
+
+<p><strong><a id="r4" name="r4"></a>Randall, Delores (1977)</strong><br />
+<em>Nursing, Whidbey Island Campus</em></p>
+
+<p><strong>Raymond, Katherine (1960)</strong><br />
+<em>Counseling</em></p>
+
+<p><strong>Reeves, Joseph (1926)</strong><br />
+<em>Principal</em></p>
+
+<p><strong>Reid, Ann Chadwick (1986)</strong><br />
+<em>Art</em></p>
+
+<p><strong>Requa, William (Kim) (1980)</strong><br />
+<em>Director of TRIO Student Support Services</em></p>
+
+<p><strong>Robbin, Rand (1962)</strong><br />
+<em>Art</em></p>
+
+<p><strong>Roberts, Walter (1957)</strong><br />
+<em>Director of Technical Education</em></p>
+
+<p><strong>Rodriquez, Ted (1969)</strong><br />
+<em>Electronics</em></p>
+
+<p><strong>Rohloff, Dennis (1975)</strong><br />
+<em>Director, Plant Operations</em></p>
+
+<p><strong>Roller, Harry (1958)</strong><br />
+<em>Engineering</em></p>
+
+<p><strong>Royal, Helen (1982)</strong><br />
+<em>Office &amp; Business Technology, Whidbey Island Campus</em></p>
+
+<p><strong><a id="s4" name="s4"></a>Saben, Donald (1976)</strong><br />
+<em>Welding</em></p>
+
+<p><strong>Sawyer, Gertrude (1954)</strong><br />
+<em>Nursing</em></p>
+
+<p><strong>Siebert, Sheila (1965)</strong><br />
+<em>Nursing</em></p>
+
+<p><strong>Sigmar, Wallace (1971)</strong><br />
+<em>Dean, Student Services &amp; Foundation Liaison</em></p>
+
+<p><strong>Shane, Fay (1985)</strong><br />
+<em>Director, SVC Foundation</em></p>
+
+<p><strong>Smith, Brad (1996)</strong><br />
+<em>Physical Science</em></p>
+
+<p><strong>Smith, Paul (1964)</strong><br />
+<em>Personnel, Physical Plant</em></p>
+
+<p><strong>Sorensen, James (1969)</strong><br />
+<em>Dean of Admissions &amp; Registration</em></p>
+
+<p><strong>Sprague, Brinton (1988)</strong><br />
+<em>Vice President, Educational Services</em></p>
+
+<p><strong>Stanwood, Les (1980)</strong><br />
+<em>English, Whidbey Island Campus</em></p>
+
+<p><strong>St. Germain, Jeanette (1994)</strong><br />
+<em>Assistant Controller</em></p>
+
+<p><strong>Stroosma, Peter (1981)</strong><br />
+<em>Director, Business Resource Center</em></p>
+
+<p><strong>Sult, Larry (1989)</strong><br />
+<em>Philosophy</em></p>
+
+<p><strong>Swietzer, Michael (1991)</strong><br />
+<em>Marine Maintenance, Whidbey Island Campus</em></p>
+
+<p><strong><a id="t4" name="t4"></a>Tarro, Phillip (1964)</strong><br />
+<em>Drama, Speech</em></p>
+
+<p><strong>Tarry, Ronald (1987)</strong><br />
+<em>Law Enforcement</em></p>
+
+<p><strong>Tate, Greg (1977)</strong><br />
+<em>Art</em></p>
+
+<p><strong>Thomas, H. Jeanne (1966)</strong><br />
+<em>English</em></p>
+
+<p><strong>Thompson, Gary (1986)</strong><br />
+<em>Truck Driver Training</em></p>
+
+<p><strong>Thompson, Kenneth (1963)</strong><br />
+<em>Physical Education</em></p>
+
+<p><strong>Tillotson, Delbert (1954)</strong><br />
+<em>Business Services</em></p>
+
+<p><strong>Tinker, Susan (1973)</strong><br />
+<em>Vice President, Educational Services</em></p>
+
+<p><strong>Tobin, Harry (1965)</strong><br />
+<em>Business Management Training</em></p>
+
+<p><strong>Turley, Jack (1962)</strong><br />
+<em>Business Management</em></p>
+
+<p><strong>Turner, E. Glen (1962)</strong><br />
+<em>English</em></p>
+
+<p><strong><a id="w4" name="w4"></a>Waters (Flint), Nancy (1988)</strong><br />
+<em>Developmental Education, Student Support Services</em></p>
+
+<p><strong>White, Fay (2003)</strong><br />
+<em>Nursing</em></p>
+
+<p><strong>Whiting, Jack (1976)</strong><br />
+<em>Diesel Mechanics</em></p>
+
+<p><strong>Will, Anne (1998)</strong><br />
+<em>History</em></p>
+
+<p><strong>Williamson, Bert (1970)</strong><br />
+<em>Vice President, Business &amp; Community Development</em></p>
+
+<p><strong>Witmer, Michael (1973)</strong><br />
+<em>Psychology</em></p>
+
+<p><strong>Woiwod, Linda (1987)</strong><br />
+<em>Dean of Student Services</em></p>
+
+<p><strong><a id="y4" name="y4"></a>Young, Carl (1996)</strong><br />
+<em>Executive Director, College Advancement</em></p>
+
+<p><strong><a id="z4" name="z4"></a>Ziomkowski, Anne (1998)</strong><br />
+<em>Counseling</em></p>
+
+<h2><a id="staff-emeriti" name="staff-emeriti"></a>Staff Emeriti</h2>
+
+<p><a href="#a5">A</a> | <a href="#b5">B</a> | <a href="#c5">C</a> | <a href="#d5">D</a> | <a href="#e5">E</a> | <a href="#f5">F</a> | G | <a href="#h5">H</a> | I | <a href="#j5">J</a> | <a href="#k5">K</a> | <a href="#l5">L</a> | <a href="#m5">M</a> | <a href="#n5">N</a> | <a href="#o5">O</a> | <a href="#p5">P</a> | Q | <a href="#r5">R</a> | <a href="#s5">S</a> | <a href="#t5">T</a> | U | <a href="#v5">V</a> | <a href="#w5">W</a> | X | <a href="#y5">Y</a> | Z</p>
+
+<p>Date in parentheses indicates year of initial service to SVC.</p>
+
+<p><strong><a id="a5" name="a5"></a>Abbott, Mike (1999)</strong><br />
+<em>Veterans Benefits Specialist</em></p>
+
+<p><strong>Alexander, Bruce (1994)</strong><br />
+<em>Workforce Education</em></p>
+
+<p><strong>Allen, Jan (1966)</strong><br />
+<em>President&#8217;s Office</em></p>
+
+<p><strong>Anderson, Betty (1980)</strong><br />
+<em>Instructional Technician II</em></p>
+
+<p><strong>Armstrong, Mary Lou (1988)</strong><br />
+<em>Business Office</em></p>
+
+<p><strong>Auld, Hale (1970)</strong><br />
+<em>Maintenance, Whidbey Island Campus</em></p>
+
+<p><strong><a id="b5" name="b5"></a>Baker, Linda (2000)</strong><br />
+<em>Program Manager A - Academic Instruction</em></p>
+
+<p><strong>Batchelor, Carolyn (1990)</strong><br />
+<em>Library &amp; Archives Paraprofessional 4, Whidbey Island Campus</em></p>
+
+<p><strong>Bjork, Cathie (1957)</strong><br />
+<em>Registration</em></p>
+
+<p><strong>Boos, Clarence (1971)</strong><br />
+<em>Custodial</em></p>
+
+<p><strong>Bos, Glenn (1969)</strong><br />
+<em>Maintenance</em></p>
+
+<p><strong>Brandt, Gloria (1978)</strong><br />
+<em>Secretary Supervisor, Counseling</em></p>
+
+<p><strong>Broadgate, Herlinda (1989)</strong><br />
+<em>Program Assistant - Career Services</em></p>
+
+<p><strong>Bultman, Esther (1988)</strong><br />
+<em>Administration Office, Whidbey Island Campus</em></p>
+
+<p><strong>Burton, Dallas (1988)</strong><br />
+<em>Maintenance</em></p>
+
+<p><strong><a id="c5" name="c5"></a>Church, Pamela (1997)</strong><br />
+<em>Director, Career Services</em></p>
+
+<p><strong>Cook, Larry (1987)</strong><br />
+<em>Maintenance Mechanic 3</em></p>
+
+<p><strong><a id="d5" name="d5"></a>De Muth, Ray (1980)</strong><br />
+<em>Program Coordinator, Whidbey Island Campus</em></p>
+
+<p><strong>Dibble, Charmie (1978)</strong><br />
+<em>Culinary Arts</em></p>
+
+<p><strong>Dickerson, Raleigh (1982)</strong><br />
+<em>Campus Security</em></p>
+
+<p><strong>Doctor, Phyllis (1977)</strong><br />
+<em>Program Support Supervisor I, Admissions</em></p>
+
+<p><strong>Dooley, Nancy (1978)</strong><br />
+<em>Business Office</em></p>
+
+<p><strong><a id="e5" name="e5"></a>Ebel-Higgins, Gail (1986)</strong><br />
+<em>Administrative Assistant to the VP of Business &amp; Community Development</em></p>
+
+<p><strong>Eklund, Ethelyn (1975)</strong><br />
+<em>Secretary, Nursing</em></p>
+
+<p><strong>Elde-Hansen, Clara (1958)</strong><br />
+<em>Business Office</em></p>
+
+<p><strong>Elles, Alice (1972)</strong><br />
+<em>Whidbey Island Campus</em></p>
+
+<p><strong><a id="f5" name="f5"></a>Fahl, Raymond (1965)</strong><br />
+<em>Custodian</em></p>
+
+<p><strong>Frasier, Joyce (1975)</strong><br />
+<em>Educational Services</em></p>
+
+<p><strong><a id="h5" name="h5"></a>Hann, Lynn (2003)</strong><br />
+<em>Program Coordinator, South Whidbey Center</em></p>
+
+<p><strong>Hansen, Willa (1962)</strong><br />
+<em>Bookstore Sales Manager</em></p>
+
+<p><strong>Haren, Marilyn (1998)</strong><br />
+<em>Administrative Assistant 3, Whidbey Island Campus</em></p>
+
+<p><strong>Hurd, Linda (1990)</strong><br />
+<em>Developmental Education</em></p>
+
+<p><strong><a id="j5" name="j5"></a>Jurgens, Paul (1984)</strong><br />
+<em>Maintenance</em></p>
+
+<p><strong><a id="k5" name="k5"></a>Kinley, Verla (1969)</strong><br />
+<em>Registration</em></p>
+
+<p><strong>Kotash, Karen (2000)</strong><br />
+<em>Fiscal Analyst 3 - SVC Foundation</em></p>
+
+<p><strong><a id="l5" name="l5"></a>Le Dent-Iankovski, Gayle</strong><br />
+<em>Retail Clerk 2 - Bookstore</em></p>
+
+<p><strong>Ledbetter, Hazel (1974)</strong><br />
+<em>Continuing Education</em></p>
+
+<p><strong>Libbey, Darlene (1974)</strong><br />
+<em>Payroll</em></p>
+
+<p><strong>Lisherness, Norma (1978)</strong><br />
+<em>Media Technician Lead - Information Technology</em></p>
+
+<p><strong>Lundquist, Anne (1978)</strong><br />
+<em>Bookstore Office Manager</em></p>
+
+<p><strong>Lundquist, Fran (1963)</strong><br />
+<em>Library</em></p>
+
+<p><strong><a id="m5" name="m5"></a>Magee, Eileen (1960)</strong><br />
+<em>Financial Aid</em></p>
+
+<p><strong>Mains, Mary Lee (1998)</strong><br />
+<em>Cashier 2, Business Office</em></p>
+
+<p><strong>Mann, Clyde (1992)</strong><br />
+<em>Veteran&#8217;s Affairs / Financial Aid Assistant</em></p>
+
+<p><strong>Matier, Ira (1977)</strong><br />
+<em>Custodian</em></p>
+
+<p><strong>McGuinness, Lois (1979)</strong><br />
+<em>Program Coordinator, Financial Aid</em></p>
+
+<p><strong>McKeehan, Sharon (1974)</strong><br />
+<em>Program Coordinator, Financial Aid</em></p>
+
+<p><strong>Metzger, Stephanie (1998)</strong><br />
+<em>Transcript Evaluator</em></p>
+
+<p><strong>Moen, James (1979)</strong><br />
+<em>Custodian, Whidbey Island Campus</em></p>
+
+<p><strong>Moon (Nash), Wendy (1984)</strong><br />
+<em>Administrative Assistant, Whidbey Island Campus</em></p>
+
+<p><strong>Morris, Paul (1982)</strong><br />
+<em>Maintenance</em></p>
+
+<p><strong>Morris, Penny (1979)</strong><br />
+<em>Secretary Supervisor</em></p>
+
+<p><strong>Murphy, Barbara (1981)</strong><br />
+<em>Fiscal Specialist 1 - Business Office</em></p>
+
+<p><strong><a id="n5" name="n5"></a>Nakashima, Stanley</strong><br />
+<em>Custodian 2</em></p>
+
+<p><strong>Nelson, Arlene (1963)</strong><br />
+<em>Chief Accountant, Business Office</em></p>
+
+<p><strong>Nelson, Kenneth (Ken) (1999)</strong><br />
+<em>Information Technology Specialist 5</em></p>
+
+<p><strong>Nevitt, Deanne (1986)</strong><br />
+<em>Program Coordinator, Culinary Arts</em></p>
+
+<p><strong>Niles, Kathy (1999)</strong><br />
+<em>Fiscal Technician II, Whidbey Island Campus</em></p>
+
+<p><strong>Nondorf, Gary (1991)</strong><br />
+<em>Grounds &amp; Nursery Specialist 2</em></p>
+
+<p><strong><a id="o5" name="o5"></a>Olson, Kathrine (1985)</strong><br />
+<em>Library Specialist II</em></p>
+
+<p><strong>Olson, William</strong><br />
+<em>Maintenance Mechanic 1</em></p>
+
+<p><strong><a id="p5" name="p5"></a>Palmer, Cheryl (1993)</strong><br />
+<em>Program Coordinator - Information Technology</em></p>
+
+<p><strong>Pederson, Joan (1994)</strong><br />
+<em>Office Assistant 3 - Registration</em></p>
+
+<p><strong>Peters, Randall (1989)</strong><br />
+<em>Instructional Network Manager</em></p>
+
+<p><strong><a id="r5" name="r5"></a>Reid, Denny (1995)</strong><br />
+<em>Accommodations Specialist, Disability Access Services</em></p>
+
+<p><strong><a id="s5" name="s5"></a>Schlabach, Gary (1999)</strong><br />
+<em>Custodian 1</em></p>
+
+<p><strong>Sears, Jan</strong><br />
+<em>Office Assistant 3 - Counseling</em></p>
+
+<p><strong>Seman, Mary (1979)</strong><br />
+<em>Counseling</em></p>
+
+<p><strong>Skurdahl, David (1990)</strong><br />
+<em>Custodian 2</em></p>
+
+<p><strong>Smith, Craig (1998)</strong><br />
+<em>Maintenance Mechanic 3</em></p>
+
+<p><strong>Smith, Rozanne (1999)</strong><br />
+<em>Procurement &amp; Supply Specialist 3 - Business Office</em></p>
+
+<p><strong>Stewart, Robert (1962)</strong><br />
+<em>Maintenance</em></p>
+
+<p><strong>Sylte, Emil (1972)</strong><br />
+<em>Security</em></p>
+
+<p><strong><a id="t5" name="t5"></a>Turner, Marcia (1984)</strong><br />
+<em>Payroll</em></p>
+
+<p><strong><a id="v5" name="v5"></a>Valentine, Percy (1977)</strong><br />
+<em>Registration, Whidbey Island Campus</em></p>
+
+<p><strong>Vance, Dan (1991)</strong><br />
+<em>Maintenance Mechanic 1</em></p>
+
+<p><a id="w5" name="w5"></a><strong>Walker, Sherry (1994)</strong><br />
+<em>Administrative Assistant to the Vice President of Whidbey Island Campus</em></p>
+
+<p><strong>Warren, Maxine (1962)</strong><br />
+<em>Registration</em></p>
+
+<p><strong>Whelan, Bonnie (1973)</strong><br />
+<em>Day Vocational</em></p>
+
+<p><strong>Wiechert, Carl (1986)</strong><br />
+<em>Office Assistant</em></p>
+
+<p><strong>Wing, Shirley (1981)</strong><br />
+<em>Library</em></p>
+
+<p><strong>Wirta, Hazel (1988)</strong><br />
+<em>Custodian</em></p>
+
+<p><strong><a id="y5" name="y5"></a>Ytgard, Reidar (1983)</strong><br />
+<em>Maintenance</em></p>
+							  </td>
+							</tr>
+						  </table>
+                                                  <br /><hr /><div style="float: right">&#160;<a href="#" class="acalog_top_link acalog-highlight-ignore">Back to Top</a> | <a rel="nofollow" href="/content.php?catoid=8&amp;navoid=175&amp;print" onclick="acalogPopup('/content.php?catoid=8&amp;navoid=175&amp;print', 'print_preview', 770, 530, 'yes');return false;" target="_blank" class="print_link acalog-highlight-ignore" alt="Text Version"><img src="img/print.gif" width="10" height="14" border="0" hspace="5" align="absmiddle" alt="Print-Friendly Page.">Print-Friendly Page</a></div><div class="acalog-social-media-links" style="float: right;"><a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fcatalog.skagit.edu%2Fcontent.php%3Fcatoid%3D8%26navoid%3D175&t=I am looking at the Faculty and Staff Directory page at Skagit Valley College" border="0" target="_blank"><img src="acalogicons/facebook_16.png" border="0" alt="Facebook this Page"></a> <a href="http://twitter.com/intent/tweet?u=http%3A%2F%2Fcatalog.skagit.edu%2Fcontent.php%3Fcatoid%3D8%26navoid%3D175&t=Check out this page at Skagit Valley College" border="0" target="_blank"><img src="/acalogicons/twitter_16.png" border="0" alt="Tweet this Page"></a></div>
+					  </td>
+				</tr>
+			  </table>
+			</td>
+		  </tr>
+		</table>
+	</td>
+  </tr>
+	<tr>
+	<td class="block_footer_lb">&#160;&#160;&#160;</td>
+	<td class="block_footer_rb">
+<nobr>All <a href="/misc/catalog_list.php?catoid=8" class="footer"  tabIndex="300">catalogs</a> &#169; 2017 Skagit Valley College.</nobr> <nobr>Powered by the <a href="http://www.acalog.com" target="_blank" class="footer">Acalog™ Academic Catalog Management System™ (ACMS™)</a>.</nobr>
+<br />
+	<script type="text/javascript">
+		function showMobile(){
+			var name = 'acalogMobileApp';
+			var value = 'mobile';
+	
+			var date = new Date();
+			date.setTime(date.getTime()+(365*24*60*60*1000));
+			var expires = "; expires="+date.toGMTString();
+			document.cookie = name+"="+value+expires+"; path=/";
+		}
+	</script>
+	<nobr><a href="http://m.catalog.skagit.edu/index.php?theme" onclick="showMobile();" class="footer">Mobile Site</a>.</nobr><script type='text/javascript'>
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-36599744-1']);
+	_gaq.push(['_trackPageview']);
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+</script></td>
+	</tr>
+</table>
+<script src="js/smlinks.js" type="text/javascript"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f1e87b20cf","applicationID":"5857333","transactionName":"bldWNUYCXEJVBkJRVlcdYRNdTFFeWhFTVk0XQlwR","queueTime":0,"applicationTime":699,"atts":"QhBVQw4YT0w=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

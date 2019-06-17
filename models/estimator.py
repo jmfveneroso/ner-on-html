@@ -7,10 +7,9 @@ from pathlib import Path
 import tensorflow as tf
 import numpy as np
 from IPython.display import clear_output, display
-from models.cnn import masked_conv1d_and_max
 from models.data_loader import NerOnHtml
-from models.metrics import evaluate
 from models.model import SequenceModel
+from models.metrics import evaluate
 
 params = None
 
@@ -24,7 +23,7 @@ class Estimator:
     self.learning_rate = 0.001
     self.dataset = None
 
-  def set_dataset_params(self, new_params):
+  def set_params(self, new_params):
     self.params.update(new_params)
 
   def load_params_from_file(self, json_file):
@@ -149,8 +148,8 @@ class Estimator:
       for name in ['train', 'valid', 'test']:
         _, (p, t, w) = self.run_epoch(sess, name)
   
-        Path('results/score').mkdir(parents=True, exist_ok=True)
-        with Path('results/score/{}.preds.txt'.format(name)).open('wb') as f:
+        Path('results').mkdir(parents=True, exist_ok=True)
+        with Path('results/{}.preds.txt'.format(name)).open('wb') as f:
           for words, preds, tags in zip(w, p, t):
             f.write(b'\n\n')
             for word, pred, tag in zip(words, preds, tags):

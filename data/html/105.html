@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>CSE Staff - myCSE</title>
+
+	<meta name="description" content="" />
+	<meta name="keywords" content="" />
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="robots" content="index, follow" />
+	<meta name="revisit-after" content="7 days" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery-timepicker/1.8.4/jquery.timepicker.min.css">
+  <link rel="stylesheet" type="text/css" href="/css/mycse-bootstrap-2017.css">
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-timepicker/1.8.4/jquery.timepicker.min.js"></script>
+  <script>
+  $(function() {
+    $(".datepicker").datepicker({ dateFormat: "dd/mm/yy" });
+  });
+  $(function() {
+    $('.timepicker').timepicker({ minTime: "07:00am", maxTime: "10:00pm" });
+  });
+  </script>
+
+</head>
+
+<body>
+<div class="container">
+  <header>
+    <div id="faculty-banner" class="row">
+      <div id="logo-wrapper" class="col-md-8">
+        <a href="http://www.unsw.edu.au"><img class="unsw-logo" alt="University of New South Wales, Sydney, Canberra, Australia" src="http://my.cse.unsw.edu.au/images/UNSW_Sydney.png" /></a>
+        <a href="http://www.engineering.unsw.edu.au" class="faculty" title="Engineering Home">Engineering</a>
+      </div>
+              <div class="col-md-4">
+          <div id="session-info">   
+                          <br/>You are not logged in to myCSE <a href="/index.php?pageRedirect=/staff/staff.php">[Login]</a><br/>&nbsp; 
+                                
+                      </div>
+        </div>
+          </div>
+
+    <!-- <div style="clear:both;"></div> -->
+    <div id="school-banner">
+      <a href="http://www.cse.unsw.edu.au/" class="school-logo">Computer Science and Engineering</a>
+    </div>
+  </header>
+</div>
+<!-- <div style="clear:both;"></div> -->
+<div class="container">
+<nav class="navbar navbar-inverse navbar-custom">
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+      
+         <!-- Home -->
+        <li class="dropdown">
+          <a href="https://www.engineering.unsw.edu.au/computer-science-engineering/"><span class="glyphicon glyphicon-home" aria-hidden="true"></span></a>
+        </li>
+
+        <!-- News -->
+        <li class="dropdown">
+          <a href="https://www.engineering.unsw.edu.au/computer-science-engineering/news" role="button" aria-haspopup="true" aria-expanded="false">News</a>
+        </li>
+
+        <!-- Events -->
+        <li class="dropdown">
+          <a href="https://www.engineering.unsw.edu.au/computer-science-engineering/upcoming-events" role="button" aria-haspopup="true" aria-expanded="false">Events</a>
+        </li>
+
+        <!-- About Us -->
+        <li class="dropdown">
+          <a href="https://www.engineering.unsw.edu.au/computer-science-engineering/about-us" role="button" aria-haspopup="true" aria-expanded="false">About us</a>
+        </li>
+
+         <!-- Courses and Programs -->
+        <li class="dropdown">
+          <a href="https://www.engineering.unsw.edu.au/computer-science-engineering/courses-programs-at-unsw-computing-0" role="button" aria-haspopup="true" aria-expanded="false">Courses & programs</a>
+        </li>
+
+         <!-- Research -->
+        <li class="dropdown">
+          <a href="https://www.engineering.unsw.edu.au/computer-science-engineering/research" role="button" aria-haspopup="true" aria-expanded="false">Research</a>
+        </li>
+
+        <!-- Alumni and industry -->
+        <li class="dropdown">
+          <a href="https://www.engineering.unsw.edu.au/computer-science-engineering/alumni-industry" role="button" aria-haspopup="true" aria-expanded="false">Alumni & industry</a>
+        </li>
+
+        <!-- Videos -->
+        <li class="dropdown">
+          <a href="https://www.engineering.unsw.edu.au/computer-science-engineering/videos" role="button" aria-haspopup="true" aria-expanded="false">Videos</a>
+        </li>
+
+        <!-- Help & Respources -->
+        <li class="dropdown">
+          <a href="https://www.engineering.unsw.edu.au/computer-science-engineering/help-resources" role="button" aria-haspopup="true" aria-expanded="false">Help & resources</a>
+        </li>
+
+        <!-- Contact Us -->
+        <li class="dropdown">
+          <a href="https://www.engineering.unsw.edu.au/computer-science-engineering/contact-us" role="button" aria-haspopup="true" aria-expanded="false">Contact us</a>
+        </li>
+
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
+<h2>Academic Staff</h2>
+<form action="staff.php" method="post">
+<p>Search for a CSE staff member:  <input name="searchField" type="text" value="" size="25" maxlength="50">
+<input type="submit" name="searchStaff" id="searchStaff" value="Find" /> 
+</p>
+</form>
+                
+<p> 
+By Group:         
+<A HREF="staff.php?GROUP=AI">Artificial Intelligence</A> | 
+<A HREF="staff.php?GROUP=Databases">Databases</A> | 
+<A HREF="staff.php?GROUP=Embedded">Embedded and Operating Systems</A> | 
+<A HREF="staff.php?GROUP=Networks">Networked Systems and Security</A> |  
+<A HREF="staff.php?GROUP=Programming">Programming Languages</A> | 
+<A HREF="staff.php?GROUP=Services">Service Oriented Computing</A> | 
+<A HREF="staff.php?GROUP=Software">Software Engineering and Theory</A> |
+<A HREF="staff.php?GROUP=Theoretical">Theoretical Computer Science</A> |
+<A HREF="staff.php?GROUP=Trustworthy">Trustworthy Systems</A>  
+
+
+<br/><br/>
+  </p>  
+
+
+                                  <p>By role: <a href="staff.php">All People</a> | <a href="?ID=Academic">Academic Staff</a> | <a href="?ID=Conjoint">Conjoint Staff </a>| <a href="?ID=Professional">Professional Staff</a> | <a href="?ID=IT">IT Staff</a> | <a href="?ID=Visitor">Visiting Staff</a> | <a href="?ID=PhD-Masters">Research Students</a></p>
+                <p>(Phone: +61 2 938 + Extension)</p>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th><a href="staff.php?ID=Academic&currentSort=surname">Name</a></th>
+                            <th><a href="staff.php?ID=Academic&currentSort=roleList">Role</a></th>
+                            <th><a href="staff.php?ID=Academic&currentSort=location">Office </a></th>
+                            <th><a href="staff.php?ID=Academic&currentSort=phoneExtention_No">Extension </a></th>
+                        </tr>
+                    </thead>
+                    <tbody>     
+<tr><td><a href='staff_details.php?ID=mike'>Mike Bain</a></td>
+<td>Senior Lecturer</td>
+<td>K17 401H</td>
+<td>56935</td>
+</tr><tr><td><a href='staff_details.php?ID=sbeheshti'>Seyed-Mehdi-Reza Beheshti</a></td>
+<td>Senior Research Associate</td>
+<td>K17 217G</td>
+<td>54034</td>
+</tr><tr><td><a href='staff_details.php?ID=boualem'>Boualem Benatallah</a></td>
+<td>Scientia Professor</td>
+<td>K17 407</td>
+<td>54767</td>
+</tr><tr><td><a href='staff_details.php?ID=blair'>Alan Blair</a></td>
+<td>Senior Lecturer & Program Director - Computer Science</td>
+<td>K17 412C</td>
+<td>57131</td>
+</tr><tr><td><a href='staff_details.php?ID=z3503119'>Edwin Bonilla</a></td>
+<td>Senior Lecturer</td>
+<td>K17 412B</td>
+<td>56255</td>
+</tr><tr><td><a href='staff_details.php?ID=richardb'>Richard Buckland</a></td>
+<td>Professor</td>
+<td>K17 210</td>
+<td>54063</td>
+</tr><tr><td><a href='staff_details.php?ID=xcai'>Xiongcai Cai</a></td>
+<td>Adjunct Senior Lecturer</td>
+<td>K17 217-10</td>
+<td>58858</td>
+</tr><tr><td><a href='staff_details.php?ID=z3515164'>Xin Cao</a></td>
+<td>Lecturer</td>
+<td>K17 201D</td>
+<td>55317</td>
+</tr><tr><td><a href='staff_details.php?ID=chak'>Manuel Chakravarty</a></td>
+<td>Associate Professor</td>
+<td>K17 510C</td>
+<td>54495</td>
+</tr><tr><td><a href='staff_details.php?ID=ctchou'>Chun Tung Chou</a></td>
+<td>Associate Professor</td>
+<td>K17 608</td>
+<td>57203</td>
+</tr><tr><td><a href='staff_details.php?ID=pengd'>Peng Di</a></td>
+<td>Research Associate</td>
+<td>K17 501J</td>
+<td>56588</td>
+</tr><tr><td><a href='staff_details.php?ID=odiessel'>Oliver Diessel</a></td>
+<td>Associate Professor</td>
+<td>K17 501B</td>
+<td>57384</td>
+</tr><tr><td><a href='staff_details.php?ID=kevine'>Kevin Elphinstone</a></td>
+<td>Associate Professor</td>
+<td>K17 301</td>
+<td></td>
+</tr><tr><td><a href='staff_details.php?ID=kaie'>Kai Engelhardt</a></td>
+<td>Senior Lecturer</td>
+<td>K17 217C</td>
+<td>54497</td>
+</tr><tr><td><a href='staff_details.php?ID=angf'>Angela Finlayson</a></td>
+<td>Lecturer</td>
+<td>K17 201C</td>
+<td>54025</td>
+</tr><tr><td><a href='staff_details.php?ID=bgaeta'>Bruno Gaeta</a></td>
+<td>Senior Lecturer & Program Director - Bioinformatics</td>
+<td>K17 401C</td>
+<td>57213</td>
+</tr><tr><td><a href='staff_details.php?ID=sergeg'>Serge Gaspers</a></td>
+<td>ARC Future Fellow & Associate Professor</td>
+<td>K17 506</td>
+<td>56934</td>
+</tr><tr><td><a href='staff_details.php?ID=lingkang'>Lingkan Gong</a></td>
+<td>Post-Doc Fellow</td>
+<td>K17 217D</td>
+<td>57738</td>
+</tr><tr><td><a href='staff_details.php?ID=mikeg'>Michael James Gratton</a></td>
+<td>Research Associate  <font color="#000000"><i>(currently on leave)</i></font></td>
+<td>J17 510J-02</td>
+<td>56898</td>
+</tr><tr><td><a href='staff_details.php?ID=huig'>Hui Annie Guo</a></td>
+<td>Senior Lecturer & Program Director - Computer Engineering</td>
+<td>K17 501F</td>
+<td>57136</td>
+</tr><tr><td><a href='staff_details.php?ID=mahbub'>Mahbub Hassan</a></td>
+<td>Professor</td>
+<td>K17 607</td>
+<td>56198</td>
+</tr><tr><td><a href='staff_details.php?ID=bradfordh'>Bradford Heap</a></td>
+<td>Research Associate</td>
+<td>K17 401D</td>
+<td>56929</td>
+</tr><tr><td><a href='staff_details.php?ID=gernot'>Gernot Heiser</a></td>
+<td>Scientia Professor & John Lions Chair & ACM Fellow</td>
+<td>K17 Level 3 </td>
+<td>94905850</td>
+</tr><tr><td><a href='staff_details.php?ID=bernhardh'>Bernhard Hengst</a></td>
+<td>Senior Research Associate (Level B)</td>
+<td>J17 510K-01</td>
+<td>56929</td>
+</tr><tr><td><a href='staff_details.php?ID=wenh'>Wen Hu</a></td>
+<td>Senior Lecturer</td>
+<td>K17 606</td>
+<td>57679</td>
+</tr><tr><td><a href='staff_details.php?ID=ignjat'>Aleksandar Ignjatovic</a></td>
+<td>Associate Professor</td>
+<td>K17 504</td>
+<td>56659</td>
+</tr><tr><td><a href='staff_details.php?ID=darshanaj'>Jayasinghe Arachchige Darshana Nayanajith Jayasinghe</a></td>
+<td>Research Associate & PhD Student</td>
+<td>K17 510-04</td>
+<td></td>
+</tr><tr><td><a href='staff_details.php?ID=sanjay'>Sanjay Jha</a></td>
+<td>Professor</td>
+<td>K17 501A</td>
+<td>56471</td>
+</tr><tr><td><a href='staff_details.php?ID=salilk'>Salil Kanhere</a></td>
+<td>Associate Professor & Postgraduate Research and Scholarship Co-ordinator</td>
+<td>K17 612</td>
+<td>56927</td>
+</tr><tr><td><a href='staff_details.php?ID=keller'>Gabriele Keller</a></td>
+<td>Associate Professor & Grievance Officer & CSEâs Equity and DiversityÂ Coordinator</td>
+<td>K17 501I</td>
+<td>56032</td>
+</tr><tr><td><a href='staff_details.php?ID=alfredk'>Alfred Krzywicki</a></td>
+<td>Research Fellow</td>
+<td>K17 401E</td>
+<td>56993</td>
+</tr><tr><td><a href='staff_details.php?ID=llai'>Longbin Lai</a></td>
+<td>Research Associate</td>
+<td>K17 201E</td>
+<td>56012</td>
+</tr><tr><td><a href='staff_details.php?ID=tuol'>Tuo Li</a></td>
+<td>Research Associate</td>
+<td>K17 501H</td>
+<td>57386</td>
+</tr><tr><td><a href='staff_details.php?ID=lxue'>Xuemin Lin</a></td>
+<td>Scientia Professor</td>
+<td>K17 503</td>
+<td>56493</td>
+</tr><tr><td><a href='staff_details.php?ID=z3519153'>Haojun Ma</a></td>
+<td>Research Associate</td>
+<td>K17 208</td>
+<td>54334</td>
+</tr><tr><td><a href='staff_details.php?ID=nadinem'>Nadine Marcus</a></td>
+<td>Senior Lecturer</td>
+<td>K17 401B</td>
+<td>55173</td>
+</tr><tr><td><a href='staff_details.php?ID=emartin'>Eric Martin</a></td>
+<td>Senior Lecturer & Postgrad Coursework Academic Advisor</td>
+<td>K17 409</td>
+<td>56936</td>
+</tr><tr><td><a href='staff_details.php?ID=tmcdonell'>Trevor Lee Mcdonell</a></td>
+<td>Research Associate</td>
+<td>K17 301</td>
+<td></td>
+</tr><tr><td><a href='staff_details.php?ID=carrollm'>Carroll Morgan</a></td>
+<td>Professor</td>
+<td>K17 301</td>
+<td></td>
+</tr><tr><td><a href='staff_details.php?ID=z3521716'>David Muchlinski</a></td>
+<td>Post Doctoral Research Fellow</td>
+<td>K17 412-02</td>
+<td></td>
+</tr><tr><td><a href='staff_details.php?ID=dtsm460'>Daniel Murphy</a></td>
+<td>Casual Academic & Student</td>
+<td>K17 510-01</td>
+<td></td>
+</tr><tr><td><a href='staff_details.php?ID=morri'>Maurice Pagnucco</a></td>
+<td>Professor & Head of School</td>
+<td>K17 104A</td>
+<td>55518</td>
+</tr><tr><td><a href='staff_details.php?ID=hpaik'>Helen Hye-Young Paik</a></td>
+<td>UG Thesis Coordinator  & Senior Lecturer</td>
+<td>K17 401A</td>
+<td>54095</td>
+</tr><tr><td><a href='staff_details.php?ID=sridevan'>Sri Parameswaran</a></td>
+<td>Professor</td>
+<td>K17 510D</td>
+<td>57223</td>
+</tr><tr><td><a href='staff_details.php?ID=jorgenp'>Jorgen Peddersen</a></td>
+<td>Research Associate</td>
+<td>K17 501E</td>
+<td>57229</td>
+</tr><tr><td><a href='staff_details.php?ID=marcosiris.pessoa@unsw.edu.au'>Marcosiris Pessoa</a></td>
+<td>Research Associate Visitor</td>
+<td>K17 201-30</td>
+<td>57161</td>
+</tr><tr><td><a href='staff_details.php?ID=jqin'>Jianbin Qin</a></td>
+<td>Research Associate</td>
+<td>K17 217E</td>
+<td>57738</td>
+</tr><tr><td><a href='staff_details.php?ID=fethir'>Fethi Rabhi</a></td>
+<td>Professor & Program Director - Software Engineering</td>
+<td>K17 406</td>
+<td>54179</td>
+</tr><tr><td><a href='staff_details.php?ID=daver'>David Rajaratnam</a></td>
+<td>Senior Research Associate</td>
+<td>J17 510K-02</td>
+<td></td>
+</tr><tr><td><a href='staff_details.php?ID=z3519822'>Carlos Rodriguez</a></td>
+<td>Senior Research Associate</td>
+<td>K17 216</td>
+<td>54535</td>
+</tr><tr><td><a href='staff_details.php?ID=z3516571'>Stefan Rummele</a></td>
+<td>Research Associate</td>
+<td>K17 501G</td>
+<td>56926</td>
+</tr><tr><td><a href='staff_details.php?ID=abdallahs'>Abdallah Saffidine</a></td>
+<td>ARC DECRA Fellow</td>
+<td>K17 510B</td>
+<td>56496</td>
+</tr><tr><td><a href='staff_details.php?ID=claude'>Claude Sammut</a></td>
+<td>Professor & Research Committee Chair & Deputy Head of School (Research)</td>
+<td>J17 510A</td>
+<td>56932</td>
+</tr><tr><td><a href='staff_details.php?ID=mschofield'>Michael Schofield</a></td>
+<td>PhD Student & Adjunct  Lecturer</td>
+<td>J17 510-31</td>
+<td></td>
+</tr><tr><td><a href='staff_details.php?ID=z5043019'>Christoph Schwering</a></td>
+<td>Research Associate</td>
+<td>J17 510J-01</td>
+<td>56898</td>
+</tr><tr><td><a href='staff_details.php?ID=jas'>John Shepherd</a></td>
+<td>Senior Lecturer & Education Committee Chair & Deputy Head of School (Education)</td>
+<td>K17 410</td>
+<td>56494</td>
+</tr><tr><td><a href='staff_details.php?ID=sowmya'>Arcot Sowmya</a></td>
+<td>Professor</td>
+<td>K17 412E</td>
+<td>56933</td>
+</tr><tr><td><a href='staff_details.php?ID=ysui'>Yulei Sui</a></td>
+<td>ARC DECRA Fellow</td>
+<td>K17 501K</td>
+<td>57369</td>
+</tr><tr><td><a href='staff_details.php?ID=yifangs'>Yifang Sun</a></td>
+<td>Research Associate</td>
+<td>K17 208</td>
+<td>54334</td>
+</tr><tr><td><a href='staff_details.php?ID=andrewt'>Andrew Taylor</a></td>
+<td>Senior Lecturer & CSEâsÂ Associate Head of School (Education)</td>
+<td>K17 401G</td>
+<td>55525</td>
+</tr><tr><td><a href='staff_details.php?ID=mit'>Michael Thielscher</a></td>
+<td>Professor</td>
+<td>K17 401J</td>
+<td>57129</td>
+</tr><tr><td><a href='staff_details.php?ID=meyden'>Ron Van Der Meyden</a></td>
+<td>Professor</td>
+<td>K17 217F</td>
+<td>56922</td>
+</tr><tr><td><a href='staff_details.php?ID=tw'>Toby Walsh</a></td>
+<td>Data61 Chair in Artificial Intelligence
+ & Professor</td>
+<td>K17 311</td>
+<td></td>
+</tr><tr><td><a href='staff_details.php?ID=weiw'>Wei Wang</a></td>
+<td>Professor</td>
+<td>K17 507</td>
+<td>57162</td>
+</tr><tr><td><a href='staff_details.php?ID=timothyw'>Timothy Wiley</a></td>
+<td>Research Associate & Post-Doc Fellow & PhD Student</td>
+<td>J17 510L-01</td>
+<td>51607</td>
+</tr><tr><td><a href='staff_details.php?ID=wobcke'>Wayne Wobcke</a></td>
+<td>Associate Professor</td>
+<td>K17 401F</td>
+<td>56475</td>
+</tr><tr><td><a href='staff_details.php?ID=wong'>Raymond Wong</a></td>
+<td>Associate Professor</td>
+<td>K17 213</td>
+<td>55932</td>
+</tr><tr><td><a href='staff_details.php?ID=huiw'>Hui Wu</a></td>
+<td>Lecturer</td>
+<td>K17 501D</td>
+<td>56572</td>
+</tr><tr><td><a href='staff_details.php?ID=xinweix'>Xinwei Xie</a></td>
+<td>Research Associate</td>
+<td>K17 501C</td>
+<td>55930</td>
+</tr><tr><td><a href='staff_details.php?ID=z3508256'>Weitao Xu</a></td>
+<td>Research Associate & Exchange Student</td>
+<td>K17 401-09</td>
+<td>56908</td>
+</tr><tr><td><a href='staff_details.php?ID=jingling'>Jingling Xue</a></td>
+<td>Scientia Professor</td>
+<td>K17 501L</td>
+<td>54889</td>
+</tr><tr><td><a href='staff_details.php?ID=z3515148'>Lina Yao</a></td>
+<td>Lecturer & ARC DECRA Fellow</td>
+<td>K17 401I</td>
+<td>56556</td>
+</tr><tr><td><a href='staff_details.php?ID=dye'>Ding Ye</a></td>
+<td>Research Associate</td>
+<td>K17 501C</td>
+<td>55930</td>
+</tr><tr><td><a href='staff_details.php?ID=longyuan'>Long Yuan</a></td>
+<td>Research Associate</td>
+<td>K17 201E</td>
+<td>56012</td>
+</tr><tr><td><a href='staff_details.php?ID=zhangw'>Wenjie Zhang</a></td>
+<td>Associate Professor & CSEâs Associate Head of SchoolÂ (Research)</td>
+<td>K17 502</td>
+<td>57799</td>
+</tr><tr><td><a href='staff_details.php?ID=xiaolingz'>Xiaoling Zhou</a></td>
+<td>Research Associate</td>
+<td>217E</td>
+<td>57738</td>
+</tr><p>76 records found</p>                    </tbody>
+                </table>
+<br/>            
+</div>
+<footer>
+  <div class="container">
+    <p class="text-muted">
+      SCHOOL OF COMPUTER SCIENCE AND ENGINEERING <br/>
+      UNSW SYDNEY NSW 2052 AUSTRALIA <br/>
+      TELEPHONE +61 2 9385 4329 <br/>
+      CRICOS PROVIDER CODE 00098G ABN 57 195 873 179
+    </p>
+  </div>
+</footer>
+</body>
+</html>

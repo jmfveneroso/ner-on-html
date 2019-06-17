@@ -1,0 +1,1821 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Professorsâåå¤å±å¤§å­¦ å¤§å­¦é¢ æå ±ç§å­¦ç ç©¶ç§</title>
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-type" content="text/css" />
+<meta name="description" content="å½ç«å¤§å­¦æ³äººåå¤å±å¤§å­¦ å¤§å­¦é¢ æå ±ç§å­¦ç ç©¶ç§ã®å¬å¼ãã¼ã ãã¼ã¸ã§ãã" />
+<meta name="keywords" content="åå¤å±å¤§å­¦,åå¤§,å¤§å­¦é¢,æå ±ç§å­¦ç ç©¶ç§,è¨ç®æ©æ°çç§å­¦,æå ±ã·ã¹ãã å­¦,ã¡ãã£ã¢ç§å­¦,è¤éç³»ç§å­¦,ç¤¾ä¼ã·ã¹ãã æå ±å­¦,éå±çµè¾¼ã¿ã·ã¹ãã ç ç©¶ã»ã³ã¿ã¼,ç ç©¶èç·è¦§ãæå ±ç¥ã" />
+<meta http-equiv="imagetoolbar" content="no" />
+<link href="../common/images/en/favicon.ico" rel="shortcut icon" />
+<link href="../common/css/en/import.css" rel="stylesheet" type="text/css" />
+<link href="../common/css/en/ui.tabs.css" rel="stylesheet" type="text/css" />
+<link href="../common/css/en/ui.tabs2.css" rel="stylesheet" type="text/css" />
+<link href="../common/css/en/jquery.lightbox-0.5.css" rel="stylesheet" type="text/css" />
+<script src="../common/js/common.js" type="text/javascript"></script>
+<script src="../common/js/swfobject.js" type="text/javascript"></script>
+<script src="../common/js/fscB.js" type="text/javascript"></script>
+<script src="../common/js/DD_roundies_0.0.2a-min.js" type="text/javascript"></script>
+<script src="../common/js/jquery-1.2.6.js" type="text/javascript"></script>
+<script src="../common/js/ui.core.js" type="text/javascript"></script>
+<script src="../common/js/ui.tabs.js" type="text/javascript"></script>
+<script src="../common/js/jquery.lightbox-0.5.js" type="text/javascript"></script>
+<script src="../common/js/jquery.cookie.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+
+
+$(function() {
+$('#jqtab > ul').tabs({ fx: { opacity: 'toggle' },cookie: { expires: 30 } });
+});
+
+
+
+</script>
+</head>
+
+<body id="intro">
+
+<!-- header -->
+<div id="header">
+  <div id="header-inner" class="clearfix">
+    <h1><a href="../index_en.html"><img src="../common/images/en/logo_b.gif" alt="åå¤å±å¤§å­¦ å¤§å­¦é¢ æå ±ç§å­¦ç ç©¶ç§ã­ã´" width="103" height="108" /></a></h1>
+    <h2><a href="../index_en.html"><img src="../common/images/en/name_b.gif" alt="åå¤å±å¤§å­¦ å¤§å­¦é¢ æå ±ç§å­¦ç ç©¶ç§" width="177" height="70" /></a></h2>
+    
+    <!-- header-parts -->
+    <div id="header-parts"> 
+      
+      <!-- header-navi -->
+      <ul id="header-navi" class="clearfix">
+        <li><a href="./prof.html">Japanese</a></li>
+        <li><a href="./contact_en.html#access">Contact and Access</a></li>
+        <li><a href="../index_en.html">Siteinfo</a></li>
+        <li><a href="../misc/sitemap_en.html">Sitemap</a></li>
+      </ul>
+      <!-- /header-navi --> 
+      
+      <!-- font-search -->
+      <div id="font-search" class="clearfix"> 
+        
+        <!-- fontsize -->
+        <div id="fontsize" class="clearfix">
+          <p>Fontsize</p>
+          <ul class="clearfix">
+            <li id="small"><a href="#" onclick="fsc('smaller');return false;" onkeypress="fsc('smaller');return false;" >S</a></li>
+            <li id="default"><a href="#" onclick="fsc('default');return false;" onkeypress="fsc('default');return false;" >M</a></li>
+            <li id="large"><a href="#" onclick="fsc('larger');return false;" onkeypress="fsc('larger');return false;" >L</a></li>
+          </ul>
+        </div>
+        <!-- /fontsize -->
+        
+        <div id="search">
+          <form action="http://www.google.com/cse" id="cse-search-box">
+            <div>
+              <input type="hidden" name="cx" value="000030169779753815190:ehcuiodcyhu" />
+              <input type="hidden" name="ie" value="UTF-8" />
+              <input type="text" name="q" size="31" id="search-form" />
+              <input type="image" src="../common/images/en/search.gif" name="sa" value="Search" id="search-btn" />
+            </div>
+          </form>
+          <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en/"></script> 
+        </div>
+      </div>
+      <!-- /font-search --> 
+      
+      <!-- target-navi -->
+      <ul id="target-navi" class="clearfix">
+        <li id="target-navi-en"><a href="../candidate/index_en.html">for Examinees/High School Students/Teachers</a></li>
+        <li id="target-navi-em"><a href="../employ/index_en.html">for Employer</a></li>
+        <li id="target-navi-sc"><a href="../scholar/index_en.html">for Researchers</a></li>
+        <li id="target-navi-al"><a href="../alum/index_en.html">for Graduates</a></li>
+        <li id="target-navi-me"><a href="../faculty/index_en.html">for Students/Professors</a></li>
+      </ul>
+      <!-- /target-navi --> 
+      
+    </div>
+    <!-- /header-parts --> 
+    
+  </div>
+  
+  <!-- global-navi -->
+  <div id="global-navi-outer">
+    <ul id="global-navi" class="clearfix">
+      <li id="global-navi-ab"><a href="./index_en.html">Introduction</a>
+        <ul>
+          <li><a href="./index_en.html">Basic Philosophy, Education, Research, History</a></li>
+          <li><a href="./message_en.html">Message from the Dean</a></li>
+          <li><a href="./dept_en.html">Department and Center</a></li>
+          <li><a href="./prof_en.html">Professors</a></li>
+          <li><a href="../index_en.html">Staff for Harassment Consultation Center</a></li>
+          <li><a href="../topic/recruit/index_en.html">Employment Opportunities</a></li>
+          <li><a href="./contact_en.html">Contact and Access</a></li>
+        </ul>
+      </li>
+      <li id="global-navi-ex"><a href="../admission/index_en.html">Admissions</a>
+        <ul>
+          <li><a href="../admission/index_en.html">General Info. of Admissions</a></li>
+          <li><a href="../admission/past_exam_en.html">Past Admissions</a></li>
+          <li><a href="../index_en.html">Exam Questions</a></li>
+          <li><a href="../index_en.html">Place of Employment</a></li>
+          <li><a href="../index_en.html">for High School Students/Teachers</a></li>
+          <li><a href="./contact_en.html#as_sect">Contactï¼Admission affairsï¼and Access</a></li>
+        </ul>
+      </li>
+      <li id="global-navi-ed"><a href="../index_en.html">Education</a>
+        <ul>
+          <li><a href="../index_en.html">General Info. of Education</a></li>
+          <li><a href="../edu/curri_en.html">Curriculmn</a></li>
+          <li><a href="../index_en.html"> Intensive Lectures</a></li>
+          <li><a href="../edu/thesis_en.html">Doctoral/Master's Theses</a></li>
+        </ul>
+      </li>
+      <li id="global-navi-st"><a href="../index_en.html">Research</a>
+        <ul>
+          <li><a href="../index_en.html">General Info. of Research</a></li>
+          <li><a href="../research/jhc_en.html">Comprehensive List of Researchers "Information Knowledge"</a></li>
+          <li><a href="../index_en.html">Award</a></li>
+          <li><a href="../topic/event/index_en.html">Events/Seminars</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <!-- /global-navi --> 
+  
+</div>
+<!-- /header --> 
+<!-- pankuzu -->
+<p id="pankuzu"><a href="../index_en.html">TOP</a> &gt; <a href="./index_en.html">Introduction</a> &gt; Professors</p>
+<!-- /pankuzu --> 
+
+<!-- content -->
+<div id="content"> 
+  
+  <!-- content-base -->
+  <div id="content-base"> 
+    
+    <!-- contnt-inner -->
+    <div id="content-inner" class="clearfix"> 
+      
+      <!-- sidemenu -->
+      <div id="sidemenu"> 
+        
+        <!-- category-navi -->
+        <div id="category-navi">
+          <p id="category-title">Introduction</p>
+          
+          <!-- category-link -->
+          <ul id="category-link">
+            <li class="first"><a href="./index_en.html">Basic Philosophy, Education, Research, History</a></li>
+            <li><a href="./message_en.html">Message from the Dean</a></li>
+            <li><a href="./dept_en.html">Department and Center</a></li>
+            <li class="here">Professors</li>
+            <li><a href="../index_en.html">Staff for Harassment Consultation Center</a></li>
+            <li><a href="../topic/recruit/index_en.html">Employment Opportunities</a></li>
+            <li><a href="./contact_en.html">Contact and Access</a></li>
+          </ul>
+          <!-- /category-link --> 
+          
+        </div>
+        <!-- /category-navi --> 
+        <!-- side-common -->
+        <div id="side-common">
+          <div class="bnr-special"> <a id="bnr-jyouhouchi" href="../research/jhc_en.html"><img src="../common/images/en/bnr_jyouhouchi.jpg" alt="Comprehensive List of Researchers ç ç©¶èç·è¦§" width="218" height="109" /></a> </div>
+          <ul class="bnr-area">
+            <li><a href="http://www.rwdc.is.nagoya-u.ac.jp/index-e.php"><img src="../common/images/en/bnr_rwdc.jpg" alt="Leading Graduate Schools" width="205" /></a></li>
+          </ul>
+          <ul>
+            <li class="side-link-tit"><a href="./dept_en.html">Department and Center</a></li>
+            <li class="link-blank"><a href="http://www.cm.is.nagoya-u.ac.jp//" target="_blank">Department of Computer Science and Mathematical Informatics</a></li>
+            <li class="link-blank"><a href="http://www.i.is.nagoya-u.ac.jp//" target="_blank">Department of Information Engineering</a></li>
+            <li class="link-blank"><a href="http://www.m.is.nagoya-u.ac.jp//" target="_blank">Department of Media Science</a></li>
+            <li class="link-blank"><a href="http://www.cs.is.nagoya-u.ac.jp//" target="_blank">Department of Complex Systems Science</a></li>
+            <li class="link-blank"><a href="http://www.ss.is.nagoya-u.ac.jp//" target="_blank">Department of Systems and Social Informatics</a></li>
+            <li class="link-blank"><a href="http://www.nces.is.nagoya-u.ac.jp//" target="_blank">Center for Embedded Computing Systems</a></li>
+          </ul>
+          <ul>
+            <li class="side-link-tit"><a href="../admission/index_en.html">General Info. of Admissions</a></li>
+            <li class="link-anchor"><a href="../admission/index_en.html#notice">Notices on Admissions</a></li>
+            <li class="link-anchor"><a href="../admission/index_en.html#policy">Admission Policy</a></li>
+            <li class="link-anchor"><a href="../admission/index_en.html#schedule">Schedule for Admissions</a></li>
+          </ul>
+          <ul class="bnr-area">
+            <li><a href="http://www.is.nagoya-u.ac.jp/new_news/2015/2015_top.html" target="_blank"><img src="../common/images/en/bnr_web-news.gif" alt="webnews" width="205" height="46" /></a></li>
+            <li><a href="http://emb.enpit.jp/ojl/index.html" target="_blank"><img src="../common/images/en/bnr_enPiT.jpg" alt="enPiT"  /></a></li>
+          </ul>
+          <ul class="bnr-area">
+            <li><a href="../topic/recruit/index_en.html"><img src="../common/images/en/bnr_recruitment.gif" alt="Employment Opportunities" /></a></li>
+          </ul>
+          <ul class="bnr-area">
+            <li><a href="../profile/GSIS_2013_Profile.pdf" target="_blank"><img src="../common/images/en/bnr_profile.gif" alt="profile" width="205" height="56" /></a></li>
+            <li><a href="http://www.nagoya-u.ac.jp//" target="_blank"><img src="../common/images/en/bnr_nagoya-univ.gif" alt="nagoya-univercity" width="205" height="56" /></a></li>
+          </ul>
+        </div>
+        <!-- /side-common --> 
+      </div>
+      <!-- /sidemenu --> 
+      
+      <!-- content-main -->
+      <div id="content-main"> 
+        
+        <!-- content-section -->
+        <div id="sec-first" class="content-section"> 
+          
+          <!-- pagetitle -->
+          <h3>Professors</h3>
+          <!-- /pagetitle --> 
+          
+          <!-- title-image -->
+          <div class="title-image"><img src="../common/images/en/intro/title.jpg" width="690" height="180" alt="Professors" /></div>
+          <!-- /title-image --> 
+          
+          <!-- jqtab -->
+          <div id="skin-en">
+            <div id="jqtab"> 
+              
+              <!-- catenavi -->
+              <ul>
+                <li class="cate1"><a href="#cate1"><img src="../common/images/en/tab_cate1.gif" width="231" height="46" alt="è¨ç®æ©æ°çç§å­¦å°æ»" /></a></li>
+                <li class="cate2"><a href="#cate2"><img src="../common/images/en/tab_cate2.gif" width="230" height="46" alt="æå ±ã·ã¹ãã å­¦å°æ»" /></a></li>
+                <li class="cate3"><a href="#cate3"><img src="../common/images/en/tab_cate3.gif" width="229" height="46" alt="ã¡ãã£ã¢ç§å­¦å°æ»" /></a></li>
+                <li class="cate4"><a href="#cate4"><img src="../common/images/en/tab_cate4.gif" width="231" height="46" alt="è¤éç³»ç§å­¦å°æ»" /></a></li>
+                <li class="cate5"><a href="#cate5"><img src="../common/images/en/tab_cate5.gif" width="230" height="46" alt="ç¤¾ä¼ã·ã¹ãã æå ±å­¦å°æ»" /></a></li>
+                <li class="cate6"><a href="#cate6"><img src="../common/images/en/tab_cate6.gif" width="229" height="46" alt="éå±çµè¾¼ã¿ã·ã¹ãã ç ç©¶ã»ã³ã¿ã¼" /></a></li>
+              </ul>
+              <!-- /catenavi -->
+              
+              <p class="attention"> â»Telephone numbers from outside the university have the number 052-789 before the extension number.<br />
+                â»Please add @is.nagoya-u.ac.jp to the address. </p>
+              
+              <!-- cate1 -->
+              <div id="cate1" class="category">
+                <h4>Mathematical Informatics Group</h4>
+                <table summary="Mathematical Informatics Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td> YASUMOTO, Masahiro </td>
+                    <td> Professor </td>
+                    <td>3526</td>
+                    <td>yasumoto</td>
+                    <td class="textleft">Mathematical logic<br />
+                      Nonstandard arithmetic<br />
+                      Computational complexity</td>
+                  </tr>
+                  <tr>
+                    <td> MATSUBARA, Yo </td>
+                    <td> Professor </td>
+                    <td>4834</td>
+                    <td>yom</td>
+                    <td class="textleft">Set theory<br />
+                      Logic</td>
+                  </tr>
+                  <!--
+                  <tr>
+                    <td><a href="http://jim.math.cm.is.nagoya-u.ac.jp/index.html" target="_blank">JIMBO, Masakazu</a></td>
+                    <td> Professor </td>
+                    <td></td>
+                    <td>N/A</td>
+                    <td class="textleft">Discrete mathematics<br />
+                      Statistics<br />
+                      Coding theory<br />
+                      Cryptology<br />
+                      Design of experiments</td>
+                  </tr>
+                  -->
+                  <tr>
+                    <td> SATOH, Junya </td>
+                    <td> Associate Professor </td>
+                    <td>4869</td>
+                    <td>jsatoh</td>
+                    <td class="textleft">Class number<br />
+                      L-function<br />
+                      q-analogue</td>
+                  </tr>
+                  <tr>
+                    <td> YOSHINOBU, Yasuo </td>
+                    <td> Associate Professor </td>
+                    <td>4710</td>
+                    <td>yosinobu</td>
+                    <td class="textleft">Mathematical logic<br />
+                      Axiomatic set theory</td>
+                  </tr>
+                </table>
+                <h4>Mathematical Modeling and Analysis Group</h4>
+                <table summary="Mathematical Modeling and Analysis Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td> OZAWA, Masanao </td>
+                    <td> Designated Professor </td>
+                    <td>3075</td>
+                    <td>ozawa</td>
+                    <td class="textleft">Mathematical Physics<br />
+                      Mathematical Logic<br />
+                      Philosophy of Science<br />
+                      Quantum Information<br />
+                      Quantum Computing<br />
+                      Quantum Measurement<br />
+                      Quantum Set Theory<br />
+                      Quantum Foundations</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.co.cm.is.nagoya-u.ac.jp/~yagiura/index-e.html" target="_blank">YAGIURA, Mutsunori</a></td>
+                    <td> Professor </td>
+                    <td>4239</td>
+                    <td>yagiura</td>
+                    <td class="textleft">Combinatorial optimization<br />
+                      Metaheuristics<br />
+                      General problem solver</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.math.cm.is.nagoya-u.ac.jp/~hnishimura//" target="_blank">NISHIMURA, Harumichi</a></td>
+                    <td> Associate Professor </td>
+                    <td>4766</td>
+                    <td>hnishimura</td>
+                    <td class="textleft">quantum computing<br />
+                      computational complexity</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.iar.nagoya-u.ac.jp/tenure/buscemi/Eng_buscemi.html" target="_blank">BUSCEMI, Francesco</a></td>
+                    <td> Associate Professor </td>
+                    <td>4848</td>
+                    <td>buscemi</td>
+                    <td class="textleft">Quantum Foundations<br />
+                      Quantum Measurements<br />
+                      Quantum Communication<br />
+                      Quantum Computing</td>
+                  </tr>
+                  <tr>
+                    <td class="name">HU, Yannan</td>
+                    <td class="position"> Assistant Professor </td>
+                    <td></td>
+                    <td></td>
+                    <td class="keywords textleft">Combinatorial optimization</td>
+                  </tr>
+                  <tr>
+                    <td class="name">OKAMURA, Kazuya</td>
+                    <td class="position"> Designated Assistant Professor </td>
+                    <td></td>
+                    <td></td>
+                    <td class="keywords textleft">Quantum field theory<br />Quantum measurement theory<br />Statistics</td>
+                  </tr>
+                </table>
+                <h4>Theory of Computation Group</h4>
+                <table summary="Theory of Computation Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <!--
+                  <tr>
+                    <td> HIRATA, Tomio </td>
+                    <td> Professor </td>
+                    <td>2725</td>
+                    <td>hirata</td>
+                    <td class="textleft">Graph algorithms<br />
+                      Approximation algorithms<br />
+                      Hardness of approximation</td>
+                  </tr>
+                  -->
+                  <tr>
+                    <td><a href="http://www.trs.cm.is.nagoya-u.ac.jp/~sakai/index.html.en" target="_blank">SAKAI, Masahiko</a></td>
+                    <td> Professor </td>
+                    <td>3803</td>
+                    <td>sakai</td>
+                    <td class="textleft">Term rewriting systems<br />
+                      Program transformation<br />
+                      Automatic theorem proving</td>
+                  </tr>
+                  <tr>
+                    <td> KANAMORI, Takafumi </td>
+                    <td> Professor </td>
+                    <td>4598</td>
+                    <td>kanamori</td>
+                    <td class="textleft">Machine learning<br />
+                      Statistics<br />
+                      Optimization</td>
+                  </tr>
+                  <!--
+                  <tr>
+                    <td><a href="http://www.al.cm.is.nagoya-u.ac.jp/~hasimoto/index_e.html" target="_blank">HASHIMOTO, Hideki</a></td>
+                    <td> Assistant Professor </td>
+                    <td>3440</td>
+                    <td><p>hasimoto</p>
+                      <p>@nagoya-u.jp</p></td>
+                    <td class="textleft">Combinatorial optimization<br />
+                      Algorithm<br />
+                      Scheduling<br />
+                      Operations research</td>
+                  </tr>
+                  -->
+                </table>
+              </div>
+              <!-- /cate1 --> 
+              
+              <!-- cate2 -->
+              <div id="cate2" class="category">
+                <h4>Information Platform Group</h4>
+                <table summary="Information Platform Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.ertl.jp/~hiro/hiro-e.html" target="_blank">TAKADA, Hiroaki</a></td>
+                    <td> Professor </td>
+                    <td>5887</td>
+                    <td>hiro</td>
+                    <td class="textleft">Embedded computing system<br />
+                      Real-time computing<br />
+                      Operating system</td>
+                  </tr>
+                  <tr>
+                    <td> MIYAO, Masaru </td>
+                    <td> Professor </td>
+                    <td>4363</td>
+                    <td>mmiyao</td>
+                    <td class="textleft">Ergonomics<br />
+                      Usability<br />
+                      Virtual Reality<br />
+                      Public health<br />
+                      Disaster Information</td>
+                  </tr>
+                  <tr>
+                    <td> EDAHIRO, Masato </td>
+                    <td> Professor </td>
+                    <td>3312</td>
+                    <td>eda</td>
+                    <td class="textleft">Embedded Multi- / Many-Core Processors<br />
+                      Parallelism / Concurrency (Optimization<br />
+                      Algorithms<br />
+                      Software Development Tools<br />
+                      etc.)</td>
+                  </tr>
+<!--
+                  <tr>
+                    <td><a href="http://www.ertl.jp/~shinpei//" target="_blank">KATO, Shinpei</a></td>
+                    <td> Associate Professor </td>
+                    <td>4597</td>
+                    <td>shinpei</td>
+                    <td class="textleft">Parallel and Distributed Systems<br />
+                      Cyber-Physical Systems<br />
+                      Operating Systems</td>
+                  </tr>
+-->
+                  <tr>
+                    <td> HONDA, Shinya </td>
+                    <td> Associate Professor </td>
+                    <td>2795</td>
+                    <td>honda</td>
+                    <td class="textleft">Embedded systems<br />
+                      Operating systems<br />
+                      Multiprocessor</td>
+                  </tr>
+                  <tr>
+                    <td> SAITO, Satoshi </td>
+                    <td> Assistant Professor </td>
+                    <td></td>
+                    <td>ssaito</td>
+                    <td class="textleft">Nonlinear Dynamics<br />
+                      Hamiltonian Chaos<br />
+                      Integrable System </td>
+                  </tr>
+                </table>
+                <h4>Pratical Information Platform Technology Group</h4>
+                <table summary="Pratical Information Platform Technology Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td> OYAMA, Hiroshi </td>
+                    <td> Visiting Professor </td>
+                    <td></td>
+                    <td></td>
+                    <td class="textleft"></td>
+                  </tr>
+                </table>
+                <h4>Software Science and Technology Group</h4>
+                <table summary="Software Science and Technology Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <!--
+                  <tr>
+                    <td> SAKABE, Toshiki </td>
+                    <td> Professor </td>
+                    <td>3621</td>
+                    <td>sakabe</td>
+                    <td class="textleft">Specification<br />
+                      Verification<br />
+                      Generation of programs</td>
+                  </tr>
+                  -->
+                  <tr>
+                    <td> YUEN, Shoji </td>
+                    <td> Professor </td>
+                    <td>3649</td>
+                    <td>yuen</td>
+                    <td class="textleft">Concurency<br />
+                      Communicating processes<br />
+                      Program verification</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.sqlab.jp/sekilab/seki/English/index.html" target="_blank">SEKI, Hiroyuki</a></td>
+                    <td> Professor </td>
+                    <td>5886</td>
+                    <td>seki</td>
+                    <td class="textleft">formal language theory and its application<br />
+                      formal approach to the design of secure and safe software</td>
+                  </tr>
+                  <tr>
+                    <td> YAMAMOTO, Shuichiro </td>
+                    <td> Professor </td>
+                    <td>6532</td>
+                    <td><p>yamamotosui</p>
+                      <p>@icts.nagoya-u.ac.jp</p></td>
+                    <td class="textleft">Software Engineering<br />
+                      Requirements Engineering<br />
+                      Enterprise Architecture<br />
+                      Knowledge Sharing Communication</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.sakabe.i.is.nagoya-u.ac.jp/~nishida//" target="_blank">NISHIDA, Naoki</a></td>
+                    <td> Associate Professor </td>
+                    <td>5141</td>
+                    <td>nishida</td>
+                    <td class="textleft">Term rewriting system<br />
+                      Program transformation<br />
+                      Automated theorem proving</td>
+                  </tr>
+                  <tr>
+                    <td> MORISAKI, Syuji </td>
+                    <td> Associate Professor </td>
+                    <td>5142</td>
+                    <td>morisaki</td>
+                    <td class="textleft">Software Engineering</td>
+                  </tr>
+                  <tr>
+                    <td> <a href="http://www.sqlab.i.is.nagoya-u.ac.jp/~nakazawa/" target="_blank">NAKAZAWA, Koji</a> </td>
+                    <td> Associate Professor </td>
+                    <td>4242</td>
+                    <td>knak</td>
+                    <td class="textleft">Theory of Programming Languages<br />Type Theory<br />Mathematical Logic</td>
+                  </tr>
+                  <tr>
+                    <td> HAMAGUCHI, Takeshi </td>
+                    <td> Assistant Professor </td>
+                    <td>5148</td>
+                    <td>hamaguti</td>
+                    <td class="textleft">Formal specification<br />
+                      Software development<br />
+                      Program verification</td>
+                  </tr>
+                  <tr>
+                    <td> HASHIMOTO, Kenji </td>
+                    <td> Assistant Professor </td>
+                    <td>3074</td>
+                    <td>k-hasimt</td>
+                    <td class="textleft">Formal language theory<br />
+                      Software verification</td>
+                  </tr>
+                </table>
+                <h4>Practical Software Development Technology Group</h4>
+                <table summary="Practical Software Development Technology Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td> SATO, Shuichi</td>
+                    <td>Visiting Professor</td>
+                    <td></td>
+                    <td>&nbsp;</td>
+                    <td class="textleft">&nbsp;</td>
+                  </tr>
+                </table>
+                <h4>Information Network Systems Group</h4>
+                <table summary="Information Network Systems Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+<!--
+                  <tr>
+                    <td> ISHII, Katsuya </td>
+                    <td> Professor </td>
+                    <td>4382</td>
+                    <td>ishii</td>
+                    <td class="textleft">Simulation of various vortical flows<br />
+                      Parallel computing<br />
+                      Grid computing</td>
+                  </tr>
+-->
+				  <tr>
+                    <td> <a href="https://www.net.itc.nagoya-u.ac.jp/lab/en/" target="_blank">MURASE, Tsutomu</a></td>
+                    <td> Professor </td>
+                    <td></td>
+                    <td><p>tom</p>
+                      <p>@itc.nagoya-u.ac.jp</p></td>
+                    <td class="textleft">Quality of Service control (QoS)<br />Congestion Control<br />Advanced Information Network<br />Mobile Network<br />Internet<br />Network Measurement<br />Traffic Control<br />Admission Control<br />Network Design<br />Overlay Network<br />Cyber Security</td>
+                  </tr>
+				  <tr>
+                    <td> <a href="http://www.abc-lib.org/MyHTML/index.html" target="_blank">KATAGIRI, Takahiro</a></td>
+                    <td> Professor </td>
+                    <td>4382</td>
+                    <td><p>katagiri</p>
+                      <p>@cc.nagoya-u.ac.jp</p></td>
+                    <td class="textleft">High Performance Computing<br />Software Auto-tuning<br />Massively Parallel Algorithms</td>
+                  </tr>
+                  <!--
+                  <tr>
+                    <td><a href="http://www.takakura.com/hiroki/index-e.html" target="_blank">TAKAKURA, Hiroki</a></td>
+                    <td> Professor </td>
+                    <td></td>
+                    <td>takakura</td>
+                    <td class="textleft">Information security<br />
+                      Network security<br />
+                      High-performance network<br />
+                      Next generation network </td>
+                  </tr>
+                  -->
+                  <tr>
+                    <td><a href="http://www.net.itc.nagoya-u.ac.jp/~shimada/index.html.en" target="_blank">SHIMADA, Hajime</a></td>
+                    <td> Associate Professor </td>
+                    <td>4390</td>
+                    <td><p>shimada</p>
+                      <p>@itc.nagoya-u.ac.jp</p></td>
+                    <td class="textleft">Green Computing<br />Information Network<br />Computer Architecture</td>
+                  </tr>
+                  <tr>
+                    <td> OGINO, Masao </td>
+                    <td> Associate Professor </td>
+                    <td>5899</td>
+                    <td>masao.ogino</td>
+                    <td class="textleft">Computational Mechanics<br />
+                      Parallel Computing<br />
+                      Large-Scale Structural Analysis</td>
+                  </tr>
+                  <tr>
+                    <td> YAMAGUCHI, Yukiko </td>
+                    <td> Assistant Professor </td>
+                    <td>4364</td>
+                    <td>yamaguchi</td>
+                    <td class="textleft">Network management<br />Cyber security</td>
+                  </tr>
+                  <tr>
+                    <td> NAGAI, Toru </td>
+                    <td> Assistant Professor </td>
+                    <td>4394</td>
+                    <td>nagai</td>
+                    <td class="textleft">Solid earth geophysics<br />
+                      Parallel and distributed computing</td>
+                  </tr>
+                </table>
+<!--
+                <h4>Joint Member</h4>
+                <table summary="Joint Member">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                </table>
+-->
+                <h4>Real World Data Circulation Program</h4>
+                <table summary="Real World Data Circulation Program">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td>FAJARDO, Jovilyn Therese B.</td>
+                    <td> Designated Assistant Professor </td>
+                    <td></td>
+                    <td></td>
+                    <td class="textleft">Mobile ad-hoc networks<br />People-centric sensing</td>
+                  </tr>
+                </table>
+              </div>
+              <!-- /cate2 --> 
+              
+              <!-- cate3 -->
+              <div id="cate3" class="category">
+                <h4>Speech and Image Science Group</h4>
+                <table summary="Speech and Image Science Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.murase.nuie.nagoya-u.ac.jp/~murase/indexe.html" target="_blank">MURASE, Hiroshi</a></td>
+                    <td> Professor </td>
+                    <td>5285</td>
+                    <td>murase</td>
+                    <td class="textleft">Image recognition<br />
+                      Intelligent vehicle<br />
+                      Recognition of broadcast data</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.sp.m.is.nagoya-u.ac.jp/~takeda//" target="_blank">TAKEDA, Kazuya</a></td>
+                    <td> Professor </td>
+                    <td>3629</td>
+                    <td>takeda</td>
+                    <td class="textleft">Speech<br />
+                      Text and human behavior signal processing</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.murase.m.is.nagoya-u.ac.jp/~ide/index.html" target="_blank">IDE, Ichiro</a></td>
+                    <td> Associate Professor </td>
+                    <td>3313</td>
+                    <td>ide</td>
+                    <td class="textleft">Multimedia contents processing</td>
+                  </tr>
+                  <!--
+                  <tr>
+                    <td><a href="http://www.sp.m.is.nagoya-u.ac.jp/~kitaoka//" target="_blank">KITAOKA, Norihide</a></td>
+                    <td> Associate Professor </td>
+                    <td>3626</td>
+                    <td>kitaoka</td>
+                    <td class="textleft">Speech recognition<br />
+                      Spoken dialog</td>
+                  </tr>
+                  -->
+                  <tr>
+                    <td> MATSUBARA, Shigeki </td>
+                    <td> Associate Professor </td>
+                    <td>4387</td>
+                    <td>matubara</td>
+                    <td class="textleft">Natural language processing<br />
+                      Information retrieval<br />
+                      Digital library</td>
+                  </tr>
+                  <tr>
+                    <td> <a href="http://takedalab.g.sp.m.is.nagoya-u.ac.jp/" target="_blank">TAKEUCHI, Eijiro</a></td>
+                    <td> Associate Professor </td>
+                    <td>3626</td>
+                    <td>e_takeuchi</td>
+                    <td class="textleft">Probabilistic Robotics</td>
+                  </tr>
+                  <tr>
+                    <td> MATSUMOTO, Tetsuya </td>
+                    <td> Assistant Professor </td>
+                    <td>3098</td>
+                    <td>matumoto</td>
+                    <td class="textleft">Neural network<br />
+                      Image processing<br />
+                      Pattern recognition</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.murase.m.is.nagoya-u.ac.jp/~kawanishiy/en/index.html" target="_blank">KAWANISHI, Yasutomo</a></td>
+                    <td> Assistant Professor </td>
+                    <td></td>
+                    <td>kawanishi</td>
+                    <td class="textleft">Pedestrian Sensing<br />Pattern Recognition<br />Object Detection</td>
+                  </tr>
+                </table>
+                <h4>Intelligent Media Engineering Group</h4>
+                <table summary="Intelligent Media Engineering Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+<!--
+                  <tr>
+                    <td><a href="http://www.ohnishi.nuie.nagoya-u.ac.jp/staff/ohnishi/index-e.html" target="_blank">OHNISHI, Noboru</a></td>
+                    <td> Professor </td>
+                    <td>3309</td>
+                    <td>ohnishi</td>
+                    <td class="textleft">Human information processing<br />
+                      Robot vision and audition<br />
+                      Rehabilitation engineering</td>
+                  </tr>
+-->
+                  <tr>
+                    <td><a href="http://www.nagao.nuie.nagoya-u.ac.jp/member/nagao_en.html" target="_blank">NAGAO, Katashi</a></td>
+                    <td> Professor </td>
+                    <td>5878</td>
+                    <td>nagao</td>
+                    <td class="textleft">Content technology<br />
+                      Agent technology<br />
+                      Artificial intelligence<br />
+                      Robotics</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.ohnishi.nuie.nagoya-u.ac.jp/~kudo/index.html" target="_blank">KUDO, Hiroaki</a></td>
+                    <td> Associate Professor </td>
+                    <td>3098</td>
+                    <td>kudo</td>
+                    <td class="textleft">Measuring of human information processing mechanism and its application<br />
+                      Human interface</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.mori.m.is.nagoya-u.ac.jp/~moda/index-e.html" target="_blank">ODA, Masahiro</a></td>
+                    <td> Assistant Professor </td>
+                    <td>5688</td>
+                    <td>moda</td>
+                    <td class="textleft">Medical image processing<br />
+                      Pattern recognition<br />
+                      Computer aided diagnosis<br />
+                      Computer aided surgery</td>
+                  </tr>
+                </table>
+                <h4>Cognitive Informatics Group</h4>
+                <table summary="Cognitive Informatics Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td> SAITO, Hirofumi </td>
+                    <td> Professor </td>
+                    <td>4857</td>
+                    <td>saito</td>
+                    <td class="textleft">Semantic processing<br />
+                      Brain imaging<br />
+                      Verbal and nonverbal communication</td>
+                  </tr>
+                  <tr>
+                    <td> MIWA, Kazuhisa </td>
+                    <td> Professor </td>
+                    <td>4747</td>
+                    <td>miwa</td>
+                    <td class="textleft">Cognitive modeling<br />
+                      Cognitive psychology<br />
+                      Intelligent tutoring systems</td>
+                  </tr>
+                  <tr>
+                    <td> KAWAI, Nobuyuki </td>
+                    <td> Associate Professor </td>
+                    <td>5179</td>
+                    <td>kawai</td>
+                    <td class="textleft">Experimental psychology<br />
+                      Cognitive science<br />
+                      Comparative cognitive science on learning and memory</td>
+                  </tr>
+                  <!--
+                  <tr>
+                    <td> TERAI, Hitoshi </td>
+                    <td> Designated Associate Professor </td>
+                    <td>4748</td>
+                    <td>terai</td>
+                    <td class="textleft">Cognitive science<br />
+                      Problem solving<br />
+                      Insight problem solving<br />
+                      Information seeking behavior </td>
+                  </tr>
+                  -->
+                  <tr>
+                    <td> MITSUMATSU, Hidemichi </td>
+                    <td> Assistant Professor </td>
+                    <td>4893</td>
+                    <td>mits</td>
+                    <td class="textleft">Experimental psychology<br />
+                      Human perception<br />
+                      Voluntary action</td>
+                  </tr>
+                  <tr>
+                    <td> MAEHIGASHI, Akihiro</td>
+                    <td><span class="position">Designated Assistant Professor </span></td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td class="textleft">&nbsp;</td>
+                  </tr>
+                </table>
+                <h4>Media Expression Group</h4>
+                <table summary="Media Expression Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.kecl.ntt.co.jp/icl/signal/nakatani/index.html" target="_blank">NAKATANI, Tomohiro</a></td>
+                    <td> Visiting Associate Professor </td>
+                    <td></td>
+                    <td><p>nak</p>
+                      <p>@cslab.kecl.ntt.co.jp</p></td>
+                    <td class="textleft">Sound Scene Analysis<br />
+                      Speech Enhancement<br />
+                      Statistical Signal Processing</td>
+                  </tr>
+                  <tr>
+                    <td>KOBAYASHI, Tessei</td>
+                    <td> Visiting Associate Professor </td>
+                    <td></td>
+                    <td><p>&nbsp;</p></td>
+                    <td class="textleft">Experimental Psychology<br />
+                      Developmental Cognitive Science<br />
+                    Psycholinguistics</td>
+                  </tr>
+                </table>
+                <h4>Architecture for Information Media Space Group</h4>
+                <table summary="Architecture for Information Media Space Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td><a href="http://profs.provost.nagoya-u.ac.jp/view/html/100008667_en.html" target="_blank">TODA, Tomoki</a></td>
+                    <td> Professor </td>
+                    <td>4346</td>
+                    <td>tomoki</td>
+                    <td class="textleft">Speech Processing<br />Sound Signal Processing<br />Communication Enhancement</td>
+                  </tr>
+<!--
+                  <tr>
+                    <td> TONOIKE, Toshiyuki </td>
+                    <td> Professor </td>
+                    <td></td>
+                    <td><p>tonoike</p>
+                      <p>@lang.nagoya-u.ac.jp</p></td>
+                    <td class="textleft"></td>
+                  </tr>
+-->
+                  <tr>
+                    <td> GOTO, Akifumi </td>
+                    <td> Associate Professor </td>
+                    <td></td>
+                    <td><p>goto</p>
+                      <p>@media.nagoya-u.ac.jp</p></td>
+                    <td class="textleft"></td>
+                  </tr>
+                  <tr>
+                    <td> OHIRA, Shigeki </td>
+                    <td> Assistant Professor </td>
+                    <td>5878</td>
+                    <td>ohira</td>
+                    <td class="textleft">Multimedia content processing<br />
+                      Information retrieval</td>
+                  </tr>
+                </table>
+                <h4>Joint Member</h4>
+                <table summary="Joint Member">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.suenaga.cse.nagoya-u.ac.jp/~mori/english//" target="_blank">MORI, Kensaku</a></td>
+                    <td> Professor </td>
+                    <td>5689</td>
+                    <td>kensaku</td>
+                    <td class="textleft">Image processing<br />
+                      Visualization<br />
+                      Medical image processing</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.murase.m.is.nagoya-u.ac.jp/~ddeguchi/en/" target="_blank">DEGUCHI, Daisuke</a></td>
+                    <td> Associate Professor </td>
+                    <td>5910</td>
+                    <td><p>ddeguchi</p>
+                      <p>@nagoya-u.jp</p></td>
+                    <td class="textleft">Image Processing<br />
+                      Pattern Recognition<br />
+                      Object Detection<br />
+                      ITS</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.sp.m.is.nagoya-u.ac.jp/~miyajima//" target="_blank">MIYAJIMA, Chiyomi</a></td>
+                    <td>Designated Associate Professor</td>
+                    <td>4209</td>
+                    <td>miyajima</td>
+                    <td class="textleft">Driving behavior signal processing<br />
+                      speech signal processing</td>
+                  </tr>
+                  <tr>
+                    <td><a href=" https://ishiguro440.wordpress.com/" target="_blank">ISHIGURO, Yoshio</a></td>
+                    <td>Designated Associate Professor</td>
+                    <td>7131</td>
+                    <td><p>ishiguro.yoshio</p><p>@g.sp.m.is.nagoya-u.ac.jp</p></td>
+                    <td class="textleft">Human Computer Interaction<br />Image Processing<br />signal Processing</td>
+                  </tr>
+                </table>
+                <h4>Real World Data Circulation Program</h4>
+                <table summary="Real World Data Circulation Program">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td>NAKAIWA, Hiromi</td>
+                    <td>Designated Professor </td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td class="textleft">Natural Language Understanding<br />
+                        Semantic Lexicon<br />
+                        Machine Translation</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.murase.m.is.nagoya-u.ac.jp/~hirayamat/index_e.html" target="_blank">HIRAYAMA, Takatsugu</a></td>
+                    <td>Designated Associate Professor </td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td class="textleft">Image Recognition<br />HCI<br />Multimodal Data Analysis</td>
+                  </tr>
+                  <tr>
+                    <td>SUZUKI, Kazuyoshi</td>
+                    <td>Designated Assistant Professor </td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td class="textleft">Image Processing<br />Free Viewpoint Video</td>
+                  </tr>
+                </table>
+              </div>
+              <!-- /cate3 --> 
+              
+              <!-- cate4 -->
+              <div id="cate4" class="category">
+                <h4>Many-body Systems Science Group</h4>
+                <table summary="Many-body Systems Science Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td><a href="http://traffic.eken.phys.nagoya-u.ac.jp/~genbey//" target="_blank">SUGIYAMA, Yuki</a></td>
+                    <td> Professor </td>
+                    <td> 4806</td>
+                    <td>sugiyama</td>
+                    <td class="textleft">Field theories<br />
+                      Dynamical phase transition of manybody systems<br />
+                      Dynamics of self-driven particles</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.phys.cs.is.nagoya-u.ac.jp/~tanimura/index-eng.html" target="_blank">TANIMURA,Shogo</a></td>
+                    <td> Professor </td>
+                    <td>5636</td>
+                    <td>tanimura</td>
+                    <td class="textleft">Quantum mechanics<br />
+                      Geometric methods in physics<br /></td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://kogold.phys.cs.is.nagoya-u.ac.jp/~tokita//" target="_blank">TOKITA, Keiichiro</a></td>
+                    <td> Professor </td>
+                    <td>4736</td>
+                    <td>tokita</td>
+                    <td class="textleft">Statistical Physics<br />
+                      Mathematical Biology<br />
+                      Science of Diversity</td>
+                  </tr>
+                  <tr>
+                    <td> NAKAMURA, Yasuyuki </td>
+                    <td> Associate Professor </td>
+                    <td>4753</td>
+                    <td><p>nakamura</p><p>@nagoya-u.jp</p></td>
+                    <td class="textleft">e-Learning<br />
+                      Statistical physics<br />
+                      Econophysics</td>
+                  </tr>
+                  <tr>
+                    <td>IZUMIDA, Yuki</td>
+                    <td>Assistant Professor</td>
+                    <td></td>
+                    <td>izumida</td>
+                    <td class="textleft">Non-equilibrium Statistical Mechanics<br />Foundation of Thermodynamics<br />Nonlinear Dynamics</td>
+                  </tr>
+                </table>
+                <h4>Material Informatics Group</h4>
+                <table summary="Material Informatics Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td> KOGA, Nobuaki </td>
+                    <td> Professor </td>
+                    <td>3518</td>
+                    <td>koga</td>
+                    <td class="textleft">Computational quantum chemistry</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://frontier.ncube.human.nagoya-u.ac.jp/en//" target="_blank">NAGAOKA, Masataka</a></td>
+                    <td> Professor </td>
+                    <td>5623</td>
+                    <td>mnagaoka</td>
+                    <td class="textleft">Theoretical chemistry<br />
+                      Computational science<br />
+                      Nonequilibrium phenomenology</td>
+                  </tr>
+                  <tr>
+                    <td> ZHANG, Hedong </td>
+                    <td> Associate Professor </td>
+                    <td>3130</td>
+                    <td>zhang</td>
+                    <td class="textleft">Simulation of nano physical phenomena<br />
+                      Nano-metrology<br />
+                      Nano-tribology</td>
+                  </tr>
+                  <tr>
+                    <td> IUCHI, Satoru </td>
+                    <td> Assistant Professor </td>
+                    <td>4218</td>
+                    <td>iuchi</td>
+                    <td class="textleft">Theoretical/Computational Chemistry</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.ncube.human.nagoya-u.ac.jp/en/index.html" target="_blank">TAKAYANAGI, Masayoshi</a></td>
+                    <td> Designated Assistant Professor </td>
+                    <td>5622</td>
+                    <td><p>takayana</p>
+                      <p>@ncube.human.nagoya-u.ac.jp</p></td>
+                    <td class="textleft">Computational Chemistry<br />
+                      Theoretical Chemistry</td>
+                  </tr>
+                </table>
+                <h4>Large-Scale Molecular Computation Group</h4>
+                <table summary="Large-Scale Molecular Computation Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td> KITAURA, Kazuo </td>
+                    <td> Visiting Professor </td>
+                    <td></td>
+                    <td></td>
+                    <td class="textleft"></td>
+                  </tr>
+                </table>
+                <h4>Life-Science Informatics Group</h4>
+                <table summary="Life-Science Informatics Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.force.cs.is.nagoya-u.ac.jp/~mota/profile.html" target="_blank">OTA, Motonori</a></td>
+                    <td> Professor </td>
+                    <td>4782</td>
+                    <td>mota</td>
+                    <td class="textleft">Protein structures<br />
+                      Protein complexes<br />
+                      Interaction network</td>
+                  </tr>
+                  <tr>
+                    <td> YOSHIDA, Kumi </td>
+                    <td> Professor </td>
+                    <td>5638</td>
+                    <td>yoshidak</td>
+                    <td class="textleft">Bioorganic chemistry<br />
+                      Natural product chemistry<br />
+                      Plant science</td>
+                  </tr>
+                  <tr>
+                    <td> AOKI, Setsuyuki </td>
+                    <td> Associate Professor </td>
+                    <td>5376</td>
+                    <td>aoki</td>
+                    <td class="textleft">Biological rhythms<br />
+                      Gene network<br />
+                      Molecular biology</td>
+                  </tr>
+                  <tr>
+                    <td> TSUKAMOTO, Masaki </td>
+                    <td>Lecturer</td>
+                    <td>4779</td>
+                    <td>tsukamoto</td>
+                    <td class="textleft">Nucleic acid chemistry<br />
+                      Organic synthesis<br />
+                      Organometallic chemistry</td>
+                  </tr>
+                  <tr>
+                    <td> KOIKE, Ryotaro </td>
+                    <td> Assistant Professor </td>
+                    <td>4265</td>
+                    <td>rkoike</td>
+                    <td class="textleft">Structural bioinformatics<br />
+                      Biophysics</td>
+                  </tr>
+                  <tr>
+                    <td> AMEMIYA, Takayuki </td>
+                    <td> Designated Assistant Professor </td>
+                    <td>4217</td>
+                    <td><p>tamemiya</p>
+                      <p>@force.cs.is.nagoya-u.ac.jp</p></td>
+                    <td class="textleft"></td>
+                  </tr>
+                </table>
+                <h4>Emergent Systems Group</h4>
+                <table summary="Emergent Systems Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.alife.cs.is.nagoya-u.ac.jp//" target="_blank">ARITA, Takaya</a></td>
+                    <td> Professor </td>
+                    <td>3503</td>
+                    <td>arita</td>
+                    <td class="textleft">Artificial Life<br />
+                      Complex systems science<br />
+                      Evolutionary psychology</td>
+                  </tr>
+                  <tr>
+                    <td> KITA, Eisuke </td>
+                    <td> Professor </td>
+                    <td>3521</td>
+                    <td>kita</td>
+                    <td class="textleft">Computer science<br />
+                      Multi-agent system<br />
+                      Social system<br />
+                      Bayesian network</td>
+                  </tr>
+                  <tr>
+                    <td> NAGAMINE, Koichiro </td>
+                    <td> Associate Professor </td>
+                    <td>4255</td>
+                    <td>nagamine</td>
+                    <td class="textleft">Geochemistry<br />
+                      Image Processing<br />
+                      Cartology</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.alife.cs.is.nagoya-u.ac.jp/~reiji//" target="_blank">SUZUKI, Reiji</a></td>
+                    <td> Associate Professor </td>
+                    <td>4258</td>
+                    <td>reiji</td>
+                    <td class="textleft">Artificial life<br />
+                      Agent-based modeling<br />
+                      Evolutionary computation</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://colorlessgreen.info" target="_blank">SASAHARA, Kazutoshi</a></td>
+                    <td> Assistant Professor </td>
+                    <td>4234</td>
+                    <td><p>sasahara</p>
+                      <p>@nagoya-u.jp</p></td>
+                    <td class="textleft">Artificial Life<br />
+                      Complex Systems<br />
+                      Information Behavior</td>
+                  </tr>
+                </table>
+                <h4>Complex Systems Computation Group</h4>
+                <table summary="Complex Systems Computation Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td> AZEGAMI, Hideyuki </td>
+                    <td> Professor </td>
+                    <td>4801</td>
+                    <td>azegami</td>
+                    <td class="textleft">Applied Mathematics<br />
+                      Mathematical design<br />
+                      Shape Optimization<br />
+                      Biomechanics</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://ns1.ohka.cs.is.nagoya-u.ac.jp/ohka_lab2/index_eng.html" target="_blank">OHKA, Masahiro</a></td>
+                    <td> Professor </td>
+                    <td>4861</td>
+                    <td>ohka</td>
+                    <td class="textleft">Intelligent robotics<br />
+                      Sensor and actuator system<br />
+                      Psychophysics on human tactile sensation</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://vi.cs.is.nagoya-u.ac.jp/watanabe-lab//" target="_blank">WATANABE, Takashi</a></td>
+                    <td> Professor </td>
+                    <td>4785</td>
+                    <td>takashi</td>
+                    <td class="textleft">Fluid informatics<br />
+                      Computational fluid dynamics<br />
+                      Image processing</td>
+                  </tr>
+                  <tr>
+                    <td> SUZUKI, Yasuhiro </td>
+                    <td> Associate Professor </td>
+                    <td>4783</td>
+                    <td><p>ysuzuki</p>
+                      <p>@nagoya-u.jp</p></td>
+                    <td class="textleft">Natural Computing<br />
+                      Science of Harness<br />
+                      Complexity<br />
+                      Systems Biology<br />
+                      Computational Aesthetics<br />
+                      <br /></td>
+                  </tr>
+                </table>
+                <h4>Information Visualization Group</h4>
+                <table summary="Information Visualization Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td> UCHIYAMA, Tomomi </td>
+                    <td> Professor </td>
+                    <td>5187</td>
+                    <td>uchiyama</td>
+                    <td class="textleft">Computational fluid dynamics<br />
+                      Multiphase flow engineering</td>
+                  </tr>
+                  <tr>
+                    <td> YASUDA, Koji </td>
+                    <td> Associate Professor </td>
+                    <td>4764</td>
+                    <td>yasudak</td>
+                    <td class="textleft">Quantum chemistry<br />
+                      Biophysics<br />
+                      Special-purpose computer</td>
+                  </tr>
+                  <tr>
+                    <td> NIIMI,Michiko </td>
+                    <td> Associate Professor </td>
+                    <td>4758</td>
+                    <td>N/A</td>
+                    <td class="textleft">Environmental archeology<br />
+                      Faunal remains</td>
+                  </tr>
+                </table>
+              </div>
+              <!-- /cate4 --> 
+              
+              <!-- cate5 -->
+              <div id="cate5" class="category">
+                <h4>Knowledge Society and Information Systems Group</h4>
+                <table summary="Knowledge Society and Information Systems Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td><a href="http://mase.itc.nagoya-u.ac.jp/~mase/index.html" target="_blank">MASE, Kenji</a></td>
+                    <td> Professor </td>
+                    <td>5898</td>
+                    <td>mase</td>
+                    <td class="textleft">Communication support<br />
+                      Context processing and understanding<br />
+                      Ubiquitous interfaces</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.db.itc.nagoya-u.ac.jp/~ishikawa//" target="_blank">ISHIKAWA, Yoshiharu</a></td>
+                    <td> Professor </td>
+                    <td>3306</td>
+                    <td>ishikawa</td>
+                    <td class="textleft">Databases<br />
+                      Data engineering<br />
+                      Web information systems</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.mv.ss.is.nagoya-u.ac.jp" target="_blank">KATO, Jien</a></td>
+                    <td> Associate Professor </td>
+                    <td>5626</td>
+                    <td>jien</td>
+                    <td class="textleft">computer vision<br />
+                      pattern recognition<br />
+                      machine learning and data mining</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.cmc.ss.is.nagoya-u.ac.jp/~enokibori/" target="_blank">ENOKIBORI, Yu</a></td>
+                    <td>  Assistant Professor </td>
+                    <td>5630</td>
+                    <td>enokibori</td>
+                    <td class="textleft">Ubiquitous<br />
+                      Wearable<br />
+                      Skill and training analysis<br />
+                      Health care system</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://mv.ss.is.nagoya-u.ac.jp/~ywang/" target="_blank">WANG, Yu</a></td>
+                    <td> Designated Assistant Professor </td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td class="textleft">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://profs.provost.nagoya-u.ac.jp/view/html/100009413_en.html" target="_blank">WAKITA, Yukiko</a></td>
+                    <td> Designated Assistant Professor </td>
+                    <td>&nbsp;</td>
+                    <td>&nbsp;</td>
+                    <td class="textleft">Complex Systems<br />Simulation Science<br />Data Engineering</td>
+                  </tr>
+                  <!--
+                  <tr>
+                    <td> SUZUKI, Yu </td>
+                    <td> Designated Assistant Professor </td>
+                    <td>2730</td>
+                    <td><p>suzuki</p>
+                      <p>@db.ss.is.nagoya-u.ac.jp</p></td>
+                    <td class="textleft">Information Retrieval<br />
+                      Data mining<br />
+                      Web mining</td>
+                  </tr>
+                  -->
+                </table>
+                <h4>Designing of Electronic Society Group</h4>
+                <table summary="Designing of Electronic Society Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.mdg.ss.is.nagoya-u.ac.jp/~yasuda//" target="_blank">YASUDA, Takami</a></td>
+                    <td> Professor </td>
+                    <td>4855</td>
+                    <td>yasuda</td>
+                    <td class="textleft">Chair of electronic society design<br />
+                      Media society<br />
+                      Socio Informatics</td>
+                  </tr>
+<!--
+                  <tr>
+                    <td> MOTOYAMA, Kiyofumi </td>
+                    <td> Professor </td>
+                    <td>4774</td>
+                    <td>motoyama</td>
+                    <td class="textleft">Information design<br />
+                      Media and art<br />
+                      Visual literacy</td>
+                  </tr>
+-->
+                  <tr>
+                    <td><a href="http://www.mdg.ss.is.nagoya-u.ac.jp/~endo/" target="_blank">ENDO, Mamoru</a></td>
+                    <td>Associate Professor</td>
+                    <td>4892</td>
+                    <td>endo</td>
+                    <td class="textleft">Media Informatics<br />Socio Informatics</td>
+                  </tr>
+                </table>
+                <h4>Philosophy of Information Group</h4>
+                <table summary="Philosophy of Information Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td> YONEYAMA, Masaru </td>
+                    <td> Professor </td>
+                    <td>3506</td>
+                    <td>yoneyama</td>
+                    <td class="textleft">Informatics<br />
+                      Philosophy of Leibniz<br />
+                      Aesthetics of Monadology</td>
+                  </tr>
+                  <tr>
+                    <td> TODAYAMA, Kazuhisa </td>
+                    <td> Professor </td>
+                    <td>4874</td>
+                    <td>todayama</td>
+                    <td class="textleft">Philosophy of science<br />
+                      Science and technology studies<br />
+                      Engineering ethics</td>
+                  </tr>
+                  <tr>
+                    <td> AKIBA, Fuminori </td>
+                    <td> Associate Professor </td>
+                    <td>4837</td>
+                    <td>akibaf</td>
+                    <td class="textleft">Collaboration of aesthetics and science<br />
+                      Artifacts and communication<br />
+                      Body-aesthetics</td>
+                  </tr>
+                  <tr>
+                    <td> KOIKE, Naoto </td>
+                    <td> Associate Professor </td>
+                    <td>4840</td>
+                    <td>koike</td>
+                    <td class="textleft">Socio-cultural theory<br />
+                      Social philosophy<br />
+                      History of ideas in Europe</td>
+                  </tr>
+                  <tr>
+                    <td>KUKITA, Minao</td>
+                    <td>Associate Professor</td>
+                    <td>6883</td>
+                    <td>minao.kukita</td>
+                    <td class="textleft">Philosophy<br />
+                    Ethics</td>
+                  </tr>
+                </table>
+                <h4>Architecture of Information Society Group</h4>
+                <table summary="Architecture of Information Society Group">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td> TOYAMA, Katsuhiko </td>
+                    <td> Professor </td>
+                    <td>5146</td>
+                    <td>toyama</td>
+                    <td class="textleft">Knowledge information processing<br />
+                      Natural language processing<br />
+                      E-legislation</td>
+                  </tr>
+                  <tr>
+                    <td> OGAWA, Yasuhiro </td>
+                    <td> Associate Professor </td>
+                    <td>5145</td>
+                    <td>yasuhiro</td>
+                    <td class="textleft">Natural language processing<br />
+                      Machine translation<br />
+                      Legislation support system</td>
+                  </tr>
+                  <tr>
+                    <td><a href="http://slp.itc.nagoya-u.ac.jp/~ohno/index_en.html" target="_blank">OHNO,Tomohiro</a></td>
+                    <td> Assistant Professor </td>
+                    <td>4359</td>
+                    <td>ohno</td>
+                    <td class="textleft">Natural language processing<br />
+                      Spoken language processing</td>
+                  </tr>
+                </table>
+                <h4>Joint Member</h4>
+                <table summary="Joint Member">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td> KATO, Yoshihide</td>
+                    <td>Associate Professor</td>
+                    <td>4392</td>
+                    <td><p>yoshihide</p>
+                      <p>@icts.nagoya-u.ac.jp</p></td>
+                    <td class="textleft">&nbsp;</td>
+                  </tr>
+                </table>
+              </div>
+              <!-- /cate5 --> 
+              
+              <!-- cate6 -->
+              <div id="cate6" class="category">
+                <h4></h4>
+                <table summary="">
+                  <tr>
+                    <th class="name">Name</th>
+                    <th class="position">Title</th>
+                    <th class="extension">Tel Ext.</th>
+                    <th class="mail">E-mail</th>
+                    <th class="keywords">Research Field</th>
+                  </tr>
+                  <tr>
+                    <td><a href="http://www.ertl.jp/~hiro/hiro-e.html" target="_blank">TAKADA, Hiroaki</a></td>
+                    <td> Executive Director / Professor </td>
+                    <td>5887</td>
+                    <td>hiro</td>
+                    <td class="textleft">Embedded computing system<br />
+                      Real-time computing<br />
+                      Operating system</td>
+                  </tr>
+                  <tr>
+                    <td> YAMAMOTO, Masaki </td>
+                    <td> Director / Designated Professor </td>
+                    <td>5284</td>
+                    <td><p>myamamoto</p>
+                      <p>@nces.is.nagoya-u.ac.jp</p></td>
+                    <td class="textleft">Embedded software<br />
+                      Educational evaluation</td>
+                  </tr>
+                  <tr>
+                    <td>ARAKAWA, Fumio</td>
+                    <td>Designated Professor</td>
+                    <td>2763</td>
+                    <td><p>fumio</p>
+                      <p>@ertl.jp</p></td>
+                    <td class="textleft">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td>SAKAMOTO, Tadashi</td>
+                    <td>Designated Professor</td>
+                    <td>&nbsp;</td>
+                    <td><p>&nbsp;</p></td>
+                    <td class="textleft">Embedded system<br />Development of a SPF for automobiles</td>
+                  </tr>
+                  <tr>
+                    <td>YOSHIDA, Norihiro</td>
+                    <td>Associate Professor</td>
+                    <td>6392</td>
+                    <td>n-yoshida</td>
+                    <td class="textleft">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td>TAKASHIMA, Hiroyuki</td>
+                    <td>Designated Associate Professor</td>
+                    <td>3501</td>
+                    <td><p>takashima</p>
+                      <p>@nces.is.nagoya-u.ac.jp</p></td>
+                    <td class="textleft">Technology and Innovative Management<br />
+                      Embedded system<br />
+                      Innovation<br />
+                    Productivity</td>
+                  </tr>
+                  <tr>
+                    <td> <a href="http://www.ertl.jp/~yutaka/" target="_blank">MATSUBARA,  Yutaka</a></td>
+                    <td> Assistant Professor </td>
+                    <td>3799</td>
+                    <td>yutaka</td>
+                    <td class="textleft">Embedded system<br />Real-time computing<br />System safety and security</td>
+                  </tr>
+                  <tr>
+                    <td> KURACHI, Ryo </td>
+                    <td> Designated Assistant Professor </td>
+                    <td> 6393</td>
+                    <td><p>kurachi</p>
+                      <p>@nces.is.nagoya-u.ac.jp</p></td>
+                    <td class="textleft"></td>
+                  </tr>
+                  <tr>
+                    <td> ISHIKAWA, Takuya </td>
+                    <td> Designated Assistant Professor </td>
+                    <td> </td>
+                    <td><p>t_ishikawa</p><p>@ertl.jp</p></td>
+                    <td class="textleft">Embedded system<br />Real-time computing<br />Operating system</td>
+                  </tr>
+                </table>
+              </div>
+              <!-- /cate6 --> 
+              
+            </div>
+          </div>
+          <!-- /jqtab --> 
+          
+          <!-- pagetop -->
+          <p class="go-pagetop"><a href="#" onclick="backToTop(); return false" onkeypress="" title="top">top</a></p>
+          <!-- /pagetop --> 
+          
+        </div>
+        <!-- /content-section --> 
+        
+      </div>
+      <!-- /content-main --> 
+      
+    </div>
+    <!-- /content-inner --> 
+    
+  </div>
+  <!-- content-base --> 
+  
+</div>
+<!-- /content --> 
+
+<!-- footer -->
+<div id="footer">
+  <div class="clearfix">
+    <ul id="footer-logo">
+      <li><img src="../common/images/en/logo_s.gif" alt="åå¤å±å¤§å­¦ å¤§å­¦é¢ æå ±ç§å­¦ç ç©¶ç§ã­ã´" width="80" height="83" /></li>
+      <li><img src="../common/images/en/name_s.gif" alt="åå¤å±å¤§å­¦ å¤§å­¦é¢ æå ±ç§å­¦ç ç©¶ç§" width="121" height="45" /></li>
+    </ul>
+    
+    <!-- contents-list -->
+    <div id="contents-list"> 
+      
+      <!-- gnavi-list -->
+      <ul id="gnavi-list" class="clearfix">
+        <li id="gnavi-list-ab"><a href="./index_en.html">Introduction</a>
+          <ul>
+            <li><a href="./index_en.html">Basic Philosophy, Education, Research, History</a></li>
+            <li><a href="./message_en.html">Message from the Dean</a></li>
+            <li><a href="./dept_en.html">Department and Center</a></li>
+            <li><a href="./prof_en.html">Professors</a></li>
+            <li><a href="../index_en.html">Staff for Harassment Consultation Center</a></li>
+            <li><a href="../topic/recruit/index_en.html">Employment Opportunities</a></li>
+            <li><a href="./contact_en.html">Contact and Access</a></li>
+          </ul>
+        </li>
+        <li id="gnavi-list-ex"><a href="../admission/index_en.html">Admissions</a>
+          <ul>
+            <li><a href="../admission/index_en.html">General Info. of Admissions</a></li>
+            <li><a href="../admission/past_exam_en.html">Past Admissions</a></li>
+            <li><a href="../index_en.html">Exam Questions</a></li>
+            <li><a href="../index_en.html">Place of Employment</a></li>
+            <li><a href="../index_en.html">for High School Students/Teachers</a></li>
+            <li><a href="./contact_en.html#as_sect">Contact(Admission affairs)and Access</a></li>
+          </ul>
+        </li>
+        <li id="gnavi-list-ed"><a href="../index_en.html">Education</a>
+          <ul>
+            <li><a href="../index_en.html">General Info. of Education</a></li>
+            <li><a href="../edu/curri_en.html">Curriculum</a></li>
+            <li><a href="../index_en.html"> Intensive Lectures</a></li>
+            <li><a href="../edu/thesis_en.html">Doctoral/Master's Theses</a></li>
+          </ul>
+        </li>
+        <li id="gnavi-list-st"><a href="../index_en.html">Research</a>
+          <ul>
+            <li><a href="../index_en.html">General Info. of Research</a></li>
+            <li><a href="../research/jhc_en.html">Comprehensive List of Researchers "Information Knowledge"</a></li>
+            <li><a href="../index_en.html">Award</a></li>
+            <li><a href="../topic/event/index_en.html">Events/Seminars</a></li>
+          </ul>
+        </li>
+      </ul>
+      <!-- /gnavi-list --> 
+      
+      <!-- tnavi-list -->
+      <ul id="tnavi-list" class="clearfix">
+        <li><a href="../candidate/index_en.html">for Examinees/<br />
+          for High School Students/Teachers</a></li>
+        <li><a href="../employ/index_en.html">for Employers</a></li>
+        <li><a href="../scholar/index_en.html">for Researchers</a></li>
+        <li><a href="../alum/index_en.html">for Alumni</a></li>
+        <li><a href="../faculty/index_en.html">for Students/<br />
+          for Professors</a></li>
+      </ul>
+      <!-- /tnavi-list --> 
+      
+    </div>
+    <!-- contents-list --> 
+    
+  </div>
+  <address>
+  &copy;2010 Graduate School of Information Science, Nagoya University.
+  </address>
+</div>
+<!-- /footer -->
+</body>
+</html>

@@ -1,0 +1,355 @@
+<!--<style>
+hr.style-six {
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+hr.style-two {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+/* Double-color dashed line */
+
+hr.style-three {
+    border: 0;
+    border-bottom: 1px dashed #ccc;
+    background: #999;
+}
+
+div.container {
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: bottom }
+	
+</style>-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+<!-- <meta charset="utf-8"> -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>School of Computing</title>
+<meta name="Keywords" content="School of Computing" />
+<meta name="Description" content="School of Computing" /> <!-- SEO Keywords from WEM -->
+<link href="http://www.unisa.ac.za/sites/styles/vgn-ext-templating-delivery.css" rel="stylesheet" type="text/css"></link>
+ <!-- WEM related menus -->
+<script type="text/javascript" src="http://www.unisa.ac.za/sites/scripts/async/ajax.jsp"></script>
+ <!-- WEM related menus -->
+<link href="http://www.unisa.ac.za/static/corporate_web/Design/themes/default/css/foundation-icons.css" rel="stylesheet" type="text/css" />
+<link href="http://www.unisa.ac.za/static/corporate_web/Design/themes/default/css/font-awesome.css" rel="stylesheet" type="text/css" />
+<link href="http://www.unisa.ac.za/static/corporate_web/Design/themes/default/css/ionicons.css" rel="stylesheet" type="text/css" />
+<link href="http://www.unisa.ac.za/static/corporate_web/Design/themes/default/css/listStylesTinyMCE.css" rel="stylesheet" type="text/css" />
+<link href="http://www.unisa.ac.za/static/corporate_web/Design/themes/default/bootstrap_vanilla_related.css" rel="stylesheet" type="text/css" />
+<link href="http://www.unisa.ac.za/static/corporate_web/Design/themes/default/css/bootstrap.css" rel="stylesheet" type="text/css" />
+<link href="http://www.unisa.ac.za/static/corporate_web/Design/themes/default/wem_related.css" rel="stylesheet" type="text/css" />
+<link href="http://www.unisa.ac.za/static/corporate_web/Design/themes/default/css/theme.css" rel="stylesheet" type="text/css" />
+ <!-- WEM related theme -->
+	<link rel="stylesheet" href="http://www.unisa.ac.za/portal/jslib/vijit/themes/vijit.css"/>
+    <link rel="stylesheet" href="http://www.unisa.ac.za/portal/jslib/vijit/themes/claro/claro.css"/>
+	<script type="text/javascript">
+		if (typeof vuitConfig === 'undefined') {
+			vuitConfig = {parseOnLoad: false, isDebug: false, extraLocale: ['en'],siteURL:'/portal/site/corporate',endUserSyncToken:'7ef0ef10c78edc50011f4b126d698c3a'};
+		} else {
+			//dont blow away other setups
+			vuitConfig.parseOnLoad = false;
+			vuitConfig.extraLocale = 'en';
+		}
+		if (typeof vQuery === 'undefined') {
+			document.write('<script type="text/javascript" src="/portal/jslib/vquery/vquery.js"><\/script>');
+		}
+		var vuiVcaConfig = {
+			apiPath: "/portal/api",
+			requestURL: "/portal/request",
+			appContext: "/portal"
+		};
+		if (typeof vuiConfig === 'undefined') {
+			vuiConfig = vuiVcaConfig;
+		}
+		document.write('<script type="text/javascript" src="http://www.unisa.ac.za/portal/jslib/vui/impl/vquery/logging.js"><\/script>');
+		document.write('<script type="text/javascript" src="http://www.unisa.ac.za/portal/jslib/vui/impl/vquery/vui-impl.js"><\/script>');
+		document.write('<script type="text/javascript" src="http://www.unisa.ac.za/portal/jslib/vui/vui.js"><\/script>');
+		document.write('<script type="text/javascript" src="http://www.unisa.ac.za/vgn-community-applications/jslib/otsc_base.js"><\/script>');
+		if (typeof vuit === 'undefined') {
+			document.write('<script type="text/javascript" src="/portal/jslib/vuit/vuit.js"><\/script>');
+		}
+		document.write('<script type="text/javascript" src="http://www.unisa.ac.za/portal/jslib/vijit/vca-basic.js"><\/script>');
+		document.write('<script type="text/javascript" src="http://www.unisa.ac.za/vgn-community-applications/jslib/vquery-1.8.23-ui.js"><\/script>');
+		document.write('<script type="text/javascript" src="http://www.unisa.ac.za/vgn-community-applications/jslib/vunderscore.js"><\/script>');
+		document.write('<script type="text/javascript" src="http://www.unisa.ac.za/vgn-community-applications/jslib/vbackbone.js"><\/script>');
+		document.write('<script type="text/javascript" src="http://www.unisa.ac.za/vgn-community-applications/jslib/vquery.mustache.js"><\/script>');
+		document.write('<script type="text/javascript" src="http://www.unisa.ac.za/vgn-community-applications/jslib/vquery.xml2json.js"><\/script>');
+		document.write('<script type="text/javascript" src="http://www.unisa.ac.za/vgn-community-applications/jslib/vca.js"><\/script>');
+    </script>
+	<script type="text/javascript">
+		vuit.require("vuit.parser");
+		vuit.require("vuit.date.locale");
+		vuit.require("vijit.Dialog");
+		vuit.require("vijit.form.Button");
+		vuit.require("vijit.Menu");
+		vuit.require("vijit.form.DateTextBox");
+		vuit.require("vijit.form.TimeTextBox");
+		vuit.require("vijit.form.DropDownButton");
+		vuit.require("vijit.layout.ContentPane");
+		vuit.require("vijit.layout.TabContainer");
+		vuit.require("vijit.Tooltip");
+		vuit.ready(function() {
+			vuit.parser.parse();
+			//Setting the sync token value
+			vui.auth.internal.setToken("33328094-c1d3-4047-ba38-97eedbc0e5f9");
+		});
+	</script>
+	<script type="text/javascript" src="http://www.unisa.ac.za/portal/jslib/editlivejava/expressEdit/tinymce/tinymce.min.js"></script>
+    <!--vgn-portal:includeStyle friendlyID="css"/-->	
+
+<style>
+body { font-size:12px; }
+h1 { font-size:16px; 
+font-weight:bold;
+
+}
+</style>
+
+
+</head>
+<body class="claro">
+    <header>
+            <div class="container">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12"> 
+<div class="navbar-brand-logo col-lg-3 col-md-3 col-sm-4 col-xs-6" style="cursor:pointer">
+				<a href="http://www.unisa.ac.za/sites/corporate/default/" style="display: block;">
+	    			<object style="pointer-events: none;" data="http://www.unisa.ac.za/static/corporate_web/Design/themes/default/images/unisa logo.svg" type="image/svg+xml" class="unisa-logo">Your browser does not support SVG</object>
+				 </a>
+</div>
+
+<div class="navbar-brand-search col-lg-4 col-md-4 col-sm-6 col-xs-12 pull-right noRowPaddingLeft noRowPaddingRight"> 
+<form action="http://www.unisa.ac.za/sites/corporate/default/Search-results" method="post" class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+	<input type="text" name="vgnextkeyword" id="vgnextkeyword" class="form-control" placeholder="Search...">
+ </form>
+ </div>
+                </div>
+            </div>
+    </header>
+    <nav class="navbar navbar-brand-bg">
+  		<div class="container"> 
+	<div class="navbar-header navbar-default">
+		<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</button>
+		<a class="navbar-brand visible-xs" href="#">Site navigation</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse navbar-default">
+        <ul class="nav navbar-nav">
+								<li > <a href="http://www.unisa.ac.za/sites/corporate/default/About"  >About </a> </li>
+
+<li class="visible-xs"> <a href="http://www.unisa.ac.za/sites/corporate/default/Admissions " >Admissions</a>
+								</li>
+								<li class="dropdown hidden-xs"> 
+									<a   target='_self' class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" >Admissions 
+										<span class="caret"></span>
+									</a> 
+									<ul class="dropdown-menu" role="menu">
+										<li>	
+												<a http://www.unisa.ac.zatarget='_self'>Admissions</a>
+									</li>	<li><a href="http://www.unisa.ac.za/sites/corporate/default/Apply-for-admission"  target="_self">Apply for admission</a>
+</li>
+<li><a href="http://www.unisa.ac.za/sites/corporate/default/Register-to-study-through-Unisa"  target="_self">Register to study through Unisa</a>
+</li></ul>
+</li><li class="visible-xs"> <a href="http://www.unisa.ac.za/sites/corporate/default/Colleges" >Colleges</a>
+								</li>
+								<li class="dropdown hidden-xs"> 
+									<a   target='_self' class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false" >Colleges 
+										<span class="caret"></span>
+									</a> 
+									<ul class="dropdown-menu" role="menu">
+										<li>	
+													<a href="http://www.unisa.ac.za/sites/corporate/default/Colleges" target='_self'>Colleges</a>
+									</li>
+													<li>
+														<a href="http://www.unisa.ac.za/sites/corporate/default/Colleges/Accounting-Sciences"  target="">Accounting Sciences</a>
+													</li>
+													<li>
+														<a href="http://www.unisa.ac.za/sites/corporate/default/Colleges/Agriculture-&-Environmental-Sciences"  target="">Agriculture & Environmental Sciences</a>
+													</li>
+													<li>
+														<a href="http://www.unisa.ac.za/sites/corporate/default/Colleges/Economic-and-Management-Sciences"  target="">Economic & Management Sciences</a>
+													</li>
+													<li>
+														<a href="http://www.unisa.ac.za/sites/corporate/default/Colleges/Education"  target="">Education</a>
+													</li>
+													<li>
+														<a href="http://www.unisa.ac.za/sites/corporate/default/Colleges/Human-Sciences"  target="">Human Sciences</a>
+													</li>
+													<li>
+														<a href="http://www.unisa.ac.za/sites/corporate/default/Colleges/Law"  target="">Law</a>
+													</li>
+													<li>
+														<a href="http://www.unisa.ac.za/sites/corporate/default/Colleges/Science,-Engineering-&-Technology"  target="">Science, Engineering & Technology</a>
+													</li>
+															<li class="divider"></li>
+															<li class="dropdown-header">Other</li>
+													<li>
+														<a href="http://www.unisa.ac.za/sites/corporate/default/Colleges/Graduate-studies"  target="">Graduate studies</a>
+													</li>
+															<li class="divider"></li>
+															<li class="dropdown-header">General information</li>
+													<li>
+														<a href="http://www.unisa.ac.za/sites/corporate/default/Colleges/Advancing-excellence-through-our-Colleges"  target="">Advancing excellence through our Colleges</a>
+													</li>
+										</ul>
+								</li>
+								<li > <a href="http://www.unisa.ac.za/sites/corporate/default/Research-&-Innovation"  >Research </a> </li>
+								<li > <a href="http://www.unisa.ac.za/sites/corporate/default/Alumni"  >Alumni </a> </li>
+								<li > <a href="http://www.unisa.ac.za/sites/corporate/default/Library"  >Library </a> </li>
+								<li > <a href="http://www.unisa.ac.za/sites/corporate/default/News-&-Media"  >News & Media </a> </li>
+								<li > <a href="http://www.unisa.ac.za/sites/corporate/default/Give-to-Unisa"  >Donate </a> </li>
+								<li > <a href="http://www.unisa.ac.za/sites/corporate/default/Contact-us"  >Contact us </a> </li>
+		</ul>
+	</div>
+    	</div>
+    </nav>
+<div class="container">
+	<ol class="breadcrumb" id="breadcrumb">
+								<li><a href="http://www.unisa.ac.za/sites/corporate/default/">Home</a></li>
+								<li><a href="http://www.unisa.ac.za/sites/corporate/default/Colleges">Colleges</a></li>
+								<li><a href="http://www.unisa.ac.za/sites/corporate/default/Colleges/Science,-Engineering-&-Technology">Science, Engineering & Technology</a></li>
+								<li><a href="http://www.unisa.ac.za/sites/corporate/default/Colleges/Science,-Engineering-&-Technology/Schools,-departments-&-centre">Schools, departments & centre</a></li>
+									
+									<li class="hidden-xs hidden-sm active">School of Computing</li>
+									<li class="dropdown visible-xs-inline visible-sm-inline">
+										<a href="http://iosprey.unisa.ac.za" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">School of Computing
+											<span class="caret"></span>
+										</a>
+										<ul class="dropdown-menu" role="menu">
+														<li><a href="http://www.unisa.ac.za/sites/corporate/default/Colleges/Science,-Engineering-&-Technology/Schools,-departments-&-centre/School-of-Computing/Staff-members" target="_self">Staff members</a></li>
+										</ul>
+									</li>
+	</ol>
+</div>
+    <div class="container clearfix">
+ <!-- Inline editing -->
+<div class="col-lg-3 col-md-3 hidden-sm hidden-xs side noRowPaddingLeft">
+<div id="leftNavlinkTop"></div>		                         
+                            
+<div><a id="leftNavlink" href="http://osprey.unisa.ac.za/do.htm">Director's office</a></div>
+<div><a id="leftNavlink" href="http://osprey.unisa.ac.za/index_all_divisions.html">Divisions</a></div>
+<div><a id="leftNavlink" href="http://osprey.unisa.ac.za/index_cs.html">&nbsp;&nbsp;>> Computer Science division</a></div>
+<div><a id="leftNavlink" href="http://osprey.unisa.ac.za/index_is.html">&nbsp;&nbsp;>> Information Systems division</a></div>
+<div><a id="leftNavlink" href="http://osprey.unisa.ac.za/index_it.html">&nbsp;&nbsp;>> Information Technology division</a></div>
+<!--<div><a id="leftNavlink" href="http://www.unisa.ac.za/qualifications/index.asp?link=http://www.unisa.ac.za/qualifications/Navigation/Alph_4_99.html">Courses</a></div>-->
+<div><a id="leftNavlink" href="http://osprey.unisa.ac.za/reshome.htm">Research</a></div>
+<div><a id="leftNavlink" href="http://osprey.unisa.ac.za/facilities.htm">Facilities</a></div>
+<div><a id="leftNavlink" href="http://cs-cert.unisa.ac.za">Short learning programmes</a></div>
+
+<div><a id="leftNavlink" href="http://www.unisa.ac.za/sites/corporate/default/Admissions">Study at Unisa</a></div>
+
+<!--cms links-->
+<!--own links-->
+<div><a id="leftNavlink" href="http://osprey.unisa.ac.za/under.htm">SoC undergraduate studies</a></div>
+<div><a id="leftNavlink" href="http://osprey.unisa.ac.za/hdc.htm">SoC postgraduate studies</a></div>
+<div><a id="leftNavlink" href="http://osprey.unisa.ac.za/reg.htm">SoC registered students</a></div>
+<div><a id="leftNavlink" href="http://osprey.unisa.ac.za/ce.htm">Community engagement</a></div>
+<div><a id="leftNavlink" href="http://osprey.unisa.ac.za/contactus.htm">Contact us</a></div>
+<div><a id="leftNavlink" href="http://osprey.unisa.ac.za/about.htm">About us</a></div>
+<div><a id="leftNavlink" href="http://osprey.unisa.ac.za/phorum" target="_new">SoC forums</a></div>                           
+                            
+                            
+                            
+</div>
+<div class="col-lg-9 col-md-9 col-sm-12 col-xs-12 main">
+<div class="row site-identifier cset-bg"><h3>School of Computing</h3></div>
+			<div class="row">
+
+<!-- content starts here -->
+<h1>Staff - Computer Science division</strong></h1>
+<a href="do.htm"><font color="#434d54" ><strong>Director's Office</b></strong> <img src="images/arrow.gif" style="border-style: none"></a><br><br>
+<strong>COD: Research, Community Engagement & Manager: Centre for Software Engineering (CENSE)</strong><br><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=KROEZJH>Kroeze, Jan H, Prof</a><br /><br><strong>Secretary to the COD: Research, Community Engagement & Manager: Centre for Software Engineering (CENSE)</strong><br><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=FRANCHM>Kruger-Franck, Helene, Mrs</a><br /><br>
+<strong>Stand-in COD: Computer Science division</strong><br>        
+<font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=SANDEID>Sanders,Ian, Prof</a>
+
+  <table border="0" cellpadding="2" cellsEmail=$emailing="0" width=100%>
+   <!--<tr><td height="9" valign="top">Computer Science</td><td>Information Systems</h1></td><td>Information Technology</td></tr>
+    <tr>-->
+<tr><td height="9" valign="top" colspan=4><hr class="style-two"></td></tr>
+<tr><td valign="top"><strong>Academic staff</strong><br><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=ABDULH>Abdullah, H, Ms </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=ABIDOAP>Abidoye, Ademola, Dr </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=ARONL>Aron, Lazarus, Mr </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=MATHIMP>Buthelezi , Portia, Ms </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=CHASAT>Chasauka, Tatenda, Mrs </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=CHIYATB>Chiyangwa, Tawanda, Dr </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=DONGMC>Dongmo, Cyrille, Mr </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=DPLESHW>Du Plessis, Drina, Mrs </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=ESANOA>Esan, Omobayo, Mr </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=FRIEDW>Friedrich, Wernher, Dr </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=HALLAKJ>Halland, Ken, Mr </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=KIKUNM>Kikunga, Muhandji, Ms </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=LROUXP>le Roux, Petra, Mrs </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=MASOMKT>Masombuka, Themba, Mr </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=MATHEA>Mathew, Annie, Ms </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=MHLANS2>Mhlana, Siphe, Mr </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=OCHOLEO>Ochola, Elisha, Mr </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=PILKICL>Pilkington, Colin, Mr </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=SCHOEMA>Schoeman, Marthie, Dr </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=THOMAA>Thomas, Anitta, Ms </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=VALLAS>Vallabhapurapu, Sreedevi, Mrs </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=VBILJJA>van Biljon, Judy, Prof </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=EVDPOEL>van der Poel, Etienne, Prof </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=VSTADWJC>van Staden, W, Dr </a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=EVIRIRS1>Viriri, Serestina, Prof </a><br /></td><td valign='top' >
+<strong>Academic Support Coordinator/s</strong><br><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=NKWANMD>Mohlala, Mitchelleen, Ms</a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=MOKWADR>Mokwana, Daphney, Ms</a><br /><br><strong>Library Representative</strong><br><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=FNAUDE>Naude, Filistea, Dr</a><br /><br><strong>Postgraduate (Masters & Doctoral) Liaison</strong><br><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=DKOCKE>de Kock, Estelle, Mrs</a><br /><br><strong>Postgraduate Assistant/s</strong><br><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=HLENGCL>Hlengwa, Charlotte, Mrs</a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=MOAGIKO>Moagi, Kelebogile, Ms</a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=MTHUPVB1>Mthupha, Vusi, Mr</a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=SEOKAMM1>Seoka, Moshe, Mr</a><br /><br><strong>Research Assistant/s</strong><br><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=EMOETILM>Rabalao, Louisa, Mrs</a><br /><br><strong>Administration Manager</strong><br><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=RAMOTNJ>Ramothwala, Nkhesani, Ms</a><br /><br><strong>Administrative Officer/s</strong><br><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=MEKGWL>Jiyana, Lesego, Mrs</a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=MJOLITP1>Mjoli, Themba, Mr</a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=NTANDANM>Ntando, Nthabiseng, Mrs</a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=SILANBD>Silangwe, Busi, Ms</a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=TSHABMJ>Tshabalala, Mokgadi, Mrs</a><br /><br><strong>Administrative Assistant/s</strong><br><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=DUBASGN1>Dubase, Gugulethu, Ms</a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=KOOPMCK>Koopman, Cecile, Ms</a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=LEHONS>Lehong, Ezekiel, Mr</a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=MASALPD>Masalesa, Pertunia, Ms</a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=MOTSIL>Motsi, Lovemore, Dr</a><br /><font color=#cecece>&#187;</font>&nbsp;<a href=staff/staff.htm?qemail=SILEKSS>Silekwa, Nontembeko, Ms</a><br /><br></td><td valign='top' >
+</td>
+<td valign="top">
+<B>Professor Emeritus/Extraordinaire</B><br><font color=#cecece>&#187;</font>&nbsp;de Villiers, Ruth, Prof <br /><br><B>Professor Extraordinarius</B><br><font color=#cecece>&#187;</font>&nbsp;Alexander, Trish, Prof <br /><font color=#cecece>&#187;</font>&nbsp;Botha, Adele, Prof <br /><font color=#cecece>&#187;</font>&nbsp;Herselman, Marlien, Prof <br /><font color=#cecece>&#187;</font>&nbsp;Ketcha Ngassam, Ernest, Prof <br /><br><B>Research Fellows</B><br><font color=#cecece>&#187;</font>&nbsp;Buckley, Sheryl, Dr <br /><font color=#cecece>&#187;</font>&nbsp;Ochara, Nixon, Prof <br /><br><B>Postdoctoral Fellows</B><br><font color=#cecece>&#187;</font>&nbsp;Azetta, Ambrose, Dr <br /><br><B>External Supervisors</B><br><font color=#cecece>&#187;</font>&nbsp;Eloff, Mariki, Prof <br /><font color=#cecece>&#187;</font>&nbsp;Labuschagne, Les, Prof <br /><font color=#cecece>&#187;</font>&nbsp;Lotriet, Hugo, Prof <br /><font color=#cecece>&#187;</font>&nbsp;Muganda Ochara, Nixon, Prof <br /><font color=#cecece>&#187;</font>&nbsp;Naidoo, Richard, Prof <br /><font color=#cecece>&#187;</font>&nbsp;Pretorius, Laurette, Prof <br /><font color=#cecece>&#187;</font>&nbsp;Renaud, Karen, Prof <br /><font color=#cecece>&#187;</font>&nbsp;Van der Poll, Andre, Prof <br /><font color=#cecece>&#187;</font>&nbsp;Wang, Zengzhui, Prof <br /><br></td>
+</tr></table>
+
+ <!-- content ends here -->
+ </div>
+ <!-- Page content -->
+    </div>    
+    <footer id="bottom">
+    	<div class="container">
+        	<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 cwFooter">
+ <div class="col-lg-9 col-md-9 col-sm-9 col-xs-9 pull-left">
+				<img src="http://www.unisa.ac.za/static/corporate_web/Design/themes/default/images/footer_flames.png" />
+</div>
+<div class="col-lg-3 col-md-3 col-sm-3 col-xs-3 pull-right">
+    <p>
+			<a href="https://www.facebook.com/UniversityOfSouthAfrica" class="" target="_blank">Facebook</a><br>
+		<a href="https://twitter.com/unisa" class="" target="_blank">Twitter</a><br>
+			<a href="https://www.youtube.com/user/UnisaVideos" class="" target="_blank">YouTube</a><br>
+</p>
+</div>
+    <div class="clearfix"></div>
+	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-4 pull-left defaultTopMargin">
+					<p>University of South Africa<br />P O Box 392<br />Unisa<br />0003</p>
+<p><a href="/sites/corporate/default/Contact-us/Directions-to-Unisa">Directions</a></p>
+	</div>
+<div class="col-lg-3 col-md-3 col-sm-3 col-xs-4 pull-left defaultTopMargin">
+    <p>
+			<a href="/sites/corporate/default/Give-to-Unisa" class="" target="">Give to Unisa</a><br>
+			<a href="/sites/corporate/default/About/Service-departments/Employment-at-Unisa" class="" target="">Vacancies</a><br>
+			<a href="/sites/corporate/default/Alumni/Unisa-shop" class="" target="_self">Unisa Shop</a><br>
+			<a href="/sites/corporate/default/About/Service-departments/Employment-at-Unisa" class="" target="">Employment at Unisa</a><br>
+			<a href="/sites/corporate/default/About/Service-departments/Procurement" class="" target="">Tenders</a><br>
+</p>
+</div>
+<div class="col-lg-3 col-md-3 col-sm-3 col-xs-4 pull-left defaultTopMargin">
+    <p>
+			<a href="/sites/corporate/default/UNGC" class="" target="">UNGC</a><br>
+			<a href="/sites/corporate/default/About/Legislation/Terms-and-Conditions" class="" target="">Copyright</a><br>
+			<a href="/sites/corporate/default/About/Legislation/Terms-and-Conditions" class="" target="">Terms & Conditions</a><br>
+			<a href="/sites/corporate/default/About/Service-departments/International-Relations-and-Partnerships-Directorate" class="" target="">Institutional memberships</a><br>
+			<a href="/sites/corporate/default/About/Legislation" class="" target="">Legislation</a><br>
+</p>
+</div>
+        	</div>
+        </div>
+    </footer>
+<script src="http://www.unisa.ac.za/static/corporate_web/Design/themes/default/js/searchEncore.js" type="text/javascript"></script>
+<script src="http://www.unisa.ac.za/static/corporate_web/Design/themes/default/js/jquery-3.1.1.min.js" type="text/javascript"></script>
+<script src="http://www.unisa.ac.za/static/corporate_web/Design/themes/default/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="http://www.unisa.ac.za/static/corporate_web/Design/themes/default/js/holder.js" type="text/javascript"></script>
+<script src="http://www.unisa.ac.za/static/corporate_web/Design/themes/default/js/corporateFunctions.js" type="text/javascript"></script>
+<script src="http://www.unisa.ac.za/static/corporate_web/Design/themes/default/js/myUnisa-login.js" type="text/javascript"></script>
+
+
+<script>
+
+ (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2364497-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+ <!-- WEM theme -->
+</body>
+</html>
+

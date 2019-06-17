@@ -17,7 +17,7 @@ class SequenceModel:
       'decoder': 'crf', # crf, logits.
       'char_representation': 'cnn',
       'word_embeddings': 'glove', # glove, elmo. TODO: bert.
-      'model': 'lstm_crf', # lstm_crf, html_attention, self_attention, transformer, crf
+      'model': 'bi_lstm_crf', # bi_lstm_crf, html_attention, self_attention, transformer, crf
       'use_features': False, 
       'f_score_alpha': 0.5,
     }
@@ -44,7 +44,6 @@ class SequenceModel:
       self.nwords        = tf.placeholder(tf.int32,   shape=(None,),            name='nwords'      )
       self.chars         = tf.placeholder(tf.string,  shape=(None, None, None), name='chars'       )
       self.nchars        = tf.placeholder(tf.int32,   shape=(None, None),       name='nchars'      )
-      # self.features      = tf.placeholder(tf.float32, shape=(None, None, 4),    name='features'    )
       self.features      = tf.placeholder(tf.float32, shape=(None, None, 7),    name='features'    )
       self.html          = tf.placeholder(tf.string,  shape=(None, None, None), name='html'        )
       self.css_chars     = tf.placeholder(tf.string,  shape=(None, None, None), name='css_chars'   )
@@ -114,23 +113,11 @@ class SequenceModel:
       correct = tf.equal(tf.to_int64(pred_ids), tags)
       accuracy = tf.reduce_mean(tf.cast(correct, tf.float32), name='accuracy')
       train_step = tf.train.AdamOptimizer(learning_rate=self.learning_rate).minimize(loss)
-      # train_step = tf.train.GradientDescentOptimizer(learning_rate=self.learning_rate).minimize(loss)
 
       reverse_vocab_tags = tf.contrib.lookup.index_to_string_table_from_file(
         self.params['tags']
       )
       pred_strings = reverse_vocab_tags.lookup(tf.to_int64(pred_ids))  
-
-  def maxent(self, use_features=False):
-    word_embs = one_hot_embs(self.words, self.params['words'])
-
-    # embs = [word_embs]
-
-    # if use_features: 
-    #   embs.append(self.features)
-    # embs = tf.concat(embs, axis=-1)
-
-    return tf.layers.dense(word_embs, 100)
 
   def crf(self, word_embs='glove', char_embs='cnn', use_features=False):
     if word_embs == 'elmo':
@@ -145,13 +132,6 @@ class SequenceModel:
       raise Exception('No word embeddings were selected.')
 
     embs = [word_embs]
-    # if char_embs in ['cnn', 'lstm']:
-    #   char_embs = get_char_representations(
-    #     self.chars, self.nchars, 
-    #     self.params['chars'], mode=char_embs,
-    #     training=self.training
-    #   )
-    #   embs.append(char_embs)
 
     if use_features: 
       embs.append(self.features)
@@ -239,67 +219,14 @@ class SequenceModel:
       self.css_chars, self.css_lengths,
       self.params['chars'], training=self.training
     )
-    # html_embs = self.dropout(html_embs)
 
     return exact_attention(html_embs, html_embs, output, residual=residual, training=self.training)
-
-    # return attention(
-    #   html_embs, html_embs, num_heads, values=output,
-    #   residual=residual, queries_eq_keys=True,
-    #   training=self.training
-    # )
-
-  def transformer(self, num_blocks=2, num_heads=5, mid_layer='feed_forward'):
-    word_embs = glove(self.words, self.params['words'], self.params['glove'])
-    char_embs = get_char_representations(
-      self.chars, self.nchars, 
-      self.params['chars'], mode='lstm',
-      training=self.training
-    )
-    html_embs = get_soft_html_representations(
-      self.html, self.params['html_tags'],
-      self.css_chars, self.css_lengths,
-      self.params['chars'], training=self.training
-    )
-
-    embs = tf.concat([word_embs, char_embs, html_embs], axis=-1)
-    # embs = word_embs
-    # embs += pos_embeddings(embs, 1000)
-
-    x = self.dropout(embs)
-
-    for i in range(num_blocks):
-      output = multihead_attention(
-        queries=x,
-        keys=x,
-        values=x,
-        num_heads=num_heads,
-        dropout_rate=0.5,
-        training=self.training,
-        causality=False
-      )
-
-      if mid_layer == 'feed_forward':
-        output = tf.layers.dense(output, 450, activation=tf.nn.relu)
-        output = tf.layers.dense(output, 450)
-
-        # Residual connection
-        output += x 
-        
-        # Normalize
-        x = normalize(output)
-
-      elif mid_layer == 'lstm':
-        # Bidirectional LSTM will output a tensor with a shape that is twice 
-        # the hidden layer size.
-        x = self.lstm(x, x.shape[2].value / 2, var_scope='transformer_' + str(i)) + x 
-    return x 
 
   def create(self):
     self.create_placeholders()
 
     model = self.params['model']
-    if model == 'lstm_crf':
+    if model == 'bi_lstm_crf':
       output = self.lstm_crf(word_embs=self.params['word_embeddings'], char_embs=self.params['char_representation'], use_features=self.params['use_features'])
     elif model == 'html_attention':
       output = self.html_attention(word_embs=self.params['word_embeddings'], char_embs=self.params['char_representation'])
@@ -309,8 +236,6 @@ class SequenceModel:
       output = self.transformer()
     elif model == 'crf':
       output = self.crf(word_embs=self.params['word_embeddings'], char_embs=self.params['char_representation'], use_features=self.params['use_features'])
-    elif model == 'maxent':
-      output = self.maxent(use_features=self.params['use_features'])
     else:
       raise Exception('Model does not exist.')
 

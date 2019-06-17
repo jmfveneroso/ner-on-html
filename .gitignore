@@ -12,3 +12,4 @@ tex/*.log
 checkpoints
 *.preds.txt
 .ipynb_checkpoints
+results

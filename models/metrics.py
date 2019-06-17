@@ -57,9 +57,6 @@ def evaluate(val_predict, val_target, tokens, verbose=False):
   correct = num_correct
   incorrect = num_predicted - num_correct
   missed = num_expected - num_correct
-  # print('num_correct: %d' % (num_correct))
-  # print('num_expected: %d' % (num_expected))
-  # print('num_expected: %d' % (num_expected))
 
   return {
     'accuracy': accuracy,
@@ -70,29 +67,3 @@ def evaluate(val_predict, val_target, tokens, verbose=False):
     'incorrect': incorrect,
     'missed': missed
   }
-
-# MAX_TOKEN_LENGTH = 10
-# MINIBATCH_SIZE = 10
-# DATADIR = 'data/conll2003'
-# LABEL_COL = 3
-# 
-# # Params
-# params = {
-#   'dim_chars': 100,
-#   'dim': 300,
-#   'dropout': 0.5,
-#   'num_oov_buckets': 1,
-#   'epochs': 25,
-#   'batch_size': 20,
-#   'buffer': 15000,
-#   'filters': 50,
-#   'kernel_size': 3,
-#   'lstm_size': 100,
-#   'words': str(Path(DATADIR, 'vocab.words.txt')),
-#   'chars': str(Path(DATADIR, 'vocab.chars.txt')),
-#   'tags': str(Path(DATADIR, 'vocab.tags.txt')),
-#   'glove': str(Path(DATADIR, 'glove.npz')),
-#   'fulldoc': False
-# }
-# 
-# DL().set_params(params)

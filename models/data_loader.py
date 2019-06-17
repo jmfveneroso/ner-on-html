@@ -107,7 +107,6 @@ class NerOnHtml:
     chars = [pad_array(c, b'<pad>', max(lengths)) for c in chars]
     
     # Feature vector. 
-    # features = [[float(f) for f in s[2][:2] + s[2][4:10]] for s in sentence]
     features = [[float(f) for f in s[2][:2] + s[2][4:9]] for s in sentence]
 
     # HTML features.

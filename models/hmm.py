@@ -31,12 +31,11 @@ def is_punctuation(text):
   return re.match("^[\,\;\:\-\"\(\)“”；]$", text)
 
 class HiddenMarkov:
-  def __init__(self, timesteps, naive_bayes=False, use_gazetteer=True, use_features=True, self_train=False):
-    self.time_steps   = timesteps
-    self.use_gazetteer = use_gazetteer
+  def __init__(self, timesteps, use_features=True, self_train=False):
+    self.naive_bayes = timesteps == 0
+    self.time_steps = 1 if (timesteps == 0) else timesteps
     self.use_features = use_features
     self.do_self_train = self_train
-    self.naive_bayes = naive_bayes
 
     self.num_labels   = 3
     self.num_features = 11
