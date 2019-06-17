@@ -9,3 +9,6 @@ tex/*.aux
 tex/*.pdf
 tex/*.out
 tex/*.log
+checkpoints
+*.preds.txt
+.ipynb_checkpoints

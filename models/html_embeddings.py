@@ -1,6 +1,6 @@
 import tensorflow as tf
 from pathlib import Path
-from model.char_representations import get_char_embeddings, lstm_char_representations
+from models.char_representations import get_char_embeddings, lstm_char_representations
 
 def get_html_embeddings(html, html_vocab_file):
   with Path(html_vocab_file).open() as f:

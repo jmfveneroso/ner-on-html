@@ -2,16 +2,16 @@ import math
 import numpy as np 
 import tensorflow as tf
 from pathlib import Path
-from model.char_representations import get_char_representations, get_char_embeddings
-from model.attention import attention, exact_attention, pos_embeddings, normalize, multihead_attention
-from model.word_embeddings import glove, elmo, word2vec, one_hot_embs
-from model.html_embeddings import get_html_representations, get_soft_html_representations
+from models.char_representations import get_char_representations, get_char_embeddings
+from models.attention import attention, exact_attention, pos_embeddings, normalize, multihead_attention
+from models.word_embeddings import glove, elmo, word2vec, one_hot_embs
+from models.html_embeddings import get_html_representations, get_soft_html_representations
 
 class SequenceModel:
   def __init__(self, params=None):
     self.params = {
       # Static configurations.
-      'datadir': 'data/conll2003',
+      'datadir': 'data',
       # General configurations.
       'lstm_size': 200,
       'decoder': 'crf', # crf, logits.

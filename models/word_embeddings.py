@@ -1,5 +1,4 @@
 import tensorflow as tf
-import tensorflow_hub as hub
 import numpy as np
 from pathlib import Path
 

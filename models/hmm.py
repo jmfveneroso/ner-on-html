@@ -4,7 +4,7 @@ import re
 num_labels = 3
 
 def load_raw_dataset(f):
-  with open(f, 'r') as f:
+  with open(f, 'r', encoding="utf-8") as f:
     data = f.read().strip()
 
     sentences = data.split('\n\n')
@@ -135,18 +135,15 @@ class HiddenMarkov:
         states.pop(0) 
         states.append(y) 
   
-    print(self.transition_mat)
     # self.transition_mat /= np.expand_dims(np.sum(self.transition_mat, axis=1), axis=1)
     # self.transition_mat = np.nan_to_num(self.transition_mat)
 
     if self.naive_bayes:
       self.transition_mat = np.sum(self.transition_mat, axis=0)
       self.transition_mat /= np.sum(self.transition_mat)
-      print(self.transition_mat)
     else:
       self.transition_mat /= np.expand_dims(np.sum(self.transition_mat, axis=1), axis=1)
       self.transition_mat = np.nan_to_num(self.transition_mat)
-      print(self.transition_mat)
 
   def fit(self, X, Y):
     which_features = [0] * self.num_all_features 

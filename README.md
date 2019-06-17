@@ -26,7 +26,7 @@ If you have any question send an email to **jmfveneroso@gmail.com**.
 
 ```
 docker build -t ner .
-docker run -d -p 0.0.0.0:6006:6006 -p 8888:8888 -v $(pwd):/code --rm --user root ner
+docker run -d -p 8888:8888 -v $(pwd):/code --rm --user root ner
 docker exec -it $(docker ps | awk '{if (NR == 2) print $1}') bash
 docker stop $(docker ps | awk '{if (NR == 2) print $1}')
 ```
